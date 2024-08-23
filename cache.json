@@ -337,21 +337,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/rethinking-role-ux-teams-mov-beyond-firefighting/rethinking-role-ux-teams-mov-beyond-firefighting.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/07/integrating-image-to-text-and-text-to-speech-models-part1/",
-          "author": "hello@smashingmagazine.com (Joas Pambou)",
-          "description": "Joas Pambou built an app that integrates vision language models (VLMs) and text-to-speech (TTS) AI technologies to describe images audibly with speech. This audio description tool can be a big help for people with sight challenges to understand what’s in an image. But how this does it even work? Joas explains how these AI systems work and their potential uses, including how he built the app and ways to further improve it.",
-          "link": "https://smashingmagazine.com/2024/07/integrating-image-to-text-and-text-to-speech-models-part1/",
-          "publishedOn": "2024-07-24T10:00:00.000Z",
-          "wordCount": 6402,
-          "title": "Integrating Image-To-Text And Text-To-Speech Models (Part 1)",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/integrating-image-to-text-and-text-to-speech-models-part1/integrating-image-to-text-and-text-to-speech-models-part1.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/integrating-image-to-text-and-text-to-speech-models-part1/integrating-image-to-text-and-text-to-speech-models-part1.jpg"
         }
       ]
     },
@@ -360,6 +345,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/create-a-macos-app-with-react-native/",
+          "author": "Beau Carnes",
+          "description": "We are excited to announce the release of our latest course on the freeCodeCamp.org YouTube channel that will teach you how to use React Native to build a MacOS application. This course will guide you through the development of a fully integrated Mac...",
+          "link": "https://www.freecodecamp.org/news/create-a-macos-app-with-react-native/",
+          "publishedOn": "2024-08-22T19:30:39.000Z",
+          "wordCount": 1100,
+          "title": "Create a MacOS App with React Native",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724355029103/aba230f3-c814-43f5-afc0-4682355a1ddd.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-to-use-the-gemini-ai-multimodal-model/",
+          "author": "Beau Carnes",
+          "description": "Gemini is a suite of AI models that can understand and generate human-like responses based on the input it receives. We just published a Gemini course on the freeCodeCamp.org YouTube channel that is designed to guide you through the world of multimod...",
+          "link": "https://www.freecodecamp.org/news/learn-to-use-the-gemini-ai-multimodal-model/",
+          "publishedOn": "2024-08-22T19:23:26.000Z",
+          "wordCount": 1123,
+          "title": "Learn to Use the Gemini AI MultiModal Model",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724354591577/afcfa42a-2b11-4590-b6f1-06f7837aa7fc.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-build-a-serverless-crud-rest-api/",
           "author": "Ifeanyi Otuonye",

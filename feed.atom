@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-08-22T16:46:29.088Z</updated>
+    <updated>2024-08-23T00:50:15.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Create a MacOS App with React Native]]></title>
+        <id>https://www.freecodecamp.org/news/create-a-macos-app-with-react-native/</id>
+        <link href="https://www.freecodecamp.org/news/create-a-macos-app-with-react-native/"/>
+        <updated>2024-08-22T19:30:39.000Z</updated>
+        <summary type="html"><![CDATA[We are excited to announce the release of our latest course on the freeCodeCamp.org YouTube channel that will teach you how to use React Native to build a MacOS application. This course will guide you through the development of a fully integrated Mac...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn to Use the Gemini AI MultiModal Model]]></title>
+        <id>https://www.freecodecamp.org/news/learn-to-use-the-gemini-ai-multimodal-model/</id>
+        <link href="https://www.freecodecamp.org/news/learn-to-use-the-gemini-ai-multimodal-model/"/>
+        <updated>2024-08-22T19:23:26.000Z</updated>
+        <summary type="html"><![CDATA[Gemini is a suite of AI models that can understand and generate human-like responses based on the input it receives. We just published a Gemini course on the freeCodeCamp.org YouTube channel that is designed to guide you through the world of multimod...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Callbacks on Web Components?]]></title>
         <id>https://css-tricks.com/?p=380029</id>
@@ -390,16 +410,6 @@ Mental Health in Tech Podcast Interview originally published on CSS-Tricks, whic
         <summary type="html"><![CDATA[Many UX professionals often find themselves working alone, and usually face more projects impacting user experience than they can handle. In this article, Paul Boag explains how UX teams can be transformed into a significant driver of customer-centric innovation within organizations.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Paul Boag)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating Image-To-Text And Text-To-Speech Models (Part 1)]]></title>
-        <id>https://smashingmagazine.com/2024/07/integrating-image-to-text-and-text-to-speech-models-part1/</id>
-        <link href="https://smashingmagazine.com/2024/07/integrating-image-to-text-and-text-to-speech-models-part1/"/>
-        <updated>2024-07-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Joas Pambou built an app that integrates vision language models (VLMs) and text-to-speech (TTS) AI technologies to describe images audibly with speech. This audio description tool can be a big help for people with sight challenges to understand what’s in an image. But how this does it even work? Joas explains how these AI systems work and their potential uses, including how he built the app and ways to further improve it.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Joas Pambou)</name>
         </author>
     </entry>
 </feed>
