@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2024-08-23T13:55:20.724Z</updated>
+    <updated>2024-08-23T14:07:48.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
@@ -356,6 +356,18 @@ Mental Health in Tech Podcast Interview originally published on CSS-Tricks, whic
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Watchtower自动更新docker容器]]></title>
+        <id>https://marsperl.github.io/yyg/d3a49a0e/</id>
+        <link href="https://marsperl.github.io/yyg/d3a49a0e/"/>
+        <updated>2024-08-10T14:43:46.000Z</updated>
+        <summary type="html"><![CDATA[基础环境
+系统：openEuler 22.03 (LTS-SP4) X86
+软件：docker-26.1.3、]]></summary>
+        <author>
+            <name>云野阁</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[If I Was Starting My Career Today: Thoughts After 15 Years Spent In UX Design (Part 2)]]></title>
         <id>https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part2/</id>
         <link href="https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part2/"/>
@@ -376,6 +388,17 @@ Mental Health in Tech Podcast Interview originally published on CSS-Tricks, whic
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[docker容器日志配置管理]]></title>
+        <id>https://marsperl.github.io/yyg/3b57c0c6/</id>
+        <link href="https://marsperl.github.io/yyg/3b57c0c6/"/>
+        <updated>2024-08-06T14:04:00.000Z</updated>
+        <summary type="html"><![CDATA[运行的项目容器突然就停了，查看容器日志发现磁盘空间不足，导致容器没法运行了。
+Error response from daemon: Cannot restart container docker-p: mkdir]]></summary>
+        <author>
+            <name>云野阁</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[It’s Time To Talk About “CSS5”]]></title>
         <id>https://smashingmagazine.com/2024/08/time-to-talk-about-css5/</id>
         <link href="https://smashingmagazine.com/2024/08/time-to-talk-about-css5/"/>
@@ -383,6 +406,27 @@ Mental Health in Tech Podcast Interview originally published on CSS-Tricks, whic
         <summary type="html"><![CDATA[Have you ever wondered what happened after CSS3? It’s common knowledge that we never saw CSS4 come after it, yet we have a plethora of new features that have no similar way of defining when they were introduced. The W3C CSS-Next community group is actively searching for better approaches for how we describe the evolution of CSS over time and identify feature sets as effectively as we did with CSS3 way back in 2009 — and you can help.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Brecht De Ruyte)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hexo-Butterfly美化教程 | 繁沙]]></title>
+        <id>https://marsperl.github.io/yyg/ca46b09/</id>
+        <link href="https://marsperl.github.io/yyg/ca46b09/"/>
+        <updated>2024-08-05T02:40:37.000Z</updated>
+        <summary type="html"><![CDATA[<a href="#前言" class="headerlink"]]></summary>
+        <author>
+            <name>云野阁</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[podman-5.1.2 部署]]></title>
+        <id>https://marsperl.github.io/yyg/c10999ab/</id>
+        <link href="https://marsperl.github.io/yyg/c10999ab/"/>
+        <updated>2024-08-03T13:55:37.000Z</updated>
+        <summary type="html"><![CDATA[基础环境
+系统：openEuler 22.03 (LTS-SP4)]]></summary>
+        <author>
+            <name>云野阁</name>
         </author>
     </entry>
     <entry>
@@ -413,6 +457,18 @@ Mental Health in Tech Podcast Interview originally published on CSS-Tricks, whic
         <summary type="html"><![CDATA[Do you need a little inspiration boost? Well, then our new batch of desktop wallpapers might be for you. Designed by the community for the community, they come in versions with and without a calendar for August 2024. Enjoy!]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[x86服务器构建ARM架构docker镜像]]></title>
+        <id>https://marsperl.github.io/yyg/4451cec/</id>
+        <link href="https://marsperl.github.io/yyg/4451cec/"/>
+        <updated>2024-07-31T07:59:41.000Z</updated>
+        <summary type="html"><![CDATA[基础环境
+操作系统：openEuler 22.03 (LTS-SP2)
+软件：Docker-26.1.2]]></summary>
+        <author>
+            <name>云野阁</name>
         </author>
     </entry>
     <entry>
