@@ -1,11 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
-    <title>osmos::feed</title>
-    <updated>2024-08-23T08:19:28.107Z</updated>
+    <title>云野阁-rss阅读器</title>
+    <updated>2024-08-23T13:45:12.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Basic keyboard shortcut support for focused links]]></title>
+        <id>https://css-tricks.com/?p=380042</id>
+        <link href="https://css-tricks.com/basic-keyboard-shortcut-support-for-focused-links/"/>
+        <updated>2024-08-23T13:16:20.000Z</updated>
+        <summary type="html"><![CDATA[Eric gifting us with his research on all the various things that anchors (not links) do when they are in :focus.
+Turns out, there’s a lot!
+That’s an understatement! This is an incredible amount of work, even …
+Basic keyboard shortcut support for focused links originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Create a MacOS App with React Native]]></title>
         <id>https://www.freecodecamp.org/news/create-a-macos-app-with-react-native/</id>
