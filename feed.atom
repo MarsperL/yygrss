@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2024-08-25T15:11:10.558Z</updated>
+    <updated>2024-08-25T15:17:11.988Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
@@ -14,6 +14,26 @@
         <summary type="html"><![CDATA[<a href="#在Github上使用OsmosFeed搭建在线RSS阅读器（无需服务器）" class="headerlink"]]></summary>
         <author>
             <name>云野阁</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你错了，这才是买房车最该关注的问题]]></title>
+        <id>https://blog.ops-coffee.cn/r/the-important-consideration-when-buying-an-rv</id>
+        <link href="https://blog.ops-coffee.cn/r/the-important-consideration-when-buying-an-rv"/>
+        <updated>2024-08-20T09:45:19.000Z</updated>
+        <summary type="html"><![CDATA[三年房车用户教你选房车]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[父母来上海，带他们去哪里玩儿]]></title>
+        <id>https://blog.ops-coffee.cn/r/china-travel-shanghai-hangzhou-parents-together</id>
+        <link href="https://blog.ops-coffee.cn/r/china-travel-shanghai-hangzhou-parents-together"/>
+        <updated>2024-08-17T15:11:52.000Z</updated>
+        <summary type="html"><![CDATA[看看这些消暑好玩儿的地方]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
         </author>
     </entry>
     <entry>
@@ -50,6 +70,16 @@ Error response from daemon: Cannot restart container docker-p: mkdir]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[胆道系统肿瘤的治疗，PD-L1 优于 PD-1？]]></title>
+        <id>http://whyes.org/2024/kn966-vs-topaz-1</id>
+        <link href="http://whyes.org/2024/kn966-vs-topaz-1"/>
+        <updated>2024-08-04T11:25:36.000Z</updated>
+        <summary type="html"><![CDATA[在不可切除胆道系统肿瘤（BTC）的临床试验中，有两项全球多中心、安慰剂对照的 III 期研究达到了主要研究终点。TOPAZ-1 和 KEYNOTE-966 研究分别显示，在吉西他滨联合顺铂化疗（GC）的基础上增加度伐利尤单抗（PD-L1 抗...]]></summary>
+        <author>
+            <name>whyes 的博客</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[podman-5.1.2 部署]]></title>
         <id>https://marsperl.github.io/yyg/c10999ab/</id>
         <link href="https://marsperl.github.io/yyg/c10999ab/"/>
@@ -70,6 +100,16 @@ Error response from daemon: Cannot restart container docker-p: mkdir]]></summary
 软件：Docker-26.1.2]]></summary>
         <author>
             <name>云野阁</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Github建议启用的2FA是什么？科普MFA与TOTP]]></title>
+        <id>https://blog.ops-coffee.cn/s/multi-factor-authentication-github-2fa-totp</id>
+        <link href="https://blog.ops-coffee.cn/s/multi-factor-authentication-github-2fa-totp"/>
+        <updated>2024-07-27T18:40:07.000Z</updated>
+        <summary type="html"><![CDATA[强烈建议所有的网站登录全都启用MFA]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
         </author>
     </entry>
 </feed>

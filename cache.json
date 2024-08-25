@@ -72,6 +72,66 @@
       "feedUrl": "https://diygod.cc/feed",
       "siteUrl": "https://diygod.cc",
       "articles": []
+    },
+    {
+      "title": "云原生实验室",
+      "feedUrl": "https://icloudnative.io/index.xml",
+      "siteUrl": "https://icloudnative.io/",
+      "articles": []
+    },
+    {
+      "title": "whyes 的博客",
+      "feedUrl": "http://whyes.org/feed.xml",
+      "siteUrl": "http://whyes.org/",
+      "articles": [
+        {
+          "id": "http://whyes.org/2024/kn966-vs-topaz-1",
+          "author": null,
+          "description": "在不可切除胆道系统肿瘤（BTC）的临床试验中，有两项全球多中心、安慰剂对照的 III 期研究达到了主要研究终点。TOPAZ-1 和 KEYNOTE-966 研究分别显示，在吉西他滨联合顺铂化疗（GC）的基础上增加度伐利尤单抗（PD-L1 抗...",
+          "link": "http://whyes.org/2024/kn966-vs-topaz-1",
+          "publishedOn": "2024-08-04T11:25:36.000Z",
+          "wordCount": 249,
+          "title": "胆道系统肿瘤的治疗，PD-L1 优于 PD-1？",
+          "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
+        }
+      ]
+    },
+    {
+      "title": "运维咖啡吧",
+      "feedUrl": "https://blog.ops-coffee.cn/feed.xml",
+      "siteUrl": "https://blog.ops-coffee.cn",
+      "articles": [
+        {
+          "id": "https://blog.ops-coffee.cn/r/the-important-consideration-when-buying-an-rv",
+          "author": null,
+          "description": "三年房车用户教你选房车",
+          "link": "https://blog.ops-coffee.cn/r/the-important-consideration-when-buying-an-rv",
+          "publishedOn": "2024-08-20T09:45:19.000Z",
+          "wordCount": 46,
+          "title": "你错了，这才是买房车最该关注的问题",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.ops-coffee.cn/r/china-travel-shanghai-hangzhou-parents-together",
+          "author": null,
+          "description": "看看这些消暑好玩儿的地方",
+          "link": "https://blog.ops-coffee.cn/r/china-travel-shanghai-hangzhou-parents-together",
+          "publishedOn": "2024-08-17T15:11:52.000Z",
+          "wordCount": 64,
+          "title": "父母来上海，带他们去哪里玩儿",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.ops-coffee.cn/s/multi-factor-authentication-github-2fa-totp",
+          "author": null,
+          "description": "强烈建议所有的网站登录全都启用MFA",
+          "link": "https://blog.ops-coffee.cn/s/multi-factor-authentication-github-2fa-totp",
+          "publishedOn": "2024-07-27T18:40:07.000Z",
+          "wordCount": 158,
+          "title": "Github建议启用的2FA是什么？科普MFA与TOTP",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
