@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="robots" content="noindex, nofollow" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="shortcut icon" type="image/x-icon" href="https://gcore.jsdelivr.net/gh/MarsperL/MarsperL.github.io@1.2/img/icon.png" />
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
     <link rel="alternate" type="application/rss+xml" title="云野阁-rss阅读器" href="feed.atom" />
     <link href="index.css?v1.14.4" rel="stylesheet" />
     <style>
@@ -52,6 +52,54 @@
 
   <body>
     <!-- %after-body-begin.html% -->
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-08-23 datetime="2024-08-23T15:09:38.000Z">2024-08-23</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-08-23 datetime="2024-08-23T15:09:38.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >云野阁</button>
+                  <a class="source-heading__link" href="https://MarsperL.github.io/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://marsperl.github.io/yyg/0/"
+                        open
+                      >
+                        <summary class="article-expander__title">Untitled</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://marsperl.github.io/yyg/0/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://random-img.pupper.cn/api?9397" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>&lt;a href&#x3D;&quot;#在Github上使用OsmosFeed搭建在线RSS阅读器（无需服务器）&quot; class&#x3D;&quot;headerlink&quot;</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
       <section class="daily-content js-toggle-accordions-scope">
         <h2 class="daily-heading">
           <button
@@ -300,9 +348,10 @@ Error response from daemon: Cannot restart container docker-p: mkdir</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/MarsperL/yygrss/actions/runs/10545392595">
-        <time id="build-timestamp" datetime="2024-08-25T08:17:05.430Z">2024-08-25T08:17:05.430Z</time>
+      <a class="footer-link" href="https://github.com/MarsperL/yygrss/actions/runs/10547841714">
+        <time id="build-timestamp" datetime="2024-08-25T14:44:56.191Z">2024-08-25T14:44:56.191Z</time>
       </a>
+      <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
     <script src="index.js?v1.14.4"></script>
     <!-- %before-body-end.html% -->
