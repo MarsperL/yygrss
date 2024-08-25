@@ -295,9 +295,7 @@ footer {
   display: grid;
   gap: 1px;
 }
-.sources li {
-    flex: 1; /* 使每项平分可用空间 */
-}
+
 .source-heading {
   display: flex;
   gap: 16px;
