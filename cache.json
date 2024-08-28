@@ -485,6 +485,76 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-handle-file-uploads-in-nestjs-with-multer/",
+          "author": "Abimbola Adedotun Samuel",
+          "description": "Uploading files is an important need in many applications. Using Multer, you can set up a NestJS file upload feature in an easy and straightforward way. In this guide, we’ll walk through the steps to create a resource dedicated to file uploads, ensur...",
+          "link": "https://www.freecodecamp.org/news/how-to-handle-file-uploads-in-nestjs-with-multer/",
+          "publishedOn": "2024-08-28T02:42:00.000Z",
+          "wordCount": 1498,
+          "title": "How to Handle File Uploads in NestJS with Multer",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724695369812/b0511a24-bbb6-4dae-9ccf-b511383b8f6a.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-compiler-complete-guide-react-19/",
+          "author": "Tapas Adhikary",
+          "description": "In this tutorial, you'll learn how the React compiler can help you write more optimized React applications. React is a user interface library that has been doing its job quite well for over a decade. The component architecture, uni-directional data f...",
+          "link": "https://www.freecodecamp.org/news/react-compiler-complete-guide-react-19/",
+          "publishedOn": "2024-08-27T22:35:47.000Z",
+          "wordCount": 3790,
+          "title": "How to Use React Compiler – A Complete Guide",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724760187590/f7115fd3-6291-4920-9522-61de269a47f3.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/excel-for-data-visualization/",
+          "author": "Beau Carnes",
+          "description": "Excel can be great for data visualization. We just published course on the freeCodeCamp.org YouTube channel that is a comprehensive guide to Excel data visualization and dashboard creation. This course is designed to equip you with the skills needed ...",
+          "link": "https://www.freecodecamp.org/news/excel-for-data-visualization/",
+          "publishedOn": "2024-08-27T21:28:30.000Z",
+          "wordCount": 1121,
+          "title": "Excel for Data Visualization",
+          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-java-testing-with-selenium/",
+          "author": "Beau Carnes",
+          "description": "Are you looking to enhance your skills in automated web testing? We just published a comprehensive video course on the freeCodeCamp.org YouTube channel, designed to teach you how to use Selenium with Java using the Page Object Model. Created by Rex J...",
+          "link": "https://www.freecodecamp.org/news/learn-java-testing-with-selenium/",
+          "publishedOn": "2024-08-27T21:20:52.000Z",
+          "wordCount": 1156,
+          "title": "Learn Java Testing with Selenium",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724793636526/bd2fbf2d-1e0f-4a33-a77f-c8314d71330c.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-an-accessible-modal-with-example-code/",
+          "author": "Elizabeth Lola",
+          "description": "We often use modals or popups to display important information or prompt users to take action. Unlike regular pop-ups that can be opened in new windows or tabs, these dialogues keep the user on the same page by overlaying the existing content. This e...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-accessible-modal-with-example-code/",
+          "publishedOn": "2024-08-27T15:10:54.000Z",
+          "wordCount": 2560,
+          "title": "How to Build an Accessible Modal – with Example Code",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724337698676/aa23c219-2ffb-4424-bb34-3195a905d973.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-create-interactive-html-prototypes/",
+          "author": "Joan Ayebola",
+          "description": "Interactivity is what makes a website come alive. Whether it's a button that reveals more content or a form that responds to your input, these little touches keep users engaged. Traditionally, we've relied heavily on JavaScript to make websites inter...",
+          "link": "https://www.freecodecamp.org/news/how-to-create-interactive-html-prototypes/",
+          "publishedOn": "2024-08-27T10:55:58.000Z",
+          "wordCount": 4831,
+          "title": "How to Create Interactive HTML Prototypes – How Far Can You Go Without JavaScript?",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724485095228/2bc8f1c3-d0b8-41a2-a741-f9eaa2b6dde0.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-blend-images-in-rust-using-pixel-math/",
+          "author": "Anshul Sanghi",
+          "description": "For anyone looking to learn about image processing as a programming niche, blending images is a very good place to start. It's one of the simplest yet most rewarding techniques when it comes to image processing. To help your intuition, it's best to i...",
+          "link": "https://www.freecodecamp.org/news/how-to-blend-images-in-rust-using-pixel-math/",
+          "publishedOn": "2024-08-27T10:25:56.000Z",
+          "wordCount": 3385,
+          "title": "How to Blend Images in Rust Using Pixel Math",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724689572465/f03e4b74-1091-4673-af5b-c8827e74caf0.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/how-to-future-proof-your-software-engineering-career-for-the-age-of-agi/",
           "author": "Victoria Drake",
           "description": "In the viral essay The Decade Ahead, Leopold Aschenbrenner predicts that Artificial General Intelligence (AGI) will be a reality in only a few years. But what exactly is AGI, and how does it differ from the AI we have today? AGI refers to a type of a...",
