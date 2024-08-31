@@ -303,6 +303,31 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=380227",
+          "author": "Juan Diego Rodríguez",
+          "description": "View Transitions are one of the most awesome features CSS has shipped in recent times. Its title is self-explanatory: transitions between views are possible with just CSS, even across pages of the same origin! What’s more interesting is its …\nCSSWG Minutes Telecon (2024-08-21) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/csswg-minutes-telecon-2024-08-21/",
+          "publishedOn": "2024-08-30T19:06:07.000Z",
+          "wordCount": 3026,
+          "title": "CSSWG Minutes Telecon (2024-08-21)",
+          "enclosure": {
+            "url": "https://developer.chrome.com/static/blog/view-transitions-update-io24/video/airbnb.mp4",
+            "length": "1989401",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380227"
+        },
+        {
+          "id": "https://css-tricks.com/?p=380206",
+          "author": "Geoff Graham",
+          "description": "I sure do love little reminders about HTML semantics, particularly semantics that are tougher to commit to memory. Scott has a great one, beginning with this markup:\n<pI am a paragraph.</p<spanI am also a paragraph.</span<div\n…\nParagraphs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/paragraphs/",
+          "publishedOn": "2024-08-30T14:23:52.000Z",
+          "wordCount": 1525,
+          "title": "Paragraphs",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380206"
+        },
+        {
           "id": "https://css-tricks.com/?p=380195",
           "author": "Geoff Graham",
           "description": "Didya see that Tumblr is getting a WordPress makeover? And it’s not a trivial move:\nThis won’t be easy. Tumblr hosts over half a billion blogs. We’re talking about one of the largest technical migrations in internet history. Some \n…\nShipping Tumblr and WordPress originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -524,6 +549,26 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/spotify-developer-emma-bostian-podcast/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Emma Bostian. She's a software engineer turned manager at Spotify and Prolific coding teacher. We talk about: How at her first developer job at IBM, Emma's boss tol...",
+          "link": "https://www.freecodecamp.org/news/spotify-developer-emma-bostian-podcast/",
+          "publishedOn": "2024-08-30T18:35:17.000Z",
+          "wordCount": 940,
+          "title": "Spotify Developer Emma Bostian Talks Coding, Hiring Devs, and European Work Culture",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725040447869/b62bfe74-3066-4127-bceb-19e87b131d24.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-rag-pipeline-with-llamaindex/",
+          "author": "Bhavishya Pandit",
+          "description": "Large Language Models are everywhere these days – think ChatGPT – but they have their fair share of challenges. One of the biggest challenges faced by LLMs is hallucination. This occurs when the model generates text that is factually incorrect or mis...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-rag-pipeline-with-llamaindex/",
+          "publishedOn": "2024-08-30T13:30:49.000Z",
+          "wordCount": 3303,
+          "title": "How to Build a RAG Pipeline with LlamaIndex",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725024307257/62401eea-25ab-4f00-93d7-76d7c49cf330.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/design-first-vs-logic-first-approach/",
           "author": "Timothy Olanrewaju",
