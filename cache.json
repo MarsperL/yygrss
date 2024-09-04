@@ -283,6 +283,26 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=380296",
+          "author": "Geoff Graham",
+          "description": "Inclusive Design 24 is in 8 short days — and it’s FREE, no sign-up required!…\nQuick Hit #14 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quick-hit-14/",
+          "publishedOn": "2024-09-03T19:08:42.000Z",
+          "wordCount": 1310,
+          "title": "Quick Hit #14",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380296"
+        },
+        {
+          "id": "https://css-tricks.com/?p=380214",
+          "author": "Geoff Graham",
+          "description": "Seems like we’re always talking about clipping text around here. All it takes is a little browsing to spot a bunch of things we’ve already explored.\n    \n        Article\n\n    on\n    Sep 19, 2012  \n    \n\n      accessibility content truncation    \n    \n\n    \n…\nAnother Stab at Truncated Text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/another-stab-at-truncated-text/",
+          "publishedOn": "2024-09-03T15:57:29.000Z",
+          "wordCount": 2784,
+          "title": "Another Stab at Truncated Text",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380214"
+        },
+        {
           "id": "https://css-tricks.com/?p=380227",
           "author": "Juan Diego Rodríguez",
           "description": "View Transitions are one of the most awesome features CSS has shipped in recent times. Its title is self-explanatory: transitions between views are possible with just CSS, even across pages of the same origin! What’s more interesting is its …\nCSSWG Minutes Telecon (2024-08-21) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -766,6 +786,16 @@
       "feedUrl": "https://daverupert.com/atom.xml",
       "siteUrl": "https://daverupert.com",
       "articles": [
+        {
+          "id": "https://daverupert.com/2024/09/dev-tools-performance-monitor-panel/",
+          "author": null,
+          "description": "Weeks ago I was looking in to a performance issue for our animated spinner component and stumbled across a tool in DevTools I hadn’t used before: The Performance Monitor Panel. In you open Dev Tools > More Tools > Performance Monitor you’ll see some helpful high-level charts and graphs of the realtime performance data of your UI.\n\nThe Performance Monitor collects performance data in realtime and puts it on a graph. It’s handy for detecting performance problems at a high-level. If your CPU, memory, DOM node count, or event listeners only go up while clicking around, you probably have a leak in your code. The part I was most interested in were style recalculations per second and layouts per second. Our spinner component was triggering style recalculations and layout calls at a rate of 120 pe…",
+          "link": "https://daverupert.com/2024/09/dev-tools-performance-monitor-panel/",
+          "publishedOn": "2024-09-03T14:48:00.000Z",
+          "wordCount": 822,
+          "title": "The Dev Tools Performance Monitor Panel",
+          "imageUrl": null
+        },
         {
           "id": "https://daverupert.com/2024/08/vibe-check-34/",
           "author": null,
