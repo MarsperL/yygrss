@@ -550,6 +550,76 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/what-is-speedy-web-compiler/",
+          "author": "Preston Mayieka",
+          "description": "In the evolving landscape of JavaScript development, the need for efficient and powerful tooling has become increasingly important. Developers rely on tools like compilers and bundlers to transform their code, optimize performance, and ensure compati...",
+          "link": "https://www.freecodecamp.org/news/what-is-speedy-web-compiler/",
+          "publishedOn": "2024-09-05T01:07:47.000Z",
+          "wordCount": 1837,
+          "title": "What is Speedy Web Compiler? SWC Explained With Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725290113209/260f00cb-5bfe-4260-8e45-0c61a1897cae.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-the-mern-stack-by-building-a-store/",
+          "author": "Beau Carnes",
+          "description": "The MERN stack is a popular method to develop full-stack web applications. We just released a new course on the freeCodeCamp.org YouTube channel that will guide you through building dynamic, responsive web applications using the popular MERN stack. T...",
+          "link": "https://www.freecodecamp.org/news/learn-the-mern-stack-by-building-a-store/",
+          "publishedOn": "2024-09-04T21:32:32.000Z",
+          "wordCount": 968,
+          "title": "Learn the MERN Stack by Building a Store",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725485472834/b95dd94c-7118-4290-91ca-5bb9d0a0db7a.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/master-multimodal-data-analysis-with-llms-and-python/",
+          "author": "Beau Carnes",
+          "description": "Large Language Models (LLMs) can be super helpful for for advanced data analysis. We just published a new course on the freeCodeCamp.org YouTube channel that will teach you all about multimodal data analysis using LLMs and Python. This course will te...",
+          "link": "https://www.freecodecamp.org/news/master-multimodal-data-analysis-with-llms-and-python/",
+          "publishedOn": "2024-09-04T21:27:23.000Z",
+          "wordCount": 1028,
+          "title": "Master Multimodal Data Analysis with LLMs and Python",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725485224418/61b7501f-11c6-4ba2-9864-d09d4e4ce37c.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/master-spring-boot-and-spring-security-build-a-shopping-cart-backend/",
+          "author": "Beau Carnes",
+          "description": "Are you ready to take your Java development skills to the next level? We just released a course on the freeCodeCamp.org YouTube channel that will guide you through building a robust shopping cart backend using Spring Boot and Spring Security. This co...",
+          "link": "https://www.freecodecamp.org/news/master-spring-boot-and-spring-security-build-a-shopping-cart-backend/",
+          "publishedOn": "2024-09-04T21:19:36.000Z",
+          "wordCount": 1062,
+          "title": "Master Spring Boot and Spring Security: Build a Shopping Cart Backend",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725484764109/c87932db-2221-4067-aa3d-d3234bfa40bf.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-is-rate-limiting-web-apis/",
+          "author": "Oluwatobi",
+          "description": "Back-end servers are the powerhouse of modern-day applications; hence, a high level of expertise goes into building them. However, it's important to ensure that these back-end servers are well-secured from bad actors (hackers, phishers). These bad el...",
+          "link": "https://www.freecodecamp.org/news/what-is-rate-limiting-web-apis/",
+          "publishedOn": "2024-09-04T16:03:10.000Z",
+          "wordCount": 2335,
+          "title": "What is Rate Limiting? Exploring the Role of Rate Limiting in Protecting Web APIs from Attacks",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725036062594/0efa7e12-c5d5-410f-ad9c-ec6a67a31f7c.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/low-code-knowledge-transfer/",
+          "author": "Brandon Wozniewicz",
+          "description": "Low-code models, such as Microsoft's Power Platform, make it simple for anyone to start creating applications. The barriers to entry are relatively low, as users need only a work or school email to get started. Developers can also quickly release new...",
+          "link": "https://www.freecodecamp.org/news/low-code-knowledge-transfer/",
+          "publishedOn": "2024-09-04T15:19:15.000Z",
+          "wordCount": 2503,
+          "title": "How to Build Successful Low-Code Apps: The Power of Knowledge Transfer in Development Teams",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724883531478/4fa7979a-e61a-4268-94dc-a48dfcf17b4b.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/skills-you-need-to-become-a-backend-developer-roadmap/",
+          "author": "Programming with Shahan",
+          "description": "In this guide, I'll discuss the basic skills you need and steps you can take to become a backend developer. I'll give you a simple roadmap that'll help you know where you are and where you should go next. Front End vs Back End Every website has two p...",
+          "link": "https://www.freecodecamp.org/news/skills-you-need-to-become-a-backend-developer-roadmap/",
+          "publishedOn": "2024-09-03T14:38:36.000Z",
+          "wordCount": 2197,
+          "title": "Skills You Need to Become a Backend Developer – A Roadmap for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725110852270/9185d74e-4b0f-482f-8cc2-abbfc70a5849.png"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/spotify-developer-emma-bostian-podcast/",
           "author": "Quincy Larson",
           "description": "On this week's episode of the podcast, freeCodeCamp founder Quincy Larson interviews Emma Bostian. She's a software engineer turned manager at Spotify and Prolific coding teacher. We talk about: How at her first developer job at IBM, Emma's boss tol...",
