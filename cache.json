@@ -590,6 +590,46 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "https://www.freecodecamp.org/news/how-to-use-html-attributes-to-make-your-websites-and-apps-more-accessible/",
+          "author": "Elizabeth Lola",
+          "description": "Have you ever used an attribute in HTML without fully understanding its purpose? You're not alone! Over time, I've dug into the meaning behind many HTML attributes, especially those that are crucial for accessibility. In this in-depth tutorial, I'll ...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-html-attributes-to-make-your-websites-and-apps-more-accessible/",
+          "publishedOn": "2024-09-06T20:04:11.000Z",
+          "wordCount": 6566,
+          "title": "How to Use HTML Attributes to Make Your Websites and Apps More Accessible",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725281991044/7edb0d70-c31e-4a41-bc24-232c75d0fae3.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-are-lifetimes-in-rust-explained-with-code-examples/",
+          "author": "Oduah Chigozie",
+          "description": "Lifetimes are fundamental mechanisms in Rust. There's a very high chance you'll need to work with lifetimes in any Rust project that has any sort of complexity. Even though they are important to Rust projects, lifetimes can be quite tricky to wrap yo...",
+          "link": "https://www.freecodecamp.org/news/what-are-lifetimes-in-rust-explained-with-code-examples/",
+          "publishedOn": "2024-09-06T20:03:57.000Z",
+          "wordCount": 2491,
+          "title": "What are Lifetimes in Rust? Explained with Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725652969333/ba8a3fb6-3ac8-40e0-91e6-3e32e7f7b4b4.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/surviving-40-years-in-tech-jack-herrington-podcast-140/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Jack Herrington. As a kid he had to work to overcome Dyslexia and didn't have good enough grades to get into college. Despite this, he's worked as a software engineer for more than 40 years at compan...",
+          "link": "https://www.freecodecamp.org/news/surviving-40-years-in-tech-jack-herrington-podcast-140/",
+          "publishedOn": "2024-09-06T15:38:04.000Z",
+          "wordCount": 960,
+          "title": "Surviving 40 years in the software industry [Interview with Jack Herrington Podcast #140]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725637064637/247793ab-f250-4618-9e14-b2ec1261d022.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-write-cleaner-code-using-mongoose-schemas/",
+          "author": "ِAya Nabil Othman",
+          "description": "If you are used to building NodeJS applications using the Mongoose ORM, this article is for you. In it, we'll discuss some cool features of Mongoose schemas that'll help you write more organized and maintainable code. To get the most out of this guid...",
+          "link": "https://www.freecodecamp.org/news/how-to-write-cleaner-code-using-mongoose-schemas/",
+          "publishedOn": "2024-09-06T13:44:56.000Z",
+          "wordCount": 2935,
+          "title": "How to Write Cleaner Code Using Mongoose Schemas",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725431278897/86823d79-7b9c-4512-a834-edcdd4e11ac3.jpeg"
+        },
+        {
           "id": "https://www.freecodecamp.org/news/what-is-cache-poisoning-and-how-to-avoid-it/",
           "author": "Manish Shivanandhan",
           "description": "Web caches play an important role in speeding up our browsing experience. They save copies of web pages and other resources so that users can access them faster. But what happens when these caches become a tool for hackers? Let’s look at cache poison...",
