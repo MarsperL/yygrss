@@ -284,16 +284,6 @@
           "wordCount": 252,
           "title": "观点：肝癌双免疫治疗（O+Y 或 STRIDE 方案）该如何用？",
           "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
-        },
-        {
-          "id": "http://whyes.org/2024/hepatobiliary-advances",
-          "author": null,
-          "description": "本来这是我笔记本里的一条笔记，一直在保持更新。现在干脆把从 2024 年年初开始一些更新同步贴到 blog 里来。 2024-1-2 替雷利珠单抗在国内获批肝癌一线治疗适应证，基于 RATIONALE-301 的结果。 2024-1-20 ...",
-          "link": "http://whyes.org/2024/hepatobiliary-advances",
-          "publishedOn": "2024-06-13T01:53:57.000Z",
-          "wordCount": 136,
-          "title": "[保持更新]肝胆肿瘤研究大事记",
-          "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
         }
       ]
     },
@@ -302,6 +292,36 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=380660",
+          "author": "Geoff Graham",
+          "description": "PSA: Today’s the day that Google’s performance tools officially stops supporting the First Input Delay (FID) metric that was replaced by Interaction to Next Paint (INP).…\nQuick Hit #18 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/quick-hit-18/",
+          "publishedOn": "2024-09-10T18:40:28.000Z",
+          "wordCount": 1297,
+          "title": "Quick Hit #18",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380660"
+        },
+        {
+          "id": "https://css-tricks.com/?p=380521",
+          "author": "Juan Diego Rodríguez",
+          "description": "I am thrilled to say, that from this week onwards, the CSS-tricks Almanac has an entry for each property, function, and at-rule related to the new Anchor Positioning API! For the last month, I have tried to fully understand this …\nAnchor Positioning Quirks originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/anchor-positioning-quirks/",
+          "publishedOn": "2024-09-10T18:33:01.000Z",
+          "wordCount": 2921,
+          "title": "Anchor Positioning Quirks",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380521"
+        },
+        {
+          "id": "https://css-tricks.com/?p=380662",
+          "author": "Geoff Graham",
+          "description": "Jim hit a snag while working on a form. Placing labels next to inputs is trivial with flexbox, sure, but what happened in Jim’s case was a bit of dead-clicking between the labels and radio buttons.\nThe issue? Not the …\nSanding UI originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/sanding-ui/",
+          "publishedOn": "2024-09-10T13:00:00.000Z",
+          "wordCount": 1472,
+          "title": "Sanding UI",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380662"
+        },
         {
           "id": "https://css-tricks.com/?p=380334",
           "author": "Lee Meyer",
@@ -619,6 +639,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/pass-the-azure-ai-engineer-associate-certification-ai-102/",
+          "author": "Beau Carnes",
+          "description": "Are you ready to take your AI skills to the next level and earn the Azure AI Engineer Associate Certification (AI-102)? We just posted a comprehensive course on the freeCodeCamp.org YouTube channel that is designed to help you prepare for and pass th...",
+          "link": "https://www.freecodecamp.org/news/pass-the-azure-ai-engineer-associate-certification-ai-102/",
+          "publishedOn": "2024-09-10T18:45:40.000Z",
+          "wordCount": 1200,
+          "title": "Pass the Azure AI Engineer Associate Certification (AI-102)",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725993924398/c2501267-b4ce-42cb-a73a-215d03a50aa0.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/shodan-what-to-know-about-the-internets-most-dangerous-search-engine/",
+          "author": "Manish Shivanandhan",
+          "description": "Shodan is a search engine that discovers devices connected to the internet. In this article, we’ll look at why it’s both a valuable tool and a potential threat. When you hear the term “search engine,” your mind likely jumps to Google, Bing, or Yahoo....",
+          "link": "https://www.freecodecamp.org/news/shodan-what-to-know-about-the-internets-most-dangerous-search-engine/",
+          "publishedOn": "2024-09-10T17:43:12.000Z",
+          "wordCount": 1770,
+          "title": "Shodan – What to Know About the Internet’s Most Dangerous Search Engine",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725990169364/3181020e-abd0-4943-a461-830c2a416035.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-ai-agents-can-supercharge-language-models-handbook/",
+          "author": "Vahe Aslanyan",
+          "description": "The rapid evolution of artificial intelligence (AI) has resulted in a powerful synergy between large language models (LLMs) and AI agents. This dynamic interplay is sort of like the tale of David and Goliath (without the fighting), where nimble AI ag...",
+          "link": "https://www.freecodecamp.org/news/how-ai-agents-can-supercharge-language-models-handbook/",
+          "publishedOn": "2024-09-10T17:01:16.000Z",
+          "wordCount": 21166,
+          "title": "How AI Agents Can Help Supercharge Language Models – A Handbook for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725987639185/f8bf1775-b3d3-415e-b864-4425484600f2.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/what-are-type-predicates-in-typescript/",
+          "author": "Ashutosh Biswas",
+          "description": "Type predicates are an interesting syntactical feature in TypeScript. While they appear in the same place as return type annotations, they look more like short affirmative sentences than typical annotations. This gives you greater control over type c...",
+          "link": "https://www.freecodecamp.org/news/what-are-type-predicates-in-typescript/",
+          "publishedOn": "2024-09-10T15:43:50.000Z",
+          "wordCount": 1682,
+          "title": "What are Type Predicates in TypeScript? Explained with Code examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725630140316/a95bd310-5465-4d0c-85fe-e42b91c2452e.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/implement-api-rate-limiting-in-strapi/",
+          "author": "Oluwatobi",
+          "description": "Implementing rate limiting in web applications is a necessary web development best practice. In an article published earlier, I delved deep into the benefits and real life use cases of API rate limiting. Some of the benefits include its use by develo...",
+          "link": "https://www.freecodecamp.org/news/implement-api-rate-limiting-in-strapi/",
+          "publishedOn": "2024-09-10T14:18:17.000Z",
+          "wordCount": 2902,
+          "title": "How to Implement API Rate Limiting in Strapi CMS",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725233479497/7c12e6e4-a6d7-433a-b23b-f25c33037ffa.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/golang-statically-and-dynamically-linked-go-binaries/",
+          "author": "Alex Pliutau",
+          "description": "One of the biggest strengths of Go is its compiler. It abstracts many things for you and lets you compile your program easily for almost any platform and architecture. And though it seems easy, there are some nuances to it and multiple ways of compil...",
+          "link": "https://www.freecodecamp.org/news/golang-statically-and-dynamically-linked-go-binaries/",
+          "publishedOn": "2024-09-10T14:14:23.000Z",
+          "wordCount": 2136,
+          "title": "How Statically and Dynamically Linked Go Binaries Work",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725977444176/20f3bebf-e250-45c3-926e-146d50e4db93.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-transform-an-angular-appl-with-signals/",
+          "author": "Anujkumarsinh Donvir",
+          "description": "Angular is a famous framework for building robust and complex enterprise applications. It is widely used by large companies. Therefore, having the skills to build a performant application using Angular is one of the top skills for a developer.. Angul...",
+          "link": "https://www.freecodecamp.org/news/how-to-transform-an-angular-appl-with-signals/",
+          "publishedOn": "2024-09-10T11:49:37.000Z",
+          "wordCount": 2932,
+          "title": "How to Transform an Angular Application with Signals",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725482117668/26d8fde9-0ff5-4496-9de2-c9e0deb8a02c.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/essential-javascript-concepts-before-react/",
+          "author": "Akande Olalekan Toheeb",
+          "description": "You may have seen the shiny technologies like React, Vue, and Angular that promise to revolutionize your front-end development. It's tempting to dive headfirst into these frameworks, eager to build stunning user interfaces. But hold on! Before you em...",
+          "link": "https://www.freecodecamp.org/news/essential-javascript-concepts-before-react/",
+          "publishedOn": "2024-09-10T02:27:06.000Z",
+          "wordCount": 3943,
+          "title": "Essential JavaScript Concepts to Know Before Learning React – With Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1723690396380/c9b8a333-4cbe-42c4-bfab-da39f34d3fd4.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-the-comma-ok-idiom-and-package-system-work-in-go/",
           "author": "Temitope Oyedele",
