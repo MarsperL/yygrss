@@ -323,6 +323,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=381134",
+          "author": "Geoff Graham",
+          "description": "I was looking over an older article Patrick Brosset penned for us introducing <selectmenu>, a new proposal at the time for a more style-able cousin to <select>. From there, I clicked the linked-up <selectmenu> explainer and got… this:…\nThe selectmenu Element is No More…Long Live select! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-selectmenu-element-is-no-morelong-live-select/",
+          "publishedOn": "2024-09-23T15:43:05.000Z",
+          "wordCount": 1622,
+          "title": "The selectmenu Element is No More…Long Live select!",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381134"
+        },
+        {
           "id": "https://css-tricks.com/?p=380952",
           "author": "Geoff Graham",
           "description": "Seeing a lot more headlines decrying JavaScript and pumping up PHP. Always interesting to see which direction the front-end zeitgeist is leaning.…\nQuick Hit #21 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -784,6 +794,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/boost-web-performance-with-prefetching/",
+          "author": "Keyur Paralkar",
+          "description": "We've all encountered the frustration of waiting through long loading screens, only to find ourselves stuck with unresponsive pages. You see loading spinners everywhere, but nothing seems to move forward. Let me paint a clearer picture for you: This...",
+          "link": "https://www.freecodecamp.org/news/boost-web-performance-with-prefetching/",
+          "publishedOn": "2024-09-23T15:48:11.000Z",
+          "wordCount": 3095,
+          "title": "How to Boost Web Performance with Prefetching – Improve User Experience by Reducing Load Time",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/-Vqn2WrfxTQ/upload/0657c02758973f4ea5701f2bd98469a7.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-write-benchmark-tests-for-your-golang-functions/",
+          "author": "Pedro Bertao",
+          "description": "Hello Gophers 👋 Let me start by asking you a question: How would you test the performance of a piece of code or a function in Go? Well, you could use benchmark tests. In this tutorial, I will show you how to use an awesome benchmarking tool that’s b...",
+          "link": "https://www.freecodecamp.org/news/how-to-write-benchmark-tests-for-your-golang-functions/",
+          "publishedOn": "2024-09-23T14:37:10.000Z",
+          "wordCount": 2254,
+          "title": "How to Write Benchmark Tests for Your Golang Functions",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1726668982641/58540086-9f98-4ac9-8c8a-84ef45e27875.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/ai-chatbot-with-spring-react-docker/",
+          "author": "Vikas Rajput",
+          "description": "Hey Java developers, I’ve got good news: Spring now has official support for building AI applications using the Spring AI module. In this tutorial, we’ll build a chatbot application using Spring Boot, React, Docker, and OpenAI. This app will let user...",
+          "link": "https://www.freecodecamp.org/news/ai-chatbot-with-spring-react-docker/",
+          "publishedOn": "2024-09-23T14:27:25.000Z",
+          "wordCount": 3163,
+          "title": "How to Build an AI Chatbot with Spring AI, React, and Docker",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/6UDansS-rPI/upload/d57a180a4cda63056c786838a71c6679.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-get-a-memory-map-of-your-system-using-bios-interrupts/",
+          "author": "Nikolaos Panagopoulos",
+          "description": "When you are developing a kernel, one of the most important things is memory. The kernel must know how much memory is available and where it's located to avoid overwriting crucial system resources. But not all memory is freely available for use. Some...",
+          "link": "https://www.freecodecamp.org/news/how-to-get-a-memory-map-of-your-system-using-bios-interrupts/",
+          "publishedOn": "2024-09-23T14:14:25.000Z",
+          "wordCount": 2695,
+          "title": "How to Get a Memory Map of Your System using BIOS Interrupts",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/iar-afB0QQw/upload/7b7f724f7260216b7427408112d5f8c4.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/ecs-monitoring-explained-with-examples/",
+          "author": "Chidiadi Anyanwu",
+          "description": "Amazon Elastic Container Service (ECS) is a container orchestration service provided by Amazon Web Services (AWS). It is a solution developed by AWS to take care of the problem of managing large clusters of containers. Why Use ECS? There are other co...",
+          "link": "https://www.freecodecamp.org/news/ecs-monitoring-explained-with-examples/",
+          "publishedOn": "2024-09-23T11:09:30.000Z",
+          "wordCount": 1564,
+          "title": "What is ECS Monitoring? Explained With Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727103254033/39d8dac3-4e18-46dc-8ad6-129386a165b3.avif"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-create-a-nextjs-pwa/",
           "author": "Spruce Emmanuel",

@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2024-09-23T01:46:12.569Z</updated>
+    <updated>2024-09-24T01:46:34.892Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Boost Web Performance with Prefetching – Improve User Experience by Reducing Load Time]]></title>
+        <id>https://www.freecodecamp.org/news/boost-web-performance-with-prefetching/</id>
+        <link href="https://www.freecodecamp.org/news/boost-web-performance-with-prefetching/"/>
+        <updated>2024-09-23T15:48:11.000Z</updated>
+        <summary type="html"><![CDATA[We've all encountered the frustration of waiting through long loading screens, only to find ourselves stuck with unresponsive pages. You see loading spinners everywhere, but nothing seems to move forward. Let me paint a clearer picture for you: This...]]></summary>
+        <author>
+            <name>Keyur Paralkar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The selectmenu Element is No More…Long Live select!]]></title>
+        <id>https://css-tricks.com/?p=381134</id>
+        <link href="https://css-tricks.com/the-selectmenu-element-is-no-morelong-live-select/"/>
+        <updated>2024-09-23T15:43:05.000Z</updated>
+        <summary type="html"><![CDATA[I was looking over an older article Patrick Brosset penned for us introducing <selectmenu>, a new proposal at the time for a more style-able cousin to <select>. From there, I clicked the linked-up <selectmenu> explainer and got… this:…
+The selectmenu Element is No More…Long Live select! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Benchmark Tests for Your Golang Functions]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-write-benchmark-tests-for-your-golang-functions/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-benchmark-tests-for-your-golang-functions/"/>
+        <updated>2024-09-23T14:37:10.000Z</updated>
+        <summary type="html"><![CDATA[Hello Gophers 👋 Let me start by asking you a question: How would you test the performance of a piece of code or a function in Go? Well, you could use benchmark tests. In this tutorial, I will show you how to use an awesome benchmarking tool that’s b...]]></summary>
+        <author>
+            <name>Pedro Bertao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Chatbot with Spring AI, React, and Docker]]></title>
+        <id>https://www.freecodecamp.org/news/ai-chatbot-with-spring-react-docker/</id>
+        <link href="https://www.freecodecamp.org/news/ai-chatbot-with-spring-react-docker/"/>
+        <updated>2024-09-23T14:27:25.000Z</updated>
+        <summary type="html"><![CDATA[Hey Java developers, I’ve got good news: Spring now has official support for building AI applications using the Spring AI module. In this tutorial, we’ll build a chatbot application using Spring Boot, React, Docker, and OpenAI. This app will let user...]]></summary>
+        <author>
+            <name>Vikas Rajput</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get a Memory Map of Your System using BIOS Interrupts]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-get-a-memory-map-of-your-system-using-bios-interrupts/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-get-a-memory-map-of-your-system-using-bios-interrupts/"/>
+        <updated>2024-09-23T14:14:25.000Z</updated>
+        <summary type="html"><![CDATA[When you are developing a kernel, one of the most important things is memory. The kernel must know how much memory is available and where it's located to avoid overwriting crucial system resources. But not all memory is freely available for use. Some...]]></summary>
+        <author>
+            <name>Nikolaos Panagopoulos</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is ECS Monitoring? Explained With Examples]]></title>
+        <id>https://www.freecodecamp.org/news/ecs-monitoring-explained-with-examples/</id>
+        <link href="https://www.freecodecamp.org/news/ecs-monitoring-explained-with-examples/"/>
+        <updated>2024-09-23T11:09:30.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic Container Service (ECS) is a container orchestration service provided by Amazon Web Services (AWS). It is a solution developed by AWS to take care of the problem of managing large clusters of containers. Why Use ECS? There are other co...]]></summary>
+        <author>
+            <name>Chidiadi Anyanwu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How To Create a Progressive Web App (PWA) Using Next.js]]></title>
         <id>https://www.freecodecamp.org/news/how-to-create-a-nextjs-pwa/</id>
