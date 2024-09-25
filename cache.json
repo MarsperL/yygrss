@@ -304,16 +304,6 @@
           "wordCount": 249,
           "title": "胆道系统肿瘤的治疗，PD-L1 优于 PD-1？",
           "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
-        },
-        {
-          "id": "http://whyes.org/2024/viewpoint-pd-1-ctla-4-hcc",
-          "author": null,
-          "description": "随着 [[HIMALAYA]]（晚期肝癌一线治疗：STRIDE 方案 vs 索拉非尼） 和 [[CheckMate 9DW]]（晚期肝癌一线治疗：O+Y 方案 vs 仑伐替尼或索拉非尼） 两项研究相继达到了主要研究终点，这两项 PD-1/P...",
-          "link": "http://whyes.org/2024/viewpoint-pd-1-ctla-4-hcc",
-          "publishedOn": "2024-06-27T03:48:30.000Z",
-          "wordCount": 252,
-          "title": "观点：肝癌双免疫治疗（O+Y 或 STRIDE 方案）该如何用？",
-          "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
         }
       ]
     },
@@ -322,6 +312,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=381068",
+          "author": "Geoff Graham",
+          "description": "Mixing colors in CSS is pretty much a solved deal, thanks to the more recent color-mix() function as it gains support. Pass in two color values — any two color values at all — and optionally set the proportions.\nbackground-color: \n…\nColor Mixing With Animation Composition originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/color-mixing-with-animation-composition/",
+          "publishedOn": "2024-09-24T18:22:01.000Z",
+          "wordCount": 1866,
+          "title": "Color Mixing With Animation Composition",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381068"
+        },
         {
           "id": "https://css-tricks.com/?p=381134",
           "author": "Geoff Graham",
@@ -794,6 +794,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-work-with-sql-databases-in-go/",
+          "author": "Alex Pliutau",
+          "description": "Different programming languages have their own ways of working with relational databases and SQL. Ruby on Rails has its Active Record, Python has SQLAlchemy, Typescript has Drizzle, and so on. Go is a language with quite a diverse standard library, w...",
+          "link": "https://www.freecodecamp.org/news/how-to-work-with-sql-databases-in-go/",
+          "publishedOn": "2024-09-24T16:24:22.000Z",
+          "wordCount": 2927,
+          "title": "How to Work with SQL Databases in Go – Different Approaches and Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727195039014/02f3c2f4-1eb7-4fd6-9701-15fdee2f6849.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-cuda-programming/",
+          "author": "Beau Carnes",
+          "description": "CUDA (Compute Unified Device Architecture) is a parallel computing platform and application programming interface (API) model created by NVIDIA. It allows developers to use a CUDA-enabled graphics processing unit (GPU) for general-purpose processing,...",
+          "link": "https://www.freecodecamp.org/news/learn-cuda-programming/",
+          "publishedOn": "2024-09-24T15:08:44.000Z",
+          "wordCount": 1292,
+          "title": "Learn CUDA Programming",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727210236521/60c4ef6e-3101-4c2d-a574-7099f8377b91.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/create-react-reusable-modal-component/",
+          "author": "Grant Riordan",
+          "description": "When using React, we strive to create reusable components as much as we can to limit the number of components and repetition. This keeps your code “DRY”. DRY is a concept you may have come across—it means “Don’t Repeat Yourself”. DRY is a coding prin...",
+          "link": "https://www.freecodecamp.org/news/create-react-reusable-modal-component/",
+          "publishedOn": "2024-09-24T13:17:14.000Z",
+          "wordCount": 2622,
+          "title": "How to Create a Reusable Modal Component in React",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727021808508/312a7af2-5049-4093-9f58-5ef277986598.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/boost-web-performance-with-prefetching/",
           "author": "Keyur Paralkar",

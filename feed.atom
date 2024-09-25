@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2024-09-24T01:46:34.892Z</updated>
+    <updated>2024-09-25T01:47:22.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Color Mixing With Animation Composition]]></title>
+        <id>https://css-tricks.com/?p=381068</id>
+        <link href="https://css-tricks.com/color-mixing-with-animation-composition/"/>
+        <updated>2024-09-24T18:22:01.000Z</updated>
+        <summary type="html"><![CDATA[Mixing colors in CSS is pretty much a solved deal, thanks to the more recent color-mix() function as it gains support. Pass in two color values — any two color values at all — and optionally set the proportions.
+background-color: 
+…
+Color Mixing With Animation Composition originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Work with SQL Databases in Go – Different Approaches and Examples]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-work-with-sql-databases-in-go/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-work-with-sql-databases-in-go/"/>
+        <updated>2024-09-24T16:24:22.000Z</updated>
+        <summary type="html"><![CDATA[Different programming languages have their own ways of working with relational databases and SQL. Ruby on Rails has its Active Record, Python has SQLAlchemy, Typescript has Drizzle, and so on. Go is a language with quite a diverse standard library, w...]]></summary>
+        <author>
+            <name>Alex Pliutau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Learn CUDA Programming]]></title>
+        <id>https://www.freecodecamp.org/news/learn-cuda-programming/</id>
+        <link href="https://www.freecodecamp.org/news/learn-cuda-programming/"/>
+        <updated>2024-09-24T15:08:44.000Z</updated>
+        <summary type="html"><![CDATA[CUDA (Compute Unified Device Architecture) is a parallel computing platform and application programming interface (API) model created by NVIDIA. It allows developers to use a CUDA-enabled graphics processing unit (GPU) for general-purpose processing,...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Reusable Modal Component in React]]></title>
+        <id>https://www.freecodecamp.org/news/create-react-reusable-modal-component/</id>
+        <link href="https://www.freecodecamp.org/news/create-react-reusable-modal-component/"/>
+        <updated>2024-09-24T13:17:14.000Z</updated>
+        <summary type="html"><![CDATA[When using React, we strive to create reusable components as much as we can to limit the number of components and repetition. This keeps your code “DRY”. DRY is a concept you may have come across—it means “Don’t Repeat Yourself”. DRY is a coding prin...]]></summary>
+        <author>
+            <name>Grant Riordan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Boost Web Performance with Prefetching – Improve User Experience by Reducing Load Time]]></title>
         <id>https://www.freecodecamp.org/news/boost-web-performance-with-prefetching/</id>
@@ -1737,16 +1780,6 @@ The twist is you don’t know what the track looks like until race day, so you h
 I started a new job. We went on a trip. Saw Mount Rushmore. Saw Austin FC win. School ended. Sports are over but a new –more committed– cheer season is already underway. Swim team ends today and I will not miss those steaming hot Saturday mornings, but will miss the thrill of seeing my kids continuously improve and rack up personal bests. My son returned from sleep away camp. And…]]></summary>
         <author>
             <name>daverupert.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[观点：肝癌双免疫治疗（O+Y 或 STRIDE 方案）该如何用？]]></title>
-        <id>http://whyes.org/2024/viewpoint-pd-1-ctla-4-hcc</id>
-        <link href="http://whyes.org/2024/viewpoint-pd-1-ctla-4-hcc"/>
-        <updated>2024-06-27T03:48:30.000Z</updated>
-        <summary type="html"><![CDATA[随着 [[HIMALAYA]]（晚期肝癌一线治疗：STRIDE 方案 vs 索拉非尼） 和 [[CheckMate 9DW]]（晚期肝癌一线治疗：O+Y 方案 vs 仑伐替尼或索拉非尼） 两项研究相继达到了主要研究终点，这两项 PD-1/P...]]></summary>
-        <author>
-            <name>whyes 的博客</name>
         </author>
     </entry>
 </feed>
