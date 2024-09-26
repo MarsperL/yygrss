@@ -313,6 +313,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=381060",
+          "author": "Preethi",
+          "description": "The <select> element is a fairly straightforward concept: focus on it to reveal a set of <option>s that can be selected as the input’s value. That’s a great pattern and I’m not suggesting we change it. That said, I …\nHow to Make a “Scroll to Select” Form Control originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/how-to-make-a-scroll-to-select-form-control/",
+          "publishedOn": "2024-09-25T14:31:54.000Z",
+          "wordCount": 2846,
+          "title": "How to Make a “Scroll to Select” Form Control",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2024/09/scroll-to-select.mov",
+            "length": "865130",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381060"
+        },
+        {
           "id": "https://css-tricks.com/?p=381068",
           "author": "Geoff Graham",
           "description": "Mixing colors in CSS is pretty much a solved deal, thanks to the more recent color-mix() function as it gains support. Pass in two color values — any two color values at all — and optionally set the proportions.\nbackground-color: \n…\nColor Mixing With Animation Composition originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -794,6 +809,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/tools-for-code-reuse/",
+          "author": "Oluwadamisi Samuel",
+          "description": "Reusing code is an important part of software development. Instead of writing the same code again and again, developers can save time and effort by using code that already works. This not only speeds up the development process but also helps improve ...",
+          "link": "https://www.freecodecamp.org/news/tools-for-code-reuse/",
+          "publishedOn": "2024-09-25T20:16:50.000Z",
+          "wordCount": 2800,
+          "title": "How AI Tools Can Help You Reuse Code",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727102263215/bcd245a1-4e4e-4563-8f6c-1715b5f8ed13.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-react-hooks-with-example-code/",
+          "author": "Prankur Pandey",
+          "description": "Web development is a popular field in the tech industry. It involves building web software using HTML, CSS, and JavaScript – sometimes with the help of various frameworks and libraries. Using libraries and frameworks allows developers to focus more o...",
+          "link": "https://www.freecodecamp.org/news/learn-react-hooks-with-example-code/",
+          "publishedOn": "2024-09-25T16:04:35.000Z",
+          "wordCount": 2925,
+          "title": "Learn React Hooks – Common Hooks Explained with Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727212733982/7c9b8ae3-e8ac-4e20-b154-7edc60a6985a.avif"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/flutter-streams-and-services/",
+          "author": "Obum",
+          "description": "Among the many state management architectures in Flutter, combining Dart streams with singleton classes (services) is an unpopular yet easy architecture. In this article, we’ll explore how to achieve this combination for app-wide state in Flutter. Ta...",
+          "link": "https://www.freecodecamp.org/news/flutter-streams-and-services/",
+          "publishedOn": "2024-09-25T09:49:36.000Z",
+          "wordCount": 4545,
+          "title": "How to Use Streams and Services for Flutter State",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727130776096/a52147fe-e05a-45e7-af73-9f7a9a8510b5.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/how-to-work-with-sql-databases-in-go/",
           "author": "Alex Pliutau",
