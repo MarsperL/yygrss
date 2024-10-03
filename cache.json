@@ -323,6 +323,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=381364",
+          "author": "Juan Diego Rodríguez",
+          "description": "Learn about CSS Anchor Positioning, including its syntax, properties, how it is used to position one element next to another, and even how it's used to resize elements relative to other elements.\nCSS Anchor Positioning Guide originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-anchor-positioning-guide/",
+          "publishedOn": "2024-10-02T15:26:48.000Z",
+          "wordCount": 5972,
+          "title": "CSS Anchor Positioning Guide",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2024/09/multiple-anchors-gumby.mov",
+            "length": "14897344",
+            "type": "video/quicktime"
+          },
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381364"
+        },
+        {
           "id": "https://css-tricks.com/?p=381216",
           "author": "Geoff Graham",
           "description": "An approach for creating masonry layouts in vanilla CSS is one of those “holy grail” aspirations. I actually tend to plop masonry and the classic “Holy Grail” layout in the same general era of web design. They’re different types of …\nCSS Masonry & CSS Grid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -869,6 +884,106 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/improve-front-end-development-workflow-with-zenui-library/",
+          "author": "Asfak Ahmed",
+          "description": "Hello everyone! In this guide, you’ll learn about the powerful ZenUI Library. It’s a comprehensive, free collection of UI components and templates designed to enhance your development workflow and elevate your projects. Whether you’re a developer loo...",
+          "link": "https://www.freecodecamp.org/news/improve-front-end-development-workflow-with-zenui-library/",
+          "publishedOn": "2024-10-02T18:48:21.000Z",
+          "wordCount": 4005,
+          "title": "How to Improve Your Front-End Development Workflow with the ZenUI Library",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727705676968/5e8a0836-8f8b-4ce3-a2fb-d98b2bd1eabe.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/the-power-of-wordlists-why-every-ethical-hacker-needs-one/",
+          "author": "Manish Shivanandhan",
+          "description": "Wordlists are a core component of brute-force attacks. Let's learn what they are and how to use them. Imagine that you’re a security professional who’s performing a penetration test on a client’s website. Your job is to find potential weak points in ...",
+          "link": "https://www.freecodecamp.org/news/the-power-of-wordlists-why-every-ethical-hacker-needs-one/",
+          "publishedOn": "2024-10-02T18:34:35.000Z",
+          "wordCount": 1674,
+          "title": "The Power of Wordlists: Why Every Ethical Hacker Needs One",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727791638563/645b35c6-cf51-43dd-966c-09e0a5274c84.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-i-built-a-custom-video-conferencing-app-with-stream-and-nextjs/",
+          "author": "Ankur Tyagi",
+          "description": "Building full-stack apps can be tough. You have to think about frontend, APIs, databases, auth – plus you have to know how all of these things work together. And building a project like a video conferencing app from scratch can feel even more overwhe...",
+          "link": "https://www.freecodecamp.org/news/how-i-built-a-custom-video-conferencing-app-with-stream-and-nextjs/",
+          "publishedOn": "2024-10-02T17:46:39.000Z",
+          "wordCount": 4801,
+          "title": "How I Built a Custom Video Conferencing App with Stream and Next.js",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727433361539/498f0742-2ff1-4762-b268-2c25eb22017e.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-run-database-migrations-in-kubernetes/",
+          "author": "Alex Pliutau",
+          "description": "In the era of Microservices and Kubernetes, managing database migrations has become more complex than ever. Traditional methods of running migrations during application startup are no longer sufficient. This article explores various approaches to han...",
+          "link": "https://www.freecodecamp.org/news/how-to-run-database-migrations-in-kubernetes/",
+          "publishedOn": "2024-10-02T15:09:50.000Z",
+          "wordCount": 1947,
+          "title": "How to Run Database Migrations in Kubernetes – Different Approaches with Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727685813983/f4672022-9a38-49c9-a252-96f40181fac1.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-medusa-for-fast-multi-protocol-brute-force-attacks-security-tutorial/",
+          "author": "Manish Shivanandhan",
+          "description": "As a pentester (a fancy term for an ethical hacker), you will often attack systems the same way a malicious hacker does. But your goal will be to find weaknesses – so teams can work to address them. One such system is password-based authentication. B...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-medusa-for-fast-multi-protocol-brute-force-attacks-security-tutorial/",
+          "publishedOn": "2024-10-02T14:25:10.000Z",
+          "wordCount": 1776,
+          "title": "How to Use Medusa for Fast, Multi-Protocol Brute-Force Attacks – Security Tutorial",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727713757103/5146e802-f632-475a-9a3c-ea69827fbefe.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-http-methods-like-get-post-and-delete-a-handbook-with-code-examples/",
+          "author": "Joan Ayebola",
+          "description": "When you interact with websites or apps, a lot happens behind the scenes. A key part of this process is how your browser or app talks to a server. HTTPS methods define what action needs to happen – it could be fetching data, sending information, or m...",
+          "link": "https://www.freecodecamp.org/news/learn-http-methods-like-get-post-and-delete-a-handbook-with-code-examples/",
+          "publishedOn": "2024-10-02T14:22:37.000Z",
+          "wordCount": 7745,
+          "title": "Learn HTTP Methods like GET, POST, and DELETE – a Handbook with Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727797253693/e0d1ebfc-2071-4f2e-8e8b-d47c8f55844e.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-tooltips-in-jetpack-compose/",
+          "author": "Tomer",
+          "description": "When I wrote my last article about Jetpack Compose, I stated there that Jetpack Compose is missing some (in my opinion) basic components, and one of them is the tooltip. At the time, there was no built-in composable to display tooltips and there were...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-tooltips-in-jetpack-compose/",
+          "publishedOn": "2024-10-02T13:57:57.000Z",
+          "wordCount": 1944,
+          "title": "How to Use Tooltips in Jetpack Compose",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727813989960/b0a7ab29-d87c-4d87-9847-70b7e1c341b1.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/work-with-sqlite-in-python-handbook/",
+          "author": "Ashutosh Krishna",
+          "description": "SQLite is one of the most popular relational database management systems (RDBMS). It’s lightweight, meaning that it doesn’t take up much space on your system. One of its best features is that it’s serverless, so you don’t need to install or manage a ...",
+          "link": "https://www.freecodecamp.org/news/work-with-sqlite-in-python-handbook/",
+          "publishedOn": "2024-10-02T09:44:37.000Z",
+          "wordCount": 7951,
+          "title": "How to Work with SQLite in Python – A Handbook for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727862097228/24433377-ebb8-49b5-b0ee-5736f629399d.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/integrate-wordpress-with-nextjs/",
+          "author": "Israel Chidera",
+          "description": "When building a dynamic blog website, it's common to fetch data from a content source, such as a CMS (Content Management System) like WordPress. Recently, I faced the challenge of integrating WordPress into my existing Next.js project. I had a blog h...",
+          "link": "https://www.freecodecamp.org/news/integrate-wordpress-with-nextjs/",
+          "publishedOn": "2024-10-02T09:07:58.000Z",
+          "wordCount": 1684,
+          "title": "How to Integrate WordPress as a Headless CMS with Next.js – With Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727738740919/4dd5ea12-6e0c-4df9-8b8d-fc4f168b89c5.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/authenticate-react-app-using-firebase/",
+          "author": "Ijeoma Igboagu",
+          "description": "Authentication is a fundamental aspect of modern web and mobile applications. It ensures that users can securely access an app while protecting their data. Firebase, a platform developed by Google, offers a simple and efficient way to add authenticat...",
+          "link": "https://www.freecodecamp.org/news/authenticate-react-app-using-firebase/",
+          "publishedOn": "2024-10-02T01:34:26.000Z",
+          "wordCount": 2739,
+          "title": "How to Authenticate Your React App Using Firebase",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Uw_8vSroCSc/upload/a8799e4ad43b3b8fe966910f9171ccd3.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/learn-aspnet-core-mvc-with-net-9/",
           "author": "Beau Carnes",
