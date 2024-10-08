@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2024-10-07T01:50:11.213Z</updated>
+    <updated>2024-10-08T01:46:29.561Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Recipes for Detecting Support for CSS At-Rules]]></title>
+        <id>https://css-tricks.com/?p=381674</id>
+        <link href="https://css-tricks.com/recipes-for-detecting-support-for-css-at-rules/"/>
+        <updated>2024-10-07T19:46:07.000Z</updated>
+        <summary type="html"><![CDATA[The @supports at-rule has been extended several times since its initial release. Once only capable of checking support for property/value pairs, it can now check for a selector using the selector() wrapper function and different font formats and techs using …
+Recipes for Detecting Support for CSS At-Rules originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Create Desktop Apps with Electron, React, and TypeScript]]></title>
+        <id>https://www.freecodecamp.org/news/create-desktop-apps-with-electron-react-and-typescript/</id>
+        <link href="https://www.freecodecamp.org/news/create-desktop-apps-with-electron-react-and-typescript/"/>
+        <updated>2024-10-07T19:41:04.000Z</updated>
+        <summary type="html"><![CDATA[Desktop applications remain important for many types of software projects, providing rich, native user experiences. If you're interested in building desktop applications but want to leverage your web development skills, Electron is an excellent solut...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Searching for a New CSS Logo]]></title>
+        <id>https://css-tricks.com/?p=381662</id>
+        <link href="https://css-tricks.com/searching-for-a-new-css-logo/"/>
+        <updated>2024-10-07T16:49:59.000Z</updated>
+        <summary type="html"><![CDATA[There is an amazing community effort happening in search of a new logo for CSS. I was a bit skeptical at first, as I never really considered CSS a “brand.” Why does it need a logo? For starters, the current …
+Searching for a New CSS Logo originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ryan Trimble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are Pre-Rendering and Hydration in Web Development? A Deep Dive for Devs]]></title>
+        <id>https://www.freecodecamp.org/news/what-are-pre-rendering-and-hydration-in-web-dev/</id>
+        <link href="https://www.freecodecamp.org/news/what-are-pre-rendering-and-hydration-in-web-dev/"/>
+        <updated>2024-10-07T14:21:31.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wondered how Frameworks like Next.js, Gatsby.js, and Remix work? These frameworks use the concepts of Pre-rendering and Hydration, which represent significant advancements in the history of web development. These frameworks leverage the...]]></summary>
+        <author>
+            <name>Salvador Villalon Jr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Design and Develop Web APIs: Essential Guidelines for Developers]]></title>
+        <id>https://www.freecodecamp.org/news/how-to-design-and-develop-web-apis-essential-guidelines/</id>
+        <link href="https://www.freecodecamp.org/news/how-to-design-and-develop-web-apis-essential-guidelines/"/>
+        <updated>2024-10-07T13:48:24.000Z</updated>
+        <summary type="html"><![CDATA[Software applications have made our lives easier and better in many ways. We use them almost daily, and some people find themselves using applications more frequently than they interact with other people. But how do applications interact with each ot...]]></summary>
+        <author>
+            <name>Anjan Baradwaj</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Become a Street Smart Developer – From Dropout to Selling his Company w/ Dennis Ivy [Podcast #144]]]></title>
         <id>https://www.freecodecamp.org/news/how-to-become-a-street-smart-developer-dennis-ivy-interview-144/</id>
@@ -2159,16 +2211,6 @@ I went to bed after midnight. A new day begins.]]></summary>
 <a href="#任务平台"]]></summary>
         <author>
             <name>云野阁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最佳 AI 翻译工作流：全世界最信达雅的翻译]]></title>
-        <id>https://icloudnative.io/posts/best-ai-translation-workflow/</id>
-        <link href="https://icloudnative.io/posts/best-ai-translation-workflow/"/>
-        <updated>2024-07-10T08:06:37.000Z</updated>
-        <summary type="html"><![CDATA[吴恩达老师提出了一种反思翻译的大语言模型 (LLM) AI 翻译工作流程——]]></summary>
-        <author>
-            <name>云原生实验室</name>
         </author>
     </entry>
 </feed>
