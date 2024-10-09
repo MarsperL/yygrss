@@ -312,6 +312,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=381729",
+          "author": "Geoff Graham",
+          "description": "I sat down with Heydon Pickering in the most recent episode of the Smashing Hour. Full transparency: I was nervous as heck. I’ve admired Heydon’s work for years, and even though we run in similar circles, this was our first …\nSmashing Hour With Heydon Pickering originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/smashing-hour-with-heydon-pickering/",
+          "publishedOn": "2024-10-08T15:22:02.000Z",
+          "wordCount": 1492,
+          "title": "Smashing Hour With Heydon Pickering",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381729"
+        },
+        {
           "id": "https://css-tricks.com/?p=381674",
           "author": "Juan Diego Rodríguez",
           "description": "The @supports at-rule has been extended several times since its initial release. Once only capable of checking support for property/value pairs, it can now check for a selector using the selector() wrapper function and different font formats and techs using …\nRecipes for Detecting Support for CSS At-Rules originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -908,6 +918,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/javascript-refresher-for-react-beginners/",
+          "author": "Niladri S. Jyoti",
+          "description": "The Back Story A few years ago, I was introduced to React and immediately fell in love with its component-based, state-driven approach to building web applications. But as I delved deeper into its ecosystem, I encountered not just React, but a range ...",
+          "link": "https://www.freecodecamp.org/news/javascript-refresher-for-react-beginners/",
+          "publishedOn": "2024-10-08T15:17:20.000Z",
+          "wordCount": 5682,
+          "title": "JavaScript Refresher for React Beginners – Key JS Concepts to Know",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727978962525/ee0aad46-7497-4c91-9354-dd8b0f9b4ea6.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-switch-case-in-arduino-control-leds/",
+          "author": "Ihechikara Abba",
+          "description": "You can use a switch case statement to execute different blocks of code based on the value of a variable. It offers a more direct and cleaner approach to handling multiple conditions. In this article, you'll learn how to control LEDs using a switch c...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-switch-case-in-arduino-control-leds/",
+          "publishedOn": "2024-10-08T14:39:47.000Z",
+          "wordCount": 1879,
+          "title": "How to Use Switch Case in Arduino – Control LEDs With the Switch Statement",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728178146204/a1c1a6af-b4ce-4fe4-a73d-8861d63cc01e.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/improve-hacking-skills-by-playing-wargames/",
+          "author": "Manish Shivanandhan",
+          "description": "Hacking is a skill that fascinates many people. You’ve seen hackers in movies. They type at keyboards, breaking into high-security systems in seconds. But real hacking isn’t quite like that. It takes patience, creativity, and most importantly, a lot ...",
+          "link": "https://www.freecodecamp.org/news/improve-hacking-skills-by-playing-wargames/",
+          "publishedOn": "2024-10-08T13:57:34.000Z",
+          "wordCount": 1530,
+          "title": "How to Improve Your Hacking Skills by Playing OverTheWire Wargames",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728392145727/bb646db1-f69a-4654-b01c-15fbe94a9c00.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/getting-started-with-matplotlib/",
+          "author": "Oyedele Tioluwani",
+          "description": "One of the key steps in data analysis is data visualization, as it helps you notice certain features, tendencies, and relevant patterns that may not be obvious in raw data. Matplotlib is one of the most effective libraries for Python, and it allows t...",
+          "link": "https://www.freecodecamp.org/news/getting-started-with-matplotlib/",
+          "publishedOn": "2024-10-07T23:15:31.000Z",
+          "wordCount": 3560,
+          "title": "How to Get Started with Matplotlib – With Code Examples and Visualizations",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1727947002230/9ab7fb41-65fe-4bf5-bb59-8f514a3e9396.jpeg"
+        },
         {
           "id": "https://www.freecodecamp.org/news/create-desktop-apps-with-electron-react-and-typescript/",
           "author": "Beau Carnes",
