@@ -322,6 +322,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=381773",
+          "author": "Temani Afif",
+          "description": "CSS gradients have been so long that there’s no need to rehash what they are and how to use them. You have surely encountered them at some point in your front-end journey, and if you follow me, you also …\nCSS Tricks That Use Only One Gradient originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/css-tricks-that-use-only-one-gradient/",
+          "publishedOn": "2024-10-11T21:48:01.000Z",
+          "wordCount": 3461,
+          "title": "CSS Tricks That Use Only One Gradient",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/381773"
+        },
+        {
           "id": "https://css-tricks.com/?p=381752",
           "author": "Geoff Graham",
           "description": "It’s always a gas when a good person doing good work gets a good deal. In this case, Jason’s viral WPGraphQL plugin has not only become a canonical WordPress plugin, but creator Jason Bahl is joining Automattic as well.\nI’m …\nWPGraphQL Becomes a Canonical Plugin: My Move to Automattic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -948,6 +958,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-build-a-css-component-library-step-by-step/",
+          "author": "Prankur Pandey",
+          "description": "Application development is a complex, multi-stage process, and it all begins with UI/UX design. Once the design phase is complete, the focus shifts to UI development, where tools like HTML, CSS, and JavaScript come into play. At a higher level, libra...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-css-component-library-step-by-step/",
+          "publishedOn": "2024-10-11T19:16:44.000Z",
+          "wordCount": 3315,
+          "title": "How to Build a CSS Component Library and Improve Your Web Development Skills",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728400677433/de06f432-0861-4ba4-ad7c-6e10157e2822.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/large-language-models-for-developers-and-businesses/",
+          "author": "Nazneen Ahmad",
+          "description": "Language learning models (LLMs) are evolving rapidly, reshaping AI in various industries. In this article, we’ll go over five LLMs that are currently making an impact with their advanced features and wide-ranging use cases. LLM Basics Before looking ...",
+          "link": "https://www.freecodecamp.org/news/large-language-models-for-developers-and-businesses/",
+          "publishedOn": "2024-10-11T16:01:18.000Z",
+          "wordCount": 2227,
+          "title": "Large Language Models for Developers and Businesses",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728677455013/ad0471d0-d888-4bfb-a47c-d41eb1b333fc.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/roadmapsh-founder-kamran-ahmed-podcast-145/",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Kamran Ahmed. He's a software engineer and founder of Roadmap.sh, which has skill tree roadmaps for lots of developer fields, such as DevOps. As a teacher, he's also a Google Developer Expert and a G...",
+          "link": "https://www.freecodecamp.org/news/roadmapsh-founder-kamran-ahmed-podcast-145/",
+          "publishedOn": "2024-10-11T14:14:16.000Z",
+          "wordCount": 1008,
+          "title": "Open Source Superstar and Roadmap.sh Founder Kamran Ahmed [Podcast #145]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728655903076/d4966eb0-43d1-4925-9ab6-e811ce6f1783.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/how-to-use-git-stash-to-manage-code/",
+          "author": "Okoro Emmanuel Nzube Derek",
+          "description": "Sometimes when you’re coding, you need to leave a particular task incomplete to focus on another task – but you don't want to lose your progress. So what do you do? Fortunately, git stash comes to the rescue. In this article, you’ll learn all about t...",
+          "link": "https://www.freecodecamp.org/news/how-to-use-git-stash-to-manage-code/",
+          "publishedOn": "2024-10-11T13:40:01.000Z",
+          "wordCount": 2519,
+          "title": "How to Use Git Stash to Efficiently Manage Your Code",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728563160215/147e5b8d-960d-4a90-ad2f-6d71337ac0ce.jpeg"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/react-interview-prep-handbook/",
+          "author": "Kunal Nalawade",
+          "description": "Hi everyone! In the ever-changing landscape of web development, React is in very high demand. Companies are often seeking skilled React developers to build dynamic and engaging web applications. If you are a web developer or aspiring to be one, it's ...",
+          "link": "https://www.freecodecamp.org/news/react-interview-prep-handbook/",
+          "publishedOn": "2024-10-11T10:50:19.000Z",
+          "wordCount": 6533,
+          "title": "The React Interview Prep Handbook – Essential Topics and Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728643567956/00c98d19-4694-4942-9ad2-d2f25bcf05c0.png"
+        },
+        {
+          "id": "https://www.freecodecamp.org/news/learn-tailwind-css-by-building-a-responsive-product-card/",
+          "author": "Beau Carnes",
+          "description": "Are you looking to enhance your web design skills and create responsive websites more efficiently? Tailwind CSS, a utility-first CSS framework, has become a favorite among developers for its flexibility and speed in building modern web layouts. One o...",
+          "link": "https://www.freecodecamp.org/news/learn-tailwind-css-by-building-a-responsive-product-card/",
+          "publishedOn": "2024-10-11T01:33:57.000Z",
+          "wordCount": 1131,
+          "title": "Learn Tailwind CSS by Building a Responsive Product Card",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1728610417740/2c081996-9a92-42d5-bee1-a380f2a0c1e4.png"
+        },
         {
           "id": "https://www.freecodecamp.org/news/python-zip-function-explained-with-examples/",
           "author": "Sahil Mahapatra",
@@ -2095,6 +2165,16 @@
       "feedUrl": "https://daverupert.com/atom.xml",
       "siteUrl": "https://daverupert.com",
       "articles": [
+        {
+          "id": "https://daverupert.com/2024/10/vibe-check-35/",
+          "author": null,
+          "description": "School is back in session, sports are in full swing, we’re tossed and turned by the weekly routine. This past month has been a season of fixing and repair and I’m thankful everything went well and we’re (hopefully) through the hard parts.\nFixing electrical problems\nRamping up to Spooky Month, the lights in our house were acting up. We’ve always had the occasional power problem; lights dimming, oven clocks resetting, but they were random and isolated. But around the beginning of September our lights would flicker for a solid minute every time the A/C kicked on. I was getting concerned about a potential fire – and no matter what anyone says, I was not concerned about a ghost, ghoul, specter, gremlin, dracula or otherwise – so I scheduled a bunch of maintenance calls:\nAn electrician - He didn…",
+          "link": "https://daverupert.com/2024/10/vibe-check-35/",
+          "publishedOn": "2024-10-11T04:00:00.000Z",
+          "wordCount": 1706,
+          "title": "Vibe Check №35",
+          "imageUrl": null
+        },
         {
           "id": "https://daverupert.com/2024/09/hibiclens/",
           "author": null,
