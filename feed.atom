@@ -2,10 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2024-10-21T01:49:14.113Z</updated>
+    <updated>2024-10-22T01:47:43.267Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Transition from Stay-at-Home Freelancing Parent to Developer: A Bootcamp Survivor’s Guide]]></title>
+        <id>6716a484c9b0ead280c3a92f</id>
+        <link href="https://www.freecodecamp.org/news/from-stay-at-home-freelancing-parent-to-developer-tips/"/>
+        <updated>2024-10-21T18:59:16.000Z</updated>
+        <summary type="html"><![CDATA[After months of endless job applications, networking, and studying, I accepted an offer in January to work full-time as a developer. It wasn’t smooth sailing, and I won’t lie — the road was very bumpy.  So to help others out, I want to share my story...]]></summary>
+        <author>
+            <name>Saki Basken</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Conditional Statements in C#: If, Switch, and More Explained with Example Code]]></title>
+        <id>67169d1456af142bfd7fe418</id>
+        <link href="https://www.freecodecamp.org/news/conditional-statements-in-csharp-if-switch-and-more/"/>
+        <updated>2024-10-21T18:27:32.000Z</updated>
+        <summary type="html"><![CDATA[Being able to update variables, call particular branches of code, or simply output different code based on a certain condition is a vital part of programming in any language. C# (C Sharp) offers multiple ways to do these things, and I’m about to show...]]></summary>
+        <author>
+            <name>Grant Riordan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Which Tools to Use for LLM-Powered Applications: LangChain vs LlamaIndex vs NIM]]></title>
+        <id>6716909d6cc6de90a6dad8be</id>
+        <link href="https://www.freecodecamp.org/news/llm-powered-apps-langchain-vs-llamaindex-vs-nim/"/>
+        <updated>2024-10-21T17:34:21.000Z</updated>
+        <summary type="html"><![CDATA[If you’re considering building an application powered by a Large Language Model, you may wonder which tool to use. Well, two well-established frameworks—LangChain and LlamaIndex—have gained significant attention for their unique features and capabili...]]></summary>
+        <author>
+            <name>Bhavishya Pandit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where web components shine]]></title>
+        <id>https://daverupert.com/2024/10/super-web-components-sunshine/</id>
+        <link href="https://daverupert.com/2024/10/super-web-components-sunshine/"/>
+        <updated>2024-10-21T14:28:00.000Z</updated>
+        <summary type="html"><![CDATA[In this job we need to think a lot about the tools we choose and why, so I cataloged all the places where web components (for me) feel like “the right tool for the job”. Your list may be different and I’d love to read it. And because I don’t want this to be 100% propaganda, I’ll also cover some of the not-so-great parts of web components as well.
+The good parts
+Here’s an incomplete list of situations where I think web components are a good choice.
+For leaf nodes - Web components are great at leaf nodes.
+For presentational components that wrap other components - The <slot> element is fantastic for this, but you could write a basic CSS class instead. The first rule of web components is: Not everything needs to be a web component.
+For building a design system - They do this too.
+For progressi…]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unleash the Power of Scroll-Driven Animations]]></title>
+        <id>https://css-tricks.com/?p=381613</id>
+        <link href="https://css-tricks.com/unleash-the-power-of-scroll-driven-animations/"/>
+        <updated>2024-10-21T13:50:53.000Z</updated>
+        <summary type="html"><![CDATA[I’m utterly behind in learning about scroll-driven animations apart from the “reading progress bar” experiments all over CodePen. Well, I’m not exactly “green” on the topic; we’ve published a handful of articles on it including this neat-o one by Lee …
+Unleash the Power of Scroll-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Perform a Web Accessibility Audit]]></title>
         <id>6712fdc4ad96e38e0b7422ae</id>
@@ -2485,77 +2542,6 @@ Error response from daemon: Cannot restart container docker-p: mkdir]]></summary
         <summary type="html"><![CDATA[基础环境
 操作系统：openEuler 22.03 (LTS-SP2)
 软件：Docker-26.1.2]]></summary>
-        <author>
-            <name>云野阁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一些免费的gpt网站]]></title>
-        <id>https://marsperl.github.io/yyg/30035ff1/</id>
-        <link href="https://marsperl.github.io/yyg/30035ff1/"/>
-        <updated>2024-07-23T16:27:12.000Z</updated>
-        <summary type="html"><![CDATA[<div]]></summary>
-        <author>
-            <name>云野阁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker部署Matomo]]></title>
-        <id>https://marsperl.github.io/yyg/a52e3ab6/</id>
-        <link href="https://marsperl.github.io/yyg/a52e3ab6/"/>
-        <updated>2024-07-23T16:01:32.000Z</updated>
-        <summary type="html"><![CDATA[基础环境
-系统环境：
-操作系统：CentOS Stream]]></summary>
-        <author>
-            <name>云野阁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LAMP部署]]></title>
-        <id>https://marsperl.github.io/yyg/a8d3d305/</id>
-        <link href="https://marsperl.github.io/yyg/a8d3d305/"/>
-        <updated>2024-07-23T16:00:18.000Z</updated>
-        <summary type="html"><![CDATA[基础环境
-系统环境：
-CentOS Stream]]></summary>
-        <author>
-            <name>云野阁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LNMP部署]]></title>
-        <id>https://marsperl.github.io/yyg/776a1cd4/</id>
-        <link href="https://marsperl.github.io/yyg/776a1cd4/"/>
-        <updated>2024-07-23T15:33:41.000Z</updated>
-        <summary type="html"><![CDATA[基础环境
-系统环境：CentOS Stream]]></summary>
-        <author>
-            <name>云野阁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ELK | 使用 docker部署三节点 Elasticsearch 集群]]></title>
-        <id>https://marsperl.github.io/yyg/56088d5a/</id>
-        <link href="https://marsperl.github.io/yyg/56088d5a/"/>
-        <updated>2024-07-23T15:28:20.000Z</updated>
-        <summary type="html"><![CDATA[环境准备
-
-
-硬件环境
-操作系统：Centos Stream]]></summary>
-        <author>
-            <name>云野阁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用portainer管理容器]]></title>
-        <id>https://marsperl.github.io/yyg/c60df0d6/</id>
-        <link href="https://marsperl.github.io/yyg/c60df0d6/"/>
-        <updated>2024-07-23T14:54:05.000Z</updated>
-        <summary type="html"><![CDATA[基础环境
-系统环境：
-操作系统：CentOS]]></summary>
         <author>
             <name>云野阁</name>
         </author>
