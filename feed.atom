@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2024-10-23T01:46:16.458Z</updated>
+    <updated>2024-10-24T01:46:45.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Use Skeleton Screens to Improve Perceived Website Performance]]></title>
+        <id>671955939f7c056f46dd8604</id>
+        <link href="https://www.freecodecamp.org/news/how-to-use-skeleton-screens-to-improve-perceived-website-performance/"/>
+        <updated>2024-10-23T19:59:15.000Z</updated>
+        <summary type="html"><![CDATA[When you’re building a website, it’s important to make sure that it’s fast. People have little to no patience for slow-loading websites. So as developers, we need to use all the techniques available to us to speed up our site’s performance. And somet...]]></summary>
+        <author>
+            <name>Timothy Olanrewaju</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Automate Documentation Conversion with Pandoc in CI/CD Pipelines]]></title>
+        <id>671949e0521b33716a071ccc</id>
+        <link href="https://www.freecodecamp.org/news/how-to-automate-documentation-conversion-with-pandoc-in-cicd-pipelines/"/>
+        <updated>2024-10-23T19:09:20.000Z</updated>
+        <summary type="html"><![CDATA[In any software project, documentation plays a crucial role in guiding developers, users, and stakeholders through the project's features and functionalities. As projects grow and evolve, managing documentation across various formats—whether it’s mar...]]></summary>
+        <author>
+            <name>Preston Mayieka</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create Filling CSS Loaders Using One Element]]></title>
+        <id>6719336f56c24fb7d4fc62b3</id>
+        <link href="https://www.freecodecamp.org/news/filling-css-loaders/"/>
+        <updated>2024-10-23T17:33:35.000Z</updated>
+        <summary type="html"><![CDATA[In a previous article, I showed you how to create two types of CSS loaders: a spinner and a progress bar. In this article, you’ll learn about another variation called a filling CSS loader. I think a demo is worth thousands of words, so check out this...]]></summary>
+        <author>
+            <name>Temani Afif</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Your Own Wheel of Names with React and TypeScript]]></title>
+        <id>67190fa49a9d435e2ceeafb6</id>
+        <link href="https://www.freecodecamp.org/news/build-your-own-wheel-of-names/"/>
+        <updated>2024-10-23T15:00:52.000Z</updated>
+        <summary type="html"><![CDATA[A while ago, I stumbled upon a website listing various coding challenges, and I decided to give some a try. Last week, I came across one that involved building a "Wheel of Names." It reminded me of a similar project I built years ago using Flash and ...]]></summary>
+        <author>
+            <name>Mihail Gaberov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use RxStomp with React – Build Chat App with STOMP and React]]></title>
+        <id>671901e20aa5e141c2db418f</id>
+        <link href="https://www.freecodecamp.org/news/build-chat-app-with-stomp-and-react/"/>
+        <updated>2024-10-23T14:02:10.000Z</updated>
+        <summary type="html"><![CDATA[STOMP is an amazingly simple yet powerful protocol for sending messages implemented by popular servers like RabbitMQ, ActiveMQ, and Apollo. Using STOMP over WebSocket is a straightforward protocol, making it a popular choice for sending messages from...]]></summary>
+        <author>
+            <name>Harsh Deep</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clarifying the Relationship Between Popovers and Dialogs]]></title>
+        <id>https://css-tricks.com/?p=382008</id>
+        <link href="https://css-tricks.com/clarifying-the-relationship-between-popovers-and-dialogs/"/>
+        <updated>2024-10-23T13:20:46.000Z</updated>
+        <summary type="html"><![CDATA[The difference between Popovers (i.e., the popover attribute) and Dialogs (i.e., both the <dialog element and the dialog accessible role) is incredibly confusing — so much that many articles (like this, this, and this) have tried to …
+Clarifying the Relationship Between Popovers and Dialogs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Zell Liew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Clamp it! VS Code extension]]></title>
+        <id>https://css-tricks.com/?p=381992</id>
+        <link href="https://css-tricks.com/clamp-it-vs-code-extension/"/>
+        <updated>2024-10-23T13:15:20.000Z</updated>
+        <summary type="html"><![CDATA[There’s a lot of math behind fluid typography. CSS does make the math a lot easier these days, but even if you’re comfortable with that, writing the full declaration can be verbose and tough to remember. I know I often …
+Clamp it! VS Code extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Pass Additional Arguments to Next.js Server Actions]]></title>
         <id>6717fde839354c63841ba816</id>
