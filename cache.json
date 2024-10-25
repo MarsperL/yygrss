@@ -6,6 +6,16 @@
       "siteUrl": "https://MarsperL.github.io/",
       "articles": [
         {
+          "id": "https://marsperl.github.io/yyg/f5b762ea/",
+          "author": null,
+          "description": "添加Loopback环回网卡\n（1）使用Win+ R调出”运行“，输入hdwwiz，确定后开始添加新硬件向导。\n（2）按向导操作，选择安装我手动从列表选择的硬件(高级)(M)。\n<img src=\"/yyg/f5b762ea/1.png\" class=\"\"",
+          "link": "https://marsperl.github.io/yyg/f5b762ea/",
+          "publishedOn": "2024-10-24T14:08:30.000Z",
+          "wordCount": 1008,
+          "title": "eNSP模拟网络设备访问真实网络",
+          "imageUrl": "https://t.mwm.moe/fj?7610"
+        },
+        {
           "id": "https://marsperl.github.io/yyg/9ec93abd/",
           "author": null,
           "description": "环境准备：\n（1）使用脚本安装docker、docker-compose\n\n\n1\n\nbash <(curl -sSL",
@@ -181,6 +191,16 @@
       "feedUrl": "https://css-tricks.com/feed/",
       "siteUrl": "https://css-tricks.com",
       "articles": [
+        {
+          "id": "https://css-tricks.com/?p=382065",
+          "author": "Geoff Graham",
+          "description": "Terence Eden on using text-wrap: balance for more than headings:\nBut the name is, I think, slightly misleading. It doesn’t only work on text. It will work on any content. For example – I have a row of icons at \n…\nYou can use text-wrap: balance; on icons originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/you-can-use-text-wrap-balance-on-icons/",
+          "publishedOn": "2024-10-24T14:05:56.000Z",
+          "wordCount": 1480,
+          "title": "You can use text-wrap: balance; on icons",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382065"
+        },
         {
           "id": "https://css-tricks.com/?p=382008",
           "author": "Zell Liew",
@@ -893,6 +913,96 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "671a85db0db570158155ec00",
+          "author": "Ankur Tyagi",
+          "description": "Securing your application goes beyond simply granting or denying access at the surface level. As a developer, you need to implement fine-grained authorization (FGA) to manage permissions at a more detailed, granular level. FGA allows you to set up de...",
+          "link": "https://www.freecodecamp.org/news/fine-grained-authorization-in-java-and-springboot/",
+          "publishedOn": "2024-10-24T17:37:31.000Z",
+          "wordCount": 5197,
+          "title": "How to Implement Fine-Grained Authorization in Java and SpringBoot",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729783227124/9725e8cf-553d-42c3-a823-5215e8d4d0e9.png"
+        },
+        {
+          "id": "671a6769ad3ef266b980f1f7",
+          "author": "Beau Carnes",
+          "description": "Are you ready to dive into the world of full-stack web development and AI-powered applications? This comprehensive tutorial takes you through the exciting process of building and deploying an intelligent, fully-featured email client from scratch. Usi...",
+          "link": "https://www.freecodecamp.org/news/code-a-full-stack-ai-powered-email-saas/",
+          "publishedOn": "2024-10-24T15:27:37.000Z",
+          "wordCount": 1329,
+          "title": "Code a Full Stack AI-Powered Email SaaS",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729783635668/eaaebc91-0673-4e10-818a-46091872d887.png"
+        },
+        {
+          "id": "671a661b1687492df2d18436",
+          "author": "Beau Carnes",
+          "description": "We've just released a comprehensive course on the freeCodeCamp.org YouTube channel to help you prepare for the Google Cloud Digital Leader certification exam – and it's completely free. This in-depth course, created by cloud expert Andrew Brown, is d...",
+          "link": "https://www.freecodecamp.org/news/prepare-for-and-pass-the-google-cloud-digital-leader-certification-exam/",
+          "publishedOn": "2024-10-24T15:22:03.000Z",
+          "wordCount": 1300,
+          "title": "Prepare For and Pass the Google Cloud Digital Leader Certification Exam",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729783303497/1b442dbf-9474-4a71-adab-fc8b6aa8ebb9.png"
+        },
+        {
+          "id": "671a63a2c56e050e75cb0298",
+          "author": "Manish Shivanandhan",
+          "description": "Ethical hacking involves testing and finding vulnerabilities in systems. But doing this on live networks or public servers can lead to accidental damage. Setting up a virtual lab for hacking is a great way to sharpen your skills in a safe environment...",
+          "link": "https://www.freecodecamp.org/news/build-a-private-hacking-lab-with-virtualbox/",
+          "publishedOn": "2024-10-24T15:11:30.000Z",
+          "wordCount": 1967,
+          "title": "How to Build Your Own Private Hacking Lab with VirtualBox",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729751281544/6500642d-4c1e-4dba-b5d0-ab97f9f10003.jpeg"
+        },
+        {
+          "id": "671a62b68210490d9d68e83f",
+          "author": "Danny",
+          "description": "The SOLID Principles are five software design principles that help you to write high quality, flexible, maintainable, reusable, testable, and readable software. If you plan to work with object-oriented software, it is crucial to understand these five...",
+          "link": "https://www.freecodecamp.org/news/what-are-the-solid-principles-in-csharp/",
+          "publishedOn": "2024-10-24T15:07:34.000Z",
+          "wordCount": 4131,
+          "title": "What are the SOLID Principles in C#? Explained With Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729777076695/7d956373-1835-4823-9a6a-d2d232cd64d5.png"
+        },
+        {
+          "id": "671a5f1685689d5790d302c5",
+          "author": "Sanjay R",
+          "description": "CRUD operations are the basis of every application, so it is essential to become proficient in them when learning new technologies. In this tutorial, you’ll learn how to build a CRUD application using React and Convex. We’ll cover these operations by...",
+          "link": "https://www.freecodecamp.org/news/build-crud-app-react-and-convex/",
+          "publishedOn": "2024-10-24T14:52:06.000Z",
+          "wordCount": 3638,
+          "title": "How to Build a CRUD Application using React and Convex",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729397399755/9c747607-fa82-4caf-9c20-8e64ec82c3f2.jpeg"
+        },
+        {
+          "id": "671a57eebe723181116c2f10",
+          "author": "Bello Joseph",
+          "description": "JavaScript is a widely used programming language for creating client-side and server-side applications. Its use cases go beyond web development, as JavaScript is also used in mobile app development and artificial intelligence. This makes JavaScript a...",
+          "link": "https://www.freecodecamp.org/news/how-to-secure-javascript-applications/",
+          "publishedOn": "2024-10-24T14:21:34.000Z",
+          "wordCount": 3879,
+          "title": "How to Secure JavaScript Applications: Common Vulnerabilities and Best Practices",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729618116705/41f6dfda-4563-4333-88ad-733238d86ec1.png"
+        },
+        {
+          "id": "671a576a1d53cf0b6813a51c",
+          "author": "Syeda Maham Fahim",
+          "description": "Have you ever worked with numbers like 1/3, where the result is 0.33333… and continues forever? As humans, we naturally round off such numbers, but have you ever wondered how computers handle them? In this article, you’ll explore how computers manage...",
+          "link": "https://www.freecodecamp.org/news/what-is-a-floating-point-arithmetic-problem/",
+          "publishedOn": "2024-10-24T14:19:22.000Z",
+          "wordCount": 2033,
+          "title": "What is a Floating-Point Arithmetic Problem?",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729588035734/9824633d-727a-49ce-9080-0fa3a7b18ed6.jpeg"
+        },
+        {
+          "id": "671a491036e11cfa5033debb",
+          "author": "Hang Hu",
+          "description": "In this hands-on tutorial, you'll learn how to harness the power of Netcat to build practical networking tools. We’ll start with basic message transmission. Then you'll progress to creating a file transfer system, and you’ll ultimately develop a secu...",
+          "link": "https://www.freecodecamp.org/news/build-a-simple-secure-chat-system-with-netcat/",
+          "publishedOn": "2024-10-24T13:18:08.000Z",
+          "wordCount": 2468,
+          "title": "How to Build a Simple Secure Chat System Using Netcat",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1729729356682/acf8ca42-3aaa-4ca1-9ebc-10f0f658c678.png"
+        },
         {
           "id": "671955939f7c056f46dd8604",
           "author": "Timothy Olanrewaju",
