@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2024-10-28T01:51:13.068Z</updated>
+    <updated>2024-10-29T01:48:54.437Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tools You Can Use for Open Source Intelligence (OSINT) Gathering]]></title>
+        <id>671fdfa416219baf5b89e52a</id>
+        <link href="https://www.freecodecamp.org/news/tools-for-open-source-intelligence-gathering/"/>
+        <updated>2024-10-28T19:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the world of Open-Source Intelligence (OSINT). OSINT is all about gathering public information from various online sources. OSINT can come from social media, websites, search engines, and even public databases. You’d be surprised at how mu...]]></summary>
+        <author>
+            <name>Manish Shivanandhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[freeCodeCamp Turns 10 + Major Certification Updates]]></title>
+        <id>671fc26234113ef3b02f6bf3</id>
+        <link href="https://www.freecodecamp.org/news/freecodecamp-turns-10-major-curriculum-updates/"/>
+        <updated>2024-10-28T16:57:06.000Z</updated>
+        <summary type="html"><![CDATA[10 years ago today I sat down in the closet of my San Francisco apartment and coded the first few hundred lines of freeCodeCamp. I didn't know it at the time, but fCC would quickly grow into a global community of busy adults learning to code togethe...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Message Queues Help Make Distributed Systems More Reliable]]></title>
+        <id>671f94819cd90a859ae00b55</id>
+        <link href="https://www.freecodecamp.org/news/how-message-queues-make-distributed-systems-more-reliable/"/>
+        <updated>2024-10-28T13:41:21.000Z</updated>
+        <summary type="html"><![CDATA[Reliable systems consistently perform their intended functions under various conditions while minimizing downtime and failures. As internet users, we tend to take for granted that the systems that we use daily will operate reliably. In this article, ...]]></summary>
+        <author>
+            <name>Anant Chowdhary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Dorking: How to Find Hidden Information on the Web]]></title>
         <id>671bf3858ac006ad747be97f</id>
@@ -2854,18 +2884,6 @@ Error response from daemon: Cannot restart container docker-p: mkdir]]></summary
         <updated>2024-08-03T13:55:37.000Z</updated>
         <summary type="html"><![CDATA[基础环境
 系统：openEuler 22.03 (LTS-SP4)]]></summary>
-        <author>
-            <name>云野阁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[x86服务器构建ARM架构docker镜像]]></title>
-        <id>https://marsperl.github.io/yyg/4451cec/</id>
-        <link href="https://marsperl.github.io/yyg/4451cec/"/>
-        <updated>2024-07-31T07:59:41.000Z</updated>
-        <summary type="html"><![CDATA[基础环境
-操作系统：openEuler 22.03 (LTS-SP2)
-软件：Docker-26.1.2]]></summary>
         <author>
             <name>云野阁</name>
         </author>
