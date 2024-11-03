@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2024-11-02T01:45:09.431Z</updated>
+    <updated>2024-11-03T01:53:20.095Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Windows 10（x86_64）使用QEMU安装ARM虚拟机]]></title>
+        <id>https://marsperl.github.io/yyg/a785f75e/</id>
+        <link href="https://marsperl.github.io/yyg/a785f75e/"/>
+        <updated>2024-11-02T15:38:24.000Z</updated>
+        <summary type="html"><![CDATA[基础环境
+系统：Windows 10
+硬件：双网卡（本篇中使用的是两个无线网卡）
+所需软件：QEMU、tap-windows
+所需软件固件：QEMU_EFI.fd
+ARM镜像：openEuler-22.03-LTS-SP4-aarch64-dvd.iso
+<a href="#环境准备" class="headerlink"]]></summary>
+        <author>
+            <name>云野阁</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open Source is WILD. The craziest things The Changelog has seen in 15 years. [Podcast #148]]]></title>
         <id>67251331e678821a22a973f9</id>
@@ -2976,16 +2992,6 @@ To keep me and my brain running during working hours costs me ~$359.26/month. No
         <updated>2024-08-06T14:04:00.000Z</updated>
         <summary type="html"><![CDATA[运行的项目容器突然就停了，查看容器日志发现磁盘空间不足，导致容器没法运行了。
 Error response from daemon: Cannot restart container docker-p: mkdir]]></summary>
-        <author>
-            <name>云野阁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hexo-Butterfly美化教程 | 繁沙]]></title>
-        <id>https://marsperl.github.io/yyg/ca46b09/</id>
-        <link href="https://marsperl.github.io/yyg/ca46b09/"/>
-        <updated>2024-08-05T02:40:37.000Z</updated>
-        <summary type="html"><![CDATA[<a href="#前言" class="headerlink"]]></summary>
         <author>
             <name>云野阁</name>
         </author>
