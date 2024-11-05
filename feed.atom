@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2024-11-04T01:49:21.290Z</updated>
+    <updated>2024-11-05T01:45:01.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Less Common HTML Elements and How to Use Them in Your Code]]></title>
+        <id>67292117f26a058bcaa2e19d</id>
+        <link href="https://www.freecodecamp.org/news/less-common-html-elements-and-how-to-use-them/"/>
+        <updated>2024-11-04T19:31:35.000Z</updated>
+        <summary type="html"><![CDATA[HTML has a lot of tags that many people use every day, like 
+, 
+, and . But there are also some hidden gems that often go unnoticed. These tags can help make websites more engaging, accessible, and meaningful without much extra effort. In th...]]></summary>
+        <author>
+            <name>Joan Ayebola</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Complex Use Cases in Your OpenAPI Specifications – API Documentation Guide]]></title>
+        <id>6728f9e02b7cd4e7135f2f39</id>
+        <link href="https://www.freecodecamp.org/news/how-to-handle-complex-use-cases-in-api-specs/"/>
+        <updated>2024-11-04T16:44:16.000Z</updated>
+        <summary type="html"><![CDATA[When you’re documenting an API reference, there are two main approaches you can follow. You can either use the manual approach of filling in the endpoints via a user interface, or organize a structured document containing all the necessary informatio...]]></summary>
+        <author>
+            <name>Onyeanuna Prince</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 10（x86_64）使用QEMU安装ARM虚拟机]]></title>
         <id>https://marsperl.github.io/yyg/a785f75e/</id>
@@ -2983,17 +3005,6 @@ $359.26
 To keep me and my brain running during working hours costs me ~$359.26/month. Not much to say beyond that –no grand epiphanies– except that I think it’s too expensive. Sitting in an office by myself costs me $16.33/day (or $2/hour). This budget doesn’t include breakfast, dinner, exercise, healthcare, transit, internet, electricity, or office supplies… all necessities that enable the …]]></summary>
         <author>
             <name>daverupert.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[docker容器日志配置管理]]></title>
-        <id>https://marsperl.github.io/yyg/3b57c0c6/</id>
-        <link href="https://marsperl.github.io/yyg/3b57c0c6/"/>
-        <updated>2024-08-06T14:04:00.000Z</updated>
-        <summary type="html"><![CDATA[运行的项目容器突然就停了，查看容器日志发现磁盘空间不足，导致容器没法运行了。
-Error response from daemon: Cannot restart container docker-p: mkdir]]></summary>
-        <author>
-            <name>云野阁</name>
         </author>
     </entry>
 </feed>
