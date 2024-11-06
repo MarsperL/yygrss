@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2024-11-05T01:45:01.268Z</updated>
+    <updated>2024-11-06T01:44:28.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fluid Everything Else]]></title>
+        <id>https://css-tricks.com/?p=382107</id>
+        <link href="https://css-tricks.com/fluid-everything-else/"/>
+        <updated>2024-11-05T20:49:40.000Z</updated>
+        <summary type="html"><![CDATA[We can apply the concept of fluid typography to almost anything. This way we can have a layout that fluidly changes with the size of its parent container. Few users will ever see the transition, but they will all appreciate the results. Honestly, they will.
+Fluid Everything Else originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Richard Hubbard</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Clean Code – Tips for Developers with Examples]]></title>
+        <id>672a51c02bb94277a075a484</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-clean-code-tips-for-developers/"/>
+        <updated>2024-11-05T17:11:28.000Z</updated>
+        <summary type="html"><![CDATA[Imagine a messy room with clothes, books, and other items scattered everywhere. Finding something in that room would be tough, right? Now, think about writing messy code – it’s just as confusing, if not more! On the other hand, clean code is like an ...]]></summary>
+        <author>
+            <name>Programming with Shahan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Integrate Tailwind with Django – With Code Examples]]></title>
+        <id>672a2317dd9236b285ebb527</id>
+        <link href="https://www.freecodecamp.org/news/how-to-integrate-tailwind-with-django/"/>
+        <updated>2024-11-05T13:52:23.000Z</updated>
+        <summary type="html"><![CDATA[In modern web development, choosing the right technology is crucial because it impacts both the process and outcome of your projects. Using Django as a backend framework and Tailwind CSS as a utility-first CSS framework offers an efficient way to cre...]]></summary>
+        <author>
+            <name>Abhijeet Dave</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Launch an EC2 Instance and Set Up a Web Server Using HTTPD]]></title>
+        <id>672a1e5f52317a5d102c0dd9</id>
+        <link href="https://www.freecodecamp.org/news/how-to-launch-an-ec2-instance-and-a-web-server-using-httpd/"/>
+        <updated>2024-11-05T13:32:15.000Z</updated>
+        <summary type="html"><![CDATA[Hey there! Have you ever thought about creating your own web server on the cloud? Well, you’re in for a treat because in this article, we’re going to explore how you can launch an EC2 instance and use HTTPD to host a simple web server. Don’t worry – ...]]></summary>
+        <author>
+            <name>Kedar Makode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[API CRUD Course in Spanish – Learn Node.js, Express, MongoDB, and Authentication]]></title>
+        <id>672a09ff678d23ad0f6618bd</id>
+        <link href="https://www.freecodecamp.org/news/api-crud-course-in-spanish-learn-nodejs-express-mongodb-and-authentication/"/>
+        <updated>2024-11-05T12:05:19.000Z</updated>
+        <summary type="html"><![CDATA[CRUD operations are the foundation of back-end web development. CRUD stands for Create, Read, Update, and Delete. They are essential operations for modern web development because they are used to manage data in most web applications. We just publishe...]]></summary>
+        <author>
+            <name>Estefania Cassingena Navone</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fuzz Test Golang HTTP Services]]></title>
+        <id>672941e6066de072ede39685</id>
+        <link href="https://www.freecodecamp.org/news/how-to-fuzz-test-golang-http-services/"/>
+        <updated>2024-11-04T21:51:34.000Z</updated>
+        <summary type="html"><![CDATA[As a developer, you can’t always envision all of the possible inputs your programs or functions might receive. Even though you can define the major edge cases, you still can’t predict how your program will behave in the case of some weird unexpected ...]]></summary>
+        <author>
+            <name>Alex Pliutau</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Become an Open Source Master]]></title>
+        <id>67293d27f76256c5c96d08f9</id>
+        <link href="https://www.freecodecamp.org/news/become-an-open-source-master/"/>
+        <updated>2024-11-04T21:31:19.000Z</updated>
+        <summary type="html"><![CDATA[Open-source software has transformed the tech industry, creating powerful opportunities for learning, growth, and collaboration. By contributing to open-source projects, you can build essential coding skills, gain real-world experience, and make mean...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Less Common HTML Elements and How to Use Them in Your Code]]></title>
         <id>67292117f26a058bcaa2e19d</id>

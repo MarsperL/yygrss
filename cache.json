@@ -152,6 +152,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382107",
+          "author": "Richard Hubbard",
+          "description": "We can apply the concept of fluid typography to almost anything. This way we can have a layout that fluidly changes with the size of its parent container. Few users will ever see the transition, but they will all appreciate the results. Honestly, they will.\nFluid Everything Else originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/fluid-everything-else/",
+          "publishedOn": "2024-11-05T20:49:40.000Z",
+          "wordCount": 3585,
+          "title": "Fluid Everything Else",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382107"
+        },
+        {
           "id": "https://css-tricks.com/?p=382156",
           "author": "Lee Meyer",
           "description": "Can we recreate a JavaScript library for scrolling animations with a modern CSS approach using CSS Scroll-Driven Animations? Yes. Yes, we can.\nWeb-Slinger.css: Like Wow.js But With CSS-y Scroll Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -923,6 +933,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "672a51c02bb94277a075a484",
+          "author": "Programming with Shahan",
+          "description": "Imagine a messy room with clothes, books, and other items scattered everywhere. Finding something in that room would be tough, right? Now, think about writing messy code – it’s just as confusing, if not more! On the other hand, clean code is like an ...",
+          "link": "https://www.freecodecamp.org/news/how-to-write-clean-code-tips-for-developers/",
+          "publishedOn": "2024-11-05T17:11:28.000Z",
+          "wordCount": 4822,
+          "title": "How to Write Clean Code – Tips for Developers with Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730737606075/5cb4369b-9f2e-4f97-9765-ac00a62800c6.png"
+        },
+        {
+          "id": "672a2317dd9236b285ebb527",
+          "author": "Abhijeet Dave",
+          "description": "In modern web development, choosing the right technology is crucial because it impacts both the process and outcome of your projects. Using Django as a backend framework and Tailwind CSS as a utility-first CSS framework offers an efficient way to cre...",
+          "link": "https://www.freecodecamp.org/news/how-to-integrate-tailwind-with-django/",
+          "publishedOn": "2024-11-05T13:52:23.000Z",
+          "wordCount": 2220,
+          "title": "How to Integrate Tailwind with Django – With Code Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730270888412/a440ff74-6e8b-4879-8b47-15aedca45bc4.png"
+        },
+        {
+          "id": "672a1e5f52317a5d102c0dd9",
+          "author": "Kedar Makode",
+          "description": "Hey there! Have you ever thought about creating your own web server on the cloud? Well, you’re in for a treat because in this article, we’re going to explore how you can launch an EC2 instance and use HTTPD to host a simple web server. Don’t worry – ...",
+          "link": "https://www.freecodecamp.org/news/how-to-launch-an-ec2-instance-and-a-web-server-using-httpd/",
+          "publishedOn": "2024-11-05T13:32:15.000Z",
+          "wordCount": 2533,
+          "title": "How to Launch an EC2 Instance and Set Up a Web Server Using HTTPD",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730780706184/e2ac9a27-7221-47c6-a8ae-db2f62892036.png"
+        },
+        {
+          "id": "672a09ff678d23ad0f6618bd",
+          "author": "Estefania Cassingena Navone",
+          "description": "CRUD operations are the foundation of back-end web development. CRUD stands for Create, Read, Update, and Delete. They are essential operations for modern web development because they are used to manage data in most web applications. We just publishe...",
+          "link": "https://www.freecodecamp.org/news/api-crud-course-in-spanish-learn-nodejs-express-mongodb-and-authentication/",
+          "publishedOn": "2024-11-05T12:05:19.000Z",
+          "wordCount": 1470,
+          "title": "API CRUD Course in Spanish – Learn Node.js, Express, MongoDB, and Authentication",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730504665686/121585fe-f005-465e-8f2f-9ede7de87d38.png"
+        },
+        {
+          "id": "672941e6066de072ede39685",
+          "author": "Alex Pliutau",
+          "description": "As a developer, you can’t always envision all of the possible inputs your programs or functions might receive. Even though you can define the major edge cases, you still can’t predict how your program will behave in the case of some weird unexpected ...",
+          "link": "https://www.freecodecamp.org/news/how-to-fuzz-test-golang-http-services/",
+          "publishedOn": "2024-11-04T21:51:34.000Z",
+          "wordCount": 2434,
+          "title": "How to Fuzz Test Golang HTTP Services",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730664559414/b64781c3-341f-4a5d-94fe-38ff78099b42.png"
+        },
+        {
+          "id": "67293d27f76256c5c96d08f9",
+          "author": "Beau Carnes",
+          "description": "Open-source software has transformed the tech industry, creating powerful opportunities for learning, growth, and collaboration. By contributing to open-source projects, you can build essential coding skills, gain real-world experience, and make mean...",
+          "link": "https://www.freecodecamp.org/news/become-an-open-source-master/",
+          "publishedOn": "2024-11-04T21:31:19.000Z",
+          "wordCount": 1319,
+          "title": "Become an Open Source Master",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730755865026/3a5d182f-4518-4b78-b6ac-2be3b16e3fce.png"
+        },
         {
           "id": "67292117f26a058bcaa2e19d",
           "author": "Joan Ayebola",
