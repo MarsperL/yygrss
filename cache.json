@@ -152,6 +152,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382566",
+          "author": "Geoff Graham",
+          "description": "Do you subscribe to Piccalilli? You should. If you're reading that name for the first time, that would be none other than Andy Bell running the ship and he's reimagined the site from the ground-up after coming out of hibernation this year. You're likely familiar with Andy's great writing here on CSS-Tricks.\nComplete CSS Course originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/complete-css-course/",
+          "publishedOn": "2024-11-19T14:21:28.000Z",
+          "wordCount": 1834,
+          "title": "Complete CSS Course",
+          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382566"
+        },
+        {
           "id": "https://css-tricks.com/?p=382469",
           "author": "Geoff Graham",
           "description": "You've played Flexbox Froggy before, right? Or maybe Grid Garden? They're both absolute musts for learning the basics of modern CSS layout using Flexbox and CSS Grid. Thomas Park made those and he's back with another game: Anchoreum.\nAnchoreum: A New Game for Learning Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -840,41 +850,6 @@
           "wordCount": 1490,
           "title": "Callbacks on Web Components?",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380029"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380039",
-          "author": "Geoff Graham",
-          "description": "Hey look at that, the State of CSS Survey for 2024 is open and taking submissions. …\nQuick Hit #11 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/quick-hit-11-2/",
-          "publishedOn": "2024-08-21T21:25:08.000Z",
-          "wordCount": 1311,
-          "title": "Quick Hit #11",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380039"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380016",
-          "author": "Geoff Graham",
-          "description": "You ever find yourself in bumper-to-bumper traffic? I did this morning on the way to work (read: whatever cafe I fancy). There’s a pattern to it, right? Stop, go, stop, go, stop… it’s almost rhythmic and harmonious in the most …\nThe Intersection of Speed and Proximity originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-intersection-of-speed-and-proximity/",
-          "publishedOn": "2024-08-21T16:11:31.000Z",
-          "wordCount": 1931,
-          "title": "The Intersection of Speed and Proximity",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380016"
-        },
-        {
-          "id": "https://css-tricks.com/?p=379949",
-          "author": "Dave Seidman",
-          "description": "A client asked if we could mimic the “rubber band” scrolling behavior on many mobile devices. I’m sure you know what I’m talking about. It’s a behavior that already exists and happens automatically in most browsers. In iOS Safari, for …\nElastic Overflow Scrolling originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/elastic-overflow-scrolling/",
-          "publishedOn": "2024-08-21T14:41:47.000Z",
-          "wordCount": 2080,
-          "title": "Elastic Overflow Scrolling",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2024/08/elastic-scroll_1.mp4",
-            "length": "13586939",
-            "type": "video/mp4"
-          },
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/379949"
         }
       ]
     },
@@ -883,6 +858,86 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "673cc307f6df251b434f7f90",
+          "author": "Jesse Hall",
+          "description": "As a developer for over 20 years, I've seen firsthand how choosing the right framework can make or break a project. The term \"framework\" has become so broad that it's often misunderstood. Let's clear up the confusion and help you make better technica...",
+          "link": "https://www.freecodecamp.org/news/understanding-modern-development-frameworks-guide-for-devs/",
+          "publishedOn": "2024-11-19T16:55:35.000Z",
+          "wordCount": 4228,
+          "title": "Understanding Modern Development Frameworks: A Guide for Developers and Technical Decision-makers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731968979425/412c6bc7-e717-481b-aa9e-4962c9687115.png"
+        },
+        {
+          "id": "673cab723502f2a00d61ece1",
+          "author": "Birks Sachdev",
+          "description": "In this tutorial, we'll build a scalable URL shortening service using Node.js and Redis. This service will leverage distributed caching to handle high traffic efficiently, reduce latency, and scale seamlessly. We'll explore key concepts such as consi...",
+          "link": "https://www.freecodecamp.org/news/build-a-scalable-url-shortener-with-distributed-caching-using-redis/",
+          "publishedOn": "2024-11-19T15:14:58.000Z",
+          "wordCount": 2034,
+          "title": "How to Build a Scalable URL Shortener with Distributed Caching Using Redis",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/b9-odQi5oDo/upload/934c8b697ce5ce612a217d47ddf5430d.jpeg"
+        },
+        {
+          "id": "673ca31d6c7f56d7a860bbdf",
+          "author": "Birks Sachdev",
+          "description": "In this comprehensive guide, you’ll build a distributed rate limiter using Redis and Lua scripting to control user requests in a high-traffic environment. Rate limiting is crucial in any system to prevent abuse, manage traffic, and protect your resou...",
+          "link": "https://www.freecodecamp.org/news/build-rate-limiting-system-using-redis-and-lua/",
+          "publishedOn": "2024-11-19T14:39:25.000Z",
+          "wordCount": 2078,
+          "title": "How to Build a Distributed Rate Limiting System Using Redis and Lua Scripts",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/CGWK6k2RduY/upload/a5ac857cec1d18720a060fc5e3462cf3.jpeg"
+        },
+        {
+          "id": "673c929fd0881b2b1feaf916",
+          "author": "Timothy Olanrewaju",
+          "description": "We all come across memes almost every day on the internet. Whether you're scrolling through social media or chatting with friends, there's a good chance you'll stumble on a meme, or even share one yourself. A meme can be an image, a video, or gif tha...",
+          "link": "https://www.freecodecamp.org/news/create-meme-generator-using-html-canvas/",
+          "publishedOn": "2024-11-19T13:29:03.000Z",
+          "wordCount": 2365,
+          "title": "How to Create a Meme Generator Using HTML Canvas",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731783150771/d3ba743f-c945-482e-a25d-9d093c7e866b.jpeg"
+        },
+        {
+          "id": "673c8cdcb7f79bc9aa2f300f",
+          "author": "Joyce Lin",
+          "description": "Zigbee2MQTT is an open-source tool that lets you manage all of your Zigbee devices locally, so you don’t need cloud services or multiple proprietary hubs. This gives you more control and flexibility, whether used on its own or integrated with platfor...",
+          "link": "https://www.freecodecamp.org/news/how-to-set-up-zigbee2mqtt-with-docker/",
+          "publishedOn": "2024-11-19T13:04:28.000Z",
+          "wordCount": 2679,
+          "title": "How to Set Up Zigbee2MQTT with Docker for Home Automation",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731778246828/8371f4de-6771-4f57-9e2c-9c57ad651950.png"
+        },
+        {
+          "id": "673c7ac360ba8e6675690350",
+          "author": "Abraham Dahunsi",
+          "description": "In modern system design, Event-Driven Architecture (EDA) focuses on creating, detecting, using, and responding to events within a system. Events are significant occurrences that can affect a system’s hardware or software, such as user actions, state ...",
+          "link": "https://www.freecodecamp.org/news/how-to-implement-event-driven-data-processing/",
+          "publishedOn": "2024-11-19T11:47:15.000Z",
+          "wordCount": 2989,
+          "title": "How to Implement Event-Driven Data Processing with Traefik, Kafka, and Docker",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731772751529/58ee1304-a5d9-4be4-a709-1026de99ab3e.png"
+        },
+        {
+          "id": "673bdcd6088133abf555d52f",
+          "author": "Grant Riordan",
+          "description": "Knowing how your code performs is a crucial part of development. We strive to write the most optimal and performant code whilst keeping readability. In this article, I will show you how to test the performance of your code, benchmark your code, and i...",
+          "link": "https://www.freecodecamp.org/news/how-to-benchmark-your-code-in-csharp/",
+          "publishedOn": "2024-11-19T00:33:26.000Z",
+          "wordCount": 2856,
+          "title": "How to Benchmark Your Code in C#",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731752379027/4ec760c3-4183-4852-9d3d-e3a5c75b4bcf.png"
+        },
+        {
+          "id": "673bb7ca83cab2eb3eafb7af",
+          "author": "Birks Sachdev",
+          "description": "In this tutorial, we’ll build a real-time multiplayer Tic-Tac-Toe game using Node.js, Socket.IO, and Redis. This game allows two players to connect from different browser tabs, take turns playing, and see real-time updates as they play. We'll use Red...",
+          "link": "https://www.freecodecamp.org/news/build-a-real-time-multiplayer-tic-tac-toe-game-using-websockets-and-microservices/",
+          "publishedOn": "2024-11-18T21:55:22.000Z",
+          "wordCount": 2765,
+          "title": "Build a Real-Time Multiplayer Tic-Tac-Toe Game Using WebSockets and Microservices",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731400068976/3c951db9-929a-4d13-ba77-759932833a9a.jpeg"
+        },
         {
           "id": "6737abf27f9bd5ad3f21cfd7",
           "author": "Quincy Larson",
@@ -2902,36 +2957,6 @@
           "wordCount": 1123,
           "title": "Learn to Use the Gemini AI MultiModal Model",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724354591577/afcfa42a-2b11-4590-b6f1-06f7837aa7fc.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-serverless-crud-rest-api/",
-          "author": "Ifeanyi Otuonye",
-          "description": "Serverless computing emerged as a response to the challenges of traditional server-based architectures. With serverless, developers no longer need to manage or scale servers manually. Instead, cloud providers handle infrastructure management, allowin...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-serverless-crud-rest-api/",
-          "publishedOn": "2024-08-21T19:22:55.000Z",
-          "wordCount": 5301,
-          "title": "How to Build a Serverless CRUD REST API with the Serverless Framework, Node.js, and GitHub Actions",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724267592147/e9dc4429-6475-4d35-b0e8-81c116f769b8.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-create-software-architecture-diagrams-using-the-c4-model/",
-          "author": "Alex Pliutau",
-          "description": "As a developer, you'll likely work on a complex project at some point where deciphering the codebase feels like reading a whole novel. Engineers are code wizards, but even the best get lost in sprawling code. The challenge is that architecture diagra...",
-          "link": "https://www.freecodecamp.org/news/how-to-create-software-architecture-diagrams-using-the-c4-model/",
-          "publishedOn": "2024-08-21T18:50:04.000Z",
-          "wordCount": 2139,
-          "title": "How to Create Software Architecture Diagrams Using the C4 Model",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724187048778/7d2821c6-c0c9-4d03-999f-37022388210c.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/what-is-css-subgrid/",
-          "author": "Ophy Boamah",
-          "description": "When designers create layouts in their mockups, everything including the content typically looks perfectly aligned and consistent. But in the real world, user-generated content varies wildly. For example, one testimonial card might have a brief sente...",
-          "link": "https://www.freecodecamp.org/news/what-is-css-subgrid/",
-          "publishedOn": "2024-08-21T18:17:03.000Z",
-          "wordCount": 2066,
-          "title": "What is CSS Subgrid? A Practical Tutorial",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724227015705/f55ae862-c81f-4453-af92-cb96acf0d13d.png"
         }
       ]
     },
