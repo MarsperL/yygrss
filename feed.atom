@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2024-11-20T01:51:10.716Z</updated>
+    <updated>2024-11-21T01:50:54.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Learn Redux and Redux Toolkit for State Management]]></title>
+        <id>673e03874ee4d6be53b9fe65</id>
+        <link href="https://www.freecodecamp.org/news/learn-redux-and-redux-toolkit-for-state-management/"/>
+        <updated>2024-11-20T15:43:03.000Z</updated>
+        <summary type="html"><![CDATA[State management is one of the most important aspects of building scalable and efficient React applications. Whether you're managing user interactions, API data, or application-wide settings, having a robust tool for handling state can save time and ...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Invoker Commands: Additional Ways to Work With Dialog, Popover… and More?]]></title>
+        <id>https://css-tricks.com/?p=382572</id>
+        <link href="https://css-tricks.com/invoker-commands-additional-ways-to-work-with-dialog-popover-and-more/"/>
+        <updated>2024-11-20T15:12:34.000Z</updated>
+        <summary type="html"><![CDATA[Web browsers are experimenting with two HTML attributes — technically, they’re called “invoker commands” — that are designed to invoke popovers, dialogs, and further down the line, all kinds of actions without writing JavaScript. Although, if you do reach for JavaScript, the new attributes come with some new events that we can listen for.
+Invoker Commands: Additional Ways to Work With Dialog, Popover… and More? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Daniel Schwarz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Address Common Accessibility Challenges in iOS Mobile Apps Using SwiftUI]]></title>
+        <id>673dc0d9ed2a01b66ee9f37c</id>
+        <link href="https://www.freecodecamp.org/news/how-to-address-ios-accessibility-challenges-using-swiftui/"/>
+        <updated>2024-11-20T10:58:33.000Z</updated>
+        <summary type="html"><![CDATA[Mobile apps are essential tools in daily life, making accessibility a top priority. However, many apps still do not provide inclusive experiences for people with disabilities. This article highlights nine common accessibility challenges in mobile app...]]></summary>
+        <author>
+            <name>Namaswi Chandarana</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Flexible API with Feature Flags Using Open Source Tools]]></title>
+        <id>673d179a27c7af0d174dc2fc</id>
+        <link href="https://www.freecodecamp.org/news/build-a-flexible-api-with-feature-flags-using-open-source-tools/"/>
+        <updated>2024-11-19T22:56:26.000Z</updated>
+        <summary type="html"><![CDATA[Feature flagging has changed the paradigm of how backend developers can test and modify the things they build. With feature flags, we can enable and disable a feature or change the functionality of something on the fly with a single click (no need to...]]></summary>
+        <author>
+            <name>Pradumna Saraf</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Understanding Modern Development Frameworks: A Guide for Developers and Technical Decision-makers]]></title>
         <id>673cc307f6df251b434f7f90</id>
@@ -3126,52 +3167,6 @@ Quick Hit #12 originally published on CSS-Tricks, which is part of the DigitalOc
         <summary type="html"><![CDATA[<a href="#在Github上使用OsmosFeed搭建在线RSS阅读器（无需服务器）" class="headerlink"]]></summary>
         <author>
             <name>云野阁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Basic keyboard shortcut support for focused links]]></title>
-        <id>https://css-tricks.com/?p=380042</id>
-        <link href="https://css-tricks.com/basic-keyboard-shortcut-support-for-focused-links/"/>
-        <updated>2024-08-23T13:16:20.000Z</updated>
-        <summary type="html"><![CDATA[Eric gifting us with his research on all the various things that anchors (not links) do when they are in :focus.
-Turns out, there’s a lot!
-That’s an understatement! This is an incredible amount of work, even …
-Basic keyboard shortcut support for focused links originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create a MacOS App with React Native]]></title>
-        <id>https://www.freecodecamp.org/news/create-a-macos-app-with-react-native/</id>
-        <link href="https://www.freecodecamp.org/news/create-a-macos-app-with-react-native/"/>
-        <updated>2024-08-22T19:30:39.000Z</updated>
-        <summary type="html"><![CDATA[We are excited to announce the release of our latest course on the freeCodeCamp.org YouTube channel that will teach you how to use React Native to build a MacOS application. This course will guide you through the development of a fully integrated Mac...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn to Use the Gemini AI MultiModal Model]]></title>
-        <id>https://www.freecodecamp.org/news/learn-to-use-the-gemini-ai-multimodal-model/</id>
-        <link href="https://www.freecodecamp.org/news/learn-to-use-the-gemini-ai-multimodal-model/"/>
-        <updated>2024-08-22T19:23:26.000Z</updated>
-        <summary type="html"><![CDATA[Gemini is a suite of AI models that can understand and generate human-like responses based on the input it receives. We just published a Gemini course on the freeCodeCamp.org YouTube channel that is designed to guide you through the world of multimod...]]></summary>
-        <author>
-            <name>Beau Carnes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Callbacks on Web Components?]]></title>
-        <id>https://css-tricks.com/?p=380029</id>
-        <link href="https://css-tricks.com/callbacks-on-web-components/"/>
-        <updated>2024-08-22T14:01:35.000Z</updated>
-        <summary type="html"><![CDATA[A gem from Chris Ferdinandi that details how to use custom events to hook into Web Components. More importantly, Chris dutifully explains why custom events are a better fit than, say, callback functions.
-With a typical JavaScript library, you pass 
-…
-Callbacks on Web Components? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
 </feed>
