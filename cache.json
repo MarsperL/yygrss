@@ -132,6 +132,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382613",
+          "author": "Juan Diego Rodríguez",
+          "description": "Donut scoping addresses the challenge of preventing parent styles from leaking to nested content. Originating from a 2011 concept by Nicole Sullivan, the issue has evolved, culminating in 2024's @scope at-rule. This allows for more precise CSS styling, safeguarding content from unwanted inheritance while managing global CSS complexities.\nSolved by CSS: Donuts Scopes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/solved-by-css-donuts-scopes/",
+          "publishedOn": "2024-11-22T13:50:55.000Z",
+          "wordCount": 3026,
+          "title": "Solved by CSS: Donuts Scopes",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/11/donut-scope.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=382572",
           "author": "Daniel Schwarz",
           "description": "Web browsers are experimenting with two HTML attributes — technically, they’re called “invoker commands” — that are designed to invoke popovers, dialogs, and further down the line, all kinds of actions without writing JavaScript. Although, if you do reach for JavaScript, the new attributes come with some new events that we can listen for.\nInvoker Commands: Additional Ways to Work With Dialog, Popover… and More? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -818,6 +828,46 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6740bf4cd3bb67c73837c3ef",
+          "author": "Obum",
+          "description": "Role Based Access Control (RBAC) is a useful authorization model for users with different access levels, such as those in a community dashboard. In this article, you’ll learn how to integrate this type of authorization with Permit.io in Nuxt. Table o...",
+          "link": "https://www.freecodecamp.org/news/rbac-community-dashboard-with-nuxt/",
+          "publishedOn": "2024-11-22T17:28:44.000Z",
+          "wordCount": 2973,
+          "title": "How to Implement RBAC in a Community Dashboard with Nuxt",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732043730534/d88680d7-2590-4541-9120-40a43c3724ef.png"
+        },
+        {
+          "id": "6740b5ae31fc8f5b09184849",
+          "author": "Chidera Humphrey",
+          "description": "Forms are essential in modern websites, as they help you collect your users’ information. So knowing how to handle forms properly is crucial when you’re building web applications. In this article, you will learn how to handle forms in Next.js using s...",
+          "link": "https://www.freecodecamp.org/news/handling-forms-nextjs-server-actions-zod/",
+          "publishedOn": "2024-11-22T16:47:42.000Z",
+          "wordCount": 2628,
+          "title": "How to Handle Forms in Next.js with Server Actions and Zod for Validation",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732137561737/293681e0-d2f4-4d88-9fbe-f7e5e9113554.png"
+        },
+        {
+          "id": "6740ac934465e258a6ed9ff7",
+          "author": "Quincy Larson",
+          "description": "On this week's episode of the podcast, I interview Eamonn Cottrell. He's a software engineer who also runs a local chain of coffee shops in Knoxville. Eamonn taught himself to code using freeCodeCamp. And he's since published 37 freeCodeCamp tutorial...",
+          "link": "https://www.freecodecamp.org/news/self-taught-coding-automating-coffee-shop-chain-eamonn-cottrell-interview-151/",
+          "publishedOn": "2024-11-22T16:08:51.000Z",
+          "wordCount": 1168,
+          "title": "Automating a coffee shop chain using self-taught coding skills with Eamonn Cottrell [Interview #151]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732291205597/f1fc0cf3-a295-43be-9dd7-ecc4784bd71a.jpeg"
+        },
+        {
+          "id": "67409b36d94f5ae0c0e97650",
+          "author": "German Cocca",
+          "description": "As a developer with experience in JavaScript, you likely know how versatile the language is, especially when it comes to web development. JavaScript powers both frontend and backend development (thanks to Node.js) and has grown to become one of the m...",
+          "link": "https://www.freecodecamp.org/news/learn-python-for-javascript-developers-handbook/",
+          "publishedOn": "2024-11-22T14:54:46.000Z",
+          "wordCount": 11479,
+          "title": "How to Learn Python for JavaScript Developers [Full Handbook]",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732278833514/c23ea6ad-25b9-45c9-a7a7-c32499ca1d8b.jpeg"
+        },
         {
           "id": "673e738139346c3d3174676e",
           "author": "Temani Afif",
