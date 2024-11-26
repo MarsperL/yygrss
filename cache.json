@@ -780,36 +780,6 @@
           "wordCount": 1627,
           "title": "Shipping Tumblr and WordPress",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380195"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380061",
-          "author": "Geoff Graham",
-          "description": "I think it’s worth listening to anything Sara Soueidan has to say. That’s especially true if she’s speaking at an event for the first time in four years, which was the case when she took the stage at CSS Day …\nThe “Other” C in CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-other-c-in-css/",
-          "publishedOn": "2024-08-28T14:09:42.000Z",
-          "wordCount": 3554,
-          "title": "The “Other” C in CSS",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380061"
-        },
-        {
-          "id": "https://css-tricks.com/?p=380178",
-          "author": "Geoff Graham",
-          "description": "I created a little library at work to make those “skeleton screens” that I’m not sure anyone likes. […] We named it skellyCSS because… skeletons and CSS, I guess. We still aren’t even really using it very much, but it \n…\nIntroducing <skelly-wc> originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/introducing-shelly-wc/",
-          "publishedOn": "2024-08-28T14:05:00.000Z",
-          "wordCount": 1461,
-          "title": "Introducing <skelly-wc>",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/380178"
-        },
-        {
-          "id": "https://css-tricks.com/?p=365579",
-          "author": "Sunkanmi Fafowora",
-          "description": "AVIF (AV1 Image File Format) is a modern image file format specification for storing images that offer a much more significant file reduction when compared to other formats like JPG, JPEG, PNG, and WebP. Version 1.0.0 of the AVIF specification …\nUseful Tools for Creating AVIF Images originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/useful-tools-for-creating-avif-images/",
-          "publishedOn": "2024-08-28T14:00:49.000Z",
-          "wordCount": 2360,
-          "title": "Useful Tools for Creating AVIF Images",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/365579"
         }
       ]
     },
@@ -818,6 +788,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6745acca09ace2d743c17be9",
+          "author": "Kedar Makode",
+          "description": "In the world of modern software development, efficiency and consistency are key. Developers and operations teams need solutions that help them manage, deploy, and run applications seamlessly across different environments. Containers and Docker are te...",
+          "link": "https://www.freecodecamp.org/news/an-introduction-to-docker-and-containers-for-beginners/",
+          "publishedOn": "2024-11-26T11:11:06.000Z",
+          "wordCount": 2911,
+          "title": "An Introduction to Docker and Containers for Beginners",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1731093934598/6f2fa740-63e6-48e9-8e17-364544d1fcc6.png"
+        },
         {
           "id": "6740bf4cd3bb67c73837c3ef",
           "author": "Obum",
@@ -2857,36 +2837,6 @@
           "wordCount": 2323,
           "title": "Design-first vs Logic-first Approach – How Should You Start Your Front-end Projects?",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724861983210/118e84bc-0153-4b01-b880-e12fe012b7a5.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/build-a-shopping-cart-backend-with-spring-boot-and-spring-security/",
-          "author": "Beau Carnes",
-          "description": "We just posted a course on the freeCodeCamp.org YouTube channel that is designed to help you master Spring Boot and Spring Security by guiding you through the development of a fully functional shopping cart backend application. Samson Alfred created ...",
-          "link": "https://www.freecodecamp.org/news/build-a-shopping-cart-backend-with-spring-boot-and-spring-security/",
-          "publishedOn": "2024-08-28T18:28:12.000Z",
-          "wordCount": 1134,
-          "title": "Build a Shopping Cart Backend with Spring Boot and Spring Security",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724869670804/390e87e2-487d-410f-84f9-20f636b72439.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-use-gpt-to-analyze-large-datasets/",
-          "author": "David Clinton",
-          "description": "Absorbing and then summarizing very large quantities of content in just a few seconds truly is a big deal. As an example, a while back I received a link to the recording of an important 90 minute business video conference that I'd missed a few hours ...",
-          "link": "https://www.freecodecamp.org/news/how-to-use-gpt-to-analyze-large-datasets/",
-          "publishedOn": "2024-08-28T17:57:59.000Z",
-          "wordCount": 2178,
-          "title": "How to Use GPT to Analyze Large Datasets",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724798393633/8ad22b7c-646c-4c02-894d-6a6b08447049.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-implement-server-sent-events-in-go/",
-          "author": "Alex Pliutau",
-          "description": "Server-Sent Events (SSE) is a powerful technology that enables real-time, unidirectional communication from servers to clients. In this article, we'll explore how to implement SSE in Go, discussing its benefits, use cases, and providing practical exa...",
-          "link": "https://www.freecodecamp.org/news/how-to-implement-server-sent-events-in-go/",
-          "publishedOn": "2024-08-28T14:07:51.000Z",
-          "wordCount": 1703,
-          "title": "How to Implement Server-Sent Events in Go",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724762290560/de9c7afd-2a81-4bd6-aa12-da92a759ebdb.png"
         }
       ]
     },
@@ -2895,6 +2845,16 @@
       "feedUrl": "https://daverupert.com/atom.xml",
       "siteUrl": "https://daverupert.com",
       "articles": [
+        {
+          "id": "https://daverupert.com/2024/11/goodbye-moogs/",
+          "author": null,
+          "description": "The people who found you in the alley called you Cowboy. We called you Moogs, Moogers, Moogerton, Mr Moogs, Meesta, Two Meestas, Beef, Roast Beef, Roast Beefy Weefy, Kitty, Kitty cat, Long cat, Kitty kitty, Pretty kitty, and Meow meow. Those were all your names.\nToday we had to say goodbye to our cat Moogs (pronounced “Moo” like the cow says + “gs”). He was nearly 19 years old, which is about all you can ask for from a great cat. A senior cat with a thyroid problem – so his passing is not an incredible surprise – but he took a sudden downturn over the weekend. He died in his sleep.\nMy wife adopted him before we were even dating in 2006. I never had a cat, was more of a dog person, and I made it my mission to befriend the cat to win her over. I succeeded in my goal and he let me hold him li…",
+          "link": "https://daverupert.com/2024/11/goodbye-moogs/",
+          "publishedOn": "2024-11-26T03:08:00.000Z",
+          "wordCount": 982,
+          "title": "Goodbye, Moogs",
+          "imageUrl": "https://cdn.daverupert.com/opengraph/moogs.jpg"
+        },
         {
           "id": "https://daverupert.com/2024/10/hammers/",
           "author": null,
@@ -2964,6 +2924,113 @@
           "wordCount": 822,
           "title": "The Dev Tools Performance Monitor Panel",
           "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "海若博客",
+      "feedUrl": "https://hyruo.com/index.xml",
+      "siteUrl": "https://hyruo.com/",
+      "articles": [
+        {
+          "id": "https://hyruo.com/article/how-to-prevent-personal-extremist-incidents/",
+          "author": null,
+          "description": "近期，我国连续发生多起个人极端案事件，其中个别案件甚至导致重大人员伤亡情况，对社会安定秩序造成严重恶劣影响。我在之前曾写过一篇 <a class=\"link\" href=\"https://hyruo.com/article/reflections-on-murder-prevention/\"  target=\"_blank\" rel=\"noopener\"\r\n    >​关于命案防范的一点思考 对常规命案防控，从理论到实践进行了简单梳理和介绍，但内容比较宽泛，相较当前以报复社会为目的的个人极端案事件而言，在具体防控策略上还是有不少区别，这里再补充一下个人对预防个人极端案事件的一点思考。\n报复社会型个人极端案事件与普通命案的区别\r\n\n俗话说“冤有头债有主”，一般而言，普通命案中绝大部分犯罪者都是针对特定人、特定对象，或与犯罪者有特定交集的群体，除严重精神障碍人员肇事肇祸外，选择随机杀人的比例极少。\n<img src=\"https://hyruo.com/article/how-to-prevent-personal-extremist-incidents/6.webp\"\r\n\twidth=\"2520\"\r\n\theight=\"1415\"\r\n\tsrcset=\"https://hyruo.com/article/how-to-prevent-personal-extremist-incidents/6_hu537aa8616184e0ba67b63e0315cc8c0e_429796_480x0_resize_q75_h2_box_2.webp 480w, https://hyruo.com/article/how-to-prevent-personal-extremist-incidents/6_hu537aa8616184e0ba67b63e0315cc8c0e_429796_102…",
+          "link": "https://hyruo.com/article/how-to-prevent-personal-extremist-incidents/",
+          "publishedOn": "2024-11-20T10:20:00.000Z",
+          "wordCount": 461,
+          "title": "如何预防个人极端案事件",
+          "imageUrl": "https://hyruo.com/article/how-to-prevent-personal-extremist-incidents/7.webp"
+        },
+        {
+          "id": "https://hyruo.com/editor/why-does-not-chinese-need-logic/",
+          "author": null,
+          "description": "现在很多人习惯采用两分法来观察世界，非左即右，非黑即白，非此即彼。例如，对于人的划分，习惯分为文科生、理科生。而对于文科生的典型刻板印象就是不讲逻辑。\n套娃两分法\r\n\n两分法，作为一种简单的世界观，对于大多数老百姓来说也够用了。毕竟生活不易，真没那么多时间去研究真实世界到底咋样。\n因此不少人会在两分法基础上，不断套娃下去。例如，在将人群区分为文科生、理科生之后，进一步把是否懂逻辑、是否信科学、是否够客观等具像条件也按两分法往前者身上套。\n由此衍生出一个中文互联网上的怪异现象，一些人刻板地认为文科生不懂逻辑、不讲科学、不够客观。\n<img src=\"https://hyruo.com/editor/why-does-not-chinese-need-logic/VIX7qM3QfwxnSXWr.jpeg\"\r\n\twidth=\"2200\"\r\n\theight=\"1529\"\r\n\tsrcset=\"https://hyruo.com/editor/why-does-not-chinese-need-logic/VIX7qM3QfwxnSXWr_hu5459c0360c2b0cb7a147d2df0eb350ca_428078_480x0_resize_q75_box.jpeg 480w, https://hyruo.com/editor/why-does-not-chinese-need-logic/VIX7qM3QfwxnSXWr_hu5459c0360c2b0cb7a147d2df0eb350ca_428078_1024x0_resize_q75_box.jpeg 1024w\"\r\n\tloading=\"lazy\"\r\n\t\r\n\t\r\n\t\tclass=\"gallery-image\" \r\n\t\tdata-flex-grow=\"143\"\r\n\t\tdata-flex-basis=\"345px\"\r\n\t\r\n…",
+          "link": "https://hyruo.com/editor/why-does-not-chinese-need-logic/",
+          "publishedOn": "2024-11-14T14:40:00.000Z",
+          "wordCount": 324,
+          "title": "为什么中国人不喜欢逻辑学",
+          "imageUrl": "https://hyruo.com/editor/why-does-not-chinese-need-logic/pexels-photo-7944783.jpeg"
+        },
+        {
+          "id": "https://hyruo.com/editor/tour-guangzhou/",
+          "author": null,
+          "description": "有几个月没去广州了，最近刚好有同事说还没去过广州塔，所以陪着他们一起到广州一日游。\n说是一天吧，其实时间也不长，就沿着天河中轴线转了一下，先后去了广东省博物馆、永庆坊和广州塔。之所以最后选择去广州塔，是想着买傍晚时间的门票能够同时看到广州的日景和夜景。\n<img src=\"https://hyruo.com/editor/tour-guangzhou/GYqT4F7CQG4Vkphq.webp\"\r\n\twidth=\"2048\"\r\n\theight=\"1152\"\r\n\tsrcset=\"https://hyruo.com/editor/tour-guangzhou/GYqT4F7CQG4Vkphq_hue66368194817da73187c6c1fe70db4bd_293002_480x0_resize_q75_h2_box_2.webp 480w, https://hyruo.com/editor/tour-guangzhou/GYqT4F7CQG4Vkphq_hue66368194817da73187c6c1fe70db4bd_293002_1024x0_resize_q75_h2_box_2.webp 1024w\"\r\n\tloading=\"lazy\"\r\n\t\r\n\t\talt=\"天河中轴线-徬晚\"\r\n\t\r\n\t\r\n\t\tclass=\"gallery-image\" \r\n\t\tdata-flex-grow=\"177\"\r\n\t\tdata-flex-basis=\"426px\"\r\n\t\r\n>\n<img src=\"https://hyruo.com/editor/tour-guangzhou/QMitDEongwl2KpBj.webp\"\r\n\twidth=\"2048\"\r\n\theight=\"1152\"\r\n\tsrcset=\"https://hyruo.com/editor/tour-guangzhou/QMit…",
+          "link": "https://hyruo.com/editor/tour-guangzhou/",
+          "publishedOn": "2024-11-13T08:40:00.000Z",
+          "wordCount": 258,
+          "title": "广州一日游",
+          "imageUrl": "https://hyruo.com/editor/tour-guangzhou/6kCmZSyiOTX6Zdjr.webp"
+        },
+        {
+          "id": "https://hyruo.com/article/washington-does-not-welcome-trump/",
+          "author": null,
+          "description": "高中是我第一次走出大山，进到县城开始接触世界的起点。记得在 2004 年这个时候，我们学校的高中部教学楼还没建成，我们高 1 班与小学三、四年级几个班的学生同在一栋黄色琉璃瓦顶的四层教学楼里上课。\n<img src=\"https://hyruo.com/article/washington-does-not-welcome-trump/1.webp\"\r\n\twidth=\"1714\"\r\n\theight=\"589\"\r\n\tsrcset=\"https://hyruo.com/article/washington-does-not-welcome-trump/1_hu290075ccf28fcda15d8cd781029441fa_54536_480x0_resize_q75_h2_box_2.webp 480w, https://hyruo.com/article/washington-does-not-welcome-trump/1_hu290075ccf28fcda15d8cd781029441fa_54536_1024x0_resize_q75_h2_box_2.webp 1024w\"\r\n\tloading=\"lazy\"\r\n\t\r\n\t\r\n\t\tclass=\"gallery-image\" \r\n\t\tdata-flex-grow=\"291\"\r\n\t\tdata-flex-basis=\"698px\"\r\n\t\r\n>\n当时班上很多走读的同学都有上学路上顺手买份报纸的习惯，特别是 5 毛钱一份的潇湘晨报，份量大，内容多，一般都有 4 叠加起来十几张报纸，简直是居家生活学习神器。\n也就是这一年，我第一次从报纸上看到美国大选的事情。\n奇怪的选举\r\n\n在 2000 年后，小布什的名字可以说家喻户晓，911 事件、伊拉克战争、访华等新闻经常在电视新闻中出现。也让我一度觉得，这美国总统应该也是类似毛主席一样的人物…",
+          "link": "https://hyruo.com/article/washington-does-not-welcome-trump/",
+          "publishedOn": "2024-11-07T08:40:00.000Z",
+          "wordCount": 423,
+          "title": "华盛顿不欢迎特朗普",
+          "imageUrl": "https://hyruo.com/article/washington-does-not-welcome-trump/10.webp"
+        },
+        {
+          "id": "https://hyruo.com/article/mental-health-issues-in-minors/",
+          "author": null,
+          "description": "最近连续遇到三起关于未成年人的心理问题，其中两起已经发生不幸后果，另一起尚处于萌芽状态。\n三起案例\r\n\n高中生\n一名高三学生（17岁），因在模拟考试中连续考出不理想的成绩，然后心态失衡自杀。\n小学生\n一名小学四年级学生（9岁），因未知原因，在学校跳楼自杀。\n小学生\n一名小学一年级学生（6岁），因在校调皮，学校给家长施加压力转学，但找了几个学校都不愿意接收。\n<img src=\"https://hyruo.com/article/mental-health-issues-in-minors/3.webp\"\r\n\twidth=\"2250\"\r\n\theight=\"1500\"\r\n\tsrcset=\"https://hyruo.com/article/mental-health-issues-in-minors/3_hub59048d3d2d4cdff03f469402812fd6a_210822_480x0_resize_q75_h2_box_2.webp 480w, https://hyruo.com/article/mental-health-issues-in-minors/3_hub59048d3d2d4cdff03f469402812fd6a_210822_1024x0_resize_q75_h2_box_2.webp 1024w\"\r\n\tloading=\"lazy\"\r\n\t\r\n\t\r\n\t\tclass=\"gallery-image\" \r\n\t\tdata-flex-grow=\"150\"\r\n\t\tdata-flex-basis=\"360px\"\r\n\t\r\n>\n家庭教育问题是主因\r\n\n这三个案例都是最近这一个月发生的，有的是自己参与处理，有的就发生在自己朋友圈，都对我产生很大触动。特别是其中两个小学生，刚好跟我两个小孩同龄，不得不让我重新审视起自己对家庭教育的理解。\n家庭情况\r\n\n高中生甲的家庭\n…",
+          "link": "https://hyruo.com/article/mental-health-issues-in-minors/",
+          "publishedOn": "2024-11-05T03:40:00.000Z",
+          "wordCount": 335,
+          "title": "未成年人心理问题需要高度重视",
+          "imageUrl": "https://hyruo.com/article/mental-health-issues-in-minors/2.webp"
+        },
+        {
+          "id": "https://hyruo.com/article/midlife-shopping-festival/",
+          "author": null,
+          "description": "又到所谓的“双十一”购物节，看着手机上目不暇接的促销短信和电子邮件，以及时不时摁掉的促销电话，感觉内心毫无波澜。\n仔细回想了一下家中目前可能需要的生活必需品，大致就三样东西：剃须刀、洗发水、沐浴露。\n合计至多也就两三百块钱完事。\n生活必需品\r\n\n剃须刀\r\n\n因为胡子长得很快，工作日都是一天一剃，从学生时代以来，在剃须刀的选择上踩过很多坑。\n电动设备方面，常见飞科、博朗、松下、飞利浦都买过，体验最好的是松下一款，但使用时间并不长，主要是在国内找不到合适配件，单独在亚马逊购买又太贵。\n<img src=\"https://hyruo.com/article/midlife-shopping-festival/1.webp\"\r\n\twidth=\"1080\"\r\n\theight=\"364\"\r\n\tsrcset=\"https://hyruo.com/article/midlife-shopping-festival/1_huf3b1db4c0474509404dd960b5a3c274d_19470_480x0_resize_q75_h2_box_2.webp 480w, https://hyruo.com/article/midlife-shopping-festival/1_huf3b1db4c0474509404dd960b5a3c274d_19470_1024x0_resize_q75_h2_box_2.webp 1024w\"\r\n\tloading=\"lazy\"\r\n\t\r\n\t\r\n\t\tclass=\"gallery-image\" \r\n\t\tdata-flex-grow=\"296\"\r\n\t\tdata-flex-basis=\"712px\"\r\n\t\r\n>\n后来就彻底转投手动剃须刀阵营了。\n之前最常用就吉列 3 刀片的锋速 3，主要是 3 刀片相对 1、2 刀片在速度和效果上有着明显的优势，并且相较 5 …",
+          "link": "https://hyruo.com/article/midlife-shopping-festival/",
+          "publishedOn": "2024-11-04T07:40:00.000Z",
+          "wordCount": 383,
+          "title": "中年人的双十一能买啥",
+          "imageUrl": "https://hyruo.com/article/midlife-shopping-festival/9.webp"
+        },
+        {
+          "id": "https://hyruo.com/article/the-middle-school-education-that-cannot-afford-to-lose/",
+          "author": null,
+          "description": "昨天，我到本地一所寄宿制初中学校参与一场关于预防校园霸凌的授课活动。\n校园感受\r\n\n刚走进校园，耳朵里就传来大喇叭声音，一个带着些许怒意的中年男声，在逐个班级点名通知相关同学立马到操场报道。\n接着映入眼帘的是整齐划一的学生队伍和严肃认真的教师面孔。\n学生们在操场上进行着半军事化管理的集合，步伐整齐，口号响亮，然后在老师带领下排队进入会场。\n在进入会场后，由于从门外新进来的学生不知道应该坐到哪一排座位。\n一位女老师几乎以歇斯底里的声音在全程怒吼着让排队入场的学生依次往后座下去。过程中还夹杂着些许普粤混用的粗话。\n我坐在第一排门口座位上，看着一个个鱼贯而入的身影，特别是那一张张青春懵懂中带着一丝桀骜不驯的面庞，感觉十分陌生。\n这一幕让我不禁回想起自己的初中时代，我印象中整个初中年代都是相对温和的，老师们更多是以引导和关爱为主，而不是如今这般严苛的管理模式。\n即便是我记忆中最不愿回想的一个场景：一位数学老师因为在对我家访的过程中产生不愉快的经历而在课堂上对此进行公开批评。\n但其实那场批评，只有他和我两个人知道是怎么回事，因为他并没有公开点出我的名字。\n这次的主题是关于预防校园霸凌，直接的目的是加强青少年成长保护，预防青少年犯罪。\n在此次活动开始前，我曾找相关部门协助确定授课对象，对方不假思索立即给出答案，就去这所学校。\n原因也不言自明，该校是本地在该方面问题较为突出的学校。近年来多次发生一些负面问题。\n问题成因\r\n\n在活动过程中，我大概感受到这类学校之所以问题较为突出的几个原因。\n普职分离大背景下，普通初中学校被冷落。在各地普遍性不到50%的高中升学率情况下，对于那些处于非城市核心区域、不具有传统教育优势的学校而言，高中升学率很可能在10%甚至5%以下，绝大多数都只能读职高和技工学校。这种情况下，不仅学校教师没有太多动力，学生家长也不自觉放低了对子女的期许。使得大量进入青春期的小…",
+          "link": "https://hyruo.com/article/the-middle-school-education-that-cannot-afford-to-lose/",
+          "publishedOn": "2024-10-25T07:40:00.000Z",
+          "wordCount": 292,
+          "title": "输不起的初中教育",
+          "imageUrl": "https://hyruo.com/article/the-middle-school-education-that-cannot-afford-to-lose/000.webp"
+        },
+        {
+          "id": "https://hyruo.com/article/save-screenshots-in-webp-format-by-default-on-windows/",
+          "author": null,
+          "description": "前几天写了一篇关于  <a class=\"link\" href=\"https://hyruo.com/article/convert-pictures-to-webp-for-hugo/\"  target=\"_blank\" rel=\"noopener\"\r\n    >将Hugo中图片批量转换为Webp 的文章，但是遗留下一个问题没有解决：即 webp 来源问题。\n由于 Windows 的 GDI 工具默认只支持 jpg png 等格式，想在 windows 上将截图直接保存为 webp 目前并没有很好的实现方法，所以在这里简单记录一下个人经验。\n第三方截图工具+第三方转换工具自动保存\r\n\n我在上边讲的文章中有个评论提到\n我电脑上没有太好的图片处理软件，平常都是直接截图多。在写了这个文章后，我搜了下webp截图软件，居然没找到。都得借助两个软件才能实现，一种是用 sharex 截图软件 + imagemagick 转换软件，在使用 sharex 的时候，通过内置自动化程序引入 imagemagick.exe 自动转换为webp。另一种是用 greenshot 截图软件 + imagemagick （Mogrify） 转换软件，也是同样的原理，截图时引入 mogrify.exe 自动转换。\n上述两种方法，分别可以在以下地址查到。\n方法一：https://limour.xlog.app/WEBP-jie-tu-gong-ju-ShareX–imagemagick?locale=zh\n<img src=\"https://hyruo.com/article/save-screenshots-in-webp-format-by-default-on-windows/d.webp\"\r\n\twidth=\"1270\"\r\n\theight=\"734\"\r\n\tsrcset=\"https://hyruo.…",
+          "link": "https://hyruo.com/article/save-screenshots-in-webp-format-by-default-on-windows/",
+          "publishedOn": "2024-10-24T11:35:00.000Z",
+          "wordCount": 616,
+          "title": "让windows自带截图工具默认保存图片为webp格式",
+          "imageUrl": "https://hyruo.com/article/save-screenshots-in-webp-format-by-default-on-windows/00.webp"
+        },
+        {
+          "id": "https://hyruo.com/article/some-questions-about-chinese-history/",
+          "author": null,
+          "description": "我们常常能在网络上看到对于中国历史上同一事件出现形态迥异甚至完全相反的各种解读，有时候会感觉很困惑，甚至容易让人产生一种无力感，觉得自己的人生观、价值观被彻底颠覆。\n在讲这个问题之前，还是有必要先解释几个常用名词。\n史观（历史观）\r\n\n学术上以人们对历史的总体看法和理解方法之不同，作出了不同历史观划分。常见包括以下几类：\n唯物史观：唯物史观是马克思主义历史观的核心，认为物质生产方式是社会发展的基础，社会存在决定社会意识。唯物史观强调经济基础对上层建筑（政治、法律、文化等）的决定作用，认为历史是由生产力和生产关系的矛盾运动推动的。\n唯心史观：唯心史观认为历史的发展主要由人的思想、理念和精神力量所决定。唯心史观强调精神、意识和观念在历史发展中的主导作用，认为历史是理念的实现过程。\n社会史观：社会史观关注普通人的生活和社会结构的变化，认为历史是由广大人民群众共同创造的。社会史观强调社会结构、文化、日常生活和社会运动在历史发展中的作用，注重社会底层和边缘群体的历史。\n文明史观：文明史观认为历史是不同文明之间的互动、冲突和融合的过程。文明史观关注文明的兴衰、文化的传播和交流，认为文明的冲突和合作是推动历史发展的重要因素。\n后现代史观：后现代史观质疑传统历史叙述的客观性和权威性，认为历史是多元和相对的。后现代史观强调历史叙述的主观性和多样性，反对单一的历史解释，注重边缘化群体和非主流历史的研究。\n其他还有英雄史观、进步史观、循环史观、生态史观等等，但总体来说，当前在中国严肃的历史研究领域都以上边五种为主。\n但是，在网络上就完全不一样了。特别是对于中国历史领域的网络话题而言，由于 1840 年之后的屈辱历史，导致衍生出三个非常重要的史观派系，并在当前网络上极度活跃。\nA.皇汉史观\r\n\n皇汉史观是一种强调中华民族（特别是汉民族）优越性和历史连续性的历史观。这种史观通常具有民族主义色彩，强调…",
+          "link": "https://hyruo.com/article/some-questions-about-chinese-history/",
+          "publishedOn": "2024-10-23T03:40:00.000Z",
+          "wordCount": 367,
+          "title": "网络争议历史问题究竟是在争啥",
+          "imageUrl": "https://hyruo.com/article/some-questions-about-chinese-history/0.webp"
+        },
+        {
+          "id": "https://hyruo.com/article/can-court-cancel-assessment-indicators/",
+          "author": null,
+          "description": "最近最高检宣布取消不合理考核指标，被不少人误读为最高检要取消绩效考核，更有甚者，一些人幻想法院考核指标也会取消。\n对此，我只想说，这种想法还是太简单。\n考核指标设置的意义是什么\r\n\n在政府工作中设置考核指标的意义在于它们作为评估和衡量政府机构及其工作人员绩效、效率和成果的关键工具。这些指标为确定政策和项目目标是否达成提供了清晰和客观的基础，并有助于识别需要改进的领域。在政府环境中，考核指标可以指导决策、更有效地分配资源并确保问责制。它们还通过突出优势和劣势来促进持续改进的文化，从而带来有针对性的培训和发展机会。此外，考核指标对于在绩效评估中促进透明度和公平性至关重要，这可以提高公众对政府的信任和满意度。总的来说，它们对于推动政府工作的有效性和实现公共利益至关重要。\n以上是 AI 回答，但在中国，考核指标除了上述意义外，还有个更为现实的作用，提升制度自信、道路自信和民族自信。\n也就是以指标来参与考核排名。\n例如，在县一级，考核指标目的就是要争取本县在全市排名领先，厉害的县甚至会紧盯全省同行数据，确保自己在全省领先。\n而到省一级，搞指标的目的也是追求全国排名领先。\n那最高法、最高检搞指标目的是啥？不就剩只一个全球领先了吗？\n<img src=\"https://hyruo.com/article/can-court-cancel-assessment-indicators/who.webp\"\r\n\twidth=\"2393\"\r\n\theight=\"1424\"\r\n\tsrcset=\"https://hyruo.com/article/can-court-cancel-assessment-indicators/who_hu740f76b587c35b6a18ed60eff72151c1_63186_480x0_resize_q75_h2_box_2.webp 480w, https://h…",
+          "link": "https://hyruo.com/article/can-court-cancel-assessment-indicators/",
+          "publishedOn": "2024-10-22T03:40:00.000Z",
+          "wordCount": 304,
+          "title": "法院考核指标可以取消吗",
+          "imageUrl": "https://hyruo.com/article/can-court-cancel-assessment-indicators/d.webp"
         }
       ]
     }
