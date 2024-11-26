@@ -132,6 +132,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382593",
+          "author": "Geoff Graham",
+          "description": "Most images require description for clarity, there are exceptions. This set of notes looks at different situations and contexts where alt text may not be needed and what to do in those cases.\nAlt Text: Not Always Needed originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/alt-text-not-always-needed/",
+          "publishedOn": "2024-11-25T15:23:39.000Z",
+          "wordCount": 2876,
+          "title": "Alt Text: Not Always Needed",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2019/02/image-alt-attribute.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=382613",
           "author": "Juan Diego Rodríguez",
           "description": "Donut scoping addresses the challenge of preventing parent styles from leaking to nested content. Originating from a 2011 concept by Nicole Sullivan, the issue has evolved, culminating in 2024's @scope at-rule. This allows for more precise CSS styling, safeguarding content from unwanted inheritance while managing global CSS complexities.\nSolved by CSS: Donuts Scopes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -2877,56 +2887,6 @@
           "wordCount": 1703,
           "title": "How to Implement Server-Sent Events in Go",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724762290560/de9c7afd-2a81-4bd6-aa12-da92a759ebdb.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-handle-file-uploads-in-nestjs-with-multer/",
-          "author": "Abimbola Adedotun Samuel",
-          "description": "Uploading files is an important need in many applications. Using Multer, you can set up a NestJS file upload feature in an easy and straightforward way. In this guide, we’ll walk through the steps to create a resource dedicated to file uploads, ensur...",
-          "link": "https://www.freecodecamp.org/news/how-to-handle-file-uploads-in-nestjs-with-multer/",
-          "publishedOn": "2024-08-28T02:42:00.000Z",
-          "wordCount": 1498,
-          "title": "How to Handle File Uploads in NestJS with Multer",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724695369812/b0511a24-bbb6-4dae-9ccf-b511383b8f6a.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/react-compiler-complete-guide-react-19/",
-          "author": "Tapas Adhikary",
-          "description": "In this tutorial, you'll learn how the React compiler can help you write more optimized React applications. React is a user interface library that has been doing its job quite well for over a decade. The component architecture, uni-directional data f...",
-          "link": "https://www.freecodecamp.org/news/react-compiler-complete-guide-react-19/",
-          "publishedOn": "2024-08-27T22:35:47.000Z",
-          "wordCount": 3790,
-          "title": "How to Use React Compiler – A Complete Guide",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724760187590/f7115fd3-6291-4920-9522-61de269a47f3.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/excel-for-data-visualization/",
-          "author": "Beau Carnes",
-          "description": "Excel can be great for data visualization. We just published course on the freeCodeCamp.org YouTube channel that is a comprehensive guide to Excel data visualization and dashboard creation. This course is designed to equip you with the skills needed ...",
-          "link": "https://www.freecodecamp.org/news/excel-for-data-visualization/",
-          "publishedOn": "2024-08-27T21:28:30.000Z",
-          "wordCount": 1121,
-          "title": "Excel for Data Visualization",
-          "imageUrl": "https://cdn.freecodecamp.org/platform/universal/fcc_meta_1920X1080-indigo.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/learn-java-testing-with-selenium/",
-          "author": "Beau Carnes",
-          "description": "Are you looking to enhance your skills in automated web testing? We just published a comprehensive video course on the freeCodeCamp.org YouTube channel, designed to teach you how to use Selenium with Java using the Page Object Model. Created by Rex J...",
-          "link": "https://www.freecodecamp.org/news/learn-java-testing-with-selenium/",
-          "publishedOn": "2024-08-27T21:20:52.000Z",
-          "wordCount": 1156,
-          "title": "Learn Java Testing with Selenium",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724793636526/bd2fbf2d-1e0f-4a33-a77f-c8314d71330c.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-an-accessible-modal-with-example-code/",
-          "author": "Elizabeth Lola",
-          "description": "We often use modals or popups to display important information or prompt users to take action. Unlike regular pop-ups that can be opened in new windows or tabs, these dialogues keep the user on the same page by overlaying the existing content. This e...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-an-accessible-modal-with-example-code/",
-          "publishedOn": "2024-08-27T15:10:54.000Z",
-          "wordCount": 2560,
-          "title": "How to Build an Accessible Modal – with Example Code",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724337698676/aa23c219-2ffb-4424-bb34-3195a905d973.jpeg"
         }
       ]
     },
