@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2024-11-26T15:46:02.560Z</updated>
+    <updated>2024-11-27T01:54:34.708Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS EC2: How to Quickly Host Your Website with User Data Scripts]]></title>
+        <id>67462204c9e1cbc5414b4e0c</id>
+        <link href="https://www.freecodecamp.org/news/aws-ec2-how-to-host-a-website-with-user-data-scripts/"/>
+        <updated>2024-11-26T19:31:16.000Z</updated>
+        <summary type="html"><![CDATA[If you want to practice and improve your web hosting skills, this tutorial is for you. With AWS EC2 and a little magic called user data scripts, you’ll be running a stunning website with a CSS template in no time. And the best part? You don’t need to...]]></summary>
+        <author>
+            <name>Kedar Makode</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local AI Development with Ollama Course]]></title>
+        <id>6745ffa3608b32cb4a868bca</id>
+        <link href="https://www.freecodecamp.org/news/local-ai-development-with-ollama-course/"/>
+        <updated>2024-11-26T17:04:35.000Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence is evolving rapidly, and with tools like Ollama, you can bring cutting-edge AI capabilities directly to your local environment. Learning how to harness local large language models (LLMs) can open up a world of opportunities. L...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Follow Up: We Officially Have a CSS Logo!]]></title>
+        <id>https://css-tricks.com/?p=382773</id>
+        <link href="https://css-tricks.com/follow-up-we-officially-have-a-css-logo/"/>
+        <updated>2024-11-26T15:53:39.000Z</updated>
+        <summary type="html"><![CDATA[Adam Argyle wraps up the search for a CSS logo, check out CSS' new look!
+Follow Up: We Officially Have a CSS Logo! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Ryan Trimble</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Simplify AWS Multi-Account Management with Terraform and GitOps]]></title>
+        <id>6745e19265a8ceed4a65c3eb</id>
+        <link href="https://www.freecodecamp.org/news/simplify-aws-multi-account-management-with-terraform-and-gitops/"/>
+        <updated>2024-11-26T14:56:18.000Z</updated>
+        <summary type="html"><![CDATA[In the past, in the world of cloud computing, a company's journey often began with a single AWS account. In this unified space, development and testing environments coexisted, while the production environment lived in a separate account. This arrange...]]></summary>
+        <author>
+            <name>Nitheesh Poojary</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Introduction to Docker and Containers for Beginners]]></title>
         <id>6745acca09ace2d743c17be9</id>
@@ -3294,16 +3335,6 @@ This won’t be easy. Tumblr hosts over half a billion blogs. We’re talking ab
 Shipping Tumblr and WordPress originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Design-first vs Logic-first Approach – How Should You Start Your Front-end Projects?]]></title>
-        <id>https://www.freecodecamp.org/news/design-first-vs-logic-first-approach/</id>
-        <link href="https://www.freecodecamp.org/news/design-first-vs-logic-first-approach/"/>
-        <updated>2024-08-29T12:41:07.000Z</updated>
-        <summary type="html"><![CDATA[Front-end development is the aspect of web development that involves building user-friendly, dynamic and intuitive interfaces. A front-end developer is primarily concerned about the interface design that the user interacts with and the user’s experie...]]></summary>
-        <author>
-            <name>Timothy Olanrewaju</name>
         </author>
     </entry>
 </feed>

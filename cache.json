@@ -132,6 +132,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382773",
+          "author": "Ryan Trimble",
+          "description": "Adam Argyle wraps up the search for a CSS logo, check out CSS' new look!\nFollow Up: We Officially Have a CSS Logo! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/follow-up-we-officially-have-a-css-logo/",
+          "publishedOn": "2024-11-26T15:53:39.000Z",
+          "wordCount": 1753,
+          "title": "Follow Up: We Officially Have a CSS Logo!",
+          "imageUrl": "https://css-tricks.com/wp-content/uploads/2024/11/css-logos.avif"
+        },
+        {
           "id": "https://css-tricks.com/?p=382593",
           "author": "Geoff Graham",
           "description": "Most images require description for clarity, there are exceptions. This set of notes looks at different situations and contexts where alt text may not be needed and what to do in those cases.\nAlt Text: Not Always Needed originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -788,6 +798,36 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67462204c9e1cbc5414b4e0c",
+          "author": "Kedar Makode",
+          "description": "If you want to practice and improve your web hosting skills, this tutorial is for you. With AWS EC2 and a little magic called user data scripts, you’ll be running a stunning website with a CSS template in no time. And the best part? You don’t need to...",
+          "link": "https://www.freecodecamp.org/news/aws-ec2-how-to-host-a-website-with-user-data-scripts/",
+          "publishedOn": "2024-11-26T19:31:16.000Z",
+          "wordCount": 1872,
+          "title": "AWS EC2: How to Quickly Host Your Website with User Data Scripts",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732639814571/62719c49-cd15-4f2c-9586-22a5a300bc4a.png"
+        },
+        {
+          "id": "6745ffa3608b32cb4a868bca",
+          "author": "Beau Carnes",
+          "description": "Artificial Intelligence is evolving rapidly, and with tools like Ollama, you can bring cutting-edge AI capabilities directly to your local environment. Learning how to harness local large language models (LLMs) can open up a world of opportunities. L...",
+          "link": "https://www.freecodecamp.org/news/local-ai-development-with-ollama-course/",
+          "publishedOn": "2024-11-26T17:04:35.000Z",
+          "wordCount": 1335,
+          "title": "Local AI Development with Ollama Course",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732640638451/ecee4cf1-efb6-41cc-823b-4808bc1670df.jpeg"
+        },
+        {
+          "id": "6745e19265a8ceed4a65c3eb",
+          "author": "Nitheesh Poojary",
+          "description": "In the past, in the world of cloud computing, a company's journey often began with a single AWS account. In this unified space, development and testing environments coexisted, while the production environment lived in a separate account. This arrange...",
+          "link": "https://www.freecodecamp.org/news/simplify-aws-multi-account-management-with-terraform-and-gitops/",
+          "publishedOn": "2024-11-26T14:56:18.000Z",
+          "wordCount": 3971,
+          "title": "How to Simplify AWS Multi-Account Management with Terraform and GitOps",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1730239127065/317aa4dd-aba9-4a9e-8abb-7cacfbd0e672.png"
+        },
         {
           "id": "6745acca09ace2d743c17be9",
           "author": "Kedar Makode",
@@ -2827,16 +2867,6 @@
           "wordCount": 3303,
           "title": "How to Build a RAG Pipeline with LlamaIndex",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725024307257/62401eea-25ab-4f00-93d7-76d7c49cf330.jpeg"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/design-first-vs-logic-first-approach/",
-          "author": "Timothy Olanrewaju",
-          "description": "Front-end development is the aspect of web development that involves building user-friendly, dynamic and intuitive interfaces. A front-end developer is primarily concerned about the interface design that the user interacts with and the user’s experie...",
-          "link": "https://www.freecodecamp.org/news/design-first-vs-logic-first-approach/",
-          "publishedOn": "2024-08-29T12:41:07.000Z",
-          "wordCount": 2323,
-          "title": "Design-first vs Logic-first Approach – How Should You Start Your Front-end Projects?",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1724861983210/118e84bc-0153-4b01-b880-e12fe012b7a5.png"
         }
       ]
     },
