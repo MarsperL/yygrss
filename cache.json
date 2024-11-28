@@ -132,6 +132,21 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382697",
+          "author": "Scott Fennell",
+          "description": "What's it look like to create a dashboard within the WordPress admin for analyzing Google Analytics data across 900 blogs across 25 multisite instances? It involves designing a user-friendly interface, leveraging the WordPress REST API, implementing a plugin for data retrieval, and addressing challenges like rate limits and authentication.\nWordPress Multi-Multisite: A Case Study originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/wordpress-multi-multisite-a-case-study/",
+          "publishedOn": "2024-11-27T16:09:14.000Z",
+          "wordCount": 5785,
+          "title": "WordPress Multi-Multisite: A Case Study",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2024/11/2b6LXlN.mp4",
+            "length": "783997",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2024/11/wp-multisite.jpg"
+        },
+        {
           "id": "https://css-tricks.com/?p=382773",
           "author": "Ryan Trimble",
           "description": "Adam Argyle wraps up the search for a CSS logo, check out CSS' new look!\nFollow Up: We Officially Have a CSS Logo! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -788,6 +803,56 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "674755a7cc41aab7422d5afb",
+          "author": "Mihail Gaberov",
+          "description": "Recently, while watching my kid 🧒🏻 playing free memory games on her tablet, I noticed her struggling with an overwhelming number of ads and annoying pop-up banners. This inspired me to build a similar game for her. Since she's currently into anime,...",
+          "link": "https://www.freecodecamp.org/news/how-to-build-a-memory-card-game-using-react/",
+          "publishedOn": "2024-11-27T17:23:51.000Z",
+          "wordCount": 4499,
+          "title": "How to Build a Memory Card Game Using React",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732517515517/1ddfb635-6188-492a-9216-4b35ffb92096.png"
+        },
+        {
+          "id": "674742bddd0689ed5ac84f80",
+          "author": "Beau Carnes",
+          "description": "Building modern, scalable web applications requires mastering the tools and patterns that power dynamic, production-ready platforms. Event-driven architecture is one of these patterns, enabling applications to efficiently handle real-time interaction...",
+          "link": "https://www.freecodecamp.org/news/learn-event-driven-architecture-by-building-a-saas-application/",
+          "publishedOn": "2024-11-27T16:03:09.000Z",
+          "wordCount": 1305,
+          "title": "Learn Event Driven Architecture by Building a SaaS Application",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732723339763/00a52032-bb51-4b07-b666-7bc771e58395.jpeg"
+        },
+        {
+          "id": "67473fd3641b955d44e3795b",
+          "author": "Beau Carnes",
+          "description": "Learning React can feel challenging at first, especially when you're unsure of how to start or find yourself staring at an empty code editor. But the right course can help you understand the core concepts and help you gain practical experience by bui...",
+          "link": "https://www.freecodecamp.org/news/learn-react-2024/",
+          "publishedOn": "2024-11-27T15:50:43.000Z",
+          "wordCount": 1303,
+          "title": "Learn React from Bob Ziroll",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732722597387/3673fe55-8729-41b5-8517-f59d2e5d9fb8.jpeg"
+        },
+        {
+          "id": "67472c4bfc3f1e96f2028a30",
+          "author": "Manish Shivanandhan",
+          "description": "When learning about cybersecurity, you’ll quickly realize that some vulnerabilities are more dangerous than others. One of the most serious ones is called command execution.  Hackers use it to run harmful commands on a system, gain access to sensitiv...",
+          "link": "https://www.freecodecamp.org/news/how-hackers-use-command-execution-to-break-into-systems/",
+          "publishedOn": "2024-11-27T14:27:23.000Z",
+          "wordCount": 1837,
+          "title": "How Hackers Use Command Execution to Break Into Systems",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732527958866/65644a19-376f-480b-a46e-d5f204ce9515.jpeg"
+        },
+        {
+          "id": "6747274cb7666002fd1cb1a6",
+          "author": "Orim Dominic Adah",
+          "description": "Database migrations are modifications made to a database. These modifications may include changing the schema of a table, updating the data in a set of records, seeding data or deleting a range of records. Database migrations are usually run before a...",
+          "link": "https://www.freecodecamp.org/news/handle-mongodb-migrations-with-ts-migrate-mongoose/",
+          "publishedOn": "2024-11-27T14:06:04.000Z",
+          "wordCount": 2413,
+          "title": "How to Handle MongoDB Migrations with ts-migrate-mongoose",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732615343335/0a1b3e5e-bfa7-4f57-81a7-7f4bac9e8b0a.png"
+        },
         {
           "id": "67462204c9e1cbc5414b4e0c",
           "author": "Kedar Makode",
@@ -2847,16 +2912,6 @@
           "wordCount": 940,
           "title": "Spotify Developer Emma Bostian Talks Coding, Hiring Devs, and European Work Culture",
           "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725040447869/b62bfe74-3066-4127-bceb-19e87b131d24.png"
-        },
-        {
-          "id": "https://www.freecodecamp.org/news/how-to-build-a-rag-pipeline-with-llamaindex/",
-          "author": "Bhavishya Pandit",
-          "description": "Large Language Models are everywhere these days – think ChatGPT – but they have their fair share of challenges. One of the biggest challenges faced by LLMs is hallucination. This occurs when the model generates text that is factually incorrect or mis...",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-rag-pipeline-with-llamaindex/",
-          "publishedOn": "2024-08-30T13:30:49.000Z",
-          "wordCount": 3303,
-          "title": "How to Build a RAG Pipeline with LlamaIndex",
-          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1725024307257/62401eea-25ab-4f00-93d7-76d7c49cf330.jpeg"
         }
       ]
     },
@@ -3051,6 +3106,213 @@
           "wordCount": 304,
           "title": "法院考核指标可以取消吗",
           "imageUrl": "https://hyruo.com/article/can-court-cancel-assessment-indicators/d.webp"
+        }
+      ]
+    },
+    {
+      "title": "运维小弟",
+      "feedUrl": "https://www.srebro.cn/rss.xml",
+      "siteUrl": "https://srebro.cn/",
+      "articles": [
+        {
+          "id": "/archives/1732697072164",
+          "author": null,
+          "description": "一、常见CPU 架构： 二、环境信息 CPU架构 操作系统 配置 HUAWEI Kunpeng 920 5220 aarch64 openEuler 22.03 (LTS-SP3) 64C128g15T 三、安装docker 3.1 二进制包下载 docker-ce 社区下载地址： wget htt",
+          "link": "https://srebro.cn/archives/1732697072164",
+          "publishedOn": "2024-11-27T08:45:17.000Z",
+          "wordCount": 2190,
+          "title": "ARM架构下安装新版docker及docker-compose",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/7039FE62-8D0E-4009-9420-6FA65B694FC3.jpg"
+        },
+        {
+          "id": "/archives/1731041508690",
+          "author": null,
+          "description": "背景： Go 语言的 net/http/pprgf包如未配置正确暴露在公网容易引起敏感信息泄漏问题，导致源码等信息泄漏。 influxdb 2 默认是开启pprof的 使用 localhost:8086/debug/pprof/goroutine?debug=1 可以看到接口暴露的信息 如何关闭pp",
+          "link": "https://srebro.cn/archives/1731041508690",
+          "publishedOn": "2024-11-08T04:52:48.000Z",
+          "wordCount": 2042,
+          "title": "InfluxDB 2 关闭pprof",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/01CDE1E5-2449-4AFB-A2D6-04758BF228F4.png"
+        },
+        {
+          "id": "/archives/1730875760707",
+          "author": null,
+          "description": "之前有一直在使用 excalidraw 画图神器，还没使用的小伙伴可以来看看，https://excalidraw.com/ 也非常好用，自带的AI 也能根据文字画图，分分钟成为画图大师。 那今天呢，我们看一个3D 画图的软件，iCraft Editor，主打的就是从2D到3D，帮助您轻松创建直观的",
+          "link": "https://srebro.cn/archives/1730875760707",
+          "publishedOn": "2024-11-06T07:02:26.000Z",
+          "wordCount": 2029,
+          "title": "一款绘制3D架构图的在线神器,iCraft Editor",
+          "imageUrl": "https://s3api.srebro.cn/srebro/picture/B80C17AD-7CC7-4269-8340-6FCC21BA7D33.png"
+        },
+        {
+          "id": "/archives/1730889631831",
+          "author": null,
+          "description": "111月4日凌晨，神舟十八号载人飞船返回舱在东风着陆场成功着陆，本次载人飞行任务取得圆满成功。 摄影师们在新疆多地记录下的神十八返回舱轨迹，灿若流星!奔赴星河，逐梦追光，和地理君一起致敬中国航天人!",
+          "link": "https://srebro.cn/archives/1730889631831",
+          "publishedOn": "2024-11-05T10:41:00.000Z",
+          "wordCount": 2014,
+          "title": "中国国家地理  | 欢迎神十八乘组回家！",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/FC9675A0-089C-4BCC-AE75-E818802984B9.jpg"
+        },
+        {
+          "id": "/archives/1730359784356",
+          "author": null,
+          "description": "今天，我终于拿证了！ 北京时间： 2024-10-31 PM 距离今年8月16号考完科目一到今天拿证，一共经历了76天",
+          "link": "https://srebro.cn/archives/1730359784356",
+          "publishedOn": "2024-10-31T07:40:13.000Z",
+          "wordCount": 2149,
+          "title": "76天驾驶证拿证指南.C2",
+          "imageUrl": "https://s3api.srebro.cn/srebro/picture/BEAAD5BC-8F94-400C-8439-F3284CB157EC.jpg"
+        },
+        {
+          "id": "/archives/1730106107445",
+          "author": null,
+          "description": "一、简介 人大金仓数据库KingbaseES简称KES是一款国产数据库，具有开发板、标准版、专业版和企业版，目前版本有V8R3、V8R6和V9R1，支持单机部署和集群部署。 安装包和授权文件下载地址： https://www.kingbase.com.cn/xzzx/index.htm 官方帮助文档",
+          "link": "https://srebro.cn/archives/1730106107445",
+          "publishedOn": "2024-10-28T09:01:59.000Z",
+          "wordCount": 2667,
+          "title": "人大金仓Kingbase数据库部署体验",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/2CEC46D9-6963-405E-ADF6-2F879151FFE6.png"
+        },
+        {
+          "id": "/archives/1729598138043",
+          "author": null,
+          "description": "拍摄设备：Iphone13 分辨率：1080P 拍摄地点： 衢州鹿鸣山",
+          "link": "https://srebro.cn/archives/1729598138043",
+          "publishedOn": "2024-10-22T12:02:53.000Z",
+          "wordCount": 2008,
+          "title": "衢州-非遗文化-打铁花.Movies",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/15687EF0-4278-4E3F-B1AE-E6ECD1D7984A.jpg"
+        },
+        {
+          "id": "/archives/1729596455853",
+          "author": null,
+          "description": "拍摄设备： Iphone13 分辨率： 720P 地点： 南京地铁S3-刘村站",
+          "link": "https://srebro.cn/archives/1729596455853",
+          "publishedOn": "2024-10-22T11:37:18.000Z",
+          "wordCount": 2018,
+          "title": "南京地铁S3-刘村——> 马骡圩.Movies",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/FD291BA5-CBC6-4443-B1DD-586DE604DBF4.jpg"
+        },
+        {
+          "id": "/archives/1728654763152",
+          "author": null,
+          "description": "环境说明： 目前已验证： openeuler22.03 LTS SP3，openeuler22.03 LTS SP4 clickhouse 版本： 24.9.2 一、Clickhouse 在线安装 1.1 添加clickhouse repo源  $ yum-config-manager --add-",
+          "link": "https://srebro.cn/archives/1728654763152",
+          "publishedOn": "2024-10-11T13:52:58.000Z",
+          "wordCount": 2177,
+          "title": "OpenEuler 22.03 LTS 部署Clickhouse",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/FB762C36-8D96-450F-B29C-E337B2E9F964.jpg"
+        },
+        {
+          "id": "/archives/1728610605490",
+          "author": null,
+          "description": "一、背景 运行3年的clickhouse需要迁移机房，迁移单库单表的140亿条的数据。 采用clickhouse-backup 的方式进行备份迁移，打包备份，再加上数据拷贝，数据恢复 一共花费30分钟。 数据在一定量级，避免使用SQL 导入导出的方式，效率太低 二、clickhouse-backup",
+          "link": "https://srebro.cn/archives/1728610605490",
+          "publishedOn": "2024-10-11T01:37:06.000Z",
+          "wordCount": 3156,
+          "title": "ClickHouse 数据保护指南：从备份到迁移的全流程攻略",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/F94878BD-5CDE-459A-ABC1-4B6C74AB5438.jpg"
+        },
+        {
+          "id": "/archives/1727170388055",
+          "author": null,
+          "description": "一、nacos 介绍 官网： https://nacos.io/ 一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台 二、如何使用docker-compose 快速部署nacos2.2.0 ⚠️ ： nacos-standalone 部署方式 依赖于 数据库，请先配置好数据库实例，此版本",
+          "link": "https://srebro.cn/archives/1727170388055",
+          "publishedOn": "2024-09-24T09:33:25.000Z",
+          "wordCount": 3282,
+          "title": "docker-compose 快速部署nacos2.2.0-standalone单节点",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1726296097889",
+          "author": null,
+          "description": "一、EFK简介 Elasticsearch：一个开源的分布式搜索和分析引擎，用于存储和查询日志数据。它是 EFK 的核心组件，负责高效地存储和检索日志信息。 Filebeat：一个轻量级的日志采集器，主要用于将日志文件数据发送到 Logstash 或 Elasticsearch。Filebeat 设",
+          "link": "https://srebro.cn/archives/1726296097889",
+          "publishedOn": "2024-09-14T06:41:53.000Z",
+          "wordCount": 2797,
+          "title": "一步到位：通过 Docker Compose 部署 EFK 进行 Docker 日志采集",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1726119868341",
+          "author": null,
+          "description": "一、mysql启动报错信息收集 1、截图 [ERROR] InnoDB: Database page corruption on disk or a failed file read of page [page id: space=0, page number=203]. You may have",
+          "link": "https://srebro.cn/archives/1726119868341",
+          "publishedOn": "2024-09-12T05:44:41.000Z",
+          "wordCount": 2176,
+          "title": "mysql异常断电InnoDB损坏处理",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1725950350251",
+          "author": null,
+          "description": "1、安装 Bash Completion yum install bash-completion\n 2、下载Docker自动补全脚本 curl -L https://raw.githubusercontent.com/docker/cli/master/contrib/completion/bash",
+          "link": "https://srebro.cn/archives/1725950350251",
+          "publishedOn": "2024-09-10T06:39:38.000Z",
+          "wordCount": 2050,
+          "title": "docker命令自动补齐",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1725619180029",
+          "author": null,
+          "description": "一、背景 某某项目，机房到期，需要迁移至其他机房； 此项目已经运行了3年多，fastdfs累计数据大概在250G 左右，现需要把旧的fastdfs数据迁移到新的fastdfs上； 采用scp物理迁移数据的方式，停机迁移。 二、环境信息 机房 操作系统 IP 版本信息 备注 机房A centos7.9",
+          "link": "https://srebro.cn/archives/1725619180029",
+          "publishedOn": "2024-09-06T10:40:04.000Z",
+          "wordCount": 2760,
+          "title": "记一次 FastDFS 存储节点迁移：基于 scp 的实践与经验分享",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1725451085069",
+          "author": null,
+          "description": "背景： 某项目全部内网环境，只有跳板机有访问互联网的权限，现在需要给内网的服务器更新系统，以及在线下载docker镜像 之前，使用过cc-proxy 这样的工具，当然现在这个工具已经停止维护了，使用完之后，还是及时断开的比较好，主要用于一些临时的场景； cc-proxy 官网： http://www",
+          "link": "https://srebro.cn/archives/1725451085069",
+          "publishedOn": "2024-09-04T11:58:24.000Z",
+          "wordCount": 2158,
+          "title": "cc-proxy 常见几种代理场景",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1725256655716",
+          "author": null,
+          "description": "一、环境准备 kafka3.7.1 包下载地址： https://mirrors.nju.edu.cn/apache/kafka/3.7.1/kafka_2.13-3.7.1.tgz openjdk11.0.2 下载地址： https://mirrors.nju.edu.cn/openjdk/11.",
+          "link": "https://srebro.cn/archives/1725256655716",
+          "publishedOn": "2024-09-02T05:58:06.000Z",
+          "wordCount": 2352,
+          "title": "kafka3.7.1 单节点 KRaft部署&测试发送和接收消息",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1725166580786",
+          "author": null,
+          "description": "一、nacos 介绍 官网： https://nacos.io/ 一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台 二、如何使用docker-compose 快速部署nacos2.3.1 ⚠️ ： nacos-standalone 部署方式 依赖于 数据库，请先配置好数据库实例，此版本",
+          "link": "https://srebro.cn/archives/1725166580786",
+          "publishedOn": "2024-09-01T04:56:39.000Z",
+          "wordCount": 3305,
+          "title": "docker-compose 快速部署nacos2.3.1-standalone单节点",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1725164764987",
+          "author": null,
+          "description": "kubeadm是官方社区推出的一个用于快速部署kubernetes集群的工具。",
+          "link": "https://srebro.cn/archives/1725164764987",
+          "publishedOn": "2024-09-01T04:26:22.000Z",
+          "wordCount": 5956,
+          "title": "kubeadm部署 Kubernetes(k8s) 高可用集群【V1.28 】",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1725164727624",
+          "author": null,
+          "description": "kubeadm是官方社区推出的一个用于快速部署kubernetes集群的工具。",
+          "link": "https://srebro.cn/archives/1725164727624",
+          "publishedOn": "2024-09-01T04:25:52.000Z",
+          "wordCount": 5004,
+          "title": "kubeadm部署 Kubernetes(k8s) 高可用集群【V1.20 】",
+          "imageUrl": "null"
         }
       ]
     }
