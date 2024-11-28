@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2024-11-28T14:42:17.926Z</updated>
+    <updated>2024-11-28T14:43:19.641Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
-    <entry>
-        <title type="html"><![CDATA[WordPress Multi-Multisite: A Case Study]]></title>
-        <id>https://css-tricks.com/?p=382697</id>
-        <link href="https://css-tricks.com/wordpress-multi-multisite-a-case-study/"/>
-        <updated>2024-11-27T16:09:14.000Z</updated>
-        <summary type="html"><![CDATA[What's it look like to create a dashboard within the WordPress admin for analyzing Google Analytics data across 900 blogs across 25 multisite instances? It involves designing a user-friendly interface, leveraging the WordPress REST API, implementing a plugin for data retrieval, and addressing challenges like rate limits and authentication.
-WordPress Multi-Multisite: A Case Study originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Scott Fennell</name>
-        </author>
-    </entry>
     <entry>
         <title type="html"><![CDATA[ARM架构下安装新版docker及docker-compose]]></title>
         <id>/archives/1732697072164</id>
@@ -25,17 +14,6 @@ WordPress Multi-Multisite: A Case Study originally published on CSS-Tricks, whic
         <summary type="html"><![CDATA[一、常见CPU 架构： 二、环境信息 CPU架构 操作系统 配置 HUAWEI Kunpeng 920 5220 aarch64 openEuler 22.03 (LTS-SP3) 64C128g15T 三、安装docker 3.1 二进制包下载 docker-ce 社区下载地址： wget htt]]></summary>
         <author>
             <name>运维小弟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Follow Up: We Officially Have a CSS Logo!]]></title>
-        <id>https://css-tricks.com/?p=382773</id>
-        <link href="https://css-tricks.com/follow-up-we-officially-have-a-css-logo/"/>
-        <updated>2024-11-26T15:53:39.000Z</updated>
-        <summary type="html"><![CDATA[Adam Argyle wraps up the search for a CSS logo, check out CSS' new look!
-Follow Up: We Officially Have a CSS Logo! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ryan Trimble</name>
         </author>
     </entry>
     <entry>
@@ -48,39 +26,6 @@ Today we had to say goodbye to our cat Moogs (pronounced “Moo” like the cow 
 My wife adopted him before we were even dating in 2006. I never had a cat, was more of a dog person, and I made it my mission to befriend the cat to win her over. I succeeded in my goal and he let me hold him li…]]></summary>
         <author>
             <name>daverupert.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alt Text: Not Always Needed]]></title>
-        <id>https://css-tricks.com/?p=382593</id>
-        <link href="https://css-tricks.com/alt-text-not-always-needed/"/>
-        <updated>2024-11-25T15:23:39.000Z</updated>
-        <summary type="html"><![CDATA[Most images require description for clarity, there are exceptions. This set of notes looks at different situations and contexts where alt text may not be needed and what to do in those cases.
-Alt Text: Not Always Needed originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solved by CSS: Donuts Scopes]]></title>
-        <id>https://css-tricks.com/?p=382613</id>
-        <link href="https://css-tricks.com/solved-by-css-donuts-scopes/"/>
-        <updated>2024-11-22T13:50:55.000Z</updated>
-        <summary type="html"><![CDATA[Donut scoping addresses the challenge of preventing parent styles from leaking to nested content. Originating from a 2011 concept by Nicole Sullivan, the issue has evolved, culminating in 2024's @scope at-rule. This allows for more precise CSS styling, safeguarding content from unwanted inheritance while managing global CSS complexities.
-Solved by CSS: Donuts Scopes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Invoker Commands: Additional Ways to Work With Dialog, Popover… and More?]]></title>
-        <id>https://css-tricks.com/?p=382572</id>
-        <link href="https://css-tricks.com/invoker-commands-additional-ways-to-work-with-dialog-popover-and-more/"/>
-        <updated>2024-11-20T15:12:34.000Z</updated>
-        <summary type="html"><![CDATA[Web browsers are experimenting with two HTML attributes — technically, they’re called “invoker commands” — that are designed to invoke popovers, dialogs, and further down the line, all kinds of actions without writing JavaScript. Although, if you do reach for JavaScript, the new attributes come with some new events that we can listen for.
-Invoker Commands: Additional Ways to Work With Dialog, Popover… and More? originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -99,17 +44,6 @@ Invoker Commands: Additional Ways to Work With Dialog, Popover… and More? orig
 	srcset="https://hyruo.com/article/how-to-prevent-personal-extremist-incidents/6_hu537aa8616184e0ba67b63e0315cc8c0e_429796_480x0_resize_q75_h2_box_2.webp 480w, https://hyruo.com/article/how-to-prevent-personal-extremist-incidents/6_hu537aa8616184e0ba67b63e0315cc8c0e_429796_102…]]></summary>
         <author>
             <name>海若博客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complete CSS Course]]></title>
-        <id>https://css-tricks.com/?p=382566</id>
-        <link href="https://css-tricks.com/complete-css-course/"/>
-        <updated>2024-11-19T14:21:28.000Z</updated>
-        <summary type="html"><![CDATA[Do you subscribe to Piccalilli? You should. If you're reading that name for the first time, that would be none other than Andy Bell running the ship and he's reimagined the site from the ground-up after coming out of hibernation this year. You're likely familiar with Andy's great writing here on CSS-Tricks.
-Complete CSS Course originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -169,28 +103,6 @@ Complete CSS Course originally published on CSS-Tricks, which is part of the Dig
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anchoreum: A New Game for Learning Anchor Positioning]]></title>
-        <id>https://css-tricks.com/?p=382469</id>
-        <link href="https://css-tricks.com/anchoreum-a-new-game-for-learning-anchor-positioning/"/>
-        <updated>2024-11-12T14:56:22.000Z</updated>
-        <summary type="html"><![CDATA[You've played Flexbox Froggy before, right? Or maybe Grid Garden? They're both absolute musts for learning the basics of modern CSS layout using Flexbox and CSS Grid. Thomas Park made those and he's back with another game: Anchoreum.
-Anchoreum: A New Game for Learning Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tim Brown: Flexible Typesetting is now yours, for free]]></title>
-        <id>https://css-tricks.com/?p=382456</id>
-        <link href="https://css-tricks.com/tim-brown-flexible-typesetting-is-now-yours-for-free/"/>
-        <updated>2024-11-11T14:03:37.000Z</updated>
-        <summary type="html"><![CDATA[Another title from A Book Apart has been re-released for free. The latest? Tim Brown's Flexible Typesetting. I may not be the utmost expert on typography and its best practices but I do remember reading this book (it's still on the shelf next to me!) thinking maybe, just maybe, I might be able to hold a conversation about it with Robin when I finished it.
-Tim Brown: Flexible Typesetting is now yours, for free originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[观点：晚期肝癌二线及后线治疗推荐]]></title>
         <id>http://whyes.org/2024/hcc-2l-tx</id>
         <link href="http://whyes.org/2024/hcc-2l-tx"/>
@@ -198,17 +110,6 @@ Tim Brown: Flexible Typesetting is now yours, for free originally published on C
         <summary type="html"><![CDATA[现状 二线及后线治疗可能是肝癌领域最强烈的未满足临床需求。 尽管肝癌的指南对二线治疗做了一些推荐，例如卫健委和 CSCO 指南都推荐一些抗血管生成靶向治疗（瑞戈非尼、阿帕替尼和雷莫西尤单抗）和 PD-1 抗体（帕博利珠单抗、替雷利珠单抗和卡...]]></summary>
         <author>
             <name>whyes 的博客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Different (and Modern) Ways to Toggle Content]]></title>
-        <id>https://css-tricks.com/?p=382363</id>
-        <link href="https://css-tricks.com/the-different-and-modern-ways-to-toggle-content/"/>
-        <updated>2024-11-08T13:57:09.000Z</updated>
-        <summary type="html"><![CDATA[Let’s spend some time looking at disclosures, the Dialog API, the Popover API, and more. We’ll look at the right time to use each one depending on your needs. Modal or non-modal? JavaScript or pure HTML/CSS? Not sure? Don’t worry, we’ll go into all that.
-The Different (and Modern) Ways to Toggle Content originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -249,17 +150,6 @@ The Different (and Modern) Ways to Toggle Content originally published on CS
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Popping Comments With CSS Anchor Positioning and View-Driven Animations]]></title>
-        <id>https://css-tricks.com/?p=382247</id>
-        <link href="https://css-tricks.com/popping-comments-with-css-anchor-positioning-and-view-driven-animations/"/>
-        <updated>2024-11-06T15:31:20.000Z</updated>
-        <summary type="html"><![CDATA[The State of CSS 2024 survey wrapped up and the results are interesting, as always. Even though each section is worth analyzing, we are usually most hyped about the section on the most used CSS features. And if you …
-Popping Comments With CSS Anchor Positioning and View-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[一款绘制3D架构图的在线神器,iCraft Editor]]></title>
         <id>/archives/1730875760707</id>
         <link href="https://srebro.cn/archives/1730875760707"/>
@@ -267,17 +157,6 @@ Popping Comments With CSS Anchor Positioning and View-Driven Animations original
         <summary type="html"><![CDATA[之前有一直在使用 excalidraw 画图神器，还没使用的小伙伴可以来看看，https://excalidraw.com/ 也非常好用，自带的AI 也能根据文字画图，分分钟成为画图大师。 那今天呢，我们看一个3D 画图的软件，iCraft Editor，主打的就是从2D到3D，帮助您轻松创建直观的]]></summary>
         <author>
             <name>运维小弟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fluid Everything Else]]></title>
-        <id>https://css-tricks.com/?p=382107</id>
-        <link href="https://css-tricks.com/fluid-everything-else/"/>
-        <updated>2024-11-05T20:49:40.000Z</updated>
-        <summary type="html"><![CDATA[We can apply the concept of fluid typography to almost anything. This way we can have a layout that fluidly changes with the size of its parent container. Few users will ever see the transition, but they will all appreciate the results. Honestly, they will.
-Fluid Everything Else originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Richard Hubbard</name>
         </author>
     </entry>
     <entry>
@@ -376,17 +255,6 @@ ARM镜像：openEuler-22.03-LTS-SP4-aarch64-dvd.iso
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Web-Slinger.css: Like Wow.js But With CSS-y Scroll Animations]]></title>
-        <id>https://css-tricks.com/?p=382156</id>
-        <link href="https://css-tricks.com/web-slinger-css-like-wow-js-but-with-css-y-scroll-animations/"/>
-        <updated>2024-11-01T14:00:36.000Z</updated>
-        <summary type="html"><![CDATA[Can we recreate a JavaScript library for scrolling animations with a modern CSS approach using CSS Scroll-Driven Animations? Yes. Yes, we can.
-Web-Slinger.css: Like Wow.js But With CSS-y Scroll Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[76天驾驶证拿证指南.C2]]></title>
         <id>/archives/1730359784356</id>
         <link href="https://srebro.cn/archives/1730359784356"/>
@@ -397,28 +265,6 @@ Web-Slinger.css: Like Wow.js But With CSS-y Scroll Animations originally publish
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[State of CSS 2024 Results]]></title>
-        <id>https://css-tricks.com/?p=382144</id>
-        <link href="https://css-tricks.com/state-of-css-2024-results/"/>
-        <updated>2024-10-30T16:43:55.000Z</updated>
-        <summary type="html"><![CDATA[The results from this year's survey are fairly fresh off the presses. We took a little time to sit with them and jot down some things we noticed and found interesting.
-State of CSS 2024 Results originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tooltip Best Practices]]></title>
-        <id>https://css-tricks.com/?p=382082</id>
-        <link href="https://css-tricks.com/tooltip-best-practices/"/>
-        <updated>2024-10-29T14:01:18.000Z</updated>
-        <summary type="html"><![CDATA[What are tooltips, exactly? There's two kinds and the one you use has implications on the user experience, as Zell illustrates in this explainer on best practices.
-Tooltip Best Practices originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[人大金仓Kingbase数据库部署体验]]></title>
         <id>/archives/1730106107445</id>
         <link href="https://srebro.cn/archives/1730106107445"/>
@@ -426,29 +272,6 @@ Tooltip Best Practices originally published on CSS-Tricks, which is part of the 
         <summary type="html"><![CDATA[一、简介 人大金仓数据库KingbaseES简称KES是一款国产数据库，具有开发板、标准版、专业版和企业版，目前版本有V8R3、V8R6和V9R1，支持单机部署和集群部署。 安装包和授权文件下载地址： https://www.kingbase.com.cn/xzzx/index.htm 官方帮助文档]]></summary>
         <author>
             <name>运维小弟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Come to the light-dark() Side]]></title>
-        <id>https://css-tricks.com/?p=382039</id>
-        <link href="https://css-tricks.com/come-to-the-light-dark-side/"/>
-        <updated>2024-10-25T14:08:20.000Z</updated>
-        <summary type="html"><![CDATA[You’d be forgiven for thinking coding up both a dark and a light mode at once is a lot of work. You have to remember @media queries based on prefers-color-scheme as well as extra complications that arise when letting visitors …
-Come to the light-dark() Side originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Sara Joy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Left Half and Right Half Layout – Many Different Ways]]></title>
-        <id>http://css-tricks.com/?p=198099</id>
-        <link href="https://css-tricks.com/left-and-right/"/>
-        <updated>2024-10-25T11:51:02.000Z</updated>
-        <summary type="html"><![CDATA[A whole bunch of years ago, we posted on this idea here on CSS-Tricks. We figured it was time to update that and do the subject justice.
-Imagine a scenario where you need to split a layout in half. Content …
-Left Half and Right Half Layout – Many Different Ways originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -493,19 +316,6 @@ Left Half and Right Half Layout – Many Different Ways originally published on 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You can use text-wrap: balance; on icons]]></title>
-        <id>https://css-tricks.com/?p=382065</id>
-        <link href="https://css-tricks.com/you-can-use-text-wrap-balance-on-icons/"/>
-        <updated>2024-10-24T14:05:56.000Z</updated>
-        <summary type="html"><![CDATA[Terence Eden on using text-wrap: balance for more than headings:
-But the name is, I think, slightly misleading. It doesn’t only work on text. It will work on any content. For example – I have a row of icons at 
-…
-You can use text-wrap: balance; on icons originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[让windows自带截图工具默认保存图片为webp格式]]></title>
         <id>https://hyruo.com/article/save-screenshots-in-webp-format-by-default-on-windows/</id>
         <link href="https://hyruo.com/article/save-screenshots-in-webp-format-by-default-on-windows/"/>
@@ -525,28 +335,6 @@ You can use text-wrap: balance; on icons originally published on CSS-Tricks, whi
 	srcset="https://hyruo.…]]></summary>
         <author>
             <name>海若博客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clarifying the Relationship Between Popovers and Dialogs]]></title>
-        <id>https://css-tricks.com/?p=382008</id>
-        <link href="https://css-tricks.com/clarifying-the-relationship-between-popovers-and-dialogs/"/>
-        <updated>2024-10-23T13:20:46.000Z</updated>
-        <summary type="html"><![CDATA[The difference between Popovers (i.e., the popover attribute) and Dialogs (i.e., both the <dialog element and the dialog accessible role) is incredibly confusing — so much that many articles (like this, this, and this) have tried to …
-Clarifying the Relationship Between Popovers and Dialogs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clamp it! VS Code extension]]></title>
-        <id>https://css-tricks.com/?p=381992</id>
-        <link href="https://css-tricks.com/clamp-it-vs-code-extension/"/>
-        <updated>2024-10-23T13:15:20.000Z</updated>
-        <summary type="html"><![CDATA[There’s a lot of math behind fluid typography. CSS does make the math a lot easier these days, but even if you’re comfortable with that, writing the full declaration can be verbose and tough to remember. I know I often …
-Clamp it! VS Code extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -646,73 +434,6 @@ For progressi…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Unleash the Power of Scroll-Driven Animations]]></title>
-        <id>https://css-tricks.com/?p=381613</id>
-        <link href="https://css-tricks.com/unleash-the-power-of-scroll-driven-animations/"/>
-        <updated>2024-10-21T13:50:53.000Z</updated>
-        <summary type="html"><![CDATA[I’m utterly behind in learning about scroll-driven animations apart from the “reading progress bar” experiments all over CodePen. Well, I’m not exactly “green” on the topic; we’ve published a handful of articles on it including this neat-o one by Lee …
-Unleash the Power of Scroll-Driven Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Combining forces, GSAP & Webflow!]]></title>
-        <id>https://css-tricks.com/?p=381832</id>
-        <link href="https://css-tricks.com/combining-forces-gsap-webflow/"/>
-        <updated>2024-10-18T13:09:22.000Z</updated>
-        <summary type="html"><![CDATA[Change can certainly be scary whenever a beloved, independent software library becomes a part of a larger organization. I’m feeling a bit more excitement than concern this time around, though.
-If you haven’t heard, GSAP (GreenSock Animation Platform) is teaming …
-Combining forces, GSAP & Webflow! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ryan Trimble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering theme.json: You might not need CSS]]></title>
-        <id>https://css-tricks.com/?p=381882</id>
-        <link href="https://css-tricks.com/mastering-theme-json-you-might-not-need-css/"/>
-        <updated>2024-10-18T11:36:04.000Z</updated>
-        <summary type="html"><![CDATA[I totally get the goal here: make CSS more modular and scalable in WordPress. Put all your global WordPress theme styles in a single file, including variations. JSON offers a nicely structured syntax that’s easily consumable by JavaScript, thereby allowing …
-Mastering theme.json: You might not need CSS originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solving Background Overflow With Inherited Border Radii]]></title>
-        <id>https://css-tricks.com/?p=381763</id>
-        <link href="https://css-tricks.com/preventing-child-background-overflow-with-inherited-border-radii/"/>
-        <updated>2024-10-17T15:24:02.000Z</updated>
-        <summary type="html"><![CDATA[One of the interesting (but annoying) things about CSS is the background of children’s elements can bleed out of the border radius of the parent element. Here’s an example of a card with an inner element. If the inner element …
-Solving Background Overflow With Inherited Border Radii originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Close, Exit, Cancel: How to End User Interactions Well]]></title>
-        <id>https://css-tricks.com/?p=381817</id>
-        <link href="https://css-tricks.com/close-exit-cancel-how-to-end-user-interactions-well/"/>
-        <updated>2024-10-16T14:12:57.000Z</updated>
-        <summary type="html"><![CDATA[What’s in a word? Actions. In the realm of user interfaces, a word is construed as the telltale of a control’s action. Sometimes it points us in the correct direction, and sometimes it leads us astray. We talk a lot …
-Close, Exit, Cancel: How to End User Interactions Well originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Tricks That Use Only One Gradient]]></title>
-        <id>https://css-tricks.com/?p=381773</id>
-        <link href="https://css-tricks.com/css-tricks-that-use-only-one-gradient/"/>
-        <updated>2024-10-11T21:48:01.000Z</updated>
-        <summary type="html"><![CDATA[CSS gradients have been so long that there’s no need to rehash what they are and how to use them. You have surely encountered them at some point in your front-end journey, and if you follow me, you also …
-CSS Tricks That Use Only One Gradient originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Temani Afif</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[OpenEuler 22.03 LTS 部署Clickhouse]]></title>
         <id>/archives/1728654763152</id>
         <link href="https://srebro.cn/archives/1728654763152"/>
@@ -746,18 +467,6 @@ An electrician - He didn…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WPGraphQL Becomes a Canonical Plugin: My Move to Automattic]]></title>
-        <id>https://css-tricks.com/?p=381752</id>
-        <link href="https://css-tricks.com/wpgraphql-becomes-a-canonical-plugin-my-move-to-automattic/"/>
-        <updated>2024-10-10T14:00:32.000Z</updated>
-        <summary type="html"><![CDATA[It’s always a gas when a good person doing good work gets a good deal. In this case, Jason’s viral WPGraphQL plugin has not only become a canonical WordPress plugin, but creator Jason Bahl is joining Automattic as well.
-I’m …
-WPGraphQL Becomes a Canonical Plugin: My Move to Automattic originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linux实现模拟IPMI]]></title>
         <id>https://marsperl.github.io/yyg/9ec93abd/</id>
         <link href="https://marsperl.github.io/yyg/9ec93abd/"/>
@@ -774,85 +483,6 @@ bash <(curl -sSL]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024: More CSS At-Rules Than the Past Decade Combined]]></title>
-        <id>https://css-tricks.com/?p=381678</id>
-        <link href="https://css-tricks.com/2024-more-css-at-rules-than-the-past-decade-combined/"/>
-        <updated>2024-10-09T14:10:33.000Z</updated>
-        <summary type="html"><![CDATA[More times than I can count, while writing, I get myself into random but interesting topics with little relation to the original post. In the end, I have to make the simple but painful choice of deleting or archiving hours …
-2024: More CSS At-Rules Than the Past Decade Combined originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Hour With Heydon Pickering]]></title>
-        <id>https://css-tricks.com/?p=381729</id>
-        <link href="https://css-tricks.com/smashing-hour-with-heydon-pickering/"/>
-        <updated>2024-10-08T15:22:02.000Z</updated>
-        <summary type="html"><![CDATA[I sat down with Heydon Pickering in the most recent episode of the Smashing Hour. Full transparency: I was nervous as heck. I’ve admired Heydon’s work for years, and even though we run in similar circles, this was our first …
-Smashing Hour With Heydon Pickering originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recipes for Detecting Support for CSS At-Rules]]></title>
-        <id>https://css-tricks.com/?p=381674</id>
-        <link href="https://css-tricks.com/recipes-for-detecting-support-for-css-at-rules/"/>
-        <updated>2024-10-07T19:46:07.000Z</updated>
-        <summary type="html"><![CDATA[The @supports at-rule has been extended several times since its initial release. Once only capable of checking support for property/value pairs, it can now check for a selector using the selector() wrapper function and different font formats and techs using …
-Recipes for Detecting Support for CSS At-Rules originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Searching for a New CSS Logo]]></title>
-        <id>https://css-tricks.com/?p=381662</id>
-        <link href="https://css-tricks.com/searching-for-a-new-css-logo/"/>
-        <updated>2024-10-07T16:49:59.000Z</updated>
-        <summary type="html"><![CDATA[There is an amazing community effort happening in search of a new logo for CSS. I was a bit skeptical at first, as I never really considered CSS a “brand.” Why does it need a logo? For starters, the current …
-Searching for a New CSS Logo originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ryan Trimble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Proliferation and Problem of the ✨ Sparkles ✨ Icon]]></title>
-        <id>https://css-tricks.com/?p=381210</id>
-        <link href="https://css-tricks.com/the-proliferation-and-problem-of-the-sparkles-icon/"/>
-        <updated>2024-10-03T15:18:16.000Z</updated>
-        <summary type="html"><![CDATA[Kate Kaplan hits on something over at Nielsen Norman Group’s blog that’s been bugging me:
-The challenge with this icon is sparkle ambiguity: Participants in our recent research study generally agreed that it represented something a little special
-…
-The Proliferation and Problem of the ✨ Sparkles ✨ Icon originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Anchor Positioning Guide]]></title>
-        <id>https://css-tricks.com/?p=381364</id>
-        <link href="https://css-tricks.com/css-anchor-positioning-guide/"/>
-        <updated>2024-10-02T15:26:48.000Z</updated>
-        <summary type="html"><![CDATA[Learn about CSS Anchor Positioning, including its syntax, properties, how it is used to position one element next to another, and even how it's used to resize elements relative to other elements.
-CSS Anchor Positioning Guide originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Masonry & CSS Grid]]></title>
-        <id>https://css-tricks.com/?p=381216</id>
-        <link href="https://css-tricks.com/css-masonry-css-grid/"/>
-        <updated>2024-09-30T13:56:11.000Z</updated>
-        <summary type="html"><![CDATA[An approach for creating masonry layouts in vanilla CSS is one of those “holy grail” aspirations. I actually tend to plop masonry and the classic “Holy Grail” layout in the same general era of web design. They’re different types of …
-CSS Masonry & CSS Grid originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[特瑞普利单抗+贝伐珠单抗：晚期肝癌治疗又多了一项选择 #CSCO24]]></title>
         <id>http://whyes.org/2024/hepatorch-toripalimab-bev-hcc</id>
         <link href="http://whyes.org/2024/hepatorch-toripalimab-bev-hcc"/>
@@ -863,76 +493,6 @@ CSS Masonry & CSS Grid originally published on CSS-Tricks, which is part of the 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Slide Through Unlimited Dimensions With CSS Scroll Timelines]]></title>
-        <id>https://css-tricks.com/?p=381191</id>
-        <link href="https://css-tricks.com/slide-through-unlimited-dimensions-with-css-scroll-timelines/"/>
-        <updated>2024-09-27T18:39:23.000Z</updated>
-        <summary type="html"><![CDATA[The creator of CSS has said he originally envisaged CSS as the main web technology to control behavior on web pages, with scripting as a fallback when things weren’t possible declaratively in CSS. The rationale for a CSS-first approach was …
-Slide Through Unlimited Dimensions With CSS Scroll Timelines originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aggregating my distributed self]]></title>
-        <id>https://css-tricks.com/?p=381293</id>
-        <link href="https://css-tricks.com/aggregating-my-distributed-self/"/>
-        <updated>2024-09-27T15:24:07.000Z</updated>
-        <summary type="html"><![CDATA[Miriam Suzanne’s in the middle of a redesign of her personal website. It began in August 2022. She’s made an entire series out of the work that’s worth your time, but I wanted to call out the fifth and latest …
-Aggregating my distributed self originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Catching Up on the WordPress 🚫 WP Engine Sitch]]></title>
-        <id>https://css-tricks.com/?p=381247</id>
-        <link href="https://css-tricks.com/catching-up-on-the-wordpress-wp-engine-sitch/"/>
-        <updated>2024-09-26T17:29:27.000Z</updated>
-        <summary type="html"><![CDATA[Many of you — perhaps most of you — have been sitting on the sidelines while WordPress and WP Engine trade legal attacks on one another. It’s been widely covered as we watch it unfold in the open; ironically, in …
-Catching Up on the WordPress 🚫 WP Engine Sitch originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BCD Watch]]></title>
-        <id>https://css-tricks.com/?p=381230</id>
-        <link href="https://css-tricks.com/bcd-watch/"/>
-        <updated>2024-09-26T14:28:48.000Z</updated>
-        <summary type="html"><![CDATA[A new tool from Eric Meyer, Brian Kardell, and Stephanie Stimac backed with Igalia’s support. Brian announced it on his blog, as did Eric, describing it like this:
-What BCD Watch does is, it grabs releases of the Browser 
-…
-BCD Watch originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Make a “Scroll to Select” Form Control]]></title>
-        <id>https://css-tricks.com/?p=381060</id>
-        <link href="https://css-tricks.com/how-to-make-a-scroll-to-select-form-control/"/>
-        <updated>2024-09-25T14:31:54.000Z</updated>
-        <summary type="html"><![CDATA[The <select> element is a fairly straightforward concept: focus on it to reveal a set of <option>s that can be selected as the input’s value. That’s a great pattern and I’m not suggesting we change it. That said, I …
-How to Make a “Scroll to Select” Form Control originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Preethi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Color Mixing With Animation Composition]]></title>
-        <id>https://css-tricks.com/?p=381068</id>
-        <link href="https://css-tricks.com/color-mixing-with-animation-composition/"/>
-        <updated>2024-09-24T18:22:01.000Z</updated>
-        <summary type="html"><![CDATA[Mixing colors in CSS is pretty much a solved deal, thanks to the more recent color-mix() function as it gains support. Pass in two color values — any two color values at all — and optionally set the proportions.
-background-color: 
-…
-Color Mixing With Animation Composition originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[docker-compose 快速部署nacos2.2.0-standalone单节点]]></title>
         <id>/archives/1727170388055</id>
         <link href="https://srebro.cn/archives/1727170388055"/>
@@ -940,110 +500,6 @@ Color Mixing With Animation Composition originally published on CSS-Tricks, whic
         <summary type="html"><![CDATA[一、nacos 介绍 官网： https://nacos.io/ 一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台 二、如何使用docker-compose 快速部署nacos2.2.0 ⚠️ ： nacos-standalone 部署方式 依赖于 数据库，请先配置好数据库实例，此版本]]></summary>
         <author>
             <name>运维小弟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The selectmenu Element is No More…Long Live select!]]></title>
-        <id>https://css-tricks.com/?p=381134</id>
-        <link href="https://css-tricks.com/the-selectmenu-element-is-no-morelong-live-select/"/>
-        <updated>2024-09-23T15:43:05.000Z</updated>
-        <summary type="html"><![CDATA[I was looking over an older article Patrick Brosset penned for us introducing <selectmenu>, a new proposal at the time for a more style-able cousin to <select>. From there, I clicked the linked-up <selectmenu> explainer and got… this:…
-The selectmenu Element is No More…Long Live select! originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Hit #21]]></title>
-        <id>https://css-tricks.com/?p=380952</id>
-        <link href="https://css-tricks.com/quick-hit-21/"/>
-        <updated>2024-09-20T16:15:26.000Z</updated>
-        <summary type="html"><![CDATA[Seeing a lot more headlines decrying JavaScript and pumping up PHP. Always interesting to see which direction the front-end zeitgeist is leaning.…
-Quick Hit #21 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSSWG Minutes Telecon (2024-09-18)]]></title>
-        <id>https://css-tricks.com/?p=381098</id>
-        <link href="https://css-tricks.com/csswg-minutes-telecon-2024-09-18/"/>
-        <updated>2024-09-20T15:15:33.000Z</updated>
-        <summary type="html"><![CDATA[For the past two months, all my livelihood has gone towards reading, researching, understanding, writing, and editing about Anchor Positioning, and with many Almanac entries published and a full Guide guide on the way, I thought I was ready to …
-CSSWG Minutes Telecon (2024-09-18) originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Hit #20]]></title>
-        <id>https://css-tricks.com/?p=381079</id>
-        <link href="https://css-tricks.com/quick-hit-20/"/>
-        <updated>2024-09-19T17:13:24.000Z</updated>
-        <summary type="html"><![CDATA[Having fun with Bramus’ new Caniuse CLI tool. This’ll save lots of trips to the Caniuse site!…
-Quick Hit #20 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Hit #19]]></title>
-        <id>https://css-tricks.com/?p=381057</id>
-        <link href="https://css-tricks.com/quick-hit-19/"/>
-        <updated>2024-09-19T14:31:06.000Z</updated>
-        <summary type="html"><![CDATA[Two possible syntaxes for CSS masonry, one draft specification, and you get to share your opinions.
-…
-Quick Hit #19 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Re-Working the CSS Almanac]]></title>
-        <id>https://css-tricks.com/?p=380959</id>
-        <link href="https://css-tricks.com/re-working-the-css-almanac/"/>
-        <updated>2024-09-19T14:19:24.000Z</updated>
-        <summary type="html"><![CDATA[Getting right to it: the CSS-Tricks Almanac got a big refresh this week!
-I’m guessing you’re already familiar with this giant ol’ section of CSS-Tricks called the Almanac. This is where we publish references for CSS selectors and properties…
-Re-Working the CSS Almanac originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clever Polypane Debugging Features I’m Loving]]></title>
-        <id>https://css-tricks.com/?p=380271</id>
-        <link href="https://css-tricks.com/clever-polypane-debugging-features-im-loving/"/>
-        <updated>2024-09-17T13:49:04.000Z</updated>
-        <summary type="html"><![CDATA[I’m working on a refresh of my personal website, what I’m calling the HD remaster. Well, I wouldn’t call it a “full” redesign. I’m just cleaning things up, and Polypane is coming in clutch. I wrote about how much …
-Clever Polypane Debugging Features I’m Loving originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Ryan Trimble</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Multiple Anchors]]></title>
-        <id>https://css-tricks.com/?p=380763</id>
-        <link href="https://css-tricks.com/multiple-anchors/"/>
-        <updated>2024-09-16T16:38:08.000Z</updated>
-        <summary type="html"><![CDATA[Only Chris, right? You’ll want to view this in a Chromium browser:
-CodePen Embed Fallback
-This is exactly the sort of thing I love, not for its practicality (cuz it ain’t), but for how it illustrates a concept. Generally, tutorials …
-Multiple Anchors originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smashing Hour With Lynn Fisher]]></title>
-        <id>https://css-tricks.com/?p=380841</id>
-        <link href="https://css-tricks.com/smashing-hour-with-lynn-fisher/"/>
-        <updated>2024-09-16T16:35:18.000Z</updated>
-        <summary type="html"><![CDATA[I’m a big Lynn Fisher fan. You probably are, too, if you’re reading this. Or maybe you’re reading her name for the first time, in which case you’re in for a treat.
-That’s because I had a chance to sit …
-Smashing Hour With Lynn Fisher originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -1101,17 +557,6 @@ I’m happy to report that Hibiclens works wonderfully and I’m pleased with th
         <summary type="html"><![CDATA[APOLO（ALTN-AK105-III-02）研究是一项由正大天晴开展的全国多中心、开放标签的随机对照 III 期临床试验，评估的是 安罗替尼联合派安普利单抗（”双安组合“） 用于晚期肝癌一线治疗的疗效和安全性，对照组是上一代的靶向药物索...]]></summary>
         <author>
             <name>whyes 的博客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two CSS Properties for Trimming Text Box Whitespace]]></title>
-        <id>https://css-tricks.com/?p=380589</id>
-        <link href="https://css-tricks.com/two-css-properties-for-trimming-text-box-whitespace/"/>
-        <updated>2024-09-13T14:11:32.000Z</updated>
-        <summary type="html"><![CDATA[The text-box-trim and text-box-edge properties in CSS enable developers to trim specifiable amounts of the whitespace that appear above the first formatted line of text and below the last formatted line of text in a text box, making the text …
-Two CSS Properties for Trimming Text Box Whitespace originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Daniel Schwarz</name>
         </author>
     </entry>
     <entry>
@@ -1175,17 +620,6 @@ A lot of why I read is about juxtaposition. I read business books to juxtapose m
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What’s Old is New]]></title>
-        <id>https://css-tricks.com/?p=380692</id>
-        <link href="https://css-tricks.com/whats-old-is-new-2/"/>
-        <updated>2024-09-12T14:05:12.000Z</updated>
-        <summary type="html"><![CDATA[I collect a bunch of links in a bookmarks folder. These are things I fully intend to read, and I do — eventually. It’s a good thing bookmarks are digital, otherwise, I’d need a bigger coffee table to separate them …
-What’s Old is New originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[mysql异常断电InnoDB损坏处理]]></title>
         <id>/archives/1726119868341</id>
         <link href="https://srebro.cn/archives/1726119868341"/>
@@ -1193,51 +627,6 @@ What’s Old is New originally published on CSS-Tricks, which is part of the Dig
         <summary type="html"><![CDATA[一、mysql启动报错信息收集 1、截图 [ERROR] InnoDB: Database page corruption on disk or a failed file read of page [page id: space=0, page number=203]. You may have]]></summary>
         <author>
             <name>运维小弟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two Ways to Create Custom Translated Messaging for HTML Forms]]></title>
-        <id>https://css-tricks.com/?p=380325</id>
-        <link href="https://css-tricks.com/two-ways-to-create-custom-translated-messaging-for-html-forms/"/>
-        <updated>2024-09-11T14:42:20.000Z</updated>
-        <summary type="html"><![CDATA[HTML forms come with built-in ways to validate form inputs and other controls against predefined rules such as making an input required, setting min and max constraints on range sliders, or establishing a pattern on an email input to check …
-Two Ways to Create Custom Translated Messaging for HTML Forms originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Fatuma Abdullaho</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Hit #18]]></title>
-        <id>https://css-tricks.com/?p=380660</id>
-        <link href="https://css-tricks.com/quick-hit-18/"/>
-        <updated>2024-09-10T18:40:28.000Z</updated>
-        <summary type="html"><![CDATA[PSA: Today’s the day that Google’s performance tools officially stops supporting the First Input Delay (FID) metric that was replaced by Interaction to Next Paint (INP).…
-Quick Hit #18 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anchor Positioning Quirks]]></title>
-        <id>https://css-tricks.com/?p=380521</id>
-        <link href="https://css-tricks.com/anchor-positioning-quirks/"/>
-        <updated>2024-09-10T18:33:01.000Z</updated>
-        <summary type="html"><![CDATA[I am thrilled to say, that from this week onwards, the CSS-tricks Almanac has an entry for each property, function, and at-rule related to the new Anchor Positioning API! For the last month, I have tried to fully understand this …
-Anchor Positioning Quirks originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sanding UI]]></title>
-        <id>https://css-tricks.com/?p=380662</id>
-        <link href="https://css-tricks.com/sanding-ui/"/>
-        <updated>2024-09-10T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Jim hit a snag while working on a form. Placing labels next to inputs is trivial with flexbox, sure, but what happened in Jim’s case was a bit of dead-clicking between the labels and radio buttons.
-The issue? Not the …
-Sanding UI originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -1252,39 +641,6 @@ Sanding UI originally published on CSS-Tricks, which is part of the DigitalOcean
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Time Travelling CSS With :target]]></title>
-        <id>https://css-tricks.com/?p=380334</id>
-        <link href="https://css-tricks.com/time-travelling-css-with-target/"/>
-        <updated>2024-09-09T15:16:51.000Z</updated>
-        <summary type="html"><![CDATA[Checkbox and radio button hacks are the (in)famous trick for creating games using just CSS. But it turns out that other elements based on user input can be hacked and gamified. There are very cool examples of developers getting creative with CSS games based on…
-Time Travelling CSS With :target originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Lee Meyer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sticky Headers And Full-Height Elements: A Tricky Combination]]></title>
-        <id>https://css-tricks.com/?p=380517</id>
-        <link href="https://css-tricks.com/sticky-headers-and-full-height-elements-a-tricky-combination/"/>
-        <updated>2024-09-09T14:09:12.000Z</updated>
-        <summary type="html"><![CDATA[Quite a fun article I worked on with Philip Braunen. Do you know that little bit of elasticity you get when scrolling beyond the viewport when browsing the web on a mobile device? iPhone calls it a “rubber-banding” effect. …
-Sticky Headers And Full-Height Elements: A Tricky Combination originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Hit #17]]></title>
-        <id>https://css-tricks.com/?p=380584</id>
-        <link href="https://css-tricks.com/quick-hit-17/"/>
-        <updated>2024-09-09T13:53:42.000Z</updated>
-        <summary type="html"><![CDATA[“Wrapping the <labelaround the <inputis fine, and is sufficient for conformance on its own, however adding explicit association with for and id is still necessary in practice.” —James Edwards…
-Quick Hit #17 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Juan Diego Rodríguez</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[记一次 FastDFS 存储节点迁移：基于 scp 的实践与经验分享]]></title>
         <id>/archives/1725619180029</id>
         <link href="https://srebro.cn/archives/1725619180029"/>
@@ -1292,28 +648,6 @@ Quick Hit #17 originally published on CSS-Tricks, which is part of the DigitalOc
         <summary type="html"><![CDATA[一、背景 某某项目，机房到期，需要迁移至其他机房； 此项目已经运行了3年多，fastdfs累计数据大概在250G 左右，现需要把旧的fastdfs数据迁移到新的fastdfs上； 采用scp物理迁移数据的方式，停机迁移。 二、环境信息 机房 操作系统 IP 版本信息 备注 机房A centos7.9]]></summary>
         <author>
             <name>运维小弟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Hit #16]]></title>
-        <id>https://css-tricks.com/?p=380340</id>
-        <link href="https://css-tricks.com/quick-hit-16/"/>
-        <updated>2024-09-05T16:04:28.000Z</updated>
-        <summary type="html"><![CDATA[“Never, ever hire for JavaScript framework skills. Instead, interview and hire only for fundamentals like web standards, accessibility, modern CSS, semantic HTML, and Web Components.” — Alex Russell…
-Quick Hit #16 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Hit #15]]></title>
-        <id>https://css-tricks.com/?p=380298</id>
-        <link href="https://css-tricks.com/quick-hit-15/"/>
-        <updated>2024-09-05T16:02:26.000Z</updated>
-        <summary type="html"><![CDATA[Almost missed that the WP Twenty Twenty-Five theme was approved a couple weeks ago.…
-Quick Hit #15 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
@@ -1350,40 +684,6 @@ GitHub - slimtoolkit/slim： Slim（toolkit）：不要更改容器镜像中的�
         <summary type="html"><![CDATA[背景： 某项目全部内网环境，只有跳板机有访问互联网的权限，现在需要给内网的服务器更新系统，以及在线下载docker镜像 之前，使用过cc-proxy 这样的工具，当然现在这个工具已经停止维护了，使用完之后，还是及时断开的比较好，主要用于一些临时的场景； cc-proxy 官网： http://www]]></summary>
         <author>
             <name>运维小弟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Hit #14]]></title>
-        <id>https://css-tricks.com/?p=380296</id>
-        <link href="https://css-tricks.com/quick-hit-14/"/>
-        <updated>2024-09-03T19:08:42.000Z</updated>
-        <summary type="html"><![CDATA[Inclusive Design 24 is in 8 short days — and it’s FREE, no sign-up required!…
-Quick Hit #14 originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another Stab at Truncated Text]]></title>
-        <id>https://css-tricks.com/?p=380214</id>
-        <link href="https://css-tricks.com/another-stab-at-truncated-text/"/>
-        <updated>2024-09-03T15:57:29.000Z</updated>
-        <summary type="html"><![CDATA[Seems like we’re always talking about clipping text around here. All it takes is a little browsing to spot a bunch of things we’ve already explored.
-    
-        Article
-
-    on
-    Sep 19, 2012  
-    
-
-      accessibility content truncation    
-    
-
-    
-…
-Another Stab at Truncated Text originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
         </author>
     </entry>
     <entry>
