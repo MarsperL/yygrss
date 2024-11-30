@@ -526,6 +526,39 @@ The post Traefik with ACME in Kubernetes with LetsEncrypt Certificates appeared 
                 </section>
               </section>
             </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >满心记</button>
+                  <a class="source-heading__link" href="https://qq.mba/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://qq.mba/196.html"
+                        open
+                      >
+                        <summary class="article-expander__title">该换什么牌子手机了？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://qq.mba/196.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>目前用的苹果12，对比现在新出的16，感觉这个有点老古董的意思了，去年的时候不小心把手机给更新了系统，从那之后手机就有各种问题，比如：偶尔卡顿、信号不稳定、电池耗电快，特别是打微信视频的时候啥都...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
         </ul>
       </section>
       <section class="daily-content js-toggle-accordions-scope">
@@ -587,74 +620,6 @@ The post Top 5 Home Lab Projects I have Tackled in 2024 appeared first on Virtua
                               <span>There are many different components with a working Kubernetes installation. However, one of the most important when it comes to getting traffic into your Kubernetes and serving out application is the Kubernetes ingress. However, if you have implemented the Kubernetes ingress in your cluster using something like Traefik, let’s look at hot to check if …
 The post How to Check if Kubernetes Ingress Worked with Traefik appeared first on Virtualization Howto.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;33
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >CHEGVA</button>
-                  <a class="source-heading__link" href="https://chegva.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://chegva.com/?p&#x3D;6232"
-                        open
-                      >
-                        <summary class="article-expander__title">k8s 污点(Taint) 和容忍度(Toleration)使用</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://chegva.com/6232.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Kubernetes 的污点 (Taint) 和容忍度 (Toleration) 是强大的机制，用于控制 Pod 在节点上的调度。它们允许对节点进行标记，并指定哪些 Pod 可以忽略这些标记并仍然被调度到这些节点上。 这对于实现节点隔离、资源专用以及处理节点维护非常有用，Kubernetes 污点和容忍度还可以与其他调度功能（如节点亲和性）结合使用。
-污点 (Taint):
-污点应用于节点，表示节点的一些特性或限制。 它本质上是一个标记，告诉 Kubernetes 调度程序避免将某些 Pod 调度到该节点。 一个污点包含三个部分：
-
-key: 污点的键，一个字符串，用于标识污点的类型。
-
-value: 污点的值，一个字符串，提供关于污点类型的更多信息。可以为空字符串。
-
-effect: 污点的效果，决定污点如何影响 Pod 的调度。 有三种效果：
-
-
-NoSchedule：阻止 Pod 调度到该节点，除非 Pod 有匹配的容忍度。
-
-PreferNoSchedule：调度程序会尽量避免将 Pod 调度到该节点，但如果必要，仍然可以调度。
-
-NoExecute：驱逐节点上已经存在的、没有匹配容忍度的 Pod。 这通常用于维护。
-
-
-容忍度 (Toleration):
-容忍度应用于 Pod，表示 Pod 可以容忍某些节点上的污点。 它允许 Pod 被调度到具有匹配污点的节点上。 一个容忍度包含四个部分：
-
-key: 容忍度的键，必须与节点污点的键匹配。
-
-operator: 运算符，指定如何匹配污点的值。 可以是：
-
-
-Equal：污点的值必须与容忍度的值完全匹配。
-
-Exists：只要污点的键存在即可，忽略污点的值。
-
-
-value: 容忍度的值，如果 operator 为 Equal，则必须与污点的值匹配。
-
-effect: 容忍度的效果，必须与节点污点的效果匹配。
-
-使用…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;80
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -1556,6 +1521,39 @@ The post Kubernetes Home Lab with Microk8s, Microceph, and Portainer appeared fi
                 </section>
               </section>
             </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >满心记</button>
+                  <a class="source-heading__link" href="https://qq.mba/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://qq.mba/195.html"
+                        open
+                      >
+                        <summary class="article-expander__title">无畏云跑路了？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://qq.mba/195.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>自从我换到Typecho后，就启用了无畏云CDN，个人站嘛，每个月40G，完全够用了，无畏云除了后台有些操作功能感觉不友好外，其它还不错，主要就是下面两个问题：加速CDN域名添加后不能删除;添加...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
         </ul>
       </section>
       <section class="daily-content js-toggle-accordions-scope">
@@ -2009,53 +2007,6 @@ The post 10 Best Docker Container Stacks I am using in 2024 appeared first on Vi
                     class="source-heading__name"
                     data-action="toggle-accordions"
                     title="Click to toggle the source, Ctrl + click to toggle all."
-                  >CHEGVA</button>
-                  <a class="source-heading__link" href="https://chegva.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://chegva.com/?p&#x3D;6229"
-                        open
-                      >
-                        <summary class="article-expander__title">kubectl patch pv 手动更新 PV 的容量信息</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://chegva.com/6229.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>客户有个服务的PV需要扩容容量，由于服务刚初始化还没有正式上线，并且存储卷使用的是云盘，支持动态调整大小，评估后决定使用kubectl patch pv手动更新pv的容量信息，当然前提需要云盘先扩容到指定容量。生产中这种方法非常危险，请评估好风险！
-操作步骤：
-1.找到pod使用的存储卷，登陆云厂商控制台找到对应的存储卷扩容到指定容量
-kubectl get pvc -A | grep pod-name
-kubectl get pv -A | grep pod-name
-kubectl describe pv 
- -p &#x27;{&quot;spec&quot;:{&quot;capacity&quot;:{&quot;storage&quot;:&quot;&quot;}}}&#x27;
-将 
- 替换为你的 PV 名称， 替换为新的容量大小 (例如 500Gi)。
-确认容量变更完成后，进入pod，在挂载目录中使用 dd 命令测试文件是否能正常创建，命令如下，测试完成后记得删除测试文件。
-dd if&#x3D;/dev/zero of&#x3D;./file-test bs&#x3D;4M count&#x3D;10
-以下是一些间接调整 PV 容量的方法，以及它们的风险和限制，请谨慎选择使用，可能会导致数据丢失或应用无法正常工作：
-
-直接修改底层存储资源的大小:
-…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;71
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
                   >Collabnix</button>
                   <a class="source-heading__link" href="https://collabnix.com">Open</a>
                 </h3>
@@ -2212,77 +2163,23 @@ Continue reading...</span>
                     class="source-heading__name"
                     data-action="toggle-accordions"
                     title="Click to toggle the source, Ctrl + click to toggle all."
-                  >CHEGVA</button>
-                  <a class="source-heading__link" href="https://chegva.com">Open</a>
+                  >满心记</button>
+                  <a class="source-heading__link" href="https://qq.mba/">Open</a>
                 </h3>
                 <section class="articles-per-source">
                     <article>
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
-                        data-accordion-key="https://chegva.com/?p&#x3D;6226"
+                        data-accordion-key="https://qq.mba/194.html"
                         open
                       >
-                        <summary class="article-expander__title">我的崽崽(28)</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://chegva.com/6226.html">
+                        <summary class="article-expander__title">近来杂记</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://qq.mba/194.html">
                           <div class="article-summary-box-inner media-object">
                             <span class="media-object__text">
-                              <span>[xj title&#x3D;&quot;长沙游乐场玩&quot; introduction&#x3D;&quot;20210304,20210311,20210319,20210321-1,20210321-2,20210321-3,20210322-1,20210322-2,20210328-1,20210328-2,20210328-3,20210328-4,20210328-5,20210329-1,20210329-2,20210329-3,20210329-4,20210329-5,20210330-1,20210330-2,20210330-3,20210330-4,20210330-5,20210330-62,20210214-1,20210214-2,20210214-3,20210214-4,20210216,20210219,20210221,20210228-1,20210228-2,20210228-3&quot; url&#x3D;&quot;https://cdn.chegva.com/ueditor/php/upload/video/202103/20210304.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202103/20210311.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202103/20210319.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202103/20210321-1.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202103/20210321-2.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202103…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;28
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://chegva.com/?p&#x3D;6225"
-                        open
-                      >
-                        <summary class="article-expander__title">我的崽崽(27)</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://chegva.com/6225.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>[xj title&#x3D;&quot;第一次爬岳麓山&quot; introduction&#x3D;&quot;20210204,20210210,20210211-1,20210211-2,20210211-3,20210211-4,20210212-1,20210212-2,20210212-3,20210212-4,20210212-5,20210212-6,20210212-7,20210212-8,20210212-9,20210212-10,20210212-11,20210212-12,20210212-13,20210212-14,20210213-1,20210213-2,20210214-1,20210214-2,20210214-3,20210214-4,20210216,20210219,20210221,20210228-1,20210228-2,20210228-3&quot; url&#x3D;&quot;https://cdn.chegva.com/ueditor/php/upload/video/202102/20210204.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202102/20210210.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202102/20210211-1.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202102/20210211-2.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202102/20210211-3.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202102/20210211-4.m…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;28
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://chegva.com/?p&#x3D;6221"
-                        open
-                      >
-                        <summary class="article-expander__title">卫健委成人高尿酸血症、痛风与服胖食养指南（2024年版）</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://chegva.com/6221.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>国家卫生健康委办公厅发布了《成人高尿酸血症与痛风食养指南（2024年版）》等四项食养指南，旨在贯彻《健康中国行动（2019-2030年）》和《国民营养计划（2017-2030年）》，推动传统食养服务，预防和控制慢性病。这些指南结合现代营养学和传统中西医食养优势，提供季节性、区域性和人群特定的膳食建议和食谱示例，增强膳食指导的实用性。指南鼓励卫生工作者及营养指导人员在工作中应用，并倡导居民根据指南内容调整膳食，培养健康饮食习惯。
-
-
-
-
-
-
-下载地址：打包下载
-发布地址：http://www.nhc.gov.cn/sps/s7887k/202402/4a82f053aa78459bb88e35f812d184c3.shtml 
-附件： 1.成人高尿酸血症与痛风食养指南（2024年版）
-       2.成人高尿酸血症与痛风食养指南（2024年版）问答
-       3.成人肥胖食养指南（2024年版）
-       4.成人肥胖食养指南（2024年版）问答
-       5.儿童青少年肥胖食养指南（2024年版）
-       6.儿童青少年肥胖食养指南（2024年版）问答
-       7.成人慢性肾脏病食养指南（2024年版）
-       8.成人慢性肾脏病食养指南（2024年版）问答</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;29
+                              <span>近来工作上比较忙碌，生活上，一如既往的抽出足够多的时间来陪伴孩子，看着孩子健康成长，还是比较欣慰的，到了现在这个年纪，感觉除了上班，其它时间都不够用，虽然是双休和法定节假日，仍然感觉假期很快过完...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -2970,11 +2867,44 @@ Continue reading...</span>
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-11-08 datetime="2024-11-08T04:52:48.000Z">2024-11-08</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-11-08 datetime="2024-11-08T04:52:48.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-11-08 datetime="2024-11-08T06:43:00.000Z">2024-11-08</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-11-08 datetime="2024-11-08T06:43:00.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >满心记</button>
+                  <a class="source-heading__link" href="https://qq.mba/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://qq.mba/192.html"
+                        open
+                      >
+                        <summary class="article-expander__title">借icefox改造了一个“朋友圈”</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://qq.mba/192.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>很早就想拥有一个类似&quot;微信朋友圈&quot;功能，当然我主要是用户存放视频和图片，每次换手机迁移照片也麻烦，再就是照片太多了，有很多是不怎么关心，就想着弄一个程序，把比较有纪念价值的照片视频都留存下来，方...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -3587,6 +3517,53 @@ how clear communication and documentation boost collaboration and streamline pro
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-11-03 datetime="2024-11-03T02:43:00.000Z">2024-11-03</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-11-03 datetime="2024-11-03T02:43:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >满心记</button>
+                  <a class="source-heading__link" href="https://qq.mba/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://qq.mba/193.html"
+                        open
+                      >
+                        <summary class="article-expander__title">看毒液，吃螃蟹</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://qq.mba/193.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>毒液上映那天就想去看的，一直没有时间，正好今儿有空就去看了，看完之后，我俩得出结论：这就结束了？怎么这么短，不可思议。，明显感觉不值这个票价，前两部都看过，感觉还不错，所以对第三部期待还是蛮高的...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-11-02 datetime="2024-11-02T15:38:24.000Z">2024-11-02</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-11-02 datetime="2024-11-02T15:38:24.000Z"></time>
           </button>
@@ -3753,6 +3730,39 @@ ARM镜像：openEuler-22.03-LTS-SP4-aarch64-dvd.iso
                             <span class="media-object__text">
                               <span>今天，我终于拿证了！ 北京时间： 2024-10-31 PM 距离今年8月16号考完科目一到今天拿证，一共经历了76天</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >满心记</button>
+                  <a class="source-heading__link" href="https://qq.mba/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://qq.mba/191.html"
+                        open
+                      >
+                        <summary class="article-expander__title">买保险，靠谱么？</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://qq.mba/191.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>其实说到保险，似乎除了车险外，我几乎都没关注过这个，当然平时耳濡目染了不少，不过大多数都是负面的，所以我对保险也没啥好感，打心底比较抵触。总是听说，谁谁谁得了重病，最后花了十几万，据说买了保险最...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -5156,6 +5166,39 @@ Istio、EJBCA 和 cert-manager
                     class="source-heading__name"
                     data-action="toggle-accordions"
                     title="Click to toggle the source, Ctrl + click to toggle all."
+                  >满心记</button>
+                  <a class="source-heading__link" href="https://qq.mba/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://qq.mba/190.html"
+                        open
+                      >
+                        <summary class="article-expander__title">好吃的风干牦牛肉</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://qq.mba/190.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>昨儿晚上，我原本只是打算去取快递，没想到在门口遇到一个卖牛肉干的小摊。说真的，牛肉我还是蛮爱吃的，牛肉干更是喜爱！我抱着尝尝的态度，其实并没打算买的。摊主热情招呼尝一下，我开始尝了那种黄牛肉干，...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
                   >Rss Feed - 苏洋博客</button>
                   <a class="source-heading__link" href="https://soulteary.com/feed/">Open</a>
                 </h3>
@@ -5356,6 +5399,39 @@ Fixing electrical problems
 Ramping up to Spooky Month, the lights in our house were acting up. We’ve always had the occasional power problem; lights dimming, oven clocks resetting, but they were random and isolated. But around the beginning of September our lights would flicker for a solid minute every time the A/C kicked on. I was getting concerned about a potential fire – and no matter what anyone says, I was not concerned about a ghost, ghoul, specter, gremlin, dracula or otherwise – so I scheduled a bunch of maintenance calls:
 An electrician - He didn…</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >满心记</button>
+                  <a class="source-heading__link" href="https://qq.mba/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://qq.mba/189.html"
+                        open
+                      >
+                        <summary class="article-expander__title">DDoS导致服务器封堵</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://qq.mba/189.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>早上拿起手机一看，收到腾讯的DDOS信息，心里突然一紧，这是被攻击了，赶紧登录查看信息，还好超过了腾讯云赠送的防护阈值限制，服务器直接被封堵了，从而避免更大的损失。初步估计，应该是bsay论坛被...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -5600,6 +5676,39 @@ bash &lt;(curl -sSL</span>
                           <div class="article-summary-box-inner media-object">
                             <span class="media-object__text">
                               <span>皖南高山古村落，梦里乡村-祖源</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >满心记</button>
+                  <a class="source-heading__link" href="https://qq.mba/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://qq.mba/188.html"
+                        open
+                      >
+                        <summary class="article-expander__title">七天的国庆结束了</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://qq.mba/188.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>放假的日子过得总是很快，这不，已经开始上班了，国庆选择了回对象的老家，在老家呆了四天，有三天是在外面吃酒席，几乎不是吃酒席，就是去吃酒席的路上，他们那边讲究吃两天，一共六顿，别说主人家了，我都快...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
                             </span>
                           </div>
                         </a>
@@ -6955,6 +7064,39 @@ How the Envoy proxy handles a user request - tetrate.io
                             <span class="media-object__text">
                               <span>Analytics has become the most helpful acquisition for businesses globally, as it allows them to optimize operations and make strategic decisions based on data.  This is where data strategy consulting services can help empower businesses for sustained growth. As a leading provider of data consulting solutions, Experts are highly trained to develop comprehensive data strategies […]</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;11
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >满心记</button>
+                  <a class="source-heading__link" href="https://qq.mba/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://qq.mba/187.html"
+                        open
+                      >
+                        <summary class="article-expander__title">这个周末很清闲</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://qq.mba/187.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>中秋前的几周的周六一直在加班，感觉还是挺累，一天的休息感觉既没睡好，也没玩好，说不出门吧，小孩儿又眼巴巴看着，想开车出去转转，几乎每周天都会就近找个位置玩一下，所以感觉自己总是有点儿疲倦，有点儿...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -8640,8 +8782,8 @@ The Performance Monitor collects performance data in realtime and puts it on a g
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/MarsperL/yygrss/actions/runs/12098082658">
-        <time id="build-timestamp" datetime="2024-11-30T17:05:00.195Z">2024-11-30T17:05:00.195Z</time>
+      <a class="footer-link" href="https://github.com/MarsperL/yygrss/actions/runs/12098099771">
+        <time id="build-timestamp" datetime="2024-11-30T17:07:22.786Z">2024-11-30T17:07:22.786Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
