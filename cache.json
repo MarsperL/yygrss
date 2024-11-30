@@ -510,6 +510,73 @@
           "imageUrl": "null"
         }
       ]
+    },
+    {
+      "title": "Rss Feed - 苏洋博客",
+      "feedUrl": "https://soulteary.com/feed/",
+      "siteUrl": "https://soulteary.com/feed/",
+      "articles": [
+        {
+          "id": "https://soulteary.com/2024/11/30/basic-skills-redis-from-getting-started-to-docker-deployment.html",
+          "author": "苏洋(soulteary)",
+          "description": "前面写过了两篇 “Redis” 相关的内容，今天补一篇“基本功”内容，让后续折腾系列文章可以篇幅更短、内容更专注。",
+          "link": "https://soulteary.com/2024/11/30/basic-skills-redis-from-getting-started-to-docker-deployment.html",
+          "publishedOn": "2024-11-30T11:12:00.000Z",
+          "wordCount": 1953,
+          "title": "折腾基本功：Redis 从入门到 Docker 部署",
+          "imageUrl": null
+        },
+        {
+          "id": "https://soulteary.com/2024/11/22/breaking-memory-limits-a-practical-guide-to-serverization-on-the-mac-mini-m2.html",
+          "author": "苏洋(soulteary)",
+          "description": "本篇文章，我们聊聊如何使用 Mac Mini M2 来实现比上篇文章性价比更高的内存服务器使用，分享背后的一些小的思考。希望对有类似需求的你有帮助。",
+          "link": "https://soulteary.com/2024/11/22/breaking-memory-limits-a-practical-guide-to-serverization-on-the-mac-mini-m2.html",
+          "publishedOn": "2024-11-22T09:42:00.000Z",
+          "wordCount": 1874,
+          "title": "突破内存限制：Mac Mini M2 服务器化实践指南",
+          "imageUrl": null
+        },
+        {
+          "id": "https://soulteary.com/2024/11/21/thinkpad-with-redis-a-civilian-solution-for-building-millisecond-level-queries-on-billions-of-data.html",
+          "author": "苏洋(soulteary)",
+          "description": "本篇内容，分享一个和 Redis 相关的比较基础的技术实践内容。使用本体价值不到 3000 块钱的二手笔记本设备，和经典的 Redis 技术栈来加速上亿规模数据的查询效率。",
+          "link": "https://soulteary.com/2024/11/21/thinkpad-with-redis-a-civilian-solution-for-building-millisecond-level-queries-on-billions-of-data.html",
+          "publishedOn": "2024-11-21T05:19:00.000Z",
+          "wordCount": 3145,
+          "title": "ThinkPad + Redis：构建亿级数据毫秒级查询的平民方案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://soulteary.com/2024/11/19/beyond-gigabit-home-network-2-5g-upgrade-practice.html",
+          "author": "苏洋(soulteary)",
+          "description": "本篇文章，我们聊聊最近的一些关于家庭网络和网络设备折腾的事情，以及背后的一些小的考虑。",
+          "link": "https://soulteary.com/2024/11/19/beyond-gigabit-home-network-2-5g-upgrade-practice.html",
+          "publishedOn": "2024-11-19T15:06:00.000Z",
+          "wordCount": 407,
+          "title": "千兆之上：家庭网络 2.5G 升级实践",
+          "imageUrl": null
+        },
+        {
+          "id": "https://soulteary.com/2024/10/15/manage-ssh-configuration-using-structure-data-ssh-config-tool.html",
+          "author": "苏洋(soulteary)",
+          "description": "随着折腾的设备和云服务器越来越多，我们本地的 SSH Config 配置越来越复杂，为了解决这个问题，最近做了一些简单的尝试。",
+          "link": "https://soulteary.com/2024/10/15/manage-ssh-configuration-using-structure-data-ssh-config-tool.html",
+          "publishedOn": "2024-10-15T03:54:00.000Z",
+          "wordCount": 1104,
+          "title": "使用结构化数据管理 SSH 配置：SSH Config Tool",
+          "imageUrl": null
+        },
+        {
+          "id": "https://soulteary.com/2024/09/30/etl-using-small-size-llm-and-dify-qwen-2-5-7b.html",
+          "author": "苏洋(soulteary)",
+          "description": "本篇文章，我们聊聊如何使用最近发布的 Qwen 2.5 7B 模型来做日常低成本的数据清理工作。",
+          "link": "https://soulteary.com/2024/09/30/etl-using-small-size-llm-and-dify-qwen-2-5-7b.html",
+          "publishedOn": "2024-09-30T08:44:00.000Z",
+          "wordCount": 1463,
+          "title": "使用小尺寸大模型和 Dify 清洗数据：Qwen 2.5 7B",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
