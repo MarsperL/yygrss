@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2024-11-30T16:35:23.708Z</updated>
+    <updated>2024-11-30T16:37:48.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
@@ -79,6 +79,142 @@ Hugo 官网 也都有，这里不再复述。
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[思维导图工具评测：为什么我选择 Whimsical]]></title>
+        <id>https://jimmysong.io/blog/mindmap-review/</id>
+        <link href="https://jimmysong.io/blog/mindmap-review/"/>
+        <updated>2024-11-27T06:46:41.000Z</updated>
+        <summary type="html"><![CDATA[思维导图是一种高效的工具，用于整理思路、构建结构和规划项目。我尝试了许多思维导图工具，包括 Coggle、Miro、GitMind、MindMeister 等。这些工具各有特点，但最终 Whimsical 成为了我的首选。在这篇博客中，我将深入介绍这些工具的特点，并分享选择 Whimsical 的原因。
+在线思维导图工具对比
+在选择在线思维导图工具时，我重点关注以下方面：
+是否支持嵌入网站并具备交互性。
+操作是否直观流畅。
+功能是否能满足个人和团队协作的需求。
+Coggle
+Coggle 是一款专注于思维导图的在线工具，界面清新，适合个人用户和小型团队。它的核心特色是可以快速创建节点并生成树状结构。
+优点：
+
+免费版提供无限制的思维导图创建。
+支持实时协作，适合简单项目规划。
+缺点：
+
+操作逻辑不够直观，尤其是在复杂项目中容易产生混乱。
+缺乏高级功能，不适合需要高效编辑的用户。
+Miro
+Miro 是一款功能丰富的协作白板工具，思维导图是其众多功能中的一个模块。它适合团队在复杂项目中进行头脑风暴和流程规划。
+优点：
+
+支持多种图表类型，扩展性强。
+界面设计美观，操作流畅，支持团队实时协作。
+缺点：
+
+嵌入网站时节点无法展开和折叠，仅适合静态展示。
+功能丰富但较为复杂，对新用户来说学习曲线较陡。
+GitMind
+GitMind 是一款轻量级的在线思维导图工具，界面简洁，专注于核心功能，适合初学者或对功能需求不高的用户。
+优点：
+易于上手，操作简单。
+提供多种模板，便于快速构建导图。
+缺点：
+功能较单一，无法满足复杂项目需求。
+免费版限制较多，对高级用户不够友好。
+MindMeister
+MindMeister 是一款成熟的在线思维导图工具，以优雅的界面和强大的分享功能著称。它的嵌入功能特别适合内容创作者。
+优点：
+
+支持节点的展开和折叠，交互体验良好。
+提供清晰的界面和流畅的…]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Follow.is 使用体验分享：高效信息管理的智能工具]]></title>
+        <id>https://jimmysong.io/blog/follow-is-review/</id>
+        <link href="https://jimmysong.io/blog/follow-is-review/"/>
+        <updated>2024-11-27T03:01:16.000Z</updated>
+        <summary type="html"><![CDATA[最近几个月，我一直在使用一款名为 Follow.is 的信息聚合工具，经过一段时间的探索，我对它的功能、优势以及不足有了一些自己的看法。借此博客，我想和大家分享我的使用体验，也希望能为考虑使用这款工具的朋友们提供一些参考。
+什么是 Follow.is？
+Follow.is 是一个内容聚合工具，旨在帮助用户从不同来源高效获取和管理信息。它支持通过 RSS 订阅、直接输入网址等方式关注各种内容源，并在统一的界面中集中展示更新内容。这个工具对于习惯用 RSS 阅读器的人来说，既熟悉又方便，同时也加入了一些智能化的功能，让人眼前一亮。
+不过需要注意的是，Follow.is 目前还无法直接注册使用，必须通过他人邀请获得邀请码才能加入。这种设计虽然增加了些许门槛，但也为用户间的推荐提供了一种独特的方式。
+Follow 界面
+  
+
+使用中的亮点
+平台支持
+Follow.is 支持多个操作系统和 Web 访问，界面简洁直观。虽然目前尚未推出手机应用，但在桌面端的体验非常流畅，对于我这种习惯在电脑上阅读内容的人来说，非常友好。
+与 Obsidian 集成
+我尤其喜欢 Follow.is 的一项特性：与 Obsidian 的集成。通过这项功能，我可以一键将文章保存为 Markdown 格式并存储到本地的 Obsidian 笔记库中，方便后续编辑和整理。这种无缝衔接为我的知识管理效率带来了极大的提升。
+自动化功能
+Follow.is 提供了诸如自动翻译和自动摘要这样的智能功能。对于非母语内容，自动翻译可以让我快速了解文章内容；而自动摘要功能则帮助我在短时间内抓住长篇文章的核心要点。这些功能在信息量繁多的场景中显得尤为实用。
+认领订阅源和打赏功能
+Follow.is 允许用户认领自己的订阅源，一旦认领成功，其他用户可以通过平台的虚拟代币 $POWER 对内容进行打赏。尽管我认为打赏功能的实际作用有限，但这一机制为创作者提供了额外的收益来源。
+使用中的不足
+订阅源获取的局限性
+Follow.is 的一大难点在于获取高质量的订阅源。虽然它支持 RSS，但很多封闭的平台（如微信公众号）并不支持 RSS 订阅，这使得关注此类内容变得复杂。除非这些平台的内容发布者愿意在其他支持订阅的地方同步更新，否则 Follow.is 在这方面的体验仍有待改进。
+缺少评论功能
+Follow.is 不支持评论功能，这使得用户之间无法就某篇内容进行互动和讨论。虽然我个人觉得这不是刚需（因为很多在线评论并没有太多营养），但如果有一个高质量的互动空间，或许会更有趣。
+手机端的缺失
+目前 Follow.is 尚未推出手机应用，这对于习惯用碎片时间阅读的用户来说是一个限制。尽管可以通过手机浏览器访问其网页版，但体验不如专用应用程序方便。
+总结
+总的来说，Follow.is 是一款兼具功能性和智能化的内容聚合工具，适合那些需要高效获取和管理信息的用户。它的自动化功能、与 Obsidian 的集成、以及认领订阅源的设计让我印象深刻；同时，它也有一些不足，比如订阅源获取的限制和缺少手机应用。
+目前，这款软件仍处于邀请制使用阶段，希望未来能进一步开放注册，同时优化一些用户反馈较多的功能。如果你也有机会试用，我相信它会成为你信息管理的一大利器。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何使用通义千问 AI 生成 PPT 并发布到个人网站]]></title>
+        <id>https://jimmysong.io/blog/ai-ppt-to-hugo/</id>
+        <link href="https://jimmysong.io/blog/ai-ppt-to-hugo/"/>
+        <updated>2024-11-26T09:06:58.000Z</updated>
+        <summary type="html"><![CDATA[以下是使用通义千问 AI 快速生成 PPT 并将其发布到个人网站的简单流程：
+注：PPT 内容由通义 AI 生成，访问 tongyi.ai 智能生成更多 PPT
+使用通义千问生成 PPT
+工具地址：通义千问 AI PPT
+登录方式：
+
+使用淘宝账号和手机号验证码登录。
+功能亮点：
+
+主题生成：输入一个主题，AI 可以自动生成 PPT 内容（适合简单场景）。
+长文生成：支持最多 10 万字的文本解析，适合将报告或博客生成 PPT。
+模板个性化：支持选择多种模板，生成的 PPT 可以导出为 pptx 格式。
+使用体验：
+
+我尝试用自己的博客生成了一份 PPT，AI 自动整理了章节和配图，效果还不错，模板选择提升了个性化展示的效果。
+导入 Canva 进行调整
+工具地址：Canva.cn
+调整方法：
+
+将从通义千问生成的 pptx 文件导入 Canva。
+根据需要调整 排版布局，补充和调整一些内容。
+完成调整后，在 Canva 中选择导出为 嵌入式网页，生成一个可分享的链接。
+将 PPT 发布到个人网站
+工具：Hugo
+操作步骤：
+
+
+在 Hugo 博客中，使用以下 Shortcode 嵌入 Canva 的分享链接：
+<slide src="https://www.canva.cn/design/DAGXjo0P9w0/view">
+
+
+保存后部署网站，即可在博客中直接展示 PPT。
+使用场景
+博客嵌入 PPT 的适用场景可以涵盖以下几个方面：
+提炼长内容的梗概；
+简化多图内容的存储与排版；
+展示数据与图表；
+教程与演示文档；
+总结与复盘；
+对外分享和推广。
+总结
+通过 通义千问 AI PPT 和 Canva 的结合，可以快速生成并发布高质量的 PPT 到个人网站。这种方法尤其适合将博客内容快速转化为视觉化演示，既省时又高效。
+如果需要更多样式和交互，可以进一步自定义 Canva 的模板，满足更高的个性化需求。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Goodbye, Moogs]]></title>
         <id>https://daverupert.com/2024/11/goodbye-moogs/</id>
         <link href="https://daverupert.com/2024/11/goodbye-moogs/"/>
@@ -91,6 +227,40 @@ My wife adopted him before we were even dating in 2006. I never had a cat, was m
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[新一代终端工具 Warp：重新定义命令行体验]]></title>
+        <id>https://jimmysong.io/blog/warp-modern-terminal-tool/</id>
+        <link href="https://jimmysong.io/blog/warp-modern-terminal-tool/"/>
+        <updated>2024-11-25T03:12:45.000Z</updated>
+        <summary type="html"><![CDATA[最近，我在尝试各种终端工具时发现了一个令人耳目一新的产品——Warp。这是一款专为开发者设计的现代终端工具，它不仅颠覆了我们对传统命令行工具的认知，还以智能化的交互体验显著提升了生产力。本文将介绍 Warp 的核心功能，并对比传统工具（如 iTerm），探讨它为何可能成为终端工具的新标杆。
+什么是 Warp？
+Warp 是一款现代化终端工具，由 Rust 开发，旨在通过更直观、更高效的交互设计重新定义终端的使用体验。它与传统的终端工具（如 iTerm2 或 macOS 的默认终端）相比，加入了诸多智能化和现代化的功能。
+Warp 命令行界面
+  
+
+Warp 的设计围绕以下几个核心理念展开：
+智能化： 内置 Warp AI，支持通过自然语言与终端交互。
+高效化： 采用块状结构管理命令和输出，便于复制、分享和回溯。
+协作性： 借助 Warp Drive 支持团队共享工作流和脚本。
+可定制性： 提供现代编辑器功能，允许深度定制。
+Warp 的核心功能
+1. 块（Block）结构
+Warp 将每条命令及其输出划分为独立的块。每个块可以单独操作，例如复制、删除或分享，这使得管理和回溯命令变得异常简单。
+对比传统终端：
+在 iTerm 中，所有命令和输出混杂在一起，回溯历史命令时往往需要手动滚动查找。
+Warp 的块式设计可以一键选定某个命令的所有输出，极大地提高了效率。
+2. Warp Drive：工作流和协作
+Warp Drive 是 Warp 提供的团队协作工具，支持以下功能：
+个人工作区： 保存常用命令和工作流，随时调用。
+团队共享： 支持将交互式笔记本或复杂脚本分享给团队成员，方便知识传递。
+实时同步： 团队的所有工作内容在更新后可立即同步，确保大家始终使用最新的配置。
+对比传统终端：
+iTerm 更专注于个人使用，协作功能几乎为零。
+Warp Drive 将终端工具扩展到…]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[突破内存限制：Mac Mini M2 服务器化实践指南]]></title>
         <id>https://soulteary.com/2024/11/22/breaking-memory-limits-a-practical-guide-to-serverization-on-the-mac-mini-m2.html</id>
         <link href="https://soulteary.com/2024/11/22/breaking-memory-limits-a-practical-guide-to-serverization-on-the-mac-mini-m2.html"/>
@@ -98,6 +268,31 @@ My wife adopted him before we were even dating in 2006. I never had a cat, was m
         <summary type="html"><![CDATA[本篇文章，我们聊聊如何使用 Mac Mini M2 来实现比上篇文章性价比更高的内存服务器使用，分享背后的一些小的思考。希望对有类似需求的你有帮助。]]></summary>
         <author>
             <name>苏洋(soulteary)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么我将笔记从 Notion 迁移到 Obsidian？]]></title>
+        <id>https://jimmysong.io/blog/typora-notion-to-obsidian/</id>
+        <link href="https://jimmysong.io/blog/typora-notion-to-obsidian/"/>
+        <updated>2024-11-21T06:43:02.000Z</updated>
+        <summary type="html"><![CDATA[多年来，我尝试过多款笔记和 Markdown 编辑工具，包括 Typora、Notion 和 Obsidian。每一款工具都有它的优缺点，但最终我决定将笔记迁移到 Obsidian。这篇文章将详细记录我的思考过程、对比分析，以及迁移的原因。
+Obsidian 笔记编辑页面
+  
+
+早期的选择：从 Typora 到 Notion
+最初，我使用 Typora 作为主要的 Markdown 编辑工具。Typora 简洁优雅，支持多种文档格式导出，是一款极具吸引力的软件。然而，随着我管理的文档和笔记日益增多，Typora 的缺点也逐渐暴露：
+缺乏文件管理功能：Typora 是一个纯编辑器，没有笔记组织或管理的能力。
+缺乏插件扩展：Typora 封闭的生态限制了我的个性化需求。
+收费：作为商业软件，Typora 需要购买授权。
+在发现 Typora 的局限性后，我转而使用 Notion。Notion 提供了强大的笔记管理能力，其数据库功能让我能够轻松归档和分类文档，并支持跨平台协作。这一阶段，我还利用 Notion 构建了家庭账本和知识库。然而，随着时间推移，Notion 的一些问题让我逐渐感到不满：
+体积庞大：在手机端，Notion App 的安装包接近 1GB，占用存储空间。
+导出兼容性差：导出的 Markdown 文件与 Hugo 和 GitHub Pages 不完全兼容，格式调整需要额外工作。
+在线依赖：Notion 必须联网使用，且需要注册账号，这增加了使用门槛。
+付费订阅问题：虽然订阅了一年的 Notion AI，但效果不如 ChatGPT，功能冗余。
+Obsidian 的重新发现
+最近阅读了 全面提升 Obsidian 体验：插件与日常技巧分享，让我重新审视 Obsidian 的潜力。早年试用时，我觉得 Obsidian 界面“丑陋”，文件组织方式也不够直观。然而，现在…]]></summary>
+        <author>
+            <name>Jimmy Song</name>
         </author>
     </entry>
     <entry>
@@ -141,6 +336,46 @@ My wife adopted him before we were even dating in 2006. I never had a cat, was m
         <summary type="html"><![CDATA[本篇文章，我们聊聊最近的一些关于家庭网络和网络设备折腾的事情，以及背后的一些小的考虑。]]></summary>
         <author>
             <name>苏洋(soulteary)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Istio Ambient 模式中的透明流量拦截过程详解]]></title>
+        <id>https://jimmysong.io/blog/istio-ambient-traffic-interception/</id>
+        <link href="https://jimmysong.io/blog/istio-ambient-traffic-interception/"/>
+        <updated>2024-11-18T03:48:39.000Z</updated>
+        <summary type="html"><![CDATA[这是我关于 Istio ambient 模式系列文章的第一篇。在接下来的几篇中，我将深入探讨 ambient 模式的关键组件及其工作原理，包括 ztunnel 如何将流量转发到 waypoint proxy，waypoint proxy 如何处理流量，以及通过 bookinfo 示例完整理解流量路径的操作。由于流量拦截是服务网格的基础功能，因此我选择从它开始，为大家提供扎实的理解基础。
+Istio ambient 模式是一种无需在每个 pod 中注入 sidecar 的服务网格实现方式。它通过在 pod 的网络命名空间内配置透明流量拦截和重定向，使应用程序无需修改即可享受服务网格的功能。以下内容将详细解析透明流量拦截的实现过程，涉及组件如 Istio CNI Node Agent、ztunnel、网络命名空间 和 iptables 规则，并通过流程图和示意图进行说明。
+背景知识
+Linux 网络命名空间
+网络命名空间（Network Namespace） 是 Linux 内核的功能，用于隔离不同进程的网络环境。每个网络命名空间都有独立的网络设备、IP 地址、路由表和 iptables 规则。容器技术（如 Docker、Kubernetes）利用网络命名空间为每个容器（或 pod）提供独立的网络栈。
+Istio CNI Node Agent
+Istio CNI Node Agent 是 ambient 模式中的核心组件之一，负责在 Kubernetes 节点上检测加入 ambient 网格的 pod，并为这些 pod 配置流量重定向规则。需要注意的是，这里使用的是 Istio CNI Node Agent，而非传统的 Istio CNI 插件。Node Agent 是一个守护进程，与 ztunnel 协同工作，而不是直接参与网络插件的工作。
+ztunnel
+ztunnel 是…]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Istio Ambient 模式中的 Pod 内 iptable 规则注入解析]]></title>
+        <id>https://jimmysong.io/blog/istio-ambient-inpod-iptables/</id>
+        <link href="https://jimmysong.io/blog/istio-ambient-inpod-iptables/"/>
+        <updated>2024-11-18T03:47:02.000Z</updated>
+        <summary type="html"><![CDATA[在 上一篇博客 中，我概述了 Istio ambient 模式中 pod 网络命名空间内注入的 iptables 规则。本文将深入解析这些规则，探讨它们是如何在 pod 内实现透明流量拦截和重定向的。
+Pod 内的 iptables 规则
+在 pod 的网络命名空间内，Istio CNI node agent 会设置一系列 iptables 规则，以实现流量的透明拦截与重定向。下面的规则展示了 Istio 在 mangle 和 nat 表中注入的内容，确保入站和出站流量经过适当的处理。
+# Generated by iptables-save v1.8.9 (nf_tables) on Thu Nov 14 08:43:17 2024
+*mangle
+:PREROUTING ACCEPT [99138:22880045]  # mangle 表中的 PREROUTING 链，默认策略为 ACCEPT。
+:INPUT ACCEPT [0:0]  # mangle 表中的 INPUT 链，默认策略为 ACCEPT。
+:FORWARD ACCEPT [0:0]  # mangle 表中的 FORWARD 链，默认策略为 ACCEPT。
+:OUTPUT ACCEPT [100900:34940164]  # mangle 表中的 OUTPUT 链，默认策略为 ACCEPT。
+:POSTROUTING ACCEPT [0:0]  # mangle 表中的 POSTROUTING 链，默认策略为 ACCEPT。
+:ISTIO_OUTPUT - [0:0]  # 自定义的 ISTIO_OUTPUT 链，用于处理 Istio 的出站流量。
+:ISTIO_PRERT - [0:0]  # 自定义的 ISTIO_PRERT 链，用于处理 Istio 的预路由流量。
+-A PREROUTING …]]></summary>
+        <author>
+            <name>Jimmy Song</name>
         </author>
     </entry>
     <entry>
@@ -232,6 +467,33 @@ My wife adopted him before we were even dating in 2006. I never had a cat, was m
         <summary type="html"><![CDATA[背景： Go 语言的 net/http/pprgf包如未配置正确暴露在公网容易引起敏感信息泄漏问题，导致源码等信息泄漏。 influxdb 2 默认是开启pprof的 使用 localhost:8086/debug/pprof/goroutine?debug=1 可以看到接口暴露的信息 如何关闭pp]]></summary>
         <author>
             <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[跨网络命名空间管理套接字：探索 Linux 套接字的使用]]></title>
+        <id>https://jimmysong.io/blog/cross-network-namespace-socket/</id>
+        <link href="https://jimmysong.io/blog/cross-network-namespace-socket/"/>
+        <updated>2024-11-07T08:48:08.000Z</updated>
+        <summary type="html"><![CDATA[最近我在研究 Istio Ambient 模式中的透明流量劫持，过程中涉及了跨网络命名空间管理套接字的功能。在 Istio 官方的博客 Maturing Istio Ambient: Compatibility Across Various Kubernetes Providers and CNIs 中也提到了这一点，让我对 Linux 套接字 API 的这个功能产生了浓厚的兴趣。所以，我决定写下这篇博客，分享如何在 Linux 系统中跨网络命名空间管理套接字的细节。
+网络命名空间简介
+网络命名空间是一种 Linux 内核特性，可以把系统的网络资源（例如 IP 地址、路由表等）分割成多个独立的实例。这样每个实例就可以为不同的进程提供独立的网络环境。比如，Docker 使用网络命名空间为每个容器提供独立的网络栈，让它们之间的网络资源互相隔离。
+通过网络命名空间，不同的进程可以有独立的网络配置，比如不同的 IP 地址和路由设置。但即使网络命名空间实现了隔离，Linux 的套接字 API 仍然可以让进程跨网络命名空间操作套接字。
+跨网络命名空间管理套接字
+在一个命名空间中运行的进程可以创建一个套接字，并将它放到另一个网络命名空间中，这让我们可以实现非常灵活的网络通信。比如，可以在一个特定的网络命名空间中创建监听套接字，让其他命名空间中的进程共享这个套接字。这种功能在容器编排和微服务架构中非常有用。
+下面是一个简单的例子，使用 nc 命令创建套接字，使其绑定到指定的网络设备或命名空间。
+Mermaid Diagram
+  
+
+使用 Docker 演示这一功能
+因为我使用的 macOS 不支持 Linux 的网络命名空间，但可以使用 Docker Desktop 模拟相应的环境。下面是在 macOS 上使用 Docker 来演示的方法：
+Mermaid Diagram
+  
+
+
+
+安…]]></summary>
+        <author>
+            <name>Jimmy Song</name>
         </author>
     </entry>
     <entry>
@@ -387,6 +649,26 @@ ARM镜像：openEuler-22.03-LTS-SP4-aarch64-dvd.iso
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[从 AWS App Mesh 迁移到 Istio 全面指南]]></title>
+        <id>https://jimmysong.io/blog/migrating-from-aws-app-mesh-to-istio-a-comprehensive-guide/</id>
+        <link href="https://jimmysong.io/blog/migrating-from-aws-app-mesh-to-istio-a-comprehensive-guide/"/>
+        <updated>2024-10-30T06:20:22.000Z</updated>
+        <summary type="html"><![CDATA[随着 AWS 宣布将在 2026 年 9 月 30 日停用 AWS App Mesh，许多企业正在评估继续使用服务网格的替代方案。如果您也在寻找替代方案，Istio 将是一个强大且功能丰富的选项，尤其适合 Kubernetes 原生环境。在本文中，我将介绍从 AWS App Mesh 迁移到 Istio 的过程，对比这两种服务网格，并介绍我们开发的 Tetrate Istio 迁移工具，帮助简化这一迁移过程。
+App Mesh vs Istio：迁移准备
+由于 AWS App Mesh 即将停用，了解 App Mesh 和 Istio 之间的相似性和差异对于成功迁移至关重要。以下是一些关键比较点，帮助您将当前的基础设施与 Istio 提供的功能对齐：
+全面的功能：App Mesh 和 Istio 都提供流量管理、可观测性和安全功能，但 Istio 提供了更多可自定义的选项，包括高级流量路由和增强的遥测。
+云无关性：与紧密集成 AWS 的 App Mesh 不同，Istio 是云无关的，可在多云或混合环境中提供更大的灵活性。
+高级安全：Istio 默认支持 mTLS，与 App Mesh 相比，提供了更广泛的安全功能和策略。
+AWS 建议 ECS 客户迁移到 Service Connect 而 EKS 客户迁移到 VPC Lattice。对于一个功能丰富的开源解决方案，Istio 是一个很有吸引力的选择。接下来，让我们深入了解从 AWS App Mesh 迁移到 Istio 的过程，并使用 Tetrate 的迁移工具进行支持。
+比较 App Mesh、Service Connect、VPC Lattice 和 Istio
+在开始迁移之前，了解 AWS App Mesh、Service Connect、VPC Lattice 和 Istio 之间的关键区别非常重要：
+功能
+  …]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[人大金仓Kingbase数据库部署体验]]></title>
         <id>/archives/1730106107445</id>
         <link href="https://srebro.cn/archives/1730106107445"/>
@@ -394,6 +676,33 @@ ARM镜像：openEuler-22.03-LTS-SP4-aarch64-dvd.iso
         <summary type="html"><![CDATA[一、简介 人大金仓数据库KingbaseES简称KES是一款国产数据库，具有开发板、标准版、专业版和企业版，目前版本有V8R3、V8R6和V9R1，支持单机部署和集群部署。 安装包和授权文件下载地址： https://www.kingbase.com.cn/xzzx/index.htm 官方帮助文档]]></summary>
         <author>
             <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[地上文物看山西：宝藏文物大省不该被埋没]]></title>
+        <id>https://jimmysong.io/blog/shanxi-trip/</id>
+        <link href="https://jimmysong.io/blog/shanxi-trip/"/>
+        <updated>2024-10-26T04:07:25.000Z</updated>
+        <summary type="html"><![CDATA[我前后三次到访过山西：
+第一次是 2017 年 12 月，公司组织团建，去了山西大同，游览了悬空寺、云冈石窟和北岳恒山
+第二次是 2019 年 4 月，清明节期间，和几位好友自驾去了山西五台山、佛光寺、雁门关和应县木塔
+第三次是 2021 年 6 月，到山西晋城参加朋友婚礼，因为当时正值疫情期，没有办法进到景区游览，只是用无人机俯瞰了下「皇城相府」
+第一次去山西就被山西厚重的文化内涵所打动，而最近随着首款国产 3A 游戏《黑神话：悟空》的火爆，游戏中的取景地山西的各种古建筑接连出圈。俗话说”地下文物看陕西，地上文物看山西“，如此宝藏文物大省不该被埋没。
+大同
+去大同的时候是 12 月，当地的天气不是很好，到处都是灰蒙蒙的。大同是山西省省域副中心城市。曾是北魏京都、辽金陪都，有“三代京华、两朝重镇”之称。
+大同一隅
+  
+
+云冈石窟
+云冈石窟蔚为壮观，这也是我第一次游览古代石窟。云冈石窟是中国四大石窟之一。其始凿于北魏文成帝时期，历时 64 年。石窟依山开凿，东西绵延约 1 公里，现存主要洞窟 45 个，附属洞窟 209 个，它于 2001 年被列入“世界文化遗产”名录，2007 年成为国家首批 5A 级旅游景区。
+云冈石窟
+  
+
+86 版《西游记》第 18 集《扫塔辨奇冤》在云冈石窟有多处取景。该集一开始，师徒四人刚抵达祭赛国时行走的场景，就是在云冈石窟西部洞窟前拍摄的。后来，孙悟空躲在石窟上面查看僧众被殴打的场面，也是在此拍摄。再后来，一位僧侣向唐僧师徒透露冤情，由于几年前寺中塔顶的舍利子佛宝被盗，僧侣们因此遭受不白之冤和苦难，这一对话场景实际上是在云冈石窟的第五窟拍摄完成的。
+北岳恒山
+攀爬北岳恒山相对比较容易，恒山的山势虽然险峻，但攀登过程中坡度相对较为缓和，没有特别陡峭难行的路段。恒山的海拔约 2016.1 米。恒山的垂直落差相对其他一些著名高山来说不是特别大，大…]]></summary>
+        <author>
+            <name>Jimmy Song</name>
         </author>
     </entry>
     <entry>
@@ -540,6 +849,25 @@ For progressi…]]></summary>
         <summary type="html"><![CDATA[总结去过的所有景点，把最好玩儿的推荐给你]]></summary>
         <author>
             <name>运维咖啡吧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多集群 PKI 与 Istio 实践：为服务网格构建可信且可扩展的 PKI]]></title>
+        <id>https://jimmysong.io/blog/multi-cluster-pki-istio-recipe/</id>
+        <link href="https://jimmysong.io/blog/multi-cluster-pki-istio-recipe/"/>
+        <updated>2024-10-16T03:51:57.000Z</updated>
+        <summary type="html"><![CDATA[作者：Cristofer TenEyck（Keyfactor 高级解决方案工程师）和 Jimmy Song（Tetrate 布道师）
+引言
+在云原生应用程序不断发展的背景下，确保跨多个集群的服务网格安全对于保证安全性和合规性至关重要。Istio 作为领先的开源服务网格，提供了用于保护微服务之间通信的工具。然而，在此环境中实施一个强大且可扩展的公钥基础设施（PKI）来管理证书仍然是一个重大挑战。
+在本文中，我们将深入探讨使用 EJBCA 开源 PKI 为跨多个集群的 Istio 服务网格实现 PKI 解决方案。我们将重点介绍设置 EJBCA、配置 cert-manager 的 EJBCA 外部签发器，以及确保 Istio 工作负载的证书自动续期的过程。本指南将帮助你构建可信且可扩展的 PKI，实现安全、合规且具有弹性的服务网格。
+为什么选择多集群？随着组织扩大其 Kubernetes 基础设施，多集群部署正变得越来越流行。多集群 Istio 设置提供了增强的可用性、容错性以及跨集群的工作负载隔离。
+理解 PKI 及其在服务网格中的作用
+PKI 是现代数字安全的基石。它涉及管理密钥和证书，以确保用户、应用程序或服务等实体之间的安全通信。在像 Istio 这样的服务网格中，有效的 PKI 对于保护微服务之间的通信，尤其是在多集群环境中，至关重要。
+EJBCA 提供了一个用于大规模管理 PKI 的开源解决方案。与 OpenSSL 或 Istio 内置的 PKI 等其他选项相比，EJBCA 提供了一个功能齐全、企业级的 PKI，适用于从简单到更复杂和多用途的部署。EJBCA 的能力超越了仅仅签发 mTLS 证书，提供了合规性特性、安全的可扩展性、密码灵活性，以及与广泛的应用程序集成。
+Istio、EJBCA 和 cert-manager
+使用 EJBCA 为多集群 Istio 环境设…]]></summary>
+        <author>
+            <name>Jimmy Song</name>
         </author>
     </entry>
     <entry>
@@ -742,6 +1070,84 @@ bash <(curl -sSL]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Envoy 代理如何处理用户请求以实现追踪]]></title>
+        <id>https://jimmysong.io/blog/envoy-tracing/</id>
+        <link href="https://jimmysong.io/blog/envoy-tracing/"/>
+        <updated>2024-09-26T07:24:35.000Z</updated>
+        <summary type="html"><![CDATA[在云原生环境中，提升对应用程序的可观测性以更好地理解用户体验是至关重要的。然而，单纯依靠指标和日志无法提供个别案例的具体细节。这时，追踪（Tracing）技术就显得尤为重要。
+追踪的基本原理
+追踪通过为每个用户请求附加一个关联 ID，向开发人员提供完整的用户体验上下文。这个关联 ID 就像一根线，将跨越多个服务的追踪串联起来，从而实现全面的可观测性。
+下图展示了 Envoy 处理用户请求的流程。
+用户请求与 Envoy 代理的处理流程图
+  
+
+追踪可以通过为每个用户请求附加一个关联 ID，向开发人员提供完整的用户体验上下文。这个关联 ID 就像一根线，将跨越多个服务的追踪串联起来。
+尽管所有请求都会经过 Envoy 代理，但 Envoy 无法独立提供完整的追踪信息。它只看到应用程序作为网络的一部分，无法洞察内部处理。这使得 Envoy 无法区分入站请求和出站请求是否来自同一个用户，因此无法自动转发追踪上下文。
+服务网格中的请求上下文
+Envoy 可以在 Istio 服务网格中作为 Sidecar 或 Waypoint 代理，下图展示了 Envoy 在服务网格中如何处理请求上下文的。
+1. 用户请求的开始
+追踪涉及通过多个服务跟踪路径，以理解用户体验的完整上下文。追踪从一个用户请求开始，该请求被分配了一个关联 ID。
+用户请求的开始
+  
+
+2. 请求通过 Envoy 代理
+Envoy 位于应用程序旁边，所有进入的请求都会经过 Envoy。
+用户请求的开始
+  
+
+3. Envoy 附加额外的 Headers
+Envoy 可以在请求中附加额外的 Headers，以收集关于应用程序内部发生情况的信息。
+Envoy 附加额外的 Headers
+  
+
+4. 应用程序处理请求并调用后端服务
+应用程序在处理请求的过程中，可能需要联系其他系统来处理该请求。比如外部的认证和授权服务。
+应用程序处理请求并调用后端服务
+  
+
+5. 应用程序需要复制关联 ID
+应用程序知道出站请求是代表哪个入站请求发起的（例如 Trace ID 为 1234 的请求）。但是，Envoy 并不知道这一点。因此，应用程序需要将关联 ID 等上下文从入站请求复制到出站请求中。
+应用程序需要复制关联 ID
+  
+
+6. 多个请求的并发处理
+在实际场景中，应用程序同时处理多个用户请求，这导致了并发性。由于 Envoy 只能看到网络层面的请求和响应，无法区分这些请求之间的因果关系。
+多个请求的并发处理
+  
+
+7. Envoy 的局限性
+因为 Envoy 无法看到应用程序内部的处理逻辑，它只能看到一系列的网络请求和响应，无法知道哪些出站请求是由哪些入站请求触发的。
+Envoy 的局限性
+  
+
+需要应用程序的参与
+由于 Envoy 无法自动转发追踪上下文，应用程序本身需要负责将入站请求的 Headers 复制到出站请求中，以保持追踪信息的完整性。
+应用程序复制 Headers
+应用程序在处理入站请求时，需要将必要的 Headers（如关联 ID、用户身份等）复制到任何出站请求中。
+应用程序复制 Headers
+  
+
+响应返回给用户
+应用程序完成对用户请求的处理后，将响应返回给用户。
+响应返回给用户
+  
+
+解决方案与推荐
+为了确保追踪信息的完整性，应用程序需要主动复制和传递追踪相关的 Headers。这可以通过集成如 Apache SkyWalking 的工具来实现，SkyWalking 不仅支持分布式追踪，还包括性能监控、日志分析等功能。利用 SkyWalking 的库和代理，可以简化 Headers 的复制和追踪信息的传递。
+关于如何在 Istio 中使用 SkyWalking 实现分布式追踪详见这篇博客。
+总结
+追踪的重要性：追踪为开发人员提供了用户请求的完整上下文，帮助更好地理解和改进用户体验。
+Envoy 的局限性：Envoy 只能看到网络层面的请求和响应，无法跟踪请求的因果关系，因此无法自动转发追踪上下文。
+应用程序的角色：应用程序需要主动复制和传递追踪相关的 Headers，以确保追踪信息的完整性。
+推荐的工具：使用 SkyWalking 等追踪工具的库，可以简化在应用程序中实现 Headers 复制的过程。
+参考
+How the Envoy proxy handles a user request - tetrate.io
+如何在 Istio 中使用 SkyWalking 进行分布式追踪？- jimmysong.io]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[毕业旅行｜皖南自驾DAY2 - 皖浙差异]]></title>
         <id>https://blog.ops-coffee.cn/r/china-travel-layoff-trip-day2-linan-shexian-wannan</id>
         <link href="https://blog.ops-coffee.cn/r/china-travel-layoff-trip-day2-linan-shexian-wannan"/>
@@ -802,6 +1208,46 @@ bash <(curl -sSL]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《黑神话：悟空》一周目评测：瑕不掩瑜，期待更丰富内容]]></title>
+        <id>https://jimmysong.io/blog/black-myth-wukong-review/</id>
+        <link href="https://jimmysong.io/blog/black-myth-wukong-review/"/>
+        <updated>2024-09-16T04:15:06.000Z</updated>
+        <summary type="html"><![CDATA[最近完成了《黑神话：悟空》的一周目体验。总体来说，音乐和美术表现出色，但战斗系统略显单调，地图设计不够理想，整体内容偏少，让人感到意犹未尽。
+黑神话：悟空
+  
+
+
+
+
+
+  
+  
+音乐
+
+ 
+第二章开头，熊竹英老师用陕北说书的形式演绎了《黄风起兮》，令人印象深刻。熊竹英是陕北说书的非遗传承人。陕北说书起源于陕西北部的延安和榆林地区，最初由贫苦盲人用陕北民歌小调演唱民间传说和故事，后来融入了多种曲调，形成了独特的说唱艺术。通常是一人自弹自唱，伴奏乐器以三弦为主，还会用绑在小腿的甩板和手腕的“嘛喳喳”小木板来打节奏。2006 年，陕北说书被列入国家级非物质文化遗产名录。
+美术设计
+黑神话悟空截图
+  
+
+游戏前两章的美术设计非常出色，古建筑的还原相当精致。以下是我对每个章节的感受：
+第一回：火照黑云（黑风山）：我很喜欢开头翠绿的丛林，还有偶尔出现的妖怪，营造出一种神秘的氛围。
+第二回：风起黄昏（黄风岭）：漫天黄沙带来了一种苍凉和破败的感觉。
+第三回：夜生白露（小雷音寺）：浮屠界让我头晕目眩，过桥时经常被打落，茫茫雪地既刺眼又让人迷失方向，唯一觉得好些的是安身寺的部分。
+第四回：曲度紫鸳（盘丝洞）：层层洞窟让人容易迷路，不过黄花观和紫云山的景色还不错。
+第五回：日落红尘（火焰山）：这种场景不太对我胃口，不由得让我联想到《艾尔登法环》中的火山地形。
+第六回：未竟（花果山）：地图很大，但更容易迷路了，只能不断用筋斗云在空中飞来飞去。
+花果山
+  
+
+总体来说，缺少地图功能让人非常无语，即便没有地图，搞个指南针也不难，但游戏中什么都没有，只能靠空气墙来判断边界。玩家在游戏中不断兜圈子，浪费了不少时间在找路上，真正玩游戏的时间可能不足七成。
+故事
+《黑神话：悟空》的故事设定很简单，背景发生在唐僧师徒取经之后。孙悟空虽被封为斗战胜佛，却辞去佛位回到花果山。天庭不满，派二郎神等前来捉拿，…]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[LEAP-012：TACE 联合系统治疗成为中期肝癌治疗的新选项 #ESMO24]]></title>
         <id>http://whyes.org/2024/esmo-2024-leap-012-tace-len-pembro</id>
         <link href="http://whyes.org/2024/esmo-2024-leap-012-tace-len-pembro"/>
@@ -836,6 +1282,90 @@ I’m happy to report that Hibiclens works wonderfully and I’m pleased with th
         <summary type="html"><![CDATA[今年 ESMO 年会上有至少 4 项肝细胞癌领域的研究结果值得关注，这是第 2 篇更新，敬请关注。上一篇是： 安罗替尼+派安普利单抗：晚期肝癌治疗又多了一项选择 IMbrave050 研究是肝癌辅助治疗领域的重要临床试验。在这项研究中，接受...]]></summary>
         <author>
             <name>whyes 的博客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[澳门 City Walk：感受精致濠江]]></title>
+        <id>https://jimmysong.io/blog/macao-trip/</id>
+        <link href="https://jimmysong.io/blog/macao-trip/"/>
+        <updated>2024-09-14T09:21:27.000Z</updated>
+        <summary type="html"><![CDATA[在决定去澳门之前，我对这座小城的印象仅限于大三巴、官也街、葡式蛋挞、何鸿燊，以及七子之歌里那句“你可知 macao 不是我真姓…”。但当我亲自踏上这片 33.3 平方公里的土地时，才发现这个中国最小的一级行政区，竟然充满了独特的韵味。
+对澳门的第一印象
+这次我是从香港乘坐大巴从港珠澳大桥进入澳门。在此之前我就对查阅过资料，了解到澳门面积不大，只有 33.3 平方公里，而北京二环内的面积有 62 公里，近乎澳门的两倍。澳门行政区域内包含包括澳门半岛、氹仔岛和路环岛。澳门的陆地面积是经过长期不断填海逐渐扩大的。澳门与珠海隔河相望，如果说两地“鸡犬相闻”那好不为过。澳门与内地的距离远没有香港与内地那么远。
+从澳门妈阁山眺望对岸，珠海近在眼前。珠海和澳门以前山水道相隔，距离不过 300 多米。
+从澳门远眺珠海
+  
+
+澳门半岛是老城区，街道上车水马龙，留给行人步行的空间十分有限。
+澳门半岛的街道
+  
+
+城市漫步：City Walk
+步行到大三巴牌坊，它是圣保禄大教堂前壁遗址，位于花王堂区炮台山下，左邻澳门博物馆和大炮台。牌坊总共有五层，主要以花岗岩建成，宽 23 米，高 25.5 米，坊前有 68 级台阶。大三巴牌坊位列“澳门八景”之首，2005 年，包含大三巴牌坊在内的“澳门历史城区”列入世界文化遗产名录。
+前往大三巴的街道
+  
+
+在前往大三巴牌坊的路上经过一段小吃街，街道上人声鼎沸，摩肩接踵，因为当天的天气比较炎热，再加上小吃街上散发的牛杂、猪肉铺、蛋挞等的味道，让人心里五味杂陈。原以为大三巴牌坊前会有一块开阔的广场，没想到只有台阶，而且台阶上还坐了很多人。
+大三巴牌坊的背面还在施工
+  
+
+在炮台山上可以俯瞰澳门半岛。
+从炮台山上俯瞰澳门半岛
+  
+
+此地不宜久留，我继续拾阶而上，前往主教座堂。
+主教座堂
+  
+
+澳门的街道上可以看到，墨绿色的防撞柱，嫩绿色的墙，明黄的建筑，配色让人眼前一亮。
+大堂附近的建筑
+  
+
+还有西望洋眺望主教山小堂，在登上斜坡的时候我看到有人在用抹布清洁墙壁。
+从西望洋眺望主教山小堂
+  
+
+澳门半道上最惹眼的建筑非新葡京莫属了。新葡京的全称是新葡京酒店，它的造型设计极度浮夸，内部装饰更是奢华，它是澳门“赌王”何鸿燊耗资 50 亿元兴建的位于澳门葡京路端的赌场酒店，其外形如巨大金莲花，是澳门最知名的地标建筑之一，也是世界 20 座最具标志性大楼之一。它是澳门首家打造“七星级”的豪华酒店，集赌场、住宿、餐饮、娱乐、艺术展览等多种功能于一体。
+可以在澳门半岛上随处仰望可见的新葡京酒店
+  
+
+澳门虽小，但是各种交通工具都很齐全，澳门现有一条运营中的轻轨线路，从妈阁庙到澳门机场和码头，已经连接了澳门的三大区域及交通枢纽。据悉，还有另外两条线路在建。
+威尼斯人娱乐场
+  
+
+夜幕将至，我来到了路凼的威尼斯人娱乐场（内设赌场），没想到这里门口几十辆大巴排列成行，行人入职，内部更是像一个迷宫，三大主体建筑——威尼斯人、巴黎人、伦敦人串联在一起，让人绕来绕起，就是走不出去。威尼斯人娱乐场里的那条人工河充斥着消毒水味，这里面我是一刻也待不下去，真搞不懂为什么要在这里设置一条河。
+澳门的堂区
+在查看地图上我发现澳门有很多“堂区”，那是澳门在葡萄牙殖民统治时期，以天主教的堂区作为行政区划的基础，不过现在“堂区”已经不是正式的行政机构建置，不具法律地位。澳门有七个堂区和一个无堂区划分区域。其中澳门半岛有五个堂区，分别是花地玛堂区、圣安多尼堂区、大堂区、望德堂区、风顺堂区；澳门离岛有两个堂区，分别是嘉模堂区、圣方济各堂区。位于氹仔和路环之间的填海地段为称为路氹城，不属于任何堂区。
+葡萄牙以天主教信仰为重要的社会和文化核心，在海外殖民地也推行以教堂为中心的堂区划分制度。教堂在堂区的形成和发展过程中起到了关键的源头性作用，一个地区往往先有重要的教堂建立，随后围绕教堂逐渐形成了具有一定人口规模和社会经济活动的聚居区域，进而被划定为一个堂区。
+总结
+澳门虽小，但每个角落都有它的故事。无论是大三巴的宏伟遗迹，还是街头小吃的烟火气息，这座小城总能给人留下深刻印象。小而精，这就是澳门的魅力所在。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[介绍 Kmesh：用内核原生技术革新服务网格数据平面]]></title>
+        <id>https://jimmysong.io/blog/introducing-kmesh-kernel-native-service-mesh/</id>
+        <link href="https://jimmysong.io/blog/introducing-kmesh-kernel-native-service-mesh/"/>
+        <updated>2024-09-14T08:16:04.000Z</updated>
+        <summary type="html"><![CDATA[在近期整理服务网格数据平面的几种部署模式时，我关注到了徐中虎在 KubeCon China 2024 的分享《Istio 数据平面的新选择：全新性能体验的架构创新》。该分享介绍了 Kmesh，它利用 eBPF 和内核增强技术，消除了 Sidecar，并提出了双引擎模式，是一种创新性的服务网格解决方案。去年我已听闻 Kmesh，借此契机我深入研究了 Kmesh，撰写此博客与大家分享。
+注意：本文中所展示的所有数据均引用自 《Istio 数据平面的新选择：全新性能体验的架构创新》，我并未对这些数据的准确性进行独立验证。请读者自行判断和核实这些数据的可靠性。
+  
+背景
+像 Istio 这样的服务网格已成为管理复杂微服务架构的核心，提供流量管理、安全性和可观测性等功能。Sidecar 模型，即在每个服务实例旁运行一个代理，已成为主要方法。虽然功能有效，但这种架构引入了显著的延迟和资源开销。
+传统 Sidecar 架构的局限性
+延迟开销：增加 Sidecar 代理会导致网络跳数和上下文切换增加，每次服务调用引入额外 2 至 3 毫秒 的延迟。对于对延迟敏感的应用，这种延迟是不可接受的。
+资源消耗：每个 Sidecar 都会消耗 CPU 和内存资源。在拥有数千个服务的大规模部署中，累积的资源开销巨大，虽然可以通过一定的技术手段进行优化，但依然降低了部署密度并增加了运营成本。
+Istio 的性能测量显示，即使没有流量分发，仍存在约 3 毫秒的固有延迟开销。随着连接数量的增长，延迟相应增加，这突显了 Sidecar 模型在高性能应用中的低效。
+行业应对挑战的尝试
+已经提出了多种解决方案来缓解 Sidecar 架构的缺点：
+Cilium 服务网格
+方法：将 eBPF 与 Envoy 相结合，创建一个无 Sidecar 的服务网格。
+机制：
+
+L4 流量：使用 eBPF 进行高效的内核级数据…]]></summary>
+        <author>
+            <name>Jimmy Song</name>
         </author>
     </entry>
     <entry>
@@ -937,6 +1467,95 @@ A lot of why I read is about juxtaposition. I read business books to juxtapose m
  2、下载Docker自动补全脚本 curl -L https://raw.githubusercontent.com/docker/cli/master/contrib/completion/bash]]></summary>
         <author>
             <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深入解析服务网格的四种数据平面部署模式：性能、安全性与成本分析]]></title>
+        <id>https://jimmysong.io/blog/service-mesh-data-plane-deployment-modes/</id>
+        <link href="https://jimmysong.io/blog/service-mesh-data-plane-deployment-modes/"/>
+        <updated>2024-09-10T03:09:40.000Z</updated>
+        <summary type="html"><![CDATA[本文将向你介绍 Istio 服务网格的四种平面部署模式，通过分析它们的优缺点，根据他们的性能、可靠性和安全性给出选择建议。
+什么是服务网格？
+服务网格是一种基础设施层，通常使用应用代理来实现各种功能。以 Istio 为例，它通过应用代理让用户能够将应用感知的流量管理、强大的可观测性和稳健的安全能力编程到网络中。Istio 确保云原生和分布式系统具有弹性，使现代企业能够在不同平台上维护其工作负载，同时保持连接和受保护。它的功能包括零信任安全、策略管理和访问控制等安全和治理控制，以及金丝雀部署、A/B 测试、负载均衡和故障恢复等网络功能，还能提供对整个网络流量的可观测性。Istio 不受单一集群、网络或运行时的限制，可以将在 Kubernetes 或虚拟机上运行的服务、多云、混合或本地的服务包含在单个网格中。其设计可扩展，并得到广泛生态系统的支持。
+服务网格的架构分为控制平面和数据平面，以 Istio 为例，istiod 是它的控制平面，而数据平面有两种部署模式，用户可以选择 sidecar 或 ambient 模式。
+Istio 服务网格的架构图（来源 istio.io）
+  
+
+实际上服务网格的数据平面的部署模式不止这两种，加上 Istio 支持的 gRPC 无 sidecar 的服务网格，以及 Cilium service mesh，一共有四种部署模式。
+数据平面部署模式
+下表格从多个维度对服务网格数据平面的部署模式进行了比较。
+数据平面模式
+          平台安全性 威胁评估、风险
+          资源效率 – 基础设施/资源消耗等
+          可管理性 – 升级、漏洞等
+          性能 – 延迟等
+      
+Sidecar模式：每个服务实例的L4和L7代理
+          高安全性，因为每个服务实例都有独立的代理，减少了攻击面。风险…]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[服务网格架构：Sidecar vs. Sidecarless，谁才是未来？]]></title>
+        <id>https://jimmysong.io/blog/service-mesh-sidecar-vs-sidecarless-debate/</id>
+        <link href="https://jimmysong.io/blog/service-mesh-sidecar-vs-sidecarless-debate/"/>
+        <updated>2024-09-09T03:45:58.000Z</updated>
+        <summary type="html"><![CDATA[服务网格已经成为现代云原生应用架构中至关重要的一部分，帮助团队在大规模分布式系统中管理微服务通信、提高安全性并优化性能。然而，随着技术的不断演进，关于服务网格架构的最佳实践出现了激烈的争论，尤其是关于 sidecar 与 sidecarless 模式的选择问题。这场争论的核心在于如何在性能、资源利用、安全性和操作复杂性之间取得最佳平衡。近年来，Cilium 引入了无 sidecar 架构的 eBPF 技术，而 Istio 也推出了 Ambient 模式，结合了传统 sidecar 与无 sidecar 的优点。与此同时，Linkerd 则坚守 sidecar 架构，并对新兴的无 sidecar 方法持保守态度。这篇文章将深入探讨这些服务网格架构的主要观点和争议，并分析每种方法的优势与挑战。
+关于服务网格有无 sidecar 的争论
+关于服务网格的 sidecar 与无 sidecar 的争论是随着 Cilium 的推出和各大服务网格技术的演变而逐渐加剧的，尤其是在 2021 年之后：
+Cilium Service Mesh 的推出（2021 年 12 月）  ：Cilium 通过 eBPF 技术引入了无 sidecar 的服务网格架构，开始引发对传统 sidecar 模式的讨论。这一概念的提出标志着无 sidecar 架构的兴起。
+Linkerd 与 Istio 的反应（2021 年 12 月至 2022 年初） ：Linkerd 的创始人 William Morgan 及其团队对 Cilium 的无 sidecar 方法表示担忧，认为这种方法可能会带来安全和性能上的问题。这一讨论逐渐演变为对 sidecar 与无 sidecar 架构的更广泛争辩。
+Istio 的 Ambient 概念（2022 年 5 月） ：Istio 提出了 Ambient Mesh，尝试结合 si…]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[香港——内地的一面的镜子]]></title>
+        <id>https://jimmysong.io/blog/hong-kong-trip/</id>
+        <link href="https://jimmysong.io/blog/hong-kong-trip/"/>
+        <updated>2024-09-06T11:14:52.000Z</updated>
+        <summary type="html"><![CDATA[上个月，因为参加 KubeCon China，我第一次前往香港，这让我有机会近距离审视这颗“东方明珠”。
+从尖沙咀眺望香港岛
+  
+
+我不记得之前在哪里看到一个说法，说是“香港是中国内地的一面镜子”。香港因其特殊的历史背景、经济发展轨迹以及在回归后的一系列表现等，许多人都在分析研究过程中会将香港的发展情况、社会治理经验教训等与内地进行关联和比较，认为其在某些方面可以为内地提供参考借鉴，就如同镜子一样反映出一些现象和问题的不同侧面及解决路径的可能性等。比如一些研究区域发展和社会治理的专家学者在相关论述中可能就会涉及到类似的观点表达。
+香港与内地的不同
+香港与内地存在着诸多不同，这些不同不光是表面上的：
+维度
+          香港
+          内地
+      
+政治制度
+          资本主义制度，行政长官是特别行政区首长。
+          社会主义制度，人民代表大会制度。
+      
+法律体系
+          英美法系，判例法重要。
+          大陆法系，以成文法为主。
+      
+经济体制
+          自由市场经济，服务业和金融为主。
+          社会主义市场经济，公有制为主体，多种所有制发展。
+      
+文化方面
+          中西文化交融，保留大量中华传统文化。
+          以中华文化为主，地域文化多样。
+      
+教育体系
+          推行“三三四”学制，多语言教学，注重素质教育。
+          国家指导，地方负责，应试教育为主，统一教材。
+      
+医疗体系
+          公立私立并存，谨慎用药，社区医院为主。
+          医疗体系多元，大医院资源紧张，用药依据病情。
+      
+税收制度
+          地域来源征税，税种少，税率低。
+       …]]></summary>
+        <author>
+            <name>Jimmy Song</name>
         </author>
     </entry>
     <entry>
