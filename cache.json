@@ -2416,6 +2416,59 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Limboy's Essays",
+      "feedUrl": "https://limboy.me/index.xml",
+      "siteUrl": "https://limboy.me/",
+      "articles": [
+        {
+          "id": "https://limboy.me/posts/indie-dev",
+          "author": null,
+          "description": "去年，看了一本印象颇深的书：北方的空地。这本书讲的是一个叫杨柳松的人，推着一辆自行车（交通工具兼载货工具），历经 77 天，独自穿越羌塘无人区的故事。旅途非常艰险，一点小小的意外就可能导致极严重的后果（比如帐篷的地钉被吹走）。但体验独特，风景绝美。看完后，印象最深的除了他的那份胆识、勇气和乐观外，还有那非常严谨的准备工作，让看起来几乎不可能完成的任务成为可能。",
+          "link": "https://limboy.me/posts/indie-dev",
+          "publishedOn": "2024-11-11T00:00:00.000Z",
+          "wordCount": 576,
+          "title": "独立开发之路：在不确定中寻找确定性",
+          "imageUrl": null
+        },
+        {
+          "id": "https://limboy.me/posts/bike-shedding",
+          "author": null,
+          "description": "想象有一个金融委员会会议，讨论三点议程，要点如下：",
+          "link": "https://limboy.me/posts/bike-shedding",
+          "publishedOn": "2024-11-08T00:00:00.000Z",
+          "wordCount": 154,
+          "title": "自行车棚效应：我们为什么在小事上纠结，却对大事视而不见？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://limboy.me/posts/shower-habit",
+          "author": null,
+          "description": "今天早上（严格说来是近中午了，醒的晚😂）在洗澡的时候，忽然觉得应该将「每天早上洗澡」这件事纳入日程中，因为这是难得的一段不会被打扰，不会使用电子设备，完全属于自己的时间。可以用这段时间做一些微小但又重要的事。",
+          "link": "https://limboy.me/posts/shower-habit",
+          "publishedOn": "2024-09-24T00:00:00.000Z",
+          "wordCount": 223,
+          "title": "洗澡这件小事值得被认真对待",
+          "imageUrl": null
+        },
+        {
+          "id": "https://limboy.me/posts/rebuilt-this-site-for-the-next-decade",
+          "author": null,
+          "description": "This site previously used Zola as its blog engine (you can read here for more details), along with:",
+          "link": "https://limboy.me/posts/rebuilt-this-site-for-the-next-decade",
+          "publishedOn": "2024-09-06T00:00:00.000Z",
+          "wordCount": 1232,
+          "title": "Rebuilt this site for the next decade using Astro",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "This Cute World",
+      "feedUrl": "https://thiscute.world/index.xml",
+      "siteUrl": "https://thiscute.world/",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
