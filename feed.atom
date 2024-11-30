@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2024-11-30T16:46:22.353Z</updated>
+    <updated>2024-11-30T16:48:27.028Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
@@ -389,6 +389,17 @@ Pod 内的 iptables 规则
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Docker 命令行小技巧：runlike]]></title>
+        <id>https://www.kawabangga.com/?p=6722</id>
+        <link href="https://www.kawabangga.com/posts/6722"/>
+        <updated>2024-11-17T10:50:44.000Z</updated>
+        <summary type="html"><![CDATA[事情要从上周的一次事故说起，我们用 docker 部署的程序有一点问题，要马上回滚到上一个版本。 这个 doc […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[为什么中国人不喜欢逻辑学]]></title>
         <id>https://hyruo.com/editor/why-does-not-chinese-need-logic/</id>
         <link href="https://hyruo.com/editor/why-does-not-chinese-need-logic/"/>
@@ -467,6 +478,17 @@ Pod 内的 iptables 规则
         <summary type="html"><![CDATA[现状 二线及后线治疗可能是肝癌领域最强烈的未满足临床需求。 尽管肝癌的指南对二线治疗做了一些推荐，例如卫健委和 CSCO 指南都推荐一些抗血管生成靶向治疗（瑞戈非尼、阿帕替尼和雷莫西尤单抗）和 PD-1 抗体（帕博利珠单抗、替雷利珠单抗和卡...]]></summary>
         <author>
             <name>whyes 的博客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARP Flux 问题和解决方法]]></title>
+        <id>https://www.kawabangga.com/?p=6701</id>
+        <link href="https://www.kawabangga.com/posts/6701"/>
+        <updated>2024-11-10T09:08:35.000Z</updated>
+        <summary type="html"><![CDATA[我们写程序不需要写 ARP request 和 response 相关的逻辑，因为这部分是操作系统帮我们做的。 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
         </author>
     </entry>
     <entry>
@@ -575,6 +597,17 @@ Mermaid Diagram
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[特殊的 ARP 用法：Gratuitous ARP, ARP Probe 和 ARP Announce]]></title>
+        <id>https://www.kawabangga.com/?p=6698</id>
+        <link href="https://www.kawabangga.com/posts/6698"/>
+        <updated>2024-11-05T05:42:41.000Z</updated>
+        <summary type="html"><![CDATA[在 Ethernet 环境中，所有的数据最终都要以二层 Ethernet Frame 的形式发送，要添加 Sr […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[未成年人心理问题需要高度重视]]></title>
         <id>https://hyruo.com/article/mental-health-issues-in-minors/</id>
         <link href="https://hyruo.com/article/mental-health-issues-in-minors/"/>
@@ -656,6 +689,16 @@ ARM镜像：openEuler-22.03-LTS-SP4-aarch64-dvd.iso
 <a href="#环境准备" class="headerlink"]]></summary>
         <author>
             <name>云野阁</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geek Chic Eyewear: My Optometrist Saga, Eyewear Collection & More]]></title>
+        <id>https://www.derekseaman.com/?p=18598</id>
+        <link href="https://www.derekseaman.com/2024/10/geek-chic-eyewear-my-optometrist-saga-eyewear-collection-more.html"/>
+        <updated>2024-10-31T19:04:08.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the fourth installment of the “Geek Chic Eyewear” series, where I share my personal journey through the world of eyewear and optometry. This series aims to provide a comprehensive look into the technical aspects of eyewear, focusing on frame selection and lens materials. Having navigated the complexities of vision correction—from LASIK in my […]]]></summary>
+        <author>
+            <name>Derek Seaman</name>
         </author>
     </entry>
     <entry>
@@ -872,6 +915,26 @@ For progressi…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Geek Chic Eyewear: Optometry Tools, Eye Health and Insurance]]></title>
+        <id>https://www.derekseaman.com/?p=17787</id>
+        <link href="https://www.derekseaman.com/2024/10/geek-chic-eyewear-optometry-tools-eye-health-and-insurance.html"/>
+        <updated>2024-10-18T01:54:27.000Z</updated>
+        <summary type="html"><![CDATA[This is part 3 of the “Geek Chic Eyewear” series and it covers the role of advanced optometry equipment, eye health, eye insurance tips and more. The post first examines Zeiss tools like the i.Profiler Plus, VISUPHOR 500, VISUFIT 1000, and i.Terminal 2. These devices enhance vision assessments: the i.Profiler Plus uses wavefront technology for […]]]></summary>
+        <author>
+            <name>Derek Seaman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geek Chic Eyewear: Understanding Lens Materials and Designs]]></title>
+        <id>https://www.derekseaman.com/?p=12254</id>
+        <link href="https://www.derekseaman.com/2024/10/geek-chic-eyewear-understanding-lens-materials-and-designs.html"/>
+        <updated>2024-10-16T21:03:09.000Z</updated>
+        <summary type="html"><![CDATA[In Part 2 of my “Geek Chic Eyewear” series I will delve into the various len materials and designs. While frames (covered in Part 1) play a significant role in the aesthetics of your eyewear, the quality of the lenses is paramount. Poor-quality lenses can severely detract from the overall functionality and satisfaction of your glasses, regardless […]]]></summary>
+        <author>
+            <name>Derek Seaman</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[多集群 PKI 与 Istio 实践：为服务网格构建可信且可扩展的 PKI]]></title>
         <id>https://jimmysong.io/blog/multi-cluster-pki-istio-recipe/</id>
         <link href="https://jimmysong.io/blog/multi-cluster-pki-istio-recipe/"/>
@@ -944,6 +1007,17 @@ An electrician - He didn…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[裕廊坊杂菜饭]]></title>
+        <id>https://www.kawabangga.com/?p=6693</id>
+        <link href="https://www.kawabangga.com/posts/6693"/>
+        <updated>2024-10-10T16:44:05.000Z</updated>
+        <summary type="html"><![CDATA[裕廊坊新开了一家杂菜饭，欣很喜欢。 杂菜饭，我又叫它「这个，那个」。因为大部分食客点菜的时候都只会说「这个」， […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[毕业旅行｜皖南自驾DAY13 - 西溪南]]></title>
         <id>https://blog.ops-coffee.cn/r/china-travel-layoff-trip-day13-huangshan-xixinan</id>
         <link href="https://blog.ops-coffee.cn/r/china-travel-layoff-trip-day13-huangshan-xixinan"/>
@@ -977,6 +1051,16 @@ bash <(curl -sSL]]></summary>
         <summary type="html"><![CDATA[这里是皖南最美天空村落，云端之城]]></summary>
         <author>
             <name>运维咖啡吧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geek Chic Eyewear: A Comprehensive Guide to Frame Selection]]></title>
+        <id>https://www.derekseaman.com/?p=17593</id>
+        <link href="https://www.derekseaman.com/2024/10/geek-chic-part-1-your-prescription-for-the-perfect-pair-of-glasses.html"/>
+        <updated>2024-10-08T22:08:05.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to my “Geek Chic Eyewear” series for finding the perfect pair of glasses. The series is designed to offer educational insight from a technology standpoint. Even if you don’t currently require vision correction, it’s likely that you will as you reach into your 40s. Yes, those “dreaded” reading glasses that “old” people need. Or […]]]></summary>
+        <author>
+            <name>Derek Seaman</name>
         </author>
     </entry>
     <entry>
@@ -1278,6 +1362,16 @@ How the Envoy proxy handles a user request - tetrate.io
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Essential Tips for a Stable Matter over Thread Network]]></title>
+        <id>https://www.derekseaman.com/?p=17503</id>
+        <link href="https://www.derekseaman.com/2024/09/essential-tips-for-a-stable-matter-over-thread-network.html"/>
+        <updated>2024-09-15T09:05:44.000Z</updated>
+        <summary type="html"><![CDATA[Matter over Thread (MoT) is a recent addition to the smart home ecosystem. Unlike more established protocols such as ZigBee and Z-Wave, MoT is still in its early stages and may present some challenges. This post will outline several key areas to consider for maintaining optimal Thread network stability: Matter Multi-Admin Gotchas Thread and Wi-Fi […]]]></summary>
+        <author>
+            <name>Derek Seaman</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hibiclens]]></title>
         <id>https://daverupert.com/2024/09/hibiclens/</id>
         <link href="https://daverupert.com/2024/09/hibiclens/"/>
@@ -1451,6 +1545,17 @@ Form Design Mastery by Adam Silver
 Better Onboarding by Krystal Higgins]]></summary>
         <author>
             <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 的十年五代网络架构]]></title>
+        <id>https://www.kawabangga.com/?p=6624</id>
+        <link href="https://www.kawabangga.com/posts/6624"/>
+        <updated>2024-09-13T02:04:47.000Z</updated>
+        <summary type="html"><![CDATA[一个数据中心有一万台机器，如何将这些机器连接起来？ 最直观的方式是在每一个 Rack （机柜）上放一个交换机  […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
         </author>
     </entry>
     <entry>
