@@ -19,9 +19,9 @@ jobs:
       - name: Setup Node.js environment
         uses: actions/setup-node@v4.1.0
         with:
-          node-version: "22.4.1"
+          node-version: "22.11.0"
       - name: Install dependencies
-        run: npm i 
+        run: npm i @osmoscraft/osmosfeed@^1.0.0
       - name: Build the feed
         run: npm run build
       - name: Deploy to GitHub Pages
