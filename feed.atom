@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2024-11-28T14:53:30.498Z</updated>
+    <updated>2024-11-30T16:20:38.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[项目漏洞问题记录]]></title>
+        <id>https://marsperl.github.io/yyg/8a0457d3/</id>
+        <link href="https://marsperl.github.io/yyg/8a0457d3/"/>
+        <updated>2024-11-30T14:51:39.000Z</updated>
+        <summary type="html"><![CDATA[SSL 2.0 和 3.0 的漏洞修复：
+SSL (Secure Sockets Layer) 是一种加密协议，曾被广泛用于网络通信中以确保数据的安全传输。SSL 2.0 和 3.0 是早期的版本，但它们已经被认为不再安全，因此被现代协议（如 TLS 1.2 和 TLS 1.3）所取代。
+SSL 2.0 和]]></summary>
+        <author>
+            <name>云野阁</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker Buildx 与 CNB 多平台构建实践]]></title>
+        <id>/archives/1732940817530</id>
+        <link href="https://srebro.cn/archives/1732940817530"/>
+        <updated>2024-11-30T04:27:23.000Z</updated>
+        <summary type="html"><![CDATA[一、Docker Buildx 功能介绍 docker buildx 是 Docker 提供的一个增强版构建工具，支持更强大的构建功能，特别是在构建多平台镜像和高效处理复杂 Docker 镜像方面。 1.1 主要功能 多平台构建支持 使用 docker buildx，可以在单台设备上构建多平台的镜像]]></summary>
+        <author>
+            <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[最快的个人导航网站Hugo-theme-start]]></title>
+        <id>https://hyruo.com/article/fastest-personal-navigation-website/</id>
+        <link href="https://hyruo.com/article/fastest-personal-navigation-website/"/>
+        <updated>2024-11-30T03:20:00.000Z</updated>
+        <summary type="html"><![CDATA[最近找到一款非常适合自己的导航网站模板，Hugo Theme Start，因为是采用 Hugo 构建的静态网站，理所当然也就是全世界构建速度最快的网站之一，部署地址: https://leftn.com
+前言
+后来也经常想着重新做个个人网站导航，但没有找到合适的模板，这一拖就是很久。另外，由于在使用 OneNav 过程中，对于免费主题不提供搜索框功能一直耿耿于怀，便没有重新使用 OneNav 的想法。
+这次起因是我在操作一个域名 DNS 编辑时，又误删除了几个 NS 记录。主要原因还是个人部署的服务太多、用的域名太杂，经常记不起来到底哪个域名是对应哪个服务。重新整理了一遍后，彻底激起了要再搞个导航网站的想法。
+Hugo Theme Start
+
+如果熟悉 Hugo 的朋友会发现，上边这个导航主题名称跟 Hugo 上最热门的 Hugo theme stack 非常像（也就是本博客使用的主题）。但其实这个名字是我故意在蹭后者瞎编的，本文介绍的这款主题官方名称是 HB Start Theme , 只是在 Github 仓库中叫 Theme start 。
+
+主题安装
+
+主题安装可以直接参考 官方教程，总体还是比较简单的。
+TIPS
+Hugo 官网 也都有，这里不再复述。
+主题配置
+
+这个主题也没有太多东西配置，无非是搜索引擎选择和排序，然后就是导航所需要的网址链接配置。
+与一般 Hugo 网站存在区别的是，这款主题并不能直接修改模板，而是需要创建 Hugopress 模块，按 Hugopress 教程 配置。
+另外，导航网址所需的 icons 在 Hugomods 中也都能方便找到，不过这也不是必须的，如果所添加网址 favicon 获取都很正常，也可以不用自定义 icons。
+简单修改CSS
+
+使用 Hugopress 还是相对麻烦，由于我只需要修改一处 CSS ，按照 Hug…]]></summary>
+        <author>
+            <name>海若博客</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ARM架构下安装新版docker及docker-compose]]></title>
         <id>/archives/1732697072164</id>
@@ -33,15 +85,20 @@ My wife adopted him before we were even dating in 2006. I never had a cat, was m
         <id>https://hyruo.com/article/how-to-prevent-personal-extremist-incidents/</id>
         <link href="https://hyruo.com/article/how-to-prevent-personal-extremist-incidents/"/>
         <updated>2024-11-20T10:20:00.000Z</updated>
-        <summary type="html"><![CDATA[近期，我国连续发生多起个人极端案事件，其中个别案件甚至导致重大人员伤亡情况，对社会安定秩序造成严重恶劣影响。我在之前曾写过一篇 <a class="link" href="https://hyruo.com/article/reflections-on-murder-prevention/"  target="_blank" rel="noopener"
-    >​关于命案防范的一点思考 对常规命案防控，从理论到实践进行了简单梳理和介绍，但内容比较宽泛，相较当前以报复社会为目的的个人极端案事件而言，在具体防控策略上还是有不少区别，这里再补充一下个人对预防个人极端案事件的一点思考。
+        <summary type="html"><![CDATA[近期，我国连续发生多起个人极端案事件，其中个别案件甚至导致重大人员伤亡情况，对社会安定秩序造成严重恶劣影响。我在之前曾写过一篇 ​关于命案防范的一点思考 对常规命案防控，从理论到实践进行了简单梳理和介绍，但内容比较宽泛，相较当前以报复社会为目的的个人极端案事件而言，在具体防控策略上还是有不少区别，这里再补充一下个人对预防个人极端案事件的一点思考。
 报复社会型个人极端案事件与普通命案的区别
 
 俗话说“冤有头债有主”，一般而言，普通命案中绝大部分犯罪者都是针对特定人、特定对象，或与犯罪者有特定交集的群体，除严重精神障碍人员肇事肇祸外，选择随机杀人的比例极少。
-<img src="https://hyruo.com/article/how-to-prevent-personal-extremist-incidents/6.webp"
-	width="2520"
-	height="1415"
-	srcset="https://hyruo.com/article/how-to-prevent-personal-extremist-incidents/6_hu537aa8616184e0ba67b63e0315cc8c0e_429796_480x0_resize_q75_h2_box_2.webp 480w, https://hyruo.com/article/how-to-prevent-personal-extremist-incidents/6_hu537aa8616184e0ba67b63e0315cc8c0e_429796_102…]]></summary>
+
+1. 犯罪动机由个人恩怨上升为对社会不满
+
+相比较而言，普通命案的动机通常更为个人化，可能涉及个人恩怨、经济纠纷、情感纠葛等。犯罪者通常是为了解决个人问题或满足个人欲望而采取极端手段。而报复社会型个人极端案事件通常是出于对社会、政府、特定群体或个人的强烈不满或仇恨。犯罪者可能感到被社会边缘化、受到不公正对待，或者有强烈的心理创伤，希望通过极端行为来表达对社会的不满，甚至希望引起广泛的关注和恐慌。
+2. 行为模式由隐蔽针对型转为公开实施
+
+一般来说，普通命案的行为模式通常更为隐蔽，犯罪者可能选择在隐蔽场所实施犯罪，以避免被发现。犯罪行为可能更为直接和针对性，通常不会涉及大规模的暴力。而报复社会型个人极端案事件通常涉及大规模的暴力行为，犯罪者可能会选择在公共场所、人群密集的地方实施犯罪，以造成尽可能多的伤亡和恐慌。犯罪者可能事先有计划，甚至可能留下宣言或视频，表达其不满和动机。
+3. 影响范围从局部扩大到广泛恐慌
+
+普通命案的影响通常局限于受害者和其家庭，社会影响相对较小。这类案件通常影响范围较小，即便引起广泛的社会关注，除非涉及特殊的背景或情节，一般人很难将自己代入从而产生恐慌心理。但报复社会型个人极端案事件一经发生便会迅…]]></summary>
         <author>
             <name>海若博客</name>
         </author>
@@ -57,18 +114,18 @@ My wife adopted him before we were even dating in 2006. I never had a cat, was m
 两分法，作为一种简单的世界观，对于大多数老百姓来说也够用了。毕竟生活不易，真没那么多时间去研究真实世界到底咋样。
 因此不少人会在两分法基础上，不断套娃下去。例如，在将人群区分为文科生、理科生之后，进一步把是否懂逻辑、是否信科学、是否够客观等具像条件也按两分法往前者身上套。
 由此衍生出一个中文互联网上的怪异现象，一些人刻板地认为文科生不懂逻辑、不讲科学、不够客观。
-<img src="https://hyruo.com/editor/why-does-not-chinese-need-logic/VIX7qM3QfwxnSXWr.jpeg"
-	width="2200"
-	height="1529"
-	srcset="https://hyruo.com/editor/why-does-not-chinese-need-logic/VIX7qM3QfwxnSXWr_hu5459c0360c2b0cb7a147d2df0eb350ca_428078_480x0_resize_q75_box.jpeg 480w, https://hyruo.com/editor/why-does-not-chinese-need-logic/VIX7qM3QfwxnSXWr_hu5459c0360c2b0cb7a147d2df0eb350ca_428078_1024x0_resize_q75_box.jpeg 1024w"
-	loading="lazy"
-	
-	
-		class="gallery-image" 
-		data-flex-grow="143"
-		data-flex-basis="345px"
-	
-…]]></summary>
+
+阴谋论
+
+对于文科不讲逻辑这个问题，有一个常见的阴谋论。宣称有一只无形的手在操纵着中国教育界，故意把逻辑学从人文社科中摘出去。认为一旦人文社科掌握了逻辑学，就会威胁到无形大手的存在。
+我不知道信这种阴谋论的人，有没有真正学过马哲。在整个中国的文科教育中，马哲无疑是最为重要的学科之一。在马哲里边，包括后续中特在内的整个思政教育中，因果关系、矛盾论、实践论、系统性原理、客观性原理以及发展与变化原理都是最基础的工具，无一不蕴含逻辑学的方法论。
+
+不讲逻辑是老百姓遵循实践论的自然选择
+
+逻辑学的推论过程，对于普通人来说有很大难处。例如，对于司法案件的推理，需要在掌握案件全面信息的基础上，经过冗长的逻辑推导才能得出裁判结论，但老百姓可顾不上那么多，他们要的是直观的结果。
+我们知道，司法有两个正义，一个程序正义，一个结果正义。结果正义很直观，老百姓都懂。但程序正义就复杂了，一般法律人都搞不懂，更何况普通老百姓。
+也就是因为程序正义复杂，因此操作空间很大，加上一堆屎山代码，时不时就出点幺蛾子，导致老百姓更难信任。
+通常来说，司法程序里边有四个环节容易出问题：一是跌人眼镜的证据认定，二是稀奇古怪的法律规则适用，三是莫名其妙的法律原则，四是自由心证或者说自由裁量权的使…]]></summary>
         <author>
             <name>海若博客</name>
         </author>
@@ -80,24 +137,19 @@ My wife adopted him before we were even dating in 2006. I never had a cat, was m
         <updated>2024-11-13T08:40:00.000Z</updated>
         <summary type="html"><![CDATA[有几个月没去广州了，最近刚好有同事说还没去过广州塔，所以陪着他们一起到广州一日游。
 说是一天吧，其实时间也不长，就沿着天河中轴线转了一下，先后去了广东省博物馆、永庆坊和广州塔。之所以最后选择去广州塔，是想着买傍晚时间的门票能够同时看到广州的日景和夜景。
-<img src="https://hyruo.com/editor/tour-guangzhou/GYqT4F7CQG4Vkphq.webp"
-	width="2048"
-	height="1152"
-	srcset="https://hyruo.com/editor/tour-guangzhou/GYqT4F7CQG4Vkphq_hue66368194817da73187c6c1fe70db4bd_293002_480x0_resize_q75_h2_box_2.webp 480w, https://hyruo.com/editor/tour-guangzhou/GYqT4F7CQG4Vkphq_hue66368194817da73187c6c1fe70db4bd_293002_1024x0_resize_q75_h2_box_2.webp 1024w"
-	loading="lazy"
-	
-		alt="天河中轴线-徬晚"
-	
-	
-		class="gallery-image" 
-		data-flex-grow="177"
-		data-flex-basis="426px"
-	
->
-<img src="https://hyruo.com/editor/tour-guangzhou/QMitDEongwl2KpBj.webp"
-	width="2048"
-	height="1152"
-	srcset="https://hyruo.com/editor/tour-guangzhou/QMit…]]></summary>
+
+
+
+
+
+
+
+
+
+
+
+
+广东省博物馆算是我所去过的省级博物馆里面排名倒数第一的，实在是乏善可陈，乃至于现代工艺品都能被当成镇馆之宝。整个博物馆里面人文元素实在是过于匮乏，基本都是以近现代工艺品和自然矿产作为主角，很多人讲广东是中国的文化沙漠，恐怕也不无道理。]]></summary>
         <author>
             <name>海若博客</name>
         </author>
@@ -128,23 +180,24 @@ My wife adopted him before we were even dating in 2006. I never had a cat, was m
         <link href="https://hyruo.com/article/washington-does-not-welcome-trump/"/>
         <updated>2024-11-07T08:40:00.000Z</updated>
         <summary type="html"><![CDATA[高中是我第一次走出大山，进到县城开始接触世界的起点。记得在 2004 年这个时候，我们学校的高中部教学楼还没建成，我们高 1 班与小学三、四年级几个班的学生同在一栋黄色琉璃瓦顶的四层教学楼里上课。
-<img src="https://hyruo.com/article/washington-does-not-welcome-trump/1.webp"
-	width="1714"
-	height="589"
-	srcset="https://hyruo.com/article/washington-does-not-welcome-trump/1_hu290075ccf28fcda15d8cd781029441fa_54536_480x0_resize_q75_h2_box_2.webp 480w, https://hyruo.com/article/washington-does-not-welcome-trump/1_hu290075ccf28fcda15d8cd781029441fa_54536_1024x0_resize_q75_h2_box_2.webp 1024w"
-	loading="lazy"
-	
-	
-		class="gallery-image" 
-		data-flex-grow="291"
-		data-flex-basis="698px"
-	
->
+
 当时班上很多走读的同学都有上学路上顺手买份报纸的习惯，特别是 5 毛钱一份的潇湘晨报，份量大，内容多，一般都有 4 叠加起来十几张报纸，简直是居家生活学习神器。
 也就是这一年，我第一次从报纸上看到美国大选的事情。
 奇怪的选举
 
-在 2000 年后，小布什的名字可以说家喻户晓，911 事件、伊拉克战争、访华等新闻经常在电视新闻中出现。也让我一度觉得，这美国总统应该也是类似毛主席一样的人物…]]></summary>
+在 2000 年后，小布什的名字可以说家喻户晓，911 事件、伊拉克战争、访华等新闻经常在电视新闻中出现。也让我一度觉得，这美国总统应该也是类似毛主席一样的人物，在美国具有崇高地位。
+但奇怪的是，在 2004 年的总统选举中，怎么会冒出一位叫克里的人来跟小布什竞争总统之位。
+在我眼里，当时媒体报道的克里，仅仅是一名参议员，没当过省长、部长之类的大官，也没有什么丰功伟绩传世，甚至还有各种私生活混乱的花边新闻，就这样一个人，配去竞争总统吗？
+难道美国大选真就是走个过场，随便安排个人陪跑一下？
+在看到选举结果后，对这事情就更加疑惑了，就这样一个素人，居然得票只比小布什少了 400 万张，支持率只低了 3 个百分点。
+最夸张的是，克里在选举人票与小布什为 252:254 的时候，仅差 2 票就打平，但却公开承认已败选，一直让我百思不得其解。
+不解的是，为什么这样一个素人居然跟现任总统差距不到 1%，他明明没什么基础才对。
+不解的是，为什么选举结果能出现这种双方都在 50% 上下的势均力敌的状况，如果是走过场，那万一有些人没按剧本走，简直是在玩火自焚。
+不解的是，为什么票都还没开完，克里就提前认输，莫非是内幕操作。
+
+文明的灯塔
+
+2008 年是我进入大学的第二年，随着北京奥运的闭幕，美帝选举也进入白热化阶段，一边是黑人奥巴马，另一边是在越南坐了 5 年牢的麦凯恩…]]></summary>
         <author>
             <name>海若博客</name>
         </author>
@@ -183,25 +236,18 @@ My wife adopted him before we were even dating in 2006. I never had a cat, was m
 一名小学四年级学生（9岁），因未知原因，在学校跳楼自杀。
 小学生
 一名小学一年级学生（6岁），因在校调皮，学校给家长施加压力转学，但找了几个学校都不愿意接收。
-<img src="https://hyruo.com/article/mental-health-issues-in-minors/3.webp"
-	width="2250"
-	height="1500"
-	srcset="https://hyruo.com/article/mental-health-issues-in-minors/3_hub59048d3d2d4cdff03f469402812fd6a_210822_480x0_resize_q75_h2_box_2.webp 480w, https://hyruo.com/article/mental-health-issues-in-minors/3_hub59048d3d2d4cdff03f469402812fd6a_210822_1024x0_resize_q75_h2_box_2.webp 1024w"
-	loading="lazy"
-	
-	
-		class="gallery-image" 
-		data-flex-grow="150"
-		data-flex-basis="360px"
-	
->
+
 家庭教育问题是主因
 
 这三个案例都是最近这一个月发生的，有的是自己参与处理，有的就发生在自己朋友圈，都对我产生很大触动。特别是其中两个小学生，刚好跟我两个小孩同龄，不得不让我重新审视起自己对家庭教育的理解。
 家庭情况
 
 高中生甲的家庭
-…]]></summary>
+甲的父母都在体制内上班，是家中独子，家庭氛围较为严肃，父母对他的期望很高。甲在中考时是以超过重点分数线27分进入的学校，高一时在年级排名 70 名上下，高二年级排名 20-30 名，在最近两次模拟考试中，排名分别为 210、273。据其父亲说，甲在初中之后一直参加各种补习班和网络课程，中途想学习美术，准备往艺术生方向发展，但父母坚持要其当文化生。经向甲周边同学了解，甲在校期间没有谈恋爱现象。事发时，甲的父母均不在家，监控显示其独自搭乘电梯到小区顶楼跳下。
+小学生乙的家庭
+乙的爸爸在某地产公司上班。乙的妈妈是全职带两个孩子的，而且两个都是剖腹产。乙的妈妈十岁时父母都不在了，是奶奶和家里亲人带大的。其姐姐在她约18岁就带去打工，跟姐姐最亲。乙的父亲是入赘到母亲家的。其父性格纳闷，不爱说话。乙的大伯也是入赘的。事发当天早上，乙的母亲应该是骂过小孩，可能是因为担忧回家后继续被母亲骂，其在下午放学前独自翻过护栏跳下，此时乙的母亲正在校门外等待。
+小学生丙的家庭
+丙的父亲在体制内上班，丙的母亲是全职在家带孩子。在学校面谈中，丙一开始很抗拒不愿意进校园，爬上柱子，爬门禁卡位。其父母也管不住他。在参观了校…]]></summary>
         <author>
             <name>海若博客</name>
         </author>
@@ -220,20 +266,26 @@ My wife adopted him before we were even dating in 2006. I never had a cat, was m
 
 因为胡子长得很快，工作日都是一天一剃，从学生时代以来，在剃须刀的选择上踩过很多坑。
 电动设备方面，常见飞科、博朗、松下、飞利浦都买过，体验最好的是松下一款，但使用时间并不长，主要是在国内找不到合适配件，单独在亚马逊购买又太贵。
-<img src="https://hyruo.com/article/midlife-shopping-festival/1.webp"
-	width="1080"
-	height="364"
-	srcset="https://hyruo.com/article/midlife-shopping-festival/1_huf3b1db4c0474509404dd960b5a3c274d_19470_480x0_resize_q75_h2_box_2.webp 480w, https://hyruo.com/article/midlife-shopping-festival/1_huf3b1db4c0474509404dd960b5a3c274d_19470_1024x0_resize_q75_h2_box_2.webp 1024w"
-	loading="lazy"
-	
-	
-		class="gallery-image" 
-		data-flex-grow="296"
-		data-flex-basis="712px"
-	
->
+
 后来就彻底转投手动剃须刀阵营了。
-之前最常用就吉列 3 刀片的锋速 3，主要是 3 刀片相对 1、2 刀片在速度和效果上有着明显的优势，并且相较 5 …]]></summary>
+之前最常用就吉列 3 刀片的锋速 3，主要是 3 刀片相对 1、2 刀片在速度和效果上有着明显的优势，并且相较 5 刀片，在性价比上也能取得平衡。
+最近这些年国产剃须刀逐渐追赶上来，从去年开始也尝试购买国产 5 刀片的，价格比吉列 3 刀片的还稍微便宜点，使用体验上感觉比吉列 3 刀片的更耐用，几乎是两个月才需要换一个刀头。
+
+故此，这次双十一还是继续购买国产 5 刀片剃须刀头，一盒 6-8 刀头毫无疑问可以应付一整年。
+日化产品
+
+日化没啥好说的，都是逮着实惠就上一整年的，也没有品牌焦虑，有啥用啥。
+厨卫用品
+
+目前厨卫用品都很齐全，昨天燃气公司检测员上门时还戏说我家厨房是整个小区最干净的。
+我猜也差不多，毕竟这套房子已经住了五六年，燃气表还显示的是“1”立方米。
+平常都是在楼下我母亲住的房子里做饭。
+唯一一个小问题是，我老婆天天依赖的榨汁机上某个配件坏了。
+这也是个 2015 年购买的小电器，在买第一套房时购入的。虽然每天 1-2 次高强度使用了近 10 年，但整体使用情况都还算理想。
+
+麻烦在于，这个榨汁机是在美亚购买的，国内没有售卖此型号，想找配件不容易。看了下美亚上的配件价格贵的要死，就一个滤网到手价差不多要 700 人民币，整机才 1500。
+
+于是只能…]]></summary>
         <author>
             <name>海若博客</name>
         </author>
@@ -297,7 +349,7 @@ ARM镜像：openEuler-22.03-LTS-SP4-aarch64-dvd.iso
 问题成因
 
 在活动过程中，我大概感受到这类学校之所以问题较为突出的几个原因。
-普职分离大背景下，普通初中学校被冷落。在各地普遍性不到50%的高中升学率情况下，对于那些处于非城市核心区域、不具有传统教育优势的学校而言，高中升学率很可能在10%甚至5%以下，绝大多数都只能读职高和技工学校。这种情况下，不仅学校教师没有太多动力，学生家长也不自觉放低了对子女的期许。使得大量进入青春期的小…]]></summary>
+普职分离大背景下，普通初中学校被冷落。在各地普遍性不到50%的高中升学率情况下，对于那些处于非城市核心区域、不具有传统教育优势的学校而言，高中升学率很可能在10%甚至5%以下，绝大多数都只能读职高和技工学校。这种情况下，不仅学校教师没有太多动力，学生家长也不自觉放低了对子女的期许。使得大量进入青春期的小孩隐…]]></summary>
         <author>
             <name>海若博客</name>
         </author>
@@ -320,8 +372,7 @@ ARM镜像：openEuler-22.03-LTS-SP4-aarch64-dvd.iso
         <id>https://hyruo.com/article/save-screenshots-in-webp-format-by-default-on-windows/</id>
         <link href="https://hyruo.com/article/save-screenshots-in-webp-format-by-default-on-windows/"/>
         <updated>2024-10-24T11:35:00.000Z</updated>
-        <summary type="html"><![CDATA[前几天写了一篇关于  <a class="link" href="https://hyruo.com/article/convert-pictures-to-webp-for-hugo/"  target="_blank" rel="noopener"
-    >将Hugo中图片批量转换为Webp 的文章，但是遗留下一个问题没有解决：即 webp 来源问题。
+        <summary type="html"><![CDATA[前几天写了一篇关于 将Hugo中图片批量转换为Webp 的文章，但是遗留下一个问题没有解决：即 webp 来源问题。
 由于 Windows 的 GDI 工具默认只支持 jpg png 等格式，想在 windows 上将截图直接保存为 webp 目前并没有很好的实现方法，所以在这里简单记录一下个人经验。
 第三方截图工具+第三方转换工具自动保存
 
@@ -329,10 +380,11 @@ ARM镜像：openEuler-22.03-LTS-SP4-aarch64-dvd.iso
 我电脑上没有太好的图片处理软件，平常都是直接截图多。在写了这个文章后，我搜了下webp截图软件，居然没找到。都得借助两个软件才能实现，一种是用 sharex 截图软件 + imagemagick 转换软件，在使用 sharex 的时候，通过内置自动化程序引入 imagemagick.exe 自动转换为webp。另一种是用 greenshot 截图软件 + imagemagick （Mogrify） 转换软件，也是同样的原理，截图时引入 mogrify.exe 自动转换。
 上述两种方法，分别可以在以下地址查到。
 方法一：https://limour.xlog.app/WEBP-jie-tu-gong-ju-ShareX–imagemagick?locale=zh
-<img src="https://hyruo.com/article/save-screenshots-in-webp-format-by-default-on-windows/d.webp"
-	width="1270"
-	height="734"
-	srcset="https://hyruo.…]]></summary>
+
+方法二：https://github.com/greenshot/greenshot/issues/347
+First, let’s download the necessary tools:
+1- Run-Hidden (it will allow us to carry out the entire process transparently, without showing any window) https://github.com/stax76/run-hidden/releases/tag/v1.2
+2- Mogrify (will…]]></summary>
         <author>
             <name>海若博客</name>
         </author>
@@ -356,7 +408,7 @@ ARM镜像：openEuler-22.03-LTS-SP4-aarch64-dvd.iso
 但是，在网络上就完全不一样了。特别是对于中国历史领域的网络话题而言，由于 1840 年之后的屈辱历史，导致衍生出三个非常重要的史观派系，并在当前网络上极度活跃。
 A.皇汉史观
 
-皇汉史观是一种强调中华民族（特别是汉民族）优越性和历史连续性的历史观。这种史观通常具有民族主义色彩，强调…]]></summary>
+皇汉史观是一种强调中华民族（特别是汉民族）优越性和历史连续性的历史观。这种史观通常具有民族主义色彩，强调中国…]]></summary>
         <author>
             <name>海若博客</name>
         </author>
@@ -392,29 +444,6 @@ After the hammer mold, Bartholomew would still get paid. No one actually likes p
         <summary type="html"><![CDATA[拍摄设备： Iphone13 分辨率： 720P 地点： 南京地铁S3-刘村站]]></summary>
         <author>
             <name>运维小弟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[法院考核指标可以取消吗]]></title>
-        <id>https://hyruo.com/article/can-court-cancel-assessment-indicators/</id>
-        <link href="https://hyruo.com/article/can-court-cancel-assessment-indicators/"/>
-        <updated>2024-10-22T03:40:00.000Z</updated>
-        <summary type="html"><![CDATA[最近最高检宣布取消不合理考核指标，被不少人误读为最高检要取消绩效考核，更有甚者，一些人幻想法院考核指标也会取消。
-对此，我只想说，这种想法还是太简单。
-考核指标设置的意义是什么
-
-在政府工作中设置考核指标的意义在于它们作为评估和衡量政府机构及其工作人员绩效、效率和成果的关键工具。这些指标为确定政策和项目目标是否达成提供了清晰和客观的基础，并有助于识别需要改进的领域。在政府环境中，考核指标可以指导决策、更有效地分配资源并确保问责制。它们还通过突出优势和劣势来促进持续改进的文化，从而带来有针对性的培训和发展机会。此外，考核指标对于在绩效评估中促进透明度和公平性至关重要，这可以提高公众对政府的信任和满意度。总的来说，它们对于推动政府工作的有效性和实现公共利益至关重要。
-以上是 AI 回答，但在中国，考核指标除了上述意义外，还有个更为现实的作用，提升制度自信、道路自信和民族自信。
-也就是以指标来参与考核排名。
-例如，在县一级，考核指标目的就是要争取本县在全市排名领先，厉害的县甚至会紧盯全省同行数据，确保自己在全省领先。
-而到省一级，搞指标的目的也是追求全国排名领先。
-那最高法、最高检搞指标目的是啥？不就剩只一个全球领先了吗？
-<img src="https://hyruo.com/article/can-court-cancel-assessment-indicators/who.webp"
-	width="2393"
-	height="1424"
-	srcset="https://hyruo.com/article/can-court-cancel-assessment-indicators/who_hu740f76b587c35b6a18ed60eff72151c1_63186_480x0_resize_q75_h2_box_2.webp 480w, https://h…]]></summary>
-        <author>
-            <name>海若博客</name>
         </author>
     </entry>
     <entry>
@@ -613,8 +642,8 @@ Better Onboarding by Krystal Higgins]]></summary>
 July 2, 2022
 
 Of all the injustices happening in the world… you know who needs to be taken down a peg? The Book-a-Week People. Fuck those guys. With their books in their Zoom backgrounds. That bothers me. Fuck them.
-I know the original post is part of some weird hustle culture subgenre, but it’s probably no surprise to folks who reading that I like books and fit this targeted demographic. After pondering whether I’m “finding answers to questions or questions to answer” my answer is a resounding, “…I guess?”
-A lot of why I read is about juxtaposition. I read business books to juxtapose my experience against the Platonic ideal of “good business”. I read about social justice to juxtapose my lived experience against others lived…]]></summary>
+I know the original post is part of some weird hustle culture subgenre, but it’s probably no surprise to folks reading that I like books and fit this targeted demographic. After pondering whether I’m “finding answers to questions or questions to answer” my answer is a resounding, “…I guess?”
+A lot of why I read is about juxtaposition. I read business books to juxtapose my experience against the Platonic ideal of “good business”. I read about social justice to juxtapose my lived experience against others lived exp…]]></summary>
         <author>
             <name>daverupert.com</name>
         </author>
@@ -704,36 +733,6 @@ The Performance Monitor collects performance data in realtime and puts it on a g
         <link href="https://srebro.cn/archives/1725256655716"/>
         <updated>2024-09-02T05:58:06.000Z</updated>
         <summary type="html"><![CDATA[一、环境准备 kafka3.7.1 包下载地址： https://mirrors.nju.edu.cn/apache/kafka/3.7.1/kafka_2.13-3.7.1.tgz openjdk11.0.2 下载地址： https://mirrors.nju.edu.cn/openjdk/11.]]></summary>
-        <author>
-            <name>运维小弟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[docker-compose 快速部署nacos2.3.1-standalone单节点]]></title>
-        <id>/archives/1725166580786</id>
-        <link href="https://srebro.cn/archives/1725166580786"/>
-        <updated>2024-09-01T04:56:39.000Z</updated>
-        <summary type="html"><![CDATA[一、nacos 介绍 官网： https://nacos.io/ 一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台 二、如何使用docker-compose 快速部署nacos2.3.1 ⚠️ ： nacos-standalone 部署方式 依赖于 数据库，请先配置好数据库实例，此版本]]></summary>
-        <author>
-            <name>运维小弟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kubeadm部署 Kubernetes(k8s) 高可用集群【V1.28 】]]></title>
-        <id>/archives/1725164764987</id>
-        <link href="https://srebro.cn/archives/1725164764987"/>
-        <updated>2024-09-01T04:26:22.000Z</updated>
-        <summary type="html"><![CDATA[kubeadm是官方社区推出的一个用于快速部署kubernetes集群的工具。]]></summary>
-        <author>
-            <name>运维小弟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kubeadm部署 Kubernetes(k8s) 高可用集群【V1.20 】]]></title>
-        <id>/archives/1725164727624</id>
-        <link href="https://srebro.cn/archives/1725164727624"/>
-        <updated>2024-09-01T04:25:52.000Z</updated>
-        <summary type="html"><![CDATA[kubeadm是官方社区推出的一个用于快速部署kubernetes集群的工具。]]></summary>
         <author>
             <name>运维小弟</name>
         </author>

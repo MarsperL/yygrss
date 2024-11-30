@@ -1,0 +1,516 @@
+{
+  "sources": [
+    {
+      "title": "云野阁",
+      "feedUrl": "https://marsperl.github.io/rss2.xml",
+      "siteUrl": "https://MarsperL.github.io/",
+      "articles": [
+        {
+          "id": "https://marsperl.github.io/yyg/8a0457d3/",
+          "author": null,
+          "description": "SSL 2.0 和 3.0 的漏洞修复：\nSSL (Secure Sockets Layer) 是一种加密协议，曾被广泛用于网络通信中以确保数据的安全传输。SSL 2.0 和 3.0 是早期的版本，但它们已经被认为不再安全，因此被现代协议（如 TLS 1.2 和 TLS 1.3）所取代。\nSSL 2.0 和",
+          "link": "https://marsperl.github.io/yyg/8a0457d3/",
+          "publishedOn": "2024-11-30T14:51:39.000Z",
+          "wordCount": 1218,
+          "title": "项目漏洞问题记录",
+          "imageUrl": "https://t.mwm.moe/fj?9925"
+        },
+        {
+          "id": "https://marsperl.github.io/yyg/a785f75e/",
+          "author": null,
+          "description": "基础环境\n系统：Windows 10\n硬件：双网卡（本篇中使用的是两个无线网卡）\n所需软件：QEMU、tap-windows\n所需软件固件：QEMU_EFI.fd\nARM镜像：openEuler-22.03-LTS-SP4-aarch64-dvd.iso\n<a href=\"#环境准备\" class=\"headerlink\"",
+          "link": "https://marsperl.github.io/yyg/a785f75e/",
+          "publishedOn": "2024-11-02T15:38:24.000Z",
+          "wordCount": 1227,
+          "title": "Windows 10（x86_64）使用QEMU安装ARM虚拟机",
+          "imageUrl": "https://t.mwm.moe/fj?2191"
+        },
+        {
+          "id": "https://marsperl.github.io/yyg/f5b762ea/",
+          "author": null,
+          "description": "添加Loopback环回网卡\n（1）使用Win+ R调出”运行“，输入hdwwiz，确定后开始添加新硬件向导。\n（2）按向导操作，选择安装我手动从列表选择的硬件(高级)(M)。\n<img src=\"/yyg/f5b762ea/1.png\" class=\"\"",
+          "link": "https://marsperl.github.io/yyg/f5b762ea/",
+          "publishedOn": "2024-10-24T14:08:30.000Z",
+          "wordCount": 1010,
+          "title": "eNSP模拟网络设备访问真实网络",
+          "imageUrl": "https://api.jiangyuhui.top/aliyun/randomCover?4610"
+        },
+        {
+          "id": "https://marsperl.github.io/yyg/9ec93abd/",
+          "author": null,
+          "description": "环境准备：\n（1）使用脚本安装docker、docker-compose\n\n\n1\n\nbash <(curl -sSL",
+          "link": "https://marsperl.github.io/yyg/9ec93abd/",
+          "publishedOn": "2024-10-10T13:41:29.000Z",
+          "wordCount": 1402,
+          "title": "Linux实现模拟IPMI",
+          "imageUrl": "https://random-img.pupper.cn/api?3737"
+        },
+        {
+          "id": "https://marsperl.github.io/yyg/f5933c9f/",
+          "author": null,
+          "description": "前言\n 🔜什么是SkyWalking？🔚 \n              \n是一款优秀的国产 APM",
+          "link": "https://marsperl.github.io/yyg/f5933c9f/",
+          "publishedOn": "2024-09-05T14:54:25.000Z",
+          "wordCount": 2353,
+          "title": "docker 部署 SkyWalking",
+          "imageUrl": "https://random-img.pupper.cn/api?1155"
+        },
+        {
+          "id": "https://marsperl.github.io/yyg/fd02fe22/",
+          "author": null,
+          "description": "前言\n 🔜Slim🔚 \n              \nGitHub - slimtoolkit/slim： Slim（toolkit）：不要更改容器镜像中的任何内容，并将其缩小多达 30",
+          "link": "https://marsperl.github.io/yyg/fd02fe22/",
+          "publishedOn": "2024-09-05T14:48:37.000Z",
+          "wordCount": 1512,
+          "title": "Slim缩小容器镜像大小",
+          "imageUrl": "https://api.jiangyuhui.top/aliyun/randomCover?5113"
+        }
+      ]
+    },
+    {
+      "title": "Hi, DIYgod",
+      "feedUrl": "https://diygod.cc/feed/",
+      "siteUrl": "https://diygod.cc",
+      "articles": []
+    },
+    {
+      "title": "whyes 的博客",
+      "feedUrl": "http://whyes.org/feed.xml",
+      "siteUrl": "http://whyes.org/",
+      "articles": [
+        {
+          "id": "http://whyes.org/2024/hcc-2l-tx",
+          "author": null,
+          "description": "现状 二线及后线治疗可能是肝癌领域最强烈的未满足临床需求。 尽管肝癌的指南对二线治疗做了一些推荐，例如卫健委和 CSCO 指南都推荐一些抗血管生成靶向治疗（瑞戈非尼、阿帕替尼和雷莫西尤单抗）和 PD-1 抗体（帕博利珠单抗、替雷利珠单抗和卡...",
+          "link": "http://whyes.org/2024/hcc-2l-tx",
+          "publishedOn": "2024-11-10T11:59:53.000Z",
+          "wordCount": 199,
+          "title": "观点：晚期肝癌二线及后线治疗推荐",
+          "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
+        },
+        {
+          "id": "http://whyes.org/2024/hepatorch-toripalimab-bev-hcc",
+          "author": null,
+          "description": "HEPATORCH（JUPITER-10/JS001-035-III-HCC）研究是一项由君实生物开展的全国多中心、开放标签的随机对照 III 期临床试验，评估的是 特瑞普利单抗联合贝伐珠单抗 用于晚期肝癌一线治疗的疗效和安全性，对照组是上...",
+          "link": "http://whyes.org/2024/hepatorch-toripalimab-bev-hcc",
+          "publishedOn": "2024-09-28T14:39:48.000Z",
+          "wordCount": 215,
+          "title": "特瑞普利单抗+贝伐珠单抗：晚期肝癌治疗又多了一项选择 #CSCO24",
+          "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
+        },
+        {
+          "id": "http://whyes.org/2024/esmo-2024-leap-012-tace-len-pembro",
+          "author": null,
+          "description": "今年 ESMO 年会上有至少 4 项肝细胞癌领域的研究结果值得关注，这是第 3 篇更新，敬请关注。前面的两篇是： （1）安罗替尼+派安普利单抗：晚期肝癌治疗又多了一项选择 （2）IMbrave050 最终结果阴性，肝癌辅助治疗回到了解放前 ...",
+          "link": "http://whyes.org/2024/esmo-2024-leap-012-tace-len-pembro",
+          "publishedOn": "2024-09-15T10:55:28.000Z",
+          "wordCount": 312,
+          "title": "LEAP-012：TACE 联合系统治疗成为中期肝癌治疗的新选项 #ESMO24",
+          "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
+        },
+        {
+          "id": "http://whyes.org/2024/imbrave050-hcc-adjuvant-atezo-bev-esmo-2024",
+          "author": null,
+          "description": "今年 ESMO 年会上有至少 4 项肝细胞癌领域的研究结果值得关注，这是第 2 篇更新，敬请关注。上一篇是： 安罗替尼+派安普利单抗：晚期肝癌治疗又多了一项选择 IMbrave050 研究是肝癌辅助治疗领域的重要临床试验。在这项研究中，接受...",
+          "link": "http://whyes.org/2024/imbrave050-hcc-adjuvant-atezo-bev-esmo-2024",
+          "publishedOn": "2024-09-14T15:06:59.000Z",
+          "wordCount": 236,
+          "title": "IMbrave050 最终结果公布，肝癌辅助治疗回到了解放前 #ESMO24",
+          "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
+        },
+        {
+          "id": "http://whyes.org/2024/appolo-hcc-anlotinib-penpulimab",
+          "author": null,
+          "description": "APOLO（ALTN-AK105-III-02）研究是一项由正大天晴开展的全国多中心、开放标签的随机对照 III 期临床试验，评估的是 安罗替尼联合派安普利单抗（”双安组合“） 用于晚期肝癌一线治疗的疗效和安全性，对照组是上一代的靶向药物索...",
+          "link": "http://whyes.org/2024/appolo-hcc-anlotinib-penpulimab",
+          "publishedOn": "2024-09-13T15:33:23.000Z",
+          "wordCount": 164,
+          "title": "安罗替尼+派安普利单抗：晚期肝癌一线治疗又多了一项选择 #ESMO24",
+          "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
+        }
+      ]
+    },
+    {
+      "title": "daverupert.com",
+      "feedUrl": "https://daverupert.com/atom.xml",
+      "siteUrl": "https://daverupert.com",
+      "articles": [
+        {
+          "id": "https://daverupert.com/2024/11/goodbye-moogs/",
+          "author": null,
+          "description": "The people who found you in the alley called you Cowboy. We called you Moogs, Moogers, Moogerton, Mr Moogs, Meesta, Two Meestas, Beef, Roast Beef, Roast Beefy Weefy, Kitty, Kitty cat, Long cat, Kitty kitty, Pretty kitty, and Meow meow. Those were all your names.\nToday we had to say goodbye to our cat Moogs (pronounced “Moo” like the cow says + “gs”). He was nearly 19 years old, which is about all you can ask for from a great cat. A senior cat with a thyroid problem – so his passing is not an incredible surprise – but he took a sudden downturn over the weekend. He died in his sleep.\nMy wife adopted him before we were even dating in 2006. I never had a cat, was more of a dog person, and I made it my mission to befriend the cat to win her over. I succeeded in my goal and he let me hold him li…",
+          "link": "https://daverupert.com/2024/11/goodbye-moogs/",
+          "publishedOn": "2024-11-26T03:08:00.000Z",
+          "wordCount": 982,
+          "title": "Goodbye, Moogs",
+          "imageUrl": "https://cdn.daverupert.com/opengraph/moogs.jpg"
+        },
+        {
+          "id": "https://daverupert.com/2024/10/hammers/",
+          "author": null,
+          "description": "I bet if you were someone who could make a hammer that would have been a good stable job for years, centuries even. Almost everyone needs a hammer at some point in their life.\n“Hey, where’d you get that hammer?”\nThen some guy, Greg, would see how busy the hammersmith is making hammers one at-a-time and say, “I’m going to make hammers one hundred at a time!” He’d pay Bartholomew not to make him one hammer, but to make a mold that could make one hundred hammers at a time. Greg has rich parents, he can afford this sort of risky business venture. One hundred hammers for the price of ten, that’s profit.\nAfter the hammer mold, Bartholomew would still get paid. No one actually likes pouring molten iron and hammering, but Bartholomew doesn’t mind. He’s making less money per hammer, but he’s also p…",
+          "link": "https://daverupert.com/2024/10/hammers/",
+          "publishedOn": "2024-10-22T14:15:00.000Z",
+          "wordCount": 839,
+          "title": "Hammers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://daverupert.com/2024/10/super-web-components-sunshine/",
+          "author": null,
+          "description": "In this job we need to think a lot about the tools we choose and why, so I cataloged all the places where web components (for me) feel like “the right tool for the job”. Your list may be different and I’d love to read it. And because I don’t want this to be 100% propaganda, I’ll also cover some of the not-so-great parts of web components as well.\nThe good parts\nHere’s an incomplete list of situations where I think web components are a good choice.\nFor leaf nodes - Web components are great at leaf nodes.\nFor presentational components that wrap other components - The <slot> element is fantastic for this, but you could write a basic CSS class instead. The first rule of web components is: Not everything needs to be a web component.\nFor building a design system - They do this too.\nFor progressi…",
+          "link": "https://daverupert.com/2024/10/super-web-components-sunshine/",
+          "publishedOn": "2024-10-21T14:28:00.000Z",
+          "wordCount": 1319,
+          "title": "Where web components shine",
+          "imageUrl": null
+        },
+        {
+          "id": "https://daverupert.com/2024/10/vibe-check-35/",
+          "author": null,
+          "description": "School is back in session, sports are in full swing, we’re tossed and turned by the weekly routine. This past month has been a season of fixing and repair and I’m thankful everything went well and we’re (hopefully) through the hard parts.\nFixing electrical problems\nRamping up to Spooky Month, the lights in our house were acting up. We’ve always had the occasional power problem; lights dimming, oven clocks resetting, but they were random and isolated. But around the beginning of September our lights would flicker for a solid minute every time the A/C kicked on. I was getting concerned about a potential fire – and no matter what anyone says, I was not concerned about a ghost, ghoul, specter, gremlin, dracula or otherwise – so I scheduled a bunch of maintenance calls:\nAn electrician - He didn…",
+          "link": "https://daverupert.com/2024/10/vibe-check-35/",
+          "publishedOn": "2024-10-11T04:00:00.000Z",
+          "wordCount": 1777,
+          "title": "Vibe Check №35",
+          "imageUrl": null
+        },
+        {
+          "id": "https://daverupert.com/2024/09/hibiclens/",
+          "author": null,
+          "description": "Every two-to-four years my body chemistry changes and my armpits start to reject my deodorant with an intense itch. All that aluminum has gunked up the works I guess. Usually cycling out deodorants works fine, but this time it didn’t work because my armpits were overpowering all the other deodorants.\nI tried a tactical reset and took the  “No deodorant challenge”, the legend –which I remember my hippie step-brother Nik telling me about thirty years ago– that if you stop using deodorant for two weeks the oils in your body naturally recalibrate and you stops smelling… but this urban legend very much did not work. I smelled horrible all the time.\nI casually mentioned this issue to my dermatologist and he was quick to recommend this homely teal bottle of over-the-counter 1970s logotype, Hibiclens.\n\n  \n\nI like to think the “hibi” part of Hibiclens stands for “hibiscus” because it’s a pink liquid (or foam) that you apply like soap and rinse off. It’s colored pink because it’s an anti-septic and hospitals like to color their liquids, but the reason it works –as my dermatologist explained– is that bacteria creates the odor in your armpits. That was news to me. My prior understanding was that puberty causes teenagers to grow green stink lines that shoot out from their bodies. Guess the science there has evolved.\nI’m happy to report that Hibiclens works wonderfully and I’m pleased with the results. I don’t wear deodorant everyday anymore, my armpits aren’t irritated, and I only need to apply a squeeze of Hibiclens every three days or so (but even that timeline appears to be stretching out). I do sometimes wear deodorant when the stakes are high, but day-to-day working form home is au naturale. There’s a small satisfaction that the answer to my fragile-masculine deodorant FOR MEN problems is a pink liquid in a Tiffany blue teal bottle. Time will tell, however, if it really does solve my problems. I’ll follow up in two-to-four years to see if it still works.",
+          "link": "https://daverupert.com/2024/09/hibiclens/",
+          "publishedOn": "2024-09-14T18:52:00.000Z",
+          "wordCount": 787,
+          "title": "Hibiclens",
+          "imageUrl": null
+        },
+        {
+          "id": "https://daverupert.com/2024/09/good-forms/",
+          "author": null,
+          "description": "Brian LeRoux posted a few thoughts about forms and the idea of a “good form” resonated with me so I dogpiled some of my own thoughts and experiences on it. Here’s a compilation of those ideas. I’m sure this is incomplete and would love to see your list.\nGood forms work without client JavaScript (Brian LeRoux)\nGood forms always submit (Brian LeRoux)\nGood forms remember values and display problems inline (Brian LeRoux)\nGood login forms work with password managers (Mingo Hogan)\nGood forms use a <form> tag\nGood forms use appropriate input types\nGood forms have clear labelled inputs and buttons\nGood forms have focus states\nGood forms have logical tab order\nGood forms allow paste\nGood form elements leverage the inputmode attribute\nGood form elements leverage the autocomplete attribute\nGood search forms wrap the <form> tag in a <search> element\nGood forms can be reset with a <button type=reset>\nGood forms participate in formData\nGood forms don’t use placeholder as a label\nGood forms work on phones\nGood forms don’t popup and ask for personal information\nGood forms only ask for what is necessary and aren’t too long\nGood forms use HTTPS\nGood forms use the proper HTTP verbs\nGood forms validate on the client AND on the server\nGood forms have been driven with a screen reader before going to production\nGood forms clearly denote required attributes\nGood forms warn about costly or destructive actions\nGood forms make the baby Jesus smile\nGood authenticated forms should have a server-generated nonce value\nGood forms should do a pre-flight check for navigator.onLine before attempting a submit\nGood forms start with accent-color for styling and only get more complex if necessary\nGood forms see custom controls as a radioactive asset that must be removed at the earliest opportunity\nAnyways. People should talk about forms more. Here’s some more resources on good form design.\nForm Design Patterns by Adam Silver\nWeb Form Design by Luke Wroblewski\nForm Design Mastery by Adam Silver\nBetter Onboarding by Krystal Higgins",
+          "link": "https://daverupert.com/2024/09/good-forms/",
+          "publishedOn": "2024-09-13T13:25:00.000Z",
+          "wordCount": 787,
+          "title": "Good forms",
+          "imageUrl": null
+        },
+        {
+          "id": "https://daverupert.com/2024/09/fuck-the-book-a-week-club/",
+          "author": null,
+          "description": "I saw a tweet awhile back that sent my brain to a far off galaxy…\nJuly 2, 2022\n\nOf all the injustices happening in the world… you know who needs to be taken down a peg? The Book-a-Week People. Fuck those guys. With their books in their Zoom backgrounds. That bothers me. Fuck them.\nI know the original post is part of some weird hustle culture subgenre, but it’s probably no surprise to folks reading that I like books and fit this targeted demographic. After pondering whether I’m “finding answers to questions or questions to answer” my answer is a resounding, “…I guess?”\nA lot of why I read is about juxtaposition. I read business books to juxtapose my experience against the Platonic ideal of “good business”. I read about social justice to juxtapose my lived experience against others lived exp…",
+          "link": "https://daverupert.com/2024/09/fuck-the-book-a-week-club/",
+          "publishedOn": "2024-09-12T14:28:00.000Z",
+          "wordCount": 1011,
+          "title": "Finding questions and answers about why I like books",
+          "imageUrl": null
+        },
+        {
+          "id": "https://daverupert.com/2024/09/dev-tools-performance-monitor-panel/",
+          "author": null,
+          "description": "Weeks ago I was looking in to a performance issue for our animated spinner component and stumbled across a tool in DevTools I hadn’t used before: The Performance Monitor Panel. In you open Dev Tools > More Tools > Performance Monitor you’ll see some helpful high-level charts and graphs of the realtime performance data of your UI.\n\nThe Performance Monitor collects performance data in realtime and puts it on a graph. It’s handy for detecting performance problems at a high-level. If your CPU, memory, DOM node count, or event listeners only go up while clicking around, you probably have a leak in your code. The part I was most interested in were style recalculations per second and layouts per second. Our spinner component was triggering style recalculations and layout calls at a rate of 120 pe…",
+          "link": "https://daverupert.com/2024/09/dev-tools-performance-monitor-panel/",
+          "publishedOn": "2024-09-03T14:48:00.000Z",
+          "wordCount": 893,
+          "title": "The Dev Tools Performance Monitor Panel",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "海若博客",
+      "feedUrl": "https://hyruo.com/index.xml",
+      "siteUrl": "https://hyruo.com/",
+      "articles": [
+        {
+          "id": "https://hyruo.com/article/fastest-personal-navigation-website/",
+          "author": null,
+          "description": "最近找到一款非常适合自己的导航网站模板，Hugo Theme Start，因为是采用 Hugo 构建的静态网站，理所当然也就是全世界构建速度最快的网站之一，部署地址: https://leftn.com\n前言\n后来也经常想着重新做个个人网站导航，但没有找到合适的模板，这一拖就是很久。另外，由于在使用 OneNav 过程中，对于免费主题不提供搜索框功能一直耿耿于怀，便没有重新使用 OneNav 的想法。\n这次起因是我在操作一个域名 DNS 编辑时，又误删除了几个 NS 记录。主要原因还是个人部署的服务太多、用的域名太杂，经常记不起来到底哪个域名是对应哪个服务。重新整理了一遍后，彻底激起了要再搞个导航网站的想法。\nHugo Theme Start\n\n如果熟悉 Hugo 的朋友会发现，上边这个导航主题名称跟 Hugo 上最热门的 Hugo theme stack 非常像（也就是本博客使用的主题）。但其实这个名字是我故意在蹭后者瞎编的，本文介绍的这款主题官方名称是 HB Start Theme , 只是在 Github 仓库中叫 Theme start 。\n\n主题安装\n\n主题安装可以直接参考 官方教程，总体还是比较简单的。\nTIPS\nHugo 官网 也都有，这里不再复述。\n主题配置\n\n这个主题也没有太多东西配置，无非是搜索引擎选择和排序，然后就是导航所需要的网址链接配置。\n与一般 Hugo 网站存在区别的是，这款主题并不能直接修改模板，而是需要创建 Hugopress 模块，按 Hugopress 教程 配置。\n另外，导航网址所需的 icons 在 Hugomods 中也都能方便找到，不过这也不是必须的，如果所添加网址 favicon 获取都很正常，也可以不用自定义 icons。\n简单修改CSS\n\n使用 Hugopress 还是相对麻烦，由于我只需要修改一处 CSS ，按照 Hug…",
+          "link": "https://hyruo.com/article/fastest-personal-navigation-website/",
+          "publishedOn": "2024-11-30T03:20:00.000Z",
+          "wordCount": 491,
+          "title": "最快的个人导航网站Hugo-theme-start",
+          "imageUrl": "https://hyruo.com/article/fastest-personal-navigation-website/00.webp"
+        },
+        {
+          "id": "https://hyruo.com/article/how-to-prevent-personal-extremist-incidents/",
+          "author": null,
+          "description": "近期，我国连续发生多起个人极端案事件，其中个别案件甚至导致重大人员伤亡情况，对社会安定秩序造成严重恶劣影响。我在之前曾写过一篇 ​关于命案防范的一点思考 对常规命案防控，从理论到实践进行了简单梳理和介绍，但内容比较宽泛，相较当前以报复社会为目的的个人极端案事件而言，在具体防控策略上还是有不少区别，这里再补充一下个人对预防个人极端案事件的一点思考。\n报复社会型个人极端案事件与普通命案的区别\n\n俗话说“冤有头债有主”，一般而言，普通命案中绝大部分犯罪者都是针对特定人、特定对象，或与犯罪者有特定交集的群体，除严重精神障碍人员肇事肇祸外，选择随机杀人的比例极少。\n\n1. 犯罪动机由个人恩怨上升为对社会不满\n\n相比较而言，普通命案的动机通常更为个人化，可能涉及个人恩怨、经济纠纷、情感纠葛等。犯罪者通常是为了解决个人问题或满足个人欲望而采取极端手段。而报复社会型个人极端案事件通常是出于对社会、政府、特定群体或个人的强烈不满或仇恨。犯罪者可能感到被社会边缘化、受到不公正对待，或者有强烈的心理创伤，希望通过极端行为来表达对社会的不满，甚至希望引起广泛的关注和恐慌。\n2. 行为模式由隐蔽针对型转为公开实施\n\n一般来说，普通命案的行为模式通常更为隐蔽，犯罪者可能选择在隐蔽场所实施犯罪，以避免被发现。犯罪行为可能更为直接和针对性，通常不会涉及大规模的暴力。而报复社会型个人极端案事件通常涉及大规模的暴力行为，犯罪者可能会选择在公共场所、人群密集的地方实施犯罪，以造成尽可能多的伤亡和恐慌。犯罪者可能事先有计划，甚至可能留下宣言或视频，表达其不满和动机。\n3. 影响范围从局部扩大到广泛恐慌\n\n普通命案的影响通常局限于受害者和其家庭，社会影响相对较小。这类案件通常影响范围较小，即便引起广泛的社会关注，除非涉及特殊的背景或情节，一般人很难将自己代入从而产生恐慌心理。但报复社会型个人极端案事件一经发生便会迅…",
+          "link": "https://hyruo.com/article/how-to-prevent-personal-extremist-incidents/",
+          "publishedOn": "2024-11-20T10:20:00.000Z",
+          "wordCount": 253,
+          "title": "如何预防个人极端案事件",
+          "imageUrl": "https://hyruo.com/article/how-to-prevent-personal-extremist-incidents/7.webp"
+        },
+        {
+          "id": "https://hyruo.com/editor/why-does-not-chinese-need-logic/",
+          "author": null,
+          "description": "现在很多人习惯采用两分法来观察世界，非左即右，非黑即白，非此即彼。例如，对于人的划分，习惯分为文科生、理科生。而对于文科生的典型刻板印象就是不讲逻辑。\n套娃两分法\n\n两分法，作为一种简单的世界观，对于大多数老百姓来说也够用了。毕竟生活不易，真没那么多时间去研究真实世界到底咋样。\n因此不少人会在两分法基础上，不断套娃下去。例如，在将人群区分为文科生、理科生之后，进一步把是否懂逻辑、是否信科学、是否够客观等具像条件也按两分法往前者身上套。\n由此衍生出一个中文互联网上的怪异现象，一些人刻板地认为文科生不懂逻辑、不讲科学、不够客观。\n\n阴谋论\n\n对于文科不讲逻辑这个问题，有一个常见的阴谋论。宣称有一只无形的手在操纵着中国教育界，故意把逻辑学从人文社科中摘出去。认为一旦人文社科掌握了逻辑学，就会威胁到无形大手的存在。\n我不知道信这种阴谋论的人，有没有真正学过马哲。在整个中国的文科教育中，马哲无疑是最为重要的学科之一。在马哲里边，包括后续中特在内的整个思政教育中，因果关系、矛盾论、实践论、系统性原理、客观性原理以及发展与变化原理都是最基础的工具，无一不蕴含逻辑学的方法论。\n\n不讲逻辑是老百姓遵循实践论的自然选择\n\n逻辑学的推论过程，对于普通人来说有很大难处。例如，对于司法案件的推理，需要在掌握案件全面信息的基础上，经过冗长的逻辑推导才能得出裁判结论，但老百姓可顾不上那么多，他们要的是直观的结果。\n我们知道，司法有两个正义，一个程序正义，一个结果正义。结果正义很直观，老百姓都懂。但程序正义就复杂了，一般法律人都搞不懂，更何况普通老百姓。\n也就是因为程序正义复杂，因此操作空间很大，加上一堆屎山代码，时不时就出点幺蛾子，导致老百姓更难信任。\n通常来说，司法程序里边有四个环节容易出问题：一是跌人眼镜的证据认定，二是稀奇古怪的法律规则适用，三是莫名其妙的法律原则，四是自由心证或者说自由裁量权的使…",
+          "link": "https://hyruo.com/editor/why-does-not-chinese-need-logic/",
+          "publishedOn": "2024-11-14T14:40:00.000Z",
+          "wordCount": 112,
+          "title": "为什么中国人不喜欢逻辑学",
+          "imageUrl": "https://hyruo.com/editor/why-does-not-chinese-need-logic/pexels-photo-7944783.jpeg"
+        },
+        {
+          "id": "https://hyruo.com/editor/tour-guangzhou/",
+          "author": null,
+          "description": "有几个月没去广州了，最近刚好有同事说还没去过广州塔，所以陪着他们一起到广州一日游。\n说是一天吧，其实时间也不长，就沿着天河中轴线转了一下，先后去了广东省博物馆、永庆坊和广州塔。之所以最后选择去广州塔，是想着买傍晚时间的门票能够同时看到广州的日景和夜景。\n\n\n\n\n\n\n\n\n\n\n\n\n广东省博物馆算是我所去过的省级博物馆里面排名倒数第一的，实在是乏善可陈，乃至于现代工艺品都能被当成镇馆之宝。整个博物馆里面人文元素实在是过于匮乏，基本都是以近现代工艺品和自然矿产作为主角，很多人讲广东是中国的文化沙漠，恐怕也不无道理。",
+          "link": "https://hyruo.com/editor/tour-guangzhou/",
+          "publishedOn": "2024-11-13T08:40:00.000Z",
+          "wordCount": 93,
+          "title": "广州一日游",
+          "imageUrl": "https://hyruo.com/editor/tour-guangzhou/6kCmZSyiOTX6Zdjr.webp"
+        },
+        {
+          "id": "https://hyruo.com/article/washington-does-not-welcome-trump/",
+          "author": null,
+          "description": "高中是我第一次走出大山，进到县城开始接触世界的起点。记得在 2004 年这个时候，我们学校的高中部教学楼还没建成，我们高 1 班与小学三、四年级几个班的学生同在一栋黄色琉璃瓦顶的四层教学楼里上课。\n\n当时班上很多走读的同学都有上学路上顺手买份报纸的习惯，特别是 5 毛钱一份的潇湘晨报，份量大，内容多，一般都有 4 叠加起来十几张报纸，简直是居家生活学习神器。\n也就是这一年，我第一次从报纸上看到美国大选的事情。\n奇怪的选举\n\n在 2000 年后，小布什的名字可以说家喻户晓，911 事件、伊拉克战争、访华等新闻经常在电视新闻中出现。也让我一度觉得，这美国总统应该也是类似毛主席一样的人物，在美国具有崇高地位。\n但奇怪的是，在 2004 年的总统选举中，怎么会冒出一位叫克里的人来跟小布什竞争总统之位。\n在我眼里，当时媒体报道的克里，仅仅是一名参议员，没当过省长、部长之类的大官，也没有什么丰功伟绩传世，甚至还有各种私生活混乱的花边新闻，就这样一个人，配去竞争总统吗？\n难道美国大选真就是走个过场，随便安排个人陪跑一下？\n在看到选举结果后，对这事情就更加疑惑了，就这样一个素人，居然得票只比小布什少了 400 万张，支持率只低了 3 个百分点。\n最夸张的是，克里在选举人票与小布什为 252:254 的时候，仅差 2 票就打平，但却公开承认已败选，一直让我百思不得其解。\n不解的是，为什么这样一个素人居然跟现任总统差距不到 1%，他明明没什么基础才对。\n不解的是，为什么选举结果能出现这种双方都在 50% 上下的势均力敌的状况，如果是走过场，那万一有些人没按剧本走，简直是在玩火自焚。\n不解的是，为什么票都还没开完，克里就提前认输，莫非是内幕操作。\n\n文明的灯塔\n\n2008 年是我进入大学的第二年，随着北京奥运的闭幕，美帝选举也进入白热化阶段，一边是黑人奥巴马，另一边是在越南坐了 5 年牢的麦凯恩…",
+          "link": "https://hyruo.com/article/washington-does-not-welcome-trump/",
+          "publishedOn": "2024-11-07T08:40:00.000Z",
+          "wordCount": 177,
+          "title": "华盛顿不欢迎特朗普",
+          "imageUrl": "https://hyruo.com/article/washington-does-not-welcome-trump/10.webp"
+        },
+        {
+          "id": "https://hyruo.com/article/mental-health-issues-in-minors/",
+          "author": null,
+          "description": "最近连续遇到三起关于未成年人的心理问题，其中两起已经发生不幸后果，另一起尚处于萌芽状态。\n三起案例\n\n高中生\n一名高三学生（17岁），因在模拟考试中连续考出不理想的成绩，然后心态失衡自杀。\n小学生\n一名小学四年级学生（9岁），因未知原因，在学校跳楼自杀。\n小学生\n一名小学一年级学生（6岁），因在校调皮，学校给家长施加压力转学，但找了几个学校都不愿意接收。\n\n家庭教育问题是主因\n\n这三个案例都是最近这一个月发生的，有的是自己参与处理，有的就发生在自己朋友圈，都对我产生很大触动。特别是其中两个小学生，刚好跟我两个小孩同龄，不得不让我重新审视起自己对家庭教育的理解。\n家庭情况\n\n高中生甲的家庭\n甲的父母都在体制内上班，是家中独子，家庭氛围较为严肃，父母对他的期望很高。甲在中考时是以超过重点分数线27分进入的学校，高一时在年级排名 70 名上下，高二年级排名 20-30 名，在最近两次模拟考试中，排名分别为 210、273。据其父亲说，甲在初中之后一直参加各种补习班和网络课程，中途想学习美术，准备往艺术生方向发展，但父母坚持要其当文化生。经向甲周边同学了解，甲在校期间没有谈恋爱现象。事发时，甲的父母均不在家，监控显示其独自搭乘电梯到小区顶楼跳下。\n小学生乙的家庭\n乙的爸爸在某地产公司上班。乙的妈妈是全职带两个孩子的，而且两个都是剖腹产。乙的妈妈十岁时父母都不在了，是奶奶和家里亲人带大的。其姐姐在她约18岁就带去打工，跟姐姐最亲。乙的父亲是入赘到母亲家的。其父性格纳闷，不爱说话。乙的大伯也是入赘的。事发当天早上，乙的母亲应该是骂过小孩，可能是因为担忧回家后继续被母亲骂，其在下午放学前独自翻过护栏跳下，此时乙的母亲正在校门外等待。\n小学生丙的家庭\n丙的父亲在体制内上班，丙的母亲是全职在家带孩子。在学校面谈中，丙一开始很抗拒不愿意进校园，爬上柱子，爬门禁卡位。其父母也管不住他。在参观了校…",
+          "link": "https://hyruo.com/article/mental-health-issues-in-minors/",
+          "publishedOn": "2024-11-05T03:40:00.000Z",
+          "wordCount": 116,
+          "title": "未成年人心理问题需要高度重视",
+          "imageUrl": "https://hyruo.com/article/mental-health-issues-in-minors/2.webp"
+        },
+        {
+          "id": "https://hyruo.com/article/midlife-shopping-festival/",
+          "author": null,
+          "description": "又到所谓的“双十一”购物节，看着手机上目不暇接的促销短信和电子邮件，以及时不时摁掉的促销电话，感觉内心毫无波澜。\n仔细回想了一下家中目前可能需要的生活必需品，大致就三样东西：剃须刀、洗发水、沐浴露。\n合计至多也就两三百块钱完事。\n生活必需品\n\n剃须刀\n\n因为胡子长得很快，工作日都是一天一剃，从学生时代以来，在剃须刀的选择上踩过很多坑。\n电动设备方面，常见飞科、博朗、松下、飞利浦都买过，体验最好的是松下一款，但使用时间并不长，主要是在国内找不到合适配件，单独在亚马逊购买又太贵。\n\n后来就彻底转投手动剃须刀阵营了。\n之前最常用就吉列 3 刀片的锋速 3，主要是 3 刀片相对 1、2 刀片在速度和效果上有着明显的优势，并且相较 5 刀片，在性价比上也能取得平衡。\n最近这些年国产剃须刀逐渐追赶上来，从去年开始也尝试购买国产 5 刀片的，价格比吉列 3 刀片的还稍微便宜点，使用体验上感觉比吉列 3 刀片的更耐用，几乎是两个月才需要换一个刀头。\n\n故此，这次双十一还是继续购买国产 5 刀片剃须刀头，一盒 6-8 刀头毫无疑问可以应付一整年。\n日化产品\n\n日化没啥好说的，都是逮着实惠就上一整年的，也没有品牌焦虑，有啥用啥。\n厨卫用品\n\n目前厨卫用品都很齐全，昨天燃气公司检测员上门时还戏说我家厨房是整个小区最干净的。\n我猜也差不多，毕竟这套房子已经住了五六年，燃气表还显示的是“1”立方米。\n平常都是在楼下我母亲住的房子里做饭。\n唯一一个小问题是，我老婆天天依赖的榨汁机上某个配件坏了。\n这也是个 2015 年购买的小电器，在买第一套房时购入的。虽然每天 1-2 次高强度使用了近 10 年，但整体使用情况都还算理想。\n\n麻烦在于，这个榨汁机是在美亚购买的，国内没有售卖此型号，想找配件不容易。看了下美亚上的配件价格贵的要死，就一个滤网到手价差不多要 700 人民币，整机才 1500。\n\n于是只能…",
+          "link": "https://hyruo.com/article/midlife-shopping-festival/",
+          "publishedOn": "2024-11-04T07:40:00.000Z",
+          "wordCount": 164,
+          "title": "中年人的双十一能买啥",
+          "imageUrl": "https://hyruo.com/article/midlife-shopping-festival/9.webp"
+        },
+        {
+          "id": "https://hyruo.com/article/the-middle-school-education-that-cannot-afford-to-lose/",
+          "author": null,
+          "description": "昨天，我到本地一所寄宿制初中学校参与一场关于预防校园霸凌的授课活动。\n校园感受\n\n刚走进校园，耳朵里就传来大喇叭声音，一个带着些许怒意的中年男声，在逐个班级点名通知相关同学立马到操场报道。\n接着映入眼帘的是整齐划一的学生队伍和严肃认真的教师面孔。\n学生们在操场上进行着半军事化管理的集合，步伐整齐，口号响亮，然后在老师带领下排队进入会场。\n在进入会场后，由于从门外新进来的学生不知道应该坐到哪一排座位。\n一位女老师几乎以歇斯底里的声音在全程怒吼着让排队入场的学生依次往后座下去。过程中还夹杂着些许普粤混用的粗话。\n我坐在第一排门口座位上，看着一个个鱼贯而入的身影，特别是那一张张青春懵懂中带着一丝桀骜不驯的面庞，感觉十分陌生。\n这一幕让我不禁回想起自己的初中时代，我印象中整个初中年代都是相对温和的，老师们更多是以引导和关爱为主，而不是如今这般严苛的管理模式。\n即便是我记忆中最不愿回想的一个场景：一位数学老师因为在对我家访的过程中产生不愉快的经历而在课堂上对此进行公开批评。\n但其实那场批评，只有他和我两个人知道是怎么回事，因为他并没有公开点出我的名字。\n这次的主题是关于预防校园霸凌，直接的目的是加强青少年成长保护，预防青少年犯罪。\n在此次活动开始前，我曾找相关部门协助确定授课对象，对方不假思索立即给出答案，就去这所学校。\n原因也不言自明，该校是本地在该方面问题较为突出的学校。近年来多次发生一些负面问题。\n问题成因\n\n在活动过程中，我大概感受到这类学校之所以问题较为突出的几个原因。\n普职分离大背景下，普通初中学校被冷落。在各地普遍性不到50%的高中升学率情况下，对于那些处于非城市核心区域、不具有传统教育优势的学校而言，高中升学率很可能在10%甚至5%以下，绝大多数都只能读职高和技工学校。这种情况下，不仅学校教师没有太多动力，学生家长也不自觉放低了对子女的期许。使得大量进入青春期的小孩隐…",
+          "link": "https://hyruo.com/article/the-middle-school-education-that-cannot-afford-to-lose/",
+          "publishedOn": "2024-10-25T07:40:00.000Z",
+          "wordCount": 95,
+          "title": "输不起的初中教育",
+          "imageUrl": "https://hyruo.com/article/the-middle-school-education-that-cannot-afford-to-lose/000.webp"
+        },
+        {
+          "id": "https://hyruo.com/article/save-screenshots-in-webp-format-by-default-on-windows/",
+          "author": null,
+          "description": "前几天写了一篇关于 将Hugo中图片批量转换为Webp 的文章，但是遗留下一个问题没有解决：即 webp 来源问题。\n由于 Windows 的 GDI 工具默认只支持 jpg png 等格式，想在 windows 上将截图直接保存为 webp 目前并没有很好的实现方法，所以在这里简单记录一下个人经验。\n第三方截图工具+第三方转换工具自动保存\n\n我在上边讲的文章中有个评论提到\n我电脑上没有太好的图片处理软件，平常都是直接截图多。在写了这个文章后，我搜了下webp截图软件，居然没找到。都得借助两个软件才能实现，一种是用 sharex 截图软件 + imagemagick 转换软件，在使用 sharex 的时候，通过内置自动化程序引入 imagemagick.exe 自动转换为webp。另一种是用 greenshot 截图软件 + imagemagick （Mogrify） 转换软件，也是同样的原理，截图时引入 mogrify.exe 自动转换。\n上述两种方法，分别可以在以下地址查到。\n方法一：https://limour.xlog.app/WEBP-jie-tu-gong-ju-ShareX–imagemagick?locale=zh\n\n方法二：https://github.com/greenshot/greenshot/issues/347\nFirst, let’s download the necessary tools:\n1- Run-Hidden (it will allow us to carry out the entire process transparently, without showing any window) https://github.com/stax76/run-hidden/releases/tag/v1.2\n2- Mogrify (will…",
+          "link": "https://hyruo.com/article/save-screenshots-in-webp-format-by-default-on-windows/",
+          "publishedOn": "2024-10-24T11:35:00.000Z",
+          "wordCount": 403,
+          "title": "让windows自带截图工具默认保存图片为webp格式",
+          "imageUrl": "https://hyruo.com/article/save-screenshots-in-webp-format-by-default-on-windows/00.webp"
+        },
+        {
+          "id": "https://hyruo.com/article/some-questions-about-chinese-history/",
+          "author": null,
+          "description": "我们常常能在网络上看到对于中国历史上同一事件出现形态迥异甚至完全相反的各种解读，有时候会感觉很困惑，甚至容易让人产生一种无力感，觉得自己的人生观、价值观被彻底颠覆。\n在讲这个问题之前，还是有必要先解释几个常用名词。\n史观（历史观）\n\n学术上以人们对历史的总体看法和理解方法之不同，作出了不同历史观划分。常见包括以下几类：\n唯物史观：唯物史观是马克思主义历史观的核心，认为物质生产方式是社会发展的基础，社会存在决定社会意识。唯物史观强调经济基础对上层建筑（政治、法律、文化等）的决定作用，认为历史是由生产力和生产关系的矛盾运动推动的。\n唯心史观：唯心史观认为历史的发展主要由人的思想、理念和精神力量所决定。唯心史观强调精神、意识和观念在历史发展中的主导作用，认为历史是理念的实现过程。\n社会史观：社会史观关注普通人的生活和社会结构的变化，认为历史是由广大人民群众共同创造的。社会史观强调社会结构、文化、日常生活和社会运动在历史发展中的作用，注重社会底层和边缘群体的历史。\n文明史观：文明史观认为历史是不同文明之间的互动、冲突和融合的过程。文明史观关注文明的兴衰、文化的传播和交流，认为文明的冲突和合作是推动历史发展的重要因素。\n后现代史观：后现代史观质疑传统历史叙述的客观性和权威性，认为历史是多元和相对的。后现代史观强调历史叙述的主观性和多样性，反对单一的历史解释，注重边缘化群体和非主流历史的研究。\n其他还有英雄史观、进步史观、循环史观、生态史观等等，但总体来说，当前在中国严肃的历史研究领域都以上边五种为主。\n但是，在网络上就完全不一样了。特别是对于中国历史领域的网络话题而言，由于 1840 年之后的屈辱历史，导致衍生出三个非常重要的史观派系，并在当前网络上极度活跃。\nA.皇汉史观\n\n皇汉史观是一种强调中华民族（特别是汉民族）优越性和历史连续性的历史观。这种史观通常具有民族主义色彩，强调中国…",
+          "link": "https://hyruo.com/article/some-questions-about-chinese-history/",
+          "publishedOn": "2024-10-23T03:40:00.000Z",
+          "wordCount": 99,
+          "title": "网络争议历史问题究竟是在争啥",
+          "imageUrl": "https://hyruo.com/article/some-questions-about-chinese-history/0.webp"
+        }
+      ]
+    },
+    {
+      "title": "运维小弟",
+      "feedUrl": "https://www.srebro.cn/rss.xml",
+      "siteUrl": "https://srebro.cn/",
+      "articles": [
+        {
+          "id": "/archives/1732940817530",
+          "author": null,
+          "description": "一、Docker Buildx 功能介绍 docker buildx 是 Docker 提供的一个增强版构建工具，支持更强大的构建功能，特别是在构建多平台镜像和高效处理复杂 Docker 镜像方面。 1.1 主要功能 多平台构建支持 使用 docker buildx，可以在单台设备上构建多平台的镜像",
+          "link": "https://srebro.cn/archives/1732940817530",
+          "publishedOn": "2024-11-30T04:27:23.000Z",
+          "wordCount": 2270,
+          "title": "Docker Buildx 与 CNB 多平台构建实践",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1732697072164",
+          "author": null,
+          "description": "一、常见CPU 架构： 二、环境信息 CPU架构 操作系统 配置 HUAWEI Kunpeng 920 5220 aarch64 openEuler 22.03 (LTS-SP3) 64C128g15T 三、安装docker 3.1 二进制包下载 docker-ce 社区下载地址： wget htt",
+          "link": "https://srebro.cn/archives/1732697072164",
+          "publishedOn": "2024-11-27T08:45:17.000Z",
+          "wordCount": 2189,
+          "title": "ARM架构下安装新版docker及docker-compose",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/7039FE62-8D0E-4009-9420-6FA65B694FC3.jpg"
+        },
+        {
+          "id": "/archives/1731041508690",
+          "author": null,
+          "description": "背景： Go 语言的 net/http/pprgf包如未配置正确暴露在公网容易引起敏感信息泄漏问题，导致源码等信息泄漏。 influxdb 2 默认是开启pprof的 使用 localhost:8086/debug/pprof/goroutine?debug=1 可以看到接口暴露的信息 如何关闭pp",
+          "link": "https://srebro.cn/archives/1731041508690",
+          "publishedOn": "2024-11-08T04:52:48.000Z",
+          "wordCount": 2034,
+          "title": "InfluxDB 2 关闭pprof",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/01CDE1E5-2449-4AFB-A2D6-04758BF228F4.png"
+        },
+        {
+          "id": "/archives/1730875760707",
+          "author": null,
+          "description": "之前有一直在使用 excalidraw 画图神器，还没使用的小伙伴可以来看看，https://excalidraw.com/ 也非常好用，自带的AI 也能根据文字画图，分分钟成为画图大师。 那今天呢，我们看一个3D 画图的软件，iCraft Editor，主打的就是从2D到3D，帮助您轻松创建直观的",
+          "link": "https://srebro.cn/archives/1730875760707",
+          "publishedOn": "2024-11-06T07:02:26.000Z",
+          "wordCount": 2028,
+          "title": "一款绘制3D架构图的在线神器,iCraft Editor",
+          "imageUrl": "https://s3api.srebro.cn/srebro/picture/B80C17AD-7CC7-4269-8340-6FCC21BA7D33.png"
+        },
+        {
+          "id": "/archives/1730889631831",
+          "author": null,
+          "description": "111月4日凌晨，神舟十八号载人飞船返回舱在东风着陆场成功着陆，本次载人飞行任务取得圆满成功。 摄影师们在新疆多地记录下的神十八返回舱轨迹，灿若流星!奔赴星河，逐梦追光，和地理君一起致敬中国航天人!",
+          "link": "https://srebro.cn/archives/1730889631831",
+          "publishedOn": "2024-11-05T10:41:00.000Z",
+          "wordCount": 2006,
+          "title": "中国国家地理  | 欢迎神十八乘组回家！",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/FC9675A0-089C-4BCC-AE75-E818802984B9.jpg"
+        },
+        {
+          "id": "/archives/1730359784356",
+          "author": null,
+          "description": "今天，我终于拿证了！ 北京时间： 2024-10-31 PM 距离今年8月16号考完科目一到今天拿证，一共经历了76天",
+          "link": "https://srebro.cn/archives/1730359784356",
+          "publishedOn": "2024-10-31T07:40:13.000Z",
+          "wordCount": 2141,
+          "title": "76天驾驶证拿证指南.C2",
+          "imageUrl": "https://s3api.srebro.cn/srebro/picture/BEAAD5BC-8F94-400C-8439-F3284CB157EC.jpg"
+        },
+        {
+          "id": "/archives/1730106107445",
+          "author": null,
+          "description": "一、简介 人大金仓数据库KingbaseES简称KES是一款国产数据库，具有开发板、标准版、专业版和企业版，目前版本有V8R3、V8R6和V9R1，支持单机部署和集群部署。 安装包和授权文件下载地址： https://www.kingbase.com.cn/xzzx/index.htm 官方帮助文档",
+          "link": "https://srebro.cn/archives/1730106107445",
+          "publishedOn": "2024-10-28T09:01:59.000Z",
+          "wordCount": 2652,
+          "title": "人大金仓Kingbase数据库部署体验",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/2CEC46D9-6963-405E-ADF6-2F879151FFE6.png"
+        },
+        {
+          "id": "/archives/1729598138043",
+          "author": null,
+          "description": "拍摄设备：Iphone13 分辨率：1080P 拍摄地点： 衢州鹿鸣山",
+          "link": "https://srebro.cn/archives/1729598138043",
+          "publishedOn": "2024-10-22T12:02:53.000Z",
+          "wordCount": 2000,
+          "title": "衢州-非遗文化-打铁花.Movies",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/15687EF0-4278-4E3F-B1AE-E6ECD1D7984A.jpg"
+        },
+        {
+          "id": "/archives/1729596455853",
+          "author": null,
+          "description": "拍摄设备： Iphone13 分辨率： 720P 地点： 南京地铁S3-刘村站",
+          "link": "https://srebro.cn/archives/1729596455853",
+          "publishedOn": "2024-10-22T11:37:18.000Z",
+          "wordCount": 2010,
+          "title": "南京地铁S3-刘村——> 马骡圩.Movies",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/FD291BA5-CBC6-4443-B1DD-586DE604DBF4.jpg"
+        },
+        {
+          "id": "/archives/1728654763152",
+          "author": null,
+          "description": "环境说明： 目前已验证： openeuler22.03 LTS SP3，openeuler22.03 LTS SP4 clickhouse 版本： 24.9.2 一、Clickhouse 在线安装 1.1 添加clickhouse repo源  $ yum-config-manager --add-",
+          "link": "https://srebro.cn/archives/1728654763152",
+          "publishedOn": "2024-10-11T13:52:58.000Z",
+          "wordCount": 2153,
+          "title": "OpenEuler 22.03 LTS 部署Clickhouse",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/FB762C36-8D96-450F-B29C-E337B2E9F964.jpg"
+        },
+        {
+          "id": "/archives/1728610605490",
+          "author": null,
+          "description": "一、背景 运行3年的clickhouse需要迁移机房，迁移单库单表的140亿条的数据。 采用clickhouse-backup 的方式进行备份迁移，打包备份，再加上数据拷贝，数据恢复 一共花费30分钟。 数据在一定量级，避免使用SQL 导入导出的方式，效率太低 二、clickhouse-backup",
+          "link": "https://srebro.cn/archives/1728610605490",
+          "publishedOn": "2024-10-11T01:37:06.000Z",
+          "wordCount": 3148,
+          "title": "ClickHouse 数据保护指南：从备份到迁移的全流程攻略",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/F94878BD-5CDE-459A-ABC1-4B6C74AB5438.jpg"
+        },
+        {
+          "id": "/archives/1727170388055",
+          "author": null,
+          "description": "一、nacos 介绍 官网： https://nacos.io/ 一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台 二、如何使用docker-compose 快速部署nacos2.2.0 ⚠️ ： nacos-standalone 部署方式 依赖于 数据库，请先配置好数据库实例，此版本",
+          "link": "https://srebro.cn/archives/1727170388055",
+          "publishedOn": "2024-09-24T09:33:25.000Z",
+          "wordCount": 3275,
+          "title": "docker-compose 快速部署nacos2.2.0-standalone单节点",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1726296097889",
+          "author": null,
+          "description": "一、EFK简介 Elasticsearch：一个开源的分布式搜索和分析引擎，用于存储和查询日志数据。它是 EFK 的核心组件，负责高效地存储和检索日志信息。 Filebeat：一个轻量级的日志采集器，主要用于将日志文件数据发送到 Logstash 或 Elasticsearch。Filebeat 设",
+          "link": "https://srebro.cn/archives/1726296097889",
+          "publishedOn": "2024-09-14T06:41:53.000Z",
+          "wordCount": 2790,
+          "title": "一步到位：通过 Docker Compose 部署 EFK 进行 Docker 日志采集",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1726119868341",
+          "author": null,
+          "description": "一、mysql启动报错信息收集 1、截图 [ERROR] InnoDB: Database page corruption on disk or a failed file read of page [page id: space=0, page number=203]. You may have",
+          "link": "https://srebro.cn/archives/1726119868341",
+          "publishedOn": "2024-09-12T05:44:41.000Z",
+          "wordCount": 2168,
+          "title": "mysql异常断电InnoDB损坏处理",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1725950350251",
+          "author": null,
+          "description": "1、安装 Bash Completion yum install bash-completion\n 2、下载Docker自动补全脚本 curl -L https://raw.githubusercontent.com/docker/cli/master/contrib/completion/bash",
+          "link": "https://srebro.cn/archives/1725950350251",
+          "publishedOn": "2024-09-10T06:39:38.000Z",
+          "wordCount": 2041,
+          "title": "docker命令自动补齐",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1725619180029",
+          "author": null,
+          "description": "一、背景 某某项目，机房到期，需要迁移至其他机房； 此项目已经运行了3年多，fastdfs累计数据大概在250G 左右，现需要把旧的fastdfs数据迁移到新的fastdfs上； 采用scp物理迁移数据的方式，停机迁移。 二、环境信息 机房 操作系统 IP 版本信息 备注 机房A centos7.9",
+          "link": "https://srebro.cn/archives/1725619180029",
+          "publishedOn": "2024-09-06T10:40:04.000Z",
+          "wordCount": 2751,
+          "title": "记一次 FastDFS 存储节点迁移：基于 scp 的实践与经验分享",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1725451085069",
+          "author": null,
+          "description": "背景： 某项目全部内网环境，只有跳板机有访问互联网的权限，现在需要给内网的服务器更新系统，以及在线下载docker镜像 之前，使用过cc-proxy 这样的工具，当然现在这个工具已经停止维护了，使用完之后，还是及时断开的比较好，主要用于一些临时的场景； cc-proxy 官网： http://www",
+          "link": "https://srebro.cn/archives/1725451085069",
+          "publishedOn": "2024-09-04T11:58:24.000Z",
+          "wordCount": 2150,
+          "title": "cc-proxy 常见几种代理场景",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1725256655716",
+          "author": null,
+          "description": "一、环境准备 kafka3.7.1 包下载地址： https://mirrors.nju.edu.cn/apache/kafka/3.7.1/kafka_2.13-3.7.1.tgz openjdk11.0.2 下载地址： https://mirrors.nju.edu.cn/openjdk/11.",
+          "link": "https://srebro.cn/archives/1725256655716",
+          "publishedOn": "2024-09-02T05:58:06.000Z",
+          "wordCount": 2344,
+          "title": "kafka3.7.1 单节点 KRaft部署&测试发送和接收消息",
+          "imageUrl": "null"
+        }
+      ]
+    }
+  ],
+  "cliVersion": "1.15.1"
+}
