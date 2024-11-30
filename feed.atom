@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2024-11-30T17:02:44.078Z</updated>
+    <updated>2024-11-30T17:05:00.218Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
@@ -188,6 +188,51 @@ The post Traefik with ACME in Kubernetes with LetsEncrypt Certificates appeared 
 The post Top 5 Home Lab Projects I have Tackled in 2024 appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[k8s 污点(Taint) 和容忍度(Toleration)使用]]></title>
+        <id>https://chegva.com/?p=6232</id>
+        <link href="https://chegva.com/6232.html"/>
+        <updated>2024-11-27T14:55:08.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes 的污点 (Taint) 和容忍度 (Toleration) 是强大的机制，用于控制 Pod 在节点上的调度。它们允许对节点进行标记，并指定哪些 Pod 可以忽略这些标记并仍然被调度到这些节点上。 这对于实现节点隔离、资源专用以及处理节点维护非常有用，Kubernetes 污点和容忍度还可以与其他调度功能（如节点亲和性）结合使用。
+污点 (Taint):
+污点应用于节点，表示节点的一些特性或限制。 它本质上是一个标记，告诉 Kubernetes 调度程序避免将某些 Pod 调度到该节点。 一个污点包含三个部分：
+
+key: 污点的键，一个字符串，用于标识污点的类型。
+
+value: 污点的值，一个字符串，提供关于污点类型的更多信息。可以为空字符串。
+
+effect: 污点的效果，决定污点如何影响 Pod 的调度。 有三种效果：
+
+
+NoSchedule：阻止 Pod 调度到该节点，除非 Pod 有匹配的容忍度。
+
+PreferNoSchedule：调度程序会尽量避免将 Pod 调度到该节点，但如果必要，仍然可以调度。
+
+NoExecute：驱逐节点上已经存在的、没有匹配容忍度的 Pod。 这通常用于维护。
+
+
+容忍度 (Toleration):
+容忍度应用于 Pod，表示 Pod 可以容忍某些节点上的污点。 它允许 Pod 被调度到具有匹配污点的节点上。 一个容忍度包含四个部分：
+
+key: 容忍度的键，必须与节点污点的键匹配。
+
+operator: 运算符，指定如何匹配污点的值。 可以是：
+
+
+Equal：污点的值必须与容忍度的值完全匹配。
+
+Exists：只要污点的键存在即可，忽略污点的值。
+
+
+value: 容忍度的值，如果 operator 为 Equal，则必须与污点的值匹配。
+
+effect: 容忍度的效果，必须与节点污点的效果匹配。
+
+使用…]]></summary>
+        <author>
+            <name>anzhihe</name>
         </author>
     </entry>
     <entry>
@@ -718,6 +763,31 @@ The post 10 Best Docker Container Stacks I am using in 2024 appeared first on Vi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[kubectl patch pv 手动更新 PV 的容量信息]]></title>
+        <id>https://chegva.com/?p=6229</id>
+        <link href="https://chegva.com/6229.html"/>
+        <updated>2024-11-18T15:25:26.000Z</updated>
+        <summary type="html"><![CDATA[客户有个服务的PV需要扩容容量，由于服务刚初始化还没有正式上线，并且存储卷使用的是云盘，支持动态调整大小，评估后决定使用kubectl patch pv手动更新pv的容量信息，当然前提需要云盘先扩容到指定容量。生产中这种方法非常危险，请评估好风险！
+操作步骤：
+1.找到pod使用的存储卷，登陆云厂商控制台找到对应的存储卷扩容到指定容量
+kubectl get pvc -A | grep pod-name
+kubectl get pv -A | grep pod-name
+kubectl describe pv <pv-name>
+2.使用 kubectl patch pv 手动更新 pv 的容量信息
+虽然可以使用 kubectl patch 命令修改 PV 对象中的容量信息，但并不会真正改变底层存储资源的大小。这只会导致 Kubernetes 集群中的 PV 容量信息与实际底层存储资源的大小不一致，从而导致各种问题，例如数据丢失或应用无法正常工作。如果已经通过其他方式调整了底层存储资源的大小，并且需要更新 PV 的容量信息，才可以使用以下命令：
+kubectl patch pv <pv-name> -p '{"spec":{"capacity":{"storage":"<new-size>"}}}'
+将 <pv-name> 替换为你的 PV 名称，<new-size> 替换为新的容量大小 (例如 500Gi)。
+确认容量变更完成后，进入pod，在挂载目录中使用 dd 命令测试文件是否能正常创建，命令如下，测试完成后记得删除测试文件。
+dd if=/dev/zero of=./file-test bs=4M count=10
+以下是一些间接调整 PV 容量的方法，以及它们的风险和限制，请谨慎选择使用，可能会导致数据丢失或应用无法正常工作：
+
+直接修改底层存储资源的大小:
+…]]></summary>
+        <author>
+            <name>anzhihe</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Most Enticing Online Gaming Websites for DevOps Enthusiasts]]></title>
         <id>https://collabnix.com/?p=28626</id>
         <link href="https://collabnix.com/the-most-enticing-online-gaming-websites-for-devops-enthusiasts/"/>
@@ -776,6 +846,52 @@ Pod 内的 iptables 规则
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的崽崽(28)]]></title>
+        <id>https://chegva.com/?p=6226</id>
+        <link href="https://chegva.com/6226.html"/>
+        <updated>2024-11-17T09:59:23.000Z</updated>
+        <summary type="html"><![CDATA[[xj title="长沙游乐场玩" introduction="20210304,20210311,20210319,20210321-1,20210321-2,20210321-3,20210322-1,20210322-2,20210328-1,20210328-2,20210328-3,20210328-4,20210328-5,20210329-1,20210329-2,20210329-3,20210329-4,20210329-5,20210330-1,20210330-2,20210330-3,20210330-4,20210330-5,20210330-62,20210214-1,20210214-2,20210214-3,20210214-4,20210216,20210219,20210221,20210228-1,20210228-2,20210228-3" url="https://cdn.chegva.com/ueditor/php/upload/video/202103/20210304.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202103/20210311.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202103/20210319.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202103/20210321-1.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202103/20210321-2.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202103…]]></summary>
+        <author>
+            <name>anzhihe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的崽崽(27)]]></title>
+        <id>https://chegva.com/?p=6225</id>
+        <link href="https://chegva.com/6225.html"/>
+        <updated>2024-11-17T09:53:05.000Z</updated>
+        <summary type="html"><![CDATA[[xj title="第一次爬岳麓山" introduction="20210204,20210210,20210211-1,20210211-2,20210211-3,20210211-4,20210212-1,20210212-2,20210212-3,20210212-4,20210212-5,20210212-6,20210212-7,20210212-8,20210212-9,20210212-10,20210212-11,20210212-12,20210212-13,20210212-14,20210213-1,20210213-2,20210214-1,20210214-2,20210214-3,20210214-4,20210216,20210219,20210221,20210228-1,20210228-2,20210228-3" url="https://cdn.chegva.com/ueditor/php/upload/video/202102/20210204.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202102/20210210.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202102/20210211-1.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202102/20210211-2.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202102/20210211-3.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202102/20210211-4.m…]]></summary>
+        <author>
+            <name>anzhihe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卫健委成人高尿酸血症、痛风与服胖食养指南（2024年版）]]></title>
+        <id>https://chegva.com/?p=6221</id>
+        <link href="https://chegva.com/6221.html"/>
+        <updated>2024-11-17T04:18:03.000Z</updated>
+        <summary type="html"><![CDATA[国家卫生健康委办公厅发布了《成人高尿酸血症与痛风食养指南（2024年版）》等四项食养指南，旨在贯彻《健康中国行动（2019-2030年）》和《国民营养计划（2017-2030年）》，推动传统食养服务，预防和控制慢性病。这些指南结合现代营养学和传统中西医食养优势，提供季节性、区域性和人群特定的膳食建议和食谱示例，增强膳食指导的实用性。指南鼓励卫生工作者及营养指导人员在工作中应用，并倡导居民根据指南内容调整膳食，培养健康饮食习惯。
+
+
+
+
+
+
+下载地址：打包下载
+发布地址：http://www.nhc.gov.cn/sps/s7887k/202402/4a82f053aa78459bb88e35f812d184c3.shtml 
+附件： 1.成人高尿酸血症与痛风食养指南（2024年版）
+       2.成人高尿酸血症与痛风食养指南（2024年版）问答
+       3.成人肥胖食养指南（2024年版）
+       4.成人肥胖食养指南（2024年版）问答
+       5.儿童青少年肥胖食养指南（2024年版）
+       6.儿童青少年肥胖食养指南（2024年版）问答
+       7.成人慢性肾脏病食养指南（2024年版）
+       8.成人慢性肾脏病食养指南（2024年版）问答]]></summary>
+        <author>
+            <name>anzhihe</name>
         </author>
     </entry>
     <entry>
