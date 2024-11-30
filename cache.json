@@ -1132,6 +1132,119 @@
           "imageUrl": "https://www.derekseaman.com/wp-content/uploads/smarthome-1.png"
         }
       ]
+    },
+    {
+      "title": "Ather Beg's Useful Thoughts",
+      "feedUrl": "https://atherbeg.com/feed/",
+      "siteUrl": "https://atherbeg.com",
+      "articles": []
+    },
+    {
+      "title": "Virtualization Howto",
+      "feedUrl": "https://www.virtualizationhowto.com/feed/",
+      "siteUrl": "https://www.virtualizationhowto.com/",
+      "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=298140",
+          "author": "Brandon Lee",
+          "description": "One of the very cool things you can do with your Kubernetes cluster is have automated SSL certificates on your services. This makes managing SSL certificates extremely easy compared to manual methods using other means. However, setup in Kubernetes can be a little intimidating. Let’s take a look at how you can deploy Traefik with …\nThe post Traefik with ACME in Kubernetes with LetsEncrypt Certificates appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2024/11/traefik-with-acme-in-kubernetes-with-letsencrypt-certificates/",
+          "publishedOn": "2024-11-28T16:36:53.000Z",
+          "wordCount": 9552,
+          "title": "Traefik with ACME in Kubernetes with LetsEncrypt Certificates",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/11/traefik-with-acme.png"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=298121",
+          "author": "Brandon Lee",
+          "description": "As I look back on 2024, when it comes to my learning and labbing adventures, it has been quite a fruitful year along those lines. I really have enjoyed the growing pains and decision making for the home lab that has in part come by necessity, and others that have come as a result of …\nThe post Top 5 Home Lab Projects I have Tackled in 2024 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2024/11/top-5-home-lab-projects-i-have-tackled-in-2024/",
+          "publishedOn": "2024-11-27T15:37:14.000Z",
+          "wordCount": 10705,
+          "title": "Top 5 Home Lab Projects I have Tackled in 2024",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/11/top-5-home-lab-projects.jpg"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=298109",
+          "author": "Brandon Lee",
+          "description": "There are many different components with a working Kubernetes installation. However, one of the most important when it comes to getting traffic into your Kubernetes and serving out application is the Kubernetes ingress. However, if you have implemented the Kubernetes ingress in your cluster using something like Traefik, let’s look at hot to check if …\nThe post How to Check if Kubernetes Ingress Worked with Traefik appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2024/11/how-to-check-if-kubernetes-ingress-worked-with-traefik/",
+          "publishedOn": "2024-11-26T16:26:57.000Z",
+          "wordCount": 9864,
+          "title": "How to Check if Kubernetes Ingress Worked with Traefik",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/11/Kubernetes-Ingress.jpg"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=298075",
+          "author": "Brandon Lee",
+          "description": "Proxmox has gained tremendous popularity in 2024. So many home lab enthusiasts, SMBs, and enterprise environments are looking at their options with the fallout from VMware by Broadcom. Proxmox has been introducing many new features with each release and are aggressively targeting ones looking at virtualization alternatives or looking to migrate from their existing solution. …\nThe post Proxmox VE 8.3 New Features with OVA Import appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2024/11/proxmox-ve-8-3-new-features-with-ova-import/",
+          "publishedOn": "2024-11-25T15:23:49.000Z",
+          "wordCount": 10256,
+          "title": "Proxmox VE 8.3 New Features with OVA Import",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/11/8.3-New-Features.jpg"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=298049",
+          "author": "Brandon Lee",
+          "description": "As you guys know I have been exploring what I think are really great setups from a standpoint of a home lab and also for learning purposes in production. Recently, I explored how viable it was to run a Docker Swarm cluster and found this to be an extremely good solution for home lab and …\nThe post Kubernetes Home Lab with Microk8s, Microceph, and Portainer appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2024/11/kubernetes-home-lab-with-microk8s-microceph-and-portainer/",
+          "publishedOn": "2024-11-22T20:21:51.000Z",
+          "wordCount": 9787,
+          "title": "Kubernetes Home Lab with Microk8s, Microceph, and Portainer",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/11/Kubernetes-Home-Lab.jpg"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=298032",
+          "author": "Brandon Lee",
+          "description": "Lots of news coming out of Microsoft Ignite 2024. Microsoft has announced a new offering, Azure Local which is a new solution that is taking the place of Azure Stack HCI. It will continue the functionality of allowing organizations to deploy Azure cloud services at physical locations due to various reasons, whether they have requirements …\nThe post Microsoft Azure Local: New Azure Stack HCI Replacement! appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2024/11/microsoft-azure-local-new-azure-stack-hci-replacement/",
+          "publishedOn": "2024-11-21T15:52:19.000Z",
+          "wordCount": 10170,
+          "title": "Microsoft Azure Local: New Azure Stack HCI Replacement!",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/11/Azure-Local.jpg"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=298012",
+          "author": "Brandon Lee",
+          "description": "As IT admins we all know the challenge that is the local administrator accounts on a Windows PC or endpoint. These are really a double-edged sword as they are needed in some cases. However, they are definitely teh target of attackers when compromising a Windows PC. Microsoft has announced a new Administrator Protection feature that …\nThe post New Local Administrator Protection in Windows 11: Just In Time Security to Admin Accounts! appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2024/11/new-local-administrator-protection-in-windows-11-just-in-time-security-to-admin-accounts/",
+          "publishedOn": "2024-11-20T14:41:52.000Z",
+          "wordCount": 10056,
+          "title": "New Local Administrator Protection in Windows 11: Just In Time Security to Admin Accounts!",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/11/New-Local-Administrator-Protection.jpg"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=297988",
+          "author": "Brandon Lee",
+          "description": "If you are running Docker containers that serve out critical services in your home lab environment, and probably most of you are, then what is the best way to backup Docker containers volumes and home server? Well, that is a good question and one that we can answer by highlighting a few solutions that are …\nThe post Best Way to Backup Docker Containers Volumes and Home Server appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2024/11/best-way-to-backup-docker-containers-volumes-and-home-server/",
+          "publishedOn": "2024-11-19T19:10:18.000Z",
+          "wordCount": 10115,
+          "title": "Best Way to Backup Docker Containers Volumes and Home Server",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/11/Backup-docker-containers-volume-on-home-server.jpg"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=297969",
+          "author": "Brandon Lee",
+          "description": "I have been using tons of Docker stacks this year and moving into 2025, that doesn’t look to be slowing down for me. I have several standalone Docker container hosts, as well as a production swarm cluster in the home lab that I have been running for some months now that is extremely awesome, with …\nThe post 10 Best Docker Container Stacks I am using in 2024 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2024/11/10-best-docker-container-stacks-i-am-using-in-2024/",
+          "publishedOn": "2024-11-18T15:30:41.000Z",
+          "wordCount": 11331,
+          "title": "10 Best Docker Container Stacks I am using in 2024",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/11/Best-Docker-Container-Stacks.jpg"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=297945",
+          "author": "Brandon Lee",
+          "description": "Since updating my VMware vSphere Packer build template for Windows Server 2025 (you can read that here: Windows Server 2025 Packer Build for VMware vSphere), I decided to tackle Proxmox, which wasn’t as straightforward. I wanted to share with you what I have come up with for automated installations of Windows Server 2025 in Proxmox …\nThe post Windows Server 2025 Proxmox Packer Build Fully Automated appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2024/11/windows-server-2025-proxmox-packer-build-fully-automated/",
+          "publishedOn": "2024-11-15T21:51:53.000Z",
+          "wordCount": 12239,
+          "title": "Windows Server 2025 Proxmox Packer Build Fully Automated",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/11/windows-server-2025-proxmox-packer-build.jpg"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
