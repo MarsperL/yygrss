@@ -204,16 +204,6 @@
           "wordCount": 1011,
           "title": "Finding questions and answers about why I like books",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2024/09/dev-tools-performance-monitor-panel/",
-          "author": null,
-          "description": "Weeks ago I was looking in to a performance issue for our animated spinner component and stumbled across a tool in DevTools I hadn’t used before: The Performance Monitor Panel. In you open Dev Tools > More Tools > Performance Monitor you’ll see some helpful high-level charts and graphs of the realtime performance data of your UI.\n\nThe Performance Monitor collects performance data in realtime and puts it on a graph. It’s handy for detecting performance problems at a high-level. If your CPU, memory, DOM node count, or event listeners only go up while clicking around, you probably have a leak in your code. The part I was most interested in were style recalculations per second and layouts per second. Our spinner component was triggering style recalculations and layout calls at a rate of 120 pe…",
-          "link": "https://daverupert.com/2024/09/dev-tools-performance-monitor-panel/",
-          "publishedOn": "2024-09-03T14:48:00.000Z",
-          "wordCount": 893,
-          "title": "The Dev Tools Performance Monitor Panel",
-          "imageUrl": null
         }
       ]
     },
@@ -1309,6 +1299,36 @@
       "siteUrl": "https://collabnix.com",
       "articles": [
         {
+          "id": "https://collabnix.com/?p=28989",
+          "author": "Tanvir Kour",
+          "description": "With the rapid pace of the automotive world, identification has become more necessary today than it has been at any other time. Whether a car buyer, a seller, or an auctioneer, accurate vehicle data has become vital in the decision-making process. The Vehicle Identification Number has become useful for a while now in identifying vehicles; […]",
+          "link": "https://collabnix.com/next-gen-vin-decoders-unlocking-cutting-edge-technologies-for-smarter-vehicle-identification/",
+          "publishedOn": "2024-12-02T09:07:40.000Z",
+          "wordCount": 3059,
+          "title": "Next-Gen VIN Decoders: Unlocking Cutting-Edge Technologies for Smarter Vehicle Identification",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/Screenshot-2024-12-02-at-2.36.54%E2%80%AFPM.png"
+        },
+        {
+          "id": "https://collabnix.com/?p=28974",
+          "author": "Ajeet Raina",
+          "description": "Running out of disk space on your Mac can hinder productivity and slow down your system. In this guide, we’ll explore powerful macOS utilities and command-line tools to locate and clean up the largest files and directories. Follow along to free up space while maintaining optimal system performance. Step 1: Analyze Disk Usage with Finder […]",
+          "link": "https://collabnix.com/how-do-i-do-a-clean-up-on-my-mac/",
+          "publishedOn": "2024-12-02T06:20:58.000Z",
+          "wordCount": 2551,
+          "title": "How do I do a clean up on my Mac?",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/Screenshot-2024-12-02-at-11.58.08%E2%80%AFAM.png"
+        },
+        {
+          "id": "https://collabnix.com/?p=28954",
+          "author": "Tanvir Kour",
+          "description": "A professional logo is essential for building your brand, but not everyone has the budget for a custom design. Thankfully, there are free platforms that make it possible to create high-quality logos without spending a dime. These tools are accessible, easy to use, and perfect for anyone starting their branding journey. In this article, we’ll […]",
+          "link": "https://collabnix.com/top-5-platforms-to-create-a-logo-for-free-features-and-benefits/",
+          "publishedOn": "2024-12-02T05:28:26.000Z",
+          "wordCount": 2946,
+          "title": "Top 5 Platforms to Create a Logo for Free: Features and Benefits",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/logo_featured.png"
+        },
+        {
           "id": "https://collabnix.com/?p=28934",
           "author": "Ajeet Raina",
           "description": "We bring you a list of the latest community-curated tutorials, sample apps, events, and videos. Interested in submitting an article/video? Drop your comments and we would be happy to include it in the upcoming monthly updates. 📈 Community: Quick Stats Our thriving Docker communities are growing! The Docker Bangalore Meetup Group boasts a strong presence […]",
@@ -2336,6 +2356,16 @@
       "siteUrl": "https://qq.mba/",
       "articles": [
         {
+          "id": "https://qq.mba/197.html",
+          "author": "满心",
+          "description": "上文说到了，我三年前的苹果12已经无法继续服役了，所以考虑换机，并且不打算再用苹果机了，所以就考虑了：小米、魅族、华为和vivo这几个品牌。首先vivo的iqoo价格还是虚高，毕竟有王者荣耀游戏...",
+          "link": "https://qq.mba/197.html",
+          "publishedOn": "2024-12-02T02:39:00.000Z",
+          "wordCount": 508,
+          "title": "我选择了红米K80",
+          "imageUrl": null
+        },
+        {
           "id": "https://qq.mba/196.html",
           "author": "满心",
           "description": "目前用的苹果12，对比现在新出的16，感觉这个有点老古董的意思了，去年的时候不小心把手机给更新了系统，从那之后手机就有各种问题，比如：偶尔卡顿、信号不稳定、电池耗电快，特别是打微信视频的时候啥都...",
@@ -2713,6 +2743,63 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bluehe.cn/usr/uploads/2024/09/3099653333.jpg"
+        }
+      ]
+    },
+    {
+      "title": "东评西就",
+      "feedUrl": "https://dongjunke.cn/atom.xml",
+      "siteUrl": "https://dongjunke.cn/atom.xml",
+      "articles": [
+        {
+          "id": "https://dongjunke.cn/posts/2024/11/13/23745.html",
+          "author": null,
+          "description": "<h3 id=\"1-开篇\"><a href=\"#1-开篇\" class=\"headerlink\" title=\"1. 开篇\"></a>1. 开篇</h3><p>在互联网的浩瀚星河中，1998年无疑是一个值得铭记的年份。</p>\n<p>就在这一年，如今科技巨头谷歌和当年的科技巨头雅",
+          "link": "https://dongjunke.cn/posts/2024/11/13/23745.html",
+          "publishedOn": "2024-11-12T16:08:40.000Z",
+          "wordCount": 414,
+          "title": "谷歌的珍珠港时刻",
+          "imageUrl": "https://pic.587804.xyz/pic/20241113000746.webp"
+        },
+        {
+          "id": "https://dongjunke.cn/posts/2024/10/26/36247.html",
+          "author": null,
+          "description": "<p>总算搞明白了什么是旁路由、软路由。我觉得，发明旁路由的一定是个怕老婆的人，折腾路由器，搞坏了家里的网络肯定挨一顿卷。Nas部署OpenWRT，绕过主路由，买软路由的钱都省了，终于解决了近几个月群晖docker注册表查询失败的问题，不用自建docker镜像，重要的是，还实现了",
+          "link": "https://dongjunke.cn/posts/2024/10/26/36247.html",
+          "publishedOn": "2024-10-26T10:04:26.000Z",
+          "wordCount": 386,
+          "title": "群晖docker镜像终极解决方案：部署OpenWRT",
+          "imageUrl": "https://pic.587804.xyz/pic/20241026181255.webp"
+        },
+        {
+          "id": "https://dongjunke.cn/posts/2024/10/22/20584.html",
+          "author": null,
+          "description": "<p>记忆中上一次手术还是在幼儿园时，左腿骨折，医生拿着手钻在我的骨头上穿了两次，第一次没穿对，隔几天又重新穿了一次，疼得我哇哇大哭。</p>\n<p>最近做了一个皮脂腺囊肿（俗称粉瘤）割除手术。起初右前臂外侧有个粉刺，手贱时不时抠一下，加上4月底在医院陪床，可能感染，粉刺越来越大",
+          "link": "https://dongjunke.cn/posts/2024/10/22/20584.html",
+          "publishedOn": "2024-10-22T04:00:01.000Z",
+          "wordCount": 401,
+          "title": "粉瘤割除记",
+          "imageUrl": "https://pic.587804.xyz/pic/20241022122254.webp"
+        },
+        {
+          "id": "https://dongjunke.cn/posts/2024/10/07/63639.html",
+          "author": null,
+          "description": "<p>距离上次在<a href=\"https://www.zhihu.com/question/581691050/answer/3085193991\">知乎</a>回答这个问题已经过去一年多了，我决定重新修正一下这个答案。</p>\n<p>先说我的成本，243.12元&#x2F;",
+          "link": "https://dongjunke.cn/posts/2024/10/07/63639.html",
+          "publishedOn": "2024-10-07T14:44:59.000Z",
+          "wordCount": 388,
+          "title": "现在做个人博客的最低成本是多少",
+          "imageUrl": "https://pic.587804.xyz/pic/20241007215825.webp"
+        },
+        {
+          "id": "https://dongjunke.cn/posts/2024/09/14/48283.html",
+          "author": null,
+          "description": "<p>由于工作需要，急需一个快捷键自定义小键盘，淘宝寻摸了一番，最终确定了飞傲KB1K。<br><img src=\"https://pic.587804.xyz/pic/20240913235910.webp\" alt=\"飞傲KB1K\"><br>收到后只有一个小键盘，数据线、说明",
+          "link": "https://dongjunke.cn/posts/2024/09/14/48283.html",
+          "publishedOn": "2024-09-13T16:00:37.000Z",
+          "wordCount": 398,
+          "title": "飞傲KB1K小键盘 Mac系统使用教程",
+          "imageUrl": "https://pic.587804.xyz/pic/20240914002343.jpg"
         }
       ]
     }
