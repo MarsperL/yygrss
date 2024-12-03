@@ -1135,6 +1135,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=298152",
+          "author": "Brandon Lee",
+          "description": "I can’t believe it but we are almost in 2025 already and what a year 2024 has been in the technology space with AI continuing to make waves. But who would have thought before 2024 that someone could have said VMware would be dethroned from the most desirable virtualization platform. This has happened and not …\nThe post Proxmox vs ESXi in 2025: VMware Dying in the Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2024/12/proxmox-vs-esxi-in-2025-vmware-dying-in-the-home-lab/",
+          "publishedOn": "2024-12-02T17:34:43.000Z",
+          "wordCount": 10978,
+          "title": "Proxmox vs ESXi in 2025: VMware Dying in the Home Lab",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/Proxmox-vs-ESXi-in-2025.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=298140",
           "author": "Brandon Lee",
           "description": "One of the very cool things you can do with your Kubernetes cluster is have automated SSL certificates on your services. This makes managing SSL certificates extremely easy compared to manual methods using other means. However, setup in Kubernetes can be a little intimidating. Let’s take a look at how you can deploy Traefik with …\nThe post Traefik with ACME in Kubernetes with LetsEncrypt Certificates appeared first on Virtualization Howto.",
@@ -1298,6 +1308,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=28994",
+          "author": "Ajeet Raina",
+          "description": "In today’s world of machine learning and AI, managing models and running them efficiently is crucial for developers. Ollama is a powerful platform for running AI models, while Open WebUI provides a user-friendly interface to interact with these models. Running both Ollama and Open WebUI in a Kubernetes cluster provides scalability, flexibility, and easy management. […]",
+          "link": "https://collabnix.com/running-ollama-and-open-webui-in-a-kubernetes-cluster/",
+          "publishedOn": "2024-12-02T17:57:07.000Z",
+          "wordCount": 2322,
+          "title": "Running Ollama and Open WebUI in a Kubernetes Cluster",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/Screenshot-2024-12-02-at-11.25.59%E2%80%AFPM.png"
+        },
         {
           "id": "https://collabnix.com/?p=28989",
           "author": "Tanvir Kour",
