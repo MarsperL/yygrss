@@ -213,6 +213,16 @@
       "siteUrl": "https://hyruo.com/",
       "articles": [
         {
+          "id": "https://hyruo.com/article/what-server-is-good-for-personal-blogs/",
+          "author": null,
+          "description": "刚过去黑五，本来打算买几个小 VPS，也的确买了几款。但经过几天测试最终只留下来一款，主要原因是自己运气爆棚注册到一个新的甲骨文账号，白嫖到一款非常合适的云服务器，于是省下钱来，就把黑五买到的几款 VPS 大部分都退货了。\n本次黑五战果\n\n这次黑五我前后买了 4 款 VPS，其中退货 3 款，留下 1 款。加上三款甲骨文免费 VPS ，目前手头共 4 个 VPS。（另有 Serv00 这种没法算）\n\nClaw HK 2C8G 8$/month\n\n这是一款 Claw.cloud 的香港 VPS。Claw 今年在鸡友圈实在太火了，主要是因为背靠阿里云，公司地点跟阿里巴巴海外网络促销公司是同一个地点，卖的 VPS 也都是阿里云 ECS 同款。而阿里云 ECS 日常价格高的离谱，凸显 Claw 的高性价比。\n\nClaw 系列 VPS 最大的优点就是旗下香港的服务器都是使用的阿里云自家线路直连中国大陆，移动联通电信三家网络都表现优秀。唯一缺点是我购买的这款 2C8G 性价比不足，虽然只要 8 刀，但抵不住 Claw 还有三款价格更低的，其中性价比最高的是 4刀那款。\nClaw HK 2C2G $6/month （黑五一般优惠）\nClaw HK 2C2G $4/month (促销特别优惠+黑五限量)\nClaw HK 1C1G $2.8/month (促销特别优惠)\n由于我错过了 4刀 抢购时间，在 MJJ 论坛需要溢价 70 左右才能收到，为了不助长炒鸡风气就没入手了。\n从性价比来看，个人博客使用 Claw HK 2C2G 应该是最合适的选择，国内延迟能普遍做到 50ms 以内，而且线路优秀，加载速度跟内地 VPS 几乎感受不到区别。\nClaw SG 1C1G 1.75$/month\n\n由于没抢到 Claw 4刀款，所以又入手了一款 Claw 新加坡的 1C1G 小鸡，但我在购买前高估…",
+          "link": "https://hyruo.com/article/what-server-is-good-for-personal-blogs/",
+          "publishedOn": "2024-12-03T11:20:00.000Z",
+          "wordCount": 9573,
+          "title": "个人博客用什么服务器好",
+          "imageUrl": "https://hyruo.com/article/what-server-is-good-for-personal-blogs/0.webp"
+        },
+        {
           "id": "https://hyruo.com/article/fastest-personal-navigation-website/",
           "author": null,
           "description": "最近找到一款非常适合自己的导航网站模板，Hugo Theme Start，因为是采用 Hugo 构建的静态网站，理所当然也就是全世界构建速度最快的网站之一，部署地址: https://leftn.com\n前言\n后来也经常想着重新做个个人网站导航，但没有找到合适的模板，这一拖就是很久。另外，由于在使用 OneNav 过程中，对于免费主题不提供搜索框功能一直耿耿于怀，便没有重新使用 OneNav 的想法。\n这次起因是我在操作一个域名 DNS 编辑时，又误删除了几个 NS 记录。主要原因还是个人部署的服务太多、用的域名太杂，经常记不起来到底哪个域名是对应哪个服务。重新整理了一遍后，彻底激起了要再搞个导航网站的想法。\nHugo Theme Start\n\n如果熟悉 Hugo 的朋友会发现，上边这个导航主题名称跟 Hugo 上最热门的 Hugo theme stack 非常像（也就是本博客使用的主题）。但其实这个名字是我故意在蹭后者瞎编的，本文介绍的这款主题官方名称是 HB Start Theme , 只是在 Github 仓库中叫 Theme start 。\n\n主题安装\n\n主题安装可以直接参考 官方教程，总体还是比较简单的。\nTIPS\nHugo 官网 也都有，这里不再复述。\n主题配置\n\n这个主题也没有太多东西配置，无非是搜索引擎选择和排序，然后就是导航所需要的网址链接配置。\n与一般 Hugo 网站存在区别的是，这款主题并不能直接修改模板，而是需要创建 Hugopress 模块，按 Hugopress 教程 配置。\n另外，导航网址所需的 icons 在 Hugomods 中也都能方便找到，不过这也不是必须的，如果所添加网址 favicon 获取都很正常，也可以不用自定义 icons。\n简单修改CSS\n\n使用 Hugopress 还是相对麻烦，由于我只需要修改一处 CSS ，按照 Hug…",
@@ -584,6 +594,16 @@
       "siteUrl": "https://blog.ops-coffee.cn",
       "articles": [
         {
+          "id": "https://blog.ops-coffee.cn/s/devops-workflow-task-flow-bpmn-js",
+          "author": null,
+          "description": "我们实现了任务流程从编排到执行的清晰可视化，提升了任务执行过程的透明度，使得流程执行过程更加直观，操作更加便捷易用",
+          "link": "https://blog.ops-coffee.cn/s/devops-workflow-task-flow-bpmn-js",
+          "publishedOn": "2024-12-03T15:33:28.000Z",
+          "wordCount": 53,
+          "title": "任务系统之任务流程可视化",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.ops-coffee.cn/r/jiangsu-nantong-rugao-travel-notes-comment",
           "author": null,
           "description": "经常被这些小事感动，让美好继续发生",
@@ -800,6 +820,16 @@
       "feedUrl": "https://jimmysong.io/blog/index.xml",
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
+        {
+          "id": "https://jimmysong.io/blog/istio-sidecar-vs-ambient-network-cost-performance/",
+          "author": "Jimmy Song",
+          "description": "在服务网格架构不断演进的过程中，了解不同部署模式下的网络成本对于优化性能和资源效率至关重要。本文将对比 Istio 的 sidecar 模式和 ambient 模式的网络成本，分享我在这篇文章中的一些观点。\nSidecar 模式\nIstio 的 sidecar 模式通过在每个 pod 旁部署 sidecar 代理来拦截服务间的流量。这种架构引入了额外的网络跳转，可能会增加延迟和计算资源使用量。然而，该模式内置了重要的性能优化特性：本地性感知。\n图 1 展示了 Application 1 在 Istio sidecar 模式下访问位于不同可用区（AZ）的 Application 2 的流量路径。\n图 1：Application 1 在 Istio sidecar 模式下访问位于不同可用区（AZ）的 Application 2 的流量路径。\n  \n\nSidecar 模式的本地化感知\n在 Sidecar 模式下，可以使用以下命令查看端点表中的本地性信息，从而更好地理解本地性管理：\nistioctl proxy-config endpoint <pod-name[.namespace]> -o yaml\n\n\n以下是一个示例输出片段，显示了集群 outbound|9080||reviews.default.svc.cluster.local 的端点信息：\n- addedViaApi: true\n  circuitBreakers:\n    thresholds:\n    - maxConnections: 4294967295\n      maxPendingRequests: 4294967295\n      maxRequests: 4294967295\n      maxRetries: 4294967295\n    - maxConnections: 1024\n      m…",
+          "link": "https://jimmysong.io/blog/istio-sidecar-vs-ambient-network-cost-performance/",
+          "publishedOn": "2024-12-02T04:17:21.000Z",
+          "wordCount": 568,
+          "title": "Istio sidecar 和 ambient 模式的网络成本对比",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
+        },
         {
           "id": "https://jimmysong.io/blog/mindmap-review/",
           "author": "Jimmy Song",
@@ -1135,6 +1165,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=298166",
+          "author": "Brandon Lee",
+          "description": "Lately, I have been learning a lot around GitOps in the home lab and have seen tremendous benefits from taking this approach with my environment. However, have you wondered what the difference is between GitOps vs DevOps? The differences can be subtle but they are important, especially in production environments and dealing with compliance and …\nThe post Gitops vs DevOps: What are the differences? appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2024/12/gitops-vs-devops-what-are-the-differences/",
+          "publishedOn": "2024-12-03T17:06:10.000Z",
+          "wordCount": 9794,
+          "title": "Gitops vs DevOps: What are the differences?",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/gitops-vs-devops.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=298152",
           "author": "Brandon Lee",
           "description": "I can’t believe it but we are almost in 2025 already and what a year 2024 has been in the technology space with AI continuing to make waves. But who would have thought before 2024 that someone could have said VMware would be dethroned from the most desirable virtualization platform. This has happened and not …\nThe post Proxmox vs ESXi in 2025: VMware Dying in the Home Lab appeared first on Virtualization Howto.",
@@ -1308,6 +1348,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=29006",
+          "author": "Tanvir Kour",
+          "description": "As modern software engineering embraces automation, scalability, and agility, Kubernetes often emerges at the crossroads of CI/CD pipelines. But is Kubernetes a part of CI/CD, or does it extend beyond these boundaries? This blog explores the role Kubernetes plays in continuous integration and continuous delivery pipelines. It examines whether Kubernetes is merely a deployment target […]",
+          "link": "https://collabnix.com/is-kubernetes-a-part-of-ci-cd/",
+          "publishedOn": "2024-12-03T06:12:55.000Z",
+          "wordCount": 2672,
+          "title": "Is Kubernetes a Part of CI/CD?",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/Screenshot-2024-12-03-at-11.42.33%E2%80%AFAM.png"
+        },
+        {
+          "id": "https://collabnix.com/?p=29001",
+          "author": "Tanvir Kour",
+          "description": "The junction of artificial intelligence (AI) and DevOps is changing the way deployment and software development occur. AI becomes more important as companies use data-driven approaches in helping DevOps processes to be quicker, smarter, and more efficient. The opportunities appear limitless from identifying weaknesses before they become problems to automating tedious chores. Let’s explore some […]",
+          "link": "https://collabnix.com/10-creative-uses-of-ai-in-devops-today/",
+          "publishedOn": "2024-12-03T05:49:39.000Z",
+          "wordCount": 2716,
+          "title": "10 Creative Uses of AI in DevOps Today",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2022/10/agiledevops.jpeg"
+        },
         {
           "id": "https://collabnix.com/?p=28994",
           "author": "Ajeet Raina",
