@@ -2,10 +2,136 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2024-12-05T01:56:41.645Z</updated>
+    <updated>2024-12-06T01:55:26.713Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Develop Event-Driven Applications with Kafka and Docker]]></title>
+        <id>https://collabnix.com/?p=29056</id>
+        <link href="https://collabnix.com/how-to-develop-event-driven-applications-with-kafka-and-docker/"/>
+        <updated>2024-12-05T23:02:27.000Z</updated>
+        <summary type="html"><![CDATA[Event-driven architectures have become increasingly popular with the rise of microservices. These architectures are built around the concept of reacting to events in real-time, making them highly scalable and ideal for modern distributed systems. Apache Kafka, a distributed event streaming platform, is often at the heart of these architectures, serving as an excellent tool for […]]]></summary>
+        <author>
+            <name>Abraham Dahunsi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Docker for Github Copilot]]></title>
+        <id>https://collabnix.com/?p=29046</id>
+        <link href="https://collabnix.com/introducing-docker-for-github-copilot/"/>
+        <updated>2024-12-05T22:50:29.000Z</updated>
+        <summary type="html"><![CDATA[Docker for GitHub Copilot is an innovative extension designed to enhance the development experience by integrating Docker's powerful containerization capabilities with the intelligent assistance of GitHub Copilot. This tool aims to streamline the process of containerizing applications, generating essential Docker assets, and analyzing project vulnerabilities, making it easier for developers to manage their projects efficiently. […]]]></summary>
+        <author>
+            <name>Abraham Dahunsi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FluxCD Install and GitOps Simple Example]]></title>
+        <id>https://www.virtualizationhowto.com/?p=298174</id>
+        <link href="https://www.virtualizationhowto.com/2024/12/fluxcd-install-and-gitops-simple-example/"/>
+        <updated>2024-12-05T14:12:15.000Z</updated>
+        <summary type="html"><![CDATA[If you are wanting to learn more about GitOps, there is a great way to easily get going and that is FluxCD. Let’s take a look at the FluxCD install and a GitOps simple example that will help you understand the ins and outs of learning how this tool works and what you can do …
+The post FluxCD Install and GitOps Simple Example appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Strategies for Building Digital Dexterity Across Your Organization]]></title>
+        <id>https://collabnix.com/?p=29041</id>
+        <link href="https://collabnix.com/4-strategies-for-building-digital-dexterity-across-your-organization/"/>
+        <updated>2024-12-05T11:04:36.000Z</updated>
+        <summary type="html"><![CDATA[Digital dexterity enables organizations to adapt, innovate, and thrive in a tech-driven world. Explore 4 actionable strategies to transform your workforce into agile innovators.]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何为 Hugo 博客的 Github 仓库瘦身]]></title>
+        <id>https://hyruo.com/article/how-to-slim-down-the-github-repository-for-a-hugo-blog/</id>
+        <link href="https://hyruo.com/article/how-to-slim-down-the-github-repository-for-a-hugo-blog/"/>
+        <updated>2024-12-05T06:20:00.000Z</updated>
+        <summary type="html"><![CDATA[我的 Hugo 博客最近一年来托管在 Github 上，但随着 Hugo 版本升级，在多次重构中，产生大量无效碎片文件。同时我博客之前所有的图片文件在转换为 webp 的过程中亦生成了大量垃圾文件，导致 Github 仓库体积过大，已接近 1GB 的警示线。为此今天特地对仓库进行了清理。
+
+Github 存储库大小官方限制
+建议仓库保持较小，理想情况下小于 1 GB，强烈建议小于 5 GB。较小的仓库克隆速度更快，使用和维护更容易。如果您的仓库过度影响我们的基础架构，您可能会收到来自 GitHub 支持的电子邮件，要求您采取纠正措施。我们力求灵活，特别是对于拥有很多协作者的大型项目，并且尽可能与您一起找到解决方案。您可以有效地管理仓库的大小和整体运行状况，以免您的仓库影响我们的基础架构。
+正规瘦身方式
+
+1. 清理未跟踪的文件
+
+首先，确保你已经清理了所有未跟踪的文件。你可以使用以下命令来查看和清理未跟踪的文件：
+
+
+
+1
+2
+3
+
+
+
+git clean -n # 查看哪些文件将被删除
+git clean -f # 删除未跟踪的文件
+git clean -fd # 删除未跟踪的文件和目录
+
+
+
+
+
+2. 删除不需要的大文件
+
+如果你曾经在仓库中提交过一些大文件，这些文件可能会占用大量的存储空间。可以使用 git filter-repo 来重写 Git 历史记录，删除不需要的文件。
+安装 git filter-repo：
+
+
+
+1
+
+
+
+pip install git-filter-repo # 需要先安装 Python
+
+
+
+
+
+删除大文件：
+
+
+
+1
+
+
+
+git filter-repo --path <file-path> --invert-paths
+
+
+
+
+
+例如，删除名为 largefile.zip 的文件：
+
+
+
+1
+
+
+
+git filter-repo --…]]></summary>
+        <author>
+            <name>海若博客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[202411面试记录]]></title>
+        <id>https://nops.icu/archives/182/</id>
+        <link href="https://nops.icu/archives/182/"/>
+        <updated>2024-12-05T03:45:00.000Z</updated>
+        <summary type="html"><![CDATA[近期借一位业内朋友推荐，面试了一家位于新加坡的互联网企业，同样记录面试过程一面（远程）：业务线运维负责人，是一位年轻女士，在问明不需要露脸后开始。从自我介绍到了解的技术栈，擅长的方向，排错问题等...]]></summary>
+        <author>
+            <name>季兴</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Veeam Backup & Replication 12.3 New Features and Download]]></title>
         <id>https://www.virtualizationhowto.com/?p=298191</id>
