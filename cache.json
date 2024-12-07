@@ -116,6 +116,16 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
+          "id": "https://daverupert.com/2024/12/adhd/",
+          "author": null,
+          "description": "This month I got my official diagnosis for Adult ADHD. It’s fun to share experiences with friends. While ADHD presents some new waters to navigate, it isn’t exactly news to me. Thanks to Dr. TikTok, I’ve suspected this outcome for a few years now. It’s nice to have a proper diagnosis though. If I’m struggling to focus or feeling overwhelmed, I know the probable root cause is how my brain processes dopamine and norepinephrine impacting my executive function.\nThere are different flavors of ADHD, so I can only describe my experience:\nI crave “optimal stimulation” – 1 task = too little. 3-5 tasks = perfect, ideal. 6+ tasks = uh-oh, all the spinning plates come crashing down.\nI experience periods of hyperfocus – I often will lock in on an interesting problem and work for hours and forget to eat.\nDifficulty with tasks when overwhelmed – When overwhelmed (which is always, I have some generalized anxiety too), I’m unable to summon focus for even the smallest of tasks.\nSensitivity to messy environments – Related to optimal stimulation, cluttered and messy environments (a common ADHD issue) creates a feeling of overwhelm for me.\nSensory-seeking behaviors and fidgeting (classic restless leg syndrome)\nI don’t have the hyperactive part of ADHD.\nI’m pretty attentive and a good listener… until I’m not.\nI’ve developed a lot of coping and masking strategies over the years that have allowed me to maintain a decent level of productivity. In my 20s I used to manage this by brute force and caffeine. But now that I’m in my 40s with a lot more responsibilities and spinning plates, I feel the reins slipping a bit. To help with this, I’m trying out a non-stimulant sNRI medication that tries to repair that norepinephrine processing. It takes a week or so to fully activate so it’s not an instant fix, and to be honest I don’t quite know what to expect. I’m excited to see if it makes a difference but even if it doesn’t I’m happy to be on a journey.\nAnyways, cheers to unique brains.",
+          "link": "https://daverupert.com/2024/12/adhd/",
+          "publishedOn": "2024-12-06T15:29:00.000Z",
+          "wordCount": 839,
+          "title": "I got the ADHD, too",
+          "imageUrl": null
+        },
+        {
           "id": "https://daverupert.com/2024/11/goodbye-moogs/",
           "author": null,
           "description": "The people who found you in the alley called you Cowboy. We called you Moogs, Moogers, Moogerton, Mr Moogs, Meesta, Two Meestas, Beef, Roast Beef, Roast Beefy Weefy, Kitty, Kitty cat, Long cat, Kitty kitty, Pretty kitty, and Meow meow. Those were all your names.\nToday we had to say goodbye to our cat Moogs (pronounced “Moo” like the cow says + “gs”). He was nearly 19 years old, which is about all you can ask for from a great cat. A senior cat with a thyroid problem – so his passing is not an incredible surprise – but he took a sudden downturn over the weekend. He died in his sleep.\nMy wife adopted him before we were even dating in 2006. I never had a cat, was more of a dog person, and I made it my mission to befriend the cat to win her over. I succeeded in my goal and he let me hold him li…",
@@ -1045,6 +1055,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=6726",
+          "author": "laixintao",
+          "description": "最近排查的一个网络问题，两个 IP 之间的网络不通，经过在 Linux 上一个一个 interface 上抓包 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/6726",
+          "publishedOn": "2024-12-06T14:16:26.000Z",
+          "wordCount": 1111,
+          "title": "iptables 拦截 bridge 包的问题排查",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=6722",
           "author": "laixintao",
           "description": "事情要从上周的一次事故说起，我们用 docker 部署的程序有一点问题，要马上回滚到上一个版本。 这个 doc […]\nContinue reading...",
@@ -1164,6 +1184,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=298222",
+          "author": "Brandon Lee",
+          "description": "With many moving to Proxmox in their home lab or even production environments, you may be interested in your options for running Kubernetes. How does this work with Proxmox? Well, there are several ways you can configure your deployment of Kubernetes running in Proxmox. Let’s take a look at Proxmox Kubernetes configurations you need to …\nThe post 5 Proxmox Kubernetes Configurations You Need to Know appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2024/12/5-proxmox-kubernetes-configurations-you-need-to-know/",
+          "publishedOn": "2024-12-06T14:15:55.000Z",
+          "wordCount": 10053,
+          "title": "5 Proxmox Kubernetes Configurations You Need to Know",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/Proxmox-Kubernetes-configurations.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=298174",
           "author": "Brandon Lee",
