@@ -59,6 +59,231 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-12-09 datetime="2024-12-09T14:18:39.000Z">2024-12-09</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-12-09 datetime="2024-12-09T14:18:39.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Virtualization Howto</button>
+                  <a class="source-heading__link" href="https://www.virtualizationhowto.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.virtualizationhowto.com/?p&#x3D;298238"
+                        open
+                      >
+                        <summary class="article-expander__title">CRICTL Kubernetes Command Line Tool for Troubleshooting</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.virtualizationhowto.com/2024/12/crictl-kubernetes-command-line-tool-for-troubleshooting/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.virtualizationhowto.com/wp-content/uploads/2024/12/CRICTL-kubernetes-command-line.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>CRICTL is not a command that you may have heard about when working with Kubernetes, but it is a really great utility to troubleshoot your Kubernetes cluster at the container runtime level. It provides a direct line of sight to the container runtime such as containerd or others like CRI-O. We will take a look …
+The post CRICTL Kubernetes Command Line Tool for Troubleshooting appeared first on Virtualization Howto.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;33
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >海若博客</button>
+                  <a class="source-heading__link" href="https://hyruo.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://hyruo.com/editor/2024_12_09_configuring_pagescms_to_match_hugos_directory_structure/"
+                        open
+                      >
+                        <summary class="article-expander__title">配置Pages CMS让其支持Hugo目录结构</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://hyruo.com/editor/2024_12_09_configuring_pagescms_to_match_hugos_directory_structure/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://hyruo.com/editor/2024_12_09_configuring_pagescms_to_match_hugos_directory_structure/8.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>在上一篇文章 Pages CMS：一个勉强够用的HUGO博客后台 中，我提到可以用 Pages CMS 作为 Hugo 的文章后台管理面板。但有个问题不是很好解决，即 Hugo 默认目录结构很难与 Pages CMS 进行适配。这也不单单是 Pages CMS 独有问题，其他任何 CMS 可能都会在适配 Hugo 时遇到这个问题。但在 Hugo 社区的强大支持下，我最终解决了这一问题。
+问题表现形式
+
+Hugo 需要什么样的图片目录结构
+
+Hugo 目录一般是下边这种形式，index.md 文件 与图片文件都保存在同一文件夹内。在 index.md 中引用图片，只需要输入 ![a](a.jpg) 即可，不需要输入图片的目录结构。除非一种情况，在下边代码类似 article-1 内有子目录，这时才需要在图片引用子目录路径。
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+
+
+content/
+├── post/
+│ ├── article-1/
+│ │ ├── a.jpg
+│ │ └── index.md
+│ └── article-2/
+│ ├── b.jpg
+│ └── index.md
+└── _index.md
+
+
+
+
+
+CMS 能提供什么样的图片目录结构
+
+CMS 的图片目录结构一般是下边这种形式，通常只有一个图片入口和出口，用于图片集中管理。在 CMS 中，上传或插入图片，默认的链接（按照下方代码设置）是 content/post/article-1/a.jpg 。在使用 markdown 语法后，会变成 ![a](content/post/article-1/a.jpg) ，一旦手动设置图片链接为 ![a](a.jpg) 就会产生错误。但 ![a](content/post/article-1/a.jpg) 这种链接格式，在 Hugo 中会被认为图片是保存在 ind…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Collabnix</button>
+                  <a class="source-heading__link" href="https://collabnix.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://collabnix.com/?p&#x3D;29192"
+                        open
+                      >
+                        <summary class="article-expander__title">How VPS Hosting Helps You Create Online Apps Effortlessly</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://collabnix.com/how-vps-hosting-helps-you-create-online-apps-effortlessly/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/word-image-29192-1.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Online applications have become integral to many people’s lives. Every developer is looking for a stable, flexible, and cost-effective environment to implement their ideas, regardless of whether it is a startup or a large corporation. Anyway, VPS hosting comes to the rescue. A virtual private server is a dedicated virtual environment. It offers resources comparable […]</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;10
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://collabnix.com/?p&#x3D;29184"
+                        open
+                      >
+                        <summary class="article-expander__title">Platform Engineering vs DevOps vs SRE: A Cheatsheet</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://collabnix.com/platform-engineering-vs-devops-vs-sre-a-cheatsheet/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>According to Gartner®, by 2026, 80% of large software engineering organizations will establish platform engineering teams—a significant leap from 45% in 2022. This shift reflects the growing importance of internal platforms in accelerating innovation and operational excellence. What is Platform Engineering? Imagine you’re building a house. To do so, you need tools like hammers, saws, […]</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://collabnix.com/?p&#x3D;29180"
+                        open
+                      >
+                        <summary class="article-expander__title">Install JetPack Without NVIDIA SDK Manager</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://collabnix.com/install-jetpack-without-nvidia-sdk-manager/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Setting up SDK Manager is painful. Even though it’s just one single RPM or DEB package, the problem is that you need a separate system for it. The SDK Manager is meant to be installed on your PC (host), specifically on a Ubuntu 20.04 if you want to flash a NVIDIA Jetson Nano (target). Thereby, […]</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >满心记</button>
+                  <a class="source-heading__link" href="https://qq.mba/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://qq.mba/198.html"
+                        open
+                      >
+                        <summary class="article-expander__title">公司福利&quot;心想事橙&quot;</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://qq.mba/198.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>喜提，&quot;心想事橙&quot;一箱！一大早来公司，就发现办公区放了很多橙色箱子，一看就知道是公司发什么东西了，一般冬季都会是水果一类的，果然是&quot;心想事橙&quot;，看样子又可以吃一段时间了。公司一般夏天的时候，会给...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-12-08 datetime="2024-12-08T11:01:09.000Z">2024-12-08</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-12-08 datetime="2024-12-08T11:01:09.000Z"></time>
           </button>
@@ -105,6 +330,38 @@ VIVO FlashCharge 闪充协议充电协议是私有协议，并没有公开，所
 快递的货物并不是很贵，淘宝上购买的一条毛巾，价值30元。当收到快递到达菜鸟驿站的提货码短信时，其实快递早已到达菜鸟…</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;1
                                   min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >一颗小树</button>
+                  <a class="source-heading__link" href="https://yeshu.cloud/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://yeshu.cloud/posts/newsletter-126/"
+                        open
+                      >
+                        <summary class="article-expander__title">不要轻易给自己贴标签</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://yeshu.cloud/posts/newsletter-126/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://yeshu.cloud/images/android-chrome-192x192.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>能用行为来描述的，不要上升到特质；能用特质来描述的，不要上升到人格。</span>
                             </span>
                           </div>
                         </a>
@@ -11359,8 +11616,8 @@ MBP缺点也挺多，最难受的应该就是Excel的数据处理。两年前配
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/MarsperL/yygrss/actions/runs/12227514475">
-        <time id="build-timestamp" datetime="2024-12-09T01:59:38.544Z">2024-12-09T01:59:38.544Z</time>
+      <a class="footer-link" href="https://github.com/MarsperL/yygrss/actions/runs/12247900950">
+        <time id="build-timestamp" datetime="2024-12-10T01:58:33.700Z">2024-12-10T01:58:33.700Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

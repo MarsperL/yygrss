@@ -203,6 +203,16 @@
       "siteUrl": "https://hyruo.com/",
       "articles": [
         {
+          "id": "https://hyruo.com/editor/2024_12_09_configuring_pagescms_to_match_hugos_directory_structure/",
+          "author": null,
+          "description": "在上一篇文章 Pages CMS：一个勉强够用的HUGO博客后台 中，我提到可以用 Pages CMS 作为 Hugo 的文章后台管理面板。但有个问题不是很好解决，即 Hugo 默认目录结构很难与 Pages CMS 进行适配。这也不单单是 Pages CMS 独有问题，其他任何 CMS 可能都会在适配 Hugo 时遇到这个问题。但在 Hugo 社区的强大支持下，我最终解决了这一问题。\n问题表现形式\n\nHugo 需要什么样的图片目录结构\n\nHugo 目录一般是下边这种形式，index.md 文件 与图片文件都保存在同一文件夹内。在 index.md 中引用图片，只需要输入 ![a](a.jpg) 即可，不需要输入图片的目录结构。除非一种情况，在下边代码类似 article-1 内有子目录，这时才需要在图片引用子目录路径。\n\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n\n\n\ncontent/\n├── post/\n│ ├── article-1/\n│ │ ├── a.jpg\n│ │ └── index.md\n│ └── article-2/\n│ ├── b.jpg\n│ └── index.md\n└── _index.md\n\n\n\n\n\nCMS 能提供什么样的图片目录结构\n\nCMS 的图片目录结构一般是下边这种形式，通常只有一个图片入口和出口，用于图片集中管理。在 CMS 中，上传或插入图片，默认的链接（按照下方代码设置）是 content/post/article-1/a.jpg 。在使用 markdown 语法后，会变成 ![a](content/post/article-1/a.jpg) ，一旦手动设置图片链接为 ![a](a.jpg) 就会产生错误。但 ![a](content/post/article-1/a.jpg) 这种链接格式，在 Hugo 中会被认为图片是保存在 ind…",
+          "link": "https://hyruo.com/editor/2024_12_09_configuring_pagescms_to_match_hugos_directory_structure/",
+          "publishedOn": "2024-12-09T13:10:00.000Z",
+          "wordCount": 617,
+          "title": "配置Pages CMS让其支持Hugo目录结构",
+          "imageUrl": "https://hyruo.com/editor/2024_12_09_configuring_pagescms_to_match_hugos_directory_structure/8.webp"
+        },
+        {
           "id": "https://hyruo.com/editor/pages-cms-a-barely-adequate-backend-for-hugo-blog/",
           "author": null,
           "description": "从 WordPress 迁移到 Hugo 后，我一直对 WordPress 后台管理以及手机 APP 的便利性念念不忘，为此我在之前也写过关于 如何在手机上更新Hugo博客 的文章，但是在手机上使用 Vscode 和 StackEdit 还是有点麻烦，主要是显示屏太小，一些精细化操作很难用手指触控解决。过程中我也尝试过几种 Hugo CMS 方案，但一直未满足我的需求。\n几次失败的尝试\n\nDecap CMS\n\nDecap CMS 以前又叫 Netlify CMS，看名字就知道跟 Netlify 有着很强的关联。它默认部署方式就是在 Netlify 上，但是由于我一直没能注册到 Netlify 账号，便搁置了。后来有一天发现 Decap 还有个服务器部署版本，于是在甲骨文 VPS 上弄了下，装是装成功了，但还有一堆与 Hugo 的适配设置看着头大便没搞了。\n\nQUIQR\n\nQUIQR 是一款本地化软件，可以直接在 Windows 安装。但是它并不支持 Web 版，也没有手机 APP，这就使得它没法在手机上使用。与我预期目的不符。\n\nTina CMS\n\nTina CMS 之前又叫 Forestry CMS 也是一款无头编辑器，但我与它无缘，即便我已经设置好 Tina Cloud 账号并添加项目，但是我一直卡在本地 Tina 安装上边。不知道是我的网络问题还是怎么，我在两台电脑上都没能成功安装 Tina 程序。最后我找到有一个 Vercel 部署的版本，但是部署过程中发现 Tina 提供的 Vercel 一键安装模板似乎是过时的，废了好大劲都没在 Vercel 部署成功。\n\nSveltia CMS\n\nSveltia CMS 是 Hugo 官方推荐的另一个 CMS，属于 Netlify/Decap CMS 的替代者。开发者说 2025 年将发布 1.0 版本，目前的版本还是得先在 …",
@@ -1185,6 +1195,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=298238",
+          "author": "Brandon Lee",
+          "description": "CRICTL is not a command that you may have heard about when working with Kubernetes, but it is a really great utility to troubleshoot your Kubernetes cluster at the container runtime level. It provides a direct line of sight to the container runtime such as containerd or others like CRI-O. We will take a look …\nThe post CRICTL Kubernetes Command Line Tool for Troubleshooting appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2024/12/crictl-kubernetes-command-line-tool-for-troubleshooting/",
+          "publishedOn": "2024-12-09T14:18:39.000Z",
+          "wordCount": 9806,
+          "title": "CRICTL Kubernetes Command Line Tool for Troubleshooting",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/CRICTL-kubernetes-command-line.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=298222",
           "author": "Brandon Lee",
           "description": "With many moving to Proxmox in their home lab or even production environments, you may be interested in your options for running Kubernetes. How does this work with Proxmox? Well, there are several ways you can configure your deployment of Kubernetes running in Proxmox. Let’s take a look at Proxmox Kubernetes configurations you need to …\nThe post 5 Proxmox Kubernetes Configurations You Need to Know appeared first on Virtualization Howto.",
@@ -1408,6 +1428,36 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=29192",
+          "author": "Tanvir Kour",
+          "description": "Online applications have become integral to many people’s lives. Every developer is looking for a stable, flexible, and cost-effective environment to implement their ideas, regardless of whether it is a startup or a large corporation. Anyway, VPS hosting comes to the rescue. A virtual private server is a dedicated virtual environment. It offers resources comparable […]",
+          "link": "https://collabnix.com/how-vps-hosting-helps-you-create-online-apps-effortlessly/",
+          "publishedOn": "2024-12-09T11:37:29.000Z",
+          "wordCount": 2958,
+          "title": "How VPS Hosting Helps You Create Online Apps Effortlessly",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/word-image-29192-1.png"
+        },
+        {
+          "id": "https://collabnix.com/?p=29184",
+          "author": "Tanvir Kour",
+          "description": "According to Gartner®, by 2026, 80% of large software engineering organizations will establish platform engineering teams—a significant leap from 45% in 2022. This shift reflects the growing importance of internal platforms in accelerating innovation and operational excellence. What is Platform Engineering? Imagine you’re building a house. To do so, you need tools like hammers, saws, […]",
+          "link": "https://collabnix.com/platform-engineering-vs-devops-vs-sre-a-cheatsheet/",
+          "publishedOn": "2024-12-09T08:36:07.000Z",
+          "wordCount": 2581,
+          "title": "Platform Engineering vs DevOps vs SRE: A Cheatsheet",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=29180",
+          "author": "Tanvir Kour",
+          "description": "Setting up SDK Manager is painful. Even though it’s just one single RPM or DEB package, the problem is that you need a separate system for it. The SDK Manager is meant to be installed on your PC (host), specifically on a Ubuntu 20.04 if you want to flash a NVIDIA Jetson Nano (target). Thereby, […]",
+          "link": "https://collabnix.com/install-jetpack-without-nvidia-sdk-manager/",
+          "publishedOn": "2024-12-09T03:32:16.000Z",
+          "wordCount": 2433,
+          "title": "Install JetPack Without NVIDIA SDK Manager",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=29142",
           "author": "Ajeet Raina",
@@ -2576,6 +2626,16 @@
       "siteUrl": "https://qq.mba/",
       "articles": [
         {
+          "id": "https://qq.mba/198.html",
+          "author": "满心",
+          "description": "喜提，\"心想事橙\"一箱！一大早来公司，就发现办公区放了很多橙色箱子，一看就知道是公司发什么东西了，一般冬季都会是水果一类的，果然是\"心想事橙\"，看样子又可以吃一段时间了。公司一般夏天的时候，会给...",
+          "link": "https://qq.mba/198.html",
+          "publishedOn": "2024-12-09T04:07:34.000Z",
+          "wordCount": 554,
+          "title": "公司福利&quot;心想事橙&quot;",
+          "imageUrl": null
+        },
+        {
           "id": "https://qq.mba/197.html",
           "author": "满心",
           "description": "上文说到了，我三年前的苹果12已经无法继续服役了，所以考虑换机，并且不打算再用苹果机了，所以就考虑了：小米、魅族、华为和vivo这几个品牌。首先vivo的iqoo价格还是虚高，毕竟有王者荣耀游戏...",
@@ -2745,6 +2805,16 @@
       "feedUrl": "https://yeshu.cloud/rss.xml",
       "siteUrl": "https://yeshu.cloud/",
       "articles": [
+        {
+          "id": "https://yeshu.cloud/posts/newsletter-126/",
+          "author": null,
+          "description": "能用行为来描述的，不要上升到特质；能用特质来描述的，不要上升到人格。",
+          "link": "https://yeshu.cloud/posts/newsletter-126/",
+          "publishedOn": "2024-12-08T10:44:31.000Z",
+          "wordCount": 144,
+          "title": "不要轻易给自己贴标签",
+          "imageUrl": "https://yeshu.cloud/images/android-chrome-192x192.png"
+        },
         {
           "id": "https://yeshu.cloud/posts/newsletter-125/",
           "author": null,
