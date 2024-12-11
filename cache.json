@@ -1195,6 +1195,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=298265",
+          "author": "Brandon Lee",
+          "description": "One of the coolest things that you can do with FluxCD and using Flux for GitOps is modifying your Kustomize image tag so that you can keep your pods updated with the latest releases. Let’s take a look at FluxCD how to modify kustomize image tag with Flux and see the steps to do this. …\nThe post FluxCD How to Modify Kustomize Image Tag appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2024/12/fluxcd-how-to-modify-kustomize-image-tag/",
+          "publishedOn": "2024-12-10T16:27:13.000Z",
+          "wordCount": 10160,
+          "title": "FluxCD How to Modify Kustomize Image Tag",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/FluxCD-image-update-automation.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=298238",
           "author": "Brandon Lee",
           "description": "CRICTL is not a command that you may have heard about when working with Kubernetes, but it is a really great utility to troubleshoot your Kubernetes cluster at the container runtime level. It provides a direct line of sight to the container runtime such as containerd or others like CRI-O. We will take a look …\nThe post CRICTL Kubernetes Command Line Tool for Troubleshooting appeared first on Virtualization Howto.",
@@ -1428,6 +1438,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=29202",
+          "author": "Tanvir Kour",
+          "description": "Learning on the go is booming. Why? The fast pace of modern life, combined with digital transformation, has created a demand for flexible, on-the-go education. This is where mobile learning thrives, offering content in small, digestible pieces—often referred to as microlearning. For example, Deloitte saw a 50% increase in employee engagement and 40% improvement in […]",
+          "link": "https://collabnix.com/mobile-learning-with-lms-anytime-anywhere-education-for-the-modern-learner/",
+          "publishedOn": "2024-12-10T09:29:41.000Z",
+          "wordCount": 2823,
+          "title": "Mobile Learning with LMS: Anytime, Anywhere Education for the Modern Learner",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/Screenshot-2024-12-10-at-2.58.46%E2%80%AFPM.png"
+        },
         {
           "id": "https://collabnix.com/?p=29192",
           "author": "Tanvir Kour",
@@ -2626,6 +2646,16 @@
       "siteUrl": "https://qq.mba/",
       "articles": [
         {
+          "id": "https://qq.mba/199.html",
+          "author": "满心",
+          "description": "因为我的博客是基于Typecho搭建的，所以我特别关注与TP相关的插件和主题。最近，在浏览TYPECHO WIKI网站时，我发现了一则公告，称该站点因磁盘故障而导致数据丢失。下面是该网站公告的内...",
+          "link": "https://qq.mba/199.html",
+          "publishedOn": "2024-12-10T08:50:00.000Z",
+          "wordCount": 499,
+          "title": "因备份缺失而停更的博客",
+          "imageUrl": null
+        },
+        {
           "id": "https://qq.mba/198.html",
           "author": "满心",
           "description": "喜提，\"心想事橙\"一箱！一大早来公司，就发现办公区放了很多橙色箱子，一看就知道是公司发什么东西了，一般冬季都会是水果一类的，果然是\"心想事橙\"，看样子又可以吃一段时间了。公司一般夏天的时候，会给...",
@@ -3186,16 +3216,6 @@
           "publishedOn": "2024-09-15T23:48:57.000Z",
           "wordCount": 236,
           "title": "连续四天喝白酒-武汉2024中秋",
-          "imageUrl": null
-        },
-        {
-          "id": "https://4311346.com/post/2024/0911-macbookpro2020.html",
-          "author": null,
-          "description": "自从闲鱼回收掉iPhone13之后，原本就闲置的MacBookPro貌似使用得更少了，这台2020年14000多元购入的笔记本电脑，在周末最终以不足3000元的价格出给了线下回收门店，4年时间蒸发约11000元… 相比GIANT2016款XTC820，闲置八年，多保值啊。更新，换代，降价、贬值…等等，这都是电子产品的宿命，早在2024年武汉热干面涨价到6元之时就打算出掉这台Mac，但因为离职、过年、自驾大西北、求职新工作、度过试用期… 到现在价格又低了1000多元。\n最终2900元的价格卖掉了MacBookPro\nJeffer.Z 说 “看来用不惯mac啊，我现在用多了mac，总感觉win有点慢。” 在我看来，感觉这个东西很奇妙，各取所需就好，用能解决问题的设备与产品就好。\nMac系统确实丝滑，Retina屏有着不错的效果，还有着更好的影音效果。日常使用没有广告，各种APP程序也非常的方便，续航能力不错，稳定性更是核心优势了，但最终2900元的价格卖掉了MacBookPro的核心就一个—效率。\nMBP缺点也挺多，最难受的应该就是Excel的数据处理。两年前配合群辉使用的25TB的OneDrive，去年到期后没在续费，所以配套的 Office365 也无法在 Mac上继续使用。后而开始使用金山WPS处理Excel数据。但是问题来了，人事花名册，月度、季度、年度绩效表，工资表等有着上万条数据的表格在Mac系统上不管是Office还是WPS都是噩梦般的存在。\n比如工资单的项目很多，往往有50多列且带计算公式，而600人对应了600行，那么合计要处理近35000个单元格的计算。而年度的工资表更是超过50万个单元格的计算。若要做人力资源薪酬数据分析，那么同时要开多个超过50万个带计算公式的单元格表格。此时的Mac已开始烫手~影响体验。\n这仅仅只是工资，而考勤数据等，将更加的庞大。\n既…",
-          "link": "https://4311346.com/post/2024/0911-macbookpro2020.html",
-          "publishedOn": "2024-09-11T14:28:09.000Z",
-          "wordCount": 337,
-          "title": "最终2900元的价格卖掉了MacBookPro",
           "imageUrl": null
         }
       ]
