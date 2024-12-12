@@ -116,6 +116,16 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
+          "id": "https://daverupert.com/2024/12/intermittent-fasting/",
+          "author": null,
+          "description": "⚠️ Content warning: Weight loss, feel free to skip if that is not a good topic for you.\nA doctor told me to look into intermittent fasting. Not for weight loss, but for ADHD. There’s some new data that suggests a link between ADHD and insulin in the brain. Based on that science, intermittent fasting or a ketogenic diet –which can help improve insulin resistance– might help my brain. I’m a week into it and am seeing some weight loss, but it’s hard to tell with the ADHD without measuring my brainflorps per second. I might be more focused, but hunger and “hangry” bring their own distractions.\nI’m skeptical, to say the least. Intermittent fasting makes frequent appearances in my YouTube shorts with balding Joe Rogan clones dressed in all black selling workout supplements. It has a whiff of bei…",
+          "link": "https://daverupert.com/2024/12/intermittent-fasting/",
+          "publishedOn": "2024-12-11T04:10:00.000Z",
+          "wordCount": 889,
+          "title": "Intermittent fasting",
+          "imageUrl": null
+        },
+        {
           "id": "https://daverupert.com/2024/12/adhd/",
           "author": null,
           "description": "This month I got my official diagnosis for Adult ADHD. It’s fun to share experiences with friends. While ADHD presents some new waters to navigate, it isn’t exactly news to me. Thanks to Dr. TikTok, I’ve suspected this outcome for a few years now. It’s nice to have a proper diagnosis though. If I’m struggling to focus or feeling overwhelmed, I know the probable root cause is how my brain processes dopamine and norepinephrine impacting my executive function.\nThere are different flavors of ADHD, so I can only describe my experience:\nI crave “optimal stimulation” – 1 task = too little. 3-5 tasks = perfect, ideal. 6+ tasks = uh-oh, all the spinning plates come crashing down.\nI experience periods of hyperfocus – I often will lock in on an interesting problem and work for hours and forget to eat.\nDifficulty with tasks when overwhelmed – When overwhelmed (which is always, I have some generalized anxiety too), I’m unable to summon focus for even the smallest of tasks.\nSensitivity to messy environments – Related to optimal stimulation, cluttered and messy environments (a common ADHD issue) creates a feeling of overwhelm for me.\nSensory-seeking behaviors and fidgeting (classic restless leg syndrome)\nI don’t have the hyperactive part of ADHD.\nI’m pretty attentive and a good listener… until I’m not.\nI’ve developed a lot of coping and masking strategies over the years that have allowed me to maintain a decent level of productivity. In my 20s I used to manage this by brute force and caffeine. But now that I’m in my 40s with a lot more responsibilities and spinning plates, I feel the reins slipping a bit. To help with this, I’m trying out a non-stimulant sNRI medication that tries to repair that norepinephrine processing. It takes a week or so to fully activate so it’s not an instant fix, and to be honest I don’t quite know what to expect. I’m excited to see if it makes a difference but even if it doesn’t I’m happy to be on a journey.\nAnyways, cheers to unique brains.",
@@ -174,26 +184,6 @@
           "wordCount": 787,
           "title": "Hibiclens",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2024/09/good-forms/",
-          "author": null,
-          "description": "Brian LeRoux posted a few thoughts about forms and the idea of a “good form” resonated with me so I dogpiled some of my own thoughts and experiences on it. Here’s a compilation of those ideas. I’m sure this is incomplete and would love to see your list.\nGood forms work without client JavaScript (Brian LeRoux)\nGood forms always submit (Brian LeRoux)\nGood forms remember values and display problems inline (Brian LeRoux)\nGood login forms work with password managers (Mingo Hogan)\nGood forms use a <form> tag\nGood forms use appropriate input types\nGood forms have clear labelled inputs and buttons\nGood forms have focus states\nGood forms have logical tab order\nGood forms allow paste\nGood form elements leverage the inputmode attribute\nGood form elements leverage the autocomplete attribute\nGood search forms wrap the <form> tag in a <search> element\nGood forms can be reset with a <button type=reset>\nGood forms participate in formData\nGood forms don’t use placeholder as a label\nGood forms work on phones\nGood forms don’t popup and ask for personal information\nGood forms only ask for what is necessary and aren’t too long\nGood forms use HTTPS\nGood forms use the proper HTTP verbs\nGood forms validate on the client AND on the server\nGood forms have been driven with a screen reader before going to production\nGood forms clearly denote required attributes\nGood forms warn about costly or destructive actions\nGood forms make the baby Jesus smile\nGood authenticated forms should have a server-generated nonce value\nGood forms should do a pre-flight check for navigator.onLine before attempting a submit\nGood forms start with accent-color for styling and only get more complex if necessary\nGood forms see custom controls as a radioactive asset that must be removed at the earliest opportunity\nAnyways. People should talk about forms more. Here’s some more resources on good form design.\nForm Design Patterns by Adam Silver\nWeb Form Design by Luke Wroblewski\nForm Design Mastery by Adam Silver\nBetter Onboarding by Krystal Higgins",
-          "link": "https://daverupert.com/2024/09/good-forms/",
-          "publishedOn": "2024-09-13T13:25:00.000Z",
-          "wordCount": 787,
-          "title": "Good forms",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2024/09/fuck-the-book-a-week-club/",
-          "author": null,
-          "description": "I saw a tweet awhile back that sent my brain to a far off galaxy…\nJuly 2, 2022\n\nOf all the injustices happening in the world… you know who needs to be taken down a peg? The Book-a-Week People. Fuck those guys. With their books in their Zoom backgrounds. That bothers me. Fuck them.\nI know the original post is part of some weird hustle culture subgenre, but it’s probably no surprise to folks reading that I like books and fit this targeted demographic. After pondering whether I’m “finding answers to questions or questions to answer” my answer is a resounding, “…I guess?”\nA lot of why I read is about juxtaposition. I read business books to juxtapose my experience against the Platonic ideal of “good business”. I read about social justice to juxtapose my lived experience against others lived exp…",
-          "link": "https://daverupert.com/2024/09/fuck-the-book-a-week-club/",
-          "publishedOn": "2024-09-12T14:28:00.000Z",
-          "wordCount": 1011,
-          "title": "Finding questions and answers about why I like books",
-          "imageUrl": null
         }
       ]
     },
@@ -202,6 +192,16 @@
       "feedUrl": "https://hyruo.com/index.xml",
       "siteUrl": "https://hyruo.com/",
       "articles": [
+        {
+          "id": "https://hyruo.com/editor/2024_12_11_how_to_prevent_fundraising_fraud/",
+          "author": null,
+          "description": "去年曾参加一个由金融办组织的会议，主要是研究一个非法集资案件的处理。由于这个案件已经水落石出，加之个人感觉具有一定的典型性，故以此案例为引子，谈谈怎么预防集资诈骗问题。\n什么是集资诈骗\n\n我们日常生活中所说的集资诈骗，与非法集资、非法吸收公众存款通常是混合在一起讲的。从罪名来看，主要是集资诈骗罪和非法吸收公众存款罪，两者统称非法集资犯罪。对老百姓来说，不管是非法吸收公众存款罪还是集资诈骗罪，从最终结果来看，大概率都是上当受骗，因此把两者都当成诈骗也不是没有道理。\n\n\n\n1\n2\n3\n\n\n\n非法集资（统称）\n- 非法吸收公众存款罪\n- 集资诈骗罪\n\n\n\n\n\n\n\n\n1\n2\n3\n4\n\n\n\n集资诈骗（日常口头用语）\n- 非法集资\n - 非法吸收公众存款罪\n - 集资诈骗罪\n\n\n\n\n\n集资诈骗的标准\n\n一般来说非法吸收公众存款只要符合金额100万元、人数150人、损失50万元这三个条件之一，就构成犯罪。而集资诈骗起点则是10万元。特殊情节可以进一步下探标准的就不细说了，毕竟这年头真要干这事的，很难不达到这些标准，动则几百亿的案件数见不鲜。\n一般标准\n非法吸收公众存款罪\n集资诈骗罪\n\n\n\n\n金额\n100万元\n10万元\n\n\n人数\n150人\n—\n\n\n损失\n50万元\n—\n\n\n\n\n本次案件简要案情\n\n这个案件虽然已经办结，但保险起见还是不透露具体信息。简单概括如下。\n总部位于某直辖市的 A 公司于会前一个月在我们这小地方注册一家分公司，该公司以当下热门的新质生产力科技概念，做了一个实体项目投资计划书，该项目可以拆分为无数小项目，并由分公司网点向公众推介，从而吸引投资。但在公众签署的书面协议上并没有约定收益回报率。\n到这里，整个项目还是比较正常的，因为这种投资项目从现实来看确实具有一定的可行性。即便采取非法吸收公众存款行为，但如果它真的是用在正常经营活动，那司法机关也不会去打扰它。\n非法吸收或者变…",
+          "link": "https://hyruo.com/editor/2024_12_11_how_to_prevent_fundraising_fraud/",
+          "publishedOn": "2024-12-11T05:53:00.000Z",
+          "wordCount": 201,
+          "title": "怎样预防集资诈骗",
+          "imageUrl": "https://hyruo.com/editor/2024_12_11_how_to_prevent_fundraising_fraud/0.webp"
+        },
         {
           "id": "https://hyruo.com/editor/2024_12_09_configuring_pagescms_to_match_hugos_directory_structure/",
           "author": null,
@@ -624,6 +624,16 @@
       "siteUrl": "https://blog.ops-coffee.cn",
       "articles": [
         {
+          "id": "https://blog.ops-coffee.cn/r/city-china-zhejiang-jiaxing-haining",
+          "author": null,
+          "description": "嘉兴海宁，两天一晚旅行攻略",
+          "link": "https://blog.ops-coffee.cn/r/city-china-zhejiang-jiaxing-haining",
+          "publishedOn": "2024-12-11T11:03:01.000Z",
+          "wordCount": 71,
+          "title": "游记｜海宁，距离上海仅一个多小时车程的宝藏小城",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.ops-coffee.cn/s/devops-workflow-task-flow-bpmn-js",
           "author": null,
           "description": "我们实现了任务流程从编排到执行的清晰可视化，提升了任务执行过程的透明度，使得流程执行过程更加直观，操作更加便捷易用",
@@ -850,6 +860,26 @@
       "feedUrl": "https://jimmysong.io/blog/index.xml",
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
+        {
+          "id": "https://jimmysong.io/blog/building-private-ai-knowledge-base-anythingllm/",
+          "author": "Jimmy Song",
+          "description": "随着大语言模型（LLM）的快速发展，将企业内部知识库与 AI 工具结合成为热门解决方案。作为一名技术探索者，我对构建私有知识库充满兴趣，也希望测试 LLM 的能力，尤其是像 Ollama 和千问这类模型。此外，AnythingLLM 是一个开源项目，具有较高的社区关注度，因此我决定对其进行深入调研。\n基于 RAG（检索增强生成）技术，AnythingLLM 提供了从数据处理到用户界面的全栈解决方案，支持构建企业内部的智能知识库。其模块化架构和灵活部署方式，使其成为企业和个人开发者进行知识管理和 AI 项目实践的重要工具。\nRAG 原理概述\n简介\nRAG（Retrieval-Augmented Generation） 是一种结合了信息检索和语言模型的技术。它通过从大规模的知识库中检索相关信息，并利用这些信息来指导语言模型生成更准确和深入的答案。这种方法由 Meta AI 研究人员在 2020 年提出，旨在解决大型语言模型在信息滞后、模型幻觉、私有数据匮乏和内容不可追溯等问题。\nRAG 就是可以开卷回复的 LLM。其发展历程：Naive RAG 包含索引、检索、生成三步，存在 召回率低、Prompt 拼接问题。Advanced RAG 优化索引与检索，引入 预检索、后检索策略与数据清洗 提升效率。Modular RAG 实现 模块化流水线与端到端训练，具备更高的 灵活性与适应性。\n背景与挑战\n尽管 LLM 在处理复杂任务方面表现出色，但在以下三个方面存在局限：\n知识局限性：大模型的训练数据来自公开数据源，无法访问非公开和实时数据。\n幻觉问题：模型有时会生成错误答案，特别是在缺少特定领域知识时。\n数据安全性：涉及内部私有数据时，企业面临数据泄露风险。\nRAG 技术通过向量检索与生成模型结合，显著提高了数据处理的深度和准确性。\n工作原理\nRAG 的工作流程包括两个主要阶段：\n数据准…",
+          "link": "https://jimmysong.io/blog/building-private-ai-knowledge-base-anythingllm/",
+          "publishedOn": "2024-12-11T13:50:21.000Z",
+          "wordCount": 563,
+          "title": "探索 AnythingLLM：借助开源 AI 打造私有化智能知识库",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
+        },
+        {
+          "id": "https://jimmysong.io/blog/migrate-to-istio-telemetry-api/",
+          "author": "Jimmy Song",
+          "description": "Istio 的 Telemetry API 是替代传统 MeshConfig 遥测配置的现代化方式，提供了更灵活的工具来定义服务网格中的 Tracing、Metrics 和 Access Logging。相比传统的 EnvoyFilter 和 MeshConfig，Telemetry API 更具模块化、动态更新和跨层次配置能力。\n在本篇中，我们将详解如何使用 Telemetry API 配置 Istio 遥测功能，涵盖 Tracing、Metrics 和 Logging 的具体实现，同时展示如何迁移过时的 MeshConfig 配置。\nTelemetry API 发展历程\nIstio 的遥测能力在早期版本中依赖于较为传统的配置方法，如 Mixer 和 MeshConfig 的 configOverride，这些方法虽然能够满足基本需求，但在复杂场景下显得力不从心。为了解决这些问题，Istio 引入了基于 CRD 的 Telemetry API。\n关键版本更新\n为了帮助读者了解 Telemetry API 的进化过程，以下是一些重要版本的更新信息：\nIstio 1.11：引入 Telemetry API（Alpha），提供了基本的指标和日志自定义功能。\nIstio 1.13：支持 OpenTelemetry 日志记录、自定义追踪服务名称，以及更强的日志过滤功能。\nIstio 1.18：默认不再安装 Prometheus 的 EnvoyFilter，完全依赖 Telemetry API 定义遥测行为。\nIstio 1.22：Telemetry API 升级为稳定版（v1），全面支持生产环境需求。\n为什么迁移到 Telemetry API？\n尽管传统的 MeshConfig 和 EnvoyFilter 提供了基础的遥测能力，但它们的配置方式在灵活性、动态性和扩展性方面存在诸多限…",
+          "link": "https://jimmysong.io/blog/migrate-to-istio-telemetry-api/",
+          "publishedOn": "2024-12-11T07:04:01.000Z",
+          "wordCount": 782,
+          "title": "从 MeshConfig 迁移到 Istio Telemetry API：提升网格观测性和灵活性",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
+        },
         {
           "id": "https://jimmysong.io/blog/south-korea-trip/",
           "author": "Jimmy Song",
@@ -1113,16 +1143,6 @@
           "wordCount": 901,
           "title": "裕廊坊杂菜饭",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6624",
-          "author": "laixintao",
-          "description": "一个数据中心有一万台机器，如何将这些机器连接起来？ 最直观的方式是在每一个 Rack （机柜）上放一个交换机  […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6624",
-          "publishedOn": "2024-09-13T02:04:47.000Z",
-          "wordCount": 2872,
-          "title": "Google 的十年五代网络架构",
-          "imageUrl": null
         }
       ]
     },
@@ -1194,6 +1214,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=298280",
+          "author": "Brandon Lee",
+          "description": "Well, what a year it has been! Wow, I can’t believe how many changes we have seen this year and bumps in the road along the way. But, here we are, at the end of 2024. I want to take you guys through in written form, before the video comes out my home lab tour …\nThe post Home Lab Tour 2024: Hardware, Software, Containers and More! appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2024/12/home-lab-tour-2024-hardware-software-containers-and-more/",
+          "publishedOn": "2024-12-11T17:56:45.000Z",
+          "wordCount": 12602,
+          "title": "Home Lab Tour 2024: Hardware, Software, Containers and More!",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/Home-Lab-tour-end-of-2024.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=298265",
           "author": "Brandon Lee",
@@ -1438,6 +1468,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=29247",
+          "author": "Tanvir Kour",
+          "description": "Choosing between in-house and outsource software development is a critical decision for every business. These key points here will help you make the best decision in this regard.",
+          "link": "https://collabnix.com/in-house-development-vs-software-outsourcing-which-is-right-for-you/",
+          "publishedOn": "2024-12-11T14:59:33.000Z",
+          "wordCount": 2942,
+          "title": "In-House Development vs. Software Outsourcing: Which is Right for You?",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/featured_image_1.jpg"
+        },
+        {
+          "id": "https://collabnix.com/?p=29215",
+          "author": "Ajeet Raina",
+          "description": "With over 50K+ GitHub stars, Open WebUI is an extensible, feature-rich, and user-friendly self-hosted WebUI designed to operate entirely offline. It supports various LLM runners, including Ollama and OpenAI-compatible APIs. For more information, be sure to check out our Open WebUI Documentation. If you’re exploring how to deploy and customize Open WebUI, this guide provides […]",
+          "link": "https://collabnix.com/how-to-setup-open-webui-with-ollama-and-docker-desktop-on-mac/",
+          "publishedOn": "2024-12-11T08:25:12.000Z",
+          "wordCount": 2416,
+          "title": "How to setup Open WebUI with Ollama and Docker Desktop on Mac",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/1733547501970.jpeg"
+        },
         {
           "id": "https://collabnix.com/?p=29202",
           "author": "Tanvir Kour",
@@ -1727,6 +1777,16 @@
           "wordCount": 3197,
           "title": "How to Simplify Your AI Development Process using Docker AI Catalog",
           "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/11/featuredimage.webp"
+        },
+        {
+          "id": "https://collabnix.com/?p=29209",
+          "author": "Tanvir Kour",
+          "description": "Artificial Intelligence is rapidly transforming sectors worldwide. As its capacities expand, so does the demand for AI-powered solutions and expert AI development services. Let’s delve into the expenses associated with AI development in 2024, assess elements that shape costs, and gain insights into making informed choices when investing in AI technology. Principal Cost Components in […]",
+          "link": "https://collabnix.com/what-is-the-cost-of-ai-development/",
+          "publishedOn": "2024-11-28T05:23:00.000Z",
+          "wordCount": 3036,
+          "title": "What Is the Cost of AI Development?",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/ai-cost.webp"
         },
         {
           "id": "https://collabnix.com/?p=28797",
