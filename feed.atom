@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2024-12-15T02:03:21.081Z</updated>
+    <updated>2024-12-16T01:59:52.664Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Docker or Kubernetes: Which One is Right for You?]]></title>
+        <id>https://collabnix.com/?p=29314</id>
+        <link href="https://collabnix.com/docker-or-kubernetes-which-one-is-right-for-you/"/>
+        <updated>2024-12-15T12:24:37.000Z</updated>
+        <summary type="html"><![CDATA[In the world of modern application deployment, two names frequently dominate conversations: Docker and Kubernetes. While they are often mentioned together, it’s essential to understand that Docker and Kubernetes serve distinct purposes. Docker focuses on development, while Kubernetes focuses on deployment. This post explores the differences, use cases, and how they work together. What is […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UltraBOOST leather EF0901 黑武士风]]></title>
         <id>https://4311346.com/post/2024/1214-ultraboost-leather.html</id>
@@ -4262,46 +4272,6 @@ How the Envoy proxy handles a user request - tetrate.io
         <summary type="html"><![CDATA[For students to succeed academically, technology itself plays an important role in today’s digital era. However, this results in having a large amount of tools and it can be hard to choose what is better. In this article, we discuss some of the most important study materials about education technology for students that can help […]]]></summary>
         <author>
             <name>Arsheen Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Napkin: A New AI tool for Making Quick Visuals from text]]></title>
-        <id>https://collabnix.com/?p=27431</id>
-        <link href="https://collabnix.com/napkin-a-new-ai-tool-for-making-quick-visuals-from-text/"/>
-        <updated>2024-09-17T08:48:31.000Z</updated>
-        <summary type="html"><![CDATA[In a fast-paced world where ideas are abundant but execution often falters, Napkin AI emerges as a solution to bridge the gap between concept and reality. Napkin.ai is a text-to-visual graphics generator that’s great for cleaning up your presentations or spicingup a report. Napkin AI is an innovative platform designed to streamline the process of […]]]></summary>
-        <author>
-            <name>Abraham Dahunsi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Horizontal and Vertical Pod Autoscaling in Kubernetes: Explained in 5 minutes.]]></title>
-        <id>https://collabnix.com/?p=27456</id>
-        <link href="https://collabnix.com/horizontal-and-vertical-pod-autoscaling-in-kubernetes-explained-in-5-minutes/"/>
-        <updated>2024-09-17T08:48:23.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Kubernetes autoscaling is super important when it comes to handling changing workloads in containerized setups. When the demand for your application goes up or down, autoscaling makes sure your services stay fast and cost-effective by adjusting the resources to meet the workload. Without it, you’d either not have enough resources, causing slowdowns or crashes, […]]]></summary>
-        <author>
-            <name>Abraham Dahunsi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Docker Desktop Just a GUI?]]></title>
-        <id>https://collabnix.com/?p=27422</id>
-        <link href="https://collabnix.com/is-docker-desktop-just-a-ui/"/>
-        <updated>2024-09-17T04:22:51.000Z</updated>
-        <summary type="html"><![CDATA[When interacting with tons of engineers, I often hear a common question: “Why should I use Docker Desktop? I’m already comfortable using the CLI, and I don’t need a GUI.” This perception—that Docker Desktop is just a graphical user interface (GUI)—is widespread, but it misses the broader picture. Docker Desktop isn’t just a UI; it’s a comprehensive […]]]></summary>
-        <author>
-            <name>Ajeet Raina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How can I test a Pull Request before merging it?]]></title>
-        <id>https://collabnix.com/?p=27423</id>
-        <link href="https://collabnix.com/how-can-i-test-a-pull-request-before-merging-it/"/>
-        <updated>2024-09-17T03:41:06.000Z</updated>
-        <summary type="html"><![CDATA[Managing repositories, pull requests, and authentication via GitHub can sometimes feel cumbersome, especially if you prefer working from the command line. The GitHub CLI (command-line interface) simplifies many of these tasks by allowing you to perform GitHub-related operations directly from your terminal. This deep dive will focus on how you can use the GitHub CLI […]]]></summary>
-        <author>
-            <name>Ajeet Raina</name>
         </author>
     </entry>
 </feed>
