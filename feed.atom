@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2024-12-16T01:59:52.664Z</updated>
+    <updated>2024-12-17T01:55:52.031Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【持续更新】Mysql工作笔记]]></title>
+        <id>/archives/1709887884489</id>
+        <link href="https://srebro.cn/archives/1709887884489"/>
+        <updated>2024-12-17T00:51:00.000Z</updated>
+        <summary type="html"><![CDATA[1、开放增删改查权限，不开放表结构修改权限 有许多生产环境是不需要修改表结构的，也是为了防止SQL注入。 创建用户
+mysql> grant all on *.* to 'ie'@'%' identified by 'test1'
+
+设置权限
+1.首先我们先回收所有权限。
+revoke  all]]></summary>
+        <author>
+            <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Best Beehiiv Alternatives for Creators]]></title>
+        <id>https://collabnix.com/?p=29418</id>
+        <link href="https://collabnix.com/7-best-beehiiv-alternatives-for-creators/"/>
+        <updated>2024-12-16T18:57:16.000Z</updated>
+        <summary type="html"><![CDATA[Discover the best Beehiiv alternatives to enhance your email marketing efforts. From affordable options to advanced automation, find the right platform to grow your audience, boost engagement, and simplify your email campaigns.]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revolutionary Technological Innovations in Binary Options Platforms]]></title>
+        <id>https://collabnix.com/?p=29408</id>
+        <link href="https://collabnix.com/revolutionary-technological-innovations-in-binary-options-platforms/"/>
+        <updated>2024-12-16T18:47:44.000Z</updated>
+        <summary type="html"><![CDATA[Trading in binary options has grown exponentially in the past decade due to great improvements in technology. What was once a simple method of exchange has now become a sophisticated, analytics-driven market where stakeholders employ modern instruments and platforms to enhance their prospects of profitability. These changes have not only optimized the framework for the […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 GitOps Tools that you need to know!]]></title>
+        <id>https://www.virtualizationhowto.com/?p=298379</id>
+        <link href="https://www.virtualizationhowto.com/2024/12/5-gitops-tools-that-you-need-to-know/"/>
+        <updated>2024-12-16T15:24:45.000Z</updated>
+        <summary type="html"><![CDATA[I have been getting hugely into GitOps in the home lab lately and carrying those skillings into production environments. GitOps is a methodology that focuses on deployments being sourced from a git repo. Using GitOps you can encapsulate everything in your git repo and then make sure your apps are applied to your environment in …
+The post 5 GitOps Tools that you need to know! appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[法院为什么急着搞阅核制]]></title>
+        <id>https://hyruo.com/editor/2024_12_16_the_necessity_of_the_court_review_system/</id>
+        <link href="https://hyruo.com/editor/2024_12_16_the_necessity_of_the_court_review_system/"/>
+        <updated>2024-12-16T08:26:00.000Z</updated>
+        <summary type="html"><![CDATA[最近几年，关于司法改革的一个热门问题是“阅核制”的实施，即在上一轮司法改革后，法院在事实上朝着“让审理者裁判、由裁判者负责”的方向前行，由员额法官独立审判成为主流办案方式。但“阅核制”的出现，似乎在开倒车，法官独立审判后，裁判文书还得经庭长、院长阅核才能签发，感觉很像回到了以前的“科层制审批”状态。
+什么是阅核制
+
+阅核制全称应该叫“院庭长阅核制”，通常指在法院系统中，由法院院长或庭长对特定案件或法律文书进行审阅和核查的制度。这一制度通常用于加强对司法工作的监督和管理，确保案件审理的公正性、合法性和规范性。
+重点案件的阅核：对于重大、复杂或社会影响较大的案件，院长或庭长会亲自审阅案件材料、判决书等，确保案件审理的质量。
+法律文书的核查：对法院出具的法律文书（如判决书、裁定书、调解书等）进行复核，确保文书内容准确、格式规范、法律适用正确。
+程序监督：对审判程序的合法性进行核查，确保案件审理过程符合法律规定，避免程序瑕疵。
+质量把关：通过阅核制，院长或庭长可以发现并纠正案件审理中可能存在的问题，提升司法工作的整体水平。
+阅核制有哪些弊端
+
+“院庭长阅核制”虽然在一定程度上能够提升司法工作的质量和规范性，但也存在一些潜在的弊端，理论界批评“阅核制”主要包括独立性、效率与司法质量方面内容，具体包括以下几个方面。
+行政干预司法：主要是院庭长作为行政领导，可能会在阅核过程中对案件的审理施加不当影响，导致司法独立性受到削弱。而法官在审理案件时也可能会因为担心院庭长的审查而倾向于迎合领导的意见，而非完全依据法律和事实作出判断。
+增加工作负担：院庭长需要对大量案件或法律文书进行审阅和核查，这可能会导致其工作负担过重，影响其他行政管理工作的效率。法官在撰写法律文书时也可能会因为担心被阅核而花费更多时间进行修改和完善，从而延长案件审理周期。
+效率降低：阅核制的实施可能会导致案件审理流程变得更加复…]]></summary>
+        <author>
+            <name>海若博客</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Docker or Kubernetes: Which One is Right for You?]]></title>
         <id>https://collabnix.com/?p=29314</id>
@@ -14,6 +83,16 @@
         <summary type="html"><![CDATA[In the world of modern application deployment, two names frequently dominate conversations: Docker and Kubernetes. While they are often mentioned together, it’s essential to understand that Docker and Kubernetes serve distinct purposes. Docker focuses on development, while Kubernetes focuses on deployment. This post explores the differences, use cases, and how they work together. What is […]]]></summary>
         <author>
             <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[底层逻辑]]></title>
+        <id>https://yeshu.cloud/posts/newsletter-127/</id>
+        <link href="https://yeshu.cloud/posts/newsletter-127/"/>
+        <updated>2024-12-15T12:17:32.000Z</updated>
+        <summary type="html"><![CDATA[用不变的底层逻辑，动态地持续地看清事物的本质。]]></summary>
+        <author>
+            <name>一颗小树</name>
         </author>
     </entry>
     <entry>
@@ -4262,16 +4341,6 @@ How the Envoy proxy handles a user request - tetrate.io
         <summary type="html"><![CDATA[In industries like healthcare, legal, and finance, real-time voice transcription has become critical. The demand is not only for transcription speed but also for impeccable accuracy. Misinterpretations or delays can lead to costly errors. To navigate this complex landscape, it’s important to choose the right transcription model, carefully balancing accuracy with real-time processing requirements. In […]]]></summary>
         <author>
             <name>Adesoji Alu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Technology Tools Every Student Should Use for Effective Studying]]></title>
-        <id>https://collabnix.com/?p=27472</id>
-        <link href="https://collabnix.com/top-technology-tools-every-student-should-use-for-effective-studying/"/>
-        <updated>2024-09-17T16:46:02.000Z</updated>
-        <summary type="html"><![CDATA[For students to succeed academically, technology itself plays an important role in today’s digital era. However, this results in having a large amount of tools and it can be hard to choose what is better. In this article, we discuss some of the most important study materials about education technology for students that can help […]]]></summary>
-        <author>
-            <name>Arsheen Kour</name>
         </author>
     </entry>
 </feed>
