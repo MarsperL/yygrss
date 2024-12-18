@@ -812,16 +812,6 @@
           "wordCount": 81,
           "title": "游记｜台州天台，佛宗道源，和合之城",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.ops-coffee.cn/bpmn/bpmn-js-all-event-list",
-          "author": null,
-          "description": "bpmn.js Event 事件列表",
-          "link": "https://blog.ops-coffee.cn/bpmn/bpmn-js-all-event-list",
-          "publishedOn": "2024-09-19T11:47:24.000Z",
-          "wordCount": 707,
-          "title": "bpmn.js Event 事件列表",
-          "imageUrl": null
         }
       ]
     },
@@ -1165,6 +1155,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=298399",
+          "author": "Brandon Lee",
+          "description": "As you guys know, I have been a huge proponent of Docker Swarm. I think it is still a very viable option as a middle ground between standalone Docker hosts and Kubernetes when you need more availability than a single host can provide but you don’t want the complexity of Kubernetes. One extremely popular solution …\nThe post Pihole Docker Swarm Configuration with Nginx Proxy Manager appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2024/12/pihole-docker-swarm-configuration-with-nginx-proxy-manager/",
+          "publishedOn": "2024-12-17T15:52:00.000Z",
+          "wordCount": 10236,
+          "title": "Pihole Docker Swarm Configuration with Nginx Proxy Manager",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/pi-hole-docker-swarm-configuration.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=298379",
           "author": "Brandon Lee",
           "description": "I have been getting hugely into GitOps in the home lab lately and carrying those skillings into production environments. GitOps is a methodology that focuses on deployments being sourced from a git repo. Using GitOps you can encapsulate everything in your git repo and then make sure your apps are applied to your environment in …\nThe post 5 GitOps Tools that you need to know! appeared first on Virtualization Howto.",
@@ -1418,6 +1418,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=29433",
+          "author": "Tanvir Kour",
+          "description": "DevSecOps is no longer optional; it’s absolutely necessary for modern software development. As the pace of software deployment accelerates, integrating security into every phase of the development lifecycle has become critical. Cyber threats grow more sophisticated daily, making traditional approaches to security inadequate. Organizations must now adopt a proactive, integrated approach to secure their software, […]",
+          "link": "https://collabnix.com/top-tools-and-techniques-for-devsecops-implementation/",
+          "publishedOn": "2024-12-17T10:04:43.000Z",
+          "wordCount": 3546,
+          "title": "Top Tools and Techniques for DevSecOps Implementation",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/word-image-29433-1.jpeg"
+        },
         {
           "id": "https://collabnix.com/?p=29418",
           "author": "Tanvir Kour",
@@ -2617,36 +2627,6 @@
           "wordCount": 3025,
           "title": "2 ways to Assessing and Evaluating LLM Outputs: Ensuring Relevance, Accuracy, and Coherence of LLMs",
           "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/09/napkin-selection15.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=27561",
-          "author": "Tanvir Kour",
-          "description": "In the digital age that evolves fast, the pressure to deliver seamless, always-on services along with high-quality software apps has never been higher. Traditional DevOps practices, while effective, often struggle to keep up with the increasing complexity and volume of IT operations. That’s why today we speak about AIOps (Artificial Intelligence for IT Operations)—a game-changing […]",
-          "link": "https://collabnix.com/integrating-aiops-with-devops-for-optimal-benefits-and-overcoming-challenges/",
-          "publishedOn": "2024-09-19T10:08:44.000Z",
-          "wordCount": 3249,
-          "title": "Integrating AIOps with DevOps for Optimal Benefits and Overcoming Challenges",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/09/Screenshot-2024-09-19-at-3.37.54%E2%80%AFPM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=27517",
-          "author": "Adesoji Alu",
-          "description": "In today’s fast-paced digital world, conversational AI and chatbots are transforming the way we interact with machines. A critical element of an intelligent chatbot is low-latency real-time performance, especially when dealing with voice input. In this blog, we will explore how to design and deploy an intelligent LLM-based voice chatbot that provides a seamless, real-time […]",
-          "link": "https://collabnix.com/2-ways-to-building-an-intelligent-llm-based-voice-chatbot-with-minimal-latency/",
-          "publishedOn": "2024-09-18T20:34:03.000Z",
-          "wordCount": 4760,
-          "title": "2 Ways to Building an Intelligent LLM-Based Voice Chatbot with Minimal Latency",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/09/Screenshot-from-2024-09-18-17-27-00.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=27485",
-          "author": "Adesoji Alu",
-          "description": "In industries like healthcare, legal, and finance, real-time voice transcription has become critical. The demand is not only for transcription speed but also for impeccable accuracy. Misinterpretations or delays can lead to costly errors. To navigate this complex landscape, it’s important to choose the right transcription model, carefully balancing accuracy with real-time processing requirements. In […]",
-          "link": "https://collabnix.com/3-proven-methods-for-real-time-voice-transcription-success-balancing-precision-and-performance-in-critical-industries/",
-          "publishedOn": "2024-09-18T14:11:08.000Z",
-          "wordCount": 3714,
-          "title": "3 Proven Methods for Real-Time Voice Transcription Success: Balancing Precision and Performance in Critical Industries",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/09/napkin-selection2.png"
         }
       ]
     },

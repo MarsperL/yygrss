@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2024-12-17T01:55:52.031Z</updated>
+    <updated>2024-12-18T01:52:08.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pihole Docker Swarm Configuration with Nginx Proxy Manager]]></title>
+        <id>https://www.virtualizationhowto.com/?p=298399</id>
+        <link href="https://www.virtualizationhowto.com/2024/12/pihole-docker-swarm-configuration-with-nginx-proxy-manager/"/>
+        <updated>2024-12-17T15:52:00.000Z</updated>
+        <summary type="html"><![CDATA[As you guys know, I have been a huge proponent of Docker Swarm. I think it is still a very viable option as a middle ground between standalone Docker hosts and Kubernetes when you need more availability than a single host can provide but you don’t want the complexity of Kubernetes. One extremely popular solution …
+The post Pihole Docker Swarm Configuration with Nginx Proxy Manager appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Tools and Techniques for DevSecOps Implementation]]></title>
+        <id>https://collabnix.com/?p=29433</id>
+        <link href="https://collabnix.com/top-tools-and-techniques-for-devsecops-implementation/"/>
+        <updated>2024-12-17T10:04:43.000Z</updated>
+        <summary type="html"><![CDATA[DevSecOps is no longer optional; it’s absolutely necessary for modern software development. As the pace of software deployment accelerates, integrating security into every phase of the development lifecycle has become critical. Cyber threats grow more sophisticated daily, making traditional approaches to security inadequate. Organizations must now adopt a proactive, integrated approach to secure their software, […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【持续更新】Mysql工作笔记]]></title>
         <id>/archives/1709887884489</id>
@@ -4299,46 +4320,6 @@ How the Envoy proxy handles a user request - tetrate.io
         <link href="https://collabnix.com/2-ways-to-assessing-and-evaluating-llm-outputs-ensuring-relevance-accuracy-and-coherence-of-llms/"/>
         <updated>2024-09-20T08:34:25.000Z</updated>
         <summary type="html"><![CDATA[As large language models (LLMs) become increasingly integrated into applications, ensuring their outputs are relevant, factually accurate, and coherent is paramount. In this blog post, I’ll delve into methods for assessing these aspects of LLM outputs, discuss tools and frameworks I’ve used to evaluate performance and ensure observability, and provide code demonstrations where applicable. We’ll […]]]></summary>
-        <author>
-            <name>Adesoji Alu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bpmn.js Event 事件列表]]></title>
-        <id>https://blog.ops-coffee.cn/bpmn/bpmn-js-all-event-list</id>
-        <link href="https://blog.ops-coffee.cn/bpmn/bpmn-js-all-event-list"/>
-        <updated>2024-09-19T11:47:24.000Z</updated>
-        <summary type="html"><![CDATA[bpmn.js Event 事件列表]]></summary>
-        <author>
-            <name>运维咖啡吧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Integrating AIOps with DevOps for Optimal Benefits and Overcoming Challenges]]></title>
-        <id>https://collabnix.com/?p=27561</id>
-        <link href="https://collabnix.com/integrating-aiops-with-devops-for-optimal-benefits-and-overcoming-challenges/"/>
-        <updated>2024-09-19T10:08:44.000Z</updated>
-        <summary type="html"><![CDATA[In the digital age that evolves fast, the pressure to deliver seamless, always-on services along with high-quality software apps has never been higher. Traditional DevOps practices, while effective, often struggle to keep up with the increasing complexity and volume of IT operations. That’s why today we speak about AIOps (Artificial Intelligence for IT Operations)—a game-changing […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2 Ways to Building an Intelligent LLM-Based Voice Chatbot with Minimal Latency]]></title>
-        <id>https://collabnix.com/?p=27517</id>
-        <link href="https://collabnix.com/2-ways-to-building-an-intelligent-llm-based-voice-chatbot-with-minimal-latency/"/>
-        <updated>2024-09-18T20:34:03.000Z</updated>
-        <summary type="html"><![CDATA[In today’s fast-paced digital world, conversational AI and chatbots are transforming the way we interact with machines. A critical element of an intelligent chatbot is low-latency real-time performance, especially when dealing with voice input. In this blog, we will explore how to design and deploy an intelligent LLM-based voice chatbot that provides a seamless, real-time […]]]></summary>
-        <author>
-            <name>Adesoji Alu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 Proven Methods for Real-Time Voice Transcription Success: Balancing Precision and Performance in Critical Industries]]></title>
-        <id>https://collabnix.com/?p=27485</id>
-        <link href="https://collabnix.com/3-proven-methods-for-real-time-voice-transcription-success-balancing-precision-and-performance-in-critical-industries/"/>
-        <updated>2024-09-18T14:11:08.000Z</updated>
-        <summary type="html"><![CDATA[In industries like healthcare, legal, and finance, real-time voice transcription has become critical. The demand is not only for transcription speed but also for impeccable accuracy. Misinterpretations or delays can lead to costly errors. To navigate this complex landscape, it’s important to choose the right transcription model, carefully balancing accuracy with real-time processing requirements. In […]]]></summary>
         <author>
             <name>Adesoji Alu</name>
         </author>
