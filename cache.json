@@ -360,6 +360,16 @@
       "siteUrl": "https://srebro.cn/",
       "articles": [
         {
+          "id": "/archives/1734490757464",
+          "author": null,
+          "description": "华为认证openEuler专家 HCIP-openEuler 官方说明：https://e.huawei.com/cn/talent/news/#/details?consultationId=3603 华为认证HCIE-openEuler V1.0定位于培养和认证基于openEuler操作系统完成",
+          "link": "https://srebro.cn/archives/1734490757464",
+          "publishedOn": "2024-12-18T03:00:35.000Z",
+          "wordCount": 2057,
+          "title": "关于华为-OpenEuler-HCIP认证",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/615AA45E-41C3-4702-95A5-FF7B33498D8F.png"
+        },
+        {
           "id": "/archives/1709887884489",
           "author": null,
           "description": "1、开放增删改查权限，不开放表结构修改权限 有许多生产环境是不需要修改表结构的，也是为了防止SQL注入。 创建用户\nmysql> grant all on *.* to 'ie'@'%' identified by 'test1'\n\n设置权限\n1.首先我们先回收所有权限。\nrevoke  all",
@@ -1154,6 +1164,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=298430",
+          "author": "Brandon Lee",
+          "description": "Often learning is more fun when you have something “fun” to learn for. If you are like me, you may enjoy spinning up new projects to learn various Docker skills and disciplines. However, having a home lab project that is fun in itself makes this process even more enjoyable. Take for instance, learning Docker containers …\nThe post Docker Minecraft Server Home Lab Project appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2024/12/docker-minecraft-server-home-lab-project/",
+          "publishedOn": "2024-12-18T13:59:33.000Z",
+          "wordCount": 10259,
+          "title": "Docker Minecraft Server Home Lab Project",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/docker-minecraft-server.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=298399",
           "author": "Brandon Lee",
@@ -2635,6 +2655,16 @@
       "feedUrl": "https://qq.mba/feed",
       "siteUrl": "https://qq.mba/",
       "articles": [
+        {
+          "id": "https://qq.mba/204.html",
+          "author": "满心",
+          "description": "前段时间整了个迷你主机，配置为R7-5700U 8核16线程，给了一根32G、16G的联想内存条，还有m2的2T + 512SATA硬盘，配置还是相当客观，比我现在办公电脑配置还高。安装宝塔，使...",
+          "link": "https://qq.mba/204.html",
+          "publishedOn": "2024-12-18T08:12:01.000Z",
+          "wordCount": 568,
+          "title": "使用FlexCdn自建CDN",
+          "imageUrl": null
+        },
         {
           "id": "https://qq.mba/199.html",
           "author": "满心",
