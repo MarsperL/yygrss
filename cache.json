@@ -537,6 +537,16 @@
       "siteUrl": "https://soulteary.com/feed/",
       "articles": [
         {
+          "id": "https://soulteary.com/2024/12/20/at-the-end-of-2024-share-personal-device-to-friends.html",
+          "author": "苏洋(soulteary)",
+          "description": "最近不管是线上还是线下聊天，总会有朋友问我：“你觉得哪些电子设备买了真的不亏？” 临近 2025 的到来前，和大家分享一下陪伴我度过 2024 的电子设备们。",
+          "link": "https://soulteary.com/2024/12/20/at-the-end-of-2024-share-personal-device-to-friends.html",
+          "publishedOn": "2024-12-20T02:22:00.000Z",
+          "wordCount": 675,
+          "title": "2024 年终，个人设备盘点",
+          "imageUrl": null
+        },
+        {
           "id": "https://soulteary.com/2024/12/01/use-open-source-software-to-build-a-lightweight-npm-private-repository-verdaccio.html",
           "author": "苏洋(soulteary)",
           "description": "本篇内容，我们来聊聊使用开源软件 Verdaccio 搭建轻量的 NPM 私有仓库。",
@@ -830,6 +840,16 @@
       "feedUrl": "https://jimmysong.io/blog/index.xml",
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
+        {
+          "id": "https://jimmysong.io/blog/envoy-ext-proc-guide/",
+          "author": "Jimmy Song",
+          "description": "在微服务架构中，API 网关通常需要对请求和响应进行高级别的处理，如身份验证、数据转换和安全检查。Envoy 提供的 ext_proc 外部处理过滤器，是一个强大的工具，通过与 gRPC 服务交互，实现灵活的请求与响应处理。本文将深入解析该过滤器的功能、配置与性能优化策略，帮助开发人员和 DevOps 工程师高效应用该特性。\next_proc 与其他过滤器的关系\next_proc 和 Envoy 中的其他 gRPC 接口过滤器（如 ext_authz）在功能上有相似之处，但 ext_proc 提供了更强大的功能，支持完整的请求和响应处理。这使其特别适用于需要深度内容检查和修改的应用场景。\n你可以通过下面的 Envoy 外部处理过滤器思维导图快速了解 ext_proc。\nEnvoy ext_proc 思维导图\n  \n\n这张思维导图展示了 Envoy ext_proc 外部处理过滤器的核心结构和功能模块。ext_proc 通过 gRPC 双向流协议与外部服务交互，可灵活处理 HTTP 请求和响应的各个阶段，并支持同步与异步处理。\next_proc 工作原理与配置\n定义与功能\next_proc 是 Envoy 提供的 HTTP 过滤器，支持将请求和响应外包给 gRPC 服务进行处理，允许在外部服务中实现复杂的逻辑，灵活应对业务需求。例如，在安全场景中，ext_proc 可用于执行身份验证和授权检查；在数据转换场景中，可以实现数据格式转换与内容过滤。此外，还可用于记录审计日志、动态请求重写以及内容增强等功能，适用于各种企业应用环境中的深度流量管理。\n工作原理\next_proc 使用双向 gRPC 流与外部服务通信，实现请求和响应处理的实时交互。这使得 Envoy 可以将复杂任务（如身份验证、数据转换和自定义 Header 操作）卸载到外部服务，从而提高灵活性和可扩展性。\nEnvoy…",
+          "link": "https://jimmysong.io/blog/envoy-ext-proc-guide/",
+          "publishedOn": "2024-12-20T03:31:33.000Z",
+          "wordCount": 1052,
+          "title": "深入解析 Envoy 外部处理过滤器（ext_proc）",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
+        },
         {
           "id": "https://jimmysong.io/blog/istio-ambient-l7-flow-analysis/",
           "author": "Jimmy Song",
@@ -1175,6 +1195,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=298473",
+          "author": "Brandon Lee",
+          "description": "In case you haven’t heard, Proxmox has released a new Proxmox DataCenter Manager project that is set to help admins have a centralized view of all their individual Proxmox VE server nodes and Proxmox clusters. You can also do basic operations with it at this point from a central console. Let’s look at the new …\nThe post New Proxmox Datacenter Manager Released Download and Install appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2024/12/new-proxmox-datacenter-manager-released-download-and-install/",
+          "publishedOn": "2024-12-20T16:12:32.000Z",
+          "wordCount": 10512,
+          "title": "New Proxmox Datacenter Manager Released Download and Install",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/proxmox-datacenter-manager.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=298447",
           "author": "Brandon Lee",
           "description": "Why do I say this? Well, I am like everyone and just monitoring and reading and hearing what others are talking about. There seem to be several things that many will be changing in their labs in 2025 and I am not the only one seeing these changes happening. Some of them are pretty obvious, …\nThe post Home Labs are changing in 2025 appeared first on Virtualization Howto.",
@@ -1458,6 +1488,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=29551",
+          "author": "Anant Jain",
+          "description": "Web development has come a long way, but the journey is far from over. We’ve seen the rise of dynamic websites, responsive designs, and JavaScript-heavy applications that can do everything from playing video games to managing business data. But there’s always been one lingering challenge: performance. As web applications become more complex, achieving optimal performance […]",
+          "link": "https://collabnix.com/web-development-with-webassembly-a-new-era-of-performance-and-portability/",
+          "publishedOn": "2024-12-20T12:01:40.000Z",
+          "wordCount": 3630,
+          "title": "Web Development with WebAssembly: A New Era of Performance and Portability",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=29547",
+          "author": "Tanvir Kour",
+          "description": "With its breathtaking landscapes and rich cultural heritage, Indonesia is a magnet for travelers. In a world where staying connected is as important as exploring new destinations, advancements in cloud-native technologies have transformed how tourists experience seamless connectivity. Solutions like the Indonesia eSIM offer a modern, hassle-free way to stay online, allowing travelers to share […]",
+          "link": "https://collabnix.com/how-cloud-native-technologies-enhance-connectivity-for-travelers-in-indonesia/",
+          "publishedOn": "2024-12-20T06:41:03.000Z",
+          "wordCount": 2774,
+          "title": "How Cloud-Native Technologies Enhance Connectivity for Travelers in Indonesia",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/Screenshot-2024-12-20-at-12.26.24%E2%80%AFPM.png"
+        },
         {
           "id": "https://collabnix.com/?p=29468",
           "author": "Tanvir Kour",
@@ -2647,16 +2697,6 @@
           "wordCount": 4037,
           "title": "Integrating AIOps with Log Monitoring for Kubernetes: The Future of Automation",
           "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/09/Screenshot-2024-09-23-at-4.46.18%E2%80%AFPM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=27606",
-          "author": "Tanvir Kour",
-          "description": "Analytics has become the most helpful acquisition for businesses globally, as it allows them to optimize operations and make strategic decisions based on data.  This is where data strategy consulting services can help empower businesses for sustained growth. As a leading provider of data consulting solutions, Experts are highly trained to develop comprehensive data strategies […]",
-          "link": "https://collabnix.com/data-strategy-solutions-for-future-proof-growth-unlock-hidden-potential/",
-          "publishedOn": "2024-09-22T09:16:39.000Z",
-          "wordCount": 3225,
-          "title": "Data Strategy Solutions for Future-Proof Growth – Unlock Hidden Potential",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/09/Screenshot-2024-09-22-at-2.44.42%E2%80%AFPM.png"
         }
       ]
     },
@@ -2665,6 +2705,16 @@
       "feedUrl": "https://qq.mba/feed",
       "siteUrl": "https://qq.mba/",
       "articles": [
+        {
+          "id": "https://qq.mba/205.html",
+          "author": "满心",
+          "description": "\"2025年元旦1月1日（周三）放假1天不调休\"，这句话虽然没毛病，但听着心里莫名有股火再来看看2015年期情况吧！整体上来说，几个大节日没有调休了，比如：51、国庆等，这个还是可以的，每次节后...",
+          "link": "https://qq.mba/205.html",
+          "publishedOn": "2024-12-20T08:50:00.000Z",
+          "wordCount": 518,
+          "title": "聊聊假期那些事儿",
+          "imageUrl": null
+        },
         {
           "id": "https://qq.mba/204.html",
           "author": "满心",
@@ -2793,16 +2843,6 @@
           "publishedOn": "2024-10-08T06:05:32.000Z",
           "wordCount": 512,
           "title": "七天的国庆结束了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://qq.mba/187.html",
-          "author": "满心",
-          "description": "中秋前的几周的周六一直在加班，感觉还是挺累，一天的休息感觉既没睡好，也没玩好，说不出门吧，小孩儿又眼巴巴看着，想开车出去转转，几乎每周天都会就近找个位置玩一下，所以感觉自己总是有点儿疲倦，有点儿...",
-          "link": "https://qq.mba/187.html",
-          "publishedOn": "2024-09-22T07:42:00.000Z",
-          "wordCount": 524,
-          "title": "这个周末很清闲",
           "imageUrl": null
         }
       ]
@@ -3226,16 +3266,6 @@
           "publishedOn": "2024-09-24T01:53:41.000Z",
           "wordCount": 296,
           "title": "小牛NXT玩家版电动自行车，武汉提车上牌",
-          "imageUrl": null
-        },
-        {
-          "id": "https://4311346.com/post/2024/0922-volov-s60.html",
-          "author": null,
-          "description": "2024年除了03月的那一趟武汉到敦煌西北大环线之旅外，基本上很少用车，所以2024年04月初的那次S60交通事故后保养至今5个月，才4000多公里里程。 用车场景基本都在周末，出门逛吃…\n2024年09月08日，高架桥上，突然胎压报警灯亮了…立即在附近去了汉阳的沃尔沃4S店，一套程序检测下来，并未发现扎胎点，师傅说可能是气温的缘故，导致被动胎压监测数据不准。\n2024年09月11日，晚上的武汉下起了雨，湿滑的路面，几次大脚油门，车轮在打滑中加速很是刺激。随之而来的居然是发动机故障灯亮及小乌龟-显示发动机性能下降…在液晶仪表盘中闪烁30秒后消失。但在沃尔沃S60车机-车辆状态中任然显示，发动机系统性能下降的故障提醒。\n因为比较急，所以接下来20多公里一路飞奔到家。地库中，重启车辆后，沃尔沃S60车机-车辆状态中发动机系统性能下降的故障提醒消失…\n这沃尔沃是抽了啥子的风…猛踩几脚油门，弹射起步，也会有问题？\n沃尔沃被动胎压监测\n沃尔沃S60采用被动式胎压监测系统，它并非直接显示胎压数值，而是直接利用ABS防抱死系统的轮速传感器，通过检测轮胎间的转速差异来监控胎压状况。\n当然被动式胎压监测肯定不够直观，那台八年的马自达昂克赛拉上的铁将军T192胎压检测是直接转移过来的，至今快10年了，一点问题都没有。\n\n沃尔沃4S店检测\n毕竟是系统报警，所以提前预约沃尔沃4S店检查车辆，未发现轮胎有被扎的状态，这半个月来也并没有胎压下降，所以大概率是气温原因导致的系统误报，在沃尔沃车机中，直接储存胎压就可以自动消除。即使真的轮胎被扎，补胎也能解决并不是什么大问题。\n而发动机性能下降这小乌龟，就有点难受了…\n一早预约到提车的江夏中升沃尔沃4S店，虽然第二次启动后小乌龟图标及报警就已消失，但连接4S店检查电脑还是能看到车辆当时的报错代码-为发动机一个缸内失火。\n造成这个问题的原因就两个\n发动机积碳，需要清理；\n发动机点火线圈问题；\n出了一早上时间毕竟紧之外，并没有在沃尔沃4S店里再做任何的检查和修理，蹭了个洗车就去办事了。\n\n沃尔沃S60发动机积碳问题\n4S店的小师傅说：“2023款沃尔沃S60车型换装了米勒循环发动机，更节油了，也更容易积碳… 而且已经3万多公里里程了，有积碳正常。”\n但那辆八年的马自达昂克赛拉，同样是米勒循环，近十万公里也没有因为积碳报错… 而且这台一年三万公里的沃尔沃S60智远运动版，大半的里程是在高速上行驶。\n要这个说法，我还真有点不相信。我也知道是发动机都会有积碳，只是程度不一样。\n沃尔沃S60发动机点火线圈问题\n关于沃尔沃S60发动机点火线圈问题也在网络上了解了下，2015款之前的车型此类问题挺多，而2020年改款之后，基本没有什么这类问题，所以自己也并不会人品太差遇见这种问题。先继续开着，若有问题，再走售后流程把。\n沃尔沃4S店维修总结\n都说只有修车的时候才知道沃尔沃是豪车，真的是发动机点火线圈问题，能走售后流程当然是最好的解决方案。而属于发动机积碳问题，清理积碳则为自费，在4S店工时费不低。虽然出现报错再次启动就没有了，我也不认为是什么大问题，车还得多开才能维持在最好的状态。\n而近期开车好像越来越少了…\n沃尔沃S60百公里油耗超20升\n一辆标轴的B级车，百公里油耗20.3L，有图有真相…这是08月七夕节的周末，街道口附近商圈很堵，加上那天天气很热，出门时心情并不好。再遇上哪些堵车加塞的全员鄂人，所以每次都是猛起步，猛刹车，不会给旁边司机留下任何的加塞机会。20公里不到的路程，行驶超1小时，油耗再升新高。也不知道是不是这样拥堵的路段和油耗，更容易造成积碳。\n\n先开着把，有问题再说\n总之车都是修坏的，这些4S店大多没有多大的良心，小病大修的案例是在太多。",
-          "link": "https://4311346.com/post/2024/0922-volov-s60.html",
-          "publishedOn": "2024-09-22T09:06:55.000Z",
-          "wordCount": 237,
-          "title": "沃尔沃S60胎压报警及发动机系统性能下降提醒",
           "imageUrl": null
         }
       ]
