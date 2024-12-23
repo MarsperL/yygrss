@@ -518,16 +518,6 @@
           "wordCount": 3148,
           "title": "ClickHouse 数据保护指南：从备份到迁移的全流程攻略",
           "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/F94878BD-5CDE-459A-ABC1-4B6C74AB5438.jpg"
-        },
-        {
-          "id": "/archives/1727170388055",
-          "author": null,
-          "description": "一、nacos 介绍 官网： https://nacos.io/ 一个更易于构建云原生应用的动态服务发现、配置管理和服务管理平台 二、如何使用docker-compose 快速部署nacos2.2.0 ⚠️ ： nacos-standalone 部署方式 依赖于 数据库，请先配置好数据库实例，此版本",
-          "link": "https://srebro.cn/archives/1727170388055",
-          "publishedOn": "2024-09-24T09:33:25.000Z",
-          "wordCount": 3275,
-          "title": "docker-compose 快速部署nacos2.2.0-standalone单节点",
-          "imageUrl": "null"
         }
       ]
     },
@@ -536,6 +526,26 @@
       "feedUrl": "https://soulteary.com/feed/",
       "siteUrl": "https://soulteary.com/feed/",
       "articles": [
+        {
+          "id": "https://soulteary.com/2024/12/23/use-ai-to-assist-in-developing-an-open-source-ip-information-tool-part-2.html",
+          "author": "苏洋(soulteary)",
+          "description": "本文将继续分享如何借助当下流行的 AI 工具，一步步完成一个开源项目的开发。",
+          "link": "https://soulteary.com/2024/12/23/use-ai-to-assist-in-developing-an-open-source-ip-information-tool-part-2.html",
+          "publishedOn": "2024-12-22T17:12:00.000Z",
+          "wordCount": 1781,
+          "title": "使用 AI 辅助开发一个开源 IP 信息查询工具：二",
+          "imageUrl": null
+        },
+        {
+          "id": "https://soulteary.com/2024/12/21/use-ai-to-assist-in-developing-an-open-source-ip-information-tool-part-1.html",
+          "author": "苏洋(soulteary)",
+          "description": "本文将分享如何借助当下流行的 AI 工具，一步步完成一个开源项目的开发。",
+          "link": "https://soulteary.com/2024/12/21/use-ai-to-assist-in-developing-an-open-source-ip-information-tool-part-1.html",
+          "publishedOn": "2024-12-21T10:38:00.000Z",
+          "wordCount": 2038,
+          "title": "使用 AI 辅助开发一个开源 IP 信息查询工具：一",
+          "imageUrl": null
+        },
         {
           "id": "https://soulteary.com/2024/12/20/at-the-end-of-2024-share-personal-device-to-friends.html",
           "author": "苏洋(soulteary)",
@@ -811,26 +821,6 @@
           "publishedOn": "2024-09-25T10:09:21.000Z",
           "wordCount": 58,
           "title": "毕业旅行｜皖南自驾DAY2 - 皖浙差异",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.ops-coffee.cn/r/china-travel-layoff-trip-day1-xiangjiadang-liangzhu",
-          "author": null,
-          "description": "我毕业了，你呢？",
-          "link": "https://blog.ops-coffee.cn/r/china-travel-layoff-trip-day1-xiangjiadang-liangzhu",
-          "publishedOn": "2024-09-24T10:18:52.000Z",
-          "wordCount": 59,
-          "title": "毕业旅行｜皖南自驾DAY1 - 关于秋",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.ops-coffee.cn/s/I-was-laid-off",
-          "author": null,
-          "description": "人生的又一个十字路口，该往哪儿走呢",
-          "link": "https://blog.ops-coffee.cn/s/I-was-laid-off",
-          "publishedOn": "2024-09-23T18:55:15.000Z",
-          "wordCount": 36,
-          "title": "裁员，这一次终于轮到了我",
           "imageUrl": null
         }
       ]
@@ -1488,6 +1478,36 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=29582",
+          "author": "Tanvir Kour",
+          "description": "Continuous Integration and Continuous Deployment (CI/CD) pipelines have become essential for modern application development, and Kubernetes is a popular choice for orchestrating containerized applications. Combine this with GitHub Actions, and you have a powerful toolchain for automating your container workflows from code to deployment. This guide will walk you through setting up a CI/CD pipeline […]",
+          "link": "https://collabnix.com/kubernetes-with-github-actions-ci-cd-for-containers/",
+          "publishedOn": "2024-12-22T04:16:37.000Z",
+          "wordCount": 2555,
+          "title": "Kubernetes with GitHub Actions: CI/CD for Containers",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/Screenshot-2024-12-22-at-9.45.11%E2%80%AFAM.png"
+        },
+        {
+          "id": "https://collabnix.com/?p=29574",
+          "author": "Tanvir Kour",
+          "description": "Have you ever felt like traditional AI systems are great but hit their limits when handling really complex tasks? Retrieval-Augmented Generation (RAG) has been a game-changer by combining retrieval systems and generation models. But, let’s face it, even RAG has its struggles—from bottlenecks in retrieval to scalability issues and limited context understanding. Now imagine this: […]",
+          "link": "https://collabnix.com/what-is-a-multi-agent-rag-and-what-problem-does-it-solve/",
+          "publishedOn": "2024-12-22T02:59:39.000Z",
+          "wordCount": 2968,
+          "title": "What is a Multi-Agent RAG and what problem does it solve?",
+          "imageUrl": "https://usercontent.one/wp/collabnix.com/wp-content/uploads/2024/12/image-20-1024x709.avif?media=1725267074"
+        },
+        {
+          "id": "https://collabnix.com/?p=29559",
+          "author": "Tanvir Kour",
+          "description": "Since its inception in 2014, Kubernetes has revolutionized the way we think about deploying and managing containerized applications. As the orchestrator of choice for many organizations, Kubernetes has become synonymous with cloud-native infrastructure. However, with the rapid evolution of technology and new paradigms emerging in the tech landscape, it’s fair to ask: does Kubernetes have […]",
+          "link": "https://collabnix.com/does-kubernetes-have-a-future-a-technical-deep-dive-and-analysis/",
+          "publishedOn": "2024-12-21T07:13:31.000Z",
+          "wordCount": 2879,
+          "title": "Does Kubernetes Have a Future? A Technical Deep Dive and Analysis",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/Screenshot-2024-12-21-at-12.45.56%E2%80%AFPM.png"
+        },
         {
           "id": "https://collabnix.com/?p=29551",
           "author": "Anant Jain",
@@ -2667,36 +2687,6 @@
           "wordCount": 3040,
           "title": "Next-Gen VIN Decoders: Exploring Cutting-Edge Technologies for Smarter Vehicle Identification",
           "imageUrl": "https://usercontent.one/wp/collabnix.com/wp-content/uploads/2024/09/Screenshot-2024-09-25-at-2.43.53?media=1725267074 PM-png.avif"
-        },
-        {
-          "id": "https://collabnix.com/?p=27636",
-          "author": "Dora Bryan",
-          "description": "Are you looking for ways to streamline your DevOps workflow with clear documentation? Look no further! Check these strategies to boost your documentation like a pro! Read now!",
-          "link": "https://collabnix.com/streamlining-devops-workflow-with-clear-documentation/",
-          "publishedOn": "2024-09-24T09:38:18.000Z",
-          "wordCount": 2799,
-          "title": "Streamlining DevOps Workflow with Clear Documentation",
-          "imageUrl": "https://usercontent.one/wp/collabnix.com/wp-content/uploads/2024/09/Screenshot-2024-09-24-at-3.08.02?media=1725267074 PM-png.avif"
-        },
-        {
-          "id": "https://collabnix.com/?p=27630",
-          "author": "Ajeet Raina",
-          "description": "Are you eager to dive deeper into the world of Docker? Look no further! We’re excited to announce an upcoming live event featuring insights directly from Docker staff. This is a fantastic opportunity to get your burning questions answered by the experts themselves. What You Can Expect Our session will cover a range of critical […]",
-          "link": "https://collabnix.com/online-session-whats-new-in-docker/",
-          "publishedOn": "2024-09-24T04:18:49.000Z",
-          "wordCount": 2119,
-          "title": "Online Session: What’s New in Docker",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/09/Screenshot-2024-09-24-at-9.13.48%E2%80%AFAM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=27619",
-          "author": "Tanvir Kour",
-          "description": "Master AIOps with log monitoring for Kubernetes with our expert insights and tips for optimizing your Kubernetes environment.",
-          "link": "https://collabnix.com/integrating-aiops-with-log-monitoring-for-kubernetes-the-future-of-automation/",
-          "publishedOn": "2024-09-23T11:16:30.000Z",
-          "wordCount": 4037,
-          "title": "Integrating AIOps with Log Monitoring for Kubernetes: The Future of Automation",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/09/Screenshot-2024-09-23-at-4.46.18%E2%80%AFPM.png"
         }
       ]
     },
@@ -2880,16 +2870,6 @@
           "publishedOn": "2024-11-08T00:00:00.000Z",
           "wordCount": 154,
           "title": "自行车棚效应：我们为什么在小事上纠结，却对大事视而不见？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://limboy.me/posts/shower-habit",
-          "author": null,
-          "description": "今天早上（严格说来是近中午了，醒的晚😂）在洗澡的时候，忽然觉得应该将「每天早上洗澡」这件事纳入日程中，因为这是难得的一段不会被打扰，不会使用电子设备，完全属于自己的时间。可以用这段时间做一些微小但又重要的事。",
-          "link": "https://limboy.me/posts/shower-habit",
-          "publishedOn": "2024-09-24T00:00:00.000Z",
-          "wordCount": 223,
-          "title": "洗澡这件小事值得被认真对待",
           "imageUrl": null
         }
       ]
@@ -3108,21 +3088,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bluehe.cn/usr/uploads/2024/10/2920120651.jpg"
-        },
-        {
-          "id": "https://bluehe.cn/archives/village-memories",
-          "author": "寻鹤",
-          "description": "中秋节前与家人回到家乡，由于邕江洪水未退，桥梁成了重要通道。尽管环境有些影响，老人们仍在岸边钓鱼。家中的鱼塘为节日提供了新鲜的鱼，家人准备了丰盛的菜肴庆祝中秋，包括扣肉、鸡肉和您最爱的炸鹌鹑。镇上的集市热闹，您还享受了儿时爱吃的云吞。家乡的变化和熟悉的景致都让您感到亲切。",
-          "link": "https://bluehe.cn/archives/village-memories",
-          "publishedOn": "2024-09-23T03:19:00.000Z",
-          "wordCount": 800,
-          "title": "乡韵留影",
-          "enclosure": {
-            "url": "https://bluehe.cn/usr/uploads/2024/09/3099653333.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bluehe.cn/usr/uploads/2024/09/3099653333.jpg"
         }
       ]
     },
@@ -3256,16 +3221,6 @@
           "publishedOn": "2024-10-07T01:00:57.000Z",
           "wordCount": 278,
           "title": "又特地去了一趟福州-中国船政文化博物馆",
-          "imageUrl": null
-        },
-        {
-          "id": "https://4311346.com/post/2024/0924-niu-nxt.html",
-          "author": null,
-          "description": "2015年，第一次知道小牛电动车时，就被N系列这外观给征服了，只是当时并没有什么明确的用车场景需求，所以对于小牛电动车的认知并不够深入。直到后来2016年第二版N1S上线，将小牛带入了电动车第一梯队。也是从2016年开始频繁的出差至2024年初…\n如今40岁武汉求职再就业，依然是忙，入职也快半年了，因为业务全在武汉，也没出过差。虽然出小区大门2分钟可进地铁站，三站路+200米步行，全程20分钟能到公司，但总觉得人到中年这样两点一线的生活少了些什么。\n……下班后的浪\n2024年03月，武汉到敦煌西北大环线旅游回来之后，这台一年两万公里的沃尔沃S60基本也就周末用车，当然周末也有1/3的时间是在公司加班的。从04月至今不到20个周末，用车里程却有近4000公里。最蛋疼的是好几次堵车，百公里油耗已达20+…  95号汽油不耐烧的年代，用车在成本上已经大于停车费用了。\n先来这么一辆 小牛电动车\n也想过 TELSA、极氪 等电动汽车，对于我这种每年要干几次长途去丈母娘家的好女婿来说，800公里的高速充电实属蛋疼。养两台汽车，保险，停车费等费用也是平方数的上升，自己没固定车位和充电桩，使用成本并不低。\n此时先来这么一辆小牛电动车，或许现在是最好的选择\n武汉禁摩，那么 小牛N、NX、F400、NQi\\GT，或许都不是能考虑的对象，使用成本和风险是按立方系数上涨的。比如电动摩托车上牌，武汉费用1500元，考取摩托车D型驾照，武汉费用1000元。每一次被交警抓，就是1分，100元，其它均按机动车认定。\n剩下的，只能是这些款中的T系电动自行车版，武汉鄂W上牌费20元，无须驾照… 哈哈哈。\n国标 GB 17761-2018\n即使是电动自行车，正常上白牌，估计也会全部超标……\n强制性国标GB17761-2018中所指的电动自行车重量不大于55公斤，电机功率不超过400w，额定电压不超过48V且具备…",
-          "link": "https://4311346.com/post/2024/0924-niu-nxt.html",
-          "publishedOn": "2024-09-24T01:53:41.000Z",
-          "wordCount": 296,
-          "title": "小牛NXT玩家版电动自行车，武汉提车上牌",
           "imageUrl": null
         }
       ]
