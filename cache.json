@@ -86,6 +86,16 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
+          "id": "https://daverupert.com/2024/12/css-wants-to-be-a-system/",
+          "author": null,
+          "description": "I’ve realized something obvious again, this time about CSS; that CSS wants to be a system. At the core of CSS is a series of cascading rules and classes marrying and mingling in an elegant symphony of style application. Dozens and dozens of declarative instructions for painting pixels on the screen come together in under a millisecond. Sometimes it creates magic, other times it creates memes.\nAt its core, CSS wants to be a system and – besides its quirky selector power ranking algorithm – it doesn’t come with one out of the box. CSS wants you to build a system with it. It wants styles to build up, not flatten down. It even has layers as a feature! You can start small with a minimalist reset or satisfy your inner typenerd with a typographic default and build up from there. You can make your…",
+          "link": "https://daverupert.com/2024/12/css-wants-to-be-a-system/",
+          "publishedOn": "2024-12-23T23:03:00.000Z",
+          "wordCount": 1011,
+          "title": "CSS wants to be a system",
+          "imageUrl": null
+        },
+        {
           "id": "https://daverupert.com/2024/12/every-token-is-a-feature/",
           "author": null,
           "description": "I’m in the middle of a design tokens project and I thought I’d share something I’m learning that is probably obvious to everyone else; every design token is a feature.\nA token is a magical contract between design and engineering, if we agree to use the same name to abstractly refer to the same value, it will produce a desired outcome. That bridge alone is probably worth the investment, but tokens solve even more organizational problems. The mobile app and the website can look the same by sharing a single JSON file. But wait, there’s more! If the blue a different team chose is not blue enough for you, you can make your own blue and apply it at the global scope or the individual element scope. Tokens as an organizational feature are a powerful concept but there’s tons of nuance packed behind…",
@@ -634,6 +644,16 @@
       "siteUrl": "https://blog.ops-coffee.cn",
       "articles": [
         {
+          "id": "https://blog.ops-coffee.cn/t/game-operation-management-specification",
+          "author": null,
+          "description": "游戏运维管理规范",
+          "link": "https://blog.ops-coffee.cn/t/game-operation-management-specification",
+          "publishedOn": "2024-12-23T15:50:52.000Z",
+          "wordCount": 502,
+          "title": "游戏运维管理规范",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.ops-coffee.cn/r/city-china-zhejiang-jiaxing-haining",
           "author": null,
           "description": "嘉兴海宁，两天一晚旅行攻略",
@@ -811,16 +831,6 @@
           "publishedOn": "2024-09-26T12:06:01.000Z",
           "wordCount": 62,
           "title": "毕业旅行｜皖南自驾DAY3 - 黟县",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.ops-coffee.cn/r/china-travel-layoff-trip-day2-linan-shexian-wannan",
-          "author": null,
-          "description": "同属于清凉峰的皖浙两地究竟有什么差异？这里有一个形象的比喻",
-          "link": "https://blog.ops-coffee.cn/r/china-travel-layoff-trip-day2-linan-shexian-wannan",
-          "publishedOn": "2024-09-25T10:09:21.000Z",
-          "wordCount": 58,
-          "title": "毕业旅行｜皖南自驾DAY2 - 皖浙差异",
           "imageUrl": null
         }
       ]
@@ -1184,6 +1194,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=298469",
+          "author": "Brandon Lee",
+          "description": "If you are running a Kubernetes cluster, you will no doubt agree that monitoring is pretty high on the list of things you need to do to make sure things are healthy and happy in the cluster. I have written about Netdata a few times and have been trying it out in the home lab …\nThe post Kube node metrics with Netdata Kubernetes monitoring appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2024/12/kube-node-metrics-with-netdata-kubernetes-monitoring/",
+          "publishedOn": "2024-12-23T14:37:14.000Z",
+          "wordCount": 9380,
+          "title": "Kube node metrics with Netdata Kubernetes monitoring",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/kube-node-metrics-with-netdata.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=298473",
           "author": "Brandon Lee",
@@ -2677,16 +2697,6 @@
           "wordCount": 4490,
           "title": "How to Configure Kubernetes Cluster Auto-Scaling with Cluster Autoscaler",
           "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/09/Feature-image-auto-scaling.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=27646",
-          "author": "Tanvir Kour",
-          "description": "With the rapid pace of the automotive world, identification has become more necessary today than it has been at any other time. Whether a car buyer, a seller, or an auctioneer, accurate vehicle data has become vital in the decision-making process. The Vehicle Identification Number has become useful for a while now in identifying vehicles; […]",
-          "link": "https://collabnix.com/next-gen-vin-decoders-exploring-cutting-edge-technologies-for-smarter-vehicle-identification/",
-          "publishedOn": "2024-09-25T09:11:07.000Z",
-          "wordCount": 3040,
-          "title": "Next-Gen VIN Decoders: Exploring Cutting-Edge Technologies for Smarter Vehicle Identification",
-          "imageUrl": "https://usercontent.one/wp/collabnix.com/wp-content/uploads/2024/09/Screenshot-2024-09-25-at-2.43.53?media=1725267074 PM-png.avif"
         }
       ]
     },
@@ -2695,6 +2705,16 @@
       "feedUrl": "https://qq.mba/feed",
       "siteUrl": "https://qq.mba/",
       "articles": [
+        {
+          "id": "https://qq.mba/207.html",
+          "author": "满心",
+          "description": "其实我之前有一个QNAP的NAS，但没有用起来，主要原因也在自身，我那台NAS是8盘位的\"巨无霸\"，需要插网线，实在是没有位置放它，所以从买来到最后咸鱼出售，只开机过4次，我感觉我那台NAS用途...",
+          "link": "https://qq.mba/207.html",
+          "publishedOn": "2024-12-23T03:23:00.000Z",
+          "wordCount": 579,
+          "title": "借助NasCab搭建私有影音库",
+          "imageUrl": null
+        },
         {
           "id": "https://qq.mba/205.html",
           "author": "满心",
@@ -2885,6 +2905,16 @@
       "feedUrl": "https://yeshu.cloud/rss.xml",
       "siteUrl": "https://yeshu.cloud/",
       "articles": [
+        {
+          "id": "https://yeshu.cloud/posts/newsletter-128/",
+          "author": null,
+          "description": "不必执着一种万能的解决方案，不同场景找最适合的来用",
+          "link": "https://yeshu.cloud/posts/newsletter-128/",
+          "publishedOn": "2024-12-22T14:11:45.000Z",
+          "wordCount": 203,
+          "title": "因地制宜",
+          "imageUrl": "https://yeshu.cloud/images/android-chrome-192x192.png"
+        },
         {
           "id": "https://yeshu.cloud/posts/newsletter-127/",
           "author": null,
