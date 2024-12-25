@@ -6,6 +6,16 @@
       "siteUrl": "https://MarsperL.github.io/",
       "articles": [
         {
+          "id": "https://marsperl.github.io/yyg/12643dd2/",
+          "author": null,
+          "description": "前言\n 🔜什么是SonarQube？🔚 \n              \n SonarQube是一个开源的代码质量管理平台，通过一系列的规则库对代码的扫描检查，提升代码的质量。\n运行 SonarQube 服务器分析需要三个组件：SonarQube",
+          "link": "https://marsperl.github.io/yyg/12643dd2/",
+          "publishedOn": "2024-12-24T13:58:47.000Z",
+          "wordCount": 1475,
+          "title": "docker部署SonarQube",
+          "imageUrl": "https://t.mwm.moe/fj?9782"
+        },
+        {
           "id": "https://marsperl.github.io/yyg/8a0457d3/",
           "author": null,
           "description": "SSL 2.0 和 3.0 的漏洞修复：\nSSL (Secure Sockets Layer) 是一种加密协议，曾被广泛用于网络通信中以确保数据的安全传输。SSL 2.0 和 3.0 是早期的版本，但它们已经被认为不再安全，因此被现代协议（如 TLS 1.2 和 TLS 1.3）所取代。\nSSL 2.0 和",
@@ -822,16 +832,6 @@
           "wordCount": 57,
           "title": "毕业旅行｜皖南自驾DAY4 - 南屏",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.ops-coffee.cn/r/china-travel-layoff-trip-day3-huangshan-yixian",
-          "author": null,
-          "description": "皖南黟县究竟是什么样子的？有没有什么好玩儿的？",
-          "link": "https://blog.ops-coffee.cn/r/china-travel-layoff-trip-day3-huangshan-yixian",
-          "publishedOn": "2024-09-26T12:06:01.000Z",
-          "wordCount": 62,
-          "title": "毕业旅行｜皖南自驾DAY3 - 黟县",
-          "imageUrl": null
         }
       ]
     },
@@ -1009,16 +1009,6 @@
           "wordCount": 476,
           "title": "多集群 PKI 与 Istio 实践：为服务网格构建可信且可扩展的 PKI",
           "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
-        },
-        {
-          "id": "https://jimmysong.io/blog/envoy-tracing/",
-          "author": "Jimmy Song",
-          "description": "在云原生环境中，提升对应用程序的可观测性以更好地理解用户体验是至关重要的。然而，单纯依靠指标和日志无法提供个别案例的具体细节。这时，追踪（Tracing）技术就显得尤为重要。\n追踪的基本原理\n追踪通过为每个用户请求附加一个关联 ID，向开发人员提供完整的用户体验上下文。这个关联 ID 就像一根线，将跨越多个服务的追踪串联起来，从而实现全面的可观测性。\n下图展示了 Envoy 处理用户请求的流程。\n用户请求与 Envoy 代理的处理流程图\n  \n\n追踪可以通过为每个用户请求附加一个关联 ID，向开发人员提供完整的用户体验上下文。这个关联 ID 就像一根线，将跨越多个服务的追踪串联起来。\n尽管所有请求都会经过 Envoy 代理，但 Envoy 无法独立提供完整的追踪信息。它只看到应用程序作为网络的一部分，无法洞察内部处理。这使得 Envoy 无法区分入站请求和出站请求是否来自同一个用户，因此无法自动转发追踪上下文。\n服务网格中的请求上下文\nEnvoy 可以在 Istio 服务网格中作为 Sidecar 或 Waypoint 代理，下图展示了 Envoy 在服务网格中如何处理请求上下文的。\n1. 用户请求的开始\n追踪涉及通过多个服务跟踪路径，以理解用户体验的完整上下文。追踪从一个用户请求开始，该请求被分配了一个关联 ID。\n用户请求的开始\n  \n\n2. 请求通过 Envoy 代理\nEnvoy 位于应用程序旁边，所有进入的请求都会经过 Envoy。\n用户请求的开始\n  \n\n3. Envoy 附加额外的 Headers\nEnvoy 可以在请求中附加额外的 Headers，以收集关于应用程序内部发生情况的信息。\nEnvoy 附加额外的 Headers\n  \n\n4. 应用程序处理请求并调用后端服务\n应用程序在处理请求的过程中，可能需要联系其他系统来处理该请求。比如外部的认证和授权服务。\n应用程序处理请求并调用后端服务\n  \n\n5. 应用程序需要复制关联 ID\n应用程序知道出站请求是代表哪个入站请求发起的（例如 Trace ID 为 1234 的请求）。但是，Envoy 并不知道这一点。因此，应用程序需要将关联 ID 等上下文从入站请求复制到出站请求中。\n应用程序需要复制关联 ID\n  \n\n6. 多个请求的并发处理\n在实际场景中，应用程序同时处理多个用户请求，这导致了并发性。由于 Envoy 只能看到网络层面的请求和响应，无法区分这些请求之间的因果关系。\n多个请求的并发处理\n  \n\n7. Envoy 的局限性\n因为 Envoy 无法看到应用程序内部的处理逻辑，它只能看到一系列的网络请求和响应，无法知道哪些出站请求是由哪些入站请求触发的。\nEnvoy 的局限性\n  \n\n需要应用程序的参与\n由于 Envoy 无法自动转发追踪上下文，应用程序本身需要负责将入站请求的 Headers 复制到出站请求中，以保持追踪信息的完整性。\n应用程序复制 Headers\n应用程序在处理入站请求时，需要将必要的 Headers（如关联 ID、用户身份等）复制到任何出站请求中。\n应用程序复制 Headers\n  \n\n响应返回给用户\n应用程序完成对用户请求的处理后，将响应返回给用户。\n响应返回给用户\n  \n\n解决方案与推荐\n为了确保追踪信息的完整性，应用程序需要主动复制和传递追踪相关的 Headers。这可以通过集成如 Apache SkyWalking 的工具来实现，SkyWalking 不仅支持分布式追踪，还包括性能监控、日志分析等功能。利用 SkyWalking 的库和代理，可以简化 Headers 的复制和追踪信息的传递。\n关于如何在 Istio 中使用 SkyWalking 实现分布式追踪详见这篇博客。\n总结\n追踪的重要性：追踪为开发人员提供了用户请求的完整上下文，帮助更好地理解和改进用户体验。\nEnvoy 的局限性：Envoy 只能看到网络层面的请求和响应，无法跟踪请求的因果关系，因此无法自动转发追踪上下文。\n应用程序的角色：应用程序需要主动复制和传递追踪相关的 Headers，以确保追踪信息的完整性。\n推荐的工具：使用 SkyWalking 等追踪工具的库，可以简化在应用程序中实现 Headers 复制的过程。\n参考\nHow the Envoy proxy handles a user request - tetrate.io\n如何在 Istio 中使用 SkyWalking 进行分布式追踪？- jimmysong.io",
-          "link": "https://jimmysong.io/blog/envoy-tracing/",
-          "publishedOn": "2024-09-26T07:24:35.000Z",
-          "wordCount": 389,
-          "title": "Envoy 代理如何处理用户请求以实现追踪",
-          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
         }
       ]
     },
@@ -1064,6 +1054,16 @@
       "feedUrl": "https://www.kawabangga.com/feed/",
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
+        {
+          "id": "https://www.kawabangga.com/?p=6751",
+          "author": "laixintao",
+          "description": "明天是圣诞节，今天是平安夜，公司给提前下班。但是年假还有二十多天，不用也是浪费了，今天就请假休息一下。 从 1 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/6751",
+          "publishedOn": "2024-12-24T12:57:51.000Z",
+          "wordCount": 1126,
+          "title": "由 ICMP Redirect 消息引起的丢包问题排查",
+          "imageUrl": null
+        },
         {
           "id": "https://www.kawabangga.com/?p=6747",
           "author": "laixintao",
@@ -1498,6 +1498,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=29505",
+          "author": "Tanvir Kour",
+          "description": "Get a complete Wondershare Filmora planar tracker review through this article!",
+          "link": "https://collabnix.com/wondershare-filmoras-planar-tracker-for-video-visualization-a-full-review/",
+          "publishedOn": "2024-12-24T16:48:13.000Z",
+          "wordCount": 3200,
+          "title": "Wondershare Filmora’s Planar Tracker for Video Visualization: A Full-Review!",
+          "imageUrl": "https://usercontent.one/wp/collabnix.com/wp-content/uploads/2024/12/wondershare-filmora-review-great-beginners-very-easy-use-featured-image-jpg.avif?media=1725267074"
+        },
+        {
+          "id": "https://collabnix.com/?p=29587",
+          "author": "Tanvir Kour",
+          "description": "In this fast-paced digital learning world, the power of a Learning Management System (LMS) is all about how well it flows. A game changer in this space is Intelligent Document Processing (IDP). When IDP is combined with LMS platforms, educational institutions, and corporate training providers can achieve a whole new level of efficiency, accuracy, and […]",
+          "link": "https://collabnix.com/integrating-intelligent-document-processing-with-lms-enhancing-educational-workflows/",
+          "publishedOn": "2024-12-24T16:22:08.000Z",
+          "wordCount": 2669,
+          "title": "Integrating Intelligent Document Processing with LMS: Enhancing Educational Workflows",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/Screenshot-2024-12-24-at-9.51.45%E2%80%AFPM.png"
+        },
         {
           "id": "https://collabnix.com/?p=29582",
           "author": "Tanvir Kour",
@@ -2677,26 +2697,6 @@
           "wordCount": 3391,
           "title": "How Do I Get IPTV on My PC Through VLC Player?",
           "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/09/Screenshot-2024-09-27-at-6.03.18%E2%80%AFPM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=27662",
-          "author": "Abraham Dahunsi",
-          "description": "Docker Hub is the central hub for developers to store, manage, and distribute container images. As one of the most widely used platforms for container image management, it plays a crucial role in modern DevOps workflows, enabling seamless sharing and deployment of containerized applications. However, managing multiple images, repositories, and tags manually can become complex, […]",
-          "link": "https://collabnix.com/streamlining-docker-hub-management-with-hubtool-a-simple-guide/",
-          "publishedOn": "2024-09-25T22:30:55.000Z",
-          "wordCount": 3833,
-          "title": "Streamlining Docker Hub Management with Hubtool: A Simple Guide",
-          "imageUrl": "https://usercontent.one/wp/collabnix.com/wp-content/uploads/2024/09/Feature-image-docker-hub-hubtool-png.avif?media=1725267074"
-        },
-        {
-          "id": "https://collabnix.com/?p=27674",
-          "author": "Abraham Dahunsi",
-          "description": "As workloads in a Kubernetes cluster change, keeping resources available can be a big challenge. That’s where the Kubernetes Cluster Autoscaler comes in. It’s an important tool that automatically adjusts the number of nodes in your cluster based on demand. It scales up when you need more resources and scales down when you don’t. This […]",
-          "link": "https://collabnix.com/how-to-configure-kubernetes-cluster-auto-scaling-with-cluster-autoscaler/",
-          "publishedOn": "2024-09-25T22:29:49.000Z",
-          "wordCount": 4490,
-          "title": "How to Configure Kubernetes Cluster Auto-Scaling with Cluster Autoscaler",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/09/Feature-image-auto-scaling.png"
         }
       ]
     },
@@ -2705,6 +2705,16 @@
       "feedUrl": "https://qq.mba/feed",
       "siteUrl": "https://qq.mba/",
       "articles": [
+        {
+          "id": "https://qq.mba/208.html",
+          "author": "满心",
+          "description": "昨天请假回老家了，从中午12点开始，一直到晚上九点多才回武汉，期间几乎一直在开车接人(丈人丈母都是从天津赶回来的)，实在是有些疲惫。主要是太过突然，大家都没有准备，本来都计划这周末回去的，结果外...",
+          "link": "https://qq.mba/208.html",
+          "publishedOn": "2024-12-25T00:40:00.000Z",
+          "wordCount": 464,
+          "title": "奶奶去世了",
+          "imageUrl": null
+        },
         {
           "id": "https://qq.mba/207.html",
           "author": "满心",
