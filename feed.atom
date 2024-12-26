@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2024-12-25T01:45:24.236Z</updated>
+    <updated>2024-12-26T01:45:56.471Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 Tips to Get Started with a Home Lab]]></title>
+        <id>https://www.virtualizationhowto.com/?p=298527</id>
+        <link href="https://www.virtualizationhowto.com/2024/12/5-tips-to-get-started-with-a-home-lab/"/>
+        <updated>2024-12-25T14:26:51.000Z</updated>
+        <summary type="html"><![CDATA[If you are looking at getting into running a home lab in 2025, hopefully this blog post will help those who are interested in getting into this really rewarding hobby to be successful with this as a project. I have learned a lot of things the hard way in my home lab and I want …
+The post 5 Tips to Get Started with a Home Lab appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Model Context Protocol (MCP) and what problem it solves?]]></title>
+        <id>https://collabnix.com/?p=29646</id>
+        <link href="https://collabnix.com/what-is-model-context-protocol-mcp-and-what-problem-it-solves/"/>
+        <updated>2024-12-25T10:59:33.000Z</updated>
+        <summary type="html"><![CDATA[LLM is everywhere—powering chatbots, crunching data, helping with decision-making. But if you’ve ever tried scaling one in an enterprise setting, you’ve probably hit a few walls. Context management is one of the biggest headaches. Keeping track of all the moving parts—user inputs, historical data, and domain-specific knowledge—gets messy fast. That’s where the Model Context Protocol […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[奶奶去世了]]></title>
         <id>https://qq.mba/208.html</id>
@@ -59,6 +80,16 @@
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《快速部署Mysql-slave 容器，实现高效主从同步》]]></title>
+        <id>/archives/1735030841468</id>
+        <link href="https://srebro.cn/archives/1735030841468"/>
+        <updated>2024-12-24T09:00:42.000Z</updated>
+        <summary type="html"><![CDATA[用途 快速运行一个mysql-slave 的容器，去同步 mysql主库的数据 可用于一些从库数据的调试 可用于临时的主从数据备份 项目地址 源码地址： https://cnb.cool/srebro/mysql-slave 使用方法 定义docker-compose 文件内的 变量       M]]></summary>
+        <author>
+            <name>运维小弟</name>
         </author>
     </entry>
     <entry>
@@ -4287,26 +4318,6 @@ bash <(curl -sSL]]></summary>
         <summary type="html"><![CDATA[How many of your development or preview pods stay running during weekends or at night? It’s a waste of resources and money! But fear not, kube-green is here to the rescue. kube-greenis a simple Kubernetes addon that automatically shuts down (some of) your resources when you don’t need them. If you’re already using kube-green, consider […]]]></summary>
         <author>
             <name>Adesoji Alu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Do I Get IPTV on My PC Through VLC Player?]]></title>
-        <id>https://collabnix.com/?p=27691</id>
-        <link href="https://collabnix.com/how-do-i-get-iptv-on-my-pc-through-vlc-player/"/>
-        <updated>2024-09-27T12:36:41.000Z</updated>
-        <summary type="html"><![CDATA[IPTV revolutionizes TV consumption, offering global access to live channels, movies, and series on your PC. This streaming method has surged in popularity alongside digital media growth. Despite its technical name, setting up IPTV is simple. VLC Media Player streamlines the process, making it accessible to all. This guide walks you through the simple setup […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[毕业旅行｜皖南自驾DAY4 - 南屏]]></title>
-        <id>https://blog.ops-coffee.cn/r/china-travel-layoff-trip-day4-yixian-nanping</id>
-        <link href="https://blog.ops-coffee.cn/r/china-travel-layoff-trip-day4-yixian-nanping"/>
-        <updated>2024-09-27T11:24:12.000Z</updated>
-        <summary type="html"><![CDATA[皖南古村落，不止有宏村和西递，这些古村游客稀少，更有韵味]]></summary>
-        <author>
-            <name>运维咖啡吧</name>
         </author>
     </entry>
 </feed>

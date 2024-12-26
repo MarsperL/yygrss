@@ -390,6 +390,16 @@
       "siteUrl": "https://srebro.cn/",
       "articles": [
         {
+          "id": "/archives/1735030841468",
+          "author": null,
+          "description": "用途 快速运行一个mysql-slave 的容器，去同步 mysql主库的数据 可用于一些从库数据的调试 可用于临时的主从数据备份 项目地址 源码地址： https://cnb.cool/srebro/mysql-slave 使用方法 定义docker-compose 文件内的 变量       M",
+          "link": "https://srebro.cn/archives/1735030841468",
+          "publishedOn": "2024-12-24T09:00:42.000Z",
+          "wordCount": 2303,
+          "title": "《快速部署Mysql-slave 容器，实现高效主从同步》",
+          "imageUrl": "null"
+        },
+        {
           "id": "/archives/1734490757464",
           "author": null,
           "description": "华为认证openEuler专家 HCIP-openEuler 官方说明：https://e.huawei.com/cn/talent/news/#/details?consultationId=3603 华为认证HCIE-openEuler V1.0定位于培养和认证基于openEuler操作系统完成",
@@ -822,16 +832,6 @@
           "wordCount": 61,
           "title": "毕业旅行｜皖南自驾DAY5 - 碧山",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.ops-coffee.cn/r/china-travel-layoff-trip-day4-yixian-nanping",
-          "author": null,
-          "description": "皖南古村落，不止有宏村和西递，这些古村游客稀少，更有韵味",
-          "link": "https://blog.ops-coffee.cn/r/china-travel-layoff-trip-day4-yixian-nanping",
-          "publishedOn": "2024-09-27T11:24:12.000Z",
-          "wordCount": 57,
-          "title": "毕业旅行｜皖南自驾DAY4 - 南屏",
-          "imageUrl": null
         }
       ]
     },
@@ -1195,6 +1195,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=298527",
+          "author": "Brandon Lee",
+          "description": "If you are looking at getting into running a home lab in 2025, hopefully this blog post will help those who are interested in getting into this really rewarding hobby to be successful with this as a project. I have learned a lot of things the hard way in my home lab and I want …\nThe post 5 Tips to Get Started with a Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2024/12/5-tips-to-get-started-with-a-home-lab/",
+          "publishedOn": "2024-12-25T14:26:51.000Z",
+          "wordCount": 10446,
+          "title": "5 Tips to Get Started with a Home Lab",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/5-tips-to-get-started-with-a-home-lab.jpg"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=298469",
           "author": "Brandon Lee",
           "description": "If you are running a Kubernetes cluster, you will no doubt agree that monitoring is pretty high on the list of things you need to do to make sure things are healthy and happy in the cluster. I have written about Netdata a few times and have been trying it out in the home lab …\nThe post Kube node metrics with Netdata Kubernetes monitoring appeared first on Virtualization Howto.",
@@ -1498,6 +1508,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=29646",
+          "author": "Tanvir Kour",
+          "description": "LLM is everywhere—powering chatbots, crunching data, helping with decision-making. But if you’ve ever tried scaling one in an enterprise setting, you’ve probably hit a few walls. Context management is one of the biggest headaches. Keeping track of all the moving parts—user inputs, historical data, and domain-specific knowledge—gets messy fast. That’s where the Model Context Protocol […]",
+          "link": "https://collabnix.com/what-is-model-context-protocol-mcp-and-what-problem-it-solves/",
+          "publishedOn": "2024-12-25T10:59:33.000Z",
+          "wordCount": 3194,
+          "title": "What is Model Context Protocol (MCP) and what problem it solves?",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/Screenshot-2024-12-25-at-4.30.15%E2%80%AFPM.png"
+        },
         {
           "id": "https://collabnix.com/?p=29505",
           "author": "Tanvir Kour",
@@ -2687,16 +2707,6 @@
           "wordCount": 3693,
           "title": "Kube-green: An Ultimate Method to Automatically Reduce Kubernetes Resource Waste",
           "imageUrl": "https://usercontent.one/wp/collabnix.com/wp-content/uploads/2024/09/Screenshot-from-2024-09-27-19-47-46-png.avif?media=1725267074"
-        },
-        {
-          "id": "https://collabnix.com/?p=27691",
-          "author": "Tanvir Kour",
-          "description": "IPTV revolutionizes TV consumption, offering global access to live channels, movies, and series on your PC. This streaming method has surged in popularity alongside digital media growth. Despite its technical name, setting up IPTV is simple. VLC Media Player streamlines the process, making it accessible to all. This guide walks you through the simple setup […]",
-          "link": "https://collabnix.com/how-do-i-get-iptv-on-my-pc-through-vlc-player/",
-          "publishedOn": "2024-09-27T12:36:41.000Z",
-          "wordCount": 3391,
-          "title": "How Do I Get IPTV on My PC Through VLC Player?",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/09/Screenshot-2024-09-27-at-6.03.18%E2%80%AFPM.png"
         }
       ]
     },
