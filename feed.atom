@@ -2,10 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2024-12-26T01:45:56.471Z</updated>
+    <updated>2024-12-27T01:41:59.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[My little games workshop]]></title>
+        <id>https://daverupert.com/2024/12/my-little-games-workshop/</id>
+        <link href="https://daverupert.com/2024/12/my-little-games-workshop/"/>
+        <updated>2024-12-26T21:17:00.000Z</updated>
+        <summary type="html"><![CDATA[I always promised myself that if I was ever unemployed that I’d make a video game. When life dealt me an unpaid work hiatus though, the last thing I wanted to do was code in my spare time1. I worried I would have to let that dream, that part of me, die on the vine. But as interviews started going well the desire to try my hand at making a game came back. And in true adult ADHD fashion I didn’t focus on one game, but rather made a half-dozen different games in different formats and three of those games have made it to the release stage. Here’s an overview of those games and a little background on how I manage to make them.
+Mundango, a bingo game about life’s small things
+During my unpaid hiatus I found myself getting a lot of pleasure in the small things; seeing a cool bird, staring at tree…]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker Dashboard: New Tool Let’s You See Containers Across Multiple Hosts]]></title>
+        <id>https://www.virtualizationhowto.com/?p=298545</id>
+        <link href="https://www.virtualizationhowto.com/2024/12/docker-dashboard-new-tool-lets-you-see-containers-across-multiple-hosts/"/>
+        <updated>2024-12-26T18:32:08.000Z</updated>
+        <summary type="html"><![CDATA[I have been searching for something that would give me a quick view of ALL of my containers in a simple dashboard and give me the ability to do a few things like search for specific containers quickly, see IP addresses, volume mounts, networks, uptime, etc. I didn’t really find anything that suited my purposes. …
+The post Docker Dashboard: New Tool Let’s You See Containers Across Multiple Hosts appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手搓RSSHub路由失败]]></title>
+        <id>https://hyruo.com/article/handcrafted-rsshub-route-failed/</id>
+        <link href="https://hyruo.com/article/handcrafted-rsshub-route-failed/"/>
+        <updated>2024-12-26T06:20:00.000Z</updated>
+        <summary type="html"><![CDATA[前几天在NameCheap白嫖 .news 域名，注册了个 hy2.news，想着也没啥用就搭建一下个人动态页面。既然是动态的，那就得把 Wordpress 请出来，然后用 RSS 插件实现。页面地址：Hyruo News
+页面是搭好了，RSS 来源成了问题，于是摸索着先从最近几个月混得比较活跃的 Nodeseek 论坛搞起。结果搞半天还是失败了。
+RSSHub 手搓路由方法
+
+RSSHub 官网的开发路由教程比较跳跃，主要过程如下。
+前期工作
+
+克隆 RSSHub 仓库 （电脑慢的话要半个小时以上） git clone https://github.com/DIYgod/RSSHub.git
+安装最新版本 Node.js （版本要大于 22）Node.js 官网地址
+安装依赖项 pnpm i
+运行 pnpm run dev
+开发路由
+
+开发路由就比较简单，打开 RSSHub\lib\routes 目录，在下边新建一个文件夹，比如 nodeseek，然后在该文件夹中添加两个文件 namespace.ts custom.ts 就完事。
+namespace.ts 文件
+这个文件照着官方教程就行，不然就随便在 lib\routes 目录下边复制别人的改改。示例如下：
+
+
+
+1
+2
+3
+4
+5
+6
+7
+
+
+
+import type { Namespace } from '@/types';
+
+export const namespace: Namespace = {
+ name: 'nodeseek',
+ url: 'nodeseek.com',
+ lang: 'zh-CN',
+};
+
+
+
+
+
+custom.ts 文件
+这是开发路由的主文件，文件名可以按照目标网站结构来命名，看看其他文件夹就懂，难度主要是在具体内容上。示例如下：
+
+
+
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8…]]></summary>
+        <author>
+            <name>海若博客</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5 Tips to Get Started with a Home Lab]]></title>
         <id>https://www.virtualizationhowto.com/?p=298527</id>
@@ -1421,6 +1507,16 @@ The post Proxmox vs ESXi in 2025: VMware Dying in the Home Lab appeared first on
         <summary type="html"><![CDATA[Nginx管理维护运维规范 一、版本约束 软件的不同版本，在使用起来都有可能带来不可预知的影响，因此需要统一整理，固定下来，不允许轻易变更。 在Nginx开源版官网，点击右侧download可以看到各个版本的Nginx，其中Mainline是抢先的主干版本（版本号是奇数），Stable是稳定版（版本]]></summary>
         <author>
             <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年11月阅读书摘]]></title>
+        <id>674da80e6c5c200996582143</id>
+        <link href="https://www.domon.cn/2024-11yue-yue-du-shu-zhai/"/>
+        <updated>2024-12-02T12:35:02.000Z</updated>
+        <summary type="html"><![CDATA[从差不多十岁的年纪，写作就是我最靠谱的朋友。写作能解答我的疑惑，挖掘我的感受，带来新的结论。它在我的生活中是一个很低调的存在：有时候，它会放你走，让你该忙忙、该玩玩，不会限制你的活动。它不急，因为知道你迟早不得不坐下来面对那张空纸慢慢说事。我试过忘记自己有这样的精神义务，却次次都回到了电脑前，仿佛被某种无形的力量所吸引。这是我的命运，和它较劲完全无效，我只能常年接受写作的召唤。]]></summary>
+        <author>
+            <name>Domon</name>
         </author>
     </entry>
     <entry>
@@ -2863,6 +2959,16 @@ Continue reading...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2024年10月阅读书摘]]></title>
+        <id>672f67f16c5c20099658210b</id>
+        <link href="https://www.domon.cn/2024-10yue-yue-du-shu-zhai/"/>
+        <updated>2024-11-09T13:54:14.000Z</updated>
+        <summary type="html"><![CDATA[人们往往讨厌做自己不擅长的事情。但如果你开始对某件事游刃有余，自然就会乐在其中了。]]></summary>
+        <author>
+            <name>Domon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[武汉大学校内电动自行车牌照办理失败]]></title>
         <id>https://4311346.com/post/2024/1109-license-plate.html</id>
         <link href="https://4311346.com/post/2024/1109-license-plate.html"/>
@@ -3932,6 +4038,16 @@ Istio、EJBCA 和 cert-manager
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[独立博客自省问卷15题]]></title>
+        <id>670a73586c5c2009965820f2</id>
+        <link href="https://www.domon.cn/du-li-bo-ke-zi-sheng-wen-juan-15ti/"/>
+        <updated>2024-10-12T13:08:24.000Z</updated>
+        <summary type="html"><![CDATA[各位GGMM在下方留言，我一定会回踩哦。]]></summary>
+        <author>
+            <name>Domon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How Modern Technologies Are Revolutionizing the Educational Process]]></title>
         <id>https://collabnix.com/?p=27926</id>
         <link href="https://collabnix.com/how-modern-technologies-are-revolutionizing-the-educational-process/"/>
@@ -4093,6 +4209,16 @@ bash <(curl -sSL]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2024年9月阅读书摘]]></title>
+        <id>6703dbea6c5c2009965820ce</id>
+        <link href="https://www.domon.cn/2024-9yue-yue-du-shu-zhai/"/>
+        <updated>2024-10-07T13:04:29.000Z</updated>
+        <summary type="html"><![CDATA[早在很年轻的时候，我就意识到我的家就像一株植物。把它连根拔起，它就会枯萎。对它又撕又扯，它就会死亡。而任由它在土里茁壮生长，不去碰它，它就会经受住神明抑或狂风的侵袭。它诞生自土里；只要土壤活着，它就能活着。]]></summary>
+        <author>
+            <name>Domon</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[又特地去了一趟福州-中国船政文化博物馆]]></title>
         <id>https://4311346.com/post/2024/1007-again-fuzhou.html</id>
         <link href="https://4311346.com/post/2024/1007-again-fuzhou.html"/>
@@ -4128,6 +4254,16 @@ bash <(curl -sSL]]></summary>
         <summary type="html"><![CDATA[Saying that consumers are faced with more advertising white noise than ever before is an understatement. A 2023 blog post published by the University of Southern California estimates that the average American is exposed to up to 5,000 advertisements a day, up from an estimated average of 500 in the 1970s. It’s worth remembering that […]]]></summary>
         <author>
             <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[认证Follow]]></title>
+        <id>6700bc256c5c2009965820c6</id>
+        <link href="https://www.domon.cn/ren-zheng-follow/"/>
+        <updated>2024-10-05T04:11:01.000Z</updated>
+        <summary type="html"><![CDATA[This message is used to verify that this feed (feedId:41359648684677173) belongs to me (userId:65237279170106368). Join me in enjoying the next generation information browser https://follow.is.]]></summary>
+        <author>
+            <name>Domon</name>
         </author>
     </entry>
     <entry>
@@ -4298,26 +4434,6 @@ bash <(curl -sSL]]></summary>
         <summary type="html"><![CDATA[HEPATORCH（JUPITER-10/JS001-035-III-HCC）研究是一项由君实生物开展的全国多中心、开放标签的随机对照 III 期临床试验，评估的是 特瑞普利单抗联合贝伐珠单抗 用于晚期肝癌一线治疗的疗效和安全性，对照组是上...]]></summary>
         <author>
             <name>whyes 的博客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[毕业旅行｜皖南自驾DAY5 - 碧山]]></title>
-        <id>https://blog.ops-coffee.cn/r/china-travel-layoff-trip-day5-yixian-bishan</id>
-        <link href="https://blog.ops-coffee.cn/r/china-travel-layoff-trip-day5-yixian-bishan"/>
-        <updated>2024-09-28T10:40:00.000Z</updated>
-        <summary type="html"><![CDATA[这里有一座建在皖南古村里的中国最美乡村书店-碧山书局]]></summary>
-        <author>
-            <name>运维咖啡吧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kube-green: An Ultimate Method to Automatically Reduce Kubernetes Resource Waste]]></title>
-        <id>https://collabnix.com/?p=27695</id>
-        <link href="https://collabnix.com/kube-green1-ultimate-method-to-automatically-reduce-kubernetes-resource-waste/"/>
-        <updated>2024-09-27T20:21:00.000Z</updated>
-        <summary type="html"><![CDATA[How many of your development or preview pods stay running during weekends or at night? It’s a waste of resources and money! But fear not, kube-green is here to the rescue. kube-greenis a simple Kubernetes addon that automatically shuts down (some of) your resources when you don’t need them. If you’re already using kube-green, consider […]]]></summary>
-        <author>
-            <name>Adesoji Alu</name>
         </author>
     </entry>
 </feed>

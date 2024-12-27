@@ -96,6 +96,16 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
+          "id": "https://daverupert.com/2024/12/my-little-games-workshop/",
+          "author": null,
+          "description": "I always promised myself that if I was ever unemployed that I’d make a video game. When life dealt me an unpaid work hiatus though, the last thing I wanted to do was code in my spare time1. I worried I would have to let that dream, that part of me, die on the vine. But as interviews started going well the desire to try my hand at making a game came back. And in true adult ADHD fashion I didn’t focus on one game, but rather made a half-dozen different games in different formats and three of those games have made it to the release stage. Here’s an overview of those games and a little background on how I manage to make them.\nMundango, a bingo game about life’s small things\nDuring my unpaid hiatus I found myself getting a lot of pleasure in the small things; seeing a cool bird, staring at tree…",
+          "link": "https://daverupert.com/2024/12/my-little-games-workshop/",
+          "publishedOn": "2024-12-26T21:17:00.000Z",
+          "wordCount": 2471,
+          "title": "My little games workshop",
+          "imageUrl": null
+        },
+        {
           "id": "https://daverupert.com/2024/12/css-wants-to-be-a-system/",
           "author": null,
           "description": "I’ve realized something obvious again, this time about CSS; that CSS wants to be a system. At the core of CSS is a series of cascading rules and classes marrying and mingling in an elegant symphony of style application. Dozens and dozens of declarative instructions for painting pixels on the screen come together in under a millisecond. Sometimes it creates magic, other times it creates memes.\nAt its core, CSS wants to be a system and – besides its quirky selector power ranking algorithm – it doesn’t come with one out of the box. CSS wants you to build a system with it. It wants styles to build up, not flatten down. It even has layers as a feature! You can start small with a minimalist reset or satisfy your inner typenerd with a typographic default and build up from there. You can make your…",
@@ -182,6 +192,16 @@
       "feedUrl": "https://hyruo.com/index.xml",
       "siteUrl": "https://hyruo.com/",
       "articles": [
+        {
+          "id": "https://hyruo.com/article/handcrafted-rsshub-route-failed/",
+          "author": null,
+          "description": "前几天在NameCheap白嫖 .news 域名，注册了个 hy2.news，想着也没啥用就搭建一下个人动态页面。既然是动态的，那就得把 Wordpress 请出来，然后用 RSS 插件实现。页面地址：Hyruo News\n页面是搭好了，RSS 来源成了问题，于是摸索着先从最近几个月混得比较活跃的 Nodeseek 论坛搞起。结果搞半天还是失败了。\nRSSHub 手搓路由方法\n\nRSSHub 官网的开发路由教程比较跳跃，主要过程如下。\n前期工作\n\n克隆 RSSHub 仓库 （电脑慢的话要半个小时以上） git clone https://github.com/DIYgod/RSSHub.git\n安装最新版本 Node.js （版本要大于 22）Node.js 官网地址\n安装依赖项 pnpm i\n运行 pnpm run dev\n开发路由\n\n开发路由就比较简单，打开 RSSHub\\lib\\routes 目录，在下边新建一个文件夹，比如 nodeseek，然后在该文件夹中添加两个文件 namespace.ts custom.ts 就完事。\nnamespace.ts 文件\n这个文件照着官方教程就行，不然就随便在 lib\\routes 目录下边复制别人的改改。示例如下：\n\n\n\n1\n2\n3\n4\n5\n6\n7\n\n\n\nimport type { Namespace } from '@/types';\n\nexport const namespace: Namespace = {\n name: 'nodeseek',\n url: 'nodeseek.com',\n lang: 'zh-CN',\n};\n\n\n\n\n\ncustom.ts 文件\n这是开发路由的主文件，文件名可以按照目标网站结构来命名，看看其他文件夹就懂，难度主要是在具体内容上。示例如下：\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8…",
+          "link": "https://hyruo.com/article/handcrafted-rsshub-route-failed/",
+          "publishedOn": "2024-12-26T06:20:00.000Z",
+          "wordCount": 685,
+          "title": "手搓RSSHub路由失败",
+          "imageUrl": "https://hyruo.com/article/handcrafted-rsshub-route-failed/00.webp"
+        },
         {
           "id": "https://hyruo.com/editor/2024_12_16_the_necessity_of_the_court_review_system/",
           "author": null,
@@ -822,16 +842,6 @@
           "wordCount": 61,
           "title": "毕业旅行｜皖南自驾DAY6 - 柯村",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.ops-coffee.cn/r/china-travel-layoff-trip-day5-yixian-bishan",
-          "author": null,
-          "description": "这里有一座建在皖南古村里的中国最美乡村书店-碧山书局",
-          "link": "https://blog.ops-coffee.cn/r/china-travel-layoff-trip-day5-yixian-bishan",
-          "publishedOn": "2024-09-28T10:40:00.000Z",
-          "wordCount": 61,
-          "title": "毕业旅行｜皖南自驾DAY5 - 碧山",
-          "imageUrl": null
         }
       ]
     },
@@ -1195,6 +1205,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=298545",
+          "author": "Brandon Lee",
+          "description": "I have been searching for something that would give me a quick view of ALL of my containers in a simple dashboard and give me the ability to do a few things like search for specific containers quickly, see IP addresses, volume mounts, networks, uptime, etc. I didn’t really find anything that suited my purposes. …\nThe post Docker Dashboard: New Tool Let’s You See Containers Across Multiple Hosts appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2024/12/docker-dashboard-new-tool-lets-you-see-containers-across-multiple-hosts/",
+          "publishedOn": "2024-12-26T18:32:08.000Z",
+          "wordCount": 11298,
+          "title": "Docker Dashboard: New Tool Let’s You See Containers Across Multiple Hosts",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/docker-dashboard-for-container-hosts.jpg"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=298527",
           "author": "Brandon Lee",
           "description": "If you are looking at getting into running a home lab in 2025, hopefully this blog post will help those who are interested in getting into this really rewarding hobby to be successful with this as a project. I have learned a lot of things the hard way in my home lab and I want …\nThe post 5 Tips to Get Started with a Home Lab appeared first on Virtualization Howto.",
@@ -1506,7 +1526,7 @@
     {
       "title": "Collabnix",
       "feedUrl": "https://collabnix.com/feed/",
-      "siteUrl": "https://collabnix.com",
+      "siteUrl": "https://collabnix.com/",
       "articles": [
         {
           "id": "https://collabnix.com/?p=29646",
@@ -2697,16 +2717,6 @@
           "wordCount": 2625,
           "title": "How to Extract Text from Photo Using Python?",
           "imageUrl": "https://usercontent.one/wp/collabnix.com/wp-content/uploads/2024/09/Feature-image-text-from-photo-png.avif?media=1725267074"
-        },
-        {
-          "id": "https://collabnix.com/?p=27695",
-          "author": "Adesoji Alu",
-          "description": "How many of your development or preview pods stay running during weekends or at night? It’s a waste of resources and money! But fear not, kube-green is here to the rescue. kube-greenis a simple Kubernetes addon that automatically shuts down (some of) your resources when you don’t need them. If you’re already using kube-green, consider […]",
-          "link": "https://collabnix.com/kube-green1-ultimate-method-to-automatically-reduce-kubernetes-resource-waste/",
-          "publishedOn": "2024-09-27T20:21:00.000Z",
-          "wordCount": 3693,
-          "title": "Kube-green: An Ultimate Method to Automatically Reduce Kubernetes Resource Waste",
-          "imageUrl": "https://usercontent.one/wp/collabnix.com/wp-content/uploads/2024/09/Screenshot-from-2024-09-27-19-47-46-png.avif?media=1725267074"
         }
       ]
     },
@@ -3272,6 +3282,63 @@
           "wordCount": 278,
           "title": "又特地去了一趟福州-中国船政文化博物馆",
           "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Dennis",
+      "feedUrl": "https://domon.cn/rss/",
+      "siteUrl": "https://www.domon.cn/",
+      "articles": [
+        {
+          "id": "674da80e6c5c200996582143",
+          "author": "Domon",
+          "description": "从差不多十岁的年纪，写作就是我最靠谱的朋友。写作能解答我的疑惑，挖掘我的感受，带来新的结论。它在我的生活中是一个很低调的存在：有时候，它会放你走，让你该忙忙、该玩玩，不会限制你的活动。它不急，因为知道你迟早不得不坐下来面对那张空纸慢慢说事。我试过忘记自己有这样的精神义务，却次次都回到了电脑前，仿佛被某种无形的力量所吸引。这是我的命运，和它较劲完全无效，我只能常年接受写作的召唤。",
+          "link": "https://www.domon.cn/2024-11yue-yue-du-shu-zhai/",
+          "publishedOn": "2024-12-02T12:35:02.000Z",
+          "wordCount": 249,
+          "title": "2024年11月阅读书摘",
+          "imageUrl": "https://images.unsplash.com/photo-1492539438225-2666b2a98f93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE2fHxib29rc3xlbnwwfHx8fDE3MzMwODgyMDh8MA&ixlib=rb-4.0.3&q=80&w=2000"
+        },
+        {
+          "id": "672f67f16c5c20099658210b",
+          "author": "Domon",
+          "description": "人们往往讨厌做自己不擅长的事情。但如果你开始对某件事游刃有余，自然就会乐在其中了。",
+          "link": "https://www.domon.cn/2024-10yue-yue-du-shu-zhai/",
+          "publishedOn": "2024-11-09T13:54:14.000Z",
+          "wordCount": 239,
+          "title": "2024年10月阅读书摘",
+          "imageUrl": "https://images.unsplash.com/photo-1521056787327-165dc2a32836?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fGJvb2tzfGVufDB8fHx8MTczMTE2MDA4M3ww&ixlib=rb-4.0.3&q=80&w=2000"
+        },
+        {
+          "id": "670a73586c5c2009965820f2",
+          "author": "Domon",
+          "description": "各位GGMM在下方留言，我一定会回踩哦。",
+          "link": "https://www.domon.cn/du-li-bo-ke-zi-sheng-wen-juan-15ti/",
+          "publishedOn": "2024-10-12T13:08:24.000Z",
+          "wordCount": 168,
+          "title": "独立博客自省问卷15题",
+          "imageUrl": "https://images.unsplash.com/photo-1504691342899-4d92b50853e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE5fHxibG9nZ2VyJTIwfGVufDB8fHx8MTcyODczODM2N3ww&ixlib=rb-4.0.3&q=80&w=2000"
+        },
+        {
+          "id": "6703dbea6c5c2009965820ce",
+          "author": "Domon",
+          "description": "早在很年轻的时候，我就意识到我的家就像一株植物。把它连根拔起，它就会枯萎。对它又撕又扯，它就会死亡。而任由它在土里茁壮生长，不去碰它，它就会经受住神明抑或狂风的侵袭。它诞生自土里；只要土壤活着，它就能活着。",
+          "link": "https://www.domon.cn/2024-9yue-yue-du-shu-zhai/",
+          "publishedOn": "2024-10-07T13:04:29.000Z",
+          "wordCount": 159,
+          "title": "2024年9月阅读书摘",
+          "imageUrl": "https://images.unsplash.com/photo-1456315138460-858d1089ddba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDQwfHxib29rc3xlbnwwfHx8fDE3MjgxODcyODh8MA&ixlib=rb-4.0.3&q=80&w=2000"
+        },
+        {
+          "id": "6700bc256c5c2009965820c6",
+          "author": "Domon",
+          "description": "This message is used to verify that this feed (feedId:41359648684677173) belongs to me (userId:65237279170106368). Join me in enjoying the next generation information browser https://follow.is.",
+          "link": "https://www.domon.cn/ren-zheng-follow/",
+          "publishedOn": "2024-10-05T04:11:01.000Z",
+          "wordCount": 145,
+          "title": "认证Follow",
+          "imageUrl": "https://static.ghost.org/v1.0.0/images/blog-cover.jpg"
         }
       ]
     }
