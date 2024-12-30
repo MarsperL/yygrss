@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2024-12-29T01:55:04.637Z</updated>
+    <updated>2024-12-30T01:49:51.371Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[英国伦敦出差]]></title>
+        <id>https://www.skyue.com/24122921.html</id>
+        <link href="https://www.skyue.com/24122921.html"/>
+        <updated>2024-12-29T13:57:00.000Z</updated>
+        <summary type="html"><![CDATA[博客又是一个月未更新，今天锄草，因为黑五大促，11月23日至12月6日在伦敦出差，就写写伦敦见闻。大英博物馆11月30日周六，全天都泡在大英博物馆。上午自己逛，中午在博物馆内吃简餐，下午约了中文...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Data Scraping Services Will Shape Mobile App Trends in 2025]]></title>
+        <id>https://collabnix.com/?p=29703</id>
+        <link href="https://collabnix.com/how-data-scraping-services-will-shape-mobile-app-trends/"/>
+        <updated>2024-12-29T13:06:06.000Z</updated>
+        <summary type="html"><![CDATA[Want to stay ahead in 2025? Explore how data scraping services power mobile app innovation by delivering insights for smarter strategies and business success.
+The post How Data Scraping Services Will Shape Mobile App Trends in 2025 appeared first on Collabnix.]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CPU 越多，延迟越高的问题排查]]></title>
+        <id>https://www.kawabangga.com/?p=6793</id>
+        <link href="https://www.kawabangga.com/posts/6793"/>
+        <updated>2024-12-29T12:56:16.000Z</updated>
+        <summary type="html"><![CDATA[最近上线了一组规格比较高的 CPU 的机器。36 cores x 2 threads x 2 Sockets， […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keepalived 脑裂问题排查]]></title>
+        <id>https://www.kawabangga.com/?p=6781</id>
+        <link href="https://www.kawabangga.com/posts/6781"/>
+        <updated>2024-12-29T09:08:58.000Z</updated>
+        <summary type="html"><![CDATA[用户报告问题，说在虚拟机里面启动的 Keepalived 有脑裂问题，一启动就开始脑裂了。 Keepalive […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build a RAG Application Using Ollama and Docker]]></title>
         <id>https://collabnix.com/?p=29697</id>
@@ -4526,26 +4569,6 @@ bash <(curl -sSL]]></summary>
         <summary type="html"><![CDATA[Model Overview Nemotron-4-340B-Instruct is a large language model developed by NVIDIA, designed for English-based single and multi-turn chat applications. It has been fine-tuned for improved instruction-following capabilities and mathematical reasoning. Key points: Based on the Nemotron-4 architecture Supports context length of 4,096 tokens Pre-trained on a corpus of 9 trillion tokens Fine-tuned using Supervised Fine-tuning […]]]></summary>
         <author>
             <name>Adesoji Alu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to use Redis in Kubernetes]]></title>
-        <id>https://collabnix.com/?p=27792</id>
-        <link href="https://collabnix.com/how-to-use-redis-in-kubernetes/"/>
-        <updated>2024-10-01T08:08:06.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Redis is an open-source, in-memory data structure store often used as a cache, database, and message broker. Integrating Redis into a Kubernetes environment allows you to leverage Kubernetes’ scalability, load balancing, and orchestration features to run Redis clusters efficiently. This guide will walk you through the process of integrating Redis on Kubernetes, providing a […]]]></summary>
-        <author>
-            <name>Abraham Dahunsi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[毕业旅行｜皖南自驾DAY8 - 塔川]]></title>
-        <id>https://blog.ops-coffee.cn/r/china-travel-layoff-trip-day8-yixian-tachuan</id>
-        <link href="https://blog.ops-coffee.cn/r/china-travel-layoff-trip-day8-yixian-tachuan"/>
-        <updated>2024-09-30T23:22:02.000Z</updated>
-        <summary type="html"><![CDATA[这个距离宏村只有两公里的这个小众古村落值得来看看，尤其是秋天]]></summary>
-        <author>
-            <name>运维咖啡吧</name>
         </author>
     </entry>
 </feed>
