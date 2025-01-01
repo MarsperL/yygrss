@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-01-01T02:23:23.212Z</updated>
+    <updated>2025-01-01T02:49:37.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
@@ -3319,6 +3319,16 @@ Warp Drive 将终端工具扩展到…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[使用 DTS 实现腾讯云数据库 MySQL 多节点和单节点互相转换]]></title>
+        <id>https://www.mintimate.cn/2024/11/23/QCloudSqlMultiToSingleNode/</id>
+        <link href="https://www.mintimate.cn/2024/11/23/QCloudSqlMultiToSingleNode/"/>
+        <updated>2024-11-23T13:55:06.000Z</updated>
+        <summary type="html"><![CDATA[在腾讯云上购买了 MySQL 的 DBaaS 服务，发现单节点和多节点之间是无法转换的。但是可以使用 DTS 来间接实现单节点和多节点的互相转换。]]></summary>
+        <author>
+            <name>雨月空间站</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How to Set Up and Use Docker Build Cloud for Local Development]]></title>
         <id>https://collabnix.com/?p=28675</id>
         <link href="https://collabnix.com/how-to-set-up-and-use-docker-build-cloud-for-local-development/"/>
@@ -3459,6 +3469,17 @@ The post New Local Administrator Protection in Windows 11: Just In Time Security
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MySQL binlog日志恢复数据]]></title>
+        <id>/archives/CMb76vlx</id>
+        <link href="http://localhost:8090/archives/CMb76vlx"/>
+        <updated>2024-11-20T12:24:39.000Z</updated>
+        <summary type="html"><![CDATA[MySQL binlog日志恢复数据 1、 找到要恢复数据的binlog文件 show variables like '%log_bin%';
+ 如下：可能存在好多个 binlog日志文件，例如：binlog.000087 有些教程里，文件名也可能是这样的：mysql-bin.000001 [zyj]]></summary>
+        <author>
+            <name>Linux运维笔记</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[如何预防个人极端案事件]]></title>
         <id>https://hyruo.com/article/how-to-prevent-personal-extremist-incidents/</id>
         <link href="https://hyruo.com/article/how-to-prevent-personal-extremist-incidents/"/>
@@ -3532,6 +3553,16 @@ The post Best Way to Backup Docker Containers Volumes and Home Server appeared f
         <summary type="html"><![CDATA[Static Application Security Testing (SAST) plays a crucial role in enhancing the security of DevOps pipelines. By integrating SAST early in the development process, teams can identify vulnerabilities right within developers’ integrated development environments (IDEs). This proactive approach allows for faster remediation and reduces the likelihood of security issues appearing later in the pipeline. While […]]]></summary>
         <author>
             <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我是如何使用 Git 做图床，并使用 hook 实现图片的 WebP 压缩与水印的？]]></title>
+        <id>https://www.mintimate.cn/2024/11/18/GitHookWebp/</id>
+        <link href="https://www.mintimate.cn/2024/11/18/GitHookWebp/"/>
+        <updated>2024-11-18T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Git 和 服务器作为图床，使用 Git Hook 实现图片的 WebP 压缩与水印，大幅度压缩图片，提高网站加载速度。]]></summary>
+        <author>
+            <name>雨月空间站</name>
         </author>
     </entry>
     <entry>
@@ -3935,6 +3966,16 @@ The post Windows Server 2025 Proxmox Packer Build Fully Automated appeared first
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[洞悉 Linux 系统运行细节，使用 atop 监测和回看系统负载状态]]></title>
+        <id>https://www.mintimate.cn/2024/11/11/GuideToATop/</id>
+        <link href="https://www.mintimate.cn/2024/11/11/GuideToATop/"/>
+        <updated>2024-11-11T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Linux 的资源使用情况是动态变化的，某些进程的使用情况就像潮汐一样，有高峰也有低谷。在这种情况下，如何有效地查看某段时间内的系统负载变化呢？这时，atop 就能够帮助我们解决这一问题。本文详细介绍如何在 Linux 上使用 atop 来监控系统一段时间内的负载状态。]]></summary>
+        <author>
+            <name>雨月空间站</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Taking Docker Compose to Production with One Tool]]></title>
         <id>https://collabnix.com/?p=28449</id>
         <link href="https://collabnix.com/taking-docker-compose-to-production-with-one-tool/"/>
@@ -4238,6 +4279,16 @@ Mermaid Diagram
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ubuntu 22.04LTS安装VNC Server]]></title>
+        <id>/archives/SxeH6vgc</id>
+        <link href="http://localhost:8090/archives/SxeH6vgc"/>
+        <updated>2024-11-05T13:29:10.000Z</updated>
+        <summary type="html"><![CDATA[Ubuntu 22.04LTS安装VNC Server 一、VNC 概述 VNC（Virtual Network Console），即虚拟网络控制台，由著名的 AT&T 的欧洲研究实验室开发。它是一款基于 UNIX 和 Linux 操作系统的优秀远程控制工具软件，远程控制能力强大，高效实用且免费开源]]></summary>
+        <author>
+            <name>Linux运维笔记</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[中国国家地理  | 欢迎神十八乘组回家！]]></title>
         <id>/archives/1730889631831</id>
         <link href="https://srebro.cn/archives/1730889631831"/>
@@ -4533,6 +4584,65 @@ AWS 建议 ECS 客户迁移到 Service Connect 而 EKS 客户迁移到 VPC Latti
         <summary type="html"><![CDATA[一、简介 人大金仓数据库KingbaseES简称KES是一款国产数据库，具有开发板、标准版、专业版和企业版，目前版本有V8R3、V8R6和V9R1，支持单机部署和集群部署。 安装包和授权文件下载地址： https://www.kingbase.com.cn/xzzx/index.htm 官方帮助文档]]></summary>
         <author>
             <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenClash使用]]></title>
+        <id>/archives/208</id>
+        <link href="https://7boe.top/archives/208"/>
+        <updated>2024-10-27T15:27:08.000Z</updated>
+        <summary type="html"><![CDATA[OPENWRT安装openclash配置和分流
+有一段时间没有写博客了，工作原因耽误了一段世界，同时也花了点时间去观摩了别人的博客，去学习别人是如何把一个文章写好。文章内容的核心，配图，代码块，以及后续博客的一个分享方向。思考了很久....
+安装openclash
+安装这里不用过多赘述，GITHUb直接搜也可以，为了方便直接贴连接 OPENCLASH
+release页面
+注意事项
+请先安装好这些依赖:
+iptables
+opkg update
+opkg install coreutils-nohup bash iptables dnsmasq-full curl ca-certificates ipset ip-full iptables-mod-tproxy iptables-mod-extra libcap libcap-bin ruby ruby-yaml kmod-tun kmod-inet-diag unzip luci-compat luci luci-base
+
+nftables
+opkg update
+opkg install coreutils-nohup bash dnsmasq-full curl ca-certificates ipset ip-full libcap libcap-bin ruby ruby-yaml kmod-t
+
+配置
+上面安装完成之后刷新一下或者退出重新登录OPENWRT
+
+
+这里参照我的配置，目前应该算是最优的选项了，DNS方面我这里是吧WAN的DNS给默认了，不使用223.5.5.5这种公网dns了，是运营商DNS,原因是解析更快。OPENWRT里面的dns要开重定向到dnsmsq，不然访问网站有时候回ssl错误。
+截图了的配置是重要的，其他没截图的都是次要配置，根据自己喜好配置。
+
+
+
+
+DNS追加，这里的配置我是全关掉了，意思是需要在你的机场节点配置文件里面要不要再加dns，用来替换开启clash时候的本机dns的。
+
+三个里面都关掉。
+切换灵敏度这里是指这个节点的延迟和最好的那个节点之间的延迟差距大于100ms他就去切换。
+
+针对dns和fakeip
+
+MATE
+
+订阅
+
+
+使用方式
+总的来讲和你使用clash是一样的原理。只是这种上网方式没人会一直去登录来回调整节点。
+
+具体分流 --Netflix
+
+分流
+这里分流规则可以使用模版网站去生成
+ACLSSR4
+
+具体的文本解释就是命中规则然后去代理或者直连。
+
+注意事项与踩坑
+DNS重定向,网站访问有问题，开启这个。]]></summary>
+        <author>
+            <name>未雨绸缪</name>
         </author>
     </entry>
     <entry>
@@ -5221,6 +5331,16 @@ bash <(curl -sSL]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[私有化部署 Dify+Ollama并使用qwen2快速搭建 AI 应用]]></title>
+        <id>/archives/DoLlMxIg</id>
+        <link href="http://localhost:8090/archives/DoLlMxIg"/>
+        <updated>2024-10-09T07:57:10.000Z</updated>
+        <summary type="html"><![CDATA[私有化部署 Dify+Ollama并快速搭建 AI 应用 Dify 是一款开源的大语言模型(LLM) 应用开发平台。它融合了后端即服务（Backend as Service）和 LLMOps 的理念，使开发者可以快速搭建生产级的生成式 AI 应用。即使你是非技术人员，也能参与到 AI 应用的定义和数]]></summary>
+        <author>
+            <name>Linux运维笔记</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Geek Chic Eyewear: A Comprehensive Guide to Frame Selection]]></title>
         <id>https://www.derekseaman.com/?p=17593</id>
         <link href="https://www.derekseaman.com/2024/10/geek-chic-part-1-your-prescription-for-the-perfect-pair-of-glasses.html"/>
@@ -5307,6 +5427,16 @@ bash <(curl -sSL]]></summary>
 1856年第二次鸦片战争爆发，八国联军沿海长驱背上，津京失陷，圆…]]></summary>
         <author>
             <name>Andy烧麦 - 成熟，聪明，豁达的人什么也不问 过去，现在，将来…</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给网站加加速!下一代CDN(EdgeOne/边缘安全加速)使用与配置体验]]></title>
+        <id>https://www.mintimate.cn/2024/10/05/connectToEdgeOne/</id>
+        <link href="https://www.mintimate.cn/2024/10/05/connectToEdgeOne/"/>
+        <updated>2024-10-05T11:09:53.000Z</updated>
+        <summary type="html"><![CDATA[随着访问量的增加和用户需求的多样化，会使用CDN技术加快网络访问；但是，传统的CDN技术，价格过高，并且个人使用，面对DDOS等攻击，没有防御能力。现在，面对下一代CDN技术EdgeOne，是否有改善和更利于上手呢？]]></summary>
+        <author>
+            <name>雨月空间站</name>
         </author>
     </entry>
     <entry>

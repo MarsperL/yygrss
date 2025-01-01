@@ -3998,6 +3998,131 @@
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
+    },
+    {
+      "title": "Linux运维笔记",
+      "feedUrl": "https://wanghaiyang.cc/rss.xml",
+      "siteUrl": "http://localhost:8090/",
+      "articles": [
+        {
+          "id": "/archives/CMb76vlx",
+          "author": null,
+          "description": "MySQL binlog日志恢复数据 1、 找到要恢复数据的binlog文件 show variables like '%log_bin%';\n 如下：可能存在好多个 binlog日志文件，例如：binlog.000087 有些教程里，文件名也可能是这样的：mysql-bin.000001 [zyj",
+          "link": "http://localhost:8090/archives/CMb76vlx",
+          "publishedOn": "2024-11-20T12:24:39.000Z",
+          "wordCount": null,
+          "title": "MySQL binlog日志恢复数据",
+          "imageUrl": null
+        },
+        {
+          "id": "/archives/SxeH6vgc",
+          "author": null,
+          "description": "Ubuntu 22.04LTS安装VNC Server 一、VNC 概述 VNC（Virtual Network Console），即虚拟网络控制台，由著名的 AT&T 的欧洲研究实验室开发。它是一款基于 UNIX 和 Linux 操作系统的优秀远程控制工具软件，远程控制能力强大，高效实用且免费开源",
+          "link": "http://localhost:8090/archives/SxeH6vgc",
+          "publishedOn": "2024-11-05T13:29:10.000Z",
+          "wordCount": null,
+          "title": "Ubuntu 22.04LTS安装VNC Server",
+          "imageUrl": null
+        },
+        {
+          "id": "/archives/DoLlMxIg",
+          "author": null,
+          "description": "私有化部署 Dify+Ollama并快速搭建 AI 应用 Dify 是一款开源的大语言模型(LLM) 应用开发平台。它融合了后端即服务（Backend as Service）和 LLMOps 的理念，使开发者可以快速搭建生产级的生成式 AI 应用。即使你是非技术人员，也能参与到 AI 应用的定义和数",
+          "link": "http://localhost:8090/archives/DoLlMxIg",
+          "publishedOn": "2024-10-09T07:57:10.000Z",
+          "wordCount": null,
+          "title": "私有化部署 Dify+Ollama并使用qwen2快速搭建 AI 应用",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "清风",
+      "feedUrl": "https://xbd666.cn/rss.xml",
+      "siteUrl": "https://xbd666.cn",
+      "articles": []
+    },
+    {
+      "title": "未雨绸缪",
+      "feedUrl": "https://7boe.top/rss.xml",
+      "siteUrl": "https://7boe.top/",
+      "articles": [
+        {
+          "id": "/archives/208",
+          "author": null,
+          "description": "OPENWRT安装openclash配置和分流\n有一段时间没有写博客了，工作原因耽误了一段世界，同时也花了点时间去观摩了别人的博客，去学习别人是如何把一个文章写好。文章内容的核心，配图，代码块，以及后续博客的一个分享方向。思考了很久....\n安装openclash\n安装这里不用过多赘述，GITHUb直接搜也可以，为了方便直接贴连接 OPENCLASH\nrelease页面\n注意事项\n请先安装好这些依赖:\niptables\nopkg update\nopkg install coreutils-nohup bash iptables dnsmasq-full curl ca-certificates ipset ip-full iptables-mod-tproxy iptables-mod-extra libcap libcap-bin ruby ruby-yaml kmod-tun kmod-inet-diag unzip luci-compat luci luci-base\n\nnftables\nopkg update\nopkg install coreutils-nohup bash dnsmasq-full curl ca-certificates ipset ip-full libcap libcap-bin ruby ruby-yaml kmod-t\n\n配置\n上面安装完成之后刷新一下或者退出重新登录OPENWRT\n\n\n这里参照我的配置，目前应该算是最优的选项了，DNS方面我这里是吧WAN的DNS给默认了，不使用223.5.5.5这种公网dns了，是运营商DNS,原因是解析更快。OPENWRT里面的dns要开重定向到dnsmsq，不然访问网站有时候回ssl错误。\n截图了的配置是重要的，其他没截图的都是次要配置，根据自己喜好配置。\n\n\n\n\nDNS追加，这里的配置我是全关掉了，意思是需要在你的机场节点配置文件里面要不要再加dns，用来替换开启clash时候的本机dns的。\n\n三个里面都关掉。\n切换灵敏度这里是指这个节点的延迟和最好的那个节点之间的延迟差距大于100ms他就去切换。\n\n针对dns和fakeip\n\nMATE\n\n订阅\n\n\n使用方式\n总的来讲和你使用clash是一样的原理。只是这种上网方式没人会一直去登录来回调整节点。\n\n具体分流 --Netflix\n\n分流\n这里分流规则可以使用模版网站去生成\nACLSSR4\n\n具体的文本解释就是命中规则然后去代理或者直连。\n\n注意事项与踩坑\nDNS重定向,网站访问有问题，开启这个。",
+          "link": "https://7boe.top/archives/208",
+          "publishedOn": "2024-10-27T15:27:08.000Z",
+          "wordCount": 2800,
+          "title": "OpenClash使用",
+          "imageUrl": "https://oss.7boe.top/2024/03/11/65ee77dac4869.png"
+        }
+      ]
+    },
+    {
+      "title": "Justlovesmile's BLOG",
+      "feedUrl": "https://blog.justlovesmile.top/atom.xml",
+      "siteUrl": "https://blog.justlovesmile.top/atom.xml",
+      "articles": []
+    },
+    {
+      "title": "牧尘的NAS小站",
+      "feedUrl": "https://www.dreamlyn.cn/atom.xml",
+      "siteUrl": "https://www.dreamlyn.cn/atom.xml",
+      "articles": []
+    },
+    {
+      "title": "Pandalab",
+      "feedUrl": "https://pandalab.me/rss.xml",
+      "siteUrl": "https://pandalab.me/",
+      "articles": []
+    },
+    {
+      "title": "雨月空间站",
+      "feedUrl": "https://www.mintimate.cn/atom.xml",
+      "siteUrl": "https://www.mintimate.cn/atom.xml",
+      "articles": [
+        {
+          "id": "https://www.mintimate.cn/2024/11/23/QCloudSqlMultiToSingleNode/",
+          "author": null,
+          "description": "在腾讯云上购买了 MySQL 的 DBaaS 服务，发现单节点和多节点之间是无法转换的。但是可以使用 DTS 来间接实现单节点和多节点的互相转换。",
+          "link": "https://www.mintimate.cn/2024/11/23/QCloudSqlMultiToSingleNode/",
+          "publishedOn": "2024-11-23T13:55:06.000Z",
+          "wordCount": 865,
+          "title": "使用 DTS 实现腾讯云数据库 MySQL 多节点和单节点互相转换",
+          "imageUrl": "https://imagehost.mintimate.cn/post_QCloudSqlMultiToSingleNode/banner.webp"
+        },
+        {
+          "id": "https://www.mintimate.cn/2024/11/18/GitHookWebp/",
+          "author": null,
+          "description": "Git 和 服务器作为图床，使用 Git Hook 实现图片的 WebP 压缩与水印，大幅度压缩图片，提高网站加载速度。",
+          "link": "https://www.mintimate.cn/2024/11/18/GitHookWebp/",
+          "publishedOn": "2024-11-18T20:00:00.000Z",
+          "wordCount": 1632,
+          "title": "我是如何使用 Git 做图床，并使用 hook 实现图片的 WebP 压缩与水印的？",
+          "imageUrl": "https://imagehost.mintimate.cn/post_GitHookWebp/banner.webp"
+        },
+        {
+          "id": "https://www.mintimate.cn/2024/11/11/GuideToATop/",
+          "author": null,
+          "description": "Linux 的资源使用情况是动态变化的，某些进程的使用情况就像潮汐一样，有高峰也有低谷。在这种情况下，如何有效地查看某段时间内的系统负载变化呢？这时，atop 就能够帮助我们解决这一问题。本文详细介绍如何在 Linux 上使用 atop 来监控系统一段时间内的负载状态。",
+          "link": "https://www.mintimate.cn/2024/11/11/GuideToATop/",
+          "publishedOn": "2024-11-11T19:00:00.000Z",
+          "wordCount": 1825,
+          "title": "洞悉 Linux 系统运行细节，使用 atop 监测和回看系统负载状态",
+          "imageUrl": "https://imagehost.mintimate.cn/post_GuideToATop/banner.webp"
+        },
+        {
+          "id": "https://www.mintimate.cn/2024/10/05/connectToEdgeOne/",
+          "author": null,
+          "description": "随着访问量的增加和用户需求的多样化，会使用CDN技术加快网络访问；但是，传统的CDN技术，价格过高，并且个人使用，面对DDOS等攻击，没有防御能力。现在，面对下一代CDN技术EdgeOne，是否有改善和更利于上手呢？",
+          "link": "https://www.mintimate.cn/2024/10/05/connectToEdgeOne/",
+          "publishedOn": "2024-10-05T11:09:53.000Z",
+          "wordCount": 1107,
+          "title": "给网站加加速!下一代CDN(EdgeOne/边缘安全加速)使用与配置体验",
+          "imageUrl": "https://imagehost.mintimate.cn/post_connectToEdgeOne/banner.webp"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
