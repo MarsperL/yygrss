@@ -6,6 +6,16 @@
       "siteUrl": "https://MarsperL.github.io/",
       "articles": [
         {
+          "id": "https://marsperl.github.io/yyg/f5a7a3df/",
+          "author": null,
+          "description": "有东西被加密了, 请输入密码查看.",
+          "link": "https://marsperl.github.io/yyg/f5a7a3df/",
+          "publishedOn": "2024-12-31T13:26:18.000Z",
+          "wordCount": 1011,
+          "title": "Kubernetes知识梳理",
+          "imageUrl": "https://api.jiangyuhui.top/aliyun/randomCover?7956"
+        },
+        {
           "id": "https://marsperl.github.io/yyg/57e2a956/",
           "author": null,
           "description": "任务目标\n\n完成高可用k8s集群安装部署\n任务平台\n\n物理设备—\n操作系统：openEuler 22.03 LTS SP2\n<a href=\"#部署指南\" class=\"headerlink\"",
@@ -4121,6 +4131,670 @@
           "wordCount": 1107,
           "title": "给网站加加速!下一代CDN(EdgeOne/边缘安全加速)使用与配置体验",
           "imageUrl": "https://imagehost.mintimate.cn/post_connectToEdgeOne/banner.webp"
+        }
+      ]
+    },
+    {
+      "title": "杂烩饭",
+      "feedUrl": "https://zahui.fan/atom.xml",
+      "siteUrl": "https://zahui.fan/atom.xml",
+      "articles": [
+        {
+          "id": "https://zahui.fan/posts/spcjoj/",
+          "author": null,
+          "description": "<h2 id=\"淘汰策略\"><a href=\"#淘汰策略\" class=\"headerlink\" title=\"淘汰策略\"></a>淘汰策略</h2><p>如果设置了合适的淘汰策略，Redis",
+          "link": "https://zahui.fan/posts/spcjoj/",
+          "publishedOn": "2024-12-31T07:04:50.000Z",
+          "wordCount": 421,
+          "title": "管理Redis内存占用",
+          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
+        },
+        {
+          "id": "https://zahui.fan/posts/spc5z0/",
+          "author": null,
+          "description": "<h2 id=\"终端工具\"><a href=\"#终端工具\" class=\"headerlink\" title=\"终端工具\"></a>终端工具</h2><h3 id=\"xshell-全家桶\"><a href=\"#xshell-全家桶\" class=\"headerlink\" title=\"xshell 全家桶\"></a>xshell 全家桶</h3><p>Xmanager Power Suite 8",
+          "link": "https://zahui.fan/posts/spc5z0/",
+          "publishedOn": "2024-12-31T02:09:00.000Z",
+          "wordCount": 517,
+          "title": "运维",
+          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
+        },
+        {
+          "id": "https://zahui.fan/posts/sp3b30/",
+          "author": null,
+          "description": "<div class=\"note flat\"><p>以前用过什么 pytesseract 识别效果很差，还需要电脑上安装 <code>Tesseract OCR</code> 的软件，但是使用下来，效果不好，后面也用过 <code>PaddleOCR</code>",
+          "link": "https://zahui.fan/posts/sp3b30/",
+          "publishedOn": "2024-12-26T07:20:59.000Z",
+          "wordCount": 498,
+          "title": "使用Python识别验证码，效果不错",
+          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
+        },
+        {
+          "id": "https://zahui.fan/posts/sootea/",
+          "author": null,
+          "description": "<h2 id=\"返回请求-uri\"><a href=\"#返回请求-uri\" class=\"headerlink\" title=\"返回请求 uri\"></a>返回请求 uri</h2><p>在 Nginx 中，可以使用 <code>$request_uri</code> 来表示请求 uri, 配置如下；</p>\n<figure class=\"highlight",
+          "link": "https://zahui.fan/posts/sootea/",
+          "publishedOn": "2024-12-18T11:32:33.000Z",
+          "wordCount": 508,
+          "title": "nginx反向代理的context path",
+          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
+        },
+        {
+          "id": "https://zahui.fan/posts/sof9i3/",
+          "author": null,
+          "description": "<blockquote>\n<p>基于 AlmaLinux9 使用 kubeadm 搭建集群， <a href=\"/posts/526ffc9a/\">ubuntu部署文档</a>, 有疑问的地方可以看 <a href=\"https://kubernetes.io/zh/docs/setup/production-environment/tools/kubeadm/\">官方文档</a>,",
+          "link": "https://zahui.fan/posts/sof9i3/",
+          "publishedOn": "2024-12-13T07:44:27.000Z",
+          "wordCount": 861,
+          "title": "使用kubeadm部署一套高可用k8s 1.32集群 for AlmaLinux9(RHEL9)",
+          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
+        },
+        {
+          "id": "https://zahui.fan/posts/so9bdi/",
+          "author": null,
+          "description": "<h2 id=\"选择一个关联标签\"><a href=\"#选择一个关联标签\" class=\"headerlink\" title=\"选择一个关联标签\"></a>选择一个关联标签</h2><p><code>instance</code> 是机器 ip，不会重复，所以我用这个做关联字段。<br>第一个查询我会保留多一些标签，（可以使用 <code>sum by ... (instance)</code>",
+          "link": "https://zahui.fan/posts/so9bdi/",
+          "publishedOn": "2024-12-10T02:39:17.000Z",
+          "wordCount": 594,
+          "title": "Grafana表格绘制",
+          "imageUrl": "https://static.zahui.fan/public/Grafana.svg"
+        },
+        {
+          "id": "https://zahui.fan/posts/lmojvw5l/",
+          "author": null,
+          "description": "<p>对于自建的 redis, 我们可以将 rdb&#x2F;aof 文件拷贝到目的 redis, 启动恢复, 但是云 redis 或者某些特殊情况, 比如没有云平台的权限等等情况, 可以使用工具来进行迁移.</p>\n<p>RedisShake 是阿里云 Tair 团队 积极维护的一个项目。它的演变可以追溯到其初始版本，该版本是从 redis-port 分支出来的。官方文档<a",
+          "link": "https://zahui.fan/posts/lmojvw5l/",
+          "publishedOn": "2024-12-02T04:51:47.000Z",
+          "wordCount": 698,
+          "title": "使用RedisShake进行Redis迁移",
+          "imageUrl": "https://static.zahui.fan/public/redis.svg"
+        },
+        {
+          "id": "https://zahui.fan/posts/1da8e73d/",
+          "author": null,
+          "description": "<h2 id=\"下载解压\"><a href=\"#下载解压\" class=\"headerlink\" title=\"下载解压\"></a>下载解压</h2><figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span",
+          "link": "https://zahui.fan/posts/1da8e73d/",
+          "publishedOn": "2024-12-02T04:51:44.000Z",
+          "wordCount": 668,
+          "title": "编译安装Redis记录",
+          "imageUrl": "https://static.zahui.fan/public/redis.svg"
+        },
+        {
+          "id": "https://zahui.fan/posts/280100fb/",
+          "author": null,
+          "description": "<p><img src= \"https://static.zahui.fan/public/nes.gif\" data-lazy-src=\"https://static.zahui.fan/images/vim_keymap.png\" alt=\"keymap\"></p>\n<h2 id=\"常用快捷键\"><a href=\"#常用快捷键\" class=\"headerlink\"",
+          "link": "https://zahui.fan/posts/280100fb/",
+          "publishedOn": "2024-12-02T04:51:42.000Z",
+          "wordCount": 785,
+          "title": "Linux平台文本编辑器vim",
+          "imageUrl": "https://static.zahui.fan/public/vim.svg"
+        },
+        {
+          "id": "https://zahui.fan/posts/snui2r/",
+          "author": null,
+          "description": "<p>参考<br><a href=\"https://www.cnblogs.com/feifuzeng/p/13563430.html\">https://www.cnblogs.com/feifuzeng/p/13563430.html</a><br><a",
+          "link": "https://zahui.fan/posts/snui2r/",
+          "publishedOn": "2024-12-02T02:40:03.000Z",
+          "wordCount": 588,
+          "title": "Elasticsearch索引生命周期配置",
+          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
+        },
+        {
+          "id": "https://zahui.fan/posts/snrcqh/",
+          "author": null,
+          "description": "<h2 id=\"为什么不用-WSL\"><a href=\"#为什么不用-WSL\" class=\"headerlink\" title=\"为什么不用 WSL\"></a>为什么不用 WSL</h2><p>主要原因有以下几点：</p>\n<ol>\n<li>WSL 访问 Windows 的路径和原生 Windows 不一致，需要手动或者 <code>wslpath</code>",
+          "link": "https://zahui.fan/posts/snrcqh/",
+          "publishedOn": "2024-11-30T09:51:53.000Z",
+          "wordCount": 441,
+          "title": "在Windows中使用msys来运行linux命令",
+          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
+        },
+        {
+          "id": "https://zahui.fan/posts/sna41n/",
+          "author": null,
+          "description": "<h2 id=\"HTTPS-是什么\"><a href=\"#HTTPS-是什么\" class=\"headerlink\" title=\"HTTPS 是什么\"></a>HTTPS 是什么</h2><p>以前一直以为 HTTPS 是一种与 HTTP 类似的应用层协议，后来才发现 HTTPS 并不是一种协议。https 只是在 URI 中作为 protocol identifier 罢了。HTTPS",
+          "link": "https://zahui.fan/posts/sna41n/",
+          "publishedOn": "2024-11-21T02:24:59.000Z",
+          "wordCount": 1066,
+          "title": "HTTPS的原理，使用HTTPS就一定是安全的吗？",
+          "imageUrl": "https://static.zahui.fan/images/202411211426166.png"
+        },
+        {
+          "id": "https://zahui.fan/posts/sn6pu2/",
+          "author": null,
+          "description": "<p>比如有 30 家客户，每一个客户都有自己的 Kubernetes 集群，部署方式千差万别，还有客户不使用 Kubernetes 的，使用虚拟机部署，那么怎么对这么多客户的机器、服务进行有效的监控，本文记录一下监控的架构方案。</p>\n<h2 id=\"监控架构图\"><a href=\"#监控架构图\" class=\"headerlink\"",
+          "link": "https://zahui.fan/posts/sn6pu2/",
+          "publishedOn": "2024-11-19T06:25:14.000Z",
+          "wordCount": 1439,
+          "title": "生产环境Prometheus监控架构记录",
+          "imageUrl": "https://static.zahui.fan/images/202411151309207.png"
+        },
+        {
+          "id": "https://zahui.fan/posts/smz2c9/",
+          "author": null,
+          "description": "<h2 id=\"安装\"><a href=\"#安装\" class=\"headerlink\" title=\"安装\"></a>安装</h2><p>到 GitHub 下载一个可执行文件，直接运行即可，或者使用 systemd 来运行，也可以直接部署到 Kubernetes 中。<br><a",
+          "link": "https://zahui.fan/posts/smz2c9/",
+          "publishedOn": "2024-11-15T03:14:33.000Z",
+          "wordCount": 1736,
+          "title": "使用snmp exporter对交换机、服务器等进行监控",
+          "imageUrl": "https://static.zahui.fan/images/202411151309207.png"
+        },
+        {
+          "id": "https://zahui.fan/posts/smvb2h/",
+          "author": null,
+          "description": "<h2 id=\"注册表方式\"><a href=\"#注册表方式\" class=\"headerlink\" title=\"注册表方式\"></a>注册表方式</h2><h4 id=\"系统\"><a href=\"#系统\" class=\"headerlink\" title=\"系统\"></a>系统</h4><figure class=\"highlight plaintext\"><table><tr><td",
+          "link": "https://zahui.fan/posts/smvb2h/",
+          "publishedOn": "2024-11-13T02:32:40.000Z",
+          "wordCount": 410,
+          "title": "Windows 开机自启动配置位置",
+          "imageUrl": "https://static.zahui.fan/images/202411191004480.jpg"
+        },
+        {
+          "id": "https://zahui.fan/posts/smvadg/",
+          "author": null,
+          "description": "<h2 id=\"oem-信息\"><a href=\"#oem-信息\" class=\"headerlink\" title=\"oem 信息\"></a>oem 信息</h2><h3 id=\"添加-oem-信息\"><a href=\"#添加-oem-信息\" class=\"headerlink\" title=\"添加 oem 信息\"></a>添加 oem 信息</h3><figure",
+          "link": "https://zahui.fan/posts/smvadg/",
+          "publishedOn": "2024-11-13T02:17:40.000Z",
+          "wordCount": 534,
+          "title": "Windows常见注册表位置",
+          "imageUrl": "https://static.zahui.fan/images/202411191004480.jpg"
+        },
+        {
+          "id": "https://zahui.fan/posts/smrno6/",
+          "author": null,
+          "description": "<p>在 Prometheus 的表达式语言中，表达式或子表达式包括以下四种类型之一：</p>\n<ul>\n<li>瞬时向量（Instant vector） ： 一组时间序列，每个时间序列包含单个样本，它们共享相同的时间戳。也就是说，表达式的返回值中只会包含该时间序列中的最新的一个样本值。而相应的这样的表达式称之为瞬时向量表达式。</li>\n<li>区间向量（Range vector） ：",
+          "link": "https://zahui.fan/posts/smrno6/",
+          "publishedOn": "2024-11-11T03:14:30.000Z",
+          "wordCount": 651,
+          "title": "Prometheus的瞬时向量(Instant vector)和区间向量(Range vector)",
+          "imageUrl": "https://static.zahui.fan/public/Prometheus.svg"
+        },
+        {
+          "id": "https://zahui.fan/posts/sm0nds/",
+          "author": null,
+          "description": "<p>mRemoteNG 是一款比较好用的 Windows 平台的连接 RDP 的管理工具，非常好用，支持选项卡，配置文件管理，账号密码管理等。虽然现在 xshell 8 也支持连接 rdp 了，但是没有这个好用。mRemoteNG 也支持连接 vnc 和 ssh，但是不好用，我只用它来连 rdp</p>\n<p><img src=",
+          "link": "https://zahui.fan/posts/sm0nds/",
+          "publishedOn": "2024-10-27T13:13:04.000Z",
+          "wordCount": 423,
+          "title": "mRemoteNG 如何显示保存的密码",
+          "imageUrl": "https://static.zahui.fan/images/202410272127464.png"
+        },
+        {
+          "id": "https://zahui.fan/posts/slhl3q/",
+          "author": null,
+          "description": "<p>如果需要集群部署的文档你可以在站内搜搜，之前写过。</p>\n<p>单节点部署，不考虑高可用性，只求快速搭建出环境，一般都是自己开发或者运维做测试使用。或者业务的测试环境为了节省服务器资源采取的方案。不过我不一样，我们测试环境资源充足，我只是单纯的懒。</p>\n<h2 id=\"第一步-安装-Docker\"><a href=\"#第一步-安装-Docker\" class=\"headerlink\"",
+          "link": "https://zahui.fan/posts/slhl3q/",
+          "publishedOn": "2024-10-17T06:09:25.000Z",
+          "wordCount": 766,
+          "title": "快速部署单节点kafka",
+          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
+        },
+        {
+          "id": "https://zahui.fan/posts/sldz99/",
+          "author": null,
+          "description": "<p>直接看效果（<code>pip install pyyaml</code>）：</p>\n<figure class=\"highlight python\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span",
+          "link": "https://zahui.fan/posts/sldz99/",
+          "publishedOn": "2024-10-15T07:24:45.000Z",
+          "wordCount": 487,
+          "title": "yaml多行文本的写法和区别",
+          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
+        }
+      ]
+    },
+    {
+      "title": "Lixx Blog - 李晓旭的博客",
+      "feedUrl": "https://lixx.cn/rss.xml",
+      "siteUrl": "http://localhost:8090/",
+      "articles": [
+        {
+          "id": "/archives/1733210857654",
+          "author": null,
+          "description": "在日常的 Linux 系统使用中，磁盘空间不足是一个常见问题，特别是在云开发环境中。如果不定期清理和管理磁盘空间，系统可能会因为存储空间耗尽而变得缓慢，甚至无法正常运行。本文将详细介绍如何排查哪些目录占用了大量磁盘空间，并提供有效的清理方案，帮助你释放空间，保持系统高效运行。 1. 检查磁盘空间使用",
+          "link": "http://localhost:8090/archives/1733210857654",
+          "publishedOn": "2024-12-03T07:27:39.000Z",
+          "wordCount": null,
+          "title": "如何排查和清理 Linux 系统中的磁盘空间",
+          "imageUrl": null
+        },
+        {
+          "id": "/archives/1732593156608",
+          "author": null,
+          "description": "如何在 Kubernetes 集群中修改 Pod CIDR 范围及合理规划集群大小 在 Kubernetes 集群中，Pod CIDR 范围用于指定分配给 Pod 的 IP 地址段。在某些情况下，可能需要修改集群的 Pod CIDR 范围，例如为了适应新的网络规划或拓展集群的 IP 地址池。此外，合",
+          "link": "http://localhost:8090/archives/1732593156608",
+          "publishedOn": "2024-11-26T03:55:24.000Z",
+          "wordCount": null,
+          "title": "如何在 Kubernetes 集群中修改 Pod CIDR 范围及合理规划集群大小",
+          "imageUrl": null
+        },
+        {
+          "id": "/archives/1731480866042",
+          "author": null,
+          "description": "使用 Go 语言实现定时发送邮件并容器化部署 定时发送邮件是一项常见的需求，通常用于定期报告、通知邮件或提醒邮件等场景。在本文中，我们将通过 Go 语言实现定时发送邮件，并将其容器化部署，使得它可以在任何环境中运行，无论是在本地机器、云服务器，还是在容器化环境中。 1. 发送邮件的基本步骤 在 Go",
+          "link": "http://localhost:8090/archives/1731480866042",
+          "publishedOn": "2024-11-13T07:00:35.000Z",
+          "wordCount": null,
+          "title": "使用 Go 语言实现定时发送邮件并容器化部署",
+          "imageUrl": null
+        },
+        {
+          "id": "/archives/1730428961389",
+          "author": null,
+          "description": "在网络受限的环境中，使用 ISO 镜像作为本地软件源不仅能提高软件包的安装和更新效率，还能确保系统的稳定性。本文将详细介绍如何将 ISO 镜像挂载为本地 Yum 软件源，同时深入探讨 module_hotfixes 配置的作用和必要性。 1. 挂载 ISO 镜像 首先，我们需要将 ISO 文件挂载到",
+          "link": "http://localhost:8090/archives/1730428961389",
+          "publishedOn": "2024-11-01T02:58:48.000Z",
+          "wordCount": null,
+          "title": "ISO 镜像与本地软件源制作：详细步骤和配置",
+          "imageUrl": null
+        },
+        {
+          "id": "/archives/1730426809220",
+          "author": null,
+          "description": "在这篇文章中，我们将学习如何使用Python生成一个包含数字、字母（大小写）和特殊字符的8位随机密码。这种密码生成器可以帮助我们在需要密码的情况下提供更强的安全性。 1. 环境准备 确保你的计算机上已安装Python。如果还没有安装，可以从Python官方网站下载并安装最新版本。 2. 代码实现 我",
+          "link": "http://localhost:8090/archives/1730426809220",
+          "publishedOn": "2024-11-01T02:07:54.000Z",
+          "wordCount": null,
+          "title": "使用Python生成8位随机密码",
+          "imageUrl": null
+        },
+        {
+          "id": "/archives/1730279923698",
+          "author": null,
+          "description": "1. 配置 Git 用户名和邮箱 在使用 Git 进行版本控制时，首先需要配置你的用户名和邮箱，这些信息会在每次提交时使用。可以通过以下命令进行设置： git config --global user.name \"Your Name\"\ngit config --global user.email \"",
+          "link": "http://localhost:8090/archives/1730279923698",
+          "publishedOn": "2024-10-30T09:19:34.000Z",
+          "wordCount": null,
+          "title": "Git 配置与常用操作指南",
+          "imageUrl": null
+        },
+        {
+          "id": "/archives/1730255941202",
+          "author": null,
+          "description": "在 Kubernetes (K8s) 中，流量代理的选择对集群的性能和功能有重要影响。kube-proxy 是 K8s 中的流量管理组件，支持两种主要模式：iptables 和 IPVS。本文将介绍如何在 K8s 中配置和选择这两种模式，并提供验证手段和相关参数解释。 1. 查看当前 kube-pr",
+          "link": "http://localhost:8090/archives/1730255941202",
+          "publishedOn": "2024-10-30T02:39:15.000Z",
+          "wordCount": null,
+          "title": "在 Kubernetes 中选择使用 iptables 或 IPVS 作为流量代理",
+          "imageUrl": null
+        },
+        {
+          "id": "/archives/1730188175748",
+          "author": null,
+          "description": "操作系统：Ubuntu 24.04.1 LTS 容器运行时：containerd://1.7.12 # 此内容为部署完的k8s集群信息\n\nroot@k8s-kubeovn:~# kubectl get node -owide\nNAME          STATUS   ROLES",
+          "link": "http://localhost:8090/archives/1730188175748",
+          "publishedOn": "2024-10-29T08:00:40.000Z",
+          "wordCount": null,
+          "title": "Ubuntu24.04，Kubeadm安装k8s 1.31，使用containerd作为CRI，使用Kube-OVN作为CNI插件",
+          "imageUrl": null
+        },
+        {
+          "id": "/archives/1729740511140",
+          "author": null,
+          "description": "MySQL 使用以下命令来创建一个 MySQL 数据库 Docker 容器供开发使用： docker run --name mysql-dev -e MYSQL_ROOT_PASSWORD=rootpassword -e MYSQL_DATABASE=mydatabase -p 3306:3306",
+          "link": "http://localhost:8090/archives/1729740511140",
+          "publishedOn": "2024-10-24T03:35:15.000Z",
+          "wordCount": null,
+          "title": "Docker创建常用资源整理",
+          "imageUrl": null
+        },
+        {
+          "id": "/archives/1729608331512",
+          "author": null,
+          "description": "操作系统：Ubuntu 24.04.1 LTS 容器运行时：containerd://1.7.12 # 此内容为部署完的k8s集群信息\n\nroot@ubuntu-k8s:~# kubectl get node -owide\nNAME         STATUS   ROLES",
+          "link": "http://localhost:8090/archives/1729608331512",
+          "publishedOn": "2024-10-22T14:47:21.000Z",
+          "wordCount": null,
+          "title": "Ubuntu24.04，Kubeadm安装k8s 1.31，使用containerd作为CRI，使用Flannel作为CNI插件",
+          "imageUrl": null
+        },
+        {
+          "id": "/archives/1728957767194",
+          "author": null,
+          "description": "创建虚拟环境 在 Python 中创建虚拟环境，可以使用以下步骤： 1. 使用 venv 创建虚拟环境 Python 自带的 venv 模块可以用来创建虚拟环境。执行以下命令： python -m venv myenv\n 这里 myenv 是你虚拟环境的名字，可以根据需要更换。 2. 激活虚拟环境",
+          "link": "http://localhost:8090/archives/1728957767194",
+          "publishedOn": "2024-10-15T02:03:59.000Z",
+          "wordCount": null,
+          "title": "2 分钟搞定 Python 虚拟环境",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "BMPI",
+      "feedUrl": "https://www.bmpi.dev/index.xml",
+      "siteUrl": "https://www.bmpi.dev/",
+      "articles": []
+    },
+    {
+      "title": "Home on 阳明的博客",
+      "feedUrl": "https://www.qikqiak.com/index.xml",
+      "siteUrl": "https://www.qikqiak.com/",
+      "articles": [
+        {
+          "id": "https://www.qikqiak.com/post/gpustack-introduction/",
+          "author": null,
+          "description": "最近，一个国产开源项目凭借高质量的代码、飞快的迭代速度和简洁友好的操作体验正在悄然崛起。短短半年内，这个项目已经在国内外开源社区获得了众多的拥趸和生产用户。它就是今天要介绍的开源项目 - GPUStack。\n\nGPUStack 是一个 100% 开源的大模型服务平台，用户只需要简单的设置，就可以高效整合包括 NVIDIA、Apple Metal、华为昇腾和摩尔线程在内的各种异构 GPU/NPU 资源，构建异构 GPU 集群，在私有环境提供企业级的大模型部署解决方案。\nGPUStack 支持私有化部署 RAG 系统和 AI Agent 系统所需的各种关键模型，包括 LLM 大语言模型、VLM 多模态模型、Embedding 文本嵌入模型、Rerank 重排序模型、Text-to-Image 文生图模型，以及 Speech-to-Text（STT）和 Text-to-Speech（TTS）语音模型等。并提供统一认证和高可用负载均衡的 OpenAI 兼容 API，供用户从各类大模型云服务无缝迁移到本地部署的私有大模型服务。\nGitHub：https://github.com/gpustack/gpustack",
+          "link": "https://www.qikqiak.com/post/gpustack-introduction/",
+          "publishedOn": "2024-12-17T00:00:00.000Z",
+          "wordCount": 847,
+          "title": "GPUStack：打造企业级私有大模型服务的开源利器",
+          "imageUrl": "https://picdn.youdianzhishi.com/images/blog-favicon.png"
+        },
+        {
+          "id": "https://www.qikqiak.com/post/openai-k8s-fault-analysis/",
+          "author": null,
+          "description": "2024 年 12 月 11 日，OpenAI 遭遇了一次严重的生产环境故障。问题起源于一个新的遥测服务部署，该部署导致 Kubernetes 控制平面过载，引发了级联故障。本文从技术角度分析事故原因、应急响应及后续优化方案。",
+          "link": "https://www.qikqiak.com/post/openai-k8s-fault-analysis/",
+          "publishedOn": "2024-12-17T00:00:00.000Z",
+          "wordCount": 455,
+          "title": "OpenAI 的 Kubernetes 集群故障分析",
+          "imageUrl": "https://picdn.youdianzhishi.com/images/blog-favicon.png"
+        },
+        {
+          "id": "https://www.qikqiak.com/post/give-up-loki/",
+          "author": null,
+          "description": "VictoriaLogs 是一个相对较新的日志收集和分析系统，类似于 Grafana Loki，就像 VictoriaMetrics 相对于普通 Prometheus 一样，对 CPU/内存资源的需求较少。\n就我个人而言，我使用 Grafana Loki 大约 5 年了，但有时我对它有些担忧，无论是在文档方面还是系统的整体复杂性方面，因为有很多组件。此外，在性能方面也有一些问题，因为无论我如何尝试调整它，有时在相对较小的查询上，Grafana 仍然从 Loki 网关返回 504 错误，我真的厌倦了处理这个问题。\n由于我项目中的监控是基于 VictoriaMetrics 构建的，并且 VictoriaLogs 已经获得了 Grafana 数据源支持，现在是时候尝试一下并与 Grafana Loki 进行比较了。",
+          "link": "https://www.qikqiak.com/post/give-up-loki/",
+          "publishedOn": "2024-11-11T00:00:00.000Z",
+          "wordCount": 1907,
+          "title": "是时候放弃 Loki 了？",
+          "imageUrl": "https://picdn.youdianzhishi.com/images/blog-favicon.png"
+        },
+        {
+          "id": "https://www.qikqiak.com/post/add-adsense-payment-method-in-china/",
+          "author": null,
+          "description": "我们这个博客运行了好多年了，很早之前就加了 Adsense 广告，最近一年没怎么更新博客内容，所以广告收入也没怎么关注。今天突然去看了下后台账号，发现到现在有 300 多美元了，这对于一个希望通过网站来赚钱的站长来说，没有比这更开心的事情了，虽然收入不多，但是毕竟是自己辛辛苦苦写博客赚来的，哈哈 😄。\n现在提现比以前更方便了，以前需要通过西联汇款，现在已经暂停这种方式了，现在采用电汇方式付款。经过很多网友推荐，目前招商银行一卡通比较好用：没有手续费，收款稳定，手机 APP 即可完成结汇。",
+          "link": "https://www.qikqiak.com/post/add-adsense-payment-method-in-china/",
+          "publishedOn": "2024-11-06T00:00:00.000Z",
+          "wordCount": null,
+          "title": "谷歌 Adsense 如何添加国内银行付款方式",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.qikqiak.com/page/archive/",
+          "author": null,
+          "description": "关注容器、kubernetes、devops、python、golang、微服务等技术。\nAI\n上线了，AI 全栈开发学习平台 - 快课星球\nGoogle 在 Chrome 中内置 AI 功能\n深入体验全新 Cursor AI IDE 后，说杀疯了真不为过！\n保姆级教程 | 手把手叫你如何开通 ChatGPT Plus 试用 GPT-4\nKubernetes/Docker\n新一代云原生可观测平台 OpenObserve\n讲真，Sealos 云服务真香\n在 Kubernetes 上部署 LLM 大语言模型\nKubernetes 多集群管理系统 Karmada\n云原生数据管理平台 KubeBlocks\n新一代云原生存储系统 CubeFS\nKubernetes 策略引擎 Kyverno\n一文搞懂 VictoriaMetrics 的使用\nDevOps 工具链管理器 DevStream 还真是神器\n如何修改 Kubernetes 节点 IP 地址?\n本地集群使用 OpenELB 实现 Load Balancer 负载均衡\nDocker 创始人的新产品 Dagger 好用吗？\nPrometheus 监控 Kubernetes Job 资源误报的坑\n自定义 Traefik（本地）插件\nHelm Chart 兼容不同 Kubernetes 版本\nGitlab CI 在 Kubernetes 中的 Docker 缓存\n一文搞懂容器运行时 Containerd\n使用 kube-vip 搭建高可用 Kubernetes 集群\n你应该了解的 10 个 Kubernetes 安全上下文设置\n如何收集管理多行日志？\n通过 Traefik 使用 Kubernetes Service APIs 进行流量路由\nKubernetes Service APIs 简介\n给 Pod 添加 DNS 记录\n理解 Lin…",
+          "link": "https://www.qikqiak.com/page/archive/",
+          "publishedOn": "2024-10-26T00:00:00.000Z",
+          "wordCount": null,
+          "title": "存档",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.qikqiak.com/page/about/",
+          "author": null,
+          "description": "Nothing in the world can take the place of Persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not; the world is full of educated derelicts. Persistence and Determination alone are omnipotent. The slogan “Press On” has solved and will always solve the problems of the human race.",
+          "link": "https://www.qikqiak.com/page/about/",
+          "publishedOn": "2024-10-24T00:00:00.000Z",
+          "wordCount": null,
+          "title": "About me",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.qikqiak.com/post/fastclass-cn/",
+          "author": null,
+          "description": "你是否曾经感到技能提升遇到瓶颈？是否渴望成为一名独当一面的全栈大神？或者，你是否正在为找不到优质学习资源而苦恼？如果你对以上任何一个问题的回答是\"是\"，那么恭喜你，你的机会来了！我们推出了一款全新的学习视频网站：fastclass.cn，专为 AI 全栈开发者量身定制，这里汇聚了最前沿的技术视频，从 Python 到 Curosr、React、Next.js、Figma、ChatGPT 等，应有尽有。我们会讲述如何使用这些技术来开发很多完整的项目，从零开始构建一个网站、开发一款移动应用，我们也会借助 Cursor 这样的 AI IDE 来开发项目，即使你没有编程经验也可以开发出自己的项目。",
+          "link": "https://www.qikqiak.com/post/fastclass-cn/",
+          "publishedOn": "2024-10-24T00:00:00.000Z",
+          "wordCount": null,
+          "title": "上线了，AI 全栈开发学习平台 - 快课星球",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "运维小弟",
+      "feedUrl": "https://www.srebro.cn/rss.xml",
+      "siteUrl": "https://srebro.cn/",
+      "articles": [
+        {
+          "id": "/archives/1735643680271",
+          "author": "运维小弟",
+          "description": "一、NanoPi K2 介绍 NanoPi K2采用了Amlogic公司64位四核A53主控S905, 内置五核Mali450 GPU, 最高运行主频可达2GHz，支持众多视频格式，具备超强的视频解码能力。 NanoPi K2配备2GB DDR3内存，集成WiFi蓝牙，带有千兆以太网，4个USB，H",
+          "link": "https://srebro.cn/archives/1735643680271",
+          "publishedOn": "2024-12-31T11:14:52.000Z",
+          "wordCount": 2175,
+          "title": "NanoPi刷armbian做小型服务器",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1735643555819",
+          "author": "运维小弟",
+          "description": "一、安装supervisor 备注：supervisor 只能管理前台进程的服务，比如 npm run 这些 ，一些后台运行的服务无法管理【后台运行的服务可以用systemd 进行管理】 1、安装epel源 yum install epel-release yum install -y superv",
+          "link": "https://srebro.cn/archives/1735643555819",
+          "publishedOn": "2024-12-31T11:12:54.000Z",
+          "wordCount": 2677,
+          "title": "supervisor安装&CeSi集中化管理Supervisor",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1735643159042",
+          "author": "运维小弟",
+          "description": "背景： 之前写笔记基本使用了私有的wiz为知笔记，有些笔记可能需要大纲一样展示出来，碰巧那天看到一个博主的Ansible博客，感觉还挺不错，就试了下，很简约，可以渲染 Markdown 成静态HTML，很符合我的需求 环境：python3 第一步：安装 MkDocs 官网地址：https://www",
+          "link": "https://srebro.cn/archives/1735643159042",
+          "publishedOn": "2024-12-31T11:06:26.000Z",
+          "wordCount": 2535,
+          "title": "MkDocs Markdown 项目文档工具部署&优化主题",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1735642778325",
+          "author": "运维小弟",
+          "description": "关于在Jenkins 的job 中隐藏shared library 共享库相关的Git信息 需求： jenkins 中因为使用了shared library 共享库，当每次去修改共享库中的配置的时候，job 在发布时，总会带出 changes 变更信息，怎么能够不输出共享库的git 变更信息，只打印",
+          "link": "https://srebro.cn/archives/1735642778325",
+          "publishedOn": "2024-12-31T10:59:46.000Z",
+          "wordCount": 2061,
+          "title": "关于在Jenkins 的job 中隐藏shared library 共享库相关的Git信息",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1735642702076",
+          "author": "运维小弟",
+          "description": "一、portainer 介绍 官网地址： https://www.portainer.io/ 二、docker-compose 部署 见另一篇部署手册 三、portainer-ce 开源版 docker-compose.yml文件 3.1 服务端和客户端在同一台机器 注意需要创建docker 自定义",
+          "link": "https://srebro.cn/archives/1735642702076",
+          "publishedOn": "2024-12-31T10:58:39.000Z",
+          "wordCount": 2146,
+          "title": "docker-compose 部署portainer 容器管理工具",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1735642375977",
+          "author": "运维小弟",
+          "description": "Openeuler22.03 LTS 源码部署 Postgresql12.9+PostGIS3.1 一、环境信息 官方PostGIS 支持的 https://trac.osgeo.org/postgis/wiki/UsersWikiPostgreSQLPostGIS 本次部署环境信息 名称 版本 备",
+          "link": "https://srebro.cn/archives/1735642375977",
+          "publishedOn": "2024-12-31T10:53:17.000Z",
+          "wordCount": 2731,
+          "title": "Openeuler22.03 部署 Postgresql10.5+PostGIS3.1",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1735642227909",
+          "author": "运维小弟",
+          "description": "title: Typora+Picgo+又拍云实现图片快速上传 id: 1f9e1b4d-1da0-4a58-9aee-f88b679e3adf date: 2024-03-07 21:53:22 auther: admin cover: excerpt: 背景： 苦逼于手动复制图片到图床上，在复",
+          "link": "https://srebro.cn/archives/1735642227909",
+          "publishedOn": "2024-12-31T10:50:44.000Z",
+          "wordCount": 2067,
+          "title": "Typora+Picgo+又拍云实现图片快速上传",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1735641624006",
+          "author": "运维小弟",
+          "description": "问题描述： HTTPS 下发起WS连接，连接失败，Chrom 浏览器报错。 socket.js:19 Mixed Content: The page at 'https://app.XXX.com' was loaded over HTTPS, but attempted to connect t",
+          "link": "https://srebro.cn/archives/1735641624006",
+          "publishedOn": "2024-12-31T10:41:18.000Z",
+          "wordCount": 2174,
+          "title": "HTTPS下使用WebSocket的一些实践",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1735551963045",
+          "author": "运维小弟",
+          "description": "环境： 使用2台虚拟机，如图-1所示。其中192.168.4.51是主服务器,另一台192.168.4.52作为从服务器，通过调取主服务器上的binlog日志，在本地重做对应的库、表，实现与主服务器的数据同步。 主服务器、从服务器都已安装好mysql5.7.44 步骤一：配置主服务器192.168.",
+          "link": "https://srebro.cn/archives/1735551963045",
+          "publishedOn": "2024-12-30T09:50:53.000Z",
+          "wordCount": 2289,
+          "title": "MySQL5.7主从同步配置",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1735030841468",
+          "author": null,
+          "description": "用途 快速运行一个mysql-slave 的容器，去同步 mysql主库的数据 可用于一些从库数据的调试 可用于临时的主从数据备份 项目地址 源码地址： https://cnb.cool/srebro/mysql-slave 使用方法 定义docker-compose 文件内的 变量       M",
+          "link": "https://srebro.cn/archives/1735030841468",
+          "publishedOn": "2024-12-24T09:00:42.000Z",
+          "wordCount": 2303,
+          "title": "《快速部署Mysql-slave 容器，实现高效主从同步》",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1734490757464",
+          "author": null,
+          "description": "华为认证openEuler专家 HCIP-openEuler 官方说明：https://e.huawei.com/cn/talent/news/#/details?consultationId=3603 华为认证HCIE-openEuler V1.0定位于培养和认证基于openEuler操作系统完成",
+          "link": "https://srebro.cn/archives/1734490757464",
+          "publishedOn": "2024-12-18T03:00:35.000Z",
+          "wordCount": 2057,
+          "title": "关于华为-OpenEuler-HCIP认证",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/615AA45E-41C3-4702-95A5-FF7B33498D8F.png"
+        },
+        {
+          "id": "/archives/1709887884489",
+          "author": null,
+          "description": "1、开放增删改查权限，不开放表结构修改权限 有许多生产环境是不需要修改表结构的，也是为了防止SQL注入。 创建用户\nmysql> grant all on *.* to 'ie'@'%' identified by 'test1'\n\n设置权限\n1.首先我们先回收所有权限。\nrevoke  all",
+          "link": "https://srebro.cn/archives/1709887884489",
+          "publishedOn": "2024-12-17T00:51:00.000Z",
+          "wordCount": 2700,
+          "title": "【持续更新】Mysql工作笔记",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1733155911424",
+          "author": null,
+          "description": "书名 备注 《NGINX金典教程》 人民邮电出版社 1、nginx调整 worker 进程的数量 为了充分利用 NGINX的性能特点,在不同的使用场景下,应该适当调整 worker 进程的数量。 基本规则是 worker 进程的数量应该和 CPU的核数相同。 但也有一些场景略有不同: 如果负载是CP",
+          "link": "https://srebro.cn/archives/1733155911424",
+          "publishedOn": "2024-12-02T16:13:49.000Z",
+          "wordCount": 2766,
+          "title": "《NGINX金典教程》读书笔记",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1733155340544",
+          "author": null,
+          "description": "Nginx管理维护运维规范 一、版本约束 软件的不同版本，在使用起来都有可能带来不可预知的影响，因此需要统一整理，固定下来，不允许轻易变更。 在Nginx开源版官网，点击右侧download可以看到各个版本的Nginx，其中Mainline是抢先的主干版本（版本号是奇数），Stable是稳定版（版本",
+          "link": "https://srebro.cn/archives/1733155340544",
+          "publishedOn": "2024-12-02T16:04:18.000Z",
+          "wordCount": 3564,
+          "title": "Nginx管理维护运维规范",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/CB68159F-7877-41AE-98BA-97B9B89ED919.png"
+        },
+        {
+          "id": "/archives/1732940817530",
+          "author": null,
+          "description": "一、Docker Buildx 功能介绍 docker buildx 是 Docker 提供的一个增强版构建工具，支持更强大的构建功能，特别是在构建多平台镜像和高效处理复杂 Docker 镜像方面。 1.1 主要功能 多平台构建支持 使用 docker buildx，可以在单台设备上构建多平台的镜像",
+          "link": "https://srebro.cn/archives/1732940817530",
+          "publishedOn": "2024-11-30T04:27:23.000Z",
+          "wordCount": 2270,
+          "title": "Docker Buildx 与 CNB 多平台构建实践",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1732697072164",
+          "author": null,
+          "description": "一、常见CPU 架构： 二、环境信息 CPU架构 操作系统 配置 HUAWEI Kunpeng 920 5220 aarch64 openEuler 22.03 (LTS-SP3) 64C128g15T 三、安装docker 3.1 二进制包下载 docker-ce 社区下载地址： wget htt",
+          "link": "https://srebro.cn/archives/1732697072164",
+          "publishedOn": "2024-11-27T08:45:17.000Z",
+          "wordCount": 2189,
+          "title": "ARM架构下安装新版docker及docker-compose",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/7039FE62-8D0E-4009-9420-6FA65B694FC3.jpg"
+        },
+        {
+          "id": "/archives/1731041508690",
+          "author": null,
+          "description": "背景： Go 语言的 net/http/pprgf包如未配置正确暴露在公网容易引起敏感信息泄漏问题，导致源码等信息泄漏。 influxdb 2 默认是开启pprof的 使用 localhost:8086/debug/pprof/goroutine?debug=1 可以看到接口暴露的信息 如何关闭pp",
+          "link": "https://srebro.cn/archives/1731041508690",
+          "publishedOn": "2024-11-08T04:52:48.000Z",
+          "wordCount": 2034,
+          "title": "InfluxDB 2 关闭pprof",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/01CDE1E5-2449-4AFB-A2D6-04758BF228F4.png"
+        },
+        {
+          "id": "/archives/1730875760707",
+          "author": null,
+          "description": "之前有一直在使用 excalidraw 画图神器，还没使用的小伙伴可以来看看，https://excalidraw.com/ 也非常好用，自带的AI 也能根据文字画图，分分钟成为画图大师。 那今天呢，我们看一个3D 画图的软件，iCraft Editor，主打的就是从2D到3D，帮助您轻松创建直观的",
+          "link": "https://srebro.cn/archives/1730875760707",
+          "publishedOn": "2024-11-06T07:02:26.000Z",
+          "wordCount": 2028,
+          "title": "一款绘制3D架构图的在线神器,iCraft Editor",
+          "imageUrl": "https://s3api.srebro.cn/srebro/picture/B80C17AD-7CC7-4269-8340-6FCC21BA7D33.png"
+        },
+        {
+          "id": "/archives/1730889631831",
+          "author": null,
+          "description": "111月4日凌晨，神舟十八号载人飞船返回舱在东风着陆场成功着陆，本次载人飞行任务取得圆满成功。 摄影师们在新疆多地记录下的神十八返回舱轨迹，灿若流星!奔赴星河，逐梦追光，和地理君一起致敬中国航天人!",
+          "link": "https://srebro.cn/archives/1730889631831",
+          "publishedOn": "2024-11-05T10:41:00.000Z",
+          "wordCount": 2006,
+          "title": "中国国家地理  | 欢迎神十八乘组回家！",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/FC9675A0-089C-4BCC-AE75-E818802984B9.jpg"
+        },
+        {
+          "id": "/archives/1730359784356",
+          "author": null,
+          "description": "今天，我终于拿证了！ 北京时间： 2024-10-31 PM 距离今年8月16号考完科目一到今天拿证，一共经历了76天",
+          "link": "https://srebro.cn/archives/1730359784356",
+          "publishedOn": "2024-10-31T07:40:13.000Z",
+          "wordCount": 2141,
+          "title": "76天驾驶证拿证指南.C2",
+          "imageUrl": "https://s3api.srebro.cn/srebro/picture/BEAAD5BC-8F94-400C-8439-F3284CB157EC.jpg"
+        },
+        {
+          "id": "/archives/1730106107445",
+          "author": null,
+          "description": "一、简介 人大金仓数据库KingbaseES简称KES是一款国产数据库，具有开发板、标准版、专业版和企业版，目前版本有V8R3、V8R6和V9R1，支持单机部署和集群部署。 安装包和授权文件下载地址： https://www.kingbase.com.cn/xzzx/index.htm 官方帮助文档",
+          "link": "https://srebro.cn/archives/1730106107445",
+          "publishedOn": "2024-10-28T09:01:59.000Z",
+          "wordCount": 2652,
+          "title": "人大金仓Kingbase数据库部署体验",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/2CEC46D9-6963-405E-ADF6-2F879151FFE6.png"
+        },
+        {
+          "id": "/archives/1729598138043",
+          "author": null,
+          "description": "拍摄设备：Iphone13 分辨率：1080P 拍摄地点： 衢州鹿鸣山",
+          "link": "https://srebro.cn/archives/1729598138043",
+          "publishedOn": "2024-10-22T12:02:53.000Z",
+          "wordCount": 2000,
+          "title": "衢州-非遗文化-打铁花.Movies",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/15687EF0-4278-4E3F-B1AE-E6ECD1D7984A.jpg"
+        },
+        {
+          "id": "/archives/1729596455853",
+          "author": null,
+          "description": "拍摄设备： Iphone13 分辨率： 720P 地点： 南京地铁S3-刘村站",
+          "link": "https://srebro.cn/archives/1729596455853",
+          "publishedOn": "2024-10-22T11:37:18.000Z",
+          "wordCount": 2010,
+          "title": "南京地铁S3-刘村——> 马骡圩.Movies",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/FD291BA5-CBC6-4443-B1DD-586DE604DBF4.jpg"
+        },
+        {
+          "id": "/archives/1728654763152",
+          "author": null,
+          "description": "环境说明： 目前已验证： openeuler22.03 LTS SP3，openeuler22.03 LTS SP4 clickhouse 版本： 24.9.2 一、Clickhouse 在线安装 1.1 添加clickhouse repo源  $ yum-config-manager --add-",
+          "link": "https://srebro.cn/archives/1728654763152",
+          "publishedOn": "2024-10-11T13:52:58.000Z",
+          "wordCount": 2153,
+          "title": "OpenEuler 22.03 LTS 部署Clickhouse",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/FB762C36-8D96-450F-B29C-E337B2E9F964.jpg"
+        },
+        {
+          "id": "/archives/1728610605490",
+          "author": null,
+          "description": "一、背景 运行3年的clickhouse需要迁移机房，迁移单库单表的140亿条的数据。 采用clickhouse-backup 的方式进行备份迁移，打包备份，再加上数据拷贝，数据恢复 一共花费30分钟。 数据在一定量级，避免使用SQL 导入导出的方式，效率太低 二、clickhouse-backup",
+          "link": "https://srebro.cn/archives/1728610605490",
+          "publishedOn": "2024-10-11T01:37:06.000Z",
+          "wordCount": 3148,
+          "title": "ClickHouse 数据保护指南：从备份到迁移的全流程攻略",
+          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/F94878BD-5CDE-459A-ABC1-4B6C74AB5438.jpg"
         }
       ]
     }

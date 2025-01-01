@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-01-01T02:49:37.593Z</updated>
+    <updated>2025-01-01T04:03:33.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
@@ -45,6 +45,16 @@ The post Install Ghostty in Windows using WSL appeared first on Virtualization H
         <summary type="html"><![CDATA[当日历翻到 12月底的最后一页，终于能够静下心来写这份年终总结。时光飞逝，2024年留给我的，不仅是感慨，更多的是收获。]]></summary>
         <author>
             <name>苏洋(soulteary)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes知识梳理]]></title>
+        <id>https://marsperl.github.io/yyg/f5a7a3df/</id>
+        <link href="https://marsperl.github.io/yyg/f5a7a3df/"/>
+        <updated>2024-12-31T13:26:18.000Z</updated>
+        <summary type="html"><![CDATA[有东西被加密了, 请输入密码查看.]]></summary>
+        <author>
+            <name>云野阁</name>
         </author>
     </entry>
     <entry>
@@ -330,11 +340,41 @@ PHP-8.0.30
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NanoPi刷armbian做小型服务器]]></title>
+        <id>/archives/1735643680271</id>
+        <link href="https://srebro.cn/archives/1735643680271"/>
+        <updated>2024-12-31T11:14:52.000Z</updated>
+        <summary type="html"><![CDATA[一、NanoPi K2 介绍 NanoPi K2采用了Amlogic公司64位四核A53主控S905, 内置五核Mali450 GPU, 最高运行主频可达2GHz，支持众多视频格式，具备超强的视频解码能力。 NanoPi K2配备2GB DDR3内存，集成WiFi蓝牙，带有千兆以太网，4个USB，H]]></summary>
+        <author>
+            <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[supervisor安装&CeSi集中化管理Supervisor]]></title>
         <id>/archives/1735643555819</id>
         <link href="https://srebro.cn/archives/1735643555819"/>
         <updated>2024-12-31T11:12:54.000Z</updated>
         <summary type="html"><![CDATA[一、安装supervisor 备注：supervisor 只能管理前台进程的服务，比如 npm run 这些 ，一些后台运行的服务无法管理【后台运行的服务可以用systemd 进行管理】 1、安装epel源 yum install epel-release yum install -y superv]]></summary>
+        <author>
+            <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[supervisor安装&CeSi集中化管理Supervisor]]></title>
+        <id>/archives/1735643555819</id>
+        <link href="https://srebro.cn/archives/1735643555819"/>
+        <updated>2024-12-31T11:12:54.000Z</updated>
+        <summary type="html"><![CDATA[一、安装supervisor 备注：supervisor 只能管理前台进程的服务，比如 npm run 这些 ，一些后台运行的服务无法管理【后台运行的服务可以用systemd 进行管理】 1、安装epel源 yum install epel-release yum install -y superv]]></summary>
+        <author>
+            <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MkDocs Markdown 项目文档工具部署&优化主题]]></title>
+        <id>/archives/1735643159042</id>
+        <link href="https://srebro.cn/archives/1735643159042"/>
+        <updated>2024-12-31T11:06:26.000Z</updated>
+        <summary type="html"><![CDATA[背景： 之前写笔记基本使用了私有的wiz为知笔记，有些笔记可能需要大纲一样展示出来，碰巧那天看到一个博主的Ansible博客，感觉还挺不错，就试了下，很简约，可以渲染 Markdown 成静态HTML，很符合我的需求 环境：python3 第一步：安装 MkDocs 官网地址：https://www]]></summary>
         <author>
             <name>运维小弟</name>
         </author>
@@ -360,6 +400,26 @@ PHP-8.0.30
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[关于在Jenkins 的job 中隐藏shared library 共享库相关的Git信息]]></title>
+        <id>/archives/1735642778325</id>
+        <link href="https://srebro.cn/archives/1735642778325"/>
+        <updated>2024-12-31T10:59:46.000Z</updated>
+        <summary type="html"><![CDATA[关于在Jenkins 的job 中隐藏shared library 共享库相关的Git信息 需求： jenkins 中因为使用了shared library 共享库，当每次去修改共享库中的配置的时候，job 在发布时，总会带出 changes 变更信息，怎么能够不输出共享库的git 变更信息，只打印]]></summary>
+        <author>
+            <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[docker-compose 部署portainer 容器管理工具]]></title>
+        <id>/archives/1735642702076</id>
+        <link href="https://srebro.cn/archives/1735642702076"/>
+        <updated>2024-12-31T10:58:39.000Z</updated>
+        <summary type="html"><![CDATA[一、portainer 介绍 官网地址： https://www.portainer.io/ 二、docker-compose 部署 见另一篇部署手册 三、portainer-ce 开源版 docker-compose.yml文件 3.1 服务端和客户端在同一台机器 注意需要创建docker 自定义]]></summary>
+        <author>
+            <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[docker-compose 部署portainer 容器管理工具]]></title>
         <id>/archives/1735642702076</id>
         <link href="https://srebro.cn/archives/1735642702076"/>
@@ -380,11 +440,41 @@ PHP-8.0.30
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Openeuler22.03 部署 Postgresql10.5+PostGIS3.1]]></title>
+        <id>/archives/1735642375977</id>
+        <link href="https://srebro.cn/archives/1735642375977"/>
+        <updated>2024-12-31T10:53:17.000Z</updated>
+        <summary type="html"><![CDATA[Openeuler22.03 LTS 源码部署 Postgresql12.9+PostGIS3.1 一、环境信息 官方PostGIS 支持的 https://trac.osgeo.org/postgis/wiki/UsersWikiPostgreSQLPostGIS 本次部署环境信息 名称 版本 备]]></summary>
+        <author>
+            <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Typora+Picgo+又拍云实现图片快速上传]]></title>
         <id>/archives/1735642227909</id>
         <link href="https://srebro.cn/archives/1735642227909"/>
         <updated>2024-12-31T10:50:44.000Z</updated>
         <summary type="html"><![CDATA[title: Typora+Picgo+又拍云实现图片快速上传 id: 1f9e1b4d-1da0-4a58-9aee-f88b679e3adf date: 2024-03-07 21:53:22 auther: admin cover: excerpt: 背景： 苦逼于手动复制图片到图床上，在复]]></summary>
+        <author>
+            <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typora+Picgo+又拍云实现图片快速上传]]></title>
+        <id>/archives/1735642227909</id>
+        <link href="https://srebro.cn/archives/1735642227909"/>
+        <updated>2024-12-31T10:50:44.000Z</updated>
+        <summary type="html"><![CDATA[title: Typora+Picgo+又拍云实现图片快速上传 id: 1f9e1b4d-1da0-4a58-9aee-f88b679e3adf date: 2024-03-07 21:53:22 auther: admin cover: excerpt: 背景： 苦逼于手动复制图片到图床上，在复]]></summary>
+        <author>
+            <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTPS下使用WebSocket的一些实践]]></title>
+        <id>/archives/1735641624006</id>
+        <link href="https://srebro.cn/archives/1735641624006"/>
+        <updated>2024-12-31T10:41:18.000Z</updated>
+        <summary type="html"><![CDATA[问题描述： HTTPS 下发起WS连接，连接失败，Chrom 浏览器报错。 socket.js:19 Mixed Content: The page at 'https://app.XXX.com' was loaded over HTTPS, but attempted to connect t]]></summary>
         <author>
             <name>运维小弟</name>
         </author>
@@ -465,6 +555,16 @@ The post How to Integrate Kubernetes + Okta OIDC appeared first on Collabnix.]]>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[管理Redis内存占用]]></title>
+        <id>https://zahui.fan/posts/spcjoj/</id>
+        <link href="https://zahui.fan/posts/spcjoj/"/>
+        <updated>2024-12-31T07:04:50.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="淘汰策略"><a href="#淘汰策略" class="headerlink" title="淘汰策略"></a>淘汰策略</h2><p>如果设置了合适的淘汰策略，Redis]]></summary>
+        <author>
+            <name>杂烩饭</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Deep Dive into Kubernetes Source Code]]></title>
         <id>https://collabnix.com/?p=29724</id>
         <link href="https://collabnix.com/deep-dive-into-kubernetes-source-code/"/>
@@ -473,6 +573,16 @@ The post How to Integrate Kubernetes + Okta OIDC appeared first on Collabnix.]]>
 The post Deep Dive into Kubernetes Source Code appeared first on Collabnix.]]></summary>
         <author>
             <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[运维]]></title>
+        <id>https://zahui.fan/posts/spc5z0/</id>
+        <link href="https://zahui.fan/posts/spc5z0/"/>
+        <updated>2024-12-31T02:09:00.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="终端工具"><a href="#终端工具" class="headerlink" title="终端工具"></a>终端工具</h2><h3 id="xshell-全家桶"><a href="#xshell-全家桶" class="headerlink" title="xshell 全家桶"></a>xshell 全家桶</h3><p>Xmanager Power Suite 8]]></summary>
+        <author>
+            <name>杂烩饭</name>
         </author>
     </entry>
     <entry>
@@ -524,6 +634,16 @@ The post How to Get the Kubestronaut Jacket? appeared first on Collabnix.]]></su
 The post Portainer Alternative Komodo for Docker Stack Management and Deployment appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQL5.7主从同步配置]]></title>
+        <id>/archives/1735551963045</id>
+        <link href="https://srebro.cn/archives/1735551963045"/>
+        <updated>2024-12-30T09:50:53.000Z</updated>
+        <summary type="html"><![CDATA[环境： 使用2台虚拟机，如图-1所示。其中192.168.4.51是主服务器,另一台192.168.4.52作为从服务器，通过调取主服务器上的binlog日志，在本地重做对应的库、表，实现与主服务器的数据同步。 主服务器、从服务器都已安装好mysql5.7.44 步骤一：配置主服务器192.168.]]></summary>
+        <author>
+            <name>运维小弟</name>
         </author>
     </entry>
     <entry>
@@ -877,6 +997,16 @@ The post Docker Dashboard: New Tool Let’s You See Containers Across Multiple H
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[使用Python识别验证码，效果不错]]></title>
+        <id>https://zahui.fan/posts/sp3b30/</id>
+        <link href="https://zahui.fan/posts/sp3b30/"/>
+        <updated>2024-12-26T07:20:59.000Z</updated>
+        <summary type="html"><![CDATA[<div class="note flat"><p>以前用过什么 pytesseract 识别效果很差，还需要电脑上安装 <code>Tesseract OCR</code> 的软件，但是使用下来，效果不好，后面也用过 <code>PaddleOCR</code>]]></summary>
+        <author>
+            <name>杂烩饭</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[手搓RSSHub路由失败]]></title>
         <id>https://hyruo.com/article/handcrafted-rsshub-route-failed/</id>
         <link href="https://hyruo.com/article/handcrafted-rsshub-route-failed/"/>
@@ -1025,6 +1155,16 @@ The post 5 Tips to Get Started with a Home Lab appeared first on Virtualization 
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《快速部署Mysql-slave 容器，实现高效主从同步》]]></title>
+        <id>/archives/1735030841468</id>
+        <link href="https://srebro.cn/archives/1735030841468"/>
+        <updated>2024-12-24T09:00:42.000Z</updated>
+        <summary type="html"><![CDATA[用途 快速运行一个mysql-slave 的容器，去同步 mysql主库的数据 可用于一些从库数据的调试 可用于临时的主从数据备份 项目地址 源码地址： https://cnb.cool/srebro/mysql-slave 使用方法 定义docker-compose 文件内的 变量       M]]></summary>
+        <author>
+            <name>运维小弟</name>
         </author>
     </entry>
     <entry>
@@ -1292,6 +1432,17 @@ The post Docker Minecraft Server Home Lab Project appeared first on Virtualizati
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[nginx反向代理的context path]]></title>
+        <id>https://zahui.fan/posts/sootea/</id>
+        <link href="https://zahui.fan/posts/sootea/"/>
+        <updated>2024-12-18T11:32:33.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="返回请求-uri"><a href="#返回请求-uri" class="headerlink" title="返回请求 uri"></a>返回请求 uri</h2><p>在 Nginx 中，可以使用 <code>$request_uri</code> 来表示请求 uri, 配置如下；</p>
+<figure class="highlight]]></summary>
+        <author>
+            <name>杂烩饭</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[使用FlexCdn自建CDN]]></title>
         <id>https://qq.mba/204.html</id>
         <link href="https://qq.mba/204.html"/>
@@ -1309,6 +1460,16 @@ The post Docker Minecraft Server Home Lab Project appeared first on Virtualizati
         <summary type="html"><![CDATA[What an amazing year to celebrate !! In 2024, Docker, Inc solidified its position as a top developer tool, recognized in the Stack Overflow Developer Survey as one of the most loved and widely used platforms. Here’s how Docker transformed workflows and empowered developers to build, innovate, and secure software more effectively: 🎯 Streamlined Developer […]]]></summary>
         <author>
             <name>Ajeet Raina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于华为-OpenEuler-HCIP认证]]></title>
+        <id>/archives/1734490757464</id>
+        <link href="https://srebro.cn/archives/1734490757464"/>
+        <updated>2024-12-18T03:00:35.000Z</updated>
+        <summary type="html"><![CDATA[华为认证openEuler专家 HCIP-openEuler 官方说明：https://e.huawei.com/cn/talent/news/#/details?consultationId=3603 华为认证HCIE-openEuler V1.0定位于培养和认证基于openEuler操作系统完成]]></summary>
+        <author>
+            <name>运维小弟</name>
         </author>
     </entry>
     <entry>
@@ -1355,6 +1516,45 @@ mysql> grant all on *.* to 'ie'@'%' identified by 'test1'
 revoke  all]]></summary>
         <author>
             <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【持续更新】Mysql工作笔记]]></title>
+        <id>/archives/1709887884489</id>
+        <link href="https://srebro.cn/archives/1709887884489"/>
+        <updated>2024-12-17T00:51:00.000Z</updated>
+        <summary type="html"><![CDATA[1、开放增删改查权限，不开放表结构修改权限 有许多生产环境是不需要修改表结构的，也是为了防止SQL注入。 创建用户
+mysql> grant all on *.* to 'ie'@'%' identified by 'test1'
+
+设置权限
+1.首先我们先回收所有权限。
+revoke  all]]></summary>
+        <author>
+            <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPUStack：打造企业级私有大模型服务的开源利器]]></title>
+        <id>https://www.qikqiak.com/post/gpustack-introduction/</id>
+        <link href="https://www.qikqiak.com/post/gpustack-introduction/"/>
+        <updated>2024-12-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最近，一个国产开源项目凭借高质量的代码、飞快的迭代速度和简洁友好的操作体验正在悄然崛起。短短半年内，这个项目已经在国内外开源社区获得了众多的拥趸和生产用户。它就是今天要介绍的开源项目 - GPUStack。
+
+GPUStack 是一个 100% 开源的大模型服务平台，用户只需要简单的设置，就可以高效整合包括 NVIDIA、Apple Metal、华为昇腾和摩尔线程在内的各种异构 GPU/NPU 资源，构建异构 GPU 集群，在私有环境提供企业级的大模型部署解决方案。
+GPUStack 支持私有化部署 RAG 系统和 AI Agent 系统所需的各种关键模型，包括 LLM 大语言模型、VLM 多模态模型、Embedding 文本嵌入模型、Rerank 重排序模型、Text-to-Image 文生图模型，以及 Speech-to-Text（STT）和 Text-to-Speech（TTS）语音模型等。并提供统一认证和高可用负载均衡的 OpenAI 兼容 API，供用户从各类大模型云服务无缝迁移到本地部署的私有大模型服务。
+GitHub：https://github.com/gpustack/gpustack]]></summary>
+        <author>
+            <name>Home on 阳明的博客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI 的 Kubernetes 集群故障分析]]></title>
+        <id>https://www.qikqiak.com/post/openai-k8s-fault-analysis/</id>
+        <link href="https://www.qikqiak.com/post/openai-k8s-fault-analysis/"/>
+        <updated>2024-12-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2024 年 12 月 11 日，OpenAI 遭遇了一次严重的生产环境故障。问题起源于一个新的遥测服务部署，该部署导致 Kubernetes 控制平面过载，引发了级联故障。本文从技术角度分析事故原因、应急响应及后续优化方案。]]></summary>
+        <author>
+            <name>Home on 阳明的博客</name>
         </author>
     </entry>
     <entry>
@@ -1496,6 +1696,17 @@ https://www.adidas.com.cn/pdp?articleId=EF0901]]></summary>
 The post 10 Best DevOps Tools Going Into 2025! appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用kubeadm部署一套高可用k8s 1.32集群 for AlmaLinux9(RHEL9)]]></title>
+        <id>https://zahui.fan/posts/sof9i3/</id>
+        <link href="https://zahui.fan/posts/sof9i3/"/>
+        <updated>2024-12-13T07:44:27.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>基于 AlmaLinux9 使用 kubeadm 搭建集群， <a href="/posts/526ffc9a/">ubuntu部署文档</a>, 有疑问的地方可以看 <a href="https://kubernetes.io/zh/docs/setup/production-environment/tools/kubeadm/">官方文档</a>,]]></summary>
+        <author>
+            <name>杂烩饭</name>
         </author>
     </entry>
     <entry>
@@ -1812,6 +2023,16 @@ The post FluxCD How to Modify Kustomize Image Tag appeared first on Virtualizati
         <summary type="html"><![CDATA[因为我的博客是基于Typecho搭建的，所以我特别关注与TP相关的插件和主题。最近，在浏览TYPECHO WIKI网站时，我发现了一则公告，称该站点因磁盘故障而导致数据丢失。下面是该网站公告的内...]]></summary>
         <author>
             <name>满心</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grafana表格绘制]]></title>
+        <id>https://zahui.fan/posts/so9bdi/</id>
+        <link href="https://zahui.fan/posts/so9bdi/"/>
+        <updated>2024-12-10T02:39:17.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="选择一个关联标签"><a href="#选择一个关联标签" class="headerlink" title="选择一个关联标签"></a>选择一个关联标签</h2><p><code>instance</code> 是机器 ip，不会重复，所以我用这个做关联字段。<br>第一个查询我会保留多一些标签，（可以使用 <code>sum by ... (instance)</code>]]></summary>
+        <author>
+            <name>杂烩饭</name>
         </author>
     </entry>
     <entry>
@@ -2392,6 +2613,16 @@ Claw SG 1C1G 1.75$/month
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[如何排查和清理 Linux 系统中的磁盘空间]]></title>
+        <id>/archives/1733210857654</id>
+        <link href="http://localhost:8090/archives/1733210857654"/>
+        <updated>2024-12-03T07:27:39.000Z</updated>
+        <summary type="html"><![CDATA[在日常的 Linux 系统使用中，磁盘空间不足是一个常见问题，特别是在云开发环境中。如果不定期清理和管理磁盘空间，系统可能会因为存储空间耗尽而变得缓慢，甚至无法正常运行。本文将详细介绍如何排查哪些目录占用了大量磁盘空间，并提供有效的清理方案，帮助你释放空间，保持系统高效运行。 1. 检查磁盘空间使用]]></summary>
+        <author>
+            <name>Lixx Blog - 李晓旭的博客</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Is Kubernetes a Part of CI/CD?]]></title>
         <id>https://collabnix.com/?p=29006</id>
         <link href="https://collabnix.com/is-kubernetes-a-part-of-ci-cd/"/>
@@ -2438,6 +2669,26 @@ The post Proxmox vs ESXi in 2025: VMware Dying in the Home Lab appeared first on
         <link href="https://srebro.cn/archives/1733155911424"/>
         <updated>2024-12-02T16:13:49.000Z</updated>
         <summary type="html"><![CDATA[书名 备注 《NGINX金典教程》 人民邮电出版社 1、nginx调整 worker 进程的数量 为了充分利用 NGINX的性能特点,在不同的使用场景下,应该适当调整 worker 进程的数量。 基本规则是 worker 进程的数量应该和 CPU的核数相同。 但也有一些场景略有不同: 如果负载是CP]]></summary>
+        <author>
+            <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《NGINX金典教程》读书笔记]]></title>
+        <id>/archives/1733155911424</id>
+        <link href="https://srebro.cn/archives/1733155911424"/>
+        <updated>2024-12-02T16:13:49.000Z</updated>
+        <summary type="html"><![CDATA[书名 备注 《NGINX金典教程》 人民邮电出版社 1、nginx调整 worker 进程的数量 为了充分利用 NGINX的性能特点,在不同的使用场景下,应该适当调整 worker 进程的数量。 基本规则是 worker 进程的数量应该和 CPU的核数相同。 但也有一些场景略有不同: 如果负载是CP]]></summary>
+        <author>
+            <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nginx管理维护运维规范]]></title>
+        <id>/archives/1733155340544</id>
+        <link href="https://srebro.cn/archives/1733155340544"/>
+        <updated>2024-12-02T16:04:18.000Z</updated>
+        <summary type="html"><![CDATA[Nginx管理维护运维规范 一、版本约束 软件的不同版本，在使用起来都有可能带来不可预知的影响，因此需要统一整理，固定下来，不允许轻易变更。 在Nginx开源版官网，点击右侧download可以看到各个版本的Nginx，其中Mainline是抢先的主干版本（版本号是奇数），Stable是稳定版（版本]]></summary>
         <author>
             <name>运维小弟</name>
         </author>
@@ -2493,6 +2744,38 @@ The post Proxmox vs ESXi in 2025: VMware Dying in the Home Lab appeared first on
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[使用RedisShake进行Redis迁移]]></title>
+        <id>https://zahui.fan/posts/lmojvw5l/</id>
+        <link href="https://zahui.fan/posts/lmojvw5l/"/>
+        <updated>2024-12-02T04:51:47.000Z</updated>
+        <summary type="html"><![CDATA[<p>对于自建的 redis, 我们可以将 rdb&#x2F;aof 文件拷贝到目的 redis, 启动恢复, 但是云 redis 或者某些特殊情况, 比如没有云平台的权限等等情况, 可以使用工具来进行迁移.</p>
+<p>RedisShake 是阿里云 Tair 团队 积极维护的一个项目。它的演变可以追溯到其初始版本，该版本是从 redis-port 分支出来的。官方文档<a]]></summary>
+        <author>
+            <name>杂烩饭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[编译安装Redis记录]]></title>
+        <id>https://zahui.fan/posts/1da8e73d/</id>
+        <link href="https://zahui.fan/posts/1da8e73d/"/>
+        <updated>2024-12-02T04:51:44.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="下载解压"><a href="#下载解压" class="headerlink" title="下载解压"></a>下载解压</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span]]></summary>
+        <author>
+            <name>杂烩饭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux平台文本编辑器vim]]></title>
+        <id>https://zahui.fan/posts/280100fb/</id>
+        <link href="https://zahui.fan/posts/280100fb/"/>
+        <updated>2024-12-02T04:51:42.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src= "https://static.zahui.fan/public/nes.gif" data-lazy-src="https://static.zahui.fan/images/vim_keymap.png" alt="keymap"></p>
+<h2 id="常用快捷键"><a href="#常用快捷键" class="headerlink"]]></summary>
+        <author>
+            <name>杂烩饭</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Istio sidecar 和 ambient 模式的网络成本对比]]></title>
         <id>https://jimmysong.io/blog/istio-sidecar-vs-ambient-network-cost-performance/</id>
         <link href="https://jimmysong.io/blog/istio-sidecar-vs-ambient-network-cost-performance/"/>
@@ -2521,6 +2804,16 @@ istioctl proxy-config endpoint <pod-name[.namespace]> -o yaml
       m…]]></summary>
         <author>
             <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elasticsearch索引生命周期配置]]></title>
+        <id>https://zahui.fan/posts/snui2r/</id>
+        <link href="https://zahui.fan/posts/snui2r/"/>
+        <updated>2024-12-02T02:40:03.000Z</updated>
+        <summary type="html"><![CDATA[<p>参考<br><a href="https://www.cnblogs.com/feifuzeng/p/13563430.html">https://www.cnblogs.com/feifuzeng/p/13563430.html</a><br><a]]></summary>
+        <author>
+            <name>杂烩饭</name>
         </author>
     </entry>
     <entry>
@@ -2608,6 +2901,18 @@ SSL 2.0 和]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[在Windows中使用msys来运行linux命令]]></title>
+        <id>https://zahui.fan/posts/snrcqh/</id>
+        <link href="https://zahui.fan/posts/snrcqh/"/>
+        <updated>2024-11-30T09:51:53.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="为什么不用-WSL"><a href="#为什么不用-WSL" class="headerlink" title="为什么不用 WSL"></a>为什么不用 WSL</h2><p>主要原因有以下几点：</p>
+<ol>
+<li>WSL 访问 Windows 的路径和原生 Windows 不一致，需要手动或者 <code>wslpath</code>]]></summary>
+        <author>
+            <name>杂烩饭</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Securing Your DevOps Pipeline: Lessons from Raccoon-Proofing]]></title>
         <id>https://collabnix.com/?p=28903</id>
         <link href="https://collabnix.com/securing-your-devops-pipeline-lessons-from-raccoon-proofing/"/>
@@ -2625,6 +2930,16 @@ SSL 2.0 和]]></summary>
         <summary type="html"><![CDATA[By 2023, 700 million people were booking appointments online. That tells you something: today’s customers want things fast and easy, straight from their phones. They expect to be able to book in a few taps, whenever they want, wherever they are. The reality is that mobile appointment scheduling has become a necessity. In today’s busy […]]]></summary>
         <author>
             <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker Buildx 与 CNB 多平台构建实践]]></title>
+        <id>/archives/1732940817530</id>
+        <link href="https://srebro.cn/archives/1732940817530"/>
+        <updated>2024-11-30T04:27:23.000Z</updated>
+        <summary type="html"><![CDATA[一、Docker Buildx 功能介绍 docker buildx 是 Docker 提供的一个增强版构建工具，支持更强大的构建功能，特别是在构建多平台镜像和高效处理复杂 Docker 镜像方面。 1.1 主要功能 多平台构建支持 使用 docker buildx，可以在单台设备上构建多平台的镜像]]></summary>
+        <author>
+            <name>运维小弟</name>
         </author>
     </entry>
     <entry>
@@ -2963,6 +3278,16 @@ S60第一年行驶2万公里，第二年1.5万公里，预计2025年行驶里程
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ARM架构下安装新版docker及docker-compose]]></title>
+        <id>/archives/1732697072164</id>
+        <link href="https://srebro.cn/archives/1732697072164"/>
+        <updated>2024-11-27T08:45:17.000Z</updated>
+        <summary type="html"><![CDATA[一、常见CPU 架构： 二、环境信息 CPU架构 操作系统 配置 HUAWEI Kunpeng 920 5220 aarch64 openEuler 22.03 (LTS-SP3) 64C128g15T 三、安装docker 3.1 二进制包下载 docker-ce 社区下载地址： wget htt]]></summary>
+        <author>
+            <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[思维导图工具评测：为什么我选择 Whimsical]]></title>
         <id>https://jimmysong.io/blog/mindmap-review/</id>
         <link href="https://jimmysong.io/blog/mindmap-review/"/>
@@ -3177,6 +3502,16 @@ The post How to Check if Kubernetes Ingress Worked with Traefik appeared first o
         <summary type="html"><![CDATA[多年的运维感悟，什么阶段干什么事。这也是我在内部的运维规范里明确标明，“不提前优化”我来谈谈几个阶段，初创阶段部分参考 原文链接：https://mp.weixin.qq.com/s/vVhLZ...]]></summary>
         <author>
             <name>季兴</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在 Kubernetes 集群中修改 Pod CIDR 范围及合理规划集群大小]]></title>
+        <id>/archives/1732593156608</id>
+        <link href="http://localhost:8090/archives/1732593156608"/>
+        <updated>2024-11-26T03:55:24.000Z</updated>
+        <summary type="html"><![CDATA[如何在 Kubernetes 集群中修改 Pod CIDR 范围及合理规划集群大小 在 Kubernetes 集群中，Pod CIDR 范围用于指定分配给 Pod 的 IP 地址段。在某些情况下，可能需要修改集群的 Pod CIDR 范围，例如为了适应新的网络规划或拓展集群的 IP 地址池。此外，合]]></summary>
+        <author>
+            <name>Lixx Blog - 李晓旭的博客</name>
         </author>
     </entry>
     <entry>
@@ -3448,6 +3783,16 @@ Obsidian 的重新发现
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[HTTPS的原理，使用HTTPS就一定是安全的吗？]]></title>
+        <id>https://zahui.fan/posts/sna41n/</id>
+        <link href="https://zahui.fan/posts/sna41n/"/>
+        <updated>2024-11-21T02:24:59.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="HTTPS-是什么"><a href="#HTTPS-是什么" class="headerlink" title="HTTPS 是什么"></a>HTTPS 是什么</h2><p>以前一直以为 HTTPS 是一种与 HTTP 类似的应用层协议，后来才发现 HTTPS 并不是一种协议。https 只是在 URI 中作为 protocol identifier 罢了。HTTPS]]></summary>
+        <author>
+            <name>杂烩饭</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[All Things Cloud Native Meetup: Join Us in Bengaluru! 🌟]]></title>
         <id>https://collabnix.com/?p=28656</id>
         <link href="https://collabnix.com/all-things-cloud-native-meetup-join-us-in-bengaluru-%f0%9f%8c%9f/"/>
@@ -3543,6 +3888,17 @@ The post Best Way to Backup Docker Containers Volumes and Home Server appeared f
         <summary type="html"><![CDATA[本篇文章，我们聊聊最近的一些关于家庭网络和网络设备折腾的事情，以及背后的一些小的考虑。]]></summary>
         <author>
             <name>苏洋(soulteary)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生产环境Prometheus监控架构记录]]></title>
+        <id>https://zahui.fan/posts/sn6pu2/</id>
+        <link href="https://zahui.fan/posts/sn6pu2/"/>
+        <updated>2024-11-19T06:25:14.000Z</updated>
+        <summary type="html"><![CDATA[<p>比如有 30 家客户，每一个客户都有自己的 Kubernetes 集群，部署方式千差万别，还有客户不使用 Kubernetes 的，使用虚拟机部署，那么怎么对这么多客户的机器、服务进行有效的监控，本文记录一下监控的架构方案。</p>
+<h2 id="监控架构图"><a href="#监控架构图" class="headerlink"]]></summary>
+        <author>
+            <name>杂烩饭</name>
         </author>
     </entry>
     <entry>
@@ -3791,6 +4147,16 @@ The post Windows Server 2025 Proxmox Packer Build Fully Automated appeared first
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[使用snmp exporter对交换机、服务器等进行监控]]></title>
+        <id>https://zahui.fan/posts/smz2c9/</id>
+        <link href="https://zahui.fan/posts/smz2c9/"/>
+        <updated>2024-11-15T03:14:33.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p>到 GitHub 下载一个可执行文件，直接运行即可，或者使用 systemd 来运行，也可以直接部署到 Kubernetes 中。<br><a]]></summary>
+        <author>
+            <name>杂烩饭</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[为什么中国人不喜欢逻辑学]]></title>
         <id>https://hyruo.com/article/why-does-not-chinese-need-logic/</id>
         <link href="https://hyruo.com/article/why-does-not-chinese-need-logic/"/>
@@ -3925,6 +4291,16 @@ The post Windows Server 2025 Proxmox Packer Build Fully Automated appeared first
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[使用 Go 语言实现定时发送邮件并容器化部署]]></title>
+        <id>/archives/1731480866042</id>
+        <link href="http://localhost:8090/archives/1731480866042"/>
+        <updated>2024-11-13T07:00:35.000Z</updated>
+        <summary type="html"><![CDATA[使用 Go 语言实现定时发送邮件并容器化部署 定时发送邮件是一项常见的需求，通常用于定期报告、通知邮件或提醒邮件等场景。在本文中，我们将通过 Go 语言实现定时发送邮件，并将其容器化部署，使得它可以在任何环境中运行，无论是在本地机器、云服务器，还是在容器化环境中。 1. 发送邮件的基本步骤 在 Go]]></summary>
+        <author>
+            <name>Lixx Blog - 李晓旭的博客</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Exploring Singapore’s Tech Landscape at GovTech STACK Conference 2024]]></title>
         <id>https://collabnix.com/?p=28542</id>
         <link href="https://collabnix.com/exploring-singapores-tech-landscape-at-govtech-stack-conference-2024/"/>
@@ -3932,6 +4308,26 @@ The post Windows Server 2025 Proxmox Packer Build Fully Automated appeared first
         <summary type="html"><![CDATA[I recently visited Singapore for the first time, and it was an incredible experience. I didn’t know much about the country, developer community, or AI landscape. However I was invited to deliver a 3-hour workshop on Docker 101 on Day 0 of the GovTech STACK Conference 2024, so I got to dive right into Singapore’s […]]]></summary>
         <author>
             <name>Ajeet Raina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 开机自启动配置位置]]></title>
+        <id>https://zahui.fan/posts/smvb2h/</id>
+        <link href="https://zahui.fan/posts/smvb2h/"/>
+        <updated>2024-11-13T02:32:40.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="注册表方式"><a href="#注册表方式" class="headerlink" title="注册表方式"></a>注册表方式</h2><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><figure class="highlight plaintext"><table><tr><td]]></summary>
+        <author>
+            <name>杂烩饭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows常见注册表位置]]></title>
+        <id>https://zahui.fan/posts/smvadg/</id>
+        <link href="https://zahui.fan/posts/smvadg/"/>
+        <updated>2024-11-13T02:17:40.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="oem-信息"><a href="#oem-信息" class="headerlink" title="oem 信息"></a>oem 信息</h2><h3 id="添加-oem-信息"><a href="#添加-oem-信息" class="headerlink" title="添加 oem 信息"></a>添加 oem 信息</h3><figure]]></summary>
+        <author>
+            <name>杂烩饭</name>
         </author>
     </entry>
     <entry>
@@ -3986,6 +4382,19 @@ The post Windows Server 2025 Proxmox Packer Build Fully Automated appeared first
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Prometheus的瞬时向量(Instant vector)和区间向量(Range vector)]]></title>
+        <id>https://zahui.fan/posts/smrno6/</id>
+        <link href="https://zahui.fan/posts/smrno6/"/>
+        <updated>2024-11-11T03:14:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>在 Prometheus 的表达式语言中，表达式或子表达式包括以下四种类型之一：</p>
+<ul>
+<li>瞬时向量（Instant vector） ： 一组时间序列，每个时间序列包含单个样本，它们共享相同的时间戳。也就是说，表达式的返回值中只会包含该时间序列中的最新的一个样本值。而相应的这样的表达式称之为瞬时向量表达式。</li>
+<li>区间向量（Range vector） ：]]></summary>
+        <author>
+            <name>杂烩饭</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[独立开发之路：在不确定中寻找确定性]]></title>
         <id>https://limboy.me/posts/indie-dev</id>
         <link href="https://limboy.me/posts/indie-dev"/>
@@ -3993,6 +4402,18 @@ The post Windows Server 2025 Proxmox Packer Build Fully Automated appeared first
         <summary type="html"><![CDATA[去年，看了一本印象颇深的书：北方的空地。这本书讲的是一个叫杨柳松的人，推着一辆自行车（交通工具兼载货工具），历经 77 天，独自穿越羌塘无人区的故事。旅途非常艰险，一点小小的意外就可能导致极严重的后果（比如帐篷的地钉被吹走）。但体验独特，风景绝美。看完后，印象最深的除了他的那份胆识、勇气和乐观外，还有那非常严谨的准备工作，让看起来几乎不可能完成的任务成为可能。]]></summary>
         <author>
             <name>Limboy's Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是时候放弃 Loki 了？]]></title>
+        <id>https://www.qikqiak.com/post/give-up-loki/</id>
+        <link href="https://www.qikqiak.com/post/give-up-loki/"/>
+        <updated>2024-11-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[VictoriaLogs 是一个相对较新的日志收集和分析系统，类似于 Grafana Loki，就像 VictoriaMetrics 相对于普通 Prometheus 一样，对 CPU/内存资源的需求较少。
+就我个人而言，我使用 Grafana Loki 大约 5 年了，但有时我对它有些担忧，无论是在文档方面还是系统的整体复杂性方面，因为有很多组件。此外，在性能方面也有一些问题，因为无论我如何尝试调整它，有时在相对较小的查询上，Grafana 仍然从 Loki 网关返回 504 错误，我真的厌倦了处理这个问题。
+由于我项目中的监控是基于 VictoriaMetrics 构建的，并且 VictoriaLogs 已经获得了 Grafana 数据源支持，现在是时候尝试一下并与 Grafana Loki 进行比较了。]]></summary>
+        <author>
+            <name>Home on 阳明的博客</name>
         </author>
     </entry>
     <entry>
@@ -4119,6 +4540,16 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[很早就想拥有一个类似"微信朋友圈"功能，当然我主要是用户存放视频和图片，每次换手机迁移照片也麻烦，再就是照片太多了，有很多是不怎么关心，就想着弄一个程序，把比较有纪念价值的照片视频都留存下来，方...]]></summary>
         <author>
             <name>满心</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[InfluxDB 2 关闭pprof]]></title>
+        <id>/archives/1731041508690</id>
+        <link href="https://srebro.cn/archives/1731041508690"/>
+        <updated>2024-11-08T04:52:48.000Z</updated>
+        <summary type="html"><![CDATA[背景： Go 语言的 net/http/pprgf包如未配置正确暴露在公网容易引起敏感信息泄漏问题，导致源码等信息泄漏。 influxdb 2 默认是开启pprof的 使用 localhost:8086/debug/pprof/goroutine?debug=1 可以看到接口暴露的信息 如何关闭pp]]></summary>
+        <author>
+            <name>运维小弟</name>
         </author>
     </entry>
     <entry>
@@ -4259,6 +4690,16 @@ Mermaid Diagram
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[一款绘制3D架构图的在线神器,iCraft Editor]]></title>
+        <id>/archives/1730875760707</id>
+        <link href="https://srebro.cn/archives/1730875760707"/>
+        <updated>2024-11-06T07:02:26.000Z</updated>
+        <summary type="html"><![CDATA[之前有一直在使用 excalidraw 画图神器，还没使用的小伙伴可以来看看，https://excalidraw.com/ 也非常好用，自带的AI 也能根据文字画图，分分钟成为画图大师。 那今天呢，我们看一个3D 画图的软件，iCraft Editor，主打的就是从2D到3D，帮助您轻松创建直观的]]></summary>
+        <author>
+            <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[入手iPhone 16 Pro和AirPods 4]]></title>
         <id>https://www.skyue.com/24110608.html</id>
         <link href="https://www.skyue.com/24110608.html"/>
@@ -4266,6 +4707,17 @@ Mermaid Diagram
         <summary type="html"><![CDATA[今年换了新款AirPods 4和iPhone 16 Pro，都用了一月有余。AirPods 4上个AirPods还是一代，2018年花946元买的，2021年换过一次电池96元，共计1024元。...]]></summary>
         <author>
             <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谷歌 Adsense 如何添加国内银行付款方式]]></title>
+        <id>https://www.qikqiak.com/post/add-adsense-payment-method-in-china/</id>
+        <link href="https://www.qikqiak.com/post/add-adsense-payment-method-in-china/"/>
+        <updated>2024-11-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我们这个博客运行了好多年了，很早之前就加了 Adsense 广告，最近一年没怎么更新博客内容，所以广告收入也没怎么关注。今天突然去看了下后台账号，发现到现在有 300 多美元了，这对于一个希望通过网站来赚钱的站长来说，没有比这更开心的事情了，虽然收入不多，但是毕竟是自己辛辛苦苦写博客赚来的，哈哈 😄。
+现在提现比以前更方便了，以前需要通过西联汇款，现在已经暂停这种方式了，现在采用电汇方式付款。经过很多网友推荐，目前招商银行一卡通比较好用：没有手续费，收款稳定，手机 APP 即可完成结汇。]]></summary>
+        <author>
+            <name>Home on 阳明的博客</name>
         </author>
     </entry>
     <entry>
@@ -4286,6 +4738,16 @@ Mermaid Diagram
         <summary type="html"><![CDATA[Ubuntu 22.04LTS安装VNC Server 一、VNC 概述 VNC（Virtual Network Console），即虚拟网络控制台，由著名的 AT&T 的欧洲研究实验室开发。它是一款基于 UNIX 和 Linux 操作系统的优秀远程控制工具软件，远程控制能力强大，高效实用且免费开源]]></summary>
         <author>
             <name>Linux运维笔记</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国国家地理  | 欢迎神十八乘组回家！]]></title>
+        <id>/archives/1730889631831</id>
+        <link href="https://srebro.cn/archives/1730889631831"/>
+        <updated>2024-11-05T10:41:00.000Z</updated>
+        <summary type="html"><![CDATA[111月4日凌晨，神舟十八号载人飞船返回舱在东风着陆场成功着陆，本次载人飞行任务取得圆满成功。 摄影师们在新疆多地记录下的神十八返回舱轨迹，灿若流星!奔赴星河，逐梦追光，和地理君一起致敬中国航天人!]]></summary>
+        <author>
+            <name>运维小弟</name>
         </author>
     </entry>
     <entry>
@@ -4477,6 +4939,26 @@ ARM镜像：openEuler-22.03-LTS-SP4-aarch64-dvd.iso
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ISO 镜像与本地软件源制作：详细步骤和配置]]></title>
+        <id>/archives/1730428961389</id>
+        <link href="http://localhost:8090/archives/1730428961389"/>
+        <updated>2024-11-01T02:58:48.000Z</updated>
+        <summary type="html"><![CDATA[在网络受限的环境中，使用 ISO 镜像作为本地软件源不仅能提高软件包的安装和更新效率，还能确保系统的稳定性。本文将详细介绍如何将 ISO 镜像挂载为本地 Yum 软件源，同时深入探讨 module_hotfixes 配置的作用和必要性。 1. 挂载 ISO 镜像 首先，我们需要将 ISO 文件挂载到]]></summary>
+        <author>
+            <name>Lixx Blog - 李晓旭的博客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Python生成8位随机密码]]></title>
+        <id>/archives/1730426809220</id>
+        <link href="http://localhost:8090/archives/1730426809220"/>
+        <updated>2024-11-01T02:07:54.000Z</updated>
+        <summary type="html"><![CDATA[在这篇文章中，我们将学习如何使用Python生成一个包含数字、字母（大小写）和特殊字符的8位随机密码。这种密码生成器可以帮助我们在需要密码的情况下提供更强的安全性。 1. 环境准备 确保你的计算机上已安装Python。如果还没有安装，可以从Python官方网站下载并安装最新版本。 2. 代码实现 我]]></summary>
+        <author>
+            <name>Lixx Blog - 李晓旭的博客</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Geek Chic Eyewear: My Optometrist Saga, Eyewear Collection & More]]></title>
         <id>https://www.derekseaman.com/?p=18598</id>
         <link href="https://www.derekseaman.com/2024/10/geek-chic-eyewear-my-optometrist-saga-eyewear-collection-more.html"/>
@@ -4484,6 +4966,16 @@ ARM镜像：openEuler-22.03-LTS-SP4-aarch64-dvd.iso
         <summary type="html"><![CDATA[Welcome to the fourth installment of the “Geek Chic Eyewear” series, where I share my personal journey through the world of eyewear and optometry. This series aims to provide a comprehensive look into the technical aspects of eyewear, focusing on frame selection and lens materials. Having navigated the complexities of vision correction—from LASIK in my […]]]></summary>
         <author>
             <name>Derek Seaman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[76天驾驶证拿证指南.C2]]></title>
+        <id>/archives/1730359784356</id>
+        <link href="https://srebro.cn/archives/1730359784356"/>
+        <updated>2024-10-31T07:40:13.000Z</updated>
+        <summary type="html"><![CDATA[今天，我终于拿证了！ 北京时间： 2024-10-31 PM 距离今年8月16号考完科目一到今天拿证，一共经历了76天]]></summary>
+        <author>
+            <name>运维小弟</name>
         </author>
     </entry>
     <entry>
@@ -4517,6 +5009,17 @@ ARM镜像：openEuler-22.03-LTS-SP4-aarch64-dvd.iso
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Git 配置与常用操作指南]]></title>
+        <id>/archives/1730279923698</id>
+        <link href="http://localhost:8090/archives/1730279923698"/>
+        <updated>2024-10-30T09:19:34.000Z</updated>
+        <summary type="html"><![CDATA[1. 配置 Git 用户名和邮箱 在使用 Git 进行版本控制时，首先需要配置你的用户名和邮箱，这些信息会在每次提交时使用。可以通过以下命令进行设置： git config --global user.name "Your Name"
+git config --global user.email "]]></summary>
+        <author>
+            <name>Lixx Blog - 李晓旭的博客</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[从 AWS App Mesh 迁移到 Istio 全面指南]]></title>
         <id>https://jimmysong.io/blog/migrating-from-aws-app-mesh-to-istio-a-comprehensive-guide/</id>
         <link href="https://jimmysong.io/blog/migrating-from-aws-app-mesh-to-istio-a-comprehensive-guide/"/>
@@ -4534,6 +5037,16 @@ AWS 建议 ECS 客户迁移到 Service Connect 而 EKS 客户迁移到 VPC Latti
   …]]></summary>
         <author>
             <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 Kubernetes 中选择使用 iptables 或 IPVS 作为流量代理]]></title>
+        <id>/archives/1730255941202</id>
+        <link href="http://localhost:8090/archives/1730255941202"/>
+        <updated>2024-10-30T02:39:15.000Z</updated>
+        <summary type="html"><![CDATA[在 Kubernetes (K8s) 中，流量代理的选择对集群的性能和功能有重要影响。kube-proxy 是 K8s 中的流量管理组件，支持两种主要模式：iptables 和 IPVS。本文将介绍如何在 K8s 中配置和选择这两种模式，并提供验证手段和相关参数解释。 1. 查看当前 kube-pr]]></summary>
+        <author>
+            <name>Lixx Blog - 李晓旭的博客</name>
         </author>
     </entry>
     <entry>
@@ -4574,6 +5087,29 @@ AWS 建议 ECS 客户迁移到 Service Connect 而 EKS 客户迁移到 VPC Latti
         <summary type="html"><![CDATA[Top 6 Secure and Efficient VM Backup Solutions for 2024]]></summary>
         <author>
             <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu24.04，Kubeadm安装k8s 1.31，使用containerd作为CRI，使用Kube-OVN作为CNI插件]]></title>
+        <id>/archives/1730188175748</id>
+        <link href="http://localhost:8090/archives/1730188175748"/>
+        <updated>2024-10-29T08:00:40.000Z</updated>
+        <summary type="html"><![CDATA[操作系统：Ubuntu 24.04.1 LTS 容器运行时：containerd://1.7.12 # 此内容为部署完的k8s集群信息
+
+root@k8s-kubeovn:~# kubectl get node -owide
+NAME          STATUS   ROLES]]></summary>
+        <author>
+            <name>Lixx Blog - 李晓旭的博客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人大金仓Kingbase数据库部署体验]]></title>
+        <id>/archives/1730106107445</id>
+        <link href="https://srebro.cn/archives/1730106107445"/>
+        <updated>2024-10-28T09:01:59.000Z</updated>
+        <summary type="html"><![CDATA[一、简介 人大金仓数据库KingbaseES简称KES是一款国产数据库，具有开发板、标准版、专业版和企业版，目前版本有V8R3、V8R6和V9R1，支持单机部署和集群部署。 安装包和授权文件下载地址： https://www.kingbase.com.cn/xzzx/index.htm 官方帮助文档]]></summary>
+        <author>
+            <name>运维小弟</name>
         </author>
     </entry>
     <entry>
@@ -4656,6 +5192,17 @@ DNS重定向,网站访问有问题，开启这个。]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[mRemoteNG 如何显示保存的密码]]></title>
+        <id>https://zahui.fan/posts/sm0nds/</id>
+        <link href="https://zahui.fan/posts/sm0nds/"/>
+        <updated>2024-10-27T13:13:04.000Z</updated>
+        <summary type="html"><![CDATA[<p>mRemoteNG 是一款比较好用的 Windows 平台的连接 RDP 的管理工具，非常好用，支持选项卡，配置文件管理，账号密码管理等。虽然现在 xshell 8 也支持连接 rdp 了，但是没有这个好用。mRemoteNG 也支持连接 vnc 和 ssh，但是不好用，我只用它来连 rdp</p>
+<p><img src=]]></summary>
+        <author>
+            <name>杂烩饭</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[群晖docker镜像终极解决方案：部署OpenWRT]]></title>
         <id>https://dongjunke.cn/posts/2024/10/26/36247.html</id>
         <link href="https://dongjunke.cn/posts/2024/10/26/36247.html"/>
@@ -4700,6 +5247,46 @@ DNS重定向,网站访问有问题，开启这个。]]></summary>
 攀爬北岳恒山相对比较容易，恒山的山势虽然险峻，但攀登过程中坡度相对较为缓和，没有特别陡峭难行的路段。恒山的海拔约 2016.1 米。恒山的垂直落差相对其他一些著名高山来说不是特别大，大…]]></summary>
         <author>
             <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[存档]]></title>
+        <id>https://www.qikqiak.com/page/archive/</id>
+        <link href="https://www.qikqiak.com/page/archive/"/>
+        <updated>2024-10-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[关注容器、kubernetes、devops、python、golang、微服务等技术。
+AI
+上线了，AI 全栈开发学习平台 - 快课星球
+Google 在 Chrome 中内置 AI 功能
+深入体验全新 Cursor AI IDE 后，说杀疯了真不为过！
+保姆级教程 | 手把手叫你如何开通 ChatGPT Plus 试用 GPT-4
+Kubernetes/Docker
+新一代云原生可观测平台 OpenObserve
+讲真，Sealos 云服务真香
+在 Kubernetes 上部署 LLM 大语言模型
+Kubernetes 多集群管理系统 Karmada
+云原生数据管理平台 KubeBlocks
+新一代云原生存储系统 CubeFS
+Kubernetes 策略引擎 Kyverno
+一文搞懂 VictoriaMetrics 的使用
+DevOps 工具链管理器 DevStream 还真是神器
+如何修改 Kubernetes 节点 IP 地址?
+本地集群使用 OpenELB 实现 Load Balancer 负载均衡
+Docker 创始人的新产品 Dagger 好用吗？
+Prometheus 监控 Kubernetes Job 资源误报的坑
+自定义 Traefik（本地）插件
+Helm Chart 兼容不同 Kubernetes 版本
+Gitlab CI 在 Kubernetes 中的 Docker 缓存
+一文搞懂容器运行时 Containerd
+使用 kube-vip 搭建高可用 Kubernetes 集群
+你应该了解的 10 个 Kubernetes 安全上下文设置
+如何收集管理多行日志？
+通过 Traefik 使用 Kubernetes Service APIs 进行流量路由
+Kubernetes Service APIs 简介
+给 Pod 添加 DNS 记录
+理解 Lin…]]></summary>
+        <author>
+            <name>Home on 阳明的博客</name>
         </author>
     </entry>
     <entry>
@@ -4856,6 +5443,36 @@ First, let’s download the necessary tools:
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Docker创建常用资源整理]]></title>
+        <id>/archives/1729740511140</id>
+        <link href="http://localhost:8090/archives/1729740511140"/>
+        <updated>2024-10-24T03:35:15.000Z</updated>
+        <summary type="html"><![CDATA[MySQL 使用以下命令来创建一个 MySQL 数据库 Docker 容器供开发使用： docker run --name mysql-dev -e MYSQL_ROOT_PASSWORD=rootpassword -e MYSQL_DATABASE=mydatabase -p 3306:3306]]></summary>
+        <author>
+            <name>Lixx Blog - 李晓旭的博客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[About me]]></title>
+        <id>https://www.qikqiak.com/page/about/</id>
+        <link href="https://www.qikqiak.com/page/about/"/>
+        <updated>2024-10-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nothing in the world can take the place of Persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not; the world is full of educated derelicts. Persistence and Determination alone are omnipotent. The slogan “Press On” has solved and will always solve the problems of the human race.]]></summary>
+        <author>
+            <name>Home on 阳明的博客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上线了，AI 全栈开发学习平台 - 快课星球]]></title>
+        <id>https://www.qikqiak.com/post/fastclass-cn/</id>
+        <link href="https://www.qikqiak.com/post/fastclass-cn/"/>
+        <updated>2024-10-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[你是否曾经感到技能提升遇到瓶颈？是否渴望成为一名独当一面的全栈大神？或者，你是否正在为找不到优质学习资源而苦恼？如果你对以上任何一个问题的回答是"是"，那么恭喜你，你的机会来了！我们推出了一款全新的学习视频网站：fastclass.cn，专为 AI 全栈开发者量身定制，这里汇聚了最前沿的技术视频，从 Python 到 Curosr、React、Next.js、Figma、ChatGPT 等，应有尽有。我们会讲述如何使用这些技术来开发很多完整的项目，从零开始构建一个网站、开发一款移动应用，我们也会借助 Cursor 这样的 AI IDE 来开发项目，即使你没有编程经验也可以开发出自己的项目。]]></summary>
+        <author>
+            <name>Home on 阳明的博客</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What is Object Storage? Use cases & benefits]]></title>
         <id>https://collabnix.com/?p=28102</id>
         <link href="https://collabnix.com/what-is-object-storage-use-cases-benefits/"/>
@@ -4920,6 +5537,19 @@ A.皇汉史观
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ubuntu24.04，Kubeadm安装k8s 1.31，使用containerd作为CRI，使用Flannel作为CNI插件]]></title>
+        <id>/archives/1729608331512</id>
+        <link href="http://localhost:8090/archives/1729608331512"/>
+        <updated>2024-10-22T14:47:21.000Z</updated>
+        <summary type="html"><![CDATA[操作系统：Ubuntu 24.04.1 LTS 容器运行时：containerd://1.7.12 # 此内容为部署完的k8s集群信息
+
+root@ubuntu-k8s:~# kubectl get node -owide
+NAME         STATUS   ROLES]]></summary>
+        <author>
+            <name>Lixx Blog - 李晓旭的博客</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hammers]]></title>
         <id>https://daverupert.com/2024/10/hammers/</id>
         <link href="https://daverupert.com/2024/10/hammers/"/>
@@ -4938,6 +5568,26 @@ After the hammer mold, Bartholomew would still get paid. No one actually likes p
         <link href="https://srebro.cn/archives/1729598138043"/>
         <updated>2024-10-22T12:02:53.000Z</updated>
         <summary type="html"><![CDATA[拍摄设备：Iphone13 分辨率：1080P 拍摄地点： 衢州鹿鸣山]]></summary>
+        <author>
+            <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[衢州-非遗文化-打铁花.Movies]]></title>
+        <id>/archives/1729598138043</id>
+        <link href="https://srebro.cn/archives/1729598138043"/>
+        <updated>2024-10-22T12:02:53.000Z</updated>
+        <summary type="html"><![CDATA[拍摄设备：Iphone13 分辨率：1080P 拍摄地点： 衢州鹿鸣山]]></summary>
+        <author>
+            <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[南京地铁S3-刘村——> 马骡圩.Movies]]></title>
+        <id>/archives/1729596455853</id>
+        <link href="https://srebro.cn/archives/1729596455853"/>
+        <updated>2024-10-22T11:37:18.000Z</updated>
+        <summary type="html"><![CDATA[拍摄设备： Iphone13 分辨率： 720P 地点： 南京地铁S3-刘村站]]></summary>
         <author>
             <name>运维小弟</name>
         </author>
@@ -5082,6 +5732,18 @@ For progressi…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[快速部署单节点kafka]]></title>
+        <id>https://zahui.fan/posts/slhl3q/</id>
+        <link href="https://zahui.fan/posts/slhl3q/"/>
+        <updated>2024-10-17T06:09:25.000Z</updated>
+        <summary type="html"><![CDATA[<p>如果需要集群部署的文档你可以在站内搜搜，之前写过。</p>
+<p>单节点部署，不考虑高可用性，只求快速搭建出环境，一般都是自己开发或者运维做测试使用。或者业务的测试环境为了节省服务器资源采取的方案。不过我不一样，我们测试环境资源充足，我只是单纯的懒。</p>
+<h2 id="第一步-安装-Docker"><a href="#第一步-安装-Docker" class="headerlink"]]></summary>
+        <author>
+            <name>杂烩饭</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[沟谷雨林：西双版纳原始森林公园]]></title>
         <id>https://bluehe.cn/archives/forest-park-xishuangbanna</id>
         <link href="https://bluehe.cn/archives/forest-park-xishuangbanna"/>
@@ -5171,6 +5833,17 @@ Istio、EJBCA 和 cert-manager
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[yaml多行文本的写法和区别]]></title>
+        <id>https://zahui.fan/posts/sldz99/</id>
+        <link href="https://zahui.fan/posts/sldz99/"/>
+        <updated>2024-10-15T07:24:45.000Z</updated>
+        <summary type="html"><![CDATA[<p>直接看效果（<code>pip install pyyaml</code>）：</p>
+<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span]]></summary>
+        <author>
+            <name>杂烩饭</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[使用结构化数据管理 SSH 配置：SSH Config Tool]]></title>
         <id>https://soulteary.com/2024/10/15/manage-ssh-configuration-using-structure-data-ssh-config-tool.html</id>
         <link href="https://soulteary.com/2024/10/15/manage-ssh-configuration-using-structure-data-ssh-config-tool.html"/>
@@ -5178,6 +5851,17 @@ Istio、EJBCA 和 cert-manager
         <summary type="html"><![CDATA[随着折腾的设备和云服务器越来越多，我们本地的 SSH Config 配置越来越复杂，为了解决这个问题，最近做了一些简单的尝试。]]></summary>
         <author>
             <name>苏洋(soulteary)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 分钟搞定 Python 虚拟环境]]></title>
+        <id>/archives/1728957767194</id>
+        <link href="http://localhost:8090/archives/1728957767194"/>
+        <updated>2024-10-15T02:03:59.000Z</updated>
+        <summary type="html"><![CDATA[创建虚拟环境 在 Python 中创建虚拟环境，可以使用以下步骤： 1. 使用 venv 创建虚拟环境 Python 自带的 venv 模块可以用来创建虚拟环境。执行以下命令： python -m venv myenv
+ 这里 myenv 是你虚拟环境的名字，可以根据需要更换。 2. 激活虚拟环境]]></summary>
+        <author>
+            <name>Lixx Blog - 李晓旭的博客</name>
         </author>
     </entry>
     <entry>
@@ -5251,6 +5935,16 @@ Istio、EJBCA 和 cert-manager
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[OpenEuler 22.03 LTS 部署Clickhouse]]></title>
+        <id>/archives/1728654763152</id>
+        <link href="https://srebro.cn/archives/1728654763152"/>
+        <updated>2024-10-11T13:52:58.000Z</updated>
+        <summary type="html"><![CDATA[环境说明： 目前已验证： openeuler22.03 LTS SP3，openeuler22.03 LTS SP4 clickhouse 版本： 24.9.2 一、Clickhouse 在线安装 1.1 添加clickhouse repo源  $ yum-config-manager --add-]]></summary>
+        <author>
+            <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vibe Check №35]]></title>
         <id>https://daverupert.com/2024/10/vibe-check-35/</id>
         <link href="https://daverupert.com/2024/10/vibe-check-35/"/>
@@ -5261,6 +5955,16 @@ Ramping up to Spooky Month, the lights in our house were acting up. We’ve alwa
 An electrician - He didn…]]></summary>
         <author>
             <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ClickHouse 数据保护指南：从备份到迁移的全流程攻略]]></title>
+        <id>/archives/1728610605490</id>
+        <link href="https://srebro.cn/archives/1728610605490"/>
+        <updated>2024-10-11T01:37:06.000Z</updated>
+        <summary type="html"><![CDATA[一、背景 运行3年的clickhouse需要迁移机房，迁移单库单表的140亿条的数据。 采用clickhouse-backup 的方式进行备份迁移，打包备份，再加上数据拷贝，数据恢复 一共花费30分钟。 数据在一定量级，避免使用SQL 导入导出的方式，效率太低 二、clickhouse-backup]]></summary>
+        <author>
+            <name>运维小弟</name>
         </author>
     </entry>
     <entry>
