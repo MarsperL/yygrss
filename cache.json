@@ -5017,6 +5017,168 @@
       "feedUrl": "https://icloudnative.io/index.xml",
       "siteUrl": "https://icloudnative.io/",
       "articles": []
+    },
+    {
+      "title": "Rss Feed - 苏洋博客",
+      "feedUrl": "https://soulteary.com/feed",
+      "siteUrl": "https://soulteary.com/feed/",
+      "articles": [
+        {
+          "id": "https://soulteary.com/2024/12/31/2024-year-end-summary.html",
+          "author": "苏洋(soulteary)",
+          "description": "当日历翻到 12月底的最后一页，终于能够静下心来写这份年终总结。时光飞逝，2024年留给我的，不仅是感慨，更多的是收获。",
+          "link": "https://soulteary.com/2024/12/31/2024-year-end-summary.html",
+          "publishedOn": "2024-12-31T13:41:00.000Z",
+          "wordCount": 579,
+          "title": "2024 岁末总结",
+          "imageUrl": null
+        },
+        {
+          "id": "https://soulteary.com/2024/12/30/home-network-upgrade-practice-achieving-local-10g-at-low-cost.html",
+          "author": "苏洋(soulteary)",
+          "description": "本篇文章，聊聊对家里的设备做局部万兆改造，希望能够帮助到有需求的同学。",
+          "link": "https://soulteary.com/2024/12/30/home-network-upgrade-practice-achieving-local-10g-at-low-cost.html",
+          "publishedOn": "2024-12-30T03:42:00.000Z",
+          "wordCount": 445,
+          "title": "家用网络升级实践：低成本实现局部万兆",
+          "imageUrl": null
+        },
+        {
+          "id": "https://soulteary.com/2024/12/23/use-ai-to-assist-in-developing-an-open-source-ip-information-tool-part-2.html",
+          "author": "苏洋(soulteary)",
+          "description": "本文将继续分享如何借助当下流行的 AI 工具，一步步完成一个开源项目的开发。",
+          "link": "https://soulteary.com/2024/12/23/use-ai-to-assist-in-developing-an-open-source-ip-information-tool-part-2.html",
+          "publishedOn": "2024-12-22T17:12:00.000Z",
+          "wordCount": 1782,
+          "title": "使用 AI 辅助开发一个开源 IP 信息查询工具：二",
+          "imageUrl": null
+        },
+        {
+          "id": "https://soulteary.com/2024/12/21/use-ai-to-assist-in-developing-an-open-source-ip-information-tool-part-1.html",
+          "author": "苏洋(soulteary)",
+          "description": "本文将分享如何借助当下流行的 AI 工具，一步步完成一个开源项目的开发。",
+          "link": "https://soulteary.com/2024/12/21/use-ai-to-assist-in-developing-an-open-source-ip-information-tool-part-1.html",
+          "publishedOn": "2024-12-21T10:38:00.000Z",
+          "wordCount": 2038,
+          "title": "使用 AI 辅助开发一个开源 IP 信息查询工具：一",
+          "imageUrl": null
+        },
+        {
+          "id": "https://soulteary.com/2024/12/20/at-the-end-of-2024-share-personal-device-to-friends.html",
+          "author": "苏洋(soulteary)",
+          "description": "最近不管是线上还是线下聊天，总会有朋友问我：“你觉得哪些电子设备买了真的不亏？” 临近 2025 的到来前，和大家分享一下陪伴我度过 2024 的电子设备们。",
+          "link": "https://soulteary.com/2024/12/20/at-the-end-of-2024-share-personal-device-to-friends.html",
+          "publishedOn": "2024-12-20T02:22:00.000Z",
+          "wordCount": 680,
+          "title": "2024 年终，个人设备盘点",
+          "imageUrl": null
+        },
+        {
+          "id": "https://soulteary.com/2024/12/01/use-open-source-software-to-build-a-lightweight-npm-private-repository-verdaccio.html",
+          "author": "苏洋(soulteary)",
+          "description": "本篇内容，我们来聊聊使用开源软件 Verdaccio 搭建轻量的 NPM 私有仓库。",
+          "link": "https://soulteary.com/2024/12/01/use-open-source-software-to-build-a-lightweight-npm-private-repository-verdaccio.html",
+          "publishedOn": "2024-12-01T02:06:00.000Z",
+          "wordCount": 1562,
+          "title": "使用开源软件搭建轻量的 NPM 私有仓库：Verdaccio",
+          "imageUrl": null
+        },
+        {
+          "id": "https://soulteary.com/2024/11/30/basic-skills-redis-from-getting-started-to-docker-deployment.html",
+          "author": "苏洋(soulteary)",
+          "description": "前面写过了两篇 “Redis” 相关的内容，今天补一篇“基本功”内容，让后续折腾系列文章可以篇幅更短、内容更专注。",
+          "link": "https://soulteary.com/2024/11/30/basic-skills-redis-from-getting-started-to-docker-deployment.html",
+          "publishedOn": "2024-11-30T11:12:00.000Z",
+          "wordCount": 1956,
+          "title": "折腾基本功：Redis 从入门到 Docker 部署",
+          "imageUrl": null
+        },
+        {
+          "id": "https://soulteary.com/2024/11/22/breaking-memory-limits-a-practical-guide-to-serverization-on-the-mac-mini-m2.html",
+          "author": "苏洋(soulteary)",
+          "description": "本篇文章，我们聊聊如何使用 Mac Mini M2 来实现比上篇文章性价比更高的内存服务器使用，分享背后的一些小的思考。希望对有类似需求的你有帮助。",
+          "link": "https://soulteary.com/2024/11/22/breaking-memory-limits-a-practical-guide-to-serverization-on-the-mac-mini-m2.html",
+          "publishedOn": "2024-11-22T09:42:00.000Z",
+          "wordCount": 1874,
+          "title": "突破内存限制：Mac Mini M2 服务器化实践指南",
+          "imageUrl": null
+        },
+        {
+          "id": "https://soulteary.com/2024/11/21/thinkpad-with-redis-a-civilian-solution-for-building-millisecond-level-queries-on-billions-of-data.html",
+          "author": "苏洋(soulteary)",
+          "description": "本篇内容，分享一个和 Redis 相关的比较基础的技术实践内容。使用本体价值不到 3000 块钱的二手笔记本设备，和经典的 Redis 技术栈来加速上亿规模数据的查询效率。",
+          "link": "https://soulteary.com/2024/11/21/thinkpad-with-redis-a-civilian-solution-for-building-millisecond-level-queries-on-billions-of-data.html",
+          "publishedOn": "2024-11-21T05:19:00.000Z",
+          "wordCount": 3145,
+          "title": "ThinkPad + Redis：构建亿级数据毫秒级查询的平民方案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://soulteary.com/2024/11/19/beyond-gigabit-home-network-2-5g-upgrade-practice.html",
+          "author": "苏洋(soulteary)",
+          "description": "本篇文章，我们聊聊最近的一些关于家庭网络和网络设备折腾的事情，以及背后的一些小的考虑。",
+          "link": "https://soulteary.com/2024/11/19/beyond-gigabit-home-network-2-5g-upgrade-practice.html",
+          "publishedOn": "2024-11-19T15:06:00.000Z",
+          "wordCount": 407,
+          "title": "千兆之上：家庭网络 2.5G 升级实践",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "潘智祥-个人技术成长记录",
+      "feedUrl": "https://panzhixiang.cn/atom.xml",
+      "siteUrl": "https://panzhixiang.cn/atom.xml",
+      "articles": [
+        {
+          "id": "https://panzhixiang.cn/2024/llm-powered-ides/",
+          "author": null,
+          "description": "深度剖析大模型在软件开发中的应用，从 Github Copilot、通义灵码到 Cursor 和 Windsurf，分享使用体验和思考，探讨大模型如何影响工程师的角色和未来。",
+          "link": "https://panzhixiang.cn/2024/llm-powered-ides/",
+          "publishedOn": "2024-12-18T16:00:00.000Z",
+          "wordCount": 359,
+          "title": "大模型与 IDE：软件开发的进化",
+          "imageUrl": null
+        },
+        {
+          "id": "https://panzhixiang.cn/2024/Steven-Paul-Jobs/",
+          "author": null,
+          "description": "固执地乔布斯是一个天才",
+          "link": "https://panzhixiang.cn/2024/Steven-Paul-Jobs/",
+          "publishedOn": "2024-10-11T16:00:00.000Z",
+          "wordCount": 185,
+          "title": "固执的乔布斯是一个天才",
+          "imageUrl": null
+        },
+        {
+          "id": "https://panzhixiang.cn/2024/first-miniprogram/",
+          "author": null,
+          "description": "<p>中秋节前两天突然有一个想法：做一个应用识别食物的配料表信息，然后分析这个食物是不是健康。因为最近经常看到各种新闻说那个食物里面有哪些添加剂，不健康，或者某些成分对人体不好之类的，那天晚上睡不着，突然脑子里就有这个想法了。</p>\n<p>这是小程序码，感兴趣的小伙伴可以试一下<br><img src=\"/../images/%E9%85%8D%E6%96%99%E6%94%BE%E5%A4%A7%E9%95%9C.png\" alt=\"配料放大镜\"></p>\n<h2 id=\"开发过程\"><a href=\"#开发过程\" class=\"headerlink\" title=\"开发过程\"></a>开发过程</h2>",
+          "link": "https://panzhixiang.cn/2024/first-miniprogram/",
+          "publishedOn": "2024-10-05T16:00:00.000Z",
+          "wordCount": 167,
+          "title": "开发了一个小程序辅助分析食品是不是健康",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "青牛踏雪 - Kubernetes|Docker|Istio|Envoy|Hugo|Golang",
+      "feedUrl": "https://unixsre.com/index.xml",
+      "siteUrl": "https://unixsre.com/",
+      "articles": []
+    },
+    {
+      "title": "山山仙人博客",
+      "feedUrl": "https://www.ssgeek.com/atom.xml",
+      "siteUrl": "https://www.ssgeek.com",
+      "articles": []
+    },
+    {
+      "title": "张戈博客",
+      "feedUrl": "https://zhangge.net/feed",
+      "siteUrl": "https://zhang.ge",
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
