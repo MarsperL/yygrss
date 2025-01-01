@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-01-01T07:42:12.354Z</updated>
+    <updated>2025-01-01T07:49:44.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
@@ -667,6 +667,16 @@ The post Portainer Alternative Komodo for Docker Stack Management and Deployment
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Informer 内存使用优化 - 2]]></title>
+        <id>https://www.likakuli.com/posts/informer-memory-opt2/</id>
+        <link href="https://www.likakuli.com/posts/informer-memory-opt2/"/>
+        <updated>2024-12-30T09:49:15.000Z</updated>
+        <summary type="html"><![CDATA[概述 Informer 几乎在所有 k8s 组件中都会用到，即使是在 kube-apiserver 中。这里主要介绍 Informer 在 v1.27 ~ 1.32.0 之间做的一些内存使用相关的优化，可以降低使用 Informer 组件的内存使用量，减少 OOM]]></summary>
+        <author>
+            <name>作者</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2024年终总结]]></title>
         <id>https://hyruo.com/article/summary-2024/</id>
         <link href="https://hyruo.com/article/summary-2024/"/>
@@ -775,6 +785,16 @@ The post Portainer Alternative Komodo for Docker Stack Management and Deployment
 The post How Data Scraping Services Will Shape Mobile App Trends in 2025 appeared first on Collabnix.]]></summary>
         <author>
             <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Informer 内存使用优化 - 1]]></title>
+        <id>https://www.likakuli.com/posts/informer-memory-opt1/</id>
+        <link href="https://www.likakuli.com/posts/informer-memory-opt1/"/>
+        <updated>2024-12-29T13:03:52.000Z</updated>
+        <summary type="html"><![CDATA[概述 Informer 几乎在所有 k8s 组件中都会用到，即使是在 kube-apiserver 中。这里主要介绍 Informer 在 v1.27 ~ 1.32.0 之间做的一些内存使用相关的优化，可以降低使用 Informer 组件的内存使用量，减少 OOM]]></summary>
+        <author>
+            <name>作者</name>
         </author>
     </entry>
     <entry>
@@ -3773,6 +3793,16 @@ iTerm 更专注于个人使用，协作功能几乎为零。
 Warp Drive 将终端工具扩展到…]]></summary>
         <author>
             <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[inotifywait 和 confd 在一起踩的坑]]></title>
+        <id>http://zhangguanzhang.github.io/2024/11/24/inotifywait-and-confd/</id>
+        <link href="http://zhangguanzhang.github.io/2024/11/24/inotifywait-and-confd/"/>
+        <updated>2024-11-24T20:10:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>记录最近碰到的一次 confd 和 inotifywait 配合踩的坑</p>]]></summary>
+        <author>
+            <name>Zhangguanzhang</name>
         </author>
     </entry>
     <entry>

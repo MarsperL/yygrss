@@ -5179,6 +5179,50 @@
       "feedUrl": "https://zhangge.net/feed",
       "siteUrl": "https://zhang.ge",
       "articles": []
+    },
+    {
+      "title": "kaku's blog",
+      "feedUrl": "https://www.likakuli.com/index.xml",
+      "siteUrl": "https://www.likakuli.com/",
+      "articles": [
+        {
+          "id": "https://www.likakuli.com/posts/informer-memory-opt2/",
+          "author": "作者",
+          "description": "概述 Informer 几乎在所有 k8s 组件中都会用到，即使是在 kube-apiserver 中。这里主要介绍 Informer 在 v1.27 ~ 1.32.0 之间做的一些内存使用相关的优化，可以降低使用 Informer 组件的内存使用量，减少 OOM",
+          "link": "https://www.likakuli.com/posts/informer-memory-opt2/",
+          "publishedOn": "2024-12-30T09:49:15.000Z",
+          "wordCount": 396,
+          "title": "Informer 内存使用优化 - 2",
+          "imageUrl": "https://www.likakuli.com/logo.png"
+        },
+        {
+          "id": "https://www.likakuli.com/posts/informer-memory-opt1/",
+          "author": "作者",
+          "description": "概述 Informer 几乎在所有 k8s 组件中都会用到，即使是在 kube-apiserver 中。这里主要介绍 Informer 在 v1.27 ~ 1.32.0 之间做的一些内存使用相关的优化，可以降低使用 Informer 组件的内存使用量，减少 OOM",
+          "link": "https://www.likakuli.com/posts/informer-memory-opt1/",
+          "publishedOn": "2024-12-29T13:03:52.000Z",
+          "wordCount": 434,
+          "title": "Informer 内存使用优化 - 1",
+          "imageUrl": "https://www.likakuli.com/logo.png"
+        }
+      ]
+    },
+    {
+      "title": "Zhangguanzhang",
+      "feedUrl": "https://zhangguanzhang.github.io/atom.xml",
+      "siteUrl": "http://zhangguanzhang.github.io/atom.xml",
+      "articles": [
+        {
+          "id": "http://zhangguanzhang.github.io/2024/11/24/inotifywait-and-confd/",
+          "author": null,
+          "description": "<p>记录最近碰到的一次 confd 和 inotifywait 配合踩的坑</p>",
+          "link": "http://zhangguanzhang.github.io/2024/11/24/inotifywait-and-confd/",
+          "publishedOn": "2024-11-24T20:10:30.000Z",
+          "wordCount": 2578,
+          "title": "inotifywait 和 confd 在一起踩的坑",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
