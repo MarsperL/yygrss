@@ -5,80 +5,86 @@
 
 cacheUrl: https://MarsperL.github.io/yygrss/cache.json
 sources:
-  - href: https://marsperl.github.io/rss2.xml
-  - href: https://diygod.cc/feed/
-  - href: http://whyes.org/feed.xml
-  - href: https://daverupert.com/atom.xml
-  - href: https://hyruo.com/index.xml
-  - href: https://www.srebro.cn/rss.xml
-  - href: https://soulteary.com/feed/
-  - href: https://blog.ops-coffee.cn/feed.xml
-  - href: https://jimmysong.io/blog/index.xml
-  - href: https://nops.icu/feed/
-  - href: https://www.kawabangga.com/feed/
-  - href: https://www.derekseaman.com/feed/
-  - href: https://atherbeg.com/feed/
-  - href: https://www.virtualizationhowto.com/feed/
-  - href: https://whyes.org/feed.xml
-  - href: https://collabnix.com/feed/
-  - href: https://qq.mba/feed
-  - href: https://limboy.me/index.xml
-  - href: https://thiscute.world/index.xml
-  - href: https://yeshu.cloud/rss.xml
-  - href: https://www.skyue.com/feed/
-  - href: https://bluehe.cn/rss.xml
-  - href: https://dongjunke.cn/atom.xml
-  - htef: https://blognas.hwb0307.com/feed
-  - href: https://4311346.com/index.xml
-  - href: https://www.qncd.com/?feed=rss2
-  - href: https://domon.cn/rss/
-  - href: https://ladfenemies.cc/feed
-  - href: https://dusays.com/atom.xml
-  - href: https://wanghaiyang.cc/rss.xml
-  - href: https://xbd666.cn/rss.xml
-  - href: https://7boe.top/rss.xml
-  - href: https://blog.justlovesmile.top/atom.xml
-  - href: https://www.dreamlyn.cn/atom.xml
-  - href: https://pandalab.me/rss.xml
-  - href: https://www.mintimate.cn/atom.xml
-  - href: https://zahui.fan/atom.xml
-  - href: https://lixx.cn/rss.xml
-  - href: https://www.bmpi.dev/index.xml
-  - href: https://www.qikqiak.com/index.xml
-  - href: https://www.srebro.cn/rss.xml
-  - href: https://blog.xiaoz.org/feed
-  - href: https://www.iots.vip/atom.xml
-  - href: https://www.txisfine.cn/atom.xml
-  - href: https://icloudnative.io/index.xml
-  - href: https://www.k8stech.net/index.xml
-  - href: https://soulteary.com/feed
-  - href: https://panzhixiang.cn/atom.xml
-  - href: https://unixsre.com/index.xml
-  - href: https://www.ssgeek.com/atom.xml
-  - href: https://zhangge.net/feed
-  - href: https://www.likakuli.com/index.xml
-  - href: https://zhangguanzhang.github.io/atom.xml
-  - href: https://www.showerlee.com/feed
-  - href: https://blog.52itstyle.vip/feed
-  - href: https://blog.imdst.com/rss
-  - href: https://atherbeg.com/feed/
-  - href: https://www.readysetvirtual.com/feed
-  - href: https://www.pkguild.com/feed
-  - href: https://www.derekseaman.com/feed
-  - href: https://sflanders.net/feed
-  - href: https://www.virtualizationhowto.com/feed
-  - href: https://tinkertry.com/feed
-  - href: https://www.asjin.com/atom.xml
-  - href: https://www.ioiox.com/feed
-  - href: https://cloudnative.to/blog/index.xml
-  - href: https://jicki.cn/index.xml
-  - href: https://whyes.org/feed.xml
-  - href: https://jaminzhang.github.io/rss/
-  - href: https://mritd.com/atom.xml
-  - href: https://skyao.io/index.xml
-  - href: https://chegva.com/feed
-  - href: https://zhuleichina.github.io/feed.xml
-  - href: https://rorschachchan.github.io/atom.xml
+  - href: https://marsperl.github.io/rss2.xml  
+  - href: https://diygod.cc/feed/  
+  - href: http://whyes.org/feed.xml  
+  - href: https://daverupert.com/atom.xml  
+  - href: https://hyruo.com/index.xml  
+  - href: https://www.srebro.cn/rss.xml  
+  - href: https://soulteary.com/feed/  
+  - href: https://blog.ops-coffee.cn/feed.xml  
+  - href: https://jimmysong.io/blog/index.xml  
+  - href: https://nops.icu/feed/  
+  - href: https://www.kawabangga.com/feed/  
+  - href: https://www.derekseaman.com/feed/  
+  - href: https://atherbeg.com/feed/  
+  - href: https://www.virtualizationhowto.com/feed/  
+  - href: https://collabnix.com/feed/  
+  - href: https://qq.mba/feed  
+  - href: https://limboy.me/index.xml  
+  - href: https://thiscute.world/index.xml  
+  - href: https://yeshu.cloud/rss.xml  
+  - href: https://www.skyue.com/feed/  
+  - href: https://bluehe.cn/rss.xml  
+  - href: https://dongjunke.cn/atom.xml  
+  - href: https://blognas.hwb0307.com/feed  
+  - href: https://4311346.com/index.xml  
+  - href: https://www.qncd.com/?feed=rss2  
+  - href: https://domon.cn/rss/  
+  - href: https://ladfenemies.cc/feed  
+  - href: https://dusays.com/atom.xml  
+  - href: https://wanghaiyang.cc/rss.xml  
+  - href: https://xbd666.cn/rss.xml  
+  - href: https://7boe.top/rss.xml  
+  - href: https://blog.justlovesmile.top/atom.xml  
+  - href: https://www.dreamlyn.cn/atom.xml  
+  - href: https://pandalab.me/rss.xml  
+  - href: https://www.mintimate.cn/atom.xml  
+  - href: https://zahui.fan/atom.xml  
+  - href: https://lixx.cn/rss.xml  
+  - href: https://www.bmpi.dev/index.xml  
+  - href: https://www.qikqiak.com/index.xml  
+  - href: https://blog.xiaoz.org/feed  
+  - href: https://www.iots.vip/atom.xml  
+  - href: https://www.txisfine.cn/atom.xml  
+  - href: https://icloudnative.io/index.xml  
+  - href: https://www.k8stech.net/index.xml  
+  - href: https://panzhixiang.cn/atom.xml  
+  - href: https://unixsre.com/index.xml  
+  - href: https://www.ssgeek.com/atom.xml  
+  - href: https://zhangge.net/feed  
+  - href: https://www.likakuli.com/index.xml  
+  - href: https://zhangguanzhang.github.io/atom.xml  
+  - href: https://www.showerlee.com/feed  
+  - href: https://blog.52itstyle.vip/feed  
+  - href: https://blog.imdst.com/rss  
+  - href: https://www.readysetvirtual.com/feed  
+  - href: https://www.pkguild.com/feed  
+  - href: https://sflanders.net/feed  
+  - href: https://tinkertry.com/feed  
+  - href: https://www.asjin.com/atom.xml  
+  - href: https://www.ioiox.com/feed  
+  - href: https://cloudnative.to/blog/index.xml  
+  - href: https://jicki.cn/index.xml  
+  - href: https://jaminzhang.github.io/rss/  
+  - href: https://mritd.com/atom.xml  
+  - href: https://skyao.io/index.xml  
+  - href: https://chegva.com/feed  
+  - href: https://zhuleichina.github.io/feed.xml  
+  - href: https://rorschachchan.github.io/atom.xml  
+  - href: https://jia.je/feed.xml  
+  - href:
+  - href:
+  - href:
+  - href:
+  - href:
+  - href:
+  - href:
+  - href:
+  - href:
+  - href:
+  - href:
+  - href:
   - href:
 siteTitle: "云野阁-rss阅读器"
 timezone: Asia/Shanghai
