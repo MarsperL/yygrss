@@ -620,6 +620,96 @@
       "siteUrl": "https://srebro.cn/",
       "articles": [
         {
+          "id": "/archives/1735643680271",
+          "author": "运维小弟",
+          "description": "一、NanoPi K2 介绍 NanoPi K2采用了Amlogic公司64位四核A53主控S905, 内置五核Mali450 GPU, 最高运行主频可达2GHz，支持众多视频格式，具备超强的视频解码能力。 NanoPi K2配备2GB DDR3内存，集成WiFi蓝牙，带有千兆以太网，4个USB，H",
+          "link": "https://srebro.cn/archives/1735643680271",
+          "publishedOn": "2024-12-31T11:14:52.000Z",
+          "wordCount": 2175,
+          "title": "NanoPi刷armbian做小型服务器",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1735643555819",
+          "author": "运维小弟",
+          "description": "一、安装supervisor 备注：supervisor 只能管理前台进程的服务，比如 npm run 这些 ，一些后台运行的服务无法管理【后台运行的服务可以用systemd 进行管理】 1、安装epel源 yum install epel-release yum install -y superv",
+          "link": "https://srebro.cn/archives/1735643555819",
+          "publishedOn": "2024-12-31T11:12:54.000Z",
+          "wordCount": 2677,
+          "title": "supervisor安装&CeSi集中化管理Supervisor",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1735643159042",
+          "author": "运维小弟",
+          "description": "背景： 之前写笔记基本使用了私有的wiz为知笔记，有些笔记可能需要大纲一样展示出来，碰巧那天看到一个博主的Ansible博客，感觉还挺不错，就试了下，很简约，可以渲染 Markdown 成静态HTML，很符合我的需求 环境：python3 第一步：安装 MkDocs 官网地址：https://www",
+          "link": "https://srebro.cn/archives/1735643159042",
+          "publishedOn": "2024-12-31T11:06:26.000Z",
+          "wordCount": 2535,
+          "title": "MkDocs Markdown 项目文档工具部署&优化主题",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1735642778325",
+          "author": "运维小弟",
+          "description": "关于在Jenkins 的job 中隐藏shared library 共享库相关的Git信息 需求： jenkins 中因为使用了shared library 共享库，当每次去修改共享库中的配置的时候，job 在发布时，总会带出 changes 变更信息，怎么能够不输出共享库的git 变更信息，只打印",
+          "link": "https://srebro.cn/archives/1735642778325",
+          "publishedOn": "2024-12-31T10:59:46.000Z",
+          "wordCount": 2061,
+          "title": "关于在Jenkins 的job 中隐藏shared library 共享库相关的Git信息",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1735642702076",
+          "author": "运维小弟",
+          "description": "一、portainer 介绍 官网地址： https://www.portainer.io/ 二、docker-compose 部署 见另一篇部署手册 三、portainer-ce 开源版 docker-compose.yml文件 3.1 服务端和客户端在同一台机器 注意需要创建docker 自定义",
+          "link": "https://srebro.cn/archives/1735642702076",
+          "publishedOn": "2024-12-31T10:58:39.000Z",
+          "wordCount": 2146,
+          "title": "docker-compose 部署portainer 容器管理工具",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1735642375977",
+          "author": "运维小弟",
+          "description": "Openeuler22.03 LTS 源码部署 Postgresql12.9+PostGIS3.1 一、环境信息 官方PostGIS 支持的 https://trac.osgeo.org/postgis/wiki/UsersWikiPostgreSQLPostGIS 本次部署环境信息 名称 版本 备",
+          "link": "https://srebro.cn/archives/1735642375977",
+          "publishedOn": "2024-12-31T10:53:17.000Z",
+          "wordCount": 2731,
+          "title": "Openeuler22.03 部署 Postgresql10.5+PostGIS3.1",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1735642227909",
+          "author": "运维小弟",
+          "description": "title: Typora+Picgo+又拍云实现图片快速上传 id: 1f9e1b4d-1da0-4a58-9aee-f88b679e3adf date: 2024-03-07 21:53:22 auther: admin cover: excerpt: 背景： 苦逼于手动复制图片到图床上，在复",
+          "link": "https://srebro.cn/archives/1735642227909",
+          "publishedOn": "2024-12-31T10:50:44.000Z",
+          "wordCount": 2067,
+          "title": "Typora+Picgo+又拍云实现图片快速上传",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1735641624006",
+          "author": "运维小弟",
+          "description": "问题描述： HTTPS 下发起WS连接，连接失败，Chrom 浏览器报错。 socket.js:19 Mixed Content: The page at 'https://app.XXX.com' was loaded over HTTPS, but attempted to connect t",
+          "link": "https://srebro.cn/archives/1735641624006",
+          "publishedOn": "2024-12-31T10:41:18.000Z",
+          "wordCount": 2174,
+          "title": "HTTPS下使用WebSocket的一些实践",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1735551963045",
+          "author": "运维小弟",
+          "description": "环境： 使用2台虚拟机，如图-1所示。其中192.168.4.51是主服务器,另一台192.168.4.52作为从服务器，通过调取主服务器上的binlog日志，在本地重做对应的库、表，实现与主服务器的数据同步。 主服务器、从服务器都已安装好mysql5.7.44 步骤一：配置主服务器192.168.",
+          "link": "https://srebro.cn/archives/1735551963045",
+          "publishedOn": "2024-12-30T09:50:53.000Z",
+          "wordCount": 2289,
+          "title": "MySQL5.7主从同步配置",
+          "imageUrl": "null"
+        },
+        {
           "id": "/archives/1735030841468",
           "author": null,
           "description": "用途 快速运行一个mysql-slave 的容器，去同步 mysql主库的数据 可用于一些从库数据的调试 可用于临时的主从数据备份 项目地址 源码地址： https://cnb.cool/srebro/mysql-slave 使用方法 定义docker-compose 文件内的 变量       M",
@@ -3699,6 +3789,213 @@
           "wordCount": 145,
           "title": "认证Follow",
           "imageUrl": "https://static.ghost.org/v1.0.0/images/blog-cover.jpg"
+        }
+      ]
+    },
+    {
+      "title": "杜老师说",
+      "feedUrl": "https://dusays.com/atom.xml",
+      "siteUrl": "https://dusays.com/atom.xml",
+      "articles": [
+        {
+          "id": "https://dusays.com/784/",
+          "author": null,
+          "description": "<blockquote></blockquote>",
+          "link": "https://dusays.com/784/",
+          "publishedOn": "2024-12-31T16:00:00.000Z",
+          "wordCount": 1403,
+          "title": "Windows 系统多版本产品激活密钥分享",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
+          "id": "https://dusays.com/783/",
+          "author": null,
+          "description": "<blockquote>\n<p>有小伙伴问到关于 Windows 的产品激活密钥，杜老师收集了一些。这里分享有关桌面及服务器各个版本激活密钥，需要配合 KMS 服务器使用，如不知道如何操作，可在评论区中留言！</p>\n</blockquote>",
+          "link": "https://dusays.com/783/",
+          "publishedOn": "2024-12-28T16:00:00.000Z",
+          "wordCount": 1584,
+          "title": "Windows 系统多版本产品激活密钥分享",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
+          "id": "https://dusays.com/782/",
+          "author": null,
+          "description": "<blockquote>\n<p>有人建议杜老师为去不图床添加压缩功能，这样可以减少图片体积，同时可以减少网络传输时间。但不少小伙伴还是有保留原版图片的需求，所以杜老师搭建了在线图片批量压缩图片平台。</p>\n</blockquote>",
+          "link": "https://dusays.com/782/",
+          "publishedOn": "2024-12-25T16:00:00.000Z",
+          "wordCount": 1276,
+          "title": "在线开源图片批量压缩工具",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
+          "id": "https://dusays.com/781/",
+          "author": null,
+          "description": "<blockquote>\n<p>怕小伙伴们找不到趁手工具，杜老师找了款在线开源图片处理工具。文中介绍了该工具的部署及使用方法，虽然不如本地软件功能全面，但能够满足大部分需求，欢迎一试！</p>\n</blockquote>",
+          "link": "https://dusays.com/781/",
+          "publishedOn": "2024-12-22T16:00:00.000Z",
+          "wordCount": 1281,
+          "title": "在线开源图片处理工具",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
+          "id": "https://dusays.com/780/",
+          "author": null,
+          "description": "<blockquote>\n<p>SSL 证书普及率很高，但目前只能申请到 90 天使用期限免费证书。虽然可以重复申请实现无限延期，但毕竟太麻烦。杜老师从淇云那里看到一个免费一年版的证书申请网站，感兴趣的小伙伴可以去领取！</p>\n</blockquote>",
+          "link": "https://dusays.com/780/",
+          "publishedOn": "2024-12-19T16:00:00.000Z",
+          "wordCount": 1310,
+          "title": "这里有个可以白嫖三个一年 SSL 证书的网站",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
+          "id": "https://dusays.com/779/",
+          "author": null,
+          "description": "<blockquote>\n<p>有小伙伴反馈在使用去不图床上传图片时，出现上传成功却提示图片的审核失败，还有一些正常图片被误判为违规等类似的情况发生。本文简单剖析出现的原因及问题解决方法。</p>\n</blockquote>",
+          "link": "https://dusays.com/779/",
+          "publishedOn": "2024-12-16T16:00:00.000Z",
+          "wordCount": 1281,
+          "title": "图床审核出现误判解决方法",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
+          "id": "https://dusays.com/778/",
+          "author": null,
+          "description": "<blockquote>\n<p>今天杜老师要和大家分享的，是广州这座古老而又现代的城市，如何在忙碌的工作中找到属于自己的节奏和乐趣呢？就让杜老师在出差闲暇之余，拍摄几张景色与美食的图片，带小伙伴们领略广州的魅力！</p>\n</blockquote>",
+          "link": "https://dusays.com/778/",
+          "publishedOn": "2024-12-13T16:00:00.000Z",
+          "wordCount": 1263,
+          "title": "广州游记「多图预警」",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
+          "id": "https://dusays.com/777/",
+          "author": null,
+          "description": "<blockquote>\n<p>一到年底，工作量就特别的多，这次杜老师被安排上海出差，正好趁着机会，好好游玩一番！上海这座城市，不仅仅是繁华，更是充满了故事和风情。文中是杜老师工作之余拍的上海风情，一起感受这座城市的速度与温度！</p>\n</blockquote>",
+          "link": "https://dusays.com/777/",
+          "publishedOn": "2024-12-10T16:00:00.000Z",
+          "wordCount": 1262,
+          "title": "上海游记「多图预警」",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
+          "id": "https://dusays.com/776/",
+          "author": null,
+          "description": "<blockquote>\n<p>杜老师说运营至今，认识了很多小伙伴。除在评论区交流外，大家也会通过导航栏处「点我在线聊天」沟通。近期收到来自 hehe 童鞋的礼品，这是他的爱人经营一家网上手工店铺，里面有很多的手工艺品，推荐给喜欢的小伙伴们！</p>\n</blockquote>",
+          "link": "https://dusays.com/776/",
+          "publishedOn": "2024-12-07T16:00:00.000Z",
+          "wordCount": 1280,
+          "title": "感谢来自 hehe 童鞋的礼品",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
+          "id": "https://dusays.com/775/",
+          "author": null,
+          "description": "<blockquote>\n<p>前段时间突然收到来自开往项目负责人的私信，说为了表示对开往项目支持，会赠送一个小礼品。杜老师告知地址后，没过几天就收到了一个礼品，礼物虽小但情谊重，这里再次推荐一下开往项目！</p>\n</blockquote>",
+          "link": "https://dusays.com/775/",
+          "publishedOn": "2024-12-04T16:00:00.000Z",
+          "wordCount": 1282,
+          "title": "感谢来自开往项目组的礼品",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
+          "id": "https://dusays.com/774/",
+          "author": null,
+          "description": "<blockquote>\n<p>越来越多小伙伴开始选择 1Panel 面板，1Panel 专业版提供的 WAF 和网站监控报表等功能非常好用。不过官方已经不再提供永久版的购买渠道，目前只能按年订阅。杜老师这边囤积了几个专业版激活码，现提供低价格租用服务。</p>\n</blockquote>",
+          "link": "https://dusays.com/774/",
+          "publishedOn": "2024-12-01T16:00:00.000Z",
+          "wordCount": 1291,
+          "title": "1Panel 专业版低价租用",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
+          "id": "https://dusays.com/773/",
+          "author": null,
+          "description": "<blockquote>\n<p>上篇文章有小伙伴评论说无畏云没有限值，如果遇到被刷流量情况，很有可能会进入黑名单。本次为小伙伴们推荐的 WAFPRO 防御加速 CDN，其使用了流量包月机制，到达流量后即停止服务，防止额度欠费。</p>\n</blockquote>",
+          "link": "https://dusays.com/773/",
+          "publishedOn": "2024-11-28T16:00:00.000Z",
+          "wordCount": 1331,
+          "title": "WAFPRO 防御加速 CDN 新版上线",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
+          "id": "https://dusays.com/772/",
+          "author": null,
+          "description": "<blockquote>\n<p>在数字化时代，网站的访问速度和稳定性对用户体验至关重要，无畏云 CDN 正是针对这一需求而生，为广大站长提供高效且免费的 CDN 加速服务。本文将介绍无畏云 CDN 的功能、优势及在实际中的应用效果。</p>\n</blockquote>",
+          "link": "https://dusays.com/772/",
+          "publishedOn": "2024-11-25T16:00:00.000Z",
+          "wordCount": 1320,
+          "title": "无畏云 CDN 加速免费依旧",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
+          "id": "https://dusays.com/771/",
+          "author": null,
+          "description": "<blockquote>\n<p>杜老师不蒜子统计平台运营至今，经过星辰童鞋版本迭代，增加了很多新功能。更为值得称赞的是，版本升级并没有 BREAKING CHANGE，新版本仍兼容旧版本的调用脚本。使用旧版本的小伙伴不升级脚本也可继续使用！</p>\n</blockquote>",
+          "link": "https://dusays.com/771/",
+          "publishedOn": "2024-11-22T16:00:00.000Z",
+          "wordCount": 1384,
+          "title": "新版本不蒜子统计平台使用说明",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
+          "id": "https://dusays.com/770/",
+          "author": null,
+          "description": "<blockquote>\n<p>QUIC 是种基于 UDP 实现的传输层协议，由 Google 提出，旨在减少握手延迟，实现快速连接建立、多路复用、连接迁移功能。本教程分享如何在 OpenResty 开启 QUIC 支持。</p>\n</blockquote>",
+          "link": "https://dusays.com/770/",
+          "publishedOn": "2024-11-19T16:00:00.000Z",
+          "wordCount": 1409,
+          "title": "开启 OpenResty 的 QUIC 支持",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
+          "id": "https://dusays.com/769/",
+          "author": null,
+          "description": "<blockquote>\n<p>博文拖更好久，不知道发点什么好。刚好在 GitHub 上发现一款有趣的文字修仙网页游戏，可以直接托管在 Vercel，也可架设在个人服务器。杜老师已经部署好，欢迎小伙伴们前来体验！</p>\n</blockquote>",
+          "link": "https://dusays.com/769/",
+          "publishedOn": "2024-11-16T16:00:00.000Z",
+          "wordCount": 1283,
+          "title": "推荐一款文字修仙摸鱼页游",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
+          "id": "https://dusays.com/768/",
+          "author": null,
+          "description": "<blockquote>\n<p>X-CMD 是一款强大的终端美化和功能增强工具，它通过模块化设计和集成的包管理器，为用户提供丰富的功能和便捷的使用体验。无论是日常的命令行操作还是开发环境的搭建，X-CMD 都能提供有效的支持。</p>\n</blockquote>",
+          "link": "https://dusays.com/768/",
+          "publishedOn": "2024-11-13T16:00:00.000Z",
+          "wordCount": 1358,
+          "title": "终端美化工具 X-CMD 安装与使用",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
+          "id": "https://dusays.com/767/",
+          "author": null,
+          "description": "<blockquote>\n<p>在现代的软件开发和系统管理中，进程管理是一个不可或缺的部分。PM2 作为一个强大的进程管理工具，它可以帮助我们管理和保持应用在线状态，自动重启崩溃应用，并提供负载均衡等高级功能。</p>\n</blockquote>",
+          "link": "https://dusays.com/767/",
+          "publishedOn": "2024-11-10T16:00:00.000Z",
+          "wordCount": 1344,
+          "title": "PM2 安装与使用",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
+          "id": "https://dusays.com/766/",
+          "author": null,
+          "description": "<blockquote>\n<p>一天在聊天广场中分享了服务器监控截图，obaby 说感觉不错，想知道如何部署的。杜老师当时拍着 36A 的胸脯郑重承诺当天晚上会发表。然后……就没有然后了！但人不能言而无信，博客不能拖而不更，它来了它来了，它带着忏悔走来了！</p>\n</blockquote>",
+          "link": "https://dusays.com/766/",
+          "publishedOn": "2024-11-07T16:00:00.000Z",
+          "wordCount": 1345,
+          "title": "哪吒监控开源、轻量、易用的服务器监控",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
+          "id": "https://dusays.com/765/",
+          "author": null,
+          "description": "<blockquote>\n<p>前段时间接到父母电话，说有自称宽带运营商的工作人员上门检查。父母的安全意识还是很好的，担心会动手脚，人家还没进门，电话就过来了。这让杜老师想起 PCDN 事件，今日整理相关内容，给小伙伴们普及下！</p>\n</blockquote>",
+          "link": "https://dusays.com/765/",
+          "publishedOn": "2024-11-04T16:00:00.000Z",
+          "wordCount": 1338,
+          "title": "PCDN 和近期网络攻击频繁的那些事",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
     }
