@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-01-01T07:27:55.320Z</updated>
+    <updated>2025-01-01T07:31:37.803Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
@@ -727,6 +727,16 @@ The post Portainer Alternative Komodo for Docker Stack Management and Deployment
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2024 年终八问 —— 我的年度复盘]]></title>
+        <id>https://www.txisfine.cn/archives/48b379ac.html</id>
+        <link href="https://www.txisfine.cn/archives/48b379ac.html"/>
+        <updated>2024-12-29T14:03:29.000Z</updated>
+        <summary type="html"><![CDATA[<p>2024 又到尾声，到了一年一度复盘是时候了，一年又一年来去匆匆，是时候放慢脚步，回过头来反思一下这一年了。我看了鑫哥的公众号（欢迎微信搜索“煤域鑫声”关注）发现鑫哥提了八个问题来做自己一年的年终复盘。我也尝试回答一下，可能深度不及鑫哥，也算是对自己一年的所作所为简单做个总]]></summary>
+        <author>
+            <name>弹霄博科</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[英国伦敦出差]]></title>
         <id>https://www.skyue.com/24122921.html</id>
         <link href="https://www.skyue.com/24122921.html"/>
@@ -756,6 +766,18 @@ The post How Data Scraping Services Will Shape Mobile App Trends in 2025 appeare
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[就是 CNB ｜龙芯久久派 2K0300 新世界在线开发&编译环境]]></title>
+        <id>https://www.txisfine.cn/archives/6efcee76.html</id>
+        <link href="https://www.txisfine.cn/archives/6efcee76.html"/>
+        <updated>2024-12-29T12:26:23.000Z</updated>
+        <summary type="html"><![CDATA[<p>搭建编译环境和手动执行编译任务是个很头疼的问题。往往需要拥有一个稳定的网络和性能不错的主机。</p>
+<p>以前需要自己装个 Ubuntu 虚拟机，装好各种依赖组件。因为网络问题或者性能不佳导致编译失败或编译时间长的事情偶有发生。。。</p>
+<p>最近内测了腾讯的 CNB]]></summary>
+        <author>
+            <name>弹霄博科</name>
         </author>
     </entry>
     <entry>
@@ -1259,6 +1281,16 @@ The post Kube node metrics with Netdata Kubernetes monitoring appeared first on 
         <summary type="html"><![CDATA[不必执着一种万能的解决方案，不同场景找最适合的来用]]></summary>
         <author>
             <name>一颗小树</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何平滑切换权威 DNS 服务器]]></title>
+        <id>https://www.txisfine.cn/archives/ff06b000.html</id>
+        <link href="https://www.txisfine.cn/archives/ff06b000.html"/>
+        <updated>2024-12-22T07:52:58.000Z</updated>
+        <summary type="html"><![CDATA[<p>由于 DnsPod 专业版解析套餐过期了，两周前我把 hex.ac.cn 的权威 DNS 服务器从 DnsPod 切换到了华为云。恰好有朋友问如何在切换权威 DNS 服务器的时候对业务连续性影响更小，所以我用本次切换过程简单记录一下， 同时尽可能兼顾阿里云、腾讯云、万网等此]]></summary>
+        <author>
+            <name>弹霄博科</name>
         </author>
     </entry>
     <entry>
@@ -2073,6 +2105,16 @@ The post FluxCD How to Modify Kustomize Image Tag appeared first on Virtualizati
         <summary type="html"><![CDATA[<h2 id="选择一个关联标签"><a href="#选择一个关联标签" class="headerlink" title="选择一个关联标签"></a>选择一个关联标签</h2><p><code>instance</code> 是机器 ip，不会重复，所以我用这个做关联字段。<br>第一个查询我会保留多一些标签，（可以使用 <code>sum by ... (instance)</code>]]></summary>
         <author>
             <name>杂烩饭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 Docker Zabbix 中启用 HTTPS]]></title>
+        <id>https://www.txisfine.cn/archives/ce352016.html</id>
+        <link href="https://www.txisfine.cn/archives/ce352016.html"/>
+        <updated>2024-12-09T15:34:29.000Z</updated>
+        <summary type="html"><![CDATA[<p>Docker Compose 是一种非常方便的在系统中部署 ZABBIX 的方式，<a href="https://github.com/zabbix/zabbix-docker">https://github.com/zabbix/zabbix-docker</a> 项目]]></summary>
+        <author>
+            <name>弹霄博科</name>
         </author>
     </entry>
     <entry>
@@ -4623,6 +4665,16 @@ Continue reading...]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[1Panel FTP 服务上传文件慢问题分析]]></title>
+        <id>https://www.txisfine.cn/archives/71f64185.html</id>
+        <link href="https://www.txisfine.cn/archives/71f64185.html"/>
+        <updated>2024-11-08T17:59:52.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="问题背景-amp-现象"><a href="#问题背景-amp-现象" class="headerlink" title="问题背景&amp;现象"></a>问题背景&amp;现象</h1><p><img src="https://static.txblog.11]]></summary>
+        <author>
+            <name>弹霄博科</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[拔牙]]></title>
         <id>https://www.skyue.com/24110823.html</id>
         <link href="https://www.skyue.com/24110823.html"/>
@@ -4780,6 +4832,17 @@ Mermaid Diagram
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[长亭雷池 WAF 专业版配置同步功能小测（多机多活）]]></title>
+        <id>https://www.txisfine.cn/archives/9a8fb283.html</id>
+        <link href="https://www.txisfine.cn/archives/9a8fb283.html"/>
+        <updated>2024-11-06T14:35:22.000Z</updated>
+        <summary type="html"><![CDATA[<p>在 7.x 专业版雷池中增加了一个配置同步的功能，使用配置同步功能，可以将主节点的配置分发给从节点，从而实现 WAF 的多活。</p>
+<p>本文以 Version 7.1.1-lts 为例进行测试，具体绑定操作参考<a href="https://docs.waf-ce.]]></summary>
+        <author>
+            <name>弹霄博科</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[一款绘制3D架构图的在线神器,iCraft Editor]]></title>
         <id>/archives/1730875760707</id>
         <link href="https://srebro.cn/archives/1730875760707"/>
@@ -4911,6 +4974,17 @@ Continue reading...]]></summary>
 </blockquote>]]></summary>
         <author>
             <name>杜老师说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[长亭雷池 WAF 7 专业版功能测试]]></title>
+        <id>https://www.txisfine.cn/archives/5448f0cd.html</id>
+        <link href="https://www.txisfine.cn/archives/5448f0cd.html"/>
+        <updated>2024-11-04T14:03:27.000Z</updated>
+        <summary type="html"><![CDATA[<p>这是继 <a href="/archives/14caf4c8.html">长亭雷池 WAF 专业版体验小记</a> ，又一次测试长亭雷池 WAF 专业版。 200 多天过去了，雷池从 5.x 疯狂内卷到 7.x，那么 7.x 的雷池究竟怎么样呢？</p>
+<p>本文以 V]]></summary>
+        <author>
+            <name>弹霄博科</name>
         </author>
     </entry>
     <entry>
@@ -5402,6 +5476,16 @@ Kubernetes Service APIs 简介
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[欢迎在 Follow.is 关注本站]]></title>
+        <id>https://www.txisfine.cn/archives/10b769c1.html</id>
+        <link href="https://www.txisfine.cn/archives/10b769c1.html"/>
+        <updated>2024-10-25T16:58:44.000Z</updated>
+        <summary type="html"><![CDATA[<p>Follow 是一款近期一直十分火热的新产品。你可以把它简单的理解为一款新的 RSS 阅读器，但，它绝不是一款单纯的阅读器，它可以订阅网站内容、B站UP主、小红书博主、微博博主、小宇宙播客、YouTube 视频，甚至还可以订阅 Follow 用户，以及用户分享的订阅列表等等]]></summary>
+        <author>
+            <name>弹霄博科</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Integrating DevOps with Algorithmic Forex Trading: Ways to Improve Stability and Scalability]]></title>
         <id>https://collabnix.com/?p=28420</id>
         <link href="https://collabnix.com/integrating-devops-with-algorithmic-forex-trading-ways-to-improve-stability-and-scalability/"/>
@@ -5742,6 +5826,16 @@ For progressi…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RouteOS DHCPv6 固定前缀（DHCPv6 PD）]]></title>
+        <id>https://www.txisfine.cn/archives/c92a34df.html</id>
+        <link href="https://www.txisfine.cn/archives/c92a34df.html"/>
+        <updated>2024-10-20T14:17:42.000Z</updated>
+        <summary type="html"><![CDATA[<p>DHCPv6 是 IPv6 环境下地址分配的一种协议，可以将网络配置参数从服务器段分配到客户端。DHCPv6-PD（Prefix Delegation，前缀分配）是 DHCPv6 的扩展，字如其名，其注重的是前缀分配，即服务器端将一个子网范围的前缀地址段和其他网络配置（如]]></summary>
+        <author>
+            <name>弹霄博科</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[华山西峰索道关闭，双腿已废]]></title>
         <id>https://4311346.com/post/2024/1018-huashan.html</id>
         <link href="https://4311346.com/post/2024/1018-huashan.html"/>
@@ -5883,6 +5977,17 @@ For progressi…]]></summary>
         <summary type="html"><![CDATA[Scaling applications in Kubernetes is essential for maintaining optimal performance, ensuring high availability, and managing resource utilization effectively. Whether you’re handling fluctuating traffic or optimizing costs, understanding how to scale your Kubernetes deployments is crucial. In this blog, we’ll delve into the intricacies of scaling in Kubernetes, explore manual and automated scaling techniques using kubectl […]]]></summary>
         <author>
             <name>Adesoji Alu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SDWAN 组网小记 —— 使用 EasyTier 组建一张网]]></title>
+        <id>https://www.txisfine.cn/archives/f2f7b8ba.html</id>
+        <link href="https://www.txisfine.cn/archives/f2f7b8ba.html"/>
+        <updated>2024-10-16T15:41:02.000Z</updated>
+        <summary type="html"><![CDATA[<p>在之前的博客中，我记录了我通过 GREv6 的方式将北京和老家的局域网组在了一起。在今年的规划中，我期望组建一张更大的网，将自己不同环境下的服务器和节点有序的组织起来。</p>
+<p>在朋友的推荐下，我选择了 EasyTier 作为 SDWAN 方案，进行组网配置。</p>]]></summary>
+        <author>
+            <name>弹霄博科</name>
         </author>
     </entry>
     <entry>
