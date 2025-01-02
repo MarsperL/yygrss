@@ -393,6 +393,16 @@
       "siteUrl": "https://hyruo.com/",
       "articles": [
         {
+          "id": "https://hyruo.com/article/netgear-r6300v2-2025/",
+          "author": null,
+          "description": "我家里有两个网件 R6300V2 都使用了超过 10 年时间，本来有一个放在我妈那里用，后来因为担心小孩总去我妈那边看电视，就把宽带取消，于是多出一个路由器闲置。因为某些原因，本来前些天想着换个路由器，但偶然在网上看到有人说网件这个电磁炉路由器能够刷新版本的 Openwrt，于是这跨年夜晚上就开干了。\n网络布局\n\n我现在住的这套房在装修时还没考虑到 WIFI6 的应用场景，所以当时直接叫装修师傅布设一根网线在天花板上，然后配了个 TP-link 吊顶 AP，通过 POE 供电，这一个 AP 也基本解决了全家无线使用需求，而且由于放置位置恰到好处，家里几乎没有无线信号黑点。所以这些年来，也就没考虑搞 mesh 组网，还是继续让网件电磁炉发挥余热。\n目前整个网络架构如下：\n\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n\n\n\n光猫拨号\n|\n网件 R6300V2 负责 DHCP 和几个低速 2.4G WIFI 智能家电\n|\nTP-LINK POE 交换机\n├────────电视\n│ | └── 台式电脑\n| └──── 保留卧室网口\nTP-LINK AP 5G + 2.4G WIFI\n\n\n\n\n\n这次我的需求主要是在电视机上。自从电视上更新了某个软件的新版本后，这个软件在封闭的电视系统上没法再像此前一样可以长期挂在电视机后台使用，而是时不时被电视系统后台杀进程，导致看视频过程中体验很差。由于电视使用的是有线连接，因此我需要的这个路由器对 WIFI 功能没有需求。\n网件 R6300V2 可刷系统\n\n网件原厂固件\n\n原厂固件我可能用了两三年时间，因为最开始压根不知道这路由器还能刷其他系统。后来才入坑 Koolshare 从华硕那边改的梅林固件。\n原厂固件有几大神坑：\n网速慢 。 这个问题在 10 多年前刚买路由器时或许不是啥问题，因为当时我的宽带也就 100Mbps，而网件原厂固件能够支持到…",
+          "link": "https://hyruo.com/article/netgear-r6300v2-2025/",
+          "publishedOn": "2025-01-01T12:15:00.000Z",
+          "wordCount": 592,
+          "title": "2025年给网件R6300v2路由器刷Openwrt",
+          "imageUrl": "https://hyruo.com/article/netgear-r6300v2-2025/000.webp"
+        },
+        {
           "id": "https://hyruo.com/article/summary-2024/",
           "author": null,
           "description": "2024 年即将过去，简单总结下今年 10 件值得记录的事情，虽然都不是什么大事，但或多或少可能会对未来产生一些影响。\n搬迁到新的办公室\n\n\n详见文章：搬到新的办公室\n去年底告别待了 10 年的老办公楼，来到新的办公室，虽然人员、工作内容都没变，但是工作氛围和工作心态却悄然发生变化。\n两位亲人去世\n\n\n详见文章： 1. 我所认识的中国式土葬 2. 回乡参加一场葬礼\n2024 年上半年，我祖辈亲属中最后两位重要的亲属相继去世。我花了很长时间思考血脉延续的问题，同时梳理了自己对土葬这种习俗，从敬畏到抵触，再到无奈和认同的心路历程。\n参与乡村治理\n\n\n详见文章：参加农村志愿服务活动\n2024 年我参与了几十次乡村治理工作，是我自 2012 年之后再度参与类似事务，也让我对乡村治理有了更深刻的认知。遗憾的是，在这方面并没有留下太多笔墨。仅有一篇简单文章记录下来。\n参与本地企业案例研究\n\n\n详见文章：1. 在中国如何合法解除劳动合同 2. 女员工是否可以自行选择退休年龄 3. 一些有意思的本地企业司法案例（一）\n2024年，我参与了一系列本地企业法律案例研究，但出于信息保密要求，很多案例没法在网络上公开发布，只是简单挑选了几个敏感度较低、模糊性较强的案件发出来，也就没有再进行后续更新。\n首次接触检察申诉案件\n\n\n详见文章：首次深入接触检察申诉案件\n2024年，我作为一个工作组组长完成了对一批检察机关办理申诉案件的事后评价工作，也是我从业以来首次接触这个类型案件。以前在检察院只接触过反贪反渎和“两法衔接”案件，这次进一步丰富了工作经验。\n再度回到司法局\n\n\n详见文章：对司法局的一些刻板印象\n2024年，我作为一个工作组副组长到一个县级司法局待了一个月时间，这也是我 2014 年从司法行政系统调出后再次全面接触司法行政业务工作。这次经历，让我对司法局整体工作有了更加全面深入的认识。值得欣慰的是，上边这篇文章中的一些想法在 2024 年底几乎都有了新的改观。\n参与未成年人工作\n\n\n详见文章：1. 如何预防智力障碍未成年人被性侵 2. 未成年人心理问题需要高度重视\n2024年，我参与了包括未成年人犯罪预防、预防未成年人被侵害以及处置特殊未成年人案件等工作，总体上感觉当前对未成年人成长无论在体制机制、社会氛围还是家庭和学校教育方面都存在很多问题，需要全社会给与更多耐心和支持才能缓解。\n参与命案预防\n\n\n详见文章：1.​关于命案防范的一点思考 2. 如何预防个人极端案事件 3. 怎样看待法官被当事人刺杀致死事件\n2024年，我再次深度参与命案预防工作，感觉今年这个事情从未得到如此重视，或许是经济转型期社会矛盾压力太大，一边要梳，另一边还是得堵，包括年底各地学校、医院、广场等公共场所安保能力提升，都是其中重要的环节。\n帮岳母盖房子\n\n\n详见文章：1.湖南的山体滑坡为何这么严重 2. 筹备帮岳母盖个房子\n今年下半年，经济压力陡然升级，几个贷款陆续到期，然后是台风导致老家房屋后方山体滑坡问题需要修复，接着就是岳母想要重新盖房子。好在几经周转，总算是熬过来，现在房屋建的差不多了，农历新年前应该可以装修完毕。\n再次体验校园文化\n\n\n详见文章：1.参加佛大法学院2024届毕业晚会 2. 到西北政法大学参加培训·首次西安之行 3.输不起的初中教育 4.参加一次家长会活动\n今年林林总总去了大中小学加幼儿园 10 多次，其中最远去到西安的西北政法大学参加培训，然后就是回母校参加活动，去几所中学开展公益讲座，去小孩就读的小学、幼儿园参加集体活动等，每次去到校园都有不同的感悟和体会，也对当下教育资源不均衡、教育方法不合理等问题零散提出个人看法，希望教育事业能够越来越好，真正担负起国家、民族和家庭未来的希望。",
@@ -3715,16 +3725,6 @@
           "wordCount": null,
           "title": "前沿快讯 第59期 细菌通过反转录lncRNA生成重复cDNA以编码毒性蛋白从而限制噬菌体感染等",
           "imageUrl": null
-        },
-        {
-          "id": "https://blognas.hwb0307.com/?p=6021",
-          "author": "Bensz",
-          "description": "Bensz\n密码保护：苹果那些事\n无法提供摘要。这是一篇受保护的文章。\nBensz",
-          "link": "https://blognas.hwb0307.com/ios-01",
-          "publishedOn": "2024-10-04T03:33:55.000Z",
-          "wordCount": null,
-          "title": "密码保护：苹果那些事",
-          "imageUrl": null
         }
       ]
     },
@@ -4941,9 +4941,77 @@
       ]
     },
     {
+      "title": "柒's Blog",
+      "feedUrl": "https://blog.52itstyle.vip/feed",
+      "siteUrl": "https://blog.52itstyle.vip/",
+      "articles": []
+    },
+    {
+      "title": "Linux运维笔记|自动化运维攻城狮",
+      "feedUrl": "https://blog.imdst.com/rss",
+      "siteUrl": "https://blog.imdst.com/",
+      "articles": [
+        {
+          "id": "fbf93a17-582b-4ce8-9cd4-f531efd7cb21",
+          "author": "leoiceo",
+          "description": "有时因为网络原因，比如公司 NAT，或GWF，需要使用代理。Docker 的代理配置，略显复杂， 但基本原理都是一致的，都是利用 Linux 的 http_proxy 等环境变量。\n一、 Dockerd 代理\n在执行docker pull时，是由守护进程dockerd来执行。因此，代理需要配在dockerd的环境中。而这个环境，则是受systemd所管控，因此实际是systemd的配置\nmkdir -p /etc/systemd/system/docker.service.d  \ntouch /etc/systemd/system/docker.service.d/proxy.conf  \n\n在这个proxy.conf文件（可以是任意*.conf的形式）中，添加以下内容\n[Service]",
+          "link": "https://blog.imdst.com/ru-he-you-ya-de-gei-docker-pei-zhi-wang-luo-dai-li/",
+          "publishedOn": "2024-12-17T06:24:06.000Z",
+          "wordCount": 444,
+          "title": "Docker 配置网络代理的几种场景",
+          "imageUrl": null
+        },
+        {
+          "id": "218223da-3968-4878-8918-1ac83c756329",
+          "author": "leoiceo",
+          "description": "使用 docker-compose 快速搭建日志平台采集nginx日志，并开启身份认证",
+          "link": "https://blog.imdst.com/docker-compose-kuai-su-da-jian-ri-zhi-ping-tai/",
+          "publishedOn": "2024-12-03T09:34:50.000Z",
+          "wordCount": 811,
+          "title": "docker-compose 快速搭建日志平台",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Ready, Set, Virtual!",
+      "feedUrl": "https://www.readysetvirtual.com/feed",
+      "siteUrl": "https://www.readysetvirtual.com",
+      "articles": [
+        {
+          "id": "https://www.readysetvirtual.com/?p=1685",
+          "author": "Keiran Shelden",
+          "description": "One of the most tedious operational tasks you can do in IT is manage domains and certificates –",
+          "link": "https://www.readysetvirtual.com/2024/11/17/how-to-automate-certificate-update-in-veeam-backup-for-m365/",
+          "publishedOn": "2024-11-17T12:11:06.000Z",
+          "wordCount": 2730,
+          "title": "How to automate certificate update in Veeam Backup for M365",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Christopher Kusek, Technology Evangelist",
+      "feedUrl": "https://www.pkguild.com/feed",
+      "siteUrl": "https://www.pkguild.com",
+      "articles": []
+    },
+    {
+      "title": "SFlanders",
+      "feedUrl": "https://sflanders.net/feed",
+      "siteUrl": "https://sflanders.net/",
+      "articles": []
+    },
+    {
       "title": "TinkerTry",
       "feedUrl": "https://tinkertry.com/feed",
       "siteUrl": "https://tinkertry.com",
+      "articles": []
+    },
+    {
+      "title": "思有云 - IOIOX",
+      "feedUrl": "https://www.ioiox.com/feed",
+      "siteUrl": "https://www.ioiox.com/",
       "articles": []
     },
     {
@@ -4994,10 +5062,174 @@
       ]
     },
     {
+      "title": "小炒肉",
+      "feedUrl": "https://jicki.cn/index.xml",
+      "siteUrl": "https://jicki.cn/",
+      "articles": []
+    },
+    {
       "title": "RSS - Jamin Zhang",
       "feedUrl": "https://jaminzhang.github.io/rss/",
       "siteUrl": "http://jaminzhang.me",
       "articles": []
+    },
+    {
+      "title": "Kovacs",
+      "feedUrl": "https://mritd.com/atom.xml",
+      "siteUrl": "https://mritd.com/atom.xml",
+      "articles": []
+    },
+    {
+      "title": "敖小剑的博客",
+      "feedUrl": "https://skyao.io/index.xml",
+      "siteUrl": "https://skyao.io/",
+      "articles": []
+    },
+    {
+      "title": "CHEGVA",
+      "feedUrl": "https://chegva.com/feed",
+      "siteUrl": "https://chegva.com",
+      "articles": [
+        {
+          "id": "https://chegva.com/?p=6246",
+          "author": "anzhihe",
+          "description": "2024年算是真的结束北漂了，小孩也如愿上了小学，之前就说过小孩上小学就回来，还真是应景。2023确实挺折腾，2024算是新的阶段，算个转折，虽然结束了北漂，但工作上还需要长期出差，奔波劳累的命，看样子还得继续折腾，短时间还是安稳不了，路旁土命，充电宝的角色。2025好好沉淀沉淀，接下来的几年看样子也好不到哪去，还是以修身养性为主，厚积薄发，逆境中往往是最锻炼人，最能让人成长的。“天行健，君子以自强不息；地势坤，君子以厚德载物。”自勉。\n\n\n路旁土命，源自古代中国的五行学说，属于六十甲子纳音之一，在五行中，土象征着包容、稳定与孕育万物的力量，路旁土，顾名思义，如同路边随处可见的土壤，虽不起眼却无处不在，支撑着世间万物的生长，拥有此命格的人，性格多温和、稳重，具备极强的适应能力和生存智慧，能够在逆境中寻找到生存之道，如同路旁之土，默默无闻却坚韧不拔。\n\n\n参考：\n\n折腾2023\n\nMBTI性格测试——INTP 学者型–聪颖机智的解决问题\n\n纳音五行歌",
+          "link": "https://chegva.com/6246.html",
+          "publishedOn": "2025-01-01T06:07:42.000Z",
+          "wordCount": 8544,
+          "title": "转折2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chegva.com/?p=6238",
+          "author": "anzhihe",
+          "description": "最近去客户机房部署服务，由于还没有并网，只能连根网线访问机房环境，但插入网线后发现连的 Wi-Fi 热点不起作用，只能访问内网，无法访问外网。拔掉网线后Wi-Fi恢复正常。想着应该是网络优先级的问题，需要让内网机房访问走有线，外网访问走Wi-Fi，解决方法：\n1、修改网络偏好设置，自定义网络使用的先后顺序，优先使用 Wi-Fi 上网\n\n2、给访问的内网环境的网段(10.240.0.0/16)添加指定路由，让内网网段的访问走网线而不是 Wi-Fi\n# 10.240.0.0/16 是内网网段，10.240.251.250 是网关地址\r\n$ sudo route add \"10.240.0.0/16\" \"10.240.251.250\"\r\n\r\n$ route get 10.240.0.0/16\r\n   route to: 10.240.0.0\r\ndestination: 10.240.0.0\r\n       mask: 255.255.0.0\r\n    gateway: 10.240.251.250\r\n  interface: en4\r\n      flags: <UP,GATEWAY,DONE,STATIC,PRCLONING>\n3、使用ssh隧道代理通过跳板机访问内网环境\nssh -qTfnND 12345 root@10.240.234.1\n\n\n\n\nroute命令使用\n\nroute\r\n\r\n  手动操作路由表。\r\n  需要 root 权限。\r\n  更多信息：https://keith.github.io/xcode-man-pages/route.8.html.\r\n\r\n  通过网关向目标添加路由：\r\n\r\n    sudo route add \"路由 ip 地址\" \"网关地址\"\r\n\r\n  通过网关向 子网 / 24 添加路由：\r\n\r\n    sudo route add \"子网 ip/24\" \"网关地址\"\r\n\r\n  在测试模式下运行（不做任何操作，只打印）：\r\n\r\n    sudo route -t add \"路由 ip 地址/24\" \"网关地址\"\r\n\r\n  删除所有路由：\r\n\r\n    sudo route flush\r\n\r\n  删除特定路由：\r\n\r\n    sudo route delete \"路由 ip 地址/24\"\r\n\r\n  查找并显示目标的路由（主机名或 IP 地址）：\r\n\r\n    sudo route get \"目标\"\r\n    \r\n查看路由表：\r\nlinux：route -n\r\nMac：netstat -rn\n\n\n参考：\n\nMac同时使用无线wifi和有线上网，解决内网外网一起访问的问题\n\n\nSSH隧道原理及端口转发使用\n\nmacOS配置永久路由",
+          "link": "https://chegva.com/6238.html",
+          "publishedOn": "2024-12-08T21:54:30.000Z",
+          "wordCount": 8694,
+          "title": "Mac配置有线内网和无线Wi-Fi公网同时使用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chegva.com/?p=6239",
+          "author": "anzhihe",
+          "description": "在宋词史上，柳永是一个不得不说的人物。\n\n\n他是第一个职业词人，也是第一个大量创制慢词的词人，据统计，在宋词880多个词调中 ，柳永首次使用的就有一百多个。\n\n\n柳永从根本上改变了唐五代以来词坛上小令一统天下的格局，使慢词与小令两种体式平分秋色，齐头并进。\n\n\n在内容上，柳永的词既有爱情的婉约，又有怀才不遇，天涯沦落的伤怀。他擅雅致之语，也擅俚俗之语，丰富了词的内容与表现形式，对宋词的发展产生了深远影响。\n\n\n\n\n\n作为第一位对宋词进行全面革新的大词人，柳永对后来词人影响甚大。南北宋之交的王灼即说“今少年妄谓东坡移诗律作长短句，十有八九不学柳耆卿，则学曹元宠”；即使是苏轼、黄庭坚、秦观、周邦彦等著名词人，也无不受惠于柳永。\n\n\n\n\n\n\n01\n\n\n\n\n\n《蝶恋花·伫倚危楼风细细》\n\n\n伫倚危楼风细细，\n望极春愁，黯黯生天际。\n草色烟光残照里，无言谁会凭阑意。\n\n\n拟把疏狂图一醉，\n对酒当歌，强乐还无味。\n衣带渐宽终不悔，为伊消得人憔悴。\n\n\n\n这是一首怀人之作，全词巧妙地把飘泊异乡的落魄感受，同怀念意中人的缠绵情思融为一体，表现了主人公坚毅的性格与执着的态度，成功地刻画了一个志诚男子的形象。\n\n\n\n\n\n\n02\n\n\n\n\n\n《雨霖铃·寒蝉凄切》\n\n\n寒蝉凄切，\n对长亭晚，骤雨初歇。\n都门帐饮无绪，留恋处，兰舟催发。\n执手相看泪眼，竟无语凝噎。\n念去去，千里烟波，暮霭沉沉楚天阔。\n\n\n多情自古伤离别，\n更那堪，冷落清秋节！\n今宵酒醒何处？杨柳岸，晓风残月。\n此去经年，应是良辰好景虚设。\n便纵有千种风情，更与何人说？\n\n\n\n柳永与心上人虫娘分别，写下这首依依惜别之作，此作遣词造句不着痕迹，绘景直白自然，场面栩栩如生，将情人惜别时的真情实感表达得缠绵悱恻，凄婉动人，堪称抒写别情的千古名篇，也是柳词和婉约词的代表作。\n\n\n\n\n\n\n03\n\n\n\n\n\n《望海潮·东南形胜》\n\n\n东南形胜，\n三吴…",
+          "link": "https://chegva.com/6239.html",
+          "publishedOn": "2024-12-06T16:51:09.000Z",
+          "wordCount": 36134,
+          "title": "柳永二十首经典诗词",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chegva.com/?p=6236",
+          "author": "anzhihe",
+          "description": "SSH 隧道介绍:\nSSH 隧道，也称为 SSH 端口转发，是一种利用 SSH 连接在两台机器之间创建安全加密通道的技术。可以通过一个安全的 SSH 连接来转发网络流量，从而绕过防火墙、访问受限网络资源或增强网络安全性。\nSSH 隧道的工作原理:\nSSH 隧道利用 SSH 连接的加密特性，将所有通过隧道的网络流量进行加密。 这使得即使在不安全的网络环境中，数据传输也保持安全。 SSH 客户端充当转发器，将本地流量转发到远程服务器，然后远程服务器再将流量转发到最终目的地。理解其工作原理和各种使用场景，可以更好地利用 SSH 隧道来提高网络安全性并访问受限资源。\nSSH 隧道的类型:\nSSH 隧道主要有三种类型：\n\n本地端口转发 (Local Port Forwarding): 将本地机器上的一个端口转发到远程机器上的另一个端口。 这通常用于访问远程机器上运行的服务，而这些服务可能无法直接从本地机器访问（例如，由于防火墙限制）。\n\n\nssh -L <local_port>:<remote_host>:<remote_port> <user>@<ssh_server> ：将本地 <local_port> 转发到远程主机 <remote_host> 的 <remote_port>。\n\n\n远程端口转发 (Remote Port Forwarding): 将远程机器上的一个端口转发到本地机器上的另一个端口。 这通常用于让远程机器上的用户访问本地机器上的服务。\n\n\nssh -R <remote_port>:<local_host>:<local_port> <user>@<ssh_server> ：将远程主机 <ssh_server> 的 <remote_port> 转发到本地主机 <local_host> 的 <local_port>\n\n\n动态端口转发 (Dynamic Port Fo…",
+          "link": "https://chegva.com/6236.html",
+          "publishedOn": "2024-12-01T21:18:24.000Z",
+          "wordCount": 22607,
+          "title": "SSH隧道原理及端口转发使用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chegva.com/?p=6232",
+          "author": "anzhihe",
+          "description": "Kubernetes 的污点 (Taint) 和容忍度 (Toleration) 是强大的机制，用于控制 Pod 在节点上的调度。它们允许对节点进行标记，并指定哪些 Pod 可以忽略这些标记并仍然被调度到这些节点上。 这对于实现节点隔离、资源专用以及处理节点维护非常有用，Kubernetes 污点和容忍度还可以与其他调度功能（如节点亲和性）结合使用。\n污点 (Taint):\n污点应用于节点，表示节点的一些特性或限制。 它本质上是一个标记，告诉 Kubernetes 调度程序避免将某些 Pod 调度到该节点。 一个污点包含三个部分：\n\nkey: 污点的键，一个字符串，用于标识污点的类型。\n\nvalue: 污点的值，一个字符串，提供关于污点类型的更多信息。可以为空字符串。\n\neffect: 污点的效果，决定污点如何影响 Pod 的调度。 有三种效果：\n\n\nNoSchedule：阻止 Pod 调度到该节点，除非 Pod 有匹配的容忍度。\n\nPreferNoSchedule：调度程序会尽量避免将 Pod 调度到该节点，但如果必要，仍然可以调度。\n\nNoExecute：驱逐节点上已经存在的、没有匹配容忍度的 Pod。 这通常用于维护。\n\n\n容忍度 (Toleration):\n容忍度应用于 Pod，表示 Pod 可以容忍某些节点上的污点。 它允许 Pod 被调度到具有匹配污点的节点上。 一个容忍度包含四个部分：\n\nkey: 容忍度的键，必须与节点污点的键匹配。\n\noperator: 运算符，指定如何匹配污点的值。 可以是：\n\n\nEqual：污点的值必须与容忍度的值完全匹配。\n\nExists：只要污点的键存在即可，忽略污点的值。\n\n\nvalue: 容忍度的值，如果 operator 为 Equal，则必须与污点的值匹配。\n\neffect: 容忍度的效果，必须与节点污点的效果匹配。\n\n使用…",
+          "link": "https://chegva.com/6232.html",
+          "publishedOn": "2024-11-27T14:55:08.000Z",
+          "wordCount": 23973,
+          "title": "k8s 污点(Taint) 和容忍度(Toleration)使用",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "朱磊的博客",
+      "feedUrl": "https://zhuleichina.github.io/feed.xml",
+      "siteUrl": "https://zhuleichina.github.io/",
+      "articles": []
+    },
+    {
+      "title": "Chris Chan's BLOG",
+      "feedUrl": "https://rorschachchan.github.io/atom.xml",
+      "siteUrl": "/atom.xml",
+      "articles": []
+    },
+    {
+      "title": "杰哥的{运维，编程，调板子}小笔记",
+      "feedUrl": "https://jia.je/feed.xml",
+      "siteUrl": "https://jia.je/",
+      "articles": [
+        {
+          "id": "https://jia.je/hardware/2024/12/27/cpu_uarch_reverse_engineering_methodology/",
+          "author": null,
+          "description": "CPU 微架构逆向方法学¶\n背景¶\n最近做了不少微架构的评测，其中涉及到了很多的 CPU 微架构的逆向：\n\nApple M1 微架构评测\nQualcomm Oryon 微架构评测\nAMD Zen 5 微架构评测\nARM Neoverse V2 微架构评测\n\n因此总结一下 CPU 微架构逆向方法学。\n\n定义¶\n首先定义一下：什么是 CPU 微架构逆向，我认为 CPU 微架构逆向包括两部分含义：\n\n在已经知道某 CPU 微架构采用某种设计，只是不知道其设计参数时，通过逆向，得到它的设计参数\n在不确定某 CPU 微架构采用的是什么设计，给出一些可能的设计，通过逆向，排除或确认其设计，再进一步找到它的设计参数\n\n举一个例子，已经知道某 CPU 微架构有一个组相连的 L1 DCache，但不知道它的容量，几路组相连，此时通过微架构逆向的方法，可以得到它的容量，具体是几路组相连，进一步可能把它的 Index 函数也逆向出来。这是第一部分含义。\n再举一个例子，已经知道某 CPU 微架构有一个分支预测器，但不知道它使用了什么信息来做预测，可能用了分支的地址，可能用了分支要跳转的目的地址，可能用了分支的方向，这时候通过微架构逆向的方法，对不同的可能性做排除，找到真正的那一个。如果不能排除到只剩一个可能，或者全部可能都被排除掉，说明实际的微架构设计和预期不相符。\n第一部分含义，目前已经有大量的成熟的 Microbenchmark（针对微架构 Microarchitecture 设计的 Benchmark，叫做 Microbenchmark）来解决，它们针对常见的微架构设计，实现了对相应设计参数的逆向的 Microbenchmark，可以在很多平台上直接使用。第二部分含义，目前还只能逐个分析，去猜测背后的设计，再根据设计去构造对应该设计的 Microbenchmark。\n下面主要来介绍，设计和实…",
+          "link": "https://jia.je/hardware/2024/12/27/cpu_uarch_reverse_engineering_methodology/",
+          "publishedOn": "2024-12-27T00:00:00.000Z",
+          "wordCount": 440,
+          "title": "CPU 微架构逆向方法学",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jia.je/hardware/2024/12/26/apple_m1/",
+          "author": null,
+          "description": "Apple M1 微架构评测¶\n背景¶\n虽然 Apple M1 已经是 2020 年的处理器，但它对苹果自研芯片来说是一个里程碑，考虑到 X Elite 处理器的 Oryon 微架构和 Apple M1 性能核 Firestorm 微架构的相似性，还是测试一下这个 Firestorm + Icestorm 微架构在各个方面的表现。\n\n官方信息¶\nApple M1 的官方信息乏善可陈，关于微架构的信息几乎为零，但能从操作系统汇报的硬件信息中找到一些内容。\n现有评测¶\n网上已经有较多针对 Apple M1 微架构的评测和分析，建议阅读：\n\nApple Microarchitecture Research by Dougall Johnson\nApple Announces The Apple Silicon M1: Ditching x86 - What to Expect, Based on A14 - Anandtech\nExploration of Apple CPUs\nApple M1 Icestorm 微架构评测（上）:重铸小核荣光\nApple M1 Icestorm 微架构（下）:重铸小核荣光\n苹果的黑魔法？Apple M1 的栈操作消除（上）\n苹果的黑魔法？（下）Apple M1 的栈操作消除\nApple Firestorm/Icestorm CPU microarchitecture docs\nThe 2020 Mac Mini Unleashed: Putting Apple Silicon M1 To The Test\nExploration of Apple CPUs\n\n下面分各个模块分别记录官方提供的信息，以及实测的结果。读者可以对照已有的第三方评测理解。官方信息与实测结果一致的数据会加粗。\nBenchmark¶\nApple Firestorm 的性能测…",
+          "link": "https://jia.je/hardware/2024/12/26/apple_m1/",
+          "publishedOn": "2024-12-26T00:00:00.000Z",
+          "wordCount": 3195,
+          "title": "Apple M1 微架构评测",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jia.je/software/2024/12/10/linux-perf-pmu/",
+          "author": null,
+          "description": "Linux 的性能分析（Perf）实现探究¶\n背景¶\n最近使用 Linux 的性能分析功能比较多，但是很少去探究背后的原理，例如硬件的 PMU 是怎么配置的，每个进程乃至每个线程级别的 PMU 是怎么采样的。这篇博客尝试探究这背后的原理。\n\nPMU¶\n硬件¶\n支撑性能分析的背后是硬件提供的机制，最常用的就是性能计数器：硬件会提供一些可以配置的性能计数器，在对应的硬件事件触发是，更新这些计数器，然后再由程序读取计数器的值并统计。下面以 ARM 为例，分析一下硬件提供的性能计数的接口：\n\nCycle 计数器：Cycle Counter Register(PMCCNTR_EL0) 和 Cycle Count Filter Register(PMCCFILTR_EL0)，其中后者控制前者在什么特权态下会进行计数\n最多 31 个通用性能计数器：\n该性能计数器记录的硬件事件以及计数的条件：PMEVTYPER_EL0，n 取 0 到 31\n该性能计数器当前的值：PMEVCNTR_EL0，n 取 0 到 31\n\n控制 Cycle 计数器和通用性能计数器的状态：PMCNTENCLR_EL0/PMCNTENSET_EL0/PMCR_EL0\n各计数器是否溢出：PMOVSCLR_EL0/PMOVSSET_EL0\n当计数器溢出时，PMU 会拉起中断，针对这些中断的配置：PMINTENCLR_EL1/PMINTENSET_EL1\n\n注：实际上，由于经常会对指令数进行采样，ARM v9.4/8.9 允许硬件实现一个额外的指令计数器，和 Cycle 计数器类似。\n如果想要在用户态频繁地读取性能计数器（cap_user_rdpmc），避免频繁进入内核的开销，也可以在用户态中直接读取性能计数器 PMCCNTR_EL0/PMEVCNTR_EL0：内核在 PMUSERENR_EL0 中进行相应的权限配置即可。v3…",
+          "link": "https://jia.je/software/2024/12/10/linux-perf-pmu/",
+          "publishedOn": "2024-12-10T00:00:00.000Z",
+          "wordCount": 1309,
+          "title": "Linux 的性能分析（Perf）实现探究",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jia.je/hardware/2024/11/11/amd_zen5/",
+          "author": null,
+          "description": "AMD Zen 5 微架构评测¶\n背景¶\nZen 5 是 AMD 最新的一代微架构，在很多地方和之前不同，因此测试一下这个微架构在各个方面的表现。\n\n官方信息¶\nAMD 一向公开得比较大方，关于 Zen 5 的信息有：\n\nSoftware Optimization Guide for the AMD Zen5 Microarchitecture\n5TH GEN AMD EPYC™ PROCESSOR ARCHITECTURE\n\n现有评测¶\n网上已经有较多针对 Zen 5 微架构的评测和分析，建议阅读：\n\nAMD Reveals More Zen 5 CPU Core Details\nZen 5’s 2-Ahead Branch Predictor Unit: How a 30 Year Old Idea Allows for New Tricks\nZen 5’s Leaked Slides\nAMD’s Strix Point: Zen 5 Hits Mobile\nAMD’s Ryzen 9950X: Zen 5 on Desktop\nDiscussing AMD’s Zen 5 at Hot Chips 2024\nZen 5 补充测试 (1/2): 更多微架构细节\nZen5's AVX512 Teardown + More...\n\n下面分各个模块分别记录官方提供的信息，以及实测的结果。读者可以对照已有的第三方评测理解。官方信息与实测结果一致的数据会加粗。\nBenchmark¶\nAMD Zen 5 的性能测试结果见 SPEC。\nMOP vs uOP¶\nMOP = Macro operation, uOP = Micro operation\nAMD 的文档里是这么说的：\n\nThe processor implements AMD64 instruction set by mea…",
+          "link": "https://jia.je/hardware/2024/11/11/amd_zen5/",
+          "publishedOn": "2024-11-11T00:00:00.000Z",
+          "wordCount": 1838,
+          "title": "AMD Zen 5 微架构评测",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jia.je/meta/2024/11/10/migrate-from-disqus-to-giscus/",
+          "author": null,
+          "description": "把评论系统从 Disqus 迁移到 Giscus¶\nDisqus 要加广告了，于是本博客的评论系统迁移到了 Giscus。",
+          "link": "https://jia.je/meta/2024/11/10/migrate-from-disqus-to-giscus/",
+          "publishedOn": "2024-11-10T00:00:00.000Z",
+          "wordCount": 177,
+          "title": "把评论系统从 Disqus 迁移到 Giscus",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jia.je/hardware/2024/11/07/arm_neoverse_v2/",
+          "author": null,
+          "description": "ARM Neoverse V2 微架构评测¶\n背景¶\nARM Neoverse V2 是目前（2024 年）在服务器上能用到的最新的 ARM 公版核平台（AWS Graviton 4），测试一下这个微架构在各个方面的表现。\n\n官方信息¶\nARM 关于 Neoverse V2 微架构有如下公开信息：\n\nArm Neoverse V2 platform: Leadership Performance and Power Efficiency for Next-Generation Cloud Computing, ML and HPC Workloads\nArm® Neoverse™ V2 Core Technical Reference Manual\nArm Neoverse V2 Software Optimization Guide\n\n考虑到 Neoverse V2 与 Cortex X3 的高度相似性，这里也列出 Cortex X3 的相关信息：\n\nArm Unveils Next-Gen Flagship Core: Cortex-X3\nArm® Cortex‑X3 Core Technical Reference Manual\n\n现有评测¶\n网上已经有 Neoverse V2 微架构的评测和分析，建议阅读：\n\nHot Chips 2023: Arm’s Neoverse V2\n\n下面分各个模块分别记录官方提供的信息，以及实测的结果。读者可以对照已有的第三方评测理解。官方信息与实测结果一致的数据会加粗。\nBenchmark¶\nNeoverse V2 (AWS Graviton 4) 的性能测试结果见 SPEC。\nMOP vs uOP¶\nMOP = Macro operation, uOP = Micro operation\nARM 公版核微架构既有 MOP 的概念，又…",
+          "link": "https://jia.je/hardware/2024/11/07/arm_neoverse_v2/",
+          "publishedOn": "2024-11-07T00:00:00.000Z",
+          "wordCount": 1658,
+          "title": "ARM Neoverse V2 微架构评测",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jia.je/software/2024/10/23/linux-core-scheduling/",
+          "author": null,
+          "description": "Linux 大小核的调度算法探究¶\n背景¶\n最近看到一些关于 Linux 大小核调度算法的一些博客，考虑到大小核目前已经比较常见了，因此做一些现状的探究。\n\n现象¶\nIntel¶\n首先可以做一下实验，用 stress --cpu N 启动 N 个计算负载，看看这些线程都会被分配到哪些核上。在 Intel Core i9-14900K 上实验，这个 CPU 是 8P+16E，8P 对应 0-15 核，超线程的核的 ID 是连号的，16E 对应 16-31 核，观察到下面的结果：\n\nN=1 时，主要调度到 12-15 核里其中一个，这对应的是 8P 中的最后 2P\nN=2 时，主要调度到 12-13 核里其中一个，以及 14-15 核里其中一个，同样也是 8P 中的最后 2P，每个 P 上分配一个任务\nN=3 时，在 N=2 的基础上，在 0-11 核里再调度一个\nN=4..=8 时，在 N=2 的基础上，在 0-11 核里调度剩下的任务，但不会分配到一个 P 核的两个逻辑核上\nN=9..=24 时，在 N=8 的基础上，在 16-31 核里调度剩下的任务\nN=25..=32 时，在 N=24 的基础上，把任务分配到 P 核的第二个逻辑核上\n\n可见在调度时，按照如下的优先级：\n\n最后 2 个 P 核\n其余 6 个 P 核\nE 核\nP 核的超线程\n\n可见 P 核内部也有优先级不同，最后 2 个 P 核具有更高的优先级，而它们的 Boost 频率确实也更高：\n\n$ cat /sys/devices/system/cpu/cpufreq/policy0/scaling_max_freq5700000$ cat /sys/devices/system/cpu/cpufreq/policy12/scaling_max_freq6000000\n\n6 个 P 核的最大频率设定为 5.7 GH…",
+          "link": "https://jia.je/software/2024/10/23/linux-core-scheduling/",
+          "publishedOn": "2024-10-23T00:00:00.000Z",
+          "wordCount": 1324,
+          "title": "Linux 大小核的调度算法探究",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
