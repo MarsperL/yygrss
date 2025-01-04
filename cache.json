@@ -640,6 +640,26 @@
       "siteUrl": "https://srebro.cn/",
       "articles": [
         {
+          "id": "/archives/1735894737958",
+          "author": "运维小弟",
+          "description": "Rsyslog 服务端与客户端部署与配置指南 本文档将详细介绍如何在服务端和客户端部署并配置 rsyslog，以便实现日志集中收集和管理。并包括日志文件轮转的配置。 1. 服务端部署与配置 1.1 安装 rsyslog 在服务端，首先需要安装 rsyslog 服务： yum install -y r",
+          "link": "https://srebro.cn/archives/1735894737958",
+          "publishedOn": "2025-01-03T08:59:10.000Z",
+          "wordCount": 2393,
+          "title": "Rsyslog 服务端与客户端部署与配置指南",
+          "imageUrl": "null"
+        },
+        {
+          "id": "/archives/1735874878415",
+          "author": "运维小弟",
+          "description": "二进制安装docker 2.1 二进制包下载 wget https://mirrors.nju.edu.cn/docker-ce/linux/static/stable/x86_64/docker-27.1.1.tgz 2.2 解压，拷贝至/usr/bin 下 tar -xf docker-27.",
+          "link": "https://srebro.cn/archives/1735874878415",
+          "publishedOn": "2025-01-03T03:29:07.000Z",
+          "wordCount": 2188,
+          "title": "OpenEuler 22.03 LTS-SP4 二进制部署docker容器",
+          "imageUrl": "null"
+        },
+        {
           "id": "/archives/1735643680271",
           "author": "运维小弟",
           "description": "一、NanoPi K2 介绍 NanoPi K2采用了Amlogic公司64位四核A53主控S905, 内置五核Mali450 GPU, 最高运行主频可达2GHz，支持众多视频格式，具备超强的视频解码能力。 NanoPi K2配备2GB DDR3内存，集成WiFi蓝牙，带有千兆以太网，4个USB，H",
@@ -1328,6 +1348,16 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://nops.icu/archives/184/",
+          "author": "季兴",
+          "description": "由多个agent组成的SRE专家组，代替人工进行准确的故障分析！👽流程：从用户输入取时间范围（支持上传图片）、路由--》查询日志中心--》获取网关中cmdb信息--》查询CMDB获取更多细节（o...",
+          "link": "https://nops.icu/archives/184/",
+          "publishedOn": "2025-01-03T07:57:00.000Z",
+          "wordCount": 1646,
+          "title": "SRE-copilot构建全过程",
+          "imageUrl": null
+        },
+        {
           "id": "https://nops.icu/archives/182/",
           "author": "季兴",
           "description": "近期借一位业内朋友推荐，面试了一家位于新加坡的互联网企业，同样记录面试过程一面（远程）：业务线运维负责人，是一位年轻女士，在问明不需要露脸后开始。从自我介绍到了解的技术栈，擅长的方向，排错问题等...",
@@ -1544,6 +1574,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=298653",
+          "author": "Brandon Lee",
+          "description": "I am a huge fan of projects to get started with using and becoming familiar with Docker. I think we will continue to see a shift to containerization from VMs due to the massive cost hikes from Broadcom. Most organizations will look to see how they can refactor their apps, minimize their VM estate and …\nThe post Best 5 Home Server Projects to start learning Docker in 2025 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/01/best-5-home-server-projects-to-start-learning-docker-in-2025/",
+          "publishedOn": "2025-01-03T14:36:48.000Z",
+          "wordCount": 10562,
+          "title": "Best 5 Home Server Projects to start learning Docker in 2025",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/5-docker-home-lab-projects.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=298637",
           "author": "Brandon Lee",
@@ -3734,6 +3774,16 @@
       "siteUrl": "https://4311346.com/",
       "articles": [
         {
+          "id": "https://4311346.com/post/2025/0103-time-flies.html",
+          "author": null,
+          "description": "一年一般有52周，而这个2024年Andy烧麦的博客更新了52篇文章。对于一个40岁的人来说，一年的时间过得特别的快，而回看这52篇文章，却又发现这一年又那么的值得怀念。 Macin’s Blog 中写道：“展望2025，一是继续坚持写作。一年的悲喜记录就是一年的成长轨迹，希望读者朋友们可以继续点赞、收藏、转发、评论”  何尝又不是呢？同样在 Charles 的文章《2024 年，四十不惑，志在千里》，一样有着不惑之年的各种无奈，永远不变的就是变化，大家都是普通人，都很平庸，不可能有什么特殊和例外的，只不过大家在这些普通和平庸中，希望做得更好一点罢了。\n年龄越大时间过得越快 - 时间速率理论\n对于一个孩子来说，一年可能感觉是很长的时间；而对于成年人来说，随着年龄的增加，一年在整个人生中所占的比例相对减小，会感觉时间过得越来越快。例如，一个40岁的人会觉得1 年只是人生的 1/40，而对于一个10岁的孩子，1年则是他们人生的 1/10。这就是在19世纪末哲学家保罗.珍尼特（Paul Janet）的就提出的时间速率理论。\n时间不光过得快还越来越忙\n2024年04月入职的新工作以来，每个月相比上一个月都会更加的忙，部门内的团队人数也达到了17人，而这大约一年的时间里，各种坑基本都淌了一次。\n回顾2024年年初分享人民日报上 杨绛 的金句“上班很累，总不能不上吧，挣钱很苦，总不能不赚吧。年记大了，就不要任性，你可以不做你不喜欢的事，但你要做你应该做的事…”\n有时候也真的是服气，回看2024年12月…居然只更新了两篇日志，真的是有点对不住博友们。\n2024年回忆录\n元旦这天在羊村小馆吃了个便饭，回忆了下2024年的这一年的一些事，基本也都记录在Andy烧麦博客。\n2024年01月\n365天前的这一天，知道今年要满40岁了，2024这一年也将是自己主动求变的一年， 不喜欢那时候的温水煮青蛙，所以决定离开这个干了5年的HRD岗位，也包括这个干了10年的行业，所以自己也就开始拒绝了公司各种出差的安排，为离职做最后的准备。\n2024年02月\n这一年的02月初武汉下起了冻雨，户外的大雪里各种灾难和狼藉，而在春节之后的02月末时，武汉又迎来了霰和冰粒。\n2024年03月\n将闲置了8年的GIANT2016款XTC820卖掉了，却发现如此的保值…费用补贴到 武汉-敦煌，自驾青甘大环线之旅 之中\n2024年04月\n旅行回来给自己15天求职，四选一入职新公司工作至今，写下《40岁武汉求职找工作面试总结》\n2024年05月\n正式进入不惑之年，不出意外的话，还能吃三十多次年夜饭，过一千五百多个周末，还能再看一万多次日出，就可以走了。所以说，即便现在生活有再多的磨难，是快乐还是痛苦，都应该好好珍惜剩下的风景和身边的一切。虽然10000号投诉武汉电信营业厅，但到年底发现还是被营业厅的小妹骗得团团转…等有空2025年我还得继续投诉一次…\n2024年06月\n入职新公司两个月，第一次天亮下班…ε=(´ο｀*)))唉，也开始慢慢接受和理解一些事情，也在这个月熬过了试用期中最难熬的阶段。\n2024年07月\n图简单，图方便… 在闲鱼上将续航不给力的iPhone13卖了，换了台新手机 VivoX100Ultra …有了详细的《VivoX100Ultra三个月使用体验》\n2024年08月\n第一次尝试防嗮服，迪卡侬HELIUM900专业防晒服，实际效果确实很赞，唯独就是价格略贵，算得上是迪卡侬QUECHUA系列内的顶配了，新品还没折扣…想想每月除了吃饭也没什么开销，就买了，随后在黄冈英山桃花冲漂流的过程中体验不错。\n2024年09月\n最终2900元的价格卖掉了MacBookPro，2020款16G+512G，用不上… 想要 MacMini m4 ，居然还没入手。但入手了小小牛NXT玩家版电动自行车，在武汉提车上牌，成为了曾经在开车过程中自己最痛恨的那种人。\n2024年10月\n又特地去了一趟福州-中国船政文化博物馆，又一次西安之旅华山。\n2024年11月\n发现人与人之间最好的解决办法就是请人吃饭，并再再一次入手VIVO炫光门下的旗舰手机X200PRO。\n2024年12月\n买了双黑武士风的阿迪达斯UltraBOOST leather，但至今还没穿…\n2024年就此结束\n以上就是自己的2024年，也不知道自己的2025年会是如何，不惑之年还这么的彷徨么？\n但人生这道选择题怎么选都会有遗憾。世界上没有一份工作不辛苦，也没有一处人事不复杂，无论你当下正在经历什么，都要调整心态继续前行，心态是自己最好的风水。\n相约羊村小馆-好酒好肉好朋友",
+          "link": "https://4311346.com/post/2025/0103-time-flies.html",
+          "publishedOn": "2025-01-03T15:41:29.000Z",
+          "wordCount": 271,
+          "title": "年龄越大时间过得越快 - 时间速率理论",
+          "imageUrl": null
+        },
+        {
           "id": "https://4311346.com/post/2024/1214-ultraboost-leather.html",
           "author": null,
           "description": "又是一双黑武士般的存在，4.5折的价格入手略贵，谁要自己喜欢呢。\n一直认为自己是New Balance和Nike的忠实粉丝，但最终发现鞋柜里还躺着几双阿迪达斯。一个周末的闲逛中，又入手了这双阿迪达斯UltraBOOST leather。年近40岁后，发现除了皮鞋外的黑鞋越来越多，比如2022年入手的 Adidas alphabounce instinct 和 Nike React Miler 2 Shield，2023年入手的 Nike PEGASUS 37，ASICS亚瑟士GT2000-10 LITE-SHOW  还有 今年入手的 SKECHERS 斯凯奇 54600/BBK 基本都是黑武士风格，如今这双 UltraBOOST leather 更是标准的黑武士风格。\n\n\n与2019年入手的 PureBOOST 不同的是 UltraBOOST leather 是一双全皮质包裹的跑鞋… 也就意味着这双鞋的出现场景大多只能在冬季。\n\n\n融入运动式Boost技术的皮革跑步鞋\n这款跑步鞋,兼具Ultraboost的舒适与运动表现,采用皮革鞋面,外底与Boost技术相得益彰,力求为步伐增添活力。\n常规型剪裁 \\ 系带设计 \\ 皮革鞋面 \\ Continental™马牌橡胶打造的Stretchweb网格外底,伴你舒适迈步 \\ Boost中底 \\ 中底差：10毫米（鞋跟：29毫米 / 前掌：19毫米） \\  足弓类型：正常；3D模制环绕式后跟,舒适贴合 \\ Torsion Spring扭力条\n\nAdidas Boost 系列很出名，但穿得不多，仅有一双六年前的 PureBoost ，虽然 Ultra 相比 Pure 级别更高，但实际感受不出来啥区别。\n\n六年前的 PureBoost 质量还挺好，但Boost在那个年代基本都是白色的，也是最容易氧化变黄的…自然而然越穿越少。\n\nBB6293，六年前的产品货号，还挺耐穿，但当时并不是马牌大底。反之，2022年入手的 Adidas alphabounce instinct 只花费了不到400元入手，确是马牌大底。\n![Adidas alphabounce](https://pic.4311346.com/master/2024/Adidas alphabounce.jpg)\n也是从2022年adidas alphabounce instinct 之后，再也入过adidas的鞋… 这些年每一次去到 adidas 门店，都是很失望的出来… 相比近几年 Nike 还是有不少心动的产品，只是鞋太多了，有时候太花哨也不适合公司里穿。\n比如…Nike Air Max 97 Air Sprung Iron Grey\n\n唉~ 人生没有后悔药…\n官网：ULTRABOOST LEATHER 运动休闲实用跑步鞋\nhttps://www.adidas.com.cn/pdp?articleId=EF0901",
@@ -3877,6 +3927,16 @@
       "feedUrl": "https://dusays.com/atom.xml",
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
+        {
+          "id": "https://dusays.com/785/",
+          "author": null,
+          "description": "<blockquote>\n<p>之前有小伙伴问到是否有 Office 产品的激活密钥，杜老师在微软的官网上好顿搜索，终于是找到了！目前 Office 有两大版本，一个是年度版「如 2024」一个是订阅版「即 365」订阅版不可以破解使用，文中均为年度版的激活密钥。</p>\n</blockquote>",
+          "link": "https://dusays.com/785/",
+          "publishedOn": "2025-01-03T16:00:00.000Z",
+          "wordCount": 1415,
+          "title": "Office 多版本产品激活密钥分享",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
         {
           "id": "https://dusays.com/784/",
           "author": null,
@@ -4209,6 +4269,26 @@
       "feedUrl": "https://zahui.fan/atom.xml",
       "siteUrl": "https://zahui.fan/atom.xml",
       "articles": [
+        {
+          "id": "https://zahui.fan/posts/spi6z2/",
+          "author": null,
+          "description": "<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br><span class=\"line\">4</span><br><span",
+          "link": "https://zahui.fan/posts/spi6z2/",
+          "publishedOn": "2025-01-03T08:16:13.000Z",
+          "wordCount": 380,
+          "title": "最小化安装的Linux安装图形界面",
+          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
+        },
+        {
+          "id": "https://zahui.fan/posts/spi492/",
+          "author": null,
+          "description": "<h2 id=\"前言\"><a href=\"#前言\" class=\"headerlink\" title=\"前言\"></a>前言</h2><p>完成这个教程，你主要需要完成以下流程：</p>\n<ul>\n<li>在 NAS 上启用 SSH</li>\n<li>创建一个持久的 TUN</li>\n<li>安装 Docker</li>\n<li>设置 Docker</li>\n</ul>\n<h2",
+          "link": "https://zahui.fan/posts/spi492/",
+          "publishedOn": "2025-01-03T07:17:25.000Z",
+          "wordCount": 963,
+          "title": "群晖NAS部署zerotier内网穿透访问",
+          "imageUrl": "https://static.zahui.fan/images/20250103233736228.png"
+        },
         {
           "id": "https://zahui.fan/posts/spcjoj/",
           "author": null,
@@ -4837,6 +4917,16 @@
       "siteUrl": "https://panzhixiang.cn/atom.xml",
       "articles": [
         {
+          "id": "https://panzhixiang.cn/2025/autogen-sre-multi-agent/",
+          "author": null,
+          "description": "本文介绍了基于微软AutoGen框架的多智能体（Multi Agent）应用场景，特别适用于SRE（站点可靠性工程）领域。通过四个不同角色的智能体（资深SRE工程师、Python开发专家、反思优化专家和总结专家），用户可以高效解决复杂的技术问题，如Kubernetes部署。文章还探讨了大模型的选择，推荐使用DeepSeek、通义和豆包等国内模型，并提供了完整的Python代码示例。",
+          "link": "https://panzhixiang.cn/2025/autogen-sre-multi-agent/",
+          "publishedOn": "2025-01-02T16:00:00.000Z",
+          "wordCount": 615,
+          "title": "大模型多智能体简单应用案例介绍",
+          "imageUrl": null
+        },
+        {
           "id": "https://panzhixiang.cn/2025/my-2024/",
           "author": null,
           "description": "2024年，读了几本书，换了一份工作，开发了几个小产品，连续亏损两年的基金也赚钱了",
@@ -4864,16 +4954,6 @@
           "publishedOn": "2024-10-11T16:00:00.000Z",
           "wordCount": 185,
           "title": "固执的乔布斯是一个天才",
-          "imageUrl": null
-        },
-        {
-          "id": "https://panzhixiang.cn/2024/first-miniprogram/",
-          "author": null,
-          "description": "<p>中秋节前两天突然有一个想法：做一个应用识别食物的配料表信息，然后分析这个食物是不是健康。因为最近经常看到各种新闻说那个食物里面有哪些添加剂，不健康，或者某些成分对人体不好之类的，那天晚上睡不着，突然脑子里就有这个想法了。</p>\n<p>这是小程序码，感兴趣的小伙伴可以试一下<br><img src=\"/../images/%E9%85%8D%E6%96%99%E6%94%BE%E5%A4%A7%E9%95%9C.png\" alt=\"配料放大镜\"></p>\n<h2 id=\"开发过程\"><a href=\"#开发过程\" class=\"headerlink\" title=\"开发过程\"></a>开发过程</h2>",
-          "link": "https://panzhixiang.cn/2024/first-miniprogram/",
-          "publishedOn": "2024-10-05T16:00:00.000Z",
-          "wordCount": 167,
-          "title": "开发了一个小程序辅助分析食品是不是健康",
           "imageUrl": null
         }
       ]
@@ -5090,6 +5170,16 @@
       "feedUrl": "https://chegva.com/feed",
       "siteUrl": "https://chegva.com",
       "articles": [
+        {
+          "id": "https://chegva.com/?p=6247",
+          "author": "anzhihe",
+          "description": "我的大刀早已饥渴难耐！\n\n\n\n\r\n\r\n\r\n\r\n[video dplayer=\"true\" autoplay=\"false\" src=\"https://cdn.chegva.com/ueditor/php/upload/video/20250104/1735928786889849.mp4\" loop=\"false\" preload=\"true\" theme=\"#b7daff\" mutex=\"true\" iconsColor=\"#ffffff\"]",
+          "link": "https://chegva.com/6247.html",
+          "publishedOn": "2025-01-03T18:38:22.000Z",
+          "wordCount": 8507,
+          "title": "蛮子五杀",
+          "imageUrl": null
+        },
         {
           "id": "https://chegva.com/?p=6246",
           "author": "anzhihe",
