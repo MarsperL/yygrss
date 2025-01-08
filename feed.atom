@@ -2,10 +2,288 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-01-07T01:48:56.604Z</updated>
+    <updated>2025-01-08T01:48:40.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[用 LD_PRELOAD 写魔法程序]]></title>
+        <id>https://www.kawabangga.com/?p=6825</id>
+        <link href="https://www.kawabangga.com/posts/6825"/>
+        <updated>2025-01-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我和我的同事们排查网路问题非常喜欢 MTR，它是 traceroute 和 ping 的结合，可以快速告诉我们 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxmox Storage Configuration for Beginners]]></title>
+        <id>https://www.virtualizationhowto.com/?p=298690</id>
+        <link href="https://www.virtualizationhowto.com/2025/01/proxmox-storage-configuration-for-beginners/"/>
+        <updated>2025-01-07T17:03:39.000Z</updated>
+        <summary type="html"><![CDATA[Proxmox is gaining steam as the leading open-source hypervisor. It is already the “home lab darling” among the community and it is gaining traction in the enterprise as well. One of the first things you will want to do with your Proxmox installation is configure your storage for virtual machines and containers. Let’s look at …
+The post Proxmox Storage Configuration for Beginners appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[家用网络升级实践：安静的局部万兆组网（三）]]></title>
+        <id>https://soulteary.com/2025/01/07/homelab-network-upgrade-practice-quiet-local-10g-networking.html</id>
+        <link href="https://soulteary.com/2025/01/07/homelab-network-upgrade-practice-quiet-local-10g-networking.html"/>
+        <updated>2025-01-07T12:21:00.000Z</updated>
+        <summary type="html"><![CDATA[嘿，这篇文章继续分享适用于家里的安静万兆网络使用经验，希望能给有相似需求的朋友一些参考。]]></summary>
+        <author>
+            <name>苏洋(soulteary)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从构建 WASM 后端看新编程语言 MoonBit]]></title>
+        <id>https://cloudnativecn.com/blog/moonbit-on-golem-cloud/</id>
+        <link href="https://cloudnativecn.com/blog/moonbit-on-golem-cloud/"/>
+        <updated>2025-01-07T11:33:16.000Z</updated>
+        <summary type="html"><![CDATA[介绍
+MoonBit 是一门新的编程语言，几周前刚刚开源 —— 请参见这篇博客文章。MoonBit 是一门令人兴奋的现代编程语言，原生支持 WebAssembly，包括组件模型，这使得它非常适合为 Golem Cloud 编写应用程序。
+在这篇文章中，我将探讨 MoonBit 的当前状态，以及它是否已准备好编写 Golem 组件，通过实现一个比简单的 “Hello World” 示例更复杂的应用程序来进行验证。
+要实现的应用程序是一个简单的协作列表编辑器 —— 在 Golem 1.0 发布事件上，我使用三种不同的编程语言（TypeScript、Rust 和 Go）为其实现了三个主要模块。在这篇文章中，我将使用 MoonBit 实现这三个模块，包括由于时间限制而从现场演示中省略的邮件发送功能。
+该应用程序可以处理任意数量的同时打开的列表。每个列表由一组字符串项组成。多个用户可以同时添加、插入和删除这些项；当前的列表状态可以随时查询，以及活跃连接（可以进行编辑操作的用户）。只有已连接的编辑者才能进行修改，并且提供一个轮询功能，返回自上次轮询以来的新更改。列表可以归档，这样它们将不再可编辑，其内容将保存在单独的列表归档中。然后，列表本身可以被删除，其最后的状态会永远保存在归档中。另一个附加功能是，如果列表未归档且在某段时间内没有更改，则所有连接的编辑者将通过发送电子邮件的方式收到通知。
+Golem 架构
+在 Golem 中，运行此应用程序的良好架构是拥有三个不同的 Golem 组件：
+列表
+归档
+邮件通知
+这些都是编译后的 WebAssembly 组件，每个组件导出一组独特的函数。Golem 提供 API 用于从外部世界调用这些函数（例如将它们映射到 HTTP API），并且还允许工作者（这些组件的实例）相互调用。一个组件可以有任意数量的实例，每个工作者通过唯一的名称进行标识。
+…]]></summary>
+        <author>
+            <name>博客 | 云原生社区（中国）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cilium 2024 年度报告解读]]></title>
+        <id>https://jimmysong.io/blog/cilium-annual-report-2024/</id>
+        <link href="https://jimmysong.io/blog/cilium-annual-report-2024/"/>
+        <updated>2025-01-07T10:28:38.000Z</updated>
+        <summary type="html"><![CDATA[近日 Cilium 项目发布了 2024 年度报告，见 Github。这份报告详细回顾了 Cilium 在过去一年中所取得的重大成就，并展望了其在云原生网络和安全领域的未来发展方向。Cilium 项目自首次提交以来，历经近十年发展，其势头持续强劲，正引领云原生网络和安全领域的新变革。
+Cilium 2024 年度报告概述
+  
+
+Cilium 的卓越发展
+2024 年是 Cilium 发展历程中至关重要的一年，它不仅巩固了其作为 Kubernetes 事实标准 CNI 的地位，更发展成为 Kubernetes 环境下的综合网络堆栈。Cilium 的演进展示了其应对现代云原生环境挑战的卓越能力，从最初的 pod 到 pod 连接方案，扩展到一个统一网络、可观察性和安全性的项目，这一切都由 eBPF 技术驱动。
+Cilium 在 2024 年的演变
+  
+
+关键里程碑与重大成就
+关键里程碑与重大成就
+  
+
+
+社区蓬勃发展：Cilium 社区持续壮大，贡献者和贡献公司数量不断增加，用户遍布金融、物流、媒体、电信等众多行业。自加入 CNCF 以来，贡献公司数量增长了 90%，达到 1,011 家，个人贡献者增长了 252%，达到 4,464 人。Cilium 还是 CNCF 生态系统中第三大发展最快的项目。
+技术创新：Cilium 在 2024 年发布了 1.15 和 1.16 两个主要版本，带来了诸多创新功能。
+
+Cilium 1.15: 引入了对 Gateway API 1.0 的全面支持，使 Cluster Mesh 的可扩展性翻倍，增强了可观测性，将流量与网络策略关联，并扩展了 BGP 的功能，以更好地集成外部世界。
+Cilium 1.16: 以“更快、更强、更智能”为主题，通过 netkit 消除了虚拟网络开销，实现了主机和容器之间的性能对等；引入了 BGPv2 API，支持用户定义复杂的网络策略；支持多播数据路径；并显著优化了 CPU 和内存使用，同时将尾部延迟降低了高达 5 倍。
+广泛应用：用户调查显示，Cilium 正在逐步接管 Kubernetes 网络堆栈，Cluster Mesh、BGP 和 Gateway API 等功能已广泛应用于生产环境。95% 的受访者运行多个 Kubernetes 集群，而 Cilium 被 CNCF 技术雷达评为顶级多集群管理工具。
+行业认可：Cilium 荣获 OpenUK 2024 年度开源软件奖。同时，在 CNCF 的多集群管理技术雷达中，Cilium 被评为最值得采用的技术，并在实用性和成熟度方面均获得最高分。
+eBPF 安全：eBPF 基金会发布了两份重要研究报告，提升了基于 eBPF 部署的安全性与操作指导：
+
+eBPF 安全威胁模型：详细阐述了 eBPF 的潜在风险，并提供了相应的缓解策略。
+eBPF 验证器代码审计：强调了验证器在保障 eBPF 部署安全方面的作用，并提出了改进建议。
+用户反馈与应用案例
+来自用户的反馈和案例进一步印证了 Cilium 在性能、成本效益以及功能方面的优势。用户普遍认为，Cilium 有效降低了网络成本和 CPU 消耗，同时提供了卓越的性能和低延迟。此外，Cilium 的可观察性工具（如 Hubble）以及网络策略功能也受到了用户的广泛好评。
+未来展望
+Cilium 2025 年发展展望
+  
+
+展望 2025 年，Cilium 的发展势头将持续增强。平台工程和整合趋势正在重塑组织管理 Kubernetes 网络的方式，而 Cilium 正处于这场变革的核心。我们预计：
+Cilium 堆栈将进一步整合网络功能。
+Tetragon 在高级安全可观察性方面的应用将更加普及。
+Cilium 将更深入地集成外部和传统工作负载至 Kubernetes 环境。
+Cilium 不仅会被广泛用作 CNI，更将作为全面的 Kubernetes 网络解决方案。
+Tetragon 将不断进化，提供更强大的检测能力和更具行动力的威胁响应方案。
+Cilium 的混合云和多云集成将在 2025 年发挥更大的作用。
+Cilium 对外部工作负载、4 层负载均衡以及 BGP 增强功能的支持将弥合 Kubernetes 原生系统与传统系统之间的鸿沟。
+总结
+Cilium 项目在 2024 年取得了巨大成功，确立了其在 Kubernetes 网络领域的领导地位。Cilium 不仅仅是一个 CNI，更是一个涵盖网络、可观察性和安全性的综合 Kubernetes 网络解决方案。随着云原生技术的不断发展，Cilium 将继续引领行业创新，为用户提供更强大、更可靠的云原生网络解决方案。
+注：本文中的图片利用 napkin.ai 制作。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的 2024 - 稳中求进、热爱生活]]></title>
+        <id>https://thiscute.world/posts/2024-summary/?utm_source=atom_feed</id>
+        <link href="https://thiscute.world/posts/2024-summary/?utm_source=atom_feed"/>
+        <updated>2025-01-07T09:43:44.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="前言" class="headerLink">
+<a href="#%e5%89%8d%e8%a8%80" class="header-mark"></a>前言</h2><p>相比跌宕起伏的 2023 年, 2024 年我少了一些焦虑与内耗, 花在技术上的时间也少了不少. 我将大量的精力转移到了徒步旅行上, 享受了诸多旅行的快乐.</p>
+<p>可能因为 23 年写的太多，24 年少了些创作的热情，也因此这份年终一直拖着。本来想效仿去年的风格过一遍一整年中比较有意义的事情，但是不太能下手。</p>]]></summary>
+        <author>
+            <name>This Cute World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cilium 2024 年度报告解读]]></title>
+        <id>https://cloudnativecn.com/blog/cilium-annual-report-2024/</id>
+        <link href="https://cloudnativecn.com/blog/cilium-annual-report-2024/"/>
+        <updated>2025-01-07T09:02:28.000Z</updated>
+        <summary type="html"><![CDATA[近日 Cilium 项目发布了 2024 年度报告，见 Github。这份报告详细回顾了 Cilium 在过去一年中所取得的重大成就，并展望了其在云原生网络和安全领域的未来发展方向。Cilium 项目自首次提交以来，历经近十年发展，其势头持续强劲，正引领云原生网络和安全领域的新变革。
+Cilium 的卓越发展
+2024 年是 Cilium 发展历程中至关重要的一年，它不仅巩固了其作为 Kubernetes 事实标准 CNI 的地位，更发展成为 Kubernetes 环境下的综合网络堆栈。Cilium 的演进展示了其应对现代云原生环境挑战的卓越能力，从最初的 pod 到 pod 连接方案，扩展到一个统一网络、可观察性和安全性的项目，这一切都由 eBPF 技术驱动。
+关键里程碑与重大成就
+社区蓬勃发展：Cilium 社区持续壮大，贡献者和贡献公司数量不断增加，用户遍布金融、物流、媒体、电信等众多行业。自加入 CNCF 以来，贡献公司数量增长了 90%，达到 1,011 家，个人贡献者增长了 252%，达到 4,464 人。Cilium 还是 CNCF 生态系统中第三大发展最快的项目。
+技术创新：Cilium 在 2024 年发布了 1.15 和 1.16 两个主要版本，带来了诸多创新功能。
+
+Cilium 1.15: 引入了对 Gateway API 1.0 的全面支持，使 Cluster Mesh 的可扩展性翻倍，增强了可观测性，将流量与网络策略关联，并扩展了 BGP 的功能，以更好地集成外部世界。
+Cilium 1.16: 以“更快、更强、更智能”为主题，通过 netkit 消除了虚拟网络开销，实现了主机和容器之间的性能对等；引入了 BGPv2 API，支持用户定义复杂的网络策略；支持多播数据路径；并显著优化了 CPU 和内存使用，同时将尾部延迟降低了高达 5 倍。
+广泛应用：用户调查显示，Cilium 正在逐步接管 Kubernetes 网络堆栈，Cluster Mesh、BGP 和 Gateway API 等功能已广泛应用于生产环境。95% 的受访者运行多个 Kubernetes 集群，而 Cilium 被 CNCF 技术雷达评为顶级多集群管理工具。
+行业认可：Cilium 荣获 OpenUK 2024 年度开源软件奖。同时，在 CNCF 的多集群管理技术雷达中，Cilium 被评为最值得采用的技术，并在实用性和成熟度方面均获得最高分。
+eBPF 安全：eBPF 基金会发布了两份重要研究报告，提升了基于 eBPF 部署的安全性与操作指导：
+
+eBPF 安全威胁模型：详细阐述了 eBPF 的潜在风险，并提供了相应的缓解策略。
+eBPF 验证器代码审计：强调了验证器在保障 eBPF 部署安全方面的作用，并提出了改进建议。
+用户反馈与应用案例
+来自用户的反馈和案例进一步印证了 Cilium 在性能、成本效益以及功能方面的优势。用户普遍认为，Cilium 有效降低了网络成本和 CPU 消耗，同时提供了卓越的性能和低延迟。此外，Cilium 的可观察性工具（如 Hubble）以及网络策略功能也受到了用户的广泛好评。
+未来展望
+展望 2025 年，Cilium 的发展势头将持续增强。平台工程和整合趋势正在重塑组织管理 Kubernetes 网络的方式，而 Cilium 正处于这场变革的核心。我们预计：
+Cilium 堆栈将进一步整合网络功能。
+Tetragon 在高级安全可观察性方面的应用将更加普及。
+Cilium 将更深入地集成外部和传统工作负载至 Kubernetes 环境。
+Cilium 不仅会被广泛用作 CNI，更将作为全面的 Kubernetes 网络解决方案。
+Tetragon 将不断进化，提供更强大的检测能力和更具行动力的威胁响应方案。
+Cilium 的混合云和多云集成将在 2025 年发挥更大的作用。
+Cilium 对外部工作负载、4 层负载均衡以及 BGP 增强功能的支持将弥合 Kubernetes 原生系统与传统系统之间的鸿沟。
+总结
+Cilium 项目在 2024 年取得了巨大成功，确立了其在 Kubernetes 网络领域的领导地位。Cilium 不仅仅是一个 CNI，更是一个涵盖网络、可观察性和安全性的综合 Kubernetes 网络解决方案。随着云原生技术的不断发展，Cilium 将继续引领行业创新，为用户提供更强大、更可靠的云原生网络解决方案。]]></summary>
+        <author>
+            <name>博客 | 云原生社区（中国）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Istio Ambient 模式中的数据包生命周期及流量优化]]></title>
+        <id>https://jimmysong.io/blog/istio-ambient-packet-lifecycle-optimization/</id>
+        <link href="https://jimmysong.io/blog/istio-ambient-packet-lifecycle-optimization/"/>
+        <updated>2025-01-07T07:07:30.000Z</updated>
+        <summary type="html"><![CDATA[本文围绕 Istio Ambient 模式下的数据包生命周期进行深入剖析，从初始数据包的流量拦截与目标解析，到后续数据包的快速转发与优化策略，帮助读者理解 Ambient 模式背后的技术逻辑和性能实践。
+数据包生命周期概览：从内核态到用户态
+在 Ambient 模式中，数据包的处理路径从 Pod 内核态网络栈开始，经由 iptables 规则被拦截后进入 ztunnel 的用户态处理逻辑。ztunnel 负责透明代理、策略验证、加密隧道建立等任务，最终将数据包通过内核态网络再次转发给目标服务或下一个 ztunnel。其核心思想是通过首次数据包的详细解析和标记，为后续数据包铺路，从而减少重复开销。
+下图展示了 Istio Ambient 模式中从 Pod 到 ztunnel 的数据包生命周期：
+Istio Ambient 模式中从 Pod 到 ztunnel 的数据包生命周期
+  
+
+接下来，我们将详细介绍首个数据包与后续数据包的处理路径，并分析其中的技术要点与优化手段。
+首个数据包路径：从拦截到目标解析
+当应用程序在 Pod 内发出数据包（如 HTTP 请求），数据包首先经过 Pod 的网络命名空间和内核态网络栈进行处理。
+透明拦截与目标解析
+iptables 规则对出站流量进行筛选，若发现目标地址为非本地资源且数据包未携带特定标记，则将数据包重定向至 ztunnel 的透明代理端口（如 15006 或 15008）。借助 IP_TRANSPARENT 和 SO_ORIGINAL_DST 选项，ztunnel 可提取数据包的原始目标地址，实现无缝透明代理。
+用户态处理：策略验证与加密隧道
+数据包进入 ztunnel 用户态后，将经历以下处理流程：
+策略验证：RBAC 验证、mTLS 加密判定。
+目标流量处理：对网格内部流量，通过 HTTP/2 CONNECT 隧道（HBONE）加密与跨节点传输；对网格外流量，直接通过本地 TCP 连接透传。
+完成处理后，ztunnel 基于数据包解析结果建立出站连接（如 HTTP/2 隧道或明文 TCP），并将数据包送回内核态，最终转发至目标服务或下一个 ztunnel。
+后续数据包路径：利用 Conntrack 与隧道复用
+首个数据包完成解析与策略验证后，Linux 内核的连接跟踪（conntrack）记录连接状态与标记。后续数据包无需再次经历复杂的拦截与解析，直接进入 ztunnel 的 inbound socket。
+连接跟踪与快速转发
+后续数据包基于 conntrack 跟踪机制，快速到达 ztunnel 的 inbound socket。ztunnel 可直接识别目标地址与安全策略，避免重复的解析与验证。
+隧道与明文连接优化
+HBONE 隧道：支持多路复用，提高加密流量处理效率。
+明文连接：对无需加密的流量，直接复用现有 TCP 连接，进一步减少处理开销。
+技术要点与优化策略
+透明代理：利用 IP_TRANSPARENT 实现透明流量捕获与目标解析。
+内核与用户态高效协作：首个数据包通过用户态完成深度处理，后续数据包借助 conntrack 与 inbound socket 实现快速转发，降低上下文切换成本。
+多路复用：借助 HTTP/2 隧道实现高效加密与负载均衡，优化传输性能。
+实践建议
+多平台适配：根据平台特性调整透明代理实现。
+调优与监控：结合 ztunnel 日志与服务网格监控工具，优化流量路径与性能表现。
+总结
+Istio Ambient 模式通过数据包生命周期设计，在透明代理、性能优化与安全策略间实现平衡。zTunnel 通过高效的用户态处理与内核态快速转发，将应用程序的透明体验与底层网络优化有效结合，助力服务网格的实践与推广。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我不幸甲流了]]></title>
+        <id>https://qq.mba/213.html</id>
+        <link href="https://qq.mba/213.html"/>
+        <updated>2025-01-07T06:55:28.000Z</updated>
+        <summary type="html"><![CDATA[以我的体格子，其实很少生病，再加上从不发烧的体制，所以一般的病痛我都是硬抗，以前普通的感冒也就2天好了，到现在的3、4天了，毕竟岁月不饶人，身体也被各种"科技狠活"的食品折腾的"千疮百孔"，提抗...]]></summary>
+        <author>
+            <name>满心</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acme脚本使用]]></title>
+        <id>/archives/209</id>
+        <link href="https://7boe.top/archives/209"/>
+        <updated>2025-01-07T03:44:08.000Z</updated>
+        <summary type="html"><![CDATA[Acme证书脚本使用
+通常我们使用这个脚本都是用来给服务器上域名下发证书，本文章记录证书申请以及自动续签，和下发方式。
+Acme安装
+脚本
+curl https://get.acme.sh | sh -s email=my@example.com 
+
+改脚本会自动安装到家目录里的.acme.sh 邮箱修改为自己的，这样到期能自动提醒
+颁发使用
+单域名
+acme.sh --issue -d example.com -w /home/wwwroot/example.com
+
+多域名
+acme.sh --issue -d example.com -d www.example.com -d cp.example.com -w /home/wwwroot/example.com
+
+证书安装使用
+nginx
+acme.sh --install-cert -d example.com \
+--key-file       /path/to/keyfile/in/nginx/key.pem  \
+--fullchain-file /path/to/fullchain/nginx/cert.pem \
+--reloadcmd     "service nginx force-reload"
+
+安装到指定位置 nginx内ssl配置文件制定上面文件
+使用阿里云域名API自动签发证书
+当你的网站http页面没有东西的时候，他下发会失败，这是证书http验证特性，所以采用dns验证，例如你的域名上在阿里上
+export Ali_Key="<key>"
+export Ali_Secret="<secret>"
+
+写入在阿里上的key 也可以写入bashrc 然后申请证书。
+./acme.sh --issue --dns dns_ali -d example.com -d *.example.com
+
+更新续签
+一般来讲你不需要对证书手动更新，他会在crontabl里面自动执行检查更新
+如果你需要手动更新证书
+acme.sh --renew -d example.com --force
+
+停止续订证书
+acme.sh --remove -d example.com [--ecc]
+
+脚本更新
+acme.sh --upgrade --auto-upgrade]]></summary>
+        <author>
+            <name>未雨绸缪</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为何修个电动车就犯罪了]]></title>
+        <id>https://lawtee.com/editor/2025_01_07_why_is_repairing_electric_vehicles_a_crime/</id>
+        <link href="https://lawtee.com/editor/2025_01_07_why_is_repairing_electric_vehicles_a_crime/"/>
+        <updated>2025-01-06T20:25:00.000Z</updated>
+        <summary type="html"><![CDATA[上个月上海高院公布的一个 案例 很有意思。一车主在自己的电动车出事故后，因原厂维修费用高、耗时长，便选择一家普通汽修店修车。该汽修店负责维修的兄弟二人发现这辆汽车在事故后电池管理系统自动锁定了电池输出功率，于是通过修改软件将电池管理系统数据修改后实现解锁。之后兄弟俩又从网上招揽一名顾客按同样方式对另一台车进行解锁。合计收取维修费 5000 元。结果这两兄弟被上海嘉定法院以破坏计算机信息系统罪判刑。
+判决情况
+
+嘉定区人民法院经审理后认为
+大刘、小刘为非法牟利，违反国家规定，对新能源汽车计算机信息系统中存储、处理或传输的数据进行修改，导致新能源汽车电池运行的采集数据失真，影响新能源汽车安全运行的监管，后果严重，其行为均已构成破坏计算机信息系统罪。本案系共同犯罪；两名被告人均能如实供述罪行，自愿认罪认罚，可以从轻处罚、从宽处理。结合两名被告人在共同犯罪中的具体作用、本案的社会危害性、违法所得已全部退出等情节，依法判决大刘犯破坏计算机信息系统罪，判处有期徒刑六个月，缓刑一年；小刘犯破坏计算机信息系统罪，判处拘役六个月，缓刑六个月；违法所得及犯罪工具予以没收。
+破坏计算机信息系统罪
+
+最近几年在计算机信息领域最出名的两个罪，一个叫 帮助信息网络犯罪活动罪，另一个就是 破坏计算机信息系统罪。 前者短短几年成为实践中最常见的罪名，据最高人民法院发布 研究报告 显示，2017-2021 年全国发生 6.7 万件，涉及 14.37 万人，且持续迅速增长。而后者每年只有两三百人规模。
+
+
+为何一个年均两三百人规模的犯罪如此受到关注
+
+破坏计算机信息系统罪作为一个实践中数量较小的犯罪，之所以广泛引起重视，主要还是因为刑法条文本身表述不够清晰所导致，这个犯罪类型，重点应该关注的是“两高”在司法解释中所列举的具体情形。
+刑法
+第二百八十六条【破坏计算机信息系统罪】违反国家规定，对计算机信息系统功能…]]></summary>
+        <author>
+            <name>法律小茶馆</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K9s Tool Alternative for Managing Kubernetes]]></title>
         <id>https://www.virtualizationhowto.com/?p=298673</id>
@@ -26,6 +304,31 @@ The post K9s Tool Alternative for Managing Kubernetes appeared first on Virtuali
 AriaRSS 是一个专门为 Typecho（一个轻量级的博客系统）开发的 保护 RSS 插件，它用于帮助保护博客的 RSS 内容。这个插件通常被用来防止他人直接抓取网站的 RSS 内容，避免站点的内容被未经授权转载或者滥用...]]></summary>
         <author>
             <name>寻鹤</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解决curl: (60) Peer‘s Certificate issuer is not recognized.错误]]></title>
+        <id>b0d631ef-f88c-407c-93ca-b13e1030a4fa</id>
+        <link href="https://blog.imdst.com/jie-jue-curl-60-peers-certificate-issuer-is-not-recognized-cuo-wu/"/>
+        <updated>2025-01-06T09:32:47.000Z</updated>
+        <summary type="html"><![CDATA[yum install 出错
+curl: (60) Peer's Certificate issuer is not recognized.  
+More details here: http://curl.haxx.se/docs/sslcerts.html
+
+解决办法
+安装 ca-certificates 包
+yum install ca-certificates  
+
+启用动态 CA 证书
+update-ca-trust force-enable  
+
+进入证书目录
+cd /etc/pki/ca-trust/source/anchors/  
+
+将证书目录的证书都添加为系统信任证书
+update-ca-trust extract]]></summary>
+        <author>
+            <name>leoiceo</name>
         </author>
     </entry>
     <entry>
@@ -58,6 +361,17 @@ The post Why You Should Learn Kubernetes in 2025 appeared first on Collabnix.]]>
         <summary type="html"><![CDATA[在日常的运维和开发工作中，网络检测与查询是不可或缺的基础操作。为了帮助开发人员和运维人员提高效率，博主开发了 TCP.mk，一个集成多功能的网络工具箱。体验地址：https://tcp.mk/功能特点功夫W检测：支持域名、IP 、IP + 端口双域IP检测：监测用户访问 国内 和 海外 网站时使用的]]></summary>
         <author>
             <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Little Endian vs Big Endian]]></title>
+        <id>https://www.kawabangga.com/?p=6816</id>
+        <link href="https://www.kawabangga.com/posts/6816"/>
+        <updated>2025-01-06T01:39:28.000Z</updated>
+        <summary type="html"><![CDATA[看了一个视频，Endianness Explained, 对 Endianness 介绍的非常好。尤其是对常见 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
         </author>
     </entry>
     <entry>
@@ -95,6 +409,16 @@ The post Why You Should Learn Kubernetes in 2025 appeared first on Collabnix.]]>
         <summary type="html"><![CDATA[大家好，这篇文章我们继续分享家里网络设备的万兆升级和静音改造经验，希望对有类似需求的朋友有所帮助。]]></summary>
         <author>
             <name>苏洋(soulteary)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[忙里偷闲，去看误杀3]]></title>
+        <id>https://qq.mba/211.html</id>
+        <link href="https://qq.mba/211.html"/>
+        <updated>2025-01-05T06:20:00.000Z</updated>
+        <summary type="html"><![CDATA[误杀3上映了，一直没抽出时间去看，这不今天忙里偷闲，把宝子交给奶奶照看，我和孩子妈就风风火火订了电影票，误杀前两部都看了，感觉都还不错，第三部肯定不会错过。看电影前，还得处理一些东西，主要是一些...]]></summary>
+        <author>
+            <name>满心</name>
         </author>
     </entry>
     <entry>
@@ -6474,6 +6798,61 @@ AWS 建议 ECS 客户迁移到 Service Connect 而 EKS 客户迁移到 VPC Latti
     </entry>
     <entry>
         <title type="html"><![CDATA[API 网关的自查清单：你的 API 前门有多坚固？]]></title>
+        <id>https://cloudnativecn.com/blog/api-gateway-checklist-strength/</id>
+        <link href="https://cloudnativecn.com/blog/api-gateway-checklist-strength/"/>
+        <updated>2024-10-29T09:43:25.000Z</updated>
+        <summary type="html"><![CDATA[每个 API 都需要一个前门，一个迎接请求与响应的门户。这个“门”不仅要坚固，能承受高流量的压力，最好还能过滤掉“蚊虫”——也就是潜在的威胁行为者和 DDoS 攻击。同时，一些额外的功能可以让整个体验更加愉快。
+API 网关便是你 API 的前门，它不仅仅负责流量的调度，还包括执行安全策略、优化性能等任务。然而，涉及大规模基础设施的决策总是难以把握，特别是当你已经开始构建新的 API，可能很难判断是否在正确的轨道上前行。
+受云原生计算基金会（CNCF）的 云原生成熟度模型 启发，我试图帮助你从全局视角出发，客观评估 API 前门的当前状态，并了解接下来的优化方向。
+基础阶段：打好地基
+在这个阶段，你正处于 API 网关的 MVP 或预生产阶段，验证工具并分配各项责任，以便正式上线。
+决定 API 网关基础架构的基本形态（如云托管或本地部署），选择独立代理或通过 SDK 嵌入 API 网关功能，或者利用 Kubernetes 原生特性如 Gateway API。
+实施安全基本策略，从基本认证开始，逐步升级到 JSON Web Tokens（JWT）。
+设定速率限制和 IP 限制以防滥用。
+实施负载均衡，探索 DDoS 保护选项。
+利用 API 网关的功能来根据流量条件执行特定操作。
+制定 API 管理的基础政策，即便当前还未具备技术条件或专业人员来执行。
+在构建过程中，请随时记录每项决策和实施如何影响开发周期。API 开发人员是否仍然能自由地构建？DevOps、基础设施和平台工程师是否拥有适当的工具来管理此平台？
+完成这些步骤后，你将拥有一个具备基本功能的 API 网关，能够顺利代理请求并具备初步的安全保护。
+运行阶段：投入生产
+当你的 MVP 完成测试，移至生产环境时，重点是集成、效率和为实时环境的挑战做好准备。
+将 API 网关的配置和部署集成至 CI/CD 流程，进行安全和治理规则的集成测试。
+以代码形式管理所有 API 相关配置，以便进行版本控制、代码审查和质量保证。
+开始在多区域、多云和私有云环境中测试 API 网关，为未来扩展做准备。
+将 API 网关的安全、测试和操作任务提前至开发周期中，让 API 开发人员有更多控制权。
+为 API 的部署和操作编写详细的文档。
+无论你处于此阶段的哪一步，都将受益于 API 网关对生产负载的自动化管理，并可利用早期的观测数据微调行为。如果效果不尽如人意，可能需要重新评估。
+扩展阶段：准备增长
+此时，API 网关不再只是一个入口，而是你管理服务、区域、用户和高负载的核心工具。
+利用多区域和多云部署的经验提升性能和冗余性。
+为 API 网关和 API 服务构建或采用自动化故障切换机制。
+收集更多可观测数据，以便将流量、错误、请求和响应的趋势转化为可执行的数据。
+基于实际使用情况制定和实施高级流量策略，如精细的速率限制或细粒度访问控制。
+实施版本和弃用流程。
+下一个阶段？API 网关将不仅仅是一个工具，而是你团队快速、敏捷部署的核心支柱。
+改善阶段：强化安全与治理
+这个阶段的重点在于精炼。你的 API 网关足够灵活和可扩展，但要保持持续发展，还需在不影响开发人员效率的情况下增加控制措施。
+采用允许 DevOps 和基础设施工程师集中管理安全的工具和工作流，同时让开发人员可以高效工作。Kubernetes Gateway API 是一个不错的例子，它基于角色进行配置。
+分析并优化 API 基础设施的整体成本。
+实现实时监控，以便向 API 的主要用户提供服务水平协议（SLA）。
+为开发人员提供自助开发环境，以测试 API 或网关的复杂场景或重大变更。
+精简 API 网关的工具和供应商。
+考虑使用 GitOps 等持续部署方式。
+你几乎已经达成目标，但仍需不断努力。
+适应阶段：回顾、重建与再创新
+此时，你不仅要应对 API 网关的现状，还要前瞻性地调整策略，保持领先地位。基于丰富的观测数据不断改进，同时还有更多工作要做。
+通过 API 网关测试套件实现质量控制，以减少缺陷和事故。
+将所有 API 发布和 API 网关配置更改迁移至 GitOps 工作流。
+启用蓝绿部署或金丝雀发布等高级部署技术。
+提供工具和培训，让 API 开发人员从开发的早期阶段便能实现和测试高级安全功能。
+创建自助环境，使开发人员能够在既定的安全范围内配置和管理 API 网关。
+如果你已完成清单中的所有事项，恭喜你！]]></summary>
+        <author>
+            <name>博客 | 云原生社区（中国）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[API 网关的自查清单：你的 API 前门有多坚固？]]></title>
         <id>https://cloudnative.to/blog/api-gateway-checklist-strength/</id>
         <link href="https://cloudnative.to/blog/api-gateway-checklist-strength/"/>
         <updated>2024-10-29T09:43:25.000Z</updated>
@@ -6935,6 +7314,41 @@ First, let’s download the necessary tools:
     </entry>
     <entry>
         <title type="html"><![CDATA[如何通过修复 CNCF 项目治理问题实现社区共赢与商业化]]></title>
+        <id>https://cloudnativecn.com/blog/how-to-fix-cncf-governance-and-create-business/</id>
+        <link href="https://cloudnativecn.com/blog/how-to-fix-cncf-governance-and-create-business/"/>
+        <updated>2024-10-23T10:05:24.000Z</updated>
+        <summary type="html"><![CDATA[为什么我们的 OpenEBS 项目被归档了？我们是如何修复它的？以及通过修复它，我们如何创建了一个可持续的商业模式。
+当云原生计算基金会（CNCF）在 2024 年 2 月归档了我们的 OpenEBS 项目时，我们面临两个选择：放弃项目，或者解决发现的问题并重新申请进入 CNCF 的 Sandbox 项目，重新开始。重新开始是最困难的选择，但对于每月有 25,000 名用户加入的 OpenEBS 来说，这是正确的做法。
+以下是 CNCF 归档我们项目的主要原因，我们是如何修复问题的，以及通过修复问题，我们是如何实现盈利的。
+所有权和控制问题
+问题的核心是一个常见的治理问题。大约 60% 的 CNCF 项目都有一个企业赞助方——一个为项目提供资金的盈利公司。当公司将项目捐赠给 CNCF 时，项目就成为 CNCF 的财产，赞助公司放弃了对项目的所有权和控制权。
+但在项目尚未建立社区之前，赞助公司的员工通常仍在为该项目工作。许多 CEO 认为他们仍然拥有项目的所有权和控制权。“如果我的员工还在工作，那我就拥有决策权。”这种所有权和控制权的紧张关系导致了我们项目被归档，除非我们解决这个问题，否则问题将继续存在。
+通过赞助 CNCF 项目盈利
+我们向 CNCF 询问了如何解决这个问题。一个有用的 CNCF 资源是技术顾问组（TAG）贡献者策略治理工作组。联合主席 Josh Berkus 如此解释这个更广泛的问题和解决方案：“开源的前提是你可以获得大规模的用户采用，然后从这些采用者中的一小部分获取收入，这样的收入甚至可能与销售专有软件相当甚至更多。”
+当软件复杂且难以支持时（比如许多 Kubernetes 安装），这种方法效果特别好。
+对于 Kubernetes 来说，一种成功的商业化策略通常来自以下三种途径：
+提供支持和专业服务
+提供带有行业认证或平台集成的专用发行版
+提供适用于大规模生产环境的附加产品（例如管理工具或报告工具）
+对 Kubernetes 来说，“开放核心”模式不太常见，因为你必须不断决定哪些功能应该开放源码，哪些功能应该保留为专有版本，这重新引入了所有权和控制权的问题。
+假设大多数采用者不会为软件付费。如果他们必须付费，他们可能不会使用。这些采用者的生态系统有助于增强软件的稳定性，并为大规模采用带来的可信度提供支持。
+对于企业和大型组织来说，支付支持费用或使用专用发行版通常是一个有吸引力的选择，因为这可以缩短上市时间，降低风险，而这只是他们整个项目成本中的一小部分。
+这些策略被证明是有效的，对于我们来说，也提供了一个简单的解决方案，证明了继续赞助项目而不控制它是有利可图的。
+将所有权和控制权交给社区
+为赞助公司找到一种不需要控制项目的盈利方法解决了一半的问题。但在赞助公司继续负责大部分维护人员和工程团队的情况下，所有权和控制权的紧张关系仍将继续存在。
+这时，Kubernetes 社区发挥了至关重要的作用。通过从项目的采用者用户群中招募维护人员和工程师，项目获得了额外的资源，赞助公司能够显著减少支持项目的成本（同时可以将部分工程师转移到其他附加产品上）。
+培养和维持一个社区需要付出努力；仅仅因为项目广泛采用并不意味着你会自动拥有一个社区。我们的团队必须努力做到包容和透明。我们需要花时间引导贡献者。我们还必须参与更广泛的 Kubernetes 社区，帮助其他人成功开发自己的项目。我们才刚刚开始，但已经看到了成效。
+结果
+对于我们的项目，我们调整了商业化策略，现在我们有了支付支持和专业服务的客户。我们正在开始招募维护人员和工程师，并且发现有一个巨大的人才库可以帮助我们。
+赞助公司可以减少成本，同时看到项目的工程能力增加。通过放弃控制权和所有权，我们得到了很多回报。当我们完成时，这将真正成为一个社区的共同努力。
+Kubernetes 的创立基于这些原则——未来的基础设施不应该被任何人拥有或控制。我们将共同分享这个所有权和控制权。
+有时，这个过程可能会尴尬或痛苦。有时，你的项目会被归档，你必须重新开始工作。自由软件不是免费的——我们必须共同努力开发软件，建立围绕它的社区，保护它，有时我们甚至需要保护它不受我们自己的影响。]]></summary>
+        <author>
+            <name>博客 | 云原生社区（中国）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何通过修复 CNCF 项目治理问题实现社区共赢与商业化]]></title>
         <id>https://cloudnative.to/blog/how-to-fix-cncf-governance-and-create-business/</id>
         <link href="https://cloudnative.to/blog/how-to-fix-cncf-governance-and-create-business/"/>
         <updated>2024-10-23T10:05:24.000Z</updated>
@@ -7123,6 +7537,26 @@ After the hammer mold, Bartholomew would still get paid. No one actually likes p
 <p>最近做了一个皮脂腺囊肿（俗称粉瘤）割除手术。起初右前臂外侧有个粉刺，手贱时不时抠一下，加上4月底在医院陪床，可能感染，粉刺越来越大]]></summary>
         <author>
             <name>东评西就</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[云原生对比：Istio Ambient 模式与 Cilium 的扩展性能分析]]></title>
+        <id>https://cloudnativecn.com/blog/ambient-vs-cilium/</id>
+        <link href="https://cloudnativecn.com/blog/ambient-vs-cilium/"/>
+        <updated>2024-10-22T02:49:22.000Z</updated>
+        <summary type="html"><![CDATA[潜在的 Istio 用户经常会问：“Istio 与 Cilium 相比如何？”虽然 Cilium 最初仅提供 L3/L4 功能（如网络策略），但近来的版本增加了基于 Envoy 的服务网格功能以及 WireGuard 加密。与 Istio 一样，Cilium 也是 CNCF 认证的毕业项目，并在社区中存在多年。
+尽管表面上看这两个项目提供的功能相似，但它们的架构却有着显著不同，尤其是 Cilium 使用 eBPF 和 WireGuard 在内核中处理和加密 L4 流量，而 Istio 在用户空间通过其 ztunnel 组件处理 L4 流量。这些差异导致了关于 Istio 与 Cilium 在大规模下性能的广泛讨论。
+尽管已有关于租户模型、安全协议和基本性能的比较，但尚未有全面的企业级评估报告。与其强调理论性能，我们对 Istio 的 Ambient 模式和 Cilium 进行了测试，聚焦于延迟、吞吐量和资源消耗等关键指标。通过模拟一个繁忙的 Kubernetes 环境，我们施加了高负载场景，最后将 AKS 集群的规模扩展到 1000 个节点、11000 个核心，以了解这些项目在大规模下的表现。结果显示，两者各有需要改进的地方，但 Istio 明显表现更佳。
+测试场景
+为了将 Istio 和 Cilium 推向极限，我们创建了 500 个不同的服务，每个服务支持 100 个 Pod。每个服务位于单独的命名空间中，且包含一个Fortio负载生成客户端。我们将客户端限制在一个由 100 台 32 核机器组成的节点池中，以消除共同定位的客户端的干扰，并为服务分配了剩余的 900 台 8 核实例。
+
+
+      测试场景
+    
+
+在 Istio 测试中，我们使用了 Ambient 模式，在每个服务命名空间中部署了waypoint 代理，并使用默认的安装参数。为了使测试场景尽可能…]]></summary>
+        <author>
+            <name>博客 | 云原生社区（中国）</name>
         </author>
     </entry>
     <entry>
@@ -7549,42 +7983,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[这里是现实版的绿野仙踪]]></summary>
         <author>
             <name>运维咖啡吧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux实现模拟IPMI]]></title>
-        <id>https://marsperl.github.io/yyg/9ec93abd/</id>
-        <link href="https://marsperl.github.io/yyg/9ec93abd/"/>
-        <updated>2024-10-10T13:41:29.000Z</updated>
-        <summary type="html"><![CDATA[环境准备：
-（1）使用脚本安装docker、docker-compose
-
-
-1
-
-bash <(curl -sSL]]></summary>
-        <author>
-            <name>云野阁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[七天的国庆结束了]]></title>
-        <id>https://qq.mba/188.html</id>
-        <link href="https://qq.mba/188.html"/>
-        <updated>2024-10-08T06:05:32.000Z</updated>
-        <summary type="html"><![CDATA[放假的日子过得总是很快，这不，已经开始上班了，国庆选择了回对象的老家，在老家呆了四天，有三天是在外面吃酒席，几乎不是吃酒席，就是去吃酒席的路上，他们那边讲究吃两天，一共六顿，别说主人家了，我都快...]]></summary>
-        <author>
-            <name>满心</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年9月阅读书摘]]></title>
-        <id>6703dbea6c5c2009965820ce</id>
-        <link href="https://www.domon.cn/2024-9yue-yue-du-shu-zhai/"/>
-        <updated>2024-10-07T13:04:29.000Z</updated>
-        <summary type="html"><![CDATA[早在很年轻的时候，我就意识到我的家就像一株植物。把它连根拔起，它就会枯萎。对它又撕又扯，它就会死亡。而任由它在土里茁壮生长，不去碰它，它就会经受住神明抑或狂风的侵袭。它诞生自土里；只要土壤活着，它就能活着。]]></summary>
-        <author>
-            <name>Domon</name>
         </author>
     </entry>
 </feed>
