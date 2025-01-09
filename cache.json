@@ -364,16 +364,6 @@
           "wordCount": 1319,
           "title": "Where web components shine",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2024/10/vibe-check-35/",
-          "author": null,
-          "description": "School is back in session, sports are in full swing, we’re tossed and turned by the weekly routine. This past month has been a season of fixing and repair and I’m thankful everything went well and we’re (hopefully) through the hard parts.\nFixing electrical problems\nRamping up to Spooky Month, the lights in our house were acting up. We’ve always had the occasional power problem; lights dimming, oven clocks resetting, but they were random and isolated. But around the beginning of September our lights would flicker for a solid minute every time the A/C kicked on. I was getting concerned about a potential fire – and no matter what anyone says, I was not concerned about a ghost, ghoul, specter, gremlin, dracula or otherwise – so I scheduled a bunch of maintenance calls:\nAn electrician - He didn…",
-          "link": "https://daverupert.com/2024/10/vibe-check-35/",
-          "publishedOn": "2024-10-11T04:00:00.000Z",
-          "wordCount": 1777,
-          "title": "Vibe Check №35",
-          "imageUrl": null
         }
       ]
     },
@@ -382,6 +372,16 @@
       "feedUrl": "https://hyruo.com/index.xml",
       "siteUrl": "https://lawtee.com/",
       "articles": [
+        {
+          "id": "https://lawtee.com/article/indictment-template/",
+          "author": null,
+          "description": "2024 年最后一天，最高人民法院发了一个特急通知（法明传〔2024〕173号），要求从第二天 2025 年 1 月 1 日起，全国法院全面推进应用新的要素式起诉状、答辩状模板。一石激起千层浪，一时间，整个法律界都在热议这个事情。\n什么是要素式起诉状、答辩状\n\n简单说，以往的起诉状、答辩状就像写小作文，一张白纸直接往下写，不管是机打还是手写，只要把内容讲清就行。而要素式起诉状就是填表，在给定的表格模板上根据自己情况一项一项往下填，每个项目都要过一遍。\n \n由于这次通知要求全国法院立案部门在向审判部门移送案卷材料时必须提供要素式起诉状，相当于变相要求当事人在立案过程中必须提供要素式起诉状了。\n立案类型\n现场立案\n网上立案\n\n\n\n\n起诉时无诉状\n引导当事人在人民法院在线服务平台中填写要素式起诉状；或者引导通过大厅自助设备在线填写要素式起诉状。\n在人民法院在线服务平台直接填写要素式起诉状并导入办案平台。\n\n\n起诉时使用要素式诉状\n通过扫描、智能识别诉状等方 式，将纸质版、电子版诉状导 入办案平台(原件同步上传归 档 ) 。\n通过智能识别诉状方式，将电子版诉状导入人民法院在线服务平台(原件同步上传归 档)。\n\n\n起诉时使用传统版诉状\n同“无诉状”引导方式(原件 同步上传归档)。\n引导当事人在人民法 院在线服务平台中，直接填写和补充要素式 起诉状(原件同步上传 归档)。\n\n\n\n更换要素式起诉状有什么好处\n\n对于法院来说，推动更换要素式起诉状有几个明显的好处：\n使用标准数据结构，便于法院数字化转型\n最近一年，我负责的工作中有一项是推进刑事案件跨部门数据信息系统应用。该项工作要求从公安侦查的源头开始对刑事案件中所有要素信息全面电子化。如此，这些标准的电子数据才能顺利地从公安机关办案系统流转到检察机关办案系统。在检察机关接续处理完毕后，这些电子数据能够继续流转到法院的办案系统中。最终，法院…",
+          "link": "https://lawtee.com/article/indictment-template/",
+          "publishedOn": "2025-01-08T09:30:00.000Z",
+          "wordCount": 132,
+          "title": "法院更换要素式起诉状模板对老百姓意味着什么",
+          "imageUrl": "https://lawtee.com/article/indictment-template/00.webp"
+        },
         {
           "id": "https://lawtee.com/editor/2025_01_07_why_is_repairing_electric_vehicles_a_crime/",
           "author": null,
@@ -998,26 +998,6 @@
           "wordCount": 2010,
           "title": "南京地铁S3-刘村——> 马骡圩.Movies",
           "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/FD291BA5-CBC6-4443-B1DD-586DE604DBF4.jpg"
-        },
-        {
-          "id": "/archives/1728654763152",
-          "author": null,
-          "description": "环境说明： 目前已验证： openeuler22.03 LTS SP3，openeuler22.03 LTS SP4 clickhouse 版本： 24.9.2 一、Clickhouse 在线安装 1.1 添加clickhouse repo源  $ yum-config-manager --add-",
-          "link": "https://srebro.cn/archives/1728654763152",
-          "publishedOn": "2024-10-11T13:52:58.000Z",
-          "wordCount": 2153,
-          "title": "OpenEuler 22.03 LTS 部署Clickhouse",
-          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/FB762C36-8D96-450F-B29C-E337B2E9F964.jpg"
-        },
-        {
-          "id": "/archives/1728610605490",
-          "author": null,
-          "description": "一、背景 运行3年的clickhouse需要迁移机房，迁移单库单表的140亿条的数据。 采用clickhouse-backup 的方式进行备份迁移，打包备份，再加上数据拷贝，数据恢复 一共花费30分钟。 数据在一定量级，避免使用SQL 导入导出的方式，效率太低 二、clickhouse-backup",
-          "link": "https://srebro.cn/archives/1728610605490",
-          "publishedOn": "2024-10-11T01:37:06.000Z",
-          "wordCount": 3148,
-          "title": "ClickHouse 数据保护指南：从备份到迁移的全流程攻略",
-          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/F94878BD-5CDE-459A-ABC1-4B6C74AB5438.jpg"
         }
       ]
     },
@@ -1026,6 +1006,16 @@
       "feedUrl": "https://soulteary.com/feed/",
       "siteUrl": "https://soulteary.com/feed/",
       "articles": [
+        {
+          "id": "https://soulteary.com/2025/01/08/lightweight-server-under-fifty-yuan-wanke-cloud-speed-running-guide-1.html",
+          "author": "苏洋(soulteary)",
+          "description": "这是一份专注于稳定性的玩客云使用指南。无论你是想要一台低成本的服务器，还是对类似的嵌入式设备感兴趣，接下来这几篇文章都会告诉你如何让玩客云更稳定、更易维护，以及躲开折腾的时候会遇到麻烦和故障。",
+          "link": "https://soulteary.com/2025/01/08/lightweight-server-under-fifty-yuan-wanke-cloud-speed-running-guide-1.html",
+          "publishedOn": "2025-01-08T07:37:00.000Z",
+          "wordCount": 901,
+          "title": "五十元内的轻量服务器：玩客云折腾速通指南（一）",
+          "imageUrl": null
+        },
         {
           "id": "https://soulteary.com/2025/01/07/homelab-network-upgrade-practice-quiet-local-10g-networking.html",
           "author": "苏洋(soulteary)",
@@ -1241,26 +1231,6 @@
           "publishedOn": "2024-10-18T13:26:47.000Z",
           "wordCount": 46,
           "title": "皖南自驾半个月，花费2000元，总结推荐",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.ops-coffee.cn/r/china-travel-layoff-trip-day14-shexian-huizhou",
-          "author": null,
-          "description": "一生痴绝处，无梦到徽州",
-          "link": "https://blog.ops-coffee.cn/r/china-travel-layoff-trip-day14-shexian-huizhou",
-          "publishedOn": "2024-10-11T13:55:59.000Z",
-          "wordCount": 58,
-          "title": "毕业旅行｜皖南自驾DAY14 - 徽州",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.ops-coffee.cn/r/china-travel-layoff-trip-day13-huangshan-xixinan",
-          "author": null,
-          "description": "这里是现实版的绿野仙踪",
-          "link": "https://blog.ops-coffee.cn/r/china-travel-layoff-trip-day13-huangshan-xixinan",
-          "publishedOn": "2024-10-10T15:53:41.000Z",
-          "wordCount": 59,
-          "title": "毕业旅行｜皖南自驾DAY13 - 西溪南",
           "imageUrl": null
         }
       ]
@@ -1643,16 +1613,6 @@
           "wordCount": 1516,
           "title": "特殊的 ARP 用法：Gratuitous ARP, ARP Probe 和 ARP Announce",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6693",
-          "author": "laixintao",
-          "description": "裕廊坊新开了一家杂菜饭，欣很喜欢。 杂菜饭，我又叫它「这个，那个」。因为大部分食客点菜的时候都只会说「这个」， […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6693",
-          "publishedOn": "2024-10-10T16:44:05.000Z",
-          "wordCount": 901,
-          "title": "裕廊坊杂菜饭",
-          "imageUrl": null
         }
       ]
     },
@@ -1704,6 +1664,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=298705",
+          "author": "Brandon Lee",
+          "description": "Kubernetes can seem intimidating to get started with, but like any technology, the more you work with it and learn how it operates, the more confident you’ll feel using it in production. One of the best ways to get comfortable with new technologies is by bringing them into your home lab. This allows you to …\nThe post Kubernetes Home Lab: Ultimate Guide for 2025! appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/01/kubernetes-home-lab-ultimate-guide-for-2025/",
+          "publishedOn": "2025-01-08T14:02:57.000Z",
+          "wordCount": 11938,
+          "title": "Kubernetes Home Lab: Ultimate Guide for 2025!",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/kubernetes-home-lab.jpg"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=298690",
           "author": "Brandon Lee",
@@ -2071,6 +2041,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com/",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=29952",
+          "author": "Tanvir Kour",
+          "description": "Have you just started using Docker and are unsure of all its features? We noticed that questions about how to create Docker container backups frequently appear on forums. To address this, we compiled all the necessary information in this article. We present a clear, step-by-step guide to help you find solutions. This guide equips you […]\nThe post How to Backup Docker Containers? appeared first on Collabnix.",
+          "link": "https://collabnix.com/how-to-backup-docker-containers/",
+          "publishedOn": "2025-01-08T05:59:20.000Z",
+          "wordCount": 4466,
+          "title": "How to Backup Docker Containers?",
+          "imageUrl": "https://usercontent.one/wp/collabnix.com/wp-content/uploads/2025/01/Screenshot-2025-01-08-at-11.29.35 AM.png?media=1735802179"
+        },
+        {
+          "id": "https://collabnix.com/?p=29943",
+          "author": "Tanvir Kour",
+          "description": "Kubernetes has become the backbone of modern cloud-native architectures, yet querying and interacting with it at scale often feels like navigating a labyrinth. Tools like kubectl, jq, and jsonpath are indispensable, but they lack the expressive power needed for querying complex relationships across Kubernetes objects. Enter Cyphernetes, a graph-query language inspired by Cypher, which promises […]\nThe post Cyphernetes: A Graph Query Language for Kubernetes appeared first on Collabnix.",
+          "link": "https://collabnix.com/cyphernetes-a-graph-query-language-for-kubernetes/",
+          "publishedOn": "2025-01-08T05:08:46.000Z",
+          "wordCount": 3337,
+          "title": "Cyphernetes: A Graph Query Language for Kubernetes",
+          "imageUrl": "https://usercontent.one/wp/collabnix.com/wp-content/uploads/2025/01/Screenshot-2025-01-08-at-10.42.18 AM.png?media=1735802179"
+        },
         {
           "id": "https://collabnix.com/?p=29905",
           "author": "Abraham Dahunsi",
@@ -3537,16 +3527,6 @@
           "wordCount": 529,
           "title": "好吃的风干牦牛肉",
           "imageUrl": null
-        },
-        {
-          "id": "https://qq.mba/189.html",
-          "author": "满心",
-          "description": "早上拿起手机一看，收到腾讯的DDOS信息，心里突然一紧，这是被攻击了，赶紧登录查看信息，还好超过了腾讯云赠送的防护阈值限制，服务器直接被封堵了，从而避免更大的损失。初步估计，应该是bsay论坛被...",
-          "link": "https://qq.mba/189.html",
-          "publishedOn": "2024-10-11T01:09:00.000Z",
-          "wordCount": 542,
-          "title": "DDoS导致服务器封堵",
-          "imageUrl": null
         }
       ]
     },
@@ -4903,6 +4883,16 @@
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
         {
+          "id": "https://blog.xiaoz.org/?p=21700",
+          "author": "xiaoz",
+          "description": "Termora 是一个高颜值终端模拟器和 SSH 客户端，目前已经支持 Windows，macOS 和 Linux，根据作者的介绍，未来还将支持 Android、iOS 等。目前，该项目已在 GitHub 上开源。Termora功能特点支持 SSH 和本地终端支持 SFTP 文件传输支持 Windo",
+          "link": "https://blog.xiaoz.org/archives/21700",
+          "publishedOn": "2025-01-08T03:30:03.000Z",
+          "wordCount": 280,
+          "title": "Termora：一个极具潜力的高颜值跨平台SSH客户端",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.xiaoz.org/?p=21684",
           "author": "xiaoz",
           "description": "在日常的运维和开发工作中，网络检测与查询是不可或缺的基础操作。为了帮助开发人员和运维人员提高效率，博主开发了 TCP.mk，一个集成多功能的网络工具箱。体验地址：https://tcp.mk/功能特点功夫W检测：支持域名、IP 、IP + 端口双域IP检测：监测用户访问 国内 和 海外 网站时使用的",
@@ -5429,7 +5419,18 @@
       "title": "敖小剑的博客",
       "feedUrl": "https://skyao.io/index.xml",
       "siteUrl": "https://skyao.io/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://skyao.io/post/202501-try-pdf2zh/",
+          "author": null,
+          "description": "背景\n项目地址：\nhttps://github.com/Byaidu/PDFMathTranslate\nwindows 安装（家用电脑）\n用自己家里的普通台式机，windows 11 ltsc 2024 版本。\n安装：\npip install pdf2zh\n\n\n启动 GUI 界面：\npdf2zh -i\n\n\n一切顺利，除了需要做好全局科学上网的准备。\nwindows 安装（公司笔记本）\n备注：公司笔记本，可能有一些特别的限制，导致中间遇到很多问题，记录下来仅供参考。\n操作系统是 windows 11 23h2。\n安装python\nhttps://skyao.io/post/202408-marker-setup-on-windows/\n参考 marker 安装 python，为了统一python 版本，我开始选择了和 marker 一样使用 python 3.10 版本。\n安装 PDFMathTranslate\n安装很简单：\npip install pdf2zh\n\n\n顺利安装好 pdf2zh，但随后在使用中遇到一堆的问题，暂时纪录如下。\ntyping_extensions报错\n首先是 typing_extensions报错：\nImportError: cannot import name 'TypeIs' from 'typing_extensions'\n\n\n后来unisntall typing_extensions，再重新install，又莫名其妙的好了。\npip unintall typing_extensions\npip install typing_extensions\n\n\n参考：\nhttps://github.com/AbdBarho/stable-diffusion-webui-docker/issues/719\nhttps://github.com/AbdBar…",
+          "link": "https://skyao.io/post/202501-try-pdf2zh/",
+          "publishedOn": "2025-01-08T00:00:00.000Z",
+          "wordCount": 1333,
+          "title": "初试PDFMathTranslate",
+          "imageUrl": "https://skyao.io/media/icon_hudb624bbc033ea18e649787b654e68f81_24811_512x512_fill_lanczos_center_3.png"
+        }
+      ]
     },
     {
       "title": "CHEGVA",
