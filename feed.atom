@@ -2,10 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-01-09T02:19:27.653Z</updated>
+    <updated>2025-01-10T01:50:41.166Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024 年的总结]]></title>
+        <id>https://www.kawabangga.com/?p=6809</id>
+        <link href="https://www.kawabangga.com/posts/6809"/>
+        <updated>2025-01-09T23:50:00.000Z</updated>
+        <summary type="html"><![CDATA[今年依旧是平静而充实的一年。 特别喜欢 Armin 的这一段话： Whether it’s wor […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxmox Network Configuration for Beginners including VLANs]]></title>
+        <id>https://www.virtualizationhowto.com/?p=298729</id>
+        <link href="https://www.virtualizationhowto.com/2025/01/proxmox-network-configuration-for-beginners-including-vlans/"/>
+        <updated>2025-01-09T13:46:31.000Z</updated>
+        <summary type="html"><![CDATA[Let’s look at Proxmox network configuration for beginners and see how you can get jump started with using it for virtualization. Table of contentsOverview of Proxmox network configurationWhat is the Linux Bridge?The Proxmox Linux BridgeChanging your IP via the command lineMaking your Linux Bridge VLAN awareLinux Bridge VLAN configurationPhysical network switchVM with VLAN tagProxmox Software …
+The post Proxmox Network Configuration for Beginners including VLANs appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 工具推荐 Napkin.ai：让复杂想法一键变成直观图表]]></title>
+        <id>https://jimmysong.io/blog/napkin-ai-visualization-tool/</id>
+        <link href="https://jimmysong.io/blog/napkin-ai-visualization-tool/"/>
+        <updated>2025-01-09T10:26:54.000Z</updated>
+        <summary type="html"><![CDATA[在工作中，我们经常需要清晰地传达复杂的想法，但单靠文字有时候实在不够直观。这时候，一张清晰的图表往往能让人一眼看懂你的思路。
+抽象概念可视化的好处（本图使用 napkin.ai 生成）
+  
+
+今天想给大家推荐一个特别好用的工具——Napkin.ai。它可以自动把你的文字内容变成图表，比如信息图、流程图等等，让你的想法更容易被理解和传播。
+Napkin 界面
+  
+
+Napkin.ai 的核心功能
+文本自动变图表：把文字粘贴到 Napkin.ai，系统会自动生成相关的图表，完全不用自己动手画。
+图表样式多样：根据你的内容，Napkin.ai 会提供多种图表样式，你可以选择最适合的那个。
+支持自定义：图表生成后还能调整，比如更改图标、颜色、字体等，让它看起来更符合你的风格。
+多种格式导出：生成的图表可以导出为 PNG、SVG 或 PDF，用起来很方便。
+适合谁用
+Napkin 如何提升沟通效率（本图使用 napkin.ai 生成）
+  
+
+不管你是市场营销人员、内容创作者，还是需要做商业演示的专业人士，Napkin.ai 都能帮你提升沟通效果，让你的内容更吸引人。
+如何开始？
+打开 napkin.ai。
+注册一个账号（免费），目前高级版本还在 beta 阶段，暂未收费，未来的收费还未公开。
+粘贴文字，生成图表，然后根据需要调整。
+导出图表，用在你的工作或分享中。
+这款工具真的非常方便，试一次就会爱上！支持中文，而且免费使用，无次数限制。如果你也需要一个帮手来把复杂想法变得更直观，赶紧去试试吧！]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[docker login hang]]></title>
+        <id>http://zhangguanzhang.github.io/2025/01/08/docker-login-hang/</id>
+        <link href="http://zhangguanzhang.github.io/2025/01/08/docker-login-hang/"/>
+        <updated>2025-01-08T17:10:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>docker login 和 pod 拉取镜像非常慢的排查</p>]]></summary>
+        <author>
+            <name>Zhangguanzhang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kubernetes Home Lab: Ultimate Guide for 2025!]]></title>
         <id>https://www.virtualizationhowto.com/?p=298705</id>
@@ -8026,16 +8091,6 @@ Istio、EJBCA 和 cert-manager
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[独立博客自省问卷15题]]></title>
-        <id>670a73586c5c2009965820f2</id>
-        <link href="https://www.domon.cn/du-li-bo-ke-zi-sheng-wen-juan-15ti/"/>
-        <updated>2024-10-12T13:08:24.000Z</updated>
-        <summary type="html"><![CDATA[各位GGMM在下方留言，我一定会回踩哦。]]></summary>
-        <author>
-            <name>Domon</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How Modern Technologies Are Revolutionizing the Educational Process]]></title>
         <id>https://collabnix.com/?p=27926</id>
         <link href="https://collabnix.com/how-modern-technologies-are-revolutionizing-the-educational-process/"/>
@@ -8043,16 +8098,6 @@ Istio、EJBCA 和 cert-manager
         <summary type="html"><![CDATA[Are you exploring the benefits of e learning? Anyone can study anytime now, and your location, home troubles, or work schedule don’t matter so much!]]></summary>
         <author>
             <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[固执的乔布斯是一个天才]]></title>
-        <id>https://panzhixiang.cn/2024/Steven-Paul-Jobs/</id>
-        <link href="https://panzhixiang.cn/2024/Steven-Paul-Jobs/"/>
-        <updated>2024-10-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[固执地乔布斯是一个天才]]></summary>
-        <author>
-            <name>潘智祥</name>
         </author>
     </entry>
 </feed>
