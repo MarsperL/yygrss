@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-01-11T01:48:21.656Z</updated>
+    <updated>2025-01-12T01:57:10.287Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[中职校园：师范生实习见闻录]]></title>
+        <id>https://bluehe.cn/archives/teacher-trainee</id>
+        <link href="https://bluehe.cn/archives/teacher-trainee"/>
+        <updated>2025-01-11T15:54:00.000Z</updated>
+        <summary type="html"><![CDATA[2024年9月10日，我开始了为期四个月的教育实习，这是我作为师范生选择的体验。在德育老师的介绍下，第一次走进了实习班级，登上了讲台后，向学生们做了自我介绍。看到学生们的热情笑脸，我感到特别亲切和温暖。更让我感动的是，我还收到了人生中的第一份教师节祝福，这...]]></summary>
+        <author>
+            <name>寻鹤</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phi-4: Redefining Small Language Models with Advanced Mathematical Reasoning]]></title>
+        <id>https://collabnix.com/?p=30040</id>
+        <link href="https://collabnix.com/phi-4-redefining-small-language-models-with-advanced-mathematical-reasoning/"/>
+        <updated>2025-01-11T12:45:40.000Z</updated>
+        <summary type="html"><![CDATA[Phi-4, Microsoft’s latest small language model (SLM), is a groundbreaking 14B parameter model that outperforms comparable and larger models on math-related reasoning tasks. A small language model (SLM) is an artificial intelligence (AI) model that can understand, process, and generate human language. SLMs are similar to large language models (LLMs), but are smaller and less […]]]></summary>
+        <author>
+            <name>Adesoji Alu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[怎样将 HUGO 博客部署到阿里云]]></title>
+        <id>https://lawtee.com/article/deploy-hogo-to-vps/</id>
+        <link href="https://lawtee.com/article/deploy-hogo-to-vps/"/>
+        <updated>2025-01-11T12:30:00.000Z</updated>
+        <summary type="html"><![CDATA[自从博客彻底搬迁到 Hugo 后，我大部分时间都将博客放置在 Github Pages, Vercel, Cloudflare Pages 这些免费平台。但因为众所周知的原因，这些平台链接速度相比国内服务器还是存在明显差距，虽然可以通过优选 IP 方式进行加速，但全国平均访问时间依然需要 700ms 以上，遇上夜间高峰期，超过 1 秒也很正常。最近从阿里云母公司 Claw.cloud 购入一款廉价阿里云服务器，7美元一年价格，位于日本东京。感觉非常适合 Hugo 使用，便迁移过来。
+为什么选这款 VPS
+
+自从 2024 年顶着阿里云光环的 Claw 横空出世后，感觉市面上各类小公司的 VPS 性价比急剧下跌。但之前 Claw 几款神器价格倒也不是那么便宜，比如 4美元/月 的香港服务器，算下来一年也要 300 多块，关键是需要加价才能从别的 MJJ 手中才能收到。而这次推出的据说毫无线路优化的 7美元/年 的日本服务器，倒是让人意外惊喜。电信、移动直连国内，联通回程也是直连国内，对于建站来说再合适不过，经过我两三天测试，哪怕周末晚高峰，网站测速全国平均时间都在 300ms 左右，跟香港阿里云不相伯仲。即便这个优惠期只有一年，那也绝对值了。
+
+部署过程
+
+Hugo 仓库上传到 Github 后，部署到 Github Pages, Vercel, Cloudflare Pages, Netlify, 腾讯云 Edge One 等免费平台都比较简单，只需要在后者绑定 Github 仓库基本都能轻松完成部署。但部署到 VPS 稍微复杂点。
+VPS 基础设置 （也可以手搓，但没必要）
+
+我使用 1Panel 面板来辅助部署，主要是考虑到需要申请 SSL 证书并实现自动续期，同时可以自动设置 Nginx, 简化很多操作。
+大致步骤如下：
+VPS 安装 1Panel
+
+
+
+1
+
+
+
+c…]]></summary>
+        <author>
+            <name>法律小茶馆</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[快速构建稳定的 Armbian 系统：玩客云折腾速通指南（二）]]></title>
+        <id>https://soulteary.com/2025/01/11/quickly-build-a-stable-armbian-system-onecloud-speed-running-guide-2.html</id>
+        <link href="https://soulteary.com/2025/01/11/quickly-build-a-stable-armbian-system-onecloud-speed-running-guide-2.html"/>
+        <updated>2025-01-11T05:01:00.000Z</updated>
+        <summary type="html"><![CDATA[这是我们玩客云稳定性优化指南的第二部分。不管你是想要一台经济实惠的服务器，还是对嵌入式设备感兴趣，这一系列文章都会手把手教你如何让玩客云运行得更稳定、更容易维护，同时避开那些常见的坑。]]></summary>
+        <author>
+            <name>苏洋(soulteary)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Add Effects When Converting Image Sequence to Video in Filmora]]></title>
         <id>https://collabnix.com/?p=30014</id>

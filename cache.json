@@ -373,6 +373,16 @@
       "siteUrl": "https://lawtee.com/",
       "articles": [
         {
+          "id": "https://lawtee.com/article/deploy-hogo-to-vps/",
+          "author": null,
+          "description": "自从博客彻底搬迁到 Hugo 后，我大部分时间都将博客放置在 Github Pages, Vercel, Cloudflare Pages 这些免费平台。但因为众所周知的原因，这些平台链接速度相比国内服务器还是存在明显差距，虽然可以通过优选 IP 方式进行加速，但全国平均访问时间依然需要 700ms 以上，遇上夜间高峰期，超过 1 秒也很正常。最近从阿里云母公司 Claw.cloud 购入一款廉价阿里云服务器，7美元一年价格，位于日本东京。感觉非常适合 Hugo 使用，便迁移过来。\n为什么选这款 VPS\n\n自从 2024 年顶着阿里云光环的 Claw 横空出世后，感觉市面上各类小公司的 VPS 性价比急剧下跌。但之前 Claw 几款神器价格倒也不是那么便宜，比如 4美元/月 的香港服务器，算下来一年也要 300 多块，关键是需要加价才能从别的 MJJ 手中才能收到。而这次推出的据说毫无线路优化的 7美元/年 的日本服务器，倒是让人意外惊喜。电信、移动直连国内，联通回程也是直连国内，对于建站来说再合适不过，经过我两三天测试，哪怕周末晚高峰，网站测速全国平均时间都在 300ms 左右，跟香港阿里云不相伯仲。即便这个优惠期只有一年，那也绝对值了。\n\n部署过程\n\nHugo 仓库上传到 Github 后，部署到 Github Pages, Vercel, Cloudflare Pages, Netlify, 腾讯云 Edge One 等免费平台都比较简单，只需要在后者绑定 Github 仓库基本都能轻松完成部署。但部署到 VPS 稍微复杂点。\nVPS 基础设置 （也可以手搓，但没必要）\n\n我使用 1Panel 面板来辅助部署，主要是考虑到需要申请 SSL 证书并实现自动续期，同时可以自动设置 Nginx, 简化很多操作。\n大致步骤如下：\nVPS 安装 1Panel\n\n\n\n1\n\n\n\nc…",
+          "link": "https://lawtee.com/article/deploy-hogo-to-vps/",
+          "publishedOn": "2025-01-11T12:30:00.000Z",
+          "wordCount": 574,
+          "title": "怎样将 HUGO 博客部署到阿里云",
+          "imageUrl": "https://lawtee.com/article/deploy-hogo-to-vps/00.webp"
+        },
+        {
           "id": "https://lawtee.com/article/does-huawei-office-glass-dome-design-infringe-rights/",
           "author": null,
           "description": "最近在网上看到一篇新闻，说是新闻其实也算不上，该篇文章内容其实是 2019 年的，只是被网友重新扒出来 讨论。原文是：New Huawei Headquarters. Copyright infringement dispute 由一个加拿大的艺术设计公司所写，内容主要是他们认为华为办公楼的玻璃穹顶设计侵犯了其著作权。\n事件简要情况\n\n\n2018 年，一位加拿大的设计师 Victoria Balva 被来自亚洲的朋友告知，华为在深圳建设的一栋办公楼中，有一个巨大的彩色和铅制玻璃屋顶与这位设计师以前设计过的项目非常相似。于是 Victoria Balva 联系了华为办公楼的建筑设计方 —— 日本 Nikken Sekkei 公司（日建公司）。\n日建公司经过简单调查，承认了自己员工在为华为设计建筑项目时参考了 Victoria Balva 以往设计作品的事实，同时日建公司委托了一位加拿大的律师来处理这件事。\n但是在后续交涉中，日建公司经过认真分析，认为他们为华为设计的作品属于原创作品，是装饰玻璃圆顶和穹顶行业最高和最新成就的设计，拒绝接受 Victoria Balva 提出的侵权诉求。\n由于 Victoria Balva 所处的只是一家中小型企业，而在这个案件中，它同时要面对中日两国的两家大型公司法律对抗，特别是还存在不同国家对知识产权保护范围的区别，在意识到案件可能会很复杂后，便将这件事发在公司自己的网站上。\n对于是否侵权的直观感受\n\n\n老实说，第一眼看到这个设计图时，我直觉是这东西应该没可能作为知识产权保护。像图形中间的一些曼陀罗元素，小学生拿着绘图尺也能轻松画出来。不管是在屋顶设计、刺绣、瓷砖、地毯甚至人民币上，都能找到很多同类元素。只要不是全盘抄袭，正常来说不至于构成侵权。\n\n但知识产权有时候确实没有那么的讲道理，还得具体分析这个屋顶设计到底构不构成侵权。\n玻璃穹顶所属…",
@@ -1016,6 +1026,16 @@
       "feedUrl": "https://soulteary.com/feed/",
       "siteUrl": "https://soulteary.com/feed/",
       "articles": [
+        {
+          "id": "https://soulteary.com/2025/01/11/quickly-build-a-stable-armbian-system-onecloud-speed-running-guide-2.html",
+          "author": "苏洋(soulteary)",
+          "description": "这是我们玩客云稳定性优化指南的第二部分。不管你是想要一台经济实惠的服务器，还是对嵌入式设备感兴趣，这一系列文章都会手把手教你如何让玩客云运行得更稳定、更容易维护，同时避开那些常见的坑。",
+          "link": "https://soulteary.com/2025/01/11/quickly-build-a-stable-armbian-system-onecloud-speed-running-guide-2.html",
+          "publishedOn": "2025-01-11T05:01:00.000Z",
+          "wordCount": 4704,
+          "title": "快速构建稳定的 Armbian 系统：玩客云折腾速通指南（二）",
+          "imageUrl": null
+        },
         {
           "id": "https://soulteary.com/2025/01/08/lightweight-server-under-fifty-yuan-wanke-cloud-speed-running-guide-1.html",
           "author": "苏洋(soulteary)",
@@ -2091,6 +2111,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=30040",
+          "author": "Adesoji Alu",
+          "description": "Phi-4, Microsoft’s latest small language model (SLM), is a groundbreaking 14B parameter model that outperforms comparable and larger models on math-related reasoning tasks. A small language model (SLM) is an artificial intelligence (AI) model that can understand, process, and generate human language. SLMs are similar to large language models (LLMs), but are smaller and less […]",
+          "link": "https://collabnix.com/phi-4-redefining-small-language-models-with-advanced-mathematical-reasoning/",
+          "publishedOn": "2025-01-11T12:45:40.000Z",
+          "wordCount": 3465,
+          "title": "Phi-4: Redefining Small Language Models with Advanced Mathematical Reasoning",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=30014",
           "author": "Tanvir Kour",
@@ -3853,6 +3883,21 @@
       "feedUrl": "https://bluehe.cn/rss.xml",
       "siteUrl": "https://bluehe.cn/",
       "articles": [
+        {
+          "id": "https://bluehe.cn/archives/teacher-trainee",
+          "author": "寻鹤",
+          "description": "2024年9月10日，我开始了为期四个月的教育实习，这是我作为师范生选择的体验。在德育老师的介绍下，第一次走进了实习班级，登上了讲台后，向学生们做了自我介绍。看到学生们的热情笑脸，我感到特别亲切和温暖。更让我感动的是，我还收到了人生中的第一份教师节祝福，这...",
+          "link": "https://bluehe.cn/archives/teacher-trainee",
+          "publishedOn": "2025-01-11T15:54:00.000Z",
+          "wordCount": 737,
+          "title": "中职校园：师范生实习见闻录",
+          "enclosure": {
+            "url": "https://bluehe.cn/usr/uploads/2025/01/3154383782.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bluehe.cn/usr/uploads/2025/01/3154383782.jpg"
+        },
         {
           "id": "https://bluehe.cn/archives/ariarss-typecho",
           "author": "寻鹤",
