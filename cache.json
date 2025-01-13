@@ -373,6 +373,16 @@
       "siteUrl": "https://lawtee.com/",
       "articles": [
         {
+          "id": "https://lawtee.com/article/repair-desk-lamp/",
+          "author": null,
+          "description": "2012 年我花了当时月收入的 1/10 购买一款飞利浦台灯，这个灯也算是物尽其用，一直跟随我用到 2020 年左右，之后被我老婆用一款 500 块的智商税儿童台灯替换掉。而这款智商税台灯，时常发生触控失灵现象，不管怎么变着法子摸那个开关， 10 次里边大概也只有一两次能有反应，经常开了灯无法关，只能把电源线拔了。直到最近，这款台灯终于彻底触控失灵。\n\n维修过程\n\n虽然是个智商税产品，但我知道它唯一的故障就是触控失灵，想着先拆开看看到底咋回事。\n不拆不要紧，一拆就发现这玩意果然是个一次性产品，台灯底部只能暴力破坏才能找到 6 个螺丝孔，好在即便暴力破坏，也不影响外观，毕竟是在底座上，平常也看不到。\n维修原理分析\n\n\n拆了好久才终于把台灯的触控部分拆下来。但我发现这个触控开关方式，跟我印象中的物理触控有很大区别。\n研究一番才发现，这种触控是使用电容传感技术，人体触摸的只是一体成型塑料模具的一个面，而在另一个面有一个金属的电路在那接收人体触摸时发出的脉冲信号。\n我在抖音上找了很多台灯触控维修的视频观看，但大部分的维修点都与我这个有区别。剩下的个别维修视频中，对触控不灵的解决办法是直接舍弃触控开关，强行将线路接通，使用插拔电源方式来开关；或者飞线外接一个实体开关。\n我一度以为也只能如此操作，但还是不死心。因为每当我用手摸一下上图中那几个类似小铜薄片一样的电路时，台灯就能进行开关了。\n我想，维修的重点就是如何解决隔着上图右边部分那个一体成型的塑料按钮，来实现对台灯内部小铜薄片的电路激活。\n一个简单的想法是，直接把这个塑料部分用刻刀强行分离出来，把固定的触摸变成开关一样触摸。\n但头疼的是，在我操作过程中，把原来电路板上的电源线给不慎扯断了。\n于是又翻出电烙铁把线路给重新接上。\n但也就是因为使用电烙铁，给了我接下来维修的两个灵感。\n打孔实现从台灯外部对内部电路的激活\n\n\n刚好有电烙铁在旁边，于是直接用电烙铁把原来触控开关部分的塑料给熔化，捅出一个洞来。这样，我就能直接从台灯外边拿个东西去捅里边的电路，实现开关功能。\n但是这种方法并不彻底，因为我发现能激活这个开关的，要么是人体触摸，要么是使用金属。使用牙签或塑料棍去捅，并不能激活电路。\n给打孔的洞里增加一个导体\n\n\n回想起它的工作原理，这应该是需要一个导体来激活。刚好我已经翻出了电烙铁和锡丝，而这锡丝无疑是最方便的导体，重点是它足够软，可以直接盘进去洞里。\n做个装饰免得太丑\n\n\n找小孩用的贴纸或其他东西把洞挡住就完事。",
+          "link": "https://lawtee.com/article/repair-desk-lamp/",
+          "publishedOn": "2025-01-12T01:30:00.000Z",
+          "wordCount": 105,
+          "title": "暴力维修触控失灵的台灯",
+          "imageUrl": "https://lawtee.com/article/repair-desk-lamp/00.webp"
+        },
+        {
           "id": "https://lawtee.com/article/deploy-hogo-to-vps/",
           "author": null,
           "description": "自从博客彻底搬迁到 Hugo 后，我大部分时间都将博客放置在 Github Pages, Vercel, Cloudflare Pages 这些免费平台。但因为众所周知的原因，这些平台链接速度相比国内服务器还是存在明显差距，虽然可以通过优选 IP 方式进行加速，但全国平均访问时间依然需要 700ms 以上，遇上夜间高峰期，超过 1 秒也很正常。最近从阿里云母公司 Claw.cloud 购入一款廉价阿里云服务器，7美元一年价格，位于日本东京。感觉非常适合 Hugo 使用，便迁移过来。\n为什么选这款 VPS\n\n自从 2024 年顶着阿里云光环的 Claw 横空出世后，感觉市面上各类小公司的 VPS 性价比急剧下跌。但之前 Claw 几款神器价格倒也不是那么便宜，比如 4美元/月 的香港服务器，算下来一年也要 300 多块，关键是需要加价才能从别的 MJJ 手中才能收到。而这次推出的据说毫无线路优化的 7美元/年 的日本服务器，倒是让人意外惊喜。电信、移动直连国内，联通回程也是直连国内，对于建站来说再合适不过，经过我两三天测试，哪怕周末晚高峰，网站测速全国平均时间都在 300ms 左右，跟香港阿里云不相伯仲。即便这个优惠期只有一年，那也绝对值了。\n\n部署过程\n\nHugo 仓库上传到 Github 后，部署到 Github Pages, Vercel, Cloudflare Pages, Netlify, 腾讯云 Edge One 等免费平台都比较简单，只需要在后者绑定 Github 仓库基本都能轻松完成部署。但部署到 VPS 稍微复杂点。\nVPS 基础设置 （也可以手搓，但没必要）\n\n我使用 1Panel 面板来辅助部署，主要是考虑到需要申请 SSL 证书并实现自动续期，同时可以自动设置 Nginx, 简化很多操作。\n大致步骤如下：\nVPS 安装 1Panel\n\n\n\n1\n\n\n\nc…",
@@ -1165,16 +1175,6 @@
           "wordCount": 407,
           "title": "千兆之上：家庭网络 2.5G 升级实践",
           "imageUrl": null
-        },
-        {
-          "id": "https://soulteary.com/2024/10/15/manage-ssh-configuration-using-structure-data-ssh-config-tool.html",
-          "author": "苏洋(soulteary)",
-          "description": "随着折腾的设备和云服务器越来越多，我们本地的 SSH Config 配置越来越复杂，为了解决这个问题，最近做了一些简单的尝试。",
-          "link": "https://soulteary.com/2024/10/15/manage-ssh-configuration-using-structure-data-ssh-config-tool.html",
-          "publishedOn": "2024-10-15T03:54:00.000Z",
-          "wordCount": 1104,
-          "title": "使用结构化数据管理 SSH 配置：SSH Config Tool",
-          "imageUrl": null
         }
       ]
     },
@@ -1671,6 +1671,16 @@
       "feedUrl": "https://www.derekseaman.com/feed/",
       "siteUrl": "https://www.derekseaman.com",
       "articles": [
+        {
+          "id": "https://www.derekseaman.com/?p=19607",
+          "author": "Derek Seaman",
+          "description": "With the large amount of digital data that people consider important, safeguarding your critical data against catastrophic loss is more important than ever. Whether it’s a natural disaster, hardware failure, or a cyberattack, the potential for data loss is large. Protecting precious photos, financial documents and other personal or business data is extremely important.  Implementing […]",
+          "link": "https://www.derekseaman.com/2025/01/3-2-1-go-a-step-by-step-guide-to-implementing-foolproof-backups.html",
+          "publishedOn": "2025-01-12T04:15:18.000Z",
+          "wordCount": 5979,
+          "title": "3-2-1 Go: A Step-by-Step Guide to Implementing Foolproof Backups",
+          "imageUrl": "https://www.derekseaman.com/wp-content/uploads/disks-cloud.jpg"
+        },
         {
           "id": "https://www.derekseaman.com/?p=18598",
           "author": "Derek Seaman",
@@ -3420,26 +3430,6 @@
           "wordCount": 2732,
           "title": "A Complete Guide to Kubectl Commands",
           "imageUrl": "https://usercontent.one/wp/collabnix.com/wp-content/uploads/2024/10/Feature-image-Kubectl-commands-png.avif?media=1725267074"
-        },
-        {
-          "id": "https://collabnix.com/?p=27956",
-          "author": "Adesoji Alu",
-          "description": "Discover how Testcontainers-Playwright simplifies browser automation and testing without local Playwright installations. Learn about its features, limitations, compatibility, and usage with code examples.",
-          "link": "https://collabnix.com/testcontainers-and-playwright/",
-          "publishedOn": "2024-10-15T12:30:01.000Z",
-          "wordCount": 2996,
-          "title": "Testcontainers and Playwright",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/10/Teal-Futuristic-Technology-Facebook-Cover-3.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=27930",
-          "author": "Tanvir Kour",
-          "description": "Screen recording provides you with limitless opportunities to share your knowledge, expertise, and creative ideas. Arm yourself with powerful tools and produce outstanding content with min effort on your end.",
-          "link": "https://collabnix.com/best-free-screen-recorders-for-windows-11/",
-          "publishedOn": "2024-10-14T17:08:24.000Z",
-          "wordCount": 2964,
-          "title": "Best Free Screen Recorders for Windows 11",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/10/Screenshot-2024-10-14-at-10.37.19%E2%80%AFPM.png"
         }
       ]
     },
@@ -3626,16 +3616,6 @@
           "publishedOn": "2024-10-31T01:20:00.000Z",
           "wordCount": 531,
           "title": "买保险，靠谱么？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://qq.mba/190.html",
-          "author": "满心",
-          "description": "昨儿晚上，我原本只是打算去取快递，没想到在门口遇到一个卖牛肉干的小摊。说真的，牛肉我还是蛮爱吃的，牛肉干更是喜爱！我抱着尝尝的态度，其实并没打算买的。摊主热情招呼尝一下，我开始尝了那种黄牛肉干，...",
-          "link": "https://qq.mba/190.html",
-          "publishedOn": "2024-10-15T07:43:48.000Z",
-          "wordCount": 529,
-          "title": "好吃的风干牦牛肉",
           "imageUrl": null
         }
       ]
@@ -4204,6 +4184,26 @@
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
         {
+          "id": "https://dusays.com/787/",
+          "author": null,
+          "description": "<blockquote>\n<p>Nginx 的访问日志中蕴含丰富的信息，然而直接阅读对于大多数人来说是一项艰巨的任务。但我们有 GoAccess 这样的强大工具，它能够帮助我们轻松地分析和可视化 Nginx 的访问日志。</p>\n</blockquote>",
+          "link": "https://dusays.com/787/",
+          "publishedOn": "2025-01-09T16:00:00.000Z",
+          "wordCount": 1408,
+          "title": "使用 GoAccess 分析 Nginx 访问日志",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
+          "id": "https://dusays.com/786/",
+          "author": null,
+          "description": "<blockquote>\n<p>在当今数字化时代，网站流量分析对于理解用户行为、优化网站性能以及制定营销策略至关重要。本文将探讨如何通过分析 Nginx 的 access_log 获取网站流量的多维度数据，并给出具体操作步骤和分析方法。</p>\n</blockquote>",
+          "link": "https://dusays.com/786/",
+          "publishedOn": "2025-01-06T16:00:00.000Z",
+          "wordCount": 1559,
+          "title": "通过 Nginx 的 access_log 分析网站的流量",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
           "id": "https://dusays.com/785/",
           "author": null,
           "description": "<blockquote>\n<p>之前有小伙伴问到是否有 Office 产品的激活密钥，杜老师在微软的官网上好顿搜索，终于是找到了！目前 Office 有两大版本，一个是年度版「如 2024」一个是订阅版「即 365」订阅版不可以破解使用，文中均为年度版的激活密钥。</p>\n</blockquote>",
@@ -4754,16 +4754,6 @@
           "wordCount": 766,
           "title": "快速部署单节点kafka",
           "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
-        },
-        {
-          "id": "https://zahui.fan/posts/sldz99/",
-          "author": null,
-          "description": "<p>直接看效果（<code>pip install pyyaml</code>）：</p>\n<figure class=\"highlight python\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span",
-          "link": "https://zahui.fan/posts/sldz99/",
-          "publishedOn": "2024-10-15T07:24:45.000Z",
-          "wordCount": 487,
-          "title": "yaml多行文本的写法和区别",
-          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
         }
       ]
     },
@@ -4870,16 +4860,6 @@
           "publishedOn": "2024-10-22T14:47:21.000Z",
           "wordCount": null,
           "title": "Ubuntu24.04，Kubeadm安装k8s 1.31，使用containerd作为CRI，使用Flannel作为CNI插件",
-          "imageUrl": null
-        },
-        {
-          "id": "/archives/1728957767194",
-          "author": null,
-          "description": "创建虚拟环境 在 Python 中创建虚拟环境，可以使用以下步骤： 1. 使用 venv 创建虚拟环境 Python 自带的 venv 模块可以用来创建虚拟环境。执行以下命令： python -m venv myenv\n 这里 myenv 是你虚拟环境的名字，可以根据需要更换。 2. 激活虚拟环境",
-          "link": "http://localhost:8090/archives/1728957767194",
-          "publishedOn": "2024-10-15T02:03:59.000Z",
-          "wordCount": null,
-          "title": "2 分钟搞定 Python 虚拟环境",
           "imageUrl": null
         }
       ]
