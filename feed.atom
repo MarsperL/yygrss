@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-01-13T01:53:41.982Z</updated>
+    <updated>2025-01-14T01:43:13.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NVMe Memory Tiering Configuration in VMware: 4x Your RAM!]]></title>
+        <id>https://www.virtualizationhowto.com/?p=298785</id>
+        <link href="https://www.virtualizationhowto.com/2025/01/nvme-memory-tiering-configuration-in-vmware-4x-your-ram/"/>
+        <updated>2025-01-13T13:29:46.000Z</updated>
+        <summary type="html"><![CDATA[There have been a lot of new features added recently in the VMware vSphere world, and especially with VMware vSphere 8.0 Update 3. Just when you think that you might find a vSphere alternative or think there is another solution that is better, VMware proves they still lead the pack and for good reason. One …
+The post NVMe Memory Tiering Configuration in VMware: 4x Your RAM! appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using Docker Desktop CLI]]></title>
+        <id>https://collabnix.com/?p=30068</id>
+        <link href="https://collabnix.com/using-docker-desktop-cli/"/>
+        <updated>2025-01-13T03:36:11.000Z</updated>
+        <summary type="html"><![CDATA[Docker Desktop version 4.37 and later introduces the Docker Desktop CLI, a powerful tool that allows developers to manage key Docker Desktop operations directly from the command line. This addition significantly enhances automation capabilities and streamlines the developer experience, particularly for those working with CI/CD pipelines. In this blog, we’ll explore the Docker Desktop CLI, […]]]></summary>
+        <author>
+            <name>Ajeet Raina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Follow 开启个性化信息汇聚的新时代]]></title>
+        <id>https://dusays.com/788/</id>
+        <link href="https://dusays.com/788/"/>
+        <updated>2025-01-12T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>在信息爆炸的当下，我们每天都会被海量的内容包围，从新闻资讯到娱乐八卦，从专业文章到生活琐事，各种信息纷至沓来。如何在繁杂信息海洋中精准地筛选出自己真正感兴趣的内容，Follow 或许就是解决这一问题的神器。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[理想的内容发布工作流]]></title>
+        <id>https://yeshu.cloud/posts/newsletter-129/</id>
+        <link href="https://yeshu.cloud/posts/newsletter-129/"/>
+        <updated>2025-01-12T15:52:04.000Z</updated>
+        <summary type="html"><![CDATA[如果一项工作需要重复做 3 遍，就要想尽一切办法使其自动化。]]></summary>
+        <author>
+            <name>一颗小树</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3-2-1 Go: A Step-by-Step Guide to Implementing Foolproof Backups]]></title>
         <id>https://www.derekseaman.com/?p=19607</id>
@@ -14,6 +57,20 @@
         <summary type="html"><![CDATA[With the large amount of digital data that people consider important, safeguarding your critical data against catastrophic loss is more important than ever. Whether it’s a natural disaster, hardware failure, or a cyberattack, the potential for data loss is large. Protecting precious photos, financial documents and other personal or business data is extremely important.  Implementing […]]]></summary>
         <author>
             <name>Derek Seaman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[休闲娱乐-1月]]></title>
+        <id>https://marsperl.github.io/yyg/64b9e8e0/</id>
+        <link href="https://marsperl.github.io/yyg/64b9e8e0/"/>
+        <updated>2025-01-12T02:01:59.000Z</updated>
+        <summary type="html"><![CDATA[登山-嵩山
+​    前两天，去了登封爬了嵩山，在登封两天的总体感觉还不错。
+人文风情
+​    之前做攻略看到登封的炒刀削不错。特地去尝了尝，地址是登封汽车客运总站旁的小店，个人觉得味道不错，分量足，价格适中。
+​]]></summary>
+        <author>
+            <name>云野阁</name>
         </author>
     </entry>
     <entry>
@@ -8221,45 +8278,6 @@ For progressi…]]></summary>
 <p>在朋友的推荐下，我选择了 EasyTier 作为 SDWAN 方案，进行组网配置。</p>]]></summary>
         <author>
             <name>弹霄博科</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多集群 PKI 与 Istio 实践：为服务网格构建可信且可扩展的 PKI]]></title>
-        <id>https://jimmysong.io/blog/multi-cluster-pki-istio-recipe/</id>
-        <link href="https://jimmysong.io/blog/multi-cluster-pki-istio-recipe/"/>
-        <updated>2024-10-16T03:51:57.000Z</updated>
-        <summary type="html"><![CDATA[作者：Cristofer TenEyck（Keyfactor 高级解决方案工程师）和 Jimmy Song（Tetrate 布道师）
-引言
-在云原生应用程序不断发展的背景下，确保跨多个集群的服务网格安全对于保证安全性和合规性至关重要。Istio 作为领先的开源服务网格，提供了用于保护微服务之间通信的工具。然而，在此环境中实施一个强大且可扩展的公钥基础设施（PKI）来管理证书仍然是一个重大挑战。
-在本文中，我们将深入探讨使用 EJBCA 开源 PKI 为跨多个集群的 Istio 服务网格实现 PKI 解决方案。我们将重点介绍设置 EJBCA、配置 cert-manager 的 EJBCA 外部签发器，以及确保 Istio 工作负载的证书自动续期的过程。本指南将帮助你构建可信且可扩展的 PKI，实现安全、合规且具有弹性的服务网格。
-为什么选择多集群？随着组织扩大其 Kubernetes 基础设施，多集群部署正变得越来越流行。多集群 Istio 设置提供了增强的可用性、容错性以及跨集群的工作负载隔离。
-理解 PKI 及其在服务网格中的作用
-PKI 是现代数字安全的基石。它涉及管理密钥和证书，以确保用户、应用程序或服务等实体之间的安全通信。在像 Istio 这样的服务网格中，有效的 PKI 对于保护微服务之间的通信，尤其是在多集群环境中，至关重要。
-EJBCA 提供了一个用于大规模管理 PKI 的开源解决方案。与 OpenSSL 或 Istio 内置的 PKI 等其他选项相比，EJBCA 提供了一个功能齐全、企业级的 PKI，适用于从简单到更复杂和多用途的部署。EJBCA 的能力超越了仅仅签发 mTLS 证书，提供了合规性特性、安全的可扩展性、密码灵活性，以及与广泛的应用程序集成。
-Istio、EJBCA 和 cert-manager
-使用 EJBCA 为多集群 Istio 环境设…]]></summary>
-        <author>
-            <name>Jimmy Song</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to run Kubernetes on AWS]]></title>
-        <id>https://collabnix.com/?p=27968</id>
-        <link href="https://collabnix.com/how-to-run-kubernetes-on-aws/"/>
-        <updated>2024-10-15T17:49:11.000Z</updated>
-        <summary type="html"><![CDATA[Kubernetes is a powerful container orchestration tool that enables efficient management of containerized applications. You can integrate Kubernetes with cloud providers, such as AWS, you can leverage scalable infrastructure and automate the deployment of your applications across multiple environments. This tutorial will explain how to integrate Kubernetes with AWS, including setting up your AWS environment, […]]]></summary>
-        <author>
-            <name>Abraham Dahunsi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Complete Guide to Kubectl Commands]]></title>
-        <id>https://collabnix.com/?p=27986</id>
-        <link href="https://collabnix.com/a-complete-guide-to-kubectl-commands/"/>
-        <updated>2024-10-15T17:48:55.000Z</updated>
-        <summary type="html"><![CDATA[Introduction kubectl is a command-line tool for interacting with Kubernetes clusters, enabling users to manage, inspect, and debug workloads in the cluster. Whether you’re deploying applications, viewing logs, or scaling services, kubectl is the primary interface for these operations. This guide provides a comprehensive overview of essential kubectl commands, walking you through their usage to […]]]></summary>
-        <author>
-            <name>Abraham Dahunsi</name>
         </author>
     </entry>
 </feed>
