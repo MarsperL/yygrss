@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-01-14T01:43:13.928Z</updated>
+    <updated>2025-01-15T01:45:42.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Making "this" less annoying]]></title>
+        <id>https://daverupert.com/2025/01/like-this-and-like-that-and-like-this-and-uh/</id>
+        <link href="https://daverupert.com/2025/01/like-this-and-like-that-and-like-this-and-uh/"/>
+        <updated>2025-01-15T01:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Now that I have a job where I’m writing web components full time, I see the this keyword more than I ever have in my whole life. It’s not a problem, per se, but you can see how it’s a little repetitive. I started wondering what my options were to fix this minor annoyance and the ShopTalk Discord helped me find a simple way and an over-the-top way to fix my issue.
+Simple way: Overriding VS Code theme color tokens
+By default my Github Light theme makes this a bold dark blue color. I didn’t want to roll my own theme though to scratch this niche itch, so I dug in and found out you can override single tokens in VS Code. Handy. The documentation is a bit opaque but here’s what you need to do:
+
+// settings.json
+"editor.tokenColorCustomizations": {
+  "textMateRules": [
+    {
+      "scope": "variab…]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hashicorp Vault Docker Install Steps: Kubernetes Not Required!]]></title>
+        <id>https://www.virtualizationhowto.com/?p=298805</id>
+        <link href="https://www.virtualizationhowto.com/2025/01/hashicorp-vault-docker-install-steps-kubernetes-not-required/"/>
+        <updated>2025-01-14T14:14:26.000Z</updated>
+        <summary type="html"><![CDATA[If you are doing much DevOps and working with terraform code, Ansible, or other IaC, having a secure place to store secrets so your code doesn’t have those secrets hard coded is a great way to make sure secrets and passwords are not stored in plain text. If you are looking to spin up Hashicorp …
+The post Hashicorp Vault Docker Install Steps: Kubernetes Not Required! appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[姐姐寄来了茉莉花茶]]></title>
+        <id>https://qq.mba/214.html</id>
+        <link href="https://qq.mba/214.html"/>
+        <updated>2025-01-14T06:19:00.000Z</updated>
+        <summary type="html"><![CDATA[不知道大家都喝不喝茶，大概15年左右我还是蛮喜欢喝茶的，可能也是身边的人都喜欢吧，再加上那会儿一有空就去朋友公司坐坐，总不能干坐着吧，自然就要泡茶喝了，那时候喝的比较多的就是：普洱、武夷大红袍、...]]></summary>
+        <author>
+            <name>满心</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个由 BGP Route Aggregation 引发的问题]]></title>
+        <id>https://www.kawabangga.com/?p=6851</id>
+        <link href="https://www.kawabangga.com/posts/6851"/>
+        <updated>2025-01-14T00:36:00.000Z</updated>
+        <summary type="html"><![CDATA[上周遇到的一个问题很有意思，后来搜索相关的资料，找到的也比较少，感觉有必要记录一下。 问题的场景很简单：我们有 […]
+Continue reading...]]></summary>
+        <author>
+            <name>laixintao</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NVMe Memory Tiering Configuration in VMware: 4x Your RAM!]]></title>
         <id>https://www.virtualizationhowto.com/?p=298785</id>
@@ -8215,69 +8265,6 @@ For progressi…]]></summary>
         <summary type="html"><![CDATA[In today’s fast-paced digital landscape, businesses are constantly seeking innovative ways to stay competitive. One strategy that’s gained significant traction is software outsourcing. As I delve into this topic, I find that companies of all sizes are increasingly turning to external partners to meet their software development needs. This approach not only helps in cutting […]]]></summary>
         <author>
             <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Tips to Reduce AWS Costs by Technical Experts]]></title>
-        <id>https://collabnix.com/?p=28044</id>
-        <link href="https://collabnix.com/5-tips-to-reduce-aws-costs-by-technical-experts/"/>
-        <updated>2024-10-17T13:41:59.000Z</updated>
-        <summary type="html"><![CDATA[Discover things you can do to cut off expenses on AWS. Use Amazon Web Services without overspending and use these tips for lower costs.]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[快速部署单节点kafka]]></title>
-        <id>https://zahui.fan/posts/slhl3q/</id>
-        <link href="https://zahui.fan/posts/slhl3q/"/>
-        <updated>2024-10-17T06:09:25.000Z</updated>
-        <summary type="html"><![CDATA[<p>如果需要集群部署的文档你可以在站内搜搜，之前写过。</p>
-<p>单节点部署，不考虑高可用性，只求快速搭建出环境，一般都是自己开发或者运维做测试使用。或者业务的测试环境为了节省服务器资源采取的方案。不过我不一样，我们测试环境资源充足，我只是单纯的懒。</p>
-<h2 id="第一步-安装-Docker"><a href="#第一步-安装-Docker" class="headerlink"]]></summary>
-        <author>
-            <name>杂烩饭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[沟谷雨林：西双版纳原始森林公园]]></title>
-        <id>https://bluehe.cn/archives/forest-park-xishuangbanna</id>
-        <link href="https://bluehe.cn/archives/forest-park-xishuangbanna"/>
-        <updated>2024-10-17T05:16:00.000Z</updated>
-        <summary type="html"><![CDATA[在一次国庆之旅中，游客们体验了西双版纳原始森林公园的魅力，从清晨的公交出行到步行穿越雨林，感受了自然与文化的交融。尽管门票价格各异，但雨林中的吊桥、爱伲山寨的民俗展示、沟谷中的猴子以及雨林特有的湿润环境都让人印象深刻。在雨林游道上，竹制步道与周围植被和谐共生，展现了生态之美。旅程中还体验了丛林飞跃项目，并参与了泼水节的欢乐，最后观看了壮观的孔雀放飞表演。尽管行程较短，但这段经历让人难忘，成为了国庆假期的美好回忆。]]></summary>
-        <author>
-            <name>寻鹤</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geek Chic Eyewear: Understanding Lens Materials and Designs]]></title>
-        <id>https://www.derekseaman.com/?p=12254</id>
-        <link href="https://www.derekseaman.com/2024/10/geek-chic-eyewear-understanding-lens-materials-and-designs.html"/>
-        <updated>2024-10-16T21:03:09.000Z</updated>
-        <summary type="html"><![CDATA[In Part 2 of my “Geek Chic Eyewear” series I will delve into the various len materials and designs. While frames (covered in Part 1) play a significant role in the aesthetics of your eyewear, the quality of the lenses is paramount. Poor-quality lenses can severely detract from the overall functionality and satisfaction of your glasses, regardless […]]]></summary>
-        <author>
-            <name>Derek Seaman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Kubernetes Scaling: From Manual Adjustments to Intelligent Automation in just 8 steps.]]></title>
-        <id>https://collabnix.com/?p=27993</id>
-        <link href="https://collabnix.com/mastering-kubernetes-scaling-from-manual-adjustments-to-intelligent-automation-in-just-8-steps/"/>
-        <updated>2024-10-16T16:56:16.000Z</updated>
-        <summary type="html"><![CDATA[Scaling applications in Kubernetes is essential for maintaining optimal performance, ensuring high availability, and managing resource utilization effectively. Whether you’re handling fluctuating traffic or optimizing costs, understanding how to scale your Kubernetes deployments is crucial. In this blog, we’ll delve into the intricacies of scaling in Kubernetes, explore manual and automated scaling techniques using kubectl […]]]></summary>
-        <author>
-            <name>Adesoji Alu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SDWAN 组网小记 —— 使用 EasyTier 组建一张网]]></title>
-        <id>https://www.txisfine.cn/archives/f2f7b8ba.html</id>
-        <link href="https://www.txisfine.cn/archives/f2f7b8ba.html"/>
-        <updated>2024-10-16T15:41:02.000Z</updated>
-        <summary type="html"><![CDATA[<p>在之前的博客中，我记录了我通过 GREv6 的方式将北京和老家的局域网组在了一起。在今年的规划中，我期望组建一张更大的网，将自己不同环境下的服务器和节点有序的组织起来。</p>
-<p>在朋友的推荐下，我选择了 EasyTier 作为 SDWAN 方案，进行组网配置。</p>]]></summary>
-        <author>
-            <name>弹霄博科</name>
         </author>
     </entry>
 </feed>
