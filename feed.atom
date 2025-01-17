@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-01-16T01:44:57.010Z</updated>
+    <updated>2025-01-17T01:43:49.073Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2024年微信公众号收到赞赏6487.50¥]]></title>
+        <id>https://blog.ops-coffee.cn/s/2024-WeChat-official-accounts-data-share</id>
+        <link href="https://blog.ops-coffee.cn/s/2024-WeChat-official-accounts-data-share"/>
+        <updated>2025-01-16T15:28:07.000Z</updated>
+        <summary type="html"><![CDATA[运维咖啡吧公众号2024年完整数据分享]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Containers for DevOps in 2025]]></title>
+        <id>https://www.virtualizationhowto.com/?p=298841</id>
+        <link href="https://www.virtualizationhowto.com/2025/01/best-containers-for-devops-in-2025/"/>
+        <updated>2025-01-16T13:36:39.000Z</updated>
+        <summary type="html"><![CDATA[I use a LOT of Docker containers in the home lab and in my DevOps journey to continually work with various code projects, automation, and just running applications in containers. There are myriads of DevOps containers to be aware of that provide a lot of value and can help you achieve various business and technical objectives. There …
+The post Best Containers for DevOps in 2025 appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国公司申请ICO费用免除]]></title>
+        <id>https://blog.xiaoz.org/?p=21708</id>
+        <link href="https://blog.xiaoz.org/archives/21708"/>
+        <updated>2025-01-16T06:47:07.000Z</updated>
+        <summary type="html"><![CDATA[ICO（Information Commissioner's Office）是英国的信息专员办公室，负责监督和执行数据保护法律，确保个人信息得到适当的保护，特别是根据《数据保护法》（DPA）和《通用数据保护条例》（GDPR）等法规。前言在注册英国公司后不久，收到了代理公司1st 转发的邮件，从邮件扫]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Enhances Cloud-Native App Deployment]]></title>
+        <id>https://collabnix.com/?p=30085</id>
+        <link href="https://collabnix.com/how-ai-enhances-cloud-native-app-deployment/"/>
+        <updated>2025-01-16T06:09:28.000Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence transforms how cloud-native applications are deployed. It simplifies tasks like managing resources and predicting workloads, offering real-time solutions to common challenges. Teams no longer struggle with manual adjustments or complex configurations. AI-powered tools streamline processes, making deployment faster and more efficient. This shift doesn’t just save time – it drives innovation. Developers focus […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[k8s部署prometheus]]></title>
         <id>/archives/k8sbu-shu-prometheus</id>
@@ -24,6 +65,18 @@
         <summary type="html"><![CDATA[一个完善的运维自动化系统都包含哪些功能模块]]></summary>
         <author>
             <name>运维咖啡吧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宽带商 DNS 地址整理「仅 IPv4」]]></title>
+        <id>https://dusays.com/789/</id>
+        <link href="https://dusays.com/789/"/>
+        <updated>2025-01-15T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>DNS 是互联网核心基础设施的关键组成部分，当计算机配置为使用距离最近 DNS 服务器时，可以显著提升域名解析效率，从而有效降低网络延时，优化网络服务响应速度，为用户带来更为流畅高效的网络体验。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
         </author>
     </entry>
     <entry>
@@ -96,6 +149,25 @@ By default my Github Light theme makes this a bold dark blue color. I didn’t w
 The post Hashicorp Vault Docker Install Steps: Kubernetes Not Required! appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 Envoy 实现 HTTP/2 CONNECT 隧道：原理与实践]]></title>
+        <id>https://jimmysong.io/blog/http2-envoy-tunnel-demo/</id>
+        <link href="https://jimmysong.io/blog/http2-envoy-tunnel-demo/"/>
+        <updated>2025-01-14T10:28:37.000Z</updated>
+        <summary type="html"><![CDATA[在最近对 Istio Ambient 模式的研究中，我发现 HTTP2 Connect 方法被用作创建隧道的核心技术，以实现透明流量的拦截和转发。HTTP/2 CONNECT 隧道是一种强大的工具，可以在已有的 HTTP/2 连接中创建高效的隧道，用于传输原始的 TCP 数据。这篇文章通过一个简单的 Demo，展示了如何使用 Envoy 来实现 HTTP/2 CONNECT 隧道的基本功能。
+什么是 HTTP2 Connect 方法以及 HBONE 隧道？
+HTTP2 Connect 方法是一种标准化的方式来创建隧道，用于透明地传输数据。特别是在 Istio 的 Ambient 模式中，它为代理数据平面之间的通信提供了一种高效的手段。HBONE（HTTP-Based Overlay Network Environment）隧道则是基于这种 HTTP2 Connect 技术的实现，用于 Istio 中的透明流量拦截和转发。通过使用 HBONE，数据可以有效地通过 HTTP2 隧道安全传输，替代了传统的 Sidecar 模式。这一创新设计极大地简化了服务网格的管理和部署。
+HBONE 是 Istio 特有的术语，它是一种安全隧道协议，用于在 Istio 组件之间进行通信。在当前的 Istio 实现中，HBONE 协议包含了三个开放标准：
+HTTP/2
+HTTP CONNECT
+Mutual TLS (mTLS)
+HTTP CONNECT 用于建立隧道连接，mTLS 用于安全地加密连接，而 HTTP/2 用于在单一安全隧道中多路复用应用连接流并传输附加的流级元数据。更多关于 HBONE 隧道的细节可以参考官方文档：HBONE 详细介绍。
+使用 HTTP2 Connect 建立隧道的基本原理
+HTTP2 Connect 方法允许我们创建一个类似于 VPN 的隧道，通过这个隧道可以安…]]></summary>
+        <author>
+            <name>Jimmy Song</name>
         </author>
     </entry>
     <entry>
@@ -8247,68 +8319,6 @@ For progressi…]]></summary>
         <summary type="html"><![CDATA[<p>DHCPv6 是 IPv6 环境下地址分配的一种协议，可以将网络配置参数从服务器段分配到客户端。DHCPv6-PD（Prefix Delegation，前缀分配）是 DHCPv6 的扩展，字如其名，其注重的是前缀分配，即服务器端将一个子网范围的前缀地址段和其他网络配置（如]]></summary>
         <author>
             <name>弹霄博科</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[华山西峰索道关闭，双腿已废]]></title>
-        <id>https://4311346.com/post/2024/1018-huashan.html</id>
-        <link href="https://4311346.com/post/2024/1018-huashan.html"/>
-        <updated>2024-10-19T09:32:51.000Z</updated>
-        <summary type="html"><![CDATA[距离国庆节又特地去了一趟福州-中国船政文化博物馆回来之后，上了一周的班，又跟着公司来西安一周的旅游。
-虽然大多数景点在今年03月从武汉-敦煌，自驾青甘大环线之旅时游玩过，但西岳华山之前来了那么多趟西安都未能去玩过。
-出行的第二天晚被大巴车带到陕西渭南华阴市的华山脚下，目的就是为了第二天能早点进入华山景区。
-华山西峰索道关闭
-导游一早05点30分就出发去华山游客中心排队购票。一直到07点30分我们到达景区大门时，因大风天气原因华山西峰索道关闭。我们原计划西上北下的轻松路线，不得不调整为，北山北下。
-也因华山西峰索道关闭，所有游客都前往北峰索道上山，结果就是北峰索道的进山车排队约20分钟，北峰索道排队2小时，返程华山北峰索道同样约2小时排队。
-
-北峰索道下来后，向右第一个到达的就是北峰，也是此时人数最多的，峰顶上占满了游客。继续前往中峰，开始各种爬楼梯大约2小时到达华山中峰。没能和体力好的同事再花2小时前往东峰-鹞子翻身-长空栈道-南峰-西峰-再回到中峰下山。
-华山西峰索道关闭，导致需要原路返回华山北峰… 双腿已废，还得排队下山。
-
-返回西安市区之后当天走了25000步，上升了900多米，约爬了400多层楼。
-没想到五岳第一个登上的会是西岳华山，没有来华山还好，现在就开始想着什么时候再会去东岳泰山、南岳衡山、北岳恒山和中岳嵩山。
-华山费用明细
-华山景区门票：160元/人
-华山西峰索道交通车：40元/人
-华山北峰索道交通车：20元/人
-华山西峰索道：140元/人
-华山北峰索道：80元/人
-按原来计划
-西峰进，北峰出，费用合计：160+40+140+80+20=440元/人
-因西峰索道关闭，实际出行费用
-北峰进，北峰出，费用合计：160+20+80+80+20=360元/人
-以上费用不包含，鹞子翻身、长空栈道 等自费项目。
-华山景区，景区交通车，北峰三特索道，西峰太华索道等等每个环节都是一家独立的公司运营… 关系错综复杂。
-《驼铃传奇》
-相比华山险峻更惊喜的是自费观看的演出《驼铃传奇》前排非常震撼。
-十年前，2013年09月，习主席在担任中国国家主席后首次踏访中亚时说：“我的家乡陕西，就位于古丝绸之路的起点。站在这里，回首历史，我仿佛听到了山间回荡的声声驼铃，看到了大漠飘飞的袅袅孤烟。”
-
-驼铃传奇整场实景歌舞演艺分为序幕《岁月再现》及《送君千里》、《狼道遇险》、《异国风情》、《祥雨洗尘》、《迎郎归来》、《华夏盛世》七幕剧情。
-
-《驼铃传奇》讲述的是 古代商队从西安出发沿着丝绸之路前往罗马的故事。结束之后吃完团餐就前往华山了，到了华山脚下，又被同事拉着干了几瓶啤酒+52°的华山白酒。
-
-华清池
-洗澡的地方，其实没啥好看的，骊山里出来的水真的是有温度的，感觉这地方更有名的也是因为西安事变。
-
-同事一直在给我种草《长恨歌》的演出，但即使第二场看完也太晚了，不然当晚得拼车前往华山脚下的酒店。
-西安博物院/秦始皇兵马俑
-秦始皇兵马俑门口排队一小时，才进入… 相比今年03月，天大的区别。
-上一次去的陕西历史博物馆，那么这一次通过西安博物院，更多的了解了西安的历史与文化。
-
-大唐不夜城\洒金桥\钟楼\鼓楼
-每次到西安都会在这里转一圈，当然这次是来西安钟楼酒店吃饭的
-
-从洒金桥北端步行到钟楼
-
-和回民街差不多
-
-试试钟楼饭店
-
-西安当地同事带了一瓶 西凤酒 ，喝完居然不醉…
-
-回到酒店后的宵夜…牛栏山二锅头，却上了头，深夜在酒店数珠子。
-附:华山攻略地图]]></summary>
-        <author>
-            <name>Andy烧麦 - 成熟，聪明，豁达的人什么也不问 过去，现在，将来…</name>
         </author>
     </entry>
 </feed>
