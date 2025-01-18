@@ -1067,6 +1067,16 @@
       "siteUrl": "https://soulteary.com/feed/",
       "articles": [
         {
+          "id": "https://soulteary.com/2025/01/17/guide-to-setting-up-ubuntu-24-04-basic-development-environment.html",
+          "author": "苏洋(soulteary)",
+          "description": "本篇文章聊一聊如何在 Ubuntu 24.04 上搭建基础开发环境。",
+          "link": "https://soulteary.com/2025/01/17/guide-to-setting-up-ubuntu-24-04-basic-development-environment.html",
+          "publishedOn": "2025-01-17T14:35:00.000Z",
+          "wordCount": 1221,
+          "title": "搭建 Ubuntu 24.04 基础开发环境指南",
+          "imageUrl": null
+        },
+        {
           "id": "https://soulteary.com/2025/01/11/quickly-build-a-stable-armbian-system-onecloud-speed-running-guide-2.html",
           "author": "苏洋(soulteary)",
           "description": "这是我们玩客云稳定性优化指南的第二部分。不管你是想要一台经济实惠的服务器，还是对嵌入式设备感兴趣，这一系列文章都会手把手教你如何让玩客云运行得更稳定、更容易维护，同时避开那些常见的坑。",
@@ -1754,6 +1764,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=298867",
+          "author": "Brandon Lee",
+          "description": "I have made no bones about the fact that I think the Minisforum MS-01 was the best home lab mini PC in 2024. I have (2) of them in a two-node VMware vSphere cluster, maybe Proxmox this year. However, when I got word of the Minisforum MS-A2 and the specs this forthcoming mini PC is …\nThe post Minisforum MS-A2 vs MS-01: Best Home Lab Server in 2025? appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/01/minisforum-ms-a2-vs-ms-01-best-home-lab-server-in-2025/",
+          "publishedOn": "2025-01-17T15:21:07.000Z",
+          "wordCount": 10137,
+          "title": "Minisforum MS-A2 vs MS-01: Best Home Lab Server in 2025?",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/minisforum-ms-a2-vs-ms-01.jpg"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=298841",
           "author": "Brandon Lee",
@@ -3827,6 +3847,16 @@
       "siteUrl": "https://www.skyue.com/",
       "articles": [
         {
+          "id": "https://www.skyue.com/25011720.html",
+          "author": "拾月",
+          "description": "去年公司请薄世宁医生分享体检知识，他提到3个必要检查中，有一个胃肠镜，联想到我一直消化不太好，体质偏瘦，就想着去做一个。但我很懒，一直拖着，直到上个月便血去医院检查，医生说是痔疮，并建议我做胃肠...",
+          "link": "https://www.skyue.com/25011720.html",
+          "publishedOn": "2025-01-17T12:47:00.000Z",
+          "wordCount": 457,
+          "title": "无痛胃肠镜检查",
+          "imageUrl": ""
+        },
+        {
           "id": "https://www.skyue.com/25010519.html",
           "author": "拾月",
           "description": "上篇文章分享了南瓜和我领证的消息，收到很多朋友的祝福，在此一并感谢大家，也祝大家新年快乐！本文对2024年做个例行总结，继续使用去年的模板，内容会串起很多今年发布的博文，既是个人总结，也是对全年...",
@@ -5029,6 +5059,16 @@
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
         {
+          "id": "https://blog.xiaoz.org/?p=21717",
+          "author": "xiaoz",
+          "description": "最近在朋友的推荐下，xiaoz 体验了 Cherry Studio 这款 AI 客户端，发现它界面简洁、功能强大，支持多模型切换和自定义助手，极大地提升了工作效率。在此安利给大家。关于Cherry StudioCherry Studio 是一款高效、跨平台的 AI 本地客户端（支持Windows、m",
+          "link": "https://blog.xiaoz.org/archives/21717",
+          "publishedOn": "2025-01-17T03:27:34.000Z",
+          "wordCount": 292,
+          "title": "Cherry Studio：一款高效全能的 AI 客户端",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.xiaoz.org/?p=21708",
           "author": "xiaoz",
           "description": "ICO（Information Commissioner's Office）是英国的信息专员办公室，负责监督和执行数据保护法律，确保个人信息得到适当的保护，特别是根据《数据保护法》（DPA）和《通用数据保护条例》（GDPR）等法规。前言在注册英国公司后不久，收到了代理公司1st 转发的邮件，从邮件扫",
@@ -5316,7 +5356,18 @@
       "title": "张戈博客",
       "feedUrl": "https://zhangge.net/feed",
       "siteUrl": "https://zhang.ge",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://zhang.ge/?p=6325",
+          "author": "Jager",
+          "description": "概述 长话短说，最近发现微软的语音服务莫名扣费了，然后看着国内云服务动辄几千上万的语音合成服务资源包，一阵苦涩。搜了下，发现挺多基于 edge-tts 的白嫖项目，试用了下确实能用，就是和源阅读对接的体验有待提高。 因此决定自己封装一个更适合源阅读 APP 的语音合成服务，以下是介绍，有需要的直接拿。 项目介绍 本项目基于 Edge-TTS 和 FastFlyer 开发框架，可以直接私有化部署提供语音合成服务，支持和源阅读 APP 无缝对接。 项目地址：FastTTS 框架介绍 FastFlyer 是基于 FastAPI 设计的轻量级 API 开发框架。在 FastAPI 优异特性的基础上集成了一系列开箱即用的组件，包括 Redis、MySQL、Kafka 等。采用 SDK 接入方式，内置脚手架代码生成等辅助工具，让研发人员只需要专注于业务逻辑的实现，真正开箱即用！ 注：更多框架介绍请阅读：FastFlyer 快速部署 成功启动后，访问：http://<host>:8080/speech/docs 可以看到 Swagger 工具页面。 简单鉴权 如果需要外网访问，建议开启接口鉴权： 开启鉴权后，生成源阅读的配置也会自动带上鉴权头部，可以无缝对接。 对接源阅读 服务已集成和源阅读 APP 的配置生成、一键导入工具，请查看项目自述文件。 　» 特别提示：转载本站文章请使用超链接注明出处。　» 本文链接地址：https://zhang.ge/5170.html 　» 如果喜欢可以：点此订阅本站相关文章Python远程控制模块paramiko遇到的问题及解决记录gRPC开发过程中遇到的问题记录分享一个自写的Python远程命令和文件（夹）传输类Flyer：基于FastAPI的轻量级API开发框架解决paramiko使用invoke_shell交互式命令超时问题\n查看全文",
+          "link": "https://zhang.ge/5170.html",
+          "publishedOn": "2025-01-16T04:48:01.000Z",
+          "wordCount": 1007,
+          "title": "FastTTS：支持私有化部署和源阅读无缝对接的语音合成服务",
+          "imageUrl": ""
+        }
+      ]
     },
     {
       "title": "kaku's blog",
@@ -5593,6 +5644,16 @@
       "feedUrl": "https://chegva.com/feed",
       "siteUrl": "https://chegva.com",
       "articles": [
+        {
+          "id": "https://chegva.com/?p=6251",
+          "author": "anzhihe",
+          "description": "通过具体示例来演示如何输出 GC 日志，并对输出的日志信息进行解读分析，从中提取有用的信息。\n本次演示的示例代码\n为了演示需要，我们先来编写一段简单的 Java 代码：\npackage demo.jvm0204;\r\nimport java.util.Random;\r\nimport java.util.concurrent.TimeUnit;\r\nimport java.util.concurrent.atomic.LongAdder;\r\n/*\r\n演示 GC 日志生成与解读\r\n*/\r\npublic class GCLogAnalysis {\r\n    private static Random random = new Random();\r\n    public static void main(String[] args) {\r\n        // 当前毫秒时间戳\r\n        long startMillis = System.currentTimeMillis();\r\n        // 持续运行毫秒数; 可根据需要进行修改\r\n        long timeoutMillis = TimeUnit.SECONDS.toMillis(1);\r\n        // 结束时间戳\r\n        long endMillis = startMillis + timeoutMillis;\r\n        LongAdder counter = new LongAdder();\r\n        System.out.println(\"正在执行...\");\r\n        // 缓存一部分对象; 进入老年代\r\n        int cacheSize = 2000;\r\n        Object[] cachedGarbage = new Object[cac…",
+          "link": "https://chegva.com/6251.html",
+          "publishedOn": "2025-01-16T07:43:03.000Z",
+          "wordCount": 12337,
+          "title": "JVM GC 日志解读与分析（基础配置）",
+          "imageUrl": null
+        },
         {
           "id": "https://chegva.com/?p=6249",
           "author": "anzhihe",

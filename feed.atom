@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-01-17T01:43:49.073Z</updated>
+    <updated>2025-01-18T01:41:44.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Minisforum MS-A2 vs MS-01: Best Home Lab Server in 2025?]]></title>
+        <id>https://www.virtualizationhowto.com/?p=298867</id>
+        <link href="https://www.virtualizationhowto.com/2025/01/minisforum-ms-a2-vs-ms-01-best-home-lab-server-in-2025/"/>
+        <updated>2025-01-17T15:21:07.000Z</updated>
+        <summary type="html"><![CDATA[I have made no bones about the fact that I think the Minisforum MS-01 was the best home lab mini PC in 2024. I have (2) of them in a two-node VMware vSphere cluster, maybe Proxmox this year. However, when I got word of the Minisforum MS-A2 and the specs this forthcoming mini PC is …
+The post Minisforum MS-A2 vs MS-01: Best Home Lab Server in 2025? appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[搭建 Ubuntu 24.04 基础开发环境指南]]></title>
+        <id>https://soulteary.com/2025/01/17/guide-to-setting-up-ubuntu-24-04-basic-development-environment.html</id>
+        <link href="https://soulteary.com/2025/01/17/guide-to-setting-up-ubuntu-24-04-basic-development-environment.html"/>
+        <updated>2025-01-17T14:35:00.000Z</updated>
+        <summary type="html"><![CDATA[本篇文章聊一聊如何在 Ubuntu 24.04 上搭建基础开发环境。]]></summary>
+        <author>
+            <name>苏洋(soulteary)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[无痛胃肠镜检查]]></title>
+        <id>https://www.skyue.com/25011720.html</id>
+        <link href="https://www.skyue.com/25011720.html"/>
+        <updated>2025-01-17T12:47:00.000Z</updated>
+        <summary type="html"><![CDATA[去年公司请薄世宁医生分享体检知识，他提到3个必要检查中，有一个胃肠镜，联想到我一直消化不太好，体质偏瘦，就想着去做一个。但我很懒，一直拖着，直到上个月便血去医院检查，医生说是痔疮，并建议我做胃肠...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cherry Studio：一款高效全能的 AI 客户端]]></title>
+        <id>https://blog.xiaoz.org/?p=21717</id>
+        <link href="https://blog.xiaoz.org/archives/21717"/>
+        <updated>2025-01-17T03:27:34.000Z</updated>
+        <summary type="html"><![CDATA[最近在朋友的推荐下，xiaoz 体验了 Cherry Studio 这款 AI 客户端，发现它界面简洁、功能强大，支持多模型切换和自定义助手，极大地提升了工作效率。在此安利给大家。关于Cherry StudioCherry Studio 是一款高效、跨平台的 AI 本地客户端（支持Windows、m]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024年微信公众号收到赞赏6487.50¥]]></title>
         <id>https://blog.ops-coffee.cn/s/2024-WeChat-official-accounts-data-share</id>
@@ -28,6 +69,39 @@ The post Best Containers for DevOps in 2025 appeared first on Virtualization How
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[JVM GC 日志解读与分析（基础配置）]]></title>
+        <id>https://chegva.com/?p=6251</id>
+        <link href="https://chegva.com/6251.html"/>
+        <updated>2025-01-16T07:43:03.000Z</updated>
+        <summary type="html"><![CDATA[通过具体示例来演示如何输出 GC 日志，并对输出的日志信息进行解读分析，从中提取有用的信息。
+本次演示的示例代码
+为了演示需要，我们先来编写一段简单的 Java 代码：
+package demo.jvm0204;
+import java.util.Random;
+import java.util.concurrent.TimeUnit;
+import java.util.concurrent.atomic.LongAdder;
+/*
+演示 GC 日志生成与解读
+*/
+public class GCLogAnalysis {
+    private static Random random = new Random();
+    public static void main(String[] args) {
+        // 当前毫秒时间戳
+        long startMillis = System.currentTimeMillis();
+        // 持续运行毫秒数; 可根据需要进行修改
+        long timeoutMillis = TimeUnit.SECONDS.toMillis(1);
+        // 结束时间戳
+        long endMillis = startMillis + timeoutMillis;
+        LongAdder counter = new LongAdder();
+        System.out.println("正在执行...");
+        // 缓存一部分对象; 进入老年代
+        int cacheSize = 2000;
+        Object[] cachedGarbage = new Object[cac…]]></summary>
+        <author>
+            <name>anzhihe</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[英国公司申请ICO费用免除]]></title>
         <id>https://blog.xiaoz.org/?p=21708</id>
         <link href="https://blog.xiaoz.org/archives/21708"/>
@@ -45,6 +119,17 @@ The post Best Containers for DevOps in 2025 appeared first on Virtualization How
         <summary type="html"><![CDATA[Artificial Intelligence transforms how cloud-native applications are deployed. It simplifies tasks like managing resources and predicting workloads, offering real-time solutions to common challenges. Teams no longer struggle with manual adjustments or complex configurations. AI-powered tools streamline processes, making deployment faster and more efficient. This shift doesn’t just save time – it drives innovation. Developers focus […]]]></summary>
         <author>
             <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FastTTS：支持私有化部署和源阅读无缝对接的语音合成服务]]></title>
+        <id>https://zhang.ge/?p=6325</id>
+        <link href="https://zhang.ge/5170.html"/>
+        <updated>2025-01-16T04:48:01.000Z</updated>
+        <summary type="html"><![CDATA[概述 长话短说，最近发现微软的语音服务莫名扣费了，然后看着国内云服务动辄几千上万的语音合成服务资源包，一阵苦涩。搜了下，发现挺多基于 edge-tts 的白嫖项目，试用了下确实能用，就是和源阅读对接的体验有待提高。 因此决定自己封装一个更适合源阅读 APP 的语音合成服务，以下是介绍，有需要的直接拿。 项目介绍 本项目基于 Edge-TTS 和 FastFlyer 开发框架，可以直接私有化部署提供语音合成服务，支持和源阅读 APP 无缝对接。 项目地址：FastTTS 框架介绍 FastFlyer 是基于 FastAPI 设计的轻量级 API 开发框架。在 FastAPI 优异特性的基础上集成了一系列开箱即用的组件，包括 Redis、MySQL、Kafka 等。采用 SDK 接入方式，内置脚手架代码生成等辅助工具，让研发人员只需要专注于业务逻辑的实现，真正开箱即用！ 注：更多框架介绍请阅读：FastFlyer 快速部署 成功启动后，访问：http://<host>:8080/speech/docs 可以看到 Swagger 工具页面。 简单鉴权 如果需要外网访问，建议开启接口鉴权： 开启鉴权后，生成源阅读的配置也会自动带上鉴权头部，可以无缝对接。 对接源阅读 服务已集成和源阅读 APP 的配置生成、一键导入工具，请查看项目自述文件。 　» 特别提示：转载本站文章请使用超链接注明出处。　» 本文链接地址：https://zhang.ge/5170.html 　» 如果喜欢可以：点此订阅本站相关文章Python远程控制模块paramiko遇到的问题及解决记录gRPC开发过程中遇到的问题记录分享一个自写的Python远程命令和文件（夹）传输类Flyer：基于FastAPI的轻量级API开发框架解决paramiko使用invoke_shell交互式命令超时问题
+查看全文]]></summary>
+        <author>
+            <name>Jager</name>
         </author>
     </entry>
     <entry>
