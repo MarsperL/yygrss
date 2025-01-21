@@ -2,10 +2,266 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-01-20T01:46:43.744Z</updated>
+    <updated>2025-01-21T01:45:04.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[American Hearts]]></title>
+        <id>https://daverupert.com/2025/01/american-hearts/</id>
+        <link href="https://daverupert.com/2025/01/american-hearts/"/>
+        <updated>2025-01-20T19:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Today I want to share with you a song that has stuck with me for a couple decades and has been a source of catharsis for shaking off that existential dread. I’m talking about Piebald’s 2002 single American Hearts. (video)
+
+[Hook]
+HEY! You're part of it
+YEAH! You're part of it
+HEY! You're part of it
+YEAH! You're part of it
+
+[Verse 1]
+I walk the streets of a Carolina
+Watching people pushing shopping carts
+And there's a guy above me
+And he's washing windows
+Making ten bucks a pop
+And he says to me...
+
+[Hook]
+HEY! You're part of it
+YEAH! You're part of it
+HEY! You're part of it
+YEAH! You're part of it
+
+[Verse 2]
+And I say, "Sir, well have you heard that this country is unequal still?"
+History continues itself
+Continues itself
+History continues itself
+And I did not create the rules
+
+From all I've heard
+And all I've seen
+This place has broken
+My American heart
+From all I've heard
+And all I've seen
+This place has broken
+My American heart
+
+[Hook]
+HEY! You're part of it
+YEAH! You're part of it
+HEY! You're part of it
+YEAH! You're part of it
+
+
+From the first snap of the snare to the final piano chord the song grips you for the whole ride. The staccato bass line powers the song and surrounds itself in an envelope of noise from the dual guitars and a cacophony of drum hits. The lyrics and chord progressions are simple but together they produce something bigger. The song only has two major parts, but the way they drop instruments in and out it feels like four. And best of all, it makes you want to punch a hole in the sky.
+Every so often – out of nowhere in the middle of my day when I’m feeling frustrated by a situation beyond my control – I’ll shout to myself “HEY! You’re part of it” as a little mantra to remind myself that, yes, I’m a participant in the democratic capitalist American experiment. I’m a participant in the prosperous parts as well as the unjust parts. I’m part of it. And due to America’s broad empire-like influence, you’re probably part of it or impacted by it too. And it breaks your heart at times.]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My website has been gaslighting you]]></title>
+        <id>https://daverupert.com/2025/01/color-hue-rotating-gaslight/</id>
+        <link href="https://daverupert.com/2025/01/color-hue-rotating-gaslight/"/>
+        <updated>2025-01-20T16:35:00.000Z</updated>
+        <summary type="html"><![CDATA[I have a confession to make. You probably sensed it, but weren’t able to articulate what was happening. Your loved ones think you’re losing your grasp on reality. For the last six months I’ve been incrementally changing the color scheme on my website every single day. I boiled you like a frog! Mu-wa-ha-ha. Don’t believe me? Try for yourself…
+Update hue
+At the center of this CSS-trick is setting a --hue variable and rotating the hue about 1deg each day to make it 360º around the color wheel over the year. Because I like blue, I set the default --hue to 196 and add the current day’s --hue-rotate value to calculate my final --rotated-hue value.
+
+--hue: 196;
+--hue-rotate: <Floor ( CurrentDayOfYear * 365 / 360 )>; /* Math goes here */
+--rotated-hue: calc(var(--hue) + var(--hue-rotate, 0)); /* R…]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[游记｜海盐，余华笔下烟火与诗意交织的故乡]]></title>
+        <id>https://blog.ops-coffee.cn/r/city-china-zhejiang-jiaxing-haiyan</id>
+        <link href="https://blog.ops-coffee.cn/r/city-china-zhejiang-jiaxing-haiyan"/>
+        <updated>2025-01-20T16:22:59.000Z</updated>
+        <summary type="html"><![CDATA[距离上海仅一个多小时车程的宝藏小城]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secure Nginx Proxy Manager Admin Interface with SSL]]></title>
+        <id>https://www.virtualizationhowto.com/?p=298879</id>
+        <link href="https://www.virtualizationhowto.com/2025/01/secure-nginx-proxy-manager-admin-interface-with-ssl/"/>
+        <updated>2025-01-20T13:25:21.000Z</updated>
+        <summary type="html"><![CDATA[I really like Nginx Proxy Manager to secure my Docker containers running on Docker hosts with SSL certificates. I find it to be extremely intuitive and it is absolutely one of those “must have” tools in the home lab environment that you need to have. However, have you wondered how you can secure Nginx Proxy Manager admin …
+The post Secure Nginx Proxy Manager Admin Interface with SSL appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing AutoGen v0.4: Revolutionizing Agentic AI with Enhanced Scalability, Flexibility, and Reliability]]></title>
+        <id>https://collabnix.com/?p=30099</id>
+        <link href="https://collabnix.com/introducing-autogen-v0-4-revolutionizing-agentic-ai-with-enhanced-scalability-flexibility-and-reliability/"/>
+        <updated>2025-01-20T12:43:08.000Z</updated>
+        <summary type="html"><![CDATA[Over the past year, Microsoft developments with AutoGen have underscored the remarkable capabilities of agentic AI and multi-agent systems. Microsoft is thrilled to unveil AutoGen v0.4 , a major update shaped by invaluable feedback from our vibrant community of users and developers. This release marks a comprehensive overhaul of the AutoGen library, designed to elevate […]]]></summary>
+        <author>
+            <name>Adesoji Alu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重磅! 腾讯云发布 200M 峰值带宽、不限流量服务器！锐驰型轻量应用服务器测评]]></title>
+        <id>https://www.mintimate.cn/2025/01/20/qCloudRazorSpeed/</id>
+        <link href="https://www.mintimate.cn/2025/01/20/qCloudRazorSpeed/"/>
+        <updated>2025-01-20T11:51:34.000Z</updated>
+        <summary type="html"><![CDATA[腾讯云轻量应用服务器已经发布了锐驰型轻量应用服务。也就是峰值带宽为 200Mbps 的轻量应用服务器，不限流量，怪不得叫作锐驰型(Razor speed)。我们就来看看这服务器的性能表现，以及适合哪些场景。]]></summary>
+        <author>
+            <name>雨月空间站</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于年会抽奖的软件设置问题]]></title>
+        <id>https://4311346.com/post/2025/0120-annual-meeting.html</id>
+        <link href="https://4311346.com/post/2025/0120-annual-meeting.html"/>
+        <updated>2025-01-20T11:01:47.000Z</updated>
+        <summary type="html"><![CDATA[还能写日志，说明还活着，这上周700人的年会终于忙完了，感觉要累瘫的节奏，却没有休息，第二天一早依然出现在公司，还得继续负责善尾工作。整体来说会议进程都在计划中，唯一的遗憾是在抽奖环节中，出现了一些问题，后台重新调试软件后，才得以重新开始继续抽奖。
+全场都吃好了，就自己一个人没有吃，因为等忙完的时候，餐桌上的菜也吃得差不多了。随后带着人力部门10多个小伙伴走访20多个业务团队敬酒，红酒\黄酒\白酒干不下40杯…直到23点开始清场。这该死的酒文化，在宴会厅地上，宴会厅门口，酒店外的马路上不少已不省人事的同事。然后逐个找相关团队负责人，安排同部门的同事来将人带走，不管是送医院还是楼上开房…
+最后离场已转钟，不能碰运气，只能叫代驾回家… 沙发上坐着睡着到第二天天亮，太惨了。
+关于年会抽奖
+关于年会抽奖，特别是哪些单价大于5000元以上的奖品，中奖要求多多少少会被公司有一些特定要求，作为年会的举办部门，不得已需要在抽奖环节中去做些手脚。虽然年会抽奖的中奖率为25%，奖品也分了 一\二\三\四\五等奖，但对于二等奖及以上的奖品，单个价值都在5000元以上了，公司肯定不希望那些刚入职几天的人获得，毕竟200多人的业务团队的离职率还是非常的大。
+入职几天的人获得大奖，领奖次日离职的案例，在行业内并不是少数。
+虽然在淘宝采购抽奖软件时，就需要很多的注意，包括使用抽奖软件的设置。
+比如：
+每一个奖项，能被抽取的人员名单是提前输入进去的，也就是说，每一个奖项，最终在哪些人员中产生是可以提前被设置的。
+所以在设置奖项时，需要按照公司的要求，规划被抽奖人名单，做不到绝对公平，但可以按要求做到相对公平。比如5000元以上的奖品，需要被抽取的人员是在职满一年的人员。
+抽奖都是从五\四\三\二\一\特等奖，从小往大了抽，那么在前面中奖过的人，就不会被后面再一次被抽到。
+等等…
+当然在抽奖软件中，被抽中谁，或者那些人被抽中的几率更大，都是可以设置的…
+膳魔师TCTG-500保温杯
+年会抽奖的中奖率25%，其中15台苹果设备，最终都没抽到… 但运气还是有的，中了一个膳魔师TCTG-500保温杯，纯钛合金材质果然轻，就丢在车上，未来长途旅行时使用把。
+2025年春节前最后一周
+此时距离2025年春节假期，也就只有一周时间了。即使最忙的年会工作已经结束，也没能感觉轻松…估计还得在岗位上坚守到最后一刻。]]></summary>
+        <author>
+            <name>Andy烧麦 - 成熟，聪明，豁达的人什么也不问 过去，现在，将来…</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transforming Patient Care with IoT in Digital Health]]></title>
+        <id>https://collabnix.com/?p=30094</id>
+        <link href="https://collabnix.com/transforming-patient-care-with-iot-in-digital-health/"/>
+        <updated>2025-01-20T10:06:41.000Z</updated>
+        <summary type="html"><![CDATA[Explore the impact of IoT on digital health, from improving patient monitoring to transforming healthcare services in general.]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[探索云原生可观测性：技术与团队协作的深度结合]]></title>
+        <id>https://jimmysong.io/blog/cloud-native-observability-devops/</id>
+        <link href="https://jimmysong.io/blog/cloud-native-observability-devops/"/>
+        <updated>2025-01-20T08:50:25.000Z</updated>
+        <summary type="html"><![CDATA[最近读了 TheNewStack 发布的电子书《Cloud Native Observability for DevOps Teams》，虽然这本书是 2022 年出品的，但给我了很大的启发。它不仅讨论了技术工具，还深入探讨了团队协作、文化建设和未来趋势的结合点。在这本书里，“观察”不仅仅是看到数据，而是看清背后的意义。可以说，它从根本上改变了我对可观测性的理解。
+核心内容
+本书从基础定义到实际操作，系统地阐述了云原生可观测性的重要性及其实现方式。通过具体的工具和策略，它帮助读者理解如何整合指标、日志、追踪和混沌工程等维度，全面掌控分布式系统的健康状况，为 DevOps 团队提供高效的决策支持。
+可观测性的定义与价值
+书中开篇就点明：可观测性是通过系统的外部信号推断内部状态的能力。不仅是传统的指标（Metrics）、日志（Logs）、追踪（Tracing）三根支柱的组合，而是一种综合性、全局化的分析方法。正如作者所说：
+“Observability isn’t just the ability to see each piece at a time; it’s also the ability to understand the broader picture and how these pieces combine.”
+云原生环境的挑战
+书中特别强调了 Kubernetes 环境中日志和监控的复杂性。Kubernetes 没有内置的完整可观测性解决方案，只提供了基础功能，比如 kubectl 查看对象状态，而更高级的功能需要依赖第三方工具如 Fluentd 和 Prometheus。
+实践指南
+书中在实践部分提到了多种实现可观测性的具体策略和工具：
+应用日志：通过 Fluentd 或类似工具采集容器内的标准输出日志，帮助开发者定位应用问题。
+集群日志：收集 Kubernetes 核心组件如 kube-apiserver 和 etcd 的日志，适合排查系统级别的故障。
+事件日志：利用 kubectl get events 快速了解集群中资源的状态变化。
+审计日志：记录 API 请求，便于安全审查和权限问题的定位。
+混沌工程：利用工具如 Chaos Mesh 和 Litmus Chaos，验证系统在高压或异常情况下的表现。
+这些实践指南强调了工具与策略的结合，从而实现全面的可观测性。
+我的思考与观点
+超越数据本身的“观察力”
+书中强调，单纯收集数据并不能解决问题，关键在于跨维度数据的整合与分析。例如，在性能问题排查时，指标和追踪往往无法直接关联，而这正是现有工具的短板。未来，统一数据存储和分析视角的工具，比如 OpenTelemetry 提倡的标准化方法，可能是突破口。
+AI 与可观测性的结合
+随着 AI 技术的发展，可观测性工具也可以更智能化。例如，通过机器学习预测异常，或是自动推荐优化策略。这不仅能减少人为干预，还能提升故障响应速度。正如作者在混沌工程部分提到的：
+“Instead of waiting for something to happen and finding out how your application fares, you put it through duress under controlled conditions to identify weaknesses and fix them.”
+从团队协作到文化转型
+书中提到“DevOps 的终极目标是跨团队的协作与同理心”，这点深有共鸣。尤其是在复杂分布式系统中，开发和运维团队往往各自为战，导致沟通断层。跨团队协作的关键在于工具提供的透明性与共享视角，而不仅仅是技术能力。
+总结
+这本书的独到之处在于它从技术和人文两个角度同时切入，它让我意识到，可观测性不仅是一组工具的集合，而是一种文化、一种能力，帮助我们更深刻地理解系统，推动团队协作，并在复杂的云原生环境中建立起真正的“透明化”。
+最后，我想引用书中一段非常打动我的话来结尾：
+“Observability lets you see the beautiful and complete picture that is your production software systems.”]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JVM Serial GC 、Parallel GC 日志解读与分析]]></title>
+        <id>https://chegva.com/?p=6252</id>
+        <link href="https://chegva.com/6252.html"/>
+        <updated>2025-01-20T02:45:00.000Z</updated>
+        <summary type="html"><![CDATA[上一节 JVM GC 日志解读与分析（基础配置）讲述了 GC 日志相关的基础信息和配置。需要提醒的是，这些参数是基于 JDK 8 配置的。
+在 JDK 9 之后的版本中，启动参数有一些变化，继续使用原来的参数配置可能会在启动时报错。不过也不用担心，如果碰到，一般都可以从错误提示中找到对应的处置措施和解决方案。
+例如 JDK 11 版本中打印 info 级别 GC 日志的启动脚本：
+# JDK 11 环境，输出 info 级别的 GC 日志
+java -Xms512m -Xmx512m
+-Xlog:gc*=info:file=gc.log:time:filecount=0
+demo.jvm0204.GCLogAnalysis
+从 JDK 9 开始，可以使用命令 java -Xlog:help 来查看当前 JVM 支持的日志参数，本文不进行详细的介绍，有兴趣的同学可以查看 JEP 158: Unified JVM Logging 和 JEP 271: Unified GC Logging。
+另外，JMX 技术提供了 GC 事件的通知机制，监听 GC 事件的示例程序我们会在《应对容器时代面临的挑战》这一章节中给出。
+但很多情况下 JMX 通知事件中报告的 GC 数据并不完全，只是一个粗略的统计汇总。
+GC 日志才是我们了解 JVM 和垃圾收集器最可靠和全面的信息，因为里面包含了很多细节。再次强调，分析 GC 日志是一项很有价值的技能，能帮助我们更好地排查性能问题。
+下面我们通过实际操作来分析和解读 GC 日志。
+Serial GC 日志解读
+关于串行垃圾收集器的介绍，请参考前面的文章：《常见 GC 算法介绍》。
+首先，为了打开 GC 日志记录，我们使用下面的 JVM 启动参数如下：
+# 请注意命令行启动时没有换行，此处是手工排版
+java -XX:+UseSerialGC…]]></summary>
+        <author>
+            <name>anzhihe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux系统挂载FTP服务文件目录]]></title>
+        <id>https://blog.52itstyle.vip/archives/5615/</id>
+        <link href="https://blog.52itstyle.vip/archives/5615/"/>
+        <updated>2025-01-20T02:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Linux系统挂载FTP服务文件目录]]></summary>
+        <author>
+            <name>柒</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[交通事故的责任方是警察时该怎么处理]]></title>
+        <id>https://lawtee.com/article/how-to-handle-police-at-fault-in-traffic-accident/</id>
+        <link href="https://lawtee.com/article/how-to-handle-police-at-fault-in-traffic-accident/"/>
+        <updated>2025-01-19T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[两年前，我姑妈在省城工作期间，被一名正在骑电动车巡逻的辅警撞伤，在经历了数个月医治后留下伤残，本以为是个很小的纠纷，但却经历了漫长的拉锯过程，直到最近这个案件才终于结案。我想，有必要讲讲这类问题的处理方法。
+简要案情
+
+2022 年 9 月某日的傍晚，我姑妈在从事环卫工作的过程中，徒步推着垃圾车被后方骑着警用电动自行车的辅警撞倒。之后我姑妈便被送到医院救治，事后交警出具《道路交通事故认定书》，确认辅警对事故承担全部责任。
+从医院出院后，我姑妈被确认为十级伤残。简单计算了一下残疾赔偿金、医疗费、误工费等费用，合计约 22 万元。其中医疗费 7 万元，辅警已在救治过程中支付约 4 万元。
+维权过程
+
+协商解决
+
+这个事情总的来说比较简单，因为一开始不管是涉事辅警还是所在公安派出所都积极配合处理。我觉得直接找派出所协商解决赔偿问题就行，没必要走司法程序。
+趁着姑妈刚出院还留在省城的那段时间，一边引导她去原劳务公司所在地处理工伤赔偿问题，一边指引她去交通事故发生地的交警大队和派出所（属于同一单位）协商赔偿事宜。
+总体来说，协商过程比较顺利，派出所负责人许诺赔偿 14 万元，加上辅警已支付的 4 万元，合计 18 万，扣除 7 万医疗费，实际个人能够拿到赔偿约 11 万元。虽然与法定标准存在一定差距，但就十级伤残来说，其实也算正常范围。
+但问题就出在这个钱的支付上。从 2023 年 2 月份左右许诺的赔偿，拖来拖去，一直没有支付。理由包括但不限于：当地人大会议还没开，预算没法申请；派出所负责人调动，新来的领导还不知道这个事情；当地财政预算紧张，需要再等等。
+在这个拉扯的过程中，派出所倒也不是完全没有行动。在 2023 年 7 月，派出所帮助我姑妈申请了一笔 2 万元的司法救助金，算是解了燃眉之急。
+问题是主要的赔偿款一直没有落实，让人很恼火。到 2023 年 9 月再协商时，派出所新…]]></summary>
+        <author>
+            <name>法律小茶馆</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于大模型搭建内容输出工作流]]></title>
+        <id>https://yeshu.cloud/posts/newsletter-130/</id>
+        <link href="https://yeshu.cloud/posts/newsletter-130/"/>
+        <updated>2025-01-19T14:11:46.000Z</updated>
+        <summary type="html"><![CDATA[在干中学。]]></summary>
+        <author>
+            <name>一颗小树</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前沿快讯 第67期 大规模多语言和多模态机器翻译系统等]]></title>
         <id>https://blognas.hwb0307.com/?p=6295</id>
@@ -17,6 +273,57 @@
 Bensz]]></summary>
         <author>
             <name>Bensz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公司年会]]></title>
+        <id>https://qq.mba/215.html</id>
+        <link href="https://qq.mba/215.html"/>
+        <updated>2025-01-19T11:36:00.000Z</updated>
+        <summary type="html"><![CDATA[曾几何时，我已经不怎么关注过到哪一天了(放假除外)，感觉进入腊月之后，时间就过得飞快，记得公司上上周发布的年会时间及地点通知，感觉这么快就到了，这不本周已经是最后一周班了，就要过年了，身边朋友最...]]></summary>
+        <author>
+            <name>满心</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 Deepseek + Github Actions 将博客全自动翻译为英文]]></title>
+        <id>https://lawtee.com/article/translate-blog-into-english/</id>
+        <link href="https://lawtee.com/article/translate-blog-into-english/"/>
+        <updated>2025-01-18T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[自 ChatGPT 3.0 以来，AI 翻译功能以前所未有的准确度横扫翻译市场。因为本博客曾经一度使用过英文写作，所以不少文章存在中英语混用现象，趁着 Deepseek 即将涨价，我花了几分钟时间，将本博客所有文章翻译为了英文。同时借助 Github Actions，实现全自动翻译。
+翻译前期工作
+
+确认自己的 HUGO 版本和主题已支持 i18n 功能
+只要不是特别古董的 hugo 版本（低于0.60.0），应该都支持这个，而且大部分主流 hugo 主题也都默认可以支持 i18n 功能。可以在主题 yaml/toml 文件中查看是否有多语言配置。
+安装 python
+在 python 官网 下载 Windows 版本然后安装。
+安装必要依赖
+用 Windows 终端或者 Git bash 之类的命令行工具安装 requests 和 openai 两个库，前一个用于发送 HTTP 请求，后一个用于 deepseek api 配置（deepseek 使用标准 openai 格式）。
+
+
+
+1
+2
+
+
+
+pip install requests
+pip install openai
+
+
+
+
+
+申请 deepseek api
+到 deepseek 开放平台 创建 api KEY，创建时复制保存好。 （每个新手机号码注册时都会送 10 元余额，如果没有，可以自己充 10 块钱。）
+编写 python 脚本并运行
+
+这里可以直接使用我的脚本，将下边代码保存为 translate.py 文件，然后在 py 文件保存的位置，运行命令行工具，输入 python translate.py 即可开启自动翻译。使用说明：
+替换 “sk-xxx” 为你自己的 deepseek api KEY
+替换 “D:/hugo/lawtee/content/” 为你自己的 Hugo 文章目录
+固定翻译映射主要…]]></summary>
+        <author>
+            <name>法律小茶馆</name>
         </author>
     </entry>
     <entry>
@@ -79,6 +386,39 @@ The post Minisforum MS-A2 vs MS-01: Best Home Lab Server in 2025? appeared first
 The post Best Containers for DevOps in 2025 appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025版中国法学会章程有哪些变化]]></title>
+        <id>https://lawtee.com/article/what-changes-in-2025-china-law-society-charter/</id>
+        <link href="https://lawtee.com/article/what-changes-in-2025-china-law-society-charter/"/>
+        <updated>2025-01-16T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2019 年 3 月，中国法学会第八次全国会员代表大会召开后，正常情况下按照《中国法学会章程》规定的五年任期限制，到 2024 年 3 月就可以进行换届，但因为某些原因，直到今年 1 月 11 日才换届。具体什么原因并不清楚，但从这次换届修订《中国法学会章程》的内容来看确实发现法学会在功能任务上出现不少变化。
+《中国法学会章程》总体修订情况
+
+使用 WPS 文档比对发现，2025 版《中国法学会章程》与 2019 版相比大约修改了 8.85% 的内容，总计 85 处发生变化，其中删除文字 22 处，新增 25 处，修改 38 处，大部分都是字词修订。主要变化出现在第一章、第二章，合计修订 66 处内容，占比 77.6%。后边第三章至第九章整体变化较小。
+
+总体定位基本不变
+
+根据 2025 版章程第一条规定：“中国法学会是中国共产党领导的人民团体，是法学界、法律界的全国性群众团体、学术团体和政法战线的重要组成部分，是党和政府联系和团结广大法学法律工作者的桥梁和纽带，是加强社会主义民主法治建设，推进全面依法治国、建设更高水平社会主义法治国家的重要力量。” 该条确定了法学会的性质，即人民团体、群众团体、学术团体，同时属于政法战线的一员，与法院、检察院、公安、国安、司法属于同一个系统。按照行政等级来说，法学会机关本身也是正部级架构，与同系统其他机关相同。在本次修订中，该条内容仅在最后一句中增加“更高水平”四个字，主要是看齐 2024 年二十届三中全会《决定》中的相关表述。
+宗旨发生一定变化
+
+在 2025 版章程第二条中，修订了很多政治性表述，主要是落实最近五年来关于政治方面的一些新要求。其中，在关于法学会自身特有的宗旨方面出现一个较为明显变化 —— 将法律服务更改为法治宣传。在 2019 版章程中，法学会的宗旨包括“开展法学研究、法学交流、法治实践和法律服务”，而 2025 版将此修改为“开展法学研究、法学交流、法治宣传和法治实践”。
+近年来，在法学会系统内部确实对 2019 版的这个表述多有诟病，重点是这个带有浓厚的司法行政色彩的“法律服务”不宜作为法学会的主要任务。在法学会组织体系中，会员群体有很大比例都是法官、检察官等群体，特别是在地方，占比更高。如若要求他们参与法律服务，容易使其产生角色混淆和利益冲突，影响公正司法的实现。而修改后的“法治宣传”则没有此方面问题，并且定位更加准确。
+任务发生较大变化
+
+2025 版章程中，法学会任务发生较大变化，新增多项工作任务。
+新增法治思想研究任务。 在章程第六条，单独增加一款内容：“发挥法治思想研究中心职能作用，深化法治思想研究阐释，不断把学习研究宣传贯彻法治思想引向深入。” 该研究中心的建设是最近 5 年来，中国法学会承接的核心重点任务，这次章程也将该项任务进一步明确。
+新增全面依法治国实践研究任务。在章程第八条，明确法学会的调查研究方向，即对全面依法治国实践进行研究。而此前法学会确实有个别不着边际的研究，方向上可能存在一些偏差。
+新增参与社会治理任务。章程新增第十条：“参与社会治理，坚持和发展新时代“枫桥经验”，发挥法学会基层服务站点和法学专家咨询作用，助力提升矛盾纠纷预防化解和信访工作法治化水平。”这一条主要是对应政法工作的发展变化，明确法学会作为政法系统的一员，不能再只是“埋头写作”“纸上谈兵”，而是要深入基层，参与到社会治理活动中去。
+新增参与涉外法治任务。此前法学会在涉外法治方面，主要是开展涉外交流与合作，参与国际规则的咨询、论证、草拟工作，这次章程修订对法学会涉外法治工作提出了更高的要求，新增涉外法治人才培养的任务，要求法学会积极参与国际规则制定，提升中国在国际法律实务和全球治理中的影响力。
+新增参与法学教育改革任务。以往法学会在法治人才培养方面主要就是参与编教材，此次章程修订，进一步要求法学会要加强法治人才培养，参与法学教育改革和法学教材建设。
+新增建设法学法律工作者之家任务。本次章程修订，要求法学会建设“法学法律工作者之家”，作为反映会员和法学界、法律界的意见和要求，维护会员的合法权益的常设场所。
+其他
+
+不再强制要求设立党组。2019 版章程另一个被地方法学会诟病的是第三十三条提出：“各级地方法学会应当设立党组。” 但在实践中，党组的设置有着严格的要求，并不是想设就能设的。很多地方法学会机关可能就一两个人，大部分连专职人员都没有，连党支部都没法设，更何况设立党组。这次修订后，明确“地方各级法学会按照《中国共产党章程》和《中国共产党党组工作条例》有关规定设立党组。”等于是纠正原来的错误，只有符合规定条件的才需要设置，不能蛮干。]]></summary>
+        <author>
+            <name>法律小茶馆</name>
         </author>
     </entry>
     <entry>
@@ -8124,242 +8464,6 @@ First, let’s download the necessary tools:
         <summary type="html"><![CDATA[你是否曾经感到技能提升遇到瓶颈？是否渴望成为一名独当一面的全栈大神？或者，你是否正在为找不到优质学习资源而苦恼？如果你对以上任何一个问题的回答是"是"，那么恭喜你，你的机会来了！我们推出了一款全新的学习视频网站：fastclass.cn，专为 AI 全栈开发者量身定制，这里汇聚了最前沿的技术视频，从 Python 到 Curosr、React、Next.js、Figma、ChatGPT 等，应有尽有。我们会讲述如何使用这些技术来开发很多完整的项目，从零开始构建一个网站、开发一款移动应用，我们也会借助 Cursor 这样的 AI IDE 来开发项目，即使你没有编程经验也可以开发出自己的项目。]]></summary>
         <author>
             <name>Home on 阳明的博客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何通过修复 CNCF 项目治理问题实现社区共赢与商业化]]></title>
-        <id>https://cloudnativecn.com/blog/how-to-fix-cncf-governance-and-create-business/</id>
-        <link href="https://cloudnativecn.com/blog/how-to-fix-cncf-governance-and-create-business/"/>
-        <updated>2024-10-23T10:05:24.000Z</updated>
-        <summary type="html"><![CDATA[为什么我们的 OpenEBS 项目被归档了？我们是如何修复它的？以及通过修复它，我们如何创建了一个可持续的商业模式。
-当云原生计算基金会（CNCF）在 2024 年 2 月归档了我们的 OpenEBS 项目时，我们面临两个选择：放弃项目，或者解决发现的问题并重新申请进入 CNCF 的 Sandbox 项目，重新开始。重新开始是最困难的选择，但对于每月有 25,000 名用户加入的 OpenEBS 来说，这是正确的做法。
-以下是 CNCF 归档我们项目的主要原因，我们是如何修复问题的，以及通过修复问题，我们是如何实现盈利的。
-所有权和控制问题
-问题的核心是一个常见的治理问题。大约 60% 的 CNCF 项目都有一个企业赞助方——一个为项目提供资金的盈利公司。当公司将项目捐赠给 CNCF 时，项目就成为 CNCF 的财产，赞助公司放弃了对项目的所有权和控制权。
-但在项目尚未建立社区之前，赞助公司的员工通常仍在为该项目工作。许多 CEO 认为他们仍然拥有项目的所有权和控制权。“如果我的员工还在工作，那我就拥有决策权。”这种所有权和控制权的紧张关系导致了我们项目被归档，除非我们解决这个问题，否则问题将继续存在。
-通过赞助 CNCF 项目盈利
-我们向 CNCF 询问了如何解决这个问题。一个有用的 CNCF 资源是技术顾问组（TAG）贡献者策略治理工作组。联合主席 Josh Berkus 如此解释这个更广泛的问题和解决方案：“开源的前提是你可以获得大规模的用户采用，然后从这些采用者中的一小部分获取收入，这样的收入甚至可能与销售专有软件相当甚至更多。”
-当软件复杂且难以支持时（比如许多 Kubernetes 安装），这种方法效果特别好。
-对于 Kubernetes 来说，一种成功的商业化策略通常来自以下三种途径：
-提供支持和专业服务
-提供带有行业认证或平台集成的专用发行版
-提供适用于大规模生产环境的附加产品（例如管理工具或报告工具）
-对 Kubernetes 来说，“开放核心”模式不太常见，因为你必须不断决定哪些功能应该开放源码，哪些功能应该保留为专有版本，这重新引入了所有权和控制权的问题。
-假设大多数采用者不会为软件付费。如果他们必须付费，他们可能不会使用。这些采用者的生态系统有助于增强软件的稳定性，并为大规模采用带来的可信度提供支持。
-对于企业和大型组织来说，支付支持费用或使用专用发行版通常是一个有吸引力的选择，因为这可以缩短上市时间，降低风险，而这只是他们整个项目成本中的一小部分。
-这些策略被证明是有效的，对于我们来说，也提供了一个简单的解决方案，证明了继续赞助项目而不控制它是有利可图的。
-将所有权和控制权交给社区
-为赞助公司找到一种不需要控制项目的盈利方法解决了一半的问题。但在赞助公司继续负责大部分维护人员和工程团队的情况下，所有权和控制权的紧张关系仍将继续存在。
-这时，Kubernetes 社区发挥了至关重要的作用。通过从项目的采用者用户群中招募维护人员和工程师，项目获得了额外的资源，赞助公司能够显著减少支持项目的成本（同时可以将部分工程师转移到其他附加产品上）。
-培养和维持一个社区需要付出努力；仅仅因为项目广泛采用并不意味着你会自动拥有一个社区。我们的团队必须努力做到包容和透明。我们需要花时间引导贡献者。我们还必须参与更广泛的 Kubernetes 社区，帮助其他人成功开发自己的项目。我们才刚刚开始，但已经看到了成效。
-结果
-对于我们的项目，我们调整了商业化策略，现在我们有了支付支持和专业服务的客户。我们正在开始招募维护人员和工程师，并且发现有一个巨大的人才库可以帮助我们。
-赞助公司可以减少成本，同时看到项目的工程能力增加。通过放弃控制权和所有权，我们得到了很多回报。当我们完成时，这将真正成为一个社区的共同努力。
-Kubernetes 的创立基于这些原则——未来的基础设施不应该被任何人拥有或控制。我们将共同分享这个所有权和控制权。
-有时，这个过程可能会尴尬或痛苦。有时，你的项目会被归档，你必须重新开始工作。自由软件不是免费的——我们必须共同努力开发软件，建立围绕它的社区，保护它，有时我们甚至需要保护它不受我们自己的影响。]]></summary>
-        <author>
-            <name>博客 | 云原生社区（中国）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何通过修复 CNCF 项目治理问题实现社区共赢与商业化]]></title>
-        <id>https://cloudnative.to/blog/how-to-fix-cncf-governance-and-create-business/</id>
-        <link href="https://cloudnative.to/blog/how-to-fix-cncf-governance-and-create-business/"/>
-        <updated>2024-10-23T10:05:24.000Z</updated>
-        <summary type="html"><![CDATA[为什么我们的 OpenEBS 项目被归档了？我们是如何修复它的？以及通过修复它，我们如何创建了一个可持续的商业模式。
-当云原生计算基金会（CNCF）在 2024 年 2 月归档了我们的 OpenEBS 项目时，我们面临两个选择：放弃项目，或者解决发现的问题并重新申请进入 CNCF 的 Sandbox 项目，重新开始。重新开始是最困难的选择，但对于每月有 25,000 名用户加入的 OpenEBS 来说，这是正确的做法。
-以下是 CNCF 归档我们项目的主要原因，我们是如何修复问题的，以及通过修复问题，我们是如何实现盈利的。
-所有权和控制问题
-问题的核心是一个常见的治理问题。大约 60% 的 CNCF 项目都有一个企业赞助方——一个为项目提供资金的盈利公司。当公司将项目捐赠给 CNCF 时，项目就成为 CNCF 的财产，赞助公司放弃了对项目的所有权和控制权。
-但在项目尚未建立社区之前，赞助公司的员工通常仍在为该项目工作。许多 CEO 认为他们仍然拥有项目的所有权和控制权。“如果我的员工还在工作，那我就拥有决策权。”这种所有权和控制权的紧张关系导致了我们项目被归档，除非我们解决这个问题，否则问题将继续存在。
-通过赞助 CNCF 项目盈利
-我们向 CNCF 询问了如何解决这个问题。一个有用的 CNCF 资源是技术顾问组（TAG）贡献者策略治理工作组。联合主席 Josh Berkus 如此解释这个更广泛的问题和解决方案：“开源的前提是你可以获得大规模的用户采用，然后从这些采用者中的一小部分获取收入，这样的收入甚至可能与销售专有软件相当甚至更多。”
-当软件复杂且难以支持时（比如许多 Kubernetes 安装），这种方法效果特别好。
-对于 Kubernetes 来说，一种成功的商业化策略通常来自以下三种途径：
-提供支持和专业服务
-提供带有行业认证或平台集成的专用发行版
-提供适用于大规模生产环境的附加产品（例如管理工具或报告工具）
-对 Kubernetes 来说，“开放核心”模式不太常见，因为你必须不断决定哪些功能应该开放源码，哪些功能应该保留为专有版本，这重新引入了所有权和控制权的问题。
-假设大多数采用者不会为软件付费。如果他们必须付费，他们可能不会使用。这些采用者的生态系统有助于增强软件的稳定性，并为大规模采用带来的可信度提供支持。
-对于企业和大型组织来说，支付支持费用或使用专用发行版通常是一个有吸引力的选择，因为这可以缩短上市时间，降低风险，而这只是他们整个项目成本中的一小部分。
-这些策略被证明是有效的，对于我们来说，也提供了一个简单的解决方案，证明了继续赞助项目而不控制它是有利可图的。
-将所有权和控制权交给社区
-为赞助公司找到一种不需要控制项目的盈利方法解决了一半的问题。但在赞助公司继续负责大部分维护人员和工程团队的情况下，所有权和控制权的紧张关系仍将继续存在。
-这时，Kubernetes 社区发挥了至关重要的作用。通过从项目的采用者用户群中招募维护人员和工程师，项目获得了额外的资源，赞助公司能够显著减少支持项目的成本（同时可以将部分工程师转移到其他附加产品上）。
-培养和维持一个社区需要付出努力；仅仅因为项目广泛采用并不意味着你会自动拥有一个社区。我们的团队必须努力做到包容和透明。我们需要花时间引导贡献者。我们还必须参与更广泛的 Kubernetes 社区，帮助其他人成功开发自己的项目。我们才刚刚开始，但已经看到了成效。
-结果
-对于我们的项目，我们调整了商业化策略，现在我们有了支付支持和专业服务的客户。我们正在开始招募维护人员和工程师，并且发现有一个巨大的人才库可以帮助我们。
-赞助公司可以减少成本，同时看到项目的工程能力增加。通过放弃控制权和所有权，我们得到了很多回报。当我们完成时，这将真正成为一个社区的共同努力。
-Kubernetes 的创立基于这些原则——未来的基础设施不应该被任何人拥有或控制。我们将共同分享这个所有权和控制权。
-有时，这个过程可能会尴尬或痛苦。有时，你的项目会被归档，你必须重新开始工作。自由软件不是免费的——我们必须共同努力开发软件，建立围绕它的社区，保护它，有时我们甚至需要保护它不受我们自己的影响。]]></summary>
-        <author>
-            <name>博客 | 云原生社区（中国）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Object Storage? Use cases & benefits]]></title>
-        <id>https://collabnix.com/?p=28102</id>
-        <link href="https://collabnix.com/what-is-object-storage-use-cases-benefits/"/>
-        <updated>2024-10-23T09:29:24.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Object storage is a modern data storage architecture designed to handle vast amounts of unstructured data. Unlike traditional storage methods such as block or file storage, object storage excels in managing large-scale data like multimedia, backups, and archives. This tutorial introduces the core concepts of object storage, its benefits, and how it fits into […]]]></summary>
-        <author>
-            <name>Abraham Dahunsi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Integrate Kubernetes with Google Cloud  Platform(GCP)]]></title>
-        <id>https://collabnix.com/?p=28120</id>
-        <link href="https://collabnix.com/how-to-integrate-kubernetes-with-google-cloud-platformgcp/"/>
-        <updated>2024-10-23T09:29:05.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Google Kubernetes Engine (GKE) is Google’s managed Kubernetes service that simplifies deploying, managing, and scaling containerized applications. It is highly integrated with Google Cloud services, leveraging features such as autoscaling, workload security, and efficient storage. In this tutorial, we will guide you through the process of integrating Kubernetes with Google Cloud Platform (GCP), focusing […]]]></summary>
-        <author>
-            <name>Abraham Dahunsi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leveraging Large Language Models to Transform AI-Driven Applications]]></title>
-        <id>https://collabnix.com/?p=28094</id>
-        <link href="https://collabnix.com/leveraging-large-language-models-to-transform-ai-driven-applications/"/>
-        <updated>2024-10-23T04:11:15.000Z</updated>
-        <summary type="html"><![CDATA[Large language models (LLMs) are revolutionizing AI applications by using enormous volumes of data to comprehend and produce language similar to humans; large language models (LLMs) are revolutionizing AI applications. Their influence is evident, from enhancing customer service to supporting the healthcare industry. But how precisely do they operate, and which industries stand to gain […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[网络争议历史问题究竟是在争啥]]></title>
-        <id>https://hyruo.com/article/some-questions-about-chinese-history/</id>
-        <link href="https://hyruo.com/article/some-questions-about-chinese-history/"/>
-        <updated>2024-10-23T03:40:00.000Z</updated>
-        <summary type="html"><![CDATA[我们常常能在网络上看到对于中国历史上同一事件出现形态迥异甚至完全相反的各种解读，有时候会感觉很困惑，甚至容易让人产生一种无力感，觉得自己的人生观、价值观被彻底颠覆。
-在讲这个问题之前，还是有必要先解释几个常用名词。
-史观（历史观）
-
-学术上以人们对历史的总体看法和理解方法之不同，作出了不同历史观划分。常见包括以下几类：
-唯物史观：唯物史观是马克思主义历史观的核心，认为物质生产方式是社会发展的基础，社会存在决定社会意识。唯物史观强调经济基础对上层建筑（政治、法律、文化等）的决定作用，认为历史是由生产力和生产关系的矛盾运动推动的。
-唯心史观：唯心史观认为历史的发展主要由人的思想、理念和精神力量所决定。唯心史观强调精神、意识和观念在历史发展中的主导作用，认为历史是理念的实现过程。
-社会史观：社会史观关注普通人的生活和社会结构的变化，认为历史是由广大人民群众共同创造的。社会史观强调社会结构、文化、日常生活和社会运动在历史发展中的作用，注重社会底层和边缘群体的历史。
-文明史观：文明史观认为历史是不同文明之间的互动、冲突和融合的过程。文明史观关注文明的兴衰、文化的传播和交流，认为文明的冲突和合作是推动历史发展的重要因素。
-后现代史观：后现代史观质疑传统历史叙述的客观性和权威性，认为历史是多元和相对的。后现代史观强调历史叙述的主观性和多样性，反对单一的历史解释，注重边缘化群体和非主流历史的研究。
-其他还有英雄史观、进步史观、循环史观、生态史观等等，但总体来说，当前在中国严肃的历史研究领域都以上边五种为主。
-但是，在网络上就完全不一样了。特别是对于中国历史领域的网络话题而言，由于 1840 年之后的屈辱历史，导致衍生出三个非常重要的史观派系，并在当前网络上极度活跃。
-A.皇汉史观
-
-皇汉史观是一种强调中华民族（特别是汉民族）优越性和历史连续性的历史观。这种史观通常具有民族主义色彩，强调中国…]]></summary>
-        <author>
-            <name>法律小茶馆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 大小核的调度算法探究]]></title>
-        <id>https://jia.je/software/2024/10/23/linux-core-scheduling/</id>
-        <link href="https://jia.je/software/2024/10/23/linux-core-scheduling/"/>
-        <updated>2024-10-23T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Linux 大小核的调度算法探究¶
-背景¶
-最近看到一些关于 Linux 大小核调度算法的一些博客，考虑到大小核目前已经比较常见了，因此做一些现状的探究。
-
-现象¶
-Intel¶
-首先可以做一下实验，用 stress --cpu N 启动 N 个计算负载，看看这些线程都会被分配到哪些核上。在 Intel Core i9-14900K 上实验，这个 CPU 是 8P+16E，8P 对应 0-15 核，超线程的核的 ID 是连号的，16E 对应 16-31 核，观察到下面的结果：
-
-N=1 时，主要调度到 12-15 核里其中一个，这对应的是 8P 中的最后 2P
-N=2 时，主要调度到 12-13 核里其中一个，以及 14-15 核里其中一个，同样也是 8P 中的最后 2P，每个 P 上分配一个任务
-N=3 时，在 N=2 的基础上，在 0-11 核里再调度一个
-N=4..=8 时，在 N=2 的基础上，在 0-11 核里调度剩下的任务，但不会分配到一个 P 核的两个逻辑核上
-N=9..=24 时，在 N=8 的基础上，在 16-31 核里调度剩下的任务
-N=25..=32 时，在 N=24 的基础上，把任务分配到 P 核的第二个逻辑核上
-
-可见在调度时，按照如下的优先级：
-
-最后 2 个 P 核
-其余 6 个 P 核
-E 核
-P 核的超线程
-
-可见 P 核内部也有优先级不同，最后 2 个 P 核具有更高的优先级，而它们的 Boost 频率确实也更高：
-
-$ cat /sys/devices/system/cpu/cpufreq/policy0/scaling_max_freq5700000$ cat /sys/devices/system/cpu/cpufreq/policy12/scaling_max_freq6000000
-
-6 个 P 核的最大频率设定为 5.7 GH…]]></summary>
-        <author>
-            <name>杰哥的{运维，编程，调板子}小笔记</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker DevTools Day 4.0 at Sony India: Where Containers, AI, and DevOps Meet]]></title>
-        <id>https://collabnix.com/?p=28090</id>
-        <link href="https://collabnix.com/docker-devtools-day-4-0-at-sony-india-where-containers-ai-and-devops-meet/"/>
-        <updated>2024-10-22T16:44:50.000Z</updated>
-        <summary type="html"><![CDATA[Docker DevTools Day 4.0 in Bengaluru was nothing short of spectacular, bringing together a vibrant community of developers, DevOps professionals, and tech enthusiasts. Held at the stellar venue arranged by Sony India Software Centre, the event saw over 500+ registrations and 147+ attendees. The excitement in the air was palpable as participants trickled in early, and by […]]]></summary>
-        <author>
-            <name>Ajeet Raina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu24.04，Kubeadm安装k8s 1.31，使用containerd作为CRI，使用Flannel作为CNI插件]]></title>
-        <id>/archives/1729608331512</id>
-        <link href="http://localhost:8090/archives/1729608331512"/>
-        <updated>2024-10-22T14:47:21.000Z</updated>
-        <summary type="html"><![CDATA[操作系统：Ubuntu 24.04.1 LTS 容器运行时：containerd://1.7.12 # 此内容为部署完的k8s集群信息
-
-root@ubuntu-k8s:~# kubectl get node -owide
-NAME         STATUS   ROLES]]></summary>
-        <author>
-            <name>Lixx Blog - 李晓旭的博客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hammers]]></title>
-        <id>https://daverupert.com/2024/10/hammers/</id>
-        <link href="https://daverupert.com/2024/10/hammers/"/>
-        <updated>2024-10-22T14:15:00.000Z</updated>
-        <summary type="html"><![CDATA[I bet if you were someone who could make a hammer that would have been a good stable job for years, centuries even. Almost everyone needs a hammer at some point in their life.
-“Hey, where’d you get that hammer?”
-Then some guy, Greg, would see how busy the hammersmith is making hammers one at-a-time and say, “I’m going to make hammers one hundred at a time!” He’d pay Bartholomew not to make him one hammer, but to make a mold that could make one hundred hammers at a time. Greg has rich parents, he can afford this sort of risky business venture. One hundred hammers for the price of ten, that’s profit.
-After the hammer mold, Bartholomew would still get paid. No one actually likes pouring molten iron and hammering, but Bartholomew doesn’t mind. He’s making less money per hammer, but he’s also p…]]></summary>
-        <author>
-            <name>daverupert.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[云原生对比：Istio Ambient 模式与 Cilium 的扩展性能分析]]></title>
-        <id>https://cloudnativecn.com/blog/ambient-vs-cilium/</id>
-        <link href="https://cloudnativecn.com/blog/ambient-vs-cilium/"/>
-        <updated>2024-10-22T02:49:22.000Z</updated>
-        <summary type="html"><![CDATA[潜在的 Istio 用户经常会问：“Istio 与 Cilium 相比如何？”虽然 Cilium 最初仅提供 L3/L4 功能（如网络策略），但近来的版本增加了基于 Envoy 的服务网格功能以及 WireGuard 加密。与 Istio 一样，Cilium 也是 CNCF 认证的毕业项目，并在社区中存在多年。
-尽管表面上看这两个项目提供的功能相似，但它们的架构却有着显著不同，尤其是 Cilium 使用 eBPF 和 WireGuard 在内核中处理和加密 L4 流量，而 Istio 在用户空间通过其 ztunnel 组件处理 L4 流量。这些差异导致了关于 Istio 与 Cilium 在大规模下性能的广泛讨论。
-尽管已有关于租户模型、安全协议和基本性能的比较，但尚未有全面的企业级评估报告。与其强调理论性能，我们对 Istio 的 Ambient 模式和 Cilium 进行了测试，聚焦于延迟、吞吐量和资源消耗等关键指标。通过模拟一个繁忙的 Kubernetes 环境，我们施加了高负载场景，最后将 AKS 集群的规模扩展到 1000 个节点、11000 个核心，以了解这些项目在大规模下的表现。结果显示，两者各有需要改进的地方，但 Istio 明显表现更佳。
-测试场景
-为了将 Istio 和 Cilium 推向极限，我们创建了 500 个不同的服务，每个服务支持 100 个 Pod。每个服务位于单独的命名空间中，且包含一个Fortio负载生成客户端。我们将客户端限制在一个由 100 台 32 核机器组成的节点池中，以消除共同定位的客户端的干扰，并为服务分配了剩余的 900 台 8 核实例。
-
-
-      测试场景
-    
-
-在 Istio 测试中，我们使用了 Ambient 模式，在每个服务命名空间中部署了waypoint 代理，并使用默认的安装参数。为了使测试场景尽可能…]]></summary>
-        <author>
-            <name>博客 | 云原生社区（中国）</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[云原生对比：Istio Ambient 模式与 Cilium 的扩展性能分析]]></title>
-        <id>https://cloudnative.to/blog/ambient-vs-cilium/</id>
-        <link href="https://cloudnative.to/blog/ambient-vs-cilium/"/>
-        <updated>2024-10-22T02:49:22.000Z</updated>
-        <summary type="html"><![CDATA[潜在的 Istio 用户经常会问：“Istio 与 Cilium 相比如何？”虽然 Cilium 最初仅提供 L3/L4 功能（如网络策略），但近来的版本增加了基于 Envoy 的服务网格功能以及 WireGuard 加密。与 Istio 一样，Cilium 也是 CNCF 认证的毕业项目，并在社区中存在多年。
-尽管表面上看这两个项目提供的功能相似，但它们的架构却有着显著不同，尤其是 Cilium 使用 eBPF 和 WireGuard 在内核中处理和加密 L4 流量，而 Istio 在用户空间通过其 ztunnel 组件处理 L4 流量。这些差异导致了关于 Istio 与 Cilium 在大规模下性能的广泛讨论。
-尽管已有关于租户模型、安全协议和基本性能的比较，但尚未有全面的企业级评估报告。与其强调理论性能，我们对 Istio 的 Ambient 模式和 Cilium 进行了测试，聚焦于延迟、吞吐量和资源消耗等关键指标。通过模拟一个繁忙的 Kubernetes 环境，我们施加了高负载场景，最后将 AKS 集群的规模扩展到 1000 个节点、11000 个核心，以了解这些项目在大规模下的表现。结果显示，两者各有需要改进的地方，但 Istio 明显表现更佳。
-测试场景
-为了将 Istio 和 Cilium 推向极限，我们创建了 500 个不同的服务，每个服务支持 100 个 Pod。每个服务位于单独的命名空间中，且包含一个Fortio负载生成客户端。我们将客户端限制在一个由 100 台 32 核机器组成的节点池中，以消除共同定位的客户端的干扰，并为服务分配了剩余的 900 台 8 核实例。
-
-
-      测试场景
-    
-
-在 Istio 测试中，我们使用了 Ambient 模式，在每个服务命名空间中部署了waypoint 代理，并使用默认的安装参数。为了使测试场景尽可能…]]></summary>
-        <author>
-            <name>博客 | 云原生社区（中国）</name>
         </author>
     </entry>
 </feed>
