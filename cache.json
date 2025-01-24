@@ -1509,16 +1509,6 @@
           "wordCount": 661,
           "title": "从 AWS App Mesh 迁移到 Istio 全面指南",
           "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
-        },
-        {
-          "id": "https://jimmysong.io/blog/shanxi-trip/",
-          "author": "Jimmy Song",
-          "description": "我前后三次到访过山西：\n第一次是 2017 年 12 月，公司组织团建，去了山西大同，游览了悬空寺、云冈石窟和北岳恒山\n第二次是 2019 年 4 月，清明节期间，和几位好友自驾去了山西五台山、佛光寺、雁门关和应县木塔\n第三次是 2021 年 6 月，到山西晋城参加朋友婚礼，因为当时正值疫情期，没有办法进到景区游览，只是用无人机俯瞰了下「皇城相府」\n第一次去山西就被山西厚重的文化内涵所打动，而最近随着首款国产 3A 游戏《黑神话：悟空》的火爆，游戏中的取景地山西的各种古建筑接连出圈。俗话说”地下文物看陕西，地上文物看山西“，如此宝藏文物大省不该被埋没。\n大同\n去大同的时候是 12 月，当地的天气不是很好，到处都是灰蒙蒙的。大同是山西省省域副中心城市。曾是北魏京都、辽金陪都，有“三代京华、两朝重镇”之称。\n大同一隅\n  \n\n云冈石窟\n云冈石窟蔚为壮观，这也是我第一次游览古代石窟。云冈石窟是中国四大石窟之一。其始凿于北魏文成帝时期，历时 64 年。石窟依山开凿，东西绵延约 1 公里，现存主要洞窟 45 个，附属洞窟 209 个，它于 2001 年被列入“世界文化遗产”名录，2007 年成为国家首批 5A 级旅游景区。\n云冈石窟\n  \n\n86 版《西游记》第 18 集《扫塔辨奇冤》在云冈石窟有多处取景。该集一开始，师徒四人刚抵达祭赛国时行走的场景，就是在云冈石窟西部洞窟前拍摄的。后来，孙悟空躲在石窟上面查看僧众被殴打的场面，也是在此拍摄。再后来，一位僧侣向唐僧师徒透露冤情，由于几年前寺中塔顶的舍利子佛宝被盗，僧侣们因此遭受不白之冤和苦难，这一对话场景实际上是在云冈石窟的第五窟拍摄完成的。\n北岳恒山\n攀爬北岳恒山相对比较容易，恒山的山势虽然险峻，但攀登过程中坡度相对较为缓和，没有特别陡峭难行的路段。恒山的海拔约 2016.1 米。恒山的垂直落差相对其他一些著名高山来说不是特别大，大…",
-          "link": "https://jimmysong.io/blog/shanxi-trip/",
-          "publishedOn": "2024-10-26T04:07:25.000Z",
-          "wordCount": 299,
-          "title": "地上文物看山西：宝藏文物大省不该被埋没",
-          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
         }
       ]
     },
@@ -1764,6 +1754,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=298936",
+          "author": "Brandon Lee",
+          "description": "Wow there have been so many changes with virtualization from 2024 into 2025, when looking back at the ground we have covered so far in 2024 and now moving into 2025. When it comes to hypervisors there are so many to choose from these days. Let’s look at the best OS for virtualization at the …\nThe post Best Hypervisor in 2025: It depends on your pain tolerance appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/01/best-hypervisor-in-2025-it-depends-on-your-pain-tolerance/",
+          "publishedOn": "2025-01-23T14:17:33.000Z",
+          "wordCount": 12137,
+          "title": "Best Hypervisor in 2025: It depends on your pain tolerance",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/Best-Hypervisor-in-2025-painful.jpg"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=298924",
           "author": "Brandon Lee",
@@ -2241,6 +2241,36 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=30146",
+          "author": "Adesoji Alu",
+          "description": "Check out more Jenkins topics on Collabnix Streamlining CI/CD Pipelines with Docker and Jenkins in 2025 By Adesoji Alu Hey there, fellow engineers and tech enthusiasts! I’m thrilled to share one of my favorite strategies for modern software delivery: combining Docker and Jenkins to supercharge your CI/CD pipelines. Throughout my career as a Software/DevOps Engineer […]",
+          "link": "https://collabnix.com/streamlining-ci-cd-pipelines-with-docker-and-jenkins-in-2025/",
+          "publishedOn": "2025-01-23T20:46:38.000Z",
+          "wordCount": 4571,
+          "title": "Streamlining CI/CD Pipelines with Docker and Jenkins in 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=30148",
+          "author": "Adesoji Alu",
+          "description": "Check out more Kubernetes topics on Collabnix Introduction Managing Kubernetes configurations can be complex, especially with the plethora of tools available for configuring workloads and deploying applications. Kustomize stands out as a unique and popular tool for generating, transforming, and patching Kubernetes configurations without introducing custom DSLs or parameter-driven templates. In this post, we will […]",
+          "link": "https://collabnix.com/simplifying-kubernetes-configuration-management-with-kustomize-in-2025/",
+          "publishedOn": "2025-01-23T20:14:37.000Z",
+          "wordCount": 3137,
+          "title": "Simplifying Kubernetes Configuration Management with Kustomize in 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=30151",
+          "author": "Tanvir Kour",
+          "description": ".NET is a versatile and powerful software development environment. It was created by Microsoft. It provides developers with tools to create, deploy, and manage a variety of applications. It covers everything from desktop to web and mobile applications. It’s making .NET a versatile choice for development. Its flexibility and scalability make it a great choice […]",
+          "link": "https://collabnix.com/what-is-net/",
+          "publishedOn": "2025-01-23T17:36:55.000Z",
+          "wordCount": 3002,
+          "title": "What is .NET?",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=30142",
           "author": "Tanvir Kour",
@@ -3430,16 +3460,6 @@
           "wordCount": 3056,
           "title": "Top 6 VM Backup Solutions for 2024: Maximizing Security and Efficiency",
           "imageUrl": "https://usercontent.one/wp/collabnix.com/wp-content/uploads/2024/10/Screenshot-2024-10-29-at-2.39.24?media=1725267074 PM-png.avif"
-        },
-        {
-          "id": "https://collabnix.com/?p=28208",
-          "author": "Tanvir Kour",
-          "description": "With constant innovations in technology and high levels of competition, there is an increasing demand for software development companies to speedily deliver applications of top quality. This huge demand for apps is proven by Statista, which states that the total revenue of the global app market is poised to show an annual growth rate of […]",
-          "link": "https://collabnix.com/understanding-devops-its-benefits-and-best-practices/",
-          "publishedOn": "2024-10-26T08:23:00.000Z",
-          "wordCount": 2966,
-          "title": "Understanding DevOps, its benefits, and best practices",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/10/Screenshot-2024-10-26-at-1.54.37%E2%80%AFPM.png"
         }
       ]
     },
@@ -4019,16 +4039,6 @@
           "wordCount": 414,
           "title": "谷歌的珍珠港时刻",
           "imageUrl": "https://pic.587804.xyz/pic/20241113000746.webp"
-        },
-        {
-          "id": "https://dongjunke.cn/posts/2024/10/26/36247.html",
-          "author": null,
-          "description": "<p>总算搞明白了什么是旁路由、软路由。我觉得，发明旁路由的一定是个怕老婆的人，折腾路由器，搞坏了家里的网络肯定挨一顿卷。Nas部署OpenWRT，绕过主路由，买软路由的钱都省了，终于解决了近几个月群晖docker注册表查询失败的问题，不用自建docker镜像，重要的是，还实现了",
-          "link": "https://dongjunke.cn/posts/2024/10/26/36247.html",
-          "publishedOn": "2024-10-26T10:04:26.000Z",
-          "wordCount": 386,
-          "title": "群晖docker镜像终极解决方案：部署OpenWRT",
-          "imageUrl": "https://pic.587804.xyz/pic/20241026181255.webp"
         }
       ]
     },
@@ -4105,16 +4115,6 @@
           "publishedOn": "2024-11-11T15:04:55.000Z",
           "wordCount": null,
           "title": "前沿快讯 第61期 体内进行肿瘤细胞向cDC1样细胞的重编程等",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blognas.hwb0307.com/other/6033",
-          "author": "Bensz",
-          "description": "Bensz\n前沿快讯 第60期 设计内吞诱导结合蛋白促进膜受体通过内吞和溶酶体途径降解等\n本博客由Faconhost大力赞助！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 前言 本文是前沿快讯的第60期。前沿快讯栏目主要收集一些个人感兴趣的近期发表的研究，关注领域包括肿瘤的分子生物学、临床研究、流行病学等，文献类型主要是期刊论文和综述。研究介绍在Google机翻摘要的基础上进行微调，可能不一定特别准确、专业，主要目的是方便自己和大家快速了解和回顾相关领域研究进展。如果你对某个研究的细节感兴趣，请自行寻找全文进一步了解。此外，研究根据子领域会进一步细分，不过交叉领域的研究不好分为某一类，所以这个分类主要用于初级索引，并不十分准确，不喜勿喷。最后，大家看到什么特别的研究，也可以在评论区向我推荐，我会酌情收录在后面的期刊中。如无意外，前沿快讯栏目会长期更新，周期为2周-1月 […]\nBensz",
-          "link": "https://blognas.hwb0307.com/medicine/6033",
-          "publishedOn": "2024-10-26T09:22:33.000Z",
-          "wordCount": null,
-          "title": "前沿快讯 第60期 设计内吞诱导结合蛋白促进膜受体通过内吞和溶酶体途径降解等",
           "imageUrl": null
         }
       ]
@@ -4248,6 +4248,16 @@
       "feedUrl": "https://dusays.com/atom.xml",
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
+        {
+          "id": "https://dusays.com/791/",
+          "author": null,
+          "description": "<blockquote>\n<p>在数字化时代，文件管理和备份是每个用户都必须面对的重要任务。今天，向大家介绍一款开源的文件同步和备份软件 FreeFileSync。以其高效、免费和跨平台特点，成为众多用户在文件管理方面的首选工具。</p>\n</blockquote>",
+          "link": "https://dusays.com/791/",
+          "publishedOn": "2025-01-21T16:00:00.000Z",
+          "wordCount": 1302,
+          "title": "FreeFileSync 开源文件同步与备份利器",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
         {
           "id": "https://dusays.com/790/",
           "author": null,
@@ -5010,16 +5020,6 @@
           "wordCount": null,
           "title": "谷歌 Adsense 如何添加国内银行付款方式",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.qikqiak.com/page/archive/",
-          "author": null,
-          "description": "关注容器、kubernetes、devops、python、golang、微服务等技术。\nAI\n上线了，AI 全栈开发学习平台 - 快课星球\nGoogle 在 Chrome 中内置 AI 功能\n深入体验全新 Cursor AI IDE 后，说杀疯了真不为过！\n保姆级教程 | 手把手叫你如何开通 ChatGPT Plus 试用 GPT-4\nKubernetes/Docker\n新一代云原生可观测平台 OpenObserve\n讲真，Sealos 云服务真香\n在 Kubernetes 上部署 LLM 大语言模型\nKubernetes 多集群管理系统 Karmada\n云原生数据管理平台 KubeBlocks\n新一代云原生存储系统 CubeFS\nKubernetes 策略引擎 Kyverno\n一文搞懂 VictoriaMetrics 的使用\nDevOps 工具链管理器 DevStream 还真是神器\n如何修改 Kubernetes 节点 IP 地址?\n本地集群使用 OpenELB 实现 Load Balancer 负载均衡\nDocker 创始人的新产品 Dagger 好用吗？\nPrometheus 监控 Kubernetes Job 资源误报的坑\n自定义 Traefik（本地）插件\nHelm Chart 兼容不同 Kubernetes 版本\nGitlab CI 在 Kubernetes 中的 Docker 缓存\n一文搞懂容器运行时 Containerd\n使用 kube-vip 搭建高可用 Kubernetes 集群\n你应该了解的 10 个 Kubernetes 安全上下文设置\n如何收集管理多行日志？\n通过 Traefik 使用 Kubernetes Service APIs 进行流量路由\nKubernetes Service APIs 简介\n给 Pod 添加 DNS 记录\n理解 Lin…",
-          "link": "https://www.qikqiak.com/page/archive/",
-          "publishedOn": "2024-10-26T00:00:00.000Z",
-          "wordCount": null,
-          "title": "存档",
-          "imageUrl": null
         }
       ]
     },
@@ -5254,16 +5254,6 @@
           "wordCount": 602,
           "title": "长亭雷池 WAF 7 专业版功能测试",
           "imageUrl": "https://static.txblog.110289.xyz/upload/11c696b1.jpg"
-        },
-        {
-          "id": "https://www.txisfine.cn/archives/10b769c1.html",
-          "author": null,
-          "description": "<p>Follow 是一款近期一直十分火热的新产品。你可以把它简单的理解为一款新的 RSS 阅读器，但，它绝不是一款单纯的阅读器，它可以订阅网站内容、B站UP主、小红书博主、微博博主、小宇宙播客、YouTube 视频，甚至还可以订阅 Follow 用户，以及用户分享的订阅列表等等",
-          "link": "https://www.txisfine.cn/archives/10b769c1.html",
-          "publishedOn": "2024-10-25T16:58:44.000Z",
-          "wordCount": 521,
-          "title": "欢迎在 Follow.is 关注本站",
-          "imageUrl": "https://static.txblog.110289.xyz/upload/20241026010515.png"
         }
       ]
     },
