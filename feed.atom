@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-01-27T01:47:16.140Z</updated>
+    <updated>2025-01-28T01:44:51.000Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek vs. ChatGPT: The New AI Challenger Shaping the Landscape]]></title>
+        <id>https://collabnix.com/?p=30220</id>
+        <link href="https://collabnix.com/deepseek-vs-chatgpt-the-new-ai-challenger-shaping-the-landscape/"/>
+        <updated>2025-01-27T19:35:10.000Z</updated>
+        <summary type="html"><![CDATA[Artificial Intelligence has seen tremendous growth in recent years, with advanced models like OpenAI’s ChatGPT leading the charge in natural language processing. However, a new contender, DeepSeek, has emerged, and it’s making waves by adopting a distinct approach to AI model development. While ChatGPT has been a benchmark for generative AI, DeepSeek is challenging the […]]]></summary>
+        <author>
+            <name>Adesoji Alu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxmox Home Server Build 2025: Ryzen 9 7945HX 96GB and 10GbE]]></title>
+        <id>https://www.virtualizationhowto.com/?p=298976</id>
+        <link href="https://www.virtualizationhowto.com/2025/01/proxmox-home-server-build-2025-ryzen-9-7945hx-96gb-and-10gbe/"/>
+        <updated>2025-01-27T13:52:23.000Z</updated>
+        <summary type="html"><![CDATA[I have been intrigued with entertaining building my next Proxmox host in the home lab as opposed to simply buying a pre-built mini PC. Minisforum sent me one of their new motherboards, the BD795M with the AMD Ryzen 9 7945 HX processor. One thing that excites me about this combo is the Ryzen 9 with …
+The post Proxmox Home Server Build 2025: Ryzen 9 7945HX 96GB and 10GbE appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[informer relist - feature or bug?]]></title>
+        <id>https://www.likakuli.com/posts/informer-relist/</id>
+        <link href="https://www.likakuli.com/posts/informer-relist/"/>
+        <updated>2025-01-27T01:43:51.000Z</updated>
+        <summary type="html"><![CDATA[由来 Informer 作为 client-go 的核心，网上有众多的源码分析，原理解析相关文章，可以教给大家如何"正确"的使用 Informer。当然其前提是]]></summary>
+        <author>
+            <name>作者</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A story about pans]]></title>
         <id>https://daverupert.com/2025/01/pans/</id>
@@ -36,6 +67,16 @@ When you use stainless steel pans instead of non-stick pans, you’re committing
         <summary type="html"><![CDATA[这篇文章，聊聊不同类型的 Windows 设备上使用雷电显卡坞外接 Intel 显卡的经验（同适用 AMD 显卡），希望能给有类似需求的朋友一些参考。]]></summary>
         <author>
             <name>苏洋(soulteary)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sink - 免费部署在 Cloudflare Pages 上的超好用的短链接服务]]></title>
+        <id>https://www.ioiox.com/archives/172.html</id>
+        <link href="https://www.ioiox.com/archives/172.html"/>
+        <updated>2025-01-26T02:31:00.000Z</updated>
+        <summary type="html"><![CDATA[前言一直想拥有自己的短链接服务，但是这几年确实没找到好看又好用的服务，直到看到 Sink 这款开源项目。Sink 是直接部署在 Cloudflare Pages 上的，并且整个部署流程 10 分...]]></summary>
+        <author>
+            <name>Stille</name>
         </author>
     </entry>
     <entry>
@@ -8218,47 +8259,6 @@ ARM镜像：openEuler-22.03-LTS-SP4-aarch64-dvd.iso
         <summary type="html"><![CDATA[Imagine working across time zones, making collaboration feel seamless. Remote teams can now leverage the power of scalable DevOps strategies. It’s all about using cutting-edge tools that simplify workflows and enhance team synergy. With effective methods in place, productivity takes center stage. Technology empowers us to work smarter, not harder. So why not explore these […]]]></summary>
         <author>
             <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Git 配置与常用操作指南]]></title>
-        <id>/archives/1730279923698</id>
-        <link href="http://localhost:8090/archives/1730279923698"/>
-        <updated>2024-10-30T09:19:34.000Z</updated>
-        <summary type="html"><![CDATA[1. 配置 Git 用户名和邮箱 在使用 Git 进行版本控制时，首先需要配置你的用户名和邮箱，这些信息会在每次提交时使用。可以通过以下命令进行设置： git config --global user.name "Your Name"
-git config --global user.email "]]></summary>
-        <author>
-            <name>Lixx Blog - 李晓旭的博客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从 AWS App Mesh 迁移到 Istio 全面指南]]></title>
-        <id>https://jimmysong.io/blog/migrating-from-aws-app-mesh-to-istio-a-comprehensive-guide/</id>
-        <link href="https://jimmysong.io/blog/migrating-from-aws-app-mesh-to-istio-a-comprehensive-guide/"/>
-        <updated>2024-10-30T06:20:22.000Z</updated>
-        <summary type="html"><![CDATA[随着 AWS 宣布将在 2026 年 9 月 30 日停用 AWS App Mesh，许多企业正在评估继续使用服务网格的替代方案。如果您也在寻找替代方案，Istio 将是一个强大且功能丰富的选项，尤其适合 Kubernetes 原生环境。在本文中，我将介绍从 AWS App Mesh 迁移到 Istio 的过程，对比这两种服务网格，并介绍我们开发的 Tetrate Istio 迁移工具，帮助简化这一迁移过程。
-App Mesh vs Istio：迁移准备
-由于 AWS App Mesh 即将停用，了解 App Mesh 和 Istio 之间的相似性和差异对于成功迁移至关重要。以下是一些关键比较点，帮助您将当前的基础设施与 Istio 提供的功能对齐：
-全面的功能：App Mesh 和 Istio 都提供流量管理、可观测性和安全功能，但 Istio 提供了更多可自定义的选项，包括高级流量路由和增强的遥测。
-云无关性：与紧密集成 AWS 的 App Mesh 不同，Istio 是云无关的，可在多云或混合环境中提供更大的灵活性。
-高级安全：Istio 默认支持 mTLS，与 App Mesh 相比，提供了更广泛的安全功能和策略。
-AWS 建议 ECS 客户迁移到 Service Connect 而 EKS 客户迁移到 VPC Lattice。对于一个功能丰富的开源解决方案，Istio 是一个很有吸引力的选择。接下来，让我们深入了解从 AWS App Mesh 迁移到 Istio 的过程，并使用 Tetrate 的迁移工具进行支持。
-比较 App Mesh、Service Connect、VPC Lattice 和 Istio
-在开始迁移之前，了解 AWS App Mesh、Service Connect、VPC Lattice 和 Istio 之间的关键区别非常重要：
-功能
-  …]]></summary>
-        <author>
-            <name>Jimmy Song</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 Kubernetes 中选择使用 iptables 或 IPVS 作为流量代理]]></title>
-        <id>/archives/1730255941202</id>
-        <link href="http://localhost:8090/archives/1730255941202"/>
-        <updated>2024-10-30T02:39:15.000Z</updated>
-        <summary type="html"><![CDATA[在 Kubernetes (K8s) 中，流量代理的选择对集群的性能和功能有重要影响。kube-proxy 是 K8s 中的流量管理组件，支持两种主要模式：iptables 和 IPVS。本文将介绍如何在 K8s 中配置和选择这两种模式，并提供验证手段和相关参数解释。 1. 查看当前 kube-pr]]></summary>
-        <author>
-            <name>Lixx Blog - 李晓旭的博客</name>
         </author>
     </entry>
     <entry>

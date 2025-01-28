@@ -1519,16 +1519,6 @@
           "wordCount": 384,
           "title": "跨网络命名空间管理套接字：探索 Linux 套接字的使用",
           "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
-        },
-        {
-          "id": "https://jimmysong.io/blog/migrating-from-aws-app-mesh-to-istio-a-comprehensive-guide/",
-          "author": "Jimmy Song",
-          "description": "随着 AWS 宣布将在 2026 年 9 月 30 日停用 AWS App Mesh，许多企业正在评估继续使用服务网格的替代方案。如果您也在寻找替代方案，Istio 将是一个强大且功能丰富的选项，尤其适合 Kubernetes 原生环境。在本文中，我将介绍从 AWS App Mesh 迁移到 Istio 的过程，对比这两种服务网格，并介绍我们开发的 Tetrate Istio 迁移工具，帮助简化这一迁移过程。\nApp Mesh vs Istio：迁移准备\n由于 AWS App Mesh 即将停用，了解 App Mesh 和 Istio 之间的相似性和差异对于成功迁移至关重要。以下是一些关键比较点，帮助您将当前的基础设施与 Istio 提供的功能对齐：\n全面的功能：App Mesh 和 Istio 都提供流量管理、可观测性和安全功能，但 Istio 提供了更多可自定义的选项，包括高级流量路由和增强的遥测。\n云无关性：与紧密集成 AWS 的 App Mesh 不同，Istio 是云无关的，可在多云或混合环境中提供更大的灵活性。\n高级安全：Istio 默认支持 mTLS，与 App Mesh 相比，提供了更广泛的安全功能和策略。\nAWS 建议 ECS 客户迁移到 Service Connect 而 EKS 客户迁移到 VPC Lattice。对于一个功能丰富的开源解决方案，Istio 是一个很有吸引力的选择。接下来，让我们深入了解从 AWS App Mesh 迁移到 Istio 的过程，并使用 Tetrate 的迁移工具进行支持。\n比较 App Mesh、Service Connect、VPC Lattice 和 Istio\n在开始迁移之前，了解 AWS App Mesh、Service Connect、VPC Lattice 和 Istio 之间的关键区别非常重要：\n功能\n  …",
-          "link": "https://jimmysong.io/blog/migrating-from-aws-app-mesh-to-istio-a-comprehensive-guide/",
-          "publishedOn": "2024-10-30T06:20:22.000Z",
-          "wordCount": 661,
-          "title": "从 AWS App Mesh 迁移到 Istio 全面指南",
-          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
         }
       ]
     },
@@ -1774,6 +1764,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=298976",
+          "author": "Brandon Lee",
+          "description": "I have been intrigued with entertaining building my next Proxmox host in the home lab as opposed to simply buying a pre-built mini PC. Minisforum sent me one of their new motherboards, the BD795M with the AMD Ryzen 9 7945 HX processor. One thing that excites me about this combo is the Ryzen 9 with …\nThe post Proxmox Home Server Build 2025: Ryzen 9 7945HX 96GB and 10GbE appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/01/proxmox-home-server-build-2025-ryzen-9-7945hx-96gb-and-10gbe/",
+          "publishedOn": "2025-01-27T13:52:23.000Z",
+          "wordCount": 11298,
+          "title": "Proxmox Home Server Build 2025: Ryzen 9 7945HX 96GB and 10GbE",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/Proxmox-server-build-2025.jpg"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=298949",
           "author": "Brandon Lee",
@@ -2271,6 +2271,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=30220",
+          "author": "Adesoji Alu",
+          "description": "Artificial Intelligence has seen tremendous growth in recent years, with advanced models like OpenAI’s ChatGPT leading the charge in natural language processing. However, a new contender, DeepSeek, has emerged, and it’s making waves by adopting a distinct approach to AI model development. While ChatGPT has been a benchmark for generative AI, DeepSeek is challenging the […]",
+          "link": "https://collabnix.com/deepseek-vs-chatgpt-the-new-ai-challenger-shaping-the-landscape/",
+          "publishedOn": "2025-01-27T19:35:10.000Z",
+          "wordCount": 3731,
+          "title": "DeepSeek vs. ChatGPT: The New AI Challenger Shaping the Landscape",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=30216",
           "author": "Tanvir Kour",
@@ -4972,26 +4982,6 @@
           "wordCount": null,
           "title": "使用Python生成8位随机密码",
           "imageUrl": null
-        },
-        {
-          "id": "/archives/1730279923698",
-          "author": null,
-          "description": "1. 配置 Git 用户名和邮箱 在使用 Git 进行版本控制时，首先需要配置你的用户名和邮箱，这些信息会在每次提交时使用。可以通过以下命令进行设置： git config --global user.name \"Your Name\"\ngit config --global user.email \"",
-          "link": "http://localhost:8090/archives/1730279923698",
-          "publishedOn": "2024-10-30T09:19:34.000Z",
-          "wordCount": null,
-          "title": "Git 配置与常用操作指南",
-          "imageUrl": null
-        },
-        {
-          "id": "/archives/1730255941202",
-          "author": null,
-          "description": "在 Kubernetes (K8s) 中，流量代理的选择对集群的性能和功能有重要影响。kube-proxy 是 K8s 中的流量管理组件，支持两种主要模式：iptables 和 IPVS。本文将介绍如何在 K8s 中配置和选择这两种模式，并提供验证手段和相关参数解释。 1. 查看当前 kube-pr",
-          "link": "http://localhost:8090/archives/1730255941202",
-          "publishedOn": "2024-10-30T02:39:15.000Z",
-          "wordCount": null,
-          "title": "在 Kubernetes 中选择使用 iptables 或 IPVS 作为流量代理",
-          "imageUrl": null
         }
       ]
     },
@@ -5360,6 +5350,16 @@
       "siteUrl": "https://www.likakuli.com/",
       "articles": [
         {
+          "id": "https://www.likakuli.com/posts/informer-relist/",
+          "author": "作者",
+          "description": "由来 Informer 作为 client-go 的核心，网上有众多的源码分析，原理解析相关文章，可以教给大家如何\"正确\"的使用 Informer。当然其前提是",
+          "link": "https://www.likakuli.com/posts/informer-relist/",
+          "publishedOn": "2025-01-27T01:43:51.000Z",
+          "wordCount": 399,
+          "title": "informer relist - feature or bug?",
+          "imageUrl": "https://www.likakuli.com/logo.png"
+        },
+        {
           "id": "https://www.likakuli.com/posts/informer-memory-opt2/",
           "author": "作者",
           "description": "概述 Informer 几乎在所有 k8s 组件中都会用到，即使是在 kube-apiserver 中。这里主要介绍 Informer 在 v1.27 ~ 1.32.0 之间做的一些内存使用相关的优化，可以降低使用 Informer 组件的内存使用量，减少 OOM",
@@ -5501,7 +5501,18 @@
       "title": "思有云 - IOIOX",
       "feedUrl": "https://www.ioiox.com/feed",
       "siteUrl": "https://www.ioiox.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.ioiox.com/archives/172.html",
+          "author": "Stille",
+          "description": "前言一直想拥有自己的短链接服务，但是这几年确实没找到好看又好用的服务，直到看到 Sink 这款开源项目。Sink 是直接部署在 Cloudflare Pages 上的，并且整个部署流程 10 分...",
+          "link": "https://www.ioiox.com/archives/172.html",
+          "publishedOn": "2025-01-26T02:31:00.000Z",
+          "wordCount": 1901,
+          "title": "Sink - 免费部署在 Cloudflare Pages 上的超好用的短链接服务",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "博客 | 云原生社区（中国）",
