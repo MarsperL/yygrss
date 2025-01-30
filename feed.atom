@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-01-29T01:44:50.591Z</updated>
+    <updated>2025-01-30T01:43:41.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Run DeepSeek-V3 Locally on Ubuntu with Python 3.11: A Step-by-Step Guide]]></title>
+        <id>https://collabnix.com/?p=30281</id>
+        <link href="https://collabnix.com/how-to-run-deepseek-v3-locally-on-ubuntu-with-python-3-11-a-step-by-step-guide/"/>
+        <updated>2025-01-29T15:32:48.000Z</updated>
+        <summary type="html"><![CDATA[Quantizing DeepSeek-V3 for Smaller GPUs Large language models (LLMs) like DeepSeek-V3 offer incredible capabilities, but their size often makes them challenging to run on consumer hardware. One technique to address this is quantization, which reduces the precision of the model’s weights, allowing it to fit into smaller GPUs. This blog post demonstrates how to load […]]]></summary>
+        <author>
+            <name>Adesoji Alu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running DeepSeek-R1 with Ollama]]></title>
+        <id>https://collabnix.com/?p=30286</id>
+        <link href="https://collabnix.com/running-deepseek-r1-with-ollama/"/>
+        <updated>2025-01-29T15:19:05.000Z</updated>
+        <summary type="html"><![CDATA[This blog demonstrates how to use DeepSeek-R1 for text generation using Ollama, a tool for running LLMs locally. These instructions align with the usage described on the DeepSeek-R1 page at ollama.com. 1. Install Ollama Ollama currently supports macOS (both Intel and Apple Silicon). Install it using Homebrew: brew install ollama Confirm the installation by checking […]]]></summary>
+        <author>
+            <name>Adesoji Alu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating Payment Technologies Into Your Business: A Practical Guide]]></title>
+        <id>https://collabnix.com/?p=30297</id>
+        <link href="https://collabnix.com/integrating-payment-technologies-into-your-business-a-practical-guide/"/>
+        <updated>2025-01-29T14:32:20.000Z</updated>
+        <summary type="html"><![CDATA[Is your payment process causing you more problems than profits? Streamline it and watch your efficiency and profitability grow. Easier said than done, we understand, but here’s the thing: payment technology has come a long way, and is now easier than ever to integrate all your payment systems – if you know what you’re doing. […]]]></summary>
+        <author>
+            <name>Avinash Bendigeri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Finance Tips for Small Business Owners That Elevate Company Growth]]></title>
+        <id>https://collabnix.com/?p=30294</id>
+        <link href="https://collabnix.com/5-finance-tips-for-small-business-owners-that-elevate-company-growth/"/>
+        <updated>2025-01-29T14:29:58.000Z</updated>
+        <summary type="html"><![CDATA[Running a small business may require not only your muscles, hard work, and dedication but also your smarts when it comes to financial matters and management. Without much grip on your finances, even your sparkling business ideas might make your firm end up struggling just to thrive. Here are some essential financial tips you can […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyper-V Server 2025: Nope but sort of?]]></title>
+        <id>https://www.virtualizationhowto.com/?p=299029</id>
+        <link href="https://www.virtualizationhowto.com/2025/01/hyper-v-server-2025-nope-but-sort-of/"/>
+        <updated>2025-01-29T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[I think many have been dismayed about the discontinuation of Hyper-V Server. The last version that you can officially download is Hyper-V Server 2019. However, with the release of the Windows Server 2025 Preview ISO, I want to show you guys how you can install a new Windows Server 2025 installation and have roughly the …
+The post Hyper-V Server 2025: Nope but sort of? appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started with DeepSeek LLM using Ollama Locally]]></title>
+        <id>https://collabnix.com/?p=30277</id>
+        <link href="https://collabnix.com/getting-started-with-deepseek-llm-using-ollama-locally/"/>
+        <updated>2025-01-29T08:37:46.000Z</updated>
+        <summary type="html"><![CDATA[DeepSeek LLM is an advanced language model developed by the DeepSeek team. Launched in early 2024, DeepSeek LLM has quickly gained traction due to its powerful reasoning, problem-solving, and factual retrieval capabilities. With 67 billion parameters, support for both English and Chinese, and an open-source framework, it has become a strong contender in the LLM space. […]]]></summary>
+        <author>
+            <name>Ajeet Raina</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Blackbaud Aligns with Nonprofit Needs]]></title>
         <id>https://collabnix.com/?p=30271</id>
@@ -192,6 +253,70 @@ When you use stainless steel pans instead of non-stick pans, you’re committing
         <summary type="html"><![CDATA[Securing your containerized environments should be a top priority in 2025l. In cloud-native landscapes, where containers dominate everything from microservices to full-scale enterprise operations, security vulnerabilities can bring operations to a crashing halt—or worse, compromise sensitive data. That’s a serious risk for any organization investing time and resources into cloud computing. But here’s the thing […]]]></summary>
         <author>
             <name>Avinash Bendigeri</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[怎样给 Hugo 增加一个 RSS 边栏小工具]]></title>
+        <id>https://lawtee.com/article/how-to-add-a-rss-widget-for-hugo/</id>
+        <link href="https://lawtee.com/article/how-to-add-a-rss-widget-for-hugo/"/>
+        <updated>2025-01-25T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[今天上午本来想给 Hugo 主页边栏添加一个 RSS 小工具，用来展示其他跨站动态。本来也很简单，我甚至已经在本站 2025 页面将主要过程记了下来。结果没想到，一提交到 Github 就出了问题，不管是 Github 还是 Vercel 均部署失败。这里只好再详细记录下后续情况。
+为 Hugo 添加一个 RSS 边栏小工具
+
+在 Wordpress 中默认的小工具里边可以很方便添加 RSS 插件，但在 Hugo 上就得稍微麻烦点。不过，我的目的是将我的 WordPress 最新文章列表输出到 Hugo 上，倒也不必然使用 RSS 格式，直接调用 Wordpress API 即可。但与 RSS 相比，方法都是相同的。
+在 Hugo 的边栏模板中添加调用模块
+方法 A：RSS 调用
+
+
+
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+
+
+
+{{ $rssUrl := "https://news.lawtee.com/feed/" }} <!-- 替换为你的 RSS 地址 -->
+{{ $rss := resources.GetRemote $rssUrl }}
+{{ $items := $rss | transform.Unmarshal }}
+<h2>RSS</h2>
+<ul>
+ {{ range first 7 $items.channel.item }}
+ <li>
+ <a href="{{ .link }}" target="_blank">{{ .title }}</a>
+ </li>
+ {{ end }}
+</ul>
+
+
+
+
+
+方法 B：WordPress API 调用
+
+
+
+1
+2
+3
+4
+5
+6
+7
+8
+
+
+
+{{ $url := "https://news.lawtee.com/wp-json/wp/v2/posts?per_page=5…]]></summary>
+        <author>
+            <name>法律小茶馆</name>
         </author>
     </entry>
     <entry>
@@ -8264,56 +8389,6 @@ ARM镜像：openEuler-22.03-LTS-SP4-aarch64-dvd.iso
 </blockquote>]]></summary>
         <author>
             <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ISO 镜像与本地软件源制作：详细步骤和配置]]></title>
-        <id>/archives/1730428961389</id>
-        <link href="http://localhost:8090/archives/1730428961389"/>
-        <updated>2024-11-01T02:58:48.000Z</updated>
-        <summary type="html"><![CDATA[在网络受限的环境中，使用 ISO 镜像作为本地软件源不仅能提高软件包的安装和更新效率，还能确保系统的稳定性。本文将详细介绍如何将 ISO 镜像挂载为本地 Yum 软件源，同时深入探讨 module_hotfixes 配置的作用和必要性。 1. 挂载 ISO 镜像 首先，我们需要将 ISO 文件挂载到]]></summary>
-        <author>
-            <name>Lixx Blog - 李晓旭的博客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Python生成8位随机密码]]></title>
-        <id>/archives/1730426809220</id>
-        <link href="http://localhost:8090/archives/1730426809220"/>
-        <updated>2024-11-01T02:07:54.000Z</updated>
-        <summary type="html"><![CDATA[在这篇文章中，我们将学习如何使用Python生成一个包含数字、字母（大小写）和特殊字符的8位随机密码。这种密码生成器可以帮助我们在需要密码的情况下提供更强的安全性。 1. 环境准备 确保你的计算机上已安装Python。如果还没有安装，可以从Python官方网站下载并安装最新版本。 2. 代码实现 我]]></summary>
-        <author>
-            <name>Lixx Blog - 李晓旭的博客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geek Chic Eyewear: My Optometrist Saga, Eyewear Collection & More]]></title>
-        <id>https://www.derekseaman.com/?p=18598</id>
-        <link href="https://www.derekseaman.com/2024/10/geek-chic-eyewear-my-optometrist-saga-eyewear-collection-more.html"/>
-        <updated>2024-10-31T19:04:08.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the fourth installment of the “Geek Chic Eyewear” series, where I share my personal journey through the world of eyewear and optometry. This series aims to provide a comprehensive look into the technical aspects of eyewear, focusing on frame selection and lens materials. Having navigated the complexities of vision correction—from LASIK in my […]]]></summary>
-        <author>
-            <name>Derek Seaman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[76天驾驶证拿证指南.C2]]></title>
-        <id>/archives/1730359784356</id>
-        <link href="https://srebro.cn/archives/1730359784356"/>
-        <updated>2024-10-31T07:40:13.000Z</updated>
-        <summary type="html"><![CDATA[今天，我终于拿证了！ 北京时间： 2024-10-31 PM 距离今年8月16号考完科目一到今天拿证，一共经历了76天]]></summary>
-        <author>
-            <name>运维小弟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[买保险，靠谱么？]]></title>
-        <id>https://qq.mba/191.html</id>
-        <link href="https://qq.mba/191.html"/>
-        <updated>2024-10-31T01:20:00.000Z</updated>
-        <summary type="html"><![CDATA[其实说到保险，似乎除了车险外，我几乎都没关注过这个，当然平时耳濡目染了不少，不过大多数都是负面的，所以我对保险也没啥好感，打心底比较抵触。总是听说，谁谁谁得了重病，最后花了十几万，据说买了保险最...]]></summary>
-        <author>
-            <name>满心</name>
         </author>
     </entry>
     <entry>
