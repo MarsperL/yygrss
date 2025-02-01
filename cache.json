@@ -224,16 +224,6 @@
           "wordCount": 1218,
           "title": "项目漏洞问题记录",
           "imageUrl": "https://t.mwm.moe/fj?9925"
-        },
-        {
-          "id": "https://marsperl.github.io/yyg/a785f75e/",
-          "author": null,
-          "description": "基础环境\n系统：Windows 10\n硬件：双网卡（本篇中使用的是两个无线网卡）\n所需软件：QEMU、tap-windows\n所需软件固件：QEMU_EFI.fd\nARM镜像：openEuler-22.03-LTS-SP4-aarch64-dvd.iso\n<a href=\"#环境准备\" class=\"headerlink\"",
-          "link": "https://marsperl.github.io/yyg/a785f75e/",
-          "publishedOn": "2024-11-02T15:38:24.000Z",
-          "wordCount": 1227,
-          "title": "Windows 10（x86_64）使用QEMU安装ARM虚拟机",
-          "imageUrl": "https://t.mwm.moe/fj?2191"
         }
       ]
     },
@@ -1765,6 +1755,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=299100",
+          "author": "Brandon Lee",
+          "description": "There are many great DevOps Automation tools available for use that allow DevOps engineers and IT Ops to automate and make the most of their automation toolsets. I would like to share with you guys what I think are the best DevOps automation tools that I use every day and why I feel these are …\nThe post Top DevOps Automation Tools I Use Every Day appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/01/top-devops-automation-tools-i-use-every-day/",
+          "publishedOn": "2025-01-31T14:09:11.000Z",
+          "wordCount": 10915,
+          "title": "Top DevOps Automation Tools I Use Every Day",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/top-devops-automation-tools-I-use-every-day.jpg"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=299068",
           "author": "Brandon Lee",
           "description": "One of the core aspects of any IT infrastructure is the network. The network is the center of how everything communicates, works, and it also forms the core of your security posture and how well your apps perform. This is no different in a home network or home lab environment. We are going to explore …\nThe post Best Home Lab Networking Architecture in 2025 appeared first on Virtualization Howto.",
@@ -2301,6 +2301,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=30321",
+          "author": "Tanvir Kour",
+          "description": "In the digital era, where content creation is at its peak, maintaining originality is more crucial than ever. Yet, the rise of plagiarism has become a pressing issue. As the web expands, so does the temptation to copy and paste content, sometimes inadvertently, making advanced plagiarism detection tools essential in unveiling hidden instances of unoriginality. […]",
+          "link": "https://collabnix.com/beyond-the-surface-unveiling-hidden-plagiarism-with-advanced-detection-tools/",
+          "publishedOn": "2025-01-31T02:59:06.000Z",
+          "wordCount": 3145,
+          "title": "Beyond the Surface: Unveiling Hidden Plagiarism with Advanced Detection Tools",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=30281",
           "author": "Adesoji Alu",
@@ -3787,16 +3797,6 @@
           "wordCount": 543,
           "title": "借icefox改造了一个“朋友圈”",
           "imageUrl": null
-        },
-        {
-          "id": "https://qq.mba/193.html",
-          "author": "满心",
-          "description": "毒液上映那天就想去看的，一直没有时间，正好今儿有空就去看了，看完之后，我俩得出结论：这就结束了？怎么这么短，不可思议。，明显感觉不值这个票价，前两部都看过，感觉还不错，所以对第三部期待还是蛮高的...",
-          "link": "https://qq.mba/193.html",
-          "publishedOn": "2024-11-03T02:43:00.000Z",
-          "wordCount": 538,
-          "title": "看毒液，吃螃蟹",
-          "imageUrl": null
         }
       ]
     },
@@ -4073,6 +4073,21 @@
       "feedUrl": "https://bluehe.cn/rss.xml",
       "siteUrl": "https://bluehe.cn/",
       "articles": [
+        {
+          "id": "https://bluehe.cn/archives/qingxiu-lantern-festival",
+          "author": "寻鹤",
+          "description": "2025年1月18日，在参观完科技馆并饱尝后，我们打车前往青秀山东门。很幸运的是，这两天学生只要出示学生证有效证件就可以免票入园，成人票48元。朋友参观没多久说票价只值28元，最后游览完确实觉得值得这48元。\n\n\n官方公众号显示，本次展出各种主题的水面灯组...",
+          "link": "https://bluehe.cn/archives/qingxiu-lantern-festival",
+          "publishedOn": "2025-01-31T04:33:00.000Z",
+          "wordCount": 869,
+          "title": "2025年青秀山新春灯会",
+          "enclosure": {
+            "url": "https://bluehe.cn/usr/uploads/2025/01/1611419974.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bluehe.cn/usr/uploads/2025/01/1611419974.jpg"
+        },
         {
           "id": "https://bluehe.cn/archives/science-technology-museum",
           "author": "寻鹤",
@@ -5598,26 +5613,6 @@
           "wordCount": 564,
           "title": "Cilium 2024 年度报告解读",
           "imageUrl": "https://cloudnativecn.com/media/sharing.png"
-        },
-        {
-          "id": "https://cloudnativecn.com/blog/api-gateway-checklist-strength/",
-          "author": null,
-          "description": "每个 API 都需要一个前门，一个迎接请求与响应的门户。这个“门”不仅要坚固，能承受高流量的压力，最好还能过滤掉“蚊虫”——也就是潜在的威胁行为者和 DDoS 攻击。同时，一些额外的功能可以让整个体验更加愉快。\nAPI 网关便是你 API 的前门，它不仅仅负责流量的调度，还包括执行安全策略、优化性能等任务。然而，涉及大规模基础设施的决策总是难以把握，特别是当你已经开始构建新的 API，可能很难判断是否在正确的轨道上前行。\n受云原生计算基金会（CNCF）的 云原生成熟度模型 启发，我试图帮助你从全局视角出发，客观评估 API 前门的当前状态，并了解接下来的优化方向。\n基础阶段：打好地基\n在这个阶段，你正处于 API 网关的 MVP 或预生产阶段，验证工具并分配各项责任，以便正式上线。\n决定 API 网关基础架构的基本形态（如云托管或本地部署），选择独立代理或通过 SDK 嵌入 API 网关功能，或者利用 Kubernetes 原生特性如 Gateway API。\n实施安全基本策略，从基本认证开始，逐步升级到 JSON Web Tokens（JWT）。\n设定速率限制和 IP 限制以防滥用。\n实施负载均衡，探索 DDoS 保护选项。\n利用 API 网关的功能来根据流量条件执行特定操作。\n制定 API 管理的基础政策，即便当前还未具备技术条件或专业人员来执行。\n在构建过程中，请随时记录每项决策和实施如何影响开发周期。API 开发人员是否仍然能自由地构建？DevOps、基础设施和平台工程师是否拥有适当的工具来管理此平台？\n完成这些步骤后，你将拥有一个具备基本功能的 API 网关，能够顺利代理请求并具备初步的安全保护。\n运行阶段：投入生产\n当你的 MVP 完成测试，移至生产环境时，重点是集成、效率和为实时环境的挑战做好准备。\n将 API 网关的配置和部署集成至 CI/CD 流程，进行安全和治理规则的集成测试。\n以代码形式管理所有 API 相关配置，以便进行版本控制、代码审查和质量保证。\n开始在多区域、多云和私有云环境中测试 API 网关，为未来扩展做准备。\n将 API 网关的安全、测试和操作任务提前至开发周期中，让 API 开发人员有更多控制权。\n为 API 的部署和操作编写详细的文档。\n无论你处于此阶段的哪一步，都将受益于 API 网关对生产负载的自动化管理，并可利用早期的观测数据微调行为。如果效果不尽如人意，可能需要重新评估。\n扩展阶段：准备增长\n此时，API 网关不再只是一个入口，而是你管理服务、区域、用户和高负载的核心工具。\n利用多区域和多云部署的经验提升性能和冗余性。\n为 API 网关和 API 服务构建或采用自动化故障切换机制。\n收集更多可观测数据，以便将流量、错误、请求和响应的趋势转化为可执行的数据。\n基于实际使用情况制定和实施高级流量策略，如精细的速率限制或细粒度访问控制。\n实施版本和弃用流程。\n下一个阶段？API 网关将不仅仅是一个工具，而是你团队快速、敏捷部署的核心支柱。\n改善阶段：强化安全与治理\n这个阶段的重点在于精炼。你的 API 网关足够灵活和可扩展，但要保持持续发展，还需在不影响开发人员效率的情况下增加控制措施。\n采用允许 DevOps 和基础设施工程师集中管理安全的工具和工作流，同时让开发人员可以高效工作。Kubernetes Gateway API 是一个不错的例子，它基于角色进行配置。\n分析并优化 API 基础设施的整体成本。\n实现实时监控，以便向 API 的主要用户提供服务水平协议（SLA）。\n为开发人员提供自助开发环境，以测试 API 或网关的复杂场景或重大变更。\n精简 API 网关的工具和供应商。\n考虑使用 GitOps 等持续部署方式。\n你几乎已经达成目标，但仍需不断努力。\n适应阶段：回顾、重建与再创新\n此时，你不仅要应对 API 网关的现状，还要前瞻性地调整策略，保持领先地位。基于丰富的观测数据不断改进，同时还有更多工作要做。\n通过 API 网关测试套件实现质量控制，以减少缺陷和事故。\n将所有 API 发布和 API 网关配置更改迁移至 GitOps 工作流。\n启用蓝绿部署或金丝雀发布等高级部署技术。\n提供工具和培训，让 API 开发人员从开发的早期阶段便能实现和测试高级安全功能。\n创建自助环境，使开发人员能够在既定的安全范围内配置和管理 API 网关。\n如果你已完成清单中的所有事项，恭喜你！",
-          "link": "https://cloudnativecn.com/blog/api-gateway-checklist-strength/",
-          "publishedOn": "2024-10-29T09:43:25.000Z",
-          "wordCount": 507,
-          "title": "API 网关的自查清单：你的 API 前门有多坚固？",
-          "imageUrl": "https://cloudnativecn.com/media/sharing.png"
-        },
-        {
-          "id": "https://cloudnative.to/blog/api-gateway-checklist-strength/",
-          "author": null,
-          "description": "每个 API 都需要一个前门，一个迎接请求与响应的门户。这个“门”不仅要坚固，能承受高流量的压力，最好还能过滤掉“蚊虫”——也就是潜在的威胁行为者和 DDoS 攻击。同时，一些额外的功能可以让整个体验更加愉快。\nAPI 网关便是你 API 的前门，它不仅仅负责流量的调度，还包括执行安全策略、优化性能等任务。然而，涉及大规模基础设施的决策总是难以把握，特别是当你已经开始构建新的 API，可能很难判断是否在正确的轨道上前行。\n受云原生计算基金会（CNCF）的 云原生成熟度模型 启发，我试图帮助你从全局视角出发，客观评估 API 前门的当前状态，并了解接下来的优化方向。\n基础阶段：打好地基\n在这个阶段，你正处于 API 网关的 MVP 或预生产阶段，验证工具并分配各项责任，以便正式上线。\n决定 API 网关基础架构的基本形态（如云托管或本地部署），选择独立代理或通过 SDK 嵌入 API 网关功能，或者利用 Kubernetes 原生特性如 Gateway API。\n实施安全基本策略，从基本认证开始，逐步升级到 JSON Web Tokens（JWT）。\n设定速率限制和 IP 限制以防滥用。\n实施负载均衡，探索 DDoS 保护选项。\n利用 API 网关的功能来根据流量条件执行特定操作。\n制定 API 管理的基础政策，即便当前还未具备技术条件或专业人员来执行。\n在构建过程中，请随时记录每项决策和实施如何影响开发周期。API 开发人员是否仍然能自由地构建？DevOps、基础设施和平台工程师是否拥有适当的工具来管理此平台？\n完成这些步骤后，你将拥有一个具备基本功能的 API 网关，能够顺利代理请求并具备初步的安全保护。\n运行阶段：投入生产\n当你的 MVP 完成测试，移至生产环境时，重点是集成、效率和为实时环境的挑战做好准备。\n将 API 网关的配置和部署集成至 CI/CD 流程，进行安全和治理规则的集成测试。\n以代码形式管理所有 API 相关配置，以便进行版本控制、代码审查和质量保证。\n开始在多区域、多云和私有云环境中测试 API 网关，为未来扩展做准备。\n将 API 网关的安全、测试和操作任务提前至开发周期中，让 API 开发人员有更多控制权。\n为 API 的部署和操作编写详细的文档。\n无论你处于此阶段的哪一步，都将受益于 API 网关对生产负载的自动化管理，并可利用早期的观测数据微调行为。如果效果不尽如人意，可能需要重新评估。\n扩展阶段：准备增长\n此时，API 网关不再只是一个入口，而是你管理服务、区域、用户和高负载的核心工具。\n利用多区域和多云部署的经验提升性能和冗余性。\n为 API 网关和 API 服务构建或采用自动化故障切换机制。\n收集更多可观测数据，以便将流量、错误、请求和响应的趋势转化为可执行的数据。\n基于实际使用情况制定和实施高级流量策略，如精细的速率限制或细粒度访问控制。\n实施版本和弃用流程。\n下一个阶段？API 网关将不仅仅是一个工具，而是你团队快速、敏捷部署的核心支柱。\n改善阶段：强化安全与治理\n这个阶段的重点在于精炼。你的 API 网关足够灵活和可扩展，但要保持持续发展，还需在不影响开发人员效率的情况下增加控制措施。\n采用允许 DevOps 和基础设施工程师集中管理安全的工具和工作流，同时让开发人员可以高效工作。Kubernetes Gateway API 是一个不错的例子，它基于角色进行配置。\n分析并优化 API 基础设施的整体成本。\n实现实时监控，以便向 API 的主要用户提供服务水平协议（SLA）。\n为开发人员提供自助开发环境，以测试 API 或网关的复杂场景或重大变更。\n精简 API 网关的工具和供应商。\n考虑使用 GitOps 等持续部署方式。\n你几乎已经达成目标，但仍需不断努力。\n适应阶段：回顾、重建与再创新\n此时，你不仅要应对 API 网关的现状，还要前瞻性地调整策略，保持领先地位。基于丰富的观测数据不断改进，同时还有更多工作要做。\n通过 API 网关测试套件实现质量控制，以减少缺陷和事故。\n将所有 API 发布和 API 网关配置更改迁移至 GitOps 工作流。\n启用蓝绿部署或金丝雀发布等高级部署技术。\n提供工具和培训，让 API 开发人员从开发的早期阶段便能实现和测试高级安全功能。\n创建自助环境，使开发人员能够在既定的安全范围内配置和管理 API 网关。\n如果你已完成清单中的所有事项，恭喜你！",
-          "link": "https://cloudnative.to/blog/api-gateway-checklist-strength/",
-          "publishedOn": "2024-10-29T09:43:25.000Z",
-          "wordCount": 505,
-          "title": "API 网关的自查清单：你的 API 前门有多坚固？",
-          "imageUrl": "https://cloudnative.to/media/sharing.png"
         }
       ]
     },
