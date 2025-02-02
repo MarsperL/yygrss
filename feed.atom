@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-02-01T01:49:59.650Z</updated>
+    <updated>2025-02-02T01:49:07.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[失去的5000元，M4的MacMini就此没有了]]></title>
+        <id>https://4311346.com/post/2025/0201-lose-5000.html</id>
+        <link href="https://4311346.com/post/2025/0201-lose-5000.html"/>
+        <updated>2025-02-01T13:13:53.000Z</updated>
+        <summary type="html"><![CDATA[年关将至小年之后武汉大街上的车流明显的变少了不少，准备提前一天01月26日放假，但真不知道放假之后还能做些什么，大家都期待着过年，而自己却感觉少了些什么…
+01月26日其实是公司过年放假前的最后一个工作日，这天会发放2024年年终奖，而年终奖中却被扣了5000元奖金。唉~，感觉一台 M4 的 MacMini 就此没有了… 再将交给国家税务的税费一缴，感觉又一台 VIVO X200PRO 没有了，心疼。
+5000元买个教训把
+被扣罚的组成部分有三件事
+第一件和第二件是因为团队在全年的两个阶段性工作上未能及时交付，导致公司业绩损失，不然所有管理人员的年终奖可能会翻倍。
+第三件事，则是事情太多，延时交付了一件事情…
+理应如此，有奖有罚，没有什么好说的
+唉~5000元买个教训把
+年终奖…在心中一直是个痛
+或许不该抱怨，但年终奖也是2024年初离开上一家干了5年的公司的原因之一，因为上家公司，自己仅有1年拿过年终奖，金额不足3000元。随后2020年的新冠疫情，那一年亲手写了《取消年终奖的通知》，而随后的3年时间里，我的年终奖和全司的利润额挂钩。随着公司合伙人的增加，原本高额的差旅费用不断增加，而最应该按制度管控的财务却带头开始各种公款高消费。剩下的也就只剩失望了…
+而2024年终既使年终奖被扣5000元，也依然比啥都没有强。40岁的新工作虽然比起前几年要更累，但还是能较快的给自己创造一个舒适区，只看自己是否还想更努力。
+2025年春节
+感冒在家休养…2025年春节哪里都没去。从01月26日开始至今01月31日，还未痊愈，这次咳嗽的恢复期远比预期的要长。
+那些春节的回忆又将被更新。
+
+春节期间每天在武商梦时代打卡
+
+剩下的日子，不去父母家，就在家里点外卖
+武汉从什么时候开始禁鞭
+1994年7月21日湖北省武汉市第九届人民代表大会常务委员会第九次会议通过 1994年10月12日湖北省第八届人民代表大会常务委员会第九次会议批准。1994年武汉市人大常委会颁布的文件《武汉市禁止燃放烟花爆竹规定》，武汉就此成为了国内继深圳、广州、北京之后第四个实施禁鞭的城市‌。
+而在过去武汉禁鞭的30年中，武汉市政府每隔9年都会扩展武汉市禁鞭的区域，比如2013年禁鞭区域覆盖为无武汉七大中心城区，2022年又新增了江夏、黄陂、新洲、东西湖。
+近些年每到春节假期，却总能在武汉听到身边烟花爆竹的响声。初一这天早上停放在户外的车辆内PM2.5数值都要爆表了。
+要初二能痊愈，或许初三初四就是湖南浏阳见了…
+春节前路边看到的躺赚
+
+美团充电宝链接电动车大单体电池充电，然后出租…我想马路两旁的这两辆电动车都是一个老板的把。每天晚上将电动车充好电，然后骑行至人流量多的区域停放，开启出租模式，然后回家睡觉。。。]]></summary>
+        <author>
+            <name>Andy烧麦 - 成熟，聪明，豁达的人什么也不问 过去，现在，将来…</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top DevOps Automation Tools I Use Every Day]]></title>
         <id>https://www.virtualizationhowto.com/?p=299100</id>
@@ -2639,6 +2674,22 @@ The post Install Ghostty in Windows using WSL appeared first on Virtualization H
         <summary type="html"><![CDATA[当日历翻到 12月底的最后一页，终于能够静下心来写这份年终总结。时光飞逝，2024年留给我的，不仅是感慨，更多的是收获。]]></summary>
         <author>
             <name>苏洋(soulteary)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 10（x86_64）使用QEMU安装ARM虚拟机]]></title>
+        <id>https://marsperl.github.io/yyg/a785f75e/</id>
+        <link href="https://marsperl.github.io/yyg/a785f75e/"/>
+        <updated>2024-12-31T13:26:18.000Z</updated>
+        <summary type="html"><![CDATA[基础环境
+系统：Windows 10
+硬件：双网卡（本篇中使用的是两个无线网卡）
+所需软件：QEMU、tap-windows
+所需软件固件：QEMU_EFI.fd
+ARM镜像：openEuler-22.03-LTS-SP4-aarch64-dvd.iso
+<a href="#环境准备" class="headerlink"]]></summary>
+        <author>
+            <name>云野阁</name>
         </author>
     </entry>
     <entry>
@@ -8310,27 +8361,6 @@ Continue reading...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Test Automation Tools: A Comprehensive Guide]]></title>
-        <id>https://collabnix.com/?p=28424</id>
-        <link href="https://collabnix.com/ai-test-automation-tools-a-comprehensive-guide/"/>
-        <updated>2024-11-04T12:01:56.000Z</updated>
-        <summary type="html"><![CDATA[How do software development teams make sure their apps are free of bugs and easy to use? Automation is essential for expediting testing in today’s fast-paced tech environment. Test automation is being revolutionized by artificial intelligence (AI), which is making it quicker and more effective. In this post, let’s examine how testRigor, Mabl, and Selenium […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boosting DevOps Team Efficiency Through Professional Writing]]></title>
-        <id>https://collabnix.com/?p=28416</id>
-        <link href="https://collabnix.com/boosting-devops-team-efficiency-through-professional-writing/"/>
-        <updated>2024-11-04T11:49:45.000Z</updated>
-        <summary type="html"><![CDATA[Discover how professional writing can enhance DevOps team efficiency. Learn
-how clear communication and documentation boost collaboration and streamline processes.]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[中年人的双十一能买啥]]></title>
         <id>https://hyruo.com/article/midlife-shopping-festival/</id>
         <link href="https://hyruo.com/article/midlife-shopping-festival/"/>
@@ -8366,26 +8396,6 @@ how clear communication and documentation boost collaboration and streamline pro
 于是只能…]]></summary>
         <author>
             <name>法律小茶馆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最好的解决办法就是请人吃饭]]></title>
-        <id>https://4311346.com/post/2024/1104-inviting.html</id>
-        <link href="https://4311346.com/post/2024/1104-inviting.html"/>
-        <updated>2024-11-04T06:18:53.000Z</updated>
-        <summary type="html"><![CDATA[暑假期间三个人难得一次的聚餐，为了吃什么最后闹掰。S同学好不容易回了一趟武汉，N同学提议聚餐，很快一起达成一致。很快因为吃什么S同学与N同学却产生了分歧… N同学提议武汉江北的羊肉，S同学虽然距离江边不足5公里，却不愿意过江。S同学又提议了几个馆子，N同学这不吃，那嫌贵的…最终约不到一起。
-对于旁观的我来说，吃什么无所谓，任何地点，我都能准时出现。我很迁就他们，因为见一面，远比吃什么，去哪里要重要。
-无奈，群就这么散了…
-是吃不起吗？显然不是，都是月入过万的人… 或只是认为 “对方” 并不是那么重要把。所以不愿意付出时间、精力和更多的成本而已。都希望 “别人”  按自己的想法来，以 “自己” 为核心… 其实最好的解决办法就是请人吃饭。
-所以，很多年前，每一次从深圳回武汉，都会主动请朋友们吃饭。而现在 “为什么要请呢？” 说到底，可能是价值问题。
-为什么很多同学，毕业多年后，走着走着就散了。每个人的生活、工作的圈子都不同，汉代《礼记》中，就有写到过，“同门为朋，同道为友” 。对于 朋友 的各种解释有很多种，就不一一列举了。
-但最烦的是那句，“做兄弟的要怎么怎么的鬼话…”
-Jeffer.Z的博客中，《朋友之间的双向选择》提到的朋友之间的考验，也并不是没有道理。
-当然，我也有错，最好的解决办法就是请人吃饭，所以我要组织，我要请客，或许也就见上了。
-八年没见过的同事，突然找你肯定没好事
-ZL是2016年公司的部门内入职的一个新员工，试用期未能通过后离职，离职后联系很少。因为他新工作是在广州某猎头公司的工作关系，每2-3年会给我通一次电话，聊聊行业发展和动向。他是典型的B型血，废话超级多，而且还能自言自语的那种。今年07月他再一次联系我，因为确实很忙，所以微信语音通话中聊了10多分钟就挂了。但过了一周后的一天下午，微信语音再次响起，是ZL说他和同事在公司楼下喝下午茶，没带钱，要我微信…]]></summary>
-        <author>
-            <name>Andy烧麦 - 成熟，聪明，豁达的人什么也不问 过去，现在，将来…</name>
         </author>
     </entry>
 </feed>
