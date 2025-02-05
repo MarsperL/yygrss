@@ -811,16 +811,6 @@
           "wordCount": 93,
           "title": "广州一日游",
           "imageUrl": "https://hyruo.com/editor/tour-guangzhou/6kCmZSyiOTX6Zdjr.webp"
-        },
-        {
-          "id": "https://hyruo.com/article/washington-does-not-welcome-trump/",
-          "author": null,
-          "description": "高中是我第一次走出大山，进到县城开始接触世界的起点。记得在 2004 年这个时候，我们学校的高中部教学楼还没建成，我们高 1 班与小学三、四年级几个班的学生同在一栋黄色琉璃瓦顶的四层教学楼里上课。\n\n当时班上很多走读的同学都有上学路上顺手买份报纸的习惯，特别是 5 毛钱一份的潇湘晨报，份量大，内容多，一般都有 4 叠加起来十几张报纸，简直是居家生活学习神器。\n也就是这一年，我第一次从报纸上看到美国大选的事情。\n奇怪的选举\n\n在 2000 年后，小布什的名字可以说家喻户晓，911 事件、伊拉克战争、访华等新闻经常在电视新闻中出现。也让我一度觉得，这美国总统应该也是类似毛主席一样的人物，在美国具有崇高地位。\n但奇怪的是，在 2004 年的总统选举中，怎么会冒出一位叫克里的人来跟小布什竞争总统之位。\n在我眼里，当时媒体报道的克里，仅仅是一名参议员，没当过省长、部长之类的大官，也没有什么丰功伟绩传世，甚至还有各种私生活混乱的花边新闻，就这样一个人，配去竞争总统吗？\n难道美国大选真就是走个过场，随便安排个人陪跑一下？\n在看到选举结果后，对这事情就更加疑惑了，就这样一个素人，居然得票只比小布什少了 400 万张，支持率只低了 3 个百分点。\n最夸张的是，克里在选举人票与小布什为 252:254 的时候，仅差 2 票就打平，但却公开承认已败选，一直让我百思不得其解。\n不解的是，为什么这样一个素人居然跟现任总统差距不到 1%，他明明没什么基础才对。\n不解的是，为什么选举结果能出现这种双方都在 50% 上下的势均力敌的状况，如果是走过场，那万一有些人没按剧本走，简直是在玩火自焚。\n不解的是，为什么票都还没开完，克里就提前认输，莫非是内幕操作。\n\n文明的灯塔\n\n2008 年是我进入大学的第二年，随着北京奥运的闭幕，美帝选举也进入白热化阶段，一边是黑人奥巴马，另一边是在越南坐了 5 年牢的麦凯恩…",
-          "link": "https://hyruo.com/article/washington-does-not-welcome-trump/",
-          "publishedOn": "2024-11-07T08:40:00.000Z",
-          "wordCount": 177,
-          "title": "华盛顿不欢迎特朗普",
-          "imageUrl": "https://hyruo.com/article/washington-does-not-welcome-trump/10.webp"
         }
       ]
     },
@@ -1292,16 +1282,6 @@
           "wordCount": 68,
           "title": "游记｜常来长寿，如皋如歌。这一站南通如皋",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.ops-coffee.cn/s/devops-cmdb-resource-auto-manage-sync-agent",
-          "author": null,
-          "description": "浅谈资产管理系统CMDB如何自动纳管不同来源的资源",
-          "link": "https://blog.ops-coffee.cn/s/devops-cmdb-resource-auto-manage-sync-agent",
-          "publishedOn": "2024-11-06T15:53:28.000Z",
-          "wordCount": 55,
-          "title": "资产纳管的三种方式介绍",
-          "imageUrl": null
         }
       ]
     },
@@ -1498,16 +1478,6 @@
           "publishedOn": "2024-11-18T03:47:02.000Z",
           "wordCount": 752,
           "title": "Istio Ambient 模式中的 Pod 内 iptable 规则注入解析",
-          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
-        },
-        {
-          "id": "https://jimmysong.io/blog/cross-network-namespace-socket/",
-          "author": "Jimmy Song",
-          "description": "最近我在研究 Istio Ambient 模式中的透明流量劫持，过程中涉及了跨网络命名空间管理套接字的功能。在 Istio 官方的博客 Maturing Istio Ambient: Compatibility Across Various Kubernetes Providers and CNIs 中也提到了这一点，让我对 Linux 套接字 API 的这个功能产生了浓厚的兴趣。所以，我决定写下这篇博客，分享如何在 Linux 系统中跨网络命名空间管理套接字的细节。\n网络命名空间简介\n网络命名空间是一种 Linux 内核特性，可以把系统的网络资源（例如 IP 地址、路由表等）分割成多个独立的实例。这样每个实例就可以为不同的进程提供独立的网络环境。比如，Docker 使用网络命名空间为每个容器提供独立的网络栈，让它们之间的网络资源互相隔离。\n通过网络命名空间，不同的进程可以有独立的网络配置，比如不同的 IP 地址和路由设置。但即使网络命名空间实现了隔离，Linux 的套接字 API 仍然可以让进程跨网络命名空间操作套接字。\n跨网络命名空间管理套接字\n在一个命名空间中运行的进程可以创建一个套接字，并将它放到另一个网络命名空间中，这让我们可以实现非常灵活的网络通信。比如，可以在一个特定的网络命名空间中创建监听套接字，让其他命名空间中的进程共享这个套接字。这种功能在容器编排和微服务架构中非常有用。\n下面是一个简单的例子，使用 nc 命令创建套接字，使其绑定到指定的网络设备或命名空间。\nMermaid Diagram\n  \n\n使用 Docker 演示这一功能\n因为我使用的 macOS 不支持 Linux 的网络命名空间，但可以使用 Docker Desktop 模拟相应的环境。下面是在 macOS 上使用 Docker 来演示的方法：\nMermaid Diagram\n  \n\n\n\n安…",
-          "link": "https://jimmysong.io/blog/cross-network-namespace-socket/",
-          "publishedOn": "2024-11-07T08:48:08.000Z",
-          "wordCount": 384,
-          "title": "跨网络命名空间管理套接字：探索 Linux 套接字的使用",
           "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
         }
       ]
@@ -1734,6 +1704,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=299152",
+          "author": "Brandon Lee",
+          "description": "I have done a lot of experimenting with my vExpert-provided Intel Optane 280 GB drives as a caching tier in front of my vSAN OSA configuration. However, since I have gone with mini PCs there is just not enough room for the very “thick” intel optane drives. This is one of the downsides that I …\nThe post Use Intel Optane SSD: Cheat your System Memory for Proxmox or VMware appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/02/use-intel-optane-ssd-cheat-your-system-memory-for-proxmox-or-vmware/",
+          "publishedOn": "2025-02-04T14:19:32.000Z",
+          "wordCount": 10847,
+          "title": "Use Intel Optane SSD: Cheat your System Memory for Proxmox or VMware",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/intel-optane-ssd-to-cheat-your-system-memory.jpg"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=299131",
           "author": "Brandon Lee",
@@ -2291,6 +2271,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=30324",
+          "author": "Ajeet Raina",
+          "description": "Have you noticed how arm64 is making waves in the container world? It started with single-board computers like the Raspberry Pi and mobile devices, but now it’s powering Apple Silicon Macs and cloud offerings from AWS, Google Cloud, Azure, and Hetzner. And the best part? These Arm-based instances are often cheaper than their Intel/AMD counterparts. In fact, […]",
+          "link": "https://collabnix.com/what-is-kubearchinspect-and-what-problem-does-it-solve/",
+          "publishedOn": "2025-02-04T17:19:12.000Z",
+          "wordCount": 3085,
+          "title": "What is KubeArchInspect and what problem does it solve?",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=30321",
           "author": "Tanvir Kour",
@@ -3530,36 +3520,6 @@
           "wordCount": 3614,
           "title": "Taking Docker Compose to Production with One Tool",
           "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/11/Screenshot-2024-11-11-at-8.46.44%E2%80%AFAM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=28412",
-          "author": "Tanvir Kour",
-          "description": "RoR is an open-source web application framework written in Ruby. It is designed to accelerate development significantly. Ruby on Rails utilizes reusable code and streamlined processes to prioritize speed and quality. For rapid prototyping and flexibility in development, RoR is your best pick. You can enjoy shorter development cycles. Ruby on Rails may be your […]",
-          "link": "https://collabnix.com/how-to-get-started-with-ruby-on-rails/",
-          "publishedOn": "2024-11-07T08:34:49.000Z",
-          "wordCount": 2742,
-          "title": "How to Get Started with Ruby on Rails",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/11/Screenshot-2024-11-02-at-2.03.05%E2%80%AFPM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=28203",
-          "author": "Ajeet Raina",
-          "description": "In today’s software landscape, understanding the components of your applications is crucial for security and compliance. A Software Bill of Materials (SBOM) provides a comprehensive list of all components in your software, including open-source and third-party elements. Docker Scout offers a powerful tool to generate SBOMs for your Docker images, enhancing your ability to manage […]",
-          "link": "https://collabnix.com/how-to-generate-your-sbom-from-docker-images/",
-          "publishedOn": "2024-11-07T04:41:07.000Z",
-          "wordCount": 2499,
-          "title": "How to Generate Your SBOM from Docker Images",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/10/Screenshot-2024-10-31-at-12.17.52%E2%80%AFPM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=28243",
-          "author": "Abraham Dahunsi",
-          "description": "Software vulnerabilities can propagate from one component to another, leading to widespread system compromises. Docker Scout is a tool designed to bring visibility into Docker images, helping identify vulnerabilities and enforcing security policies throughout the software supply chain. To maximize the potential of Docker Scout, integrating it with Prometheus allows you to actively monitor and […]",
-          "link": "https://collabnix.com/integrating-docker-scout-with-prometheus/",
-          "publishedOn": "2024-11-06T20:44:12.000Z",
-          "wordCount": 3452,
-          "title": "Integrating Docker Scout with Prometheus",
-          "imageUrl": "https://usercontent.one/wp/collabnix.com/wp-content/uploads/2024/10/Screenshot-2024-10-30-at-6.57.16?media=1725267074 PM-png.avif"
         }
       ]
     },
@@ -5234,16 +5194,6 @@
           "wordCount": 734,
           "title": "1Panel FTP 服务上传文件慢问题分析",
           "imageUrl": "https://static.txblog.110289.xyz/upload/71f64185.jpg"
-        },
-        {
-          "id": "https://www.txisfine.cn/archives/9a8fb283.html",
-          "author": null,
-          "description": "<p>在 7.x 专业版雷池中增加了一个配置同步的功能，使用配置同步功能，可以将主节点的配置分发给从节点，从而实现 WAF 的多活。</p>\n<p>本文以 Version 7.1.1-lts 为例进行测试，具体绑定操作参考<a href=\"https://docs.waf-ce.",
-          "link": "https://www.txisfine.cn/archives/9a8fb283.html",
-          "publishedOn": "2024-11-06T14:35:22.000Z",
-          "wordCount": 555,
-          "title": "长亭雷池 WAF 专业版配置同步功能小测（多机多活）",
-          "imageUrl": "https://static.txblog.110289.xyz/upload/11c696b1.jpg"
         }
       ]
     },
@@ -5696,6 +5646,16 @@
       "siteUrl": "https://jia.je/",
       "articles": [
         {
+          "id": "https://jia.je/software/2025/02/04/feishu-dump-calendar/",
+          "author": null,
+          "description": "导出飞书日历为 iCalendar 格式¶\n背景¶\n之前用了一段时间飞书日历，想要把日历里的事件导出来备份，但是发现飞书自己的导出功能太弱，因此参考 从飞书导出日历到 Fastmail - Xuanwo's Blog 进行了导出的尝试。\n\n导出方法¶\n上面提到的文章，是通过 CalDAV 的方式进行的日历同步。因此我第一步也是配置飞书的 CalDAV 服务：\n\n打开飞书客户端\n点击设置\n点击日历\n设置 CalDAV 同步\n\n按照界面所示，配置 CalDAV 同步，就可以得到用于 CalDAV 的域名、用户名和密码了。如果只是要订阅，那么到这一步，就可以直接用 CalDAV 客户端来同步了。但我想进一步得到 iCalendar 格式的日历文件。\n于是我参考了上述文章的评论区的做法：\n\n@jason5ng32jason5ng32Oct 28, 2024分享一下我的方法：1. 在服务器上安装 vdirsyncer ，这个工具可以同步 CalDAV 的内容，在同步设置里，不需要先找到 UUID，可以直接用飞书提供的 URL。2. 写一个 Python 脚本，将 vdirsyncer 同步的内容合并成单一的 ics 文件。3. 将 ics 文件放到一个地址稍微复杂一点的 http 目录里，可以外部访问。4. 写一个 run.sh 脚本，通过 crontab 每 10 分钟执行一次 vdirsyncer 同步和日历文件合成。\n\n也就是说，用 vdirsyncer 把日历同步到本地，再转换为 iCalendar 格式的日历文件。参考 vdirsyncer 文档，这件事情并不复杂：\n\n按照 vdirsyncer: pip3 install vdirsyncer\n编辑 ~/.vdirsyncer/config，填入在飞书处得到的用户密码: \n[general]status_path = \"~/.vdirsyncer/status/\"[pair my_contacts]a = \"my_contacts_local\"b = \"my_contacts_remote\"collections = [\"from a\", \"from b\"][storage my_contacts_local]type = \"filesystem\"path = \"~/.contacts/\"fileext = \".vcf\"[storage my_contacts_remote]type = \"caldav\"url = \"https://caldav.feishu.cn\"username = \"REDACTED\"password = \"REDACTED\"\n\n配置好以后，进行同步：vdirsyncer discover && vdirsyncer sync\n\n此时在 ~/.contacts 目录下，已经能看到很多个 vcf 文件了，每个 vcf 文件对应了日历中的一个事件。实际上，这些文件就已经是 iCalendar 格式了，只不过每个文件只有一个事件。\n为了让一个 .ics 文件包括日历的所有事件，写了一个脚本，实际上就是处理每个 vcf 文件，去掉每个文件开头结尾的 BEGIN:VCALENDAR 和 END:VCALENDAR，把中间的部分拼起来，最后再加上开头结尾：\n\nimport sysall_lines = []all_lines += [\"BEGIN:VCALENDAR\"]for f in sys.argv[1:]: content = open(f).read().strip() lines = content.splitlines() all_lines += lines[1:-1]all_lines += [\"END:VCALENDAR\"]print(\"\\n\".join(all_lines))\n\n运行上述脚本：python3 dump.py ~/.contacts/*/*.vcf > dump.ics，这样得到的 .ics 文件就可以直接导入到日历软件了。",
+          "link": "https://jia.je/software/2025/02/04/feishu-dump-calendar/",
+          "publishedOn": "2025-02-04T00:00:00.000Z",
+          "wordCount": 349,
+          "title": "导出飞书日历为 iCalendar 格式",
+          "imageUrl": null
+        },
+        {
           "id": "https://jia.je/hardware/2024/12/27/cpu_uarch_reverse_engineering_methodology/",
           "author": null,
           "description": "CPU 微架构逆向方法学¶\n背景¶\n最近做了不少微架构的评测，其中涉及到了很多的 CPU 微架构的逆向：\n\nApple M1 微架构评测\nQualcomm Oryon 微架构评测\nAMD Zen 5 微架构评测\nARM Neoverse V2 微架构评测\n\n因此总结一下 CPU 微架构逆向方法学。\n\n定义¶\n首先定义一下：什么是 CPU 微架构逆向，我认为 CPU 微架构逆向包括两部分含义：\n\n在已经知道某 CPU 微架构采用某种设计，只是不知道其设计参数时，通过逆向，得到它的设计参数\n在不确定某 CPU 微架构采用的是什么设计，给出一些可能的设计，通过逆向，排除或确认其设计，再进一步找到它的设计参数\n\n举一个例子，已经知道某 CPU 微架构有一个组相连的 L1 DCache，但不知道它的容量，几路组相连，此时通过微架构逆向的方法，可以得到它的容量，具体是几路组相连，进一步可能把它的 Index 函数也逆向出来。这是第一部分含义。\n再举一个例子，已经知道某 CPU 微架构有一个分支预测器，但不知道它使用了什么信息来做预测，可能用了分支的地址，可能用了分支要跳转的目的地址，可能用了分支的方向，这时候通过微架构逆向的方法，对不同的可能性做排除，找到真正的那一个。如果不能排除到只剩一个可能，或者全部可能都被排除掉，说明实际的微架构设计和预期不相符。\n第一部分含义，目前已经有大量的成熟的 Microbenchmark（针对微架构 Microarchitecture 设计的 Benchmark，叫做 Microbenchmark）来解决，它们针对常见的微架构设计，实现了对相应设计参数的逆向的 Microbenchmark，可以在很多平台上直接使用。第二部分含义，目前还只能逐个分析，去猜测背后的设计，再根据设计去构造对应该设计的 Microbenchmark。\n下面主要来介绍，设计和实…",
@@ -5743,16 +5703,6 @@
           "publishedOn": "2024-11-10T00:00:00.000Z",
           "wordCount": 177,
           "title": "把评论系统从 Disqus 迁移到 Giscus",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jia.je/hardware/2024/11/07/arm_neoverse_v2/",
-          "author": null,
-          "description": "ARM Neoverse V2 微架构评测¶\n背景¶\nARM Neoverse V2 是目前（2024 年）在服务器上能用到的最新的 ARM 公版核平台（AWS Graviton 4），测试一下这个微架构在各个方面的表现。\n\n官方信息¶\nARM 关于 Neoverse V2 微架构有如下公开信息：\n\nArm Neoverse V2 platform: Leadership Performance and Power Efficiency for Next-Generation Cloud Computing, ML and HPC Workloads\nArm® Neoverse™ V2 Core Technical Reference Manual\nArm Neoverse V2 Software Optimization Guide\n\n考虑到 Neoverse V2 与 Cortex X3 的高度相似性，这里也列出 Cortex X3 的相关信息：\n\nArm Unveils Next-Gen Flagship Core: Cortex-X3\nArm® Cortex‑X3 Core Technical Reference Manual\n\n现有评测¶\n网上已经有 Neoverse V2 微架构的评测和分析，建议阅读：\n\nHot Chips 2023: Arm’s Neoverse V2\n\n下面分各个模块分别记录官方提供的信息，以及实测的结果。读者可以对照已有的第三方评测理解。官方信息与实测结果一致的数据会加粗。\nBenchmark¶\nNeoverse V2 (AWS Graviton 4) 的性能测试结果见 SPEC。\nMOP vs uOP¶\nMOP = Macro operation, uOP = Micro operation\nARM 公版核微架构既有 MOP 的概念，又…",
-          "link": "https://jia.je/hardware/2024/11/07/arm_neoverse_v2/",
-          "publishedOn": "2024-11-07T00:00:00.000Z",
-          "wordCount": 1658,
-          "title": "ARM Neoverse V2 微架构评测",
           "imageUrl": null
         }
       ]
