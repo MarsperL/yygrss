@@ -423,6 +423,16 @@
       "siteUrl": "https://lawtee.com/",
       "articles": [
         {
+          "id": "https://lawtee.com/article/mourning-mr-deng/",
+          "author": null,
+          "description": "春节第一天，手机上“粤政易”突然弹出单位通知，感觉很奇怪，因为上一次春节收到通知还是因为新冠肺炎疫情的事情，通知取消休假立马返回单位。还以为又是这类突发事情，结果点开通知一看才发现是一则《讣告》，内容是老邓同志在除夕那天晚上，吃完饭后回房睡觉，因心梗意外去世。收到这个消息后，一时间我整个人都是懵的。\n初识老邓\n\n2014 年我刚调入现单位时还是个不谙世事的毛头小伙。当时跟我同一批进入的还有另一名来自梅州的同事。由于都是外地过来的，人生地不熟，因此经常在下班后相邀一起外出游玩，其中一项重要活动就是打羽毛球。\n一听说我们两个新人想去打羽毛球，当时科长就提出，可以去隔壁办公室找老邓问问场地的事。\n这并不是我第一次见到老邓，因为甫入职，政工科长便带着我们逐间办公室拜访所有同事。但这只是走马观花般地认了一下各个办公室的名称，具体人员却记不住。在我正儿八经因为打羽毛球这件事跑到老邓办公室去请教时，才算真正开始跟他有了第一次交往。\n彼时老邓热忱和善，意气风发，一看就有“老公安”的风范。在简单了解我们的想法后，老邓立马就将羽毛球馆地址发给我们，告知去到羽毛球馆报单位名字登记下就行，不用给钱。\n当时老邓是单位工会的骨干成员，我们原本以为这羽毛球场地是单位工会出钱购买的定点活动场地。但打了几次球才发现，原来这场地是老邓自己掏钱预付的。获悉此事后，我们专门跑去感谢他，并想将前几次费用给补上，但他坚决不收；一旁临退休的老同志也跟我们打趣道，老邓“不差钱”，你们放心去蹭他场地。\n成为邻居\n\n2015 年我在单位附近购买了一套住房，当时整个小区入住率还不到十分之一，室内停车场也还没有对外出售，只有出租模式。由于车辆较少，大多数住户都是直接把车停在小区门口，一出电梯不远就直接上车，很是方便。\n那段时间，我对小区门口有两辆车的车牌印象非常深刻，一台香港牌照的黑色奔驰 GLC ，车牌号上 6 个英文字母跟我…",
+          "link": "https://lawtee.com/article/mourning-mr-deng/",
+          "publishedOn": "2025-02-05T10:50:00.000Z",
+          "wordCount": 142,
+          "title": "怀念老邓",
+          "imageUrl": "https://lawtee.com/article/mourning-mr-deng/00.webp"
+        },
+        {
           "id": "https://lawtee.com/article/how-to-add-a-rss-widget-for-hugo/",
           "author": null,
           "description": "今天上午本来想给 Hugo 主页边栏添加一个 RSS 小工具，用来展示其他跨站动态。本来也很简单，我甚至已经在本站 2025 页面将主要过程记了下来。结果没想到，一提交到 Github 就出了问题，不管是 Github 还是 Vercel 均部署失败。这里只好再详细记录下后续情况。\n为 Hugo 添加一个 RSS 边栏小工具\n\n在 Wordpress 中默认的小工具里边可以很方便添加 RSS 插件，但在 Hugo 上就得稍微麻烦点。不过，我的目的是将我的 WordPress 最新文章列表输出到 Hugo 上，倒也不必然使用 RSS 格式，直接调用 Wordpress API 即可。但与 RSS 相比，方法都是相同的。\n在 Hugo 的边栏模板中添加调用模块\n方法 A：RSS 调用\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n\n\n\n{{ $rssUrl := \"https://news.lawtee.com/feed/\" }} <!-- 替换为你的 RSS 地址 -->\n{{ $rss := resources.GetRemote $rssUrl }}\n{{ $items := $rss | transform.Unmarshal }}\n<h2>RSS</h2>\n<ul>\n {{ range first 7 $items.channel.item }}\n <li>\n <a href=\"{{ .link }}\" target=\"_blank\">{{ .title }}</a>\n </li>\n {{ end }}\n</ul>\n\n\n\n\n\n方法 B：WordPress API 调用\n\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n\n\n\n{{ $url := \"https://news.lawtee.com/wp-json/wp/v2/posts?per_page=5…",
@@ -820,6 +830,16 @@
       "siteUrl": "https://srebro.cn/",
       "articles": [
         {
+          "id": "/archives/1738743029738",
+          "author": "运维小弟",
+          "description": "一、背景与需求 联通1000M宽带 带公网IP 需要在Home 中搭建部署一个VPN，实现在外能访问家中的学习资源 二、实现方式 通过openvpn+ 动态DDNS域名 的方式来实现，通过绑定公网IP地址在域名上，实现VPN 的访问。 2.1 OpenVPN Access Server (OpenV",
+          "link": "https://srebro.cn/archives/1738743029738",
+          "publishedOn": "2025-02-05T08:10:48.000Z",
+          "wordCount": 2242,
+          "title": "《OpenVPN + 动态 DDNS 家庭 VPN 搭建》",
+          "imageUrl": "null"
+        },
+        {
           "id": "/archives/1735894737958",
           "author": "运维小弟",
           "description": "Rsyslog 服务端与客户端部署与配置指南 本文档将详细介绍如何在服务端和客户端部署并配置 rsyslog，以便实现日志集中收集和管理。并包括日志文件轮转的配置。 1. 服务端部署与配置 1.1 安装 rsyslog 在服务端，首先需要安装 rsyslog 服务： yum install -y r",
@@ -998,16 +1018,6 @@
           "wordCount": 2189,
           "title": "ARM架构下安装新版docker及docker-compose",
           "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/7039FE62-8D0E-4009-9420-6FA65B694FC3.jpg"
-        },
-        {
-          "id": "/archives/1731041508690",
-          "author": null,
-          "description": "背景： Go 语言的 net/http/pprgf包如未配置正确暴露在公网容易引起敏感信息泄漏问题，导致源码等信息泄漏。 influxdb 2 默认是开启pprof的 使用 localhost:8086/debug/pprof/goroutine?debug=1 可以看到接口暴露的信息 如何关闭pp",
-          "link": "https://srebro.cn/archives/1731041508690",
-          "publishedOn": "2024-11-08T04:52:48.000Z",
-          "wordCount": 2034,
-          "title": "InfluxDB 2 关闭pprof",
-          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/01CDE1E5-2449-4AFB-A2D6-04758BF228F4.png"
         }
       ]
     },
@@ -1016,6 +1026,16 @@
       "feedUrl": "https://soulteary.com/feed/",
       "siteUrl": "https://soulteary.com/feed/",
       "articles": [
+        {
+          "id": "https://soulteary.com/2025/02/05/docker-stability-ubuntu-version-pinning-guide.html",
+          "author": "苏洋(soulteary)",
+          "description": "Docker 作为许多开发或生产环境中的基础设施的重要组成部分，其版本的稳定性直接影响着整个系统的可靠性。本文将介绍如何有效地管理和固定 Docker 的版本。",
+          "link": "https://soulteary.com/2025/02/05/docker-stability-ubuntu-version-pinning-guide.html",
+          "publishedOn": "2025-02-05T05:51:00.000Z",
+          "wordCount": 971,
+          "title": "Docker 稳定性保障：Ubuntu 环境版本锁定方案",
+          "imageUrl": null
+        },
         {
           "id": "https://soulteary.com/2025/02/03/idle-laptop-to-steam-os-gaming-console.html",
           "author": "苏洋(soulteary)",
@@ -1705,6 +1725,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=299186",
+          "author": "Brandon Lee",
+          "description": "Recently, Terramaster sent over their Terramaster T12-500 Pro NAS for me to take a look at. As always with these reviews, I am not paid outside of receiving the unit for testing. So, my thoughts and opinions are my own. This NAS is super beefy in terms of hardware specs, so let’s dive into what …\nThe post Terramaster T12-500 Pro NAS Review: Beefy Specs with Backup Server Built-in appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/02/terramaster-t12-500-pro-nas-review-beefy-specs-with-backup-server-built-in/",
+          "publishedOn": "2025-02-05T14:35:53.000Z",
+          "wordCount": 12444,
+          "title": "Terramaster T12-500 Pro NAS Review: Beefy Specs with Backup Server Built-in",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/terramaster-t12-500-pro-review-4.jpg"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=299152",
           "author": "Brandon Lee",
           "description": "I have done a lot of experimenting with my vExpert-provided Intel Optane 280 GB drives as a caching tier in front of my vSAN OSA configuration. However, since I have gone with mini PCs there is just not enough room for the very “thick” intel optane drives. This is one of the downsides that I …\nThe post Use Intel Optane SSD: Cheat your System Memory for Proxmox or VMware appeared first on Virtualization Howto.",
@@ -2271,6 +2301,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=30332",
+          "author": "Tanvir Kour",
+          "description": "Container technology revolutionized how we work with code. It’s like switching from molding everything with clay to playing with Lego blocks. Containers package an app, its code, and everything it needs to run into a single unit. This means that what works on a developer’s laptop will also work in the cloud or on any […]",
+          "link": "https://collabnix.com/top-6-innovative-ways-containers-boost-software-design/",
+          "publishedOn": "2025-02-05T05:27:43.000Z",
+          "wordCount": 2699,
+          "title": "Top 6 Innovative Ways Containers Boost Software Design",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=30324",
           "author": "Ajeet Raina",
@@ -3529,6 +3569,16 @@
       "siteUrl": "https://qq.mba/",
       "articles": [
         {
+          "id": "https://qq.mba/217.html",
+          "author": "满心",
+          "description": "早上被熟悉的上班闹钟吵醒，竟还有些许不适应，总感觉假期还没结束，身上些许的疲惫感让我感觉这不是在休假，而是真正在的充当\"牛马\"，由于是第一天上班，怕路上堵车，早早就出发来到公司，园区里面很多公司...",
+          "link": "https://qq.mba/217.html",
+          "publishedOn": "2025-02-05T01:48:23.000Z",
+          "wordCount": 531,
+          "title": "新的征程，从初八开始",
+          "imageUrl": null
+        },
+        {
           "id": "https://qq.mba/216.html",
           "author": "满心",
           "description": "昨天突然在nodeloc论坛看到支付宝开始集福卡了，然后就进去看了看，发现要更新支付宝APP，更新后就可以开始收集了，虽然知道拿不到个啥，不过就算是个乐子，玩玩而已，明显感觉到现在获得福卡条件基...",
@@ -3707,16 +3757,6 @@
           "wordCount": 518,
           "title": "近来杂记",
           "imageUrl": null
-        },
-        {
-          "id": "https://qq.mba/192.html",
-          "author": "满心",
-          "description": "很早就想拥有一个类似\"微信朋友圈\"功能，当然我主要是用户存放视频和图片，每次换手机迁移照片也麻烦，再就是照片太多了，有很多是不怎么关心，就想着弄一个程序，把比较有纪念价值的照片视频都留存下来，方...",
-          "link": "https://qq.mba/192.html",
-          "publishedOn": "2024-11-08T06:43:00.000Z",
-          "wordCount": 543,
-          "title": "借icefox改造了一个“朋友圈”",
-          "imageUrl": null
         }
       ]
     },
@@ -3743,16 +3783,6 @@
           "publishedOn": "2024-11-11T00:00:00.000Z",
           "wordCount": 576,
           "title": "独立开发之路：在不确定中寻找确定性",
-          "imageUrl": null
-        },
-        {
-          "id": "https://limboy.me/posts/bike-shedding",
-          "author": null,
-          "description": "想象有一个金融委员会会议，讨论三点议程，要点如下：",
-          "link": "https://limboy.me/posts/bike-shedding",
-          "publishedOn": "2024-11-08T00:00:00.000Z",
-          "wordCount": 154,
-          "title": "自行车棚效应：我们为什么在小事上纠结，却对大事视而不见？",
           "imageUrl": null
         }
       ]
@@ -4567,16 +4597,6 @@
           "wordCount": 1344,
           "title": "PM2 安装与使用",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/766/",
-          "author": null,
-          "description": "<blockquote>\n<p>一天在聊天广场中分享了服务器监控截图，obaby 说感觉不错，想知道如何部署的。杜老师当时拍着 36A 的胸脯郑重承诺当天晚上会发表。然后……就没有然后了！但人不能言而无信，博客不能拖而不更，它来了它来了，它带着忏悔走来了！</p>\n</blockquote>",
-          "link": "https://dusays.com/766/",
-          "publishedOn": "2024-11-07T16:00:00.000Z",
-          "wordCount": 1345,
-          "title": "哪吒监控开源、轻量、易用的服务器监控",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
     },
@@ -4908,6 +4928,16 @@
       "feedUrl": "https://lixx.cn/rss.xml",
       "siteUrl": "http://localhost:8090/",
       "articles": [
+        {
+          "id": "/archives/1738726025993",
+          "author": null,
+          "description": "一、环境说明 宿主机：Windows 11 虚拟机：VMware 虚拟化环境（推荐 Ubuntu 22.04 或同类 Linux 发行版） 核心工具： Ollama：本地大语言模型管理框架 Deepseek-R1 1.5B：轻量级开源模型（模型卡片） Open WebUI：类 ChatGPT 的交互",
+          "link": "http://localhost:8090/archives/1738726025993",
+          "publishedOn": "2025-02-05T03:31:42.000Z",
+          "wordCount": null,
+          "title": "在 Windows 11 上部署 Deepseek-R1 1.5B 模型：基于 Ollama 和 Open WebUI 的本地私有化 LLM 实践",
+          "imageUrl": null
+        },
         {
           "id": "/archives/1733210857654",
           "author": null,
