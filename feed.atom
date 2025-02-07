@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-02-06T01:47:26.990Z</updated>
+    <updated>2025-02-07T01:47:26.794Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Snowflake, Model Context Protocol (MCP) Server and Claude Desktop]]></title>
+        <id>https://collabnix.com/?p=30348</id>
+        <link href="https://collabnix.com/snowflake-model-context-protocol-mcp-server-and-claude-desktop/"/>
+        <updated>2025-02-06T19:01:16.000Z</updated>
+        <summary type="html"><![CDATA[TL;DR: We’ll set up and run a Model Context Protocol (MCP) server that communicates with Snowflake to run SQL queries. We’ll install using Smithery (a frictionless approach for installing MCP servers). Then we’ll run the server, show logs, and test a quick read query. Overview The mcp-snowflake-server is an MCP server that bridges your […]]]></summary>
+        <author>
+            <name>Adesoji Alu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三十几岁的人了，仍要谈一下梦想]]></title>
+        <id>https://blog.ops-coffee.cn/r/the-dream-of-my-life</id>
+        <link href="https://blog.ops-coffee.cn/r/the-dream-of-my-life"/>
+        <updated>2025-02-06T14:59:02.000Z</updated>
+        <summary type="html"><![CDATA[你有梦想吗？你的梦想是什么？梦想还有机会实现吗？]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Install Microk8s: Ultimate Beginners Configuration Guide]]></title>
+        <id>https://www.virtualizationhowto.com/?p=299066</id>
+        <link href="https://www.virtualizationhowto.com/2025/02/install-microk8s-ultimate-beginners-configuration-guide/"/>
+        <updated>2025-02-06T13:09:33.000Z</updated>
+        <summary type="html"><![CDATA[Microk8s is one of the coolest small Kubernetes distros you can play around with and it is not just for playing around, it is actually built for running production workloads in the cloud. But, it can also serve as the platform you use in your home lab for running Kubernetes and getting familiar with it. …
+The post Install Microk8s: Ultimate Beginners Configuration Guide appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu Linux 内核版本升级指南：mainline]]></title>
+        <id>https://soulteary.com/2025/02/06/ubuntu-linux-kernel-upgrade-guide-with-mainline.html</id>
+        <link href="https://soulteary.com/2025/02/06/ubuntu-linux-kernel-upgrade-guide-with-mainline.html"/>
+        <updated>2025-02-06T08:44:00.000Z</updated>
+        <summary type="html"><![CDATA[本篇文章，分享如何使用开源工具，轻松实现包括容器在内的 Ubuntu 环境中的内核版本升级，更好地适配新硬件和解锁内核的新特性。]]></summary>
+        <author>
+            <name>苏洋(soulteary)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deepseek-R1 私有部署]]></title>
+        <id>/archives/210</id>
+        <link href="https://7boe.top/archives/210"/>
+        <updated>2025-02-06T06:29:32.000Z</updated>
+        <summary type="html"><![CDATA[Deepseek linux本地部署
+下载
+系统环境
+https://ollama.com/download
+系统中执行
+curl -fsSL https://ollama.com/install.sh | sh
+
+驱动
+安装依赖
+apt intstall build-essential linux-headers
+
+因为默认会安装开源驱动 所以需要屏蔽掉
+vim /etc/modprobe.d/nvidia-installer-disable-nouveau.conf写入
+blacklist nouveau
+options nouveau modeset=0
+
+更新 initramfs：
+sudo update-initramfs -u
+sudo dracut --force
+lsmod | grep nouveau
+sudo rmmod nouveau
+
+重启后开始安装NVIDIA驱动
+https://www.nvidia.com/zh-tw/geforce/drivers/
+bash NVIDIA-*****.run
+
+安装完成后的验证
+nvidia-smi 
+
+能看见显卡型号和显存即可
+OLLAMA启动
+https://ollama.com/library/deepseek-r1
+ollama run deepseek-r1:8b
+root@deepseek:~# ollama list
+NAME              ID              SIZE      MODIFIED     
+deepseek-r1:8b    28f8fd6cdc67    4.9 GB    27 hours ago 
+
+对话框CTRL+D后并不会关闭。我们只需要工具调用接口即可。
+https://cherry-ai.com/
+调整ollama允许外网访问
+vim /etc/systemd/sytem/ollama.service
+Environment="OLLAMA_HOST=0.0.0.0"
+Environment="OLLAMA_ORIGINS=*"
+
+重启
+systemctl restart ollama
+
+查看11434端口能不能外网访问即可
+软件配置
+cherry studio为例]]></summary>
+        <author>
+            <name>Celia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[硅基流动：注册即送2000万Tokens，畅享DeepSeek R1]]></title>
+        <id>https://blog.xiaoz.org/?p=21756</id>
+        <link href="https://blog.xiaoz.org/archives/21756"/>
+        <updated>2025-02-06T06:18:40.000Z</updated>
+        <summary type="html"><![CDATA[最近，DeepSeek R1凭借强大的推理能力在全网爆火，用户激增导致响应变慢甚至出现错误。不过，这个问题并非无法解决。博主发现，硅基流动不仅提供了稳定的DeepSeek R1调用方案，还支持多种开源大模型，包括AI对话、文生图和语音合成。现在，通过博主邀请链接注册，即可免费获得2000万Token]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Terramaster T12-500 Pro NAS Review: Beefy Specs with Backup Server Built-in]]></title>
         <id>https://www.virtualizationhowto.com/?p=299186</id>
@@ -273,6 +383,18 @@ The post Top DevOps Automation Tools I Use Every Day appeared first on Virtualiz
 The post Best Home Lab Networking Architecture in 2025 appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 月 5 日图床故障说明]]></title>
+        <id>https://dusays.com/794/</id>
+        <link href="https://dusays.com/794/"/>
+        <updated>2025-01-29T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>这是篇补更文，所以发布时间不符。本文对 2 月 5 日的图床故障进行详细说明，并为了避免再次出现类似的问题，所做的一系列措施。如小伙伴们有任何问题，欢迎在评论区留言。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
         </author>
     </entry>
     <entry>
@@ -8155,79 +8277,6 @@ Disqus 要加广告了，于是本博客的评论系统迁移到了 Giscus。]]>
         <summary type="html"><![CDATA[人们往往讨厌做自己不擅长的事情。但如果你开始对某件事游刃有余，自然就会乐在其中了。]]></summary>
         <author>
             <name>Domon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[武汉大学校内电动自行车牌照办理失败]]></title>
-        <id>https://4311346.com/post/2024/1109-license-plate.html</id>
-        <link href="https://4311346.com/post/2024/1109-license-plate.html"/>
-        <updated>2024-11-09T03:46:39.000Z</updated>
-        <summary type="html"><![CDATA[小牛NXT电动自行车在武汉上牌之后才知道，2024年07月01日起武汉大学校园内已开始实施新的电动车管理办法。那么按照武汉大学发布的《关于在校园内开展电动自行车实名登记上牌工作的通知》和《武汉大学电动自行车管理办法（试行）》将电动自行车在武汉大学内进行上牌。
-在武汉大学智慧珞珈中登入（PC端，APP，小程序，服务号均可），找到电动自行车信息登记的办事大厅，提交电动自行车的车牌号，车辆品牌，购买时间，车辆照片（包括正面车头，侧面车身，后面车尾）然后等待武汉大学保卫部审批。
-
-可惜的是最近武汉大学电动自行车审核管理较为严格，并未通过审批，所以这台小牛NXT玩家版无法进入武汉大学校园。
-
-前不久在湖北第二师范学院内看到大批量的小雨出行共享电动车，当然武汉大学，武汉理工等大学内都有着非常多的校内共享电动车。2020年从湖北武汉爆发的一场疫情最终让每一所大学对外关闭了校门，也只是近两年来才陆续开始了刷身份证进校园。汽车，电动车等就必须预约，没点正事，预约基本不会通过。
-小牛NXT使用800公里使用感受
-也算是较早的一批7235电池小牛NXT玩家版，整体行驶品质还是满意的，在速度较慢的搓板路面行驶或冷车刚启动时偶有异响，速度起来了或骑行一段时间之后，也就感受不到了。
-10月下旬武汉的气温平均在18-20°，72V35A的铅酸电池的劣势已经开始慢慢凸显，原本显示128km的续航现在变成86km。当然这也不一定全是天气原因，买车的时候小牛店家就告知了这辆车满电就是80-90km，加上我这体重…不会比这多。这最初的800公里行驶里程，也是小牛NXT7235玩家版电池动态续航的真实里程了。
-但整体来说，并没有感到续航焦虑，充一次电能用3天。现在才能体会的到那些改装第三方大单体锂电的电动自行车续航是真的牛。
-
-停在这里吃饭，萨摩也在一旁守在NXT旁，那就给它装碗水把。
-小牛NXT玩家版动力
-标准模式，起步不够快，但后劲还比较足，满把44km。
-运动模式，起步稍微快一点，但区别真不大，满把50km。
-经济模式，起步20km时速内，都差不多，满把35km左右，因为超过25也就不显示了，暂没拿导航测试过。
-雨雪模式，用得不多，感觉介于标准和运动之间，动力还很足，可能就是因为怕轮胎打滑把。
-大师模式，大师模式是NXT特色，自己定义扭矩输出点，为了动力，就会设置得比较极端，加速比运动模式又快那么一点点。
-
-整体来说1200W电机，并没有发挥真实的动力输出，主要是小牛NXT控制器的问题。网上有非常多的牛油更换了凌博控制器，N260，152Pro，252等等…说是改善提速和高速，但动力和速度的增加，势必影响续航，所以并没有直接去改。
-当然NXT玩家版原装的控制器应该是被软件限制了，比如NXT自身车重+72V铅酸电池+人+杂物=基本超400斤。在标准模式下满把能跑44km/小时，而带一个人车重超500斤，满把时速一样可以到44km/小时。所以应该可以推断是，小牛中央控制器是用软件通过时速来限制电机的输出。
-总的来说，这辆小牛NXT暂时就不要动心思去改，日常骑骑带个步就够了，这才是最省心的。
-但还是太年轻，总有那么一颗骚动的心
-当然最受不了小牛NXT的地方有两点
-后碟刹，制动效果比较差，除了碟片尺寸问题，更大的问题是平叉的设计，导致散热也不好。前后都是12寸轮毂，但后碟片直径仅为190mm，本身就小于前轮220mm，难道是怕后轮抱死吗？因为NXT玩家版没有ABS…
-后挡泥板，NXT后挡泥板很长，基本看不到轮胎，牌照安装在后挡泥板上，非常容易损坏。当然还有后照地灯…要改就得平叉，牌照，挡泥板啥的全套改。
-电动自行车充电有时候比电动汽车都贵
-700公里共12次充电，平均每次75%的电量行驶58公里，因为每次剩余电量30%以下，就开始充电了，暂时还没到过20%以内。说明自己肯定是容易有续航焦虑的人，所以一般提前做好充电的相关准备。几个经常停车的位置都有充电桩，足够方便，但最近也发现，一些电动自行车电桩充电是真贵。
-小牛NXT玩家版7235电池，配置的是5A充电器，平均功耗在400W-500W之间。充电桩也会按功率来收取小时费。日常使用最多的两个电桩，同样是400W-500W区间，一个0.43元/小时 另一个 0.63元/小时… 一般充电都在5小时以上，所以至少多支付1元。
-
-12次充电，每次不足3元，按36元算把，平均用车电费成本为 0.045元/公里，相比百公里能达到20个油的沃尔沃S60要省得多。10月份自驾又特地去了一趟福州之后又爬了一次西安华山外，每天都在使用，所以两点一线的生活还有什么理由不爱电动自行车出行呢？
-人生第一台电动自行车，没啥经验，骑着，骑着，才能真正的了解 电动自行车，最终选择到自己称心如意的产品。
-参考：关于在校园内开展电动自行车实名登记上牌工作的通知
-参考：武汉大学电动自行车管理办法（试行）]]></summary>
-        <author>
-            <name>Andy烧麦 - 成熟，聪明，豁达的人什么也不问 过去，现在，将来…</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[游记｜常来长寿，如皋如歌。这一站南通如皋]]></title>
-        <id>https://blog.ops-coffee.cn/r/city-china-jiangsu-nantong-rugao</id>
-        <link href="https://blog.ops-coffee.cn/r/city-china-jiangsu-nantong-rugao"/>
-        <updated>2024-11-08T20:32:41.000Z</updated>
-        <summary type="html"><![CDATA[带你探索那些不知名的烟火小城]]></summary>
-        <author>
-            <name>运维咖啡吧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1Panel FTP 服务上传文件慢问题分析]]></title>
-        <id>https://www.txisfine.cn/archives/71f64185.html</id>
-        <link href="https://www.txisfine.cn/archives/71f64185.html"/>
-        <updated>2024-11-08T17:59:52.000Z</updated>
-        <summary type="html"><![CDATA[<h1 id="问题背景-amp-现象"><a href="#问题背景-amp-现象" class="headerlink" title="问题背景&amp;现象"></a>问题背景&amp;现象</h1><p><img src="https://static.txblog.11]]></summary>
-        <author>
-            <name>弹霄博科</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[拔牙]]></title>
-        <id>https://www.skyue.com/24110823.html</id>
-        <link href="https://www.skyue.com/24110823.html"/>
-        <updated>2024-11-08T15:17:00.000Z</updated>
-        <summary type="html"><![CDATA[继南瓜拔牙之后，我昨天也去拔牙了。我的牙片上图是我10月10日拍的牙片，4颗智齿全长出来了。医生看过后，说了两点：左侧上方那颗，已经蛀掉了，得拔掉下面2颗，大部分埋在牙龈中，会有些难拔日常偶尔会...]]></summary>
-        <author>
-            <name>拾月</name>
         </author>
     </entry>
 </feed>
