@@ -1016,6 +1016,16 @@
       "siteUrl": "https://soulteary.com/feed/",
       "articles": [
         {
+          "id": "https://soulteary.com/2025/02/08/intel-b580-gpu-llm-practice-building-a-better-model-docker-container-environment.html",
+          "author": "苏洋(soulteary)",
+          "description": "本文将详细介绍如何为 Intel ARC 显卡构建更好的模型运行容器环境，来运行 DeepSeek R1 Distill Qwen 1.5 和 7B 模型，并分享完整的实践经验和一些对英特尔显卡、开源生态、模型生态的看法。",
+          "link": "https://soulteary.com/2025/02/08/intel-b580-gpu-llm-practice-building-a-better-model-docker-container-environment.html",
+          "publishedOn": "2025-02-08T10:34:00.000Z",
+          "wordCount": 2947,
+          "title": "Intel B580 GPU 大模型容器推理实践：构建更好的模型 Docker 容器环境（二）",
+          "imageUrl": null
+        },
+        {
           "id": "https://soulteary.com/2025/02/07/intel-b580-gpu-with-docker-and-deepseek-r1-distill-qwen-7b.html",
           "author": "苏洋(soulteary)",
           "description": "本文将详细介绍如何使用这款显卡来运行 DeepSeek R1 Distill Qwen 7B 模型，并分享完整的实践经验和踩坑指南。",
@@ -2331,6 +2341,16 @@
       "siteUrl": "https://collabnix.com",
       "articles": [
         {
+          "id": "https://collabnix.com/?p=30361",
+          "author": "Tanvir Kour",
+          "description": "Enterprises are increasingly leveraging tablets to enhance mobility, streamline operations, and boost efficiency in the workplace. From allowing employees to access critical systems on the go to enabling real-time collaboration, tablets have become essential tools across industries. However, deploying tablets at scale in an enterprise environment comes with its challenges, especially in implementing them securely […]",
+          "link": "https://collabnix.com/how-devops-can-integrate-tablets-for-enterprise-use/",
+          "publishedOn": "2025-02-08T09:59:48.000Z",
+          "wordCount": 3102,
+          "title": "How DevOps Can Integrate Tablets for Enterprise Use",
+          "imageUrl": null
+        },
+        {
           "id": "https://collabnix.com/?p=30348",
           "author": "Adesoji Alu",
           "description": "TL;DR: We’ll set up and run a Model Context Protocol (MCP) server that communicates with Snowflake to run SQL queries. We’ll install using Smithery (a frictionless approach for installing MCP servers). Then we’ll run the server, show logs, and test a quick read query. Overview The mcp-snowflake-server is an MCP server that bridges your […]",
@@ -3589,16 +3609,6 @@
           "wordCount": 2600,
           "title": "Containerize Rust Application in 2 Minutes using Docker Init",
           "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/11/Screenshot-2024-11-12-at-8.36.28%E2%80%AFAM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=28449",
-          "author": "Ajeet Raina",
-          "description": "Imagine you’re using Docker Compose to develop and test your app. It’s a great tool for getting multiple containers to work together on a single host, perfect for local development. But when it comes to production, especially if you need to scale or handle higher traffic, Kubernetes often makes more sense. But why? Kubernetes adds built-in support […]",
-          "link": "https://collabnix.com/taking-docker-compose-to-production-with-one-tool/",
-          "publishedOn": "2024-11-11T03:17:35.000Z",
-          "wordCount": 3614,
-          "title": "Taking Docker Compose to Production with One Tool",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/11/Screenshot-2024-11-11-at-8.46.44%E2%80%AFAM.png"
         }
       ]
     },
@@ -3812,16 +3822,6 @@
           "publishedOn": "2024-12-01T00:00:00.000Z",
           "wordCount": 111,
           "title": "去喀什旅行",
-          "imageUrl": null
-        },
-        {
-          "id": "https://limboy.me/posts/indie-dev",
-          "author": null,
-          "description": "去年，看了一本印象颇深的书：北方的空地。这本书讲的是一个叫杨柳松的人，推着一辆自行车（交通工具兼载货工具），历经 77 天，独自穿越羌塘无人区的故事。旅途非常艰险，一点小小的意外就可能导致极严重的后果（比如帐篷的地钉被吹走）。但体验独特，风景绝美。看完后，印象最深的除了他的那份胆识、勇气和乐观外，还有那非常严谨的准备工作，让看起来几乎不可能完成的任务成为可能。",
-          "link": "https://limboy.me/posts/indie-dev",
-          "publishedOn": "2024-11-11T00:00:00.000Z",
-          "wordCount": 576,
-          "title": "独立开发之路：在不确定中寻找确定性",
           "imageUrl": null
         }
       ]
@@ -4042,6 +4042,21 @@
       "feedUrl": "https://bluehe.cn/rss.xml",
       "siteUrl": "https://bluehe.cn/",
       "articles": [
+        {
+          "id": "https://bluehe.cn/archives/new-year-prepare-2025",
+          "author": "寻鹤",
+          "description": "过年前全家出动，前往父亲养殖的鱼塘，之前在里面放了许多鱼苗，时不时投喂。老家由于半年几乎都没下雨，水位下降的很快，有一些鱼都缺氧了，不得不把清理计划提前。水很绿，之前不是这样的，看着就很奇怪。\n\n边上有许多同村的人们正看着热闹，也好奇能有多少鱼儿。我们随后...",
+          "link": "https://bluehe.cn/archives/new-year-prepare-2025",
+          "publishedOn": "2025-02-08T12:34:00.000Z",
+          "wordCount": 757,
+          "title": "过年前的准备",
+          "enclosure": {
+            "url": "https://bluehe.cn/usr/uploads/2025/02/4212249348.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bluehe.cn/usr/uploads/2025/02/4212249348.jpg"
+        },
         {
           "id": "https://bluehe.cn/archives/qingxiu-lantern-festival",
           "author": "寻鹤",
@@ -4616,16 +4631,6 @@
           "wordCount": 1358,
           "title": "终端美化工具 X-CMD 安装与使用",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/767/",
-          "author": null,
-          "description": "<blockquote>\n<p>在现代的软件开发和系统管理中，进程管理是一个不可或缺的部分。PM2 作为一个强大的进程管理工具，它可以帮助我们管理和保持应用在线状态，自动重启崩溃应用，并提供负载均衡等高级功能。</p>\n</blockquote>",
-          "link": "https://dusays.com/767/",
-          "publishedOn": "2024-11-10T16:00:00.000Z",
-          "wordCount": 1344,
-          "title": "PM2 安装与使用",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
     },
@@ -4949,16 +4954,6 @@
           "wordCount": 534,
           "title": "Windows常见注册表位置",
           "imageUrl": "https://static.zahui.fan/images/202411191004480.jpg"
-        },
-        {
-          "id": "https://zahui.fan/posts/smrno6/",
-          "author": null,
-          "description": "<p>在 Prometheus 的表达式语言中，表达式或子表达式包括以下四种类型之一：</p>\n<ul>\n<li>瞬时向量（Instant vector） ： 一组时间序列，每个时间序列包含单个样本，它们共享相同的时间戳。也就是说，表达式的返回值中只会包含该时间序列中的最新的一个样本值。而相应的这样的表达式称之为瞬时向量表达式。</li>\n<li>区间向量（Range vector） ：",
-          "link": "https://zahui.fan/posts/smrno6/",
-          "publishedOn": "2024-11-11T03:14:30.000Z",
-          "wordCount": 651,
-          "title": "Prometheus的瞬时向量(Instant vector)和区间向量(Range vector)",
-          "imageUrl": "https://static.zahui.fan/public/Prometheus.svg"
         }
       ]
     },
@@ -5038,16 +5033,6 @@
           "publishedOn": "2024-12-17T00:00:00.000Z",
           "wordCount": 455,
           "title": "OpenAI 的 Kubernetes 集群故障分析",
-          "imageUrl": "https://picdn.youdianzhishi.com/images/blog-favicon.png"
-        },
-        {
-          "id": "https://www.qikqiak.com/post/give-up-loki/",
-          "author": null,
-          "description": "VictoriaLogs 是一个相对较新的日志收集和分析系统，类似于 Grafana Loki，就像 VictoriaMetrics 相对于普通 Prometheus 一样，对 CPU/内存资源的需求较少。\n就我个人而言，我使用 Grafana Loki 大约 5 年了，但有时我对它有些担忧，无论是在文档方面还是系统的整体复杂性方面，因为有很多组件。此外，在性能方面也有一些问题，因为无论我如何尝试调整它，有时在相对较小的查询上，Grafana 仍然从 Loki 网关返回 504 错误，我真的厌倦了处理这个问题。\n由于我项目中的监控是基于 VictoriaMetrics 构建的，并且 VictoriaLogs 已经获得了 Grafana 数据源支持，现在是时候尝试一下并与 Grafana Loki 进行比较了。",
-          "link": "https://www.qikqiak.com/post/give-up-loki/",
-          "publishedOn": "2024-11-11T00:00:00.000Z",
-          "wordCount": 1907,
-          "title": "是时候放弃 Loki 了？",
           "imageUrl": "https://picdn.youdianzhishi.com/images/blog-favicon.png"
         }
       ]

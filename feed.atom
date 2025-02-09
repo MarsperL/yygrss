@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-02-08T01:43:36.147Z</updated>
+    <updated>2025-02-09T01:50:45.861Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[过年前的准备]]></title>
+        <id>https://bluehe.cn/archives/new-year-prepare-2025</id>
+        <link href="https://bluehe.cn/archives/new-year-prepare-2025"/>
+        <updated>2025-02-08T12:34:00.000Z</updated>
+        <summary type="html"><![CDATA[过年前全家出动，前往父亲养殖的鱼塘，之前在里面放了许多鱼苗，时不时投喂。老家由于半年几乎都没下雨，水位下降的很快，有一些鱼都缺氧了，不得不把清理计划提前。水很绿，之前不是这样的，看着就很奇怪。
+
+边上有许多同村的人们正看着热闹，也好奇能有多少鱼儿。我们随后...]]></summary>
+        <author>
+            <name>寻鹤</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel B580 GPU 大模型容器推理实践：构建更好的模型 Docker 容器环境（二）]]></title>
+        <id>https://soulteary.com/2025/02/08/intel-b580-gpu-llm-practice-building-a-better-model-docker-container-environment.html</id>
+        <link href="https://soulteary.com/2025/02/08/intel-b580-gpu-llm-practice-building-a-better-model-docker-container-environment.html"/>
+        <updated>2025-02-08T10:34:00.000Z</updated>
+        <summary type="html"><![CDATA[本文将详细介绍如何为 Intel ARC 显卡构建更好的模型运行容器环境，来运行 DeepSeek R1 Distill Qwen 1.5 和 7B 模型，并分享完整的实践经验和一些对英特尔显卡、开源生态、模型生态的看法。]]></summary>
+        <author>
+            <name>苏洋(soulteary)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How DevOps Can Integrate Tablets for Enterprise Use]]></title>
+        <id>https://collabnix.com/?p=30361</id>
+        <link href="https://collabnix.com/how-devops-can-integrate-tablets-for-enterprise-use/"/>
+        <updated>2025-02-08T09:59:48.000Z</updated>
+        <summary type="html"><![CDATA[Enterprises are increasingly leveraging tablets to enhance mobility, streamline operations, and boost efficiency in the workplace. From allowing employees to access critical systems on the go to enabling real-time collaboration, tablets have become essential tools across industries. However, deploying tablets at scale in an enterprise environment comes with its challenges, especially in implementing them securely […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Best Kubernetes Storage CSI Providers for Home Lab Enthusiasts]]></title>
         <id>https://www.virtualizationhowto.com/?p=299251</id>
@@ -8163,51 +8195,6 @@ Bensz]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Taking Docker Compose to Production with One Tool]]></title>
-        <id>https://collabnix.com/?p=28449</id>
-        <link href="https://collabnix.com/taking-docker-compose-to-production-with-one-tool/"/>
-        <updated>2024-11-11T03:17:35.000Z</updated>
-        <summary type="html"><![CDATA[Imagine you’re using Docker Compose to develop and test your app. It’s a great tool for getting multiple containers to work together on a single host, perfect for local development. But when it comes to production, especially if you need to scale or handle higher traffic, Kubernetes often makes more sense. But why? Kubernetes adds built-in support […]]]></summary>
-        <author>
-            <name>Ajeet Raina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prometheus的瞬时向量(Instant vector)和区间向量(Range vector)]]></title>
-        <id>https://zahui.fan/posts/smrno6/</id>
-        <link href="https://zahui.fan/posts/smrno6/"/>
-        <updated>2024-11-11T03:14:30.000Z</updated>
-        <summary type="html"><![CDATA[<p>在 Prometheus 的表达式语言中，表达式或子表达式包括以下四种类型之一：</p>
-<ul>
-<li>瞬时向量（Instant vector） ： 一组时间序列，每个时间序列包含单个样本，它们共享相同的时间戳。也就是说，表达式的返回值中只会包含该时间序列中的最新的一个样本值。而相应的这样的表达式称之为瞬时向量表达式。</li>
-<li>区间向量（Range vector） ：]]></summary>
-        <author>
-            <name>杂烩饭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[独立开发之路：在不确定中寻找确定性]]></title>
-        <id>https://limboy.me/posts/indie-dev</id>
-        <link href="https://limboy.me/posts/indie-dev"/>
-        <updated>2024-11-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[去年，看了一本印象颇深的书：北方的空地。这本书讲的是一个叫杨柳松的人，推着一辆自行车（交通工具兼载货工具），历经 77 天，独自穿越羌塘无人区的故事。旅途非常艰险，一点小小的意外就可能导致极严重的后果（比如帐篷的地钉被吹走）。但体验独特，风景绝美。看完后，印象最深的除了他的那份胆识、勇气和乐观外，还有那非常严谨的准备工作，让看起来几乎不可能完成的任务成为可能。]]></summary>
-        <author>
-            <name>Limboy's Essays</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[是时候放弃 Loki 了？]]></title>
-        <id>https://www.qikqiak.com/post/give-up-loki/</id>
-        <link href="https://www.qikqiak.com/post/give-up-loki/"/>
-        <updated>2024-11-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[VictoriaLogs 是一个相对较新的日志收集和分析系统，类似于 Grafana Loki，就像 VictoriaMetrics 相对于普通 Prometheus 一样，对 CPU/内存资源的需求较少。
-就我个人而言，我使用 Grafana Loki 大约 5 年了，但有时我对它有些担忧，无论是在文档方面还是系统的整体复杂性方面，因为有很多组件。此外，在性能方面也有一些问题，因为无论我如何尝试调整它，有时在相对较小的查询上，Grafana 仍然从 Loki 网关返回 504 错误，我真的厌倦了处理这个问题。
-由于我项目中的监控是基于 VictoriaMetrics 构建的，并且 VictoriaLogs 已经获得了 Grafana 数据源支持，现在是时候尝试一下并与 Grafana Loki 进行比较了。]]></summary>
-        <author>
-            <name>Home on 阳明的博客</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AMD Zen 5 微架构评测]]></title>
         <id>https://jia.je/hardware/2024/11/11/amd_zen5/</id>
         <link href="https://jia.je/hardware/2024/11/11/amd_zen5/"/>
@@ -8244,18 +8231,6 @@ AMD 的文档里是这么说的：
 The processor implements AMD64 instruction set by mea…]]></summary>
         <author>
             <name>杰哥的{运维，编程，调板子}小笔记</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PM2 安装与使用]]></title>
-        <id>https://dusays.com/767/</id>
-        <link href="https://dusays.com/767/"/>
-        <updated>2024-11-10T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>在现代的软件开发和系统管理中，进程管理是一个不可或缺的部分。PM2 作为一个强大的进程管理工具，它可以帮助我们管理和保持应用在线状态，自动重启崩溃应用，并提供负载均衡等高级功能。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
         </author>
     </entry>
     <entry>
