@@ -59,6 +59,179 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-02-10 datetime="2025-02-10T01:18:19.000Z">2025-02-10</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-02-10 datetime="2025-02-10T01:18:19.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >CHEGVA</button>
+                  <a class="source-heading__link" href="https://chegva.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://chegva.com/?p&#x3D;6255"
+                        open
+                      >
+                        <summary class="article-expander__title">JVM GC 日志解读与分析（番外篇可视化工具）</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://chegva.com/6255.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>通过前面的学习，我们发现 GC 日志量很大，人工分析太消耗精力了。由于各种 GC 算法的复杂性，它们的日志格式互相之间不太兼容。
+有没有什么工具来减少我们的重复劳动呢? 这种轮子肯定是有现成的。比如 GCEasy、GCViwer 等等。
+这一节我们就开始介绍一些能让我们事半功倍的工具。
+GCEasy 工具
+GCEasy 工具由 Tier1app 公司 开发和支持，这家公司主要提供3款分析工具：
+
+GCEasy，访问地址：https://gceasy.io/，是一款在线的 GC 日志分析工具，支持各种版本的 GC 日志格式。
+
+FastThread，官网地址：https://fastthread.io/，线程分析工具，后面我们专门有一节课程会进行介绍。
+
+HeapHero，官网地址：https://heaphero.io/，顾名思义，这是一款 Heap Dump 分析工具。
+
+其中 GCEasy 可用来分析定位GC和内存性能问题，支持以下三种模式：
+
+官方网站在线分析（免费），我们主要介绍这种方式
+
+API 接口调用（付费计划）
+
+本地安装（企业付费）
+
+特性介绍
+作为一款商业产品，分析能力和结果报告自然是棒棒的。
+
+可以分析 GC 日志和 JStat 日志
+
+支持上传文件的方式（免费）
+
+支持粘贴日志文本的方式（免费）
+
+支持下载结果报告 *（付费方案）
+
+支持分享链接（免费】
+
+支持 API 调用的方式 *（付费方案）
+
+企业版支持本地安装 *（企业付费）
+
+付费方案可以免费试用：就是说结果现在也是可以试用下载的
+
+测试案例
+我们这里依然使用前面演示的示例代码，稍微修改一下，让其执行 30 秒左右。
+假设程序启动参数为：
+-XX:+UseParallelGC
+-Xms512m
+-Xmx512m
+-Xloggc:gc.demo.log
+-XX:+PrintGCDet…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;34
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >拾月</button>
+                  <a class="source-heading__link" href="https://www.skyue.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.skyue.com/25021000.html"
+                        open
+                      >
+                        <summary class="article-expander__title">搬离良渚、哪吒2</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.skyue.com/25021000.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>搬离良渚之前置换房子，郡东房子已然易主，临近年关不想搬家，于是反租一个多月。春节返杭直奔未名府找房子，火速租了一间公寓，方便后续盯装修。今天搬家，从2017年7月1日到2025年2月9日，在良渚...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-02-09 datetime="2025-02-09T13:33:00.000Z">2025-02-09</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-02-09 datetime="2025-02-09T13:33:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Rss Feed - 苏洋博客</button>
+                  <a class="source-heading__link" href="https://soulteary.com/feed/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://soulteary.com/2025/02/09/find-like-minded-friends-from-happy-technical.html"
+                        open
+                      >
+                        <summary class="article-expander__title">致新朋友：从技术交流中寻找志同道合的你</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://soulteary.com/2025/02/09/find-like-minded-friends-from-happy-technical.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>有些路，我们能一个人走得快，却无法一个人走得远。让交友更高效，在折腾中彼此照亮，也能在成长的过程中收获更多温暖。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-02-08 datetime="2025-02-08T12:34:00.000Z">2025-02-08</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-02-08 datetime="2025-02-08T12:34:00.000Z"></time>
           </button>
@@ -166,6 +339,124 @@
                 </section>
               </section>
             </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >法律小茶馆</button>
+                  <a class="source-heading__link" href="https://lawtee.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://lawtee.com/article/soomal-mirror/"
+                        open
+                      >
+                        <summary class="article-expander__title">给 Soomal 网站再续命 10 年</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://lawtee.com/article/soomal-mirror/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://lawtee.com/article/soomal-mirror/00.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>去年 7 月，运营了 15 年的 Soomal （数毛、数码多） 终于撑不住开始专攻新媒体平台。在知道这个消息后，感觉心里空落落的，毕竟这是一个从我大学开始就一直陪伴多年的网站。好在前天上午看蛋总终于把网站镜像打包上传，于是便下载部署了镜像网站 Soomal.cc 。
+关于 Soomal 停止运营这件事
+
+简单说，Soomal 开局就跟本站一样，是一个单纯的个人博客，但在互联网早期，个人博客还是新鲜事物，容易聚起一群志同道合的人。于是在网友建议下 Soomal 开始转型专攻音频设备评测，到智能手机兴起后，进一步将网站主题转向手机音频、摄像等方面。截至目前，已经累积了上万评测报告。一步步见证着国产设备的崛起。
+最近几年，由于移动互联网攻势迅猛，传统网站流量逐渐凋零，于是 Soomal 开始转型新媒体平台，包括微信公众号和短视频平台等。
+但我始终觉得，保留网站这种形式跟转型新媒体并不存在冲突。也在微信群多次聊起这个事情。主要的冲突在于，Soomal 原网站架构陈旧，更新起来麻烦。加之网站越来越大，成本不小，访问量和收益却很难看到，所以拉扯下来，最终还是选择关停，不得不说是个遗憾。
+关于 Soomal.cc 镜像网站
+
+本来我想使用全免费方案制作 Soomal 镜像网站，但后来考虑到免费域名的稳定性，还是注册了 soomal.cc 这个域名，一次性缴费 10 年，正常来说，到 2035 年之前都能持续访问。
+在服务器方面，目前使用的是甲骨文 1c1g 的终身免费服务器，默认每个月流量 10TB，同时启用 Cloudflare 免费 CDN 进行保护。由于是静态网站，对服务器消耗倒是基本没有。
+需要注意的是，soomal 原镜像有 64GB，而甲骨文 1c1g 免费服务器却只默认分配了 50GB 空间，所以我在下载镜像后，将全站所有图片都转换为 webp 格式。转换后，整体网站容量下降到 30GB，刚好可以在甲骨文服务器上运行。
+关于后期维护
+
+目前 Soomal.cc 镜像已可以正常运行，我同时在考虑新的方案，确保镜像能够稳定运行 10 年以上。
+将网站原有架构更改为 Hugo，进一步优化网站空间。主要考虑到原来网站架构过于陈旧，像文字搜索等很多功能没法实现。
+将网站内容与图片分离，内容上传到 Github，图片上传到 Cloudflare 或其他国外免费图床。
+但由于网站文件数量庞大，这可能需要一定很长时间才能完成。例如，此前在将图片转换为 webp 过程中就耗费了我两天时间。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >运维小弟</button>
+                  <a class="source-heading__link" href="https://srebro.cn/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="/archives/1739004997288"
+                        open
+                      >
+                        <summary class="article-expander__title">《Wiki.js知识库部署实践 + CNB Git数据同步方案解析》</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://srebro.cn/archives/1739004997288">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://srebro.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri&#x3D;https://s3api.srebro.cn/srebro/picture/22040EF8-89FB-44F3-BCAB-1C3DAA202EF1.png&amp;size&#x3D;m" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>一、wiki.js 知识库简介 基本概述 定义 ：Wiki.js 是一个开源、现代、轻量且功能强大的 Wiki 应用程序，基于 Node.js 构建，旨在帮助个人和团队轻松创建、管理和共享知识。 开源性质 ：它遵循 AGPLv3 许可证，任何人都可以免费下载、使用和修改其源代码，这种开源特性也意味着</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;8
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >杜老师说</button>
+                  <a class="source-heading__link" href="https://dusays.com/atom.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://dusays.com/797/"
+                        open
+                      >
+                        <summary class="article-expander__title">新版本去不图床免费公测开始啦</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://dusays.com/797/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.dusays.com/favicon.ico" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>有不少的小伙伴为去不图床提供建议，包括但不限于增加支持格式、图片处理、水印功能等等。杜老师也收集了这些建议转交给程序的设计者，经过了几个月更新迭代，V2 版本已推出。由于使用了新框架，无论是操作逻辑和功能支持，都有较大改变，所以在正式上线前，杜老师决定免费公测下！</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
         </ul>
       </section>
       <section class="daily-content js-toggle-accordions-scope">
@@ -239,6 +530,100 @@ The post The Best Kubernetes Storage CSI Providers for Home Lab Enthusiasts appe
                             <span class="media-object__text">
                               <span>本文将详细介绍如何使用这款显卡来运行 DeepSeek R1 Distill Qwen 7B 模型，并分享完整的实践经验和踩坑指南。</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >满心记</button>
+                  <a class="source-heading__link" href="https://qq.mba/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://qq.mba/218.html"
+                        open
+                      >
+                        <summary class="article-expander__title">使用Ollama搭建本地模型库</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://qq.mba/218.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>最近deepseek炒的比较火热，热度有超过openai的趋势，毕竟是国内公司的产品，也算是国内用户的福音了，我也用了下，感觉各方面很不错，对比国内其它AI模型要好得多，deepseek有免费额...</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >CHEGVA</button>
+                  <a class="source-heading__link" href="https://chegva.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://chegva.com/?p&#x3D;6254"
+                        open
+                      >
+                        <summary class="article-expander__title">JVM G1 GC 日志解读与分析</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://chegva.com/6254.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>G1 的全称是 Garbage-First，意为垃圾优先，哪一块的垃圾最多就优先清理它。
+G1 相关的调优参数，可以参考：
+
+https://www.oracle.com/technical-resources/articles/java/g1gc.html
+
+G1 使用示例：
+# 请注意命令行启动时没有换行
+java -XX:+UseG1GC
+-Xms512m
+-Xmx512m
+-Xloggc:gc.demo.log
+-XX:+PrintGCDetails
+-XX:+PrintGCDateStamps
+demo.jvm0204.GCLogAnalysis
+运行之后，我们看看 G1 的日志长什么样：
+Java HotSpot(TM) 64-Bit Server VM (25.162-b12) ......
+Memory: 4k page，physical 16777216k(709304k free)
+
+CommandLine flags: -XX:InitialHeapSize&#x3D;536870912
+  -XX:MaxHeapSize&#x3D;536870912
+  -XX:+PrintGC -XX:+PrintGCDateStamps
+  -XX:+PrintGCDetails -XX:+PrintGCTimeStamps
+  -XX:+UseCompressedClassPointers -XX:+UseCompressedOops
+  -XX:+UseG1GC
+
+2019-12-23T01:45:40.605-0800: 0.181:
+ [GC pause (G1 Evacuation Pause) (young)，0.0038577 secs]
+   [Parallel Time: 3.1 ms，GC Workers: 8]
+   .…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;41
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -352,6 +737,91 @@ The post The Best Kubernetes Storage CSI Providers for Home Lab Enthusiasts appe
                               <span>Microk8s is one of the coolest small Kubernetes distros you can play around with and it is not just for playing around, it is actually built for running production workloads in the cloud. But, it can also serve as the platform you use in your home lab for running Kubernetes and getting familiar with it. …
 The post Install Microk8s: Ultimate Beginners Configuration Guide appeared first on Virtualization Howto.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;37
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >法律小茶馆</button>
+                  <a class="source-heading__link" href="https://lawtee.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://lawtee.com/article/deepseek-ollama/"
+                        open
+                      >
+                        <summary class="article-expander__title">近期使用 DeepSeek Ollama 的一些情况</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://lawtee.com/article/deepseek-ollama/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://lawtee.com/article/deepseek-ollama/00.webp" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>春节期间，DeepSeek 因为众所周知原因，几乎一直处于不可用状态。特别是 API，经常是整天整天的宕机，即便今天早上发现网页恢复，在 VS Code 中打开 Cline 一看，还是在那转半天不动。逼得只能买第三方 API 来用。另外，我也顺手测试了一下本地部署 DeepSeek Ollama 情况。
+
+部署方法
+
+DeepSeek V3 和 R1 开源后，迅速成为当下最热门大模型。也是趁着这个热度，我还是第一次自行在本地部署此类大模型。此前一直误以为只有高档显卡才能玩得转，结果没想到，无显卡也可以使用。
+Oracle Cloud 部署
+
+我首次测试是在 Oracle Cloud 的 ARM 服务器上。这是一台 4C24G 的ARM免费服务器。
+因为这台服务器上我早已安装了不少应用，日常使用 1Panel 进行 Docker 化管理。所以我直接在应用商店下载安装了 ollama 和 ollama-webui 两个应用。（但后者其实用处不大）
+
+几乎不需要什么设置。在安装 ollama 后，直接在容器中通过终端输入以下安装命令即可操作。
+
+
+
+1
+
+
+
+ollama run deepseek-r1:1.5b
+
+
+
+
+
+
+得益于 Oracle Cloud 的高速网络，拉取一个 4.7GB 的 deepseek:r1-7b 大概只要 15 秒钟就能完成，可以说是即开即用。
+
+DeepSeek 目前有 7 个 ollama 版本，从小到大分别是 1.5b 7b 8b 14b 32b 70b 671b。对应仓库大小如下。
+模型
+1.5b
+7b
+8b
+14b
+32b
+70b
+671b
+
+
+
+
+仓库大小
+1.1GB
+4.7GB
+4.9GB
+9.0GB
+20GB
+43GB
+404GB
+
+
+
+另外，ollama 上也还有一些其他版本的 DeepSeek r1 仓库，比默认版本都要高出几倍的…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -785,6 +1255,40 @@ The post Terramaster T12-500 Pro NAS Review: Beefy Specs with Backup Server Buil
                 </section>
               </section>
             </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >杜老师说</button>
+                  <a class="source-heading__link" href="https://dusays.com/atom.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://dusays.com/796/"
+                        open
+                      >
+                        <summary class="article-expander__title">Hugo 渲染超时问题的解决笔记</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://dusays.com/796/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.dusays.com/favicon.ico" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>hehe 童鞋选择将所有的站点托管到杜老师这「是收费的」这样就可以专心维护网站的内容，也不用费心思在运维上。在做站点迁移时遇到了 Hugo 框架的一个报错，原因是使用 Hugo 搭建相册网站需要遍历大量图片，而在生成站点文件时出现了超时问题，本文记录解决方法。</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
         </ul>
       </section>
       <section class="daily-content js-toggle-accordions-scope">
@@ -1022,6 +1526,40 @@ I used to believe that the goal of the government should be efficiency. If the g
 I’ve changed my thinking on the subject. I now think the goal of the government should be to absorb inefficiencies.
 As efficient as the fabled invisible hand of the market might be at lowering the costs of goods and services 1 and creating jobs2 … there are often non-economic inefficienci…</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >杜老师说</button>
+                  <a class="source-heading__link" href="https://dusays.com/atom.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://dusays.com/795/"
+                        open
+                      >
+                        <summary class="article-expander__title">麒麟服务器操作系统 yum 升级报错处理</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://dusays.com/795/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://cdn.dusays.com/favicon.ico" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>因为公司要求，杜老师一直使用麒麟服务器操作系统，为了保证系统的新特性，需要经常升级系统。这次在升级过程中遇到错误，本文记录该错误及其解决的方法。如果小伙伴也遇到了类似的问题，可以参考本文或在评论区中留言！</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -19898,385 +20436,10 @@ The post Windows Server 2025 Proxmox Packer Build Fully Automated appeared first
             </li>
         </ul>
       </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-11-12 datetime="2024-11-12T13:17:51.000Z">2024-11-12</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-11-12 datetime="2024-11-12T13:17:51.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Collabnix</button>
-                  <a class="source-heading__link" href="https://collabnix.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://collabnix.com/?p&#x3D;28479"
-                        open
-                      >
-                        <summary class="article-expander__title">How to Build a Conversational Agent with OpenAI Realtime API</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://collabnix.com/how-to-build-a-conversational-agent-with-openai-realtime-api/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://i0.wp.com/collabnix.com/wp-content/uploads/2024/11/Screenshot-2024-11-12-at-7.03.01%E2%80%AFPM.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Imagine having a seamless, real-time conversation with an AI agent in your web application—no database setup, no additional infrastructure complexities. This blog introduces a project that leverages OpenAI’s Realtime API to build a conversational agent with JavaScript (frontend) and Python FastAPI (backend). It provides a plug-and-play solution for organizations to integrate into their existing tech […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;9
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://collabnix.com/?p&#x3D;28475"
-                        open
-                      >
-                        <summary class="article-expander__title">Containerize Rust Application in 2 Minutes using Docker Init</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://collabnix.com/containerize-rust-application-in-2-minutes-using-docker-init/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://i0.wp.com/collabnix.com/wp-content/uploads/2024/11/Screenshot-2024-11-12-at-8.36.28%E2%80%AFAM.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Introduced in Docker Desktop 4.18, the new docker init CLI generates Docker assets for projects, making creating Docker images and containers easier. When you run the docker init command in your project directory, it will guide you through creating the necessary files for your project with sensible defaults. These files include: The docker init command also allows you to choose the […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;9
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >小z博客</button>
-                  <a class="source-heading__link" href="https://blog.xiaoz.org">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://blog.xiaoz.org/?p&#x3D;21572"
-                        open
-                      >
-                        <summary class="article-expander__title">WildCard 虚拟卡上手指南：快速搞定 OpenAI/ChatGPT 支付</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://blog.xiaoz.org/archives/21572">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>在之前的文章《2024年那些还可用于支付OpenAI/ChatGPT的虚拟卡与方法》xiaoz分享了一些可用于支付OpenAI/ChatGPT的方法，不过部分方法门槛较高，这篇文章再补充一个低门槛的 WildCard 虚拟卡作为备用。如果您需要USDT充值或者更多卡段需求，还可以看看： 优咔（Uca</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >雨月空间站</button>
-                  <a class="source-heading__link" href="https://www.mintimate.cn/atom.xml">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.mintimate.cn/2024/11/11/GuideToATop/"
-                        open
-                      >
-                        <summary class="article-expander__title">洞悉 Linux 系统运行细节，使用 atop 监测和回看系统负载状态</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.mintimate.cn/2024/11/11/GuideToATop/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://imagehost.mintimate.cn/post_GuideToATop/banner.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Linux 的资源使用情况是动态变化的，某些进程的使用情况就像潮汐一样，有高峰也有低谷。在这种情况下，如何有效地查看某段时间内的系统负载变化呢？这时，atop 就能够帮助我们解决这一问题。本文详细介绍如何在 Linux 上使用 atop 来监控系统一段时间内的负载状态。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-11-11 datetime="2024-11-11T15:04:55.000Z">2024-11-11</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-11-11 datetime="2024-11-11T15:04:55.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Bensz</button>
-                  <a class="source-heading__link" href="https://blognas.hwb0307.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://blognas.hwb0307.com/other/6094"
-                        open
-                      >
-                        <summary class="article-expander__title">前沿快讯 第61期 体内进行肿瘤细胞向cDC1样细胞的重编程等</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://blognas.hwb0307.com/medicine/6094">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Bensz
-前沿快讯 第61期 体内进行肿瘤细胞向cDC1样细胞的重编程等
-本博客由Faconhost大力赞助！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 前言 本文是前沿快讯的第61期。前沿快讯栏目主要收集一些个人感兴趣的近期发表的研究，关注领域包括肿瘤的分子生物学、临床研究、流行病学等，文献类型主要是期刊论文和综述。研究介绍在Google机翻摘要的基础上进行微调，可能不一定特别准确、专业，主要目的是方便自己和大家快速了解和回顾相关领域研究进展。如果你对某个研究的细节感兴趣，请自行寻找全文进一步了解。此外，研究根据子领域会进一步细分，不过交叉领域的研究不好分为某一类，所以这个分类主要用于初级索引，并不十分准确，不喜勿喷。最后，大家看到什么特别的研究，也可以在评论区向我推荐，我会酌情收录在后面的期刊中。如无意外，前沿快讯栏目会长期更新，周期为2周-1月 […]
-Bensz</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >杰哥的{运维，编程，调板子}小笔记</button>
-                  <a class="source-heading__link" href="https://jia.je/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://jia.je/hardware/2024/11/11/amd_zen5/"
-                        open
-                      >
-                        <summary class="article-expander__title">AMD Zen 5 微架构评测</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://jia.je/hardware/2024/11/11/amd_zen5/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>AMD Zen 5 微架构评测¶
-背景¶
-Zen 5 是 AMD 最新的一代微架构，在很多地方和之前不同，因此测试一下这个微架构在各个方面的表现。
-
-官方信息¶
-AMD 一向公开得比较大方，关于 Zen 5 的信息有：
-
-Software Optimization Guide for the AMD Zen5 Microarchitecture
-5TH GEN AMD EPYC™ PROCESSOR ARCHITECTURE
-
-现有评测¶
-网上已经有较多针对 Zen 5 微架构的评测和分析，建议阅读：
-
-AMD Reveals More Zen 5 CPU Core Details
-Zen 5’s 2-Ahead Branch Predictor Unit: How a 30 Year Old Idea Allows for New Tricks
-Zen 5’s Leaked Slides
-AMD’s Strix Point: Zen 5 Hits Mobile
-AMD’s Ryzen 9950X: Zen 5 on Desktop
-Discussing AMD’s Zen 5 at Hot Chips 2024
-Zen 5 补充测试 (1/2): 更多微架构细节
-Zen5&#x27;s AVX512 Teardown + More...
-
-下面分各个模块分别记录官方提供的信息，以及实测的结果。读者可以对照已有的第三方评测理解。官方信息与实测结果一致的数据会加粗。
-Benchmark¶
-AMD Zen 5 的性能测试结果见 SPEC。
-MOP vs uOP¶
-MOP &#x3D; Macro operation, uOP &#x3D; Micro operation
-AMD 的文档里是这么说的：
-
-The processor implements AMD64 instruction set by mea…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-11-10 datetime="2024-11-10T09:08:35.000Z">2024-11-10</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-11-10 datetime="2024-11-10T09:08:35.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >卡瓦邦噶！</button>
-                  <a class="source-heading__link" href="https://www.kawabangga.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.kawabangga.com/?p&#x3D;6701"
-                        open
-                      >
-                        <summary class="article-expander__title">ARP Flux 问题和解决方法</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.kawabangga.com/posts/6701">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>我们写程序不需要写 ARP request 和 response 相关的逻辑，因为这部分是操作系统帮我们做的。 […]
-Continue reading...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >杰哥的{运维，编程，调板子}小笔记</button>
-                  <a class="source-heading__link" href="https://jia.je/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://jia.je/meta/2024/11/10/migrate-from-disqus-to-giscus/"
-                        open
-                      >
-                        <summary class="article-expander__title">把评论系统从 Disqus 迁移到 Giscus</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://jia.je/meta/2024/11/10/migrate-from-disqus-to-giscus/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>把评论系统从 Disqus 迁移到 Giscus¶
-Disqus 要加广告了，于是本博客的评论系统迁移到了 Giscus。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-11-09 datetime="2024-11-09T13:54:14.000Z">2024-11-09</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-11-09 datetime="2024-11-09T13:54:14.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Dennis</button>
-                  <a class="source-heading__link" href="https://www.domon.cn/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="672f67f16c5c20099658210b"
-                        open
-                      >
-                        <summary class="article-expander__title">2024年10月阅读书摘</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.domon.cn/2024-10yue-yue-du-shu-zhai/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://images.unsplash.com/photo-1521056787327-165dc2a32836?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDd8fGJvb2tzfGVufDB8fHx8MTczMTE2MDA4M3ww&amp;ixlib&#x3D;rb-4.0.3&amp;q&#x3D;80&amp;w&#x3D;2000" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>人们往往讨厌做自己不擅长的事情。但如果你开始对某件事游刃有余，自然就会乐在其中了。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/MarsperL/yygrss/actions/runs/13221247637">
-        <time id="build-timestamp" datetime="2025-02-09T01:50:45.825Z">2025-02-09T01:50:45.825Z</time>
+      <a class="footer-link" href="https://github.com/MarsperL/yygrss/actions/runs/13231911603">
+        <time id="build-timestamp" datetime="2025-02-10T01:48:30.595Z">2025-02-10T01:48:30.595Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
