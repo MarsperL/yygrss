@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-02-10T01:48:30.638Z</updated>
+    <updated>2025-02-11T01:46:47.064Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How I Reduced a Docker Image Size by 90%: A Step-by-Step Journey]]></title>
+        <id>https://collabnix.com/?p=30414</id>
+        <link href="https://collabnix.com/how-i-reduced-a-docker-image-size-by-90-a-step-by-step-journey/"/>
+        <updated>2025-02-10T20:09:38.000Z</updated>
+        <summary type="html"><![CDATA[How I Reduced a Docker Image Size by 90%: A Step-by-Step Journey Let me take you through my journey of optimizing a Python-based Machine Learning application’s Docker image, reducing it from a hefty 3.09GB to just 280MB. Here’s how I did it, step by step. The Initial Problem I started with a typical Dockerfile for […]]]></summary>
+        <author>
+            <name>Adesoji Alu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本博出现图碎问题说明]]></title>
+        <id>https://dusays.com/798/</id>
+        <link href="https://dusays.com/798/"/>
+        <updated>2025-02-10T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>近期本博访问时出现了图碎问题，经排查系 CDN 回源失败导致的。有小伙伴可能会说，保证成功就可以修复了，其实没有那么简单。本文简单描述下存储节点数据流，顺便科普一下如何清理单站数据缓存。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Homelab Networking Ecosystem]]></title>
+        <id>https://www.virtualizationhowto.com/?p=299274</id>
+        <link href="https://www.virtualizationhowto.com/2025/02/best-homelab-networking-ecosystem/"/>
+        <updated>2025-02-10T15:19:11.000Z</updated>
+        <summary type="html"><![CDATA[There are many different ecosystems of solutions out there that provide a full turnkey solution for networking setups in the homelab. Let’s take a look at the best homelab networking ecosystems out there and maybe some of the features that you should consider to choose from for implementing your networking configuration in the home lab …
+The post Best Homelab Networking Ecosystem appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Reduced Docker Image Size by 90%]]></title>
+        <id>https://collabnix.com/?p=30352</id>
+        <link href="https://collabnix.com/sculpting-slim-containers-the-ultimate-guide-to-optimizing-docker-image-size/"/>
+        <updated>2025-02-10T13:44:19.000Z</updated>
+        <summary type="html"><![CDATA[In today’s fast-paced DevOps landscape, every second counts. Smaller Docker images mean quicker builds, faster deployments, reduced bandwidth costs, and enhanced security. At Collabnix, we believe that optimizing your Docker images isn’t just about saving space—it’s about creating a robust, efficient, and agile deployment pipeline. Let’s dive into some practical strategies to help you create […]]]></summary>
+        <author>
+            <name>Adesoji Alu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neo4j,  Model Context Protocol (MCP) Server and Docker Desktop]]></title>
+        <id>https://collabnix.com/?p=30365</id>
+        <link href="https://collabnix.com/neo4j-model-context-protocol-mcp-server-and-docker-desktop/"/>
+        <updated>2025-02-10T11:01:22.000Z</updated>
+        <summary type="html"><![CDATA[In today’s AI landscape, managing interactions between applications and language models can be complex and inconsistent. The Model Context Protocol (MCP) aims to solve this by providing a standardized way to handle these interactions. Let’s dive into what MCP is and why you might need it in your projects. What is MCP? The Model Context […]]]></summary>
+        <author>
+            <name>Ajeet Raina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多功能文件分享程序Zdir 4.3.0发布，新年送福利]]></title>
+        <id>https://blog.xiaoz.org/?p=21765</id>
+        <link href="https://blog.xiaoz.org/archives/21765"/>
+        <updated>2025-02-10T02:50:39.000Z</updated>
+        <summary type="html"><![CDATA[Zdir是一款使用Golang + Vue3开发的多功能私有存储程序，集成了文件索引、在线预览和分享功能，支持WebDAV和离线下载，非常适合安装在NAS设备或大容量VPS上，是个人、工作室和小团队分享文件的理想选择。官网：https://www.zdir.pro/zh/购买订阅：https://s]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[JVM GC 日志解读与分析（番外篇可视化工具）]]></title>
         <id>https://chegva.com/?p=6255</id>
@@ -70,6 +133,16 @@ API 接口调用（付费计划）
         <summary type="html"><![CDATA[搬离良渚之前置换房子，郡东房子已然易主，临近年关不想搬家，于是反租一个多月。春节返杭直奔未名府找房子，火速租了一间公寓，方便后续盯装修。今天搬家，从2017年7月1日到2025年2月9日，在良渚...]]></summary>
         <author>
             <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[观影《哪吒2》后，我用 DeepSeek梳理了封神人物关系]]></title>
+        <id>https://panzhixiang.cn/2025/nezha/</id>
+        <link href="https://panzhixiang.cn/2025/nezha/"/>
+        <updated>2025-02-09T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在这篇文章中，我们探讨了《哪吒2》的观影体验以及其与中国神话体系的深厚关联，特别是与《封神演义》中的重要角色如元始天尊、通天教主的关系。结合AI工具DeepSeek R1的使用，本文还分析了如何快速构建人物关系图，并揭示了阐教、截教与西方教的教义差异。探索古代神话与现代技术的交融，带您重温中国传统文化的魅力。]]></summary>
+        <author>
+            <name>潘智祥</name>
         </author>
     </entry>
     <entry>
@@ -239,6 +312,16 @@ CommandLine flags: -XX:InitialHeapSize=536870912
         <summary type="html"><![CDATA[TL;DR: We’ll set up and run a Model Context Protocol (MCP) server that communicates with Snowflake to run SQL queries. We’ll install using Smithery (a frictionless approach for installing MCP servers). Then we’ll run the server, show logs, and test a quick read query. Overview The mcp-snowflake-server is an MCP server that bridges your […]]]></summary>
         <author>
             <name>Adesoji Alu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[三十几岁的人了，仍要谈一下梦想]]></title>
+        <id>https://blog.ops-coffee.cn/r/the-dream-of-my-life.html</id>
+        <link href="https://blog.ops-coffee.cn/r/the-dream-of-my-life.html"/>
+        <updated>2025-02-06T14:59:02.000Z</updated>
+        <summary type="html"><![CDATA[你有梦想吗？你的梦想是什么？梦想还有机会实现吗？]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
         </author>
     </entry>
     <entry>
@@ -1341,6 +1424,16 @@ At the center of this CSS-trick is setting a --hue variable and rotating the hue
     </entry>
     <entry>
         <title type="html"><![CDATA[游记｜海盐，余华笔下烟火与诗意交织的故乡]]></title>
+        <id>https://blog.ops-coffee.cn/r/city-china-zhejiang-jiaxing-haiyan.html</id>
+        <link href="https://blog.ops-coffee.cn/r/city-china-zhejiang-jiaxing-haiyan.html"/>
+        <updated>2025-01-20T16:22:59.000Z</updated>
+        <summary type="html"><![CDATA[距离上海仅一个多小时车程的宝藏小城]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[游记｜海盐，余华笔下烟火与诗意交织的故乡]]></title>
         <id>https://blog.ops-coffee.cn/r/city-china-zhejiang-jiaxing-haiyan</id>
         <link href="https://blog.ops-coffee.cn/r/city-china-zhejiang-jiaxing-haiyan"/>
         <updated>2025-01-20T16:22:59.000Z</updated>
@@ -1642,6 +1735,16 @@ The post Minisforum MS-A2 vs MS-01: Best Home Lab Server in 2025? appeared first
     </entry>
     <entry>
         <title type="html"><![CDATA[2024年微信公众号收到赞赏6487.50¥]]></title>
+        <id>https://blog.ops-coffee.cn/s/2024-WeChat-official-accounts-data-share.html</id>
+        <link href="https://blog.ops-coffee.cn/s/2024-WeChat-official-accounts-data-share.html"/>
+        <updated>2025-01-16T15:28:07.000Z</updated>
+        <summary type="html"><![CDATA[运维咖啡吧公众号2024年完整数据分享]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年微信公众号收到赞赏6487.50¥]]></title>
         <id>https://blog.ops-coffee.cn/s/2024-WeChat-official-accounts-data-share</id>
         <link href="https://blog.ops-coffee.cn/s/2024-WeChat-official-accounts-data-share"/>
         <updated>2025-01-16T15:28:07.000Z</updated>
@@ -1766,6 +1869,16 @@ public class GCLogAnalysis {
         <summary type="html"><![CDATA[k8s部署prometheus 终端创建 创建namespace mkdir -p /home/k8s/monitoring/{node-exporter,k8s,kube-state-metrics,blackbox-exporter,dingtalk,alertmanager,prometheu]]></summary>
         <author>
             <name>清风</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[运维自动化系统各模块介绍]]></title>
+        <id>https://blog.ops-coffee.cn/s/devops-cmdb-cloud-monitor-domain-task-billing.html</id>
+        <link href="https://blog.ops-coffee.cn/s/devops-cmdb-cloud-monitor-domain-task-billing.html"/>
+        <updated>2025-01-15T18:59:15.000Z</updated>
+        <summary type="html"><![CDATA[一个完善的运维自动化系统都包含哪些功能模块]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
         </author>
     </entry>
     <entry>
@@ -4275,6 +4388,16 @@ The post What is Kubernetes in DevOps appeared first on Collabnix.]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024，使用房车这一年]]></title>
+        <id>https://blog.ops-coffee.cn/r/2024-rv-travel-camping-and-vanlife.html</id>
+        <link href="https://blog.ops-coffee.cn/r/2024-rv-travel-camping-and-vanlife.html"/>
+        <updated>2024-12-27T09:52:32.000Z</updated>
+        <summary type="html"><![CDATA[12个月近20次旅行，足迹达4省18市，总行程2万余公里]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024，使用房车这一年]]></title>
         <id>https://blog.ops-coffee.cn/r/2024-rv-travel-camping-and-vanlife</id>
         <link href="https://blog.ops-coffee.cn/r/2024-rv-travel-camping-and-vanlife"/>
         <updated>2024-12-27T09:52:32.000Z</updated>
@@ -4643,6 +4766,16 @@ Continue reading...]]></summary>
 At its core, CSS wants to be a system and – besides its quirky selector power ranking algorithm – it doesn’t come with one out of the box. CSS wants you to build a system with it. It wants styles to build up, not flatten down. It even has layers as a feature! You can start small with a minimalist reset or satisfy your inner typenerd with a typographic default and build up from there. You can make your…]]></summary>
         <author>
             <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[游戏运维管理规范]]></title>
+        <id>https://blog.ops-coffee.cn/t/game-operation-management-specification.html</id>
+        <link href="https://blog.ops-coffee.cn/t/game-operation-management-specification.html"/>
+        <updated>2024-12-23T15:50:52.000Z</updated>
+        <summary type="html"><![CDATA[游戏运维管理规范]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
         </author>
     </entry>
     <entry>
@@ -5398,6 +5531,16 @@ RAG 的工作流程包括两个主要阶段：
 数据准…]]></summary>
         <author>
             <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[游记｜海宁，距离上海仅一个多小时车程的宝藏小城]]></title>
+        <id>https://blog.ops-coffee.cn/r/city-china-zhejiang-jiaxing-haining.html</id>
+        <link href="https://blog.ops-coffee.cn/r/city-china-zhejiang-jiaxing-haining.html"/>
+        <updated>2024-12-11T11:03:01.000Z</updated>
+        <summary type="html"><![CDATA[嘉兴海宁，两天一晚旅行攻略]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
         </author>
     </entry>
     <entry>
@@ -6487,6 +6630,16 @@ The post Commvault Clumio Backtrack: Roll Back Amazon S3 Files Quickly appeared 
 The post Gitops vs DevOps: What are the differences? appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[任务系统之任务流程可视化]]></title>
+        <id>https://blog.ops-coffee.cn/s/devops-workflow-task-flow-bpmn-js.html</id>
+        <link href="https://blog.ops-coffee.cn/s/devops-workflow-task-flow-bpmn-js.html"/>
+        <updated>2024-12-03T15:33:28.000Z</updated>
+        <summary type="html"><![CDATA[我们实现了任务流程从编排到执行的清晰可视化，提升了任务执行过程的透明度，使得流程执行过程更加直观，操作更加便捷易用]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
         </author>
     </entry>
     <entry>
@@ -8259,6 +8412,16 @@ The post Windows Server 2025 Proxmox Packer Build Fully Automated appeared first
     </entry>
     <entry>
         <title type="html"><![CDATA[如皋后记，一个本地人的详细游玩儿指南]]></title>
+        <id>https://blog.ops-coffee.cn/r/jiangsu-nantong-rugao-travel-notes-comment.html</id>
+        <link href="https://blog.ops-coffee.cn/r/jiangsu-nantong-rugao-travel-notes-comment.html"/>
+        <updated>2024-11-13T16:04:34.000Z</updated>
+        <summary type="html"><![CDATA[经常被这些小事感动，让美好继续发生]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如皋后记，一个本地人的详细游玩儿指南]]></title>
         <id>https://blog.ops-coffee.cn/r/jiangsu-nantong-rugao-travel-notes-comment</id>
         <link href="https://blog.ops-coffee.cn/r/jiangsu-nantong-rugao-travel-notes-comment"/>
         <updated>2024-11-13T16:04:34.000Z</updated>
@@ -8277,16 +8440,6 @@ The post Windows Server 2025 Proxmox Packer Build Fully Automated appeared first
 </blockquote>]]></summary>
         <author>
             <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIOps系列--智能运维机器人完全体:)]]></title>
-        <id>https://nops.icu/archives/169/</id>
-        <link href="https://nops.icu/archives/169/"/>
-        <updated>2024-11-13T09:32:00.000Z</updated>
-        <summary type="html"><![CDATA[目标创建一个具备内部运维知识，识别自然语义，准确调用各种工具执行任务，严格控制幻觉的智能运维工程师。v0.1 技术方案方案介绍使用 OpenAI 的 Assistant 功能，上传知识库，设置提...]]></summary>
-        <author>
-            <name>季兴</name>
         </author>
     </entry>
     <entry>
@@ -8335,67 +8488,6 @@ The post Windows Server 2025 Proxmox Packer Build Fully Automated appeared first
 广东省博物馆算是我所去过的省级博物馆里面排名倒数第一的，实在是乏善可陈，乃至于现代工艺品都能被当成镇馆之宝。整个博物馆里面人文元素实在是过于匮乏，基本都是以近现代工艺品和自然矿产作为主角，很多人讲广东是中国的文化沙漠，恐怕也不无道理。]]></summary>
         <author>
             <name>法律小茶馆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 Go 语言实现定时发送邮件并容器化部署]]></title>
-        <id>/archives/1731480866042</id>
-        <link href="http://localhost:8090/archives/1731480866042"/>
-        <updated>2024-11-13T07:00:35.000Z</updated>
-        <summary type="html"><![CDATA[使用 Go 语言实现定时发送邮件并容器化部署 定时发送邮件是一项常见的需求，通常用于定期报告、通知邮件或提醒邮件等场景。在本文中，我们将通过 Go 语言实现定时发送邮件，并将其容器化部署，使得它可以在任何环境中运行，无论是在本地机器、云服务器，还是在容器化环境中。 1. 发送邮件的基本步骤 在 Go]]></summary>
-        <author>
-            <name>Lixx Blog - 李晓旭的博客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多功能文件分享程序Zdir 4.2.2发布，新增SMB挂载（文末有彩蛋）]]></title>
-        <id>https://blog.xiaoz.org/?p=21582</id>
-        <link href="https://blog.xiaoz.org/archives/21582"/>
-        <updated>2024-11-13T03:17:07.000Z</updated>
-        <summary type="html"><![CDATA[Zdir是一款使用Golang + Vue3开发的多功能私有存储程序，集成了文件索引、在线预览和分享功能，支持WebDAV和离线下载，非常适合安装在NAS设备或大容量VPS上，是个人、工作室和小团队分享文件的理想选择。官网：https://www.zdir.pro/zh/购买订阅：https://s]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring Singapore’s Tech Landscape at GovTech STACK Conference 2024]]></title>
-        <id>https://collabnix.com/?p=28542</id>
-        <link href="https://collabnix.com/exploring-singapores-tech-landscape-at-govtech-stack-conference-2024/"/>
-        <updated>2024-11-13T02:48:05.000Z</updated>
-        <summary type="html"><![CDATA[I recently visited Singapore for the first time, and it was an incredible experience. I didn’t know much about the country, developer community, or AI landscape. However I was invited to deliver a 3-hour workshop on Docker 101 on Day 0 of the GovTech STACK Conference 2024, so I got to dive right into Singapore’s […]]]></summary>
-        <author>
-            <name>Ajeet Raina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 开机自启动配置位置]]></title>
-        <id>https://zahui.fan/posts/smvb2h/</id>
-        <link href="https://zahui.fan/posts/smvb2h/"/>
-        <updated>2024-11-13T02:32:40.000Z</updated>
-        <summary type="html"><![CDATA[<h2 id="注册表方式"><a href="#注册表方式" class="headerlink" title="注册表方式"></a>注册表方式</h2><h4 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h4><figure class="highlight plaintext"><table><tr><td]]></summary>
-        <author>
-            <name>杂烩饭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows常见注册表位置]]></title>
-        <id>https://zahui.fan/posts/smvadg/</id>
-        <link href="https://zahui.fan/posts/smvadg/"/>
-        <updated>2024-11-13T02:17:40.000Z</updated>
-        <summary type="html"><![CDATA[<h2 id="oem-信息"><a href="#oem-信息" class="headerlink" title="oem 信息"></a>oem 信息</h2><h3 id="添加-oem-信息"><a href="#添加-oem-信息" class="headerlink" title="添加 oem 信息"></a>添加 oem 信息</h3><figure]]></summary>
-        <author>
-            <name>杂烩饭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谷歌的珍珠港时刻]]></title>
-        <id>https://dongjunke.cn/posts/2024/11/13/23745.html</id>
-        <link href="https://dongjunke.cn/posts/2024/11/13/23745.html"/>
-        <updated>2024-11-12T16:08:40.000Z</updated>
-        <summary type="html"><![CDATA[<h3 id="1-开篇"><a href="#1-开篇" class="headerlink" title="1. 开篇"></a>1. 开篇</h3><p>在互联网的浩瀚星河中，1998年无疑是一个值得铭记的年份。</p>
-<p>就在这一年，如今科技巨头谷歌和当年的科技巨头雅]]></summary>
-        <author>
-            <name>东评西就</name>
         </author>
     </entry>
 </feed>
