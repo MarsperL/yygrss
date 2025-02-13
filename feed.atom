@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-02-12T01:46:54.613Z</updated>
+    <updated>2025-02-13T01:47:40.500Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Thin Provision your NVMe drive in Proxmox VE Server]]></title>
+        <id>https://www.virtualizationhowto.com/?p=299339</id>
+        <link href="https://www.virtualizationhowto.com/2025/02/thin-provision-your-nvme-drive-in-proxmox-ve-server/"/>
+        <updated>2025-02-12T14:17:35.000Z</updated>
+        <summary type="html"><![CDATA[Most likely one of the first types of storage you will work with in a home lab server running Proxmox is a locally attached NVMe drive in a mini PC or other type of server. NVMe drives are cheap and easy to get (at least right now) and provide super fast storage for your VMs …
+The post Thin Provision your NVMe drive in Proxmox VE Server appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alpine连接Wireguard服务端，打通异地网络]]></title>
+        <id>https://blog.xiaoz.org/?p=21778</id>
+        <link href="https://blog.xiaoz.org/archives/21778"/>
+        <updated>2025-02-12T04:13:29.000Z</updated>
+        <summary type="html"><![CDATA[接上一篇文章《爱快虚拟机安装Alpine系统》我们已经成功在爱快虚拟机中安装了Alpine系统，接下来就是使用Alpine作为客户端连接办公室的Wireguard服务端，然后进行内网打通。网络情况办公室网段：192.168.6.x家里面的网段：192.168.50.x办公室网络状态：有公网IP安装W]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[爱快虚拟机安装Alpine系统]]></title>
+        <id>https://blog.xiaoz.org/?p=21774</id>
+        <link href="https://blog.xiaoz.org/archives/21774"/>
+        <updated>2025-02-12T03:42:30.000Z</updated>
+        <summary type="html"><![CDATA[最近计划打通家里和办公室的网络，打算使用 WireGuard方案，但发现爱快的 WireGuard 功能仅支持企业版。于是换了个思路，准备在爱快的虚拟机上安装 Alpine，让 Alpine 作为 WireGuard 客户端，连接办公室的 WireGuard 服务端。下载Alpine镜像Alpine]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[通过Ansible和SSH跳板机批量管理远程服务器：详细配置指南]]></title>
+        <id>/archives/1739325500783</id>
+        <link href="http://localhost:8090/archives/1739325500783"/>
+        <updated>2025-02-12T01:59:45.000Z</updated>
+        <summary type="html"><![CDATA[在现代IT基础设施中，批量管理多台服务器是运维工作的核心需求之一。Ansible作为一款强大的自动化工具，可以帮助我们高效完成这一任务。然而，在实际生产环境中，服务器通常部署在内网，无法直接通过管理机访问。这时，我们可以借助一台跳板机（代理机）来实现批量管理。 本文将详细介绍如何通过Ansible和]]></summary>
+        <author>
+            <name>Lixx Blog - 李晓旭的博客</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Migrate VMware to Proxmox Using Veeam for Free]]></title>
         <id>https://www.virtualizationhowto.com/?p=299293</id>
@@ -8335,36 +8376,6 @@ X200Pro就这样用把~
 The post Windows Server 2025 Proxmox Packer Build Fully Automated appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why User-Friendly Graphics Matter in Software Development]]></title>
-        <id>https://collabnix.com/?p=28560</id>
-        <link href="https://collabnix.com/why-user-friendly-graphics-matter-in-software-development/"/>
-        <updated>2024-11-15T03:51:20.000Z</updated>
-        <summary type="html"><![CDATA[Modern software development depends on user-centric visuals to improve communication and enhance user experience. Thanks to cloud integration and artificial intelligence developments, developers may now create more user-friendly graphics bridging technical and non-technical barriers. Here is a look at why user-friendly visuals are crucial and how they influence present software development methods. Simplifying Communication Across […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用snmp exporter对交换机、服务器等进行监控]]></title>
-        <id>https://zahui.fan/posts/smz2c9/</id>
-        <link href="https://zahui.fan/posts/smz2c9/"/>
-        <updated>2024-11-15T03:14:33.000Z</updated>
-        <summary type="html"><![CDATA[<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p>到 GitHub 下载一个可执行文件，直接运行即可，或者使用 systemd 来运行，也可以直接部署到 Kubernetes 中。<br><a]]></summary>
-        <author>
-            <name>杂烩饭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在飞牛（fnOS）上搭建 Zdir 私有文件分享系统]]></title>
-        <id>https://blog.xiaoz.org/?p=21589</id>
-        <link href="https://blog.xiaoz.org/archives/21589"/>
-        <updated>2024-11-15T02:53:06.000Z</updated>
-        <summary type="html"><![CDATA[fnOS是一款基于Linux内核（Debian发行版）深度开发的NAS系统，支持安装在主流x86硬件上，为国产NAS系统提供了新选择。Zdir 4是一款多功能文件分享程序，具备离线下载、挂载网络存储、文件预览、WebDAV等高级功能，特别适合在NAS设备上使用。本文将带您通过简单步骤，在飞牛上安装Z]]></summary>
-        <author>
-            <name>xiaoz</name>
         </author>
     </entry>
     <entry>
