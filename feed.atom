@@ -2,10 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-02-13T01:47:40.500Z</updated>
+    <updated>2025-02-14T01:47:12.738Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 Proxmox Pooled Storage Options and How to Configure them]]></title>
+        <id>https://www.virtualizationhowto.com/?p=299364</id>
+        <link href="https://www.virtualizationhowto.com/2025/02/5-proxmox-pooled-storage-options-and-how-to-configure-them/"/>
+        <updated>2025-02-13T18:44:39.000Z</updated>
+        <summary type="html"><![CDATA[Proxmox has many healthy options for storage that allow you to to solve many challenges and run your business critical workloads or home lab environments in a way that is resilient and gives you many options. Let’s look at Proxmox pooled storage options to consider, why you should consider them and how you configure it. …
+The post 5 Proxmox Pooled Storage Options and How to Configure them appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DPanel 让 Docker 管理变得轻松又高效]]></title>
+        <id>https://dusays.com/799/</id>
+        <link href="https://dusays.com/799/"/>
+        <updated>2025-02-13T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>在当今数字化时代，容器技术已经成为软件开发和部署中不可或缺的一部分。Docker 作为容器化领域的佼佼者，其强大的功能和灵活性，赢得众多开发者的青睐。然而，对于许多用户来说，Docker 的命令行操作可能显得有些复杂和繁琐。幸运的是，DPanel 的出现为 Docker 的管理和使用带来了全新的体验。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给鲲鹏920和低版本飞腾编译arm64 clickhouse]]></title>
+        <id>http://zhangguanzhang.github.io/2025/02/13/clickhouse-arm64-v8.0-build/</id>
+        <link href="http://zhangguanzhang.github.io/2025/02/13/clickhouse-arm64-v8.0-build/"/>
+        <updated>2025-02-13T12:10:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>clickhouse 官方 docker 镜像无法在老的 arm64 cpu 上运行，需要编译</p>]]></summary>
+        <author>
+            <name>Zhangguanzhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veeam 365 – Missing Application Permissions]]></title>
+        <id>https://www.readysetvirtual.com/?p=1707</id>
+        <link href="https://www.readysetvirtual.com/2025/02/13/veeam-365-missing-application-permissions/"/>
+        <updated>2025-02-13T11:26:06.000Z</updated>
+        <summary type="html"><![CDATA[With technology ever-changing, and businesses continuously facing security challenges, services such as Azure and AWS need to keep]]></summary>
+        <author>
+            <name>Keiran Shelden</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub MCP Server, Docker and Claude Desktop]]></title>
+        <id>https://collabnix.com/?p=30431</id>
+        <link href="https://collabnix.com/github-mcp-server-docker-and-claude-desktop/"/>
+        <updated>2025-02-13T11:11:13.000Z</updated>
+        <summary type="html"><![CDATA[In today’s fast-paced dynamic developmental landscape, managing repositories and performing file operations on GitHub can often become a tedious chore. What if you could automate and simplify these tasks with just a single tool? This brings us to GitHub MCP Server. What is GitHub MCP Server? Model Context Protocol (MCP)  is an open protocol that […]]]></summary>
+        <author>
+            <name>Ajeet Raina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Istio Ambient 模式：图解及概念解读]]></title>
+        <id>https://jimmysong.io/blog/istio-ambient-terminology/</id>
+        <link href="https://jimmysong.io/blog/istio-ambient-terminology/"/>
+        <updated>2025-02-13T10:20:14.000Z</updated>
+        <summary type="html"><![CDATA[Istio 的 Ambient 模式是一种创新的、无 Sidecar 的服务网格部署方式，通过 ztunnel 和 waypoint proxy 分离数据平面功能，简化了操作并降低了资源消耗。本篇博客将通过一份详细的术语表，帮助你更好地理解 Istio Ambient 模式中的关键概念及其背后的技术实现。
+Ambient 模式
+Ambient 模式架构图
+  
+
+
+定义：Istio 的一种无 Sidecar 的数据平面模式，通过 ztunnel 和 waypoint proxy 实现服务之间的安全通信和管理。相较于 Sidecar 模式，Ambient 模式更加轻量，降低了资源消耗并简化了配置。
+架构：数据平面功能分为 L4 层的安全覆盖层（由 ztunnel 提供）和 L7 层的策略处理层（由 waypoint proxy 提供）。
+控制平面与数据平面
+控制平面与数据平面
+  
+
+
+定义：在 Ambient 模式中，控制平面（istiod）负责管理集群内 ztunnel 和 waypoint proxy 的配置和策略，而数据平面由 ztunnel 和 waypoint proxy 组成，负责处理实际的网络流量。
+组件交互：ztunnel 使用 xDS APIs 从 istiod 获取配置并执行策略，管理 Pod 之间的 L4 和 L7 流量。
+Istio Control Plane (istiod)
+定义：Istio 的控制平面组件，负责与 ztunnel 和 waypoint proxy 通信，提供 xDS 接口用于动态配置。
+功能：istiod 使用 xDS APIs 进行配置推送，动态管理 Ambient 模式中的流量策略、证书分发以及与 Kubernetes 集群的交互。
+透明性与非侵入性
+定义：Ambient 模式的架构旨在减少对应用的侵入性，应用无需感知数据平…]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果法律不阻止，Ai 奴役人类的局面可能会加速到来]]></title>
+        <id>https://lawtee.com/article/ai-enslaving-humanity/</id>
+        <link href="https://lawtee.com/article/ai-enslaving-humanity/"/>
+        <updated>2025-02-13T05:30:00.000Z</updated>
+        <summary type="html"><![CDATA[随着 DeepSeek 搅动全世界对 AI 的认知，越来越多企业和个人开始接入 AI ，AI 平民化应用时代也全面开启。此前，我使用 AI 主要还是在技术领域，比如本博客上最近一年多来，几乎所有包含代码的内容，都是在个人引导下由 AI 所写，但随着 AI 开始深入渗透社会各阶层、各类型人群，无数技术以外的 AI 需求涌入，AI 这个形象也越来越显得“妖孽”。不禁让我感觉一阵寒意。
+人类开始逐渐需要迎合 AI 的思考
+
+以往对于 AI 的恐惧，主要是“隐私”问题。但讲实话，隐私这个词，对大多数中国人可能是无感的。因为众所周知的原因，不管是社交媒体发言、街头监控摄像头还是手机上各类无所不用其极的获取用户权限的 APP ，都让普通人对“隐私”议题早已麻木。
+不过，大家以往对这种隐私问题之所以漠视，很大程度在于每一项可以获取用户隐私的服务、每一个产品背后都有着巨量的用户隐私数据，多你一个不多，少你一个不少，个体的隐私夹在在巨量隐私数据中间，显得无足轻重。毕竟，想要对个体隐私数据进行提取分析真不是个容易的事，背后往往需要耗费很大的人力去进行数据分析才能得出某些结论，而这种分析往往都是事后的。如果不是有诸如犯罪调查或者诉讼取证等需要，一般都是不用担心的。
+但 AI 完全改变了这个格局。
+此前，我在 Github 上已看到过一些项目。例如，借助自动化程序，对微信中某指定用户的聊天记录及上下文信息进行提取。然后使用 ChatGPT 对用户聊天内容进行分析，在提取的聊天记录达到一定数量时，几乎可以 100% 分析出用户的政治倾向、性格、知识层次，并可以大致推断用户的年龄、学历、家庭背景、职业、所处地域等信息。
+DeepSeek 的推理则更上一层楼。例如，我截了几张与朋友 A 的微信聊天记录让 DeepSeek 网页版进行简单分析，结果如下：
+
+
+
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ …]]></summary>
+        <author>
+            <name>法律小茶馆</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[deepseek模型加速下载]]></title>
+        <id>https://nops.icu/archives/193/</id>
+        <link href="https://nops.icu/archives/193/"/>
+        <updated>2025-02-13T03:02:00.000Z</updated>
+        <summary type="html"><![CDATA[deepseek的爆火，官网验证后效果确实不错，中文能力强，“会说人话”。唯一缺陷是经常服务器繁忙，本地使用ollama即可下载使用，因为要详细压测，下载了不同尺寸的所有模型。此方法不止适用de...]]></summary>
+        <author>
+            <name>季兴</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[月薪 25000 可以领多少退休金？DeepSeek 告诉你！]]></title>
+        <id>https://panzhixiang.cn/2025/pension-deepseek/</id>
+        <link href="https://panzhixiang.cn/2025/pension-deepseek/"/>
+        <updated>2025-02-12T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[退休养老金到底能领多少？ 别再猜了！ 这篇博客用DeepSeek大模型，结合真实案例，详细计算你的退休金，公式详解+案例分析，提前规划养老无忧！]]></summary>
+        <author>
+            <name>潘智祥</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Thin Provision your NVMe drive in Proxmox VE Server]]></title>
         <id>https://www.virtualizationhowto.com/?p=299339</id>
@@ -1659,6 +1789,16 @@ java -XX:+UseSerialGC…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[《好东西》感想]]></title>
+        <id>https://lostdeer.xyz/?p=1328</id>
+        <link href="https://lostdeer.xyz/herstory/"/>
+        <updated>2025-01-19T15:01:45.000Z</updated>
+        <summary type="html"><![CDATA[好东西 B级 其实看完这电影我有挺多想说的，但发到哪都不太合适索性只在自己的地盘简短的聊。 三个女主角，三条交 […]]]></summary>
+        <author>
+            <name>Yuntian52</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[基于大模型搭建内容输出工作流]]></title>
         <id>https://yeshu.cloud/posts/newsletter-130/</id>
         <link href="https://yeshu.cloud/posts/newsletter-130/"/>
@@ -2196,6 +2336,16 @@ The post NVMe Memory Tiering Configuration in VMware: 4x Your RAM! appeared firs
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[雪花写作法]]></title>
+        <id>https://lostdeer.xyz/?p=1313</id>
+        <link href="https://lostdeer.xyz/snowflake-writing/"/>
+        <updated>2025-01-11T14:09:37.000Z</updated>
+        <summary type="html"><![CDATA[原视频 概念 雪花写作法便是一种基于科赫雪花的故事结构，它是美国理论物理学家和科幻作家兰迪·格曼森推广的写作方 […]]]></summary>
+        <author>
+            <name>Yuntian52</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Phi-4: Redefining Small Language Models with Advanced Mathematical Reasoning]]></title>
         <id>https://collabnix.com/?p=30040</id>
         <link href="https://collabnix.com/phi-4-redefining-small-language-models-with-advanced-mathematical-reasoning/"/>
@@ -2233,6 +2383,16 @@ VPS 安装 1Panel
 c…]]></summary>
         <author>
             <name>法律小茶馆</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[尘埃落定]]></title>
+        <id>https://www.xingzou.org/p/895</id>
+        <link href="https://www.xingzou.org/p/895"/>
+        <updated>2025-01-11T08:29:00.000Z</updated>
+        <summary type="html"><![CDATA[2025年01月09日，所有的事情，尘埃落定，因为最终在这个极大的裁员比例下，人到中年，我终于还是被裁了  开始谈的时候，没有了之前的惶恐，反而多出了一些解脱的意味，这个事情，终于要告一段落了，...]]></summary>
+        <author>
+            <name>北禾</name>
         </author>
     </entry>
     <entry>
@@ -3076,6 +3236,16 @@ The post Is Kubernetes Only for DevOps? appeared first on Collabnix.]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[关于选择]]></title>
+        <id>https://www.xingzou.org/p/888</id>
+        <link href="https://www.xingzou.org/p/888"/>
+        <updated>2025-01-04T02:50:00.000Z</updated>
+        <summary type="html"><![CDATA[2024年终究还是过去了，2025年的新年如期到来，想聊一聊过去很多年的一些选择，是怎么想和判断的，做一些记录  从过往的履历来看，过去很多年面临着一些选择，这些选择的结果影响了现在的生活，因为...]]></summary>
+        <author>
+            <name>北禾</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[蛮子五杀]]></title>
         <id>https://chegva.com/?p=6247</id>
         <link href="https://chegva.com/6247.html"/>
@@ -3429,6 +3599,16 @@ MBTI性格测试——INTP 学者型–聪颖机智的解决问题
         <summary type="html"><![CDATA[<blockquote></blockquote>]]></summary>
         <author>
             <name>杜老师说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024年终总结]]></title>
+        <id>https://lostdeer.xyz/?p=1272</id>
+        <link href="https://lostdeer.xyz/summary2024/"/>
+        <updated>2024-12-31T15:35:13.000Z</updated>
+        <summary type="html"><![CDATA[2023年终总结传送门：2023年终总结 前言 这是我做年终总结的第四个年头。 每年的12月31号，我总是坐在 […]]]></summary>
+        <author>
+            <name>Yuntian52</name>
         </author>
     </entry>
     <entry>
@@ -3864,6 +4044,16 @@ The post Top 4 Proxy Service Providers in 2024 appeared first on Collabnix.]]></
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2024]]></title>
+        <id>https://www.xingzou.org/p/884</id>
+        <link href="https://www.xingzou.org/p/884"/>
+        <updated>2024-12-31T08:52:00.000Z</updated>
+        <summary type="html"><![CDATA[2024年12月31日，今年的最后一天，按照以往的惯例，还是需要花点时间对过去的一年做一些复盘总结，也是便于记录先说工作  2024年确实是比较难的一年，难在于整个一年，在这种民营私营的小企业，...]]></summary>
+        <author>
+            <name>北禾</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Who uses Kubernetes?]]></title>
         <id>https://collabnix.com/?p=29728</id>
         <link href="https://collabnix.com/who-uses-kubernetes/"/>
@@ -4268,6 +4458,16 @@ The biggest event was my trip to Microsoft in November. It’s been nea…]]></s
 The post Is Kubernetes Hard to Learn? appeared first on Collabnix.]]></summary>
         <author>
             <name>Abraham Dahunsi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024读书总结]]></title>
+        <id>https://lostdeer.xyz/?p=1243</id>
+        <link href="https://lostdeer.xyz/summary2024-reading/"/>
+        <updated>2024-12-28T14:19:26.000Z</updated>
+        <summary type="html"><![CDATA[2023读书总结传送门：2023读书总结 与去年同样地，这是我2024年的读书记录总结。 由于今年欲望订单被细 […]]]></summary>
+        <author>
+            <name>Yuntian52</name>
         </author>
     </entry>
     <entry>
@@ -4849,6 +5049,16 @@ At its core, CSS wants to be a system and – besides its quirky selector power 
 The post Kube node metrics with Netdata Kubernetes monitoring appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[猝不及防]]></title>
+        <id>https://www.xingzou.org/p/873</id>
+        <link href="https://www.xingzou.org/p/873"/>
+        <updated>2024-12-23T06:26:00.000Z</updated>
+        <summary type="html"><![CDATA[临近过年，本以为不会有什么大的变化，能够安心做到过年，然后明年再来看怎么办  但是事情的变化，往往很难预知，大概才过去了不到两周，就面临很大的变化，这些变化还不预知  上面一顿骚操作，把一个几百...]]></summary>
+        <author>
+            <name>北禾</name>
         </author>
     </entry>
     <entry>
@@ -5528,6 +5738,16 @@ L7 流量在 Ambient 模式中的处理路径
 假设 productpage 应…]]></summary>
         <author>
             <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[记录一次面试]]></title>
+        <id>https://www.xingzou.org/p/869</id>
+        <link href="https://www.xingzou.org/p/869"/>
+        <updated>2024-12-12T07:34:00.000Z</updated>
+        <summary type="html"><![CDATA[在12月，终于还是忍不住出去面试了一次，是本地的一家随处可见的零售巨头，估值百亿，正处在风口浪尖，公司正蓬勃发展  和21年现在所在的这家公司一样，也是一轮又一轮融资  选了一个双休的周六，公司...]]></summary>
+        <author>
+            <name>北禾</name>
         </author>
     </entry>
     <entry>
@@ -8174,6 +8394,16 @@ The post 10 Best Docker Container Stacks I am using in 2024 appeared first on Vi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[变化]]></title>
+        <id>https://www.xingzou.org/p/867</id>
+        <link href="https://www.xingzou.org/p/867"/>
+        <updated>2024-11-18T07:13:00.000Z</updated>
+        <summary type="html"><![CDATA[等了挺久，终于在公司还是等来了项目可能不做了的消息，项目不做了，就意味着裁员失业或者换岗，去负责其他的事情来现在的这个公司快四年了，前面两年做一个项目，现在的这个项目是23年年初开始做的，持续到...]]></summary>
+        <author>
+            <name>北禾</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[前沿快讯 第62期 大语言模型Evo可在分子到基因组尺度进行预测和生成任务等]]></title>
         <id>https://blognas.hwb0307.com/other/6100</id>
         <link href="https://blognas.hwb0307.com/medicine/6100"/>
@@ -8335,149 +8565,6 @@ X200Pro就这样用把~
 周末的下午，还得加班…]]></summary>
         <author>
             <name>Andy烧麦 - 成熟，聪明，豁达的人什么也不问 过去，现在，将来…</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ollama vs. vLLM: Choosing the Best Tool for AI Model Workflows]]></title>
-        <id>https://collabnix.com/?p=28597</id>
-        <link href="https://collabnix.com/ollama-vs-vllm-choosing-the-best-tool-for-ai-model-workflows/"/>
-        <updated>2024-11-16T12:09:30.000Z</updated>
-        <summary type="html"><![CDATA[As AI models grow in size and complexity, tools like vLLM and Ollama have emerged to address different aspects of serving and interacting with large language models (LLMs). While vLLM focuses on high-performance inference for scalable AI deployments, Ollama simplifies local inference for developers and researchers. This blog takes a deep dive into their architectures, use cases, and performance, complete with code snippets […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Guide to Top LLMs for 2024: Speed, Accuracy, and Value]]></title>
-        <id>https://collabnix.com/?p=28436</id>
-        <link href="https://collabnix.com/the-ultimate-guide-to-top-llms-for-2024-speed-accuracy-and-value/"/>
-        <updated>2024-11-16T10:03:29.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Large Language Models (LLMs) have revolutionized the field of artificial intelligence, enabling machines to understand, interpret, and generate human-like text with unprecedented accuracy. As we enter 2024, the landscape of LLMs continues to evolve at breakneck speed, with new models emerging regularly. In this comprehensive guide, we’ll explore the top-performing LLMs of 2024, highlighting […]]]></summary>
-        <author>
-            <name>Adesoji Alu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cracking the Code: Estimating GPU Memory for Large Language Models]]></title>
-        <id>https://collabnix.com/?p=28439</id>
-        <link href="https://collabnix.com/cracking-the-code-estimating-gpu-memory-for-large-language-models/"/>
-        <updated>2024-11-16T09:48:17.000Z</updated>
-        <summary type="html"><![CDATA[As AI enthusiasts and developers, we’ve all encountered the daunting task of deploying Large Language Models (LLMs). One crucial aspect of this process is estimating the GPU memory required to serve these massive models efficiently. Let’s explore the fascinating world of LLM deployment and explore how to calculate the GPU memory needed for your AI […]]]></summary>
-        <author>
-            <name>Adesoji Alu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows Server 2025 Proxmox Packer Build Fully Automated]]></title>
-        <id>https://www.virtualizationhowto.com/?p=297945</id>
-        <link href="https://www.virtualizationhowto.com/2024/11/windows-server-2025-proxmox-packer-build-fully-automated/"/>
-        <updated>2024-11-15T21:51:53.000Z</updated>
-        <summary type="html"><![CDATA[Since updating my VMware vSphere Packer build template for Windows Server 2025 (you can read that here: Windows Server 2025 Packer Build for VMware vSphere), I decided to tackle Proxmox, which wasn’t as straightforward. I wanted to share with you what I have come up with for automated installations of Windows Server 2025 in Proxmox …
-The post Windows Server 2025 Proxmox Packer Build Fully Automated appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么中国人不喜欢逻辑学]]></title>
-        <id>https://hyruo.com/article/why-does-not-chinese-need-logic/</id>
-        <link href="https://hyruo.com/article/why-does-not-chinese-need-logic/"/>
-        <updated>2024-11-14T14:40:00.000Z</updated>
-        <summary type="html"><![CDATA[现在很多人习惯采用两分法来观察世界，非左即右，非黑即白，非此即彼。例如，对于人的划分，习惯分为文科生、理科生。而对于文科生的典型刻板印象就是不讲逻辑。
-套娃两分法
-
-两分法，作为一种简单的世界观，对于大多数老百姓来说也够用了。毕竟生活不易，真没那么多时间去研究真实世界到底咋样。
-因此不少人会在两分法基础上，不断套娃下去。例如，在将人群区分为文科生、理科生之后，进一步把是否懂逻辑、是否信科学、是否够客观等具像条件也按两分法往前者身上套。
-由此衍生出一个中文互联网上的怪异现象，一些人刻板地认为文科生不懂逻辑、不讲科学、不够客观。
-
-阴谋论
-
-对于文科不讲逻辑这个问题，有一个常见的阴谋论。宣称有一只无形的手在操纵着中国教育界，故意把逻辑学从人文社科中摘出去。认为一旦人文社科掌握了逻辑学，就会威胁到无形大手的存在。
-我不知道信这种阴谋论的人，有没有真正学过马哲。在整个中国的文科教育中，马哲无疑是最为重要的学科之一。在马哲里边，包括后续中特在内的整个思政教育中，因果关系、矛盾论、实践论、系统性原理、客观性原理以及发展与变化原理都是最基础的工具，无一不蕴含逻辑学的方法论。
-
-不讲逻辑是老百姓遵循实践论的自然选择
-
-逻辑学的推论过程，对于普通人来说有很大难处。例如，对于司法案件的推理，需要在掌握案件全面信息的基础上，经过冗长的逻辑推导才能得出裁判结论，但老百姓可顾不上那么多，他们要的是直观的结果。
-我们知道，司法有两个正义，一个程序正义，一个结果正义。结果正义很直观，老百姓都懂。但程序正义就复杂了，一般法律人都搞不懂，更何况普通老百姓。
-也就是因为程序正义复杂，因此操作空间很大，加上一堆屎山代码，时不时就出点幺蛾子，导致老百姓更难信任。
-通常来说，司法程序里边有四个环节容易出问题：一是跌人眼镜的证据认定，二是稀奇古怪的法律规则适用，三是莫名其妙的法律原则，四是自由心证或者说自由裁量权的使…]]></summary>
-        <author>
-            <name>法律小茶馆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[为什么中国人不喜欢逻辑学]]></title>
-        <id>https://hyruo.com/editor/why-does-not-chinese-need-logic/</id>
-        <link href="https://hyruo.com/editor/why-does-not-chinese-need-logic/"/>
-        <updated>2024-11-14T14:40:00.000Z</updated>
-        <summary type="html"><![CDATA[现在很多人习惯采用两分法来观察世界，非左即右，非黑即白，非此即彼。例如，对于人的划分，习惯分为文科生、理科生。而对于文科生的典型刻板印象就是不讲逻辑。
-套娃两分法
-
-两分法，作为一种简单的世界观，对于大多数老百姓来说也够用了。毕竟生活不易，真没那么多时间去研究真实世界到底咋样。
-因此不少人会在两分法基础上，不断套娃下去。例如，在将人群区分为文科生、理科生之后，进一步把是否懂逻辑、是否信科学、是否够客观等具像条件也按两分法往前者身上套。
-由此衍生出一个中文互联网上的怪异现象，一些人刻板地认为文科生不懂逻辑、不讲科学、不够客观。
-
-阴谋论
-
-对于文科不讲逻辑这个问题，有一个常见的阴谋论。宣称有一只无形的手在操纵着中国教育界，故意把逻辑学从人文社科中摘出去。认为一旦人文社科掌握了逻辑学，就会威胁到无形大手的存在。
-我不知道信这种阴谋论的人，有没有真正学过马哲。在整个中国的文科教育中，马哲无疑是最为重要的学科之一。在马哲里边，包括后续中特在内的整个思政教育中，因果关系、矛盾论、实践论、系统性原理、客观性原理以及发展与变化原理都是最基础的工具，无一不蕴含逻辑学的方法论。
-
-不讲逻辑是老百姓遵循实践论的自然选择
-
-逻辑学的推论过程，对于普通人来说有很大难处。例如，对于司法案件的推理，需要在掌握案件全面信息的基础上，经过冗长的逻辑推导才能得出裁判结论，但老百姓可顾不上那么多，他们要的是直观的结果。
-我们知道，司法有两个正义，一个程序正义，一个结果正义。结果正义很直观，老百姓都懂。但程序正义就复杂了，一般法律人都搞不懂，更何况普通老百姓。
-也就是因为程序正义复杂，因此操作空间很大，加上一堆屎山代码，时不时就出点幺蛾子，导致老百姓更难信任。
-通常来说，司法程序里边有四个环节容易出问题：一是跌人眼镜的证据认定，二是稀奇古怪的法律规则适用，三是莫名其妙的法律原则，四是自由心证或者说自由裁量权的使…]]></summary>
-        <author>
-            <name>法律小茶馆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[广州一日游]]></title>
-        <id>https://hyruo.com/article/tour-guangzhou/</id>
-        <link href="https://hyruo.com/article/tour-guangzhou/"/>
-        <updated>2024-11-13T08:40:00.000Z</updated>
-        <summary type="html"><![CDATA[有几个月没去广州了，最近刚好有同事说还没去过广州塔，所以陪着他们一起到广州一日游。
-说是一天吧，其实时间也不长，就沿着天河中轴线转了一下，先后去了广东省博物馆、永庆坊和广州塔。之所以最后选择去广州塔，是想着买傍晚时间的门票能够同时看到广州的日景和夜景。
-
-
-
-
-
-
-
-
-
-
-
-
-广东省博物馆算是我所去过的省级博物馆里面排名倒数第一的，实在是乏善可陈，乃至于现代工艺品都能被当成镇馆之宝。整个博物馆里面人文元素实在是过于匮乏，基本都是以近现代工艺品和自然矿产作为主角，很多人讲广东是中国的文化沙漠，恐怕也不无道理。]]></summary>
-        <author>
-            <name>法律小茶馆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[广州一日游]]></title>
-        <id>https://hyruo.com/editor/tour-guangzhou/</id>
-        <link href="https://hyruo.com/editor/tour-guangzhou/"/>
-        <updated>2024-11-13T08:40:00.000Z</updated>
-        <summary type="html"><![CDATA[有几个月没去广州了，最近刚好有同事说还没去过广州塔，所以陪着他们一起到广州一日游。
-说是一天吧，其实时间也不长，就沿着天河中轴线转了一下，先后去了广东省博物馆、永庆坊和广州塔。之所以最后选择去广州塔，是想着买傍晚时间的门票能够同时看到广州的日景和夜景。
-
-
-
-
-
-
-
-
-
-
-
-
-广东省博物馆算是我所去过的省级博物馆里面排名倒数第一的，实在是乏善可陈，乃至于现代工艺品都能被当成镇馆之宝。整个博物馆里面人文元素实在是过于匮乏，基本都是以近现代工艺品和自然矿产作为主角，很多人讲广东是中国的文化沙漠，恐怕也不无道理。]]></summary>
-        <author>
-            <name>法律小茶馆</name>
         </author>
     </entry>
 </feed>

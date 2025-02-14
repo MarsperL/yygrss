@@ -412,6 +412,16 @@
       "siteUrl": "https://lawtee.com/",
       "articles": [
         {
+          "id": "https://lawtee.com/article/ai-enslaving-humanity/",
+          "author": null,
+          "description": "随着 DeepSeek 搅动全世界对 AI 的认知，越来越多企业和个人开始接入 AI ，AI 平民化应用时代也全面开启。此前，我使用 AI 主要还是在技术领域，比如本博客上最近一年多来，几乎所有包含代码的内容，都是在个人引导下由 AI 所写，但随着 AI 开始深入渗透社会各阶层、各类型人群，无数技术以外的 AI 需求涌入，AI 这个形象也越来越显得“妖孽”。不禁让我感觉一阵寒意。\n人类开始逐渐需要迎合 AI 的思考\n\n以往对于 AI 的恐惧，主要是“隐私”问题。但讲实话，隐私这个词，对大多数中国人可能是无感的。因为众所周知的原因，不管是社交媒体发言、街头监控摄像头还是手机上各类无所不用其极的获取用户权限的 APP ，都让普通人对“隐私”议题早已麻木。\n不过，大家以往对这种隐私问题之所以漠视，很大程度在于每一项可以获取用户隐私的服务、每一个产品背后都有着巨量的用户隐私数据，多你一个不多，少你一个不少，个体的隐私夹在在巨量隐私数据中间，显得无足轻重。毕竟，想要对个体隐私数据进行提取分析真不是个容易的事，背后往往需要耗费很大的人力去进行数据分析才能得出某些结论，而这种分析往往都是事后的。如果不是有诸如犯罪调查或者诉讼取证等需要，一般都是不用担心的。\n但 AI 完全改变了这个格局。\n此前，我在 Github 上已看到过一些项目。例如，借助自动化程序，对微信中某指定用户的聊天记录及上下文信息进行提取。然后使用 ChatGPT 对用户聊天内容进行分析，在提取的聊天记录达到一定数量时，几乎可以 100% 分析出用户的政治倾向、性格、知识层次，并可以大致推断用户的年龄、学历、家庭背景、职业、所处地域等信息。\nDeepSeek 的推理则更上一层楼。例如，我截了几张与朋友 A 的微信聊天记录让 DeepSeek 网页版进行简单分析，结果如下：\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n …",
+          "link": "https://lawtee.com/article/ai-enslaving-humanity/",
+          "publishedOn": "2025-02-13T05:30:00.000Z",
+          "wordCount": 340,
+          "title": "如果法律不阻止，Ai 奴役人类的局面可能会加速到来",
+          "imageUrl": "https://lawtee.com/article/ai-enslaving-humanity/00.webp"
+        },
+        {
           "id": "https://lawtee.com/article/soomal-mirror/",
           "author": null,
           "description": "去年 7 月，运营了 15 年的 Soomal （数毛、数码多） 终于撑不住开始专攻新媒体平台。在知道这个消息后，感觉心里空落落的，毕竟这是一个从我大学开始就一直陪伴多年的网站。好在前天上午看蛋总终于把网站镜像打包上传，于是便下载部署了镜像网站 Soomal.cc 。\n关于 Soomal 停止运营这件事\n\n简单说，Soomal 开局就跟本站一样，是一个单纯的个人博客，但在互联网早期，个人博客还是新鲜事物，容易聚起一群志同道合的人。于是在网友建议下 Soomal 开始转型专攻音频设备评测，到智能手机兴起后，进一步将网站主题转向手机音频、摄像等方面。截至目前，已经累积了上万评测报告。一步步见证着国产设备的崛起。\n最近几年，由于移动互联网攻势迅猛，传统网站流量逐渐凋零，于是 Soomal 开始转型新媒体平台，包括微信公众号和短视频平台等。\n但我始终觉得，保留网站这种形式跟转型新媒体并不存在冲突。也在微信群多次聊起这个事情。主要的冲突在于，Soomal 原网站架构陈旧，更新起来麻烦。加之网站越来越大，成本不小，访问量和收益却很难看到，所以拉扯下来，最终还是选择关停，不得不说是个遗憾。\n关于 Soomal.cc 镜像网站\n\n本来我想使用全免费方案制作 Soomal 镜像网站，但后来考虑到免费域名的稳定性，还是注册了 soomal.cc 这个域名，一次性缴费 10 年，正常来说，到 2035 年之前都能持续访问。\n在服务器方面，目前使用的是甲骨文 1c1g 的终身免费服务器，默认每个月流量 10TB，同时启用 Cloudflare 免费 CDN 进行保护。由于是静态网站，对服务器消耗倒是基本没有。\n需要注意的是，soomal 原镜像有 64GB，而甲骨文 1c1g 免费服务器却只默认分配了 50GB 空间，所以我在下载镜像后，将全站所有图片都转换为 webp 格式。转换后，整体网站容量下降到 30GB，刚好可以在甲骨文服务器上运行。\n关于后期维护\n\n目前 Soomal.cc 镜像已可以正常运行，我同时在考虑新的方案，确保镜像能够稳定运行 10 年以上。\n将网站原有架构更改为 Hugo，进一步优化网站空间。主要考虑到原来网站架构过于陈旧，像文字搜索等很多功能没法实现。\n将网站内容与图片分离，内容上传到 Github，图片上传到 Cloudflare 或其他国外免费图床。\n但由于网站文件数量庞大，这可能需要一定很长时间才能完成。例如，此前在将图片转换为 webp 过程中就耗费了我两天时间。",
@@ -790,46 +800,6 @@
           "wordCount": 253,
           "title": "如何预防个人极端案事件",
           "imageUrl": "https://hyruo.com/article/how-to-prevent-personal-extremist-incidents/7.webp"
-        },
-        {
-          "id": "https://hyruo.com/article/why-does-not-chinese-need-logic/",
-          "author": null,
-          "description": "现在很多人习惯采用两分法来观察世界，非左即右，非黑即白，非此即彼。例如，对于人的划分，习惯分为文科生、理科生。而对于文科生的典型刻板印象就是不讲逻辑。\n套娃两分法\n\n两分法，作为一种简单的世界观，对于大多数老百姓来说也够用了。毕竟生活不易，真没那么多时间去研究真实世界到底咋样。\n因此不少人会在两分法基础上，不断套娃下去。例如，在将人群区分为文科生、理科生之后，进一步把是否懂逻辑、是否信科学、是否够客观等具像条件也按两分法往前者身上套。\n由此衍生出一个中文互联网上的怪异现象，一些人刻板地认为文科生不懂逻辑、不讲科学、不够客观。\n\n阴谋论\n\n对于文科不讲逻辑这个问题，有一个常见的阴谋论。宣称有一只无形的手在操纵着中国教育界，故意把逻辑学从人文社科中摘出去。认为一旦人文社科掌握了逻辑学，就会威胁到无形大手的存在。\n我不知道信这种阴谋论的人，有没有真正学过马哲。在整个中国的文科教育中，马哲无疑是最为重要的学科之一。在马哲里边，包括后续中特在内的整个思政教育中，因果关系、矛盾论、实践论、系统性原理、客观性原理以及发展与变化原理都是最基础的工具，无一不蕴含逻辑学的方法论。\n\n不讲逻辑是老百姓遵循实践论的自然选择\n\n逻辑学的推论过程，对于普通人来说有很大难处。例如，对于司法案件的推理，需要在掌握案件全面信息的基础上，经过冗长的逻辑推导才能得出裁判结论，但老百姓可顾不上那么多，他们要的是直观的结果。\n我们知道，司法有两个正义，一个程序正义，一个结果正义。结果正义很直观，老百姓都懂。但程序正义就复杂了，一般法律人都搞不懂，更何况普通老百姓。\n也就是因为程序正义复杂，因此操作空间很大，加上一堆屎山代码，时不时就出点幺蛾子，导致老百姓更难信任。\n通常来说，司法程序里边有四个环节容易出问题：一是跌人眼镜的证据认定，二是稀奇古怪的法律规则适用，三是莫名其妙的法律原则，四是自由心证或者说自由裁量权的使…",
-          "link": "https://hyruo.com/article/why-does-not-chinese-need-logic/",
-          "publishedOn": "2024-11-14T14:40:00.000Z",
-          "wordCount": 112,
-          "title": "为什么中国人不喜欢逻辑学",
-          "imageUrl": "https://hyruo.com/article/why-does-not-chinese-need-logic/pexels-photo-7944783.jpeg"
-        },
-        {
-          "id": "https://hyruo.com/editor/why-does-not-chinese-need-logic/",
-          "author": null,
-          "description": "现在很多人习惯采用两分法来观察世界，非左即右，非黑即白，非此即彼。例如，对于人的划分，习惯分为文科生、理科生。而对于文科生的典型刻板印象就是不讲逻辑。\n套娃两分法\n\n两分法，作为一种简单的世界观，对于大多数老百姓来说也够用了。毕竟生活不易，真没那么多时间去研究真实世界到底咋样。\n因此不少人会在两分法基础上，不断套娃下去。例如，在将人群区分为文科生、理科生之后，进一步把是否懂逻辑、是否信科学、是否够客观等具像条件也按两分法往前者身上套。\n由此衍生出一个中文互联网上的怪异现象，一些人刻板地认为文科生不懂逻辑、不讲科学、不够客观。\n\n阴谋论\n\n对于文科不讲逻辑这个问题，有一个常见的阴谋论。宣称有一只无形的手在操纵着中国教育界，故意把逻辑学从人文社科中摘出去。认为一旦人文社科掌握了逻辑学，就会威胁到无形大手的存在。\n我不知道信这种阴谋论的人，有没有真正学过马哲。在整个中国的文科教育中，马哲无疑是最为重要的学科之一。在马哲里边，包括后续中特在内的整个思政教育中，因果关系、矛盾论、实践论、系统性原理、客观性原理以及发展与变化原理都是最基础的工具，无一不蕴含逻辑学的方法论。\n\n不讲逻辑是老百姓遵循实践论的自然选择\n\n逻辑学的推论过程，对于普通人来说有很大难处。例如，对于司法案件的推理，需要在掌握案件全面信息的基础上，经过冗长的逻辑推导才能得出裁判结论，但老百姓可顾不上那么多，他们要的是直观的结果。\n我们知道，司法有两个正义，一个程序正义，一个结果正义。结果正义很直观，老百姓都懂。但程序正义就复杂了，一般法律人都搞不懂，更何况普通老百姓。\n也就是因为程序正义复杂，因此操作空间很大，加上一堆屎山代码，时不时就出点幺蛾子，导致老百姓更难信任。\n通常来说，司法程序里边有四个环节容易出问题：一是跌人眼镜的证据认定，二是稀奇古怪的法律规则适用，三是莫名其妙的法律原则，四是自由心证或者说自由裁量权的使…",
-          "link": "https://hyruo.com/editor/why-does-not-chinese-need-logic/",
-          "publishedOn": "2024-11-14T14:40:00.000Z",
-          "wordCount": 112,
-          "title": "为什么中国人不喜欢逻辑学",
-          "imageUrl": "https://hyruo.com/editor/why-does-not-chinese-need-logic/pexels-photo-7944783.jpeg"
-        },
-        {
-          "id": "https://hyruo.com/article/tour-guangzhou/",
-          "author": null,
-          "description": "有几个月没去广州了，最近刚好有同事说还没去过广州塔，所以陪着他们一起到广州一日游。\n说是一天吧，其实时间也不长，就沿着天河中轴线转了一下，先后去了广东省博物馆、永庆坊和广州塔。之所以最后选择去广州塔，是想着买傍晚时间的门票能够同时看到广州的日景和夜景。\n\n\n\n\n\n\n\n\n\n\n\n\n广东省博物馆算是我所去过的省级博物馆里面排名倒数第一的，实在是乏善可陈，乃至于现代工艺品都能被当成镇馆之宝。整个博物馆里面人文元素实在是过于匮乏，基本都是以近现代工艺品和自然矿产作为主角，很多人讲广东是中国的文化沙漠，恐怕也不无道理。",
-          "link": "https://hyruo.com/article/tour-guangzhou/",
-          "publishedOn": "2024-11-13T08:40:00.000Z",
-          "wordCount": 93,
-          "title": "广州一日游",
-          "imageUrl": "https://hyruo.com/article/tour-guangzhou/6kCmZSyiOTX6Zdjr.webp"
-        },
-        {
-          "id": "https://hyruo.com/editor/tour-guangzhou/",
-          "author": null,
-          "description": "有几个月没去广州了，最近刚好有同事说还没去过广州塔，所以陪着他们一起到广州一日游。\n说是一天吧，其实时间也不长，就沿着天河中轴线转了一下，先后去了广东省博物馆、永庆坊和广州塔。之所以最后选择去广州塔，是想着买傍晚时间的门票能够同时看到广州的日景和夜景。\n\n\n\n\n\n\n\n\n\n\n\n\n广东省博物馆算是我所去过的省级博物馆里面排名倒数第一的，实在是乏善可陈，乃至于现代工艺品都能被当成镇馆之宝。整个博物馆里面人文元素实在是过于匮乏，基本都是以近现代工艺品和自然矿产作为主角，很多人讲广东是中国的文化沙漠，恐怕也不无道理。",
-          "link": "https://hyruo.com/editor/tour-guangzhou/",
-          "publishedOn": "2024-11-13T08:40:00.000Z",
-          "wordCount": 93,
-          "title": "广州一日游",
-          "imageUrl": "https://hyruo.com/editor/tour-guangzhou/6kCmZSyiOTX6Zdjr.webp"
         }
       ]
     },
@@ -1445,6 +1415,16 @@
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
         {
+          "id": "https://jimmysong.io/blog/istio-ambient-terminology/",
+          "author": "Jimmy Song",
+          "description": "Istio 的 Ambient 模式是一种创新的、无 Sidecar 的服务网格部署方式，通过 ztunnel 和 waypoint proxy 分离数据平面功能，简化了操作并降低了资源消耗。本篇博客将通过一份详细的术语表，帮助你更好地理解 Istio Ambient 模式中的关键概念及其背后的技术实现。\nAmbient 模式\nAmbient 模式架构图\n  \n\n\n定义：Istio 的一种无 Sidecar 的数据平面模式，通过 ztunnel 和 waypoint proxy 实现服务之间的安全通信和管理。相较于 Sidecar 模式，Ambient 模式更加轻量，降低了资源消耗并简化了配置。\n架构：数据平面功能分为 L4 层的安全覆盖层（由 ztunnel 提供）和 L7 层的策略处理层（由 waypoint proxy 提供）。\n控制平面与数据平面\n控制平面与数据平面\n  \n\n\n定义：在 Ambient 模式中，控制平面（istiod）负责管理集群内 ztunnel 和 waypoint proxy 的配置和策略，而数据平面由 ztunnel 和 waypoint proxy 组成，负责处理实际的网络流量。\n组件交互：ztunnel 使用 xDS APIs 从 istiod 获取配置并执行策略，管理 Pod 之间的 L4 和 L7 流量。\nIstio Control Plane (istiod)\n定义：Istio 的控制平面组件，负责与 ztunnel 和 waypoint proxy 通信，提供 xDS 接口用于动态配置。\n功能：istiod 使用 xDS APIs 进行配置推送，动态管理 Ambient 模式中的流量策略、证书分发以及与 Kubernetes 集群的交互。\n透明性与非侵入性\n定义：Ambient 模式的架构旨在减少对应用的侵入性，应用无需感知数据平…",
+          "link": "https://jimmysong.io/blog/istio-ambient-terminology/",
+          "publishedOn": "2025-02-13T10:20:14.000Z",
+          "wordCount": 922,
+          "title": "Istio Ambient 模式：图解及概念解读",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
+        },
+        {
           "id": "https://jimmysong.io/blog/free-ai-drawing-tool-raphael/",
           "author": "Jimmy Song",
           "description": "在如今各种 AI 工具层出不穷的时代，找到一个好用又免费的绘图工具真的不容易。而 Raphael.app 就是一款非常值得一试的 AI 绘图工具。它简单易用，而且用英文提示词就能生成效果不错的图片。\nRaphael.app 页面\n  \n\nRaphael 简介\n这款以文艺复兴三杰之一拉斐尔（Raphael，全名：Raffaello Sanzio da Urbino，1483 年 4 月 6 日－1520 年 4 月 6 日）命名的工具，有以下特点：\n完全免费：市面上很多 AI 绘图工具要么功能受限，要么需要订阅才能解锁更多功能，而 Raphael 完全免费（至少到撰写本文为止，网站中承诺免费），无需付费也能用它创造出不错的作品。\n支持英文提示：只需要用英文简单描述你想要的图片，比如“A cat-like colorful cat”，Raphael 就可以根据提示生成对应的画面。\n效果还不错：虽然和一些高端付费工具相比还有提升空间，但 Raphael 生成的图片已经足够让人满意了，尤其对于新手或尝试 AI 绘图的人来说，它完全够用。\n谁适合用 Raphael？\n艺术爱好者：可以用它来寻找创作灵感。\n内容创作者：为博客、视频或社交媒体增加独特的视觉元素。\n学生和老师：为作业或课件增添一些创意。\nAI 绘图初学者：零成本尝试 AI 艺术创作。\n如何使用？\n操作非常简单：\n打开 raphael.app，无需注册或登录。\n输入你想要的图片描述，用英文提示词效果会更好。\n点击“生成”，等待 10 秒钟左右 AI 生成图片，这一步可能需要经过 CloudFlare 的自动人机验证。\n你还可以选择对生成的图片进行精修。\n下载或者直接分享生成的作品。\n使用 Raphael 生成的图片（一只长的像猫的五彩缤纷的鸟）\n  \n\n总结\nRaphael 是一个用起来特别方便的 AI 绘图工具，既免费又能生成效果不错的图片。不管你是想找灵感还是单纯玩玩 AI，都非常值得一试。",
@@ -1642,6 +1622,16 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://nops.icu/archives/193/",
+          "author": "季兴",
+          "description": "deepseek的爆火，官网验证后效果确实不错，中文能力强，“会说人话”。唯一缺陷是经常服务器繁忙，本地使用ollama即可下载使用，因为要详细压测，下载了不同尺寸的所有模型。此方法不止适用de...",
+          "link": "https://nops.icu/archives/193/",
+          "publishedOn": "2025-02-13T03:02:00.000Z",
+          "wordCount": 560,
+          "title": "deepseek模型加速下载",
+          "imageUrl": null
+        },
+        {
           "id": "https://nops.icu/archives/184/",
           "author": "季兴",
           "description": "由多个agent组成的SRE专家组，代替人工进行准确的故障分析！👽流程：从用户输入取时间范围（支持上传图片）、路由--》查询日志中心--》获取网关中cmdb信息--》查询CMDB获取更多细节（o...",
@@ -1838,6 +1828,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=299364",
+          "author": "Brandon Lee",
+          "description": "Proxmox has many healthy options for storage that allow you to to solve many challenges and run your business critical workloads or home lab environments in a way that is resilient and gives you many options. Let’s look at Proxmox pooled storage options to consider, why you should consider them and how you configure it. …\nThe post 5 Proxmox Pooled Storage Options and How to Configure them appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/02/5-proxmox-pooled-storage-options-and-how-to-configure-them/",
+          "publishedOn": "2025-02-13T18:44:39.000Z",
+          "wordCount": 11022,
+          "title": "5 Proxmox Pooled Storage Options and How to Configure them",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/Proxmox-pooled-storage-options.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=299339",
           "author": "Brandon Lee",
@@ -2447,16 +2447,6 @@
           "wordCount": 11331,
           "title": "10 Best Docker Container Stacks I am using in 2024",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/11/Best-Docker-Container-Stacks.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=297945",
-          "author": "Brandon Lee",
-          "description": "Since updating my VMware vSphere Packer build template for Windows Server 2025 (you can read that here: Windows Server 2025 Packer Build for VMware vSphere), I decided to tackle Proxmox, which wasn’t as straightforward. I wanted to share with you what I have come up with for automated installations of Windows Server 2025 in Proxmox …\nThe post Windows Server 2025 Proxmox Packer Build Fully Automated appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2024/11/windows-server-2025-proxmox-packer-build-fully-automated/",
-          "publishedOn": "2024-11-15T21:51:53.000Z",
-          "wordCount": 12239,
-          "title": "Windows Server 2025 Proxmox Packer Build Fully Automated",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/11/windows-server-2025-proxmox-packer-build.jpg"
         }
       ]
     },
@@ -2465,6 +2455,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=30431",
+          "author": "Ajeet Raina",
+          "description": "In today’s fast-paced dynamic developmental landscape, managing repositories and performing file operations on GitHub can often become a tedious chore. What if you could automate and simplify these tasks with just a single tool? This brings us to GitHub MCP Server. What is GitHub MCP Server? Model Context Protocol (MCP)  is an open protocol that […]",
+          "link": "https://collabnix.com/github-mcp-server-docker-and-claude-desktop/",
+          "publishedOn": "2025-02-13T11:11:13.000Z",
+          "wordCount": 2929,
+          "title": "GitHub MCP Server, Docker and Claude Desktop",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=30414",
           "author": "Adesoji Alu",
@@ -3694,36 +3694,6 @@
           "wordCount": 2782,
           "title": "The Most Enticing Online Gaming Websites for DevOps Enthusiasts",
           "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/11/Screenshot-2024-11-18-at-12.52.56%E2%80%AFPM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=28597",
-          "author": "Tanvir Kour",
-          "description": "As AI models grow in size and complexity, tools like vLLM and Ollama have emerged to address different aspects of serving and interacting with large language models (LLMs). While vLLM focuses on high-performance inference for scalable AI deployments, Ollama simplifies local inference for developers and researchers. This blog takes a deep dive into their architectures, use cases, and performance, complete with code snippets […]",
-          "link": "https://collabnix.com/ollama-vs-vllm-choosing-the-best-tool-for-ai-model-workflows/",
-          "publishedOn": "2024-11-16T12:09:30.000Z",
-          "wordCount": 2584,
-          "title": "Ollama vs. vLLM: Choosing the Best Tool for AI Model Workflows",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/11/Teal-Futuristic-Technology-Facebook-Cover-2.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=28436",
-          "author": "Adesoji Alu",
-          "description": "Introduction Large Language Models (LLMs) have revolutionized the field of artificial intelligence, enabling machines to understand, interpret, and generate human-like text with unprecedented accuracy. As we enter 2024, the landscape of LLMs continues to evolve at breakneck speed, with new models emerging regularly. In this comprehensive guide, we’ll explore the top-performing LLMs of 2024, highlighting […]",
-          "link": "https://collabnix.com/the-ultimate-guide-to-top-llms-for-2024-speed-accuracy-and-value/",
-          "publishedOn": "2024-11-16T10:03:29.000Z",
-          "wordCount": 2894,
-          "title": "The Ultimate Guide to Top LLMs for 2024: Speed, Accuracy, and Value",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/11/Teal-Futuristic-Technology-Facebook-Cover-1.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=28439",
-          "author": "Adesoji Alu",
-          "description": "As AI enthusiasts and developers, we’ve all encountered the daunting task of deploying Large Language Models (LLMs). One crucial aspect of this process is estimating the GPU memory required to serve these massive models efficiently. Let’s explore the fascinating world of LLM deployment and explore how to calculate the GPU memory needed for your AI […]",
-          "link": "https://collabnix.com/cracking-the-code-estimating-gpu-memory-for-large-language-models/",
-          "publishedOn": "2024-11-16T09:48:17.000Z",
-          "wordCount": 2859,
-          "title": "Cracking the Code: Estimating GPU Memory for Large Language Models",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/11/Teal-Futuristic-Technology-Facebook-Cover.png"
         }
       ]
     },
@@ -4466,6 +4436,16 @@
       "feedUrl": "https://dusays.com/atom.xml",
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
+        {
+          "id": "https://dusays.com/799/",
+          "author": null,
+          "description": "<blockquote>\n<p>在当今数字化时代，容器技术已经成为软件开发和部署中不可或缺的一部分。Docker 作为容器化领域的佼佼者，其强大的功能和灵活性，赢得众多开发者的青睐。然而，对于许多用户来说，Docker 的命令行操作可能显得有些复杂和繁琐。幸运的是，DPanel 的出现为 Docker 的管理和使用带来了全新的体验。</p>\n</blockquote>",
+          "link": "https://dusays.com/799/",
+          "publishedOn": "2025-02-13T16:00:00.000Z",
+          "wordCount": 1473,
+          "title": "DPanel 让 Docker 管理变得轻松又高效",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
         {
           "id": "https://dusays.com/798/",
           "author": null,
@@ -5357,6 +5337,16 @@
       "siteUrl": "https://panzhixiang.cn/atom.xml",
       "articles": [
         {
+          "id": "https://panzhixiang.cn/2025/pension-deepseek/",
+          "author": null,
+          "description": "退休养老金到底能领多少？ 别再猜了！ 这篇博客用DeepSeek大模型，结合真实案例，详细计算你的退休金，公式详解+案例分析，提前规划养老无忧！",
+          "link": "https://panzhixiang.cn/2025/pension-deepseek/",
+          "publishedOn": "2025-02-12T16:00:00.000Z",
+          "wordCount": 234,
+          "title": "月薪 25000 可以领多少退休金？DeepSeek 告诉你！",
+          "imageUrl": "https://blog.panzhixiang.cn/images/pension-deepseek-1.png"
+        },
+        {
           "id": "https://panzhixiang.cn/2025/nezha/",
           "author": null,
           "description": "在这篇文章中，我们探讨了《哪吒2》的观影体验以及其与中国神话体系的深厚关联，特别是与《封神演义》中的重要角色如元始天尊、通天教主的关系。结合AI工具DeepSeek R1的使用，本文还分析了如何快速构建人物关系图，并揭示了阐教、截教与西方教的教义差异。探索古代神话与现代技术的交融，带您重温中国传统文化的魅力。",
@@ -5470,6 +5460,16 @@
       "siteUrl": "http://zhangguanzhang.github.io/atom.xml",
       "articles": [
         {
+          "id": "http://zhangguanzhang.github.io/2025/02/13/clickhouse-arm64-v8.0-build/",
+          "author": null,
+          "description": "<p>clickhouse 官方 docker 镜像无法在老的 arm64 cpu 上运行，需要编译</p>",
+          "link": "http://zhangguanzhang.github.io/2025/02/13/clickhouse-arm64-v8.0-build/",
+          "publishedOn": "2025-02-13T12:10:30.000Z",
+          "wordCount": 4807,
+          "title": "给鲲鹏920和低版本飞腾编译arm64 clickhouse",
+          "imageUrl": null
+        },
+        {
           "id": "http://zhangguanzhang.github.io/2025/01/08/docker-login-hang/",
           "author": null,
           "description": "<p>docker login 和 pod 拉取镜像非常慢的排查</p>",
@@ -5550,6 +5550,16 @@
       "feedUrl": "https://www.readysetvirtual.com/feed",
       "siteUrl": "https://www.readysetvirtual.com",
       "articles": [
+        {
+          "id": "https://www.readysetvirtual.com/?p=1707",
+          "author": "Keiran Shelden",
+          "description": "With technology ever-changing, and businesses continuously facing security challenges, services such as Azure and AWS need to keep",
+          "link": "https://www.readysetvirtual.com/2025/02/13/veeam-365-missing-application-permissions/",
+          "publishedOn": "2025-02-13T11:26:06.000Z",
+          "wordCount": 2568,
+          "title": "Veeam 365 – Missing Application Permissions",
+          "imageUrl": null
+        },
         {
           "id": "https://www.readysetvirtual.com/?p=1685",
           "author": "Keiran Shelden",
@@ -5862,6 +5872,120 @@
           "wordCount": 1309,
           "title": "Linux 的性能分析（Perf）实现探究",
           "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "关于行走",
+      "feedUrl": "https://www.xingzou.org/feed",
+      "siteUrl": "https://www.xingzou.org/",
+      "articles": [
+        {
+          "id": "https://www.xingzou.org/p/895",
+          "author": "北禾",
+          "description": "2025年01月09日，所有的事情，尘埃落定，因为最终在这个极大的裁员比例下，人到中年，我终于还是被裁了  开始谈的时候，没有了之前的惶恐，反而多出了一些解脱的意味，这个事情，终于要告一段落了，...",
+          "link": "https://www.xingzou.org/p/895",
+          "publishedOn": "2025-01-11T08:29:00.000Z",
+          "wordCount": 539,
+          "title": "尘埃落定",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.xingzou.org/p/888",
+          "author": "北禾",
+          "description": "2024年终究还是过去了，2025年的新年如期到来，想聊一聊过去很多年的一些选择，是怎么想和判断的，做一些记录  从过往的履历来看，过去很多年面临着一些选择，这些选择的结果影响了现在的生活，因为...",
+          "link": "https://www.xingzou.org/p/888",
+          "publishedOn": "2025-01-04T02:50:00.000Z",
+          "wordCount": 441,
+          "title": "关于选择",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.xingzou.org/p/884",
+          "author": "北禾",
+          "description": "2024年12月31日，今年的最后一天，按照以往的惯例，还是需要花点时间对过去的一年做一些复盘总结，也是便于记录先说工作  2024年确实是比较难的一年，难在于整个一年，在这种民营私营的小企业，...",
+          "link": "https://www.xingzou.org/p/884",
+          "publishedOn": "2024-12-31T08:52:00.000Z",
+          "wordCount": 412,
+          "title": "2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.xingzou.org/p/873",
+          "author": "北禾",
+          "description": "临近过年，本以为不会有什么大的变化，能够安心做到过年，然后明年再来看怎么办  但是事情的变化，往往很难预知，大概才过去了不到两周，就面临很大的变化，这些变化还不预知  上面一顿骚操作，把一个几百...",
+          "link": "https://www.xingzou.org/p/873",
+          "publishedOn": "2024-12-23T06:26:00.000Z",
+          "wordCount": 477,
+          "title": "猝不及防",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.xingzou.org/p/869",
+          "author": "北禾",
+          "description": "在12月，终于还是忍不住出去面试了一次，是本地的一家随处可见的零售巨头，估值百亿，正处在风口浪尖，公司正蓬勃发展  和21年现在所在的这家公司一样，也是一轮又一轮融资  选了一个双休的周六，公司...",
+          "link": "https://www.xingzou.org/p/869",
+          "publishedOn": "2024-12-12T07:34:00.000Z",
+          "wordCount": 499,
+          "title": "记录一次面试",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.xingzou.org/p/867",
+          "author": "北禾",
+          "description": "等了挺久，终于在公司还是等来了项目可能不做了的消息，项目不做了，就意味着裁员失业或者换岗，去负责其他的事情来现在的这个公司快四年了，前面两年做一个项目，现在的这个项目是23年年初开始做的，持续到...",
+          "link": "https://www.xingzou.org/p/867",
+          "publishedOn": "2024-11-18T07:13:00.000Z",
+          "wordCount": 437,
+          "title": "变化",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "迷鹿屋",
+      "feedUrl": "https://lostdeer.xyz/feed",
+      "siteUrl": "https://lostdeer.xyz",
+      "articles": [
+        {
+          "id": "https://lostdeer.xyz/?p=1328",
+          "author": "Yuntian52",
+          "description": "好东西 B级 其实看完这电影我有挺多想说的，但发到哪都不太合适索性只在自己的地盘简短的聊。 三个女主角，三条交 […]",
+          "link": "https://lostdeer.xyz/herstory/",
+          "publishedOn": "2025-01-19T15:01:45.000Z",
+          "wordCount": 2255,
+          "title": "《好东西》感想",
+          "imageUrl": "https://lostdeer.xyz/wp-content/uploads/2025/01/p2915448489-1-e1737298973653.webp"
+        },
+        {
+          "id": "https://lostdeer.xyz/?p=1313",
+          "author": "Yuntian52",
+          "description": "原视频 概念 雪花写作法便是一种基于科赫雪花的故事结构，它是美国理论物理学家和科幻作家兰迪·格曼森推广的写作方 […]",
+          "link": "https://lostdeer.xyz/snowflake-writing/",
+          "publishedOn": "2025-01-11T14:09:37.000Z",
+          "wordCount": 2274,
+          "title": "雪花写作法",
+          "imageUrl": "https://lostdeer.xyz/wp-content/uploads/2025/01/flake-7342214_1280.jpg"
+        },
+        {
+          "id": "https://lostdeer.xyz/?p=1272",
+          "author": "Yuntian52",
+          "description": "2023年终总结传送门：2023年终总结 前言 这是我做年终总结的第四个年头。 每年的12月31号，我总是坐在 […]",
+          "link": "https://lostdeer.xyz/summary2024/",
+          "publishedOn": "2024-12-31T15:35:13.000Z",
+          "wordCount": 2671,
+          "title": "2024年终总结",
+          "imageUrl": "https://lostdeer.xyz/wp-content/uploads/2024/05/deer_horns_moon_164191_1600x900.jpg"
+        },
+        {
+          "id": "https://lostdeer.xyz/?p=1243",
+          "author": "Yuntian52",
+          "description": "2023读书总结传送门：2023读书总结 与去年同样地，这是我2024年的读书记录总结。 由于今年欲望订单被细 […]",
+          "link": "https://lostdeer.xyz/summary2024-reading/",
+          "publishedOn": "2024-12-28T14:19:26.000Z",
+          "wordCount": 2480,
+          "title": "2024读书总结",
+          "imageUrl": "https://lostdeer.xyz/wp-content/uploads/2024/12/leaves-1076307_1920.jpg"
         }
       ]
     }
