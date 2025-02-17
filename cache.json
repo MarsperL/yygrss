@@ -2432,16 +2432,6 @@
           "wordCount": 10115,
           "title": "Best Way to Backup Docker Containers Volumes and Home Server",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/11/Backup-docker-containers-volume-on-home-server.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=297969",
-          "author": "Brandon Lee",
-          "description": "I have been using tons of Docker stacks this year and moving into 2025, that doesn’t look to be slowing down for me. I have several standalone Docker container hosts, as well as a production swarm cluster in the home lab that I have been running for some months now that is extremely awesome, with …\nThe post 10 Best Docker Container Stacks I am using in 2024 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2024/11/10-best-docker-container-stacks-i-am-using-in-2024/",
-          "publishedOn": "2024-11-18T15:30:41.000Z",
-          "wordCount": 11331,
-          "title": "10 Best Docker Container Stacks I am using in 2024",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/11/Best-Docker-Container-Stacks.jpg"
         }
       ]
     },
@@ -2450,6 +2440,46 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=30517",
+          "author": "Tanvir Kour",
+          "description": "DeepSeek-R1 is a powerful open-source language model that can be run locally using Ollama. This guide will walk you through setting up and using DeepSeek-R1, exploring its capabilities, and optimizing its performance. Model Overview DeepSeek-R1 is designed for robust reasoning and coding capabilities, offering: Prerequisites Installation Steps # Pull the base modelollama pull deepseek-r1# Or […]",
+          "link": "https://collabnix.com/running-deepseek-r1-with-ollama-a-complete-guide/",
+          "publishedOn": "2025-02-16T12:46:46.000Z",
+          "wordCount": 3038,
+          "title": "Running DeepSeek-R1 with Ollama: A Complete Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=30514",
+          "author": "Tanvir Kour",
+          "description": "Ollama is a powerful framework that allows you to run, create, and modify large language models (LLMs) locally. This guide will walk you through the installation process across different platforms and provide best practices for optimal performance. Table of Contents System Requirements Minimum Hardware Requirements: Supported Platforms: Installation Methods Method 1: Direct Installation (macOS) # […]",
+          "link": "https://collabnix.com/a-comprehensive-guide-to-ollama-local-installation/",
+          "publishedOn": "2025-02-16T12:25:49.000Z",
+          "wordCount": null,
+          "title": "A Comprehensive Guide to Ollama Local Installation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=30509",
+          "author": "Tanvir Kour",
+          "description": "Key Takeaways . Understanding the importance of technical SEO in digital marketing. . Common technical SEO errors that can hinder website performance. . Practical solutions for fixing common issues to enhance online visibility. To rank higher on search and perform better on websites, technical SEO is unavoidable. Fixing issues like slow website speed, mobile incompatibility, […]",
+          "link": "https://collabnix.com/optimizing-for-success-solving-technical-seo-challenges/",
+          "publishedOn": "2025-02-16T12:10:52.000Z",
+          "wordCount": null,
+          "title": "Optimizing for Success: Solving Technical SEO Challenges",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=30494",
+          "author": "Ajeet Raina",
+          "description": "NVIDIA has just reinvented edge computing with its latest offering – the Jetson Orin Nano Super Developer Kit. This isn’t just an incremental update; it’s a significant leap forward in bringing generative AI capabilities to the edge at an unprecedented price point of $249. Comparing Jetson Nano Vs Jetson Orin Nano Super The NVIDIA Jetson Orin […]",
+          "link": "https://collabnix.com/getting-started-with-nvidia-jetson-orin-nano-super-generative-ai-supercomputer/",
+          "publishedOn": "2025-02-16T07:09:43.000Z",
+          "wordCount": null,
+          "title": "Getting Started with NVIDIA Jetson Orin Nano Super – Generative AI Supercomputer",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=30491",
           "author": "Tanvir Kour",
@@ -3709,16 +3739,6 @@
           "wordCount": 3155,
           "title": "How Do Coaxial Pogo Pins Differ from Standard Pogo Pins?",
           "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/11/Screenshot-2024-11-20-at-1.42.41%E2%80%AFPM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=28635",
-          "author": "Tanvir Kour",
-          "description": "Static Application Security Testing (SAST) plays a crucial role in enhancing the security of DevOps pipelines. By integrating SAST early in the development process, teams can identify vulnerabilities right within developers’ integrated development environments (IDEs). This proactive approach allows for faster remediation and reduces the likelihood of security issues appearing later in the pipeline. While […]",
-          "link": "https://collabnix.com/how-sast-enhances-devops-pipeline-security/",
-          "publishedOn": "2024-11-19T05:44:15.000Z",
-          "wordCount": 2643,
-          "title": "How SAST Enhances DevOps Pipeline Security",
-          "imageUrl": "https://usercontent.one/wp/collabnix.com/wp-content/uploads/2024/11/word-image-28635-1-jpeg.avif?media=1725267074"
         }
       ]
     },
@@ -4046,6 +4066,16 @@
       "siteUrl": "https://www.skyue.com/",
       "articles": [
         {
+          "id": "https://www.skyue.com/25021700.html",
+          "author": "拾月",
+          "description": "www.pinfive.today2022年初上线的PinFive.Today，我在文章中说，至少维持三年吧，毕竟服务器买了三年。没想到这么快就到了。目前网站没有活跃用户，我自己最后一次更新停留...",
+          "link": "https://www.skyue.com/25021700.html",
+          "publishedOn": "2025-02-16T16:09:00.000Z",
+          "wordCount": 464,
+          "title": "纪念下pinfive.today",
+          "imageUrl": ""
+        },
+        {
           "id": "https://www.skyue.com/25021000.html",
           "author": "拾月",
           "description": "搬离良渚之前置换房子，郡东房子已然易主，临近年关不想搬家，于是反租一个多月。春节返杭直奔未名府找房子，火速租了一间公寓，方便后续盯装修。今天搬家，从2017年7月1日到2025年2月9日，在良渚...",
@@ -4152,6 +4182,21 @@
       "feedUrl": "https://bluehe.cn/rss.xml",
       "siteUrl": "https://bluehe.cn/",
       "articles": [
+        {
+          "id": "https://bluehe.cn/archives/spring-festival-2025",
+          "author": "寻鹤",
+          "description": "## 除夕 ##\n\n邕江的河水很绿，春节期间一直如此。\n\n母亲正炸着番薯，每一年她都会制作这一份美食，刚出炉软糯，很甜。\n[photos]\n\n\n[/photos]\n意外发现手机的支持的拍摄模式中有：流光快门，正好来记录下除夕的烟花。1月28日晚12点整，全...",
+          "link": "https://bluehe.cn/archives/spring-festival-2025",
+          "publishedOn": "2025-02-16T09:29:00.000Z",
+          "wordCount": 764,
+          "title": "春节叙事",
+          "enclosure": {
+            "url": "https://bluehe.cn/usr/uploads/2025/02/2942172086.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bluehe.cn/usr/uploads/2025/02/2942172086.jpg"
+        },
         {
           "id": "https://bluehe.cn/archives/new-year-prepare-2025",
           "author": "寻鹤",
@@ -4401,6 +4446,16 @@
       "feedUrl": "https://dusays.com/atom.xml",
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
+        {
+          "id": "https://dusays.com/800/",
+          "author": null,
+          "description": "<blockquote>\n<p>在互联网的世界里，图片传输是再平常不过的事情了，而 Base64 格式常常出现在这一过程中。那为啥图片要用 Base64 格式来传输呢？这背后有不少门道。本文将介绍 Base64 格式的应用场景和优点，以及一些应用场景下的缺点。</p>\n</blockquote>",
+          "link": "https://dusays.com/800/",
+          "publishedOn": "2025-02-16T16:00:00.000Z",
+          "wordCount": 1356,
+          "title": "图片为啥用 Base64 格式进行传输",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
         {
           "id": "https://dusays.com/799/",
           "author": null,
@@ -4788,6 +4843,16 @@
       "siteUrl": "https://www.mintimate.cn/atom.xml",
       "articles": [
         {
+          "id": "https://www.mintimate.cn/2025/02/15/hostModelByOllama/",
+          "author": null,
+          "description": "2025年震撼开源！学习如何在 macOS 通过 Ollama 和 Open WebUI 本地部署 DeepSeek-R1 大模型。详解从模型下载到联网搜索配置的全流程，低成本运行蒸馏版AI模型。",
+          "link": "https://www.mintimate.cn/2025/02/15/hostModelByOllama/",
+          "publishedOn": "2025-02-15T19:35:48.000Z",
+          "wordCount": 1106,
+          "title": "macOS 部署 Ollama 和 Open WebUI，实现本地运行 DeepSeek 大模型",
+          "imageUrl": "https://imagehost.mintimate.cn/post_hostModelByOllama/banner.webp"
+        },
+        {
           "id": "https://www.mintimate.cn/2025/01/20/qCloudRazorSpeed/",
           "author": null,
           "description": "腾讯云轻量应用服务器已经发布了锐驰型轻量应用服务。也就是峰值带宽为 200Mbps 的轻量应用服务器，不限流量，怪不得叫作锐驰型(Razor speed)。我们就来看看这服务器的性能表现，以及适合哪些场景。",
@@ -4816,16 +4881,6 @@
           "wordCount": 865,
           "title": "使用 DTS 实现腾讯云数据库 MySQL 多节点和单节点互相转换",
           "imageUrl": "https://imagehost.mintimate.cn/post_QCloudSqlMultiToSingleNode/banner.webp"
-        },
-        {
-          "id": "https://www.mintimate.cn/2024/11/18/GitHookWebp/",
-          "author": null,
-          "description": "Git 和 服务器作为图床，使用 Git Hook 实现图片的 WebP 压缩与水印，大幅度压缩图片，提高网站加载速度。",
-          "link": "https://www.mintimate.cn/2024/11/18/GitHookWebp/",
-          "publishedOn": "2024-11-18T20:00:00.000Z",
-          "wordCount": 1632,
-          "title": "我是如何使用 Git 做图床，并使用 hook 实现图片的 WebP 压缩与水印的？",
-          "imageUrl": "https://imagehost.mintimate.cn/post_GitHookWebp/banner.webp"
         }
       ]
     },
@@ -4983,16 +5038,6 @@
           "wordCount": 1066,
           "title": "HTTPS的原理，使用HTTPS就一定是安全的吗？",
           "imageUrl": "https://static.zahui.fan/images/202411211426166.png"
-        },
-        {
-          "id": "https://zahui.fan/posts/sn6pu2/",
-          "author": null,
-          "description": "<p>比如有 30 家客户，每一个客户都有自己的 Kubernetes 集群，部署方式千差万别，还有客户不使用 Kubernetes 的，使用虚拟机部署，那么怎么对这么多客户的机器、服务进行有效的监控，本文记录一下监控的架构方案。</p>\n<h2 id=\"监控架构图\"><a href=\"#监控架构图\" class=\"headerlink\"",
-          "link": "https://zahui.fan/posts/sn6pu2/",
-          "publishedOn": "2024-11-19T06:25:14.000Z",
-          "wordCount": 1439,
-          "title": "生产环境Prometheus监控架构记录",
-          "imageUrl": "https://static.zahui.fan/images/202411151309207.png"
         }
       ]
     },
