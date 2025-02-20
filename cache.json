@@ -799,6 +799,16 @@
       "siteUrl": "https://srebro.cn/",
       "articles": [
         {
+          "id": "/archives/1739951915211",
+          "author": "运维小弟",
+          "description": "一、需求背景 某项目组采用容器化部署架构，通过 docker-compose对服务进行编排管理。为确保核心服务安全性，需对以下三个暴露的宿主机端口实施IP白名单访问控制： 服务名称 宿主机IP 宿主机端口 容器内部端口 apollo-configservice 172.22.33.204 10002",
+          "link": "https://srebro.cn/archives/1739951915211",
+          "publishedOn": "2025-02-19T07:59:34.000Z",
+          "wordCount": 2662,
+          "title": "基于iptables的Docker端口白名单控制",
+          "imageUrl": "null"
+        },
+        {
           "id": "/archives/1739862823849",
           "author": "运维小弟",
           "description": "网络参考模型与标准协议 以下内容来源于 华为官方讲义课件+ 个人整理，如有侵权，请联系作者删除 1. 数据与网络参考模型 在数字化时代，信息以数据的形式存在并传递。本章通过网络参考模型，帮助我们理解数据的“一生”。 2. 应用与数据 2.1 应用 应用的存在是为了满足人们的需求，例如访问网页、在线游",
@@ -1234,16 +1244,6 @@
           "wordCount": 1953,
           "title": "折腾基本功：Redis 从入门到 Docker 部署",
           "imageUrl": null
-        },
-        {
-          "id": "https://soulteary.com/2024/11/22/breaking-memory-limits-a-practical-guide-to-serverization-on-the-mac-mini-m2.html",
-          "author": "苏洋(soulteary)",
-          "description": "本篇文章，我们聊聊如何使用 Mac Mini M2 来实现比上篇文章性价比更高的内存服务器使用，分享背后的一些小的思考。希望对有类似需求的你有帮助。",
-          "link": "https://soulteary.com/2024/11/22/breaking-memory-limits-a-practical-guide-to-serverization-on-the-mac-mini-m2.html",
-          "publishedOn": "2024-11-22T09:42:00.000Z",
-          "wordCount": 1874,
-          "title": "突破内存限制：Mac Mini M2 服务器化实践指南",
-          "imageUrl": null
         }
       ]
     },
@@ -1597,6 +1597,16 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://nops.icu/archives/197/",
+          "author": "季兴",
+          "description": "结论在deepseek-r1:32b较大尺寸模型下，4090单卡可提供3QPS，单问题4.4秒内完成响应。 对于个人，几十人小团队够用。优点：本地模型问题过滤少，同样问题，官方无法回答，本地可以...",
+          "link": "https://nops.icu/archives/197/",
+          "publishedOn": "2025-02-19T03:51:00.000Z",
+          "wordCount": 551,
+          "title": "消费级显卡部署deepseek-R1:32b可行性分析",
+          "imageUrl": null
+        },
+        {
           "id": "https://nops.icu/archives/194/",
           "author": "季兴",
           "description": "背景本地部署DeepSeek-Coder-V2-Lite-Instruct:14b。要求基础的高可用、监控、安全能力。ollama默认只能使用第一张显卡，多个模型同时调用会有bug（ollama...",
@@ -1803,6 +1813,26 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=299518",
+          "author": "Brandon Lee",
+          "description": "Below are a few daily tech deals take note of. We are all on the lookout for good tech at reasonable prices. The Samsung EVO 990 Pro drives have been pretty heavily discounted on Amazon as of recently with 30%+ discounts. You can get a Logitech MK270 wireless keyboard and mouse combo for 32% off …\nThe post Daily Tech Deals February 19 2025 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/02/daily-tech-deals-february-19-2025/",
+          "publishedOn": "2025-02-19T13:48:37.000Z",
+          "wordCount": 8120,
+          "title": "Daily Tech Deals February 19 2025",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/image.jpeg"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=299485",
+          "author": "Brandon Lee",
+          "description": "I have been doing quite a bit of testing with Proxmox swap and Intel Optane drives for ultra fast swap storage. In doing so have learned quite a bit about configuring your Proxmox swap drive to use dedicated storage, tweak the swappiness value, and other configuration settings that can definitely have a major impact on …\nThe post Proxmox Swap Tweaks Guide! Dedicated drive, Swappiness, Page Cluster appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/02/proxmox-swap-tweaks-guide-dedicated-drive-swappiness-page-cluster/",
+          "publishedOn": "2025-02-19T13:24:43.000Z",
+          "wordCount": 10916,
+          "title": "Proxmox Swap Tweaks Guide! Dedicated drive, Swappiness, Page Cluster",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/Proxmox-Swap-tweaks.jpg"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=299477",
           "author": "Brandon Lee",
@@ -2432,16 +2462,6 @@
           "wordCount": 9787,
           "title": "Kubernetes Home Lab with Microk8s, Microceph, and Portainer",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/11/Kubernetes-Home-Lab.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298032",
-          "author": "Brandon Lee",
-          "description": "Lots of news coming out of Microsoft Ignite 2024. Microsoft has announced a new offering, Azure Local which is a new solution that is taking the place of Azure Stack HCI. It will continue the functionality of allowing organizations to deploy Azure cloud services at physical locations due to various reasons, whether they have requirements …\nThe post Microsoft Azure Local: New Azure Stack HCI Replacement! appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2024/11/microsoft-azure-local-new-azure-stack-hci-replacement/",
-          "publishedOn": "2024-11-21T15:52:19.000Z",
-          "wordCount": 10170,
-          "title": "Microsoft Azure Local: New Azure Stack HCI Replacement!",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/11/Azure-Local.jpg"
         }
       ]
     },
@@ -2450,6 +2470,56 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=30605",
+          "author": "Adesoji Alu",
+          "description": "Overview This guide will walk you through creating a simple chat application in .NET that interacts with a locally hosted AI model. Using the Microsoft.Extensions.AI library, you can communicate with an AI model without relying on cloud services. This provides better privacy, reduced latency, and cost efficiency. Prerequisites Install .NET 8.0 or a later version. […]",
+          "link": "https://collabnix.com/how-to-chat-with-a-local-ai-model-using-ollama-and-net-on-macos/",
+          "publishedOn": "2025-02-19T20:40:15.000Z",
+          "wordCount": 2964,
+          "title": "How To Chat with a Local AI Model using Ollama and  .NET on MacOS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=30565",
+          "author": "Adesoji Alu",
+          "description": "As a developer who’s worked extensively with AI tools, I’ve found Ollama to be an intriguing option for production deployments. While it’s known for local development, its capabilities extend far beyond that. Let’s dive into how we can leverage Ollama in production environments and explore some real-world use cases. What Makes Ollama Production-Ready? Before we […]",
+          "link": "https://collabnix.com/using-ollama-in-production-a-developers-practical-guide/",
+          "publishedOn": "2025-02-19T16:15:20.000Z",
+          "wordCount": null,
+          "title": "Using Ollama in Production: A Developer’s Practical Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=30594",
+          "author": "Tanvir Kour",
+          "description": "Businesses increasingly rely on real-time insights, seamless connectivity, and end-to-end visibility, making the Internet of Things (IoT) a driving force in fleet management evolution. Across industries like logistics and energy, IoT ensures smoother coordination of vehicles and operations. As technology evolves, IoT has become the cornerstone of modern fleet strategies, driving operational efficiency and competitive […]",
+          "link": "https://collabnix.com/a-smarter-way-to-manage-your-fleet-the-role-of-iot-in-fleet-management/",
+          "publishedOn": "2025-02-19T14:58:22.000Z",
+          "wordCount": null,
+          "title": "A Smarter Way to Manage Your Fleet: The Role of IoT in Fleet Management",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=30543",
+          "author": "Adesoji Alu",
+          "description": "In the rapidly evolving landscape of AI development, Ollama has emerged as a game-changing tool for running Large Language Models locally. With over 43,000+ GitHub stars and 2000+ forks, Ollama has become the go-to solution for developers seeking to integrate LLMs into their local development workflow. The Rise of Ollama: By the Numbers – 43k+ […]",
+          "link": "https://collabnix.com/how-to-run-llms-locally-with-ollama/",
+          "publishedOn": "2025-02-19T14:48:14.000Z",
+          "wordCount": null,
+          "title": "How to Run LLMs Locally with Ollama",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=30539",
+          "author": "Ajeet Raina",
+          "description": "Docker containers provide excellent isolation for applications, but accessing physical USB devices within a container can be challenging. By leveraging the USB/IP protocol, you can share USB devices over the network and use them in Docker containers. This guide will walk you through: We’ll use USB/IP, nsenter, and Docker to facilitate USB over IP and […]",
+          "link": "https://collabnix.com/integrating-usb-ip-into-docker-desktop-is-now-possible/",
+          "publishedOn": "2025-02-19T14:42:09.000Z",
+          "wordCount": null,
+          "title": "Integrating USB/IP into Docker Desktop is Now Possible",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=30517",
           "author": "Tanvir Kour",
@@ -3709,26 +3779,6 @@
           "wordCount": 3890,
           "title": "How to Set Up and Use Docker Build Cloud for Local Development",
           "imageUrl": "https://usercontent.one/wp/collabnix.com/wp-content/uploads/2024/11/How-to-Set-Up-and-Use-Docker-Build-png.avif?media=1725267074"
-        },
-        {
-          "id": "https://collabnix.com/?p=28669",
-          "author": "Tanvir Kour",
-          "description": "Running load tests in AWS Elastic Kubernetes Service (EKS) is a powerful way to validate your applications’ performance and scalability. By leveraging tools like Locust for load generation and Kubernetes features such as Horizontal Pod Autoscaler (HPA) and Cluster Autoscaler, you can test your application’s ability to handle real-world traffic scenarios effectively. This blog will guide you through setting up […]",
-          "link": "https://collabnix.com/how-to-run-load-tests-in-aws-eks/",
-          "publishedOn": "2024-11-22T02:27:04.000Z",
-          "wordCount": 2389,
-          "title": "How to Run Load Tests in AWS EKS",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/11/Screenshot-2024-11-22-at-7.56.16%E2%80%AFAM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=28661",
-          "author": "Tanvir Kour",
-          "description": "The scope of AI voice cloning is transforming people’s interaction with technology, media, and communication tools. It can offer the replication of human voices in the most accurate manner, among other features such as live-pitch-changing tones, which can adapt to a person’s style. This blend is transforming industries from content creation and gaming to customer […]",
-          "link": "https://collabnix.com/top-5-ai-voice-cloning-software-with-built-in-voice-changer-features/",
-          "publishedOn": "2024-11-21T17:28:14.000Z",
-          "wordCount": 2791,
-          "title": "Top 5 AI Voice Cloning Software with Built-In Voice Changer Features",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/11/Screenshot-2024-11-21-at-11.04.39%E2%80%AFPM.png"
         }
       ]
     },
@@ -3925,16 +3975,6 @@
           "publishedOn": "2024-11-28T09:34:00.000Z",
           "wordCount": 557,
           "title": "该换什么牌子手机了？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://qq.mba/195.html",
-          "author": "满心",
-          "description": "自从我换到Typecho后，就启用了无畏云CDN，个人站嘛，每个月40G，完全够用了，无畏云除了后台有些操作功能感觉不友好外，其它还不错，主要就是下面两个问题：加速CDN域名添加后不能删除;添加...",
-          "link": "https://qq.mba/195.html",
-          "publishedOn": "2024-11-22T00:49:00.000Z",
-          "wordCount": 518,
-          "title": "无畏云跑路了？",
           "imageUrl": null
         }
       ]
@@ -4410,6 +4450,16 @@
       "siteUrl": "https://www.domon.cn/",
       "articles": [
         {
+          "id": "67af3f5a6c5c2009965821d9",
+          "author": "Domon",
+          "description": "生活过得好一点，比大多数宏伟更宏伟。",
+          "link": "https://www.domon.cn/2025-1yue-yue-du-shu-zhai/",
+          "publishedOn": "2025-02-15T13:13:04.000Z",
+          "wordCount": 216,
+          "title": "2025年1月阅读书摘",
+          "imageUrl": "https://images.unsplash.com/photo-1517673132405-a56a62b18caf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDc3fHxib29rc3xlbnwwfHx8fDE3Mzk0ODk4Mzd8MA&ixlib=rb-4.0.3&q=80&w=2000"
+        },
+        {
           "id": "67af3a036c5c2009965821b5",
           "author": "Domon",
           "description": "希望 2025 年，大家，当然也包括我自己能够沉下心来多看一点书。以前可能在书里想要探求某个答案，现在还是重新专注回「看」和「内容」上吧。在嘈杂的世界里，能够用文字和想象力构造出另一个世界，已经足够浪漫了。",
@@ -4446,6 +4496,16 @@
       "feedUrl": "https://dusays.com/atom.xml",
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
+        {
+          "id": "https://dusays.com/801/",
+          "author": null,
+          "description": "<blockquote>\n<p>现在容器技术很火，镜像又肥又大，部署较慢不说，安全风险还蹭蹭往上窜，简直让人头大！SlimToolkit 就像一位经验老道的镜像瘦身大师，能把镜像体积缩小到令人咋舌的程度，最多能瘦 30 倍！</p>\n</blockquote>",
+          "link": "https://dusays.com/801/",
+          "publishedOn": "2025-02-19T16:00:00.000Z",
+          "wordCount": 1346,
+          "title": "使用 SlimToolkit 打造更小的容器镜像",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
         {
           "id": "https://dusays.com/800/",
           "author": null,
