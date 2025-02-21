@@ -799,6 +799,16 @@
       "siteUrl": "https://srebro.cn/",
       "articles": [
         {
+          "id": "/archives/1740042455409",
+          "author": "运维小弟",
+          "description": "基于Zabbix主动发现机制实现Nacos服务动态监控 一、 快速部署Zabbix7.0 使用Docker-compose快速搭建Zabbix7.0监控平台，请参考文档： Zabbix7.0 Docker-compose部署指南 二. Nacos注册中心简介 Nacos（Dynamic Naming",
+          "link": "https://srebro.cn/archives/1740042455409",
+          "publishedOn": "2025-02-20T09:07:49.000Z",
+          "wordCount": 2323,
+          "title": "基于Zabbix主动发现机制实现Nacos服务动态监控",
+          "imageUrl": "null"
+        },
+        {
           "id": "/archives/1739951915211",
           "author": "运维小弟",
           "description": "一、需求背景 某项目组采用容器化部署架构，通过 docker-compose对服务进行编排管理。为确保核心服务安全性，需对以下三个暴露的宿主机端口实施IP白名单访问控制： 服务名称 宿主机IP 宿主机端口 容器内部端口 apollo-configservice 172.22.33.204 10002",
@@ -1814,6 +1824,26 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=299539",
+          "author": "Brandon Lee",
+          "description": "Below are a few daily tech deals take note of. We are all on the lookout for good tech at reasonable prices. The Samsung EVO 990 Pro drives have been pretty heavily discounted on Amazon as of recently with 30%+ discounts. You can get a SAMSUNG 16′ Galaxy Book4 Pro Laptop PC Computer 43% off …\nThe post Daily Tech Deals February 20 2025 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/02/daily-tech-deals-february-20-2025/",
+          "publishedOn": "2025-02-20T14:34:06.000Z",
+          "wordCount": 8006,
+          "title": "Daily Tech Deals February 20 2025",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/2025-02-19-7-51-37.jpg"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=299527",
+          "author": "Brandon Lee",
+          "description": "I think we are seeing a new era evolve in front of our eyes with the introduction by Crucial of the new 128 GB RAM kit that is now out at most of the major retailers. Never before have we had these kinds of densities for mini PCs and motherboards that use the SODIMM memory …\nThe post Mini PCs with 128 GB RAM: New Home Lab Era! appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/02/mini-pcs-with-128-gb-ram-new-home-lab-era/",
+          "publishedOn": "2025-02-20T13:24:25.000Z",
+          "wordCount": 9988,
+          "title": "Mini PCs with 128 GB RAM: New Home Lab Era!",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/Mini-PC-with-128-GB-RAM.jpg"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=299518",
           "author": "Brandon Lee",
           "description": "Below are a few daily tech deals take note of. We are all on the lookout for good tech at reasonable prices. The Samsung EVO 990 Pro drives have been pretty heavily discounted on Amazon as of recently with 30%+ discounts. You can get a Logitech MK270 wireless keyboard and mouse combo for 32% off …\nThe post Daily Tech Deals February 19 2025 appeared first on Virtualization Howto.",
@@ -2452,16 +2482,6 @@
           "wordCount": 10256,
           "title": "Proxmox VE 8.3 New Features with OVA Import",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/11/8.3-New-Features.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298049",
-          "author": "Brandon Lee",
-          "description": "As you guys know I have been exploring what I think are really great setups from a standpoint of a home lab and also for learning purposes in production. Recently, I explored how viable it was to run a Docker Swarm cluster and found this to be an extremely good solution for home lab and …\nThe post Kubernetes Home Lab with Microk8s, Microceph, and Portainer appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2024/11/kubernetes-home-lab-with-microk8s-microceph-and-portainer/",
-          "publishedOn": "2024-11-22T20:21:51.000Z",
-          "wordCount": 9787,
-          "title": "Kubernetes Home Lab with Microk8s, Microceph, and Portainer",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/11/Kubernetes-Home-Lab.jpg"
         }
       ]
     },
@@ -2470,6 +2490,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=30644",
+          "author": "Tanvir Kour",
+          "description": "Discover how data-driven insights change search results, boosting relevance and user engagement. Learn cutting-edge techniques to enhance search performance.",
+          "link": "https://collabnix.com/leveraging-data-driven-insights-for-superior-search-visibility/",
+          "publishedOn": "2025-02-20T11:12:50.000Z",
+          "wordCount": 2909,
+          "title": "Leveraging Data-Driven Insights for Superior Search Visibility",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=30640",
+          "author": "Ajeet Raina",
+          "description": "In today’s fast-paced financial landscape, mastering DevOps skills isn’t just for tech teams – it’s key to smarter financial management and portfolio efficiency. These skills streamline workflows, improve data accuracy, and enable better decision-making. Whether it’s automating pipelines or ensuring system reliability, practical DevOps expertise helps organizations stay competitive in managing finances and optimizing investment […]",
+          "link": "https://collabnix.com/5-essential-devops-skills-for-enhancing-financial-management-and-portfolio-efficiency/",
+          "publishedOn": "2025-02-20T11:06:21.000Z",
+          "wordCount": 2694,
+          "title": "5 Essential DevOps Skills for Enhancing Financial Management and Portfolio Efficiency",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=30605",
           "author": "Adesoji Alu",
@@ -3769,16 +3809,6 @@
           "wordCount": 2873,
           "title": "Is Kubernetes Cloud or DevOps?",
           "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/11/Screenshot-2024-11-24-at-12.48.22%E2%80%AFPM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=28675",
-          "author": "Abraham Dahunsi",
-          "description": "What is Docker Build Cloud? Docker Build Cloud is a cloud-based service designed to enhance the efficiency of building container images. It leverages remote BuildKit instances, allowing developers to execute builds in a scalable and optimized environment. This service is particularly beneficial for teams working on complex applications that require multi-platform builds, as it provides […]",
-          "link": "https://collabnix.com/how-to-set-up-and-use-docker-build-cloud-for-local-development/",
-          "publishedOn": "2024-11-23T10:21:54.000Z",
-          "wordCount": 3890,
-          "title": "How to Set Up and Use Docker Build Cloud for Local Development",
-          "imageUrl": "https://usercontent.one/wp/collabnix.com/wp-content/uploads/2024/11/How-to-Set-Up-and-Use-Docker-Build-png.avif?media=1725267074"
         }
       ]
     },
@@ -4795,16 +4825,6 @@
           "wordCount": 1320,
           "title": "无畏云 CDN 加速免费依旧",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/771/",
-          "author": null,
-          "description": "<blockquote>\n<p>杜老师不蒜子统计平台运营至今，经过星辰童鞋版本迭代，增加了很多新功能。更为值得称赞的是，版本升级并没有 BREAKING CHANGE，新版本仍兼容旧版本的调用脚本。使用旧版本的小伙伴不升级脚本也可继续使用！</p>\n</blockquote>",
-          "link": "https://dusays.com/771/",
-          "publishedOn": "2024-11-22T16:00:00.000Z",
-          "wordCount": 1384,
-          "title": "新版本不蒜子统计平台使用说明",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
     },
@@ -4928,6 +4948,16 @@
       "feedUrl": "https://zahui.fan/atom.xml",
       "siteUrl": "https://zahui.fan/atom.xml",
       "articles": [
+        {
+          "id": "https://zahui.fan/posts/srz9zs/",
+          "author": null,
+          "description": "<p><code>powerlevel10k</code> 是 zsh 上很好看的主题，我一直是在 wsl 里用，配合 <code>Windows Terminal</code> 很好看，不过在 PyCharm 里打开会乱码，可以通过修改控制台字体为支持 powerline 的字体，不过还是不完美，有时候还有 BUG。</p>\n<p><img src=",
+          "link": "https://zahui.fan/posts/srz9zs/",
+          "publishedOn": "2025-02-20T10:47:52.000Z",
+          "wordCount": 414,
+          "title": "解决PyCharm终端使用zsh powerlevel10k主题时的乱码问题",
+          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
+        },
         {
           "id": "https://zahui.fan/posts/srnwhe/",
           "author": null,
