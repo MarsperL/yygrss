@@ -412,6 +412,16 @@
       "siteUrl": "https://lawtee.com/",
       "articles": [
         {
+          "id": "https://lawtee.com/article/whats-transparency-international/",
+          "author": null,
+          "description": "今天在微信群看到有人转发全球清廉指数排名，中国位居全球 76 名，跟摩尔多瓦、所罗门群岛一个水平，只比印度多 5 分，而比欧洲低了四五十分。直觉告诉我，这个指数应该有点问题，中国这些年一直在认真对付深层次腐败，没道理排名会下降这么多。结果一查，发现这玩意真是惊掉下巴。\n所谓全球清廉指数实质上就是个二手指数\n\n在透明国际官网上，对于全球清廉指数（CPI）是这么描述的:\nThe Corruption Perceptions Index scores 180 countries and territories according to the levels of public-sector corruption perceived by experts and businesspeople. It relies on 13 independent data sources and uses a scale of zero to 100, where zero is highly corrupt and 100 is very clean.\n但实际上，打开报告后发现，他的研究方法是：\nThe CPI 2024 is calculated using 13 different data sources from 12 different institutions that capture perceptions of corruption within the past two years.\n\n对比发现，报告中写的是清廉指数依据13个独立数据源，通过标准差和方差这种纯数学方法计算得出。连计分权重都没有，实质就是选取一堆所谓国际排名进行综合，得出最终的“清廉指数”，毫无疑问就是个“二手指数”。\n移花接木的指数介绍\n\n继续看上边两段描述。在报告中讲的研究方法是：依据13个独立数据源计算得…",
+          "link": "https://lawtee.com/article/whats-transparency-international/",
+          "publishedOn": "2025-02-21T10:00:00.000Z",
+          "wordCount": 1200,
+          "title": "全球清廉指数是个啥玩意",
+          "imageUrl": "https://lawtee.com/article/whats-transparency-international/00.webp"
+        },
+        {
           "id": "https://lawtee.com/article/ai-enslaving-humanity/",
           "author": null,
           "description": "随着 DeepSeek 搅动全世界对 AI 的认知，越来越多企业和个人开始接入 AI ，AI 平民化应用时代也全面开启。此前，我使用 AI 主要还是在技术领域，比如本博客上最近一年多来，几乎所有包含代码的内容，都是在个人引导下由 AI 所写，但随着 AI 开始深入渗透社会各阶层、各类型人群，无数技术以外的 AI 需求涌入，AI 这个形象也越来越显得“妖孽”。不禁让我感觉一阵寒意。\n人类开始逐渐需要迎合 AI 的思考\n\n以往对于 AI 的恐惧，主要是“隐私”问题。但讲实话，隐私这个词，对大多数中国人可能是无感的。因为众所周知的原因，不管是社交媒体发言、街头监控摄像头还是手机上各类无所不用其极的获取用户权限的 APP ，都让普通人对“隐私”议题早已麻木。\n不过，大家以往对这种隐私问题之所以漠视，很大程度在于每一项可以获取用户隐私的服务、每一个产品背后都有着巨量的用户隐私数据，多你一个不多，少你一个不少，个体的隐私夹在在巨量隐私数据中间，显得无足轻重。毕竟，想要对个体隐私数据进行提取分析真不是个容易的事，背后往往需要耗费很大的人力去进行数据分析才能得出某些结论，而这种分析往往都是事后的。如果不是有诸如犯罪调查或者诉讼取证等需要，一般都是不用担心的。\n但 AI 完全改变了这个格局。\n此前，我在 Github 上已看到过一些项目。例如，借助自动化程序，对微信中某指定用户的聊天记录及上下文信息进行提取。然后使用 ChatGPT 对用户聊天内容进行分析，在提取的聊天记录达到一定数量时，几乎可以 100% 分析出用户的政治倾向、性格、知识层次，并可以大致推断用户的年龄、学历、家庭背景、职业、所处地域等信息。\nDeepSeek 的推理则更上一层楼。例如，我截了几张与朋友 A 的微信聊天记录让 DeepSeek 网页版进行简单分析，结果如下：\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n …",
@@ -1824,6 +1834,26 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=299571",
+          "author": "Brandon Lee",
+          "description": "Below are a few daily tech deals take note of. We are all on the lookout for good tech at reasonable prices. You can get a GEN5 NVMe drive, the Crucial T700 2TB Gen5 NVMe M.2 SSD with Heatsink for 32% off. You can also get a Kingston NV3 500GB M.2 2280 NVMe drive for …\nThe post Daily Tech Deals February 21 2025 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/02/daily-tech-deals-february-21-2025/",
+          "publishedOn": "2025-02-21T16:17:44.000Z",
+          "wordCount": 8256,
+          "title": "Daily Tech Deals February 21 2025",
+          "imageUrl": "https://m.media-amazon.com/images/I/51dhbsC8C4L._AC_SX679_.jpg"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=299546",
+          "author": "Brandon Lee",
+          "description": "Minisforum is a name that is synonymous with home labs. They have one of the best mini PCs available for home lab use in the Minisforum MS-01 mini PC. I also predict we will be saying that about its successor, the MS-A2, soon to be released either this next month or in April. However, you …\nThe post Minisforum BD795i SE Motherboard Review for Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/02/minisforum-bd795i-se-motherboard-review-for-home-lab/",
+          "publishedOn": "2025-02-21T15:17:30.000Z",
+          "wordCount": 11407,
+          "title": "Minisforum BD795i SE Motherboard Review for Home Lab",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/Minisforum-BD795i-SE-review.jpg"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=299539",
           "author": "Brandon Lee",
           "description": "Below are a few daily tech deals take note of. We are all on the lookout for good tech at reasonable prices. The Samsung EVO 990 Pro drives have been pretty heavily discounted on Amazon as of recently with 30%+ discounts. You can get a SAMSUNG 16′ Galaxy Book4 Pro Laptop PC Computer 43% off …\nThe post Daily Tech Deals February 20 2025 appeared first on Virtualization Howto.",
@@ -2490,6 +2520,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=30600",
+          "author": "Adesoji Alu",
+          "description": "Ollama is an open-source platform designed to run large language models (LLMs) locally on your machine. This provides developers, researchers, and businesses with full control over their data, ensuring privacy and security while eliminating reliance on cloud-based services. By running AI models locally, Ollama reduces latency, enhances performance, and allows for complete customization. This guide […]",
+          "link": "https://collabnix.com/what-is-ollama-features-and-getting-started/",
+          "publishedOn": "2025-02-21T09:59:00.000Z",
+          "wordCount": 2909,
+          "title": "What is Ollama? Features and Getting Started",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=30650",
+          "author": "Tanvir Kour",
+          "description": "The online meal service industry is revolutionizing the way people access food, offering one-stop-shop convenience, variety, and custom nutrition planning. Seniors, homebound adults, busy parents, professionals, and health-conscious consumers are discovering the benefits of these services for ready-made meals or portioned ingredients. Meal services use automated systems to ensure satisfaction through: Let’s explore how automated […]",
+          "link": "https://collabnix.com/how-automated-systems-are-redefining-customer-experience-in-meal-services/",
+          "publishedOn": "2025-02-21T05:15:50.000Z",
+          "wordCount": 2714,
+          "title": "How Automated Systems Are Redefining Customer Experience in Meal Services",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=30644",
           "author": "Tanvir Kour",
@@ -3779,36 +3829,6 @@
           "wordCount": 2686,
           "title": "How to run MongoDB with Docker and Docker Compose: A Step-by-Step guide",
           "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/11/Screenshot-2024-11-24-at-8.15.41%E2%80%AFPM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=28723",
-          "author": "Tanvir Kour",
-          "description": "If you’re a WordPress blogger who writes technical blogs and wants to automate sharing your posts on platforms like Twitter or Bluesky, this guide is for you. Imagine saving hours by letting a smart workflow post your past and future articles regularly without manual intervention. With IFTTT (If This Then That), you can achieve just […]",
-          "link": "https://collabnix.com/how-to-automate-sharing-wordpress-posts-to-twitter-or-bluesky-using-ifttt/",
-          "publishedOn": "2024-11-24T12:44:02.000Z",
-          "wordCount": 3172,
-          "title": "How to Automate Sharing WordPress Posts to Twitter or Bluesky Using IFTTT",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/11/image-17.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=28706",
-          "author": "Tanvir Kour",
-          "description": "In the fast-evolving world of social media, Twitter has long reigned as the platform of choice for real-time conversations. However, recent controversies—from algorithmic biases to restrictive moderation policies—have left many users searching for alternatives. Enter Bluesky, a decentralized social media platform with a bold vision: to return control to its users and revolutionize how we […]",
-          "link": "https://collabnix.com/how-is-bluesky-different-from-twitter-5-technical-reasons-to-switch-now/",
-          "publishedOn": "2024-11-24T09:07:45.000Z",
-          "wordCount": 2783,
-          "title": "How Is Bluesky Different from Twitter? 5 Technical Reasons to Switch Now",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/11/Screenshot-2024-11-24-at-2.40.53%E2%80%AFPM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=28692",
-          "author": "Tanvir Kour",
-          "description": "If you’ve spent even a little time in the cloud-native or DevOps space, you’ve probably heard of Kubernetes (or K8s for short). It’s the superstar of modern application management, the buzzword that makes developers’ eyes light up—and occasionally makes ops teams groan. But here’s a question I’ve been often asked: “Is Kubernetes a cloud tool, […]",
-          "link": "https://collabnix.com/is-kubernetes-cloud-or-devops-2/",
-          "publishedOn": "2024-11-24T07:19:03.000Z",
-          "wordCount": 2873,
-          "title": "Is Kubernetes Cloud or DevOps?",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/11/Screenshot-2024-11-24-at-12.48.22%E2%80%AFPM.png"
         }
       ]
     },
@@ -4384,16 +4404,6 @@
           "wordCount": null,
           "title": "前沿快讯 第64期 表达IL-15的GPC3-CAR T细胞对GPC3+实体恶性肿瘤有显著效果等",
           "imageUrl": null
-        },
-        {
-          "id": "https://blognas.hwb0307.com/other/6144",
-          "author": "Bensz",
-          "description": "Bensz\n前沿快讯 第63期 人类细胞图谱等\n本博客由Faconhost大力赞助！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 前言 本文是前沿快讯的第63期。前沿快讯栏目主要收集一些个人感兴趣的近期发表的研究，关注领域包括肿瘤的分子生物学、临床研究、流行病学等，文献类型主要是期刊论文和综述。研究介绍在Google机翻摘要的基础上进行微调，可能不一定特别准确、专业，主要目的是方便自己和大家快速了解和回顾相关领域研究进展。如果你对某个研究的细节感兴趣，请自行寻找全文进一步了解。此外，研究根据子领域会进一步细分，不过交叉领域的研究不好分为某一类，所以这个分类主要用于初级索引，并不十分准确，不喜勿喷。最后，大家看到什么特别的研究，也可以在评论区向我推荐，我会酌情收录在后面的期刊中。如无意外，前沿快讯栏目会长期更新，周期为2周-1月 […]\nBensz",
-          "link": "https://blognas.hwb0307.com/medicine/6144",
-          "publishedOn": "2024-11-23T14:21:28.000Z",
-          "wordCount": null,
-          "title": "前沿快讯 第63期 人类细胞图谱等",
-          "imageUrl": null
         }
       ]
     },
@@ -4930,16 +4940,6 @@
           "wordCount": 1007,
           "title": "有趣且轻量的 CDN URL 鉴权方式： 时间戳 Token 鉴权",
           "imageUrl": "https://imagehost.mintimate.cn/post_EdgeOneWithCosToken/banner.webp"
-        },
-        {
-          "id": "https://www.mintimate.cn/2024/11/23/QCloudSqlMultiToSingleNode/",
-          "author": null,
-          "description": "在腾讯云上购买了 MySQL 的 DBaaS 服务，发现单节点和多节点之间是无法转换的。但是可以使用 DTS 来间接实现单节点和多节点的互相转换。",
-          "link": "https://www.mintimate.cn/2024/11/23/QCloudSqlMultiToSingleNode/",
-          "publishedOn": "2024-11-23T13:55:06.000Z",
-          "wordCount": 865,
-          "title": "使用 DTS 实现腾讯云数据库 MySQL 多节点和单节点互相转换",
-          "imageUrl": "https://imagehost.mintimate.cn/post_QCloudSqlMultiToSingleNode/banner.webp"
         }
       ]
     },
@@ -5105,6 +5105,16 @@
       "feedUrl": "https://lixx.cn/rss.xml",
       "siteUrl": "http://localhost:8090/",
       "articles": [
+        {
+          "id": "/archives/1740127065121",
+          "author": null,
+          "description": "摘要 在 Kubernetes 集群中，资源管理是保障应用稳定性和集群效率的核心环节。requests 和 limits 的配置直接影响 Pod 的调度行为、资源争抢时的分配策略，甚至容器的生存状态。本文将深入探讨这些配置的底层原理，并通过实际场景分析，揭示 Kubernetes 如何通过 Linu",
+          "link": "http://localhost:8090/archives/1740127065121",
+          "publishedOn": "2025-02-21T08:38:19.000Z",
+          "wordCount": null,
+          "title": "Kubernetes 资源管理深度解析：Requests、Limits 与底层 cgroups 的协作机制",
+          "imageUrl": null
+        },
         {
           "id": "/archives/1739784940557",
           "author": null,
@@ -5426,6 +5436,16 @@
       "siteUrl": "https://panzhixiang.cn/atom.xml",
       "articles": [
         {
+          "id": "https://panzhixiang.cn/2025/how-to-use-ai/",
+          "author": null,
+          "description": "<p>大家最近是不是经常看到各种关于 DeepSeek 的新闻？各种传宣 AI 如何如何厉害。</p>\n<p>但是感觉AI新闻满天飞，工作还是老方法？</p>\n<p>今天讲几个比较简单但是有用的使用 AI 帮助提升工作的方法。</p>",
+          "link": "https://panzhixiang.cn/2025/how-to-use-ai/",
+          "publishedOn": "2025-02-20T16:00:00.000Z",
+          "wordCount": 243,
+          "title": "AI不会抢人类饭碗，但不用AI的人正在被时代辞退",
+          "imageUrl": "https://blog.panzhixiang.cn/images/how-to-use-ai-ima.png"
+        },
+        {
           "id": "https://panzhixiang.cn/2025/fund-deepseek/",
           "author": null,
           "description": "【DeepSeek 养老系列二】基金投资养老靠谱吗？有什么风险？费用高不高？所有疑问，DeepSeek 一次解答！专家级养老投资建议，助你轻松规划未来，养老无忧！",
@@ -5668,16 +5688,6 @@
           "wordCount": 2568,
           "title": "Veeam 365 – Missing Application Permissions",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.readysetvirtual.com/?p=1685",
-          "author": "Keiran Shelden",
-          "description": "One of the most tedious operational tasks you can do in IT is manage domains and certificates –",
-          "link": "https://www.readysetvirtual.com/2024/11/17/how-to-automate-certificate-update-in-veeam-backup-for-m365/",
-          "publishedOn": "2024-11-17T12:11:06.000Z",
-          "wordCount": 2730,
-          "title": "How to automate certificate update in Veeam Backup for M365",
-          "imageUrl": null
         }
       ]
     },
@@ -5704,6 +5714,16 @@
       "feedUrl": "https://www.ioiox.com/feed",
       "siteUrl": "https://www.ioiox.com/",
       "articles": [
+        {
+          "id": "https://www.ioiox.com/archives/173.html",
+          "author": "Stille",
+          "description": "前言由于去年 iPhone 16 Pro 提升不大，反而更重了，于是在闲鱼收了一台 15 Pro，在网上查了下大致的验机流程，结合自己的情况整理下，实践后感觉基本能解决大部分人的验机需求，分享给...",
+          "link": "https://www.ioiox.com/archives/173.html",
+          "publishedOn": "2025-02-21T03:49:00.000Z",
+          "wordCount": 1534,
+          "title": "分享个人的二手 iPhone 验机流程 2025",
+          "imageUrl": null
+        },
         {
           "id": "https://www.ioiox.com/archives/172.html",
           "author": "Stille",
@@ -5793,6 +5813,26 @@
       "feedUrl": "https://chegva.com/feed",
       "siteUrl": "https://chegva.com",
       "articles": [
+        {
+          "id": "https://chegva.com/?p=6259",
+          "author": "anzhihe",
+          "description": "前面一篇文章讲的是面试前的准备，我从简历、技术知识、算法题和工作项目四个方面一一分享了该如何做准备，以及其中的经验和技巧。今天我们就来聊聊面试中的技巧。\n形象和谈吐\n面试过程很短，对一个人的认识和了解也是很有限的。如果你的技能一般的话，那么就需要加强你的形象和谈吐了。总之，你不能内在和外在都不要吧，最好是内在和外在都很好。\n形象方面，最好还是穿工作便装，休闲的也没事，但是要让人感到干净、整洁。不要有异味，不要邋遢——头不梳、胡子不刮、衣服也皱巴巴的，还是要修修边幅的。因为有 HR 的人会来面你的，HR 一般都是女孩子，所以不要吓到她们。\n另外，保持微笑，表现得热情、开朗和幽默是非常重要的。每个人都喜欢和开朗风趣积极向上的人相处。经常微笑，表现出自己的热情，适当开开玩笑，自嘲一下，会让人觉得你很容易亲近。交谈时千万不要像挤牙膏一样，别人问你一句，你答一句，要把完整的前因后果讲完。别人问你个事，你就多分享一些这个事中的酸甜苦辣，把故事讲得生动有趣点儿，能逗笑 HR 妹子最好（但不要撩）。\n说话的时候，要看着对方，一方面这是对对方的尊重和礼貌，另一方面，这也是一种自信。就算没有面好，也不要低着头，又不是做错了什么事。有什么事说不清楚的，不要犹豫，该画图画图。对于比较复杂的面试官听不懂的问题，要变换不同的方式来描述。\n面试官问的问题，你要给出充足的细节，千万不要让面试官不断地追问，那样就被动了。你问我解决过的最难的问题是什么，我就把这个问题的来龙去脉和其中的各种细节给你滔滔不绝地讲个遍。当然，也要讲得清楚干净有条理，不要东拉西扯的，也不要云山雾罩的。这些表达和谈吐还是要多练！\n最好的训练就写作，你写得多了，能把复杂的问题描述清楚了，自然也会体现在语言组织能力上了。\n答不出来\n面试中有一些问题很难，但是不要放弃，要不断尝试。很多时候，面试官并不期待你能在很短的时候内解出一道难题，他只…",
+          "link": "https://chegva.com/6259.html",
+          "publishedOn": "2025-02-21T03:26:53.000Z",
+          "wordCount": 9696,
+          "title": "程序员面试攻略(二)：面试中的技巧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chegva.com/?p=6258",
+          "author": "anzhihe",
+          "description": "学习了《程序员练级攻略》以后，我觉得你应该来学习一下“如何面试”了。在我的职业生涯中，我应聘过很多公司，小公司、中型公司、大公司、国内的公司、国外的公司都有。我有成功获得 offer 的经历，也有过不少失败的经历。\n我从 2007 年做管理以来，面试过至少 1000 多人次的工程师。这十多年来，我发现有一些事情没什么变化，我们一代又一代的年轻人在应聘时的表现和我 20 年前没什么两样，连简历都没什么改进，更不要说程序员在表达能力方面的长进了。如果只看面试表现的话，感觉世界停止了 20 年似的。\n我一直在想，为什么应聘、与人沟通、赚钱等这些重要的软技能，学校里不教呢？这么重要的技能居然要你自己去学，不得不说是教育上的一种失败。另外，关于如何应聘的事，估计你也看过一些文章了，我这里只分享一些我的实实在在的经验和相关的技巧。一定你和看过的不太一样。相信一定能帮得到你！\n应聘是需要准备的，下面这些点你需要好好地准备一下。如果你没有准备的话，那么被 pass 掉的概率会非常大。\n怎样写简历\n首先你要准备的是简历。简历很重要，这是别人了解你的第一个地方，所以简历要好好写。当然，我们知道真正的好简历是要用自己的经历去写的，比如，有人的简历就是一句话：我发明了 Unix。\n当然，并不是所有的人都有这样的经历，但这依然告诉我们，自己的经历才是简历最大的亮点。所以，你要去那些能让你的简历有更多含金量的公司工作，要做那些能让你的简历更闪亮的工作。这是写简历的最佳实践——用自己的经历聊，而不是用文字写。\n但从另一方面来说，简历这个文本也是要好好写的，况且，我们不是每个人都会有很耀眼的经历，所以，还是要好好写简历。基本上来说，简历上的信息不要写太多，信息太多相当于没有信息，不要单纯地罗列，要突出自己的长处和技能。一般来说，简历需要包括以下几项内容。\n\n自我简介。这个自我简介是用最简单的话来说明自己的…",
+          "link": "https://chegva.com/6258.html",
+          "publishedOn": "2025-02-18T02:57:48.000Z",
+          "wordCount": 9697,
+          "title": "程序员面试攻略(一)：面试前的准备",
+          "imageUrl": null
+        },
         {
           "id": "https://chegva.com/?p=6256",
           "author": "anzhihe",
@@ -5963,6 +6003,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://jia.je/hardware/2025/01/10/intel_golden_cove/",
+          "author": null,
+          "description": "Intel Golden Cove 微架构评测¶\n背景¶\n前段时间测试了 AMD/Apple/Qualcomm/ARM 的处理器的微架构，自然不能漏了 Intel。虽然 Intel 已经出了 Redwood Cove 和 Lion Cove，但手上没有设备，而且 Golden Cove 也是“相对比较成功”（“缩缸的是 Raptor Cove，和我 Golden Cove 有什么关系，虽然其实 Raptor Cove 是 Golden Cove Refresh”）的一代微架构，用在了 Alder Lake 和 Sapphire Rapids 上，因此就来分析它，后续有机会也会分析一下对应的 E 核架构 Gracemont。\n\n官方信息¶\nIntel 关于 Golden Cove 微架构有这些官方的信息：\n\nIntel Alder Lake CPU Architectures\nAlder Lake Architecture on Hot Chips 33\nSapphire Rapids on Hot Chips 33\nIntel 64 and IA-32 Architectures Optimization Reference Manual Volume 1\n\n现有评测¶\n网上已经有较多针对 Golden Cove 微架构的评测和分析，建议阅读：\n\nPopping the Hood on Golden Cove\nGolden Cove\nGolden Cove’s Vector Register File: Checking with Official (SPR) Data\n4th Gen Intel Xeon Scalable Sapphire Rapids Leaps Forward\nIntel Details Golden Cove: Next-Generation Bi…",
+          "link": "https://jia.je/hardware/2025/01/10/intel_golden_cove/",
+          "publishedOn": "2025-01-10T00:00:00.000Z",
+          "wordCount": 2023,
+          "title": "Intel Golden Cove 微架构评测",
+          "imageUrl": null
+        },
+        {
           "id": "https://jia.je/hardware/2024/12/27/cpu_uarch_reverse_engineering_methodology/",
           "author": null,
           "description": "CPU 微架构逆向方法学¶\n背景¶\n最近做了不少微架构的评测，其中涉及到了很多的 CPU 微架构的逆向：\n\nApple M1 微架构评测\nQualcomm Oryon 微架构评测\nAMD Zen 5 微架构评测\nARM Neoverse V2 微架构评测\n\n因此总结一下 CPU 微架构逆向方法学。\n\n定义¶\n首先定义一下：什么是 CPU 微架构逆向，我认为 CPU 微架构逆向包括两部分含义：\n\n在已经知道某 CPU 微架构采用某种设计，只是不知道其设计参数时，通过逆向，得到它的设计参数\n在不确定某 CPU 微架构采用的是什么设计，给出一些可能的设计，通过逆向，排除或确认其设计，再进一步找到它的设计参数\n\n举一个例子，已经知道某 CPU 微架构有一个组相连的 L1 DCache，但不知道它的容量，几路组相连，此时通过微架构逆向的方法，可以得到它的容量，具体是几路组相连，进一步可能把它的 Index 函数也逆向出来。这是第一部分含义。\n再举一个例子，已经知道某 CPU 微架构有一个分支预测器，但不知道它使用了什么信息来做预测，可能用了分支的地址，可能用了分支要跳转的目的地址，可能用了分支的方向，这时候通过微架构逆向的方法，对不同的可能性做排除，找到真正的那一个。如果不能排除到只剩一个可能，或者全部可能都被排除掉，说明实际的微架构设计和预期不相符。\n第一部分含义，目前已经有大量的成熟的 Microbenchmark（针对微架构 Microarchitecture 设计的 Benchmark，叫做 Microbenchmark）来解决，它们针对常见的微架构设计，实现了对相应设计参数的逆向的 Microbenchmark，可以在很多平台上直接使用。第二部分含义，目前还只能逐个分析，去猜测背后的设计，再根据设计去构造对应该设计的 Microbenchmark。\n下面主要来介绍，设计和实…",
@@ -6047,16 +6097,6 @@
           "publishedOn": "2024-12-12T07:34:00.000Z",
           "wordCount": 499,
           "title": "记录一次面试",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.xingzou.org/p/867",
-          "author": "北禾",
-          "description": "等了挺久，终于在公司还是等来了项目可能不做了的消息，项目不做了，就意味着裁员失业或者换岗，去负责其他的事情来现在的这个公司快四年了，前面两年做一个项目，现在的这个项目是23年年初开始做的，持续到...",
-          "link": "https://www.xingzou.org/p/867",
-          "publishedOn": "2024-11-18T07:13:00.000Z",
-          "wordCount": 437,
-          "title": "变化",
           "imageUrl": null
         }
       ]

@@ -2,10 +2,124 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-02-21T01:48:45.036Z</updated>
+    <updated>2025-02-22T01:45:07.086Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daily Tech Deals February 21 2025]]></title>
+        <id>https://www.virtualizationhowto.com/?p=299571</id>
+        <link href="https://www.virtualizationhowto.com/2025/02/daily-tech-deals-february-21-2025/"/>
+        <updated>2025-02-21T16:17:44.000Z</updated>
+        <summary type="html"><![CDATA[Below are a few daily tech deals take note of. We are all on the lookout for good tech at reasonable prices. You can get a GEN5 NVMe drive, the Crucial T700 2TB Gen5 NVMe M.2 SSD with Heatsink for 32% off. You can also get a Kingston NV3 500GB M.2 2280 NVMe drive for …
+The post Daily Tech Deals February 21 2025 appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minisforum BD795i SE Motherboard Review for Home Lab]]></title>
+        <id>https://www.virtualizationhowto.com/?p=299546</id>
+        <link href="https://www.virtualizationhowto.com/2025/02/minisforum-bd795i-se-motherboard-review-for-home-lab/"/>
+        <updated>2025-02-21T15:17:30.000Z</updated>
+        <summary type="html"><![CDATA[Minisforum is a name that is synonymous with home labs. They have one of the best mini PCs available for home lab use in the Minisforum MS-01 mini PC. I also predict we will be saying that about its successor, the MS-A2, soon to be released either this next month or in April. However, you …
+The post Minisforum BD795i SE Motherboard Review for Home Lab appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球清廉指数是个啥玩意]]></title>
+        <id>https://lawtee.com/article/whats-transparency-international/</id>
+        <link href="https://lawtee.com/article/whats-transparency-international/"/>
+        <updated>2025-02-21T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今天在微信群看到有人转发全球清廉指数排名，中国位居全球 76 名，跟摩尔多瓦、所罗门群岛一个水平，只比印度多 5 分，而比欧洲低了四五十分。直觉告诉我，这个指数应该有点问题，中国这些年一直在认真对付深层次腐败，没道理排名会下降这么多。结果一查，发现这玩意真是惊掉下巴。
+所谓全球清廉指数实质上就是个二手指数
+
+在透明国际官网上，对于全球清廉指数（CPI）是这么描述的:
+The Corruption Perceptions Index scores 180 countries and territories according to the levels of public-sector corruption perceived by experts and businesspeople. It relies on 13 independent data sources and uses a scale of zero to 100, where zero is highly corrupt and 100 is very clean.
+但实际上，打开报告后发现，他的研究方法是：
+The CPI 2024 is calculated using 13 different data sources from 12 different institutions that capture perceptions of corruption within the past two years.
+
+对比发现，报告中写的是清廉指数依据13个独立数据源，通过标准差和方差这种纯数学方法计算得出。连计分权重都没有，实质就是选取一堆所谓国际排名进行综合，得出最终的“清廉指数”，毫无疑问就是个“二手指数”。
+移花接木的指数介绍
+
+继续看上边两段描述。在报告中讲的研究方法是：依据13个独立数据源计算得…]]></summary>
+        <author>
+            <name>法律小茶馆</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is Ollama? Features and Getting Started]]></title>
+        <id>https://collabnix.com/?p=30600</id>
+        <link href="https://collabnix.com/what-is-ollama-features-and-getting-started/"/>
+        <updated>2025-02-21T09:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Ollama is an open-source platform designed to run large language models (LLMs) locally on your machine. This provides developers, researchers, and businesses with full control over their data, ensuring privacy and security while eliminating reliance on cloud-based services. By running AI models locally, Ollama reduces latency, enhances performance, and allows for complete customization. This guide […]]]></summary>
+        <author>
+            <name>Adesoji Alu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes 资源管理深度解析：Requests、Limits 与底层 cgroups 的协作机制]]></title>
+        <id>/archives/1740127065121</id>
+        <link href="http://localhost:8090/archives/1740127065121"/>
+        <updated>2025-02-21T08:38:19.000Z</updated>
+        <summary type="html"><![CDATA[摘要 在 Kubernetes 集群中，资源管理是保障应用稳定性和集群效率的核心环节。requests 和 limits 的配置直接影响 Pod 的调度行为、资源争抢时的分配策略，甚至容器的生存状态。本文将深入探讨这些配置的底层原理，并通过实际场景分析，揭示 Kubernetes 如何通过 Linu]]></summary>
+        <author>
+            <name>Lixx Blog - 李晓旭的博客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Automated Systems Are Redefining Customer Experience in Meal Services]]></title>
+        <id>https://collabnix.com/?p=30650</id>
+        <link href="https://collabnix.com/how-automated-systems-are-redefining-customer-experience-in-meal-services/"/>
+        <updated>2025-02-21T05:15:50.000Z</updated>
+        <summary type="html"><![CDATA[The online meal service industry is revolutionizing the way people access food, offering one-stop-shop convenience, variety, and custom nutrition planning. Seniors, homebound adults, busy parents, professionals, and health-conscious consumers are discovering the benefits of these services for ready-made meals or portioned ingredients. Meal services use automated systems to ensure satisfaction through: Let’s explore how automated […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分享个人的二手 iPhone 验机流程 2025]]></title>
+        <id>https://www.ioiox.com/archives/173.html</id>
+        <link href="https://www.ioiox.com/archives/173.html"/>
+        <updated>2025-02-21T03:49:00.000Z</updated>
+        <summary type="html"><![CDATA[前言由于去年 iPhone 16 Pro 提升不大，反而更重了，于是在闲鱼收了一台 15 Pro，在网上查了下大致的验机流程，结合自己的情况整理下，实践后感觉基本能解决大部分人的验机需求，分享给...]]></summary>
+        <author>
+            <name>Stille</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[程序员面试攻略(二)：面试中的技巧]]></title>
+        <id>https://chegva.com/?p=6259</id>
+        <link href="https://chegva.com/6259.html"/>
+        <updated>2025-02-21T03:26:53.000Z</updated>
+        <summary type="html"><![CDATA[前面一篇文章讲的是面试前的准备，我从简历、技术知识、算法题和工作项目四个方面一一分享了该如何做准备，以及其中的经验和技巧。今天我们就来聊聊面试中的技巧。
+形象和谈吐
+面试过程很短，对一个人的认识和了解也是很有限的。如果你的技能一般的话，那么就需要加强你的形象和谈吐了。总之，你不能内在和外在都不要吧，最好是内在和外在都很好。
+形象方面，最好还是穿工作便装，休闲的也没事，但是要让人感到干净、整洁。不要有异味，不要邋遢——头不梳、胡子不刮、衣服也皱巴巴的，还是要修修边幅的。因为有 HR 的人会来面你的，HR 一般都是女孩子，所以不要吓到她们。
+另外，保持微笑，表现得热情、开朗和幽默是非常重要的。每个人都喜欢和开朗风趣积极向上的人相处。经常微笑，表现出自己的热情，适当开开玩笑，自嘲一下，会让人觉得你很容易亲近。交谈时千万不要像挤牙膏一样，别人问你一句，你答一句，要把完整的前因后果讲完。别人问你个事，你就多分享一些这个事中的酸甜苦辣，把故事讲得生动有趣点儿，能逗笑 HR 妹子最好（但不要撩）。
+说话的时候，要看着对方，一方面这是对对方的尊重和礼貌，另一方面，这也是一种自信。就算没有面好，也不要低着头，又不是做错了什么事。有什么事说不清楚的，不要犹豫，该画图画图。对于比较复杂的面试官听不懂的问题，要变换不同的方式来描述。
+面试官问的问题，你要给出充足的细节，千万不要让面试官不断地追问，那样就被动了。你问我解决过的最难的问题是什么，我就把这个问题的来龙去脉和其中的各种细节给你滔滔不绝地讲个遍。当然，也要讲得清楚干净有条理，不要东拉西扯的，也不要云山雾罩的。这些表达和谈吐还是要多练！
+最好的训练就写作，你写得多了，能把复杂的问题描述清楚了，自然也会体现在语言组织能力上了。
+答不出来
+面试中有一些问题很难，但是不要放弃，要不断尝试。很多时候，面试官并不期待你能在很短的时候内解出一道难题，他只…]]></summary>
+        <author>
+            <name>anzhihe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI不会抢人类饭碗，但不用AI的人正在被时代辞退]]></title>
+        <id>https://panzhixiang.cn/2025/how-to-use-ai/</id>
+        <link href="https://panzhixiang.cn/2025/how-to-use-ai/"/>
+        <updated>2025-02-20T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>大家最近是不是经常看到各种关于 DeepSeek 的新闻？各种传宣 AI 如何如何厉害。</p>
+<p>但是感觉AI新闻满天飞，工作还是老方法？</p>
+<p>今天讲几个比较简单但是有用的使用 AI 帮助提升工作的方法。</p>]]></summary>
+        <author>
+            <name>潘智祥</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daily Tech Deals February 20 2025]]></title>
         <id>https://www.virtualizationhowto.com/?p=299539</id>
@@ -256,6 +370,25 @@ The post AMD Ryzen 9 7945HX BIOS Settings: Power Consumption and Bifurcation app
         <summary type="html"><![CDATA[网络参考模型与标准协议 以下内容来源于 华为官方讲义课件+ 个人整理，如有侵权，请联系作者删除 1. 数据与网络参考模型 在数字化时代，信息以数据的形式存在并传递。本章通过网络参考模型，帮助我们理解数据的“一生”。 2. 应用与数据 2.1 应用 应用的存在是为了满足人们的需求，例如访问网页、在线游]]></summary>
         <author>
             <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[程序员面试攻略(一)：面试前的准备]]></title>
+        <id>https://chegva.com/?p=6258</id>
+        <link href="https://chegva.com/6258.html"/>
+        <updated>2025-02-18T02:57:48.000Z</updated>
+        <summary type="html"><![CDATA[学习了《程序员练级攻略》以后，我觉得你应该来学习一下“如何面试”了。在我的职业生涯中，我应聘过很多公司，小公司、中型公司、大公司、国内的公司、国外的公司都有。我有成功获得 offer 的经历，也有过不少失败的经历。
+我从 2007 年做管理以来，面试过至少 1000 多人次的工程师。这十多年来，我发现有一些事情没什么变化，我们一代又一代的年轻人在应聘时的表现和我 20 年前没什么两样，连简历都没什么改进，更不要说程序员在表达能力方面的长进了。如果只看面试表现的话，感觉世界停止了 20 年似的。
+我一直在想，为什么应聘、与人沟通、赚钱等这些重要的软技能，学校里不教呢？这么重要的技能居然要你自己去学，不得不说是教育上的一种失败。另外，关于如何应聘的事，估计你也看过一些文章了，我这里只分享一些我的实实在在的经验和相关的技巧。一定你和看过的不太一样。相信一定能帮得到你！
+应聘是需要准备的，下面这些点你需要好好地准备一下。如果你没有准备的话，那么被 pass 掉的概率会非常大。
+怎样写简历
+首先你要准备的是简历。简历很重要，这是别人了解你的第一个地方，所以简历要好好写。当然，我们知道真正的好简历是要用自己的经历去写的，比如，有人的简历就是一句话：我发明了 Unix。
+当然，并不是所有的人都有这样的经历，但这依然告诉我们，自己的经历才是简历最大的亮点。所以，你要去那些能让你的简历有更多含金量的公司工作，要做那些能让你的简历更闪亮的工作。这是写简历的最佳实践——用自己的经历聊，而不是用文字写。
+但从另一方面来说，简历这个文本也是要好好写的，况且，我们不是每个人都会有很耀眼的经历，所以，还是要好好写简历。基本上来说，简历上的信息不要写太多，信息太多相当于没有信息，不要单纯地罗列，要突出自己的长处和技能。一般来说，简历需要包括以下几项内容。
+
+自我简介。这个自我简介是用最简单的话来说明自己的…]]></summary>
+        <author>
+            <name>anzhihe</name>
         </author>
     </entry>
     <entry>
@@ -3084,6 +3217,35 @@ $ kubectl exec -it $(kubectl get po -l app=istiod -oname) -- curl localhost:1501
 这个命令显示了超过 87 个独特指标——还不包括一些因我的集群中值为 null 而未统计的饱和度和其他特定指标。建议重点关注与延迟、流量、错误和…]]></summary>
         <author>
             <name>博客 | 云原生社区（中国）</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Golden Cove 微架构评测]]></title>
+        <id>https://jia.je/hardware/2025/01/10/intel_golden_cove/</id>
+        <link href="https://jia.je/hardware/2025/01/10/intel_golden_cove/"/>
+        <updated>2025-01-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Intel Golden Cove 微架构评测¶
+背景¶
+前段时间测试了 AMD/Apple/Qualcomm/ARM 的处理器的微架构，自然不能漏了 Intel。虽然 Intel 已经出了 Redwood Cove 和 Lion Cove，但手上没有设备，而且 Golden Cove 也是“相对比较成功”（“缩缸的是 Raptor Cove，和我 Golden Cove 有什么关系，虽然其实 Raptor Cove 是 Golden Cove Refresh”）的一代微架构，用在了 Alder Lake 和 Sapphire Rapids 上，因此就来分析它，后续有机会也会分析一下对应的 E 核架构 Gracemont。
+
+官方信息¶
+Intel 关于 Golden Cove 微架构有这些官方的信息：
+
+Intel Alder Lake CPU Architectures
+Alder Lake Architecture on Hot Chips 33
+Sapphire Rapids on Hot Chips 33
+Intel 64 and IA-32 Architectures Optimization Reference Manual Volume 1
+
+现有评测¶
+网上已经有较多针对 Golden Cove 微架构的评测和分析，建议阅读：
+
+Popping the Hood on Golden Cove
+Golden Cove
+Golden Cove’s Vector Register File: Checking with Official (SPR) Data
+4th Gen Intel Xeon Scalable Sapphire Rapids Leaps Forward
+Intel Details Golden Cove: Next-Generation Bi…]]></summary>
+        <author>
+            <name>杰哥的{运维，编程，调板子}小笔记</name>
         </author>
     </entry>
     <entry>
@@ -8618,79 +8780,6 @@ Warp Drive 将终端工具扩展到…]]></summary>
         <summary type="html"><![CDATA[走出去，让自己世界的半径更大一点。]]></summary>
         <author>
             <name>一颗小树</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Automate Sharing WordPress Posts to Twitter or Bluesky Using IFTTT]]></title>
-        <id>https://collabnix.com/?p=28723</id>
-        <link href="https://collabnix.com/how-to-automate-sharing-wordpress-posts-to-twitter-or-bluesky-using-ifttt/"/>
-        <updated>2024-11-24T12:44:02.000Z</updated>
-        <summary type="html"><![CDATA[If you’re a WordPress blogger who writes technical blogs and wants to automate sharing your posts on platforms like Twitter or Bluesky, this guide is for you. Imagine saving hours by letting a smart workflow post your past and future articles regularly without manual intervention. With IFTTT (If This Then That), you can achieve just […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Is Bluesky Different from Twitter? 5 Technical Reasons to Switch Now]]></title>
-        <id>https://collabnix.com/?p=28706</id>
-        <link href="https://collabnix.com/how-is-bluesky-different-from-twitter-5-technical-reasons-to-switch-now/"/>
-        <updated>2024-11-24T09:07:45.000Z</updated>
-        <summary type="html"><![CDATA[In the fast-evolving world of social media, Twitter has long reigned as the platform of choice for real-time conversations. However, recent controversies—from algorithmic biases to restrictive moderation policies—have left many users searching for alternatives. Enter Bluesky, a decentralized social media platform with a bold vision: to return control to its users and revolutionize how we […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Kubernetes Cloud or DevOps?]]></title>
-        <id>https://collabnix.com/?p=28692</id>
-        <link href="https://collabnix.com/is-kubernetes-cloud-or-devops-2/"/>
-        <updated>2024-11-24T07:19:03.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve spent even a little time in the cloud-native or DevOps space, you’ve probably heard of Kubernetes (or K8s for short). It’s the superstar of modern application management, the buzzword that makes developers’ eyes light up—and occasionally makes ops teams groan. But here’s a question I’ve been often asked: “Is Kubernetes a cloud tool, […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前沿快讯 第63期 人类细胞图谱等]]></title>
-        <id>https://blognas.hwb0307.com/other/6144</id>
-        <link href="https://blognas.hwb0307.com/medicine/6144"/>
-        <updated>2024-11-23T14:21:28.000Z</updated>
-        <summary type="html"><![CDATA[Bensz
-前沿快讯 第63期 人类细胞图谱等
-本博客由Faconhost大力赞助！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 前言 本文是前沿快讯的第63期。前沿快讯栏目主要收集一些个人感兴趣的近期发表的研究，关注领域包括肿瘤的分子生物学、临床研究、流行病学等，文献类型主要是期刊论文和综述。研究介绍在Google机翻摘要的基础上进行微调，可能不一定特别准确、专业，主要目的是方便自己和大家快速了解和回顾相关领域研究进展。如果你对某个研究的细节感兴趣，请自行寻找全文进一步了解。此外，研究根据子领域会进一步细分，不过交叉领域的研究不好分为某一类，所以这个分类主要用于初级索引，并不十分准确，不喜勿喷。最后，大家看到什么特别的研究，也可以在评论区向我推荐，我会酌情收录在后面的期刊中。如无意外，前沿快讯栏目会长期更新，周期为2周-1月 […]
-Bensz]]></summary>
-        <author>
-            <name>Bensz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 DTS 实现腾讯云数据库 MySQL 多节点和单节点互相转换]]></title>
-        <id>https://www.mintimate.cn/2024/11/23/QCloudSqlMultiToSingleNode/</id>
-        <link href="https://www.mintimate.cn/2024/11/23/QCloudSqlMultiToSingleNode/"/>
-        <updated>2024-11-23T13:55:06.000Z</updated>
-        <summary type="html"><![CDATA[在腾讯云上购买了 MySQL 的 DBaaS 服务，发现单节点和多节点之间是无法转换的。但是可以使用 DTS 来间接实现单节点和多节点的互相转换。]]></summary>
-        <author>
-            <name>雨月空间站</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[变化]]></title>
-        <id>https://www.xingzou.org/p/867</id>
-        <link href="https://www.xingzou.org/p/867"/>
-        <updated>2024-11-18T07:13:00.000Z</updated>
-        <summary type="html"><![CDATA[等了挺久，终于在公司还是等来了项目可能不做了的消息，项目不做了，就意味着裁员失业或者换岗，去负责其他的事情来现在的这个公司快四年了，前面两年做一个项目，现在的这个项目是23年年初开始做的，持续到...]]></summary>
-        <author>
-            <name>北禾</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to automate certificate update in Veeam Backup for M365]]></title>
-        <id>https://www.readysetvirtual.com/?p=1685</id>
-        <link href="https://www.readysetvirtual.com/2024/11/17/how-to-automate-certificate-update-in-veeam-backup-for-m365/"/>
-        <updated>2024-11-17T12:11:06.000Z</updated>
-        <summary type="html"><![CDATA[One of the most tedious operational tasks you can do in IT is manage domains and certificates –]]></summary>
-        <author>
-            <name>Keiran Shelden</name>
         </author>
     </entry>
 </feed>
