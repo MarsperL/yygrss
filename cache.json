@@ -247,7 +247,18 @@
       "title": "whyes 的博客",
       "feedUrl": "http://whyes.org/feed.xml",
       "siteUrl": "http://whyes.org/",
-      "articles": []
+      "articles": [
+        {
+          "id": "http://whyes.org/2025/esmo-guideline-hcc-2025",
+          "author": null,
+          "description": "最近几年，肝细胞癌（HCC）系统治疗取得了巨大进步，这也推动了肝癌指南的更新。近期， 欧洲肿瘤内科学会（ESMO）也更新了肝癌诊疗指南，全称是《Hepatocellular carcinoma: ESMO Clinical Practice...",
+          "link": "http://whyes.org/2025/esmo-guideline-hcc-2025",
+          "publishedOn": "2025-02-23T09:39:20.000Z",
+          "wordCount": 719,
+          "title": "ESMO肝癌实践指南（2025年版）更新要点",
+          "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
+        }
+      ]
     },
     {
       "title": "daverupert.com",
@@ -403,16 +414,6 @@
           "wordCount": 839,
           "title": "I got the ADHD, too",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2024/11/goodbye-moogs/",
-          "author": null,
-          "description": "The people who found you in the alley called you Cowboy. We called you Moogs, Moogers, Moogerton, Mr Moogs, Meesta, Two Meestas, Beef, Roast Beef, Roast Beefy Weefy, Kitty, Kitty cat, Long cat, Kitty kitty, Pretty kitty, and Meow meow. Those were all your names.\nToday we had to say goodbye to our cat Moogs (pronounced “Moo” like the cow says + “gs”). He was nearly 19 years old, which is about all you can ask for from a great cat. A senior cat with a thyroid problem – so his passing is not an incredible surprise – but he took a sudden downturn over the weekend. He died in his sleep.\nMy wife adopted him before we were even dating in 2006. I never had a cat, was more of a dog person, and I made it my mission to befriend the cat to win her over. I succeeded in my goal and he let me hold him li…",
-          "link": "https://daverupert.com/2024/11/goodbye-moogs/",
-          "publishedOn": "2024-11-26T03:08:00.000Z",
-          "wordCount": 982,
-          "title": "Goodbye, Moogs",
-          "imageUrl": "https://cdn.daverupert.com/opengraph/moogs.jpg"
         }
       ]
     },
@@ -1283,6 +1284,16 @@
       "siteUrl": "https://blog.ops-coffee.cn",
       "articles": [
         {
+          "id": "https://blog.ops-coffee.cn/r/city-china-heilongjiang-haerbin",
+          "author": null,
+          "description": "万字攻略，详细记录哈尔滨五天四万的深度旅行，小众游玩指南+私藏美食推荐",
+          "link": "https://blog.ops-coffee.cn/r/city-china-heilongjiang-haerbin",
+          "publishedOn": "2025-02-23T15:09:17.000Z",
+          "wordCount": 144,
+          "title": "哈尔滨｜松花江畔的冰雪叙事与铁轨之上的冰城记忆",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.ops-coffee.cn/r/the-dream-of-my-life.html",
           "author": null,
           "description": "你有梦想吗？你的梦想是什么？梦想还有机会实现吗？",
@@ -1598,16 +1609,6 @@
           "wordCount": 243,
           "title": "Follow.is 使用体验分享：高效信息管理的智能工具",
           "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
-        },
-        {
-          "id": "https://jimmysong.io/blog/ai-ppt-to-hugo/",
-          "author": "Jimmy Song",
-          "description": "以下是使用通义千问 AI 快速生成 PPT 并将其发布到个人网站的简单流程：\n注：PPT 内容由通义 AI 生成，访问 tongyi.ai 智能生成更多 PPT\n使用通义千问生成 PPT\n工具地址：通义千问 AI PPT\n登录方式：\n\n使用淘宝账号和手机号验证码登录。\n功能亮点：\n\n主题生成：输入一个主题，AI 可以自动生成 PPT 内容（适合简单场景）。\n长文生成：支持最多 10 万字的文本解析，适合将报告或博客生成 PPT。\n模板个性化：支持选择多种模板，生成的 PPT 可以导出为 pptx 格式。\n使用体验：\n\n我尝试用自己的博客生成了一份 PPT，AI 自动整理了章节和配图，效果还不错，模板选择提升了个性化展示的效果。\n导入 Canva 进行调整\n工具地址：Canva.cn\n调整方法：\n\n将从通义千问生成的 pptx 文件导入 Canva。\n根据需要调整 排版布局，补充和调整一些内容。\n完成调整后，在 Canva 中选择导出为 嵌入式网页，生成一个可分享的链接。\n将 PPT 发布到个人网站\n工具：Hugo\n操作步骤：\n\n\n在 Hugo 博客中，使用以下 Shortcode 嵌入 Canva 的分享链接：\n<slide src=\"https://www.canva.cn/design/DAGXjo0P9w0/view\">\n\n\n保存后部署网站，即可在博客中直接展示 PPT。\n使用场景\n博客嵌入 PPT 的适用场景可以涵盖以下几个方面：\n提炼长内容的梗概；\n简化多图内容的存储与排版；\n展示数据与图表；\n教程与演示文档；\n总结与复盘；\n对外分享和推广。\n总结\n通过 通义千问 AI PPT 和 Canva 的结合，可以快速生成并发布高质量的 PPT 到个人网站。这种方法尤其适合将博客内容快速转化为视觉化演示，既省时又高效。\n如果需要更多样式和交互，可以进一步自定义 Canva 的模板，满足更高的个性化需求。",
-          "link": "https://jimmysong.io/blog/ai-ppt-to-hugo/",
-          "publishedOn": "2024-11-26T09:06:58.000Z",
-          "wordCount": 291,
-          "title": "如何使用通义千问 AI 生成 PPT 并发布到个人网站",
-          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
         }
       ]
     },
@@ -1664,16 +1665,6 @@
           "publishedOn": "2024-12-05T03:45:00.000Z",
           "wordCount": 506,
           "title": "202411面试记录",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nops.icu/archives/180/",
-          "author": "季兴",
-          "description": "多年的运维感悟，什么阶段干什么事。这也是我在内部的运维规范里明确标明，“不提前优化”我来谈谈几个阶段，初创阶段部分参考 原文链接：https://mp.weixin.qq.com/s/vVhLZ...",
-          "link": "https://nops.icu/archives/180/",
-          "publishedOn": "2024-11-26T07:12:00.000Z",
-          "wordCount": 535,
-          "title": "读《流量从10万到10亿》有感",
           "imageUrl": null
         }
       ]
@@ -2502,16 +2493,6 @@
           "wordCount": 9864,
           "title": "How to Check if Kubernetes Ingress Worked with Traefik",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/11/Kubernetes-Ingress.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298075",
-          "author": "Brandon Lee",
-          "description": "Proxmox has gained tremendous popularity in 2024. So many home lab enthusiasts, SMBs, and enterprise environments are looking at their options with the fallout from VMware by Broadcom. Proxmox has been introducing many new features with each release and are aggressively targeting ones looking at virtualization alternatives or looking to migrate from their existing solution. …\nThe post Proxmox VE 8.3 New Features with OVA Import appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2024/11/proxmox-ve-8-3-new-features-with-ova-import/",
-          "publishedOn": "2024-11-25T15:23:49.000Z",
-          "wordCount": 10256,
-          "title": "Proxmox VE 8.3 New Features with OVA Import",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/11/8.3-New-Features.jpg"
         }
       ]
     },
@@ -3779,36 +3760,6 @@
           "wordCount": 2495,
           "title": "How vLLM and Docker are Changing the Game for LLM Deployments",
           "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/11/Screenshot-2024-11-26-at-10.43.23%E2%80%AFPM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=28778",
-          "author": "Tanvir Kour",
-          "description": "The world of large language models (LLMs) is evolving rapidly, offering diverse tools for developers to integrate powerful AI into their workflows. Whether you are running models locally, deploying servers for real-time applications, or leveraging open-source repositories, tools like Ollama, vLLM, Hugging Face, LangChain, and Open WebUI have become indispensable. Here’s an in-depth exploration of […]",
-          "link": "https://collabnix.com/exploring-llms-ollama-vllm-hugging-face-langchain-and-open-webui/",
-          "publishedOn": "2024-11-26T12:55:38.000Z",
-          "wordCount": 2600,
-          "title": "Exploring LLMs: Ollama, vLLM, Hugging Face, LangChain, and Open WebUI",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/11/Screenshot-2024-11-26-at-6.26.36%E2%80%AFPM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=28775",
-          "author": "Tanvir Kour",
-          "description": "Cloud automation is transforming how developers work, offering innovative tools that streamline processes. These tools save time and reduce manual errors, enabling focus on creating quality applications. Curious about the latest solutions enhancing productivity? Let’s explore seven groundbreaking technologies making waves in cloud development this year. 1. Enhancing Efficiency with Terraform Developers rely heavily on […]",
-          "link": "https://collabnix.com/8-tools-revolutionizing-cloud-automation-for-developers/",
-          "publishedOn": "2024-11-26T12:45:17.000Z",
-          "wordCount": 2738,
-          "title": "8 Tools Revolutionizing Cloud Automation for Developers",
-          "imageUrl": "https://usercontent.one/wp/collabnix.com/wp-content/uploads/2024/11/word-image-28775-1-png.avif?media=1725267074"
-        },
-        {
-          "id": "https://collabnix.com/?p=28772",
-          "author": "Tanvir Kour",
-          "description": "Did you know that by 2027, the no-code and low-code app development market is projected to reach a staggering $65 billion? This explosive growth is no coincidence. Companies across industries are racing to create apps that meet the needs of today’s fast-paced digital landscape, but traditional app development often comes with a heavy price—both in […]",
-          "link": "https://collabnix.com/how-no-code-and-low-code-solutions-are-disrupting-traditional-app-development/",
-          "publishedOn": "2024-11-26T12:17:56.000Z",
-          "wordCount": 3117,
-          "title": "How No-Code and Low-Code Solutions Are Disrupting Traditional App Development",
-          "imageUrl": "https://usercontent.one/wp/collabnix.com/wp-content/uploads/2024/11/word-image-28772-1-png.avif?media=1725267074"
         }
       ]
     },
@@ -4213,16 +4164,6 @@
           "publishedOn": "2024-11-27T21:22:00.000Z",
           "wordCount": 547,
           "title": "景德镇之行",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://www.skyue.com/24112604.html",
-          "author": "拾月",
-          "description": "双11剁手了索尼A7C2。这是我买的第3台相机。第一台是2014年花了8000多买的尼康D7100，吃了两三年灰，最终卖掉了。第二台是2019年买的索尼A6400（价格忘了），吃灰一年，于202...",
-          "link": "https://www.skyue.com/24112604.html",
-          "publishedOn": "2024-11-25T20:49:00.000Z",
-          "wordCount": 556,
-          "title": "入手索尼A7C2",
           "imageUrl": ""
         }
       ]
@@ -4805,16 +4746,6 @@
           "wordCount": 1331,
           "title": "WAFPRO 防御加速 CDN 新版上线",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/772/",
-          "author": null,
-          "description": "<blockquote>\n<p>在数字化时代，网站的访问速度和稳定性对用户体验至关重要，无畏云 CDN 正是针对这一需求而生，为广大站长提供高效且免费的 CDN 加速服务。本文将介绍无畏云 CDN 的功能、优势及在实际中的应用效果。</p>\n</blockquote>",
-          "link": "https://dusays.com/772/",
-          "publishedOn": "2024-11-25T16:00:00.000Z",
-          "wordCount": 1320,
-          "title": "无畏云 CDN 加速免费依旧",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
     },
@@ -5144,16 +5075,6 @@
           "wordCount": null,
           "title": "如何排查和清理 Linux 系统中的磁盘空间",
           "imageUrl": null
-        },
-        {
-          "id": "/archives/1732593156608",
-          "author": null,
-          "description": "如何在 Kubernetes 集群中修改 Pod CIDR 范围及合理规划集群大小 在 Kubernetes 集群中，Pod CIDR 范围用于指定分配给 Pod 的 IP 地址段。在某些情况下，可能需要修改集群的 Pod CIDR 范围，例如为了适应新的网络规划或拓展集群的 IP 地址池。此外，合",
-          "link": "http://localhost:8090/archives/1732593156608",
-          "publishedOn": "2024-11-26T03:55:24.000Z",
-          "wordCount": null,
-          "title": "如何在 Kubernetes 集群中修改 Pod CIDR 范围及合理规划集群大小",
-          "imageUrl": null
         }
       ]
     },
@@ -5168,6 +5089,16 @@
       "feedUrl": "https://www.qikqiak.com/index.xml",
       "siteUrl": "https://www.qikqiak.com/",
       "articles": [
+        {
+          "id": "https://www.qikqiak.com/post/cursor-rules-guide/",
+          "author": null,
+          "description": "当我们在使用 Cursor 来编写代码的时候，Cursor 规则可以说是最重要的，这个规则直接影响我们编写代码的质量。Cursor 规则是用户提供的一组指导说明，用来帮助 AI  更好地理解和处理代码库，这些规则可以包含特定的代码处理要求、项目规范或者其他重要信息，所以说其非常非常重要。",
+          "link": "https://www.qikqiak.com/post/cursor-rules-guide/",
+          "publishedOn": "2025-02-23T00:00:00.000Z",
+          "wordCount": 431,
+          "title": "一文搞懂如何在 Cursor 新版本(0.45+)中使用规则",
+          "imageUrl": "https://picdn.youdianzhishi.com/images/blog-favicon.png"
+        },
         {
           "id": "https://www.qikqiak.com/post/gpustack-introduction/",
           "author": null,
