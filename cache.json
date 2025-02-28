@@ -249,6 +249,16 @@
       "siteUrl": "http://whyes.org/",
       "articles": [
         {
+          "id": "http://whyes.org/2025/hcc-tace-systemic-therapy",
+          "author": null,
+          "description": "近日，EMERALD-1 和 LEAP-012 研究的结果同期发表在 Lancet 杂志上。在今年的 ASCO GI 会议上，一项来自国内的研究者发起的 II 期研究（CARES-005）也公布了主要研究结果。这几项研究在设计存在一些差别，...",
+          "link": "http://whyes.org/2025/hcc-tace-systemic-therapy",
+          "publishedOn": "2025-02-27T14:58:56.000Z",
+          "wordCount": 372,
+          "title": "中晚期肝癌：系统治疗与局部治疗要不要联合？如何联合？",
+          "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
+        },
+        {
           "id": "http://whyes.org/2025/esmo-guideline-hcc-2025",
           "author": null,
           "description": "最近几年，肝细胞癌（HCC）系统治疗取得了巨大进步，这也推动了肝癌指南的更新。近期， 欧洲肿瘤内科学会（ESMO）也更新了肝癌诊疗指南，全称是《Hepatocellular carcinoma: ESMO Clinical Practice...",
@@ -830,6 +840,16 @@
       "siteUrl": "https://srebro.cn/",
       "articles": [
         {
+          "id": "/archives/1740643397650",
+          "author": "运维小弟",
+          "description": "华为 VRP 系统简介&配置SSH/TELNET远程登录 1.华为 VRP 系统概述 1.1 什么是 VRP VRP（Versatile Routing Platform 华为数通设备操作系统）是华为公司数据通信产品的通用操作系统平台，从低端到核心的全系列路由器、以太网交换机、业务网关等产品的软件核",
+          "link": "https://srebro.cn/archives/1740643397650",
+          "publishedOn": "2025-02-27T08:03:41.000Z",
+          "wordCount": 2397,
+          "title": "华为 VRP 系统简介&配置SSH,TELNET远程登录",
+          "imageUrl": "null"
+        },
+        {
           "id": "/archives/1740042455409",
           "author": "运维小弟",
           "description": "基于Zabbix主动发现机制实现Nacos服务动态监控 一、 快速部署Zabbix7.0 使用Docker-compose快速搭建Zabbix7.0监控平台，请参考文档： Zabbix7.0 Docker-compose部署指南 二. Nacos注册中心简介 Nacos（Dynamic Naming",
@@ -1068,16 +1088,6 @@
           "wordCount": 3564,
           "title": "Nginx管理维护运维规范",
           "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/CB68159F-7877-41AE-98BA-97B9B89ED919.png"
-        },
-        {
-          "id": "/archives/1732940817530",
-          "author": null,
-          "description": "一、Docker Buildx 功能介绍 docker buildx 是 Docker 提供的一个增强版构建工具，支持更强大的构建功能，特别是在构建多平台镜像和高效处理复杂 Docker 镜像方面。 1.1 主要功能 多平台构建支持 使用 docker buildx，可以在单台设备上构建多平台的镜像",
-          "link": "https://srebro.cn/archives/1732940817530",
-          "publishedOn": "2024-11-30T04:27:23.000Z",
-          "wordCount": 2270,
-          "title": "Docker Buildx 与 CNB 多平台构建实践",
-          "imageUrl": "null"
         }
       ]
     },
@@ -1265,16 +1275,6 @@
           "wordCount": 1561,
           "title": "使用开源软件搭建轻量的 NPM 私有仓库：Verdaccio",
           "imageUrl": null
-        },
-        {
-          "id": "https://soulteary.com/2024/11/30/basic-skills-redis-from-getting-started-to-docker-deployment.html",
-          "author": "苏洋(soulteary)",
-          "description": "前面写过了两篇 “Redis” 相关的内容，今天补一篇“基本功”内容，让后续折腾系列文章可以篇幅更短、内容更专注。",
-          "link": "https://soulteary.com/2024/11/30/basic-skills-redis-from-getting-started-to-docker-deployment.html",
-          "publishedOn": "2024-11-30T11:12:00.000Z",
-          "wordCount": 1953,
-          "title": "折腾基本功：Redis 从入门到 Docker 部署",
-          "imageUrl": null
         }
       ]
     },
@@ -1283,6 +1283,16 @@
       "feedUrl": "https://blog.ops-coffee.cn/feed.xml",
       "siteUrl": "https://blog.ops-coffee.cn",
       "articles": [
+        {
+          "id": "https://blog.ops-coffee.cn/s/ai-powered-project-creation-from-start-to-finish.html",
+          "author": null,
+          "description": "全程借助 AI 工具 Trae，从 0 到 1 打造简易 RSS 阅读器，分享使用过程、工具特性、实操难题及使用经验",
+          "link": "https://blog.ops-coffee.cn/s/ai-powered-project-creation-from-start-to-finish.html",
+          "publishedOn": "2025-02-27T17:26:28.000Z",
+          "wordCount": 87,
+          "title": "全程使用 AI 从 0 到 1 写了个小工具",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.ops-coffee.cn/r/city-china-heilongjiang-haerbin.html",
           "author": null,
@@ -1470,6 +1480,16 @@
       "feedUrl": "https://jimmysong.io/blog/index.xml",
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
+        {
+          "id": "https://jimmysong.io/blog/istio-installation-deep-dive/",
+          "author": "Jimmy Song",
+          "description": "随着 Istio 版本迭代，其的安装方式和工具链也在不断演进。从 istioctl 到 Helm，再到曾经的 Istio Operator，用户常常会面临选择困境：到底哪种方式最适合我的场景？在最近的交流中，我经常遇到关于 Istio 安装方式选择的问题，特别是围绕 IstioOperator API 和已废弃的 Istio Operator 组件的区别。今天，我将以技术实践者的视角，带你梳理 Istio 的安装之道，拆解关键问题，并给出生产级建议。\nIstio 安装方式一览\nIstio 提供了多种安装路径，每种方式都有其设计初衷和适用场景。以下是当前主流选项：\nistioctl：官方推荐的安装工具，集验证、定制和运维于一体，几乎是生产环境的标配。\nHelm：Kubernetes 生态的包管理利器，适合 Helm 重度用户或 CI/CD 集成场景。\nIstio Operator（已废弃）：曾经的集群内管理方案，如今已退出历史舞台。\n接下来，我们逐一剖析这些方式的核心特点，以及背后的取舍逻辑。\nistioctl：生产环境的不二之选\n在 Istio 中，istioctl 被官方定位为首选安装工具。它的优势显而易见：\n强大的配置验证：在安装前，istioctl 会对配置进行静态检查，避免潜在问题。比如，使用 istioctl analyze 可以快速定位配置文件中的错误。\n灵活的定制能力：通过 IstioOperator API，你可以精确控制安装细节，比如只启用 Pilot 或调整网关配置。\n生产就绪的特性：从健康检查（istioctl verify-install）到增量升级，istioctl 提供了全生命周期支持。\n安全优先：相较于集群内控制器，istioctl 在本地运行，避免了高权限组件带来的安全隐患。\n实践中的一个简单例子：\nistioctl install --se…",
+          "link": "https://jimmysong.io/blog/istio-installation-deep-dive/",
+          "publishedOn": "2025-02-27T05:47:35.000Z",
+          "wordCount": 445,
+          "title": "Istio 安装方式深度剖析——选择与实践指南",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
+        },
         {
           "id": "https://jimmysong.io/blog/istio-ambient-terminology/",
           "author": "Jimmy Song",
@@ -1814,6 +1834,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=299697",
+          "author": "Brandon Lee",
+          "description": "So I have been talking a lot about RAM lately since the release of the Crucial 128 GB SODIMM RAM kit. I received my kit and have been testing it in the mini PCs that I have in my home lab and that I have reviewed over the course of 2024. I wanted to put …\nThe post List of Compatible Mini PCs with 128 GB RAM Kit appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/02/list-of-compatible-mini-pcs-with-128-gb-ram-kit/",
+          "publishedOn": "2025-02-27T15:13:44.000Z",
+          "wordCount": 9998,
+          "title": "List of Compatible Mini PCs with 128 GB RAM Kit",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/List-of-Compatible-Mini-PCs.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=299688",
           "author": "Brandon Lee",
@@ -2521,6 +2551,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=28797",
+          "author": "Collabnix Team",
+          "description": "NVIDIA’s NIM (Neural Inference Microservices) provides developers an efficient way to deploy optimized AI models from various sources, including community partners and NVIDIA itself. As part of the NVIDIA AI Enterprise suite, NIM offers a streamlined path to quickly iterate on and build innovative generative AI solutions. With NIM, you can easily deploy a microservice […]",
+          "link": "https://collabnix.com/deploying-nvidia-nim-for-generative-ai-applications/",
+          "publishedOn": "2025-02-27T07:56:49.000Z",
+          "wordCount": 3250,
+          "title": "Deploying NVIDIA NIM for Generative AI Applications",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=30788",
           "author": "Tanvir Kour",
@@ -3720,26 +3760,6 @@
           "wordCount": 3106,
           "title": "Ollama and Open WebUI on Jetson Nano with GPU using Docker",
           "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/1732940176943.jpeg"
-        },
-        {
-          "id": "https://collabnix.com/?p=28903",
-          "author": "Tanvir Kour",
-          "description": "Much like securing your home from raccoons, safeguarding your DevOps pipeline requires a proactive approach. If you’ve ever faced a raccoon intrusion, you know the importance of identifying vulnerabilities and sealing entry points. For real-world intrusions, consider professional raccoon removal services to protect your property effectively. In the world of DevOps, the “raccoons” are vulnerabilities, […]",
-          "link": "https://collabnix.com/securing-your-devops-pipeline-lessons-from-raccoon-proofing/",
-          "publishedOn": "2024-11-30T07:09:24.000Z",
-          "wordCount": 2889,
-          "title": "Securing Your DevOps Pipeline: Lessons from Raccoon-Proofing",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2022/10/devopss.jpg"
-        },
-        {
-          "id": "https://collabnix.com/?p=28898",
-          "author": "Tanvir Kour",
-          "description": "By 2023, 700 million people were booking appointments online. That tells you something: today’s customers want things fast and easy, straight from their phones. They expect to be able to book in a few taps, whenever they want, wherever they are. The reality is that mobile appointment scheduling has become a necessity. In today’s busy […]",
-          "link": "https://collabnix.com/appointment-scheduling-for-mobile-first-customers-trends-and-solutions/",
-          "publishedOn": "2024-11-30T06:46:18.000Z",
-          "wordCount": 2732,
-          "title": "Appointment Scheduling for Mobile-First Customers: Trends and Solutions",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/11/word-image-28898-1.jpeg"
         }
       ]
     },
@@ -3945,6 +3965,26 @@
       "feedUrl": "https://limboy.me/index.xml",
       "siteUrl": "https://limboy.me/",
       "articles": [
+        {
+          "id": "https://limboy.me/posts/value-oriented-life",
+          "author": null,
+          "description": "不知道从什么时候开始，对坐飞机开始有种难以言说的恐惧。害怕被一个钢铁巨鸟带到离地万米的高空，害怕那无法预知的颠簸，更害怕自己对此无能为力。但生活又是充满着不得不飞的时刻，这反而促使我开始了一场逆向思考：假如我不幸在某次飞行中丧生，回顾这一生，是否留有遗憾？",
+          "link": "https://limboy.me/posts/value-oriented-life",
+          "publishedOn": "2025-02-28T00:00:00.000Z",
+          "wordCount": 121,
+          "title": "以终为始，面向价值观生活",
+          "imageUrl": null
+        },
+        {
+          "id": "https://limboy.me/posts/ai-programming",
+          "author": null,
+          "description": "大概半年前，我开始接触 AI 编程助手，例如 Cursor 和 GitHub Copilot。简单试用后，感觉不太顺手，就暂时搁置了。当时我的感受是：",
+          "link": "https://limboy.me/posts/ai-programming",
+          "publishedOn": "2025-02-27T00:00:00.000Z",
+          "wordCount": 320,
+          "title": "AI 辅助编程的崛起意味着什么？",
+          "imageUrl": null
+        },
         {
           "id": "https://limboy.me/posts/travel-to-kashi",
           "author": null,
@@ -5028,16 +5068,6 @@
           "publishedOn": "2024-12-02T02:40:03.000Z",
           "wordCount": 588,
           "title": "Elasticsearch索引生命周期配置",
-          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
-        },
-        {
-          "id": "https://zahui.fan/posts/snrcqh/",
-          "author": null,
-          "description": "<h2 id=\"为什么不用-WSL\"><a href=\"#为什么不用-WSL\" class=\"headerlink\" title=\"为什么不用 WSL\"></a>为什么不用 WSL</h2><p>主要原因有以下几点：</p>\n<ol>\n<li>WSL 访问 Windows 的路径和原生 Windows 不一致，需要手动或者 <code>wslpath</code>",
-          "link": "https://zahui.fan/posts/snrcqh/",
-          "publishedOn": "2024-11-30T09:51:53.000Z",
-          "wordCount": 441,
-          "title": "在Windows中使用msys来运行linux命令",
           "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
         }
       ]
