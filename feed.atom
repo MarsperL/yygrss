@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-03-01T01:57:11.038Z</updated>
+    <updated>2025-03-02T01:56:07.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kubectl Quick Reference 2025]]></title>
+        <id>https://collabnix.com/?p=30837</id>
+        <link href="https://collabnix.com/kubectl-quick-reference-2025/"/>
+        <updated>2025-03-01T18:44:13.000Z</updated>
+        <summary type="html"><![CDATA[Kubectl is the command-line interface for interacting with Kubernetes clusters. It allows you to deploy applications, inspect and manage cluster resources, and view logs. This cheatsheet provides a comprehensive reference of commonly used kubectl commands, organized by operation type. Whether you’re new to Kubernetes or an experienced administrator, this guide will help you quickly find […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I don't like sand]]></title>
+        <id>https://daverupert.com/2025/03/i-don-t-like-sand/</id>
+        <link href="https://daverupert.com/2025/03/i-don-t-like-sand/"/>
+        <updated>2025-03-01T18:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Happened upon a good example of the problem with AI generated alt text. It’s a gif of the infamous scene from Star Wars Episode II where Hayden Christensen playing Anakin Skywalker tells Natalie Portman’s character Queen Amadala, “I don’t like sand.” It’s the first phrase in the worst lines of dialogue in cinematic history. And here’s how the computer interpreted the gif…
+
+The AI said “a man and a woman are sitting next to each other and the woman is saying I don’t like sand.” Not only does this miss the context that it’s from the world famous movie Star Wars, it gets the speaker entirely wrong. It OCR’d the text fine, but missed relaying the entire context.
+Context. That’s what alt text is. I’d hypothesize that context is probably one of the biggest reasons why language evolved. A caveman could yell “AHHH!H” to alert others of dangers, but I imagine after a couple rounds of those others would begin asking, “Ok, Grog, I understand you think there’s an AHHH!H out there, but what kiiiiiiind of AHHH!H?”
+My ears are starting to perk up when I hear the word context. I hear all the time that “You have to give the AI more context and it will give you a better answer.” AI has a lot of vectorized text and image processing nodes, but it’s short on context I guess. Will AI one day have every frame of the expensive-to-license Star Wars franchise indexed in its brain like I do? Or are we the gatherers and keepers of context? Does our capacity for empathy (which allows us to project and inhabit other contexts we don’t necessary have) set humans apart?
+I hate to leave on such an open-ended question, but I think we can all agree… that woman doesn’t like sand.]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The only way to know for sure... is to build a prototype]]></title>
+        <id>https://daverupert.com/2025/03/the-only-way-to-know-for-sure-is-to-build-a-prototype/</id>
+        <link href="https://daverupert.com/2025/03/the-only-way-to-know-for-sure-is-to-build-a-prototype/"/>
+        <updated>2025-03-01T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[I’ve mentioned Mark Brown’s channel Game Makers Tool Kit many times before. Well, I’m back with another banger about “How to find amazing game ideas”. The whole video is great but I specifically want to highlight something Mark said during the last ten seconds of the video as the credits and video thumbnails started to roll…
+And then the final question to answer is… is the game idea actually fun? Because the truth is… our brains are terrible video game simulators. Almost every idea seems fun in our heads. But once we actually make it we’ll realise  that it’s boring, that it’s too complicated, and that it has disastrous  unforeseen design problems. So the only way to know for sure… is to build a prototype.
+The answer again –and I cannot stress this enough– is prototypes.
+“Our brains are ter…]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RSS to Email使用教程]]></title>
         <id>https://www.skyue.com/25030100.html</id>
@@ -5053,6 +5091,18 @@ The post Install Ghostty in Windows using WSL appeared first on Virtualization H
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[项目漏洞问题记录]]></title>
+        <id>https://marsperl.github.io/yyg/8a0457d3/</id>
+        <link href="https://marsperl.github.io/yyg/8a0457d3/"/>
+        <updated>2024-12-31T13:26:18.000Z</updated>
+        <summary type="html"><![CDATA[SSL 2.0 和 3.0 的漏洞修复：
+SSL (Secure Sockets Layer) 是一种加密协议，曾被广泛用于网络通信中以确保数据的安全传输。SSL 2.0 和 3.0 是早期的版本，但它们已经被认为不再安全，因此被现代协议（如 TLS 1.2 和 TLS 1.3）所取代。
+SSL 2.0 和]]></summary>
+        <author>
+            <name>云野阁</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Windows 10（x86_64）使用QEMU安装ARM虚拟机]]></title>
         <id>https://marsperl.github.io/yyg/a785f75e/</id>
         <link href="https://marsperl.github.io/yyg/a785f75e/"/>
@@ -8450,170 +8500,6 @@ The post Proxmox vs ESXi in 2025: VMware Dying in the Home Lab appeared first on
         <summary type="html"><![CDATA[Nginx管理维护运维规范 一、版本约束 软件的不同版本，在使用起来都有可能带来不可预知的影响，因此需要统一整理，固定下来，不允许轻易变更。 在Nginx开源版官网，点击右侧download可以看到各个版本的Nginx，其中Mainline是抢先的主干版本（版本号是奇数），Stable是稳定版（版本]]></summary>
         <author>
             <name>运维小弟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024年11月阅读书摘]]></title>
-        <id>674da80e6c5c200996582143</id>
-        <link href="https://www.domon.cn/2024-11yue-yue-du-shu-zhai/"/>
-        <updated>2024-12-02T12:35:02.000Z</updated>
-        <summary type="html"><![CDATA[从差不多十岁的年纪，写作就是我最靠谱的朋友。写作能解答我的疑惑，挖掘我的感受，带来新的结论。它在我的生活中是一个很低调的存在：有时候，它会放你走，让你该忙忙、该玩玩，不会限制你的活动。它不急，因为知道你迟早不得不坐下来面对那张空纸慢慢说事。我试过忘记自己有这样的精神义务，却次次都回到了电脑前，仿佛被某种无形的力量所吸引。这是我的命运，和它较劲完全无效，我只能常年接受写作的召唤。]]></summary>
-        <author>
-            <name>Domon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next-Gen VIN Decoders: Unlocking Cutting-Edge Technologies for Smarter Vehicle Identification]]></title>
-        <id>https://collabnix.com/?p=28989</id>
-        <link href="https://collabnix.com/next-gen-vin-decoders-unlocking-cutting-edge-technologies-for-smarter-vehicle-identification/"/>
-        <updated>2024-12-02T09:07:40.000Z</updated>
-        <summary type="html"><![CDATA[With the rapid pace of the automotive world, identification has become more necessary today than it has been at any other time. Whether a car buyer, a seller, or an auctioneer, accurate vehicle data has become vital in the decision-making process. The Vehicle Identification Number has become useful for a while now in identifying vehicles; […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How do I do a clean up on my Mac?]]></title>
-        <id>https://collabnix.com/?p=28974</id>
-        <link href="https://collabnix.com/how-do-i-do-a-clean-up-on-my-mac/"/>
-        <updated>2024-12-02T06:20:58.000Z</updated>
-        <summary type="html"><![CDATA[Running out of disk space on your Mac can hinder productivity and slow down your system. In this guide, we’ll explore powerful macOS utilities and command-line tools to locate and clean up the largest files and directories. Follow along to free up space while maintaining optimal system performance. Step 1: Analyze Disk Usage with Finder […]]]></summary>
-        <author>
-            <name>Ajeet Raina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 5 Platforms to Create a Logo for Free: Features and Benefits]]></title>
-        <id>https://collabnix.com/?p=28954</id>
-        <link href="https://collabnix.com/top-5-platforms-to-create-a-logo-for-free-features-and-benefits/"/>
-        <updated>2024-12-02T05:28:26.000Z</updated>
-        <summary type="html"><![CDATA[A professional logo is essential for building your brand, but not everyone has the budget for a custom design. Thankfully, there are free platforms that make it possible to create high-quality logos without spending a dime. These tools are accessible, easy to use, and perfect for anyone starting their branding journey. In this article, we’ll […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用RedisShake进行Redis迁移]]></title>
-        <id>https://zahui.fan/posts/lmojvw5l/</id>
-        <link href="https://zahui.fan/posts/lmojvw5l/"/>
-        <updated>2024-12-02T04:51:47.000Z</updated>
-        <summary type="html"><![CDATA[<p>对于自建的 redis, 我们可以将 rdb&#x2F;aof 文件拷贝到目的 redis, 启动恢复, 但是云 redis 或者某些特殊情况, 比如没有云平台的权限等等情况, 可以使用工具来进行迁移.</p>
-<p>RedisShake 是阿里云 Tair 团队 积极维护的一个项目。它的演变可以追溯到其初始版本，该版本是从 redis-port 分支出来的。官方文档<a]]></summary>
-        <author>
-            <name>杂烩饭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[编译安装Redis记录]]></title>
-        <id>https://zahui.fan/posts/1da8e73d/</id>
-        <link href="https://zahui.fan/posts/1da8e73d/"/>
-        <updated>2024-12-02T04:51:44.000Z</updated>
-        <summary type="html"><![CDATA[<h2 id="下载解压"><a href="#下载解压" class="headerlink" title="下载解压"></a>下载解压</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span]]></summary>
-        <author>
-            <name>杂烩饭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux平台文本编辑器vim]]></title>
-        <id>https://zahui.fan/posts/280100fb/</id>
-        <link href="https://zahui.fan/posts/280100fb/"/>
-        <updated>2024-12-02T04:51:42.000Z</updated>
-        <summary type="html"><![CDATA[<p><img src= "https://static.zahui.fan/public/nes.gif" data-lazy-src="https://static.zahui.fan/images/vim_keymap.png" alt="keymap"></p>
-<h2 id="常用快捷键"><a href="#常用快捷键" class="headerlink"]]></summary>
-        <author>
-            <name>杂烩饭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Istio sidecar 和 ambient 模式的网络成本对比]]></title>
-        <id>https://jimmysong.io/blog/istio-sidecar-vs-ambient-network-cost-performance/</id>
-        <link href="https://jimmysong.io/blog/istio-sidecar-vs-ambient-network-cost-performance/"/>
-        <updated>2024-12-02T04:17:21.000Z</updated>
-        <summary type="html"><![CDATA[在服务网格架构不断演进的过程中，了解不同部署模式下的网络成本对于优化性能和资源效率至关重要。本文将对比 Istio 的 sidecar 模式和 ambient 模式的网络成本，分享我在这篇文章中的一些观点。
-Sidecar 模式
-Istio 的 sidecar 模式通过在每个 pod 旁部署 sidecar 代理来拦截服务间的流量。这种架构引入了额外的网络跳转，可能会增加延迟和计算资源使用量。然而，该模式内置了重要的性能优化特性：本地性感知。
-图 1 展示了 Application 1 在 Istio sidecar 模式下访问位于不同可用区（AZ）的 Application 2 的流量路径。
-图 1：Application 1 在 Istio sidecar 模式下访问位于不同可用区（AZ）的 Application 2 的流量路径。
-  
-
-Sidecar 模式的本地化感知
-在 Sidecar 模式下，可以使用以下命令查看端点表中的本地性信息，从而更好地理解本地性管理：
-istioctl proxy-config endpoint <pod-name[.namespace]> -o yaml
-
-
-以下是一个示例输出片段，显示了集群 outbound|9080||reviews.default.svc.cluster.local 的端点信息：
-- addedViaApi: true
-  circuitBreakers:
-    thresholds:
-    - maxConnections: 4294967295
-      maxPendingRequests: 4294967295
-      maxRequests: 4294967295
-      maxRetries: 4294967295
-    - maxConnections: 1024
-      m…]]></summary>
-        <author>
-            <name>Jimmy Song</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elasticsearch索引生命周期配置]]></title>
-        <id>https://zahui.fan/posts/snui2r/</id>
-        <link href="https://zahui.fan/posts/snui2r/"/>
-        <updated>2024-12-02T02:40:03.000Z</updated>
-        <summary type="html"><![CDATA[<p>参考<br><a href="https://www.cnblogs.com/feifuzeng/p/13563430.html">https://www.cnblogs.com/feifuzeng/p/13563430.html</a><br><a]]></summary>
-        <author>
-            <name>杂烩饭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我选择了红米K80]]></title>
-        <id>https://qq.mba/197.html</id>
-        <link href="https://qq.mba/197.html"/>
-        <updated>2024-12-02T02:39:00.000Z</updated>
-        <summary type="html"><![CDATA[上文说到了，我三年前的苹果12已经无法继续服役了，所以考虑换机，并且不打算再用苹果机了，所以就考虑了：小米、魅族、华为和vivo这几个品牌。首先vivo的iqoo价格还是虚高，毕竟有王者荣耀游戏...]]></summary>
-        <author>
-            <name>满心</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SSH隧道原理及端口转发使用]]></title>
-        <id>https://chegva.com/?p=6236</id>
-        <link href="https://chegva.com/6236.html"/>
-        <updated>2024-12-01T21:18:24.000Z</updated>
-        <summary type="html"><![CDATA[SSH 隧道介绍:
-SSH 隧道，也称为 SSH 端口转发，是一种利用 SSH 连接在两台机器之间创建安全加密通道的技术。可以通过一个安全的 SSH 连接来转发网络流量，从而绕过防火墙、访问受限网络资源或增强网络安全性。
-SSH 隧道的工作原理:
-SSH 隧道利用 SSH 连接的加密特性，将所有通过隧道的网络流量进行加密。 这使得即使在不安全的网络环境中，数据传输也保持安全。 SSH 客户端充当转发器，将本地流量转发到远程服务器，然后远程服务器再将流量转发到最终目的地。理解其工作原理和各种使用场景，可以更好地利用 SSH 隧道来提高网络安全性并访问受限资源。
-SSH 隧道的类型:
-SSH 隧道主要有三种类型：
-
-本地端口转发 (Local Port Forwarding): 将本地机器上的一个端口转发到远程机器上的另一个端口。 这通常用于访问远程机器上运行的服务，而这些服务可能无法直接从本地机器访问（例如，由于防火墙限制）。
-
-
-ssh -L <local_port>:<remote_host>:<remote_port> <user>@<ssh_server> ：将本地 <local_port> 转发到远程主机 <remote_host> 的 <remote_port>。
-
-
-远程端口转发 (Remote Port Forwarding): 将远程机器上的一个端口转发到本地机器上的另一个端口。 这通常用于让远程机器上的用户访问本地机器上的服务。
-
-
-ssh -R <remote_port>:<local_host>:<local_port> <user>@<ssh_server> ：将远程主机 <ssh_server> 的 <remote_port> 转发到本地主机 <local_host> 的 <local_port>
-
-
-动态端口转发 (Dynamic Port Fo…]]></summary>
-        <author>
-            <name>anzhihe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1Panel 专业版低价租用]]></title>
-        <id>https://dusays.com/774/</id>
-        <link href="https://dusays.com/774/"/>
-        <updated>2024-12-01T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>越来越多小伙伴开始选择 1Panel 面板，1Panel 专业版提供的 WAF 和网站监控报表等功能非常好用。不过官方已经不再提供永久版的购买渠道，目前只能按年订阅。杜老师这边囤积了几个专业版激活码，现提供低价格租用服务。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
         </author>
     </entry>
 </feed>
