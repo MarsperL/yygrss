@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-03-02T01:56:07.801Z</updated>
+    <updated>2025-03-03T01:53:53.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Unnecessary]]></title>
+        <id>https://daverupert.com/2025/03/unnecessary/</id>
+        <link href="https://daverupert.com/2025/03/unnecessary/"/>
+        <updated>2025-03-02T15:07:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s a secret to everyone! This post is for RSS subscribers only.
+Read more about RSS Club.
+
+Yesterday, my daughter was in Dallas for the NCA Cheer Competition. My wife sent me a text letting me know her team won! Yay! My daughter is a national champion at age 9. Ten minutes later, the next text I get is that there’s an active shooter and they’re in lockdown. Panic consumed the 30,000 people in the convention center. Kids trampled in the stampede to get out. Families and teams separated. Youth running across a 10 lane freeway to escape, traffic screeching to a halt. Horrifying.
+The actual cause of the incident was some cheer parents getting into a fight which knocked down some metal poles. The whole situation is sad. Unnecessary trauma because some dumb parents lost their ability to be civil. Unnecessary trauma created through our lax gun laws and inability to stop this uniquely American horror. An unnecessary situation. Thankfully no one was critically injured and the shooter wasn’t real… this time. We’re living inside a lit powder keg at all times and its exhausting.]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[父母见面]]></title>
+        <id>https://www.skyue.com/25030222.html</id>
+        <link href="https://www.skyue.com/25030222.html"/>
+        <updated>2025-03-02T14:14:00.000Z</updated>
+        <summary type="html"><![CDATA[周末双方父母约见面，极限操作：南瓜父母：周五跟她姐姐一家开车从高平到杭州，全程12小时左右，今天（周日）上午10点火车回家。我父母：昨天早上7点40火车从九江到杭州，也是今天上午10点火车回家。...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kubectl Quick Reference 2025]]></title>
         <id>https://collabnix.com/?p=30837</id>
@@ -8429,57 +8453,6 @@ Claw SG 1C1G 1.75$/month
         <summary type="html"><![CDATA[使用 docker-compose 快速搭建日志平台采集nginx日志，并开启身份认证]]></summary>
         <author>
             <name>leoiceo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何排查和清理 Linux 系统中的磁盘空间]]></title>
-        <id>/archives/1733210857654</id>
-        <link href="http://localhost:8090/archives/1733210857654"/>
-        <updated>2024-12-03T07:27:39.000Z</updated>
-        <summary type="html"><![CDATA[在日常的 Linux 系统使用中，磁盘空间不足是一个常见问题，特别是在云开发环境中。如果不定期清理和管理磁盘空间，系统可能会因为存储空间耗尽而变得缓慢，甚至无法正常运行。本文将详细介绍如何排查哪些目录占用了大量磁盘空间，并提供有效的清理方案，帮助你释放空间，保持系统高效运行。 1. 检查磁盘空间使用]]></summary>
-        <author>
-            <name>Lixx Blog - 李晓旭的博客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is Kubernetes a Part of CI/CD?]]></title>
-        <id>https://collabnix.com/?p=29006</id>
-        <link href="https://collabnix.com/is-kubernetes-a-part-of-ci-cd/"/>
-        <updated>2024-12-03T06:12:55.000Z</updated>
-        <summary type="html"><![CDATA[As modern software engineering embraces automation, scalability, and agility, Kubernetes often emerges at the crossroads of CI/CD pipelines. But is Kubernetes a part of CI/CD, or does it extend beyond these boundaries? This blog explores the role Kubernetes plays in continuous integration and continuous delivery pipelines. It examines whether Kubernetes is merely a deployment target […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Creative Uses of AI in DevOps Today]]></title>
-        <id>https://collabnix.com/?p=29001</id>
-        <link href="https://collabnix.com/10-creative-uses-of-ai-in-devops-today/"/>
-        <updated>2024-12-03T05:49:39.000Z</updated>
-        <summary type="html"><![CDATA[The junction of artificial intelligence (AI) and DevOps is changing the way deployment and software development occur. AI becomes more important as companies use data-driven approaches in helping DevOps processes to be quicker, smarter, and more efficient. The opportunities appear limitless from identifying weaknesses before they become problems to automating tedious chores. Let’s explore some […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running Ollama and Open WebUI in a Kubernetes Cluster]]></title>
-        <id>https://collabnix.com/?p=28994</id>
-        <link href="https://collabnix.com/running-ollama-and-open-webui-in-a-kubernetes-cluster/"/>
-        <updated>2024-12-02T17:57:07.000Z</updated>
-        <summary type="html"><![CDATA[In today’s world of machine learning and AI, managing models and running them efficiently is crucial for developers. Ollama is a powerful platform for running AI models, while Open WebUI provides a user-friendly interface to interact with these models. Running both Ollama and Open WebUI in a Kubernetes cluster provides scalability, flexibility, and easy management. […]]]></summary>
-        <author>
-            <name>Ajeet Raina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proxmox vs ESXi in 2025: VMware Dying in the Home Lab]]></title>
-        <id>https://www.virtualizationhowto.com/?p=298152</id>
-        <link href="https://www.virtualizationhowto.com/2024/12/proxmox-vs-esxi-in-2025-vmware-dying-in-the-home-lab/"/>
-        <updated>2024-12-02T17:34:43.000Z</updated>
-        <summary type="html"><![CDATA[I can’t believe it but we are almost in 2025 already and what a year 2024 has been in the technology space with AI continuing to make waves. But who would have thought before 2024 that someone could have said VMware would be dethroned from the most desirable virtualization platform. This has happened and not …
-The post Proxmox vs ESXi in 2025: VMware Dying in the Home Lab appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>

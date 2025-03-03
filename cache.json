@@ -276,6 +276,16 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
+          "id": "https://daverupert.com/2025/03/unnecessary/",
+          "author": null,
+          "description": "It’s a secret to everyone! This post is for RSS subscribers only.\nRead more about RSS Club.\n\nYesterday, my daughter was in Dallas for the NCA Cheer Competition. My wife sent me a text letting me know her team won! Yay! My daughter is a national champion at age 9. Ten minutes later, the next text I get is that there’s an active shooter and they’re in lockdown. Panic consumed the 30,000 people in the convention center. Kids trampled in the stampede to get out. Families and teams separated. Youth running across a 10 lane freeway to escape, traffic screeching to a halt. Horrifying.\nThe actual cause of the incident was some cheer parents getting into a fight which knocked down some metal poles. The whole situation is sad. Unnecessary trauma because some dumb parents lost their ability to be civil. Unnecessary trauma created through our lax gun laws and inability to stop this uniquely American horror. An unnecessary situation. Thankfully no one was critically injured and the shooter wasn’t real… this time. We’re living inside a lit powder keg at all times and its exhausting.",
+          "link": "https://daverupert.com/2025/03/unnecessary/",
+          "publishedOn": "2025-03-02T15:07:00.000Z",
+          "wordCount": 722,
+          "title": "Unnecessary",
+          "imageUrl": null
+        },
+        {
           "id": "https://daverupert.com/2025/03/i-don-t-like-sand/",
           "author": null,
           "description": "Happened upon a good example of the problem with AI generated alt text. It’s a gif of the infamous scene from Star Wars Episode II where Hayden Christensen playing Anakin Skywalker tells Natalie Portman’s character Queen Amadala, “I don’t like sand.” It’s the first phrase in the worst lines of dialogue in cinematic history. And here’s how the computer interpreted the gif…\n\nThe AI said “a man and a woman are sitting next to each other and the woman is saying I don’t like sand.” Not only does this miss the context that it’s from the world famous movie Star Wars, it gets the speaker entirely wrong. It OCR’d the text fine, but missed relaying the entire context.\nContext. That’s what alt text is. I’d hypothesize that context is probably one of the biggest reasons why language evolved. A caveman could yell “AHHH!H” to alert others of dangers, but I imagine after a couple rounds of those others would begin asking, “Ok, Grog, I understand you think there’s an AHHH!H out there, but what kiiiiiiind of AHHH!H?”\nMy ears are starting to perk up when I hear the word context. I hear all the time that “You have to give the AI more context and it will give you a better answer.” AI has a lot of vectorized text and image processing nodes, but it’s short on context I guess. Will AI one day have every frame of the expensive-to-license Star Wars franchise indexed in its brain like I do? Or are we the gatherers and keepers of context? Does our capacity for empathy (which allows us to project and inhabit other contexts we don’t necessary have) set humans apart?\nI hate to leave on such an open-ended question, but I think we can all agree… that woman doesn’t like sand.",
@@ -2568,16 +2578,6 @@
           "wordCount": 9794,
           "title": "Gitops vs DevOps: What are the differences?",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/gitops-vs-devops.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298152",
-          "author": "Brandon Lee",
-          "description": "I can’t believe it but we are almost in 2025 already and what a year 2024 has been in the technology space with AI continuing to make waves. But who would have thought before 2024 that someone could have said VMware would be dethroned from the most desirable virtualization platform. This has happened and not …\nThe post Proxmox vs ESXi in 2025: VMware Dying in the Home Lab appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2024/12/proxmox-vs-esxi-in-2025-vmware-dying-in-the-home-lab/",
-          "publishedOn": "2024-12-02T17:34:43.000Z",
-          "wordCount": 10978,
-          "title": "Proxmox vs ESXi in 2025: VMware Dying in the Home Lab",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/Proxmox-vs-ESXi-in-2025.png"
         }
       ]
     },
@@ -3735,36 +3735,6 @@
           "wordCount": 3077,
           "title": "What is Apache Kafka? A Guide to the Distributed Streaming Platform",
           "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/Screenshot-2024-12-04-at-12.45.01%E2%80%AFPM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=29006",
-          "author": "Tanvir Kour",
-          "description": "As modern software engineering embraces automation, scalability, and agility, Kubernetes often emerges at the crossroads of CI/CD pipelines. But is Kubernetes a part of CI/CD, or does it extend beyond these boundaries? This blog explores the role Kubernetes plays in continuous integration and continuous delivery pipelines. It examines whether Kubernetes is merely a deployment target […]",
-          "link": "https://collabnix.com/is-kubernetes-a-part-of-ci-cd/",
-          "publishedOn": "2024-12-03T06:12:55.000Z",
-          "wordCount": 2672,
-          "title": "Is Kubernetes a Part of CI/CD?",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/Screenshot-2024-12-03-at-11.42.33%E2%80%AFAM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=29001",
-          "author": "Tanvir Kour",
-          "description": "The junction of artificial intelligence (AI) and DevOps is changing the way deployment and software development occur. AI becomes more important as companies use data-driven approaches in helping DevOps processes to be quicker, smarter, and more efficient. The opportunities appear limitless from identifying weaknesses before they become problems to automating tedious chores. Let’s explore some […]",
-          "link": "https://collabnix.com/10-creative-uses-of-ai-in-devops-today/",
-          "publishedOn": "2024-12-03T05:49:39.000Z",
-          "wordCount": 2716,
-          "title": "10 Creative Uses of AI in DevOps Today",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2022/10/agiledevops.jpeg"
-        },
-        {
-          "id": "https://collabnix.com/?p=28994",
-          "author": "Ajeet Raina",
-          "description": "In today’s world of machine learning and AI, managing models and running them efficiently is crucial for developers. Ollama is a powerful platform for running AI models, while Open WebUI provides a user-friendly interface to interact with these models. Running both Ollama and Open WebUI in a Kubernetes cluster provides scalability, flexibility, and easy management. […]",
-          "link": "https://collabnix.com/running-ollama-and-open-webui-in-a-kubernetes-cluster/",
-          "publishedOn": "2024-12-02T17:57:07.000Z",
-          "wordCount": 2322,
-          "title": "Running Ollama and Open WebUI in a Kubernetes Cluster",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/Screenshot-2024-12-02-at-11.25.59%E2%80%AFPM.png"
         }
       ]
     },
@@ -4071,6 +4041,16 @@
       "feedUrl": "https://www.skyue.com/feed/",
       "siteUrl": "https://www.skyue.com/",
       "articles": [
+        {
+          "id": "https://www.skyue.com/25030222.html",
+          "author": "拾月",
+          "description": "周末双方父母约见面，极限操作：南瓜父母：周五跟她姐姐一家开车从高平到杭州，全程12小时左右，今天（周日）上午10点火车回家。我父母：昨天早上7点40火车从九江到杭州，也是今天上午10点火车回家。...",
+          "link": "https://www.skyue.com/25030222.html",
+          "publishedOn": "2025-03-02T14:14:00.000Z",
+          "wordCount": 590,
+          "title": "父母见面",
+          "imageUrl": ""
+        },
         {
           "id": "https://www.skyue.com/25030100.html",
           "author": "拾月",
@@ -5060,16 +5040,6 @@
           "publishedOn": "2025-02-05T03:31:42.000Z",
           "wordCount": null,
           "title": "在 Windows 11 上部署 Deepseek-R1 1.5B 模型：基于 Ollama 和 Open WebUI 的本地私有化 LLM 实践",
-          "imageUrl": null
-        },
-        {
-          "id": "/archives/1733210857654",
-          "author": null,
-          "description": "在日常的 Linux 系统使用中，磁盘空间不足是一个常见问题，特别是在云开发环境中。如果不定期清理和管理磁盘空间，系统可能会因为存储空间耗尽而变得缓慢，甚至无法正常运行。本文将详细介绍如何排查哪些目录占用了大量磁盘空间，并提供有效的清理方案，帮助你释放空间，保持系统高效运行。 1. 检查磁盘空间使用",
-          "link": "http://localhost:8090/archives/1733210857654",
-          "publishedOn": "2024-12-03T07:27:39.000Z",
-          "wordCount": null,
-          "title": "如何排查和清理 Linux 系统中的磁盘空间",
           "imageUrl": null
         }
       ]
