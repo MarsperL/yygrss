@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-03-04T01:52:19.720Z</updated>
+    <updated>2025-03-05T01:52:23.358Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daily Tech Deals March 4 2025]]></title>
+        <id>https://www.virtualizationhowto.com/?p=299798</id>
+        <link href="https://www.virtualizationhowto.com/2025/03/daily-tech-deals-march-4-2025/"/>
+        <updated>2025-03-04T14:53:09.000Z</updated>
+        <summary type="html"><![CDATA[Below are a few daily tech deals take note of. We are all on the lookout for good tech at reasonable prices. Check out a really great deal on a Samsung Galaxy Tab S9 FE 10.9” for 38% off, a Beelink Mini S13 Mini PC for 23% off, a Beelink Mini PC AMD Ryzen 7 …
+The post Daily Tech Deals March 4 2025 appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VMSA-2025-0004 Critical VMware ESXi, Workstation, and Fusion Vulnerability Patch Now!]]></title>
+        <id>https://www.virtualizationhowto.com/?p=299773</id>
+        <link href="https://www.virtualizationhowto.com/2025/03/vmsa-2025-0004-critical-vmware-esxi-workstation-and-fusion-vulnerability-patch-now/"/>
+        <updated>2025-03-04T13:19:41.000Z</updated>
+        <summary type="html"><![CDATA[In case you haven’t heard as of yet, there is a new critical VMware ESXi, Workstation, and Fusion vulnerability that has been discovered and noted in the VMSA-2025-0004 security bulletin. These are tracked as CVE-2025-22224, CVE-2025-22225, CVE-2025-22226. Let’s look at the new vulnerability, what it entails, and how to remediate. Table of contentsDetails about the …
+The post VMSA-2025-0004 Critical VMware ESXi, Workstation, and Fusion Vulnerability Patch Now! appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typecho 优化：实现图片防盗链与1Panel使用]]></title>
+        <id>https://bluehe.cn/archives/modified-typecho</id>
+        <link href="https://bluehe.cn/archives/modified-typecho"/>
+        <updated>2025-03-04T12:33:00.000Z</updated>
+        <summary type="html"><![CDATA[这两年来我一直都是使用Nginx Proxy Manage工具来进行反向代理，但近期发现不好使用了，经常登录显示Bad gateway。Docker搭建的Nginx Proxy Manage是由一个npm_app和一个npm_db（mysql）构造，显示B...]]></summary>
+        <author>
+            <name>寻鹤</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公网暴露 Ollama 端口存在风险？使用 OneApi 聚合你的模型调用]]></title>
+        <id>https://www.mintimate.cn/2025/03/03/hostOneApi/</id>
+        <link href="https://www.mintimate.cn/2025/03/03/hostOneApi/"/>
+        <updated>2025-03-03T22:58:53.000Z</updated>
+        <summary type="html"><![CDATA[公网暴露的 Ollama 端口存在风险？使用 OneApi 封装你的 Ollama 接口，并聚合多接口为 OpenAI 标准 API。保护 Ollama 端口的同时，让模型调用更加方便。]]></summary>
+        <author>
+            <name>雨月空间站</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[加密 NFS 搭建保障数据传输与存储安全]]></title>
         <id>https://dusays.com/805/</id>
@@ -8221,16 +8263,6 @@ The post FluxCD Install and GitOps Simple Example appeared first on Virtualizati
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4 Strategies for Building Digital Dexterity Across Your Organization]]></title>
-        <id>https://collabnix.com/?p=29041</id>
-        <link href="https://collabnix.com/4-strategies-for-building-digital-dexterity-across-your-organization/"/>
-        <updated>2024-12-05T11:04:36.000Z</updated>
-        <summary type="html"><![CDATA[Digital dexterity enables organizations to adapt, innovate, and thrive in a tech-driven world. Explore 4 actionable strategies to transform your workforce into agile innovators.]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[如何为 Hugo 博客的 Github 仓库瘦身]]></title>
         <id>https://hyruo.com/article/how-to-slim-down-the-github-repository-for-a-hugo-blog/</id>
         <link href="https://hyruo.com/article/how-to-slim-down-the-github-repository-for-a-hugo-blog/"/>
@@ -8303,50 +8335,6 @@ git filter-repo --path <file-path> --invert-paths
 git filter-repo --…]]></summary>
         <author>
             <name>法律小茶馆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[202411面试记录]]></title>
-        <id>https://nops.icu/archives/182/</id>
-        <link href="https://nops.icu/archives/182/"/>
-        <updated>2024-12-05T03:45:00.000Z</updated>
-        <summary type="html"><![CDATA[近期借一位业内朋友推荐，面试了一家位于新加坡的互联网企业，同样记录面试过程一面（远程）：业务线运维负责人，是一位年轻女士，在问明不需要露脸后开始。从自我介绍到了解的技术栈，擅长的方向，排错问题等...]]></summary>
-        <author>
-            <name>季兴</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veeam Backup & Replication 12.3 New Features and Download]]></title>
-        <id>https://www.virtualizationhowto.com/?p=298191</id>
-        <link href="https://www.virtualizationhowto.com/2024/12/veeam-backup-replication-12-3-new-features-and-download/"/>
-        <updated>2024-12-04T22:08:23.000Z</updated>
-        <summary type="html"><![CDATA[Arguably, Veeam is one of the industry leaders in the area of backup and recovery. They have been around forever, and they have the trust of many, including myself, using it for production workloads and also in the home lab. Veeam Backup & Replication 12.3 builds on the set of features Veeam is already known …
-The post Veeam Backup & Replication 12.3 New Features and Download appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[感谢来自开往项目组的礼品]]></title>
-        <id>https://dusays.com/775/</id>
-        <link href="https://dusays.com/775/"/>
-        <updated>2024-12-04T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>前段时间突然收到来自开往项目负责人的私信，说为了表示对开往项目支持，会赠送一个小礼品。杜老师告知地址后，没过几天就收到了一个礼品，礼物虽小但情谊重，这里再次推荐一下开往项目！</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Commvault Clumio Backtrack: Roll Back Amazon S3 Files Quickly]]></title>
-        <id>https://www.virtualizationhowto.com/?p=298176</id>
-        <link href="https://www.virtualizationhowto.com/2024/12/commvault-clumio-backtrack-roll-back-amazon-s3-files-quickly/"/>
-        <updated>2024-12-04T14:42:59.000Z</updated>
-        <summary type="html"><![CDATA[There is no doubt that most are familiar with the threat of ransomware these days. It seems like we hear stories on the news every week of another major ransomware attack. With ransomware so threatening these days and more organizations than ever moving to the cloud, businesses need a way to protect their cloud storage …
-The post Commvault Clumio Backtrack: Roll Back Amazon S3 Files Quickly appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
