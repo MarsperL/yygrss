@@ -1289,6 +1289,16 @@
       "siteUrl": "https://blog.ops-coffee.cn",
       "articles": [
         {
+          "id": "https://blog.ops-coffee.cn/s/ai-powered-seo-automation-for-tdk-generation.html",
+          "author": null,
+          "description": "本文介绍如何利用AI自动生成博客SEO友好的TDK信息，包括标题、描述和关键词。通过调用AI模型的API，可以实现文章内容到SEO友好信息的自动化转换，提高博客的搜索引擎排名。",
+          "link": "https://blog.ops-coffee.cn/s/ai-powered-seo-automation-for-tdk-generation.html",
+          "publishedOn": "2025-03-05T15:01:23.000Z",
+          "wordCount": 183,
+          "title": "AI 实践｜零成本生成SEO友好的TDK落地方案",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.ops-coffee.cn/s/ai-powered-project-creation-from-start-to-finish.html",
           "author": null,
           "description": "全程借助 AI 工具 Trae，从 0 到 1 打造简易 RSS 阅读器，分享使用过程、工具特性、实操难题及使用经验",
@@ -1799,6 +1809,26 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=299814",
+          "author": "Brandon Lee",
+          "description": "Looking for great tech deals? Check out items on today’s daily tech deals. The GMKtec Mini PC Intel i7-1195G7 is 38% off, featuring a powerful processor, dual SSD slots, and WiFi 6 for seamless performance. If you need a high-performance NAS, the UGREEN NASync DXP4800 Plus is 15% off, with a 5-core Intel Pentium Gold …\nThe post Daily Tech Deals March 5 2025 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/03/daily-tech-deals-march-5-2025/",
+          "publishedOn": "2025-03-05T18:09:18.000Z",
+          "wordCount": 8589,
+          "title": "Daily Tech Deals March 5 2025",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/image-11.jpeg"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=299768",
+          "author": "Brandon Lee",
+          "description": "I really think storage is an often overlooked aspect of setting up and configuring a home lab server. Most know about CPUs and memory as super important when running virtual machines and containers. However, storage, is equally important. In my honest opinion, if you aren’t running NVMe drives in your home lab server, you are …\nThe post 5 Uses for NVMe Storage in your Home Lab Server appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/03/5-uses-for-nvme-storage-in-your-home-lab-server/",
+          "publishedOn": "2025-03-05T14:13:10.000Z",
+          "wordCount": 10566,
+          "title": "5 Uses for NVMe Storage in your Home Lab Server",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/NVMe-storage.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=299798",
           "author": "Brandon Lee",
@@ -2518,16 +2548,6 @@
           "wordCount": 10053,
           "title": "5 Proxmox Kubernetes Configurations You Need to Know",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/Proxmox-Kubernetes-configurations.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298174",
-          "author": "Brandon Lee",
-          "description": "If you are wanting to learn more about GitOps, there is a great way to easily get going and that is FluxCD. Let’s take a look at the FluxCD install and a GitOps simple example that will help you understand the ins and outs of learning how this tool works and what you can do …\nThe post FluxCD Install and GitOps Simple Example appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2024/12/fluxcd-install-and-gitops-simple-example/",
-          "publishedOn": "2024-12-05T14:12:15.000Z",
-          "wordCount": 9833,
-          "title": "FluxCD Install and GitOps Simple Example",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/FluxCD-simple-example.png"
         }
       ]
     },
@@ -2536,6 +2556,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=30891",
+          "author": "Tanvir Kour",
+          "description": "Being a YouTuber, blogger, or social media influencer, creating eye-catching thumbnails can help you attract viewers online. However, choosing between a traditional approach or an AI thumbnail creator for this purpose might be puzzling for you. So, finding the perfect approach is crucial to getting the desired results, but being least informed about the approach […]",
+          "link": "https://collabnix.com/ai-thumbnail-creator-vs-manual-thumbnail-creation-which-is-better/",
+          "publishedOn": "2025-03-05T13:37:48.000Z",
+          "wordCount": 3178,
+          "title": "AI Thumbnail Creator vs. Manual Thumbnail Creation: Which is Better?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=30856",
+          "author": "Adesoji Alu",
+          "description": "Discover how to create a private AI-powered document analysis system using cutting-edge open-source tools. System Requirements 16GB RAM minimum 10th Gen Intel Core i5 or equivalent 10GB free storage space Windows 10+/macOS 12+/Linux Ubuntu 20.04+ 🛠️ Step 1: Installing Ollama Download Ollama for macOS, Linux, or Windows: Download Ollama Follow installation instructions based on your […]",
+          "link": "https://collabnix.com/setting-up-ollama-running-deepseek-r1-locally-for-a-powerful-rag-system/",
+          "publishedOn": "2025-03-05T07:21:15.000Z",
+          "wordCount": 2736,
+          "title": "Setting Up Ollama & Running DeepSeek R1 Locally for a Powerful RAG System",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=30848",
           "author": "Tanvir Kour",
@@ -3645,26 +3685,6 @@
           "wordCount": 2822,
           "title": "Llama 3.3 70B and Ollama",
           "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/1733547501970.jpeg"
-        },
-        {
-          "id": "https://collabnix.com/?p=29056",
-          "author": "Abraham Dahunsi",
-          "description": "Event-driven architectures have become increasingly popular with the rise of microservices. These architectures are built around the concept of reacting to events in real-time, making them highly scalable and ideal for modern distributed systems. Apache Kafka, a distributed event streaming platform, is often at the heart of these architectures, serving as an excellent tool for […]",
-          "link": "https://collabnix.com/how-to-develop-event-driven-applications-with-kafka-and-docker/",
-          "publishedOn": "2024-12-05T23:02:27.000Z",
-          "wordCount": 3721,
-          "title": "How to Develop Event-Driven Applications with Kafka and Docker",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=29046",
-          "author": "Abraham Dahunsi",
-          "description": "Docker for GitHub Copilot is an innovative extension designed to enhance the development experience by integrating Docker's powerful containerization capabilities with the intelligent assistance of GitHub Copilot. This tool aims to streamline the process of containerizing applications, generating essential Docker assets, and analyzing project vulnerabilities, making it easier for developers to manage their projects efficiently. […]",
-          "link": "https://collabnix.com/introducing-docker-for-github-copilot/",
-          "publishedOn": "2024-12-05T22:50:29.000Z",
-          "wordCount": 3767,
-          "title": "Introducing Docker for Github Copilot",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/Feature-image-docker-github-copilot.png"
         }
       ]
     },
@@ -5057,6 +5077,16 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=21834",
+          "author": "xiaoz",
+          "description": "最近尝试升级 Jenkins，但升级后无法启动。经过排查，发现原因是 JDK 版本过低：旧版本使用的是 JDK 8，而新版本需要 JDK 17。为了省去升级 JDK 的麻烦，索性直接将其迁移到容器版本，一劳永逸地解决了环境依赖问题。准备工作目录权限Jenkins容器版本内部使用jenkins用户运行",
+          "link": "https://blog.xiaoz.org/archives/21834",
+          "publishedOn": "2025-03-05T04:00:52.000Z",
+          "wordCount": 403,
+          "title": "实战指南：使用Docker安装Jenkins并结合Buildx构建跨平台镜像",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=21824",
           "author": "xiaoz",

@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-03-05T01:52:23.358Z</updated>
+    <updated>2025-03-06T01:52:43.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daily Tech Deals March 5 2025]]></title>
+        <id>https://www.virtualizationhowto.com/?p=299814</id>
+        <link href="https://www.virtualizationhowto.com/2025/03/daily-tech-deals-march-5-2025/"/>
+        <updated>2025-03-05T18:09:18.000Z</updated>
+        <summary type="html"><![CDATA[Looking for great tech deals? Check out items on today’s daily tech deals. The GMKtec Mini PC Intel i7-1195G7 is 38% off, featuring a powerful processor, dual SSD slots, and WiFi 6 for seamless performance. If you need a high-performance NAS, the UGREEN NASync DXP4800 Plus is 15% off, with a 5-core Intel Pentium Gold …
+The post Daily Tech Deals March 5 2025 appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 实践｜零成本生成SEO友好的TDK落地方案]]></title>
+        <id>https://blog.ops-coffee.cn/s/ai-powered-seo-automation-for-tdk-generation.html</id>
+        <link href="https://blog.ops-coffee.cn/s/ai-powered-seo-automation-for-tdk-generation.html"/>
+        <updated>2025-03-05T15:01:23.000Z</updated>
+        <summary type="html"><![CDATA[本文介绍如何利用AI自动生成博客SEO友好的TDK信息，包括标题、描述和关键词。通过调用AI模型的API，可以实现文章内容到SEO友好信息的自动化转换，提高博客的搜索引擎排名。]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Uses for NVMe Storage in your Home Lab Server]]></title>
+        <id>https://www.virtualizationhowto.com/?p=299768</id>
+        <link href="https://www.virtualizationhowto.com/2025/03/5-uses-for-nvme-storage-in-your-home-lab-server/"/>
+        <updated>2025-03-05T14:13:10.000Z</updated>
+        <summary type="html"><![CDATA[I really think storage is an often overlooked aspect of setting up and configuring a home lab server. Most know about CPUs and memory as super important when running virtual machines and containers. However, storage, is equally important. In my honest opinion, if you aren’t running NVMe drives in your home lab server, you are …
+The post 5 Uses for NVMe Storage in your Home Lab Server appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Thumbnail Creator vs. Manual Thumbnail Creation: Which is Better?]]></title>
+        <id>https://collabnix.com/?p=30891</id>
+        <link href="https://collabnix.com/ai-thumbnail-creator-vs-manual-thumbnail-creation-which-is-better/"/>
+        <updated>2025-03-05T13:37:48.000Z</updated>
+        <summary type="html"><![CDATA[Being a YouTuber, blogger, or social media influencer, creating eye-catching thumbnails can help you attract viewers online. However, choosing between a traditional approach or an AI thumbnail creator for this purpose might be puzzling for you. So, finding the perfect approach is crucial to getting the desired results, but being least informed about the approach […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting Up Ollama & Running DeepSeek R1 Locally for a Powerful RAG System]]></title>
+        <id>https://collabnix.com/?p=30856</id>
+        <link href="https://collabnix.com/setting-up-ollama-running-deepseek-r1-locally-for-a-powerful-rag-system/"/>
+        <updated>2025-03-05T07:21:15.000Z</updated>
+        <summary type="html"><![CDATA[Discover how to create a private AI-powered document analysis system using cutting-edge open-source tools. System Requirements 16GB RAM minimum 10th Gen Intel Core i5 or equivalent 10GB free storage space Windows 10+/macOS 12+/Linux Ubuntu 20.04+ 🛠️ Step 1: Installing Ollama Download Ollama for macOS, Linux, or Windows: Download Ollama Follow installation instructions based on your […]]]></summary>
+        <author>
+            <name>Adesoji Alu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[实战指南：使用Docker安装Jenkins并结合Buildx构建跨平台镜像]]></title>
+        <id>https://blog.xiaoz.org/?p=21834</id>
+        <link href="https://blog.xiaoz.org/archives/21834"/>
+        <updated>2025-03-05T04:00:52.000Z</updated>
+        <summary type="html"><![CDATA[最近尝试升级 Jenkins，但升级后无法启动。经过排查，发现原因是 JDK 版本过低：旧版本使用的是 JDK 8，而新版本需要 JDK 17。为了省去升级 JDK 的麻烦，索性直接将其迁移到容器版本，一劳永逸地解决了环境依赖问题。准备工作目录权限Jenkins容器版本内部使用jenkins用户运行]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daily Tech Deals March 4 2025]]></title>
         <id>https://www.virtualizationhowto.com/?p=299798</id>
@@ -8227,37 +8289,6 @@ Continue reading...]]></summary>
         <updated>2024-12-06T14:15:55.000Z</updated>
         <summary type="html"><![CDATA[With many moving to Proxmox in their home lab or even production environments, you may be interested in your options for running Kubernetes. How does this work with Proxmox? Well, there are several ways you can configure your deployment of Kubernetes running in Proxmox. Let’s take a look at Proxmox Kubernetes configurations you need to …
 The post 5 Proxmox Kubernetes Configurations You Need to Know appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Develop Event-Driven Applications with Kafka and Docker]]></title>
-        <id>https://collabnix.com/?p=29056</id>
-        <link href="https://collabnix.com/how-to-develop-event-driven-applications-with-kafka-and-docker/"/>
-        <updated>2024-12-05T23:02:27.000Z</updated>
-        <summary type="html"><![CDATA[Event-driven architectures have become increasingly popular with the rise of microservices. These architectures are built around the concept of reacting to events in real-time, making them highly scalable and ideal for modern distributed systems. Apache Kafka, a distributed event streaming platform, is often at the heart of these architectures, serving as an excellent tool for […]]]></summary>
-        <author>
-            <name>Abraham Dahunsi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Docker for Github Copilot]]></title>
-        <id>https://collabnix.com/?p=29046</id>
-        <link href="https://collabnix.com/introducing-docker-for-github-copilot/"/>
-        <updated>2024-12-05T22:50:29.000Z</updated>
-        <summary type="html"><![CDATA[Docker for GitHub Copilot is an innovative extension designed to enhance the development experience by integrating Docker's powerful containerization capabilities with the intelligent assistance of GitHub Copilot. This tool aims to streamline the process of containerizing applications, generating essential Docker assets, and analyzing project vulnerabilities, making it easier for developers to manage their projects efficiently. […]]]></summary>
-        <author>
-            <name>Abraham Dahunsi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FluxCD Install and GitOps Simple Example]]></title>
-        <id>https://www.virtualizationhowto.com/?p=298174</id>
-        <link href="https://www.virtualizationhowto.com/2024/12/fluxcd-install-and-gitops-simple-example/"/>
-        <updated>2024-12-05T14:12:15.000Z</updated>
-        <summary type="html"><![CDATA[If you are wanting to learn more about GitOps, there is a great way to easily get going and that is FluxCD. Let’s take a look at the FluxCD install and a GitOps simple example that will help you understand the ins and outs of learning how this tool works and what you can do …
-The post FluxCD Install and GitOps Simple Example appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
         </author>
