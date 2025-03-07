@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-03-06T01:52:43.505Z</updated>
+    <updated>2025-03-07T01:53:01.407Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RSSHub 搭建指南打造个性化资讯中心]]></title>
+        <id>https://dusays.com/806/</id>
+        <link href="https://dusays.com/806/"/>
+        <updated>2025-03-06T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>RSSHub 可以根据我们的需求生成个性化的 RSS 订阅源，让我们轻松地获取到各种平台的最新资讯。本文将详细介绍 RSSHub 搭建过程，快速搭建起属于自己的资讯中心。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[效率工具链构建与SSH防护实践]]></title>
+        <id>https://bluehe.cn/archives/toolchain-optimization</id>
+        <link href="https://bluehe.cn/archives/toolchain-optimization"/>
+        <updated>2025-03-06T14:17:00.000Z</updated>
+        <summary type="html"><![CDATA[##Typora使用
+
+很早就安装有这款应用，但没有重视，最近改主题每改一部分就需要复制备份出来，很不方便。找到了吃灰的typora工具，很方便，熟悉Markdown的很容易入手，##添加后，左侧点击标题就可以跳转到指定内容，还有很丰富的显示效果。
+SSH...]]></summary>
+        <author>
+            <name>寻鹤</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GoldenMate 1000VA UPS Review with LiFePO4: Never Need to Replace Battery!]]></title>
+        <id>https://www.virtualizationhowto.com/?p=299822</id>
+        <link href="https://www.virtualizationhowto.com/2025/03/goldenmate-1000va-ups-review-with-lifepo4-never-need-to-replace-battery/"/>
+        <updated>2025-03-06T14:13:02.000Z</updated>
+        <summary type="html"><![CDATA[I don’t write a lot about UPS units that are out there. A UPS is not something that is usually that sexy to talk about or even gets people’s attention most of the time. However, the GoldenMate 1000VA 800W UPS is one that caught my attention from a design standpoint as well as the type …
+The post GoldenMate 1000VA UPS Review with LiFePO4: Never Need to Replace Battery! appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[跨城搬家总结]]></title>
+        <id>https://marsperl.github.io/yyg/4c3a1bc3/</id>
+        <link href="https://marsperl.github.io/yyg/4c3a1bc3/"/>
+        <updated>2025-03-06T09:11:21.000Z</updated>
+        <summary type="html"><![CDATA[写在前面
+　　今天终于彻底完成了从A城到B城的跨城搬家，开始在B城开启生活的新篇章。
+搬家全过程
+　　年后从老家回到A城之后，开始正式着手考虑搬到B城的事情，此时离房租到期还有半个多月的时间。
+<a href="#找房和看房"]]></summary>
+        <author>
+            <name>云野阁</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MinIO 容器化快速部署指南]]></title>
+        <id>/archives/1741249661732</id>
+        <link href="https://srebro.cn/archives/1741249661732"/>
+        <updated>2025-03-06T08:29:10.000Z</updated>
+        <summary type="html"><![CDATA[MinIO 容器化快速部署指南 一、快速开始 # 创建网络（需提前执行） docker network create srebro #创建工作目录 mkdir -p /home/application/Middleware/minio/ # 启动服务 docker-compose up -d]]></summary>
+        <author>
+            <name>运维小弟</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daily Tech Deals March 5 2025]]></title>
         <id>https://www.virtualizationhowto.com/?p=299814</id>
@@ -923,6 +983,16 @@ My doctor thought it might be Chondroma, which is a bit scary to look up, but is
 <figure class="highlight bash"><table><tr><td class="gutter"><pre><span]]></summary>
         <author>
             <name>杂烩饭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NAS使用SnappyMail搭建个人WebMail]]></title>
+        <id>https://www.dreamlyn.cn/1781251812.html</id>
+        <link href="https://www.dreamlyn.cn/1781251812.html"/>
+        <updated>2025-02-22T03:02:22.000Z</updated>
+        <summary type="html"><![CDATA[使用 docker-compose 搭建 SnappyMail 个人 WebMail 服务]]></summary>
+        <author>
+            <name>牧尘的NAS小站</name>
         </author>
     </entry>
     <entry>
@@ -8142,16 +8212,6 @@ Sveltia CMS 是 Hugo 官方推荐的另一个 CMS，属于 Netlify/Decap CMS 的
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Llama 3.3 70B and Ollama]]></title>
-        <id>https://collabnix.com/?p=29109</id>
-        <link href="https://collabnix.com/what-is-metas-llama-3-3-70b/"/>
-        <updated>2024-12-07T11:28:37.000Z</updated>
-        <summary type="html"><![CDATA[Meta has introduced Llama 3.3, a 70-billion parameter large language model that provides performance comparable to the much larger Llama 3.1 405B but with drastically reduced computational demands. This makes high-quality AI accessible to developers who may lack enterprise-level hardware. This guide explores Llama 3.3, delving into how it works, its use cases, and practical […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[柳永二十首经典诗词]]></title>
         <id>https://chegva.com/?p=6239</id>
         <link href="https://chegva.com/6239.html"/>
@@ -8252,26 +8312,6 @@ Sveltia CMS 是 Hugo 官方推荐的另一个 CMS，属于 Netlify/Decap CMS 的
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I got the ADHD, too]]></title>
-        <id>https://daverupert.com/2024/12/adhd/</id>
-        <link href="https://daverupert.com/2024/12/adhd/"/>
-        <updated>2024-12-06T15:29:00.000Z</updated>
-        <summary type="html"><![CDATA[This month I got my official diagnosis for Adult ADHD. It’s fun to share experiences with friends. While ADHD presents some new waters to navigate, it isn’t exactly news to me. Thanks to Dr. TikTok, I’ve suspected this outcome for a few years now. It’s nice to have a proper diagnosis though. If I’m struggling to focus or feeling overwhelmed, I know the probable root cause is how my brain processes dopamine and norepinephrine impacting my executive function.
-There are different flavors of ADHD, so I can only describe my experience:
-I crave “optimal stimulation” – 1 task = too little. 3-5 tasks = perfect, ideal. 6+ tasks = uh-oh, all the spinning plates come crashing down.
-I experience periods of hyperfocus – I often will lock in on an interesting problem and work for hours and forget to eat.
-Difficulty with tasks when overwhelmed – When overwhelmed (which is always, I have some generalized anxiety too), I’m unable to summon focus for even the smallest of tasks.
-Sensitivity to messy environments – Related to optimal stimulation, cluttered and messy environments (a common ADHD issue) creates a feeling of overwhelm for me.
-Sensory-seeking behaviors and fidgeting (classic restless leg syndrome)
-I don’t have the hyperactive part of ADHD.
-I’m pretty attentive and a good listener… until I’m not.
-I’ve developed a lot of coping and masking strategies over the years that have allowed me to maintain a decent level of productivity. In my 20s I used to manage this by brute force and caffeine. But now that I’m in my 40s with a lot more responsibilities and spinning plates, I feel the reins slipping a bit. To help with this, I’m trying out a non-stimulant sNRI medication that tries to repair that norepinephrine processing. It takes a week or so to fully activate so it’s not an instant fix, and to be honest I don’t quite know what to expect. I’m excited to see if it makes a difference but even if it doesn’t I’m happy to be on a journey.
-Anyways, cheers to unique brains.]]></summary>
-        <author>
-            <name>daverupert.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[iptables 拦截 bridge 包的问题排查]]></title>
         <id>https://www.kawabangga.com/?p=6726</id>
         <link href="https://www.kawabangga.com/posts/6726"/>
@@ -8280,17 +8320,6 @@ Anyways, cheers to unique brains.]]></summary>
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Proxmox Kubernetes Configurations You Need to Know]]></title>
-        <id>https://www.virtualizationhowto.com/?p=298222</id>
-        <link href="https://www.virtualizationhowto.com/2024/12/5-proxmox-kubernetes-configurations-you-need-to-know/"/>
-        <updated>2024-12-06T14:15:55.000Z</updated>
-        <summary type="html"><![CDATA[With many moving to Proxmox in their home lab or even production environments, you may be interested in your options for running Kubernetes. How does this work with Proxmox? Well, there are several ways you can configure your deployment of Kubernetes running in Proxmox. Let’s take a look at Proxmox Kubernetes configurations you need to …
-The post 5 Proxmox Kubernetes Configurations You Need to Know appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>

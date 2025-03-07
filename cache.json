@@ -6,6 +6,16 @@
       "siteUrl": "https://MarsperL.github.io/",
       "articles": [
         {
+          "id": "https://marsperl.github.io/yyg/4c3a1bc3/",
+          "author": null,
+          "description": "写在前面\n　　今天终于彻底完成了从A城到B城的跨城搬家，开始在B城开启生活的新篇章。\n搬家全过程\n　　年后从老家回到A城之后，开始正式着手考虑搬到B城的事情，此时离房租到期还有半个多月的时间。\n<a href=\"#找房和看房\"",
+          "link": "https://marsperl.github.io/yyg/4c3a1bc3/",
+          "publishedOn": "2025-03-06T09:11:21.000Z",
+          "wordCount": 1031,
+          "title": "跨城搬家总结",
+          "imageUrl": "https://random-img.pupper.cn/api?1231"
+        },
+        {
           "id": "https://marsperl.github.io/yyg/64b9e8e0/",
           "author": null,
           "description": "登山-嵩山\n​    前两天，去了登封爬了嵩山，在登封两天的总体感觉还不错。\n人文风情\n​    之前做攻略看到登封的炒刀削不错。特地去尝了尝，地址是登封汽车客运总站旁的小店，个人觉得味道不错，分量足，价格适中。\n​",
@@ -444,16 +454,6 @@
           "wordCount": 889,
           "title": "Intermittent fasting",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2024/12/adhd/",
-          "author": null,
-          "description": "This month I got my official diagnosis for Adult ADHD. It’s fun to share experiences with friends. While ADHD presents some new waters to navigate, it isn’t exactly news to me. Thanks to Dr. TikTok, I’ve suspected this outcome for a few years now. It’s nice to have a proper diagnosis though. If I’m struggling to focus or feeling overwhelmed, I know the probable root cause is how my brain processes dopamine and norepinephrine impacting my executive function.\nThere are different flavors of ADHD, so I can only describe my experience:\nI crave “optimal stimulation” – 1 task = too little. 3-5 tasks = perfect, ideal. 6+ tasks = uh-oh, all the spinning plates come crashing down.\nI experience periods of hyperfocus – I often will lock in on an interesting problem and work for hours and forget to eat.\nDifficulty with tasks when overwhelmed – When overwhelmed (which is always, I have some generalized anxiety too), I’m unable to summon focus for even the smallest of tasks.\nSensitivity to messy environments – Related to optimal stimulation, cluttered and messy environments (a common ADHD issue) creates a feeling of overwhelm for me.\nSensory-seeking behaviors and fidgeting (classic restless leg syndrome)\nI don’t have the hyperactive part of ADHD.\nI’m pretty attentive and a good listener… until I’m not.\nI’ve developed a lot of coping and masking strategies over the years that have allowed me to maintain a decent level of productivity. In my 20s I used to manage this by brute force and caffeine. But now that I’m in my 40s with a lot more responsibilities and spinning plates, I feel the reins slipping a bit. To help with this, I’m trying out a non-stimulant sNRI medication that tries to repair that norepinephrine processing. It takes a week or so to fully activate so it’s not an instant fix, and to be honest I don’t quite know what to expect. I’m excited to see if it makes a difference but even if it doesn’t I’m happy to be on a journey.\nAnyways, cheers to unique brains.",
-          "link": "https://daverupert.com/2024/12/adhd/",
-          "publishedOn": "2024-12-06T15:29:00.000Z",
-          "wordCount": 839,
-          "title": "I got the ADHD, too",
-          "imageUrl": null
         }
       ]
     },
@@ -859,6 +859,21 @@
       "feedUrl": "https://www.srebro.cn/rss.xml",
       "siteUrl": "https://srebro.cn/",
       "articles": [
+        {
+          "id": "/archives/1741249661732",
+          "author": "运维小弟",
+          "description": "MinIO 容器化快速部署指南 一、快速开始 # 创建网络（需提前执行） docker network create srebro #创建工作目录 mkdir -p /home/application/Middleware/minio/ # 启动服务 docker-compose up -d",
+          "link": "https://srebro.cn/archives/1741249661732",
+          "publishedOn": "2025-03-06T08:29:10.000Z",
+          "wordCount": 2145,
+          "title": "MinIO 容器化快速部署指南",
+          "enclosure": {
+            "url": "https://srebro.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https%3A%2F%2Fs3api.srebro.cn%2Fsrebro%2Fpicture%2FC210D961-8DBC-4486-981B-E583181FFE4A.png&size=m",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://srebro.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https%3A%2F%2Fs3api.srebro.cn%2Fsrebro%2Fpicture%2FC210D961-8DBC-4486-981B-E583181FFE4A.png&size=m"
+        },
         {
           "id": "/archives/1740643397650",
           "author": "运维小弟",
@@ -1810,6 +1825,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=299822",
+          "author": "Brandon Lee",
+          "description": "I don’t write a lot about UPS units that are out there. A UPS is not something that is usually that sexy to talk about or even gets people’s attention most of the time. However, the GoldenMate 1000VA 800W UPS is one that caught my attention from a design standpoint as well as the type …\nThe post GoldenMate 1000VA UPS Review with LiFePO4: Never Need to Replace Battery! appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/03/goldenmate-1000va-ups-review-with-lifepo4-never-need-to-replace-battery/",
+          "publishedOn": "2025-03-06T14:13:02.000Z",
+          "wordCount": 10711,
+          "title": "GoldenMate 1000VA UPS Review with LiFePO4: Never Need to Replace Battery!",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/UPS-with-Forever-Battery.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=299814",
           "author": "Brandon Lee",
           "description": "Looking for great tech deals? Check out items on today’s daily tech deals. The GMKtec Mini PC Intel i7-1195G7 is 38% off, featuring a powerful processor, dual SSD slots, and WiFi 6 for seamless performance. If you need a high-performance NAS, the UGREEN NASync DXP4800 Plus is 15% off, with a 5-core Intel Pentium Gold …\nThe post Daily Tech Deals March 5 2025 appeared first on Virtualization Howto.",
@@ -2538,16 +2563,6 @@
           "wordCount": 9806,
           "title": "CRICTL Kubernetes Command Line Tool for Troubleshooting",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/CRICTL-kubernetes-command-line.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298222",
-          "author": "Brandon Lee",
-          "description": "With many moving to Proxmox in their home lab or even production environments, you may be interested in your options for running Kubernetes. How does this work with Proxmox? Well, there are several ways you can configure your deployment of Kubernetes running in Proxmox. Let’s take a look at Proxmox Kubernetes configurations you need to …\nThe post 5 Proxmox Kubernetes Configurations You Need to Know appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2024/12/5-proxmox-kubernetes-configurations-you-need-to-know/",
-          "publishedOn": "2024-12-06T14:15:55.000Z",
-          "wordCount": 10053,
-          "title": "5 Proxmox Kubernetes Configurations You Need to Know",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/Proxmox-Kubernetes-configurations.png"
         }
       ]
     },
@@ -3675,16 +3690,6 @@
           "wordCount": 2463,
           "title": "How to Completely Uninstall Ollama and Erase LLM Models on Linux Systems?",
           "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/llama-crying.webp"
-        },
-        {
-          "id": "https://collabnix.com/?p=29109",
-          "author": "Tanvir Kour",
-          "description": "Meta has introduced Llama 3.3, a 70-billion parameter large language model that provides performance comparable to the much larger Llama 3.1 405B but with drastically reduced computational demands. This makes high-quality AI accessible to developers who may lack enterprise-level hardware. This guide explores Llama 3.3, delving into how it works, its use cases, and practical […]",
-          "link": "https://collabnix.com/what-is-metas-llama-3-3-70b/",
-          "publishedOn": "2024-12-07T11:28:37.000Z",
-          "wordCount": 2822,
-          "title": "Llama 3.3 70B and Ollama",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/1733547501970.jpeg"
         }
       ]
     },
@@ -4139,6 +4144,21 @@
       "siteUrl": "https://bluehe.cn/",
       "articles": [
         {
+          "id": "https://bluehe.cn/archives/toolchain-optimization",
+          "author": "寻鹤",
+          "description": "##Typora使用\n\n很早就安装有这款应用，但没有重视，最近改主题每改一部分就需要复制备份出来，很不方便。找到了吃灰的typora工具，很方便，熟悉Markdown的很容易入手，##添加后，左侧点击标题就可以跳转到指定内容，还有很丰富的显示效果。\nSSH...",
+          "link": "https://bluehe.cn/archives/toolchain-optimization",
+          "publishedOn": "2025-03-06T14:17:00.000Z",
+          "wordCount": 842,
+          "title": "效率工具链构建与SSH防护实践",
+          "enclosure": {
+            "url": "https://bluehe.cn/usr/uploads/2025/03/1918863364.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bluehe.cn/usr/uploads/2025/03/1918863364.jpg"
+        },
+        {
           "id": "https://bluehe.cn/archives/modified-typecho",
           "author": "寻鹤",
           "description": "这两年来我一直都是使用Nginx Proxy Manage工具来进行反向代理，但近期发现不好使用了，经常登录显示Bad gateway。Docker搭建的Nginx Proxy Manage是由一个npm_app和一个npm_db（mysql）构造，显示B...",
@@ -4427,6 +4447,16 @@
       "feedUrl": "https://dusays.com/atom.xml",
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
+        {
+          "id": "https://dusays.com/806/",
+          "author": null,
+          "description": "<blockquote>\n<p>RSSHub 可以根据我们的需求生成个性化的 RSS 订阅源，让我们轻松地获取到各种平台的最新资讯。本文将详细介绍 RSSHub 搭建过程，快速搭建起属于自己的资讯中心。</p>\n</blockquote>",
+          "link": "https://dusays.com/806/",
+          "publishedOn": "2025-03-06T16:00:00.000Z",
+          "wordCount": 1526,
+          "title": "RSSHub 搭建指南打造个性化资讯中心",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
         {
           "id": "https://dusays.com/805/",
           "author": null,
@@ -4800,7 +4830,18 @@
       "title": "牧尘的NAS小站",
       "feedUrl": "https://www.dreamlyn.cn/atom.xml",
       "siteUrl": "https://www.dreamlyn.cn/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.dreamlyn.cn/1781251812.html",
+          "author": null,
+          "description": "使用 docker-compose 搭建 SnappyMail 个人 WebMail 服务",
+          "link": "https://www.dreamlyn.cn/1781251812.html",
+          "publishedOn": "2025-02-22T03:02:22.000Z",
+          "wordCount": 682,
+          "title": "NAS使用SnappyMail搭建个人WebMail",
+          "imageUrl": "https://img.dreamlyn.cn:8443/i/2024/02/22/115030.webp"
+        }
+      ]
     },
     {
       "title": "Pandalab",
