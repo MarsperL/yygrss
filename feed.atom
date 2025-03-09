@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-03-08T01:24:40.612Z</updated>
+    <updated>2025-03-09T01:37:09.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
@@ -234,6 +234,29 @@ linux dm-0 dm-1 设备映射 简介]]></summary>
         <summary type="html"><![CDATA[MinIO 容器化快速部署指南 一、快速开始 # 创建网络（需提前执行） docker network create srebro #创建工作目录 mkdir -p /home/application/Middleware/minio/ # 启动服务 docker-compose up -d]]></summary>
         <author>
             <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android Runtime 解释器的实现探究]]></title>
+        <id>https://jia.je/software/2025/03/06/android-runtime-interpreter/</id>
+        <link href="https://jia.je/software/2025/03/06/android-runtime-interpreter/"/>
+        <updated>2025-03-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Android Runtime 解释器的实现探究¶
+背景¶
+在 V8 Ignition 解释器的内部实现探究 中探究了 JavaScript 引擎 V8 的解释器的实现，接下来分析一下 Android Runtime (ART) 的解释器，其原理也是类似的。本博客在 ARM64 Ubuntu 24.04 平台上针对 Android Runtime (ART) 15.0.0 r1 版本进行分析。
+
+Dalvik Bytecode¶
+在分析解释器的代码前，需要先了解一下解释器的输入，也就是它执行的字节码格式是什么。Android Runtime 继承和发展了 Dalvik VM 的字节码 Dalvik Bytecode 格式，因此在打包 Android 应用的时候，Java 代码最终会被翻译成 Dalvik Bytecode。
+接下来来实践一下这个过程，从 Java 代码到 Dalvik Bytecode：
+第一步是编写一个简单的 Java 程序如下，保存到 MainActivity.java：
+
+public class MainActivity { public static void main(String[] args) { System.out.println("Hello, world!"); } public static int add(int a, int b) { return a + b; }}
+
+首先用 javac MainActivity.java 命令把源码编译到 Java Bytecode。可以用 javap -c MainActivity.class 查看生成的 Java Bytecode：
+
+Compiled from "MainActivity.java"public class MainActivity { public MainActiv…]]></summary>
+        <author>
+            <name>杰哥的{运维，编程，调板子}小笔记</name>
         </author>
     </entry>
     <entry>
@@ -543,6 +566,23 @@ The answer again –and I cannot stress this enough– is prototypes.
 毕竟，从五代到两宋、元朝，连官方正史档案都大量遗失，小地方的宗族谱系更难保存，除了“孔氏”等个别名门望族，地方小…]]></summary>
         <author>
             <name>法律小茶馆</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[V8 Ignition 解释器的内部实现探究]]></title>
+        <id>https://jia.je/software/2025/03/01/v8-ignition-internals/</id>
+        <link href="https://jia.je/software/2025/03/01/v8-ignition-internals/"/>
+        <updated>2025-03-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[V8 Ignition 解释器的内部实现探究¶
+背景¶
+V8 是一个很常见的 JavaScript 引擎，运行在很多的设备上，因此想探究一下它内部的部分实现。本博客在 ARM64 Ubuntu 24.04 平台上针对 V8 12.8.374.31 版本进行分析。本博客主要分析了 V8 的 Ignition 解释器的解释执行部分。
+
+编译 V8¶
+首先简单过一下 v8 的源码获取以及编译流程，主要参考了 Checking out the V8 source code 和 Compiling on Arm64 Linux:
+
+# setup depot_toolscd ~git clone https://chromium.googlesource.com/chromium/tools/depot_tools.gitexport PATH=$PWD/depot_tools:$PATH# clone v8 reposmkdir ~/v8cd ~/v8fetch v8cd v8# switch to specified taggit checkout 12.8.374.31gclient sync --verbose# install dependencies./build/install-build-deps.sh# install llvm 19wget https://mirrors.tuna.tsinghua.edu.cn/llvm-apt/llvm.shchmod +x llvm.shsudo ./llvm.sh 19 -m https://mirrors.tuna.tsinghua.edu.cn/llvm-aptrm llvm.shsudo apt install -y lld clang-19# fix incompatibilities with system cl…]]></summary>
+        <author>
+            <name>杰哥的{运维，编程，调板子}小笔记</name>
         </author>
     </entry>
     <entry>
@@ -8123,224 +8163,6 @@ Cycle 计数器：Cycle Counter Register(PMCCNTR_EL0) 和 Cycle Count Filter Reg
 The post CRICTL Kubernetes Command Line Tool for Troubleshooting appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[配置Pages CMS让其支持Hugo目录结构]]></title>
-        <id>https://lawtee.com/editor/2024_12_09_configuring_pagescms_to_match_hugos_directory_structure/</id>
-        <link href="https://lawtee.com/editor/2024_12_09_configuring_pagescms_to_match_hugos_directory_structure/"/>
-        <updated>2024-12-09T13:10:00.000Z</updated>
-        <summary type="html"><![CDATA[在上一篇文章 Pages CMS：一个勉强够用的HUGO博客后台 中，我提到可以用 Pages CMS 作为 Hugo 的文章后台管理面板。但有个问题不是很好解决，即 Hugo 默认目录结构很难与 Pages CMS 进行适配。这也不单单是 Pages CMS 独有问题，其他任何 CMS 可能都会在适配 Hugo 时遇到这个问题。但在 Hugo 社区的强大支持下，我最终解决了这一问题。
-问题表现形式
-
-Hugo 需要什么样的图片目录结构
-
-Hugo 目录一般是下边这种形式，index.md 文件 与图片文件都保存在同一文件夹内。在 index.md 中引用图片，只需要输入 ![a](a.jpg) 即可，不需要输入图片的目录结构。除非一种情况，在下边代码类似 article-1 内有子目录，这时才需要在图片引用子目录路径。
-
-
-
-1
-2
-3
-4
-5
-6
-7
-8
-9
-
-
-
-content/
-├── post/
-│ ├── article-1/
-│ │ ├── a.jpg
-│ │ └── index.md
-│ └── article-2/
-│ ├── b.jpg
-│ └── index.md
-└── _index.md
-
-
-
-
-
-CMS 能提供什么样的图片目录结构
-
-CMS 的图片目录结构一般是下边这种形式，通常只有一个图片入口和出口，用于图片集中管理。在 CMS 中，上传或插入图片，默认的链接（按照下方代码设置）是 content/post/article-1/a.jpg 。在使用 markdown 语法后，会变成 ![a](content/post/article-1/a.jpg) ，一旦手动设置图片链接为 ![a](a.jpg) 就会产生错误。但 ![a](content/post/article-1/a.jpg) 这种链接格式，在 Hugo 中会被认为图片是保存在 ind…]]></summary>
-        <author>
-            <name>法律小茶馆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[配置Pages CMS让其支持Hugo目录结构]]></title>
-        <id>https://hyruo.com/editor/2024_12_09_configuring_pagescms_to_match_hugos_directory_structure/</id>
-        <link href="https://hyruo.com/editor/2024_12_09_configuring_pagescms_to_match_hugos_directory_structure/"/>
-        <updated>2024-12-09T13:10:00.000Z</updated>
-        <summary type="html"><![CDATA[在上一篇文章 Pages CMS：一个勉强够用的HUGO博客后台 中，我提到可以用 Pages CMS 作为 Hugo 的文章后台管理面板。但有个问题不是很好解决，即 Hugo 默认目录结构很难与 Pages CMS 进行适配。这也不单单是 Pages CMS 独有问题，其他任何 CMS 可能都会在适配 Hugo 时遇到这个问题。但在 Hugo 社区的强大支持下，我最终解决了这一问题。
-问题表现形式
-
-Hugo 需要什么样的图片目录结构
-
-Hugo 目录一般是下边这种形式，index.md 文件 与图片文件都保存在同一文件夹内。在 index.md 中引用图片，只需要输入 ![a](a.jpg) 即可，不需要输入图片的目录结构。除非一种情况，在下边代码类似 article-1 内有子目录，这时才需要在图片引用子目录路径。
-
-
-
-1
-2
-3
-4
-5
-6
-7
-8
-9
-
-
-
-content/
-├── post/
-│ ├── article-1/
-│ │ ├── a.jpg
-│ │ └── index.md
-│ └── article-2/
-│ ├── b.jpg
-│ └── index.md
-└── _index.md
-
-
-
-
-
-CMS 能提供什么样的图片目录结构
-
-CMS 的图片目录结构一般是下边这种形式，通常只有一个图片入口和出口，用于图片集中管理。在 CMS 中，上传或插入图片，默认的链接（按照下方代码设置）是 content/post/article-1/a.jpg 。在使用 markdown 语法后，会变成 ![a](content/post/article-1/a.jpg) ，一旦手动设置图片链接为 ![a](a.jpg) 就会产生错误。但 ![a](content/post/article-1/a.jpg) 这种链接格式，在 Hugo 中会被认为图片是保存在 ind…]]></summary>
-        <author>
-            <name>法律小茶馆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How VPS Hosting Helps You Create Online Apps Effortlessly]]></title>
-        <id>https://collabnix.com/?p=29192</id>
-        <link href="https://collabnix.com/how-vps-hosting-helps-you-create-online-apps-effortlessly/"/>
-        <updated>2024-12-09T11:37:29.000Z</updated>
-        <summary type="html"><![CDATA[Online applications have become integral to many people’s lives. Every developer is looking for a stable, flexible, and cost-effective environment to implement their ideas, regardless of whether it is a startup or a large corporation. Anyway, VPS hosting comes to the rescue. A virtual private server is a dedicated virtual environment. It offers resources comparable […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Platform Engineering vs DevOps vs SRE: A Cheatsheet]]></title>
-        <id>https://collabnix.com/?p=29184</id>
-        <link href="https://collabnix.com/platform-engineering-vs-devops-vs-sre-a-cheatsheet/"/>
-        <updated>2024-12-09T08:36:07.000Z</updated>
-        <summary type="html"><![CDATA[According to Gartner®, by 2026, 80% of large software engineering organizations will establish platform engineering teams—a significant leap from 45% in 2022. This shift reflects the growing importance of internal platforms in accelerating innovation and operational excellence. What is Platform Engineering? Imagine you’re building a house. To do so, you need tools like hammers, saws, […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公司福利&quot;心想事橙&quot;]]></title>
-        <id>https://qq.mba/198.html</id>
-        <link href="https://qq.mba/198.html"/>
-        <updated>2024-12-09T04:07:34.000Z</updated>
-        <summary type="html"><![CDATA[喜提，"心想事橙"一箱！一大早来公司，就发现办公区放了很多橙色箱子，一看就知道是公司发什么东西了，一般冬季都会是水果一类的，果然是"心想事橙"，看样子又可以吃一段时间了。公司一般夏天的时候，会给...]]></summary>
-        <author>
-            <name>满心</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Install JetPack Without NVIDIA SDK Manager]]></title>
-        <id>https://collabnix.com/?p=29180</id>
-        <link href="https://collabnix.com/install-jetpack-without-nvidia-sdk-manager/"/>
-        <updated>2024-12-09T03:32:16.000Z</updated>
-        <summary type="html"><![CDATA[Setting up SDK Manager is painful. Even though it’s just one single RPM or DEB package, the problem is that you need a separate system for it. The SDK Manager is meant to be installed on your PC (host), specifically on a Ubuntu 20.04 if you want to flash a NVIDIA Jetson Nano (target). Thereby, […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[优咔（Ucards）虚拟卡平台：支持USDT充值，可灵活选择多种卡段]]></title>
-        <id>https://blog.xiaoz.org/?p=21635</id>
-        <link href="https://blog.xiaoz.org/archives/21635"/>
-        <updated>2024-12-09T02:55:28.000Z</updated>
-        <summary type="html"><![CDATA[最近博主发现一个新的虚拟卡平台Ucards，中文名称优咔，开卡门槛较低，适合海淘或者用来订阅国外软件服务，该虚拟卡平台支持USDT充值，提供多种卡段可供选择。注意事项：本博客仅提供推荐，请根据自身需求谨慎决策，风险需要您自行承担！！！注册Ucards优咔（Ucards）注册地址：https://ww]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mac配置有线内网和无线Wi-Fi公网同时使用]]></title>
-        <id>https://chegva.com/?p=6238</id>
-        <link href="https://chegva.com/6238.html"/>
-        <updated>2024-12-08T21:54:30.000Z</updated>
-        <summary type="html"><![CDATA[最近去客户机房部署服务，由于还没有并网，只能连根网线访问机房环境，但插入网线后发现连的 Wi-Fi 热点不起作用，只能访问内网，无法访问外网。拔掉网线后Wi-Fi恢复正常。想着应该是网络优先级的问题，需要让内网机房访问走有线，外网访问走Wi-Fi，解决方法：
-1、修改网络偏好设置，自定义网络使用的先后顺序，优先使用 Wi-Fi 上网
-
-2、给访问的内网环境的网段(10.240.0.0/16)添加指定路由，让内网网段的访问走网线而不是 Wi-Fi
-# 10.240.0.0/16 是内网网段，10.240.251.250 是网关地址
-$ sudo route add "10.240.0.0/16" "10.240.251.250"
-
-$ route get 10.240.0.0/16
-   route to: 10.240.0.0
-destination: 10.240.0.0
-       mask: 255.255.0.0
-    gateway: 10.240.251.250
-  interface: en4
-      flags: <UP,GATEWAY,DONE,STATIC,PRCLONING>
-3、使用ssh隧道代理通过跳板机访问内网环境
-ssh -qTfnND 12345 root@10.240.234.1
-
-
-
-
-route命令使用
-
-route
-
-  手动操作路由表。
-  需要 root 权限。
-  更多信息：https://keith.github.io/xcode-man-pages/route.8.html.
-
-  通过网关向目标添加路由：
-
-    sudo route add "路由 ip 地址" "网关地址"
-
-  通过网关向 子网 / 24 添加路由：
-
-    sudo route add "子网 ip/24" "网关地址"
-
-  在测试模式下运行（不做任何操作，只打印）：
-
-    sudo route -t add "路由 ip 地址/24" "网关地址"
-
-  删除所有路由：
-
-    sudo route flush
-
-  删除特定路由：
-
-    sudo route delete "路由 ip 地址/24"
-
-  查找并显示目标的路由（主机名或 IP 地址）：
-
-    sudo route get "目标"
-    
-查看路由表：
-linux：route -n
-Mac：netstat -rn
-
-
-参考：
-
-Mac同时使用无线wifi和有线上网，解决内网外网一起访问的问题
-
-
-SSH隧道原理及端口转发使用
-
-macOS配置永久路由]]></summary>
-        <author>
-            <name>anzhihe</name>
         </author>
     </entry>
 </feed>

@@ -685,6 +685,52 @@ linux dm-0 dm-1 设备映射 简介</span>
                 </section>
               </section>
             </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >杰哥的{运维，编程，调板子}小笔记</button>
+                  <a class="source-heading__link" href="https://jia.je/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://jia.je/software/2025/03/06/android-runtime-interpreter/"
+                        open
+                      >
+                        <summary class="article-expander__title">Android Runtime 解释器的实现探究</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://jia.je/software/2025/03/06/android-runtime-interpreter/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Android Runtime 解释器的实现探究¶
+背景¶
+在 V8 Ignition 解释器的内部实现探究 中探究了 JavaScript 引擎 V8 的解释器的实现，接下来分析一下 Android Runtime (ART) 的解释器，其原理也是类似的。本博客在 ARM64 Ubuntu 24.04 平台上针对 Android Runtime (ART) 15.0.0 r1 版本进行分析。
+
+Dalvik Bytecode¶
+在分析解释器的代码前，需要先了解一下解释器的输入，也就是它执行的字节码格式是什么。Android Runtime 继承和发展了 Dalvik VM 的字节码 Dalvik Bytecode 格式，因此在打包 Android 应用的时候，Java 代码最终会被翻译成 Dalvik Bytecode。
+接下来来实践一下这个过程，从 Java 代码到 Dalvik Bytecode：
+第一步是编写一个简单的 Java 程序如下，保存到 MainActivity.java：
+
+public class MainActivity { public static void main(String[] args) { System.out.println(&quot;Hello, world!&quot;); } public static int add(int a, int b) { return a + b; }}
+
+首先用 javac MainActivity.java 命令把源码编译到 Java Bytecode。可以用 javap -c MainActivity.class 查看生成的 Java Bytecode：
+
+Compiled from &quot;MainActivity.java&quot;public class MainActivity { public MainActiv…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
         </ul>
       </section>
       <section class="daily-content js-toggle-accordions-scope">
@@ -1576,6 +1622,46 @@ The answer again –and I cannot stress this enough– is prototypes.
 但我觉得，更加可能的一个情况是，这 24 个辈分只是当时编写族谱时能够查证的部分，实际上很可能已经经历了 30 多代人，只是因为缺乏记录，导致只编写了 24 个。
 毕竟，从五代到两宋、元朝，连官方正史档案都大量遗失，小地方的宗族谱系更难保存，除了“孔氏”等个别名门望族，地方小…</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >杰哥的{运维，编程，调板子}小笔记</button>
+                  <a class="source-heading__link" href="https://jia.je/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://jia.je/software/2025/03/01/v8-ignition-internals/"
+                        open
+                      >
+                        <summary class="article-expander__title">V8 Ignition 解释器的内部实现探究</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://jia.je/software/2025/03/01/v8-ignition-internals/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>V8 Ignition 解释器的内部实现探究¶
+背景¶
+V8 是一个很常见的 JavaScript 引擎，运行在很多的设备上，因此想探究一下它内部的部分实现。本博客在 ARM64 Ubuntu 24.04 平台上针对 V8 12.8.374.31 版本进行分析。本博客主要分析了 V8 的 Ignition 解释器的解释执行部分。
+
+编译 V8¶
+首先简单过一下 v8 的源码获取以及编译流程，主要参考了 Checking out the V8 source code 和 Compiling on Arm64 Linux:
+
+# setup depot_toolscd ~git clone https://chromium.googlesource.com/chromium/tools/depot_tools.gitexport PATH&#x3D;$PWD/depot_tools:$PATH# clone v8 reposmkdir ~/v8cd ~/v8fetch v8cd v8# switch to specified taggit checkout 12.8.374.31gclient sync --verbose# install dependencies./build/install-build-deps.sh# install llvm 19wget https://mirrors.tuna.tsinghua.edu.cn/llvm-apt/llvm.shchmod +x llvm.shsudo ./llvm.sh 19 -m https://mirrors.tuna.tsinghua.edu.cn/llvm-aptrm llvm.shsudo apt install -y lld clang-19# fix incompatibilities with system cl…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;11
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -20609,375 +20695,12 @@ The post CRICTL Kubernetes Command Line Tool for Troubleshooting appeared first 
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >法律小茶馆</button>
-                  <a class="source-heading__link" href="https://lawtee.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://lawtee.com/editor/2024_12_09_configuring_pagescms_to_match_hugos_directory_structure/"
-                        open
-                      >
-                        <summary class="article-expander__title">配置Pages CMS让其支持Hugo目录结构</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://lawtee.com/editor/2024_12_09_configuring_pagescms_to_match_hugos_directory_structure/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://lawtee.com/editor/2024_12_09_configuring_pagescms_to_match_hugos_directory_structure/8.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>在上一篇文章 Pages CMS：一个勉强够用的HUGO博客后台 中，我提到可以用 Pages CMS 作为 Hugo 的文章后台管理面板。但有个问题不是很好解决，即 Hugo 默认目录结构很难与 Pages CMS 进行适配。这也不单单是 Pages CMS 独有问题，其他任何 CMS 可能都会在适配 Hugo 时遇到这个问题。但在 Hugo 社区的强大支持下，我最终解决了这一问题。
-问题表现形式
-
-Hugo 需要什么样的图片目录结构
-
-Hugo 目录一般是下边这种形式，index.md 文件 与图片文件都保存在同一文件夹内。在 index.md 中引用图片，只需要输入 ![a](a.jpg) 即可，不需要输入图片的目录结构。除非一种情况，在下边代码类似 article-1 内有子目录，这时才需要在图片引用子目录路径。
-
-
-
-1
-2
-3
-4
-5
-6
-7
-8
-9
-
-
-
-content/
-├── post/
-│ ├── article-1/
-│ │ ├── a.jpg
-│ │ └── index.md
-│ └── article-2/
-│ ├── b.jpg
-│ └── index.md
-└── _index.md
-
-
-
-
-
-CMS 能提供什么样的图片目录结构
-
-CMS 的图片目录结构一般是下边这种形式，通常只有一个图片入口和出口，用于图片集中管理。在 CMS 中，上传或插入图片，默认的链接（按照下方代码设置）是 content/post/article-1/a.jpg 。在使用 markdown 语法后，会变成 ![a](content/post/article-1/a.jpg) ，一旦手动设置图片链接为 ![a](a.jpg) 就会产生错误。但 ![a](content/post/article-1/a.jpg) 这种链接格式，在 Hugo 中会被认为图片是保存在 ind…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://hyruo.com/editor/2024_12_09_configuring_pagescms_to_match_hugos_directory_structure/"
-                        open
-                      >
-                        <summary class="article-expander__title">配置Pages CMS让其支持Hugo目录结构</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://hyruo.com/editor/2024_12_09_configuring_pagescms_to_match_hugos_directory_structure/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://hyruo.com/editor/2024_12_09_configuring_pagescms_to_match_hugos_directory_structure/8.webp" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>在上一篇文章 Pages CMS：一个勉强够用的HUGO博客后台 中，我提到可以用 Pages CMS 作为 Hugo 的文章后台管理面板。但有个问题不是很好解决，即 Hugo 默认目录结构很难与 Pages CMS 进行适配。这也不单单是 Pages CMS 独有问题，其他任何 CMS 可能都会在适配 Hugo 时遇到这个问题。但在 Hugo 社区的强大支持下，我最终解决了这一问题。
-问题表现形式
-
-Hugo 需要什么样的图片目录结构
-
-Hugo 目录一般是下边这种形式，index.md 文件 与图片文件都保存在同一文件夹内。在 index.md 中引用图片，只需要输入 ![a](a.jpg) 即可，不需要输入图片的目录结构。除非一种情况，在下边代码类似 article-1 内有子目录，这时才需要在图片引用子目录路径。
-
-
-
-1
-2
-3
-4
-5
-6
-7
-8
-9
-
-
-
-content/
-├── post/
-│ ├── article-1/
-│ │ ├── a.jpg
-│ │ └── index.md
-│ └── article-2/
-│ ├── b.jpg
-│ └── index.md
-└── _index.md
-
-
-
-
-
-CMS 能提供什么样的图片目录结构
-
-CMS 的图片目录结构一般是下边这种形式，通常只有一个图片入口和出口，用于图片集中管理。在 CMS 中，上传或插入图片，默认的链接（按照下方代码设置）是 content/post/article-1/a.jpg 。在使用 markdown 语法后，会变成 ![a](content/post/article-1/a.jpg) ，一旦手动设置图片链接为 ![a](a.jpg) 就会产生错误。但 ![a](content/post/article-1/a.jpg) 这种链接格式，在 Hugo 中会被认为图片是保存在 ind…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Collabnix</button>
-                  <a class="source-heading__link" href="https://collabnix.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://collabnix.com/?p&#x3D;29192"
-                        open
-                      >
-                        <summary class="article-expander__title">How VPS Hosting Helps You Create Online Apps Effortlessly</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://collabnix.com/how-vps-hosting-helps-you-create-online-apps-effortlessly/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/word-image-29192-1.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Online applications have become integral to many people’s lives. Every developer is looking for a stable, flexible, and cost-effective environment to implement their ideas, regardless of whether it is a startup or a large corporation. Anyway, VPS hosting comes to the rescue. A virtual private server is a dedicated virtual environment. It offers resources comparable […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;10
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://collabnix.com/?p&#x3D;29184"
-                        open
-                      >
-                        <summary class="article-expander__title">Platform Engineering vs DevOps vs SRE: A Cheatsheet</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://collabnix.com/platform-engineering-vs-devops-vs-sre-a-cheatsheet/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>According to Gartner®, by 2026, 80% of large software engineering organizations will establish platform engineering teams—a significant leap from 45% in 2022. This shift reflects the growing importance of internal platforms in accelerating innovation and operational excellence. What is Platform Engineering? Imagine you’re building a house. To do so, you need tools like hammers, saws, […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;9
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://collabnix.com/?p&#x3D;29180"
-                        open
-                      >
-                        <summary class="article-expander__title">Install JetPack Without NVIDIA SDK Manager</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://collabnix.com/install-jetpack-without-nvidia-sdk-manager/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Setting up SDK Manager is painful. Even though it’s just one single RPM or DEB package, the problem is that you need a separate system for it. The SDK Manager is meant to be installed on your PC (host), specifically on a Ubuntu 20.04 if you want to flash a NVIDIA Jetson Nano (target). Thereby, […]</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;8
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >满心记</button>
-                  <a class="source-heading__link" href="https://qq.mba/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://qq.mba/198.html"
-                        open
-                      >
-                        <summary class="article-expander__title">公司福利&quot;心想事橙&quot;</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://qq.mba/198.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>喜提，&quot;心想事橙&quot;一箱！一大早来公司，就发现办公区放了很多橙色箱子，一看就知道是公司发什么东西了，一般冬季都会是水果一类的，果然是&quot;心想事橙&quot;，看样子又可以吃一段时间了。公司一般夏天的时候，会给...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >小z博客</button>
-                  <a class="source-heading__link" href="https://blog.xiaoz.org">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://blog.xiaoz.org/?p&#x3D;21635"
-                        open
-                      >
-                        <summary class="article-expander__title">优咔（Ucards）虚拟卡平台：支持USDT充值，可灵活选择多种卡段</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://blog.xiaoz.org/archives/21635">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>最近博主发现一个新的虚拟卡平台Ucards，中文名称优咔，开卡门槛较低，适合海淘或者用来订阅国外软件服务，该虚拟卡平台支持USDT充值，提供多种卡段可供选择。注意事项：本博客仅提供推荐，请根据自身需求谨慎决策，风险需要您自行承担！！！注册Ucards优咔（Ucards）注册地址：https://ww</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >CHEGVA</button>
-                  <a class="source-heading__link" href="https://chegva.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://chegva.com/?p&#x3D;6238"
-                        open
-                      >
-                        <summary class="article-expander__title">Mac配置有线内网和无线Wi-Fi公网同时使用</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://chegva.com/6238.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>最近去客户机房部署服务，由于还没有并网，只能连根网线访问机房环境，但插入网线后发现连的 Wi-Fi 热点不起作用，只能访问内网，无法访问外网。拔掉网线后Wi-Fi恢复正常。想着应该是网络优先级的问题，需要让内网机房访问走有线，外网访问走Wi-Fi，解决方法：
-1、修改网络偏好设置，自定义网络使用的先后顺序，优先使用 Wi-Fi 上网
-
-2、给访问的内网环境的网段(10.240.0.0/16)添加指定路由，让内网网段的访问走网线而不是 Wi-Fi
-# 10.240.0.0/16 是内网网段，10.240.251.250 是网关地址
-$ sudo route add &quot;10.240.0.0/16&quot; &quot;10.240.251.250&quot;
-
-$ route get 10.240.0.0/16
-   route to: 10.240.0.0
-destination: 10.240.0.0
-       mask: 255.255.0.0
-    gateway: 10.240.251.250
-  interface: en4
-      flags: 
-3、使用ssh隧道代理通过跳板机访问内网环境
-ssh -qTfnND 12345 root@10.240.234.1
-
-
-
-
-route命令使用
-
-route
-
-  手动操作路由表。
-  需要 root 权限。
-  更多信息：https://keith.github.io/xcode-man-pages/route.8.html.
-
-  通过网关向目标添加路由：
-
-    sudo route add &quot;路由 ip 地址&quot; &quot;网关地址&quot;
-
-  通过网关向 子网 / 24 添加路由：
-
-    sudo route add &quot;子网 ip/24&quot; &quot;网关地址&quot;
-
-  在测试模式下运行（不做任何操作，只打印）：
-
-    sudo route -t add &quot;路由 ip 地址/24&quot; &quot;网关地址&quot;
-
-  删除所有路由：
-
-    sudo route flush
-
-  删除特定路由：
-
-    sudo route delete &quot;路由 ip 地址/24&quot;
-
-  查找并显示目标的路由（主机名或 IP 地址）：
-
-    sudo route get &quot;目标&quot;
-    
-查看路由表：
-linux：route -n
-Mac：netstat -rn
-
-
-参考：
-
-Mac同时使用无线wifi和有线上网，解决内网外网一起访问的问题
-
-
-SSH隧道原理及端口转发使用
-
-macOS配置永久路由</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;29
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/MarsperL/yygrss/actions/runs/13732427243">
-        <time id="build-timestamp" datetime="2025-03-08T01:24:40.572Z">2025-03-08T01:24:40.572Z</time>
+      <a class="footer-link" href="https://github.com/MarsperL/yygrss/actions/runs/13743533058">
+        <time id="build-timestamp" datetime="2025-03-09T01:37:09.796Z">2025-03-09T01:37:09.796Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

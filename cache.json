@@ -801,26 +801,6 @@
           "wordCount": 201,
           "title": "怎样预防集资诈骗",
           "imageUrl": "https://hyruo.com/editor/2024_12_11_how_to_prevent_fundraising_fraud/0.webp"
-        },
-        {
-          "id": "https://lawtee.com/editor/2024_12_09_configuring_pagescms_to_match_hugos_directory_structure/",
-          "author": null,
-          "description": "在上一篇文章 Pages CMS：一个勉强够用的HUGO博客后台 中，我提到可以用 Pages CMS 作为 Hugo 的文章后台管理面板。但有个问题不是很好解决，即 Hugo 默认目录结构很难与 Pages CMS 进行适配。这也不单单是 Pages CMS 独有问题，其他任何 CMS 可能都会在适配 Hugo 时遇到这个问题。但在 Hugo 社区的强大支持下，我最终解决了这一问题。\n问题表现形式\n\nHugo 需要什么样的图片目录结构\n\nHugo 目录一般是下边这种形式，index.md 文件 与图片文件都保存在同一文件夹内。在 index.md 中引用图片，只需要输入 ![a](a.jpg) 即可，不需要输入图片的目录结构。除非一种情况，在下边代码类似 article-1 内有子目录，这时才需要在图片引用子目录路径。\n\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n\n\n\ncontent/\n├── post/\n│ ├── article-1/\n│ │ ├── a.jpg\n│ │ └── index.md\n│ └── article-2/\n│ ├── b.jpg\n│ └── index.md\n└── _index.md\n\n\n\n\n\nCMS 能提供什么样的图片目录结构\n\nCMS 的图片目录结构一般是下边这种形式，通常只有一个图片入口和出口，用于图片集中管理。在 CMS 中，上传或插入图片，默认的链接（按照下方代码设置）是 content/post/article-1/a.jpg 。在使用 markdown 语法后，会变成 ![a](content/post/article-1/a.jpg) ，一旦手动设置图片链接为 ![a](a.jpg) 就会产生错误。但 ![a](content/post/article-1/a.jpg) 这种链接格式，在 Hugo 中会被认为图片是保存在 ind…",
-          "link": "https://lawtee.com/editor/2024_12_09_configuring_pagescms_to_match_hugos_directory_structure/",
-          "publishedOn": "2024-12-09T13:10:00.000Z",
-          "wordCount": 621,
-          "title": "配置Pages CMS让其支持Hugo目录结构",
-          "imageUrl": "https://lawtee.com/editor/2024_12_09_configuring_pagescms_to_match_hugos_directory_structure/8.webp"
-        },
-        {
-          "id": "https://hyruo.com/editor/2024_12_09_configuring_pagescms_to_match_hugos_directory_structure/",
-          "author": null,
-          "description": "在上一篇文章 Pages CMS：一个勉强够用的HUGO博客后台 中，我提到可以用 Pages CMS 作为 Hugo 的文章后台管理面板。但有个问题不是很好解决，即 Hugo 默认目录结构很难与 Pages CMS 进行适配。这也不单单是 Pages CMS 独有问题，其他任何 CMS 可能都会在适配 Hugo 时遇到这个问题。但在 Hugo 社区的强大支持下，我最终解决了这一问题。\n问题表现形式\n\nHugo 需要什么样的图片目录结构\n\nHugo 目录一般是下边这种形式，index.md 文件 与图片文件都保存在同一文件夹内。在 index.md 中引用图片，只需要输入 ![a](a.jpg) 即可，不需要输入图片的目录结构。除非一种情况，在下边代码类似 article-1 内有子目录，这时才需要在图片引用子目录路径。\n\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n\n\n\ncontent/\n├── post/\n│ ├── article-1/\n│ │ ├── a.jpg\n│ │ └── index.md\n│ └── article-2/\n│ ├── b.jpg\n│ └── index.md\n└── _index.md\n\n\n\n\n\nCMS 能提供什么样的图片目录结构\n\nCMS 的图片目录结构一般是下边这种形式，通常只有一个图片入口和出口，用于图片集中管理。在 CMS 中，上传或插入图片，默认的链接（按照下方代码设置）是 content/post/article-1/a.jpg 。在使用 markdown 语法后，会变成 ![a](content/post/article-1/a.jpg) ，一旦手动设置图片链接为 ![a](a.jpg) 就会产生错误。但 ![a](content/post/article-1/a.jpg) 这种链接格式，在 Hugo 中会被认为图片是保存在 ind…",
-          "link": "https://hyruo.com/editor/2024_12_09_configuring_pagescms_to_match_hugos_directory_structure/",
-          "publishedOn": "2024-12-09T13:10:00.000Z",
-          "wordCount": 617,
-          "title": "配置Pages CMS让其支持Hugo目录结构",
-          "imageUrl": "https://hyruo.com/editor/2024_12_09_configuring_pagescms_to_match_hugos_directory_structure/8.webp"
         }
       ]
     },
@@ -3640,36 +3620,6 @@
           "wordCount": 2823,
           "title": "Mobile Learning with LMS: Anytime, Anywhere Education for the Modern Learner",
           "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/Screenshot-2024-12-10-at-2.58.46%E2%80%AFPM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=29192",
-          "author": "Tanvir Kour",
-          "description": "Online applications have become integral to many people’s lives. Every developer is looking for a stable, flexible, and cost-effective environment to implement their ideas, regardless of whether it is a startup or a large corporation. Anyway, VPS hosting comes to the rescue. A virtual private server is a dedicated virtual environment. It offers resources comparable […]",
-          "link": "https://collabnix.com/how-vps-hosting-helps-you-create-online-apps-effortlessly/",
-          "publishedOn": "2024-12-09T11:37:29.000Z",
-          "wordCount": 2958,
-          "title": "How VPS Hosting Helps You Create Online Apps Effortlessly",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/word-image-29192-1.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=29184",
-          "author": "Tanvir Kour",
-          "description": "According to Gartner®, by 2026, 80% of large software engineering organizations will establish platform engineering teams—a significant leap from 45% in 2022. This shift reflects the growing importance of internal platforms in accelerating innovation and operational excellence. What is Platform Engineering? Imagine you’re building a house. To do so, you need tools like hammers, saws, […]",
-          "link": "https://collabnix.com/platform-engineering-vs-devops-vs-sre-a-cheatsheet/",
-          "publishedOn": "2024-12-09T08:36:07.000Z",
-          "wordCount": 2581,
-          "title": "Platform Engineering vs DevOps vs SRE: A Cheatsheet",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=29180",
-          "author": "Tanvir Kour",
-          "description": "Setting up SDK Manager is painful. Even though it’s just one single RPM or DEB package, the problem is that you need a separate system for it. The SDK Manager is meant to be installed on your PC (host), specifically on a Ubuntu 20.04 if you want to flash a NVIDIA Jetson Nano (target). Thereby, […]",
-          "link": "https://collabnix.com/install-jetpack-without-nvidia-sdk-manager/",
-          "publishedOn": "2024-12-09T03:32:16.000Z",
-          "wordCount": 2433,
-          "title": "Install JetPack Without NVIDIA SDK Manager",
-          "imageUrl": null
         }
       ]
     },
@@ -3846,16 +3796,6 @@
           "publishedOn": "2024-12-10T08:50:00.000Z",
           "wordCount": 499,
           "title": "因备份缺失而停更的博客",
-          "imageUrl": null
-        },
-        {
-          "id": "https://qq.mba/198.html",
-          "author": "满心",
-          "description": "喜提，\"心想事橙\"一箱！一大早来公司，就发现办公区放了很多橙色箱子，一看就知道是公司发什么东西了，一般冬季都会是水果一类的，果然是\"心想事橙\"，看样子又可以吃一段时间了。公司一般夏天的时候，会给...",
-          "link": "https://qq.mba/198.html",
-          "publishedOn": "2024-12-09T04:07:34.000Z",
-          "wordCount": 554,
-          "title": "公司福利&quot;心想事橙&quot;",
           "imageUrl": null
         }
       ]
@@ -5322,16 +5262,6 @@
           "wordCount": 241,
           "title": "莱卡云12月活动促销，2核4G云服务器低至15.88元/月",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=21635",
-          "author": "xiaoz",
-          "description": "最近博主发现一个新的虚拟卡平台Ucards，中文名称优咔，开卡门槛较低，适合海淘或者用来订阅国外软件服务，该虚拟卡平台支持USDT充值，提供多种卡段可供选择。注意事项：本博客仅提供推荐，请根据自身需求谨慎决策，风险需要您自行承担！！！注册Ucards优咔（Ucards）注册地址：https://ww",
-          "link": "https://blog.xiaoz.org/archives/21635",
-          "publishedOn": "2024-12-09T02:55:28.000Z",
-          "wordCount": 256,
-          "title": "优咔（Ucards）虚拟卡平台：支持USDT充值，可灵活选择多种卡段",
-          "imageUrl": null
         }
       ]
     },
@@ -5970,16 +5900,6 @@
           "wordCount": 8544,
           "title": "转折2024",
           "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6238",
-          "author": "anzhihe",
-          "description": "最近去客户机房部署服务，由于还没有并网，只能连根网线访问机房环境，但插入网线后发现连的 Wi-Fi 热点不起作用，只能访问内网，无法访问外网。拔掉网线后Wi-Fi恢复正常。想着应该是网络优先级的问题，需要让内网机房访问走有线，外网访问走Wi-Fi，解决方法：\n1、修改网络偏好设置，自定义网络使用的先后顺序，优先使用 Wi-Fi 上网\n\n2、给访问的内网环境的网段(10.240.0.0/16)添加指定路由，让内网网段的访问走网线而不是 Wi-Fi\n# 10.240.0.0/16 是内网网段，10.240.251.250 是网关地址\r\n$ sudo route add \"10.240.0.0/16\" \"10.240.251.250\"\r\n\r\n$ route get 10.240.0.0/16\r\n   route to: 10.240.0.0\r\ndestination: 10.240.0.0\r\n       mask: 255.255.0.0\r\n    gateway: 10.240.251.250\r\n  interface: en4\r\n      flags: <UP,GATEWAY,DONE,STATIC,PRCLONING>\n3、使用ssh隧道代理通过跳板机访问内网环境\nssh -qTfnND 12345 root@10.240.234.1\n\n\n\n\nroute命令使用\n\nroute\r\n\r\n  手动操作路由表。\r\n  需要 root 权限。\r\n  更多信息：https://keith.github.io/xcode-man-pages/route.8.html.\r\n\r\n  通过网关向目标添加路由：\r\n\r\n    sudo route add \"路由 ip 地址\" \"网关地址\"\r\n\r\n  通过网关向 子网 / 24 添加路由：\r\n\r\n    sudo route add \"子网 ip/24\" \"网关地址\"\r\n\r\n  在测试模式下运行（不做任何操作，只打印）：\r\n\r\n    sudo route -t add \"路由 ip 地址/24\" \"网关地址\"\r\n\r\n  删除所有路由：\r\n\r\n    sudo route flush\r\n\r\n  删除特定路由：\r\n\r\n    sudo route delete \"路由 ip 地址/24\"\r\n\r\n  查找并显示目标的路由（主机名或 IP 地址）：\r\n\r\n    sudo route get \"目标\"\r\n    \r\n查看路由表：\r\nlinux：route -n\r\nMac：netstat -rn\n\n\n参考：\n\nMac同时使用无线wifi和有线上网，解决内网外网一起访问的问题\n\n\nSSH隧道原理及端口转发使用\n\nmacOS配置永久路由",
-          "link": "https://chegva.com/6238.html",
-          "publishedOn": "2024-12-08T21:54:30.000Z",
-          "wordCount": 8694,
-          "title": "Mac配置有线内网和无线Wi-Fi公网同时使用",
-          "imageUrl": null
         }
       ]
     },
@@ -6000,6 +5920,26 @@
       "feedUrl": "https://jia.je/feed.xml",
       "siteUrl": "https://jia.je/",
       "articles": [
+        {
+          "id": "https://jia.je/software/2025/03/06/android-runtime-interpreter/",
+          "author": null,
+          "description": "Android Runtime 解释器的实现探究¶\n背景¶\n在 V8 Ignition 解释器的内部实现探究 中探究了 JavaScript 引擎 V8 的解释器的实现，接下来分析一下 Android Runtime (ART) 的解释器，其原理也是类似的。本博客在 ARM64 Ubuntu 24.04 平台上针对 Android Runtime (ART) 15.0.0 r1 版本进行分析。\n\nDalvik Bytecode¶\n在分析解释器的代码前，需要先了解一下解释器的输入，也就是它执行的字节码格式是什么。Android Runtime 继承和发展了 Dalvik VM 的字节码 Dalvik Bytecode 格式，因此在打包 Android 应用的时候，Java 代码最终会被翻译成 Dalvik Bytecode。\n接下来来实践一下这个过程，从 Java 代码到 Dalvik Bytecode：\n第一步是编写一个简单的 Java 程序如下，保存到 MainActivity.java：\n\npublic class MainActivity { public static void main(String[] args) { System.out.println(\"Hello, world!\"); } public static int add(int a, int b) { return a + b; }}\n\n首先用 javac MainActivity.java 命令把源码编译到 Java Bytecode。可以用 javap -c MainActivity.class 查看生成的 Java Bytecode：\n\nCompiled from \"MainActivity.java\"public class MainActivity { public MainActiv…",
+          "link": "https://jia.je/software/2025/03/06/android-runtime-interpreter/",
+          "publishedOn": "2025-03-06T00:00:00.000Z",
+          "wordCount": 2041,
+          "title": "Android Runtime 解释器的实现探究",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jia.je/software/2025/03/01/v8-ignition-internals/",
+          "author": null,
+          "description": "V8 Ignition 解释器的内部实现探究¶\n背景¶\nV8 是一个很常见的 JavaScript 引擎，运行在很多的设备上，因此想探究一下它内部的部分实现。本博客在 ARM64 Ubuntu 24.04 平台上针对 V8 12.8.374.31 版本进行分析。本博客主要分析了 V8 的 Ignition 解释器的解释执行部分。\n\n编译 V8¶\n首先简单过一下 v8 的源码获取以及编译流程，主要参考了 Checking out the V8 source code 和 Compiling on Arm64 Linux:\n\n# setup depot_toolscd ~git clone https://chromium.googlesource.com/chromium/tools/depot_tools.gitexport PATH=$PWD/depot_tools:$PATH# clone v8 reposmkdir ~/v8cd ~/v8fetch v8cd v8# switch to specified taggit checkout 12.8.374.31gclient sync --verbose# install dependencies./build/install-build-deps.sh# install llvm 19wget https://mirrors.tuna.tsinghua.edu.cn/llvm-apt/llvm.shchmod +x llvm.shsudo ./llvm.sh 19 -m https://mirrors.tuna.tsinghua.edu.cn/llvm-aptrm llvm.shsudo apt install -y lld clang-19# fix incompatibilities with system cl…",
+          "link": "https://jia.je/software/2025/03/01/v8-ignition-internals/",
+          "publishedOn": "2025-03-01T00:00:00.000Z",
+          "wordCount": 3281,
+          "title": "V8 Ignition 解释器的内部实现探究",
+          "imageUrl": null
+        },
         {
           "id": "https://jia.je/software/2025/02/04/feishu-dump-calendar/",
           "author": null,
