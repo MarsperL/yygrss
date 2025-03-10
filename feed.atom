@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-03-09T01:37:09.833Z</updated>
+    <updated>2025-03-10T01:35:07.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tag, you're it]]></title>
+        <id>https://daverupert.com/2025/03/tag-you-re-it/</id>
+        <link href="https://daverupert.com/2025/03/tag-you-re-it/"/>
+        <updated>2025-03-09T22:34:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m a bit behind in my RSS feeds and I didn’t realize Susan tagged me to answer a series of questions about my blog. I’ve read dozens of these and to be honest was feeling a little left out, so thanks Susan for including me! (Susan’s one of my favorite bloggers and crafters, be sure to like and subscribe.)
+Why did you start blogging in the first place?
+I published a zine in high school with my best friend Mike. Our zine Wimpkiller was a creative outlet for all the composition notebooks we filled up over a bottomless cups of coffee at IHOP. We’d print out stories on Mike’s computer, chop ‘em up, glue ‘em together, and then scam copies after midnight with the help of the friendly late-shift worker at Kinko’s. I enjoyed that thrill of self-publishing then as much as I do now. It felt like the…]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to upgrade Jetpack 5.X to 6.X on NVIDIA Jetson Orin Nano Super]]></title>
+        <id>https://collabnix.com/?p=30907</id>
+        <link href="https://collabnix.com/how-to-upgrade-jetpack-5-x-to-6-x-on-nvidia-jetson-orin-nano-super/"/>
+        <updated>2025-03-09T15:25:52.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I upgraded my Jetson Orin Nano from JetPack 5.X to the latest JetPack 6.2. This represents a significant update, moving from Ubuntu 20.04 to Ubuntu 22.04 as the base OS and bringing numerous performance improvements. I’ve documented the entire process to help others make this transition smoothly. Why Upgrade? JetPack 6.1 offers several compelling […]]]></summary>
+        <author>
+            <name>Ajeet Raina</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ollama Cheatsheet 2025]]></title>
         <id>https://collabnix.com/?p=30904</id>
@@ -8084,85 +8106,6 @@ The post FluxCD How to Modify Kustomize Image Tag appeared first on Virtualizati
 </blockquote>]]></summary>
         <author>
             <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mobile Learning with LMS: Anytime, Anywhere Education for the Modern Learner]]></title>
-        <id>https://collabnix.com/?p=29202</id>
-        <link href="https://collabnix.com/mobile-learning-with-lms-anytime-anywhere-education-for-the-modern-learner/"/>
-        <updated>2024-12-10T09:29:41.000Z</updated>
-        <summary type="html"><![CDATA[Learning on the go is booming. Why? The fast pace of modern life, combined with digital transformation, has created a demand for flexible, on-the-go education. This is where mobile learning thrives, offering content in small, digestible pieces—often referred to as microlearning. For example, Deloitte saw a 50% increase in employee engagement and 40% improvement in […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[因备份缺失而停更的博客]]></title>
-        <id>https://qq.mba/199.html</id>
-        <link href="https://qq.mba/199.html"/>
-        <updated>2024-12-10T08:50:00.000Z</updated>
-        <summary type="html"><![CDATA[因为我的博客是基于Typecho搭建的，所以我特别关注与TP相关的插件和主题。最近，在浏览TYPECHO WIKI网站时，我发现了一则公告，称该站点因磁盘故障而导致数据丢失。下面是该网站公告的内...]]></summary>
-        <author>
-            <name>满心</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grafana表格绘制]]></title>
-        <id>https://zahui.fan/posts/so9bdi/</id>
-        <link href="https://zahui.fan/posts/so9bdi/"/>
-        <updated>2024-12-10T02:39:17.000Z</updated>
-        <summary type="html"><![CDATA[<h2 id="选择一个关联标签"><a href="#选择一个关联标签" class="headerlink" title="选择一个关联标签"></a>选择一个关联标签</h2><p><code>instance</code> 是机器 ip，不会重复，所以我用这个做关联字段。<br>第一个查询我会保留多一些标签，（可以使用 <code>sum by ... (instance)</code>]]></summary>
-        <author>
-            <name>杂烩饭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 的性能分析（Perf）实现探究]]></title>
-        <id>https://jia.je/software/2024/12/10/linux-perf-pmu/</id>
-        <link href="https://jia.je/software/2024/12/10/linux-perf-pmu/"/>
-        <updated>2024-12-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Linux 的性能分析（Perf）实现探究¶
-背景¶
-最近使用 Linux 的性能分析功能比较多，但是很少去探究背后的原理，例如硬件的 PMU 是怎么配置的，每个进程乃至每个线程级别的 PMU 是怎么采样的。这篇博客尝试探究这背后的原理。
-
-PMU¶
-硬件¶
-支撑性能分析的背后是硬件提供的机制，最常用的就是性能计数器：硬件会提供一些可以配置的性能计数器，在对应的硬件事件触发是，更新这些计数器，然后再由程序读取计数器的值并统计。下面以 ARM 为例，分析一下硬件提供的性能计数的接口：
-
-Cycle 计数器：Cycle Counter Register(PMCCNTR_EL0) 和 Cycle Count Filter Register(PMCCFILTR_EL0)，其中后者控制前者在什么特权态下会进行计数
-最多 31 个通用性能计数器：
-该性能计数器记录的硬件事件以及计数的条件：PMEVTYPER_EL0，n 取 0 到 31
-该性能计数器当前的值：PMEVCNTR_EL0，n 取 0 到 31
-
-控制 Cycle 计数器和通用性能计数器的状态：PMCNTENCLR_EL0/PMCNTENSET_EL0/PMCR_EL0
-各计数器是否溢出：PMOVSCLR_EL0/PMOVSSET_EL0
-当计数器溢出时，PMU 会拉起中断，针对这些中断的配置：PMINTENCLR_EL1/PMINTENSET_EL1
-
-注：实际上，由于经常会对指令数进行采样，ARM v9.4/8.9 允许硬件实现一个额外的指令计数器，和 Cycle 计数器类似。
-如果想要在用户态频繁地读取性能计数器（cap_user_rdpmc），避免频繁进入内核的开销，也可以在用户态中直接读取性能计数器 PMCCNTR_EL0/PMEVCNTR_EL0：内核在 PMUSERENR_EL0 中进行相应的权限配置即可。v3…]]></summary>
-        <author>
-            <name>杰哥的{运维，编程，调板子}小笔记</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 Docker Zabbix 中启用 HTTPS]]></title>
-        <id>https://www.txisfine.cn/archives/ce352016.html</id>
-        <link href="https://www.txisfine.cn/archives/ce352016.html"/>
-        <updated>2024-12-09T15:34:29.000Z</updated>
-        <summary type="html"><![CDATA[<p>Docker Compose 是一种非常方便的在系统中部署 ZABBIX 的方式，<a href="https://github.com/zabbix/zabbix-docker">https://github.com/zabbix/zabbix-docker</a> 项目]]></summary>
-        <author>
-            <name>弹霄博科</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRICTL Kubernetes Command Line Tool for Troubleshooting]]></title>
-        <id>https://www.virtualizationhowto.com/?p=298238</id>
-        <link href="https://www.virtualizationhowto.com/2024/12/crictl-kubernetes-command-line-tool-for-troubleshooting/"/>
-        <updated>2024-12-09T14:18:39.000Z</updated>
-        <summary type="html"><![CDATA[CRICTL is not a command that you may have heard about when working with Kubernetes, but it is a really great utility to troubleshoot your Kubernetes cluster at the container runtime level. It provides a direct line of sight to the container runtime such as containerd or others like CRI-O. We will take a look …
-The post CRICTL Kubernetes Command Line Tool for Troubleshooting appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
 </feed>

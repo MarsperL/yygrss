@@ -286,6 +286,16 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
+          "id": "https://daverupert.com/2025/03/tag-you-re-it/",
+          "author": null,
+          "description": "I’m a bit behind in my RSS feeds and I didn’t realize Susan tagged me to answer a series of questions about my blog. I’ve read dozens of these and to be honest was feeling a little left out, so thanks Susan for including me! (Susan’s one of my favorite bloggers and crafters, be sure to like and subscribe.)\nWhy did you start blogging in the first place?\nI published a zine in high school with my best friend Mike. Our zine Wimpkiller was a creative outlet for all the composition notebooks we filled up over a bottomless cups of coffee at IHOP. We’d print out stories on Mike’s computer, chop ‘em up, glue ‘em together, and then scam copies after midnight with the help of the friendly late-shift worker at Kinko’s. I enjoyed that thrill of self-publishing then as much as I do now. It felt like the…",
+          "link": "https://daverupert.com/2025/03/tag-you-re-it/",
+          "publishedOn": "2025-03-09T22:34:00.000Z",
+          "wordCount": 1705,
+          "title": "Tag, you're it",
+          "imageUrl": null
+        },
+        {
           "id": "https://daverupert.com/2025/03/unnecessary/",
           "author": null,
           "description": "It’s a secret to everyone! This post is for RSS subscribers only.\nRead more about RSS Club.\n\nYesterday, my daughter was in Dallas for the NCA Cheer Competition. My wife sent me a text letting me know her team won! Yay! My daughter is a national champion at age 9. Ten minutes later, the next text I get is that there’s an active shooter and they’re in lockdown. Panic consumed the 30,000 people in the convention center. Kids trampled in the stampede to get out. Families and teams separated. Youth running across a 10 lane freeway to escape, traffic screeching to a halt. Horrifying.\nThe actual cause of the incident was some cheer parents getting into a fight which knocked down some metal poles. The whole situation is sad. Unnecessary trauma because some dumb parents lost their ability to be civil. Unnecessary trauma created through our lax gun laws and inability to stop this uniquely American horror. An unnecessary situation. Thankfully no one was critically injured and the shooter wasn’t real… this time. We’re living inside a lit powder keg at all times and its exhausting.",
@@ -2523,16 +2533,6 @@
           "wordCount": 10160,
           "title": "FluxCD How to Modify Kustomize Image Tag",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/FluxCD-image-update-automation.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298238",
-          "author": "Brandon Lee",
-          "description": "CRICTL is not a command that you may have heard about when working with Kubernetes, but it is a really great utility to troubleshoot your Kubernetes cluster at the container runtime level. It provides a direct line of sight to the container runtime such as containerd or others like CRI-O. We will take a look …\nThe post CRICTL Kubernetes Command Line Tool for Troubleshooting appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2024/12/crictl-kubernetes-command-line-tool-for-troubleshooting/",
-          "publishedOn": "2024-12-09T14:18:39.000Z",
-          "wordCount": 9806,
-          "title": "CRICTL Kubernetes Command Line Tool for Troubleshooting",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/CRICTL-kubernetes-command-line.png"
         }
       ]
     },
@@ -2541,6 +2541,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=30907",
+          "author": "Ajeet Raina",
+          "description": "Recently, I upgraded my Jetson Orin Nano from JetPack 5.X to the latest JetPack 6.2. This represents a significant update, moving from Ubuntu 20.04 to Ubuntu 22.04 as the base OS and bringing numerous performance improvements. I’ve documented the entire process to help others make this transition smoothly. Why Upgrade? JetPack 6.1 offers several compelling […]",
+          "link": "https://collabnix.com/how-to-upgrade-jetpack-5-x-to-6-x-on-nvidia-jetson-orin-nano-super/",
+          "publishedOn": "2025-03-09T15:25:52.000Z",
+          "wordCount": 2657,
+          "title": "How to upgrade Jetpack 5.X to 6.X on NVIDIA Jetson Orin Nano Super",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=30904",
           "author": "Ajeet Raina",
@@ -3610,16 +3620,6 @@
           "wordCount": 2416,
           "title": "How to setup Open WebUI with Ollama and Docker Desktop on Mac",
           "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/1733547501970.jpeg"
-        },
-        {
-          "id": "https://collabnix.com/?p=29202",
-          "author": "Tanvir Kour",
-          "description": "Learning on the go is booming. Why? The fast pace of modern life, combined with digital transformation, has created a demand for flexible, on-the-go education. This is where mobile learning thrives, offering content in small, digestible pieces—often referred to as microlearning. For example, Deloitte saw a 50% increase in employee engagement and 40% improvement in […]",
-          "link": "https://collabnix.com/mobile-learning-with-lms-anytime-anywhere-education-for-the-modern-learner/",
-          "publishedOn": "2024-12-10T09:29:41.000Z",
-          "wordCount": 2823,
-          "title": "Mobile Learning with LMS: Anytime, Anywhere Education for the Modern Learner",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/Screenshot-2024-12-10-at-2.58.46%E2%80%AFPM.png"
         }
       ]
     },
@@ -3786,16 +3786,6 @@
           "publishedOn": "2024-12-18T08:12:01.000Z",
           "wordCount": 568,
           "title": "使用FlexCdn自建CDN",
-          "imageUrl": null
-        },
-        {
-          "id": "https://qq.mba/199.html",
-          "author": "满心",
-          "description": "因为我的博客是基于Typecho搭建的，所以我特别关注与TP相关的插件和主题。最近，在浏览TYPECHO WIKI网站时，我发现了一则公告，称该站点因磁盘故障而导致数据丢失。下面是该网站公告的内...",
-          "link": "https://qq.mba/199.html",
-          "publishedOn": "2024-12-10T08:50:00.000Z",
-          "wordCount": 499,
-          "title": "因备份缺失而停更的博客",
           "imageUrl": null
         }
       ]
@@ -4955,16 +4945,6 @@
           "wordCount": 861,
           "title": "使用kubeadm部署一套高可用k8s 1.32集群 for AlmaLinux9(RHEL9)",
           "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
-        },
-        {
-          "id": "https://zahui.fan/posts/so9bdi/",
-          "author": null,
-          "description": "<h2 id=\"选择一个关联标签\"><a href=\"#选择一个关联标签\" class=\"headerlink\" title=\"选择一个关联标签\"></a>选择一个关联标签</h2><p><code>instance</code> 是机器 ip，不会重复，所以我用这个做关联字段。<br>第一个查询我会保留多一些标签，（可以使用 <code>sum by ... (instance)</code>",
-          "link": "https://zahui.fan/posts/so9bdi/",
-          "publishedOn": "2024-12-10T02:39:17.000Z",
-          "wordCount": 594,
-          "title": "Grafana表格绘制",
-          "imageUrl": "https://static.zahui.fan/public/Grafana.svg"
         }
       ]
     },
@@ -5309,16 +5289,6 @@
           "wordCount": 776,
           "title": "如何平滑切换权威 DNS 服务器",
           "imageUrl": "https://static.txblog.110289.xyz/upload/ff06b000.jpg"
-        },
-        {
-          "id": "https://www.txisfine.cn/archives/ce352016.html",
-          "author": null,
-          "description": "<p>Docker Compose 是一种非常方便的在系统中部署 ZABBIX 的方式，<a href=\"https://github.com/zabbix/zabbix-docker\">https://github.com/zabbix/zabbix-docker</a> 项目",
-          "link": "https://www.txisfine.cn/archives/ce352016.html",
-          "publishedOn": "2024-12-09T15:34:29.000Z",
-          "wordCount": 614,
-          "title": "在 Docker Zabbix 中启用 HTTPS",
-          "imageUrl": "https://static.txblog.110289.xyz/upload/5dfe4444.png"
         }
       ]
     },
@@ -5978,16 +5948,6 @@
           "publishedOn": "2024-12-26T00:00:00.000Z",
           "wordCount": 3195,
           "title": "Apple M1 微架构评测",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jia.je/software/2024/12/10/linux-perf-pmu/",
-          "author": null,
-          "description": "Linux 的性能分析（Perf）实现探究¶\n背景¶\n最近使用 Linux 的性能分析功能比较多，但是很少去探究背后的原理，例如硬件的 PMU 是怎么配置的，每个进程乃至每个线程级别的 PMU 是怎么采样的。这篇博客尝试探究这背后的原理。\n\nPMU¶\n硬件¶\n支撑性能分析的背后是硬件提供的机制，最常用的就是性能计数器：硬件会提供一些可以配置的性能计数器，在对应的硬件事件触发是，更新这些计数器，然后再由程序读取计数器的值并统计。下面以 ARM 为例，分析一下硬件提供的性能计数的接口：\n\nCycle 计数器：Cycle Counter Register(PMCCNTR_EL0) 和 Cycle Count Filter Register(PMCCFILTR_EL0)，其中后者控制前者在什么特权态下会进行计数\n最多 31 个通用性能计数器：\n该性能计数器记录的硬件事件以及计数的条件：PMEVTYPER_EL0，n 取 0 到 31\n该性能计数器当前的值：PMEVCNTR_EL0，n 取 0 到 31\n\n控制 Cycle 计数器和通用性能计数器的状态：PMCNTENCLR_EL0/PMCNTENSET_EL0/PMCR_EL0\n各计数器是否溢出：PMOVSCLR_EL0/PMOVSSET_EL0\n当计数器溢出时，PMU 会拉起中断，针对这些中断的配置：PMINTENCLR_EL1/PMINTENSET_EL1\n\n注：实际上，由于经常会对指令数进行采样，ARM v9.4/8.9 允许硬件实现一个额外的指令计数器，和 Cycle 计数器类似。\n如果想要在用户态频繁地读取性能计数器（cap_user_rdpmc），避免频繁进入内核的开销，也可以在用户态中直接读取性能计数器 PMCCNTR_EL0/PMEVCNTR_EL0：内核在 PMUSERENR_EL0 中进行相应的权限配置即可。v3…",
-          "link": "https://jia.je/software/2024/12/10/linux-perf-pmu/",
-          "publishedOn": "2024-12-10T00:00:00.000Z",
-          "wordCount": 1309,
-          "title": "Linux 的性能分析（Perf）实现探究",
           "imageUrl": null
         }
       ]
