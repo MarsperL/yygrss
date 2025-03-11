@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-03-10T01:35:07.232Z</updated>
+    <updated>2025-03-11T01:53:27.712Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daily Tech Deals March 10 2025]]></title>
+        <id>https://www.virtualizationhowto.com/?p=299905</id>
+        <link href="https://www.virtualizationhowto.com/2025/03/daily-tech-deals-march-10-2025/"/>
+        <updated>2025-03-10T14:04:16.000Z</updated>
+        <summary type="html"><![CDATA[Looking for great tech deals? Check out items on today’s daily tech deals. You can get a GMKtec Gaming Mini PC K8 Plus for 27% off , a GMKtec Mini PC AMD Ryzen 7 5825U for 17% off, a GMKtec Mini PC Gaming, M7 Pro for 24% off, a SAMSUNG 990 PRO SSD PCIe 4.0 …
+The post Daily Tech Deals March 10 2025 appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Core Performance Boost Setting: Speed vs Power Consumption in Home Lab]]></title>
+        <id>https://www.virtualizationhowto.com/?p=299889</id>
+        <link href="https://www.virtualizationhowto.com/2025/03/core-performance-boost-setting-speed-vs-power-consumption-in-home-lab/"/>
+        <updated>2025-03-10T13:37:16.000Z</updated>
+        <summary type="html"><![CDATA[I have built up a couple of Ryzen 9 7945HX home server builds over the past few weeks and have experimented a bit with the BIOS settings and things that ones may be interested in for home lab purposes. There is an interesting setting that you may want to experiment with as well and that …
+The post Core Performance Boost Setting: Speed vs Power Consumption in Home Lab appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RedteaGO：性价比极高的中国大陆漫游上网eSIM流量卡]]></title>
+        <id>https://blog.xiaoz.org/?p=21854</id>
+        <link href="https://blog.xiaoz.org/archives/21854"/>
+        <updated>2025-03-10T02:25:41.000Z</updated>
+        <summary type="html"><![CDATA[最近博主在寻找一些适合中国大陆漫游上网的eSIM卡，最后发现了RedteaGO，他们提供的数据套餐覆盖全球多个国家和地区，使用户可以在旅行期间轻松获取本地数据服务。使用博主的邀请优惠后，可以以10美元的价格获得一年50GB的大陆漫游流量，性价比极高。准备工作一台支持eSIM的手机，博主使用的是苹果S]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tag, you're it]]></title>
         <id>https://daverupert.com/2025/03/tag-you-re-it/</id>
@@ -16,6 +48,16 @@ Why did you start blogging in the first place?
 I published a zine in high school with my best friend Mike. Our zine Wimpkiller was a creative outlet for all the composition notebooks we filled up over a bottomless cups of coffee at IHOP. We’d print out stories on Mike’s computer, chop ‘em up, glue ‘em together, and then scam copies after midnight with the help of the friendly late-shift worker at Kinko’s. I enjoyed that thrill of self-publishing then as much as I do now. It felt like the…]]></summary>
         <author>
             <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[少儿编程班是智商税？看看程序员爸爸的观点]]></title>
+        <id>https://panzhixiang.cn/2025/children-programing/</id>
+        <link href="https://panzhixiang.cn/2025/children-programing/"/>
+        <updated>2025-03-09T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[少儿编程课真的值得投资吗？本文尝试通过师资水平、职业前景、学习效果等关键因素进行探讨，为犹豫不决的家长提供一点建议。更有成本效益比较和AI辅助学习的创新方案，帮你为孩子做出最明智的教育选择！]]></summary>
+        <author>
+            <name>潘智祥</name>
         </author>
     </entry>
     <entry>
@@ -7825,81 +7867,6 @@ The post Home Lab Tour 2024: Hardware, Software, Containers and More! appeared f
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[探索 AnythingLLM：借助开源 AI 打造私有化智能知识库]]></title>
-        <id>https://jimmysong.io/blog/building-private-ai-knowledge-base-anythingllm/</id>
-        <link href="https://jimmysong.io/blog/building-private-ai-knowledge-base-anythingllm/"/>
-        <updated>2024-12-11T13:50:21.000Z</updated>
-        <summary type="html"><![CDATA[随着大语言模型（LLM）的快速发展，将企业内部知识库与 AI 工具结合成为热门解决方案。作为一名技术探索者，我对构建私有知识库充满兴趣，也希望测试 LLM 的能力，尤其是像 Ollama 和千问这类模型。此外，AnythingLLM 是一个开源项目，具有较高的社区关注度，因此我决定对其进行深入调研。
-基于 RAG（检索增强生成）技术，AnythingLLM 提供了从数据处理到用户界面的全栈解决方案，支持构建企业内部的智能知识库。其模块化架构和灵活部署方式，使其成为企业和个人开发者进行知识管理和 AI 项目实践的重要工具。
-RAG 原理概述
-简介
-RAG（Retrieval-Augmented Generation） 是一种结合了信息检索和语言模型的技术。它通过从大规模的知识库中检索相关信息，并利用这些信息来指导语言模型生成更准确和深入的答案。这种方法由 Meta AI 研究人员在 2020 年提出，旨在解决大型语言模型在信息滞后、模型幻觉、私有数据匮乏和内容不可追溯等问题。
-RAG 就是可以开卷回复的 LLM。其发展历程：Naive RAG 包含索引、检索、生成三步，存在 召回率低、Prompt 拼接问题。Advanced RAG 优化索引与检索，引入 预检索、后检索策略与数据清洗 提升效率。Modular RAG 实现 模块化流水线与端到端训练，具备更高的 灵活性与适应性。
-背景与挑战
-尽管 LLM 在处理复杂任务方面表现出色，但在以下三个方面存在局限：
-知识局限性：大模型的训练数据来自公开数据源，无法访问非公开和实时数据。
-幻觉问题：模型有时会生成错误答案，特别是在缺少特定领域知识时。
-数据安全性：涉及内部私有数据时，企业面临数据泄露风险。
-RAG 技术通过向量检索与生成模型结合，显著提高了数据处理的深度和准确性。
-工作原理
-RAG 的工作流程包括两个主要阶段：
-数据准…]]></summary>
-        <author>
-            <name>Jimmy Song</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[游记｜海宁，距离上海仅一个多小时车程的宝藏小城]]></title>
-        <id>https://blog.ops-coffee.cn/r/city-china-zhejiang-jiaxing-haining.html</id>
-        <link href="https://blog.ops-coffee.cn/r/city-china-zhejiang-jiaxing-haining.html"/>
-        <updated>2024-12-11T11:03:01.000Z</updated>
-        <summary type="html"><![CDATA[嘉兴海宁，两天一晚旅行攻略]]></summary>
-        <author>
-            <name>运维咖啡吧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[游记｜海宁，距离上海仅一个多小时车程的宝藏小城]]></title>
-        <id>https://blog.ops-coffee.cn/r/city-china-zhejiang-jiaxing-haining</id>
-        <link href="https://blog.ops-coffee.cn/r/city-china-zhejiang-jiaxing-haining"/>
-        <updated>2024-12-11T11:03:01.000Z</updated>
-        <summary type="html"><![CDATA[嘉兴海宁，两天一晚旅行攻略]]></summary>
-        <author>
-            <name>运维咖啡吧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to setup Open WebUI with Ollama and Docker Desktop on Mac]]></title>
-        <id>https://collabnix.com/?p=29215</id>
-        <link href="https://collabnix.com/how-to-setup-open-webui-with-ollama-and-docker-desktop-on-mac/"/>
-        <updated>2024-12-11T08:25:12.000Z</updated>
-        <summary type="html"><![CDATA[With over 50K+ GitHub stars, Open WebUI is an extensible, feature-rich, and user-friendly self-hosted WebUI designed to operate entirely offline. It supports various LLM runners, including Ollama and OpenAI-compatible APIs. For more information, be sure to check out our Open WebUI Documentation. If you’re exploring how to deploy and customize Open WebUI, this guide provides […]]]></summary>
-        <author>
-            <name>Ajeet Raina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从 MeshConfig 迁移到 Istio Telemetry API：提升网格观测性和灵活性]]></title>
-        <id>https://jimmysong.io/blog/migrate-to-istio-telemetry-api/</id>
-        <link href="https://jimmysong.io/blog/migrate-to-istio-telemetry-api/"/>
-        <updated>2024-12-11T07:04:01.000Z</updated>
-        <summary type="html"><![CDATA[Istio 的 Telemetry API 是替代传统 MeshConfig 遥测配置的现代化方式，提供了更灵活的工具来定义服务网格中的 Tracing、Metrics 和 Access Logging。相比传统的 EnvoyFilter 和 MeshConfig，Telemetry API 更具模块化、动态更新和跨层次配置能力。
-在本篇中，我们将详解如何使用 Telemetry API 配置 Istio 遥测功能，涵盖 Tracing、Metrics 和 Logging 的具体实现，同时展示如何迁移过时的 MeshConfig 配置。
-Telemetry API 发展历程
-Istio 的遥测能力在早期版本中依赖于较为传统的配置方法，如 Mixer 和 MeshConfig 的 configOverride，这些方法虽然能够满足基本需求，但在复杂场景下显得力不从心。为了解决这些问题，Istio 引入了基于 CRD 的 Telemetry API。
-关键版本更新
-为了帮助读者了解 Telemetry API 的进化过程，以下是一些重要版本的更新信息：
-Istio 1.11：引入 Telemetry API（Alpha），提供了基本的指标和日志自定义功能。
-Istio 1.13：支持 OpenTelemetry 日志记录、自定义追踪服务名称，以及更强的日志过滤功能。
-Istio 1.18：默认不再安装 Prometheus 的 EnvoyFilter，完全依赖 Telemetry API 定义遥测行为。
-Istio 1.22：Telemetry API 升级为稳定版（v1），全面支持生产环境需求。
-为什么迁移到 Telemetry API？
-尽管传统的 MeshConfig 和 EnvoyFilter 提供了基础的遥测能力，但它们的配置方式在灵活性、动态性和扩展性方面存在诸多限…]]></summary>
-        <author>
-            <name>Jimmy Song</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[怎样预防集资诈骗]]></title>
         <id>https://lawtee.com/editor/2024_12_11_how_to_prevent_fundraising_fraud/</id>
         <link href="https://lawtee.com/editor/2024_12_11_how_to_prevent_fundraising_fraud/"/>
@@ -8061,51 +8028,6 @@ Istio 1.22：Telemetry API 升级为稳定版（v1），全面支持生产环境
 非法吸收或者变…]]></summary>
         <author>
             <name>法律小茶馆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intermittent fasting]]></title>
-        <id>https://daverupert.com/2024/12/intermittent-fasting/</id>
-        <link href="https://daverupert.com/2024/12/intermittent-fasting/"/>
-        <updated>2024-12-11T04:10:00.000Z</updated>
-        <summary type="html"><![CDATA[⚠️ Content warning: Weight loss, feel free to skip if that is not a good topic for you.
-A doctor told me to look into intermittent fasting. Not for weight loss, but for ADHD. There’s some new data that suggests a link between ADHD and insulin in the brain. Based on that science, intermittent fasting or a ketogenic diet –which can help improve insulin resistance– might help my brain. I’m a week into it and am seeing some weight loss, but it’s hard to tell with the ADHD without measuring my brainflorps per second. I might be more focused, but hunger and “hangry” bring their own distractions.
-I’m skeptical, to say the least. Intermittent fasting makes frequent appearances in my YouTube shorts with balding Joe Rogan clones dressed in all black selling workout supplements. It has a whiff of bei…]]></summary>
-        <author>
-            <name>daverupert.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[莱卡云12月活动促销，2核4G云服务器低至15.88元/月]]></title>
-        <id>https://blog.xiaoz.org/?p=21652</id>
-        <link href="https://blog.xiaoz.org/archives/21652"/>
-        <updated>2024-12-11T03:49:39.000Z</updated>
-        <summary type="html"><![CDATA[莱卡云发布了最新的12月新活动，2核4G的云服务器仅15.88元/月续费同价，精选华中/香港/美国/欧洲多种云服务器产品，国内服务器也有特惠活动优惠，16核16G仅需1588/年。建站跟开发都是特别合适的。莱卡云作为国内新势力云计算企业，产品都是比较全面的，有兴趣的可以看看。官方网站：https:/]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FluxCD How to Modify Kustomize Image Tag]]></title>
-        <id>https://www.virtualizationhowto.com/?p=298265</id>
-        <link href="https://www.virtualizationhowto.com/2024/12/fluxcd-how-to-modify-kustomize-image-tag/"/>
-        <updated>2024-12-10T16:27:13.000Z</updated>
-        <summary type="html"><![CDATA[One of the coolest things that you can do with FluxCD and using Flux for GitOps is modifying your Kustomize image tag so that you can keep your pods updated with the latest releases. Let’s take a look at FluxCD how to modify kustomize image tag with Flux and see the steps to do this. …
-The post FluxCD How to Modify Kustomize Image Tag appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上海游记「多图预警」]]></title>
-        <id>https://dusays.com/777/</id>
-        <link href="https://dusays.com/777/"/>
-        <updated>2024-12-10T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>一到年底，工作量就特别的多，这次杜老师被安排上海出差，正好趁着机会，好好游玩一番！上海这座城市，不仅仅是繁华，更是充满了故事和风情。文中是杜老师工作之余拍的上海风情，一起感受这座城市的速度与温度！</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
         </author>
     </entry>
 </feed>
