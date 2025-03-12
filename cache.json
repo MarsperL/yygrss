@@ -1519,16 +1519,6 @@
           "wordCount": 1052,
           "title": "深入解析 Envoy 外部处理过滤器（ext_proc）",
           "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
-        },
-        {
-          "id": "https://jimmysong.io/blog/istio-ambient-l7-flow-analysis/",
-          "author": "Jimmy Song",
-          "description": "在 Istio Ambient 模式下，ztunnel 是节点级安全代理，在 L4 层拦截并加密服务间流量。但不负责 L7（如 HTTP）层处理。Ambient 模式中，L7 处理由 Waypoint 代理负责。当 ztunnel 发现目标服务需 L7 处理时，通过 HBONE 协议将流量转发给 Waypoint 代理进行 HTTP 层策略应用和可观察性处理，再由 Waypoint 代理经 ztunnel 转发给目标 Pod，本文将详细阐述这条 L7 流量转发链路。\nWaypoint 代理的角色与责任\n在 Istio Ambient 模式中：\nztunnel 负责透明捕获 Pod 间的 L4 流量，提供 mTLS 加密和身份认证。\nWaypoint 代理 是一个基于 Envoy 的 L7 代理，处理 HTTP 层的高级路由、策略和可观察性。\n当一个请求需要 L7 层策略时（如 productpage 调用 reviews-v1 服务），ztunnel 将流量通过 HBONE 隧道转发到 Waypoint Proxy，由 Waypoint 执行 HTTP 路由和策略。\nL7 流量在 Ambient 模式中的处理路径\n下图展示了 L7 流量在 Ambient 模式中的处理路径。\nL7 流量在 Ambient 模式中的处理路径\n  \n\n下面两张图片分别展示了源 Pod 和目标 Pod 在同节点和跨节点情况下的 L7 流量处理路径。\n源 pod 和目标 pod 在同一节点上的 L7 流量路径\n  \n\n\n  \n  \n  \n    \n      \n        \n          \n        \n      \n    \n  \n  \n  源 pod 和目标 pod 在不同节点上的 L7 流量路径\n  \n\n下面是详细的流量路径。\n1. 应用请求发出\n假设 productpage 应…",
-          "link": "https://jimmysong.io/blog/istio-ambient-l7-flow-analysis/",
-          "publishedOn": "2024-12-12T10:44:52.000Z",
-          "wordCount": 564,
-          "title": "深入 Istio Ambient 模式：从 ztunnel 到 Waypoint 代理的 L7 流量路径解析",
-          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
         }
       ]
     },
@@ -1734,6 +1724,26 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=299925",
+          "author": "Brandon Lee",
+          "description": "Looking for great tech deals? Check out items on today’s daily tech deals. You can get the Keychron K2 75% Layout Bluetooth Wireless Mechanical Gaming Keyboard for 25% off, the GMKtec M5 Plus Gaming Mini PC for 20% off, the GMKtec Mini PC Gaming, M7 Pro for 24% off, the ARZOPA 32” 4K UHD (3840×2160) …\nThe post Daily Tech Deals March 11 2025 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/03/daily-tech-deals-march-11-2025/",
+          "publishedOn": "2025-03-11T14:47:39.000Z",
+          "wordCount": 8563,
+          "title": "Daily Tech Deals March 11 2025",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/image-30.jpeg"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=299913",
+          "author": "Brandon Lee",
+          "description": "Building and running your own home server is one of the best ways to learn and allows ones to experiment and learn technologies that they might not get to learn in a production environment. When you are building your home server, there are various technologies that can give you options to run different types of …\nThe post PCIE Bifurcation and Why You Need It in Your Home Server appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/03/pcie-bifurcation-and-why-you-need-it-in-your-home-server/",
+          "publishedOn": "2025-03-11T14:23:32.000Z",
+          "wordCount": 10823,
+          "title": "PCIE Bifurcation and Why You Need It in Your Home Server",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/You-Need-Bifurcation.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=299905",
           "author": "Brandon Lee",
@@ -2483,16 +2493,6 @@
           "wordCount": 9566,
           "title": "Ceph Dashboard Install and Configuration for Microceph",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/Ceph-dashboard.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298280",
-          "author": "Brandon Lee",
-          "description": "Well, what a year it has been! Wow, I can’t believe how many changes we have seen this year and bumps in the road along the way. But, here we are, at the end of 2024. I want to take you guys through in written form, before the video comes out my home lab tour …\nThe post Home Lab Tour 2024: Hardware, Software, Containers and More! appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2024/12/home-lab-tour-2024-hardware-software-containers-and-more/",
-          "publishedOn": "2024-12-11T17:56:45.000Z",
-          "wordCount": 12602,
-          "title": "Home Lab Tour 2024: Hardware, Software, Containers and More!",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/Home-Lab-tour-end-of-2024.png"
         }
       ]
     },
@@ -2501,6 +2501,46 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=30949",
+          "author": "Tanvir Kour",
+          "description": "See how a timer app Windows blends time tracking and monitoring to lift productivity for business owners and teams.",
+          "link": "https://collabnix.com/tracking-time-and-boosting-work-with-a-timer-app-windows/",
+          "publishedOn": "2025-03-11T16:11:58.000Z",
+          "wordCount": 3112,
+          "title": "Tracking Time and Boosting Work with a Timer App Windows",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=30921",
+          "author": "Adesoji Alu",
+          "description": "Introduction DeepSeek is an advanced open-source code language model (LLM) that has gained significant popularity in the developer community. When paired with Ollama, an easy-to-use framework for running and managing LLMs locally, and deployed on Azure Kubernetes Service (AKS), we can create a powerful, scalable, and cost-effective environment for AI applications. This blog post walks […]",
+          "link": "https://collabnix.com/running-deepseek-r1-on-azure-kubernetes-service-aks-using-ollama/",
+          "publishedOn": "2025-03-11T12:28:23.000Z",
+          "wordCount": 3294,
+          "title": "Running DeepSeek R1 on Azure Kubernetes Service (AKS) using Ollama",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=30926",
+          "author": "Collabnix Team",
+          "description": "Ollama, a powerful framework for running and managing large language models (LLMs) locally, is now available as a native Windows application. This means you no longer need to rely on Windows Subsystem for Linux (WSL) to run Ollama. Whether you’re a software developer, AI engineer, or DevOps professional, this guide will walk you through setting […]",
+          "link": "https://collabnix.com/is-ollama-available-for-windows/",
+          "publishedOn": "2025-03-11T07:46:46.000Z",
+          "wordCount": 2895,
+          "title": "Is Ollama available for Windows?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=30928",
+          "author": "Ajeet Raina",
+          "description": "TensorRT-LLM is essentially a specialized tool that makes large language models (like ChatGPT) run much faster on NVIDIA hardware. Think of it this way: If a regular language model is like a car engine that can get you from point A to point B, TensorRT-LLM is like a high-performance tuning kit that makes that same […]",
+          "link": "https://collabnix.com/running-llms-with-tensorrt-llm-on-nvidia-jetson-orin-nano-super/",
+          "publishedOn": "2025-03-11T02:36:16.000Z",
+          "wordCount": 5623,
+          "title": "Running LLMs with TensorRT-LLM on NVIDIA Jetson Orin Nano Super",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=30907",
           "author": "Ajeet Raina",
@@ -3560,16 +3600,6 @@
           "wordCount": 3060,
           "title": "An AI-Powered Tool to Simplify Kubernetes Cluster Management",
           "imageUrl": "https://usercontent.one/wp/collabnix.com/wp-content/uploads/2024/12/Screenshot-2024-12-13-at-12.31.15 PM-png.avif?media=1725267074"
-        },
-        {
-          "id": "https://collabnix.com/?p=29247",
-          "author": "Tanvir Kour",
-          "description": "Choosing between in-house and outsource software development is a critical decision for every business. These key points here will help you make the best decision in this regard.",
-          "link": "https://collabnix.com/in-house-development-vs-software-outsourcing-which-is-right-for-you/",
-          "publishedOn": "2024-12-11T14:59:33.000Z",
-          "wordCount": 2942,
-          "title": "In-House Development vs. Software Outsourcing: Which is Right for You?",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/featured_image_1.jpg"
         }
       ]
     },
@@ -3866,6 +3896,16 @@
       "feedUrl": "https://www.skyue.com/feed/",
       "siteUrl": "https://www.skyue.com/",
       "articles": [
+        {
+          "id": "https://www.skyue.com/25031123.html",
+          "author": "拾月",
+          "description": "最近极限操作，装修和备婚并行。2月22日和3月9日南瓜和我去了两趟杭州国际博览中心，分别参加家博会和婚博会。两次会场总体还算热闹，没有人山人海那么夸张，但也络绎不绝。在电商的冲击下，线下博览会仍...",
+          "link": "https://www.skyue.com/25031123.html",
+          "publishedOn": "2025-03-11T15:23:00.000Z",
+          "wordCount": 551,
+          "title": "家博会&amp;婚博会",
+          "imageUrl": ""
+        },
         {
           "id": "https://www.skyue.com/25030222.html",
           "author": "拾月",
@@ -4332,6 +4372,16 @@
       "feedUrl": "https://dusays.com/atom.xml",
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
+        {
+          "id": "https://dusays.com/807/",
+          "author": null,
+          "description": "<blockquote>\n<p>杜老师使用 Emby 管理媒体文件，但刮削时经常报错。tinyMediaManager 是款功能强大的开源媒体管理工具，能够帮助轻松整理和管理媒体库。本文将详细介绍 tinyMediaManager 的搭建过程和基本使用方法。</p>\n</blockquote>",
+          "link": "https://dusays.com/807/",
+          "publishedOn": "2025-03-09T16:00:00.000Z",
+          "wordCount": 1375,
+          "title": "使用 Docker 部署 tinyMediaManager 刮削工具",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
         {
           "id": "https://dusays.com/806/",
           "author": null,
@@ -5172,16 +5222,6 @@
           "wordCount": 315,
           "title": "OneNav 1.0.0正式发布，新增链接批量检测",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=21655",
-          "author": "xiaoz",
-          "description": "最近许多小伙伴收到华侨银行发来的邮件，要求提供新加坡的住址证明。若未能及时提供，银行将关闭其账户。然而，大多数小伙伴并不居住或工作于新加坡，实际上这相当于被迫关户。因此，建议尽早转出华侨银行的存款。接下来，博主将简单整理并分享在转出过程中遇到的问题，欢迎大家补充。华侨银行存款转出这里分3种情况，请对",
-          "link": "https://blog.xiaoz.org/archives/21655",
-          "publishedOn": "2024-12-12T03:00:02.000Z",
-          "wordCount": 255,
-          "title": "华侨银行（OCBC）余额转出指南与替代方案",
-          "imageUrl": null
         }
       ]
     },
@@ -5243,6 +5283,16 @@
       "feedUrl": "https://panzhixiang.cn/atom.xml",
       "siteUrl": "https://panzhixiang.cn/atom.xml",
       "articles": [
+        {
+          "id": "https://panzhixiang.cn/2025/internet_bubble_ai_future/",
+          "author": null,
+          "description": "<blockquote>\n<p><strong>今年是纳斯达克指数达到顶峰 25 周年，历史教训或能照亮 AI 投资之路</strong></p>\n</blockquote>\n<hr>\n<p>2000 年 3 月 17 日，纳斯达克综合指数达到互联网时代的历史巅峰，5048.62 点，五年内飙升超过 500%。随后，在两年内暴跌 70%，这场泡沫的破裂迅速而残酷。</p>",
+          "link": "https://panzhixiang.cn/2025/internet_bubble_ai_future/",
+          "publishedOn": "2025-03-10T16:00:00.000Z",
+          "wordCount": 286,
+          "title": "曾经被炒作的互联网技术，最终真的改变了世界——从互联网泡沫破裂，看今天 AI 热潮的未来",
+          "imageUrl": "https://blog.panzhixiang.cn/images/na-si-da-ke.png"
+        },
         {
           "id": "https://panzhixiang.cn/2025/children-programing/",
           "author": null,
