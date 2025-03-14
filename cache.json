@@ -790,6 +790,21 @@
       "siteUrl": "https://srebro.cn/",
       "articles": [
         {
+          "id": "/archives/1741854735403",
+          "author": "运维小弟",
+          "description": "一、背景 某XX生产环境，内存使用率总是居高不下，怀疑是内存溢出，现使用visualVM对其进行内存与线程分析，并反馈给研发部门。 二、jvisualvm jVisualVM 是 Oracle 提供的免费 Java 监控和性能分析工具，内置于 JDK 中（JDK 1.6+ 至 JDK 8，JDK9以",
+          "link": "https://srebro.cn/archives/1741854735403",
+          "publishedOn": "2025-03-13T08:32:48.000Z",
+          "wordCount": 2176,
+          "title": "基于jvisualvm的内存监控与远程连接配置指南",
+          "enclosure": {
+            "url": "https://srebro.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https%3A%2F%2Fs3api.srebro.cn%2Fpicgo%2F202503131552612.png&size=m",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://srebro.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https%3A%2F%2Fs3api.srebro.cn%2Fpicgo%2F202503131552612.png&size=m"
+        },
+        {
           "id": "/archives/1741745198026",
           "author": "运维小弟",
           "description": "Docker子网冲突解决方案及配置说明 问题描述 公司现有子网为 172.19.0.0/24，某研发在使用docker的时候总是会有连不上的情况，排查发现在未配置 Docker 配置文件时，其默认创建的网络可能随机使用 172.17.0.0/16 至 172.31.0.0/16 范围内的子网，存在以",
@@ -1710,6 +1725,26 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=299994",
+          "author": "Brandon Lee",
+          "description": "Looking for great tech deals? Check out items on today’s daily tech deals. Today there are two really awesome 4 TB NVMe drives for 28% off, Dell OptiPlex 7020 MFF Mini PC for 14% off, MINISFORUM UM870 Slim Mini PC for 20% off, and a darkFlash ATX Mid-Tower PC Case for 14% off. Disclosure: The …\nThe post Daily Tech Deals March 13 2025 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/03/daily-tech-deals-march-13-2025/",
+          "publishedOn": "2025-03-13T16:13:33.000Z",
+          "wordCount": 8403,
+          "title": "Daily Tech Deals March 13 2025",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/image-32.jpeg"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=299969",
+          "author": "Brandon Lee",
+          "description": "So I have been doing all kinds of modding and strategizing on my Proxmox server and trying different things on my second Proxmox server build. Since I am using the Minisforum BD795i SE, this is a great board, but limited on connectivity in terms of storage options. Unlike the BD795M, it doesn’t have SATA ports …\nThe post Add NVMe slots to your Proxmox Server with Hardware and Bifurcation Mods! appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/03/add-nvme-slots-to-your-proxmox-server-with-hardware-and-bifurcation-mods/",
+          "publishedOn": "2025-03-13T14:35:41.000Z",
+          "wordCount": 10720,
+          "title": "Add NVMe slots to your Proxmox Server with Hardware and Bifurcation Mods!",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/Bifurcation-Mods.jpg"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=299961",
           "author": "Brandon Lee",
           "description": "Looking for great tech deals? Check out items on today’s daily tech deals. Today there are two really awesome 4 TB NVMe drives for 28% off, an Lenovo Essential IdeaPad for 24% off, a 27-Inch OLED Gaming Monitor for 15% off, and a Thermaltake Tower 500 Snow Edition for 19% off. Disclosure: The links below …\nThe post Daily Tech Deals March 12 2025 appeared first on Virtualization Howto.",
@@ -2478,16 +2513,6 @@
           "wordCount": 9593,
           "title": "5 GitOps Tools that you need to know!",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/5-gitops-tools-to-know.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298359",
-          "author": "Brandon Lee",
-          "description": "With 2025 sunsetting in a hurry, if you are like me you are thinking about the skills and disciplines you want to gain mastery over. DevOps is definitely an area that has tremendous demand with modern cloud infrastructure and even on-premises infrastructure understanding how to automate and build infrastructure in a way that is smart, …\nThe post 10 Best DevOps Tools Going Into 2025! appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2024/12/10-best-devops-tools-going-into-2025/",
-          "publishedOn": "2024-12-13T15:23:27.000Z",
-          "wordCount": 10349,
-          "title": "10 Best DevOps Tools Going Into 2025!",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/Best-DevOps-Tools-in-2025.png"
         }
       ]
     },
@@ -2496,6 +2521,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=30965",
+          "author": "Tanvir Kour",
+          "description": "Cloud-based tools power modern DevOps workflows, enabling seamless collaboration across teams. However, security risks and access challenges often disrupt these processes, leaving gaps that attackers can exploit. Virtual Private Networks (VPNs) offer a robust solution to safeguard connections while improving productivity in distributed environments. They’re not only for anonymity but also integral for secure development […]",
+          "link": "https://collabnix.com/how-people-utilize-vpns-in-cloud-driven-devops-teams/",
+          "publishedOn": "2025-03-13T08:49:04.000Z",
+          "wordCount": 2728,
+          "title": "How People Utilize VPNs in Cloud-Driven DevOps Teams",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=30949",
           "author": "Tanvir Kour",
@@ -3902,6 +3937,16 @@
       "siteUrl": "https://www.skyue.com/",
       "articles": [
         {
+          "id": "https://www.skyue.com/25031322.html",
+          "author": "拾月",
+          "description": "在电商行业干久了，经历过多家公司，就会发现：行业内所有产品都在向淘宝靠拢，内部方案沟通，经常被cue的问题就是「淘宝怎么做的」，如果做国际电商，镜像就是「亚马逊怎么做的」。这些公司通常也会定向招...",
+          "link": "https://www.skyue.com/25031322.html",
+          "publishedOn": "2025-03-13T14:42:00.000Z",
+          "wordCount": 566,
+          "title": "互联网公司后发劣势",
+          "imageUrl": ""
+        },
+        {
           "id": "https://www.skyue.com/25031123.html",
           "author": "拾月",
           "description": "最近极限操作，装修和备婚并行。2月22日和3月9日南瓜和我去了两趟杭州国际博览中心，分别参加家博会和婚博会。两次会场总体还算热闹，没有人山人海那么夸张，但也络绎不绝。在电商的冲击下，线下博览会仍...",
@@ -4245,16 +4290,6 @@
           "wordCount": 6840,
           "title": "前沿快讯 第66期 通过单个RNA分子的AFM图像确定其三维拓扑结构等",
           "imageUrl": "https://chevereto.hwb0307.com/images/2024/12/24/fx1_lrg-20241224165515176.jpg"
-        },
-        {
-          "id": "https://blognas.hwb0307.com/?p=6201",
-          "author": "Bensz",
-          "description": "Bensz\n前沿快讯 第65期 皮肤共生菌可以诱导强烈持久的特异性抗体反应等\n本博客由Faconhost大力赞助！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 前言 本文是前沿快讯的第65期。前沿快讯栏目主要收集一些个人感兴趣的近期发表的研究，关注领域包括肿瘤的分子生物学、临床研究、流行病学等，文献类型主要是期刊论文和综述。研究介绍在Google机翻摘要的基础上进行微调，可能不一定特别准确、专业，主要目的是方便自己和大家快速了解和回顾相关领域研究进展。如果你对某个研究的细节感兴趣，请自行寻找全文进一步了解。此外，研究根据子领域会进一步细分，不过交叉领域的研究不好分为某一类，所以这个分类主要用于初级索引，并不十分准确，不喜勿喷。最后，大家看到什么特别的研究，也可以在评论区向我推荐，我会酌情收录在后面的期刊中。如无意外，前沿快讯栏目会长期更新，周期为2周-1月 […]\nBensz",
-          "link": "https://blognas.hwb0307.com/medicine/6201",
-          "publishedOn": "2024-12-14T13:08:44.000Z",
-          "wordCount": null,
-          "title": "前沿快讯 第65期 皮肤共生菌可以诱导强烈持久的特异性抗体反应等",
-          "imageUrl": null
         }
       ]
     },
@@ -4665,16 +4700,6 @@
           "publishedOn": "2024-12-16T16:00:00.000Z",
           "wordCount": 1281,
           "title": "图床审核出现误判解决方法",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/778/",
-          "author": null,
-          "description": "<blockquote>\n<p>今天杜老师要和大家分享的，是广州这座古老而又现代的城市，如何在忙碌的工作中找到属于自己的节奏和乐趣呢？就让杜老师在出差闲暇之余，拍摄几张景色与美食的图片，带小伙伴们领略广州的魅力！</p>\n</blockquote>",
-          "link": "https://dusays.com/778/",
-          "publishedOn": "2024-12-13T16:00:00.000Z",
-          "wordCount": 1263,
-          "title": "广州游记「多图预警」",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
@@ -5221,6 +5246,23 @@
       ]
     },
     {
+      "title": "Alliot's blog",
+      "feedUrl": "https://www.iots.vip/atom.xml",
+      "siteUrl": "https://www.iots.vip/atom.xml",
+      "articles": [
+        {
+          "id": "https://www.iots.vip/post/apc-ups-replace-battery",
+          "author": null,
+          "description": "<p>　　前面<a href=\"/categories/%E7%BE%A4%E6%99%96%E5%85%A5%E9%97%A8%E5%88%B0%E8%BF%9B%E9%98%B6%E7%B3%BB%E5%88%97/\">群晖系列</a>提到过，为了防止市电非预期断电导致数据丢失，我<a href=\"/post/synology-series-10#%E7%BB%93%E8%AF%AD\">入了一台 UPS —— APC BR550g CN</a>, 一晃眼，已经服役近好几年了，续航时间也已经缩短到了5分钟以内, 很明显它的蓄电池已经到达了使用寿命， 趁清灰时机， 更换一下电池， 顺便校准一下容量。",
+          "link": "https://www.iots.vip/post/apc-ups-replace-battery",
+          "publishedOn": "2025-02-10T11:00:00.000Z",
+          "wordCount": 1395,
+          "title": "APC UPS更换电池校准容量",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
       "title": "弹霄博科",
       "feedUrl": "https://www.txisfine.cn/atom.xml",
       "siteUrl": "https://www.txisfine.cn/atom.xml",
@@ -5697,6 +5739,16 @@
       "siteUrl": "https://chegva.com",
       "articles": [
         {
+          "id": "https://chegva.com/?p=6300",
+          "author": "anzhihe",
+          "description": "Kubernetes Cordon\nkubectl cordon 命令用于将节点标记为不可调度。这意味着 Kubernetes 调度器不会将任何新的 Pod 调度到该节点上。但是，已经在该节点上运行的 Pod 不会受到影响，它们将继续运行。在 kubectl cordon 节点后删除节点上已有 Pod，Kubernetes 会自动将新的 Pod 调度到其他可用节点上，从而实现 Pod 的迁移。但是，请务必注意控制器、资源限制、节点亲和性/反亲和性以及 Taints 和 Tolerations 等因素，以确保 Pod 能够成功迁移。\n使用场景\n\n节点维护：在对节点进行维护（例如，硬件更换、内核更新、资源调整）之前，可以使用 cordon 命令来防止新的 Pod 调度到该节点上。\n\n资源调整：在调整节点的计算资源时，可以先使用 cordon 命令，以避免资源竞争。\n\n工作负载重新分配：在需要将工作负载重新分配到其他节点时，可以使用 cordon 命令来阻止新的 Pod 调度到目标节点上。\n\n如何使用\n\nCordon 节点\n使用以下命令将节点标记为不可调度：\nkubectl cordon <node-name>\n将 <node-name> 替换为要 cordon 的节点的名称。\n\n检查节点状态\n使用以下命令检查节点的状态，确认节点是否已被 cordon：\nkubectl get nodes <node-name>\n在输出中，STATUS 列将显示 Ready,SchedulingDisabled，表示节点已被 cordon。\n\nUncordon 节点\n完成维护或调整后，可以使用以下命令将节点标记为可调度：\nkubectl uncordon <node-name>\n这将撤销 cordon 操作，允许新的 Pod 调度到该节点上。\n\n\nKubernetes Drain\nkubectl drain 命令用于安全地将节点上的所有 Pod 驱逐到其他节点。在驱逐 Pod 之前，drain 命令会先 cordon 节点，以防止新的 Pod 调度到该节点上。\n使用场景\n\n节点维护：在需要关闭或删除节点之前，可以使用 drain 命令将节点上的所有 Pod 驱逐到其他节点，以确保应用程序的可用性。\n\n节点缩容：在需要缩减集群规模时，可以使用 drain 命令将要移除的节点上的 Pod 驱逐到其他节点。\n\n如何使用\n\nDrain 节点\n使用以下命令 drain 节点：\nkubectl drain <node-name> --ignore-daemonsets --force\n\n\n--ignore-daemonsets：忽略 DaemonSet 管理的 Pod。DaemonSet 通常提供节点本地服务，即使节点被标记为不可调度，也应该在节点上运行。\n\n--force：强制驱逐 Pod，即使它们没有被 ReplicationController、Job 或 DaemonSet 管理。\n\n\n处理 Grace Period\n如果 Pod 有较长的 grace period，drain 命令可能需要较长时间才能完成。可以使用 --grace-period 标志来覆盖 Pod 的终止宽限期，并强制立即驱逐：\nkubectl drain <node-name> --grace-period 0 --force --ignore-daemonsets\n请谨慎使用此选项，因为强制停止 Pod 可能会导致数据丢失或应用程序错误。\n\nCordon 和 Drain 的区别\n\ncordon 命令只是将节点标记为不可调度，不会影响已经在节点上运行的 Pod。\n\ndrain 命令会先 cordon 节点，然后将节点上的所有 Pod 驱逐到其他节点。\n\n\n\n总结\ncordon 和 drain 命令是 Kubernetes 中用于节点管理的重要工具。cordon 命令用于防止新的 Pod 调度到节点上，而 drain 命令用于安全地将节点上的所有 Pod 驱逐到其他节点。在进行节点维护、资源调整或缩容时，可以使用这两个命令来确保应用程序的可用性。\n\n\n参考：\n\nkubectl cordon\n\n\nKubernetes Cordon: How It Works And When To Use It \n\n\nMastering Kubernetes Node Management with the `kubectl cordon` Command\n\nk8s 污点(Taint) 和容忍度(Toleration)使用",
+          "link": "https://chegva.com/6300.html",
+          "publishedOn": "2025-03-13T12:03:10.000Z",
+          "wordCount": 20207,
+          "title": "k8s cordon和drain使用",
+          "imageUrl": null
+        },
+        {
           "id": "https://chegva.com/?p=6263",
           "author": "anzhihe",
           "description": "在开始这一系列文章之前，我想说，如果你想从我这里得到一些速成的方法，那么你就不用往下看了，学习是不可能速成的。这里只有一些方法和技巧，是我这么多年来行之有效的，分享出来也许对你有帮助。一方面，可能会让你学得更多和更累，另一方面，可能会让你学得更系统、更全面。总之，学习是一件“逆人性”的事，就像锻炼身体一样，需要人持续付出，会让人感到痛苦，并随时想找理由放弃。\n大部分人都认为自己爱学习，但是：\n\n他们都是只有意识没有行动，他们是动力不足的人。\n\n他们都不知道自己该学什么，他们缺乏方向和目标。\n\n他们都不具备自主学习的能力，没有正确的方法和技能。\n\n更要命的是，他们缺乏实践和坚持。\n\n如果你去研究一下古今中外的成功人士，就会发现，他们基本上都是非常自律的，也都是非常热爱学习的。他们可以沉得下心来不断地学习，在学习中不断地思考、探索和实践。\n所以，如果你不能克服自己 DNA 中的弱点，不能端正自己的态度，不能自律，不能坚持，不能举一反三，不能不断追问等，那么，无论有多好的方法，你都不可能学好。所以，有正确的态度很重要。\n然后，我会在后面给你一些方法和相关的技能，让你可以真正实际操作起来。\n主动学习和被动学习\n1946 年，美国学者埃德加·戴尔（Edgar Dale）提出了「学习金字塔」（Cone of Learning）的理论。之后，美国缅因州国家训练实验室也做了相同的实验，并发布了「学习金字塔」报告。\n\n人的学习分为「被动学习」和「主动学习」两个层次。\n\n被动学习：如听讲、阅读、视听、演示，学习内容的平均留存率为 5%、10%、20% 和 30%。\n\n主动学习：如通过讨论、实践、教授给他人，会将原来被动学习的内容留存率从 5% 提升到 50%、75% 和 90%。\n\n这个模型很好地展示了不同学习深度和层次之间的对比。\n我们可以看到，你听别人讲，或是自己看书，或是让别人演示给你，…",
@@ -5923,6 +5975,16 @@
           "publishedOn": "2025-02-04T00:00:00.000Z",
           "wordCount": 349,
           "title": "导出飞书日历为 iCalendar 格式",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jia.je/hardware/2025/01/12/intel_gracemont/",
+          "author": null,
+          "description": "Intel Gracemont 微架构评测¶\n背景¶\n之前 测试了 Intel Alder Lake 的 P 核微架构，这次就来测一下 Alder Lake 的 E 核微架构 Gracemont。\n\n官方信息¶\nIntel 关于 Gracemont 微架构有这些官方的信息：\n\nIntel Alder Lake CPU Architectures\nAlder Lake Architecture on Hot Chips 33\nIntel 64 and IA-32 Architectures Optimization Reference Manual Volume 1\n\n现有评测¶\n网上已经有较多针对 Gracemont 微架构的评测和分析，建议阅读：\n\nGracemont: Revenge of the Atom Cores\nIntel’s Gracemont Small Core Eclipses Last-Gen Big Core Performance\n\n下面分各个模块分别记录官方提供的信息，以及实测的结果。读者可以对照已有的第三方评测理解。官方信息与实测结果一致的数据会加粗。\nBenchmark¶\nIntel Gracemont 的性能测试结果见 SPEC。\n前端¶\nFetch¶\n官方信息：\n\n2x 32B/cycle\n\nGracemont 的 Clustered Decode 架构比较特别，目前没有找到方法去证实它的 Fetch 带宽，后续如果找到了更好的方法，再测这个特性。\nDecode¶\n官方信息：\n\n2x 3-wide\n\nGracemont 的 Clustered Decode 架构比较特别，目前没有找到方法去确认它 2x 3-wide 的 Decode 带宽，后续如果找到了更好的方法，再测这个特性。\nL1 ICache¶\n官方信息：\n\n64KB\n\n为了测试 …",
+          "link": "https://jia.je/hardware/2025/01/12/intel_gracemont/",
+          "publishedOn": "2025-01-12T00:00:00.000Z",
+          "wordCount": 996,
+          "title": "Intel Gracemont 微架构评测",
           "imageUrl": null
         },
         {

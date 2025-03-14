@@ -2,10 +2,147 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-03-13T01:53:54.279Z</updated>
+    <updated>2025-03-14T01:52:08.083Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daily Tech Deals March 13 2025]]></title>
+        <id>https://www.virtualizationhowto.com/?p=299994</id>
+        <link href="https://www.virtualizationhowto.com/2025/03/daily-tech-deals-march-13-2025/"/>
+        <updated>2025-03-13T16:13:33.000Z</updated>
+        <summary type="html"><![CDATA[Looking for great tech deals? Check out items on today’s daily tech deals. Today there are two really awesome 4 TB NVMe drives for 28% off, Dell OptiPlex 7020 MFF Mini PC for 14% off, MINISFORUM UM870 Slim Mini PC for 20% off, and a darkFlash ATX Mid-Tower PC Case for 14% off. Disclosure: The …
+The post Daily Tech Deals March 13 2025 appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[互联网公司后发劣势]]></title>
+        <id>https://www.skyue.com/25031322.html</id>
+        <link href="https://www.skyue.com/25031322.html"/>
+        <updated>2025-03-13T14:42:00.000Z</updated>
+        <summary type="html"><![CDATA[在电商行业干久了，经历过多家公司，就会发现：行业内所有产品都在向淘宝靠拢，内部方案沟通，经常被cue的问题就是「淘宝怎么做的」，如果做国际电商，镜像就是「亚马逊怎么做的」。这些公司通常也会定向招...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add NVMe slots to your Proxmox Server with Hardware and Bifurcation Mods!]]></title>
+        <id>https://www.virtualizationhowto.com/?p=299969</id>
+        <link href="https://www.virtualizationhowto.com/2025/03/add-nvme-slots-to-your-proxmox-server-with-hardware-and-bifurcation-mods/"/>
+        <updated>2025-03-13T14:35:41.000Z</updated>
+        <summary type="html"><![CDATA[So I have been doing all kinds of modding and strategizing on my Proxmox server and trying different things on my second Proxmox server build. Since I am using the Minisforum BD795i SE, this is a great board, but limited on connectivity in terms of storage options. Unlike the BD795M, it doesn’t have SATA ports …
+The post Add NVMe slots to your Proxmox Server with Hardware and Bifurcation Mods! appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[k8s cordon和drain使用]]></title>
+        <id>https://chegva.com/?p=6300</id>
+        <link href="https://chegva.com/6300.html"/>
+        <updated>2025-03-13T12:03:10.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes Cordon
+kubectl cordon 命令用于将节点标记为不可调度。这意味着 Kubernetes 调度器不会将任何新的 Pod 调度到该节点上。但是，已经在该节点上运行的 Pod 不会受到影响，它们将继续运行。在 kubectl cordon 节点后删除节点上已有 Pod，Kubernetes 会自动将新的 Pod 调度到其他可用节点上，从而实现 Pod 的迁移。但是，请务必注意控制器、资源限制、节点亲和性/反亲和性以及 Taints 和 Tolerations 等因素，以确保 Pod 能够成功迁移。
+使用场景
+
+节点维护：在对节点进行维护（例如，硬件更换、内核更新、资源调整）之前，可以使用 cordon 命令来防止新的 Pod 调度到该节点上。
+
+资源调整：在调整节点的计算资源时，可以先使用 cordon 命令，以避免资源竞争。
+
+工作负载重新分配：在需要将工作负载重新分配到其他节点时，可以使用 cordon 命令来阻止新的 Pod 调度到目标节点上。
+
+如何使用
+
+Cordon 节点
+使用以下命令将节点标记为不可调度：
+kubectl cordon <node-name>
+将 <node-name> 替换为要 cordon 的节点的名称。
+
+检查节点状态
+使用以下命令检查节点的状态，确认节点是否已被 cordon：
+kubectl get nodes <node-name>
+在输出中，STATUS 列将显示 Ready,SchedulingDisabled，表示节点已被 cordon。
+
+Uncordon 节点
+完成维护或调整后，可以使用以下命令将节点标记为可调度：
+kubectl uncordon <node-name>
+这将撤销 cordon 操作，允许新的 Pod 调度到该节点上。
+
+
+Kubernetes Drain
+kubectl drain 命令用于安全地将节点上的所有 Pod 驱逐到其他节点。在驱逐 Pod 之前，drain 命令会先 cordon 节点，以防止新的 Pod 调度到该节点上。
+使用场景
+
+节点维护：在需要关闭或删除节点之前，可以使用 drain 命令将节点上的所有 Pod 驱逐到其他节点，以确保应用程序的可用性。
+
+节点缩容：在需要缩减集群规模时，可以使用 drain 命令将要移除的节点上的 Pod 驱逐到其他节点。
+
+如何使用
+
+Drain 节点
+使用以下命令 drain 节点：
+kubectl drain <node-name> --ignore-daemonsets --force
+
+
+--ignore-daemonsets：忽略 DaemonSet 管理的 Pod。DaemonSet 通常提供节点本地服务，即使节点被标记为不可调度，也应该在节点上运行。
+
+--force：强制驱逐 Pod，即使它们没有被 ReplicationController、Job 或 DaemonSet 管理。
+
+
+处理 Grace Period
+如果 Pod 有较长的 grace period，drain 命令可能需要较长时间才能完成。可以使用 --grace-period 标志来覆盖 Pod 的终止宽限期，并强制立即驱逐：
+kubectl drain <node-name> --grace-period 0 --force --ignore-daemonsets
+请谨慎使用此选项，因为强制停止 Pod 可能会导致数据丢失或应用程序错误。
+
+Cordon 和 Drain 的区别
+
+cordon 命令只是将节点标记为不可调度，不会影响已经在节点上运行的 Pod。
+
+drain 命令会先 cordon 节点，然后将节点上的所有 Pod 驱逐到其他节点。
+
+
+
+总结
+cordon 和 drain 命令是 Kubernetes 中用于节点管理的重要工具。cordon 命令用于防止新的 Pod 调度到节点上，而 drain 命令用于安全地将节点上的所有 Pod 驱逐到其他节点。在进行节点维护、资源调整或缩容时，可以使用这两个命令来确保应用程序的可用性。
+
+
+参考：
+
+kubectl cordon
+
+
+Kubernetes Cordon: How It Works And When To Use It 
+
+
+Mastering Kubernetes Node Management with the `kubectl cordon` Command
+
+k8s 污点(Taint) 和容忍度(Toleration)使用]]></summary>
+        <author>
+            <name>anzhihe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How People Utilize VPNs in Cloud-Driven DevOps Teams]]></title>
+        <id>https://collabnix.com/?p=30965</id>
+        <link href="https://collabnix.com/how-people-utilize-vpns-in-cloud-driven-devops-teams/"/>
+        <updated>2025-03-13T08:49:04.000Z</updated>
+        <summary type="html"><![CDATA[Cloud-based tools power modern DevOps workflows, enabling seamless collaboration across teams. However, security risks and access challenges often disrupt these processes, leaving gaps that attackers can exploit. Virtual Private Networks (VPNs) offer a robust solution to safeguard connections while improving productivity in distributed environments. They’re not only for anonymity but also integral for secure development […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于jvisualvm的内存监控与远程连接配置指南]]></title>
+        <id>/archives/1741854735403</id>
+        <link href="https://srebro.cn/archives/1741854735403"/>
+        <updated>2025-03-13T08:32:48.000Z</updated>
+        <summary type="html"><![CDATA[一、背景 某XX生产环境，内存使用率总是居高不下，怀疑是内存溢出，现使用visualVM对其进行内存与线程分析，并反馈给研发部门。 二、jvisualvm jVisualVM 是 Oracle 提供的免费 Java 监控和性能分析工具，内置于 JDK 中（JDK 1.6+ 至 JDK 8，JDK9以]]></summary>
+        <author>
+            <name>运维小弟</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daily Tech Deals March 12 2025]]></title>
         <id>https://www.virtualizationhowto.com/?p=299961</id>
@@ -2486,6 +2623,16 @@ The post Best Homelab Networking Ecosystem appeared first on Virtualization Howt
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[APC UPS更换电池校准容量]]></title>
+        <id>https://www.iots.vip/post/apc-ups-replace-battery</id>
+        <link href="https://www.iots.vip/post/apc-ups-replace-battery"/>
+        <updated>2025-02-10T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>　　前面<a href="/categories/%E7%BE%A4%E6%99%96%E5%85%A5%E9%97%A8%E5%88%B0%E8%BF%9B%E9%98%B6%E7%B3%BB%E5%88%97/">群晖系列</a>提到过，为了防止市电非预期断电导致数据丢失，我<a href="/post/synology-series-10#%E7%BB%93%E8%AF%AD">入了一台 UPS —— APC BR550g CN</a>, 一晃眼，已经服役近好几年了，续航时间也已经缩短到了5分钟以内, 很明显它的蓄电池已经到达了使用寿命， 趁清灰时机， 更换一下电池， 顺便校准一下容量。]]></summary>
+        <author>
+            <name>Alliot's blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[多功能文件分享程序Zdir 4.3.0发布，新年送福利]]></title>
         <id>https://blog.xiaoz.org/?p=21765</id>
         <link href="https://blog.xiaoz.org/archives/21765"/>
@@ -4566,6 +4713,54 @@ The post NVMe Memory Tiering Configuration in VMware: 4x Your RAM! appeared firs
 找小孩用的贴纸或其他东西把洞挡住就完事。]]></summary>
         <author>
             <name>法律小茶馆</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Gracemont 微架构评测]]></title>
+        <id>https://jia.je/hardware/2025/01/12/intel_gracemont/</id>
+        <link href="https://jia.je/hardware/2025/01/12/intel_gracemont/"/>
+        <updated>2025-01-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Intel Gracemont 微架构评测¶
+背景¶
+之前 测试了 Intel Alder Lake 的 P 核微架构，这次就来测一下 Alder Lake 的 E 核微架构 Gracemont。
+
+官方信息¶
+Intel 关于 Gracemont 微架构有这些官方的信息：
+
+Intel Alder Lake CPU Architectures
+Alder Lake Architecture on Hot Chips 33
+Intel 64 and IA-32 Architectures Optimization Reference Manual Volume 1
+
+现有评测¶
+网上已经有较多针对 Gracemont 微架构的评测和分析，建议阅读：
+
+Gracemont: Revenge of the Atom Cores
+Intel’s Gracemont Small Core Eclipses Last-Gen Big Core Performance
+
+下面分各个模块分别记录官方提供的信息，以及实测的结果。读者可以对照已有的第三方评测理解。官方信息与实测结果一致的数据会加粗。
+Benchmark¶
+Intel Gracemont 的性能测试结果见 SPEC。
+前端¶
+Fetch¶
+官方信息：
+
+2x 32B/cycle
+
+Gracemont 的 Clustered Decode 架构比较特别，目前没有找到方法去证实它的 Fetch 带宽，后续如果找到了更好的方法，再测这个特性。
+Decode¶
+官方信息：
+
+2x 3-wide
+
+Gracemont 的 Clustered Decode 架构比较特别，目前没有找到方法去确认它 2x 3-wide 的 Decode 带宽，后续如果找到了更好的方法，再测这个特性。
+L1 ICache¶
+官方信息：
+
+64KB
+
+为了测试 …]]></summary>
+        <author>
+            <name>杰哥的{运维，编程，调板子}小笔记</name>
         </author>
     </entry>
     <entry>
@@ -7878,19 +8073,6 @@ https://www.adidas.com.cn/pdp?articleId=EF0901]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[前沿快讯 第65期 皮肤共生菌可以诱导强烈持久的特异性抗体反应等]]></title>
-        <id>https://blognas.hwb0307.com/?p=6201</id>
-        <link href="https://blognas.hwb0307.com/medicine/6201"/>
-        <updated>2024-12-14T13:08:44.000Z</updated>
-        <summary type="html"><![CDATA[Bensz
-前沿快讯 第65期 皮肤共生菌可以诱导强烈持久的特异性抗体反应等
-本博客由Faconhost大力赞助！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 前言 本文是前沿快讯的第65期。前沿快讯栏目主要收集一些个人感兴趣的近期发表的研究，关注领域包括肿瘤的分子生物学、临床研究、流行病学等，文献类型主要是期刊论文和综述。研究介绍在Google机翻摘要的基础上进行微调，可能不一定特别准确、专业，主要目的是方便自己和大家快速了解和回顾相关领域研究进展。如果你对某个研究的细节感兴趣，请自行寻找全文进一步了解。此外，研究根据子领域会进一步细分，不过交叉领域的研究不好分为某一类，所以这个分类主要用于初级索引，并不十分准确，不喜勿喷。最后，大家看到什么特别的研究，也可以在评论区向我推荐，我会酌情收录在后面的期刊中。如无意外，前沿快讯栏目会长期更新，周期为2周-1月 […]
-Bensz]]></summary>
-        <author>
-            <name>Bensz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[第一次上救护车]]></title>
         <id>https://lawtee.com/editor/2024_12_13_first_time_on_an_ambulance/</id>
         <link href="https://lawtee.com/editor/2024_12_13_first_time_on_an_ambulance/"/>
@@ -7906,29 +8088,6 @@ Bensz]]></summary>
 最终，经过医院一番检查清洗，诊断主要就是额头擦伤加鼻孔流血，自费 800 左右，开了一瓶 5 元的药膏。]]></summary>
         <author>
             <name>法律小茶馆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[广州游记「多图预警」]]></title>
-        <id>https://dusays.com/778/</id>
-        <link href="https://dusays.com/778/"/>
-        <updated>2024-12-13T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>今天杜老师要和大家分享的，是广州这座古老而又现代的城市，如何在忙碌的工作中找到属于自己的节奏和乐趣呢？就让杜老师在出差闲暇之余，拍摄几张景色与美食的图片，带小伙伴们领略广州的魅力！</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Best DevOps Tools Going Into 2025!]]></title>
-        <id>https://www.virtualizationhowto.com/?p=298359</id>
-        <link href="https://www.virtualizationhowto.com/2024/12/10-best-devops-tools-going-into-2025/"/>
-        <updated>2024-12-13T15:23:27.000Z</updated>
-        <summary type="html"><![CDATA[With 2025 sunsetting in a hurry, if you are like me you are thinking about the skills and disciplines you want to gain mastery over. DevOps is definitely an area that has tremendous demand with modern cloud infrastructure and even on-premises infrastructure understanding how to automate and build infrastructure in a way that is smart, …
-The post 10 Best DevOps Tools Going Into 2025! appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
 </feed>
