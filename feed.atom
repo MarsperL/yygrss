@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-03-14T01:52:08.083Z</updated>
+    <updated>2025-03-15T01:51:09.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[StarWind V2V Converter: Convert VMware to Proxmox and New CLI]]></title>
+        <id>https://www.virtualizationhowto.com/?p=300010</id>
+        <link href="https://www.virtualizationhowto.com/2025/03/starwind-v2v-converter-convert-vmware-to-proxmox-and-new-cli/"/>
+        <updated>2025-03-14T21:11:34.000Z</updated>
+        <summary type="html"><![CDATA[If you haven’t downloaded StarWind V2V in a while, there has been a major series of updates to the tool as of late. It now has the ability to convert from VMware to Proxmox as of late, as well as several new options since the early days of the tool. Early on, it was simply …
+The post StarWind V2V Converter: Convert VMware to Proxmox and New CLI appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Tech Deals March 14 2025]]></title>
+        <id>https://www.virtualizationhowto.com/?p=300001</id>
+        <link href="https://www.virtualizationhowto.com/2025/03/daily-tech-deals-march-14-2025/"/>
+        <updated>2025-03-14T14:36:28.000Z</updated>
+        <summary type="html"><![CDATA[Looking for great tech deals? Check out items on today’s daily tech deals. Today there are two really awesome mechanical keyboards for 40% off and 34% off respectively, Laptop Screen Extender Monitor for 35% off, 2025 Upgraded Android 14 Tablet for 32% off, and a X3 Wireless Gaming Headset for 44% off. Disclosure: The links …
+The post Daily Tech Deals March 14 2025 appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why OpenAI’s New AI Agent Tools Could Revolutionize Coding Practices]]></title>
+        <id>https://collabnix.com/?p=30986</id>
+        <link href="https://collabnix.com/why-openais-new-ai-agent-tools-could-revolutionize-coding-practices/"/>
+        <updated>2025-03-14T11:51:07.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: The Ever-Changing Landscape of APIs If you’ve worked as a developer, you know the pain of API changes. One day, your app runs flawlessly; the next, an API update forces months of rework. This reality extends to AI-driven applications, and OpenAI’s latest announcements are no exception. The company is sunsetting its Assistants API in […]]]></summary>
+        <author>
+            <name>Adesoji Alu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Model Context Protocol (MCP): What problem does it solve?]]></title>
+        <id>https://collabnix.com/?p=30920</id>
+        <link href="https://collabnix.com/model-context-protocol-mcp-what-problem-does-it-solve/"/>
+        <updated>2025-03-14T11:04:36.000Z</updated>
+        <summary type="html"><![CDATA[Introduction Large language models (LLMs) like ChatGPT and Claude have revolutionized how we interact with technology, yet they’ve remained confined to static knowledge and isolated interfaces—until now. The Model Context Protocol (MCP), introduced by Anthropic, is breaking down these barriers, enabling AI to seamlessly integrate with real-world data and tools. This blog explores how MCP […]]]></summary>
+        <author>
+            <name>Adesoji Alu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daily Tech Deals March 13 2025]]></title>
         <id>https://www.virtualizationhowto.com/?p=299994</id>
@@ -141,6 +183,16 @@ k8s 污点(Taint) 和容忍度(Toleration)使用]]></summary>
         <summary type="html"><![CDATA[一、背景 某XX生产环境，内存使用率总是居高不下，怀疑是内存溢出，现使用visualVM对其进行内存与线程分析，并反馈给研发部门。 二、jvisualvm jVisualVM 是 Oracle 提供的免费 Java 监控和性能分析工具，内置于 JDK 中（JDK 1.6+ 至 JDK 8，JDK9以]]></summary>
         <author>
             <name>运维小弟</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VMware Fusion 彻底免费并支持商用，那么如何安装？]]></title>
+        <id>https://www.mintimate.cn/2025/03/13/HowToDownloadVmwareFusionAndWorkstation/</id>
+        <link href="https://www.mintimate.cn/2025/03/13/HowToDownloadVmwareFusionAndWorkstation/"/>
+        <updated>2025-03-13T03:39:05.000Z</updated>
+        <summary type="html"><![CDATA[2024年，VMware Fusion和Workstation Pro宣布对个人用户免费。本文提供两种方法：通过博通官网直接下载和使用Homebrew在macOS上安装。跟随我们的详细步骤，立即免费获取VMware Fusion Pro！]]></summary>
+        <author>
+            <name>雨月空间站</name>
         </author>
     </entry>
     <entry>
@@ -8016,76 +8068,6 @@ The post 5 GitOps Tools that you need to know! appeared first on Virtualization 
 行政干预司法：主要是院庭长作为行政领导，可能会在阅核过程中对案件的审理施加不当影响，导致司法独立性受到削弱。而法官在审理案件时也可能会因为担心院庭长的审查而倾向于迎合领导的意见，而非完全依据法律和事实作出判断。
 增加工作负担：院庭长需要对大量案件或法律文书进行审阅和核查，这可能会导致其工作负担过重，影响其他行政管理工作的效率。法官在撰写法律文书时也可能会因为担心被阅核而花费更多时间进行修改和完善，从而延长案件审理周期。
 效率降低：阅核制的实施可能会导致案件审理流程变得更加复…]]></summary>
-        <author>
-            <name>法律小茶馆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker or Kubernetes: Which One is Right for You?]]></title>
-        <id>https://collabnix.com/?p=29314</id>
-        <link href="https://collabnix.com/docker-or-kubernetes-which-one-is-right-for-you/"/>
-        <updated>2024-12-15T12:24:37.000Z</updated>
-        <summary type="html"><![CDATA[In the world of modern application deployment, two names frequently dominate conversations: Docker and Kubernetes. While they are often mentioned together, it’s essential to understand that Docker and Kubernetes serve distinct purposes. Docker focuses on development, while Kubernetes focuses on deployment. This post explores the differences, use cases, and how they work together. What is […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[底层逻辑]]></title>
-        <id>https://yeshu.cloud/posts/newsletter-127/</id>
-        <link href="https://yeshu.cloud/posts/newsletter-127/"/>
-        <updated>2024-12-15T12:17:32.000Z</updated>
-        <summary type="html"><![CDATA[用不变的底层逻辑，动态地持续地看清事物的本质。]]></summary>
-        <author>
-            <name>一颗小树</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UltraBOOST leather EF0901 黑武士风]]></title>
-        <id>https://4311346.com/post/2024/1214-ultraboost-leather.html</id>
-        <link href="https://4311346.com/post/2024/1214-ultraboost-leather.html"/>
-        <updated>2024-12-14T14:11:29.000Z</updated>
-        <summary type="html"><![CDATA[又是一双黑武士般的存在，4.5折的价格入手略贵，谁要自己喜欢呢。
-一直认为自己是New Balance和Nike的忠实粉丝，但最终发现鞋柜里还躺着几双阿迪达斯。一个周末的闲逛中，又入手了这双阿迪达斯UltraBOOST leather。年近40岁后，发现除了皮鞋外的黑鞋越来越多，比如2022年入手的 Adidas alphabounce instinct 和 Nike React Miler 2 Shield，2023年入手的 Nike PEGASUS 37，ASICS亚瑟士GT2000-10 LITE-SHOW  还有 今年入手的 SKECHERS 斯凯奇 54600/BBK 基本都是黑武士风格，如今这双 UltraBOOST leather 更是标准的黑武士风格。
-
-
-与2019年入手的 PureBOOST 不同的是 UltraBOOST leather 是一双全皮质包裹的跑鞋… 也就意味着这双鞋的出现场景大多只能在冬季。
-
-
-融入运动式Boost技术的皮革跑步鞋
-这款跑步鞋,兼具Ultraboost的舒适与运动表现,采用皮革鞋面,外底与Boost技术相得益彰,力求为步伐增添活力。
-常规型剪裁 \ 系带设计 \ 皮革鞋面 \ Continental™马牌橡胶打造的Stretchweb网格外底,伴你舒适迈步 \ Boost中底 \ 中底差：10毫米（鞋跟：29毫米 / 前掌：19毫米） \  足弓类型：正常；3D模制环绕式后跟,舒适贴合 \ Torsion Spring扭力条
-
-Adidas Boost 系列很出名，但穿得不多，仅有一双六年前的 PureBoost ，虽然 Ultra 相比 Pure 级别更高，但实际感受不出来啥区别。
-
-六年前的 PureBoost 质量还挺好，但Boost在那个年代基本都是白色的，也是最容易氧化变黄的…自然而然越穿越少。
-
-BB6293，六年前的产品货号，还挺耐穿，但当时并不是马牌大底。反之，2022年入手的 Adidas alphabounce instinct 只花费了不到400元入手，确是马牌大底。
-![Adidas alphabounce](https://pic.4311346.com/master/2024/Adidas alphabounce.jpg)
-也是从2022年adidas alphabounce instinct 之后，再也入过adidas的鞋… 这些年每一次去到 adidas 门店，都是很失望的出来… 相比近几年 Nike 还是有不少心动的产品，只是鞋太多了，有时候太花哨也不适合公司里穿。
-比如…Nike Air Max 97 Air Sprung Iron Grey
-
-唉~ 人生没有后悔药…
-官网：ULTRABOOST LEATHER 运动休闲实用跑步鞋
-https://www.adidas.com.cn/pdp?articleId=EF0901]]></summary>
-        <author>
-            <name>Andy烧麦 - 成熟，聪明，豁达的人什么也不问 过去，现在，将来…</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第一次上救护车]]></title>
-        <id>https://lawtee.com/editor/2024_12_13_first_time_on_an_ambulance/</id>
-        <link href="https://lawtee.com/editor/2024_12_13_first_time_on_an_ambulance/"/>
-        <updated>2024-12-13T18:51:00.000Z</updated>
-        <summary type="html"><![CDATA[今早7点半，在送女儿上学后回来的路上，突然接到我妈电话，说我儿子从电动车上摔下来，已经叫救护车准备去医院。由于正值上班高峰期，我只能拼命往家赶，还没到家就远远看到一辆救护车停在小区门口，于是迅速过去登上救护车。
-到车上才看到我儿子满脸是血，出血位置应该是两个鼻孔，然后额头侧面擦伤也在渗血，但人的精神状态还算好，能够正常回答我的问题。在车上我一边拿纱布帮它按住止血一边询问我妈到底发生了什么，这才知道我妈今早送小孩上学，刚出小区没多远，在一条没有行人的空路上，小孩自己摔了下来，可能是突然加速没坐稳，也可能是小孩自己在上边乱动导致的。我妈的电动车是那种很小、很矮的三轮电动车，座位高度就40公分左右，小孩坐上上边时，头部离地面高度应该不到一米。正常情况下，不至于摔很重才对。
-
-但这事真是吓得我不轻，因为我妈头部神经也受过创伤，语言表达能力不强，倒不是不会说话，只是经常说起来没什么条理，要反复追问才能讲清。而且记性很差，经常丢三落四。今早这情况，本来最佳方案是原地打 120 去医院，但她恰好又忘了带手机，只能继续搭着小孩往家里跑。在小区保安和物业帮助下才打了 120 再打我电话。
-今早情况也比较特殊，这两天我老婆去外地培训，家里就我带着两个小孩。而且由于女儿上学时间早、路程远，我 7 点前就要出发送她上学。而儿子通常是7 点半才起床，8 点去学校，这中间存在个空档期。我昨晚早早的就跟我妈说，让她设个闹钟今早 7 点过来我家免得小孩醒来时家里没人（同一栋楼不同层）。可能正是因为她比往常来得早了点，便想着早点送小孩去学校，导致小孩在没怎么睡醒的情况下，从电动车上掉了下来。
-还有一个重要原因是今早我妈也忘了给小孩戴头盔，她自己的倒是没忘，但小孩的头盔却忘在家里没拿出来，不然也不至于摔伤。
-接送小孩这种事，本来我一直不想让我妈来做，以前接送我女儿时纯走路倒还没事，后来我妈得了一场重病，走路太远的话有点力不从心。可是我妈坚持要由她来接送，不然显得好像继续住在我这里好像没什么意义一样，一心想回老家乡下。
-为了尽量减少我妈送小孩上学过程中风险，我帮她专门设计了一条线路，虽然远了 200 来米，但只需要横过马路两次，而且这两个位置的斑马线都是我们这罕见的、专门设置有汽车不礼让行人拍照处罚的设施，并且在上下班时期几乎都有警察和志愿者在旁引路。万万想不到，人算不如天算，在一条最不可能出现问题的空旷平路上，小孩从车上摔了下来。
-最终，经过医院一番检查清洗，诊断主要就是额头擦伤加鼻孔流血，自费 800 左右，开了一瓶 5 元的药膏。]]></summary>
         <author>
             <name>法律小茶馆</name>
         </author>
