@@ -1038,16 +1038,6 @@
           "wordCount": 2303,
           "title": "《快速部署Mysql-slave 容器，实现高效主从同步》",
           "imageUrl": "null"
-        },
-        {
-          "id": "/archives/1734490757464",
-          "author": null,
-          "description": "华为认证openEuler专家 HCIP-openEuler 官方说明：https://e.huawei.com/cn/talent/news/#/details?consultationId=3603 华为认证HCIE-openEuler V1.0定位于培养和认证基于openEuler操作系统完成",
-          "link": "https://srebro.cn/archives/1734490757464",
-          "publishedOn": "2024-12-18T03:00:35.000Z",
-          "wordCount": 2057,
-          "title": "关于华为-OpenEuler-HCIP认证",
-          "imageUrl": "https://srebro-image.oss-cn-nanjing.aliyuncs.com/615AA45E-41C3-4702-95A5-FF7B33498D8F.png"
         }
       ]
     },
@@ -1555,6 +1545,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=6903",
+          "author": "laixintao",
+          "description": "看到一个 Golang 的模式，用一个 function 来实现一个 interface，function 本 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/6903",
+          "publishedOn": "2025-03-17T15:56:05.000Z",
+          "wordCount": 1456,
+          "title": "Golang 中的 One-function Interfaces",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=6889",
           "author": "laixintao",
           "description": "网络系列文章许久不更新了，因为最近的工作比较忙，有很多其他的问题要解决。上个周花了很多时间研究 P2P，（和  […]\nContinue reading...",
@@ -1704,6 +1704,26 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=300062",
+          "author": "Brandon Lee",
+          "description": "Looking for great tech deals? Check out items on today’s daily tech deals, including the ACEMAGICIAN K1 Mini Gaming PC with an AMD Ryzen 7 5700U, 16GB DDR4, and 512GB SSD for 32% off, the DreamQuest Mini Desktop Computer with an Intel 12th N95 processor, 32GB RAM, and 1TB M.2 SSD for 17% off, the …\nThe post Daily Tech Deals March 17 2025 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/03/daily-tech-deals-march-17-2025/",
+          "publishedOn": "2025-03-17T12:53:56.000Z",
+          "wordCount": 8594,
+          "title": "Daily Tech Deals March 17 2025",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/image-45.jpeg"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=300044",
+          "author": "Brandon Lee",
+          "description": "By in large, most are running home labs on mini PCs these days. They are just so powerful, cheap, and easy to come by from many different manufacturers, they have become the goto platform. However, can you run a Kubernetes cluster on a Mini PC? Is this possible and what are some of the things …\nThe post Can You Run a Kubernetes Cluster on a Mini PC? appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/03/can-you-run-a-kubernetes-cluster-on-a-mini-pc/",
+          "publishedOn": "2025-03-17T12:35:46.000Z",
+          "wordCount": 11622,
+          "title": "Can You Run a Kubernetes Cluster on a Mini PC?",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/can-you-run-kubernetes-cluster-on-mini-pc.jpg"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=300010",
           "author": "Brandon Lee",
@@ -2493,16 +2513,6 @@
           "wordCount": 10259,
           "title": "Docker Minecraft Server Home Lab Project",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/docker-minecraft-server.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298399",
-          "author": "Brandon Lee",
-          "description": "As you guys know, I have been a huge proponent of Docker Swarm. I think it is still a very viable option as a middle ground between standalone Docker hosts and Kubernetes when you need more availability than a single host can provide but you don’t want the complexity of Kubernetes. One extremely popular solution …\nThe post Pihole Docker Swarm Configuration with Nginx Proxy Manager appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2024/12/pihole-docker-swarm-configuration-with-nginx-proxy-manager/",
-          "publishedOn": "2024-12-17T15:52:00.000Z",
-          "wordCount": 10236,
-          "title": "Pihole Docker Swarm Configuration with Nginx Proxy Manager",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/pi-hole-docker-swarm-configuration.png"
         }
       ]
     },
@@ -2511,6 +2521,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=31026",
+          "author": "Tanvir Kour",
+          "description": "World of Warcraft and other MMORPGs have developed through several decades of evolution. Since their beginning as text-based adventures MMORPGs have evolved into massive ongoing world ecosystems which accommodate many millions of global players. MMORPG developers need colossal computing resources and server speed along with artificial intelligence systems to satisfy their user base. Remarkable technology […]",
+          "link": "https://collabnix.com/how-ai-and-cloud-computing-are-powering-the-future-of-mmorpgs-like-world-of-warcraft/",
+          "publishedOn": "2025-03-17T16:23:57.000Z",
+          "wordCount": 3315,
+          "title": "How AI and Cloud Computing Are Powering the Future of MMORPGs Like World of Warcraft",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=31023",
+          "author": "Tanvir Kour",
+          "description": "Tech solutions are designed to make our lives easier. These powerful tools can be used in many different scenarios. They are geared towards solving real-world problems, reducing complexity, and boosting efficiency. We see evidence of this across the board; take cybersecurity, for example. Everyday users and businesses utilize these solutions for myriad purposes. Consider encrypted […]",
+          "link": "https://collabnix.com/tech-solutions-that-make-sense/",
+          "publishedOn": "2025-03-17T16:13:06.000Z",
+          "wordCount": 2606,
+          "title": "Tech Solutions That Make Sense",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=31013",
           "author": "Tanvir Kour",
@@ -3590,16 +3620,6 @@
           "wordCount": 3956,
           "title": "DevOps For FinTech Algos: Boost Efficiency, Scalability, and Market Performance",
           "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/900d9d62-71d1-48d1-9b9c-73c4d234845e.jpeg"
-        },
-        {
-          "id": "https://collabnix.com/?p=29457",
-          "author": "Ajeet Raina",
-          "description": "What an amazing year to celebrate !! In 2024, Docker, Inc solidified its position as a top developer tool, recognized in the Stack Overflow Developer Survey as one of the most loved and widely used platforms. Here’s how Docker transformed workflows and empowered developers to build, innovate, and secure software more effectively: 🎯 Streamlined Developer […]",
-          "link": "https://collabnix.com/top-docker-2024-recap/",
-          "publishedOn": "2024-12-18T06:53:32.000Z",
-          "wordCount": 2259,
-          "title": "Top Docker 2024 Recap and Highlights",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/Gray-Elegant-Top-10-Italian-Food-Youtube-Thumbnail-.png"
         }
       ]
     },
@@ -3777,16 +3797,6 @@
           "wordCount": 518,
           "title": "聊聊假期那些事儿",
           "imageUrl": null
-        },
-        {
-          "id": "https://qq.mba/204.html",
-          "author": "满心",
-          "description": "前段时间整了个迷你主机，配置为R7-5700U 8核16线程，给了一根32G、16G的联想内存条，还有m2的2T + 512SATA硬盘，配置还是相当客观，比我现在办公电脑配置还高。安装宝塔，使...",
-          "link": "https://qq.mba/204.html",
-          "publishedOn": "2024-12-18T08:12:01.000Z",
-          "wordCount": 568,
-          "title": "使用FlexCdn自建CDN",
-          "imageUrl": null
         }
       ]
     },
@@ -3849,6 +3859,16 @@
       "feedUrl": "https://yeshu.cloud/rss.xml",
       "siteUrl": "https://yeshu.cloud/",
       "articles": [
+        {
+          "id": "https://yeshu.cloud/posts/newsletter-134/",
+          "author": null,
+          "description": "干中学嘛",
+          "link": "https://yeshu.cloud/posts/newsletter-134/",
+          "publishedOn": "2025-03-16T13:35:04.000Z",
+          "wordCount": 384,
+          "title": "小树学装修 - Mesh 组网",
+          "imageUrl": "https://yeshu.cloud/images/android-chrome-192x192.png"
+        },
         {
           "id": "https://yeshu.cloud/posts/newsletter-133/",
           "author": null,
@@ -4935,16 +4955,6 @@
           "wordCount": 498,
           "title": "使用Python识别验证码，效果不错",
           "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
-        },
-        {
-          "id": "https://zahui.fan/posts/sootea/",
-          "author": null,
-          "description": "<h2 id=\"返回请求-uri\"><a href=\"#返回请求-uri\" class=\"headerlink\" title=\"返回请求 uri\"></a>返回请求 uri</h2><p>在 Nginx 中，可以使用 <code>$request_uri</code> 来表示请求 uri, 配置如下；</p>\n<figure class=\"highlight",
-          "link": "https://zahui.fan/posts/sootea/",
-          "publishedOn": "2024-12-18T11:32:33.000Z",
-          "wordCount": 508,
-          "title": "nginx反向代理的context path",
-          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
         }
       ]
     },
@@ -5023,6 +5033,16 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=21867",
+          "author": "xiaoz",
+          "description": "Transmute是一款使用AI大模型驱动的智能翻译工具，可以同时对接多个大模型，比如OpenAI、DeepSeek、通义千问、豆包等。由xiaoz使用使用Python 3 + FastAPI技术开发，已在Github开源。演示地址：https://transmute.aimerge.cc/Gith",
+          "link": "https://blog.xiaoz.org/archives/21867",
+          "publishedOn": "2025-03-17T08:27:00.000Z",
+          "wordCount": 307,
+          "title": "使用Docker搭建Transmute多模型智能翻译平台",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=21854",
           "author": "xiaoz",
