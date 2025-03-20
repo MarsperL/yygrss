@@ -296,6 +296,16 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
+          "id": "https://daverupert.com/2025/03/enshittification-has-a-flavor/",
+          "author": null,
+          "description": "“Enshittification” is a termed coined by Cory Doctorow in 2023 to describe a pattern of decreasing quality observed in online services and products. Since Doctorow’s post, there’s been no shortage of think pieces on enshittification and its role in our society and to a large extent I agree with them all. I think it’s an inevitable problem that shows the splitting seams of Capitalism. If you will allow, I’d like to add a tangential thought – one slight embellishment – to this topic.\nTo me, enshittification means that a person who lacks taste was put in a position of power.\nEveryone knows ads on the internet suck. But ads also pay bills and help keep the lights on in newsrooms. When a website adds one (privacy-preserving) ad to a website, I say “Okay”. Two, I permit it. Three, I say “Easy no…",
+          "link": "https://daverupert.com/2025/03/enshittification-has-a-flavor/",
+          "publishedOn": "2025-03-19T13:28:00.000Z",
+          "wordCount": 939,
+          "title": "Enshittification as a matter of taste",
+          "imageUrl": null
+        },
+        {
           "id": "https://daverupert.com/2025/03/tag-you-re-it/",
           "author": null,
           "description": "I’m a bit behind in my RSS feeds and I didn’t realize Susan tagged me to answer a series of questions about my blog. I’ve read dozens of these and to be honest was feeling a little left out, so thanks Susan for including me! (Susan’s one of my favorite bloggers and crafters, be sure to like and subscribe.)\nWhy did you start blogging in the first place?\nI published a zine in high school with my best friend Mike. Our zine Wimpkiller was a creative outlet for all the composition notebooks we filled up over a bottomless cups of coffee at IHOP. We’d print out stories on Mike’s computer, chop ‘em up, glue ‘em together, and then scam copies after midnight with the help of the friendly late-shift worker at Kinko’s. I enjoyed that thrill of self-publishing then as much as I do now. It felt like the…",
@@ -453,16 +463,6 @@
           "publishedOn": "2024-12-23T23:03:00.000Z",
           "wordCount": 1011,
           "title": "CSS wants to be a system",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2024/12/every-token-is-a-feature/",
-          "author": null,
-          "description": "I’m in the middle of a design tokens project and I thought I’d share something I’m learning that is probably obvious to everyone else; every design token is a feature.\nA token is a magical contract between design and engineering, if we agree to use the same name to abstractly refer to the same value, it will produce a desired outcome. That bridge alone is probably worth the investment, but tokens solve even more organizational problems. The mobile app and the website can look the same by sharing a single JSON file. But wait, there’s more! If the blue a different team chose is not blue enough for you, you can make your own blue and apply it at the global scope or the individual element scope. Tokens as an organizational feature are a powerful concept but there’s tons of nuance packed behind…",
-          "link": "https://daverupert.com/2024/12/every-token-is-a-feature/",
-          "publishedOn": "2024-12-19T15:12:00.000Z",
-          "wordCount": 932,
-          "title": "Every token is a feature",
           "imageUrl": null
         }
       ]
@@ -1215,16 +1215,6 @@
           "wordCount": 2038,
           "title": "使用 AI 辅助开发一个开源 IP 信息查询工具：一",
           "imageUrl": null
-        },
-        {
-          "id": "https://soulteary.com/2024/12/20/at-the-end-of-2024-share-personal-device-to-friends.html",
-          "author": "苏洋(soulteary)",
-          "description": "最近不管是线上还是线下聊天，总会有朋友问我：“你觉得哪些电子设备买了真的不亏？” 临近 2025 的到来前，和大家分享一下陪伴我度过 2024 的电子设备们。",
-          "link": "https://soulteary.com/2024/12/20/at-the-end-of-2024-share-personal-device-to-friends.html",
-          "publishedOn": "2024-12-20T02:22:00.000Z",
-          "wordCount": 675,
-          "title": "2024 年终，个人设备盘点",
-          "imageUrl": null
         }
       ]
     },
@@ -1489,16 +1479,6 @@
           "wordCount": 335,
           "title": "Istio Ambient 模式中的数据包生命周期及流量优化",
           "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
-        },
-        {
-          "id": "https://jimmysong.io/blog/envoy-ext-proc-guide/",
-          "author": "Jimmy Song",
-          "description": "在微服务架构中，API 网关通常需要对请求和响应进行高级别的处理，如身份验证、数据转换和安全检查。Envoy 提供的 ext_proc 外部处理过滤器，是一个强大的工具，通过与 gRPC 服务交互，实现灵活的请求与响应处理。本文将深入解析该过滤器的功能、配置与性能优化策略，帮助开发人员和 DevOps 工程师高效应用该特性。\next_proc 与其他过滤器的关系\next_proc 和 Envoy 中的其他 gRPC 接口过滤器（如 ext_authz）在功能上有相似之处，但 ext_proc 提供了更强大的功能，支持完整的请求和响应处理。这使其特别适用于需要深度内容检查和修改的应用场景。\n你可以通过下面的 Envoy 外部处理过滤器思维导图快速了解 ext_proc。\nEnvoy ext_proc 思维导图\n  \n\n这张思维导图展示了 Envoy ext_proc 外部处理过滤器的核心结构和功能模块。ext_proc 通过 gRPC 双向流协议与外部服务交互，可灵活处理 HTTP 请求和响应的各个阶段，并支持同步与异步处理。\next_proc 工作原理与配置\n定义与功能\next_proc 是 Envoy 提供的 HTTP 过滤器，支持将请求和响应外包给 gRPC 服务进行处理，允许在外部服务中实现复杂的逻辑，灵活应对业务需求。例如，在安全场景中，ext_proc 可用于执行身份验证和授权检查；在数据转换场景中，可以实现数据格式转换与内容过滤。此外，还可用于记录审计日志、动态请求重写以及内容增强等功能，适用于各种企业应用环境中的深度流量管理。\n工作原理\next_proc 使用双向 gRPC 流与外部服务通信，实现请求和响应处理的实时交互。这使得 Envoy 可以将复杂任务（如身份验证、数据转换和自定义 Header 操作）卸载到外部服务，从而提高灵活性和可扩展性。\nEnvoy…",
-          "link": "https://jimmysong.io/blog/envoy-ext-proc-guide/",
-          "publishedOn": "2024-12-20T03:31:33.000Z",
-          "wordCount": 1052,
-          "title": "深入解析 Envoy 外部处理过滤器（ext_proc）",
-          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
         }
       ]
     },
@@ -1507,6 +1487,16 @@
       "feedUrl": "https://nops.icu/feed/",
       "siteUrl": "/",
       "articles": [
+        {
+          "id": "https://nops.icu/archives/198/",
+          "author": "季兴",
+          "description": "你购买了test.dev 需要跳转到 test.com，在godaddy上仅需配置转发，http(s)://test.dev 都可正常跳转。在国内云仅支持http://test.dev→http...",
+          "link": "https://nops.icu/archives/198/",
+          "publishedOn": "2025-03-19T03:50:00.000Z",
+          "wordCount": 559,
+          "title": "为啥我推荐在godaddy上购买域名",
+          "imageUrl": null
+        },
         {
           "id": "https://nops.icu/archives/197/",
           "author": "季兴",
@@ -1673,16 +1663,6 @@
           "wordCount": 1126,
           "title": "由 ICMP Redirect 消息引起的丢包问题排查",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6747",
-          "author": "laixintao",
-          "description": "来新加坡四年整了，记录一下。\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6747",
-          "publishedOn": "2024-12-19T02:11:00.000Z",
-          "wordCount": 831,
-          "title": "十六个夏天",
-          "imageUrl": null
         }
       ]
     },
@@ -1714,6 +1694,26 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=300134",
+          "author": "Brandon Lee",
+          "description": "Looking for great tech deals? Check out today’s daily tech deals, including the NETGEAR Orbi Whole Home Tri-band WiFi 6 Mesh Network System (RBK853)—featuring a router with two satellite extenders, security features, and coverage up to 7,500 square feet for up to 100 devices at AX6000 speeds (up to 6Gbps)—now 34% off. Upgrade your home …\nThe post Daily Tech Deals March 19 2025 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/03/daily-tech-deals-march-19-2025/",
+          "publishedOn": "2025-03-19T19:50:24.000Z",
+          "wordCount": 8805,
+          "title": "Daily Tech Deals March 19 2025",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/image-57.jpeg"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=300109",
+          "author": "Brandon Lee",
+          "description": "When building out your home lab, the storage layer is arguably one of the most important. Choosing the right storage solution is key to having a platform that can run virtual machines and containers effectively. Traditional hard drives (spindles) are considered super slow by today’s standards. While they have their place, SSDs and NVMe drives …\nThe post Optimize SSD and NVMe Storage for Virtualization in Your Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/03/optimize-ssd-and-nvme-storage-for-virtualization-in-your-home-lab/",
+          "publishedOn": "2025-03-19T13:08:49.000Z",
+          "wordCount": 11882,
+          "title": "Optimize SSD and NVMe Storage for Virtualization in Your Home Lab",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/Optimize-SSD-and-NVMe-2.jpg"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=300099",
           "author": "Brandon Lee",
@@ -2523,16 +2523,6 @@
           "wordCount": 10512,
           "title": "New Proxmox Datacenter Manager Released Download and Install",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/proxmox-datacenter-manager.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298447",
-          "author": "Brandon Lee",
-          "description": "Why do I say this? Well, I am like everyone and just monitoring and reading and hearing what others are talking about. There seem to be several things that many will be changing in their labs in 2025 and I am not the only one seeing these changes happening. Some of them are pretty obvious, …\nThe post Home Labs are changing in 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2024/12/home-labs-are-changing-in-2025/",
-          "publishedOn": "2024-12-19T16:18:53.000Z",
-          "wordCount": 9635,
-          "title": "Home Labs are changing in 2025",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/Home-Lab-is-changing-in-2025.png"
         }
       ]
     },
@@ -2541,6 +2531,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=31048",
+          "author": "Adesoji Alu",
+          "description": "Introduction The Model Context Protocol (MCP) is revolutionizing how LLMs interact with external data sources and tools. Think of MCP as the “USB-C for AI applications” – a standardized interface that allows AI models to plug into various data sources and tools seamlessly. In this guide, I’ll walk you through building and hosting your own […]",
+          "link": "https://collabnix.com/how-to-build-and-host-your-own-mcp-servers-in-easy-steps/",
+          "publishedOn": "2025-03-19T12:10:59.000Z",
+          "wordCount": 2563,
+          "title": "How to Build and Host Your Own MCP Servers in Easy Steps?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=31040",
+          "author": "Collabnix Team",
+          "description": "In the rapidly evolving landscape of generative AI, efficiently serving large language models (LLMs) at scale remains a significant challenge. Enter NVIDIA Dynamo, an open-source inference framework specifically designed to address the complexities of serving generative AI models in distributed environments. In this blog post, we’ll explore what makes Dynamo special and provide a practical […]",
+          "link": "https://collabnix.com/getting-started-with-nvidia-dynamo-a-powerful-framework-for-distributed-llm-inference/",
+          "publishedOn": "2025-03-19T03:04:00.000Z",
+          "wordCount": null,
+          "title": "Getting Started with NVIDIA Dynamo: A Powerful Framework for Distributed LLM Inference",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=31032",
           "author": "Tanvir Kour",
@@ -3620,36 +3630,6 @@
           "wordCount": 2879,
           "title": "Does Kubernetes Have a Future? A Technical Deep Dive and Analysis",
           "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/Screenshot-2024-12-21-at-12.45.56%E2%80%AFPM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=29551",
-          "author": "Anant Jain",
-          "description": "Web development has come a long way, but the journey is far from over. We’ve seen the rise of dynamic websites, responsive designs, and JavaScript-heavy applications that can do everything from playing video games to managing business data. But there’s always been one lingering challenge: performance. As web applications become more complex, achieving optimal performance […]",
-          "link": "https://collabnix.com/web-development-with-webassembly-a-new-era-of-performance-and-portability/",
-          "publishedOn": "2024-12-20T12:01:40.000Z",
-          "wordCount": 3630,
-          "title": "Web Development with WebAssembly: A New Era of Performance and Portability",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=29547",
-          "author": "Tanvir Kour",
-          "description": "With its breathtaking landscapes and rich cultural heritage, Indonesia is a magnet for travelers. In a world where staying connected is as important as exploring new destinations, advancements in cloud-native technologies have transformed how tourists experience seamless connectivity. Solutions like the Indonesia eSIM offer a modern, hassle-free way to stay online, allowing travelers to share […]",
-          "link": "https://collabnix.com/how-cloud-native-technologies-enhance-connectivity-for-travelers-in-indonesia/",
-          "publishedOn": "2024-12-20T06:41:03.000Z",
-          "wordCount": 2774,
-          "title": "How Cloud-Native Technologies Enhance Connectivity for Travelers in Indonesia",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/Screenshot-2024-12-20-at-12.26.24%E2%80%AFPM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=29468",
-          "author": "Tanvir Kour",
-          "description": "In the fast-paced world of FinTech, staying ahead often means leveraging technology to its fullest potential. DevOps FinTech trading algorithms combine the precision of automated trading with the efficiency of streamlined development and deployment processes. These algorithms analyze massive amounts of market data, execute trades in milliseconds, and adapt to changing market conditions—all without human […]",
-          "link": "https://collabnix.com/devops-for-fintech-algos-boost-efficiency-scalability-and-market-performance/",
-          "publishedOn": "2024-12-19T14:19:44.000Z",
-          "wordCount": 3956,
-          "title": "DevOps For FinTech Algos: Boost Efficiency, Scalability, and Market Performance",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/900d9d62-71d1-48d1-9b9c-73c4d234845e.jpeg"
         }
       ]
     },
@@ -3816,16 +3796,6 @@
           "publishedOn": "2024-12-23T03:23:00.000Z",
           "wordCount": 579,
           "title": "借助NasCab搭建私有影音库",
-          "imageUrl": null
-        },
-        {
-          "id": "https://qq.mba/205.html",
-          "author": "满心",
-          "description": "\"2025年元旦1月1日（周三）放假1天不调休\"，这句话虽然没毛病，但听着心里莫名有股火再来看看2015年期情况吧！整体上来说，几个大节日没有调休了，比如：51、国庆等，这个还是可以的，每次节后...",
-          "link": "https://qq.mba/205.html",
-          "publishedOn": "2024-12-20T08:50:00.000Z",
-          "wordCount": 518,
-          "title": "聊聊假期那些事儿",
           "imageUrl": null
         }
       ]
@@ -4721,16 +4691,6 @@
           "wordCount": 1281,
           "title": "在线开源图片处理工具",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/780/",
-          "author": null,
-          "description": "<blockquote>\n<p>SSL 证书普及率很高，但目前只能申请到 90 天使用期限免费证书。虽然可以重复申请实现无限延期，但毕竟太麻烦。杜老师从淇云那里看到一个免费一年版的证书申请网站，感兴趣的小伙伴可以去领取！</p>\n</blockquote>",
-          "link": "https://dusays.com/780/",
-          "publishedOn": "2024-12-19T16:00:00.000Z",
-          "wordCount": 1310,
-          "title": "这里有个可以白嫖三个一年 SSL 证书的网站",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
     },
@@ -4993,6 +4953,16 @@
       "feedUrl": "https://lixx.cn/rss.xml",
       "siteUrl": "http://localhost:8090/",
       "articles": [
+        {
+          "id": "/archives/1742378257993",
+          "author": null,
+          "description": "一、背景需求 你是否遇到过以下问题？ 想在外网安全访问家中 NAS 的 SSH、Web 服务或私有 GitLab？ 云服务器有公网 IP，但家庭宽带没有固定公网 IP？ 直接暴露 NAS 端口到公网存在安全隐患？ WireGuard 的解决方案： 通过轻量级 VPN 打通云服务器与家庭 NAS，所有",
+          "link": "http://localhost:8090/archives/1742378257993",
+          "publishedOn": "2025-03-19T09:58:29.000Z",
+          "wordCount": null,
+          "title": "通过 WireGuard 实现云服务器与家庭 NAS 的安全互联：完整教程",
+          "imageUrl": null
+        },
         {
           "id": "/archives/1740127065121",
           "author": null,
@@ -5748,6 +5718,16 @@
       "feedUrl": "https://chegva.com/feed",
       "siteUrl": "https://chegva.com",
       "articles": [
+        {
+          "id": "https://chegva.com/?p=6265",
+          "author": "anzhihe",
+          "description": "有了上一篇文章中分享的那些观点，我们来看看应该怎么做。下面是我觉得比较不错的一些学习的方法，或者说对我来说最有效的学习方法。我相信，只要你和我一样，做到的话，你的学习效率一定能够提升很快。\n挑选知识和信息源\n还是我在《程序员练级攻略》中说的那样，英文对于我们来说至关重要，尤其是对于计算机知识来说。如果你觉得用百度搜中文关键词就可以找到自己想要的知识，那么你一定远远落后于这个时代了。如果你用 Google 英文关键词可以找到自己想要的知识，那么你算是能跟得上这个时代。如果你能在社区里跟社区里的大牛交流得到答案，那么你算是领先于这个时代了。\n所以，我认为你的信息源要有下面几个特质。\n\n应该是第一手资料，不是被别人理解过、消化过的二手资料。尤其对于知识性的东西来说，更是这样。应该是原汁原味的，不应该是被添油加醋的。\n\n应该是有佐证、有数据、有引用的，或是有权威人士或大公司生产系统背书的资料。应该是被时间和实践检验过的，或是小心求证过的，不是拍脑袋野路子或是道听途说出来的资料。\n\n应该是加入了一些自己的经验和思考，可以引发人深思的，是所谓信息的密集很大的文章。\n\n顺便说一句，我发现 Medium 上的文章质量比较高，很多文章都 Google 到了 Medium 上。\n我在《程序员练级攻略 》后期的文章中罗列了很多文章资源，有的读者很不能理解，他们觉得我多少应该导读一下或是写上一些自己的想法，而不是只是简单地罗列出来。这里请允许我辩解一下，我之所以这样做，并不是因为偷懒，我完全可以把这些信息资料全部隐藏起来，翻译也好，搬运也好，导读也好，自己消化完后再写出来。那么，我可以写出多少个专栏来？\n我觉得，只要我有时间，极客时间上的所有专栏都不用写了，我一个人就 OK 了。我可以写得又快又好，而且超出所有的人。那我可以挣到很多钱。但我不想这样，我想把我读过的好的文章推荐给大家，就像推荐书一样…",
+          "link": "https://chegva.com/6265.html",
+          "publishedOn": "2025-03-18T03:44:57.000Z",
+          "wordCount": 9298,
+          "title": "高效学习(二)：源头、原理和知识地图",
+          "imageUrl": null
+        },
         {
           "id": "https://chegva.com/?p=6312",
           "author": "anzhihe",
