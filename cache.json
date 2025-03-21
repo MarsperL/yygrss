@@ -1205,16 +1205,6 @@
           "wordCount": 1781,
           "title": "使用 AI 辅助开发一个开源 IP 信息查询工具：二",
           "imageUrl": null
-        },
-        {
-          "id": "https://soulteary.com/2024/12/21/use-ai-to-assist-in-developing-an-open-source-ip-information-tool-part-1.html",
-          "author": "苏洋(soulteary)",
-          "description": "本文将分享如何借助当下流行的 AI 工具，一步步完成一个开源项目的开发。",
-          "link": "https://soulteary.com/2024/12/21/use-ai-to-assist-in-developing-an-open-source-ip-information-tool-part-1.html",
-          "publishedOn": "2024-12-21T10:38:00.000Z",
-          "wordCount": 2038,
-          "title": "使用 AI 辅助开发一个开源 IP 信息查询工具：一",
-          "imageUrl": null
         }
       ]
     },
@@ -1694,6 +1684,26 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=300157",
+          "author": "Brandon Lee",
+          "description": "Looking for great tech deals? Check out items on today’s daily tech deals. Today you can get a Microsoft Surface Laptop (2024) for 30% off, a Logitech G515 Lightspeed TKL Low Profile Wireless Gaming Keyboard for 21% off, Western Digital 6TB WD Red Pro NAS Internal Hard Drive HDD for 15% off, a WOLFBOX MF100 …\nThe post Daily Tech Deals March 20 2025 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/03/daily-tech-deals-march-20-2025/",
+          "publishedOn": "2025-03-20T13:09:18.000Z",
+          "wordCount": 8541,
+          "title": "Daily Tech Deals March 20 2025",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/image-61.jpeg"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=300141",
+          "author": "Brandon Lee",
+          "description": "There has never been a better time to automate your home lab with tools like Ansible, Terraform, and CI/CD pipelines. With the AI tools and help we have today and all the resources on available on the web, automation is something that can be achieved much easier than ever before. Automation with these tools helps …\nThe post Automating Your Home Lab with Ansible, Terraform, and CI/CD Pipelines appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/03/automating-your-home-lab-with-ansible-terraform-and-ci-cd-pipelines/",
+          "publishedOn": "2025-03-20T12:47:50.000Z",
+          "wordCount": 11515,
+          "title": "Automating Your Home Lab with Ansible, Terraform, and CI/CD Pipelines",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/Automating-your-home-lab.jpg"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=300134",
           "author": "Brandon Lee",
@@ -2513,16 +2523,6 @@
           "wordCount": 9380,
           "title": "Kube node metrics with Netdata Kubernetes monitoring",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/kube-node-metrics-with-netdata.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298473",
-          "author": "Brandon Lee",
-          "description": "In case you haven’t heard, Proxmox has released a new Proxmox DataCenter Manager project that is set to help admins have a centralized view of all their individual Proxmox VE server nodes and Proxmox clusters. You can also do basic operations with it at this point from a central console. Let’s look at the new …\nThe post New Proxmox Datacenter Manager Released Download and Install appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2024/12/new-proxmox-datacenter-manager-released-download-and-install/",
-          "publishedOn": "2024-12-20T16:12:32.000Z",
-          "wordCount": 10512,
-          "title": "New Proxmox Datacenter Manager Released Download and Install",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/proxmox-datacenter-manager.png"
         }
       ]
     },
@@ -2531,6 +2531,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=31061",
+          "author": "Adesoji Alu",
+          "description": "(Featured image description: A split-screen visual showing a development environment with Ollama running locally on one side, and a server rack representing production infrastructure on the other, connected by a bridge that’s partially constructed – symbolizing Ollama’s journey toward production readiness.) Introduction: The Ollama Promise As organizations seek alternatives to cloud-based AI services, Ollama has […]",
+          "link": "https://collabnix.com/is-ollama-ready-for-production/",
+          "publishedOn": "2025-03-20T15:19:59.000Z",
+          "wordCount": 3008,
+          "title": "Is Ollama ready for Production?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=31067",
+          "author": "Adesoji Alu",
+          "description": "Introduction Large Language Models (LLMs) have become increasingly accessible to developers and enthusiasts, allowing anyone to run powerful AI models locally on their own hardware. Ollama has emerged as one of the leading frameworks for deploying, running, and customizing these models without requiring extensive computational resources or cloud infrastructure. One of Ollama’s most powerful features […]",
+          "link": "https://collabnix.com/how-to-customize-llm-models-with-ollamas-modelfile/",
+          "publishedOn": "2025-03-20T15:15:13.000Z",
+          "wordCount": null,
+          "title": "How to Customize LLM Models with Ollama’s Modelfile?",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=31048",
           "author": "Adesoji Alu",
@@ -3620,16 +3640,6 @@
           "wordCount": 2968,
           "title": "What is a Multi-Agent RAG and what problem does it solve?",
           "imageUrl": "https://usercontent.one/wp/collabnix.com/wp-content/uploads/2024/12/image-20-1024x709.avif?media=1725267074"
-        },
-        {
-          "id": "https://collabnix.com/?p=29559",
-          "author": "Tanvir Kour",
-          "description": "Since its inception in 2014, Kubernetes has revolutionized the way we think about deploying and managing containerized applications. As the orchestrator of choice for many organizations, Kubernetes has become synonymous with cloud-native infrastructure. However, with the rapid evolution of technology and new paradigms emerging in the tech landscape, it’s fair to ask: does Kubernetes have […]",
-          "link": "https://collabnix.com/does-kubernetes-have-a-future-a-technical-deep-dive-and-analysis/",
-          "publishedOn": "2024-12-21T07:13:31.000Z",
-          "wordCount": 2879,
-          "title": "Does Kubernetes Have a Future? A Technical Deep Dive and Analysis",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2024/12/Screenshot-2024-12-21-at-12.45.56%E2%80%AFPM.png"
         }
       ]
     },
