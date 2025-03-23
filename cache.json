@@ -1195,16 +1195,6 @@
           "wordCount": 443,
           "title": "家用网络升级实践：低成本实现局部万兆",
           "imageUrl": null
-        },
-        {
-          "id": "https://soulteary.com/2024/12/23/use-ai-to-assist-in-developing-an-open-source-ip-information-tool-part-2.html",
-          "author": "苏洋(soulteary)",
-          "description": "本文将继续分享如何借助当下流行的 AI 工具，一步步完成一个开源项目的开发。",
-          "link": "https://soulteary.com/2024/12/23/use-ai-to-assist-in-developing-an-open-source-ip-information-tool-part-2.html",
-          "publishedOn": "2024-12-22T17:12:00.000Z",
-          "wordCount": 1781,
-          "title": "使用 AI 辅助开发一个开源 IP 信息查询工具：二",
-          "imageUrl": null
         }
       ]
     },
@@ -1390,6 +1380,16 @@
       "feedUrl": "https://jimmysong.io/blog/index.xml",
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
+        {
+          "id": "https://jimmysong.io/blog/beyond-sidecar/",
+          "author": "Jimmy Song",
+          "description": "欢迎阅读我的这篇博客——“超越 Sidecar：深入解析 Istio Ambient Mode 的流量机制与成本效益”。本文内容源自我在 KCD 北京的一次演讲。主要探讨的是 Istio 全新推出的一种数据面模式 —— Ambient Mode。它的核心理念是去除 Sidecar，减少资源开销与运维复杂度。本文将带大家了解 Ambient Mode 的出现背景、核心组件、流量路径机制以及与现有 Sidecar 模式的对比，从而帮助你快速评估并上手这项新特性。\n点击查看幻灯片。\n为什么关注 Ambient Mode？\n首先，我们来思考一个问题：为什么要关注、甚至尝试这种新模式？Sidecar 在服务网格里一直都用得好好的，为什么要“去 Sidecar”呢？\n让我们看看当前服务网格面临的一些问题和挑战。\n服务网格的挑战\nSidecar 代理带来的 资源开销 和 运维复杂度\n升级 或 重启 Envoy 时，常常需要连带重启所有 Pod\n越来越多对 高性能、低成本 的需求\n思考：有没有一种方式在保留服务网格核心能力（安全、可观测、流量控制）的同时，减少对每个 Pod 的侵入和额外资源消耗？\n服务网格的几种部署模式\n代理的位置\n  \n\n服务网格架构一直在探索代理部署位置的多种可能性。例如：\nSidecar：每个 Pod 内跑一个 Envoy。\nAmbient：将代理从 Pod 中剥离到节点级（即本篇要谈的模式）。\nCilium Mesh：利用 eBPF 在内核空间做 L4，然后结合 Envoy 提供 L7 功能。\ngRPC：直接将网格能力集成到 SDK 中。\n这些模式在功能、安全、性能和管理复杂度上都有不同的侧重。Istio Ambient Mode 则是针对 Sidecar 带来的高资源消耗和运维成本，而提出的新尝试。\nAmbient Mode 的诞生\nIstio 的新一代架构，移…",
+          "link": "https://jimmysong.io/blog/beyond-sidecar/",
+          "publishedOn": "2025-03-22T06:45:55.000Z",
+          "wordCount": 1071,
+          "title": "超越 Sidecar：深入解析 Istio Ambient Mode 的流量机制与成本效益",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
+        },
         {
           "id": "https://jimmysong.io/blog/istio-installation-deep-dive/",
           "author": "Jimmy Song",
@@ -2551,6 +2551,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=31107",
+          "author": "Tanvir Kour",
+          "description": "Path of Exile 2 (PoE 2) presents a highly modular, system-driven economy where success is dependent on efficient currency workflows, scalable strategies, and informed resource orchestration—much like DevOps pipelines in software delivery. This guide draws DevOps parallels to help you implement version-controlled, observable, and resilient currency strategies in PoE 2. 1. Currency as an Operational […]",
+          "link": "https://collabnix.com/devops-inspired-guide-optimizing-poe-2-currency-pipelines/",
+          "publishedOn": "2025-03-22T18:40:32.000Z",
+          "wordCount": 2718,
+          "title": "DevOps-Inspired Guide: Optimizing PoE 2 Currency Pipelines",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=31061",
           "author": "Adesoji Alu",
@@ -3928,16 +3938,6 @@
           "wordCount": 258,
           "title": "小树的 2024 年终总结",
           "imageUrl": "https://yeshu.cloud/images/android-chrome-192x192.png"
-        },
-        {
-          "id": "https://yeshu.cloud/posts/newsletter-128/",
-          "author": null,
-          "description": "不必执着一种万能的解决方案，不同场景找最适合的来用",
-          "link": "https://yeshu.cloud/posts/newsletter-128/",
-          "publishedOn": "2024-12-22T14:11:45.000Z",
-          "wordCount": 203,
-          "title": "因地制宜",
-          "imageUrl": "https://yeshu.cloud/images/android-chrome-192x192.png"
         }
       ]
     },
@@ -4691,16 +4691,6 @@
           "wordCount": 1276,
           "title": "在线开源图片批量压缩工具",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/781/",
-          "author": null,
-          "description": "<blockquote>\n<p>怕小伙伴们找不到趁手工具，杜老师找了款在线开源图片处理工具。文中介绍了该工具的部署及使用方法，虽然不如本地软件功能全面，但能够满足大部分需求，欢迎一试！</p>\n</blockquote>",
-          "link": "https://dusays.com/781/",
-          "publishedOn": "2024-12-22T16:00:00.000Z",
-          "wordCount": 1281,
-          "title": "在线开源图片处理工具",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
     },
@@ -5301,16 +5291,6 @@
           "publishedOn": "2025-01-06T04:49:35.000Z",
           "wordCount": 283,
           "title": "TCP.mk：提升运维和开发效率的多功能网络工具箱",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=21675",
-          "author": "xiaoz",
-          "description": "OneNav 是一款功能强大且简洁高效的浏览器书签管理器，支持集中式管理书签，完美解决跨设备、跨平台、跨浏览器的同步与访问难题，实现一处部署、随处访问。它不仅安装简单、界面简洁、操作方便，还可与浏览器扩展（插件）配合使用，为你带来更加高效便捷的书签管理体验。Github开源地址：https://gi",
-          "link": "https://blog.xiaoz.org/archives/21675",
-          "publishedOn": "2024-12-23T04:25:59.000Z",
-          "wordCount": 277,
-          "title": "OneNav 1.1.0发布：新增AI智能检索，让书签查找更轻松",
           "imageUrl": null
         }
       ]

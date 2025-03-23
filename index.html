@@ -59,6 +59,122 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-03-23 datetime="2025-03-22T18:40:32.000Z">2025-03-23</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-03-23 datetime="2025-03-22T18:40:32.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Collabnix</button>
+                  <a class="source-heading__link" href="https://collabnix.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://collabnix.com/?p&#x3D;31107"
+                        open
+                      >
+                        <summary class="article-expander__title">DevOps-Inspired Guide: Optimizing PoE 2 Currency Pipelines</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://collabnix.com/devops-inspired-guide-optimizing-poe-2-currency-pipelines/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Path of Exile 2 (PoE 2) presents a highly modular, system-driven economy where success is dependent on efficient currency workflows, scalable strategies, and informed resource orchestration—much like DevOps pipelines in software delivery. This guide draws DevOps parallels to help you implement version-controlled, observable, and resilient currency strategies in PoE 2. 1. Currency as an Operational […]</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-03-22 datetime="2025-03-22T06:45:55.000Z">2025-03-22</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-03-22 datetime="2025-03-22T06:45:55.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Jimmy Song – 博客</button>
+                  <a class="source-heading__link" href="https://jimmysong.io/blog/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://jimmysong.io/blog/beyond-sidecar/"
+                        open
+                      >
+                        <summary class="article-expander__title">超越 Sidecar：深入解析 Istio Ambient Mode 的流量机制与成本效益</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://jimmysong.io/blog/beyond-sidecar/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://jimmysong.io/images/backgrounds/favicon.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>欢迎阅读我的这篇博客——“超越 Sidecar：深入解析 Istio Ambient Mode 的流量机制与成本效益”。本文内容源自我在 KCD 北京的一次演讲。主要探讨的是 Istio 全新推出的一种数据面模式 —— Ambient Mode。它的核心理念是去除 Sidecar，减少资源开销与运维复杂度。本文将带大家了解 Ambient Mode 的出现背景、核心组件、流量路径机制以及与现有 Sidecar 模式的对比，从而帮助你快速评估并上手这项新特性。
+点击查看幻灯片。
+为什么关注 Ambient Mode？
+首先，我们来思考一个问题：为什么要关注、甚至尝试这种新模式？Sidecar 在服务网格里一直都用得好好的，为什么要“去 Sidecar”呢？
+让我们看看当前服务网格面临的一些问题和挑战。
+服务网格的挑战
+Sidecar 代理带来的 资源开销 和 运维复杂度
+升级 或 重启 Envoy 时，常常需要连带重启所有 Pod
+越来越多对 高性能、低成本 的需求
+思考：有没有一种方式在保留服务网格核心能力（安全、可观测、流量控制）的同时，减少对每个 Pod 的侵入和额外资源消耗？
+服务网格的几种部署模式
+代理的位置
+  
+
+服务网格架构一直在探索代理部署位置的多种可能性。例如：
+Sidecar：每个 Pod 内跑一个 Envoy。
+Ambient：将代理从 Pod 中剥离到节点级（即本篇要谈的模式）。
+Cilium Mesh：利用 eBPF 在内核空间做 L4，然后结合 Envoy 提供 L7 功能。
+gRPC：直接将网格能力集成到 SDK 中。
+这些模式在功能、安全、性能和管理复杂度上都有不同的侧重。Istio Ambient Mode 则是针对 Sidecar 带来的高资源消耗和运维成本，而提出的新尝试。
+Ambient Mode 的诞生
+Istio 的新一代架构，移…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;4
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-03-21 datetime="2025-03-21T15:05:50.000Z">2025-03-21</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-03-21 datetime="2025-03-21T15:05:50.000Z"></time>
           </button>
@@ -20531,39 +20647,6 @@ The post Kube node metrics with Netdata Kubernetes monitoring appeared first on 
                     class="source-heading__name"
                     data-action="toggle-accordions"
                     title="Click to toggle the source, Ctrl + click to toggle all."
-                  >小z博客</button>
-                  <a class="source-heading__link" href="https://blog.xiaoz.org">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://blog.xiaoz.org/?p&#x3D;21675"
-                        open
-                      >
-                        <summary class="article-expander__title">OneNav 1.1.0发布：新增AI智能检索，让书签查找更轻松</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://blog.xiaoz.org/archives/21675">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>OneNav 是一款功能强大且简洁高效的浏览器书签管理器，支持集中式管理书签，完美解决跨设备、跨平台、跨浏览器的同步与访问难题，实现一处部署、随处访问。它不仅安装简单、界面简洁、操作方便，还可与浏览器扩展（插件）配合使用，为你带来更加高效便捷的书签管理体验。Github开源地址：https://gi</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
                   >满心记</button>
                   <a class="source-heading__link" href="https://qq.mba/">Open</a>
                 </h3>
@@ -20590,127 +20673,12 @@ The post Kube node metrics with Netdata Kubernetes monitoring appeared first on 
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Rss Feed - 苏洋博客</button>
-                  <a class="source-heading__link" href="https://soulteary.com/feed/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://soulteary.com/2024/12/23/use-ai-to-assist-in-developing-an-open-source-ip-information-tool-part-2.html"
-                        open
-                      >
-                        <summary class="article-expander__title">使用 AI 辅助开发一个开源 IP 信息查询工具：二</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://soulteary.com/2024/12/23/use-ai-to-assist-in-developing-an-open-source-ip-information-tool-part-2.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>本文将继续分享如何借助当下流行的 AI 工具，一步步完成一个开源项目的开发。</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >杜老师说</button>
-                  <a class="source-heading__link" href="https://dusays.com/atom.xml">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://dusays.com/781/"
-                        open
-                      >
-                        <summary class="article-expander__title">在线开源图片处理工具</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://dusays.com/781/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.dusays.com/favicon.ico" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>怕小伙伴们找不到趁手工具，杜老师找了款在线开源图片处理工具。文中介绍了该工具的部署及使用方法，虽然不如本地软件功能全面，但能够满足大部分需求，欢迎一试！</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-        </ul>
-      </section>
-      <section class="daily-content js-toggle-accordions-scope">
-        <h2 class="daily-heading">
-          <button
-            class="daily-heading-toggle"
-            data-action="toggle-accordions"
-            title="Click to toggle the day, Ctrl + click to toggle all."
-          >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2024-12-22 datetime="2024-12-22T14:11:45.000Z">2024-12-22</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2024-12-22 datetime="2024-12-22T14:11:45.000Z"></time>
-          </button>
-        </h2>
-        <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >一颗小树</button>
-                  <a class="source-heading__link" href="https://yeshu.cloud/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://yeshu.cloud/posts/newsletter-128/"
-                        open
-                      >
-                        <summary class="article-expander__title">因地制宜</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://yeshu.cloud/posts/newsletter-128/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://yeshu.cloud/images/android-chrome-192x192.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>不必执着一种万能的解决方案，不同场景找最适合的来用</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/MarsperL/yygrss/actions/runs/14004001183">
-        <time id="build-timestamp" datetime="2025-03-22T01:52:09.498Z">2025-03-22T01:52:09.498Z</time>
+      <a class="footer-link" href="https://github.com/MarsperL/yygrss/actions/runs/14014455166">
+        <time id="build-timestamp" datetime="2025-03-23T02:00:40.176Z">2025-03-23T02:00:40.176Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
