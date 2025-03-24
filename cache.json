@@ -454,16 +454,6 @@
           "wordCount": 2471,
           "title": "My little games workshop",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2024/12/css-wants-to-be-a-system/",
-          "author": null,
-          "description": "I’ve realized something obvious again, this time about CSS; that CSS wants to be a system. At the core of CSS is a series of cascading rules and classes marrying and mingling in an elegant symphony of style application. Dozens and dozens of declarative instructions for painting pixels on the screen come together in under a millisecond. Sometimes it creates magic, other times it creates memes.\nAt its core, CSS wants to be a system and – besides its quirky selector power ranking algorithm – it doesn’t come with one out of the box. CSS wants you to build a system with it. It wants styles to build up, not flatten down. It even has layers as a feature! You can start small with a minimalist reset or satisfy your inner typenerd with a typographic default and build up from there. You can make your…",
-          "link": "https://daverupert.com/2024/12/css-wants-to-be-a-system/",
-          "publishedOn": "2024-12-23T23:03:00.000Z",
-          "wordCount": 1011,
-          "title": "CSS wants to be a system",
-          "imageUrl": null
         }
       ]
     },
@@ -1028,16 +1018,6 @@
           "wordCount": 2289,
           "title": "MySQL5.7主从同步配置",
           "imageUrl": "null"
-        },
-        {
-          "id": "/archives/1735030841468",
-          "author": null,
-          "description": "用途 快速运行一个mysql-slave 的容器，去同步 mysql主库的数据 可用于一些从库数据的调试 可用于临时的主从数据备份 项目地址 源码地址： https://cnb.cool/srebro/mysql-slave 使用方法 定义docker-compose 文件内的 变量       M",
-          "link": "https://srebro.cn/archives/1735030841468",
-          "publishedOn": "2024-12-24T09:00:42.000Z",
-          "wordCount": 2303,
-          "title": "《快速部署Mysql-slave 容器，实现高效主从同步》",
-          "imageUrl": "null"
         }
       ]
     },
@@ -1351,26 +1331,6 @@
           "publishedOn": "2024-12-27T09:52:32.000Z",
           "wordCount": 62,
           "title": "2024，使用房车这一年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.ops-coffee.cn/t/game-operation-management-specification.html",
-          "author": null,
-          "description": "游戏运维管理规范",
-          "link": "https://blog.ops-coffee.cn/t/game-operation-management-specification.html",
-          "publishedOn": "2024-12-23T15:50:52.000Z",
-          "wordCount": 518,
-          "title": "游戏运维管理规范",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.ops-coffee.cn/t/game-operation-management-specification",
-          "author": null,
-          "description": "游戏运维管理规范",
-          "link": "https://blog.ops-coffee.cn/t/game-operation-management-specification",
-          "publishedOn": "2024-12-23T15:50:52.000Z",
-          "wordCount": 502,
-          "title": "游戏运维管理规范",
           "imageUrl": null
         }
       ]
@@ -2533,16 +2493,6 @@
           "wordCount": 10446,
           "title": "5 Tips to Get Started with a Home Lab",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/5-tips-to-get-started-with-a-home-lab.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298469",
-          "author": "Brandon Lee",
-          "description": "If you are running a Kubernetes cluster, you will no doubt agree that monitoring is pretty high on the list of things you need to do to make sure things are healthy and happy in the cluster. I have written about Netdata a few times and have been trying it out in the home lab …\nThe post Kube node metrics with Netdata Kubernetes monitoring appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2024/12/kube-node-metrics-with-netdata-kubernetes-monitoring/",
-          "publishedOn": "2024-12-23T14:37:14.000Z",
-          "wordCount": 9380,
-          "title": "Kube node metrics with Netdata Kubernetes monitoring",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/kube-node-metrics-with-netdata.png"
         }
       ]
     },
@@ -3807,16 +3757,6 @@
           "wordCount": 464,
           "title": "奶奶去世了",
           "imageUrl": null
-        },
-        {
-          "id": "https://qq.mba/207.html",
-          "author": "满心",
-          "description": "其实我之前有一个QNAP的NAS，但没有用起来，主要原因也在自身，我那台NAS是8盘位的\"巨无霸\"，需要插网线，实在是没有位置放它，所以从买来到最后咸鱼出售，只开机过4次，我感觉我那台NAS用途...",
-          "link": "https://qq.mba/207.html",
-          "publishedOn": "2024-12-23T03:23:00.000Z",
-          "wordCount": 579,
-          "title": "借助NasCab搭建私有影音库",
-          "imageUrl": null
         }
       ]
     },
@@ -4291,6 +4231,16 @@
       "feedUrl": "https://blognas.hwb0307.com/feed",
       "siteUrl": "https://blognas.hwb0307.com/",
       "articles": [
+        {
+          "id": "https://blognas.hwb0307.com/?p=6346",
+          "author": "Bensz",
+          "description": "Bensz\n前沿快讯 第69期 通过反向传播LLM生成的反馈来优化AI系统等\n本博客由Faconhost大力赞助！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 前言 本文是前沿快讯的第69期。前沿快讯栏目主要收集一些个人感兴趣的近期发表的研究，关注领域包括肿瘤的分子生物学、临床研究、流行病学等，文献类型主要是期刊论文和综述。研究介绍在Google机翻摘要的基础上进行微调，可能不一定特别准确、专业，主要目的是方便自己和大家快速了解和回顾相关领域研究进展。如果你对某个研究的细节感兴趣，请自行寻找全文进一步了解。此外，研究根据子领域会进一步细分，不过交叉领域的研究不好分为某一类，所以这个分类主要用于初级索引，并不十分准确，不喜勿喷。最后，大家看到什么特别的研究，也可以在评论区向我推荐，我会酌情收录在后面的期刊中。如无意外，前沿快讯栏目会长期更新，周期为2周-1月 […]\nBensz",
+          "link": "https://blognas.hwb0307.com/medicine/6346",
+          "publishedOn": "2025-03-23T11:23:17.000Z",
+          "wordCount": 8041,
+          "title": "前沿快讯 第69期 通过反向传播LLM生成的反馈来优化AI系统等",
+          "imageUrl": "https://chevereto.hwb0307.com/images/2025/03/15/science.add3417-fa.jpg"
+        },
         {
           "id": "https://blognas.hwb0307.com/?p=6339",
           "author": "Bensz",
@@ -5104,6 +5054,26 @@
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
         {
+          "id": "https://blog.xiaoz.org/?p=21902",
+          "author": "xiaoz",
+          "description": "最近在新买的天钡WTR PRO 5825U主机上部署了Proxmox VE（PVE）虚拟化环境，并创建了NAS虚拟机。为进一步提升存储性能，计划将物理硬盘直通（Passthrough）至虚拟机。开启IOMMU虚拟机直通硬件需要开启IOMMU，参考：天钡WTR PRO 5825U BIOS设置：来电自",
+          "link": "https://blog.xiaoz.org/archives/21902",
+          "publishedOn": "2025-03-23T13:46:16.000Z",
+          "wordCount": 280,
+          "title": "天钡WTR PRO 5825U PVE虚拟机设置硬盘直通",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaoz.org/?p=21897",
+          "author": "xiaoz",
+          "description": "接上一篇文章《天钡WTR PRO 5825U高性能NAS开箱与硬盘拆装说明（多图）》，这篇文章将继续介绍天钡WTR PRO 5825U必要的BIOS设置选项，以便我们实现来电自启与硬件直通。快捷键DELETE进入BIOS模式F4保存配置BIOS设置来电自启来电自启是一项非常实用的功能，尤其适合NAS",
+          "link": "https://blog.xiaoz.org/archives/21897",
+          "publishedOn": "2025-03-23T04:50:15.000Z",
+          "wordCount": 302,
+          "title": "天钡WTR PRO 5825U BIOS设置：来电自启与硬件直通配置",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.xiaoz.org/?p=21871",
           "author": "xiaoz",
           "description": "xiaoz家里目前有一台服役近5年的威联通TS-453Bmini和一台U-NAS，考虑到威联通已经使用了较长时间，是时候升级一下NAS设备了。于是，xiaoz在京东购入了今天的主角——天钡WTR PRO 5825U。这篇文章将做一个简单的开箱和硬盘拆装说明，同时我也会在后续的文章中详细介绍BIOS设",
@@ -5779,6 +5749,16 @@
       "siteUrl": "https://chegva.com",
       "articles": [
         {
+          "id": "https://chegva.com/?p=6309",
+          "author": "anzhihe",
+          "description": "在k8s集群使用和运维中，每天都需要输入大量 kubectl 常用命令，其实我们可以通过定义 alias 别名和函数简化 kubectl 命令，比如使用k代替kubectl，po代替pods，svc代替services，kgpon代替kubectl get po -n [命名空间+资源名](以参数传入)，并且添加kubectl命令自动补全，将这些别名和函数添加到 Shell 配置文件（如 ~/.bashrc、~/.zshrc）中，方便日常使用。以下脚本可以登陆到linux shell环境执行，结合这些别名和函数，可以大幅提高操作 Kubernetes 的效率，以后就可以轻松愉快地使用 kubectl 命令啦。\n# 在 bash 中设置当前 shell 的自动补全\r\nsource <(kubectl completion bash)\r\necho \"source <(kubectl completion bash)\" >> ~/.bashrc\r\n\r\n# 在 zsh 中设置当前 shell 的自动补全\r\n# source <(kubectl completion zsh)  \r\n# echo '[[ $commands[kubectl] ]] && source <(kubectl completion zsh)' >> ~/.zshrc\r\n# zshrc添加将 .bashrc 改为 .zshrc\r\n\r\n# 添加简化命令,单引号包裹 EOF,禁止所有变量解析\r\ncat >> ~/.bashrc << 'EOF' \r\n\r\n# 基础别名\r\nalias k='kubectl'                     # 用 k 代替 kubectl\r\nalias kg='kubectl get'                # 快速 get 资源\r\nalias kd='kubectl…",
+          "link": "https://chegva.com/6309.html",
+          "publishedOn": "2025-03-20T16:17:33.000Z",
+          "wordCount": 10067,
+          "title": "简化kubectl常用命令",
+          "imageUrl": null
+        },
+        {
           "id": "https://chegva.com/?p=6265",
           "author": "anzhihe",
           "description": "有了上一篇文章中分享的那些观点，我们来看看应该怎么做。下面是我觉得比较不错的一些学习的方法，或者说对我来说最有效的学习方法。我相信，只要你和我一样，做到的话，你的学习效率一定能够提升很快。\n挑选知识和信息源\n还是我在《程序员练级攻略》中说的那样，英文对于我们来说至关重要，尤其是对于计算机知识来说。如果你觉得用百度搜中文关键词就可以找到自己想要的知识，那么你一定远远落后于这个时代了。如果你用 Google 英文关键词可以找到自己想要的知识，那么你算是能跟得上这个时代。如果你能在社区里跟社区里的大牛交流得到答案，那么你算是领先于这个时代了。\n所以，我认为你的信息源要有下面几个特质。\n\n应该是第一手资料，不是被别人理解过、消化过的二手资料。尤其对于知识性的东西来说，更是这样。应该是原汁原味的，不应该是被添油加醋的。\n\n应该是有佐证、有数据、有引用的，或是有权威人士或大公司生产系统背书的资料。应该是被时间和实践检验过的，或是小心求证过的，不是拍脑袋野路子或是道听途说出来的资料。\n\n应该是加入了一些自己的经验和思考，可以引发人深思的，是所谓信息的密集很大的文章。\n\n顺便说一句，我发现 Medium 上的文章质量比较高，很多文章都 Google 到了 Medium 上。\n我在《程序员练级攻略 》后期的文章中罗列了很多文章资源，有的读者很不能理解，他们觉得我多少应该导读一下或是写上一些自己的想法，而不是只是简单地罗列出来。这里请允许我辩解一下，我之所以这样做，并不是因为偷懒，我完全可以把这些信息资料全部隐藏起来，翻译也好，搬运也好，导读也好，自己消化完后再写出来。那么，我可以写出多少个专栏来？\n我觉得，只要我有时间，极客时间上的所有专栏都不用写了，我一个人就 OK 了。我可以写得又快又好，而且超出所有的人。那我可以挣到很多钱。但我不想这样，我想把我读过的好的文章推荐给大家，就像推荐书一样…",
@@ -6112,16 +6092,6 @@
           "publishedOn": "2024-12-31T08:52:00.000Z",
           "wordCount": 412,
           "title": "2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.xingzou.org/p/873",
-          "author": "北禾",
-          "description": "临近过年，本以为不会有什么大的变化，能够安心做到过年，然后明年再来看怎么办  但是事情的变化，往往很难预知，大概才过去了不到两周，就面临很大的变化，这些变化还不预知  上面一顿骚操作，把一个几百...",
-          "link": "https://www.xingzou.org/p/873",
-          "publishedOn": "2024-12-23T06:26:00.000Z",
-          "wordCount": 477,
-          "title": "猝不及防",
           "imageUrl": null
         }
       ]
