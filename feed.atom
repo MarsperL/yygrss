@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-03-25T01:56:07.392Z</updated>
+    <updated>2025-03-26T01:55:34.173Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Big Spring Home Lab Sale: Beats Pro, Mini PCs, 10 gig Network Switches, NVMe, Monitors, and more!]]></title>
+        <id>https://www.virtualizationhowto.com/?p=300218</id>
+        <link href="https://www.virtualizationhowto.com/2025/03/big-spring-home-lab-sale-beats-pro-mini-pcs-10-gig-network-switches-nvme-monitors-and-more/"/>
+        <updated>2025-03-25T12:52:43.000Z</updated>
+        <summary type="html"><![CDATA[In case you haven’t heard, Amazon is having their Big Spring Sale starting today that is seeing huge discounts across the board for many of the items that we are interested in for leveling up our home labs. These include items like mini PCs, network switches, NVMe, monitors, and other items. I have created a …
+The post Big Spring Home Lab Sale: Beats Pro, Mini PCs, 10 gig Network Switches, NVMe, Monitors, and more! appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[两组照片：南瓜生日，路过巴黎]]></title>
+        <id>https://www.skyue.com/25032520.html</id>
+        <link href="https://www.skyue.com/25032520.html"/>
+        <updated>2025-03-25T12:11:00.000Z</updated>
+        <summary type="html"><![CDATA[南瓜生日要出差两周，所以上周六提前给南瓜过生日，在远洋乐堤港的mamala餐厅，餐厅环境不错。结束后，到天街三匠一生打了一组黄金对戒，使用约20克黄金，其中13.14克是求婚时送的小金块，外加6...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitOps vs. DevOps: Will Traditional Workflows Survive the Next 5 Years?]]></title>
+        <id>https://collabnix.com/?p=31137</id>
+        <link href="https://collabnix.com/gitops-vs-devops-will-traditional-workflows-survive-the-next-5-years/"/>
+        <updated>2025-03-25T01:57:32.000Z</updated>
+        <summary type="html"><![CDATA[GitOps vs DevOps is shaping up to be one interesting debate in modern software delivery. Is GitOps the future, or just a buzzword? What is it, even?! Let’s try to sort it out.]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[被追尾后离开，父亲成逃逸主责方]]></title>
         <id>https://bluehe.cn/archives/traffic-accident</id>
@@ -14,6 +45,100 @@
         <summary type="html"><![CDATA[昨天饭后，父亲与老师（律师）沟通寻求帮助，在我们那边称呼律师为老师，我也追问关于这场交通事故的处理。父亲描述：在交警支队查询监控时，明确可以视频监控和截图看出，是由于对方的失误，骑着电动车冲撞到父亲的电动车，导致摔倒，父亲觉得无所谓，大意离开，被当成了逃逸...]]></summary>
         <author>
             <name>寻鹤</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在亚马逊云科技上部署DeepSeek-R1生成式AI模型的最佳实践]]></title>
+        <id>https://blog.xiaoz.org/?p=21920</id>
+        <link href="https://blog.xiaoz.org/archives/21920"/>
+        <updated>2025-03-25T01:11:09.000Z</updated>
+        <summary type="html"><![CDATA[为什么选择亚马逊云科技部署DeepSeek模型？在AWS re:Invent大会上，亚马逊云科技分享了大规模AI部署的三个关键发现：计算成本优化是大规模AI应用的核心考量构建高质量的生成式AI应用需要专业的MLOps支持开发者需要多样化的模型选择来满足不同场景需求中国AI公司DeepSeek推出的D]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SAML2单点登陆接入流程分析]]></title>
+        <id>https://chegva.com/?p=6307</id>
+        <link href="https://chegva.com/6307.html"/>
+        <updated>2025-03-25T00:52:47.000Z</updated>
+        <summary type="html"><![CDATA[最近有个客户系统需要接入自己内部的统一认证服务，采用的是saml2.0协议，系统自身的iam充当SP角色，客户内部统一认证充当Idp服务，最后由于客户SSO流程返回数据不是标准的SAML2.0协议，没有带回请求时RelayState带的参数数据，导致iam解析SAML2.0协议异常，整个交互流程通过wireshark抓包分析，不然又要被客户diao了～。
+
+
+SAML协议介绍
+SAML（Security Assertion Markup Language）是一种用于在不同安全域之间交换认证和授权数据的XML标准，常用于实现单点登录（SSO）。SAML单点登录的交互流程及主要角色介绍如下。
+主要角色
+
+用户（User）：
+
+
+试图访问服务的最终用户。
+
+
+服务提供者（Service Provider, SP）：
+
+
+提供具体服务的实体，如Web应用或云服务。
+
+依赖身份提供者（IdP）进行用户认证。
+
+
+身份提供者（Identity Provider, IdP）：
+
+
+负责用户认证并生成SAML断言。
+
+向服务提供者（SP）提供认证信息。
+
+
+用户代理（User Agent）：
+
+
+通常是用户的浏览器，负责在IdP和SP之间传递消息。
+
+
+
+
+SAML单点登录交互流程
+
+
+用户访问SP：
+
+
+用户通过浏览器访问SP的资源。
+
+
+SP生成SAML请求：
+
+
+SP生成SAML认证请求（AuthnRequest），并将用户重定向到IdP。
+
+
+用户被重定向到IdP：
+
+
+用户代理将SAML请求发送到IdP。
+
+
+IdP认证用户：
+
+
+IdP验证用户身份（如通过用户名和密码）。
+
+
+IdP生成SAML响应：
+
+
+IdP生成包含用户信息的SAML断言，并创建SAML响应（Response）。
+
+
+用户被重定向回SP：
+
+
+IdP将SAML响应发送回用户代理，用户代理再将其转发给SP。
+…]]></summary>
+        <author>
+            <name>anzhihe</name>
         </author>
     </entry>
     <entry>
@@ -60,6 +185,26 @@ The post 5 Mini PC Trends in 2025 and Beyond appeared first on Virtualization Ho
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[聊聊职场中的那些关系户]]></title>
+        <id>https://qq.mba/223.html</id>
+        <link href="https://qq.mba/223.html"/>
+        <updated>2025-03-24T08:11:00.000Z</updated>
+        <summary type="html"><![CDATA[人们常说，有人的地方就有江湖，这话真的不假。在公司这个小小的江湖里，有这样一群人，他们自带"老鼠屎"光环，行事风格独特。一方面干着最轻松的事儿，另一方面霸占着公司重要资源，同时产出极低，大部分时...]]></summary>
+        <author>
+            <name>满心</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天钡WTR PRO 5825U PVE虚拟机设置核显（GPU）直通]]></title>
+        <id>https://blog.xiaoz.org/?p=21908</id>
+        <link href="https://blog.xiaoz.org/archives/21908"/>
+        <updated>2025-03-24T04:14:28.000Z</updated>
+        <summary type="html"><![CDATA[在前几篇文章中，我们已经介绍了天钡WTR PRO 5825U的开箱、BIOS设置以及硬盘直通等教程。本文将继续探讨天钡WTR PRO 5825U在PVE虚拟机中的显卡直通设置，这是整个过程中最具挑战性的一环。经过xiaoz两天的反复尝试，最终成功实现了这一配置。注意：此教程不适合新手，同时可能存在一]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[搜索新旧之战：传统搜索vs AI搜索]]></title>
         <id>https://panzhixiang.cn/2025/tradition-search-vs-ai-search/</id>
         <link href="https://panzhixiang.cn/2025/tradition-search-vs-ai-search/"/>
@@ -90,6 +235,16 @@ The post 5 Mini PC Trends in 2025 and Beyond appeared first on Virtualization Ho
 Bensz]]></summary>
         <author>
             <name>Bensz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[艺术作品，与时代性]]></title>
+        <id>https://lostdeer.xyz/?p=1352</id>
+        <link href="https://lostdeer.xyz/artwork-and-periodization/"/>
+        <updated>2025-03-23T08:33:19.000Z</updated>
+        <summary type="html"><![CDATA[前两天翻阅过去自己的博客文章，重新阅读了一遍《大众评价的主观性与客观性》，感叹自己一年多以前竟然会写出这种完整 […]]]></summary>
+        <author>
+            <name>Yuntian52</name>
         </author>
     </entry>
     <entry>
@@ -7956,16 +8111,6 @@ The post Docker Dashboard: New Tool Let’s You See Containers Across Multiple H
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[使用Python识别验证码，效果不错]]></title>
-        <id>https://zahui.fan/posts/sp3b30/</id>
-        <link href="https://zahui.fan/posts/sp3b30/"/>
-        <updated>2024-12-26T07:20:59.000Z</updated>
-        <summary type="html"><![CDATA[<div class="note flat"><p>以前用过什么 pytesseract 识别效果很差，还需要电脑上安装 <code>Tesseract OCR</code> 的软件，但是使用下来，效果不好，后面也用过 <code>PaddleOCR</code>]]></summary>
-        <author>
-            <name>杂烩饭</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[手搓RSSHub路由失败]]></title>
         <id>https://lawtee.com/article/handcrafted-rsshub-route-failed/</id>
         <link href="https://lawtee.com/article/handcrafted-rsshub-route-failed/"/>
@@ -8089,82 +8234,6 @@ custom.ts 文件
  8…]]></summary>
         <author>
             <name>法律小茶馆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple M1 微架构评测]]></title>
-        <id>https://jia.je/hardware/2024/12/26/apple_m1/</id>
-        <link href="https://jia.je/hardware/2024/12/26/apple_m1/"/>
-        <updated>2024-12-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple M1 微架构评测¶
-背景¶
-虽然 Apple M1 已经是 2020 年的处理器，但它对苹果自研芯片来说是一个里程碑，考虑到 X Elite 处理器的 Oryon 微架构和 Apple M1 性能核 Firestorm 微架构的相似性，还是测试一下这个 Firestorm + Icestorm 微架构在各个方面的表现。
-
-官方信息¶
-Apple M1 的官方信息乏善可陈，关于微架构的信息几乎为零，但能从操作系统汇报的硬件信息中找到一些内容。
-现有评测¶
-网上已经有较多针对 Apple M1 微架构的评测和分析，建议阅读：
-
-Apple Microarchitecture Research by Dougall Johnson
-Apple Announces The Apple Silicon M1: Ditching x86 - What to Expect, Based on A14 - Anandtech
-Exploration of Apple CPUs
-Apple M1 Icestorm 微架构评测（上）:重铸小核荣光
-Apple M1 Icestorm 微架构（下）:重铸小核荣光
-苹果的黑魔法？Apple M1 的栈操作消除（上）
-苹果的黑魔法？（下）Apple M1 的栈操作消除
-Apple Firestorm/Icestorm CPU microarchitecture docs
-The 2020 Mac Mini Unleashed: Putting Apple Silicon M1 To The Test
-Exploration of Apple CPUs
-
-下面分各个模块分别记录官方提供的信息，以及实测的结果。读者可以对照已有的第三方评测理解。官方信息与实测结果一致的数据会加粗。
-Benchmark¶
-Apple Firestorm 的性能测…]]></summary>
-        <author>
-            <name>杰哥的{运维，编程，调板子}小笔记</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在线开源图片批量压缩工具]]></title>
-        <id>https://dusays.com/782/</id>
-        <link href="https://dusays.com/782/"/>
-        <updated>2024-12-25T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>有人建议杜老师为去不图床添加压缩功能，这样可以减少图片体积，同时可以减少网络传输时间。但不少小伙伴还是有保留原版图片的需求，所以杜老师搭建了在线图片批量压缩图片平台。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Tips to Get Started with a Home Lab]]></title>
-        <id>https://www.virtualizationhowto.com/?p=298527</id>
-        <link href="https://www.virtualizationhowto.com/2024/12/5-tips-to-get-started-with-a-home-lab/"/>
-        <updated>2024-12-25T14:26:51.000Z</updated>
-        <summary type="html"><![CDATA[If you are looking at getting into running a home lab in 2025, hopefully this blog post will help those who are interested in getting into this really rewarding hobby to be successful with this as a project. I have learned a lot of things the hard way in my home lab and I want …
-The post 5 Tips to Get Started with a Home Lab appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[奶奶去世了]]></title>
-        <id>https://qq.mba/208.html</id>
-        <link href="https://qq.mba/208.html"/>
-        <updated>2024-12-25T00:40:00.000Z</updated>
-        <summary type="html"><![CDATA[昨天请假回老家了，从中午12点开始，一直到晚上九点多才回武汉，期间几乎一直在开车接人(丈人丈母都是从天津赶回来的)，实在是有些疲惫。主要是太过突然，大家都没有准备，本来都计划这周末回去的，结果外...]]></summary>
-        <author>
-            <name>满心</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[由 ICMP Redirect 消息引起的丢包问题排查]]></title>
-        <id>https://www.kawabangga.com/?p=6751</id>
-        <link href="https://www.kawabangga.com/posts/6751"/>
-        <updated>2024-12-24T12:57:51.000Z</updated>
-        <summary type="html"><![CDATA[明天是圣诞节，今天是平安夜，公司给提前下班。但是年假还有二十多天，不用也是浪费了，今天就请假休息一下。 从 1 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
         </author>
     </entry>
 </feed>
