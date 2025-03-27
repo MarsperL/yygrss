@@ -434,16 +434,6 @@
           "wordCount": 2896,
           "title": "Vibe Check №36",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2024/12/my-little-games-workshop/",
-          "author": null,
-          "description": "I always promised myself that if I was ever unemployed that I’d make a video game. When life dealt me an unpaid work hiatus though, the last thing I wanted to do was code in my spare time1. I worried I would have to let that dream, that part of me, die on the vine. But as interviews started going well the desire to try my hand at making a game came back. And in true adult ADHD fashion I didn’t focus on one game, but rather made a half-dozen different games in different formats and three of those games have made it to the release stage. Here’s an overview of those games and a little background on how I manage to make them.\nMundango, a bingo game about life’s small things\nDuring my unpaid hiatus I found myself getting a lot of pleasure in the small things; seeing a cool bird, staring at tree…",
-          "link": "https://daverupert.com/2024/12/my-little-games-workshop/",
-          "publishedOn": "2024-12-26T21:17:00.000Z",
-          "wordCount": 2471,
-          "title": "My little games workshop",
-          "imageUrl": null
         }
       ]
     },
@@ -1017,6 +1007,26 @@
       "siteUrl": "https://soulteary.com/feed/",
       "articles": [
         {
+          "id": "https://soulteary.com/2025/03/27/xiaomi-router-be3600-pro-notes-analytics-and-docker-play.html",
+          "author": "苏洋(soulteary)",
+          "description": "这篇文章，聊聊前一阵折腾小米路由器 BE3600 Pro 的一些事情，包括初步分析整套软硬件，以及使用 Docker 快速运行 Alist 这类好用，但体积较大的容器应用。",
+          "link": "https://soulteary.com/2025/03/27/xiaomi-router-be3600-pro-notes-analytics-and-docker-play.html",
+          "publishedOn": "2025-03-26T17:02:00.000Z",
+          "wordCount": 3322,
+          "title": "小米路由器 BE3600 Pro 笔记：初步分析、折腾路由 Docker（一）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://soulteary.com/2025/03/26/gitea-git-server-with-docker-and-traefik-v3.html",
+          "author": "苏洋(soulteary)",
+          "description": "本篇文章聊聊搭建“轻量好用又不吃资源”的代码仓库，分享如何在 Docker 环境下搭配 Traefik v3 快速搭建一个私有化的 Gitea 代码仓库。",
+          "link": "https://soulteary.com/2025/03/26/gitea-git-server-with-docker-and-traefik-v3.html",
+          "publishedOn": "2025-03-26T04:08:00.000Z",
+          "wordCount": 904,
+          "title": "使用 Docker 和 Traefik v3 搭建轻量代码仓库（Gitea 1.20+）",
+          "imageUrl": null
+        },
+        {
           "id": "https://soulteary.com/2025/03/07/manage-homelab-devices-build-a-smarter-front-end-kanban-with-claude-1.html",
           "author": "苏洋(soulteary)",
           "description": "再次聊聊如何用简单的模型工具，来快速完成一个提供设备管理和监控看板的工具，让我们从原型开始吧。",
@@ -1301,26 +1311,6 @@
           "publishedOn": "2025-01-15T18:59:15.000Z",
           "wordCount": 59,
           "title": "运维自动化系统各模块介绍",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.ops-coffee.cn/r/2024-rv-travel-camping-and-vanlife.html",
-          "author": null,
-          "description": "12个月近20次旅行，足迹达4省18市，总行程2万余公里",
-          "link": "https://blog.ops-coffee.cn/r/2024-rv-travel-camping-and-vanlife.html",
-          "publishedOn": "2024-12-27T09:52:32.000Z",
-          "wordCount": 76,
-          "title": "2024，使用房车这一年",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.ops-coffee.cn/r/2024-rv-travel-camping-and-vanlife",
-          "author": null,
-          "description": "12个月近20次旅行，足迹达4省18市，总行程2万余公里",
-          "link": "https://blog.ops-coffee.cn/r/2024-rv-travel-camping-and-vanlife",
-          "publishedOn": "2024-12-27T09:52:32.000Z",
-          "wordCount": 62,
-          "title": "2024，使用房车这一年",
           "imageUrl": null
         }
       ]
@@ -1624,6 +1614,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=300233",
+          "author": "Brandon Lee",
+          "description": "In case you didn’t know, VMware released a new VMware security advisory noted in the VMSA-2025-0005 bulletin and notes the flaw: CVE-2025-22230. This allows a user with limited privileges on a guest VM to perform privileged operations which means it can be a pretty major security concern in production environments. Let’s break down the VMware …\nThe post VMware Tools Vulnerability VMSA-2025-0005: What You Need to Know appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/03/vmware-tools-vulnerability-vmsa-2025-0005-what-you-need-to-know/",
+          "publishedOn": "2025-03-26T13:13:33.000Z",
+          "wordCount": 10447,
+          "title": "VMware Tools Vulnerability VMSA-2025-0005: What You Need to Know",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/VMware-Tools-Vulnerability-VMSA-2025-0005-2.jpg"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=300218",
           "author": "Brandon Lee",
@@ -2493,16 +2493,6 @@
           "wordCount": 10742,
           "title": "Aptakube is the Best Lens Alternative Right Now",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/Aptakube.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298545",
-          "author": "Brandon Lee",
-          "description": "I have been searching for something that would give me a quick view of ALL of my containers in a simple dashboard and give me the ability to do a few things like search for specific containers quickly, see IP addresses, volume mounts, networks, uptime, etc. I didn’t really find anything that suited my purposes. …\nThe post Docker Dashboard: New Tool Let’s You See Containers Across Multiple Hosts appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2024/12/docker-dashboard-new-tool-lets-you-see-containers-across-multiple-hosts/",
-          "publishedOn": "2024-12-26T18:32:08.000Z",
-          "wordCount": 11298,
-          "title": "Docker Dashboard: New Tool Let’s You See Containers Across Multiple Hosts",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/docker-dashboard-for-container-hosts.jpg"
         }
       ]
     },
@@ -2511,6 +2501,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=31151",
+          "author": "Ajeet Raina",
+          "description": "I’ve been eyeing the NVIDIA Jetson lineup for ages, and when the Orin Nano Super was released, I knew I had to get my hands on one. After weeks of hunting—and honestly, some desperate emails to NVIDIA—I finally scored this tiny yet mighty AI computer. My first thought? “Let’s get Docker Desktop running on this […]",
+          "link": "https://collabnix.com/running-docker-desktop-on-nvidia-jetson-orin-nano-super-for-the-first-time/",
+          "publishedOn": "2025-03-26T06:48:49.000Z",
+          "wordCount": 3324,
+          "title": "Running Docker Desktop on NVIDIA Jetson Orin Nano Super for the first time",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=31137",
           "author": "Tanvir Kour",
@@ -3580,26 +3580,6 @@
           "wordCount": 3325,
           "title": "Is Kubernetes Hard to Learn?",
           "imageUrl": "https://usercontent.one/wp/collabnix.com/wp-content/uploads/2024/12/Screenshot-2024-12-28-at-9.09.27 PM.png?media=1735226445"
-        },
-        {
-          "id": "https://collabnix.com/?p=29665",
-          "author": "Tanvir Kour",
-          "description": "In the ever-evolving world of DevOps, the need for automation, scalability, and seamless application deployment has led to the rise of containerization. Among the tools driving this shift, Kubernetes has emerged as the gold standard for managing containers. But what exactly is Kubernetes, and why is it a cornerstone of modern DevOps practices? Let’s dive […]\nThe post What is Kubernetes in DevOps appeared first on Collabnix.",
-          "link": "https://collabnix.com/what-is-kubernetes-in-devops/",
-          "publishedOn": "2024-12-27T11:31:14.000Z",
-          "wordCount": null,
-          "title": "What is Kubernetes in DevOps",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=29661",
-          "author": "Tanvir Kour",
-          "description": "In the world of DevOps and cloud-native technologies, Kubernetes stands out as the go-to platform for automating deployment, scaling, and management of containerized applications. To stay on top of the latest advancements, tips, and tutorials, following the right Kubernetes feeds is essential. Here are the top 20 Kubernetes feeds in 2025 to help you stay […]\nThe post 20 Kubernetes RSS Feeds that You Must Follow appeared first on Collabnix.",
-          "link": "https://collabnix.com/20-kubernetes-rss-feeds-that-you-must-follow/",
-          "publishedOn": "2024-12-27T08:45:36.000Z",
-          "wordCount": null,
-          "title": "20 Kubernetes RSS Feeds that You Must Follow",
-          "imageUrl": null
         }
       ]
     },
@@ -6090,16 +6070,6 @@
           "publishedOn": "2025-01-10T00:00:00.000Z",
           "wordCount": 2023,
           "title": "Intel Golden Cove 微架构评测",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jia.je/hardware/2024/12/27/cpu_uarch_reverse_engineering_methodology/",
-          "author": null,
-          "description": "CPU 微架构逆向方法学¶\n背景¶\n最近做了不少微架构的评测，其中涉及到了很多的 CPU 微架构的逆向：\n\nApple M1 微架构评测\nQualcomm Oryon 微架构评测\nAMD Zen 5 微架构评测\nARM Neoverse V2 微架构评测\n\n因此总结一下 CPU 微架构逆向方法学。\n\n定义¶\n首先定义一下：什么是 CPU 微架构逆向，我认为 CPU 微架构逆向包括两部分含义：\n\n在已经知道某 CPU 微架构采用某种设计，只是不知道其设计参数时，通过逆向，得到它的设计参数\n在不确定某 CPU 微架构采用的是什么设计，给出一些可能的设计，通过逆向，排除或确认其设计，再进一步找到它的设计参数\n\n举一个例子，已经知道某 CPU 微架构有一个组相连的 L1 DCache，但不知道它的容量，几路组相连，此时通过微架构逆向的方法，可以得到它的容量，具体是几路组相连，进一步可能把它的 Index 函数也逆向出来。这是第一部分含义。\n再举一个例子，已经知道某 CPU 微架构有一个分支预测器，但不知道它使用了什么信息来做预测，可能用了分支的地址，可能用了分支要跳转的目的地址，可能用了分支的方向，这时候通过微架构逆向的方法，对不同的可能性做排除，找到真正的那一个。如果不能排除到只剩一个可能，或者全部可能都被排除掉，说明实际的微架构设计和预期不相符。\n第一部分含义，目前已经有大量的成熟的 Microbenchmark（针对微架构 Microarchitecture 设计的 Benchmark，叫做 Microbenchmark）来解决，它们针对常见的微架构设计，实现了对相应设计参数的逆向的 Microbenchmark，可以在很多平台上直接使用。第二部分含义，目前还只能逐个分析，去猜测背后的设计，再根据设计去构造对应该设计的 Microbenchmark。\n下面主要来介绍，设计和实…",
-          "link": "https://jia.je/hardware/2024/12/27/cpu_uarch_reverse_engineering_methodology/",
-          "publishedOn": "2024-12-27T00:00:00.000Z",
-          "wordCount": 440,
-          "title": "CPU 微架构逆向方法学",
           "imageUrl": null
         }
       ]
