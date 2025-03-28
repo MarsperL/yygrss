@@ -1007,6 +1007,16 @@
       "siteUrl": "https://soulteary.com/feed/",
       "articles": [
         {
+          "id": "https://soulteary.com/2025/03/27/recent-heat-dissipation-upgrade-record-of-homelab.html",
+          "author": "苏洋(soulteary)",
+          "description": "过年到现在，陆陆续续对家里的一些设备做了兼顾静音的散热升级，设备目前已经稳定运行一段时间，分享出来，希望帮助到有需要的同学。",
+          "link": "https://soulteary.com/2025/03/27/recent-heat-dissipation-upgrade-record-of-homelab.html",
+          "publishedOn": "2025-03-27T08:30:00.000Z",
+          "wordCount": 385,
+          "title": "近期家用设备（NUC、群晖、光猫、交换机、机柜）散热升级记录",
+          "imageUrl": null
+        },
+        {
           "id": "https://soulteary.com/2025/03/27/xiaomi-router-be3600-pro-notes-analytics-and-docker-play.html",
           "author": "苏洋(soulteary)",
           "description": "这篇文章，聊聊前一阵折腾小米路由器 BE3600 Pro 的一些事情，包括初步分析整套软硬件，以及使用 Docker 快速运行 Alist 这类好用，但体积较大的容器应用。",
@@ -1321,6 +1331,16 @@
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
         {
+          "id": "https://jimmysong.io/blog/mastering-github-copilot-for-open-source/",
+          "author": "Jimmy Song",
+          "description": "过去一年中，我一直享有 GitHub Copilot 的免费使用资格，但是由于种种原因，我并没有深入地使用它。最近看到了 GitHub 官方发布的一篇关于 Copilot 的博客《Mastering GitHub Copilot: When to use AI agent mode》，让我对如何更好地使用 Copilot 有了新的灵感和思考。\n在这篇文章里，我想和大家分享一下我对 Copilot 强大功能的理解，尤其是 Copilot Edits 和 Agent Mode 这两个模式之间的差异和使用场景。最后，我还想呼吁所有开源项目的贡献者：如果你符合条件，一定要去积极申请 Copilot 免费使用资格，让自己的开发效率更上一个台阶！\n为什么你的 AI 辅助写码好像“不给力”？\n大多数开发者在接触 AI 辅助编码工具（比如 GitHub Copilot）时，都会或多或少地遇到一些状况，比如：\n生成的代码和你所需的功能“差那么一点”；\n需要在多个文件间跳来跳去修改，却希望 AI 能自动帮忙“通盘考虑”。\n其实，这些小挫折往往不在于工具本身，而在于你是否找对了使用方式。GitHub Copilot 内部包含多个侧重点各不相同的功能，它们各自适合在不同的情景下使用。正确地选择合适的功能，就是解锁 Copilot 真正实力的关键。\nCopilot Edits：快速精确的“微调”\n什么时候用它？\n小范围的修复：修复一个函数的 bug。\n重构特定模块：给函数或组件做局部优化。\n做跨文件的一致性改动：例如统一日志打印格式，或者统一变量命名方式。\nCopilot Edits 的功能就像是给你配备了一个能读懂上下文的“超级编辑器”。你可以快速发出命令，让它在有限范围内对现有代码进行改动，并在提交前查看 diff，随时保持对改动的掌控。\nAgent Mode：你的“多文件大管家”\n与 Copi…",
+          "link": "https://jimmysong.io/blog/mastering-github-copilot-for-open-source/",
+          "publishedOn": "2025-03-27T06:57:27.000Z",
+          "wordCount": 541,
+          "title": "探索 GitHub Copilot：当 AI 成为你的贴身编码助手",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
+        },
+        {
           "id": "https://jimmysong.io/blog/beyond-sidecar/",
           "author": "Jimmy Song",
           "description": "欢迎阅读我的这篇博客——“超越 Sidecar：深入解析 Istio Ambient Mode 的流量机制与成本效益”。本文内容源自我在 KCD 北京的一次演讲。主要探讨的是 Istio 全新推出的一种数据面模式 —— Ambient Mode。它的核心理念是去除 Sidecar，减少资源开销与运维复杂度。本文将带大家了解 Ambient Mode 的出现背景、核心组件、流量路径机制以及与现有 Sidecar 模式的对比，从而帮助你快速评估并上手这项新特性。\n点击查看幻灯片。\n为什么关注 Ambient Mode？\n首先，我们来思考一个问题：为什么要关注、甚至尝试这种新模式？Sidecar 在服务网格里一直都用得好好的，为什么要“去 Sidecar”呢？\n让我们看看当前服务网格面临的一些问题和挑战。\n服务网格的挑战\nSidecar 代理带来的 资源开销 和 运维复杂度\n升级 或 重启 Envoy 时，常常需要连带重启所有 Pod\n越来越多对 高性能、低成本 的需求\n思考：有没有一种方式在保留服务网格核心能力（安全、可观测、流量控制）的同时，减少对每个 Pod 的侵入和额外资源消耗？\n服务网格的几种部署模式\n代理的位置\n  \n\n服务网格架构一直在探索代理部署位置的多种可能性。例如：\nSidecar：每个 Pod 内跑一个 Envoy。\nAmbient：将代理从 Pod 中剥离到节点级（即本篇要谈的模式）。\nCilium Mesh：利用 eBPF 在内核空间做 L4，然后结合 Envoy 提供 L7 功能。\ngRPC：直接将网格能力集成到 SDK 中。\n这些模式在功能、安全、性能和管理复杂度上都有不同的侧重。Istio Ambient Mode 则是针对 Sidecar 带来的高资源消耗和运维成本，而提出的新尝试。\nAmbient Mode 的诞生\nIstio 的新一代架构，移…",
@@ -1562,26 +1582,6 @@
           "publishedOn": "2024-12-29T09:08:58.000Z",
           "wordCount": 1112,
           "title": "Keepalived 脑裂问题排查",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6767",
-          "author": "laixintao",
-          "description": "昨天同事报告了一个 Linux 机器网络问题，现象是：一台服务器无法 ping 192.168.1.253，但 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6767",
-          "publishedOn": "2024-12-28T09:25:57.000Z",
-          "wordCount": 1582,
-          "title": "Linux interface Vlan 和 Bond 配置错误问题排查",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6758",
-          "author": "laixintao",
-          "description": "体检的诊所送了我们两张 Toast Box 的券，Toast Box 和 BreadTalk （面包新语）是一 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6758",
-          "publishedOn": "2024-12-27T05:51:38.000Z",
-          "wordCount": 913,
-          "title": "菠萝",
           "imageUrl": null
         }
       ]
@@ -2483,16 +2483,6 @@
           "wordCount": 12051,
           "title": "Portainer Alternative Komodo for Docker Stack Management and Deployment",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/Komodo.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298558",
-          "author": "Brandon Lee",
-          "description": "I am a big nerd when it comes to trying out different tools and new utilities for managing things. I think all of us in IT and DevOps are guilty of always looking for something better and the “next big thing” in terms of tools that make our life easier. I have been using the …\nThe post Aptakube is the Best Lens Alternative Right Now appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2024/12/aptakube-is-the-best-lens-alternative-right-now/",
-          "publishedOn": "2024-12-27T18:02:56.000Z",
-          "wordCount": 10742,
-          "title": "Aptakube is the Best Lens Alternative Right Now",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/Aptakube.jpg"
         }
       ]
     },
@@ -2501,6 +2491,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=31190",
+          "author": "Adesoji Alu",
+          "description": "First and foremost , what is Gemma ?, Gemma is a family of open, lightweight, state-of-the-art AI models developed by Google, built from the same research and technology used to create the Gemini models, designed to democratize AI and empower developers and researchers. Running generative artificial intelligence (AI) models like Gemma can be challenging without […]",
+          "link": "https://collabnix.com/how-to-run-gemma-models-using-ollama/",
+          "publishedOn": "2025-03-27T12:21:37.000Z",
+          "wordCount": 2763,
+          "title": "How to Run Gemma Models Using Ollama?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=31178",
+          "author": "Adesoji Alu",
+          "description": "As developers, we often rely on Model Context Protocol (MCP) to facilitate powerful AI-based workflows. Although MCP is primarily designed for AI assistants, being able to manually inspect and debug MCP servers from the command line is a lifesaver during development. This guide will walk you through setting up your environment, listing available tools, making […]",
+          "link": "https://collabnix.com/mastering-mcp-debugging-with-cli-tools-and-jq/",
+          "publishedOn": "2025-03-27T10:53:11.000Z",
+          "wordCount": 2810,
+          "title": "Mastering MCP Debugging with CLI Tools and jq",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=31151",
           "author": "Ajeet Raina",
@@ -3727,16 +3737,6 @@
           "wordCount": 498,
           "title": "2024年总结",
           "imageUrl": null
-        },
-        {
-          "id": "https://qq.mba/209.html",
-          "author": "满心",
-          "description": "实锤，刺激云已跑路，官网能访问，但是已经无法登录，服务器也连接不上了，客服自然也跑路了，还好前几天我已经把香港服务器上的数据全部迁移走了，不然又得完蛋。要我说，干不下去无所谓，提前通知一下啊，我...",
-          "link": "https://qq.mba/209.html",
-          "publishedOn": "2024-12-27T03:18:00.000Z",
-          "wordCount": 523,
-          "title": "刺激云跑路了",
-          "imageUrl": null
         }
       ]
     },
@@ -4265,16 +4265,6 @@
           "wordCount": 8322,
           "title": "前沿快讯 第67期 大规模多语言和多模态机器翻译系统等",
           "imageUrl": "https://chevereto.hwb0307.com/images/2025/01/17/science.adi3624-fa.jpg"
-        },
-        {
-          "id": "https://blognas.hwb0307.com/?p=6283",
-          "author": "Bensz",
-          "description": "Bensz\n前沿快讯 第66期 通过单个RNA分子的AFM图像确定其三维拓扑结构等\n本博客由Faconhost大力赞助！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 前言 本文是前沿快讯的第66期。前沿快讯栏目主要收集一些个人感兴趣的近期发表的研究，关注领域包括肿瘤的分子生物学、临床研究、流行病学等，文献类型主要是期刊论文和综述。研究介绍在Google机翻摘要的基础上进行微调，可能不一定特别准确、专业，主要目的是方便自己和大家快速了解和回顾相关领域研究进展。如果你对某个研究的细节感兴趣，请自行寻找全文进一步了解。此外，研究根据子领域会进一步细分，不过交叉领域的研究不好分为某一类，所以这个分类主要用于初级索引，并不十分准确，不喜勿喷。最后，大家看到什么特别的研究，也可以在评论区向我推荐，我会酌情收录在后面的期刊中。如无意外，前沿快讯栏目会长期更新，周期为2周-1月 […]\nBensz",
-          "link": "https://blognas.hwb0307.com/medicine/6283",
-          "publishedOn": "2024-12-28T13:09:27.000Z",
-          "wordCount": 6840,
-          "title": "前沿快讯 第66期 通过单个RNA分子的AFM图像确定其三维拓扑结构等",
-          "imageUrl": "https://chevereto.hwb0307.com/images/2024/12/24/fx1_lrg-20241224165515176.jpg"
         }
       ]
     },
@@ -4283,6 +4273,16 @@
       "feedUrl": "https://4311346.com/index.xml",
       "siteUrl": "https://4311346.com/",
       "articles": [
+        {
+          "id": "https://4311346.com/post/2025/0327-secret.html",
+          "author": null,
+          "description": "看似不可能完成业绩记录最终在2025年02月被团队打破，且2025年这个02月外加过年等假期耽误，实际02月工作日还不足20天。免不了加班，而自己997的状态也持续至今… 有点悲哀，但能有这样的结果，也算是有那么一点成就感。\n势头很猛，03月初也开了一个好头，当时认为还得继续努力，尝试更大的突破。 当然，截止这篇文章发布时，03月自己的目标提前一周达成。\n过程很辛苦，也很累，但一定是在成长的。\n一切成功都有迹可循\n强大的愿力\n02月的发力始于年后的一次会议，很清楚的记得那天是02月06日晚上会议全程90分钟，所有的问题点，都指向了人力资源部… 次日就开始做了规划，为自己设定了一个目标。\n而这个目标最终提前一天达成，也包括次月再一次达成自己心中定下的目标。\n高中时期，有人给过我一本的书《秘密》，讲的就是 吸引力法则，随后的20年时间里，这本书对我的影响非常的大。其原因是这20年时间里，基本上所有的愿望最终都能被实现。\n在自己40岁那年武汉找工作面试时，三面时的大BOSS给我的评价是 “能力大于野心” ，说我缺少一些更大更远的目标。其实是可以实现的，是我自己不敢去想。不管是客气话还是啥，科学以外就总有这么多玄学。\n世界是个巨大的草台班子\n罗翔说：世界就是一个巨大的草台班子，大部分都水到离谱，所以你真的没必要总去担心自己能力不够，或者说很多很多工作胜任不了之类的，再厉害的人也是常常在边干边学，在光鲜亮丽的行业背后也是漏洞百出的，大家都是在虚张声势，只不过非常默契地互不揭穿罢了。你的身边那些带着光环的人，其实本质上跟你差不多。你根本不用担心，大胆往前冲就对了！\n别想太多，干就完了，很多事情，当你行动起来，其实就已经成功一半了… 当然如果对自己狠一点，可以完全不给自己留后路，成功的概率要大很多很多。\n\n这是一个网上的图，注意力在哪里，结果就在哪里。一定要有高目标，那么对于高目标的方式和方法可能就不一样了，结果也就不一样了。\n广泛的业力\n很多时候吃亏是福，走过所有的弯路，只为成全更好的自己，满心疲累时，不要沮丧，阴霾总是短暂的，做自己该做的，坚持下去，总会遇见光明。\n超群的能力\n一万小时定律往往只是开始，当你将工作变成爱好，将结果变为责任的时候，往往就是这个领域的专家了。不光将工作做完，还得花心思将工作做好，那么一万小时的刻意练习，可能真的还不够。\n强大的愿力 大于 广泛的业力 大于 超群的能力\n加油吧~\n\n《百年孤独》中有这样一句最经典的话: “人的精神寄托可以是音乐，可以是书籍，可以是工作，可以是山川湖海，唯独不可以是人”",
+          "link": "https://4311346.com/post/2025/0327-secret.html",
+          "publishedOn": "2025-03-27T11:29:31.000Z",
+          "wordCount": 293,
+          "title": "强大的愿力，终会带你实现目标，走向成功",
+          "imageUrl": null
+        },
         {
           "id": "https://4311346.com/post/2025/0308-ls2of608.html",
           "author": null,
