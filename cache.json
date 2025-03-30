@@ -993,16 +993,6 @@
           "wordCount": 2174,
           "title": "HTTPS下使用WebSocket的一些实践",
           "imageUrl": "null"
-        },
-        {
-          "id": "/archives/1735551963045",
-          "author": "运维小弟",
-          "description": "环境： 使用2台虚拟机，如图-1所示。其中192.168.4.51是主服务器,另一台192.168.4.52作为从服务器，通过调取主服务器上的binlog日志，在本地重做对应的库、表，实现与主服务器的数据同步。 主服务器、从服务器都已安装好mysql5.7.44 步骤一：配置主服务器192.168.",
-          "link": "https://srebro.cn/archives/1735551963045",
-          "publishedOn": "2024-12-30T09:50:53.000Z",
-          "wordCount": 2289,
-          "title": "MySQL5.7主从同步配置",
-          "imageUrl": "null"
         }
       ]
     },
@@ -1179,16 +1169,6 @@
           "publishedOn": "2024-12-31T13:41:00.000Z",
           "wordCount": 579,
           "title": "2024 岁末总结",
-          "imageUrl": null
-        },
-        {
-          "id": "https://soulteary.com/2024/12/30/home-network-upgrade-practice-achieving-local-10g-at-low-cost.html",
-          "author": "苏洋(soulteary)",
-          "description": "本篇文章，聊聊对家里的设备做局部万兆改造，希望能够帮助到有需求的同学。",
-          "link": "https://soulteary.com/2024/12/30/home-network-upgrade-practice-achieving-local-10g-at-low-cost.html",
-          "publishedOn": "2024-12-30T03:42:00.000Z",
-          "wordCount": 443,
-          "title": "家用网络升级实践：低成本实现局部万兆",
           "imageUrl": null
         }
       ]
@@ -1567,26 +1547,6 @@
           "publishedOn": "2025-01-06T01:39:28.000Z",
           "wordCount": 1093,
           "title": "Little Endian vs Big Endian",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6793",
-          "author": "laixintao",
-          "description": "最近上线了一组规格比较高的 CPU 的机器。36 cores x 2 threads x 2 Sockets， […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6793",
-          "publishedOn": "2024-12-29T12:56:16.000Z",
-          "wordCount": 1144,
-          "title": "CPU 越多，延迟越高的问题排查",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6781",
-          "author": "laixintao",
-          "description": "用户报告问题，说在虚拟机里面启动的 Keepalived 有脑裂问题，一启动就开始脑裂了。 Keepalive […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6781",
-          "publishedOn": "2024-12-29T09:08:58.000Z",
-          "wordCount": 1112,
-          "title": "Keepalived 脑裂问题排查",
           "imageUrl": null
         }
       ]
@@ -2488,16 +2448,6 @@
           "wordCount": 9631,
           "title": "Install Ghostty in Windows using WSL",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/Install-Ghostty-in-Windows.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298581",
-          "author": "Brandon Lee",
-          "description": "I really like free and open source solutions that allow doing amazing things in the home lab and even in production environments. Recently, I stumbled on a project called Komodo. It allows having a full build and deployment solution in your Docker environment. I am a huge fan of Portainer and have been for quite …\nThe post Portainer Alternative Komodo for Docker Stack Management and Deployment appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2024/12/portainer-alternative-komodo-for-docker-stack-management-and-deployment/",
-          "publishedOn": "2024-12-30T13:52:58.000Z",
-          "wordCount": 12051,
-          "title": "Portainer Alternative Komodo for Docker Stack Management and Deployment",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/Komodo.jpg"
         }
       ]
     },
@@ -2506,6 +2456,46 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=31296",
+          "author": "Ajeet Raina",
+          "description": "As AI assistants like Claude become increasingly sophisticated, the ability to integrate them with our existing platforms and tools becomes more valuable. One exciting development in this space is the Model Context Protocol (MCP), which enables AI assistants to interact with various systems through standardized interfaces. Today, I’ll walk you through setting up and using […]",
+          "link": "https://collabnix.com/wordpress-claude-desktop-and-model-context-protocol-mcp-a-comprehensive-guide/",
+          "publishedOn": "2025-03-29T12:36:27.000Z",
+          "wordCount": 3117,
+          "title": "WordPress and Model Context Protocol(MCP) – Working Together",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=31289",
+          "author": "Collabnix Team",
+          "description": "As AI and large language models become increasingly popular, many developers are looking to integrate these powerful tools into their Python applications. Ollama, a framework for running large language models locally, has gained traction for its simplicity and flexibility. However, when it comes to containerizing applications that use Ollama, developers often encounter challenges. In this […]",
+          "link": "https://collabnix.com/running-ollama-with-docker-for-python-applications/",
+          "publishedOn": "2025-03-29T06:24:10.000Z",
+          "wordCount": 3192,
+          "title": "Running Ollama with Docker for Python Applications",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2025/03/Screenshot-2025-03-29-at-11.55.35%E2%80%AFAM.png?fit=2040%2C1124&ssl=1"
+        },
+        {
+          "id": "https://collabnix.com/?p=31283",
+          "author": "Collabnix Team",
+          "description": "Running large language models locally has become much more accessible thanks to projects like Ollama. In this guide, I’ll walk you through how to set up Ollama and run your favorite models using Docker Compose, making deployment and management much simpler. Why Docker Compose? While you can run Ollama with a single Docker command, Docker […]",
+          "link": "https://collabnix.com/setting-up-ollama-models-with-docker-compose-a-step-by-step-guide/",
+          "publishedOn": "2025-03-29T06:18:11.000Z",
+          "wordCount": 3052,
+          "title": "Setting Up Ollama Models with Docker Compose: A Step-by-Step Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=31280",
+          "author": "Collabnix Team",
+          "description": "If you’ve been working with Ollama for running large language models, you might have wondered about parallelism and how to get the most performance out of your setup. I recently went down this rabbit hole myself while building a translation service, and I thought I’d share what I learned. So, Does Ollama Use Parallelism Internally? […]",
+          "link": "https://collabnix.com/does-ollama-use-parallelism-internally/",
+          "publishedOn": "2025-03-29T06:10:58.000Z",
+          "wordCount": 2982,
+          "title": "Does Ollama Use Parallelism Internally?",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=31276",
           "author": "Tanvir Kour",
@@ -4010,16 +4000,6 @@
           "wordCount": 484,
           "title": "期待往后每一次跨年",
           "imageUrl": ""
-        },
-        {
-          "id": "https://www.skyue.com/24122921.html",
-          "author": "拾月",
-          "description": "博客又是一个月未更新，今天锄草，因为黑五大促，11月23日至12月6日在伦敦出差，就写写伦敦见闻。大英博物馆11月30日周六，全天都泡在大英博物馆。上午自己逛，中午在博物馆内吃简餐，下午约了中文...",
-          "link": "https://www.skyue.com/24122921.html",
-          "publishedOn": "2024-12-29T13:57:00.000Z",
-          "wordCount": 454,
-          "title": "英国伦敦出差",
-          "imageUrl": ""
         }
       ]
     },
@@ -5017,6 +4997,16 @@
       "siteUrl": "https://www.qikqiak.com/",
       "articles": [
         {
+          "id": "https://www.qikqiak.com/post/gpt-4o-designer-is-dangerous/",
+          "author": null,
+          "description": "It’s over.\nGPT-4o 仅凭文本和图像即可生成疯狂的 UI、广告和图形。\n\n下面是我们用于网页设计方向的 18 个疯狂示例（并附上了详细提示词）。",
+          "link": "https://www.qikqiak.com/post/gpt-4o-designer-is-dangerous/",
+          "publishedOn": "2025-03-28T00:00:00.000Z",
+          "wordCount": 1313,
+          "title": "我们收集了18个顶级设计案例，GPT-4o 已经让设计师非常危险了",
+          "imageUrl": "https://picdn.youdianzhishi.com/images/blog-favicon.png"
+        },
+        {
           "id": "https://www.qikqiak.com/post/cursor-rules-guide/",
           "author": null,
           "description": "当我们在使用 Cursor 来编写代码的时候，Cursor 规则可以说是最重要的，这个规则直接影响我们编写代码的质量。Cursor 规则是用户提供的一组指导说明，用来帮助 AI  更好地理解和处理代码库，这些规则可以包含特定的代码处理要求、项目规范或者其他重要信息，所以说其非常非常重要。",
@@ -5296,16 +5286,6 @@
           "wordCount": null,
           "title": "移植 HUSTOJ judge_clinet 到 LoongArch64",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.txisfine.cn/archives/48b379ac.html",
-          "author": null,
-          "description": "<p>2024 又到尾声，到了一年一度复盘是时候了，一年又一年来去匆匆，是时候放慢脚步，回过头来反思一下这一年了。我看了鑫哥的公众号（欢迎微信搜索“煤域鑫声”关注）发现鑫哥提了八个问题来做自己一年的年终复盘。我也尝试回答一下，可能深度不及鑫哥，也算是对自己一年的所作所为简单做个总",
-          "link": "https://www.txisfine.cn/archives/48b379ac.html",
-          "publishedOn": "2024-12-29T14:03:29.000Z",
-          "wordCount": 544,
-          "title": "2024 年终八问 —— 我的年度复盘",
-          "imageUrl": "https://static.txblog.110289.xyz/upload/20241230001154.png"
         }
       ]
     },
@@ -5484,16 +5464,6 @@
           "publishedOn": "2025-01-27T01:43:51.000Z",
           "wordCount": 399,
           "title": "informer relist - feature or bug?",
-          "imageUrl": "https://www.likakuli.com/logo.png"
-        },
-        {
-          "id": "https://www.likakuli.com/posts/informer-memory-opt2/",
-          "author": "作者",
-          "description": "概述 Informer 几乎在所有 k8s 组件中都会用到，即使是在 kube-apiserver 中。这里主要介绍 Informer 在 v1.27 ~ 1.32.0 之间做的一些内存使用相关的优化，可以降低使用 Informer 组件的内存使用量，减少 OOM",
-          "link": "https://www.likakuli.com/posts/informer-memory-opt2/",
-          "publishedOn": "2024-12-30T09:49:15.000Z",
-          "wordCount": 396,
-          "title": "Informer 内存使用优化 - 2",
           "imageUrl": "https://www.likakuli.com/logo.png"
         }
       ]
@@ -5738,6 +5708,16 @@
       "feedUrl": "https://chegva.com/feed",
       "siteUrl": "https://chegva.com",
       "articles": [
+        {
+          "id": "https://chegva.com/?p=6266",
+          "author": "anzhihe",
+          "description": "系统地学习\n在学习某个技术的时候，我除了会用到上篇文章中提到的知识图，还会问自己很多个为什么。于是，我形成了一个更高层的知识脑图。下面我把这这个方法分享出来。当然学习一门技术时，Go 语言也好，Docker 也好，我都有一个学习模板。只有把这个学习模板中的内容都填实了，我才罢休。这个模板如下。\n\n这个技术出现的背景、初衷和要达到什么样的目标或是要解决什么样的问题。这个问题非常关键，也就是说，你在学习一个技术的时候，需要知道这个技术的成因和目标，也就是这个技术的灵魂。如果不知道这些的话，那么你会看不懂这个技术的一些设计理念。\n\n这个技术的优势和劣势分别是什么，或者说，这个技术的 trade-off 是什么。任何技术都有其好坏，在解决一个问题的时候，也会带来新的问题。另外，一般来说，任何设计都有 trade-off（要什么和不要什么），所以，你要清楚这个技术的优势和劣势，以及带来的挑战。\n\n这个技术适用的场景。任何技术都有其适用的场景，离开了这个场景，这个技术可能会有很多槽点，所以学习技术不但要知道这个技术是什么，还要知道其适用的场景。没有任何一个技术是普适的。注意，所谓场景一般分别两个，一个是业务场景，一个是技术场景。\n\n技术的组成部分和关键点。这是技术的核心思想和核心组件了，也是这个技术的灵魂所在了。学习技术的核心部分是快速掌握的关键。\n\n技术的底层原理和关键实现。任何一个技术都有其底层的关键基础技术，这些关键技术很有可能也是其它技术的关键基础技术。所以，学习这些关键的基础底层技术，可以让你未来很快地掌握其它技术。可以参看我在 CoolShell 上写的 Docker 底层技术那一系列文章。\n\n已有的实现和它之间的对比。一般来说，任何一个技术都会有不同的实现，不同的实现都会有不同的侧重。学习不同的实现，可以让你得到不同的想法和思路，对于开阔思维，深入细节是非常重要的。\n\n基…",
+          "link": "https://chegva.com/6266.html",
+          "publishedOn": "2025-03-28T03:24:54.000Z",
+          "wordCount": 9424,
+          "title": "高效学习(三)：深度，归纳和坚持实践",
+          "imageUrl": null
+        },
         {
           "id": "https://chegva.com/?p=6307",
           "author": "anzhihe",
@@ -6130,16 +6110,6 @@
           "wordCount": 2671,
           "title": "2024年终总结",
           "imageUrl": "https://lostdeer.xyz/wp-content/uploads/2024/05/deer_horns_moon_164191_1600x900.jpg"
-        },
-        {
-          "id": "https://lostdeer.xyz/?p=1243",
-          "author": "Yuntian52",
-          "description": "2023读书总结传送门：2023读书总结 与去年同样地，这是我2024年的读书记录总结。 由于今年欲望订单被细 […]",
-          "link": "https://lostdeer.xyz/summary2024-reading/",
-          "publishedOn": "2024-12-28T14:19:26.000Z",
-          "wordCount": 2480,
-          "title": "2024读书总结",
-          "imageUrl": "https://lostdeer.xyz/wp-content/uploads/2024/12/leaves-1076307_1920.jpg"
         }
       ]
     }
