@@ -510,6 +510,26 @@
       "siteUrl": "https://srebro.cn/",
       "articles": [
         {
+          "id": "/archives/1743307965698",
+          "author": "运维小弟",
+          "description": "《OpenEuler运维实战：系统资源监控与性能优化指南（CPU·内存·IO篇）》 本文转于： openeuler官网| 运维指南| 系统资源与性能 系统资源与性能 CPU 内存 I/O CPU <",
+          "link": "https://srebro.cn/archives/1743307965698",
+          "publishedOn": "2025-03-30T04:13:04.000Z",
+          "wordCount": null,
+          "title": "《OpenEuler运维实战：系统资源监控与性能优化指南（CPU·内存·IO篇）》",
+          "imageUrl": null
+        },
+        {
+          "id": "/archives/1743304073920",
+          "author": "运维小弟",
+          "description": "有时候我们在使用windows系统写markdown文件的时候，是不是大家都是新建一个txt，然后再去修改.md 后缀，属实每次这样都太麻烦了，发现一个小技巧，自己鼠标右键新建markdown文件。 第一步 桌面新建一个txt文件，并粘贴下列代码 需要将icon后面的路径改成自己typora安装的位",
+          "link": "https://srebro.cn/archives/1743304073920",
+          "publishedOn": "2025-03-30T03:08:28.000Z",
+          "wordCount": null,
+          "title": "Windows 右键秒建 Markdown 文件",
+          "imageUrl": null
+        },
+        {
           "id": "/archives/1742982645312",
           "author": "运维小弟",
           "description": "周六早上接到 Leader 电话，某某项目需要现场支撑，客户那边的系统存在问题，无法使用，需要尽快响应处理。 🐂：好好好 ，出差呗！ 自驾出差（智驾）🤪，全程175KM，两天来回 电耗： 出发前201KM，平均百公里18个 油耗： 无 ，全程用电 干饭： 园区食堂",
@@ -692,86 +712,6 @@
           "publishedOn": "2025-01-03T03:29:07.000Z",
           "wordCount": 2188,
           "title": "OpenEuler 22.03 LTS-SP4 二进制部署docker容器",
-          "imageUrl": "null"
-        },
-        {
-          "id": "/archives/1735643680271",
-          "author": "运维小弟",
-          "description": "一、NanoPi K2 介绍 NanoPi K2采用了Amlogic公司64位四核A53主控S905, 内置五核Mali450 GPU, 最高运行主频可达2GHz，支持众多视频格式，具备超强的视频解码能力。 NanoPi K2配备2GB DDR3内存，集成WiFi蓝牙，带有千兆以太网，4个USB，H",
-          "link": "https://srebro.cn/archives/1735643680271",
-          "publishedOn": "2024-12-31T11:14:52.000Z",
-          "wordCount": 2175,
-          "title": "NanoPi刷armbian做小型服务器",
-          "imageUrl": "null"
-        },
-        {
-          "id": "/archives/1735643555819",
-          "author": "运维小弟",
-          "description": "一、安装supervisor 备注：supervisor 只能管理前台进程的服务，比如 npm run 这些 ，一些后台运行的服务无法管理【后台运行的服务可以用systemd 进行管理】 1、安装epel源 yum install epel-release yum install -y superv",
-          "link": "https://srebro.cn/archives/1735643555819",
-          "publishedOn": "2024-12-31T11:12:54.000Z",
-          "wordCount": 2677,
-          "title": "supervisor安装&CeSi集中化管理Supervisor",
-          "imageUrl": "null"
-        },
-        {
-          "id": "/archives/1735643159042",
-          "author": "运维小弟",
-          "description": "背景： 之前写笔记基本使用了私有的wiz为知笔记，有些笔记可能需要大纲一样展示出来，碰巧那天看到一个博主的Ansible博客，感觉还挺不错，就试了下，很简约，可以渲染 Markdown 成静态HTML，很符合我的需求 环境：python3 第一步：安装 MkDocs 官网地址：https://www",
-          "link": "https://srebro.cn/archives/1735643159042",
-          "publishedOn": "2024-12-31T11:06:26.000Z",
-          "wordCount": 2535,
-          "title": "MkDocs Markdown 项目文档工具部署&优化主题",
-          "imageUrl": "null"
-        },
-        {
-          "id": "/archives/1735642778325",
-          "author": "运维小弟",
-          "description": "关于在Jenkins 的job 中隐藏shared library 共享库相关的Git信息 需求： jenkins 中因为使用了shared library 共享库，当每次去修改共享库中的配置的时候，job 在发布时，总会带出 changes 变更信息，怎么能够不输出共享库的git 变更信息，只打印",
-          "link": "https://srebro.cn/archives/1735642778325",
-          "publishedOn": "2024-12-31T10:59:46.000Z",
-          "wordCount": 2061,
-          "title": "关于在Jenkins 的job 中隐藏shared library 共享库相关的Git信息",
-          "imageUrl": "null"
-        },
-        {
-          "id": "/archives/1735642702076",
-          "author": "运维小弟",
-          "description": "一、portainer 介绍 官网地址： https://www.portainer.io/ 二、docker-compose 部署 见另一篇部署手册 三、portainer-ce 开源版 docker-compose.yml文件 3.1 服务端和客户端在同一台机器 注意需要创建docker 自定义",
-          "link": "https://srebro.cn/archives/1735642702076",
-          "publishedOn": "2024-12-31T10:58:39.000Z",
-          "wordCount": 2146,
-          "title": "docker-compose 部署portainer 容器管理工具",
-          "imageUrl": "null"
-        },
-        {
-          "id": "/archives/1735642375977",
-          "author": "运维小弟",
-          "description": "Openeuler22.03 LTS 源码部署 Postgresql12.9+PostGIS3.1 一、环境信息 官方PostGIS 支持的 https://trac.osgeo.org/postgis/wiki/UsersWikiPostgreSQLPostGIS 本次部署环境信息 名称 版本 备",
-          "link": "https://srebro.cn/archives/1735642375977",
-          "publishedOn": "2024-12-31T10:53:17.000Z",
-          "wordCount": 2731,
-          "title": "Openeuler22.03 部署 Postgresql10.5+PostGIS3.1",
-          "imageUrl": "null"
-        },
-        {
-          "id": "/archives/1735642227909",
-          "author": "运维小弟",
-          "description": "title: Typora+Picgo+又拍云实现图片快速上传 id: 1f9e1b4d-1da0-4a58-9aee-f88b679e3adf date: 2024-03-07 21:53:22 auther: admin cover: excerpt: 背景： 苦逼于手动复制图片到图床上，在复",
-          "link": "https://srebro.cn/archives/1735642227909",
-          "publishedOn": "2024-12-31T10:50:44.000Z",
-          "wordCount": 2067,
-          "title": "Typora+Picgo+又拍云实现图片快速上传",
-          "imageUrl": "null"
-        },
-        {
-          "id": "/archives/1735641624006",
-          "author": "运维小弟",
-          "description": "问题描述： HTTPS 下发起WS连接，连接失败，Chrom 浏览器报错。 socket.js:19 Mixed Content: The page at 'https://app.XXX.com' was loaded over HTTPS, but attempted to connect t",
-          "link": "https://srebro.cn/archives/1735641624006",
-          "publishedOn": "2024-12-31T10:41:18.000Z",
-          "wordCount": 2174,
-          "title": "HTTPS下使用WebSocket的一些实践",
           "imageUrl": "null"
         }
       ]
@@ -1359,6 +1299,26 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=300285",
+          "author": "Brandon Lee",
+          "description": "Looking for great tech deals? Check out items on today’s daily tech deals. Today you can get a SAMSUNG 990 PRO SSD 4TB PCIe for 40% off, GMKtec Mini PC Intel Core i7-1195G7 for 36% off, RGB Backlit Rechargeable Wireless Keyboard & Mouse Combo for 35% off, Beelink EQ14 Mini PC, Intel Twin Lake N150 …\nThe post Daily Tech Deals March 31 2025 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/03/daily-tech-deals-march-31-2025/",
+          "publishedOn": "2025-03-31T14:14:58.000Z",
+          "wordCount": 8539,
+          "title": "Daily Tech Deals March 31 2025",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/image-85.jpeg"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=300270",
+          "author": "Brandon Lee",
+          "description": "We have all heard the very common expression, “it is always DNS”. We joke about this often, but very often DNS is at the heart of issues with connectivity. Incorrect DNS records, reverse lookups, or just overall DNS connectivity issues play a role in major outages. This can also affect the home lab environment. You …\nThe post DNS Failover for the Home Lab and Why You Need It appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/03/dns-failover-for-the-home-lab-and-why-you-need-it/",
+          "publishedOn": "2025-03-31T13:28:46.000Z",
+          "wordCount": null,
+          "title": "DNS Failover for the Home Lab and Why You Need It",
+          "imageUrl": null
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=300248",
           "author": "Brandon Lee",
@@ -2218,16 +2178,6 @@
           "wordCount": 9387,
           "title": "Docker Stop All Containers in 3 Ways",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/docker-stop-all-containers.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298609",
-          "author": "Brandon Lee",
-          "description": "In case you haven’t heard, there is a new terminal emulator that hit the scene, called Ghostty. It is the creation of Mitchell Hashimoto, the co-founder of Hashicorp. While this terminal emulator by Mitchell’s own words is not supposed to be revolutionary in itself, it is a breath of fresh air as a really great …\nThe post Install Ghostty in Windows using WSL appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2024/12/install-ghostty-in-windows-using-wsl/",
-          "publishedOn": "2024-12-31T14:10:48.000Z",
-          "wordCount": 9631,
-          "title": "Install Ghostty in Windows using WSL",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2024/12/Install-Ghostty-in-Windows.jpg"
         }
       ]
     },
@@ -2236,6 +2186,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=31315",
+          "author": "Tanvir Kour",
+          "description": "The Perfect Match: CRM and Kanban for Zendesk Users Running a growing business is like juggling flaming torches while riding a unicycle—you need balance, focus, and the right tools to keep everything from crashing. If you’re using Zendesk Support, you already understand the importance of efficient customer service. But if you’re not using a CRM […]",
+          "link": "https://collabnix.com/why-every-growing-business-needs-a-crm-and-kanban-if-it-uses-zendesk-support/",
+          "publishedOn": "2025-03-31T15:12:14.000Z",
+          "wordCount": 3242,
+          "title": "Why Every Growing Business Needs a CRM and Kanban if It Uses Zendesk Support",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=31303",
           "author": "Collabnix Team",
@@ -3305,16 +3265,6 @@
           "wordCount": 2625,
           "title": "Postgres and Model Context Protocol",
           "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2025/01/Screenshot-2025-01-02-at-12.34.32%E2%80%AFPM.png?fit=2012%2C1126&ssl=1"
-        },
-        {
-          "id": "https://collabnix.com/?p=29827",
-          "author": "Tanvir Kour",
-          "description": "Transform your videos with keyframe VFX effects in Filmora. Learn the secrets to creating captivating visuals and elevate your video editing.\nThe post How to Add VFX Effects with Keyframes in Filmora appeared first on Collabnix.",
-          "link": "https://collabnix.com/how-to-add-vfx-effects-with-keyframes-in-filmora/",
-          "publishedOn": "2025-01-01T13:18:05.000Z",
-          "wordCount": 3264,
-          "title": "How to Add VFX Effects with Keyframes in Filmora",
-          "imageUrl": "https://usercontent.one/wp/collabnix.com/wp-content/uploads/2025/01/wondershare-filmora-9-fastest-e-mail-whats-app-delivery.jpg?media=1735802179"
         }
       ]
     },
@@ -3729,16 +3679,6 @@
           "publishedOn": "2025-01-05T11:08:00.000Z",
           "wordCount": 496,
           "title": "我的2024：赶进度",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://www.skyue.com/25010101.html",
-          "author": "拾月",
-          "description": "12月31日，我们领证了，在杭州上城民政局。然后到来福士的TZ House听歌跨年，一家禁烟的live house，值得推荐。告别2024、迎接2025，步入新的人生阶段。也祝大家新年快乐！",
-          "link": "https://www.skyue.com/25010101.html",
-          "publishedOn": "2024-12-31T17:32:00.000Z",
-          "wordCount": 484,
-          "title": "期待往后每一次跨年",
           "imageUrl": ""
         }
       ]
@@ -4350,16 +4290,6 @@
           "publishedOn": "2025-01-03T16:00:00.000Z",
           "wordCount": 1415,
           "title": "Office 多版本产品激活密钥分享",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/784/",
-          "author": null,
-          "description": "<blockquote></blockquote>",
-          "link": "https://dusays.com/784/",
-          "publishedOn": "2024-12-31T16:00:00.000Z",
-          "wordCount": 1403,
-          "title": "Windows 系统多版本产品激活密钥分享",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
@@ -5017,6 +4947,16 @@
       "feedUrl": "https://www.txisfine.cn/atom.xml",
       "siteUrl": "https://www.txisfine.cn/atom.xml",
       "articles": [
+        {
+          "id": "https://www.txisfine.cn/archives/fcd1738c.html",
+          "author": null,
+          "description": "<h1 id=\"What-is-MCP\"><a href=\"#What-is-MCP\" class=\"headerlink\" title=\"What is MCP?\"></a>What is MCP?</h1><p>MCP（Model Context Protocol）可以算是当",
+          "link": "https://www.txisfine.cn/archives/fcd1738c.html",
+          "publishedOn": "2025-03-31T14:43:26.000Z",
+          "wordCount": null,
+          "title": "MCP Server 牛刀小试之雷池 MCP",
+          "imageUrl": null
+        },
         {
           "id": "https://www.txisfine.cn/archives/9d7104b2.html",
           "author": null,
