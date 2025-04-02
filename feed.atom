@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-04-01T02:08:02.509Z</updated>
+    <updated>2025-04-02T01:57:12.967Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YouTube Transcript Generator Using Model Context Protocol in Just 5 Lines of Code]]></title>
+        <id>https://collabnix.com/?p=31364</id>
+        <link href="https://collabnix.com/youtube-transcript-generator-using-model-context-protocol-in-just-5-lines-of-code/"/>
+        <updated>2025-04-01T18:48:27.000Z</updated>
+        <summary type="html"><![CDATA[Ever wanted to get the transcript of a YouTube video without subscribing to expensive services or wrestling with complicated APIs? In this blog post, I’ll show you how to build a YouTube transcript generator using the Model Context Protocol (MCP) in just 5 lines of code, based on the excellent mcp-server-youtube-transcript project. What is Model […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Tech Deals April 1 2025]]></title>
+        <id>https://www.virtualizationhowto.com/?p=300307</id>
+        <link href="https://www.virtualizationhowto.com/2025/04/daily-tech-deals-april-1-2025/"/>
+        <updated>2025-04-01T15:28:48.000Z</updated>
+        <summary type="html"><![CDATA[Looking for great tech deals? Check out items on today’s daily tech deals. Today you can get a Lenovo ThinkPad E16 G2 Business Laptop for 56% off, SAMSUNG 990 PRO SSD 4TB for 40% of, SAMSUNG 49″ Odyssey QD-OLED (G93SC) for 41% of, WiFi Extender, 2024 Fastest WiFi Booster for 40% off, and a ACEMAGICIAN …
+The post Daily Tech Deals April 1 2025 appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sync Pi-Hole Settings and Blocklists between Instances with Nebula Sync]]></title>
+        <id>https://www.virtualizationhowto.com/?p=300293</id>
+        <link href="https://www.virtualizationhowto.com/2025/04/sync-pi-hole-settings-and-blocklists-between-instances-with-nebula-sync/"/>
+        <updated>2025-04-01T15:08:34.000Z</updated>
+        <summary type="html"><![CDATA[If you were like me, when you saw the Gravity Sync project was archived and would have no future development, this was a bummer as I have relied on Gravity sync for quite some time now to sync Pi-Hole instances. However, in steps the power of community! Another developer took on the project to carry …
+The post Sync Pi-Hole Settings and Blocklists between Instances with Nebula Sync appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What problem does CrewAI solve?: Unleashing the Power of CrewAI]]></title>
+        <id>https://collabnix.com/?p=31321</id>
+        <link href="https://collabnix.com/what-problem-does-crewai-solve-unleashing-the-power-of-crewai/"/>
+        <updated>2025-04-01T13:53:15.000Z</updated>
+        <summary type="html"><![CDATA[Revolutionizing AI Automation: Unleashing the Power of CrewAI In this blog today, let us discover how CrewAI – a fast, flexible, and standalone multi-agent automation framework – is transforming the way developers build intelligent, autonomous AI agents for any scenario. What is CrewAI? CrewAI is a lean, lightning-fast Python framework built entirely from scratch—completely independent […]]]></summary>
+        <author>
+            <name>Adesoji Alu</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running Distributed ML Training with JobSet on Kubernetes]]></title>
+        <id>https://collabnix.com/?p=31133</id>
+        <link href="https://collabnix.com/running-distributed-ml-training-with-jobset-on-kubernetes/"/>
+        <updated>2025-04-01T12:11:11.000Z</updated>
+        <summary type="html"><![CDATA[Introduction As modern ML models become increasingly large and complex, training them often requires leveraging hundreds or thousands of accelerator chips spread across many hosts. Kubernetes has become a natural choice for scheduling and managing these distributed training workloads, but existing primitives aren’t always enough to capture the unique patterns of ML and HPC jobs. […]]]></summary>
+        <author>
+            <name>Adesoji Alu</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Every Growing Business Needs a CRM and Kanban if It Uses Zendesk Support]]></title>
         <id>https://collabnix.com/?p=31315</id>
@@ -7233,17 +7285,6 @@ The post Best 5 Home Server Projects to start learning Docker in 2025 appeared f
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Docker Stop All Containers in 3 Ways]]></title>
-        <id>https://www.virtualizationhowto.com/?p=298637</id>
-        <link href="https://www.virtualizationhowto.com/2025/01/docker-stop-all-containers-in-3-ways/"/>
-        <updated>2025-01-02T13:30:44.000Z</updated>
-        <summary type="html"><![CDATA[If you are working with Docker for the first time or starting to run multiple docker containers on a single host or across multiple hosts, you are probably starting to manage the hosts and running into just day-to-day housekeeping items you want to accomplish, like stopping containers, rebooting hosts, etc. One of the basic tasks …
-The post Docker Stop All Containers in 3 Ways appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2024年12月阅读书摘]]></title>
         <id>67768ff96c5c200996582175</id>
         <link href="https://www.domon.cn/2024-12yue-yue-du-shu-zhai/"/>
@@ -7256,27 +7297,6 @@ The post Docker Stop All Containers in 3 Ways appeared first on Virtualization H
 《生]]></summary>
         <author>
             <name>Domon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Postgres and Model Context Protocol]]></title>
-        <id>https://collabnix.com/?p=29849</id>
-        <link href="https://collabnix.com/postgres-and-model-context-protocol/"/>
-        <updated>2025-01-02T07:05:35.000Z</updated>
-        <summary type="html"><![CDATA[Just as USB-C provides a standardized way to connect your devices to various peripherals and accessories, MCP provides a standardized way to connect AI models to different data sources and tools. MCP is an open protocol that standardizes how applications provide context to LLMs. MCP helps you build agents and complex workflows on top of LLMs. […]
-The post Postgres and Model Context Protocol appeared first on Collabnix.]]></summary>
-        <author>
-            <name>Ajeet Raina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的 2024：读书、换工作、个人产品、大模型、机器人、投资]]></title>
-        <id>https://panzhixiang.cn/2025/my-2024/</id>
-        <link href="https://panzhixiang.cn/2025/my-2024/"/>
-        <updated>2025-01-01T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2024年，读了几本书，换了一份工作，开发了几个小产品，连续亏损两年的基金也赚钱了]]></summary>
-        <author>
-            <name>潘智祥</name>
         </author>
     </entry>
     <entry>

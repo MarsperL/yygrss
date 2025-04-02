@@ -1300,6 +1300,26 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=300307",
+          "author": "Brandon Lee",
+          "description": "Looking for great tech deals? Check out items on today’s daily tech deals. Today you can get a Lenovo ThinkPad E16 G2 Business Laptop for 56% off, SAMSUNG 990 PRO SSD 4TB for 40% of, SAMSUNG 49″ Odyssey QD-OLED (G93SC) for 41% of, WiFi Extender, 2024 Fastest WiFi Booster for 40% off, and a ACEMAGICIAN …\nThe post Daily Tech Deals April 1 2025 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/04/daily-tech-deals-april-1-2025/",
+          "publishedOn": "2025-04-01T15:28:48.000Z",
+          "wordCount": 8454,
+          "title": "Daily Tech Deals April 1 2025",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/04/image.jpeg"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=300293",
+          "author": "Brandon Lee",
+          "description": "If you were like me, when you saw the Gravity Sync project was archived and would have no future development, this was a bummer as I have relied on Gravity sync for quite some time now to sync Pi-Hole instances. However, in steps the power of community! Another developer took on the project to carry …\nThe post Sync Pi-Hole Settings and Blocklists between Instances with Nebula Sync appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/04/sync-pi-hole-settings-and-blocklists-between-instances-with-nebula-sync/",
+          "publishedOn": "2025-04-01T15:08:34.000Z",
+          "wordCount": 11339,
+          "title": "Sync Pi-Hole Settings and Blocklists between Instances with Nebula Sync",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/04/pi-hole-dns-sinkhole-open-source-solution.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=300285",
           "author": "Brandon Lee",
           "description": "Looking for great tech deals? Check out items on today’s daily tech deals. Today you can get a SAMSUNG 990 PRO SSD 4TB PCIe for 40% off, GMKtec Mini PC Intel Core i7-1195G7 for 36% off, RGB Backlit Rechargeable Wireless Keyboard & Mouse Combo for 35% off, Beelink EQ14 Mini PC, Intel Twin Lake N150 …\nThe post Daily Tech Deals March 31 2025 appeared first on Virtualization Howto.",
@@ -2168,16 +2188,6 @@
           "wordCount": 10562,
           "title": "Best 5 Home Server Projects to start learning Docker in 2025",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/5-docker-home-lab-projects.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298637",
-          "author": "Brandon Lee",
-          "description": "If you are working with Docker for the first time or starting to run multiple docker containers on a single host or across multiple hosts, you are probably starting to manage the hosts and running into just day-to-day housekeeping items you want to accomplish, like stopping containers, rebooting hosts, etc. One of the basic tasks …\nThe post Docker Stop All Containers in 3 Ways appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/01/docker-stop-all-containers-in-3-ways/",
-          "publishedOn": "2025-01-02T13:30:44.000Z",
-          "wordCount": 9387,
-          "title": "Docker Stop All Containers in 3 Ways",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/docker-stop-all-containers.jpg"
         }
       ]
     },
@@ -2186,6 +2196,36 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=31364",
+          "author": "Collabnix Team",
+          "description": "Ever wanted to get the transcript of a YouTube video without subscribing to expensive services or wrestling with complicated APIs? In this blog post, I’ll show you how to build a YouTube transcript generator using the Model Context Protocol (MCP) in just 5 lines of code, based on the excellent mcp-server-youtube-transcript project. What is Model […]",
+          "link": "https://collabnix.com/youtube-transcript-generator-using-model-context-protocol-in-just-5-lines-of-code/",
+          "publishedOn": "2025-04-01T18:48:27.000Z",
+          "wordCount": 2830,
+          "title": "YouTube Transcript Generator Using Model Context Protocol in Just 5 Lines of Code",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=31321",
+          "author": "Adesoji Alu",
+          "description": "Revolutionizing AI Automation: Unleashing the Power of CrewAI In this blog today, let us discover how CrewAI – a fast, flexible, and standalone multi-agent automation framework – is transforming the way developers build intelligent, autonomous AI agents for any scenario. What is CrewAI? CrewAI is a lean, lightning-fast Python framework built entirely from scratch—completely independent […]",
+          "link": "https://collabnix.com/what-problem-does-crewai-solve-unleashing-the-power-of-crewai/",
+          "publishedOn": "2025-04-01T13:53:15.000Z",
+          "wordCount": 3822,
+          "title": "What problem does CrewAI solve?: Unleashing the Power of CrewAI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=31133",
+          "author": "Adesoji Alu",
+          "description": "Introduction As modern ML models become increasingly large and complex, training them often requires leveraging hundreds or thousands of accelerator chips spread across many hosts. Kubernetes has become a natural choice for scheduling and managing these distributed training workloads, but existing primitives aren’t always enough to capture the unique patterns of ML and HPC jobs. […]",
+          "link": "https://collabnix.com/running-distributed-ml-training-with-jobset-on-kubernetes/",
+          "publishedOn": "2025-04-01T12:11:11.000Z",
+          "wordCount": 3366,
+          "title": "Running Distributed ML Training with JobSet on Kubernetes",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=31315",
           "author": "Tanvir Kour",
@@ -3255,16 +3295,6 @@
           "wordCount": null,
           "title": "Is Kubernetes Only for DevOps?",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=29849",
-          "author": "Ajeet Raina",
-          "description": "Just as USB-C provides a standardized way to connect your devices to various peripherals and accessories, MCP provides a standardized way to connect AI models to different data sources and tools. MCP is an open protocol that standardizes how applications provide context to LLMs. MCP helps you build agents and complex workflows on top of LLMs. […]\nThe post Postgres and Model Context Protocol appeared first on Collabnix.",
-          "link": "https://collabnix.com/postgres-and-model-context-protocol/",
-          "publishedOn": "2025-01-02T07:05:35.000Z",
-          "wordCount": 2625,
-          "title": "Postgres and Model Context Protocol",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2025/01/Screenshot-2025-01-02-at-12.34.32%E2%80%AFPM.png?fit=2012%2C1126&ssl=1"
         }
       ]
     },
@@ -5089,16 +5119,6 @@
           "wordCount": 615,
           "title": "大模型多智能体简单应用案例介绍",
           "imageUrl": null
-        },
-        {
-          "id": "https://panzhixiang.cn/2025/my-2024/",
-          "author": null,
-          "description": "2024年，读了几本书，换了一份工作，开发了几个小产品，连续亏损两年的基金也赚钱了",
-          "link": "https://panzhixiang.cn/2025/my-2024/",
-          "publishedOn": "2025-01-01T16:00:00.000Z",
-          "wordCount": 328,
-          "title": "我的 2024：读书、换工作、个人产品、大模型、机器人、投资",
-          "imageUrl": "https://panzhixiang.cn/images/tucaoxingqiu.jpeg"
         }
       ]
     },
