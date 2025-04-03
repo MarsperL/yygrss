@@ -693,26 +693,6 @@
             "length": "0"
           },
           "imageUrl": "https://srebro.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https%3A%2F%2Fsrebro-image.oss-cn-nanjing.aliyuncs.com%2F439653AE-81B1-482B-90C3-7141FA935DA3.jpg&size=m"
-        },
-        {
-          "id": "/archives/1735894737958",
-          "author": "运维小弟",
-          "description": "Rsyslog 服务端与客户端部署与配置指南 本文档将详细介绍如何在服务端和客户端部署并配置 rsyslog，以便实现日志集中收集和管理。并包括日志文件轮转的配置。 1. 服务端部署与配置 1.1 安装 rsyslog 在服务端，首先需要安装 rsyslog 服务： yum install -y r",
-          "link": "https://srebro.cn/archives/1735894737958",
-          "publishedOn": "2025-01-03T08:59:10.000Z",
-          "wordCount": 2393,
-          "title": "Rsyslog 服务端与客户端部署与配置指南",
-          "imageUrl": "null"
-        },
-        {
-          "id": "/archives/1735874878415",
-          "author": "运维小弟",
-          "description": "二进制安装docker 2.1 二进制包下载 wget https://mirrors.nju.edu.cn/docker-ce/linux/static/stable/x86_64/docker-27.1.1.tgz 2.2 解压，拷贝至/usr/bin 下 tar -xf docker-27.",
-          "link": "https://srebro.cn/archives/1735874878415",
-          "publishedOn": "2025-01-03T03:29:07.000Z",
-          "wordCount": 2188,
-          "title": "OpenEuler 22.03 LTS-SP4 二进制部署docker容器",
-          "imageUrl": "null"
         }
       ]
     },
@@ -1180,16 +1160,6 @@
           "publishedOn": "2025-02-13T03:02:00.000Z",
           "wordCount": 560,
           "title": "deepseek模型加速下载",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nops.icu/archives/184/",
-          "author": "季兴",
-          "description": "由多个agent组成的SRE专家组，代替人工进行准确的故障分析！👽流程：从用户输入取时间范围（支持上传图片）、路由--》查询日志中心--》获取网关中cmdb信息--》查询CMDB获取更多细节（o...",
-          "link": "https://nops.icu/archives/184/",
-          "publishedOn": "2025-01-03T07:57:00.000Z",
-          "wordCount": 1646,
-          "title": "SRE-copilot构建全过程",
           "imageUrl": null
         }
       ]
@@ -4497,6 +4467,16 @@
       "siteUrl": "https://zahui.fan/atom.xml",
       "articles": [
         {
+          "id": "https://zahui.fan/posts/su3lwr/",
+          "author": null,
+          "description": "<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span class=\"line\">grafana-cli plugins install",
+          "link": "https://zahui.fan/posts/su3lwr/",
+          "publishedOn": "2025-04-02T16:02:51.000Z",
+          "wordCount": 1105,
+          "title": "安装插件方式来运行grafana-image-renderer",
+          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
+        },
+        {
           "id": "https://zahui.fan/posts/stucr2/",
           "author": null,
           "description": "<p>需要安装一个插件，grafana-image-renderer<br><a",
@@ -4565,26 +4545,6 @@
           "wordCount": 677,
           "title": "Nacos 2.0.3 集群升级为 2.1.0",
           "imageUrl": "https://static.zahui.fan/public/Nacos.svg"
-        },
-        {
-          "id": "https://zahui.fan/posts/spi6z2/",
-          "author": null,
-          "description": "<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br><span class=\"line\">4</span><br><span",
-          "link": "https://zahui.fan/posts/spi6z2/",
-          "publishedOn": "2025-01-03T08:16:13.000Z",
-          "wordCount": 380,
-          "title": "最小化安装的Linux安装图形界面",
-          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
-        },
-        {
-          "id": "https://zahui.fan/posts/spi492/",
-          "author": null,
-          "description": "<h2 id=\"前言\"><a href=\"#前言\" class=\"headerlink\" title=\"前言\"></a>前言</h2><p>完成这个教程，你主要需要完成以下流程：</p>\n<ul>\n<li>在 NAS 上启用 SSH</li>\n<li>创建一个持久的 TUN</li>\n<li>安装 Docker</li>\n<li>设置 Docker</li>\n</ul>\n<h2",
-          "link": "https://zahui.fan/posts/spi492/",
-          "publishedOn": "2025-01-03T07:17:25.000Z",
-          "wordCount": 963,
-          "title": "群晖NAS部署zerotier内网穿透访问",
-          "imageUrl": "https://static.zahui.fan/images/20250103233736228.png"
         }
       ]
     },

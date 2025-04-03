@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-04-02T15:07:22.463Z</updated>
+    <updated>2025-04-03T01:55:52.675Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[安装插件方式来运行grafana-image-renderer]]></title>
+        <id>https://zahui.fan/posts/su3lwr/</id>
+        <link href="https://zahui.fan/posts/su3lwr/"/>
+        <updated>2025-04-02T16:02:51.000Z</updated>
+        <summary type="html"><![CDATA[<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">grafana-cli plugins install]]></summary>
+        <author>
+            <name>杂烩饭</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daily Tech Deals April 2 2025]]></title>
         <id>https://www.virtualizationhowto.com/?p=300336</id>
@@ -7237,63 +7247,6 @@ The post Is Kubernetes Only for DevOps? appeared first on Collabnix.]]></summary
 The post Best 5 Home Server Projects to start learning Docker in 2025 appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rsyslog 服务端与客户端部署与配置指南]]></title>
-        <id>/archives/1735894737958</id>
-        <link href="https://srebro.cn/archives/1735894737958"/>
-        <updated>2025-01-03T08:59:10.000Z</updated>
-        <summary type="html"><![CDATA[Rsyslog 服务端与客户端部署与配置指南 本文档将详细介绍如何在服务端和客户端部署并配置 rsyslog，以便实现日志集中收集和管理。并包括日志文件轮转的配置。 1. 服务端部署与配置 1.1 安装 rsyslog 在服务端，首先需要安装 rsyslog 服务： yum install -y r]]></summary>
-        <author>
-            <name>运维小弟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[最小化安装的Linux安装图形界面]]></title>
-        <id>https://zahui.fan/posts/spi6z2/</id>
-        <link href="https://zahui.fan/posts/spi6z2/"/>
-        <updated>2025-01-03T08:16:13.000Z</updated>
-        <summary type="html"><![CDATA[<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span]]></summary>
-        <author>
-            <name>杂烩饭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SRE-copilot构建全过程]]></title>
-        <id>https://nops.icu/archives/184/</id>
-        <link href="https://nops.icu/archives/184/"/>
-        <updated>2025-01-03T07:57:00.000Z</updated>
-        <summary type="html"><![CDATA[由多个agent组成的SRE专家组，代替人工进行准确的故障分析！👽流程：从用户输入取时间范围（支持上传图片）、路由--》查询日志中心--》获取网关中cmdb信息--》查询CMDB获取更多细节（o...]]></summary>
-        <author>
-            <name>季兴</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[群晖NAS部署zerotier内网穿透访问]]></title>
-        <id>https://zahui.fan/posts/spi492/</id>
-        <link href="https://zahui.fan/posts/spi492/"/>
-        <updated>2025-01-03T07:17:25.000Z</updated>
-        <summary type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>完成这个教程，你主要需要完成以下流程：</p>
-<ul>
-<li>在 NAS 上启用 SSH</li>
-<li>创建一个持久的 TUN</li>
-<li>安装 Docker</li>
-<li>设置 Docker</li>
-</ul>
-<h2]]></summary>
-        <author>
-            <name>杂烩饭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenEuler 22.03 LTS-SP4 二进制部署docker容器]]></title>
-        <id>/archives/1735874878415</id>
-        <link href="https://srebro.cn/archives/1735874878415"/>
-        <updated>2025-01-03T03:29:07.000Z</updated>
-        <summary type="html"><![CDATA[二进制安装docker 2.1 二进制包下载 wget https://mirrors.nju.edu.cn/docker-ce/linux/static/stable/x86_64/docker-27.1.1.tgz 2.2 解压，拷贝至/usr/bin 下 tar -xf docker-27.]]></summary>
-        <author>
-            <name>运维小弟</name>
         </author>
     </entry>
     <entry>
