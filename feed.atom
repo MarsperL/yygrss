@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-04-06T02:02:08.370Z</updated>
+    <updated>2025-04-06T15:08:13.513Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化]]></title>
+        <id>https://soulteary.com/2025/04/06/build-arm-itx-nuc-on-rk3588.html</id>
+        <link href="https://soulteary.com/2025/04/06/build-arm-itx-nuc-on-rk3588.html"/>
+        <updated>2025-04-06T10:16:00.000Z</updated>
+        <summary type="html"><![CDATA[这篇文档，应该是目前你能够找到的 RK3588 相关，最全面的设备系统选型和配置优化的内容了，希望能够帮到有类似需求的你。]]></summary>
+        <author>
+            <name>苏洋(soulteary)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Technical Analysis of Llama 4 Scout, Maverick and Behemoth]]></title>
+        <id>https://collabnix.com/?p=31519</id>
+        <link href="https://collabnix.com/deep-technical-analysis-of-llama-4-scout-maverick-and-behemoth/"/>
+        <updated>2025-04-06T04:18:15.000Z</updated>
+        <summary type="html"><![CDATA[Meta’s release of the Llama 4 family represents a significant architectural leap forward in the domain of Large Language Models (LLMs). This technical deep dive explores the sophisticated architectural components, training methodologies, and performance optimizations that underpin the Llama 4 models, with particular focus on the mixture-of-experts (MoE) architecture and multimodal capabilities that define this […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Master Terraform: Your Essential Toolbox for a Clean, Secure, and Scalable Infrastructure]]></title>
         <id>https://collabnix.com/?p=31370</id>
@@ -7042,29 +7062,6 @@ acme.sh --upgrade --auto-upgrade]]></summary>
 第二百八十六条【破坏计算机信息系统罪】违反国家规定，对计算机信息系统功能…]]></summary>
         <author>
             <name>法律小茶馆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[通过 Nginx 的 access_log 分析网站的流量]]></title>
-        <id>https://dusays.com/786/</id>
-        <link href="https://dusays.com/786/"/>
-        <updated>2025-01-06T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>在当今数字化时代，网站流量分析对于理解用户行为、优化网站性能以及制定营销策略至关重要。本文将探讨如何通过分析 Nginx 的 access_log 获取网站流量的多维度数据，并给出具体操作步骤和分析方法。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K9s Tool Alternative for Managing Kubernetes]]></title>
-        <id>https://www.virtualizationhowto.com/?p=298673</id>
-        <link href="https://www.virtualizationhowto.com/2025/01/k9s-tool-alternative-for-managing-kubernetes/"/>
-        <updated>2025-01-06T14:36:42.000Z</updated>
-        <summary type="html"><![CDATA[When managing Kubernetes, having the right tool for the job is key and there are many great tools out there. One tool that many use for managing Kubernetes from the command line is K9s. However, if you are looking for a K9s tool alternative, let’s look at some possible options for managing your Kubernetes cluster. …
-The post K9s Tool Alternative for Managing Kubernetes appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>

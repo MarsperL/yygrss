@@ -702,6 +702,16 @@
       "siteUrl": "https://soulteary.com/feed/",
       "articles": [
         {
+          "id": "https://soulteary.com/2025/04/06/build-arm-itx-nuc-on-rk3588.html",
+          "author": "苏洋(soulteary)",
+          "description": "这篇文档，应该是目前你能够找到的 RK3588 相关，最全面的设备系统选型和配置优化的内容了，希望能够帮到有类似需求的你。",
+          "link": "https://soulteary.com/2025/04/06/build-arm-itx-nuc-on-rk3588.html",
+          "publishedOn": "2025-04-06T10:16:00.000Z",
+          "wordCount": 1224,
+          "title": "基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化",
+          "imageUrl": null
+        },
+        {
           "id": "https://soulteary.com/2025/03/27/recent-heat-dissipation-upgrade-record-of-homelab.html",
           "author": "苏洋(soulteary)",
           "description": "过年到现在，陆陆续续对家里的一些设备做了兼顾静音的散热升级，设备目前已经稳定运行一段时间，分享出来，希望帮助到有需要的同学。",
@@ -2178,16 +2188,6 @@
           "wordCount": 10672,
           "title": "Proxmox Storage Configuration for Beginners",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/proxmox-storage-configuration-for-beginners.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298673",
-          "author": "Brandon Lee",
-          "description": "When managing Kubernetes, having the right tool for the job is key and there are many great tools out there. One tool that many use for managing Kubernetes from the command line is K9s. However, if you are looking for a K9s tool alternative, let’s look at some possible options for managing your Kubernetes cluster. …\nThe post K9s Tool Alternative for Managing Kubernetes appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/01/k9s-tool-alternative-for-managing-kubernetes/",
-          "publishedOn": "2025-01-06T14:36:42.000Z",
-          "wordCount": 9687,
-          "title": "K9s Tool Alternative for Managing Kubernetes",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/k9s-tool-alternative-solutions.jpg"
         }
       ]
     },
@@ -2196,6 +2196,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=31519",
+          "author": "Collabnix Team",
+          "description": "Meta’s release of the Llama 4 family represents a significant architectural leap forward in the domain of Large Language Models (LLMs). This technical deep dive explores the sophisticated architectural components, training methodologies, and performance optimizations that underpin the Llama 4 models, with particular focus on the mixture-of-experts (MoE) architecture and multimodal capabilities that define this […]",
+          "link": "https://collabnix.com/deep-technical-analysis-of-llama-4-scout-maverick-and-behemoth/",
+          "publishedOn": "2025-04-06T04:18:15.000Z",
+          "wordCount": 3407,
+          "title": "Deep Technical Analysis of Llama 4 Scout, Maverick and Behemoth",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=31370",
           "author": "Adesoji Alu",
@@ -4285,16 +4295,6 @@
           "publishedOn": "2025-01-09T16:00:00.000Z",
           "wordCount": 1408,
           "title": "使用 GoAccess 分析 Nginx 访问日志",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/786/",
-          "author": null,
-          "description": "<blockquote>\n<p>在当今数字化时代，网站流量分析对于理解用户行为、优化网站性能以及制定营销策略至关重要。本文将探讨如何通过分析 Nginx 的 access_log 获取网站流量的多维度数据，并给出具体操作步骤和分析方法。</p>\n</blockquote>",
-          "link": "https://dusays.com/786/",
-          "publishedOn": "2025-01-06T16:00:00.000Z",
-          "wordCount": 1559,
-          "title": "通过 Nginx 的 access_log 分析网站的流量",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
