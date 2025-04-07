@@ -850,16 +850,6 @@
           "wordCount": 901,
           "title": "五十元内的轻量服务器：玩客云折腾速通指南（一）",
           "imageUrl": null
-        },
-        {
-          "id": "https://soulteary.com/2025/01/07/homelab-network-upgrade-practice-quiet-local-10g-networking.html",
-          "author": "苏洋(soulteary)",
-          "description": "嘿，这篇文章继续分享适用于家里的安静万兆网络使用经验，希望能给有相似需求的朋友一些参考。",
-          "link": "https://soulteary.com/2025/01/07/homelab-network-upgrade-practice-quiet-local-10g-networking.html",
-          "publishedOn": "2025-01-07T12:21:00.000Z",
-          "wordCount": 1571,
-          "title": "家用网络升级实践：安静的局部万兆组网（三）",
-          "imageUrl": null
         }
       ]
     },
@@ -1093,26 +1083,6 @@
           "publishedOn": "2025-01-09T10:26:54.000Z",
           "wordCount": 205,
           "title": "AI 工具推荐 Napkin.ai：让复杂想法一键变成直观图表",
-          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
-        },
-        {
-          "id": "https://jimmysong.io/blog/cilium-annual-report-2024/",
-          "author": "Jimmy Song",
-          "description": "近日 Cilium 项目发布了 2024 年度报告，见 Github。这份报告详细回顾了 Cilium 在过去一年中所取得的重大成就，并展望了其在云原生网络和安全领域的未来发展方向。Cilium 项目自首次提交以来，历经近十年发展，其势头持续强劲，正引领云原生网络和安全领域的新变革。\nCilium 2024 年度报告概述\n  \n\nCilium 的卓越发展\n2024 年是 Cilium 发展历程中至关重要的一年，它不仅巩固了其作为 Kubernetes 事实标准 CNI 的地位，更发展成为 Kubernetes 环境下的综合网络堆栈。Cilium 的演进展示了其应对现代云原生环境挑战的卓越能力，从最初的 pod 到 pod 连接方案，扩展到一个统一网络、可观察性和安全性的项目，这一切都由 eBPF 技术驱动。\nCilium 在 2024 年的演变\n  \n\n关键里程碑与重大成就\n关键里程碑与重大成就\n  \n\n\n社区蓬勃发展：Cilium 社区持续壮大，贡献者和贡献公司数量不断增加，用户遍布金融、物流、媒体、电信等众多行业。自加入 CNCF 以来，贡献公司数量增长了 90%，达到 1,011 家，个人贡献者增长了 252%，达到 4,464 人。Cilium 还是 CNCF 生态系统中第三大发展最快的项目。\n技术创新：Cilium 在 2024 年发布了 1.15 和 1.16 两个主要版本，带来了诸多创新功能。\n\nCilium 1.15: 引入了对 Gateway API 1.0 的全面支持，使 Cluster Mesh 的可扩展性翻倍，增强了可观测性，将流量与网络策略关联，并扩展了 BGP 的功能，以更好地集成外部世界。\nCilium 1.16: 以“更快、更强、更智能”为主题，通过 netkit 消除了虚拟网络开销，实现了主机和容器之间的性能对等；引入了 BGPv2 API，支持用户定义复杂的网络策略；支持多播数据路径；并显著优化了 CPU 和内存使用，同时将尾部延迟降低了高达 5 倍。\n广泛应用：用户调查显示，Cilium 正在逐步接管 Kubernetes 网络堆栈，Cluster Mesh、BGP 和 Gateway API 等功能已广泛应用于生产环境。95% 的受访者运行多个 Kubernetes 集群，而 Cilium 被 CNCF 技术雷达评为顶级多集群管理工具。\n行业认可：Cilium 荣获 OpenUK 2024 年度开源软件奖。同时，在 CNCF 的多集群管理技术雷达中，Cilium 被评为最值得采用的技术，并在实用性和成熟度方面均获得最高分。\neBPF 安全：eBPF 基金会发布了两份重要研究报告，提升了基于 eBPF 部署的安全性与操作指导：\n\neBPF 安全威胁模型：详细阐述了 eBPF 的潜在风险，并提供了相应的缓解策略。\neBPF 验证器代码审计：强调了验证器在保障 eBPF 部署安全方面的作用，并提出了改进建议。\n用户反馈与应用案例\n来自用户的反馈和案例进一步印证了 Cilium 在性能、成本效益以及功能方面的优势。用户普遍认为，Cilium 有效降低了网络成本和 CPU 消耗，同时提供了卓越的性能和低延迟。此外，Cilium 的可观察性工具（如 Hubble）以及网络策略功能也受到了用户的广泛好评。\n未来展望\nCilium 2025 年发展展望\n  \n\n展望 2025 年，Cilium 的发展势头将持续增强。平台工程和整合趋势正在重塑组织管理 Kubernetes 网络的方式，而 Cilium 正处于这场变革的核心。我们预计：\nCilium 堆栈将进一步整合网络功能。\nTetragon 在高级安全可观察性方面的应用将更加普及。\nCilium 将更深入地集成外部和传统工作负载至 Kubernetes 环境。\nCilium 不仅会被广泛用作 CNI，更将作为全面的 Kubernetes 网络解决方案。\nTetragon 将不断进化，提供更强大的检测能力和更具行动力的威胁响应方案。\nCilium 的混合云和多云集成将在 2025 年发挥更大的作用。\nCilium 对外部工作负载、4 层负载均衡以及 BGP 增强功能的支持将弥合 Kubernetes 原生系统与传统系统之间的鸿沟。\n总结\nCilium 项目在 2024 年取得了巨大成功，确立了其在 Kubernetes 网络领域的领导地位。Cilium 不仅仅是一个 CNI，更是一个涵盖网络、可观察性和安全性的综合 Kubernetes 网络解决方案。随着云原生技术的不断发展，Cilium 将继续引领行业创新，为用户提供更强大、更可靠的云原生网络解决方案。\n注：本文中的图片利用 napkin.ai 制作。",
-          "link": "https://jimmysong.io/blog/cilium-annual-report-2024/",
-          "publishedOn": "2025-01-07T10:28:38.000Z",
-          "wordCount": 360,
-          "title": "Cilium 2024 年度报告解读",
-          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
-        },
-        {
-          "id": "https://jimmysong.io/blog/istio-ambient-packet-lifecycle-optimization/",
-          "author": "Jimmy Song",
-          "description": "本文围绕 Istio Ambient 模式下的数据包生命周期进行深入剖析，从初始数据包的流量拦截与目标解析，到后续数据包的快速转发与优化策略，帮助读者理解 Ambient 模式背后的技术逻辑和性能实践。\n数据包生命周期概览：从内核态到用户态\n在 Ambient 模式中，数据包的处理路径从 Pod 内核态网络栈开始，经由 iptables 规则被拦截后进入 ztunnel 的用户态处理逻辑。ztunnel 负责透明代理、策略验证、加密隧道建立等任务，最终将数据包通过内核态网络再次转发给目标服务或下一个 ztunnel。其核心思想是通过首次数据包的详细解析和标记，为后续数据包铺路，从而减少重复开销。\n下图展示了 Istio Ambient 模式中从 Pod 到 ztunnel 的数据包生命周期：\nIstio Ambient 模式中从 Pod 到 ztunnel 的数据包生命周期\n  \n\n接下来，我们将详细介绍首个数据包与后续数据包的处理路径，并分析其中的技术要点与优化手段。\n首个数据包路径：从拦截到目标解析\n当应用程序在 Pod 内发出数据包（如 HTTP 请求），数据包首先经过 Pod 的网络命名空间和内核态网络栈进行处理。\n透明拦截与目标解析\niptables 规则对出站流量进行筛选，若发现目标地址为非本地资源且数据包未携带特定标记，则将数据包重定向至 ztunnel 的透明代理端口（如 15006 或 15008）。借助 IP_TRANSPARENT 和 SO_ORIGINAL_DST 选项，ztunnel 可提取数据包的原始目标地址，实现无缝透明代理。\n用户态处理：策略验证与加密隧道\n数据包进入 ztunnel 用户态后，将经历以下处理流程：\n策略验证：RBAC 验证、mTLS 加密判定。\n目标流量处理：对网格内部流量，通过 HTTP/2 CONNECT 隧道（HBONE）加密与跨节点传输；对网格外流量，直接通过本地 TCP 连接透传。\n完成处理后，ztunnel 基于数据包解析结果建立出站连接（如 HTTP/2 隧道或明文 TCP），并将数据包送回内核态，最终转发至目标服务或下一个 ztunnel。\n后续数据包路径：利用 Conntrack 与隧道复用\n首个数据包完成解析与策略验证后，Linux 内核的连接跟踪（conntrack）记录连接状态与标记。后续数据包无需再次经历复杂的拦截与解析，直接进入 ztunnel 的 inbound socket。\n连接跟踪与快速转发\n后续数据包基于 conntrack 跟踪机制，快速到达 ztunnel 的 inbound socket。ztunnel 可直接识别目标地址与安全策略，避免重复的解析与验证。\n隧道与明文连接优化\nHBONE 隧道：支持多路复用，提高加密流量处理效率。\n明文连接：对无需加密的流量，直接复用现有 TCP 连接，进一步减少处理开销。\n技术要点与优化策略\n透明代理：利用 IP_TRANSPARENT 实现透明流量捕获与目标解析。\n内核与用户态高效协作：首个数据包通过用户态完成深度处理，后续数据包借助 conntrack 与 inbound socket 实现快速转发，降低上下文切换成本。\n多路复用：借助 HTTP/2 隧道实现高效加密与负载均衡，优化传输性能。\n实践建议\n多平台适配：根据平台特性调整透明代理实现。\n调优与监控：结合 ztunnel 日志与服务网格监控工具，优化流量路径与性能表现。\n总结\nIstio Ambient 模式通过数据包生命周期设计，在透明代理、性能优化与安全策略间实现平衡。zTunnel 通过高效的用户态处理与内核态快速转发，将应用程序的透明体验与底层网络优化有效结合，助力服务网格的实践与推广。",
-          "link": "https://jimmysong.io/blog/istio-ambient-packet-lifecycle-optimization/",
-          "publishedOn": "2025-01-07T07:07:30.000Z",
-          "wordCount": 335,
-          "title": "Istio Ambient 模式中的数据包生命周期及流量优化",
           "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
         }
       ]
@@ -3506,18 +3476,7 @@
       "title": "This Cute World",
       "feedUrl": "https://thiscute.world/index.xml",
       "siteUrl": "https://thiscute.world/",
-      "articles": [
-        {
-          "id": "https://thiscute.world/posts/2024-summary/?utm_source=atom_feed",
-          "author": null,
-          "description": "<h2 id=\"前言\" class=\"headerLink\">\n<a href=\"#%e5%89%8d%e8%a8%80\" class=\"header-mark\"></a>前言</h2><p>相比跌宕起伏的 2023 年, 2024 年我少了一些焦虑与内耗, 花在技术上的时间也少了不少. 我将大量的精力转移到了徒步旅行上, 享受了诸多旅行的快乐.</p>\n<p>可能因为 23 年写的太多，24 年少了些创作的热情，也因此这份年终一直拖着。本来想效仿去年的风格过一遍一整年中比较有意义的事情，但是不太能下手。</p>",
-          "link": "https://thiscute.world/posts/2024-summary/?utm_source=atom_feed",
-          "publishedOn": "2025-01-07T09:43:44.000Z",
-          "wordCount": 601,
-          "title": "我的 2024 - 稳中求进、热爱生活",
-          "imageUrl": "https://thiscute.world/posts/2024-summary/Hong-Kong-New-Year-2025_fireworks-at-Victoria-Harbour.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "一颗小树",
@@ -4346,16 +4305,6 @@
           "publishedOn": "2025-02-06T06:29:32.000Z",
           "wordCount": 2751,
           "title": "Deepseek-R1 私有部署",
-          "imageUrl": "https://oss.7boe.top/2024/03/11/65ee77dac4869.png"
-        },
-        {
-          "id": "/archives/209",
-          "author": null,
-          "description": "Acme证书脚本使用\n通常我们使用这个脚本都是用来给服务器上域名下发证书，本文章记录证书申请以及自动续签，和下发方式。\nAcme安装\n脚本\ncurl https://get.acme.sh | sh -s email=my@example.com \n\n改脚本会自动安装到家目录里的.acme.sh 邮箱修改为自己的，这样到期能自动提醒\n颁发使用\n单域名\nacme.sh --issue -d example.com -w /home/wwwroot/example.com\n\n多域名\nacme.sh --issue -d example.com -d www.example.com -d cp.example.com -w /home/wwwroot/example.com\n\n证书安装使用\nnginx\nacme.sh --install-cert -d example.com \\\n--key-file       /path/to/keyfile/in/nginx/key.pem  \\\n--fullchain-file /path/to/fullchain/nginx/cert.pem \\\n--reloadcmd     \"service nginx force-reload\"\n\n安装到指定位置 nginx内ssl配置文件制定上面文件\n使用阿里云域名API自动签发证书\n当你的网站http页面没有东西的时候，他下发会失败，这是证书http验证特性，所以采用dns验证，例如你的域名上在阿里上\nexport Ali_Key=\"<key>\"\nexport Ali_Secret=\"<secret>\"\n\n写入在阿里上的key 也可以写入bashrc 然后申请证书。\n./acme.sh --issue --dns dns_ali -d example.com -d *.example.com\n\n更新续签\n一般来讲你不需要对证书手动更新，他会在crontabl里面自动执行检查更新\n如果你需要手动更新证书\nacme.sh --renew -d example.com --force\n\n停止续订证书\nacme.sh --remove -d example.com [--ecc]\n\n脚本更新\nacme.sh --upgrade --auto-upgrade",
-          "link": "https://7boe.top/archives/209",
-          "publishedOn": "2025-01-07T03:44:08.000Z",
-          "wordCount": 2804,
-          "title": "Acme脚本使用",
           "imageUrl": "https://oss.7boe.top/2024/03/11/65ee77dac4869.png"
         }
       ]
