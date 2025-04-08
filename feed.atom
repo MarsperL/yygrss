@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-04-07T01:59:25.517Z</updated>
+    <updated>2025-04-08T01:56:33.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Daily Tech Deals April 7 2025]]></title>
+        <id>https://www.virtualizationhowto.com/?p=300412</id>
+        <link href="https://www.virtualizationhowto.com/2025/04/daily-tech-deals-april-7-2025/"/>
+        <updated>2025-04-07T13:34:17.000Z</updated>
+        <summary type="html"><![CDATA[All NVMe Roundup!!! Check out items on today’s daily tech deals for NVMe deals. Today you can get a SAMSUNG 990 PRO SSD 4TB PCIe 4.0 M.2 2280 for 35% off, a SAMSUNG 990 EVO Plus SSD 1TB for 32% off, a WD_BLACK 8TB SN850X NVMe Internal Gaming SSD for 38% off, a ORICO 2 & …
+The post Daily Tech Deals April 7 2025 appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Home File Server Storage Options in 2025]]></title>
+        <id>https://www.virtualizationhowto.com/?p=300395</id>
+        <link href="https://www.virtualizationhowto.com/2025/04/best-home-file-server-storage-options-in-2025/"/>
+        <updated>2025-04-07T13:01:20.000Z</updated>
+        <summary type="html"><![CDATA[One of the most basic types of resources that most want to self-host is file storage. File storage in general includes anything and everything that you might need to keep around or access for personal files. This can also include applications, utilities, logs, and many other things. We have seen so many great solutions come …
+The post Best Home File Server Storage Options in 2025 appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化]]></title>
         <id>https://soulteary.com/2025/04/06/build-arm-itx-nuc-on-rk3588.html</id>
@@ -6697,48 +6719,6 @@ The post Kubernetes Home Lab: Ultimate Guide for 2025! appeared first on Virtual
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[五十元内的轻量服务器：玩客云折腾速通指南（一）]]></title>
-        <id>https://soulteary.com/2025/01/08/lightweight-server-under-fifty-yuan-wanke-cloud-speed-running-guide-1.html</id>
-        <link href="https://soulteary.com/2025/01/08/lightweight-server-under-fifty-yuan-wanke-cloud-speed-running-guide-1.html"/>
-        <updated>2025-01-08T07:37:00.000Z</updated>
-        <summary type="html"><![CDATA[这是一份专注于稳定性的玩客云使用指南。无论你是想要一台低成本的服务器，还是对类似的嵌入式设备感兴趣，接下来这几篇文章都会告诉你如何让玩客云更稳定、更易维护，以及躲开折腾的时候会遇到麻烦和故障。]]></summary>
-        <author>
-            <name>苏洋(soulteary)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Backup Docker Containers?]]></title>
-        <id>https://collabnix.com/?p=29952</id>
-        <link href="https://collabnix.com/how-to-backup-docker-containers/"/>
-        <updated>2025-01-08T05:59:20.000Z</updated>
-        <summary type="html"><![CDATA[Have you just started using Docker and are unsure of all its features? We noticed that questions about how to create Docker container backups frequently appear on forums. To address this, we compiled all the necessary information in this article. We present a clear, step-by-step guide to help you find solutions. This guide equips you […]
-The post How to Backup Docker Containers? appeared first on Collabnix.]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyphernetes: A Graph Query Language for Kubernetes]]></title>
-        <id>https://collabnix.com/?p=29943</id>
-        <link href="https://collabnix.com/cyphernetes-a-graph-query-language-for-kubernetes/"/>
-        <updated>2025-01-08T05:08:46.000Z</updated>
-        <summary type="html"><![CDATA[Kubernetes has become the backbone of modern cloud-native architectures, yet querying and interacting with it at scale often feels like navigating a labyrinth. Tools like kubectl, jq, and jsonpath are indispensable, but they lack the expressive power needed for querying complex relationships across Kubernetes objects. Enter Cyphernetes, a graph-query language inspired by Cypher, which promises […]
-The post Cyphernetes: A Graph Query Language for Kubernetes appeared first on Collabnix.]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Termora：一个极具潜力的高颜值跨平台SSH客户端]]></title>
-        <id>https://blog.xiaoz.org/?p=21700</id>
-        <link href="https://blog.xiaoz.org/archives/21700"/>
-        <updated>2025-01-08T03:30:03.000Z</updated>
-        <summary type="html"><![CDATA[Termora 是一个高颜值终端模拟器和 SSH 客户端，目前已经支持 Windows，macOS 和 Linux，根据作者的介绍，未来还将支持 Android、iOS 等。目前，该项目已在 GitHub 上开源。Termora功能特点支持 SSH 和本地终端支持 SFTP 文件传输支持 Windo]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[用 LD_PRELOAD 写魔法程序]]></title>
         <id>https://www.kawabangga.com/?p=6825</id>
         <link href="https://www.kawabangga.com/posts/6825"/>
@@ -6795,17 +6775,6 @@ https://github.com/AbdBarho/stable-diffusion-webui-docker/issues/719
 https://github.com/AbdBar…]]></summary>
         <author>
             <name>敖小剑的博客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proxmox Storage Configuration for Beginners]]></title>
-        <id>https://www.virtualizationhowto.com/?p=298690</id>
-        <link href="https://www.virtualizationhowto.com/2025/01/proxmox-storage-configuration-for-beginners/"/>
-        <updated>2025-01-07T17:03:39.000Z</updated>
-        <summary type="html"><![CDATA[Proxmox is gaining steam as the leading open-source hypervisor. It is already the “home lab darling” among the community and it is gaining traction in the enterprise as well. One of the first things you will want to do with your Proxmox installation is configure your storage for virtual machines and containers. Let’s look at …
-The post Proxmox Storage Configuration for Beginners appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>

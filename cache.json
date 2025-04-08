@@ -840,16 +840,6 @@
           "wordCount": 4704,
           "title": "快速构建稳定的 Armbian 系统：玩客云折腾速通指南（二）",
           "imageUrl": null
-        },
-        {
-          "id": "https://soulteary.com/2025/01/08/lightweight-server-under-fifty-yuan-wanke-cloud-speed-running-guide-1.html",
-          "author": "苏洋(soulteary)",
-          "description": "这是一份专注于稳定性的玩客云使用指南。无论你是想要一台低成本的服务器，还是对类似的嵌入式设备感兴趣，接下来这几篇文章都会告诉你如何让玩客云更稳定、更易维护，以及躲开折腾的时候会遇到麻烦和故障。",
-          "link": "https://soulteary.com/2025/01/08/lightweight-server-under-fifty-yuan-wanke-cloud-speed-running-guide-1.html",
-          "publishedOn": "2025-01-08T07:37:00.000Z",
-          "wordCount": 901,
-          "title": "五十元内的轻量服务器：玩客云折腾速通指南（一）",
-          "imageUrl": null
         }
       ]
     },
@@ -1239,6 +1229,26 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=300412",
+          "author": "Brandon Lee",
+          "description": "All NVMe Roundup!!! Check out items on today’s daily tech deals for NVMe deals. Today you can get a SAMSUNG 990 PRO SSD 4TB PCIe 4.0 M.2 2280 for 35% off, a SAMSUNG 990 EVO Plus SSD 1TB for 32% off, a WD_BLACK 8TB SN850X NVMe Internal Gaming SSD for 38% off, a ORICO 2 & …\nThe post Daily Tech Deals April 7 2025 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/04/daily-tech-deals-april-7-2025/",
+          "publishedOn": "2025-04-07T13:34:17.000Z",
+          "wordCount": 8583,
+          "title": "Daily Tech Deals April 7 2025",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/04/image-17.jpeg"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=300395",
+          "author": "Brandon Lee",
+          "description": "One of the most basic types of resources that most want to self-host is file storage. File storage in general includes anything and everything that you might need to keep around or access for personal files. This can also include applications, utilities, logs, and many other things. We have seen so many great solutions come …\nThe post Best Home File Server Storage Options in 2025 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/04/best-home-file-server-storage-options-in-2025/",
+          "publishedOn": "2025-04-07T13:01:20.000Z",
+          "wordCount": null,
+          "title": "Best Home File Server Storage Options in 2025",
+          "imageUrl": null
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=300370",
           "author": "Brandon Lee",
@@ -2148,16 +2158,6 @@
           "wordCount": 11938,
           "title": "Kubernetes Home Lab: Ultimate Guide for 2025!",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/kubernetes-home-lab.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298690",
-          "author": "Brandon Lee",
-          "description": "Proxmox is gaining steam as the leading open-source hypervisor. It is already the “home lab darling” among the community and it is gaining traction in the enterprise as well. One of the first things you will want to do with your Proxmox installation is configure your storage for virtual machines and containers. Let’s look at …\nThe post Proxmox Storage Configuration for Beginners appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/01/proxmox-storage-configuration-for-beginners/",
-          "publishedOn": "2025-01-07T17:03:39.000Z",
-          "wordCount": 10672,
-          "title": "Proxmox Storage Configuration for Beginners",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/proxmox-storage-configuration-for-beginners.jpg"
         }
       ]
     },
@@ -3265,26 +3265,6 @@
           "wordCount": 3701,
           "title": "Kubernetes Vs  Amazon EKS:What is the difference?",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=29952",
-          "author": "Tanvir Kour",
-          "description": "Have you just started using Docker and are unsure of all its features? We noticed that questions about how to create Docker container backups frequently appear on forums. To address this, we compiled all the necessary information in this article. We present a clear, step-by-step guide to help you find solutions. This guide equips you […]\nThe post How to Backup Docker Containers? appeared first on Collabnix.",
-          "link": "https://collabnix.com/how-to-backup-docker-containers/",
-          "publishedOn": "2025-01-08T05:59:20.000Z",
-          "wordCount": 4466,
-          "title": "How to Backup Docker Containers?",
-          "imageUrl": "https://usercontent.one/wp/collabnix.com/wp-content/uploads/2025/01/Screenshot-2025-01-08-at-11.29.35 AM.png?media=1735802179"
-        },
-        {
-          "id": "https://collabnix.com/?p=29943",
-          "author": "Tanvir Kour",
-          "description": "Kubernetes has become the backbone of modern cloud-native architectures, yet querying and interacting with it at scale often feels like navigating a labyrinth. Tools like kubectl, jq, and jsonpath are indispensable, but they lack the expressive power needed for querying complex relationships across Kubernetes objects. Enter Cyphernetes, a graph-query language inspired by Cypher, which promises […]\nThe post Cyphernetes: A Graph Query Language for Kubernetes appeared first on Collabnix.",
-          "link": "https://collabnix.com/cyphernetes-a-graph-query-language-for-kubernetes/",
-          "publishedOn": "2025-01-08T05:08:46.000Z",
-          "wordCount": 3337,
-          "title": "Cyphernetes: A Graph Query Language for Kubernetes",
-          "imageUrl": "https://usercontent.one/wp/collabnix.com/wp-content/uploads/2025/01/Screenshot-2025-01-08-at-10.42.18 AM.png?media=1735802179"
         }
       ]
     },
@@ -4855,16 +4835,6 @@
           "publishedOn": "2025-01-16T06:47:07.000Z",
           "wordCount": 247,
           "title": "英国公司申请ICO费用免除",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=21700",
-          "author": "xiaoz",
-          "description": "Termora 是一个高颜值终端模拟器和 SSH 客户端，目前已经支持 Windows，macOS 和 Linux，根据作者的介绍，未来还将支持 Android、iOS 等。目前，该项目已在 GitHub 上开源。Termora功能特点支持 SSH 和本地终端支持 SFTP 文件传输支持 Windo",
-          "link": "https://blog.xiaoz.org/archives/21700",
-          "publishedOn": "2025-01-08T03:30:03.000Z",
-          "wordCount": 280,
-          "title": "Termora：一个极具潜力的高颜值跨平台SSH客户端",
           "imageUrl": null
         }
       ]
