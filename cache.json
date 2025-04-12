@@ -24,16 +24,6 @@
           "wordCount": 1031,
           "title": "跨城搬家总结",
           "imageUrl": "https://random-img.pupper.cn/api?1231"
-        },
-        {
-          "id": "https://marsperl.github.io/yyg/64b9e8e0/",
-          "author": null,
-          "description": "登山-嵩山\n​    前两天，去了登封爬了嵩山，在登封两天的总体感觉还不错。\n人文风情\n​    之前做攻略看到登封的炒刀削不错。特地去尝了尝，地址是登封汽车客运总站旁的小店，个人觉得味道不错，分量足，价格适中。\n​",
-          "link": "https://marsperl.github.io/yyg/64b9e8e0/",
-          "publishedOn": "2025-01-12T02:01:59.000Z",
-          "wordCount": 1005,
-          "title": "休闲娱乐-1月",
-          "imageUrl": "https://t.mwm.moe/fj?5041"
         }
       ]
     },
@@ -859,6 +849,16 @@
       "siteUrl": "https://blog.ops-coffee.cn",
       "articles": [
         {
+          "id": "https://blog.ops-coffee.cn/r/city-china-zhejiang-jinhua-panan-318.html",
+          "author": null,
+          "description": "清明节假期，探索磐安县的浙中318川藏线，体验惊险刺激的自驾之旅，从悬崖村到花溪风景区，再到榉溪村，沿途领略大盘山的自然美景和深厚的文化底蕴，感受浙中盆景和天然氧吧的魅力。",
+          "link": "https://blog.ops-coffee.cn/r/city-china-zhejiang-jinhua-panan-318.html",
+          "publishedOn": "2025-04-11T13:35:55.000Z",
+          "wordCount": 140,
+          "title": "磐安｜自驾浙中川藏线，过没有人从众的假期",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.ops-coffee.cn/r/birthday-surprise-and-life-reflection.html",
           "author": null,
           "description": "在34岁生日当天，儿子的一句“生日快乐”带来惊喜，文章以此为起点，反思了在大城市的生活、家庭的幸福以及对未来的思考。文中提到如何处理资产保值、对失业的态度、家庭的温馨重要性以及人生长跑的心态。",
@@ -1083,6 +1083,16 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://nops.icu/archives/202/",
+          "author": "季兴",
+          "description": "在 deepseek-r1:32b 中小尺寸模型下，A100 单卡可提供 1.8QPS，单问题 7 秒内完成响应。 对于小团队够用。 单卡推理比4090弱服务器硬件配置：○ CPU：Intel(...",
+          "link": "https://nops.icu/archives/202/",
+          "publishedOn": "2025-04-02T07:21:00.000Z",
+          "wordCount": 565,
+          "title": "Nvidia 8卡A100简易性能测试",
+          "imageUrl": null
+        },
+        {
           "id": "https://nops.icu/archives/198/",
           "author": "季兴",
           "description": "你购买了test.dev 需要跳转到 test.com，在godaddy上仅需配置转发，http(s)://test.dev 都可正常跳转。在国内云仅支持http://test.dev→http...",
@@ -1229,6 +1239,26 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=300509",
+          "author": "Brandon Lee",
+          "description": "I really couldn’t believe the news that just surfaced on Twitter and elsewhere that Broadcom is bringing back the Free ESXi hypervisor. When we say this past year and this year already has been tumultuous on a hypervisor front, that would be a massive understatement. Not sure on the “why” of the turn of events, …\nThe post VMware ESXi Free Edition Available Again with 8.0U3e – Download Now! appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/04/vmware-esxi-free-edition-available-again-with-8-0u3e-download-now/",
+          "publishedOn": "2025-04-11T16:18:01.000Z",
+          "wordCount": 10205,
+          "title": "VMware ESXi Free Edition Available Again with 8.0U3e – Download Now!",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/04/VMware-vSphere-8.0-is-free-again.png"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=300490",
+          "author": "Brandon Lee",
+          "description": "Proxmox has really accelerated the development and introduction of new features and they have had reason to. I think they have become arguably the most popular free KVM virtualization solution, especially for home lab environments, but even in production. They have been introducing new features right and left. Just a couple of days ago now, …\nThe post Proxmox VE 8.4 Released New Features and Download! appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/04/proxmox-ve-8-4-released-new-features-and-download/",
+          "publishedOn": "2025-04-11T12:30:20.000Z",
+          "wordCount": null,
+          "title": "Proxmox VE 8.4 Released New Features and Download!",
+          "imageUrl": null
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=300464",
           "author": "Brandon Lee",
@@ -2186,6 +2216,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=31639",
+          "author": "Adesoji Alu",
+          "description": "Imagine you’ve built a slick AI workflow with CrewAI—say, a team of agents that scrape job postings, craft tailored CVs, and email applications on your behalf. It works beautifully on your local machine, but then reality hits: you want to run this for dozens of job postings daily, across multiple users, without your laptop turning […]",
+          "link": "https://collabnix.com/solving-scalability-and-management-woes-integrating-crewai-with-an-mcp-server/",
+          "publishedOn": "2025-04-11T09:37:37.000Z",
+          "wordCount": 3262,
+          "title": "Solving Scalability and Management Woes: Integrating CrewAI with an MCP Server",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=31632",
+          "author": "Tanvir Kour",
+          "description": "About to reset your Docker Desktop, move to a new machine, or accidentally nuked your setup entirely? Below, we’re going hands-on with Docker Desktop data backups and everything you need to know to keep your containers and volumes safe. And hey, if you’re already in damage control mode, we’ll also cover what you can do […]",
+          "link": "https://collabnix.com/how-to-backup-and-restore-your-docker-desktop-data/",
+          "publishedOn": "2025-04-11T04:07:11.000Z",
+          "wordCount": null,
+          "title": "How to Backup and Restore your Docker Desktop Data",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=31629",
           "author": "Tanvir Kour",
@@ -3856,21 +3906,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bluehe.cn/usr/uploads/2025/01/2630011135.jpg"
-        },
-        {
-          "id": "https://bluehe.cn/archives/teacher-trainee",
-          "author": "寻鹤",
-          "description": "2024年9月10日，我开始了为期四个月的教育实习，这是我作为师范生选择的体验。在德育老师的介绍下，第一次走进了实习班级，登上了讲台后，向学生们做了自我介绍。看到学生们的热情笑脸，我感到特别亲切和温暖。更让我感动的是，我还收到了人生中的第一份教师节祝福，这...",
-          "link": "https://bluehe.cn/archives/teacher-trainee",
-          "publishedOn": "2025-01-11T15:54:00.000Z",
-          "wordCount": 737,
-          "title": "中职校园：师范生实习见闻录",
-          "enclosure": {
-            "url": "https://bluehe.cn/usr/uploads/2025/01/3154383782.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bluehe.cn/usr/uploads/2025/01/3154383782.jpg"
         }
       ]
     },
@@ -3878,7 +3913,18 @@
       "title": "东评西就",
       "feedUrl": "https://dongjunke.cn/atom.xml",
       "siteUrl": "https://dongjunke.cn/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://dongjunke.cn/posts/2025/04/11/23745.html",
+          "author": null,
+          "description": "<p>如今的AI爱好者分两种，一种是有Manus邀请码的人，一种是没有Manus邀请码的人。</p>\n<p>经过一个多月漫长的排队等待，我也是有Manus邀请码的人了。</p>\n<p>拿到邀请码后，我就像一个守身如玉多年的处男，内心荡漾，魂不守舍，憧憬着以怎样的姿势迎接自己的初夜",
+          "link": "https://dongjunke.cn/posts/2025/04/11/23745.html",
+          "publishedOn": "2025-04-11T15:53:40.000Z",
+          "wordCount": 405,
+          "title": "拿到Manus邀请码后，我肝了一个博客站点，耗尽了所有免费积分",
+          "imageUrl": "https://pic.587804.xyz/pic/20250411235252.jpeg"
+        }
+      ]
     },
     {
       "title": "Bensz",
@@ -4422,16 +4468,6 @@
           "wordCount": 1336,
           "title": "重磅! 腾讯云发布 200M 峰值带宽、不限流量服务器！锐驰型轻量应用服务器测评",
           "imageUrl": "https://imagehost.mintimate.cn/post_qCloudRazorSpeed/banner.webp"
-        },
-        {
-          "id": "https://www.mintimate.cn/2025/01/11/edgeOneWithCosToken/",
-          "author": null,
-          "description": "<p>为了防止 CDN 的 资源被盗刷而产生高额流量费；CDN 云厂商通常会给予我们简单的权限认证，避免未授权的文件被访问，进而避免资源被盗刷。我尝试了一下腾讯云基于时间戳的 Token 鉴权，还是挺巧妙和轻量的，这里分享给大家。</p>\n<p><img src=\"https://imagehost.mintimate.cn/emoticon/peaceful.gif\" alt=\"分享一下\"></p>",
-          "link": "https://www.mintimate.cn/2025/01/11/edgeOneWithCosToken/",
-          "publishedOn": "2025-01-11T19:33:45.000Z",
-          "wordCount": 1007,
-          "title": "有趣且轻量的 CDN URL 鉴权方式： 时间戳 Token 鉴权",
-          "imageUrl": "https://imagehost.mintimate.cn/post_EdgeOneWithCosToken/banner.webp"
         }
       ]
     },
