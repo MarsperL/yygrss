@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-04-13T03:23:21.405Z</updated>
+    <updated>2025-04-14T02:01:34.839Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[KubeCon EU 2025 参会报告：塑造云原生格局的洞察与趋势]]></title>
+        <id>https://jimmysong.io/blog/kubecon-eu-2025-london-recap/</id>
+        <link href="https://jimmysong.io/blog/kubecon-eu-2025-london-recap/"/>
+        <updated>2025-04-13T11:22:45.000Z</updated>
+        <summary type="html"><![CDATA[上周，我亲自前往伦敦参加了 KubeCon + CloudNativeCon Europe 2025，这是云原生领域一年一度的盛会。今年的大会汇聚了超过 12,500 名开发者、维护者和用户，场面热烈、话题深度十足。
+为了更好地总结这次大会的内容和趋势，我制作了一份 HTML/PDF 格式的报告，对重点主题进行了归纳，包括：
+AI 在 Kubernetes 中的落地与趋势
+安全策略演进（供应链、身份信任等）
+平台工程从工具走向体验与指标
+多集群与边缘计算的现实应用
+可持续性与绿色计算的呼声增强
+👉 点击此处查看完整报告
+欢迎你阅读报告，也欢迎通过评论、邮件等方式与我交流你对大会趋势的看法！]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025年清明节-闲逛-华农梦想岛]]></title>
         <id>https://4311346.com/post/2025/0412-qingming.html</id>
@@ -4135,6 +4153,16 @@ The post Should You Build or Buy a Home Server in 2025? appeared first on Virtua
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[和 deepseek 创作悬疑短篇]]></title>
+        <id>https://yeshu.cloud/posts/newsletter-129/</id>
+        <link href="https://yeshu.cloud/posts/newsletter-129/"/>
+        <updated>2025-02-16T12:25:34.000Z</updated>
+        <summary type="html"><![CDATA[算不上一次成功的探索，吸取一些经验教训，多多尝试。]]></summary>
+        <author>
+            <name>一颗小树</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Optimizing for Success: Solving Technical SEO Challenges]]></title>
         <id>https://collabnix.com/?p=30509</id>
         <link href="https://collabnix.com/optimizing-for-success-solving-technical-seo-challenges/"/>
@@ -6561,25 +6589,6 @@ The post Hashicorp Vault Docker Install Steps: Kubernetes Not Required! appeared
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[使用 Envoy 实现 HTTP/2 CONNECT 隧道：原理与实践]]></title>
-        <id>https://jimmysong.io/blog/http2-envoy-tunnel-demo/</id>
-        <link href="https://jimmysong.io/blog/http2-envoy-tunnel-demo/"/>
-        <updated>2025-01-14T10:28:37.000Z</updated>
-        <summary type="html"><![CDATA[在最近对 Istio Ambient 模式的研究中，我发现 HTTP2 Connect 方法被用作创建隧道的核心技术，以实现透明流量的拦截和转发。HTTP/2 CONNECT 隧道是一种强大的工具，可以在已有的 HTTP/2 连接中创建高效的隧道，用于传输原始的 TCP 数据。这篇文章通过一个简单的 Demo，展示了如何使用 Envoy 来实现 HTTP/2 CONNECT 隧道的基本功能。
-什么是 HTTP2 Connect 方法以及 HBONE 隧道？
-HTTP2 Connect 方法是一种标准化的方式来创建隧道，用于透明地传输数据。特别是在 Istio 的 Ambient 模式中，它为代理数据平面之间的通信提供了一种高效的手段。HBONE（HTTP-Based Overlay Network Environment）隧道则是基于这种 HTTP2 Connect 技术的实现，用于 Istio 中的透明流量拦截和转发。通过使用 HBONE，数据可以有效地通过 HTTP2 隧道安全传输，替代了传统的 Sidecar 模式。这一创新设计极大地简化了服务网格的管理和部署。
-HBONE 是 Istio 特有的术语，它是一种安全隧道协议，用于在 Istio 组件之间进行通信。在当前的 Istio 实现中，HBONE 协议包含了三个开放标准：
-HTTP/2
-HTTP CONNECT
-Mutual TLS (mTLS)
-HTTP CONNECT 用于建立隧道连接，mTLS 用于安全地加密连接，而 HTTP/2 用于在单一安全隧道中多路复用应用连接流并传输附加的流级元数据。更多关于 HBONE 隧道的细节可以参考官方文档：HBONE 详细介绍。
-使用 HTTP2 Connect 建立隧道的基本原理
-HTTP2 Connect 方法允许我们创建一个类似于 VPN 的隧道，通过这个隧道可以安…]]></summary>
-        <author>
-            <name>Jimmy Song</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[姐姐寄来了茉莉花茶]]></title>
         <id>https://qq.mba/214.html</id>
         <link href="https://qq.mba/214.html"/>
@@ -6648,54 +6657,6 @@ Continue reading...]]></summary>
 找小孩用的贴纸或其他东西把洞挡住就完事。]]></summary>
         <author>
             <name>法律小茶馆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Gracemont 微架构评测]]></title>
-        <id>https://jia.je/hardware/2025/01/12/intel_gracemont/</id>
-        <link href="https://jia.je/hardware/2025/01/12/intel_gracemont/"/>
-        <updated>2025-01-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Intel Gracemont 微架构评测¶
-背景¶
-之前 测试了 Intel Alder Lake 的 P 核微架构，这次就来测一下 Alder Lake 的 E 核微架构 Gracemont。
-
-官方信息¶
-Intel 关于 Gracemont 微架构有这些官方的信息：
-
-Intel Alder Lake CPU Architectures
-Alder Lake Architecture on Hot Chips 33
-Intel 64 and IA-32 Architectures Optimization Reference Manual Volume 1
-
-现有评测¶
-网上已经有较多针对 Gracemont 微架构的评测和分析，建议阅读：
-
-Gracemont: Revenge of the Atom Cores
-Intel’s Gracemont Small Core Eclipses Last-Gen Big Core Performance
-
-下面分各个模块分别记录官方提供的信息，以及实测的结果。读者可以对照已有的第三方评测理解。官方信息与实测结果一致的数据会加粗。
-Benchmark¶
-Intel Gracemont 的性能测试结果见 SPEC。
-前端¶
-Fetch¶
-官方信息：
-
-2x 32B/cycle
-
-Gracemont 的 Clustered Decode 架构比较特别，目前没有找到方法去证实它的 Fetch 带宽，后续如果找到了更好的方法，再测这个特性。
-Decode¶
-官方信息：
-
-2x 3-wide
-
-Gracemont 的 Clustered Decode 架构比较特别，目前没有找到方法去确认它 2x 3-wide 的 Decode 带宽，后续如果找到了更好的方法，再测这个特性。
-L1 ICache¶
-官方信息：
-
-64KB
-
-为了测试 …]]></summary>
-        <author>
-            <name>杰哥的{运维，编程，调板子}小笔记</name>
         </author>
     </entry>
     <entry>

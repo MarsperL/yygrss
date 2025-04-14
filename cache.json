@@ -1016,6 +1016,16 @@
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
         {
+          "id": "https://jimmysong.io/blog/kubecon-eu-2025-london-recap/",
+          "author": "Jimmy Song",
+          "description": "上周，我亲自前往伦敦参加了 KubeCon + CloudNativeCon Europe 2025，这是云原生领域一年一度的盛会。今年的大会汇聚了超过 12,500 名开发者、维护者和用户，场面热烈、话题深度十足。\n为了更好地总结这次大会的内容和趋势，我制作了一份 HTML/PDF 格式的报告，对重点主题进行了归纳，包括：\nAI 在 Kubernetes 中的落地与趋势\n安全策略演进（供应链、身份信任等）\n平台工程从工具走向体验与指标\n多集群与边缘计算的现实应用\n可持续性与绿色计算的呼声增强\n👉 点击此处查看完整报告\n欢迎你阅读报告，也欢迎通过评论、邮件等方式与我交流你对大会趋势的看法！",
+          "link": "https://jimmysong.io/blog/kubecon-eu-2025-london-recap/",
+          "publishedOn": "2025-04-13T11:22:45.000Z",
+          "wordCount": 203,
+          "title": "KubeCon EU 2025 参会报告：塑造云原生格局的洞察与趋势",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
+        },
+        {
           "id": "https://jimmysong.io/blog/mastering-github-copilot-for-open-source/",
           "author": "Jimmy Song",
           "description": "过去一年中，我一直享有 GitHub Copilot 的免费使用资格，但是由于种种原因，我并没有深入地使用它。最近看到了 GitHub 官方发布的一篇关于 Copilot 的博客《Mastering GitHub Copilot: When to use AI agent mode》，让我对如何更好地使用 Copilot 有了新的灵感和思考。\n在这篇文章里，我想和大家分享一下我对 Copilot 强大功能的理解，尤其是 Copilot Edits 和 Agent Mode 这两个模式之间的差异和使用场景。最后，我还想呼吁所有开源项目的贡献者：如果你符合条件，一定要去积极申请 Copilot 免费使用资格，让自己的开发效率更上一个台阶！\n为什么你的 AI 辅助写码好像“不给力”？\n大多数开发者在接触 AI 辅助编码工具（比如 GitHub Copilot）时，都会或多或少地遇到一些状况，比如：\n生成的代码和你所需的功能“差那么一点”；\n需要在多个文件间跳来跳去修改，却希望 AI 能自动帮忙“通盘考虑”。\n其实，这些小挫折往往不在于工具本身，而在于你是否找对了使用方式。GitHub Copilot 内部包含多个侧重点各不相同的功能，它们各自适合在不同的情景下使用。正确地选择合适的功能，就是解锁 Copilot 真正实力的关键。\nCopilot Edits：快速精确的“微调”\n什么时候用它？\n小范围的修复：修复一个函数的 bug。\n重构特定模块：给函数或组件做局部优化。\n做跨文件的一致性改动：例如统一日志打印格式，或者统一变量命名方式。\nCopilot Edits 的功能就像是给你配备了一个能读懂上下文的“超级编辑器”。你可以快速发出命令，让它在有限范围内对现有代码进行改动，并在提交前查看 diff，随时保持对改动的掌控。\nAgent Mode：你的“多文件大管家”\n与 Copi…",
@@ -1073,16 +1083,6 @@
           "publishedOn": "2025-01-20T08:50:25.000Z",
           "wordCount": 330,
           "title": "探索云原生可观测性：技术与团队协作的深度结合",
-          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
-        },
-        {
-          "id": "https://jimmysong.io/blog/http2-envoy-tunnel-demo/",
-          "author": "Jimmy Song",
-          "description": "在最近对 Istio Ambient 模式的研究中，我发现 HTTP2 Connect 方法被用作创建隧道的核心技术，以实现透明流量的拦截和转发。HTTP/2 CONNECT 隧道是一种强大的工具，可以在已有的 HTTP/2 连接中创建高效的隧道，用于传输原始的 TCP 数据。这篇文章通过一个简单的 Demo，展示了如何使用 Envoy 来实现 HTTP/2 CONNECT 隧道的基本功能。\n什么是 HTTP2 Connect 方法以及 HBONE 隧道？\nHTTP2 Connect 方法是一种标准化的方式来创建隧道，用于透明地传输数据。特别是在 Istio 的 Ambient 模式中，它为代理数据平面之间的通信提供了一种高效的手段。HBONE（HTTP-Based Overlay Network Environment）隧道则是基于这种 HTTP2 Connect 技术的实现，用于 Istio 中的透明流量拦截和转发。通过使用 HBONE，数据可以有效地通过 HTTP2 隧道安全传输，替代了传统的 Sidecar 模式。这一创新设计极大地简化了服务网格的管理和部署。\nHBONE 是 Istio 特有的术语，它是一种安全隧道协议，用于在 Istio 组件之间进行通信。在当前的 Istio 实现中，HBONE 协议包含了三个开放标准：\nHTTP/2\nHTTP CONNECT\nMutual TLS (mTLS)\nHTTP CONNECT 用于建立隧道连接，mTLS 用于安全地加密连接，而 HTTP/2 用于在单一安全隧道中多路复用应用连接流并传输附加的流级元数据。更多关于 HBONE 隧道的细节可以参考官方文档：HBONE 详细介绍。\n使用 HTTP2 Connect 建立隧道的基本原理\nHTTP2 Connect 方法允许我们创建一个类似于 VPN 的隧道，通过这个隧道可以安…",
-          "link": "https://jimmysong.io/blog/http2-envoy-tunnel-demo/",
-          "publishedOn": "2025-01-14T10:28:37.000Z",
-          "wordCount": 1397,
-          "title": "使用 Envoy 实现 HTTP/2 CONNECT 隧道：原理与实践",
           "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
         }
       ]
@@ -3554,6 +3554,16 @@
           "imageUrl": "https://yeshu.cloud/images/android-chrome-192x192.png"
         },
         {
+          "id": "https://yeshu.cloud/posts/newsletter-129/",
+          "author": null,
+          "description": "算不上一次成功的探索，吸取一些经验教训，多多尝试。",
+          "link": "https://yeshu.cloud/posts/newsletter-129/",
+          "publishedOn": "2025-02-16T12:25:34.000Z",
+          "wordCount": 321,
+          "title": "和 deepseek 创作悬疑短篇",
+          "imageUrl": "https://yeshu.cloud/images/android-chrome-192x192.png"
+        },
+        {
           "id": "https://yeshu.cloud/posts/newsletter-130/",
           "author": null,
           "description": "在干中学。",
@@ -5665,16 +5675,6 @@
           "publishedOn": "2025-02-04T00:00:00.000Z",
           "wordCount": 349,
           "title": "导出飞书日历为 iCalendar 格式",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jia.je/hardware/2025/01/12/intel_gracemont/",
-          "author": null,
-          "description": "Intel Gracemont 微架构评测¶\n背景¶\n之前 测试了 Intel Alder Lake 的 P 核微架构，这次就来测一下 Alder Lake 的 E 核微架构 Gracemont。\n\n官方信息¶\nIntel 关于 Gracemont 微架构有这些官方的信息：\n\nIntel Alder Lake CPU Architectures\nAlder Lake Architecture on Hot Chips 33\nIntel 64 and IA-32 Architectures Optimization Reference Manual Volume 1\n\n现有评测¶\n网上已经有较多针对 Gracemont 微架构的评测和分析，建议阅读：\n\nGracemont: Revenge of the Atom Cores\nIntel’s Gracemont Small Core Eclipses Last-Gen Big Core Performance\n\n下面分各个模块分别记录官方提供的信息，以及实测的结果。读者可以对照已有的第三方评测理解。官方信息与实测结果一致的数据会加粗。\nBenchmark¶\nIntel Gracemont 的性能测试结果见 SPEC。\n前端¶\nFetch¶\n官方信息：\n\n2x 32B/cycle\n\nGracemont 的 Clustered Decode 架构比较特别，目前没有找到方法去证实它的 Fetch 带宽，后续如果找到了更好的方法，再测这个特性。\nDecode¶\n官方信息：\n\n2x 3-wide\n\nGracemont 的 Clustered Decode 架构比较特别，目前没有找到方法去确认它 2x 3-wide 的 Decode 带宽，后续如果找到了更好的方法，再测这个特性。\nL1 ICache¶\n官方信息：\n\n64KB\n\n为了测试 …",
-          "link": "https://jia.je/hardware/2025/01/12/intel_gracemont/",
-          "publishedOn": "2025-01-12T00:00:00.000Z",
-          "wordCount": 996,
-          "title": "Intel Gracemont 微架构评测",
           "imageUrl": null
         }
       ]
