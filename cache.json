@@ -184,16 +184,6 @@
           "wordCount": 1784,
           "title": "My website has been gaslighting you",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/01/like-this-and-like-that-and-like-this-and-uh/",
-          "author": null,
-          "description": "Now that I have a job where I’m writing web components full time, I see the this keyword more than I ever have in my whole life. It’s not a problem, per se, but you can see how it’s a little repetitive. I started wondering what my options were to fix this minor annoyance and the ShopTalk Discord helped me find a simple way and an over-the-top way to fix my issue.\nSimple way: Overriding VS Code theme color tokens\nBy default my Github Light theme makes this a bold dark blue color. I didn’t want to roll my own theme though to scratch this niche itch, so I dug in and found out you can override single tokens in VS Code. Handy. The documentation is a bit opaque but here’s what you need to do:\n\n// settings.json\n\"editor.tokenColorCustomizations\": {\n  \"textMateRules\": [\n    {\n      \"scope\": \"variab…",
-          "link": "https://daverupert.com/2025/01/like-this-and-like-that-and-like-this-and-uh/",
-          "publishedOn": "2025-01-15T01:41:00.000Z",
-          "wordCount": 1019,
-          "title": "Making \"this\" less annoying",
-          "imageUrl": null
         }
       ]
     },
@@ -1016,6 +1006,16 @@
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
         {
+          "id": "https://jimmysong.io/blog/leveraging-envoypatchpolicy-to-extend-the-capabilities-of-envoy-gateway/",
+          "author": "Jimmy Song",
+          "description": "注意：本文基于 Envoy Gateway v1.3.2。\n\nEnvoy Gateway 构建在 Envoy Proxy 之上，提供了一套丰富的功能。然而，在某些情况下，你可能希望使用 Envoy Proxy 的一些功能，而这些功能并未通过 Envoy Gateway 的 API 暴露出来。这时就可以使用从 Envoy Gateway v0.5.0 引入的 EnvoyPatchPolicy API。它允许你自定义 Envoy Gateway 生成的 xDS 资源。本文将指导你如何启用该 API，并实现一个非常实用的功能 —— 本地响应修改（Local Reply Modification）。\n我们将从前置条件开始介绍，然后讲解如何启用 EnvoyPatchPolicy、如何编写自定义响应逻辑，并最终验证效果。\n需要注意的是，该 API 由于依赖 Envoy Proxy 和 Envoy Gateway 的 xDS 翻译机制，可能在版本间存在不稳定性。但使用 EnvoyPatchPolicy，可以让你动态地塑造 Envoy Gateway 的行为，释放其全部潜力。\n前置条件\n在开始之前，请确保你已正确安装 Envoy Gateway 和示例资源清单。运行以下命令完成环境准备并确保可以通过 HTTP 访问示例 backend：\n# 安装 Envoy Gateway 和示例清单\nhelm install eg oci://docker.io/envoyproxy/gateway-helm --version v1.3.2 -n envoy-gateway-system --create-namespace\nkubectl wait --timeout=5m -n envoy-gateway-system deployment/envoy-gateway --for=conditio…",
+          "link": "https://jimmysong.io/blog/leveraging-envoypatchpolicy-to-extend-the-capabilities-of-envoy-gateway/",
+          "publishedOn": "2025-04-14T05:16:35.000Z",
+          "wordCount": 535,
+          "title": "利用 EnvoyPatchPolicy 拓展 Envoy Gateway 的能力",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
+        },
+        {
           "id": "https://jimmysong.io/blog/kubecon-eu-2025-london-recap/",
           "author": "Jimmy Song",
           "description": "上周，我亲自前往伦敦参加了 KubeCon + CloudNativeCon Europe 2025，这是云原生领域一年一度的盛会。今年的大会汇聚了超过 12,500 名开发者、维护者和用户，场面热烈、话题深度十足。\n为了更好地总结这次大会的内容和趋势，我制作了一份 HTML/PDF 格式的报告，对重点主题进行了归纳，包括：\nAI 在 Kubernetes 中的落地与趋势\n安全策略演进（供应链、身份信任等）\n平台工程从工具走向体验与指标\n多集群与边缘计算的现实应用\n可持续性与绿色计算的呼声增强\n👉 点击此处查看完整报告\n欢迎你阅读报告，也欢迎通过评论、邮件等方式与我交流你对大会趋势的看法！",
@@ -1249,6 +1249,26 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=300550",
+          "author": "Brandon Lee",
+          "description": "If you are looking for great deals on home lab mini PCs, there are lots of great Ryzen-based mini PCs and also Intel N series mini PCs on discounts today. Check out items on today’s daily tech deals. You can get a GMKtec M5 Plus Gaming Mini PC for 20% off, GMKtec Mini PC Gaming, …\nThe post Daily Tech Deals April 14 2025 (Great Ryzen Mini PCs for Home lab) appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/04/daily-tech-deals-april-14-2025-great-ryzen-mini-pcs-for-home-lab/",
+          "publishedOn": "2025-04-14T13:33:58.000Z",
+          "wordCount": 8753,
+          "title": "Daily Tech Deals April 14 2025 (Great Ryzen Mini PCs for Home lab)",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/04/image-41.jpeg"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=300521",
+          "author": "Brandon Lee",
+          "description": "So you may be like me and still wondering if this is some kind of parallel universe where Broadcom reversed their decision to pull the free VMware ESXi hypervisor. But if you have been following my latest blog posts and latest videos, this has surprisingly been a development that came about with the recent release …\nThe post Install the New VMware ESXi Free Edition Custom ISOs and Limitations appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/04/install-the-new-vmware-esxi-free-edition-custom-isos-and-limitations/",
+          "publishedOn": "2025-04-14T12:45:56.000Z",
+          "wordCount": null,
+          "title": "Install the New VMware ESXi Free Edition Custom ISOs and Limitations",
+          "imageUrl": null
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=300509",
           "author": "Brandon Lee",
@@ -2198,16 +2218,6 @@
           "wordCount": 10074,
           "title": "Clone Proxmox LXC Containers with Terraform Automation",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/proxmox-lxc-containers-with-terraform-automation.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298805",
-          "author": "Brandon Lee",
-          "description": "If you are doing much DevOps and working with terraform code, Ansible, or other IaC, having a secure place to store secrets so your code doesn’t have those secrets hard coded is a great way to make sure secrets and passwords are not stored in plain text. If you are looking to spin up Hashicorp …\nThe post Hashicorp Vault Docker Install Steps: Kubernetes Not Required! appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/01/hashicorp-vault-docker-install-steps-kubernetes-not-required/",
-          "publishedOn": "2025-01-14T14:14:26.000Z",
-          "wordCount": 9994,
-          "title": "Hashicorp Vault Docker Install Steps: Kubernetes Not Required!",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/vault-docker-install.jpg"
         }
       ]
     },
@@ -2216,6 +2226,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=31662",
+          "author": "Tanvir Kour",
+          "description": "You’re searching the internet for what to do when your Android phone is stuck at Verify Your Account screen. Don’t worry, this is a common happenstance and this guide will help. What your phone is really stuck at is what’s called FRP screen, and it is so because your phone was factory reset without signing […]",
+          "link": "https://collabnix.com/the-best-android-frp-bypass-tool-is-here-all-you-need-to-know/",
+          "publishedOn": "2025-04-14T17:18:14.000Z",
+          "wordCount": 2994,
+          "title": "The Best Android FRP Bypass Tool Is Here: All You Need to Know",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=31639",
           "author": "Adesoji Alu",
@@ -3314,16 +3334,6 @@
           "publishedOn": "2025-01-16T06:09:28.000Z",
           "wordCount": 2756,
           "title": "How AI Enhances Cloud-Native App Deployment",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30071",
-          "author": "Adesoji Alu",
-          "description": "Introduction Monitoring and alerting are crucial aspects of managing Kubernetes clusters. Prometheus is a powerful open-source monitoring and alerting toolkit that is widely used in Kubernetes environments. This guide explains how to successfully install Prometheus on MicroK8s and solve the common TLS certificate issue that may arise during the process. Prerequisites A working MicroK8s installation. […]",
-          "link": "https://collabnix.com/installing-prometheus-on-microk8s-in-2025-a-step-by-step-guide/",
-          "publishedOn": "2025-01-15T09:21:10.000Z",
-          "wordCount": 2397,
-          "title": "Installing Prometheus on MicroK8s in 2025: A Step-by-Step Guide",
           "imageUrl": null
         }
       ]

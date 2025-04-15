@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-04-14T02:01:34.839Z</updated>
+    <updated>2025-04-15T02:00:12.477Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Best Android FRP Bypass Tool Is Here: All You Need to Know]]></title>
+        <id>https://collabnix.com/?p=31662</id>
+        <link href="https://collabnix.com/the-best-android-frp-bypass-tool-is-here-all-you-need-to-know/"/>
+        <updated>2025-04-14T17:18:14.000Z</updated>
+        <summary type="html"><![CDATA[You’re searching the internet for what to do when your Android phone is stuck at Verify Your Account screen. Don’t worry, this is a common happenstance and this guide will help. What your phone is really stuck at is what’s called FRP screen, and it is so because your phone was factory reset without signing […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daily Tech Deals April 14 2025 (Great Ryzen Mini PCs for Home lab)]]></title>
+        <id>https://www.virtualizationhowto.com/?p=300550</id>
+        <link href="https://www.virtualizationhowto.com/2025/04/daily-tech-deals-april-14-2025-great-ryzen-mini-pcs-for-home-lab/"/>
+        <updated>2025-04-14T13:33:58.000Z</updated>
+        <summary type="html"><![CDATA[If you are looking for great deals on home lab mini PCs, there are lots of great Ryzen-based mini PCs and also Intel N series mini PCs on discounts today. Check out items on today’s daily tech deals. You can get a GMKtec M5 Plus Gaming Mini PC for 20% off, GMKtec Mini PC Gaming, …
+The post Daily Tech Deals April 14 2025 (Great Ryzen Mini PCs for Home lab) appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Install the New VMware ESXi Free Edition Custom ISOs and Limitations]]></title>
+        <id>https://www.virtualizationhowto.com/?p=300521</id>
+        <link href="https://www.virtualizationhowto.com/2025/04/install-the-new-vmware-esxi-free-edition-custom-isos-and-limitations/"/>
+        <updated>2025-04-14T12:45:56.000Z</updated>
+        <summary type="html"><![CDATA[So you may be like me and still wondering if this is some kind of parallel universe where Broadcom reversed their decision to pull the free VMware ESXi hypervisor. But if you have been following my latest blog posts and latest videos, this has surprisingly been a development that came about with the recent release …
+The post Install the New VMware ESXi Free Edition Custom ISOs and Limitations appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[利用 EnvoyPatchPolicy 拓展 Envoy Gateway 的能力]]></title>
+        <id>https://jimmysong.io/blog/leveraging-envoypatchpolicy-to-extend-the-capabilities-of-envoy-gateway/</id>
+        <link href="https://jimmysong.io/blog/leveraging-envoypatchpolicy-to-extend-the-capabilities-of-envoy-gateway/"/>
+        <updated>2025-04-14T05:16:35.000Z</updated>
+        <summary type="html"><![CDATA[注意：本文基于 Envoy Gateway v1.3.2。
+
+Envoy Gateway 构建在 Envoy Proxy 之上，提供了一套丰富的功能。然而，在某些情况下，你可能希望使用 Envoy Proxy 的一些功能，而这些功能并未通过 Envoy Gateway 的 API 暴露出来。这时就可以使用从 Envoy Gateway v0.5.0 引入的 EnvoyPatchPolicy API。它允许你自定义 Envoy Gateway 生成的 xDS 资源。本文将指导你如何启用该 API，并实现一个非常实用的功能 —— 本地响应修改（Local Reply Modification）。
+我们将从前置条件开始介绍，然后讲解如何启用 EnvoyPatchPolicy、如何编写自定义响应逻辑，并最终验证效果。
+需要注意的是，该 API 由于依赖 Envoy Proxy 和 Envoy Gateway 的 xDS 翻译机制，可能在版本间存在不稳定性。但使用 EnvoyPatchPolicy，可以让你动态地塑造 Envoy Gateway 的行为，释放其全部潜力。
+前置条件
+在开始之前，请确保你已正确安装 Envoy Gateway 和示例资源清单。运行以下命令完成环境准备并确保可以通过 HTTP 访问示例 backend：
+# 安装 Envoy Gateway 和示例清单
+helm install eg oci://docker.io/envoyproxy/gateway-helm --version v1.3.2 -n envoy-gateway-system --create-namespace
+kubectl wait --timeout=5m -n envoy-gateway-system deployment/envoy-gateway --for=conditio…]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KubeCon EU 2025 参会报告：塑造云原生格局的洞察与趋势]]></title>
         <id>https://jimmysong.io/blog/kubecon-eu-2025-london-recap/</id>
@@ -6547,45 +6598,6 @@ The post Clone Proxmox LXC Containers with Terraform Automation appeared first o
 根据联合国人权事务高级专员办事处 2023 年 8 月发布的一份 报告 显示，缅甸有 12 万人被强迫从事电信诈骗，柬埔寨也有 10 万人。细数这些园区的罪行，真是罄竹难书，可能整个刑法分则第二、三、四、五、六章的罪名可能都不足以囊括。可以说自中国刑法诞生以来，就从没遇到过能够同时触犯这…]]></summary>
         <author>
             <name>法律小茶馆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Installing Prometheus on MicroK8s in 2025: A Step-by-Step Guide]]></title>
-        <id>https://collabnix.com/?p=30071</id>
-        <link href="https://collabnix.com/installing-prometheus-on-microk8s-in-2025-a-step-by-step-guide/"/>
-        <updated>2025-01-15T09:21:10.000Z</updated>
-        <summary type="html"><![CDATA[Introduction Monitoring and alerting are crucial aspects of managing Kubernetes clusters. Prometheus is a powerful open-source monitoring and alerting toolkit that is widely used in Kubernetes environments. This guide explains how to successfully install Prometheus on MicroK8s and solve the common TLS certificate issue that may arise during the process. Prerequisites A working MicroK8s installation. […]]]></summary>
-        <author>
-            <name>Adesoji Alu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Making "this" less annoying]]></title>
-        <id>https://daverupert.com/2025/01/like-this-and-like-that-and-like-this-and-uh/</id>
-        <link href="https://daverupert.com/2025/01/like-this-and-like-that-and-like-this-and-uh/"/>
-        <updated>2025-01-15T01:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Now that I have a job where I’m writing web components full time, I see the this keyword more than I ever have in my whole life. It’s not a problem, per se, but you can see how it’s a little repetitive. I started wondering what my options were to fix this minor annoyance and the ShopTalk Discord helped me find a simple way and an over-the-top way to fix my issue.
-Simple way: Overriding VS Code theme color tokens
-By default my Github Light theme makes this a bold dark blue color. I didn’t want to roll my own theme though to scratch this niche itch, so I dug in and found out you can override single tokens in VS Code. Handy. The documentation is a bit opaque but here’s what you need to do:
-
-// settings.json
-"editor.tokenColorCustomizations": {
-  "textMateRules": [
-    {
-      "scope": "variab…]]></summary>
-        <author>
-            <name>daverupert.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hashicorp Vault Docker Install Steps: Kubernetes Not Required!]]></title>
-        <id>https://www.virtualizationhowto.com/?p=298805</id>
-        <link href="https://www.virtualizationhowto.com/2025/01/hashicorp-vault-docker-install-steps-kubernetes-not-required/"/>
-        <updated>2025-01-14T14:14:26.000Z</updated>
-        <summary type="html"><![CDATA[If you are doing much DevOps and working with terraform code, Ansible, or other IaC, having a secure place to store secrets so your code doesn’t have those secrets hard coded is a great way to make sure secrets and passwords are not stored in plain text. If you are looking to spin up Hashicorp …
-The post Hashicorp Vault Docker Install Steps: Kubernetes Not Required! appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
