@@ -977,26 +977,6 @@
           "wordCount": 41,
           "title": "2024年微信公众号收到赞赏6487.50¥",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.ops-coffee.cn/s/devops-cmdb-cloud-monitor-domain-task-billing.html",
-          "author": null,
-          "description": "一个完善的运维自动化系统都包含哪些功能模块",
-          "link": "https://blog.ops-coffee.cn/s/devops-cmdb-cloud-monitor-domain-task-billing.html",
-          "publishedOn": "2025-01-15T18:59:15.000Z",
-          "wordCount": 73,
-          "title": "运维自动化系统各模块介绍",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.ops-coffee.cn/s/devops-cmdb-cloud-monitor-domain-task-billing",
-          "author": null,
-          "description": "一个完善的运维自动化系统都包含哪些功能模块",
-          "link": "https://blog.ops-coffee.cn/s/devops-cmdb-cloud-monitor-domain-task-billing",
-          "publishedOn": "2025-01-15T18:59:15.000Z",
-          "wordCount": 59,
-          "title": "运维自动化系统各模块介绍",
-          "imageUrl": null
         }
       ]
     },
@@ -1249,6 +1229,26 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=300588",
+          "author": "Brandon Lee",
+          "description": "If you are looking for great deals on home lab, here are three that I think you should look at. Check out items on today’s daily tech deals, including GTPLAYER Gaming Chair for 40% off, SAMSUNG 990 PRO SSD 4TB PCIe for 35% off, and finally the Crucial 96 GB DDR5 kit that is 34% …\nThe post Daily Tech Deals April 15 2025 (Gaming Chair, NVMe, and RAM UPGRADE) appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/04/daily-tech-deals-april-15-2025-gaming-chair-nvme-and-ram-upgrade/",
+          "publishedOn": "2025-04-15T14:01:45.000Z",
+          "wordCount": 8523,
+          "title": "Daily Tech Deals April 15 2025 (Gaming Chair, NVMe, and RAM UPGRADE)",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/04/image-46.jpeg"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=300558",
+          "author": "Brandon Lee",
+          "description": "AI has been one of the most revolutionary technologies that has come about in our lifetime. It is continuing to change the world around us as we know it and the capabilities of technology tools that we know and use. The home lab is no exception to the environments that will be impacted by AI. …\nThe post 5 Unexpected Ways to Use AI in Your Home Lab in 2025 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/04/5-unexpected-ways-to-use-ai-in-your-home-lab-in-2025/",
+          "publishedOn": "2025-04-15T13:35:44.000Z",
+          "wordCount": null,
+          "title": "5 Unexpected Ways to Use AI in Your Home Lab in 2025",
+          "imageUrl": null
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=300550",
           "author": "Brandon Lee",
@@ -2198,26 +2198,6 @@
           "wordCount": 10137,
           "title": "Minisforum MS-A2 vs MS-01: Best Home Lab Server in 2025?",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/minisforum-ms-a2-vs-ms-01.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298841",
-          "author": "Brandon Lee",
-          "description": "I use a LOT of Docker containers in the home lab and in my DevOps journey to continually work with various code projects, automation, and just running applications in containers. There are myriads of DevOps containers to be aware of that provide a lot of value and can help you achieve various business and technical objectives. There …\nThe post Best Containers for DevOps in 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/01/best-containers-for-devops-in-2025/",
-          "publishedOn": "2025-01-16T13:36:39.000Z",
-          "wordCount": 13152,
-          "title": "Best Containers for DevOps in 2025",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/best-containers-for-devops-starting-in-2025.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298814",
-          "author": "Brandon Lee",
-          "description": "I love automation, especially when testing out new things in the home lab. Recently, I have been running performance and density tests on mini PCs in the home lab. These have produced some incredible results. However, in working with my test of cloning virtual machines, I quickly realized I needed to use automation for the …\nThe post Clone Proxmox LXC Containers with Terraform Automation appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/01/clone-proxmox-lxc-containers-with-terraform-automation/",
-          "publishedOn": "2025-01-15T14:48:59.000Z",
-          "wordCount": 10074,
-          "title": "Clone Proxmox LXC Containers with Terraform Automation",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/proxmox-lxc-containers-with-terraform-automation.jpg"
         }
       ]
     },
@@ -2226,6 +2206,56 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=31697",
+          "author": "Ajeet Raina",
+          "description": "Ever tried building a GenAI application and hit a wall? 🧱 I know I have. You start with excitement about implementing that cool chatbot or content generator, but then reality hits. You’re either sending sensitive data to third-party APIs with usage limits and costs that quickly add up 💸, or you’re wrestling with complex local […]",
+          "link": "https://collabnix.com/what-is-docker-model-runner-and-what-problem-does-it-solve/",
+          "publishedOn": "2025-04-15T17:50:59.000Z",
+          "wordCount": 4111,
+          "title": "What is Docker Model Runner and what problem does it solve?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=31691",
+          "author": "Tanvir Kour",
+          "description": "In today’s data-driven business landscape, organizations face a critical decision when building their data infrastructure: should they partner with data warehouse consulting firms or develop capabilities in-house? This choice impacts not just technical architecture but also affects speed to market, cost structures, and long-term competitive advantage. Let’s explore both approaches to help you determine which […]",
+          "link": "https://collabnix.com/data-warehouse-consulting-vs-in-house-solutions-which-one-wins/",
+          "publishedOn": "2025-04-15T11:35:09.000Z",
+          "wordCount": null,
+          "title": "Data Warehouse Consulting vs. In-House Solutions: Which One Wins?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=31670",
+          "author": "Adesoji Alu",
+          "description": "Hi guys, let’s dive into the world of building brainy chatbots! You know, the ones that can actually do things and not just parrot back information. Lately, I’ve been playing around with some really cool tech, LangGraph,MCP and Ollama and let me tell you, the potential is mind-blowing. We’re talking about creating multi-agent chatbots for […]",
+          "link": "https://collabnix.com/integration-of-langgraph-mcp-model-context-protocol-and-ollama-to-create-a-powerful-agentic-ai-chatbot/",
+          "publishedOn": "2025-04-15T11:16:46.000Z",
+          "wordCount": null,
+          "title": "Integration of LangGraph, MCP (Model Context Protocol), and Ollama to create a powerful agentic AI chatbot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=31682",
+          "author": "Tanvir Kour",
+          "description": "Security is no longer a checkpoint at the end of development. It’s an integral part of delivering reliable and trustworthy software. As security perimeters increasingly dissolve in the face of cloud-native, API-driven environments, software developers are likewise becoming more responsible for more than just writing secure code. They are expected to understand how their code […]",
+          "link": "https://collabnix.com/simulating-attacks-to-maximize-the-security-of-your-apps-and-assets/",
+          "publishedOn": "2025-04-15T10:38:17.000Z",
+          "wordCount": null,
+          "title": "Simulating Attacks to Maximize the Security of Your Apps and Assets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=31676",
+          "author": "Tanvir Kour",
+          "description": "So you’ve spent years hardening systems, chasing down threats, and putting out digital fires for companies. Now, you’re considering taking all that expertise you’ve built up and starting something of your own. If that’s the case, technical skills are unlikely to be the thing that will hold you back. It’s likely going to come down […]",
+          "link": "https://collabnix.com/from-security-expert-to-entrepreneur-a-roadmap-for-starting-your-cybersecurity-business/",
+          "publishedOn": "2025-04-15T10:35:25.000Z",
+          "wordCount": null,
+          "title": "From Security Expert to Entrepreneur: A Roadmap for Starting Your Cybersecurity Business",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=31662",
           "author": "Tanvir Kour",
@@ -3325,16 +3355,6 @@
           "wordCount": 2988,
           "title": "Transforming Patient Care with IoT in Digital Health",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30085",
-          "author": "Tanvir Kour",
-          "description": "Artificial Intelligence transforms how cloud-native applications are deployed. It simplifies tasks like managing resources and predicting workloads, offering real-time solutions to common challenges. Teams no longer struggle with manual adjustments or complex configurations. AI-powered tools streamline processes, making deployment faster and more efficient. This shift doesn’t just save time – it drives innovation. Developers focus […]",
-          "link": "https://collabnix.com/how-ai-enhances-cloud-native-app-deployment/",
-          "publishedOn": "2025-01-16T06:09:28.000Z",
-          "wordCount": 2756,
-          "title": "How AI Enhances Cloud-Native App Deployment",
-          "imageUrl": null
         }
       ]
     },
@@ -4331,16 +4351,6 @@
           "wordCount": 1313,
           "title": "探索浏览器性能利器 Speedometer 3.0",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/789/",
-          "author": null,
-          "description": "<blockquote>\n<p>DNS 是互联网核心基础设施的关键组成部分，当计算机配置为使用距离最近 DNS 服务器时，可以显著提升域名解析效率，从而有效降低网络延时，优化网络服务响应速度，为用户带来更为流畅高效的网络体验。</p>\n</blockquote>",
-          "link": "https://dusays.com/789/",
-          "publishedOn": "2025-01-15T16:00:00.000Z",
-          "wordCount": 1322,
-          "title": "宽带商 DNS 地址整理「仅 IPv4」",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
     },
@@ -4365,18 +4375,7 @@
       "title": "清风",
       "feedUrl": "https://xbd666.cn/rss.xml",
       "siteUrl": "https://xbd666.cn",
-      "articles": [
-        {
-          "id": "/archives/k8sbu-shu-prometheus",
-          "author": null,
-          "description": "k8s部署prometheus 终端创建 创建namespace mkdir -p /home/k8s/monitoring/{node-exporter,k8s,kube-state-metrics,blackbox-exporter,dingtalk,alertmanager,prometheu",
-          "link": "https://xbd666.cn/archives/k8sbu-shu-prometheus",
-          "publishedOn": "2025-01-16T00:37:38.000Z",
-          "wordCount": 7906,
-          "title": "k8s部署prometheus",
-          "imageUrl": "/upload/dong.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "未雨绸缪",
@@ -4931,16 +4930,6 @@
           "publishedOn": "2025-01-17T03:27:34.000Z",
           "wordCount": 292,
           "title": "Cherry Studio：一款高效全能的 AI 客户端",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=21708",
-          "author": "xiaoz",
-          "description": "ICO（Information Commissioner's Office）是英国的信息专员办公室，负责监督和执行数据保护法律，确保个人信息得到适当的保护，特别是根据《数据保护法》（DPA）和《通用数据保护条例》（GDPR）等法规。前言在注册英国公司后不久，收到了代理公司1st 转发的邮件，从邮件扫",
-          "link": "https://blog.xiaoz.org/archives/21708",
-          "publishedOn": "2025-01-16T06:47:07.000Z",
-          "wordCount": 247,
-          "title": "英国公司申请ICO费用免除",
           "imageUrl": null
         }
       ]
