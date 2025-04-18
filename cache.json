@@ -830,16 +830,6 @@
           "wordCount": 797,
           "title": "雷电显卡坞：Intel ARC B580 和 Windows 设备历险记（一）",
           "imageUrl": null
-        },
-        {
-          "id": "https://soulteary.com/2025/01/17/guide-to-setting-up-ubuntu-24-04-basic-development-environment.html",
-          "author": "苏洋(soulteary)",
-          "description": "本篇文章聊一聊如何在 Ubuntu 24.04 上搭建基础开发环境。",
-          "link": "https://soulteary.com/2025/01/17/guide-to-setting-up-ubuntu-24-04-basic-development-environment.html",
-          "publishedOn": "2025-01-17T14:35:00.000Z",
-          "wordCount": 1221,
-          "title": "搭建 Ubuntu 24.04 基础开发环境指南",
-          "imageUrl": null
         }
       ]
     },
@@ -965,6 +955,16 @@
       "feedUrl": "https://jimmysong.io/blog/index.xml",
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
+        {
+          "id": "https://jimmysong.io/blog/envoy-gateway-data-plane-observability/",
+          "author": "Jimmy Song",
+          "description": "注意：本文基于 Envoy Gateway v1.3.2 编写。\n\n在大规模微服务架构中，可观测性是理解与运维系统的核心能力。Envoy Gateway 构建于 Envoy Proxy 之上，提供了丰富的可观测性功能，包括指标、日志和追踪。本文将通过动手实践的方式，讲解如何基于 Prometheus、Loki 和 Tempo 等开源后端，为 Envoy Gateway 的数据平面（即 Envoy proxy 本身）配置可观测性功能。\n前置条件\n在开始配置之前，请确保你已经完成 Envoy Gateway 的基本安装。下图展示了 Envoy Gateway 的可观测性组件架构：\nEnvoy Gateway 可观测性管道\n  \n\nOpenTelemetry Collector 是一个可插拔的数据中转组件，负责接收、处理和转发可观测性数据（如指标和追踪），来源包括 Envoy Gateway 等系统。通过将数据生成与数据消费解耦，它能够灵活对接多种可观测性后端（如 Prometheus、Tempo、Jaeger），同时支持数据增强、格式转换和多路导出。\n安装 Envoy Gateway\n按照官方 快速开始指南 安装 Envoy Gateway：\nhelm install eg oci://docker.io/envoyproxy/gateway-helm --version v1.3.2 -n envoy-gateway-system --create-namespace\nkubectl wait --timeout=5m -n envoy-gateway-system deployment/envoy-gateway --for=condition=Available\nkubectl apply -f https://github.com/envoyproxy/gateway/…",
+          "link": "https://jimmysong.io/blog/envoy-gateway-data-plane-observability/",
+          "publishedOn": "2025-04-17T12:12:11.000Z",
+          "wordCount": 703,
+          "title": "Envoy Gateway 数据平面可观测性指南",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
+        },
         {
           "id": "https://jimmysong.io/blog/leveraging-envoypatchpolicy-to-extend-the-capabilities-of-envoy-gateway/",
           "author": "Jimmy Song",
@@ -1209,6 +1209,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=300620",
+          "author": "Brandon Lee",
+          "description": "There has certainly been a major shift in virtualization technologies over the past year or so. So many have been fleeing VMware for other hypervisors. It seems like Proxmox has become the new favorite in the community and home lab environments in general. Virtualization is the heart of any home lab, whether you are self-hosting …\nThe post 5 Reasons Proxmox Is the Ultimate Home Lab Hypervisor in 2025 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/04/5-reasons-proxmox-is-the-ultimate-home-lab-hypervisor-in-2025/",
+          "publishedOn": "2025-04-17T14:35:56.000Z",
+          "wordCount": 11084,
+          "title": "5 Reasons Proxmox Is the Ultimate Home Lab Hypervisor in 2025",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/04/5-Reasons-Proxmox-Is-the-Ultimate-Home-Lab-Hypervisor-in-2025.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=300593",
           "author": "Brandon Lee",
@@ -2178,16 +2188,6 @@
           "wordCount": 10424,
           "title": "Secure Nginx Proxy Manager Admin Interface with SSL",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/nginx-proxy-manager-admin-interface-with-ssl.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298867",
-          "author": "Brandon Lee",
-          "description": "I have made no bones about the fact that I think the Minisforum MS-01 was the best home lab mini PC in 2024. I have (2) of them in a two-node VMware vSphere cluster, maybe Proxmox this year. However, when I got word of the Minisforum MS-A2 and the specs this forthcoming mini PC is …\nThe post Minisforum MS-A2 vs MS-01: Best Home Lab Server in 2025? appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/01/minisforum-ms-a2-vs-ms-01-best-home-lab-server-in-2025/",
-          "publishedOn": "2025-01-17T15:21:07.000Z",
-          "wordCount": 10137,
-          "title": "Minisforum MS-A2 vs MS-01: Best Home Lab Server in 2025?",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/minisforum-ms-a2-vs-ms-01.jpg"
         }
       ]
     },
@@ -2196,6 +2196,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=31706",
+          "author": "Adesoji Alu",
+          "description": "Have you ever wished you could build smart AI agents without shipping your data to third-party servers? What if I told you you can run powerful language models like Llama3 directly on your machine while building sophisticated AI agent systems? Let’s roll up our sleeves and create a self-contained AI development environment using Ollama and […]",
+          "link": "https://collabnix.com/running-ai-agents-locally-with-ollama-and-autogen/",
+          "publishedOn": "2025-04-17T21:19:40.000Z",
+          "wordCount": 2772,
+          "title": "Running AI Agents Locally with Ollama and AutoGen",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=31707",
           "author": "Tanvir Kour",
@@ -4475,6 +4485,16 @@
       "feedUrl": "https://zahui.fan/atom.xml",
       "siteUrl": "https://zahui.fan/atom.xml",
       "articles": [
+        {
+          "id": "https://zahui.fan/posts/suuwju/",
+          "author": null,
+          "description": "<p>正常情况下收集日志流程为：</p>\n<ol>\n<li>filebeat 读取节点上指定目录日志文件 –&gt; kafka</li>\n<li>logstash 消费 kafka 数据 –&gt; 写入到 ES 的指定索引<br>加入 kafka 会提高健壮性，可以起到削峰填谷的效果。现在是非生产环境没有 kafka，所以才采用 filebeat 写入到 ES 这种方案。另一种架构：<a",
+          "link": "https://zahui.fan/posts/suuwju/",
+          "publishedOn": "2025-04-17T09:47:54.000Z",
+          "wordCount": 961,
+          "title": "Filebeat直接输出到Elasticsearch",
+          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
+        },
         {
           "id": "https://zahui.fan/posts/su3lwr/",
           "author": null,
