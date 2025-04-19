@@ -956,6 +956,16 @@
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
         {
+          "id": "https://jimmysong.io/blog/migrating-from-ingress-nginx-to-envoy-gateway/",
+          "author": "Jimmy Song",
+          "description": "本文旨在帮助当前依赖 ingress-nginx 的用户迁移至 Envoy Gateway 并采用 Gateway API。我们将介绍迁移的动因，提供一个基于 Minikube 的实操示例，并展示如 ingress2gateway 工具如何简化整个迁移流程。\n为什么要迁移？\nIngress Controller 是每个 Kubernetes 集群中不可或缺的组件。许多用户在最初搭建集群时选择了 ingress-nginx，并在之后很少关注它的配置运行。而传统的 Ingress API 与 nginx controller 存在诸多限制：如果你曾因复杂的注解配置而感到困扰，或者遇到配置更改导致连接中断的情况，那么你可能已经意识到，是时候寻找更现代的替代方案了。\n认识 Envoy Gateway 和 Gateway API\nEnvoy Proxy 是一个现代的、为云原生设计的代理，具备可观测性、热更新和良好的可运维性。Envoy Gateway（EG） 基于 Envoy 构建，提供了基于 Kubernetes Gateway API 的强大 Ingress 解决方案。\n与传统的 Ingress API 不同，Gateway API 提供了 Gateway、HTTPRoute 和 GatewayClass 等结构化资源，支持更清晰、无注解的配置方式。EG 支持如下高级特性：\n全局速率限制\n基于 OIDC 的认证\nWAF 防护集成（如 Coraza）\n这些特性往往可以替代额外的 API Gateway 产品。Envoy Gateway 是完全开源的，并由 CNCF 社区治理。\n如需企业级支持，Tetrate Enterprise Gateway for Envoy (TEG) 提供了一个可用于生产的企业级发行版。\n\n迁移流程：从 nginx 迁移到 Envoy Gateway\n在动…",
+          "link": "https://jimmysong.io/blog/migrating-from-ingress-nginx-to-envoy-gateway/",
+          "publishedOn": "2025-04-18T08:31:36.000Z",
+          "wordCount": 675,
+          "title": "从 ingress-nginx 迁移到 Envoy Gateway 指南",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
+        },
+        {
           "id": "https://jimmysong.io/blog/envoy-gateway-data-plane-observability/",
           "author": "Jimmy Song",
           "description": "注意：本文基于 Envoy Gateway v1.3.2 编写。\n\n在大规模微服务架构中，可观测性是理解与运维系统的核心能力。Envoy Gateway 构建于 Envoy Proxy 之上，提供了丰富的可观测性功能，包括指标、日志和追踪。本文将通过动手实践的方式，讲解如何基于 Prometheus、Loki 和 Tempo 等开源后端，为 Envoy Gateway 的数据平面（即 Envoy proxy 本身）配置可观测性功能。\n前置条件\n在开始配置之前，请确保你已经完成 Envoy Gateway 的基本安装。下图展示了 Envoy Gateway 的可观测性组件架构：\nEnvoy Gateway 可观测性管道\n  \n\nOpenTelemetry Collector 是一个可插拔的数据中转组件，负责接收、处理和转发可观测性数据（如指标和追踪），来源包括 Envoy Gateway 等系统。通过将数据生成与数据消费解耦，它能够灵活对接多种可观测性后端（如 Prometheus、Tempo、Jaeger），同时支持数据增强、格式转换和多路导出。\n安装 Envoy Gateway\n按照官方 快速开始指南 安装 Envoy Gateway：\nhelm install eg oci://docker.io/envoyproxy/gateway-helm --version v1.3.2 -n envoy-gateway-system --create-namespace\nkubectl wait --timeout=5m -n envoy-gateway-system deployment/envoy-gateway --for=condition=Available\nkubectl apply -f https://github.com/envoyproxy/gateway/…",
@@ -1209,6 +1219,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=300634",
+          "author": "Brandon Lee",
+          "description": "The heart of running AI workloads at home is the GPU installed in your AI workstation or AI server. If you are running local LLMs like LLaMA or looking to generate images with something like Stable Diffusion, the GPU you pick will have a huge impact on the performance and experience of your AI solution …\nThe post Best Budget GPU for AI in Your Home Server 2025 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/04/best-budget-gpu-for-ai-in-your-home-server-2025/",
+          "publishedOn": "2025-04-18T14:45:25.000Z",
+          "wordCount": 10467,
+          "title": "Best Budget GPU for AI in Your Home Server 2025",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/04/Best-Budget-GPU-for-AI.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=300620",
           "author": "Brandon Lee",
@@ -3990,16 +4010,6 @@
           "wordCount": 8493,
           "title": "前沿快讯 第68期 工程化嗜酸乳杆菌可以经鼻内给药为小鼠大脑输送药物等",
           "imageUrl": "https://chevereto.hwb0307.com/images/2025/03/07/science.adq2509-fa.jpg"
-        },
-        {
-          "id": "https://blognas.hwb0307.com/?p=6295",
-          "author": "Bensz",
-          "description": "Bensz\n前沿快讯 第67期 大规模多语言和多模态机器翻译系统等\n本博客由Faconhost大力赞助！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 前言 本文是前沿快讯的第67期。前沿快讯栏目主要收集一些个人感兴趣的近期发表的研究，关注领域包括肿瘤的分子生物学、临床研究、流行病学等，文献类型主要是期刊论文和综述。研究介绍在Google机翻摘要的基础上进行微调，可能不一定特别准确、专业，主要目的是方便自己和大家快速了解和回顾相关领域研究进展。如果你对某个研究的细节感兴趣，请自行寻找全文进一步了解。此外，研究根据子领域会进一步细分，不过交叉领域的研究不好分为某一类，所以这个分类主要用于初级索引，并不十分准确，不喜勿喷。最后，大家看到什么特别的研究，也可以在评论区向我推荐，我会酌情收录在后面的期刊中。如无意外，前沿快讯栏目会长期更新，周期为2周-1月 […]\nBensz",
-          "link": "https://blognas.hwb0307.com/medicine/6295",
-          "publishedOn": "2025-01-19T11:57:25.000Z",
-          "wordCount": 8322,
-          "title": "前沿快讯 第67期 大规模多语言和多模态机器翻译系统等",
-          "imageUrl": "https://chevereto.hwb0307.com/images/2025/01/17/science.adi3624-fa.jpg"
         }
       ]
     },
@@ -4132,6 +4142,16 @@
       "feedUrl": "https://dusays.com/atom.xml",
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
+        {
+          "id": "https://dusays.com/812/",
+          "author": null,
+          "description": "<blockquote>\n<p>1Panel 的用户越来越多，内置 Web 服务 OpenResty 使用占比也在增加，但网上对其优化的教程很少。应关关童靴的需求，更新一篇有关 OpenResty 的一些优化建议。可优化设置项较少，需要的小伙伴可以根据实际需求变更配置。</p>\n</blockquote>",
+          "link": "https://dusays.com/812/",
+          "publishedOn": "2025-03-24T16:00:00.000Z",
+          "wordCount": 1369,
+          "title": "OpenResty 的性能优化配置建议",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
         {
           "id": "https://dusays.com/811/",
           "author": null,
@@ -4341,16 +4361,6 @@
           "wordCount": 1302,
           "title": "FreeFileSync 开源文件同步与备份利器",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/790/",
-          "author": null,
-          "description": "<blockquote>\n<p>在当今数字化时代，浏览器已成为我们日常生活中不可或缺的工具。如何衡量浏览器性能呢？Speedometer 3.0 正为此而生。它是一款专注于测试浏览器响应速度和性能的基准测试工具，通过模拟真实用户操作，帮助我们深入了解浏览器在处理复杂任务时的表现。</p>\n</blockquote>",
-          "link": "https://dusays.com/790/",
-          "publishedOn": "2025-01-18T16:00:00.000Z",
-          "wordCount": 1313,
-          "title": "探索浏览器性能利器 Speedometer 3.0",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
     },
@@ -4485,6 +4495,16 @@
       "feedUrl": "https://zahui.fan/atom.xml",
       "siteUrl": "https://zahui.fan/atom.xml",
       "articles": [
+        {
+          "id": "https://zahui.fan/posts/suwpme/",
+          "author": null,
+          "description": "<p>selenium 是一个 python 库, 用于操作 chromium 浏览器实现一些自动化的动作, 本文是为了把 grafana 的监控图截图保存, 后续可以将图片做成运维报表之类的.</p>\n<h2 id=\"调试阶段\"><a href=\"#调试阶段\" class=\"headerlink\" title=\"调试阶段\"></a>调试阶段</h2><p>调试阶段可以使用电脑上的",
+          "link": "https://zahui.fan/posts/suwpme/",
+          "publishedOn": "2025-04-18T09:13:26.000Z",
+          "wordCount": 872,
+          "title": "使用selenium来实现Grafana的自动截图",
+          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
+        },
         {
           "id": "https://zahui.fan/posts/suuwju/",
           "author": null,
