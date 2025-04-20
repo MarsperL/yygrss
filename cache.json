@@ -839,6 +839,16 @@
       "siteUrl": "https://blog.ops-coffee.cn",
       "articles": [
         {
+          "id": "https://blog.ops-coffee.cn/r/rv-guide-diesel-water-electricity-management.html",
+          "author": null,
+          "description": "4年房车用户最接地气的真实总结和分享，是避坑手册，也是选购指南",
+          "link": "https://blog.ops-coffee.cn/r/rv-guide-diesel-water-electricity-management.html",
+          "publishedOn": "2025-04-19T15:57:24.000Z",
+          "wordCount": 47,
+          "title": "房车小白避坑指南｜房车选购及使用经验",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.ops-coffee.cn/r/city-china-zhejiang-jinhua-panan-318.html",
           "author": null,
           "description": "清明节假期，探索磐安县的浙中318川藏线，体验惊险刺激的自驾之旅，从悬崖村到花溪风景区，再到榉溪村，沿途领略大盘山的自然美景和深厚的文化底蕴，感受浙中盆景和天然氧吧的魅力。",
@@ -1043,16 +1053,6 @@
           "publishedOn": "2025-01-21T02:02:05.000Z",
           "wordCount": 251,
           "title": "免费的 AI 绘图工具推荐：Raphael.app",
-          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
-        },
-        {
-          "id": "https://jimmysong.io/blog/cloud-native-observability-devops/",
-          "author": "Jimmy Song",
-          "description": "最近读了 TheNewStack 发布的电子书《Cloud Native Observability for DevOps Teams》，虽然这本书是 2022 年出品的，但给我了很大的启发。它不仅讨论了技术工具，还深入探讨了团队协作、文化建设和未来趋势的结合点。在这本书里，“观察”不仅仅是看到数据，而是看清背后的意义。可以说，它从根本上改变了我对可观测性的理解。\n核心内容\n本书从基础定义到实际操作，系统地阐述了云原生可观测性的重要性及其实现方式。通过具体的工具和策略，它帮助读者理解如何整合指标、日志、追踪和混沌工程等维度，全面掌控分布式系统的健康状况，为 DevOps 团队提供高效的决策支持。\n可观测性的定义与价值\n书中开篇就点明：可观测性是通过系统的外部信号推断内部状态的能力。不仅是传统的指标（Metrics）、日志（Logs）、追踪（Tracing）三根支柱的组合，而是一种综合性、全局化的分析方法。正如作者所说：\n“Observability isn’t just the ability to see each piece at a time; it’s also the ability to understand the broader picture and how these pieces combine.”\n云原生环境的挑战\n书中特别强调了 Kubernetes 环境中日志和监控的复杂性。Kubernetes 没有内置的完整可观测性解决方案，只提供了基础功能，比如 kubectl 查看对象状态，而更高级的功能需要依赖第三方工具如 Fluentd 和 Prometheus。\n实践指南\n书中在实践部分提到了多种实现可观测性的具体策略和工具：\n应用日志：通过 Fluentd 或类似工具采集容器内的标准输出日志，帮助开发者定位应用问题。\n集群日志：收集 Kubernetes 核心组件如 kube-apiserver 和 etcd 的日志，适合排查系统级别的故障。\n事件日志：利用 kubectl get events 快速了解集群中资源的状态变化。\n审计日志：记录 API 请求，便于安全审查和权限问题的定位。\n混沌工程：利用工具如 Chaos Mesh 和 Litmus Chaos，验证系统在高压或异常情况下的表现。\n这些实践指南强调了工具与策略的结合，从而实现全面的可观测性。\n我的思考与观点\n超越数据本身的“观察力”\n书中强调，单纯收集数据并不能解决问题，关键在于跨维度数据的整合与分析。例如，在性能问题排查时，指标和追踪往往无法直接关联，而这正是现有工具的短板。未来，统一数据存储和分析视角的工具，比如 OpenTelemetry 提倡的标准化方法，可能是突破口。\nAI 与可观测性的结合\n随着 AI 技术的发展，可观测性工具也可以更智能化。例如，通过机器学习预测异常，或是自动推荐优化策略。这不仅能减少人为干预，还能提升故障响应速度。正如作者在混沌工程部分提到的：\n“Instead of waiting for something to happen and finding out how your application fares, you put it through duress under controlled conditions to identify weaknesses and fix them.”\n从团队协作到文化转型\n书中提到“DevOps 的终极目标是跨团队的协作与同理心”，这点深有共鸣。尤其是在复杂分布式系统中，开发和运维团队往往各自为战，导致沟通断层。跨团队协作的关键在于工具提供的透明性与共享视角，而不仅仅是技术能力。\n总结\n这本书的独到之处在于它从技术和人文两个角度同时切入，它让我意识到，可观测性不仅是一组工具的集合，而是一种文化、一种能力，帮助我们更深刻地理解系统，推动团队协作，并在复杂的云原生环境中建立起真正的“透明化”。\n最后，我想引用书中一段非常打动我的话来结尾：\n“Observability lets you see the beautiful and complete picture that is your production software systems.”",
-          "link": "https://jimmysong.io/blog/cloud-native-observability-devops/",
-          "publishedOn": "2025-01-20T08:50:25.000Z",
-          "wordCount": 330,
-          "title": "探索云原生可观测性：技术与团队协作的深度结合",
           "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
         }
       ]
@@ -2198,16 +2198,6 @@
           "wordCount": 11079,
           "title": "Build Your Own Arpwatch Docker Container to Watch Your Network",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/arpwatch-docker-container-1.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298879",
-          "author": "Brandon Lee",
-          "description": "I really like Nginx Proxy Manager to secure my Docker containers running on Docker hosts with SSL certificates. I find it to be extremely intuitive and it is absolutely one of those “must have” tools in the home lab environment that you need to have. However, have you wondered how you can secure Nginx Proxy Manager admin …\nThe post Secure Nginx Proxy Manager Admin Interface with SSL appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/01/secure-nginx-proxy-manager-admin-interface-with-ssl/",
-          "publishedOn": "2025-01-20T13:25:21.000Z",
-          "wordCount": 10424,
-          "title": "Secure Nginx Proxy Manager Admin Interface with SSL",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/nginx-proxy-manager-admin-interface-with-ssl.png"
         }
       ]
     },
@@ -3365,26 +3355,6 @@
           "wordCount": 3525,
           "title": "Custom ERP: Unlocking Efficiency and Growth for Your Business",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30099",
-          "author": "Adesoji Alu",
-          "description": "Over the past year, Microsoft developments with AutoGen have underscored the remarkable capabilities of agentic AI and multi-agent systems. Microsoft is thrilled to unveil AutoGen v0.4 , a major update shaped by invaluable feedback from our vibrant community of users and developers. This release marks a comprehensive overhaul of the AutoGen library, designed to elevate […]",
-          "link": "https://collabnix.com/introducing-autogen-v0-4-revolutionizing-agentic-ai-with-enhanced-scalability-flexibility-and-reliability/",
-          "publishedOn": "2025-01-20T12:43:08.000Z",
-          "wordCount": 3832,
-          "title": "Introducing AutoGen v0.4: Revolutionizing Agentic AI with Enhanced Scalability, Flexibility, and Reliability",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30094",
-          "author": "Tanvir Kour",
-          "description": "Explore the impact of IoT on digital health, from improving patient monitoring to transforming healthcare services in general.",
-          "link": "https://collabnix.com/transforming-patient-care-with-iot-in-digital-health/",
-          "publishedOn": "2025-01-20T10:06:41.000Z",
-          "wordCount": 2988,
-          "title": "Transforming Patient Care with IoT in Digital Health",
-          "imageUrl": null
         }
       ]
     },
@@ -3621,16 +3591,6 @@
           "publishedOn": "2025-02-16T12:25:34.000Z",
           "wordCount": 321,
           "title": "和 deepseek 创作悬疑短篇",
-          "imageUrl": "https://yeshu.cloud/images/android-chrome-192x192.png"
-        },
-        {
-          "id": "https://yeshu.cloud/posts/newsletter-130/",
-          "author": null,
-          "description": "在干中学。",
-          "link": "https://yeshu.cloud/posts/newsletter-130/",
-          "publishedOn": "2025-01-19T14:11:46.000Z",
-          "wordCount": 167,
-          "title": "基于大模型搭建内容输出工作流",
           "imageUrl": "https://yeshu.cloud/images/android-chrome-192x192.png"
         }
       ]
@@ -4077,16 +4037,6 @@
           "wordCount": null,
           "title": "失去的5000元，M4的MacMini就此没有了",
           "imageUrl": null
-        },
-        {
-          "id": "https://4311346.com/post/2025/0120-annual-meeting.html",
-          "author": null,
-          "description": "还能写日志，说明还活着，这上周700人的年会终于忙完了，感觉要累瘫的节奏，却没有休息，第二天一早依然出现在公司，还得继续负责善尾工作。整体来说会议进程都在计划中，唯一的遗憾是在抽奖环节中，出现了一些问题，后台重新调试软件后，才得以重新开始继续抽奖。\n全场都吃好了，就自己一个人没有吃，因为等忙完的时候，餐桌上的菜也吃得差不多了。随后带着人力部门10多个小伙伴走访20多个业务团队敬酒，红酒\\黄酒\\白酒干不下40杯…直到23点开始清场。这该死的酒文化，在宴会厅地上，宴会厅门口，酒店外的马路上不少已不省人事的同事。然后逐个找相关团队负责人，安排同部门的同事来将人带走，不管是送医院还是楼上开房…\n最后离场已转钟，不能碰运气，只能叫代驾回家… 沙发上坐着睡着到第二天天亮，太惨了。\n关于年会抽奖\n关于年会抽奖，特别是哪些单价大于5000元以上的奖品，中奖要求多多少少会被公司有一些特定要求，作为年会的举办部门，不得已需要在抽奖环节中去做些手脚。虽然年会抽奖的中奖率为25%，奖品也分了 一\\二\\三\\四\\五等奖，但对于二等奖及以上的奖品，单个价值都在5000元以上了，公司肯定不希望那些刚入职几天的人获得，毕竟200多人的业务团队的离职率还是非常的大。\n入职几天的人获得大奖，领奖次日离职的案例，在行业内并不是少数。\n虽然在淘宝采购抽奖软件时，就需要很多的注意，包括使用抽奖软件的设置。\n比如：\n每一个奖项，能被抽取的人员名单是提前输入进去的，也就是说，每一个奖项，最终在哪些人员中产生是可以提前被设置的。\n所以在设置奖项时，需要按照公司的要求，规划被抽奖人名单，做不到绝对公平，但可以按要求做到相对公平。比如5000元以上的奖品，需要被抽取的人员是在职满一年的人员。\n抽奖都是从五\\四\\三\\二\\一\\特等奖，从小往大了抽，那么在前面中奖过的人，就不会被后面再一次被抽到。\n等等…\n当然在抽奖软件中，被抽中谁，或者那些人被抽中的几率更大，都是可以设置的…\n膳魔师TCTG-500保温杯\n年会抽奖的中奖率25%，其中15台苹果设备，最终都没抽到… 但运气还是有的，中了一个膳魔师TCTG-500保温杯，纯钛合金材质果然轻，就丢在车上，未来长途旅行时使用把。\n2025年春节前最后一周\n此时距离2025年春节假期，也就只有一周时间了。即使最忙的年会工作已经结束，也没能感觉轻松…估计还得在岗位上坚守到最后一刻。",
-          "link": "https://4311346.com/post/2025/0120-annual-meeting.html",
-          "publishedOn": "2025-01-20T11:01:47.000Z",
-          "wordCount": 221,
-          "title": "关于年会抽奖的软件设置问题",
-          "imageUrl": null
         }
       ]
     },
@@ -4477,16 +4427,6 @@
           "wordCount": 1106,
           "title": "macOS 部署 Ollama 和 Open WebUI，实现本地运行 DeepSeek 大模型",
           "imageUrl": "https://imagehost.mintimate.cn/post_hostModelByOllama/banner.webp"
-        },
-        {
-          "id": "https://www.mintimate.cn/2025/01/20/qCloudRazorSpeed/",
-          "author": null,
-          "description": "腾讯云轻量应用服务器已经发布了锐驰型轻量应用服务。也就是峰值带宽为 200Mbps 的轻量应用服务器，不限流量，怪不得叫作锐驰型(Razor speed)。我们就来看看这服务器的性能表现，以及适合哪些场景。",
-          "link": "https://www.mintimate.cn/2025/01/20/qCloudRazorSpeed/",
-          "publishedOn": "2025-01-20T11:51:34.000Z",
-          "wordCount": 1336,
-          "title": "重磅! 腾讯云发布 200M 峰值带宽、不限流量服务器！锐驰型轻量应用服务器测评",
-          "imageUrl": "https://imagehost.mintimate.cn/post_qCloudRazorSpeed/banner.webp"
         }
       ]
     },
@@ -5207,16 +5147,6 @@
           "publishedOn": "2025-02-28T07:21:00.000Z",
           "wordCount": 527,
           "title": "iView中时间控件选择的时间总是少一天？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.52itstyle.vip/archives/5615/",
-          "author": "柒",
-          "description": "Linux系统挂载FTP服务文件目录",
-          "link": "https://blog.52itstyle.vip/archives/5615/",
-          "publishedOn": "2025-01-20T02:11:00.000Z",
-          "wordCount": 513,
-          "title": "Linux系统挂载FTP服务文件目录",
           "imageUrl": null
         }
       ]
