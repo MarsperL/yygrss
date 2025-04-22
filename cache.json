@@ -1144,6 +1144,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=300666",
+          "author": "Brandon Lee",
+          "description": "Well, Synology has placed a lock down on the hard drives they will support in their upcoming Synology NAS devices. They are going to start enforcing stricter hard drive rules in the latest 2025 Plus Series NAS models. Synology has been one that has encouraged its customers to use their branded drives. But the move …\nThe post Synology Just Locked Down Your NAS Drives Here’s What to Use Instead appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/04/synology-just-locked-down-your-nas-drives-heres-what-to-use-instead/",
+          "publishedOn": "2025-04-21T13:25:57.000Z",
+          "wordCount": 11880,
+          "title": "Synology Just Locked Down Your NAS Drives Here’s What to Use Instead",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/04/Synology-locking-hard-drives.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=300634",
           "author": "Brandon Lee",
           "description": "The heart of running AI workloads at home is the GPU installed in your AI workstation or AI server. If you are running local LLMs like LLaMA or looking to generate images with something like Stable Diffusion, the GPU you pick will have a huge impact on the performance and experience of your AI solution …\nThe post Best Budget GPU for AI in Your Home Server 2025 appeared first on Virtualization Howto.",
@@ -2102,16 +2112,6 @@
           "wordCount": 12137,
           "title": "Best Hypervisor in 2025: It depends on your pain tolerance",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/Best-Hypervisor-in-2025-painful.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298924",
-          "author": "Brandon Lee",
-          "description": "Working with GitLab CI CD pipelines is a great way to automate your DevOps processes. In building a CI CD pipeline you can use variables effectively in the CI CD pipeline to reference values you have stored in your GitLab CI CD settings. It is a great way to handle secrets and have these referenced …\nThe post GitLab CI CD Variables and How to Use Them appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/01/gitlab-ci-cd-variables-and-how-to-use-them/",
-          "publishedOn": "2025-01-22T13:19:22.000Z",
-          "wordCount": 10199,
-          "title": "GitLab CI CD Variables and How to Use Them",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/GitLab-variables.png"
         }
       ]
     },
@@ -3249,26 +3249,6 @@
           "wordCount": 3002,
           "title": "What is .NET?",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30142",
-          "author": "Tanvir Kour",
-          "description": "Embedded finance is rapidly transforming how businesses operate, and consumers interact with financial services. By seamlessly integrating financial tools and services into non-financial platforms, embedded finance has made managing money more convenient, intuitive, and efficient. From digital wallets to “Buy Now, Pay Later” (BNPL) options, this trend is reshaping industries and creating a smoother, more […]",
-          "link": "https://collabnix.com/the-seamless-future-the-rise-of-embedded-finance-in-everyday-life/",
-          "publishedOn": "2025-01-22T04:08:16.000Z",
-          "wordCount": 3648,
-          "title": "The Seamless Future: The Rise of Embedded Finance in Everyday Life",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30134",
-          "author": "Tanvir Kour",
-          "description": "Build a custom ERP",
-          "link": "https://collabnix.com/custom-erp-unlocking-efficiency-and-growth-for-your-business/",
-          "publishedOn": "2025-01-21T17:25:47.000Z",
-          "wordCount": 3525,
-          "title": "Custom ERP: Unlocking Efficiency and Growth for Your Business",
-          "imageUrl": null
         }
       ]
     },
@@ -3997,6 +3977,16 @@
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
         {
+          "id": "https://dusays.com/815/",
+          "author": null,
+          "description": "<blockquote>\n<p>Zstandard 以其卓越的性能和丰富的功能，成为了 Linux 下一款不可或缺的压缩工具。无论是对单个文件还是整个目录的压缩和解压，它都可以轻松应对，且在处理速度和压缩效果上都有着出色的表现。</p>\n</blockquote>",
+          "link": "https://dusays.com/815/",
+          "publishedOn": "2025-04-02T16:00:00.000Z",
+          "wordCount": 1374,
+          "title": "Linux 下的高效压缩工具 Zstandard",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
           "id": "https://dusays.com/814/",
           "author": null,
           "description": "<blockquote>\n<p>有小伙伴反馈说侧边栏随机图出现了重复，有些审美疲劳，要求杜老师再更新一些图片，正好聊天广场有小伙伴分享了一个美图的网址。本文分享如何使用 Python 脚本下载指定网页的图片文件，需要的小伙伴可以参考文中代码。</p>\n</blockquote>",
@@ -4224,16 +4214,6 @@
           "publishedOn": "2025-01-24T16:00:00.000Z",
           "wordCount": 1274,
           "title": "关于 Opengist 开源代码片段分享工具服务关闭的公告",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/791/",
-          "author": null,
-          "description": "<blockquote>\n<p>在数字化时代，文件管理和备份是每个用户都必须面对的重要任务。今天，向大家介绍一款开源的文件同步和备份软件 FreeFileSync。以其高效、免费和跨平台特点，成为众多用户在文件管理方面的首选工具。</p>\n</blockquote>",
-          "link": "https://dusays.com/791/",
-          "publishedOn": "2025-01-21T16:00:00.000Z",
-          "wordCount": 1302,
-          "title": "FreeFileSync 开源文件同步与备份利器",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
@@ -4627,6 +4607,16 @@
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
         {
+          "id": "https://blog.xiaoz.org/?p=21935",
+          "author": "xiaoz",
+          "description": "这篇文章是我在腾讯云技术社区的一次线下分享内容，现将其整理为了文字版，分享了写博客11年来的经历，以及通过博客过渡到做产品和走向自由职业的一个小故事。文中还首次公开了我的首个产品ImgURL的真实数据和产品现状。自我介绍大家好，我是xiaoz，以前从事服务器运维相关工作，现在已经转自由职业3年，目前",
+          "link": "https://blog.xiaoz.org/archives/21935",
+          "publishedOn": "2025-04-21T02:08:23.000Z",
+          "wordCount": 281,
+          "title": "技术人用博客撬动产品机会，从写作到自由职业的11年实践",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.xiaoz.org/?p=21920",
           "author": "xiaoz",
           "description": "为什么选择亚马逊云科技部署DeepSeek模型？在AWS re:Invent大会上，亚马逊云科技分享了大规模AI部署的三个关键发现：计算成本优化是大规模AI应用的核心考量构建高质量的生成式AI应用需要专业的MLOps支持开发者需要多样化的模型选择来满足不同场景需求中国AI公司DeepSeek推出的D",
@@ -4804,16 +4794,6 @@
           "publishedOn": "2025-02-06T06:18:40.000Z",
           "wordCount": 272,
           "title": "硅基流动：注册即送2000万Tokens，畅享DeepSeek R1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=21728",
-          "author": "xiaoz",
-          "description": "无法提供摘要。这是一篇受保护的文章。",
-          "link": "https://blog.xiaoz.org/archives/21728",
-          "publishedOn": "2025-01-22T03:20:13.000Z",
-          "wordCount": 250,
-          "title": "密码保护：AWS Route 53 上手指南：轻松掌握域名解析与 DNS 管理",
           "imageUrl": null
         }
       ]
@@ -5015,6 +4995,16 @@
       "feedUrl": "https://zhangguanzhang.github.io/atom.xml",
       "siteUrl": "http://zhangguanzhang.github.io/atom.xml",
       "articles": [
+        {
+          "id": "http://zhangguanzhang.github.io/2025/04/21/kube-log-runner/",
+          "author": null,
+          "description": "<p>最近使用 kube-log-runner 的经历…..</p>",
+          "link": "http://zhangguanzhang.github.io/2025/04/21/kube-log-runner/",
+          "publishedOn": "2025-04-21T10:40:30.000Z",
+          "wordCount": null,
+          "title": "kube-log-runner 使用和适配 logrotate 改造",
+          "imageUrl": null
+        },
         {
           "id": "http://zhangguanzhang.github.io/2025/02/14/aliyun-ecs-ssl/",
           "author": null,

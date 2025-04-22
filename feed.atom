@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-04-21T02:04:44.931Z</updated>
+    <updated>2025-04-22T01:58:56.126Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Synology Just Locked Down Your NAS Drives Here’s What to Use Instead]]></title>
+        <id>https://www.virtualizationhowto.com/?p=300666</id>
+        <link href="https://www.virtualizationhowto.com/2025/04/synology-just-locked-down-your-nas-drives-heres-what-to-use-instead/"/>
+        <updated>2025-04-21T13:25:57.000Z</updated>
+        <summary type="html"><![CDATA[Well, Synology has placed a lock down on the hard drives they will support in their upcoming Synology NAS devices. They are going to start enforcing stricter hard drive rules in the latest 2025 Plus Series NAS models. Synology has been one that has encouraged its customers to use their branded drives. But the move …
+The post Synology Just Locked Down Your NAS Drives Here’s What to Use Instead appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kube-log-runner 使用和适配 logrotate 改造]]></title>
+        <id>http://zhangguanzhang.github.io/2025/04/21/kube-log-runner/</id>
+        <link href="http://zhangguanzhang.github.io/2025/04/21/kube-log-runner/"/>
+        <updated>2025-04-21T10:40:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>最近使用 kube-log-runner 的经历…..</p>]]></summary>
+        <author>
+            <name>Zhangguanzhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技术人用博客撬动产品机会，从写作到自由职业的11年实践]]></title>
+        <id>https://blog.xiaoz.org/?p=21935</id>
+        <link href="https://blog.xiaoz.org/archives/21935"/>
+        <updated>2025-04-21T02:08:23.000Z</updated>
+        <summary type="html"><![CDATA[这篇文章是我在腾讯云技术社区的一次线下分享内容，现将其整理为了文字版，分享了写博客11年来的经历，以及通过博客过渡到做产品和走向自由职业的一个小故事。文中还首次公开了我的首个产品ImgURL的真实数据和产品现状。自我介绍大家好，我是xiaoz，以前从事服务器运维相关工作，现在已经转自由职业3年，目前]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[房车小白避坑指南｜房车选购及使用经验]]></title>
         <id>https://blog.ops-coffee.cn/r/rv-guide-diesel-water-electricity-management.html</id>
@@ -821,6 +852,18 @@ The post Free Up Disk Space in your Kubernetes Cluster appeared first on Virtual
         <summary type="html"><![CDATA[<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">grafana-cli plugins install]]></summary>
         <author>
             <name>杂烩饭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 下的高效压缩工具 Zstandard]]></title>
+        <id>https://dusays.com/815/</id>
+        <link href="https://dusays.com/815/"/>
+        <updated>2025-04-02T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>Zstandard 以其卓越的性能和丰富的功能，成为了 Linux 下一款不可或缺的压缩工具。无论是对单个文件还是整个目录的压缩和解压，它都可以轻松应对，且在处理速度和压缩效果上都有着出色的表现。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
         </author>
     </entry>
     <entry>
@@ -6168,17 +6211,6 @@ The post Best Hypervisor in 2025: It depends on your pain tolerance appeared fir
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitLab CI CD Variables and How to Use Them]]></title>
-        <id>https://www.virtualizationhowto.com/?p=298924</id>
-        <link href="https://www.virtualizationhowto.com/2025/01/gitlab-ci-cd-variables-and-how-to-use-them/"/>
-        <updated>2025-01-22T13:19:22.000Z</updated>
-        <summary type="html"><![CDATA[Working with GitLab CI CD pipelines is a great way to automate your DevOps processes. In building a CI CD pipeline you can use variables effectively in the CI CD pipeline to reference values you have stored in your GitLab CI CD settings. It is a great way to handle secrets and have these referenced …
-The post GitLab CI CD Variables and How to Use Them appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[特朗普总统就职演说（中英文）]]></title>
         <id>https://chegva.com/?p=6269</id>
         <link href="https://chegva.com/6269.html"/>
@@ -6195,48 +6227,6 @@ The post GitLab CI CD Variables and How to Use Them appeared first on Virtualiza
 我们现在有一个连国内简单的危机都无法管理的政府，而与此同时，在国外却陷入了一连串的灾难性事件。它未能保护我们伟大的、守法的…]]></summary>
         <author>
             <name>anzhihe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Seamless Future: The Rise of Embedded Finance in Everyday Life]]></title>
-        <id>https://collabnix.com/?p=30142</id>
-        <link href="https://collabnix.com/the-seamless-future-the-rise-of-embedded-finance-in-everyday-life/"/>
-        <updated>2025-01-22T04:08:16.000Z</updated>
-        <summary type="html"><![CDATA[Embedded finance is rapidly transforming how businesses operate, and consumers interact with financial services. By seamlessly integrating financial tools and services into non-financial platforms, embedded finance has made managing money more convenient, intuitive, and efficient. From digital wallets to “Buy Now, Pay Later” (BNPL) options, this trend is reshaping industries and creating a smoother, more […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[密码保护：AWS Route 53 上手指南：轻松掌握域名解析与 DNS 管理]]></title>
-        <id>https://blog.xiaoz.org/?p=21728</id>
-        <link href="https://blog.xiaoz.org/archives/21728"/>
-        <updated>2025-01-22T03:20:13.000Z</updated>
-        <summary type="html"><![CDATA[无法提供摘要。这是一篇受保护的文章。]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Custom ERP: Unlocking Efficiency and Growth for Your Business]]></title>
-        <id>https://collabnix.com/?p=30134</id>
-        <link href="https://collabnix.com/custom-erp-unlocking-efficiency-and-growth-for-your-business/"/>
-        <updated>2025-01-21T17:25:47.000Z</updated>
-        <summary type="html"><![CDATA[Build a custom ERP]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FreeFileSync 开源文件同步与备份利器]]></title>
-        <id>https://dusays.com/791/</id>
-        <link href="https://dusays.com/791/"/>
-        <updated>2025-01-21T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>在数字化时代，文件管理和备份是每个用户都必须面对的重要任务。今天，向大家介绍一款开源的文件同步和备份软件 FreeFileSync。以其高效、免费和跨平台特点，成为众多用户在文件管理方面的首选工具。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
         </author>
     </entry>
     <entry>
