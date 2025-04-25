@@ -154,16 +154,6 @@
           "wordCount": 1015,
           "title": "A story about pans",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/01/raycast-focus/",
-          "author": null,
-          "description": "This week Raycast released a new feature called Raycast Focus. This hyped up the Raycast superfans in my social sphere, so I tried it out and I must say that I’m impressed.\nThe timing couldn’t have been more perfect. Earlier this week I tried out a handful of browser extensions that would add some friction to social media sites. I have a bit of a bad habit where I open a new tab and instinctively type my favorite social sites: elk.zone, bsky.app, and of course youtube.com. These are mega time-wasters for me. As someone with ADHD these sites are basically dopamine tar pits for my attention.\nVideos are an obvious stumbling block, but my biggest pain point is clicking on articles and filling up a couple browsers worth of tabs such that it occupies my brain RAM and I can’t focus on my next tas…",
-          "link": "https://daverupert.com/2025/01/raycast-focus/",
-          "publishedOn": "2025-01-25T01:31:00.000Z",
-          "wordCount": 908,
-          "title": "Raycast Focus works really well",
-          "imageUrl": null
         }
       ]
     },
@@ -1144,6 +1134,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=300738",
+          "author": "Brandon Lee",
+          "description": "Running your home lab is a tremendously good resource for learning. It allows you to get your hands on many different technologies and experiment with these in a way that would not be possible otherwise. However, Most who spin up a home lab will focus on the functionality aspect of the lab or the performance …\nThe post Home Lab Security: 5 Threats You’re Not Watching (But Should Be) appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/04/home-lab-security-5-threats-youre-not-watching-but-should-be/",
+          "publishedOn": "2025-04-24T14:20:24.000Z",
+          "wordCount": 11888,
+          "title": "Home Lab Security: 5 Threats You’re Not Watching (But Should Be)",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/04/Home-Lab-Security-5-Threats-Youre-Not-Watching-But-Should-Be-1.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=300709",
           "author": "Brandon Lee",
           "description": "I think that learning in the home lab is best accomplished by having your learning be project-based. When you have a project that actually benefits you in the home lab environment, it accelerates your learning as you are actually attacking a problem and solving it. In case you are struggling to come up with home …\nThe post Killer Home Lab Projects You Can Build in a Weekend appeared first on Virtualization Howto.",
@@ -2112,16 +2112,6 @@
           "wordCount": 11298,
           "title": "Proxmox Home Server Build 2025: Ryzen 9 7945HX 96GB and 10GbE",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/Proxmox-server-build-2025.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298949",
-          "author": "Brandon Lee",
-          "description": "When it comes to spending our precious hard earned money on a home lab, you want to make your resources count. Many ask when getting into a home lab, what is the best investment and best “bang for the buck”. There are many choices you could make, from investing in expensive networking gear, mini PCs, …\nThe post 6 reasons a NAS is your Best Home Lab Investment appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/01/6-reasons-a-nas-is-your-best-home-lab-investment/",
-          "publishedOn": "2025-01-24T14:55:49.000Z",
-          "wordCount": 11225,
-          "title": "6 reasons a NAS is your Best Home Lab Investment",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/6-reasons-a-nas-is-your-best-home-lab-investment.jpg"
         }
       ]
     },
@@ -2130,6 +2120,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=31789",
+          "author": "Tanvir Kour",
+          "description": "Utility businesses offer a wide array of services, including natural gas distribution, power generation and supply, water supply, sewage, and recycling. Like other sectors, utility firms are also facing challenges thanks to various issues like changing business environments, technology trends, and others. Owning a utility firm and wondering how you can optimize its growth and […]",
+          "link": "https://collabnix.com/heres-how-to-optimize-growth-in-the-utility-industry/",
+          "publishedOn": "2025-04-24T11:40:34.000Z",
+          "wordCount": 2554,
+          "title": "Here’s How to Optimize Growth in the Utility Industry",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=31779",
           "author": "Tanvir Kour",
@@ -3111,6 +3111,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://collabnix.com/?p=30148",
+          "author": "Adesoji Alu",
+          "description": "Managing Kubernetes configurations can be complex, especially with the plethora of tools available for configuring workloads and deploying applications. Kustomize stands out as a unique and popular tool for generating, transforming, and patching Kubernetes configurations without introducing custom DSLs or parameter-driven templates. In this post, we will explore: By the end, you’ll see how Kustomize’s […]",
+          "link": "https://collabnix.com/simplifying-kubernetes-configuration-management-with-kustomize-in-2025/",
+          "publishedOn": "2025-02-01T20:14:37.000Z",
+          "wordCount": 3180,
+          "title": "Simplifying Kubernetes Configuration Management with Kustomize",
+          "imageUrl": null
+        },
+        {
           "id": "https://collabnix.com/?p=30321",
           "author": "Tanvir Kour",
           "description": "In the digital era, where content creation is at its peak, maintaining originality is more crucial than ever. Yet, the rise of plagiarism has become a pressing issue. As the web expands, so does the temptation to copy and paste content, sometimes inadvertently, making advanced plagiarism detection tools essential in unveiling hidden instances of unoriginality. […]",
@@ -3208,36 +3218,6 @@
           "publishedOn": "2025-01-25T18:57:48.000Z",
           "wordCount": 3034,
           "title": "Administrative Panels for Startups: Minimum Effort, Maximum Results",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30201",
-          "author": "Tanvir Kour",
-          "description": "The shift to remote work has redefined how we view productiveness and collaboration, permitting people to work from really everywhere. However, even as conventional remote working models turn out to be large, demanding situations which include agreement with, payment systems, and international accessibility stay. Enter Web3: the decentralized, blockchain-powered internet that promises to revolutionize remote […]",
-          "link": "https://collabnix.com/work-anywhere-rule-everywhere-web3s-revolution-in-remote-work/",
-          "publishedOn": "2025-01-25T11:32:00.000Z",
-          "wordCount": 2836,
-          "title": "Work Anywhere, Rule Everywhere: Web3’s Revolution in Remote Work",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30193",
-          "author": "Tanvir Kour",
-          "description": "Strong customer relationships rely on clear communication and teamwork. It’s about building trust, meeting expectations, and working toward shared goals. When customers feel understood, collaboration becomes natural. And effective strategies help teams stay aligned with what customers need most. What steps create a system that works, and how can businesses make collaboration part of their […]",
-          "link": "https://collabnix.com/building-effective-communication-and-collaboration-strategies-with-customers/",
-          "publishedOn": "2025-01-25T11:00:04.000Z",
-          "wordCount": 2710,
-          "title": "Building Effective Communication and Collaboration Strategies with Customers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30190",
-          "author": "Avinash Bendigeri",
-          "description": "Securing your containerized environments should be a top priority in 2025l. In cloud-native landscapes, where containers dominate everything from microservices to full-scale enterprise operations, security vulnerabilities can bring operations to a crashing halt—or worse, compromise sensitive data. That’s a serious risk for any organization investing time and resources into cloud computing. But here’s the thing […]",
-          "link": "https://collabnix.com/enhancing-container-security-with-cybersecurity-rfps/",
-          "publishedOn": "2025-01-25T10:48:35.000Z",
-          "wordCount": 2746,
-          "title": "Enhancing Container Security with Cybersecurity RFPs",
           "imageUrl": null
         }
       ]
@@ -3775,21 +3755,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bluehe.cn/usr/uploads/2025/01/1611419974.jpg"
-        },
-        {
-          "id": "https://bluehe.cn/archives/science-technology-museum",
-          "author": "寻鹤",
-          "description": "2025年1月18日，放假了许久，呆腻了的我们相聚在中午去椿记烧鹅喝早茶，随后开始了一天的游玩。我计划去南宁科技馆逛逛，几位伙伴比较忙，都没有来过这里。在南宁的许多公益馆预约大多有两种方式，一是公众号预约，二是美团上预约，在美团上预约南宁科技馆了下午（13...",
-          "link": "https://bluehe.cn/archives/science-technology-museum",
-          "publishedOn": "2025-01-25T12:52:00.000Z",
-          "wordCount": 785,
-          "title": "南宁科技馆游记",
-          "enclosure": {
-            "url": "https://bluehe.cn/usr/uploads/2025/01/2630011135.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bluehe.cn/usr/uploads/2025/01/2630011135.jpg"
         }
       ]
     },
@@ -3966,6 +3931,26 @@
       "feedUrl": "https://dusays.com/atom.xml",
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
+        {
+          "id": "https://dusays.com/817/",
+          "author": null,
+          "description": "<blockquote>\n<p>Logseq 以其出色的知识管理能力、便捷协作功能、强大的隐私保护以及灵活的可扩展性，成为了日常学习和工作中不可或缺的工具。不仅帮助高效地记录和整理知识，还激发了创造力和思考能力。</p>\n</blockquote>",
+          "link": "https://dusays.com/817/",
+          "publishedOn": "2025-04-08T16:00:00.000Z",
+          "wordCount": 1312,
+          "title": "Logseq 高效知识管理与协作利器",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
+          "id": "https://dusays.com/816/",
+          "author": null,
+          "description": "<blockquote>\n<p>在 Linux 系统，尤其是当我们在管理多个容器时，了解系统和容器的资源使用情况至关重要。今天，就给大家介绍一款强大的监控工具 ctop，本文详细介绍 ctop 的安装、使用、命令选项。</p>\n</blockquote>",
+          "link": "https://dusays.com/816/",
+          "publishedOn": "2025-04-05T16:00:00.000Z",
+          "wordCount": 1368,
+          "title": "Linux 系统监控利器 ctop 命令详解",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
         {
           "id": "https://dusays.com/815/",
           "author": null,
@@ -4194,16 +4179,6 @@
           "publishedOn": "2025-01-27T16:00:00.000Z",
           "wordCount": 1284,
           "title": "今夜 20 点口令红包雨来袭手慢无",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/792/",
-          "author": null,
-          "description": "<blockquote>\n<p>Opengist 开源代码片段分享工具自上线以来，一直致力于为小伙伴们提供优质服务。然而，随着时间推移，我们发现平台的活跃用户数量非常少，综合考虑资源利用效率和运营成本等因素，我们做出了关闭服务的艰难决定。</p>\n</blockquote>",
-          "link": "https://dusays.com/792/",
-          "publishedOn": "2025-01-24T16:00:00.000Z",
-          "wordCount": 1274,
-          "title": "关于 Opengist 开源代码片段分享工具服务关闭的公告",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
@@ -4596,6 +4571,16 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=21965",
+          "author": "xiaoz",
+          "description": "最近博主又发现一个虚拟卡钱包BinPay，注册和使用门槛低，支持绑定PayPal / Google Play，也支持OpenAI/ChatGPT等场景，如果您有境外支付场景需求，可以试一试BinPay。门槛邮箱或手机号KYC：身份证、护照、驾照任意一种注册BinPayBinPay专属邀请地址：htt",
+          "link": "https://blog.xiaoz.org/archives/21965",
+          "publishedOn": "2025-04-24T04:27:08.000Z",
+          "wordCount": 255,
+          "title": "BinPay虚拟卡上手指南，支持OpenAI/ChatGPT",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=21961",
           "author": "xiaoz",

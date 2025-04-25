@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-04-24T01:59:58.550Z</updated>
+    <updated>2025-04-25T02:01:02.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Home Lab Security: 5 Threats You’re Not Watching (But Should Be)]]></title>
+        <id>https://www.virtualizationhowto.com/?p=300738</id>
+        <link href="https://www.virtualizationhowto.com/2025/04/home-lab-security-5-threats-youre-not-watching-but-should-be/"/>
+        <updated>2025-04-24T14:20:24.000Z</updated>
+        <summary type="html"><![CDATA[Running your home lab is a tremendously good resource for learning. It allows you to get your hands on many different technologies and experiment with these in a way that would not be possible otherwise. However, Most who spin up a home lab will focus on the functionality aspect of the lab or the performance …
+The post Home Lab Security: 5 Threats You’re Not Watching (But Should Be) appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here’s How to Optimize Growth in the Utility Industry]]></title>
+        <id>https://collabnix.com/?p=31789</id>
+        <link href="https://collabnix.com/heres-how-to-optimize-growth-in-the-utility-industry/"/>
+        <updated>2025-04-24T11:40:34.000Z</updated>
+        <summary type="html"><![CDATA[Utility businesses offer a wide array of services, including natural gas distribution, power generation and supply, water supply, sewage, and recycling. Like other sectors, utility firms are also facing challenges thanks to various issues like changing business environments, technology trends, and others. Owning a utility firm and wondering how you can optimize its growth and […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BinPay虚拟卡上手指南，支持OpenAI/ChatGPT]]></title>
+        <id>https://blog.xiaoz.org/?p=21965</id>
+        <link href="https://blog.xiaoz.org/archives/21965"/>
+        <updated>2025-04-24T04:27:08.000Z</updated>
+        <summary type="html"><![CDATA[最近博主又发现一个虚拟卡钱包BinPay，注册和使用门槛低，支持绑定PayPal / Google Play，也支持OpenAI/ChatGPT等场景，如果您有境外支付场景需求，可以试一试BinPay。门槛邮箱或手机号KYC：身份证、护照、驾照任意一种注册BinPayBinPay专属邀请地址：htt]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Killer Home Lab Projects You Can Build in a Weekend]]></title>
         <id>https://www.virtualizationhowto.com/?p=300709</id>
@@ -650,6 +681,18 @@ The post How to Document Your Home Lab (The Right Way) appeared first on Virtual
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Logseq 高效知识管理与协作利器]]></title>
+        <id>https://dusays.com/817/</id>
+        <link href="https://dusays.com/817/"/>
+        <updated>2025-04-08T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>Logseq 以其出色的知识管理能力、便捷协作功能、强大的隐私保护以及灵活的可扩展性，成为了日常学习和工作中不可或缺的工具。不仅帮助高效地记录和整理知识，还激发了创造力和思考能力。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Daily Tech Deals April 8 2025]]></title>
         <id>https://www.virtualizationhowto.com/?p=300430</id>
         <link href="https://www.virtualizationhowto.com/2025/04/daily-tech-deals-april-8-2025/"/>
@@ -791,6 +834,18 @@ int global_data;__thread int tls_data;void global(int val) { global_data = val; 
         <summary type="html"><![CDATA[Meta’s release of the Llama 4 family represents a significant architectural leap forward in the domain of Large Language Models (LLMs). This technical deep dive explores the sophisticated architectural components, training methodologies, and performance optimizations that underpin the Llama 4 models, with particular focus on the mixture-of-experts (MoE) architecture and multimodal capabilities that define this […]]]></summary>
         <author>
             <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 系统监控利器 ctop 命令详解]]></title>
+        <id>https://dusays.com/816/</id>
+        <link href="https://dusays.com/816/"/>
+        <updated>2025-04-05T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>在 Linux 系统，尤其是当我们在管理多个容器时，了解系统和容器的资源使用情况至关重要。今天，就给大家介绍一款强大的监控工具 ctop，本文详细介绍 ctop 的安装、使用、命令选项。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
         </author>
     </entry>
     <entry>
@@ -5717,6 +5772,16 @@ As efficient as the fabled invisible hand of the market might be at lowering the
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Simplifying Kubernetes Configuration Management with Kustomize]]></title>
+        <id>https://collabnix.com/?p=30148</id>
+        <link href="https://collabnix.com/simplifying-kubernetes-configuration-management-with-kustomize-in-2025/"/>
+        <updated>2025-02-01T20:14:37.000Z</updated>
+        <summary type="html"><![CDATA[Managing Kubernetes configurations can be complex, especially with the plethora of tools available for configuring workloads and deploying applications. Kustomize stands out as a unique and popular tool for generating, transforming, and patching Kubernetes configurations without introducing custom DSLs or parameter-driven templates. In this post, we will explore: By the end, you’ll see how Kustomize’s […]]]></summary>
+        <author>
+            <name>Adesoji Alu</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[麒麟服务器操作系统 yum 升级报错处理]]></title>
         <id>https://dusays.com/795/</id>
         <link href="https://dusays.com/795/"/>
@@ -6040,46 +6105,6 @@ When you use stainless steel pans instead of non-stick pans, you’re committing
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[南宁科技馆游记]]></title>
-        <id>https://bluehe.cn/archives/science-technology-museum</id>
-        <link href="https://bluehe.cn/archives/science-technology-museum"/>
-        <updated>2025-01-25T12:52:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年1月18日，放假了许久，呆腻了的我们相聚在中午去椿记烧鹅喝早茶，随后开始了一天的游玩。我计划去南宁科技馆逛逛，几位伙伴比较忙，都没有来过这里。在南宁的许多公益馆预约大多有两种方式，一是公众号预约，二是美团上预约，在美团上预约南宁科技馆了下午（13...]]></summary>
-        <author>
-            <name>寻鹤</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Work Anywhere, Rule Everywhere: Web3’s Revolution in Remote Work]]></title>
-        <id>https://collabnix.com/?p=30201</id>
-        <link href="https://collabnix.com/work-anywhere-rule-everywhere-web3s-revolution-in-remote-work/"/>
-        <updated>2025-01-25T11:32:00.000Z</updated>
-        <summary type="html"><![CDATA[The shift to remote work has redefined how we view productiveness and collaboration, permitting people to work from really everywhere. However, even as conventional remote working models turn out to be large, demanding situations which include agreement with, payment systems, and international accessibility stay. Enter Web3: the decentralized, blockchain-powered internet that promises to revolutionize remote […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building Effective Communication and Collaboration Strategies with Customers]]></title>
-        <id>https://collabnix.com/?p=30193</id>
-        <link href="https://collabnix.com/building-effective-communication-and-collaboration-strategies-with-customers/"/>
-        <updated>2025-01-25T11:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Strong customer relationships rely on clear communication and teamwork. It’s about building trust, meeting expectations, and working toward shared goals. When customers feel understood, collaboration becomes natural. And effective strategies help teams stay aligned with what customers need most. What steps create a system that works, and how can businesses make collaboration part of their […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhancing Container Security with Cybersecurity RFPs]]></title>
-        <id>https://collabnix.com/?p=30190</id>
-        <link href="https://collabnix.com/enhancing-container-security-with-cybersecurity-rfps/"/>
-        <updated>2025-01-25T10:48:35.000Z</updated>
-        <summary type="html"><![CDATA[Securing your containerized environments should be a top priority in 2025l. In cloud-native landscapes, where containers dominate everything from microservices to full-scale enterprise operations, security vulnerabilities can bring operations to a crashing halt—or worse, compromise sensitive data. That’s a serious risk for any organization investing time and resources into cloud computing. But here’s the thing […]]]></summary>
-        <author>
-            <name>Avinash Bendigeri</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[怎样给 Hugo 增加一个 RSS 边栏小工具]]></title>
         <id>https://lawtee.com/article/how-to-add-a-rss-widget-for-hugo/</id>
         <link href="https://lawtee.com/article/how-to-add-a-rss-widget-for-hugo/"/>
@@ -6141,41 +6166,6 @@ When you use stainless steel pans instead of non-stick pans, you’re committing
 {{ $url := "https://news.lawtee.com/wp-json/wp/v2/posts?per_page=5…]]></summary>
         <author>
             <name>法律小茶馆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raycast Focus works really well]]></title>
-        <id>https://daverupert.com/2025/01/raycast-focus/</id>
-        <link href="https://daverupert.com/2025/01/raycast-focus/"/>
-        <updated>2025-01-25T01:31:00.000Z</updated>
-        <summary type="html"><![CDATA[This week Raycast released a new feature called Raycast Focus. This hyped up the Raycast superfans in my social sphere, so I tried it out and I must say that I’m impressed.
-The timing couldn’t have been more perfect. Earlier this week I tried out a handful of browser extensions that would add some friction to social media sites. I have a bit of a bad habit where I open a new tab and instinctively type my favorite social sites: elk.zone, bsky.app, and of course youtube.com. These are mega time-wasters for me. As someone with ADHD these sites are basically dopamine tar pits for my attention.
-Videos are an obvious stumbling block, but my biggest pain point is clicking on articles and filling up a couple browsers worth of tabs such that it occupies my brain RAM and I can’t focus on my next tas…]]></summary>
-        <author>
-            <name>daverupert.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于 Opengist 开源代码片段分享工具服务关闭的公告]]></title>
-        <id>https://dusays.com/792/</id>
-        <link href="https://dusays.com/792/"/>
-        <updated>2025-01-24T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>Opengist 开源代码片段分享工具自上线以来，一直致力于为小伙伴们提供优质服务。然而，随着时间推移，我们发现平台的活跃用户数量非常少，综合考虑资源利用效率和运营成本等因素，我们做出了关闭服务的艰难决定。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 reasons a NAS is your Best Home Lab Investment]]></title>
-        <id>https://www.virtualizationhowto.com/?p=298949</id>
-        <link href="https://www.virtualizationhowto.com/2025/01/6-reasons-a-nas-is-your-best-home-lab-investment/"/>
-        <updated>2025-01-24T14:55:49.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to spending our precious hard earned money on a home lab, you want to make your resources count. Many ask when getting into a home lab, what is the best investment and best “bang for the buck”. There are many choices you could make, from investing in expensive networking gear, mini PCs, …
-The post 6 reasons a NAS is your Best Home Lab Investment appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
