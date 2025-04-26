@@ -460,6 +460,21 @@
       "siteUrl": "https://srebro.cn/",
       "articles": [
         {
+          "id": "/archives/1745596430631",
+          "author": "运维小弟",
+          "description": "在Nginx 中为页面配置用户名密码认证 1. 安装 htpasswd 工具 生成密码文件的工具 htpasswd 位于 Apache 工具包中，按系统安装： # Debian/Ubuntu 系统 sudo apt-get install apache2-utils # CentOS/RHEL 系",
+          "link": "https://srebro.cn/archives/1745596430631",
+          "publishedOn": "2025-04-25T15:54:25.000Z",
+          "wordCount": null,
+          "title": "Nginx 中页面配置用户名密码认证",
+          "enclosure": {
+            "url": "https://srebro.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https%3A%2F%2Fs3api.srebro.cn%3A443%2Fpicgo%2F202504252352615.png&size=m",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://srebro.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https%3A%2F%2Fs3api.srebro.cn%3A443%2Fpicgo%2F202504252352615.png&size=m"
+        },
+        {
           "id": "/archives/1744105014988",
           "author": "运维小弟",
           "description": "背景需求 很多时候项目上，需要过等保3级，以往都是客户提供数据库审计的设备，但免不了碰到一些特殊情况，所以就需要我们自己给满足数据库的审计需求👇。 环境信息 在调研了市场上开源的数据库审计的插件，发现原来在Mysql5.7.33版本中，可使用server_audit.so插件审计日志插件(来源Ma",
@@ -774,16 +789,6 @@
           "publishedOn": "2025-02-03T03:24:00.000Z",
           "wordCount": 595,
           "title": "闲置笔记本变身 Steam OS 游戏主机",
-          "imageUrl": null
-        },
-        {
-          "id": "https://soulteary.com/2025/01/26/thunderbolt-graphics-dock-adventures-with-intel-arc-b580-and-windows-devices-1.html",
-          "author": "苏洋(soulteary)",
-          "description": "这篇文章，聊聊不同类型的 Windows 设备上使用雷电显卡坞外接 Intel 显卡的经验（同适用 AMD 显卡），希望能给有类似需求的朋友一些参考。",
-          "link": "https://soulteary.com/2025/01/26/thunderbolt-graphics-dock-adventures-with-intel-arc-b580-and-windows-devices-1.html",
-          "publishedOn": "2025-01-26T02:38:00.000Z",
-          "wordCount": 797,
-          "title": "雷电显卡坞：Intel ARC B580 和 Windows 设备历险记（一）",
           "imageUrl": null
         }
       ]
@@ -1133,6 +1138,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=300758",
+          "author": "Brandon Lee",
+          "description": "One of the critical design decisions that you have with a home lab is storage. There are many great options available. And, depending on a few things, like which hypervisor you use, you can choose from a wide range of technologies. Let’s take a look at three storage technologies: NAS vs Virtual SAN vs Ceph …\nThe post NAS vs Virtual SAN vs Ceph: What’s the Best Storage for Your Home Lab? appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/04/nas-vs-virtual-san-vs-ceph-whats-the-best-storage-for-your-home-lab/",
+          "publishedOn": "2025-04-25T12:48:21.000Z",
+          "wordCount": 11849,
+          "title": "NAS vs Virtual SAN vs Ceph: What’s the Best Storage for Your Home Lab?",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/04/nas-vs-virtual-san-vs-ceph-size.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=300738",
           "author": "Brandon Lee",
@@ -2120,6 +2135,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=31802",
+          "author": "Tanvir Kour",
+          "description": "In 2015, Jake was a 24-year-old sales rep with nothing but a Gmail account and a dream. He sent hundreds of cold emails, most of which went straight to spam or never got opened. He had no tools, no tracking, and no real strategy. Fast forward to 2025, and Jake is now the head of […]",
+          "link": "https://collabnix.com/is-cold-email-still-effective-in-2025/",
+          "publishedOn": "2025-04-25T15:37:50.000Z",
+          "wordCount": 3056,
+          "title": "Is Cold Email Still Effective in 2025?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=31798",
+          "author": "Tanvir Kour",
+          "description": "Find out 3 effective ways to convert WMV to MOV – from online services to professional software, including Movavi Video Converter. Comparison, tips and useful facts.",
+          "link": "https://collabnix.com/3-methods-to-convert-wmv-to-mov-reliable-solutions-for-different-tasks/",
+          "publishedOn": "2025-04-25T14:17:27.000Z",
+          "wordCount": null,
+          "title": "3 Methods To Convert WMV To MOV: Reliable Solutions For Different Tasks",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=31789",
           "author": "Tanvir Kour",
@@ -3209,16 +3244,6 @@
           "wordCount": 3731,
           "title": "DeepSeek vs. ChatGPT: The New AI Challenger Shaping the Landscape",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30216",
-          "author": "Tanvir Kour",
-          "description": "Launching and managing a startup comes with a unique set of challenges. One of the most critical yet often overlooked aspects of running a business is effective administrative management. Administrative panels (or admin panels) are powerful tools that streamline operations, enhance productivity, and centralize data, making them invaluable for startups striving to optimize their workflows. […]",
-          "link": "https://collabnix.com/administrative-panels-for-startups-minimum-effort-maximum-results/",
-          "publishedOn": "2025-01-25T18:57:48.000Z",
-          "wordCount": 3034,
-          "title": "Administrative Panels for Startups: Minimum Effort, Maximum Results",
-          "imageUrl": null
         }
       ]
     },
@@ -3573,16 +3598,6 @@
           "wordCount": 472,
           "title": "博客十周年",
           "imageUrl": ""
-        },
-        {
-          "id": "https://www.skyue.com/25012618.html",
-          "author": "拾月",
-          "description": "最近置换房子，节奏如下，全程无缝衔接。日期旧房子新房子2024-10-13（周日） 看房：绿汀路的杭珹、建发2024-11-17（周日） 看房：香悦四季轩、远洋西溪公馆、翡翠城二期、华元蒙卡岸2...",
-          "link": "https://www.skyue.com/25012618.html",
-          "publishedOn": "2025-01-26T10:21:00.000Z",
-          "wordCount": 483,
-          "title": "置换房子",
-          "imageUrl": ""
         }
       ]
     },
@@ -3931,6 +3946,16 @@
       "feedUrl": "https://dusays.com/atom.xml",
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
+        {
+          "id": "https://dusays.com/818/",
+          "author": null,
+          "description": "<blockquote>\n<p>在信息爆炸的时代，思维导图已经成为高效整理知识、梳理思路必备工具。而 SimpleMindMap 作为一款强大的 Web 思维导图工具，凭借其独特的魅力，正吸引着越来越多用户目光。</p>\n</blockquote>",
+          "link": "https://dusays.com/818/",
+          "publishedOn": "2025-04-11T16:00:00.000Z",
+          "wordCount": 1312,
+          "title": "SimpleMindMap 开启思维可视化之旅",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
         {
           "id": "https://dusays.com/817/",
           "author": null,
@@ -4571,6 +4596,26 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=21978",
+          "author": "xiaoz",
+          "description": "OneNav是由xiaoz开发的一款高效浏览器书签管理工具，可以将浏览器书签集中式管理，完美解决跨设备、跨平台、跨浏览器的同步与访问难题，一处部署、随处访问。OneNav提供多种安装方法，最常见的就是Docker部署，这篇文章分享下如何在飞牛NAS系统上搭建OneNav导航页，帮助你高效管理浏览器书",
+          "link": "https://blog.xiaoz.org/archives/21978",
+          "publishedOn": "2025-04-25T09:22:49.000Z",
+          "wordCount": 250,
+          "title": "用飞牛自建OneNav导航页，简单又高效的管理浏览器书签",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaoz.org/?p=21976",
+          "author": "xiaoz",
+          "description": "随着人工智能技术的飞速发展，ChatGPT已成为全球最受欢迎的AI工具。然而，国内用户在订阅ChatGPT Plus时，往往面临一个关键问题：如何支付ChatGPT Plus的订阅费用？特别是对于没有海外信用卡的用户来说，直接订阅ChatGPT Plus并不容易。许多国内用户正是因为缺乏海外信用卡，",
+          "link": "https://blog.xiaoz.org/archives/21976",
+          "publishedOn": "2025-04-25T08:24:54.000Z",
+          "wordCount": null,
+          "title": "星际放映厅——靠谱稳定的ChatGPT Plus代充平台",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=21965",
           "author": "xiaoz",
