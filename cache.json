@@ -134,26 +134,6 @@
           "wordCount": 1840,
           "title": "On government efficiency",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/01/15-minutes/",
-          "author": null,
-          "description": "This might be my favorite song of all time. It’s by a slightly obscure Chicago punk band called The Broadways, made up of a couple members from the more well-known ska band Slapstick. It’s got everything you want in a punk song. Palm mutes, open meedly-meedly parts, yelling, speed, a half-time breakdown, and impeccable synchronicity. I listen to this song when I’m sad, when I’m frustrated, when I’m in traffic, and when I need to inject high octane fuel into my veins. The soaring octave chords will always pick me back up again.\n\nAll on the streets, the signs read\nCheaper and better technology\nThis capitalist vision is my nightmare\n\nPut up a sign in my face\nWhat the fuck happened to this place?\nI think we made a wrong turn\nLook at the lovely concrete\n\nI drove to my stupid job today\nGot stopp…",
-          "link": "https://daverupert.com/2025/01/15-minutes/",
-          "publishedOn": "2025-01-28T14:40:00.000Z",
-          "wordCount": 905,
-          "title": "15 Minutes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/01/pans/",
-          "author": null,
-          "description": "The other day I sent my wife a link to a new set of ceramic pans and asked, “What do you think?” assuming she’d be as impressed as I was of the picture of eggs sliding off the pan. Her response: a grimace. Using my sixteen years of husbandly intuition, I surmised that we were not on the same page about kitchenware.\nFor context, my wife has had the same stainless steel pans that her parents bought her since we met. They’ve outlasted the fancier non-stick pans we’ve auditioned. Her opinion of the pans is that they’re high-quality because they’ve lasted so long and still work. And from that perspective she’s right, they technically still work… but not without some downsides.\nWhen you use stainless steel pans instead of non-stick pans, you’re committing to stickiness and having a harder time c…",
-          "link": "https://daverupert.com/2025/01/pans/",
-          "publishedOn": "2025-01-26T14:26:00.000Z",
-          "wordCount": 1015,
-          "title": "A story about pans",
-          "imageUrl": null
         }
       ]
     },
@@ -2117,16 +2097,6 @@
           "wordCount": 10865,
           "title": "Best Backup Solution for VMware Alternatives in 2025",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/best-backup-for-VMware-Alternatives-in-2025.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=298976",
-          "author": "Brandon Lee",
-          "description": "I have been intrigued with entertaining building my next Proxmox host in the home lab as opposed to simply buying a pre-built mini PC. Minisforum sent me one of their new motherboards, the BD795M with the AMD Ryzen 9 7945 HX processor. One thing that excites me about this combo is the Ryzen 9 with …\nThe post Proxmox Home Server Build 2025: Ryzen 9 7945HX 96GB and 10GbE appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/01/proxmox-home-server-build-2025-ryzen-9-7945hx-96gb-and-10gbe/",
-          "publishedOn": "2025-01-27T13:52:23.000Z",
-          "wordCount": 11298,
-          "title": "Proxmox Home Server Build 2025: Ryzen 9 7945HX 96GB and 10GbE",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/Proxmox-server-build-2025.jpg"
         }
       ]
     },
@@ -2135,6 +2105,36 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=31837",
+          "author": "Collabnix Team",
+          "description": "In today’s cloud-native world, managing Kubernetes clusters efficiently is crucial for DevOps professionals and platform engineers. While command-line tools like kubectl are powerful, wouldn’t it be great if you could interact with your Kubernetes clusters using natural language through your AI assistant? This is exactly what MCP-Server-Kubernetes enables for Claude users. What is MCP-Server-Kubernetes? MCP-Server-Kubernetes […]",
+          "link": "https://collabnix.com/kubernetes-mcp-server-step-by-step-guide/",
+          "publishedOn": "2025-04-27T17:12:53.000Z",
+          "wordCount": 3271,
+          "title": "Kubernetes MCP Server:  Step by Step Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=31832",
+          "author": "Collabnix Team",
+          "description": "In the rapidly evolving landscape of AI technology, a significant development recently emerged that might have flown under your radar. On April 26, 2025, a new authorization specification for Model Context Protocol (MCP) was published, developed through collaboration between Anthropic and various industry partners. What is MCP and Why Does This Matter? The Model Context […]",
+          "link": "https://collabnix.com/the-new-mcp-authorization-specification-simplifying-ai-security/",
+          "publishedOn": "2025-04-27T16:29:51.000Z",
+          "wordCount": null,
+          "title": "The New MCP Authorization Specification: Simplifying AI Security Through Standardization",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=31806",
+          "author": "Collabnix Team",
+          "description": "Model Context Protocol (MCP) represents a significant advancement in connecting AI models with the external world. As large language models (LLMs) like Claude and GPT continue to evolve, their isolation from real-world data sources and tools has become an increasingly limiting factor. MCP addresses this challenge by providing a standardized way for AI systems to […]",
+          "link": "https://collabnix.com/what-is-model-context-protocol-a-technical-deep-dive/",
+          "publishedOn": "2025-04-26T16:35:39.000Z",
+          "wordCount": null,
+          "title": "What is Model Context Protocol: A Technical Deep Dive",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=31802",
           "author": "Tanvir Kour",
@@ -3234,16 +3234,6 @@
           "wordCount": null,
           "title": "Back to Basics: Managing Your Power Needs in the Modern Tech World",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30220",
-          "author": "Adesoji Alu",
-          "description": "Artificial Intelligence has seen tremendous growth in recent years, with advanced models like OpenAI’s ChatGPT leading the charge in natural language processing. However, a new contender, DeepSeek, has emerged, and it’s making waves by adopting a distinct approach to AI model development. While ChatGPT has been a benchmark for generative AI, DeepSeek is challenging the […]",
-          "link": "https://collabnix.com/deepseek-vs-chatgpt-the-new-ai-challenger-shaping-the-landscape/",
-          "publishedOn": "2025-01-27T19:35:10.000Z",
-          "wordCount": 3731,
-          "title": "DeepSeek vs. ChatGPT: The New AI Challenger Shaping the Landscape",
-          "imageUrl": null
         }
       ]
     },
@@ -3489,6 +3479,16 @@
       "feedUrl": "https://www.skyue.com/feed/",
       "siteUrl": "https://www.skyue.com/",
       "articles": [
+        {
+          "id": "https://www.skyue.com/25042723.html",
+          "author": "拾月",
+          "description": "很久没更新了，今天也没力气写什么，纯纯吐槽。最近两个月，工作压力非常大，原因也很简单，目标没完成，不只是我们的目标没完成，是整个业务的目标没完成，然后自上而下，一层层push，分析原因，上手段。...",
+          "link": "https://www.skyue.com/25042723.html",
+          "publishedOn": "2025-04-27T15:07:00.000Z",
+          "wordCount": 576,
+          "title": "情绪记录",
+          "imageUrl": ""
+        },
         {
           "id": "https://www.skyue.com/25032520.html",
           "author": "拾月",
@@ -4597,6 +4597,16 @@
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
         {
+          "id": "https://blog.xiaoz.org/?p=21993",
+          "author": "xiaoz",
+          "description": "Ishell Pro是由河南图奕网络科技有限公司开发的高效SSH客户端，支持跨平台使用，资源占用低，界面简洁、操作流畅。目前xiaoz已经连续使用几个月时间，现在推荐给有需要的运维或开发人员。功能特点跨平台支持：macOS、Windows、Linux、Android、iOS支持快捷命令支持SFTP云",
+          "link": "https://blog.xiaoz.org/archives/21993",
+          "publishedOn": "2025-04-28T01:41:05.000Z",
+          "wordCount": 269,
+          "title": "牛逼，这款高颜值SSH客户端Ishell Pro值得一试",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.xiaoz.org/?p=21978",
           "author": "xiaoz",
           "description": "OneNav是由xiaoz开发的一款高效浏览器书签管理工具，可以将浏览器书签集中式管理，完美解决跨设备、跨平台、跨浏览器的同步与访问难题，一处部署、随处访问。OneNav提供多种安装方法，最常见的就是Docker部署，这篇文章分享下如何在飞牛NAS系统上搭建OneNav导航页，帮助你高效管理浏览器书",
@@ -5004,27 +5014,20 @@
       "articles": []
     },
     {
-      "title": "kaku's blog",
-      "feedUrl": "https://www.likakuli.com/index.xml",
-      "siteUrl": "https://www.likakuli.com/",
-      "articles": [
-        {
-          "id": "https://www.likakuli.com/posts/informer-relist/",
-          "author": "作者",
-          "description": "由来 Informer 作为 client-go 的核心，网上有众多的源码分析，原理解析相关文章，可以教给大家如何\"正确\"的使用 Informer。当然其前提是",
-          "link": "https://www.likakuli.com/posts/informer-relist/",
-          "publishedOn": "2025-01-27T01:43:51.000Z",
-          "wordCount": 399,
-          "title": "informer relist - feature or bug?",
-          "imageUrl": "https://www.likakuli.com/logo.png"
-        }
-      ]
-    },
-    {
       "title": "Zhangguanzhang",
       "feedUrl": "https://zhangguanzhang.github.io/atom.xml",
       "siteUrl": "http://zhangguanzhang.github.io/atom.xml",
       "articles": [
+        {
+          "id": "http://zhangguanzhang.github.io/2025/04/27/android-tun2sock/",
+          "author": null,
+          "description": "<p>最近开发一个让指定 app 走 http 代理的经过…..</p>",
+          "link": "http://zhangguanzhang.github.io/2025/04/27/android-tun2sock/",
+          "publishedOn": "2025-04-27T20:40:30.000Z",
+          "wordCount": null,
+          "title": "开发一个让指定应用走代理的安卓 app 过程",
+          "imageUrl": null
+        },
         {
           "id": "http://zhangguanzhang.github.io/2025/04/21/kube-log-runner/",
           "author": null,
