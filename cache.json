@@ -66,6 +66,16 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
+          "id": "https://daverupert.com/2025/04/ubertheme/",
+          "author": null,
+          "description": "I want you to have a blog. Despite this being nearly my entire online ethos, one situation I struggle with are design systems and UX blogs on Medium. A lot of them exist. Yet. I have difficulty understanding UX and design professionals in this space who yield their UX and design decisions over to the “everyone looks the same” content silo.\nTo be fair, I get why you or an organization would want to use a service like Medium:\nPeople are busy and maintaining a blog is work.\nIt’s hard for the design team to get dev resources for a custom site.\nThere’s “free” community engagement there.\nThere’s even monetization paths.\nSelf-publishing obsessed dorks aren’t the target market.\nDon’t get me wrong– I’d rather have more blogs than no blogs so if that’s your situation don’t mind me and my niche beef. But consider for a moment that I can’t tell you the last Medium post I’ve read because they’re all the same to me. I follow a lot of UX and design systems blogs… but I can’t tell you a single person who writes on Medium. Those posts and authors have all blended together into a monolithic groupthinkpiece where individual voices and personality are flattened by the über theme.\nIf everyone is wearing the same uniform, you all look the same. You are interchangeable. Your voice exists in a crowded space of vanilla platitudes. A recent WIRED article suggested over 40% of the content on Medium is AI generated slop. I think the question for you –and for me– is how do you stand out in this fancy copy-pasted new world? My personal belief is that the answer starts with your own personal website that looks like you, talks like you, smells like you, and has quirks like you. I want that for you.",
+          "link": "https://daverupert.com/2025/04/ubertheme/",
+          "publishedOn": "2025-04-28T13:55:00.000Z",
+          "wordCount": 852,
+          "title": "Don't let your voice be flattened by the über theme",
+          "imageUrl": null
+        },
+        {
           "id": "https://daverupert.com/2025/03/enshittification-has-a-flavor/",
           "author": null,
           "description": "“Enshittification” is a termed coined by Cory Doctorow in 2023 to describe a pattern of decreasing quality observed in online services and products. Since Doctorow’s post, there’s been no shortage of think pieces on enshittification and its role in our society and to a large extent I agree with them all. I think it’s an inevitable problem that shows the splitting seams of Capitalism. If you will allow, I’d like to add a tangential thought – one slight embellishment – to this topic.\nTo me, enshittification means that a person who lacks taste was put in a position of power.\nEveryone knows ads on the internet suck. But ads also pay bills and help keep the lights on in newsrooms. When a website adds one (privacy-preserving) ad to a website, I say “Okay”. Two, I permit it. Three, I say “Easy no…",
@@ -973,6 +983,16 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://nops.icu/archives/203/",
+          "author": "季兴",
+          "description": "在今年的大模型落地背景下，敏感信息不和共有模型交互。我们分别评测了 A100 8卡、4090、H800、H20，动辄百万级，在前期探索阶段很难拿到产出数据支撑。  梳理需求后发现，90%场景是推...",
+          "link": "https://nops.icu/archives/203/",
+          "publishedOn": "2025-04-28T06:24:00.000Z",
+          "wordCount": 582,
+          "title": "Mac Studio地表最强推理神器",
+          "imageUrl": null
+        },
+        {
           "id": "https://nops.icu/archives/202/",
           "author": "季兴",
           "description": "在 deepseek-r1:32b 中小尺寸模型下，A100 单卡可提供 1.8QPS，单问题 7 秒内完成响应。 对于小团队够用。 单卡推理比4090弱服务器硬件配置：○ CPU：Intel(...",
@@ -1118,6 +1138,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=300782",
+          "author": "Brandon Lee",
+          "description": "Every spring many like to take a look around the house and see things they could get rid of, donate, or just downsize. This is usually beneficial and keeps things tidy and much better organized. But, what about home labs? I have also found that having a “Spring cleaning day” for your home lab is …\nThe post Spring Cleaning Your Home Lab with 5 Ways to Optimize and Save Resources appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/04/spring-cleaning-your-home-lab-with-5-ways-to-optimize-and-save-resources/",
+          "publishedOn": "2025-04-28T13:37:21.000Z",
+          "wordCount": 12278,
+          "title": "Spring Cleaning Your Home Lab with 5 Ways to Optimize and Save Resources",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/04/Spring-Cleaning-your-home-lab.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=300758",
           "author": "Brandon Lee",
@@ -2077,26 +2107,6 @@
           "wordCount": 11920,
           "title": "Best Home Lab Networking Architecture in 2025",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/best-home-lab-networking-architecture-in-2025.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=299029",
-          "author": "Brandon Lee",
-          "description": "I think many have been dismayed about the discontinuation of Hyper-V Server. The last version that you can officially download is Hyper-V Server 2019. However, with the release of the Windows Server 2025 Preview ISO, I want to show you guys how you can install a new Windows Server 2025 installation and have roughly the …\nThe post Hyper-V Server 2025: Nope but sort of? appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/01/hyper-v-server-2025-nope-but-sort-of/",
-          "publishedOn": "2025-01-29T13:30:00.000Z",
-          "wordCount": 10862,
-          "title": "Hyper-V Server 2025: Nope but sort of?",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/Hyper-V-Server-2025.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=299008",
-          "author": "Brandon Lee",
-          "description": "As so many are looking at their options for virtualization solutions into 2025, one of the deciding factors can be the backup solution that can be used to backup your workloads, such as virtual machines. Arguably, there are a several VMware alternatives that many are looking at in 2025. However, the main contenders as alternatives …\nThe post Best Backup Solution for VMware Alternatives in 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/01/best-backup-solution-for-vmware-alternatives-in-2025/",
-          "publishedOn": "2025-01-28T15:48:41.000Z",
-          "wordCount": 10865,
-          "title": "Best Backup Solution for VMware Alternatives in 2025",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/01/best-backup-for-VMware-Alternatives-in-2025.jpg"
         }
       ]
     },
@@ -3204,36 +3214,6 @@
           "wordCount": 2786,
           "title": "5 Finance Tips for Small Business Owners That Elevate Company Growth",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30277",
-          "author": "Ajeet Raina",
-          "description": "DeepSeek LLM is an advanced language model developed by the DeepSeek team. Launched in early 2024, DeepSeek LLM has quickly gained traction due to its powerful reasoning, problem-solving, and factual retrieval capabilities. With 67 billion parameters, support for both English and Chinese, and an open-source framework, it has become a strong contender in the LLM space. […]",
-          "link": "https://collabnix.com/getting-started-with-deepseek-llm-using-ollama-locally/",
-          "publishedOn": "2025-01-29T08:37:46.000Z",
-          "wordCount": 3435,
-          "title": "Getting Started with DeepSeek LLM using Ollama Locally",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30271",
-          "author": "Tanvir Kour",
-          "description": "Nonprofit organizations play a critical role in addressing challenges with limited resources and striving to make a meaningful impact in the communities they support. To thrive in today’s technology-driven society, it is important for these groups to select tools that can boost their effectiveness. An entity that is recognized for its dedication to supporting nonprofits […]",
-          "link": "https://collabnix.com/how-blackbaud-aligns-with-nonprofit-needs/",
-          "publishedOn": "2025-01-28T16:33:22.000Z",
-          "wordCount": 2651,
-          "title": "How Blackbaud Aligns with Nonprofit Needs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30267",
-          "author": "Tanvir Kour",
-          "description": "The modern world thrives on technology. From smartphones and laptops to smart home devices and electric vehicles, our reliance on power has never been greater. However, managing these needs effectively can be a challenge, especially when unexpected power outages or on-the-go situations arise. Understanding how to stay powered up, whether at home or on the […]",
-          "link": "https://collabnix.com/back-to-basics-managing-your-power-needs-in-the-modern-tech-world/",
-          "publishedOn": "2025-01-28T16:22:32.000Z",
-          "wordCount": null,
-          "title": "Back to Basics: Managing Your Power Needs in the Modern Tech World",
-          "imageUrl": null
         }
       ]
     },
@@ -3607,6 +3587,16 @@
       "siteUrl": "https://bluehe.cn/",
       "articles": [
         {
+          "id": "https://bluehe.cn/archives/250428-diary",
+          "author": "寻鹤",
+          "description": "四月十五日专门请了一天假回到学校考教资，也是用上最新的D270预约平台（滴滴的站点巴士），我早已提前一天购票，选择了比较实惠的七元九点区间发车票，预计行驶58分钟的路程，可以查看实景图的上车地点，发车前30分钟还有车辆定位，都不担心错过，而且可以随时停靠...",
+          "link": "https://bluehe.cn/archives/250428-diary",
+          "publishedOn": "2025-04-28T05:43:00.000Z",
+          "wordCount": 525,
+          "title": "于日常处 · 四月集",
+          "imageUrl": null
+        },
+        {
           "id": "https://bluehe.cn/archives/250411-diary",
           "author": "寻鹤",
           "description": "公司很多人都有自带饭菜来放在冰箱，中午再放到微波炉热一热就可以饱餐一顿了，但我还没准备好自带饭菜的准备，或许未来会带，目前就跟同事下楼吃东西，粉，面是这一个月中吃得最多的食物。\n[fotos]\n\n\n[/fotos]\n\n每次来都排长队到门口，这家牛骨汤是真的...",
@@ -3947,6 +3937,26 @@
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
         {
+          "id": "https://dusays.com/820/",
+          "author": null,
+          "description": "<blockquote>\n<p>在数字化工作时代，一款高效、便捷的终端工具对于开发者、系统管理员和网络工程师等人群来说至关重要。Electerm 作为一款开源免费的跨平台终端模拟器，凭借其丰富的功能和优秀的用户体验，成为了众多用户的首选。</p>\n</blockquote>",
+          "link": "https://dusays.com/820/",
+          "publishedOn": "2025-04-17T16:00:00.000Z",
+          "wordCount": 1344,
+          "title": "Electerm 高效便捷的开源终端工具",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
+          "id": "https://dusays.com/819/",
+          "author": null,
+          "description": "<blockquote>\n<p>在现代开发工作中，终端是我们必不可少的工具之一。今天要给大家介绍的 Wave Terminal，无疑是一款将传统终端功能与图形化能力完美融合开源终端，能够极大地提升我们的工作效率。</p>\n</blockquote>",
+          "link": "https://dusays.com/819/",
+          "publishedOn": "2025-04-14T16:00:00.000Z",
+          "wordCount": 1350,
+          "title": "Wave Terminal 多功能开源终端工具",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
           "id": "https://dusays.com/818/",
           "author": null,
           "description": "<blockquote>\n<p>在信息爆炸的时代，思维导图已经成为高效整理知识、梳理思路必备工具。而 SimpleMindMap 作为一款强大的 Web 思维导图工具，凭借其独特的魅力，正吸引着越来越多用户目光。</p>\n</blockquote>",
@@ -4194,16 +4204,6 @@
           "publishedOn": "2025-01-29T16:00:00.000Z",
           "wordCount": 1294,
           "title": "2 月 5 日图床故障说明",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/793/",
-          "author": null,
-          "description": "<blockquote>\n<p>岁末钟声渐近，万家灯火可亲。值此辞旧迎新之际，杜老师怀着无比雀跃的心情，要在今夜晚 20 点整，为陪伴杜老师走过又一年的小伙伴们送上一份特别心意。快点进文章内，看看活动的细节吧！</p>\n</blockquote>",
-          "link": "https://dusays.com/793/",
-          "publishedOn": "2025-01-27T16:00:00.000Z",
-          "wordCount": 1284,
-          "title": "今夜 20 点口令红包雨来袭手慢无",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]

@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-04-28T03:28:10.414Z</updated>
+    <updated>2025-04-29T02:01:22.772Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Don't let your voice be flattened by the über theme]]></title>
+        <id>https://daverupert.com/2025/04/ubertheme/</id>
+        <link href="https://daverupert.com/2025/04/ubertheme/"/>
+        <updated>2025-04-28T13:55:00.000Z</updated>
+        <summary type="html"><![CDATA[I want you to have a blog. Despite this being nearly my entire online ethos, one situation I struggle with are design systems and UX blogs on Medium. A lot of them exist. Yet. I have difficulty understanding UX and design professionals in this space who yield their UX and design decisions over to the “everyone looks the same” content silo.
+To be fair, I get why you or an organization would want to use a service like Medium:
+People are busy and maintaining a blog is work.
+It’s hard for the design team to get dev resources for a custom site.
+There’s “free” community engagement there.
+There’s even monetization paths.
+Self-publishing obsessed dorks aren’t the target market.
+Don’t get me wrong– I’d rather have more blogs than no blogs so if that’s your situation don’t mind me and my niche beef. But consider for a moment that I can’t tell you the last Medium post I’ve read because they’re all the same to me. I follow a lot of UX and design systems blogs… but I can’t tell you a single person who writes on Medium. Those posts and authors have all blended together into a monolithic groupthinkpiece where individual voices and personality are flattened by the über theme.
+If everyone is wearing the same uniform, you all look the same. You are interchangeable. Your voice exists in a crowded space of vanilla platitudes. A recent WIRED article suggested over 40% of the content on Medium is AI generated slop. I think the question for you –and for me– is how do you stand out in this fancy copy-pasted new world? My personal belief is that the answer starts with your own personal website that looks like you, talks like you, smells like you, and has quirks like you. I want that for you.]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spring Cleaning Your Home Lab with 5 Ways to Optimize and Save Resources]]></title>
+        <id>https://www.virtualizationhowto.com/?p=300782</id>
+        <link href="https://www.virtualizationhowto.com/2025/04/spring-cleaning-your-home-lab-with-5-ways-to-optimize-and-save-resources/"/>
+        <updated>2025-04-28T13:37:21.000Z</updated>
+        <summary type="html"><![CDATA[Every spring many like to take a look around the house and see things they could get rid of, donate, or just downsize. This is usually beneficial and keeps things tidy and much better organized. But, what about home labs? I have also found that having a “Spring cleaning day” for your home lab is …
+The post Spring Cleaning Your Home Lab with 5 Ways to Optimize and Save Resources appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mac Studio地表最强推理神器]]></title>
+        <id>https://nops.icu/archives/203/</id>
+        <link href="https://nops.icu/archives/203/"/>
+        <updated>2025-04-28T06:24:00.000Z</updated>
+        <summary type="html"><![CDATA[在今年的大模型落地背景下，敏感信息不和共有模型交互。我们分别评测了 A100 8卡、4090、H800、H20，动辄百万级，在前期探索阶段很难拿到产出数据支撑。  梳理需求后发现，90%场景是推...]]></summary>
+        <author>
+            <name>季兴</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[于日常处 · 四月集]]></title>
+        <id>https://bluehe.cn/archives/250428-diary</id>
+        <link href="https://bluehe.cn/archives/250428-diary"/>
+        <updated>2025-04-28T05:43:00.000Z</updated>
+        <summary type="html"><![CDATA[四月十五日专门请了一天假回到学校考教资，也是用上最新的D270预约平台（滴滴的站点巴士），我早已提前一天购票，选择了比较实惠的七元九点区间发车票，预计行驶58分钟的路程，可以查看实景图的上车地点，发车前30分钟还有车辆定位，都不担心错过，而且可以随时停靠...]]></summary>
+        <author>
+            <name>寻鹤</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[牛逼，这款高颜值SSH客户端Ishell Pro值得一试]]></title>
         <id>https://blog.xiaoz.org/?p=21993</id>
@@ -307,6 +356,18 @@ WAF 防护集成（如 Coraza）
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Electerm 高效便捷的开源终端工具]]></title>
+        <id>https://dusays.com/820/</id>
+        <link href="https://dusays.com/820/"/>
+        <updated>2025-04-17T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>在数字化工作时代，一款高效、便捷的终端工具对于开发者、系统管理员和网络工程师等人群来说至关重要。Electerm 作为一款开源免费的跨平台终端模拟器，凭借其丰富的功能和优秀的用户体验，成为了众多用户的首选。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[5 Reasons Proxmox Is the Ultimate Home Lab Hypervisor in 2025]]></title>
         <id>https://www.virtualizationhowto.com/?p=300620</id>
         <link href="https://www.virtualizationhowto.com/2025/04/5-reasons-proxmox-is-the-ultimate-home-lab-hypervisor-in-2025/"/>
@@ -474,6 +535,18 @@ The post 5 Unexpected Ways to Use AI in Your Home Lab in 2025 appeared first on 
         <summary type="html"><![CDATA[You’re searching the internet for what to do when your Android phone is stuck at Verify Your Account screen. Don’t worry, this is a common happenstance and this guide will help. What your phone is really stuck at is what’s called FRP screen, and it is so because your phone was factory reset without signing […]]]></summary>
         <author>
             <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wave Terminal 多功能开源终端工具]]></title>
+        <id>https://dusays.com/819/</id>
+        <link href="https://dusays.com/819/"/>
+        <updated>2025-04-14T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>在现代开发工作中，终端是我们必不可少的工具之一。今天要给大家介绍的 Wave Terminal，无疑是一款将传统终端功能与图形化能力完美融合开源终端，能够极大地提升我们的工作效率。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
         </author>
     </entry>
     <entry>
@@ -6066,70 +6139,6 @@ The post Best Home Lab Networking Architecture in 2025 appeared first on Virtual
         <summary type="html"><![CDATA[Running a small business may require not only your muscles, hard work, and dedication but also your smarts when it comes to financial matters and management. Without much grip on your finances, even your sparkling business ideas might make your firm end up struggling just to thrive. Here are some essential financial tips you can […]]]></summary>
         <author>
             <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyper-V Server 2025: Nope but sort of?]]></title>
-        <id>https://www.virtualizationhowto.com/?p=299029</id>
-        <link href="https://www.virtualizationhowto.com/2025/01/hyper-v-server-2025-nope-but-sort-of/"/>
-        <updated>2025-01-29T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[I think many have been dismayed about the discontinuation of Hyper-V Server. The last version that you can officially download is Hyper-V Server 2019. However, with the release of the Windows Server 2025 Preview ISO, I want to show you guys how you can install a new Windows Server 2025 installation and have roughly the …
-The post Hyper-V Server 2025: Nope but sort of? appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started with DeepSeek LLM using Ollama Locally]]></title>
-        <id>https://collabnix.com/?p=30277</id>
-        <link href="https://collabnix.com/getting-started-with-deepseek-llm-using-ollama-locally/"/>
-        <updated>2025-01-29T08:37:46.000Z</updated>
-        <summary type="html"><![CDATA[DeepSeek LLM is an advanced language model developed by the DeepSeek team. Launched in early 2024, DeepSeek LLM has quickly gained traction due to its powerful reasoning, problem-solving, and factual retrieval capabilities. With 67 billion parameters, support for both English and Chinese, and an open-source framework, it has become a strong contender in the LLM space. […]]]></summary>
-        <author>
-            <name>Ajeet Raina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Blackbaud Aligns with Nonprofit Needs]]></title>
-        <id>https://collabnix.com/?p=30271</id>
-        <link href="https://collabnix.com/how-blackbaud-aligns-with-nonprofit-needs/"/>
-        <updated>2025-01-28T16:33:22.000Z</updated>
-        <summary type="html"><![CDATA[Nonprofit organizations play a critical role in addressing challenges with limited resources and striving to make a meaningful impact in the communities they support. To thrive in today’s technology-driven society, it is important for these groups to select tools that can boost their effectiveness. An entity that is recognized for its dedication to supporting nonprofits […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back to Basics: Managing Your Power Needs in the Modern Tech World]]></title>
-        <id>https://collabnix.com/?p=30267</id>
-        <link href="https://collabnix.com/back-to-basics-managing-your-power-needs-in-the-modern-tech-world/"/>
-        <updated>2025-01-28T16:22:32.000Z</updated>
-        <summary type="html"><![CDATA[The modern world thrives on technology. From smartphones and laptops to smart home devices and electric vehicles, our reliance on power has never been greater. However, managing these needs effectively can be a challenge, especially when unexpected power outages or on-the-go situations arise. Understanding how to stay powered up, whether at home or on the […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Backup Solution for VMware Alternatives in 2025]]></title>
-        <id>https://www.virtualizationhowto.com/?p=299008</id>
-        <link href="https://www.virtualizationhowto.com/2025/01/best-backup-solution-for-vmware-alternatives-in-2025/"/>
-        <updated>2025-01-28T15:48:41.000Z</updated>
-        <summary type="html"><![CDATA[As so many are looking at their options for virtualization solutions into 2025, one of the deciding factors can be the backup solution that can be used to backup your workloads, such as virtual machines. Arguably, there are a several VMware alternatives that many are looking at in 2025. However, the main contenders as alternatives …
-The post Best Backup Solution for VMware Alternatives in 2025 appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今夜 20 点口令红包雨来袭手慢无]]></title>
-        <id>https://dusays.com/793/</id>
-        <link href="https://dusays.com/793/"/>
-        <updated>2025-01-27T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>岁末钟声渐近，万家灯火可亲。值此辞旧迎新之际，杜老师怀着无比雀跃的心情，要在今夜晚 20 点整，为陪伴杜老师走过又一年的小伙伴们送上一份特别心意。快点进文章内，看看活动的细节吧！</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
         </author>
     </entry>
     <entry>
