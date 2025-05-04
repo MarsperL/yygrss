@@ -134,16 +134,6 @@
           "wordCount": 1902,
           "title": "Vibe Check №37",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/02/on-government-efficiency/",
-          "author": null,
-          "description": "It’s a secret to everyone! This post is for RSS subscribers only.\nRead more about RSS Club.\n\nI used to believe that the goal of the government should be efficiency. If the government was more efficient (waves hands broadly in the air), you could get rid of waste (again, waiving hands) and you’d need less taxes, and that would trickle down (more hands) as more money in people’s pockets, and you’d need less welfare (again, hands), less red tape (hands), and less bureaucracy (hands, hands, hands), et cetera.\nI’ve changed my thinking on the subject. I now think the goal of the government should be to absorb inefficiencies.\nAs efficient as the fabled invisible hand of the market might be at lowering the costs of goods and services 1 and creating jobs2 … there are often non-economic inefficienci…",
-          "link": "https://daverupert.com/2025/02/on-government-efficiency/",
-          "publishedOn": "2025-02-02T14:16:00.000Z",
-          "wordCount": 1840,
-          "title": "On government efficiency",
-          "imageUrl": null
         }
       ]
     },
@@ -769,16 +759,6 @@
           "publishedOn": "2025-02-05T05:51:00.000Z",
           "wordCount": 971,
           "title": "Docker 稳定性保障：Ubuntu 环境版本锁定方案",
-          "imageUrl": null
-        },
-        {
-          "id": "https://soulteary.com/2025/02/03/idle-laptop-to-steam-os-gaming-console.html",
-          "author": "苏洋(soulteary)",
-          "description": "这篇文章或许是中文网络第一篇，详细介绍如何在普通 PC 设备上安装 Steam OS 新版本系统，希望能为中文玩家提供一个实用的参考指南。",
-          "link": "https://soulteary.com/2025/02/03/idle-laptop-to-steam-os-gaming-console.html",
-          "publishedOn": "2025-02-03T03:24:00.000Z",
-          "wordCount": 595,
-          "title": "闲置笔记本变身 Steam OS 游戏主机",
           "imageUrl": null
         }
       ]
@@ -2117,16 +2097,6 @@
           "wordCount": 10847,
           "title": "Use Intel Optane SSD: Cheat your System Memory for Proxmox or VMware",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/intel-optane-ssd-to-cheat-your-system-memory.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=299131",
-          "author": "Brandon Lee",
-          "description": "I got my hands on the new Terramaster F8 SSD Plus NAS device and have been getting familiar with Terramaster tools and apps that run in their TOS 6 software that came on the F8 SSD Plus. Like most modern NAS devices, Terramaster NAS devices can natively run Docker. They have a Docker Manager as part of …\nThe post Terramaster NAS Docker Manager: Run Containers on your Network Attached Storage appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/02/terramaster-nas-docker-manager-run-containers-on-your-network-attached-storage/",
-          "publishedOn": "2025-02-03T13:59:31.000Z",
-          "wordCount": 10622,
-          "title": "Terramaster NAS Docker Manager: Run Containers on your Network Attached Storage",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/terramaster-nas-docker-manager.png"
         }
       ]
     },
@@ -2135,6 +2105,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=31909",
+          "author": "Collabnix Team",
+          "description": "AI is rapidly transforming how we build software—but testing it? That’s still catching up. If you’re building GenAI apps, you’ve probably asked:“How do I test LLM responses in CI without relying on expensive APIs like OpenAI or SageMaker?” In this post, I’ll show you how to run large language models locally in GitHub Actions using […]",
+          "link": "https://collabnix.com/ci-for-ai-running-ollama-llms-in-github-actions-with-open-source-tools/",
+          "publishedOn": "2025-05-03T08:40:08.000Z",
+          "wordCount": 3331,
+          "title": "CI for AI: Running Ollama + LLMs in GitHub Actions with Open Source Tools",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=31885",
+          "author": "Arsheen Kour",
+          "description": "In today’s digital world, APIs (Application Programming Interfaces) are the backbone of modern web and mobile applications. They enable communication between different software systems which helps in seamless sharing of data . As APIs continue to grow in complexity and importance, so does the need for efficient tools to test, manage, and collaborate on API […]",
+          "link": "https://collabnix.com/dear-apis-meet-postman-your-new-best-friend/",
+          "publishedOn": "2025-05-03T05:25:09.000Z",
+          "wordCount": 4129,
+          "title": "Dear APIs, Meet POSTMAN : Your New Best Friend",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=31872",
           "author": "Collabnix Team",

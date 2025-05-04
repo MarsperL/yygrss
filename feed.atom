@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-05-03T01:59:03.836Z</updated>
+    <updated>2025-05-04T02:11:37.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CI for AI: Running Ollama + LLMs in GitHub Actions with Open Source Tools]]></title>
+        <id>https://collabnix.com/?p=31909</id>
+        <link href="https://collabnix.com/ci-for-ai-running-ollama-llms-in-github-actions-with-open-source-tools/"/>
+        <updated>2025-05-03T08:40:08.000Z</updated>
+        <summary type="html"><![CDATA[AI is rapidly transforming how we build software—but testing it? That’s still catching up. If you’re building GenAI apps, you’ve probably asked:“How do I test LLM responses in CI without relying on expensive APIs like OpenAI or SageMaker?” In this post, I’ll show you how to run large language models locally in GitHub Actions using […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dear APIs, Meet POSTMAN : Your New Best Friend]]></title>
+        <id>https://collabnix.com/?p=31885</id>
+        <link href="https://collabnix.com/dear-apis-meet-postman-your-new-best-friend/"/>
+        <updated>2025-05-03T05:25:09.000Z</updated>
+        <summary type="html"><![CDATA[In today’s digital world, APIs (Application Programming Interfaces) are the backbone of modern web and mobile applications. They enable communication between different software systems which helps in seamless sharing of data . As APIs continue to grow in complexity and importance, so does the need for efficient tools to test, manage, and collaborate on API […]]]></summary>
+        <author>
+            <name>Arsheen Kour</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[前沿快讯 第71期 Pou2f3+上皮细胞是小鼠气道保护性反射的化学感受器等]]></title>
         <id>https://blognas.hwb0307.com/?p=6368</id>
@@ -6124,42 +6144,6 @@ import sysall_lines = []all_lines += ["BEGIN:VCALENDAR"]for f in sys.argv[1:]: c
 运行上述脚本：python3 dump.py ~/.contacts/*/*.vcf > dump.ics，这样得到的 .ics 文件就可以直接导入到日历软件了。]]></summary>
         <author>
             <name>杰哥的{运维，编程，调板子}小笔记</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terramaster NAS Docker Manager: Run Containers on your Network Attached Storage]]></title>
-        <id>https://www.virtualizationhowto.com/?p=299131</id>
-        <link href="https://www.virtualizationhowto.com/2025/02/terramaster-nas-docker-manager-run-containers-on-your-network-attached-storage/"/>
-        <updated>2025-02-03T13:59:31.000Z</updated>
-        <summary type="html"><![CDATA[I got my hands on the new Terramaster F8 SSD Plus NAS device and have been getting familiar with Terramaster tools and apps that run in their TOS 6 software that came on the F8 SSD Plus. Like most modern NAS devices, Terramaster NAS devices can natively run Docker. They have a Docker Manager as part of …
-The post Terramaster NAS Docker Manager: Run Containers on your Network Attached Storage appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[闲置笔记本变身 Steam OS 游戏主机]]></title>
-        <id>https://soulteary.com/2025/02/03/idle-laptop-to-steam-os-gaming-console.html</id>
-        <link href="https://soulteary.com/2025/02/03/idle-laptop-to-steam-os-gaming-console.html"/>
-        <updated>2025-02-03T03:24:00.000Z</updated>
-        <summary type="html"><![CDATA[这篇文章或许是中文网络第一篇，详细介绍如何在普通 PC 设备上安装 Steam OS 新版本系统，希望能为中文玩家提供一个实用的参考指南。]]></summary>
-        <author>
-            <name>苏洋(soulteary)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[On government efficiency]]></title>
-        <id>https://daverupert.com/2025/02/on-government-efficiency/</id>
-        <link href="https://daverupert.com/2025/02/on-government-efficiency/"/>
-        <updated>2025-02-02T14:16:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s a secret to everyone! This post is for RSS subscribers only.
-Read more about RSS Club.
-
-I used to believe that the goal of the government should be efficiency. If the government was more efficient (waves hands broadly in the air), you could get rid of waste (again, waiving hands) and you’d need less taxes, and that would trickle down (more hands) as more money in people’s pockets, and you’d need less welfare (again, hands), less red tape (hands), and less bureaucracy (hands, hands, hands), et cetera.
-I’ve changed my thinking on the subject. I now think the goal of the government should be to absorb inefficiencies.
-As efficient as the fabled invisible hand of the market might be at lowering the costs of goods and services 1 and creating jobs2 … there are often non-economic inefficienci…]]></summary>
-        <author>
-            <name>daverupert.com</name>
         </author>
     </entry>
     <entry>
