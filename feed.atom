@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-05-05T02:05:52.832Z</updated>
+    <updated>2025-05-06T02:02:22.956Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GMKtec NucBox G3 Plus Review as a Home Lab Server]]></title>
+        <id>https://www.virtualizationhowto.com/?p=300863</id>
+        <link href="https://www.virtualizationhowto.com/2025/05/gmktec-nucbox-g3-plus-review-as-a-home-lab-server/"/>
+        <updated>2025-05-05T14:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Many home lab enthusiasts or those that want to get into a home lab are looking for low power options to minimize the spend on running a lab server. Enterprise gear might be found for cheap on eBay or elsewhere, but it will cost an arm and a leg to run, especially in some countries …
+The post GMKtec NucBox G3 Plus Review as a Home Lab Server appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Reasons to Switch from Ollama to Docker Model Runner]]></title>
+        <id>https://collabnix.com/?p=31925</id>
+        <link href="https://collabnix.com/5-reasons-to-switch-from-ollama-to-docker-model-runner/"/>
+        <updated>2025-05-05T06:48:49.000Z</updated>
+        <summary type="html"><![CDATA[In recent months, the LLM deployment landscape has been evolving rapidly, with users experiencing frustration with some existing solutions. A Reddit thread titled “How to move on from Ollama?” highlights growing discontent with Ollama’s performance and reliability issues. As Docker enters this space with Model Runner, it’s worth examining why many users are making the […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CI for AI: Running Ollama + LLMs in GitHub Actions with Open Source Tools]]></title>
         <id>https://collabnix.com/?p=31909</id>
@@ -6026,56 +6047,6 @@ The post Terramaster T12-500 Pro NAS Review: Beefy Specs with Backup Server Buil
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[《OpenVPN + 动态 DDNS 家庭 VPN 搭建》]]></title>
-        <id>/archives/1738743029738</id>
-        <link href="https://srebro.cn/archives/1738743029738"/>
-        <updated>2025-02-05T08:10:48.000Z</updated>
-        <summary type="html"><![CDATA[一、背景与需求 联通1000M宽带 带公网IP 需要在Home 中搭建部署一个VPN，实现在外能访问家中的学习资源 二、实现方式 通过openvpn+ 动态DDNS域名 的方式来实现，通过绑定公网IP地址在域名上，实现VPN 的访问。 2.1 OpenVPN Access Server (OpenV]]></summary>
-        <author>
-            <name>运维小弟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker 稳定性保障：Ubuntu 环境版本锁定方案]]></title>
-        <id>https://soulteary.com/2025/02/05/docker-stability-ubuntu-version-pinning-guide.html</id>
-        <link href="https://soulteary.com/2025/02/05/docker-stability-ubuntu-version-pinning-guide.html"/>
-        <updated>2025-02-05T05:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Docker 作为许多开发或生产环境中的基础设施的重要组成部分，其版本的稳定性直接影响着整个系统的可靠性。本文将介绍如何有效地管理和固定 Docker 的版本。]]></summary>
-        <author>
-            <name>苏洋(soulteary)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 6 Innovative Ways Containers Boost Software Design]]></title>
-        <id>https://collabnix.com/?p=30332</id>
-        <link href="https://collabnix.com/top-6-innovative-ways-containers-boost-software-design/"/>
-        <updated>2025-02-05T05:27:43.000Z</updated>
-        <summary type="html"><![CDATA[Container technology revolutionized how we work with code. It’s like switching from molding everything with clay to playing with Lego blocks. Containers package an app, its code, and everything it needs to run into a single unit. This means that what works on a developer’s laptop will also work in the cloud or on any […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 Windows 11 上部署 Deepseek-R1 1.5B 模型：基于 Ollama 和 Open WebUI 的本地私有化 LLM 实践]]></title>
-        <id>/archives/1738726025993</id>
-        <link href="http://blog.lixx.cn/archives/1738726025993"/>
-        <updated>2025-02-05T03:31:42.000Z</updated>
-        <summary type="html"><![CDATA[一、环境说明 宿主机：Windows 11 虚拟机：VMware 虚拟化环境（推荐 Ubuntu 22.04 或同类 Linux 发行版） 核心工具： Ollama：本地大语言模型管理框架 Deepseek-R1 1.5B：轻量级开源模型（模型卡片） Open WebUI：类 ChatGPT 的交互]]></summary>
-        <author>
-            <name>Lixx Blog - 李晓旭的博客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在 Windows 11 上部署 Deepseek-R1 1.5B 模型：基于 Ollama 和 Open WebUI 的本地私有化 LLM 实践]]></title>
-        <id>/archives/1738726025993</id>
-        <link href="http://localhost:8090/archives/1738726025993"/>
-        <updated>2025-02-05T03:31:42.000Z</updated>
-        <summary type="html"><![CDATA[一、环境说明 宿主机：Windows 11 虚拟机：VMware 虚拟化环境（推荐 Ubuntu 22.04 或同类 Linux 发行版） 核心工具： Ollama：本地大语言模型管理框架 Deepseek-R1 1.5B：轻量级开源模型（模型卡片） Open WebUI：类 ChatGPT 的交互]]></summary>
-        <author>
-            <name>Lixx Blog - 李晓旭的博客</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[新的征程，从初八开始]]></title>
         <id>https://qq.mba/217.html</id>
         <link href="https://qq.mba/217.html"/>
@@ -6083,39 +6054,6 @@ The post Terramaster T12-500 Pro NAS Review: Beefy Specs with Backup Server Buil
         <summary type="html"><![CDATA[早上被熟悉的上班闹钟吵醒，竟还有些许不适应，总感觉假期还没结束，身上些许的疲惫感让我感觉这不是在休假，而是真正在的充当"牛马"，由于是第一天上班，怕路上堵车，早早就出发来到公司，园区里面很多公司...]]></summary>
         <author>
             <name>满心</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is KubeArchInspect and what problem does it solve?]]></title>
-        <id>https://collabnix.com/?p=30324</id>
-        <link href="https://collabnix.com/what-is-kubearchinspect-and-what-problem-does-it-solve/"/>
-        <updated>2025-02-04T17:19:12.000Z</updated>
-        <summary type="html"><![CDATA[Have you noticed how arm64 is making waves in the container world? It started with single-board computers like the Raspberry Pi and mobile devices, but now it’s powering Apple Silicon Macs and cloud offerings from AWS, Google Cloud, Azure, and Hetzner. And the best part? These Arm-based instances are often cheaper than their Intel/AMD counterparts. In fact, […]]]></summary>
-        <author>
-            <name>Ajeet Raina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hugo 渲染超时问题的解决笔记]]></title>
-        <id>https://dusays.com/796/</id>
-        <link href="https://dusays.com/796/"/>
-        <updated>2025-02-04T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>hehe 童鞋选择将所有的站点托管到杜老师这「是收费的」这样就可以专心维护网站的内容，也不用费心思在运维上。在做站点迁移时遇到了 Hugo 框架的一个报错，原因是使用 Hugo 搭建相册网站需要遍历大量图片，而在生成站点文件时出现了超时问题，本文记录解决方法。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Use Intel Optane SSD: Cheat your System Memory for Proxmox or VMware]]></title>
-        <id>https://www.virtualizationhowto.com/?p=299152</id>
-        <link href="https://www.virtualizationhowto.com/2025/02/use-intel-optane-ssd-cheat-your-system-memory-for-proxmox-or-vmware/"/>
-        <updated>2025-02-04T14:19:32.000Z</updated>
-        <summary type="html"><![CDATA[I have done a lot of experimenting with my vExpert-provided Intel Optane 280 GB drives as a caching tier in front of my vSAN OSA configuration. However, since I have gone with mini PCs there is just not enough room for the very “thick” intel optane drives. This is one of the downsides that I …
-The post Use Intel Optane SSD: Cheat your System Memory for Proxmox or VMware appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
