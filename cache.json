@@ -730,16 +730,6 @@
           "wordCount": 1493,
           "title": "Intel B580 GPU 大模型容器推理实践：以 DeepSeek R1 Distill Qwen 7B 为例（一）",
           "imageUrl": null
-        },
-        {
-          "id": "https://soulteary.com/2025/02/06/ubuntu-linux-kernel-upgrade-guide-with-mainline.html",
-          "author": "苏洋(soulteary)",
-          "description": "本篇文章，分享如何使用开源工具，轻松实现包括容器在内的 Ubuntu 环境中的内核版本升级，更好地适配新硬件和解锁内核的新特性。",
-          "link": "https://soulteary.com/2025/02/06/ubuntu-linux-kernel-upgrade-guide-with-mainline.html",
-          "publishedOn": "2025-02-06T08:44:00.000Z",
-          "wordCount": 828,
-          "title": "Ubuntu Linux 内核版本升级指南：mainline",
-          "imageUrl": null
         }
       ]
     },
@@ -1108,6 +1098,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=300893",
+          "author": "Brandon Lee",
+          "description": "I am always on the lookout for great new open-source tools for monitoring and management in the home lab and in production environments. I am a huge fan of Uptime Kuma as a monitoring solution, and other tools like Prometheus and Grafana. However, not tool long ago I heard about a new open-source monitoring solution …\nThe post Checkmate Monitoring for Free Open Source Docker Solution for Uptime Monitoring appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/05/checkmate-monitoring-for-free-open-source-docker-solution-for-uptime-monitoring/",
+          "publishedOn": "2025-05-06T14:41:43.000Z",
+          "wordCount": 10930,
+          "title": "Checkmate Monitoring for Free Open Source Docker Solution for Uptime Monitoring",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/Monitors-configured-in-checkmate-for-uptime-1.jpg"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=300863",
           "author": "Brandon Lee",
@@ -2057,26 +2057,6 @@
           "wordCount": 10569,
           "title": "The Best Kubernetes Storage CSI Providers for Home Lab Enthusiasts",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/the-best-kubernetes-csi-storage-providers-home-lab.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=299066",
-          "author": "Brandon Lee",
-          "description": "Microk8s is one of the coolest small Kubernetes distros you can play around with and it is not just for playing around, it is actually built for running production workloads in the cloud. But, it can also serve as the platform you use in your home lab for running Kubernetes and getting familiar with it. …\nThe post Install Microk8s: Ultimate Beginners Configuration Guide appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/02/install-microk8s-ultimate-beginners-configuration-guide/",
-          "publishedOn": "2025-02-06T13:09:33.000Z",
-          "wordCount": 11211,
-          "title": "Install Microk8s: Ultimate Beginners Configuration Guide",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/Ultimate-microk8s.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=299186",
-          "author": "Brandon Lee",
-          "description": "Recently, Terramaster sent over their Terramaster T12-500 Pro NAS for me to take a look at. As always with these reviews, I am not paid outside of receiving the unit for testing. So, my thoughts and opinions are my own. This NAS is super beefy in terms of hardware specs, so let’s dive into what …\nThe post Terramaster T12-500 Pro NAS Review: Beefy Specs with Backup Server Built-in appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/02/terramaster-t12-500-pro-nas-review-beefy-specs-with-backup-server-built-in/",
-          "publishedOn": "2025-02-05T14:35:53.000Z",
-          "wordCount": 12444,
-          "title": "Terramaster T12-500 Pro NAS Review: Beefy Specs with Backup Server Built-in",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/terramaster-t12-500-pro-review-4.jpg"
         }
       ]
     },
@@ -2085,6 +2065,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=31942",
+          "author": "Ajeet Raina",
+          "description": "Let’s face it—search isn’t what it used to be. It’s not just about how people find information, but who (or what) is doing the searching. Think about it. Users aren’t just typing into search bars anymore. They’re having conversations with voice assistants, chatting with AI copilots, and letting embedded agents help them make decisions on […]",
+          "link": "https://collabnix.com/forget-ranking-first-be-agent-ready-first/",
+          "publishedOn": "2025-05-06T14:02:32.000Z",
+          "wordCount": 3626,
+          "title": "Forget Ranking First—Be Agent-Ready First",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2025/05/Screenshot-2025-05-06-at-7.15.29%E2%80%AFPM.png"
+        },
         {
           "id": "https://collabnix.com/?p=31925",
           "author": "Collabnix Team",
@@ -3902,6 +3892,16 @@
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
         {
+          "id": "https://dusays.com/825/",
+          "author": null,
+          "description": "<blockquote>\n<p>刚从合肥返京，就收到了天津出差任务。虽然京津距离不远，但杜老师平时工作较忙，周末一般都在家睡懒觉，所以也是想着趁此机会游玩一下！分享给未来过天津的小伙伴，大家来云旅游~</p>\n</blockquote>",
+          "link": "https://dusays.com/825/",
+          "publishedOn": "2025-05-02T16:00:00.000Z",
+          "wordCount": 1263,
+          "title": "天津游记「多图预警」",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
           "id": "https://dusays.com/824/",
           "author": null,
           "description": "<blockquote>\n<p>时隔一年，又一次来到了安徽省会——合肥。这次出差的时间很灵活，杜老师有半天时间可以到附近景区逛一逛，就特地带了单反相机拍了些照片。本文整理了几张特色的美照，特邀杜老师的另一半帮忙配的介绍文，感兴趣的小伙伴可进来一看！</p>\n</blockquote>",
@@ -4210,18 +4210,7 @@
       "title": "未雨绸缪",
       "feedUrl": "https://7boe.top/rss.xml",
       "siteUrl": "https://7boe.top/",
-      "articles": [
-        {
-          "id": "/archives/210",
-          "author": "Celia",
-          "description": "Deepseek linux本地部署\n下载\n系统环境\nhttps://ollama.com/download\n系统中执行\ncurl -fsSL https://ollama.com/install.sh | sh\n\n驱动\n安装依赖\napt intstall build-essential linux-headers\n\n因为默认会安装开源驱动 所以需要屏蔽掉\nvim /etc/modprobe.d/nvidia-installer-disable-nouveau.conf写入\nblacklist nouveau\noptions nouveau modeset=0\n\n更新 initramfs：\nsudo update-initramfs -u\nsudo dracut --force\nlsmod | grep nouveau\nsudo rmmod nouveau\n\n重启后开始安装NVIDIA驱动\nhttps://www.nvidia.com/zh-tw/geforce/drivers/\nbash NVIDIA-*****.run\n\n安装完成后的验证\nnvidia-smi \n\n能看见显卡型号和显存即可\nOLLAMA启动\nhttps://ollama.com/library/deepseek-r1\nollama run deepseek-r1:8b\nroot@deepseek:~# ollama list\nNAME              ID              SIZE      MODIFIED     \ndeepseek-r1:8b    28f8fd6cdc67    4.9 GB    27 hours ago \n\n对话框CTRL+D后并不会关闭。我们只需要工具调用接口即可。\nhttps://cherry-ai.com/\n调整ollama允许外网访问\nvim /etc/systemd/sytem/ollama.service\nEnvironment=\"OLLAMA_HOST=0.0.0.0\"\nEnvironment=\"OLLAMA_ORIGINS=*\"\n\n重启\nsystemctl restart ollama\n\n查看11434端口能不能外网访问即可\n软件配置\ncherry studio为例",
-          "link": "https://7boe.top/archives/210",
-          "publishedOn": "2025-02-06T06:29:32.000Z",
-          "wordCount": 2751,
-          "title": "Deepseek-R1 私有部署",
-          "imageUrl": "https://oss.7boe.top/2024/03/11/65ee77dac4869.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Justlovesmile's BLOG",
@@ -4304,6 +4293,16 @@
       "feedUrl": "https://zahui.fan/atom.xml",
       "siteUrl": "https://zahui.fan/atom.xml",
       "articles": [
+        {
+          "id": "https://zahui.fan/posts/svtyfb/",
+          "author": null,
+          "description": "<p>比如一个 dashboard 里面有很多通用的数据，不想每个 panel 面板都手动修改一遍，可以定义个全局的变量，所有面板都调用这个变量，后续需要修改的时候，直接改变量即可。</p>\n<h2 id=\"面板设置里添加变量\"><a href=\"#面板设置里添加变量\" class=\"headerlink\"",
+          "link": "https://zahui.fan/posts/svtyfb/",
+          "publishedOn": "2025-05-06T08:04:22.000Z",
+          "wordCount": 482,
+          "title": "Grafana 查询SQL 自定义变量",
+          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
+        },
         {
           "id": "https://zahui.fan/posts/suwpme/",
           "author": null,
@@ -4800,16 +4799,6 @@
           "publishedOn": "2025-02-10T02:50:39.000Z",
           "wordCount": 271,
           "title": "多功能文件分享程序Zdir 4.3.0发布，新年送福利",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=21756",
-          "author": "xiaoz",
-          "description": "最近，DeepSeek R1凭借强大的推理能力在全网爆火，用户激增导致响应变慢甚至出现错误。不过，这个问题并非无法解决。博主发现，硅基流动不仅提供了稳定的DeepSeek R1调用方案，还支持多种开源大模型，包括AI对话、文生图和语音合成。现在，通过博主邀请链接注册，即可免费获得2000万Token",
-          "link": "https://blog.xiaoz.org/archives/21756",
-          "publishedOn": "2025-02-06T06:18:40.000Z",
-          "wordCount": 272,
-          "title": "硅基流动：注册即送2000万Tokens，畅享DeepSeek R1",
           "imageUrl": null
         }
       ]

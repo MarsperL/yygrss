@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-05-06T02:02:22.956Z</updated>
+    <updated>2025-05-07T02:02:56.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Checkmate Monitoring for Free Open Source Docker Solution for Uptime Monitoring]]></title>
+        <id>https://www.virtualizationhowto.com/?p=300893</id>
+        <link href="https://www.virtualizationhowto.com/2025/05/checkmate-monitoring-for-free-open-source-docker-solution-for-uptime-monitoring/"/>
+        <updated>2025-05-06T14:41:43.000Z</updated>
+        <summary type="html"><![CDATA[I am always on the lookout for great new open-source tools for monitoring and management in the home lab and in production environments. I am a huge fan of Uptime Kuma as a monitoring solution, and other tools like Prometheus and Grafana. However, not tool long ago I heard about a new open-source monitoring solution …
+The post Checkmate Monitoring for Free Open Source Docker Solution for Uptime Monitoring appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Forget Ranking First—Be Agent-Ready First]]></title>
+        <id>https://collabnix.com/?p=31942</id>
+        <link href="https://collabnix.com/forget-ranking-first-be-agent-ready-first/"/>
+        <updated>2025-05-06T14:02:32.000Z</updated>
+        <summary type="html"><![CDATA[Let’s face it—search isn’t what it used to be. It’s not just about how people find information, but who (or what) is doing the searching. Think about it. Users aren’t just typing into search bars anymore. They’re having conversations with voice assistants, chatting with AI copilots, and letting embedded agents help them make decisions on […]]]></summary>
+        <author>
+            <name>Ajeet Raina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grafana 查询SQL 自定义变量]]></title>
+        <id>https://zahui.fan/posts/svtyfb/</id>
+        <link href="https://zahui.fan/posts/svtyfb/"/>
+        <updated>2025-05-06T08:04:22.000Z</updated>
+        <summary type="html"><![CDATA[<p>比如一个 dashboard 里面有很多通用的数据，不想每个 panel 面板都手动修改一遍，可以定义个全局的变量，所有面板都调用这个变量，后续需要修改的时候，直接改变量即可。</p>
+<h2 id="面板设置里添加变量"><a href="#面板设置里添加变量" class="headerlink"]]></summary>
+        <author>
+            <name>杂烩饭</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GMKtec NucBox G3 Plus Review as a Home Lab Server]]></title>
         <id>https://www.virtualizationhowto.com/?p=300863</id>
@@ -45,6 +77,18 @@ The post GMKtec NucBox G3 Plus Review as a Home Lab Server appeared first on Vir
         <summary type="html"><![CDATA[In today’s digital world, APIs (Application Programming Interfaces) are the backbone of modern web and mobile applications. They enable communication between different software systems which helps in seamless sharing of data . As APIs continue to grow in complexity and importance, so does the need for efficient tools to test, manage, and collaborate on API […]]]></summary>
         <author>
             <name>Arsheen Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天津游记「多图预警」]]></title>
+        <id>https://dusays.com/825/</id>
+        <link href="https://dusays.com/825/"/>
+        <updated>2025-05-02T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>刚从合肥返京，就收到了天津出差任务。虽然京津距离不远，但杜老师平时工作较忙，周末一般都在家睡懒觉，所以也是想着趁此机会游玩一下！分享给未来过天津的小伙伴，大家来云旅游~</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
         </author>
     </entry>
     <entry>
@@ -5864,17 +5908,6 @@ CommandLine flags: -XX:InitialHeapSize=536870912
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Install Microk8s: Ultimate Beginners Configuration Guide]]></title>
-        <id>https://www.virtualizationhowto.com/?p=299066</id>
-        <link href="https://www.virtualizationhowto.com/2025/02/install-microk8s-ultimate-beginners-configuration-guide/"/>
-        <updated>2025-02-06T13:09:33.000Z</updated>
-        <summary type="html"><![CDATA[Microk8s is one of the coolest small Kubernetes distros you can play around with and it is not just for playing around, it is actually built for running production workloads in the cloud. But, it can also serve as the platform you use in your home lab for running Kubernetes and getting familiar with it. …
-The post Install Microk8s: Ultimate Beginners Configuration Guide appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[近期使用 DeepSeek Ollama 的一些情况]]></title>
         <id>https://lawtee.com/article/deepseek-ollama/</id>
         <link href="https://lawtee.com/article/deepseek-ollama/"/>
@@ -5933,96 +5966,6 @@ DeepSeek 目前有 7 个 ollama 版本，从小到大分别是 1.5b 7b 8b 14b 32
 另外，ollama 上也还有一些其他版本的 DeepSeek r1 仓库，比默认版本都要高出几倍的…]]></summary>
         <author>
             <name>法律小茶馆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu Linux 内核版本升级指南：mainline]]></title>
-        <id>https://soulteary.com/2025/02/06/ubuntu-linux-kernel-upgrade-guide-with-mainline.html</id>
-        <link href="https://soulteary.com/2025/02/06/ubuntu-linux-kernel-upgrade-guide-with-mainline.html"/>
-        <updated>2025-02-06T08:44:00.000Z</updated>
-        <summary type="html"><![CDATA[本篇文章，分享如何使用开源工具，轻松实现包括容器在内的 Ubuntu 环境中的内核版本升级，更好地适配新硬件和解锁内核的新特性。]]></summary>
-        <author>
-            <name>苏洋(soulteary)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deepseek-R1 私有部署]]></title>
-        <id>/archives/210</id>
-        <link href="https://7boe.top/archives/210"/>
-        <updated>2025-02-06T06:29:32.000Z</updated>
-        <summary type="html"><![CDATA[Deepseek linux本地部署
-下载
-系统环境
-https://ollama.com/download
-系统中执行
-curl -fsSL https://ollama.com/install.sh | sh
-
-驱动
-安装依赖
-apt intstall build-essential linux-headers
-
-因为默认会安装开源驱动 所以需要屏蔽掉
-vim /etc/modprobe.d/nvidia-installer-disable-nouveau.conf写入
-blacklist nouveau
-options nouveau modeset=0
-
-更新 initramfs：
-sudo update-initramfs -u
-sudo dracut --force
-lsmod | grep nouveau
-sudo rmmod nouveau
-
-重启后开始安装NVIDIA驱动
-https://www.nvidia.com/zh-tw/geforce/drivers/
-bash NVIDIA-*****.run
-
-安装完成后的验证
-nvidia-smi 
-
-能看见显卡型号和显存即可
-OLLAMA启动
-https://ollama.com/library/deepseek-r1
-ollama run deepseek-r1:8b
-root@deepseek:~# ollama list
-NAME              ID              SIZE      MODIFIED     
-deepseek-r1:8b    28f8fd6cdc67    4.9 GB    27 hours ago 
-
-对话框CTRL+D后并不会关闭。我们只需要工具调用接口即可。
-https://cherry-ai.com/
-调整ollama允许外网访问
-vim /etc/systemd/sytem/ollama.service
-Environment="OLLAMA_HOST=0.0.0.0"
-Environment="OLLAMA_ORIGINS=*"
-
-重启
-systemctl restart ollama
-
-查看11434端口能不能外网访问即可
-软件配置
-cherry studio为例]]></summary>
-        <author>
-            <name>Celia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[硅基流动：注册即送2000万Tokens，畅享DeepSeek R1]]></title>
-        <id>https://blog.xiaoz.org/?p=21756</id>
-        <link href="https://blog.xiaoz.org/archives/21756"/>
-        <updated>2025-02-06T06:18:40.000Z</updated>
-        <summary type="html"><![CDATA[最近，DeepSeek R1凭借强大的推理能力在全网爆火，用户激增导致响应变慢甚至出现错误。不过，这个问题并非无法解决。博主发现，硅基流动不仅提供了稳定的DeepSeek R1调用方案，还支持多种开源大模型，包括AI对话、文生图和语音合成。现在，通过博主邀请链接注册，即可免费获得2000万Token]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terramaster T12-500 Pro NAS Review: Beefy Specs with Backup Server Built-in]]></title>
-        <id>https://www.virtualizationhowto.com/?p=299186</id>
-        <link href="https://www.virtualizationhowto.com/2025/02/terramaster-t12-500-pro-nas-review-beefy-specs-with-backup-server-built-in/"/>
-        <updated>2025-02-05T14:35:53.000Z</updated>
-        <summary type="html"><![CDATA[Recently, Terramaster sent over their Terramaster T12-500 Pro NAS for me to take a look at. As always with these reviews, I am not paid outside of receiving the unit for testing. So, my thoughts and opinions are my own. This NAS is super beefy in terms of hardware specs, so let’s dive into what …
-The post Terramaster T12-500 Pro NAS Review: Beefy Specs with Backup Server Built-in appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
