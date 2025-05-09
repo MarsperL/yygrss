@@ -2,10 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-05-08T02:04:34.156Z</updated>
+    <updated>2025-05-09T02:03:18.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Mirror Your On-Premises GitLab Repo to GitLab Cloud for Resiliency]]></title>
+        <id>https://www.virtualizationhowto.com/?p=300929</id>
+        <link href="https://www.virtualizationhowto.com/2025/05/how-to-mirror-your-on-premises-gitlab-repo-to-gitlab-cloud-for-resiliency/"/>
+        <updated>2025-05-08T13:35:18.000Z</updated>
+        <summary type="html"><![CDATA[I use Gitlab extensively in the home lab for various purposes and running my CI/CD pipelines. Even though I back up my Gitlab environment and container data, I still want to make sure that I have things configured in a way where if things “hit the fan”, I can still have confidence that my Gitlab …
+The post How to Mirror Your On-Premises GitLab Repo to GitLab Cloud for Resiliency appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Minutes to Kubernetes MCP Server using Docker MCP Tookit]]></title>
+        <id>https://collabnix.com/?p=32001</id>
+        <link href="https://collabnix.com/5-minutes-to-kubernetes-mcp-server-using-docker-mcp-tookit/"/>
+        <updated>2025-05-08T09:27:33.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever wished you could manage your Kubernetes clusters more easily without switching between multiple tools and terminals? Imagine managing K8s clusters using simple natural language commands instead of memorizing dozens of kubectl incantations. Well, the wait is over. Docker’s Model Context Protocol (MCP) Toolkit is revolutionizing how we interact with Kubernetes, bringing AI-powered […]]]></summary>
+        <author>
+            <name>Ajeet Raina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Choose the Right APM Tool: A Comparison of the Top Solutions in 2025]]></title>
+        <id>https://collabnix.com/?p=31977</id>
+        <link href="https://collabnix.com/how-to-choose-the-right-apm-tool-a-comparison-of-the-top-solutions-in-2025/"/>
+        <updated>2025-05-08T07:16:20.000Z</updated>
+        <summary type="html"><![CDATA[In the era of cloud-native apps, distributed systems, and microservices, application performance monitoring (APM) is no longer optional—it’s essential. The right APM tool helps businesses deliver fast, reliable, and efficient user experiences, detect issues proactively, and optimize system performance across complex environments. But with so many APM tools in the market, each offering a wide […]]]></summary>
+        <author>
+            <name>Srushti Vachhrajani</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[理解 Envoy 的扩展与集成机制：从内置扩展到动态模块]]></title>
+        <id>https://jimmysong.io/blog/envoy-extension-vs-integration/</id>
+        <link href="https://jimmysong.io/blog/envoy-extension-vs-integration/"/>
+        <updated>2025-05-08T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[随着 Envoy 在云原生网络领域的广泛应用，越来越多开发者开始关注如何扩展它的功能。Envoy 提供了多种扩展机制，不同机制在性能、安全性、开发复杂度和兼容性方面各有差异。
+这篇文章是我在调研 Envoy 扩展机制过程中的总结，希望能为你理解和选择合适的扩展方式提供一些参考。
+两类机制：扩展 vs 集成
+在讨论 Envoy 的“扩展机制”时，我们需要先明确一点：并非所有用于扩展功能的方式都算作 Envoy 的原生扩展（in-process extensions）。从架构上看，Envoy 的机制大致分为两类：
+进程内扩展机制（in-process extensions）：
+
+内置 C++ 过滤器
+Lua 脚本
+Wasm 插件
+动态模块（Dynamic Modules）
+进程外集成机制（out-of-process integrations）：
+
+External Processing API（ext_proc）
+External Authorization API（ext_authz）
+Envoy 代理扩展机制
+  
+
+Ext_proc 和 ext_authz 本质上是通过 Envoy 提供的 gRPC/HTTP API 接口调用外部服务来实现请求处理逻辑，它们运行在独立进程中，并不注册为 Envoy 本地的过滤器链一部分。因此，严格来说，它们是“集成机制”而非“扩展机制”。
+不过，为了更完整地覆盖用户常用的方式，在本文中我将它们一并纳入比较和讨论中。毕竟在实际使用中，它们和原生扩展一样，常用于处理 HTTP 请求和响应。
+简要概览：六种机制各有优劣
+每种机制的使用成本、性能表现、适用范围都不一样。下面是我对它们的简要归纳。
+内置 C++ 扩展：性能至上，但维护成本高
+这是一种最原始也最强大的方式，把自定义逻辑直接写入 Envoy 的源码中编译。这种方式拥有最好的性能（包括…]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[良凤江国家森林公园]]></title>
+        <id>https://bluehe.cn/archives/liangfengjiang-park</id>
+        <link href="https://bluehe.cn/archives/liangfengjiang-park"/>
+        <updated>2025-05-08T04:49:00.000Z</updated>
+        <summary type="html"><![CDATA[5月2日，乘坐公交车前往南宁市南郊的良凤江国家森林公园，地理位置比较偏，只有沿途的学生还在乘坐该公交车抵达学院。
+
+我是中午抵达的，天气炎热，售票口已经关闭，我还以为不开了，前往检票口时旁边的办公室内仅有一位工作人员在值班，连入园的机子都是关闭的，没有阻拦...]]></summary>
+        <author>
+            <name>寻鹤</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[楠溪江自驾Day2 - 寻源大青岗]]></title>
+        <id>https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-02.html</id>
+        <link href="https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-02.html"/>
+        <updated>2025-05-07T22:48:16.000Z</updated>
+        <summary type="html"><![CDATA[楠溪江自驾的第二天，从埠头镇出发，沿溪下线和陈界线探索永安溪的美景，途经永溪村、美岙村等地，体验了越王古道的历史文化，享受了下岸水库的壮观景色，最终在溪下村寻找楠溪江的源头，虽然旅途充满挑战，但沿途的美景和独特的体验让人难忘。]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Innovative Health Solutions Are Transforming Lives]]></title>
         <id>https://collabnix.com/?p=31969</id>
@@ -5879,38 +5964,6 @@ API 接口调用（付费计划）
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[过年前的准备]]></title>
-        <id>https://bluehe.cn/archives/new-year-prepare-2025</id>
-        <link href="https://bluehe.cn/archives/new-year-prepare-2025"/>
-        <updated>2025-02-08T12:34:00.000Z</updated>
-        <summary type="html"><![CDATA[过年前全家出动，前往父亲养殖的鱼塘，之前在里面放了许多鱼苗，时不时投喂。老家由于半年几乎都没下雨，水位下降的很快，有一些鱼都缺氧了，不得不把清理计划提前。水很绿，之前不是这样的，看着就很奇怪。
-
-边上有许多同村的人们正看着热闹，也好奇能有多少鱼儿。我们随后...]]></summary>
-        <author>
-            <name>寻鹤</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel B580 GPU 大模型容器推理实践：构建更好的模型 Docker 容器环境（二）]]></title>
-        <id>https://soulteary.com/2025/02/08/intel-b580-gpu-llm-practice-building-a-better-model-docker-container-environment.html</id>
-        <link href="https://soulteary.com/2025/02/08/intel-b580-gpu-llm-practice-building-a-better-model-docker-container-environment.html"/>
-        <updated>2025-02-08T10:34:00.000Z</updated>
-        <summary type="html"><![CDATA[本文将详细介绍如何为 Intel ARC 显卡构建更好的模型运行容器环境，来运行 DeepSeek R1 Distill Qwen 1.5 和 7B 模型，并分享完整的实践经验和一些对英特尔显卡、开源生态、模型生态的看法。]]></summary>
-        <author>
-            <name>苏洋(soulteary)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How DevOps Can Integrate Tablets for Enterprise Use]]></title>
-        <id>https://collabnix.com/?p=30361</id>
-        <link href="https://collabnix.com/how-devops-can-integrate-tablets-for-enterprise-use/"/>
-        <updated>2025-02-08T09:59:48.000Z</updated>
-        <summary type="html"><![CDATA[Enterprises are increasingly leveraging tablets to enhance mobility, streamline operations, and boost efficiency in the workplace. From allowing employees to access critical systems on the go to enabling real-time collaboration, tablets have become essential tools across industries. However, deploying tablets at scale in an enterprise environment comes with its challenges, especially in implementing them securely […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[给 Soomal 网站再续命 10 年]]></title>
         <id>https://lawtee.com/article/soomal-mirror/</id>
         <link href="https://lawtee.com/article/soomal-mirror/"/>
@@ -5944,18 +5997,6 @@ API 接口调用（付费计划）
         <summary type="html"><![CDATA[一、wiki.js 知识库简介 基本概述 定义 ：Wiki.js 是一个开源、现代、轻量且功能强大的 Wiki 应用程序，基于 Node.js 构建，旨在帮助个人和团队轻松创建、管理和共享知识。 开源性质 ：它遵循 AGPLv3 许可证，任何人都可以免费下载、使用和修改其源代码，这种开源特性也意味着]]></summary>
         <author>
             <name>运维小弟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[新版本去不图床免费公测开始啦]]></title>
-        <id>https://dusays.com/797/</id>
-        <link href="https://dusays.com/797/"/>
-        <updated>2025-02-07T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>有不少的小伙伴为去不图床提供建议，包括但不限于增加支持格式、图片处理、水印功能等等。杜老师也收集了这些建议转交给程序的设计者，经过了几个月更新迭代，V2 版本已推出。由于使用了新框架，无论是操作逻辑和功能支持，都有较大改变，所以在正式上线前，杜老师决定免费公测下！</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
         </author>
     </entry>
     <entry>

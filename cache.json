@@ -735,16 +735,6 @@
           "wordCount": 214,
           "title": "致新朋友：从技术交流中寻找志同道合的你",
           "imageUrl": null
-        },
-        {
-          "id": "https://soulteary.com/2025/02/08/intel-b580-gpu-llm-practice-building-a-better-model-docker-container-environment.html",
-          "author": "苏洋(soulteary)",
-          "description": "本文将详细介绍如何为 Intel ARC 显卡构建更好的模型运行容器环境，来运行 DeepSeek R1 Distill Qwen 1.5 和 7B 模型，并分享完整的实践经验和一些对英特尔显卡、开源生态、模型生态的看法。",
-          "link": "https://soulteary.com/2025/02/08/intel-b580-gpu-llm-practice-building-a-better-model-docker-container-environment.html",
-          "publishedOn": "2025-02-08T10:34:00.000Z",
-          "wordCount": 2947,
-          "title": "Intel B580 GPU 大模型容器推理实践：构建更好的模型 Docker 容器环境（二）",
-          "imageUrl": null
         }
       ]
     },
@@ -753,6 +743,16 @@
       "feedUrl": "https://blog.ops-coffee.cn/feed.xml",
       "siteUrl": "https://blog.ops-coffee.cn",
       "articles": [
+        {
+          "id": "https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-02.html",
+          "author": null,
+          "description": "楠溪江自驾的第二天，从埠头镇出发，沿溪下线和陈界线探索永安溪的美景，途经永溪村、美岙村等地，体验了越王古道的历史文化，享受了下岸水库的壮观景色，最终在溪下村寻找楠溪江的源头，虽然旅途充满挑战，但沿途的美景和独特的体验让人难忘。",
+          "link": "https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-02.html",
+          "publishedOn": "2025-05-07T22:48:16.000Z",
+          "wordCount": 85,
+          "title": "楠溪江自驾Day2 - 寻源大青岗",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-01.html",
           "author": null,
@@ -860,6 +860,16 @@
       "feedUrl": "https://jimmysong.io/blog/index.xml",
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
+        {
+          "id": "https://jimmysong.io/blog/envoy-extension-vs-integration/",
+          "author": "Jimmy Song",
+          "description": "随着 Envoy 在云原生网络领域的广泛应用，越来越多开发者开始关注如何扩展它的功能。Envoy 提供了多种扩展机制，不同机制在性能、安全性、开发复杂度和兼容性方面各有差异。\n这篇文章是我在调研 Envoy 扩展机制过程中的总结，希望能为你理解和选择合适的扩展方式提供一些参考。\n两类机制：扩展 vs 集成\n在讨论 Envoy 的“扩展机制”时，我们需要先明确一点：并非所有用于扩展功能的方式都算作 Envoy 的原生扩展（in-process extensions）。从架构上看，Envoy 的机制大致分为两类：\n进程内扩展机制（in-process extensions）：\n\n内置 C++ 过滤器\nLua 脚本\nWasm 插件\n动态模块（Dynamic Modules）\n进程外集成机制（out-of-process integrations）：\n\nExternal Processing API（ext_proc）\nExternal Authorization API（ext_authz）\nEnvoy 代理扩展机制\n  \n\nExt_proc 和 ext_authz 本质上是通过 Envoy 提供的 gRPC/HTTP API 接口调用外部服务来实现请求处理逻辑，它们运行在独立进程中，并不注册为 Envoy 本地的过滤器链一部分。因此，严格来说，它们是“集成机制”而非“扩展机制”。\n不过，为了更完整地覆盖用户常用的方式，在本文中我将它们一并纳入比较和讨论中。毕竟在实际使用中，它们和原生扩展一样，常用于处理 HTTP 请求和响应。\n简要概览：六种机制各有优劣\n每种机制的使用成本、性能表现、适用范围都不一样。下面是我对它们的简要归纳。\n内置 C++ 扩展：性能至上，但维护成本高\n这是一种最原始也最强大的方式，把自定义逻辑直接写入 Envoy 的源码中编译。这种方式拥有最好的性能（包括…",
+          "link": "https://jimmysong.io/blog/envoy-extension-vs-integration/",
+          "publishedOn": "2025-05-08T07:00:00.000Z",
+          "wordCount": 513,
+          "title": "理解 Envoy 的扩展与集成机制：从内置扩展到动态模块",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
+        },
         {
           "id": "https://jimmysong.io/blog/migrating-from-ingress-nginx-to-envoy-gateway/",
           "author": "Jimmy Song",
@@ -1103,6 +1113,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=300929",
+          "author": "Brandon Lee",
+          "description": "I use Gitlab extensively in the home lab for various purposes and running my CI/CD pipelines. Even though I back up my Gitlab environment and container data, I still want to make sure that I have things configured in a way where if things “hit the fan”, I can still have confidence that my Gitlab …\nThe post How to Mirror Your On-Premises GitLab Repo to GitLab Cloud for Resiliency appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/05/how-to-mirror-your-on-premises-gitlab-repo-to-gitlab-cloud-for-resiliency/",
+          "publishedOn": "2025-05-08T13:35:18.000Z",
+          "wordCount": 10988,
+          "title": "How to Mirror Your On-Premises GitLab Repo to GitLab Cloud for Resiliency",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/GitLab-Mirror.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=300913",
           "author": "Brandon Lee",
@@ -2070,6 +2090,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=32001",
+          "author": "Ajeet Raina",
+          "description": "Have you ever wished you could manage your Kubernetes clusters more easily without switching between multiple tools and terminals? Imagine managing K8s clusters using simple natural language commands instead of memorizing dozens of kubectl incantations. Well, the wait is over. Docker’s Model Context Protocol (MCP) Toolkit is revolutionizing how we interact with Kubernetes, bringing AI-powered […]",
+          "link": "https://collabnix.com/5-minutes-to-kubernetes-mcp-server-using-docker-mcp-tookit/",
+          "publishedOn": "2025-05-08T09:27:33.000Z",
+          "wordCount": 4213,
+          "title": "5 Minutes to Kubernetes MCP Server using Docker MCP Tookit",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2025/05/Screenshot-2025-05-08-at-3.01.31%E2%80%AFPM.png"
+        },
+        {
+          "id": "https://collabnix.com/?p=31977",
+          "author": "Srushti Vachhrajani",
+          "description": "In the era of cloud-native apps, distributed systems, and microservices, application performance monitoring (APM) is no longer optional—it’s essential. The right APM tool helps businesses deliver fast, reliable, and efficient user experiences, detect issues proactively, and optimize system performance across complex environments. But with so many APM tools in the market, each offering a wide […]",
+          "link": "https://collabnix.com/how-to-choose-the-right-apm-tool-a-comparison-of-the-top-solutions-in-2025/",
+          "publishedOn": "2025-05-08T07:16:20.000Z",
+          "wordCount": null,
+          "title": "How to Choose the Right APM Tool: A Comparison of the Top Solutions in 2025",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=31969",
           "author": "Tanvir Kour",
@@ -3189,16 +3229,6 @@
           "wordCount": 2853,
           "title": "Neo4j,  Model Context Protocol (MCP) Server and Docker Desktop",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30361",
-          "author": "Tanvir Kour",
-          "description": "Enterprises are increasingly leveraging tablets to enhance mobility, streamline operations, and boost efficiency in the workplace. From allowing employees to access critical systems on the go to enabling real-time collaboration, tablets have become essential tools across industries. However, deploying tablets at scale in an enterprise environment comes with its challenges, especially in implementing them securely […]",
-          "link": "https://collabnix.com/how-devops-can-integrate-tablets-for-enterprise-use/",
-          "publishedOn": "2025-02-08T09:59:48.000Z",
-          "wordCount": 3102,
-          "title": "How DevOps Can Integrate Tablets for Enterprise Use",
-          "imageUrl": null
         }
       ]
     },
@@ -3582,6 +3612,16 @@
       "siteUrl": "https://bluehe.cn/",
       "articles": [
         {
+          "id": "https://bluehe.cn/archives/liangfengjiang-park",
+          "author": "寻鹤",
+          "description": "5月2日，乘坐公交车前往南宁市南郊的良凤江国家森林公园，地理位置比较偏，只有沿途的学生还在乘坐该公交车抵达学院。\n\n我是中午抵达的，天气炎热，售票口已经关闭，我还以为不开了，前往检票口时旁边的办公室内仅有一位工作人员在值班，连入园的机子都是关闭的，没有阻拦...",
+          "link": "https://bluehe.cn/archives/liangfengjiang-park",
+          "publishedOn": "2025-05-08T04:49:00.000Z",
+          "wordCount": 520,
+          "title": "良凤江国家森林公园",
+          "imageUrl": null
+        },
+        {
           "id": "https://bluehe.cn/archives/250428-diary",
           "author": "寻鹤",
           "description": "四月十五日专门请了一天假回到学校考教资，也是用上最新的D270预约平台（滴滴的站点巴士），我早已提前一天购票，选择了比较实惠的七元九点区间发车票，预计行驶58分钟的路程，可以查看实景图的上车地点，发车前30分钟还有车辆定位，都不担心错过，而且可以随时停靠...",
@@ -3725,21 +3765,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bluehe.cn/usr/uploads/2025/02/2942172086.jpg"
-        },
-        {
-          "id": "https://bluehe.cn/archives/new-year-prepare-2025",
-          "author": "寻鹤",
-          "description": "过年前全家出动，前往父亲养殖的鱼塘，之前在里面放了许多鱼苗，时不时投喂。老家由于半年几乎都没下雨，水位下降的很快，有一些鱼都缺氧了，不得不把清理计划提前。水很绿，之前不是这样的，看着就很奇怪。\n\n边上有许多同村的人们正看着热闹，也好奇能有多少鱼儿。我们随后...",
-          "link": "https://bluehe.cn/archives/new-year-prepare-2025",
-          "publishedOn": "2025-02-08T12:34:00.000Z",
-          "wordCount": 757,
-          "title": "过年前的准备",
-          "enclosure": {
-            "url": "https://bluehe.cn/usr/uploads/2025/02/4212249348.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bluehe.cn/usr/uploads/2025/02/4212249348.jpg"
         }
       ]
     },
@@ -4214,16 +4239,6 @@
           "publishedOn": "2025-02-10T16:00:00.000Z",
           "wordCount": 1292,
           "title": "本博出现图碎问题说明",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/797/",
-          "author": null,
-          "description": "<blockquote>\n<p>有不少的小伙伴为去不图床提供建议，包括但不限于增加支持格式、图片处理、水印功能等等。杜老师也收集了这些建议转交给程序的设计者，经过了几个月更新迭代，V2 版本已推出。由于使用了新框架，无论是操作逻辑和功能支持，都有较大改变，所以在正式上线前，杜老师决定免费公测下！</p>\n</blockquote>",
-          "link": "https://dusays.com/797/",
-          "publishedOn": "2025-02-07T16:00:00.000Z",
-          "wordCount": 1271,
-          "title": "新版本去不图床免费公测开始啦",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
