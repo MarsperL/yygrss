@@ -450,6 +450,21 @@
       "siteUrl": "https://srebro.cn/",
       "articles": [
         {
+          "id": "/archives/1746805396253",
+          "author": "运维小弟",
+          "description": "PostGIS 与 pgRouting：打造强大的地理空间分析容器 背景 在现代地理信息系统 (GIS) 和基于位置的服务中，PostGIS 和 pgRouting 是两个不可或缺的开源工具。PostGIS 为 PostgreSQL 数据库提供了强大的空间数据处理能力，而 pgRouting 则在此",
+          "link": "https://srebro.cn/archives/1746805396253",
+          "publishedOn": "2025-05-09T15:44:33.000Z",
+          "wordCount": 3057,
+          "title": "构建 PostGIS 与 pgRouting容器镜像：打造强大的地理空间分析",
+          "enclosure": {
+            "url": "https://srebro.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https%3A%2F%2Fs3api.srebro.cn%3A443%2Fpicgo%2F202505092344658.png&size=m",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://srebro.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https%3A%2F%2Fs3api.srebro.cn%3A443%2Fpicgo%2F202505092344658.png&size=m"
+        },
+        {
           "id": "/archives/1746624080788",
           "author": "运维小弟",
           "description": "Docker Compose 与 docker-compose 的区别说明 在docker实际使用中，经常会搭配Compose，用来定义和运行多个 Docker 容器。使用时会发现，有时候的指令是docker-compose，有时候是docker compose，下面给出解释。 docker官方文档",
@@ -633,21 +648,6 @@
             "length": "1"
           },
           "imageUrl": "https://srebro.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https://s3api.srebro.cn:443/picgo/202502151217168.png&size=m"
-        },
-        {
-          "id": "/archives/1739004997288",
-          "author": "运维小弟",
-          "description": "一、wiki.js 知识库简介 基本概述 定义 ：Wiki.js 是一个开源、现代、轻量且功能强大的 Wiki 应用程序，基于 Node.js 构建，旨在帮助个人和团队轻松创建、管理和共享知识。 开源性质 ：它遵循 AGPLv3 许可证，任何人都可以免费下载、使用和修改其源代码，这种开源特性也意味着",
-          "link": "https://srebro.cn/archives/1739004997288",
-          "publishedOn": "2025-02-08T08:58:19.000Z",
-          "wordCount": 2277,
-          "title": "《Wiki.js知识库部署实践 + CNB Git数据同步方案解析》",
-          "enclosure": {
-            "url": "https://srebro.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https://s3api.srebro.cn/srebro/picture/22040EF8-89FB-44F3-BCAB-1C3DAA202EF1.png&size=m",
-            "type": "image/jpeg",
-            "length": "1"
-          },
-          "imageUrl": "https://srebro.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https://s3api.srebro.cn/srebro/picture/22040EF8-89FB-44F3-BCAB-1C3DAA202EF1.png&size=m"
         }
       ]
     },
@@ -725,16 +725,6 @@
           "wordCount": 310,
           "title": "管理 HomeLab 设备：借助 Claude 3.7 构建更智能的前端看板（一）",
           "imageUrl": null
-        },
-        {
-          "id": "https://soulteary.com/2025/02/09/find-like-minded-friends-from-happy-technical.html",
-          "author": "苏洋(soulteary)",
-          "description": "有些路，我们能一个人走得快，却无法一个人走得远。让交友更高效，在折腾中彼此照亮，也能在成长的过程中收获更多温暖。",
-          "link": "https://soulteary.com/2025/02/09/find-like-minded-friends-from-happy-technical.html",
-          "publishedOn": "2025-02-09T13:33:00.000Z",
-          "wordCount": 214,
-          "title": "致新朋友：从技术交流中寻找志同道合的你",
-          "imageUrl": null
         }
       ]
     },
@@ -743,6 +733,26 @@
       "feedUrl": "https://blog.ops-coffee.cn/feed.xml",
       "siteUrl": "https://blog.ops-coffee.cn",
       "articles": [
+        {
+          "id": "https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-04.html",
+          "author": null,
+          "description": "本文记录了楠溪江自驾游第四天的行程，包括探访暨家寨的宁静美景、林坑古村的古朴建筑、屿北村的千年历史以及苍坡古村的夜晚。沿途体验了自然与人文的完美结合，感受了永嘉县独特的风景与文化。",
+          "link": "https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-04.html",
+          "publishedOn": "2025-05-09T16:06:17.000Z",
+          "wordCount": 83,
+          "title": "楠溪江自驾Day4 - 林坑古村落",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-03.html",
+          "author": null,
+          "description": "本文记录了作者从美岙村出发，经过巽宅镇、坑口村、金溪水库等地点，最终到达暨家寨的自驾旅程。途中欣赏了楠溪江源头的美景，探索了山黄线和铁金线的险峻山路，体验了浙南山地村落的风土人情，最终在暨家寨度过了一个宁静的夜晚。",
+          "link": "https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-03.html",
+          "publishedOn": "2025-05-08T16:39:01.000Z",
+          "wordCount": 87,
+          "title": "楠溪江自驾Day3 - 探秘暨家寨",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-02.html",
           "author": null,
@@ -1025,6 +1035,66 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=6969",
+          "author": "laixintao",
+          "description": "首先，通过这个抓包文件前几个包可以发现，服务器的网络是没有问题的，因为访问 DNS 或者 ubuntu apt […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/6969",
+          "publishedOn": "2025-04-23T22:45:00.000Z",
+          "wordCount": 1151,
+          "title": "请求为什么超时了？答案和解析",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.kawabangga.com/?p=6965",
+          "author": "laixintao",
+          "description": "小明是一名网络工程师，有一天，同事报告问题说：自己的程序发送 HTTP 请求在测试环境好好的，但是在线上环境就 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/6965",
+          "publishedOn": "2025-04-20T22:03:00.000Z",
+          "wordCount": 996,
+          "title": "请求为什么超时了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.kawabangga.com/?p=6950",
+          "author": "laixintao",
+          "description": "虽然这个系列的文章都是聚焦于如何通过分析网络抓包文件，结合网络知识，来解决实际的问题的，但是分析之前的步骤—— […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/6950",
+          "publishedOn": "2025-04-13T04:30:46.000Z",
+          "wordCount": 1421,
+          "title": "网络抓包的技巧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.kawabangga.com/?p=6937",
+          "author": "laixintao",
+          "description": "这个问题实际的原因是客户端的端口不够用了。 为什么端口会不够用呢？因为一个 TCP 连接的标志是四元组： (s […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/6937",
+          "publishedOn": "2025-04-07T11:17:18.000Z",
+          "wordCount": 1201,
+          "title": "压测的时候 QPS 为什么上不去？答案和解析",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.kawabangga.com/?p=6919",
+          "author": "laixintao",
+          "description": "在之前的文章中介绍了网络的「分层」概念，那么这一篇继续科普一下网络的基础，即「转发」这个概念。 所有的转发都是 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/6919",
+          "publishedOn": "2025-04-04T15:42:39.000Z",
+          "wordCount": 1180,
+          "title": "数据是如何转发的",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.kawabangga.com/?p=6910",
+          "author": "laixintao",
+          "description": "小陈最近为团队的 HTTP 服务开发了一个高性能网关，用户的请求会先经过小陈开发的网关，网关对 HTTP He […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/6910",
+          "publishedOn": "2025-03-31T14:41:55.000Z",
+          "wordCount": 1087,
+          "title": "压测的时候 QPS 为什么上不去？",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=6903",
           "author": "laixintao",
           "description": "看到一个 Golang 的模式，用一个 function 来实现一个 interface，function 本 […]\nContinue reading...",
@@ -1053,46 +1123,6 @@
           "wordCount": 1100,
           "title": "pwru 工具介绍和案例一则",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6851",
-          "author": "laixintao",
-          "description": "上周遇到的一个问题很有意思，后来搜索相关的资料，找到的也比较少，感觉有必要记录一下。 问题的场景很简单：我们有 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6851",
-          "publishedOn": "2025-01-14T00:36:00.000Z",
-          "wordCount": 1150,
-          "title": "一个由 BGP Route Aggregation 引发的问题",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6809",
-          "author": "laixintao",
-          "description": "今年依旧是平静而充实的一年。 特别喜欢 Armin 的这一段话： Whether it’s wor […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6809",
-          "publishedOn": "2025-01-09T23:50:00.000Z",
-          "wordCount": 1046,
-          "title": "2024 年的总结",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6825",
-          "author": "laixintao",
-          "description": "我和我的同事们排查网路问题非常喜欢 MTR，它是 traceroute 和 ping 的结合，可以快速告诉我们 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6825",
-          "publishedOn": "2025-01-08T00:00:00.000Z",
-          "wordCount": 1618,
-          "title": "用 LD_PRELOAD 写魔法程序",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6816",
-          "author": "laixintao",
-          "description": "看了一个视频，Endianness Explained, 对 Endianness 介绍的非常好。尤其是对常见 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6816",
-          "publishedOn": "2025-01-06T01:39:28.000Z",
-          "wordCount": 1093,
-          "title": "Little Endian vs Big Endian",
-          "imageUrl": null
         }
       ]
     },
@@ -1113,6 +1143,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=300964",
+          "author": "Brandon Lee",
+          "description": "There are two things that I highly recommend for modern home lab environments, Docker and low-power mini PCs. Docker provides a much more efficient way to run apps compared to running full virtual machines. Also, low-power mini PCs are getting more popular and powerful. However, there are still things you can and should think about …\nThe post Top Docker Performance Tweaks on Low-Power Hardware appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/05/top-docker-performance-tweaks-on-low-power-hardware/",
+          "publishedOn": "2025-05-09T14:17:09.000Z",
+          "wordCount": 11003,
+          "title": "Top Docker Performance Tweaks on Low-Power Hardware",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/docker-performance-tweaks.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=300929",
           "author": "Brandon Lee",
@@ -3238,6 +3278,16 @@
       "siteUrl": "https://qq.mba/",
       "articles": [
         {
+          "id": "https://qq.mba/237.html",
+          "author": "满心",
+          "description": "不得不感叹，时间过得可真快，感觉才刚到25年，没想到已经距离年中不远了，这不生日也到了，由于是工作日，所以晚上到家也七点了，妈妈给做了菜，然后媳妇儿从公司点了两个菜，买了蛋糕，一家人一起吃个饭，...",
+          "link": "https://qq.mba/237.html",
+          "publishedOn": "2025-05-09T06:22:00.000Z",
+          "wordCount": 532,
+          "title": "一杯酒，一家人",
+          "imageUrl": null
+        },
+        {
           "id": "https://qq.mba/236.html",
           "author": "满心",
           "description": "最近有朋友聊到关于员工合同期满之后，如果公司单方面不续约情况下，是否有赔偿问题，就这方面拿出来聊聊，说实话，没经历过，我也不太懂，所以就找了各方面资料，汇总在一起，看是否有经历过的朋友，能给给建...",
@@ -3905,6 +3955,16 @@
       "siteUrl": "https://www.domon.cn/",
       "articles": [
         {
+          "id": "67f9daac6c5c20099658221f",
+          "author": "Domon",
+          "description": "世上每个人，都有一个他冥冥中知道无法实现的梦想，但他会用毕生去希望和等待它的到来。人类因此而悲哀，也因此而伟大和辉煌",
+          "link": "https://www.domon.cn/2025-3yue-yue-du-shu-zhai/",
+          "publishedOn": "2025-04-12T03:18:06.000Z",
+          "wordCount": 211,
+          "title": "2025年3月阅读书摘",
+          "imageUrl": "https://images.unsplash.com/photo-1517770413964-df8ca61194a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI3fHxib29rcyUyMHxlbnwwfHx8fDE3NDQ0Mjc3NDB8MA&ixlib=rb-4.0.3&q=80&w=2000"
+        },
+        {
           "id": "67c700fa6c5c20099658220d",
           "author": "Domon",
           "description": "世上每个人，都有一个他冥冥中知道无法实现的梦想，但他会用毕生去希望和等待它的到来。人类因此而悲哀，也因此而伟大和辉煌。",
@@ -3933,16 +3993,6 @@
           "wordCount": 200,
           "title": "2024年度书籍回顾",
           "imageUrl": "https://images.unsplash.com/photo-1526285759904-71d1170ed2ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI0fHxib29rc3xlbnwwfHx8fDE3Mzk0ODk4MTZ8MA&ixlib=rb-4.0.3&q=80&w=2000"
-        },
-        {
-          "id": "67768ff96c5c200996582175",
-          "author": "Domon",
-          "description": "12月阅读记录\n\n《为你的生活写作：布洛克小说一日课》Done\n《跑者常见疼痛手册》Done\n《李诞脱口秀工作手册》Done\n《生",
-          "link": "https://www.domon.cn/2024-12yue-yue-du-shu-zhai/",
-          "publishedOn": "2025-01-02T13:15:15.000Z",
-          "wordCount": 290,
-          "title": "2024年12月阅读书摘",
-          "imageUrl": "https://images.unsplash.com/photo-1523865236457-3ae3358a4eaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE1fHxib29rc3xlbnwwfHx8fDE3MzU3NjQyMjB8MA&ixlib=rb-4.0.3&q=80&w=2000"
         }
       ]
     },
@@ -3951,6 +4001,16 @@
       "feedUrl": "https://dusays.com/atom.xml",
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
+        {
+          "id": "https://dusays.com/827/",
+          "author": null,
+          "description": "<blockquote>\n<p>随着相机像素越来越大，图片体积也变大了。在图片处理中，较大的文件体积会影响性能，因此杜老师会先生成缩略图，筛选完成后再通过 Python 脚本实现图片相似度匹配。这里是一个简单的示例，供需要的小伙伴们参考。</p>\n</blockquote>",
+          "link": "https://dusays.com/827/",
+          "publishedOn": "2025-05-08T16:00:00.000Z",
+          "wordCount": 1425,
+          "title": "使用 Python 脚本实现图片相似度匹配",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
         {
           "id": "https://dusays.com/826/",
           "author": null,
@@ -5278,6 +5338,56 @@
       "siteUrl": "https://chegva.com",
       "articles": [
         {
+          "id": "https://chegva.com/?p=6371",
+          "author": "anzhihe",
+          "description": "踩了个研发建表没有设置主键的坑，mark一下。数据库实例是 tdsql mysql 5.7，服务建表的时候直接报错：ERROR 1173 （42000）：This table type requires a primary key，最后乖乖加上主键解决。\ntdsql中设置建表必须需要显式主键的参数为 reject_table_no_pk\n\n至于为什么建表必须创建主键应该是主要有两个原因，一个是mysql规范，一个是怕影响性能埋坑。\n\nTDSQL-C MySQL 版使用规范\n\n\n\n TDSQL 内核使用 row 格式的 binlog 复制。根据目前 MariaDB/MySQL 的实现方式，如果一个 update/delete 语句更新或者删除了很多行，那么到了备机上面，更新或者删除每个行时候，需要使用索引扫描或者全表扫描来找到这个行，导致备机复制变得非常慢，这是非常严重的问题。 在 TDSQL 的告警平台上面就有用户出现过主备延迟因此变得非常大的告警。为了避免这些致命问题的出现，所以才有“自动增加主键”和“禁止 create table/alter table 语句产生无主键的表”\n解决方案\n为表添加显式主键\n1.通过 ALTER TABLE 语句为表添加主键\r\nALTER TABLE 表名 ADD PRIMARY KEY (列名);\r\n\r\n2.或者修改建表语句，添加主键\r\nCREATE TABLE IF NOT EXISTS `zone_xxx_job` (\r\n    `id` bigint(20) NOT NULL AUTO_INCREMENT,\r\n    `dispatch_job_id` bigint(20) NULL,\r\n    PRIMARY KEY (`id`)\r\n) ENGINE = InnoDB CHARSET = utf8mb4;\r\n\r\n3.验证主键是否生效\r\nSHOW CREATE TABLE 表名;\n\n注意事项：\n\n列要求：主键列必须满足以下条件：\n\n\n值唯一且非空。\n\n数据类型适合作为索引（推荐整数类型如 INT、BIGINT）。\n\n\n数据冲突：若表中已有数据，需确保主键列无重复值，否则会报错 Duplicate entry。\n\n\n\n参考：记一次数据库迁移的过程采坑过程",
+          "link": "https://chegva.com/6371.html",
+          "publishedOn": "2025-05-09T09:45:52.000Z",
+          "wordCount": 9080,
+          "title": "TDSQL MySQL ERROR 1173 （42000）：This table type requires a primary key报错处理",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chegva.com/?p=6370",
+          "author": "anzhihe",
+          "description": "sql_mode 是 MySQL 中一个关键的系统变量，用于控制 SQL 语法解析、数据校验和存储行为的严格程度。合理配置 sql_mode 可以确保数据一致性、兼容性和安全性。以下是详细的配置说明及操作指南：\n\n一、sql_mode 的核心作用\n\n语法校验：控制 SQL 语句的语法规则（如是否允许省略 GROUP BY 中的非聚合字段）。\n\n数据校验：严格检查数据的合法性（如日期格式、除零操作）。\n\n兼容性：调整 MySQL 行为以兼容其他数据库（如 Oracle 或 SQL Server）。\n\n安全性与性能：通过严格模式避免脏数据写入，提升数据质量。\n\n\n二、常见的 sql_mode 模式\n\n\n模式名称说明\n\nSTRICT_ALL_TABLES对所有表的写入操作启用严格模式，非法数据会触发错误。\nSTRICT_TRANS_TABLES对事务型存储引擎（如 InnoDB）启用严格模式，非事务引擎可能宽松处理。\nONLY_FULL_GROUP_BY要求 GROUP BY 子句包含所有非聚合字段，避免查询结果不确定性。\nNO_ZERO_IN_DATE禁止日期中的月份或日为 0（如 '2023-00-01'）。\nNO_ZERO_DATE禁止插入 '0000-00-00' 这样的零日期。\nERROR_FOR_DIVISION_BY_ZERO除零操作触发错误（否则返回 NULL 并警告）。\nNO_AUTO_CREATE_USER禁止 GRANT 语句自动创建用户（需先显式创建用户）。\nNO_ENGINE_SUBSTITUTION阻止存储引擎自动替换（如表指定引擎不可用时直接报错）。\nANSI启用 ANSI SQL 兼容模式，包含多种严格规则。\nTRADITIONAL启用传统严格模式（类似 STRICT_TRANS_TABLES + 其他严格规则）。\n\n\n三、查看与配置 sql_mo…",
+          "link": "https://chegva.com/6370.html",
+          "publishedOn": "2025-05-06T01:39:45.000Z",
+          "wordCount": 11677,
+          "title": "MySQL sql_mode 参数配置详解",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chegva.com/?p=6268",
+          "author": "anzhihe",
+          "description": "如何面对枯燥的知识\n首先，我们要知道，为什么会有枯燥的知识？一般来说，枯燥的东西通常是你不感兴趣的东西，而你不感兴趣的东西，可能是你并不知道有什么用的东西。这样的知识通常是比较底层或是抽象度比较高的知识，比如：线性代数，或者一些操作系统内部的原理……越理论的东西就越让人觉得枯燥。\n我还记得，当初上大学学习《计算机网络》时，直接学习那个七层协议，以及那些报文，让我感觉枯燥得不行。那个时候，完全不知道这些东西有什么用，因为我连网络是什么都没有见过。直到有一天，我在老师的公司里看到了网卡、网线和 Hub，然后了解了 Windows NT 的域和 IP 地址，然后用 Power Builder 连上了 SQL Server，用 SQL 写入并读取了数据，我才真正明白网络原来有这么好玩。\n我开始学习《TCP/IP 详解》，又感到一阵枯燥。然后，有一个同事给我递来了《Unix 网络编程》，我照着其中的例子，写了一个聊天服务器，前端用 Delphi 写了一个 QQ 的样子，那种兴奋劲就别提了。再后来，因为要处理网络问题，调优网络性能，我才发现，以前随便学了点的《TCP/IP 详解》对我在排查网络问题上有很大的帮助。这个时候，我才认真地看了这本书，也正是这个时候，才算是真正读进去了。\n后来，我让我团队的一个人学《TCP/IP 详解》这本书，他发现有点难啃就买了一本《图解 TCP/IP》。我找来一看，发现这种图文并茂的书真是增加了很不错的阅读体验，一下子就觉得不是很枯燥了。这让我回想起来那本《从一到无穷大》的相对论科普书，简单、一点也不枯燥。然而，能把这么复杂的问题用这么简单的语言讲清楚的一定是这个领域的大牛了。\n我列举我的这个学习过程，就是想说，如果你发现有些知识太过于枯燥，那么可以通过下面的方法解决。\n\n这个知识对于你来说来太高级了，你可能不知道能用在什么地方。\n\n人的认知是从感性认识向…",
+          "link": "https://chegva.com/6268.html",
+          "publishedOn": "2025-05-03T06:36:20.000Z",
+          "wordCount": 9338,
+          "title": "高效学习(五)：面对枯燥和量大的知识",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chegva.com/?p=6377",
+          "author": "anzhihe",
+          "description": "[xj title=\"日常成长\" introduction=\"20210606-1,20210606-2,20210606-3,20210612-1,20210612-2,20210612-3,20210612-4,20210613-1,20210613-2,20210614-1,20210614-2,20210622-1,20210622-2,20210627-1,20210627-2\" url=\"https://cdn.chegva.com/ueditor/php/upload/video/202106/20210606-1.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210606-2.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210606-3.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210612-1.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210612-2.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210612-3.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210612-4.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210613-1.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210613-2.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210614-1.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210614-2.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210622-1.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210622-2.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210627-1.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210627-2.mp4\" name=\"20210606-1,20210606-2,20210606-3,20210612-1,20210612-2,20210612-3,20210612-4,20210613-1,20210613-2,20210614-1,20210614-2,20210622-1,20210622-2,20210627-1,20210627-2\"\r\n]",
+          "link": "https://chegva.com/6377.html",
+          "publishedOn": "2025-05-02T09:09:06.000Z",
+          "wordCount": 8510,
+          "title": "我的崽崽(31)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chegva.com/?p=6376",
+          "author": "anzhihe",
+          "description": "[xj title=\"回村里玩耍\" introduction=\"20210501-1,20210501-2,20210501-3,20210503,20210504-1,20210504-2,20210507,20210508,20210512,20210521,20210529-1,20210529-2,20210529-3,20210529-4\" url=\"https://cdn.chegva.com/ueditor/php/upload/video/202105/20210501-1.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202105/20210501-2.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202105/20210501-3.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202105/20210503.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202105/20210504-1.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202105/20210504-2.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202105/20210507.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202105/20210508.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202105/20210512.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202105/20210521.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202105/20210529-1.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202105/20210529-2.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202105/20210529-3.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202105/20210529-4.mp4\" name=\"20210501-1,20210501-2,20210501-3,20210503,20210504-1,20210504-2,20210507,20210508,20210512,20210521,20210529-1,20210529-2,20210529-3,20210529-4\"\r\n]",
+          "link": "https://chegva.com/6376.html",
+          "publishedOn": "2025-05-02T09:01:34.000Z",
+          "wordCount": 8493,
+          "title": "我的崽崽(30)",
+          "imageUrl": null
+        },
+        {
           "id": "https://chegva.com/?p=6266",
           "author": "anzhihe",
           "description": "系统地学习\n在学习某个技术的时候，我除了会用到上篇文章中提到的知识图，还会问自己很多个为什么。于是，我形成了一个更高层的知识脑图。下面我把这这个方法分享出来。当然学习一门技术时，Go 语言也好，Docker 也好，我都有一个学习模板。只有把这个学习模板中的内容都填实了，我才罢休。这个模板如下。\n\n这个技术出现的背景、初衷和要达到什么样的目标或是要解决什么样的问题。这个问题非常关键，也就是说，你在学习一个技术的时候，需要知道这个技术的成因和目标，也就是这个技术的灵魂。如果不知道这些的话，那么你会看不懂这个技术的一些设计理念。\n\n这个技术的优势和劣势分别是什么，或者说，这个技术的 trade-off 是什么。任何技术都有其好坏，在解决一个问题的时候，也会带来新的问题。另外，一般来说，任何设计都有 trade-off（要什么和不要什么），所以，你要清楚这个技术的优势和劣势，以及带来的挑战。\n\n这个技术适用的场景。任何技术都有其适用的场景，离开了这个场景，这个技术可能会有很多槽点，所以学习技术不但要知道这个技术是什么，还要知道其适用的场景。没有任何一个技术是普适的。注意，所谓场景一般分别两个，一个是业务场景，一个是技术场景。\n\n技术的组成部分和关键点。这是技术的核心思想和核心组件了，也是这个技术的灵魂所在了。学习技术的核心部分是快速掌握的关键。\n\n技术的底层原理和关键实现。任何一个技术都有其底层的关键基础技术，这些关键技术很有可能也是其它技术的关键基础技术。所以，学习这些关键的基础底层技术，可以让你未来很快地掌握其它技术。可以参看我在 CoolShell 上写的 Docker 底层技术那一系列文章。\n\n已有的实现和它之间的对比。一般来说，任何一个技术都会有不同的实现，不同的实现都会有不同的侧重。学习不同的实现，可以让你得到不同的想法和思路，对于开阔思维，深入细节是非常重要的。\n\n基…",
@@ -5436,86 +5546,6 @@
           "wordCount": 10331,
           "title": "JVM GC 日志解读与分析（番外篇可视化工具）",
           "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6254",
-          "author": "anzhihe",
-          "description": "G1 的全称是 Garbage-First，意为垃圾优先，哪一块的垃圾最多就优先清理它。\nG1 相关的调优参数，可以参考：\n\nhttps://www.oracle.com/technical-resources/articles/java/g1gc.html\n\nG1 使用示例：\n# 请注意命令行启动时没有换行\r\njava -XX:+UseG1GC\r\n-Xms512m\r\n-Xmx512m\r\n-Xloggc:gc.demo.log\r\n-XX:+PrintGCDetails\r\n-XX:+PrintGCDateStamps\r\ndemo.jvm0204.GCLogAnalysis\n运行之后，我们看看 G1 的日志长什么样：\nJava HotSpot(TM) 64-Bit Server VM (25.162-b12) ......\r\nMemory: 4k page，physical 16777216k(709304k free)\r\n\r\nCommandLine flags: -XX:InitialHeapSize=536870912\r\n  -XX:MaxHeapSize=536870912\r\n  -XX:+PrintGC -XX:+PrintGCDateStamps\r\n  -XX:+PrintGCDetails -XX:+PrintGCTimeStamps\r\n  -XX:+UseCompressedClassPointers -XX:+UseCompressedOops\r\n  -XX:+UseG1GC\r\n\r\n2019-12-23T01:45:40.605-0800: 0.181:\r\n [GC pause (G1 Evacuation Pause) (young)，0.0038577 secs]\r\n   [Parallel Time: 3.1 ms，GC Workers: 8]\r\n   .…",
-          "link": "https://chegva.com/6254.html",
-          "publishedOn": "2025-02-07T02:12:34.000Z",
-          "wordCount": 12216,
-          "title": "JVM G1 GC 日志解读与分析",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6253",
-          "author": "anzhihe",
-          "description": "CMS 的 GC 日志解读\nCMS 也可称为“并发标记清除垃圾收集器”。其设计目标是避免在老年代 GC 时出现长时间的卡顿。默认情况下，CMS 使用的并发线程数等于 CPU 内核数的 1/4。\n通过以下选项来指定 CMS 垃圾收集器：\n-XX:+UseConcMarkSweepGC\n如果 CPU 资源受限，CMS 的吞吐量会比并行 GC 差一些。示例：\n# 请注意命令行启动时没有换行，此处是方便大家阅读。\r\njava -XX:+UseConcMarkSweepGC\r\n-Xms512m\r\n-Xmx512m\r\n-Xloggc：gc.demo.log\r\n-XX:+PrintGCDetails\r\n-XX:+PrintGCDateStamps\r\ndemo.jvm0204.GCLogAnalysis\n和前面分析的串行 GC/并行 GC 一样，我们将程序启动起来，看看 CMS 算法生成的 GC 日志是什么样子：\nJava HotSpot(TM) 64-Bit Server VM (25.162-b12) 。。。\r\nMemory： 4k page，physical 16777216k(1168104k free)\r\n\r\nCommandLine flags：\r\n  -XX:InitialHeapSize=536870912 -XX:MaxHeapSize=536870912\r\n  -XX:MaxNewSize=178958336 -XX:MaxTenuringThreshold=6\r\n  -XX:NewSize=178958336 -XX:OldPLABSize=16 -XX:OldSize=357912576\r\n  -XX:+PrintGC -XX:+PrintGCDateStamps\r\n  -XX:+PrintGCDetails -XX:+PrintGCTimeStamps\r\n  -XX…",
-          "link": "https://chegva.com/6253.html",
-          "publishedOn": "2025-01-24T01:34:51.000Z",
-          "wordCount": 12355,
-          "title": "JVM CMS GC 日志解读与分析",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6269",
-          "author": "anzhihe",
-          "description": "唐纳德·特朗普(Donald Trump)星期一(1月20日)宣誓就任美国第47任总统，正式开启他不连续的第二个总统任期。在就职演说中，特朗普承诺恢复“美国优先”政策，推动“常理革命”，并以“黄金时代”形容他领导下的美国未来。在长达数千字的演讲中，特朗普多次批评过去的政府政策，宣布将采取一系列行政命令，涵盖移民、能源、贸易和国家安全领域。他宣称，“美国的衰败已经结束”。\n以下是根据视频整理的特朗普就职演说的全文翻译：\n唐纳德·特朗普：\n\n谢谢。非常感谢各位。非常非常感谢。万斯副总统、约翰逊议长、图恩参议员、罗伯茨首席大法官、美国最高法院大法官、克林顿总统、布什总统、奥巴马总统、拜登总统、哈里斯副总统，以及我的同胞们。美国的黄金时代现在开始了。\n从今天起，我们的国家将繁荣昌盛，再次受到全世界的尊敬。我们将成为每个国家羡慕的对象，我们不会再让自己被利用了。在特朗普政府的每一天，我都会非常简单地把美国放在第一位。我们的主权将被收回。我们的安全将会恢复。正义的天平将被重新平衡。司法部和我们政府的邪恶、暴力和不公平的武器化将会结束。我们的首要任务将是建立一个自豪、繁荣和自由的国家。\n美国将很快变得比以往任何时候都更伟大、更强大、更卓越。我满怀信心和乐观地重返总统宝座，相信我们正处于一个激动人心的国家成功新时代的开端，变革的浪潮正席卷全国，阳光正普照整个世界，美国有机会抓住这个前所未有的机遇。\n但首先，我们必须诚实面对我们面临的挑战。虽然这些挑战众多，但他们将被全世界的目睹下被美利坚合众国这一巨大优势所消灭。\n当我们今天聚集在一起的时候，我们的政府面临着信任危机。许多年来，一个激进和腐败的机构从我们的公民那里攫取权力和财富，而我们社会的支柱却断裂了，似乎完全失修。\n我们现在有一个连国内简单的危机都无法管理的政府，而与此同时，在国外却陷入了一连串的灾难性事件。它未能保护我们伟大的、守法的…",
-          "link": "https://chegva.com/6269.html",
-          "publishedOn": "2025-01-22T09:07:19.000Z",
-          "wordCount": 17691,
-          "title": "特朗普总统就职演说（中英文）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6252",
-          "author": "anzhihe",
-          "description": "上一节 JVM GC 日志解读与分析（基础配置）讲述了 GC 日志相关的基础信息和配置。需要提醒的是，这些参数是基于 JDK 8 配置的。\n在 JDK 9 之后的版本中，启动参数有一些变化，继续使用原来的参数配置可能会在启动时报错。不过也不用担心，如果碰到，一般都可以从错误提示中找到对应的处置措施和解决方案。\n例如 JDK 11 版本中打印 info 级别 GC 日志的启动脚本：\n# JDK 11 环境，输出 info 级别的 GC 日志\r\njava -Xms512m -Xmx512m\r\n-Xlog:gc*=info:file=gc.log:time:filecount=0\r\ndemo.jvm0204.GCLogAnalysis\n从 JDK 9 开始，可以使用命令 java -Xlog:help 来查看当前 JVM 支持的日志参数，本文不进行详细的介绍，有兴趣的同学可以查看 JEP 158: Unified JVM Logging 和 JEP 271: Unified GC Logging。\n另外，JMX 技术提供了 GC 事件的通知机制，监听 GC 事件的示例程序我们会在《应对容器时代面临的挑战》这一章节中给出。\n但很多情况下 JMX 通知事件中报告的 GC 数据并不完全，只是一个粗略的统计汇总。\nGC 日志才是我们了解 JVM 和垃圾收集器最可靠和全面的信息，因为里面包含了很多细节。再次强调，分析 GC 日志是一项很有价值的技能，能帮助我们更好地排查性能问题。\n下面我们通过实际操作来分析和解读 GC 日志。\nSerial GC 日志解读\n关于串行垃圾收集器的介绍，请参考前面的文章：《常见 GC 算法介绍》。\n首先，为了打开 GC 日志记录，我们使用下面的 JVM 启动参数如下：\n# 请注意命令行启动时没有换行，此处是手工排版\r\njava -XX:+UseSerialGC…",
-          "link": "https://chegva.com/6252.html",
-          "publishedOn": "2025-01-20T02:45:00.000Z",
-          "wordCount": 12243,
-          "title": "JVM Serial GC 、Parallel GC 日志解读与分析",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6251",
-          "author": "anzhihe",
-          "description": "通过具体示例来演示如何输出 GC 日志，并对输出的日志信息进行解读分析，从中提取有用的信息。\n本次演示的示例代码\n为了演示需要，我们先来编写一段简单的 Java 代码：\npackage demo.jvm0204;\r\nimport java.util.Random;\r\nimport java.util.concurrent.TimeUnit;\r\nimport java.util.concurrent.atomic.LongAdder;\r\n/*\r\n演示 GC 日志生成与解读\r\n*/\r\npublic class GCLogAnalysis {\r\n    private static Random random = new Random();\r\n    public static void main(String[] args) {\r\n        // 当前毫秒时间戳\r\n        long startMillis = System.currentTimeMillis();\r\n        // 持续运行毫秒数; 可根据需要进行修改\r\n        long timeoutMillis = TimeUnit.SECONDS.toMillis(1);\r\n        // 结束时间戳\r\n        long endMillis = startMillis + timeoutMillis;\r\n        LongAdder counter = new LongAdder();\r\n        System.out.println(\"正在执行...\");\r\n        // 缓存一部分对象; 进入老年代\r\n        int cacheSize = 2000;\r\n        Object[] cachedGarbage = new Object[cac…",
-          "link": "https://chegva.com/6251.html",
-          "publishedOn": "2025-01-16T07:43:03.000Z",
-          "wordCount": 12337,
-          "title": "JVM GC 日志解读与分析（基础配置）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6249",
-          "author": "anzhihe",
-          "description": "快捷猫 (Shortcat) 是一款适用于Mac的通用命令面板，专为键盘操作设计，无需鼠标，即可熟练操作 macOS和高效完成多种任务。它通过索引用户界面，将按钮点击、文本字段聚焦、菜单命令调用等功能整合到一个通用命令面板中，极大地提升了操作效率。Shortcat 支持模糊搜索和同义词匹配，可快速定位菜单项、窗口标题和表情符号，为用户节省操作时间，减少认知负担。兼容主流浏览器和 Electron 应用，Shortcat 提供了极致流畅的键盘体验，是 macOS 用户优化工作流的绝佳选择。\nShortcat：Manipulate macOS masterfully, minus the mouse.The universal command palette for your Mac.\n\nShortcat indexes your Mac's user interface and makes them available to you in a powerful command palette.\n\nClick buttons, focus text fields, invoke menu commands, switch windows, and more; no mouse required.\n\nShortcat enables you to operate your Mac faster, and with less cognitive overhead.\n\n\n\n\n官网：https://shortcat.app/\n\n使用文档：https://shortcat.app/docs/",
-          "link": "https://chegva.com/6249.html",
-          "publishedOn": "2025-01-10T13:50:43.000Z",
-          "wordCount": 8676,
-          "title": "Mac通用命令面板——快捷猫 (Shortcat)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6247",
-          "author": "anzhihe",
-          "description": "我的大刀早已饥渴难耐！\n\n\n\n\r\n\r\n\r\n\r\n[video dplayer=\"true\" autoplay=\"false\" src=\"https://cdn.chegva.com/ueditor/php/upload/video/20250104/1735928786889849.mp4\" loop=\"false\" preload=\"true\" theme=\"#b7daff\" mutex=\"true\" iconsColor=\"#ffffff\"]",
-          "link": "https://chegva.com/6247.html",
-          "publishedOn": "2025-01-03T18:38:22.000Z",
-          "wordCount": 8507,
-          "title": "蛮子五杀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6246",
-          "author": "anzhihe",
-          "description": "2024年算是真的结束北漂了，小孩也如愿上了小学，之前就说过小孩上小学就回来，还真是应景。2023确实挺折腾，2024算是新的阶段，算个转折，虽然结束了北漂，但工作上还需要长期出差，奔波劳累的命，看样子还得继续折腾，短时间还是安稳不了，路旁土命，充电宝的角色。2025好好沉淀沉淀，接下来的几年看样子也好不到哪去，还是以修身养性为主，厚积薄发，逆境中往往是最锻炼人，最能让人成长的。“天行健，君子以自强不息；地势坤，君子以厚德载物。”自勉。\n\n\n路旁土命，源自古代中国的五行学说，属于六十甲子纳音之一，在五行中，土象征着包容、稳定与孕育万物的力量，路旁土，顾名思义，如同路边随处可见的土壤，虽不起眼却无处不在，支撑着世间万物的生长，拥有此命格的人，性格多温和、稳重，具备极强的适应能力和生存智慧，能够在逆境中寻找到生存之道，如同路旁之土，默默无闻却坚韧不拔。\n\n\n参考：\n\n折腾2023\n\nMBTI性格测试——INTP 学者型–聪颖机智的解决问题\n\n纳音五行歌",
-          "link": "https://chegva.com/6246.html",
-          "publishedOn": "2025-01-01T06:07:42.000Z",
-          "wordCount": 8544,
-          "title": "转折2024",
-          "imageUrl": null
         }
       ]
     },
@@ -5592,34 +5622,43 @@
       "title": "关于行走",
       "feedUrl": "https://www.xingzou.org/feed",
       "siteUrl": "https://www.xingzou.org/",
-      "articles": [
-        {
-          "id": "https://www.xingzou.org/p/895",
-          "author": "北禾",
-          "description": "2025年01月09日，所有的事情，尘埃落定，因为最终在这个极大的裁员比例下，人到中年，我终于还是被裁了  开始谈的时候，没有了之前的惶恐，反而多出了一些解脱的意味，这个事情，终于要告一段落了，...",
-          "link": "https://www.xingzou.org/p/895",
-          "publishedOn": "2025-01-11T08:29:00.000Z",
-          "wordCount": 539,
-          "title": "尘埃落定",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.xingzou.org/p/888",
-          "author": "北禾",
-          "description": "2024年终究还是过去了，2025年的新年如期到来，想聊一聊过去很多年的一些选择，是怎么想和判断的，做一些记录  从过往的履历来看，过去很多年面临着一些选择，这些选择的结果影响了现在的生活，因为...",
-          "link": "https://www.xingzou.org/p/888",
-          "publishedOn": "2025-01-04T02:50:00.000Z",
-          "wordCount": 441,
-          "title": "关于选择",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "迷鹿屋",
       "feedUrl": "https://lostdeer.xyz/feed",
       "siteUrl": "https://lostdeer.xyz",
       "articles": [
+        {
+          "id": "https://lostdeer.xyz/?p=1371",
+          "author": "Yuntian52",
+          "description": "前言 去年下半年工作之后，有了一个单人宿舍，基础设施虽然有些小毛病，但起码该有都有，对于一个人生活来说已经足够 […]",
+          "link": "https://lostdeer.xyz/the-road-of-baking/",
+          "publishedOn": "2025-05-08T14:07:11.000Z",
+          "wordCount": 2582,
+          "title": "烘焙之路",
+          "imageUrl": "https://lostdeer.xyz/wp-content/uploads/2025/05/bread_jam_plate_209922_1920x1200.jpg"
+        },
+        {
+          "id": "https://lostdeer.xyz/?p=1361",
+          "author": "Yuntian52",
+          "description": "一、认知体系构建 1.1 面粉科学 分类 蛋白质含量 特性 适用场景 辨别技巧 高筋面粉 ≥13% 高延展性/ […]",
+          "link": "https://lostdeer.xyz/baking-note/",
+          "publishedOn": "2025-04-26T07:38:43.000Z",
+          "wordCount": 2698,
+          "title": "烘焙系统入门简易攻略（2025版）",
+          "imageUrl": "https://lostdeer.xyz/wp-content/uploads/2025/04/cakes_desserts_food_306074_1920x1080.jpg"
+        },
+        {
+          "id": "https://lostdeer.xyz/?p=1358",
+          "author": "Yuntian52",
+          "description": "封面是最近吃的一碗牛肉面，牛肉真的很多。 最近上班摸鱼，读了一点点成功学的书，前面看完了“被讨厌的勇气”，说实 […]",
+          "link": "https://lostdeer.xyz/gossip250419/",
+          "publishedOn": "2025-04-18T17:08:14.000Z",
+          "wordCount": 2261,
+          "title": "平淡的一周，摸鱼读了点书。",
+          "imageUrl": "https://lostdeer.xyz/wp-content/uploads/2025/04/16af5d96a57e70d138a0607d6506c87c-scaled.jpg"
+        },
         {
           "id": "https://lostdeer.xyz/?p=1352",
           "author": "Yuntian52",
@@ -5639,36 +5678,6 @@
           "wordCount": 2522,
           "title": "《雕刻时光》笔记",
           "imageUrl": "https://lostdeer.xyz/wp-content/uploads/2024/12/s28622011_JcmXuxKa-4.jpg"
-        },
-        {
-          "id": "https://lostdeer.xyz/?p=1328",
-          "author": "Yuntian52",
-          "description": "好东西 B级 其实看完这电影我有挺多想说的，但发到哪都不太合适索性只在自己的地盘简短的聊。 三个女主角，三条交 […]",
-          "link": "https://lostdeer.xyz/herstory/",
-          "publishedOn": "2025-01-19T15:01:45.000Z",
-          "wordCount": 2255,
-          "title": "《好东西》感想",
-          "imageUrl": "https://lostdeer.xyz/wp-content/uploads/2025/01/p2915448489-1-e1737298973653.webp"
-        },
-        {
-          "id": "https://lostdeer.xyz/?p=1313",
-          "author": "Yuntian52",
-          "description": "原视频 概念 雪花写作法便是一种基于科赫雪花的故事结构，它是美国理论物理学家和科幻作家兰迪·格曼森推广的写作方 […]",
-          "link": "https://lostdeer.xyz/snowflake-writing/",
-          "publishedOn": "2025-01-11T14:09:37.000Z",
-          "wordCount": 2274,
-          "title": "雪花写作法",
-          "imageUrl": "https://lostdeer.xyz/wp-content/uploads/2025/01/flake-7342214_1280.jpg"
-        },
-        {
-          "id": "https://lostdeer.xyz/?p=1272",
-          "author": "Yuntian52",
-          "description": "2023年终总结传送门：2023年终总结 前言 这是我做年终总结的第四个年头。 每年的12月31号，我总是坐在 […]",
-          "link": "https://lostdeer.xyz/summary2024/",
-          "publishedOn": "2024-12-31T15:35:13.000Z",
-          "wordCount": 2671,
-          "title": "2024年终总结",
-          "imageUrl": "https://lostdeer.xyz/wp-content/uploads/2024/05/deer_horns_moon_164191_1600x900.jpg"
         }
       ]
     },
