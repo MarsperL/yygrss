@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-05-10T01:58:08.703Z</updated>
+    <updated>2025-05-11T02:09:23.817Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2025年4月阅读书摘]]></title>
+        <id>681ec43d6c5c20099658224f</id>
+        <link href="https://www.domon.cn/2025-4yue-yue-du-shu-zhai/"/>
+        <updated>2025-05-10T03:15:10.000Z</updated>
+        <summary type="html"><![CDATA[孤独横穿日子，让生活中的一切变得毫无意义，那是我自己的疏忽和失败。]]></summary>
+        <author>
+            <name>Domon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[楠溪江自驾Day4 - 林坑古村落]]></title>
         <id>https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-04.html</id>
@@ -6134,122 +6144,6 @@ The post Migrate VMware to Proxmox Using Veeam for Free appeared first on Virtua
 The post Best Homelab Networking Ecosystem appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Reduced Docker Image Size by 90%]]></title>
-        <id>https://collabnix.com/?p=30352</id>
-        <link href="https://collabnix.com/sculpting-slim-containers-the-ultimate-guide-to-optimizing-docker-image-size/"/>
-        <updated>2025-02-10T13:44:19.000Z</updated>
-        <summary type="html"><![CDATA[In today’s fast-paced DevOps landscape, every second counts. Smaller Docker images mean quicker builds, faster deployments, reduced bandwidth costs, and enhanced security. At Collabnix, we believe that optimizing your Docker images isn’t just about saving space—it’s about creating a robust, efficient, and agile deployment pipeline. Let’s dive into some practical strategies to help you create […]]]></summary>
-        <author>
-            <name>Adesoji Alu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neo4j,  Model Context Protocol (MCP) Server and Docker Desktop]]></title>
-        <id>https://collabnix.com/?p=30365</id>
-        <link href="https://collabnix.com/neo4j-model-context-protocol-mcp-server-and-docker-desktop/"/>
-        <updated>2025-02-10T11:01:22.000Z</updated>
-        <summary type="html"><![CDATA[In today’s AI landscape, managing interactions between applications and language models can be complex and inconsistent. The Model Context Protocol (MCP) aims to solve this by providing a standardized way to handle these interactions. Let’s dive into what MCP is and why you might need it in your projects. What is MCP? The Model Context […]]]></summary>
-        <author>
-            <name>Ajeet Raina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APC UPS更换电池校准容量]]></title>
-        <id>https://www.iots.vip/post/apc-ups-replace-battery</id>
-        <link href="https://www.iots.vip/post/apc-ups-replace-battery"/>
-        <updated>2025-02-10T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>　　前面<a href="/categories/%E7%BE%A4%E6%99%96%E5%85%A5%E9%97%A8%E5%88%B0%E8%BF%9B%E9%98%B6%E7%B3%BB%E5%88%97/">群晖系列</a>提到过，为了防止市电非预期断电导致数据丢失，我<a href="/post/synology-series-10#%E7%BB%93%E8%AF%AD">入了一台 UPS —— APC BR550g CN</a>, 一晃眼，已经服役近好几年了，续航时间也已经缩短到了5分钟以内, 很明显它的蓄电池已经到达了使用寿命， 趁清灰时机， 更换一下电池， 顺便校准一下容量。]]></summary>
-        <author>
-            <name>Alliot's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[多功能文件分享程序Zdir 4.3.0发布，新年送福利]]></title>
-        <id>https://blog.xiaoz.org/?p=21765</id>
-        <link href="https://blog.xiaoz.org/archives/21765"/>
-        <updated>2025-02-10T02:50:39.000Z</updated>
-        <summary type="html"><![CDATA[Zdir是一款使用Golang + Vue3开发的多功能私有存储程序，集成了文件索引、在线预览和分享功能，支持WebDAV和离线下载，非常适合安装在NAS设备或大容量VPS上，是个人、工作室和小团队分享文件的理想选择。官网：https://www.zdir.pro/zh/购买订阅：https://s]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JVM GC 日志解读与分析（番外篇可视化工具）]]></title>
-        <id>https://chegva.com/?p=6255</id>
-        <link href="https://chegva.com/6255.html"/>
-        <updated>2025-02-10T01:18:19.000Z</updated>
-        <summary type="html"><![CDATA[通过前面的学习，我们发现 GC 日志量很大，人工分析太消耗精力了。由于各种 GC 算法的复杂性，它们的日志格式互相之间不太兼容。
-有没有什么工具来减少我们的重复劳动呢? 这种轮子肯定是有现成的。比如 GCEasy、GCViwer 等等。
-这一节我们就开始介绍一些能让我们事半功倍的工具。
-GCEasy 工具
-GCEasy 工具由 Tier1app 公司 开发和支持，这家公司主要提供3款分析工具：
-
-GCEasy，访问地址：https://gceasy.io/，是一款在线的 GC 日志分析工具，支持各种版本的 GC 日志格式。
-
-FastThread，官网地址：https://fastthread.io/，线程分析工具，后面我们专门有一节课程会进行介绍。
-
-HeapHero，官网地址：https://heaphero.io/，顾名思义，这是一款 Heap Dump 分析工具。
-
-其中 GCEasy 可用来分析定位GC和内存性能问题，支持以下三种模式：
-
-官方网站在线分析（免费），我们主要介绍这种方式
-
-API 接口调用（付费计划）
-
-本地安装（企业付费）
-
-特性介绍
-作为一款商业产品，分析能力和结果报告自然是棒棒的。
-
-可以分析 GC 日志和 JStat 日志
-
-支持上传文件的方式（免费）
-
-支持粘贴日志文本的方式（免费）
-
-支持下载结果报告 *（付费方案）
-
-支持分享链接（免费】
-
-支持 API 调用的方式 *（付费方案）
-
-企业版支持本地安装 *（企业付费）
-
-付费方案可以免费试用：就是说结果现在也是可以试用下载的
-
-测试案例
-我们这里依然使用前面演示的示例代码，稍微修改一下，让其执行 30 秒左右。
-假设程序启动参数为：
--XX:+UseParallelGC
--Xms512m
--Xmx512m
--Xloggc:gc.demo.log
--XX:+PrintGCDet…]]></summary>
-        <author>
-            <name>anzhihe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[搬离良渚、哪吒2]]></title>
-        <id>https://www.skyue.com/25021000.html</id>
-        <link href="https://www.skyue.com/25021000.html"/>
-        <updated>2025-02-09T16:43:00.000Z</updated>
-        <summary type="html"><![CDATA[搬离良渚之前置换房子，郡东房子已然易主，临近年关不想搬家，于是反租一个多月。春节返杭直奔未名府找房子，火速租了一间公寓，方便后续盯装修。今天搬家，从2017年7月1日到2025年2月9日，在良渚...]]></summary>
-        <author>
-            <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[观影《哪吒2》后，我用 DeepSeek梳理了封神人物关系]]></title>
-        <id>https://panzhixiang.cn/2025/nezha/</id>
-        <link href="https://panzhixiang.cn/2025/nezha/"/>
-        <updated>2025-02-09T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[在这篇文章中，我们探讨了《哪吒2》的观影体验以及其与中国神话体系的深厚关联，特别是与《封神演义》中的重要角色如元始天尊、通天教主的关系。结合AI工具DeepSeek R1的使用，本文还分析了如何快速构建人物关系图，并揭示了阐教、截教与西方教的教义差异。探索古代神话与现代技术的交融，带您重温中国传统文化的魅力。]]></summary>
-        <author>
-            <name>潘智祥</name>
         </author>
     </entry>
     <entry>
