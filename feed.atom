@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-05-11T02:09:23.817Z</updated>
+    <updated>2025-05-12T02:06:49.747Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[楠溪江自驾Day5 - 泛舟楠溪江]]></title>
+        <id>https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-05.html</id>
+        <link href="https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-05.html"/>
+        <updated>2025-05-11T20:26:02.000Z</updated>
+        <summary type="html"><![CDATA[本文记录了作者在楠溪江自驾旅行的第五天，详细描述了游览苍坡古村、岩头古村、狮子岩和太平岩的经历，结合了历史人文与自然风光的体验，展现了楠溪江的独特魅力。]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[观点：晚期胆道癌（BTC）治疗的进展与困境]]></title>
+        <id>http://whyes.org/2025/viewpoint-btc</id>
+        <link href="http://whyes.org/2025/viewpoint-btc"/>
+        <updated>2025-05-11T14:39:06.000Z</updated>
+        <summary type="html"><![CDATA[胆道癌（biliary tract cancer，BTC）是一组肿瘤的统称，包括胆管癌（肝内胆管癌、肝门胆管癌和远端胆管癌）和胆囊癌。对于可切除 BTC，如果生长在不同的部位，手术方式（切除范围、胆管重建和淋巴结清扫）差别很大。但不同部位的...]]></summary>
+        <author>
+            <name>whyes 的博客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们的婚礼]]></title>
+        <id>https://www.skyue.com/25051116.html</id>
+        <link href="https://www.skyue.com/25051116.html"/>
+        <updated>2025-05-11T08:14:00.000Z</updated>
+        <summary type="html"><![CDATA[2025年4月19日，我和南瓜在我的老家九江完成了婚礼仪式，并于5月5日在南瓜老家高平办了出阁仪式。相比领证，两场仪式更具象征意义，过程中也投入了非常多的时间和精力，完成了今年最重要的两件事之一...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025年4月阅读书摘]]></title>
         <id>681ec43d6c5c20099658224f</id>
@@ -6109,39 +6139,6 @@ The post Thin Provision your NVMe drive in Proxmox VE Server appeared first on V
         <updated>2025-02-11T15:27:01.000Z</updated>
         <summary type="html"><![CDATA[You know many think about pay for enterprise tools as something they just can’t use because they don’t have a subscription or they want to use only free and open source tools. However, using Veeam, you have access to one, if not arguably, the easiest ways to migrate VMware to Proxmox that you will find. …
 The post Migrate VMware to Proxmox Using Veeam for Free appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Reduced a Docker Image Size by 90%: A Step-by-Step Journey]]></title>
-        <id>https://collabnix.com/?p=30414</id>
-        <link href="https://collabnix.com/how-i-reduced-a-docker-image-size-by-90-a-step-by-step-journey/"/>
-        <updated>2025-02-10T20:09:38.000Z</updated>
-        <summary type="html"><![CDATA[How I Reduced a Docker Image Size by 90%: A Step-by-Step Journey Let me take you through my journey of optimizing a Python-based Machine Learning application’s Docker image, reducing it from a hefty 3.09GB to just 280MB. Here’s how I did it, step by step. The Initial Problem I started with a typical Dockerfile for […]]]></summary>
-        <author>
-            <name>Adesoji Alu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[本博出现图碎问题说明]]></title>
-        <id>https://dusays.com/798/</id>
-        <link href="https://dusays.com/798/"/>
-        <updated>2025-02-10T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>近期本博访问时出现了图碎问题，经排查系 CDN 回源失败导致的。有小伙伴可能会说，保证成功就可以修复了，其实没有那么简单。本文简单描述下存储节点数据流，顺便科普一下如何清理单站数据缓存。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Homelab Networking Ecosystem]]></title>
-        <id>https://www.virtualizationhowto.com/?p=299274</id>
-        <link href="https://www.virtualizationhowto.com/2025/02/best-homelab-networking-ecosystem/"/>
-        <updated>2025-02-10T15:19:11.000Z</updated>
-        <summary type="html"><![CDATA[There are many different ecosystems of solutions out there that provide a full turnkey solution for networking setups in the homelab. Let’s take a look at the best homelab networking ecosystems out there and maybe some of the features that you should consider to choose from for implementing your networking configuration in the home lab …
-The post Best Homelab Networking Ecosystem appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
         </author>
