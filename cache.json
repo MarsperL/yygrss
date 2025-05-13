@@ -76,6 +76,16 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
+          "id": "https://daverupert.com/2025/05/obsidian-link-aggregator/",
+          "author": null,
+          "description": "I’m finishing up my move from Notion to Obsidian and one complexity I encountered was all my saved links. In the almost seven years of using Notion, I amassed a ~1.2 GB database of links. This is because of how the Notion Web Clipper creates a backup of the article and its assets. While this is gold to an internet archivist… I really only use this feature to sneak around paywalls. Moving to Obsidian gave me a chance to rethink my link collection process and along the way I figured out how to make an automated Link Aggregator that I could parlay into a newsletter-like blog post.\nStep 1: Install Obsidian Web Clipper\nThe first step was to capture links. I had looked at creating a custom bookmarklet, but as I rolled this out across my iPad, iPhone, personal computer, and work computer, the fou…",
+          "link": "https://daverupert.com/2025/05/obsidian-link-aggregator/",
+          "publishedOn": "2025-05-12T14:56:00.000Z",
+          "wordCount": 1501,
+          "title": "How to make a Link Aggregator in Obsidian",
+          "imageUrl": null
+        },
+        {
           "id": "https://daverupert.com/2025/05/week-links-2/",
           "author": null,
           "description": "Last year I attempted to do some newsletter-style link aggregation… that good intention imploded spectacularly. But I switched to Obsidian this month and now I have a better system for aggregating links (post on that coming later). Inside this issue you’ll find some games, some homelab server hardware, some AI discourse™, some musical instruments, and more.\n368 Chickens: So many chickens\nAI Search Has A Citation Problem: Eight AI search engines, all bad at citing news.\nCHVLR: Gundam inspired solo RPG\nCompute Blade: Rack-mountable, PoE-powered carrier board for Raspberry Pi\nDegrow Your Community: A list of actions you can do to encourage degrowth\nDon’t fork the ecosystem: It’s hard to get people to change patterns with software, bolt-ons are almost always preferred\nDragonsweeper: A dungeon …",
@@ -1164,6 +1174,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=300986",
+          "author": "Brandon Lee",
+          "description": "As with any discipline, there are many different paths that lead to the same goal. However, there are certain skills that are foundational to learning the skill you are attempting to learn. With DevOps, there are many different foundational skills that might be thought of to go with the DevOps mindset. Som may choose to …\nThe post The Real First Step to DevOps: Mastering Containers with Docker appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/05/the-real-first-step-to-devops-mastering-containers-with-docker/",
+          "publishedOn": "2025-05-12T13:13:53.000Z",
+          "wordCount": 11689,
+          "title": "The Real First Step to DevOps: Mastering Containers with Docker",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/the-real-first-step-to-devops-mastering-containers-with-docker.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=300964",
           "author": "Brandon Lee",
           "description": "There are two things that I highly recommend for modern home lab environments, Docker and low-power mini PCs. Docker provides a much more efficient way to run apps compared to running full virtual machines. Also, low-power mini PCs are getting more popular and powerful. However, there are still things you can and should think about …\nThe post Top Docker Performance Tweaks on Low-Power Hardware appeared first on Virtualization Howto.",
@@ -2122,16 +2142,6 @@
           "wordCount": 10114,
           "title": "Thin Provision your NVMe drive in Proxmox VE Server",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/thin-provision-your-nvme-drive-in-proxmox-ve-server.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=299293",
-          "author": "Brandon Lee",
-          "description": "You know many think about pay for enterprise tools as something they just can’t use because they don’t have a subscription or they want to use only free and open source tools. However, using Veeam, you have access to one, if not arguably, the easiest ways to migrate VMware to Proxmox that you will find. …\nThe post Migrate VMware to Proxmox Using Veeam for Free appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/02/migrate-vmware-to-proxmox-using-veeam-for-free/",
-          "publishedOn": "2025-02-11T15:27:01.000Z",
-          "wordCount": 11585,
-          "title": "Migrate VMware to Proxmox Using Veeam for Free",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/migrate-vmware-to-proxmox.jpg"
         }
       ]
     },
@@ -3071,6 +3081,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://collabnix.com/?p=30414",
+          "author": "Adesoji Alu",
+          "description": "How I Reduced a Docker Image Size by 90%: A Step-by-Step Journey Let me take you through my journey of optimizing a Python-based Machine Learning application’s Docker image, reducing it from a hefty 3.09GB to just 280MB. Here’s how I did it, step by step. The Initial Problem I started with a typical Dockerfile for […]",
+          "link": "https://collabnix.com/how-i-reduced-a-docker-image-size-by-90-a-step-by-step-journey/",
+          "publishedOn": "2025-02-23T20:09:38.000Z",
+          "wordCount": 3552,
+          "title": "How I Reduced a Docker Image Size by 90%: A Step-by-Step Journey",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2025/02/Screenshot-from-2025-02-10-14-37-08.png"
+        },
+        {
           "id": "https://collabnix.com/?p=30600",
           "author": "Adesoji Alu",
           "description": "Ollama is an open-source platform designed to run large language models (LLMs) locally on your machine. This provides developers, researchers, and businesses with full control over their data, ensuring privacy and security while eliminating reliance on cloud-based services. By running AI models locally, Ollama reduces latency, enhances performance, and allows for complete customization. This guide […]",
@@ -3642,6 +3662,16 @@
       "siteUrl": "https://bluehe.cn/",
       "articles": [
         {
+          "id": "https://bluehe.cn/archives/nanning-zoo",
+          "author": "寻鹤",
+          "description": "在乘坐地铁前往的时候，我先看美团上看价格，发现成人票居然需要57元，对比以前新增了一个手机讲解的服务，相当于多花7元购买该服务，而且是捆绑的，不能只购买门票，而在微信公众号搜索南宁动物园，官方跳转线上购票的同程旅行就是成人是50元/人，学生25元/人。\n\n...",
+          "link": "https://bluehe.cn/archives/nanning-zoo",
+          "publishedOn": "2025-05-13T01:39:00.000Z",
+          "wordCount": 459,
+          "title": "南宁动物园",
+          "imageUrl": null
+        },
+        {
           "id": "https://bluehe.cn/archives/liangfengjiang-park",
           "author": "寻鹤",
           "description": "5月2日，乘坐公交车前往南宁市南郊的良凤江国家森林公园，地理位置比较偏，只有沿途的学生还在乘坐该公交车抵达学院。\n\n我是中午抵达的，天气炎热，售票口已经关闭，我还以为不开了，前往检票口时旁边的办公室内仅有一位工作人员在值班，连入园的机子都是关闭的，没有阻拦...",
@@ -3992,6 +4022,16 @@
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
         {
+          "id": "https://dusays.com/828/",
+          "author": null,
+          "description": "<blockquote>\n<p>为了更好的执行 Python 脚本，杜老师习惯使用 Ubuntu 系统，不过在安装 Python 库时经常报错。收集了安装 Python 库的报错信息，并整理了解决办法，供需要的小伙伴们参考。</p>\n</blockquote>",
+          "link": "https://dusays.com/828/",
+          "publishedOn": "2025-05-11T16:00:00.000Z",
+          "wordCount": 1576,
+          "title": "Ubuntu 系统无法通过 pip 命令安装 Python 库问题解决",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
           "id": "https://dusays.com/827/",
           "author": null,
           "description": "<blockquote>\n<p>随着相机像素越来越大，图片体积也变大了。在图片处理中，较大的文件体积会影响性能，因此杜老师会先生成缩略图，筛选完成后再通过 Python 脚本实现图片相似度匹配。这里是一个简单的示例，供需要的小伙伴们参考。</p>\n</blockquote>",
@@ -4310,7 +4350,18 @@
       "title": "未雨绸缪",
       "feedUrl": "https://7boe.top/rss.xml",
       "siteUrl": "https://7boe.top/",
-      "articles": []
+      "articles": [
+        {
+          "id": "/archives/211",
+          "author": "Celia",
+          "description": "关于机场\nTNTCloud\n套餐详情\n注册连接 带aff\n节点数量目前观察 51个节点\n测速详情\n实际下载速度非常快",
+          "link": "https://7boe.top/archives/211",
+          "publishedOn": "2025-05-12T02:34:06.000Z",
+          "wordCount": 2681,
+          "title": "TNTCloud机场评测",
+          "imageUrl": "https://oss.7boe.top/2024/03/11/65ee77dac4869.png"
+        }
+      ]
     },
     {
       "title": "Justlovesmile's BLOG",
@@ -4609,26 +4660,6 @@
           "wordCount": null,
           "title": "深入解析Kubernetes内部通信：从gRPC到Protobuf的实战指南",
           "imageUrl": null
-        },
-        {
-          "id": "/archives/1739325500783",
-          "author": null,
-          "description": "在现代IT基础设施中，批量管理多台服务器是运维工作的核心需求之一。Ansible作为一款强大的自动化工具，可以帮助我们高效完成这一任务。然而，在实际生产环境中，服务器通常部署在内网，无法直接通过管理机访问。这时，我们可以借助一台跳板机（代理机）来实现批量管理。 本文将详细介绍如何通过Ansible和",
-          "link": "http://blog.lixx.cn/archives/1739325500783",
-          "publishedOn": "2025-02-12T01:59:45.000Z",
-          "wordCount": null,
-          "title": "通过Ansible和SSH跳板机批量管理远程服务器：详细配置指南",
-          "imageUrl": null
-        },
-        {
-          "id": "/archives/1739325500783",
-          "author": null,
-          "description": "在现代IT基础设施中，批量管理多台服务器是运维工作的核心需求之一。Ansible作为一款强大的自动化工具，可以帮助我们高效完成这一任务。然而，在实际生产环境中，服务器通常部署在内网，无法直接通过管理机访问。这时，我们可以借助一台跳板机（代理机）来实现批量管理。 本文将详细介绍如何通过Ansible和",
-          "link": "http://localhost:8090/archives/1739325500783",
-          "publishedOn": "2025-02-12T01:59:45.000Z",
-          "wordCount": null,
-          "title": "通过Ansible和SSH跳板机批量管理远程服务器：详细配置指南",
-          "imageUrl": null
         }
       ]
     },
@@ -4899,26 +4930,6 @@
           "publishedOn": "2025-02-14T03:44:56.000Z",
           "wordCount": 295,
           "title": "水星 SE109 Pro 2.5G 交换机体验：让家庭网络轻松升级！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=21778",
-          "author": "xiaoz",
-          "description": "接上一篇文章《爱快虚拟机安装Alpine系统》我们已经成功在爱快虚拟机中安装了Alpine系统，接下来就是使用Alpine作为客户端连接办公室的Wireguard服务端，然后进行内网打通。网络情况办公室网段：192.168.6.x家里面的网段：192.168.50.x办公室网络状态：有公网IP安装W",
-          "link": "https://blog.xiaoz.org/archives/21778",
-          "publishedOn": "2025-02-12T04:13:29.000Z",
-          "wordCount": 367,
-          "title": "Alpine连接Wireguard服务端，打通异地网络",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=21774",
-          "author": "xiaoz",
-          "description": "最近计划打通家里和办公室的网络，打算使用 WireGuard方案，但发现爱快的 WireGuard 功能仅支持企业版。于是换了个思路，准备在爱快的虚拟机上安装 Alpine，让 Alpine 作为 WireGuard 客户端，连接办公室的 WireGuard 服务端。下载Alpine镜像Alpine",
-          "link": "https://blog.xiaoz.org/archives/21774",
-          "publishedOn": "2025-02-12T03:42:30.000Z",
-          "wordCount": null,
-          "title": "爱快虚拟机安装Alpine系统",
           "imageUrl": null
         }
       ]
@@ -5505,6 +5516,16 @@
       "feedUrl": "https://jia.je/feed.xml",
       "siteUrl": "https://jia.je/",
       "articles": [
+        {
+          "id": "https://jia.je/hardware/2025/04/23/intel_redwood_cove/",
+          "author": null,
+          "description": "Intel Redwood Cove 微架构评测¶\n背景¶\n之前我们测试了 Intel 的微架构 Redwood Cove，这次就来测一下 Redwood Cove，它被用到了 Meteor Lake 以及 Granite Rapids 上。这次就以阿里云 g9i 实例的 Granite Rapids 机器来测试一下 Redwood Cove 微架构的各项指标。\n\n官方信息¶\nIntel 关于 Redwood Cove 微架构有这些官方的信息：\n\nIntel® 64 and IA-32 Architectures Optimization Reference Manual Volume 1\nMeteor Lake Architecture Overview\n\n现有评测¶\n网上已经有较多针对 Redwood Cove 微架构的评测和分析，建议阅读：\n\nIntel’s Redwood Cove: Baby Steps are Still Steps\nIntel Unveils Meteor Lake Architecture: Intel 4 Heralds the Disaggregated Future of Mobile CPUs\n\n下面分各个模块分别记录官方提供的信息，以及实测的结果。读者可以对照已有的第三方评测理解。官方信息与实测结果一致的数据会加粗。\nBenchmark¶\nIntel Redwood Cove 的性能测试结果见 SPEC。\n前端¶\nL1 ICache¶\n官方信息：\n\nLarger instruction cache: 32K→64K.\n\n为了测试 L1 ICache 容量，构造一个具有巨大指令 footprint 的循环，由大量的 4 字节 nop 和最后的分支指令组成。观察在不同 footprint 大小下的 IPC：\n\n可以看到 footprin…",
+          "link": "https://jia.je/hardware/2025/04/23/intel_redwood_cove/",
+          "publishedOn": "2025-04-23T00:00:00.000Z",
+          "wordCount": 1101,
+          "title": "Intel Redwood Cove 微架构评测",
+          "imageUrl": null
+        },
         {
           "id": "https://jia.je/software/2025/04/10/cbp-experiments/",
           "author": null,
