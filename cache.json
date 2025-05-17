@@ -1159,6 +1159,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=301066",
+          "author": "Brandon Lee",
+          "description": "I have been super interested in running LLMs at home with the help of great open source tools freely available out there. Large Language Models (LLMs) are now not just limited to large datacenters full of GPUs. It is now possible to run LLMs locally on your local hardware, even on low-power systems without a …\nThe post 5 Best LLM Models You Can Run in Docker on Low-Power Hardware appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/05/5-best-llm-models-you-can-run-in-docker-on-low-power-hardware/",
+          "publishedOn": "2025-05-16T13:02:28.000Z",
+          "wordCount": 11314,
+          "title": "5 Best LLM Models You Can Run in Docker on Low-Power Hardware",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/5-best-llm-models-you-can-run-in-docker.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=301043",
           "author": "Brandon Lee",
           "description": "There is no question that the world of Kubernetes is evolving fast. The AI revolution has also brought about some tremendously helpful tools to work with and on Kubernetes clusters. Most IDE coding tools now have chat with AI bots built in so that you can bounce ideas off an AI engine for troubleshooting or …\nThe post Meet kubectl-ai: Google Just Delivered the Best Tool for Kubernetes Management appeared first on Virtualization Howto.",
@@ -2996,6 +3006,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://collabnix.com/?p=30459",
+          "author": "Ajeet Raina",
+          "description": "You might wonder “What does Docker Desktop have to do with AI?” The answer lies in Ask Gordon, an innovative AI-powered assistant that’s now integrated into both Docker Desktop and the Docker CLI. This integration represents a significant step forward in making the Docker ecosystem more accessible and efficient for developers. What is Ask Gordon? […]",
+          "link": "https://collabnix.com/ask-gordon-and-model-context-protocol-mcp-working-together/",
+          "publishedOn": "2025-02-27T02:46:55.000Z",
+          "wordCount": 3906,
+          "title": "Ask Gordon and Model Context Protocol (MCP) – Working Together",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2025/02/Screenshot-2025-02-14-at-7.33.54%E2%80%AFAM.png"
+        },
+        {
           "id": "https://collabnix.com/?p=30788",
           "author": "Tanvir Kour",
           "description": "Explore what UI, UX, and graphic designs are and how they are connected. Learn the importance of designing for a good user experience and actionable ways to achieve that.",
@@ -3193,76 +3213,6 @@
           "publishedOn": "2025-02-19T14:42:09.000Z",
           "wordCount": null,
           "title": "Integrating USB/IP into Docker Desktop is Now Possible",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30517",
-          "author": "Tanvir Kour",
-          "description": "DeepSeek-R1 is a powerful open-source language model that can be run locally using Ollama. This guide will walk you through setting up and using DeepSeek-R1, exploring its capabilities, and optimizing its performance. Model Overview DeepSeek-R1 is designed for robust reasoning and coding capabilities, offering: Prerequisites Installation Steps # Pull the base modelollama pull deepseek-r1# Or […]",
-          "link": "https://collabnix.com/running-deepseek-r1-with-ollama-a-complete-guide/",
-          "publishedOn": "2025-02-16T12:46:46.000Z",
-          "wordCount": 3038,
-          "title": "Running DeepSeek-R1 with Ollama: A Complete Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30514",
-          "author": "Tanvir Kour",
-          "description": "Ollama is a powerful framework that allows you to run, create, and modify large language models (LLMs) locally. This guide will walk you through the installation process across different platforms and provide best practices for optimal performance. Table of Contents System Requirements Minimum Hardware Requirements: Supported Platforms: Installation Methods Method 1: Direct Installation (macOS) # […]",
-          "link": "https://collabnix.com/a-comprehensive-guide-to-ollama-local-installation/",
-          "publishedOn": "2025-02-16T12:25:49.000Z",
-          "wordCount": null,
-          "title": "A Comprehensive Guide to Ollama Local Installation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30509",
-          "author": "Tanvir Kour",
-          "description": "Key Takeaways . Understanding the importance of technical SEO in digital marketing. . Common technical SEO errors that can hinder website performance. . Practical solutions for fixing common issues to enhance online visibility. To rank higher on search and perform better on websites, technical SEO is unavoidable. Fixing issues like slow website speed, mobile incompatibility, […]",
-          "link": "https://collabnix.com/optimizing-for-success-solving-technical-seo-challenges/",
-          "publishedOn": "2025-02-16T12:10:52.000Z",
-          "wordCount": null,
-          "title": "Optimizing for Success: Solving Technical SEO Challenges",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30494",
-          "author": "Ajeet Raina",
-          "description": "NVIDIA has just reinvented edge computing with its latest offering – the Jetson Orin Nano Super Developer Kit. This isn’t just an incremental update; it’s a significant leap forward in bringing generative AI capabilities to the edge at an unprecedented price point of $249. Comparing Jetson Nano Vs Jetson Orin Nano Super The NVIDIA Jetson Orin […]",
-          "link": "https://collabnix.com/getting-started-with-nvidia-jetson-orin-nano-super-generative-ai-supercomputer/",
-          "publishedOn": "2025-02-16T07:09:43.000Z",
-          "wordCount": null,
-          "title": "Getting Started with NVIDIA Jetson Orin Nano Super – Generative AI Supercomputer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30491",
-          "author": "Tanvir Kour",
-          "description": "Traditional vocational training is evolving fast. Textbooks, rigid schedules, and costly equipment are giving way to dynamic, cloud-based platforms that bring hands-on learning to any device. From AI-driven welding simulators to cloud-powered automotive diagnostics, new tools are making skill development more accessible, cost-effective, and responsive to industry demands. These innovations aren’t just enhancing training – […]",
-          "link": "https://collabnix.com/5-revolutionary-cloud-tools-transforming-vocational-training/",
-          "publishedOn": "2025-02-15T14:37:39.000Z",
-          "wordCount": 2750,
-          "title": "5 Revolutionary Cloud Tools Transforming Vocational Training",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30487",
-          "author": "Tanvir Kour",
-          "description": "Cloud computing still continues to be a dominant force in the technological world. Many rely on it for purposes such as data storage, networking, virtualization, and others. As such, there is an ongoing demand that should be fulfilled by those who are familiar with cloud computing technology. This guide will discuss the key skills that […]",
-          "link": "https://collabnix.com/key-skills-for-navigating-the-future-of-cloud-computing/",
-          "publishedOn": "2025-02-15T14:34:04.000Z",
-          "wordCount": null,
-          "title": "Key Skills for Navigating the Future of Cloud Computing",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30479",
-          "author": "Tanvir Kour",
-          "description": "AI’s impact on work has moved from speculation to reality. A groundbreaking study from Anthropic analyzing millions of conversations with Claude provides the first large-scale view of how AI is actually being used across different industries and occupations. Here are the key insights: Source ~ https://assets.anthropic.com/m/2e23255f1e84ca97/original/Economic_Tasks_AI_Paper.pdf Where AI is Being Used Most Depth of AI […]",
-          "link": "https://collabnix.com/the-ai-economy-how-claude-is-being-used-across-industries-based-on-anthropics-economic-index-study/",
-          "publishedOn": "2025-02-15T14:22:58.000Z",
-          "wordCount": null,
-          "title": "The AI Economy: How Claude is Being Used Across Industries Based on Anthropic’s Economic Index Study",
           "imageUrl": null
         }
       ]
@@ -3510,16 +3460,6 @@
           "publishedOn": "2025-02-23T11:56:00.000Z",
           "wordCount": 147,
           "title": "昆明风光好",
-          "imageUrl": "https://yeshu.cloud/images/android-chrome-192x192.png"
-        },
-        {
-          "id": "https://yeshu.cloud/posts/newsletter-129/",
-          "author": null,
-          "description": "算不上一次成功的探索，吸取一些经验教训，多多尝试。",
-          "link": "https://yeshu.cloud/posts/newsletter-129/",
-          "publishedOn": "2025-02-16T12:25:34.000Z",
-          "wordCount": 321,
-          "title": "和 deepseek 创作悬疑短篇",
           "imageUrl": "https://yeshu.cloud/images/android-chrome-192x192.png"
         }
       ]
@@ -3825,21 +3765,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bluehe.cn/usr/uploads/2025/02/3951800582.jpg"
-        },
-        {
-          "id": "https://bluehe.cn/archives/spring-festival-2025",
-          "author": "寻鹤",
-          "description": "## 除夕 ##\n\n邕江的河水很绿，春节期间一直如此。\n\n母亲正炸着番薯，每一年她都会制作这一份美食，刚出炉软糯，很甜。\n[photos]\n\n\n[/photos]\n意外发现手机的支持的拍摄模式中有：流光快门，正好来记录下除夕的烟花。1月28日晚12点整，全...",
-          "link": "https://bluehe.cn/archives/spring-festival-2025",
-          "publishedOn": "2025-02-16T09:29:00.000Z",
-          "wordCount": 764,
-          "title": "春节叙事",
-          "enclosure": {
-            "url": "https://bluehe.cn/usr/uploads/2025/02/2942172086.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bluehe.cn/usr/uploads/2025/02/2942172086.jpg"
         }
       ]
     },
@@ -4471,16 +4396,6 @@
           "wordCount": 1105,
           "title": "公网暴露 Ollama 端口存在风险？使用 OneApi 聚合你的模型调用",
           "imageUrl": "https://imagehost.mintimate.cn/post_hostOneApi/banner.webp"
-        },
-        {
-          "id": "https://www.mintimate.cn/2025/02/15/hostModelByOllama/",
-          "author": null,
-          "description": "2025年震撼开源！学习如何在 macOS 通过 Ollama 和 Open WebUI 本地部署 DeepSeek-R1 大模型。详解从模型下载到联网搜索配置的全流程，低成本运行蒸馏版AI模型。",
-          "link": "https://www.mintimate.cn/2025/02/15/hostModelByOllama/",
-          "publishedOn": "2025-02-15T19:35:48.000Z",
-          "wordCount": 1106,
-          "title": "macOS 部署 Ollama 和 Open WebUI，实现本地运行 DeepSeek 大模型",
-          "imageUrl": "https://imagehost.mintimate.cn/post_hostModelByOllama/banner.webp"
         }
       ]
     },
