@@ -6,6 +6,66 @@
       "siteUrl": "https://MarsperL.github.io/",
       "articles": [
         {
+          "id": "https://marsperl.github.io/yyg/46758d12/",
+          "author": null,
+          "description": "<a href=\"#Android手机使用ALPINE-TERM-安装docker\" class=\"headerlink\"",
+          "link": "https://marsperl.github.io/yyg/46758d12/",
+          "publishedOn": "2025-05-17T11:45:50.000Z",
+          "wordCount": 1168,
+          "title": "Android手机安装docker",
+          "imageUrl": "https://t.alcy.cc/fj?4751"
+        },
+        {
+          "id": "https://marsperl.github.io/yyg/c86be486/",
+          "author": null,
+          "description": "前言\n在闲置的Android旧手机（无需root）安装ubuntu\n<h2",
+          "link": "https://marsperl.github.io/yyg/c86be486/",
+          "publishedOn": "2025-05-17T11:45:50.000Z",
+          "wordCount": 1172,
+          "title": "Android手机安装ubuntu",
+          "imageUrl": "https://api.vvhan.com/api/wallpaper/views?504"
+        },
+        {
+          "id": "https://marsperl.github.io/yyg/dc35290c/",
+          "author": null,
+          "description": "<a href=\"#pod\" class=\"headerlink\"",
+          "link": "https://marsperl.github.io/yyg/dc35290c/",
+          "publishedOn": "2025-05-17T11:08:26.000Z",
+          "wordCount": 3051,
+          "title": "Kubernetes知识梳理-核心组件",
+          "imageUrl": "https://random-img.pupper.cn/api?1191"
+        },
+        {
+          "id": "https://marsperl.github.io/yyg/f0979e05/",
+          "author": null,
+          "description": "🔜什么是Jenkins？🔚",
+          "link": "https://marsperl.github.io/yyg/f0979e05/",
+          "publishedOn": "2025-05-17T10:47:41.000Z",
+          "wordCount": 2661,
+          "title": "Jenkins知识梳理",
+          "imageUrl": "https://t.alcy.cc/fj?5140"
+        },
+        {
+          "id": "https://marsperl.github.io/yyg/10ac2e4/",
+          "author": null,
+          "description": "pip方式安装\n<a",
+          "link": "https://marsperl.github.io/yyg/10ac2e4/",
+          "publishedOn": "2025-04-12T09:35:43.000Z",
+          "wordCount": 1501,
+          "title": "Ansible最新版安装",
+          "imageUrl": "https://tu.ltyuanfang.cn/api/fengjing.php?7060"
+        },
+        {
+          "id": "https://marsperl.github.io/yyg/e80721f/",
+          "author": null,
+          "description": "🔜什么是Ansible？🔚",
+          "link": "https://marsperl.github.io/yyg/e80721f/",
+          "publishedOn": "2025-03-31T11:45:26.000Z",
+          "wordCount": 3285,
+          "title": "Ansible知识梳理",
+          "imageUrl": "https://tu.ltyuanfang.cn/api/fengjing.php?2603"
+        },
+        {
           "id": "https://marsperl.github.io/yyg/80ffa402/",
           "author": null,
           "description": "拉取主题代码\n<figure class=\"highlight",
@@ -643,16 +703,6 @@
           "wordCount": 2342,
           "title": "网络必备 | 网络参考模型（全）、ARP协议",
           "imageUrl": "null"
-        },
-        {
-          "id": "/archives/1739784833745",
-          "author": "运维小弟",
-          "description": "前言 关于： KRaft模式下的Kafka启动指南：摆脱Zookeeper依赖 请参考这篇文章 本文主要参数如何 快速使用容器化方式快速的部署 kafka 一、docker 部署kafka单节点 1.1安装docker 可以参考这篇 CentOS 7安装docker并配置镜像加速 1.3 运行kaf",
-          "link": "https://srebro.cn/archives/1739784833745",
-          "publishedOn": "2025-02-17T09:37:11.000Z",
-          "wordCount": 2223,
-          "title": "容器化部署Kafka的最佳实践：基于KRaft模式的无ZooKeeper方案",
-          "imageUrl": "null"
         }
       ]
     },
@@ -738,6 +788,16 @@
       "feedUrl": "https://blog.ops-coffee.cn/feed.xml",
       "siteUrl": "https://blog.ops-coffee.cn",
       "articles": [
+        {
+          "id": "https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang.html",
+          "author": null,
+          "description": "本文总结了楠溪江自驾旅行的经历，推荐了最佳旅行线路和景点，包括暨家寨、狮子岩和林坑古村落，提供了实用的自驾游攻略和花费分析，适合计划前往楠溪江的旅行者参考。",
+          "link": "https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang.html",
+          "publishedOn": "2025-05-17T13:52:33.000Z",
+          "wordCount": 66,
+          "title": "楠溪江自驾六天，花费1200元，总结推荐",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-06.html",
           "author": null,
@@ -1145,7 +1205,28 @@
       "title": "Derek Seaman's Tech Blog",
       "feedUrl": "https://www.derekseaman.com/feed/",
       "siteUrl": "https://www.derekseaman.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.derekseaman.com/?p=20089",
+          "author": "Derek Seaman",
+          "description": "This is Part 2 of 2 of the 2025 version of the Ruckus Unleashed home Wi-Fi Best Practices Guide. This refreshed guide is based on the 200.18 (and later) version of Ruckus Unleashed, which received a completely new UI. If you are using Ruckus Unleashed 200.17 or earlier, check the Related Posts section below for […]",
+          "link": "https://www.derekseaman.com/2025/05/part-2-ruckus-unleashed-200-18-best-practices-guide.html",
+          "publishedOn": "2025-05-15T20:59:04.000Z",
+          "wordCount": 9783,
+          "title": "Part 2: Ruckus Unleashed (200.18+) Best Practices Guide",
+          "imageUrl": "https://www.derekseaman.com/wp-content/uploads/ruckus-wireless-inc-logo-750x750b.jpg"
+        },
+        {
+          "id": "https://www.derekseaman.com/?p=19971",
+          "author": "Derek Seaman",
+          "description": "Welcome to my 2025 updated unofficial Ruckus Unleashed Best Practices Guide for enterprise-grade home Wi-Fi. This series has been completely redone to support Ruckus Unleashed 200.18 and newer. Unleashed 200.18 and later feature an entirely new UI/UX that mirrors that of their paid Ruckus One controller. IMHO, this is a huge advancement for Unleashed users, […]",
+          "link": "https://www.derekseaman.com/2025/05/part-1-ruckus-unleashed-200-18-best-practices-guide.html",
+          "publishedOn": "2025-05-15T20:54:36.000Z",
+          "wordCount": 8777,
+          "title": "Part 1: Ruckus Unleashed (200.18+) Best Practices Guide",
+          "imageUrl": "https://www.derekseaman.com/wp-content/uploads/ruckus-wireless-inc-logo-750x750b.jpg"
+        }
+      ]
     },
     {
       "title": "Ather Beg's Useful Thoughts",
@@ -2117,26 +2198,6 @@
           "wordCount": 10152,
           "title": "AMD Ryzen 9 7945HX BIOS Settings: Power Consumption and Bifurcation",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/AMD-Ryzen-9-7945HX-BIOS-settings.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=299424",
-          "author": "Brandon Lee",
-          "description": "Below are a few daily tech deals take note of. We are all on the lookout for good tech at reasonable prices. The Samsung 990 Pro with and without the heatsink is at a really great deal for the 4TB model, up to 33% off. You can get a 24 inch Dell monitor for 21% …\nThe post Daily Tech Deals February 17 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/02/daily-tech-deals-february-17-2025/",
-          "publishedOn": "2025-02-17T14:07:29.000Z",
-          "wordCount": 8160,
-          "title": "Daily Tech Deals February 17 2025",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/81sGbFk4gLL.-AC-SX679.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=299414",
-          "author": "Brandon Lee",
-          "description": "There are za lot of reasons to either build or buy a home server in 2025. In this post, I want to discuss the options, the pros and cons, and also which approach you might want to choose depending on your technical knowledge of putting together computers, budget, and long-term plans. I have used both …\nThe post Should You Build or Buy a Home Server in 2025? appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/02/should-you-build-or-buy-a-home-server-in-2025/",
-          "publishedOn": "2025-02-17T13:25:48.000Z",
-          "wordCount": 10571,
-          "title": "Should You Build or Buy a Home Server in 2025?",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/build-or-buy-a-home-server-in-2025.jpg"
         }
       ]
     },
@@ -2145,6 +2206,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=32057",
+          "author": "Collabnix Team",
+          "description": "Docker Model Runner allows you to run AI models locally through Docker Desktop. Here’s a breakdown of the available models and their recommended use cases: 1. ai/smollm2 2. ai/llama3.2 3. ai/llama3.3 4. ai/gemma3 5. ai/phi4 6. ai/mistral and ai/mistral-nemo 7. ai/qwen2.5 8. ai/deepseek-r1-distill-llama How to Choose a Model Getting Started Example Pull a small model […]",
+          "link": "https://collabnix.com/which-model-to-choose-with-docker-model-runner/",
+          "publishedOn": "2025-05-17T16:52:36.000Z",
+          "wordCount": 3392,
+          "title": "Which Model to Choose with Docker Model Runner?",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2025/05/Screenshot-2025-05-17-at-10.33.02%E2%80%AFPM.png"
+        },
         {
           "id": "https://collabnix.com/?p=32051",
           "author": "Ajeet Raina",
@@ -3223,6 +3294,16 @@
       "siteUrl": "https://qq.mba/",
       "articles": [
         {
+          "id": "https://qq.mba/238.html",
+          "author": "满心",
+          "description": "去年整个了低功耗的小主机，借助 Frps 做映射，实现外网访问，我把一些有大量存储需求的应用，都搬到小主机上了，本地也搭建了影音库和一些常用的应用，我的小主机配置还是比较高的，功耗较低，一天大概...",
+          "link": "https://qq.mba/238.html",
+          "publishedOn": "2025-05-15T11:15:00.000Z",
+          "wordCount": 569,
+          "title": "给小主机做一次大扫除",
+          "imageUrl": null
+        },
+        {
           "id": "https://qq.mba/237.html",
           "author": "满心",
           "description": "不得不感叹，时间过得可真快，感觉才刚到25年，没想到已经距离年中不远了，这不生日也到了，由于是工作日，所以晚上到家也七点了，妈妈给做了菜，然后媳妇儿从公司点了两个菜，买了蛋糕，一家人一起吃个饭，...",
@@ -3587,16 +3668,6 @@
           "publishedOn": "2025-02-26T14:27:00.000Z",
           "wordCount": 476,
           "title": "拾月推荐（第38期）",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://www.skyue.com/25021700.html",
-          "author": "拾月",
-          "description": "www.pinfive.today2022年初上线的PinFive.Today，我在文章中说，至少维持三年吧，毕竟服务器买了三年。没想到这么快就到了。目前网站没有活跃用户，我自己最后一次更新停留...",
-          "link": "https://www.skyue.com/25021700.html",
-          "publishedOn": "2025-02-16T16:09:00.000Z",
-          "wordCount": 464,
-          "title": "纪念下pinfive.today",
           "imageUrl": ""
         }
       ]
@@ -4250,16 +4321,6 @@
           "wordCount": 1346,
           "title": "使用 SlimToolkit 打造更小的容器镜像",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/800/",
-          "author": null,
-          "description": "<blockquote>\n<p>在互联网的世界里，图片传输是再平常不过的事情了，而 Base64 格式常常出现在这一过程中。那为啥图片要用 Base64 格式来传输呢？这背后有不少门道。本文将介绍 Base64 格式的应用场景和优点，以及一些应用场景下的缺点。</p>\n</blockquote>",
-          "link": "https://dusays.com/800/",
-          "publishedOn": "2025-02-16T16:00:00.000Z",
-          "wordCount": 1356,
-          "title": "图片为啥用 Base64 格式进行传输",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
     },
@@ -4590,26 +4651,6 @@
           "wordCount": null,
           "title": "Kubernetes 资源管理深度解析：Requests、Limits 与底层 cgroups 的协作机制",
           "imageUrl": null
-        },
-        {
-          "id": "/archives/1739784940557",
-          "author": null,
-          "description": "引言 在分布式系统中，组件之间的高效通信是架构设计的核心挑战之一。以Kubernetes为例，其核心组件（如etcd、kube-apiserver、kube-scheduler）之间的协作依赖于高效的通信协议。本文将深入探讨Kubernetes中广泛使用的gRPC和Protocol Buffers（",
-          "link": "http://blog.lixx.cn/archives/1739784940557",
-          "publishedOn": "2025-02-17T09:36:17.000Z",
-          "wordCount": null,
-          "title": "深入解析Kubernetes内部通信：从gRPC到Protobuf的实战指南",
-          "imageUrl": null
-        },
-        {
-          "id": "/archives/1739784940557",
-          "author": null,
-          "description": "引言 在分布式系统中，组件之间的高效通信是架构设计的核心挑战之一。以Kubernetes为例，其核心组件（如etcd、kube-apiserver、kube-scheduler）之间的协作依赖于高效的通信协议。本文将深入探讨Kubernetes中广泛使用的gRPC和Protocol Buffers（",
-          "link": "http://localhost:8090/archives/1739784940557",
-          "publishedOn": "2025-02-17T09:36:17.000Z",
-          "wordCount": null,
-          "title": "深入解析Kubernetes内部通信：从gRPC到Protobuf的实战指南",
-          "imageUrl": null
         }
       ]
     },
@@ -4929,6 +4970,16 @@
       "siteUrl": "https://panzhixiang.cn/atom.xml",
       "articles": [
         {
+          "id": "https://panzhixiang.cn/2025/how-to-use-ai-in-my-life/",
+          "author": null,
+          "description": "记录我如何在日常中应用AI大模型：从替代传统搜索、完善产品创意、分析医疗报告到辅助编程。探索Monica、Claude、Google Gemini等工具的实际应用场景，体验AI影响工作与生活方式。",
+          "link": "https://panzhixiang.cn/2025/how-to-use-ai-in-my-life/",
+          "publishedOn": "2025-05-16T16:00:00.000Z",
+          "wordCount": 279,
+          "title": "我在生活和工作是怎么使用 AI 的 ？",
+          "imageUrl": "https://blog.panzhixiang.cn/images/monica-usage.png"
+        },
+        {
           "id": "https://panzhixiang.cn/2025/fastapi-pydantic-alias/",
           "author": null,
           "description": "<blockquote>\n<p>下面的内容是我跟 Gemini 2.5 Pro 探讨关于Pydantic 的 Alias",
@@ -5027,16 +5078,6 @@
           "wordCount": 243,
           "title": "AI不会抢人类饭碗，但不用AI的人正在被时代辞退",
           "imageUrl": "https://blog.panzhixiang.cn/images/how-to-use-ai-ima.png"
-        },
-        {
-          "id": "https://panzhixiang.cn/2025/fund-deepseek/",
-          "author": null,
-          "description": "【DeepSeek 养老系列二】基金投资养老靠谱吗？有什么风险？费用高不高？所有疑问，DeepSeek 一次解答！专家级养老投资建议，助你轻松规划未来，养老无忧！",
-          "link": "https://panzhixiang.cn/2025/fund-deepseek/",
-          "publishedOn": "2025-02-16T16:00:00.000Z",
-          "wordCount": 242,
-          "title": "20 万人的养老焦虑？再问DeepSeek：基金投资养老，你需要避开这些“坑”！",
-          "imageUrl": "https://blog.panzhixiang.cn/images/fund-deepseek-1.png"
         }
       ]
     },
@@ -5133,18 +5174,7 @@
       "title": "Ready, Set, Virtual!",
       "feedUrl": "https://www.readysetvirtual.com/feed",
       "siteUrl": "https://www.readysetvirtual.com",
-      "articles": [
-        {
-          "id": "https://www.readysetvirtual.com/?p=1707",
-          "author": "Keiran Shelden",
-          "description": "With technology ever-changing, and businesses continuously facing security challenges, services such as Azure and AWS need to keep",
-          "link": "https://www.readysetvirtual.com/2025/02/13/veeam-365-missing-application-permissions/",
-          "publishedOn": "2025-02-13T11:26:06.000Z",
-          "wordCount": 2568,
-          "title": "Veeam 365 – Missing Application Permissions",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Christopher Kusek, Technology Evangelist",
@@ -5258,6 +5288,26 @@
       "feedUrl": "https://chegva.com/feed",
       "siteUrl": "https://chegva.com",
       "articles": [
+        {
+          "id": "https://chegva.com/?p=6388",
+          "author": "anzhihe",
+          "description": "在macOS中，若因VPN或其他软件导致默认nameserver（DNS服务器）地址被强制修改，可通过以下方法手动强制替换DNS服务器地址，确保域名解析正常：\n\n一、通过系统偏好设置（图形化操作）\n\n打开网络设置\n\n\n点击左上角苹果图标 > 系统偏好设置 > 网络。\n\n选择当前活跃的网络接口（如Wi-Fi、Ethernet或VPN虚拟接口）。\n\n\n修改DNS服务器\n\n\n点击右下角 高级 > 切换到 DNS 标签页。\n\n在 DNS服务器 列表左侧，点击 + 添加新的DNS地址（如8.8.8.8、114.114.114.114）。\n\n拖动新添加的DNS地址到列表顶部，确保优先级最高。\n\n点击 OK > 应用 保存配置。\n\n\n清除DNS缓存\n终端执行：\n\nkillall -HUP mDNSResponder\n\n二、通过终端命令强制修改（推荐）\n若VPN或软件锁定了图形化设置，可直接通过终端覆盖DNS配置：\n1. 查看当前网络接口名\n执行命令获取活跃接口名（如Wi-Fi、Ethernet或VPN连接名）：\nnetworksetup -listallnetworkservices\n2. 强制设置指定DNS服务器\n替换[接口名]为实际名称（如Wi-Fi），并指定DNS地址（以8.8.8.8和1.1.1.1为例）：\nnetworksetup -setdnsservers \"[接口名]\" 8.8.8.8 1.1.1.1\n示例：\nnetworksetup -setdnsservers \"Wi-Fi\" 8.8.8.8 1.1.1.1\n3. 验证DNS配置\n# 查看当前DNS服务器\r\nnetworksetup -getdnsservers \"[接口名]\"\r\n\r\n# 测试域名解析\r\ndig example.com\r\nnslookup example.com\n4. 清除DNS缓存\nkillall -HUP mDNSResponder  # 刷新缓存\r\ndscacheutil -flushcache     # 辅助清理\n\n三、针对VPN虚拟接口的特殊处理\n若DNS被VPN虚拟接口（如utun0）强制覆盖，需直接修改VPN接口的DNS设置：\n1. 临时覆盖VPN接口DNS\n# 查找VPN虚拟接口名（通常为utun0、utun1等）\r\nifconfig | grep utun\r\n\r\n# 手动设置DNS（以utun0为例）\r\nsudo networksetup -setdnsservers \"utun0\" 8.8.8.8 1.1.1.1\n2. 阻止VPN自动修改DNS\n\n在aTrust VPN客户端设置中，取消勾选 使用VPN的DNS服务器 或类似选项。\n\n若客户端无此选项，需联系VPN管理员调整策略。\n\n\n四、直接修改配置文件（备用方案）\n若上述方法无效，可手动修改/etc/resolv.conf（需关闭SIP保护）：\n\n临时禁用SIP（需重启）\n\n\n重启Mac，按住 Command + R 进入恢复模式。\n\n打开终端执行：\n\ncsrutil disable\r\nreboot\n\n修改DNS配置文件\n\n\n编辑/etc/resolv.conf（文件可能为只读链接，需先删除后重建）：\n\nsudo rm /etc/resolv.conf\r\nsudo tee /etc/resolv.conf <<EOF\r\nnameserver 8.8.8.8\r\nnameserver 1.1.1.1\r\nEOF\n\n重新启用SIP\n\n\n再次进入恢复模式执行：\n\ncsrutil enable\r\nreboot\n\n五、验证DNS是否生效\n\n检查当前使用的DNS服务器\nscutil --dns | grep \"nameserver\n\n测试域名解析延迟\ntime dig example.co\n\n捕获DNS请求流量\ntcpdump -i en0 port 53 -vvn  # 替换en0为实际接口\n\n\n六、注意事项\n\n优先级问题\nmacOS默认遵循以下优先级：\n手动设置DNS > VPN接口DNS > 系统默认DNS。若VPN强制锁定DNS，需联系管理员调整策略。\n\n持久性配置\n通过networksetup修改的DNS在重启后仍有效，但某些VPN重连后可能覆盖配置，需结合脚本或自动化工具固化设置。\n\n防火墙与代理干扰\n确保本地防火墙（如Little Snitch）或代理工具未拦截DNS请求（默认端口UDP 53）。\n\n通过上述方法，可强制替换macOS的nameserver地址，解决因DNS配置异常导致的域名解析问题。",
+          "link": "https://chegva.com/6388.html",
+          "publishedOn": "2025-05-12T14:40:45.000Z",
+          "wordCount": 10442,
+          "title": "MacOS修改nameserver DNS服务器",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chegva.com/?p=6365",
+          "author": "anzhihe",
+          "description": "在使用lvm前先了解下 LVM介绍及架构，直接开撸。\nLVM卷使用\n假设有一块1T的盘(/dev/sdb)，创建三个分区，使用LVM配置逻辑卷并管理，常见操作步骤如下：\n1. 使用fdisk创建LVM类型的分区 → 2. 创建物理卷 → 3. 创建卷组 → 4. 创建逻辑卷 → 5. 格式化并挂载逻辑卷 → 6. 更新fstab\n使用fdisk创建分区：fdisk /dev/sdb\n\n\n按 n 创建新分区，选择主分区 (p)，分区号1，起始扇区默认，结束扇区设置为 +300G。\n\n按 t 更改分区类型，选择 8e (Linux LVM)。\n\n重复上述步骤创建分区2和3，分配剩余空间（确保类型均为8e）。\n\n按 w 保存并退出。\n\n\nLVM配置逻辑卷\n1. 创建物理卷（PV）：\r\npvcreate /dev/sdb1 /dev/sdb2 /dev/sdb3\r\n\r\n2. 创建卷组（VG）：\r\nvgcreate vg_sealer /dev/sdb1 /dev/sdb2 /dev/sdb3\r\n\r\n3. 创建逻辑卷（LV）：\r\nlvcreate -n lv_sealer -L 300G vg_sealer\n格式化并挂载逻辑卷\n1. 格式化逻辑卷：根据需求选择 ext4、xfs 或其他类型，格式化命令需匹配\r\nmkfs.ext4 /dev/vg_sealer/lv_sealer\r\n\r\n2. 创建挂载目录：\r\nmkdir -p /var/lib/sealer\r\n\r\n3. 获取逻辑卷的UUID：\r\nblkid /dev/vg_sealer/lv_sealer\r\n\r\n4. 编辑/etc/fstab文件：\r\nvim /etc/fstab\r\n添加以下行，\r\n# 设备标识（建议使用UUID，避免设备名变化导致问题），第1个0为dump 备份标志（0=不备份，1=备份），第2个0为 fsck 检查…",
+          "link": "https://chegva.com/6365.html",
+          "publishedOn": "2025-05-11T21:32:06.000Z",
+          "wordCount": 12225,
+          "title": "LVM卷在线扩缩容及常用操作",
+          "imageUrl": null
+        },
         {
           "id": "https://chegva.com/?p=6371",
           "author": "anzhihe",
@@ -5446,16 +5496,6 @@
           "publishedOn": "2025-02-18T02:57:48.000Z",
           "wordCount": 9697,
           "title": "程序员面试攻略(一)：面试前的准备",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6256",
-          "author": "anzhihe",
-          "description": "面试和笔试的要点其实差不多，基础知识和实战经验都是最重要的关注点（当然，面试时的态度和眼缘也很重要）。\n实际面试时，因为时间有限，不可能所有问题都问一遍，一般是根据简历上涉及的内容，抽一部分话题来聊一聊。看看面试者的经验、态度，以及面对一层层深入问题时的处理思路。借此了解面试者的技术水平，对深度、广度，以及思考和解决问题的能力。\n常见的面试套路是什么呢？\n\nXXX 是什么？\n\n实现原理是什么？\n\n为什么这样实现？\n\n如果让你实现你会怎么做？\n\n分析下你的实现有什么优缺点？\n\n有哪些需要改进的地方?\n\n下面总结一些比较常见的面试题，供大家参考。针对这些问题，大家可以给自己打一个分。\n\n0 分：不清楚相关知识。\n\n30 分：有一点印象，知道一些名词。\n\n60 分：知道一些概念以及含义，了解功能和常见用途。\n\n80 分：能在参考答案的基础上进行补充。\n\n100 分：发现参考答案的问题。\n\n下面我们来看看 JVM 相关面试问题。\n1. 什么是 JVM？\nJVM 全称是 Java Virtual Machine，中文称为 Java 虚拟机。\nJVM 是 Java 程序运行的底层平台，与 Java 支持库一起构成了 Java 程序的执行环境。\n分为 JVM 规范和 JVM 实现两个部分。简单来说，Java 虚拟机就是指能执行标准 Java 字节码的虚拟计算机。\n1.1 请问 JDK 与 JVM 有什么区别？\n现在的 JDK、JRE 和 JVM 一般是整套出现的。\n\nJDK = JRE + 开发调试诊断工具\n\nJRE = JVM + Java 标准库\n\n1.2 你认识哪些 JVM 厂商？\n常见的 JDK 厂商包括：\n\nOracle 公司，包括 Hotspot 虚拟机、GraalVM，分为 OpenJDK 和 OracleJDK 两种版本\n\nIBM 公司，J9 虚拟机，用在 IBM 的产品…",
-          "link": "https://chegva.com/6256.html",
-          "publishedOn": "2025-02-14T02:28:30.000Z",
-          "wordCount": 12630,
-          "title": "JVM 相关的常见面试问题汇总",
           "imageUrl": null
         }
       ]
