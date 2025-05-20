@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-05-19T02:09:31.429Z</updated>
+    <updated>2025-05-20T02:04:57.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Best Self-hosted GitHub Copilot AI Coding Alternatives]]></title>
+        <id>https://www.virtualizationhowto.com/?p=301082</id>
+        <link href="https://www.virtualizationhowto.com/2025/05/best-self-hosted-github-copilot-ai-coding-alternatives/"/>
+        <updated>2025-05-19T13:39:08.000Z</updated>
+        <summary type="html"><![CDATA[AI coding assistants are all the rage these days, from vibe coding, to helping to level the playing field for those who aren’t a developer. For those of us in the home lab, it is a great way to level-up with automation, Kubernetes, CI/CD, and other tasks that otherwise might be challenging. GitHub Copilot has …
+The post Best Self-hosted GitHub Copilot AI Coding Alternatives appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用 Docker 部署 OpenResty Manager 搭建可视化反向代理系统]]></title>
         <id>https://blog.xiaoz.org/?p=22069</id>
@@ -6229,28 +6240,6 @@ The post Mini PCs with 128 GB RAM: New Home Lab Era! appeared first on Virtualiz
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Daily Tech Deals February 19 2025]]></title>
-        <id>https://www.virtualizationhowto.com/?p=299518</id>
-        <link href="https://www.virtualizationhowto.com/2025/02/daily-tech-deals-february-19-2025/"/>
-        <updated>2025-02-19T13:48:37.000Z</updated>
-        <summary type="html"><![CDATA[Below are a few daily tech deals take note of. We are all on the lookout for good tech at reasonable prices. The Samsung EVO 990 Pro drives have been pretty heavily discounted on Amazon as of recently with 30%+ discounts. You can get a Logitech MK270 wireless keyboard and mouse combo for 32% off …
-The post Daily Tech Deals February 19 2025 appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proxmox Swap Tweaks Guide! Dedicated drive, Swappiness, Page Cluster]]></title>
-        <id>https://www.virtualizationhowto.com/?p=299485</id>
-        <link href="https://www.virtualizationhowto.com/2025/02/proxmox-swap-tweaks-guide-dedicated-drive-swappiness-page-cluster/"/>
-        <updated>2025-02-19T13:24:43.000Z</updated>
-        <summary type="html"><![CDATA[I have been doing quite a bit of testing with Proxmox swap and Intel Optane drives for ultra fast swap storage. In doing so have learned quite a bit about configuring your Proxmox swap drive to use dedicated storage, tweak the swappiness value, and other configuration settings that can definitely have a major impact on …
-The post Proxmox Swap Tweaks Guide! Dedicated drive, Swappiness, Page Cluster appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[基于iptables的Docker端口白名单控制]]></title>
         <id>/archives/1739951915211</id>
         <link href="https://srebro.cn/archives/1739951915211"/>
@@ -6258,81 +6247,6 @@ The post Proxmox Swap Tweaks Guide! Dedicated drive, Swappiness, Page Cluster ap
         <summary type="html"><![CDATA[一、需求背景 某项目组采用容器化部署架构，通过 docker-compose对服务进行编排管理。为确保核心服务安全性，需对以下三个暴露的宿主机端口实施IP白名单访问控制： 服务名称 宿主机IP 宿主机端口 容器内部端口 apollo-configservice 172.22.33.204 10002]]></summary>
         <author>
             <name>运维小弟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[消费级显卡部署deepseek-R1:32b可行性分析]]></title>
-        <id>https://nops.icu/archives/197/</id>
-        <link href="https://nops.icu/archives/197/"/>
-        <updated>2025-02-19T03:51:00.000Z</updated>
-        <summary type="html"><![CDATA[结论在deepseek-r1:32b较大尺寸模型下，4090单卡可提供3QPS，单问题4.4秒内完成响应。 对于个人，几十人小团队够用。优点：本地模型问题过滤少，同样问题，官方无法回答，本地可以...]]></summary>
-        <author>
-            <name>季兴</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Tech Deals February 18 2025]]></title>
-        <id>https://www.virtualizationhowto.com/?p=299477</id>
-        <link href="https://www.virtualizationhowto.com/2025/02/daily-tech-deals-february-18-2025/"/>
-        <updated>2025-02-18T15:21:38.000Z</updated>
-        <summary type="html"><![CDATA[Below are a few daily tech deals take note of. We are all on the lookout for good tech at reasonable prices. The Minisforum BD795M motherboard with the AMD Ryzen 9 7945hx processor is 20% off. You can get a 49 inch Innocn monitor for 20% off right now, a GMKtec Mini PC Windows 11 …
-The post Daily Tech Deals February 18 2025 appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Ryzen 9 7945HX BIOS Settings: Power Consumption and Bifurcation]]></title>
-        <id>https://www.virtualizationhowto.com/?p=299449</id>
-        <link href="https://www.virtualizationhowto.com/2025/02/amd-ryzen-9-7945hx-bios-settings-power-consumption-and-bifurcation/"/>
-        <updated>2025-02-18T14:56:01.000Z</updated>
-        <summary type="html"><![CDATA[I have recently put together a Proxmox Home Lab Server build for 2025 and as the core of the build, I used the Minisforum BD795M motherboard. This motherboard has the AMD Ryzen 9 7945HX processor installed from Minisforum. You do have to supply the CPU cooler, but the processor and motherboard are sold as a …
-The post AMD Ryzen 9 7945HX BIOS Settings: Power Consumption and Bifurcation appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[原味鸡自有答案-原味鸡85周年套餐]]></title>
-        <id>https://4311346.com/post/2025/0218-kfc-secret-recipe.html</id>
-        <link href="https://4311346.com/post/2025/0218-kfc-secret-recipe.html"/>
-        <updated>2025-02-18T14:26:19.000Z</updated>
-        <summary type="html"><![CDATA[年后第一天上班，中午在光谷保利时代的KFC下单了吮指原味鸡85周年指定套餐，获得了一本《原味鸡自有答案》。
-
-诞生于1940年的吮指原味鸡，是肯德基当之无愧的招牌，近几年每周的疯狂星期四都有光顾KFC吮指原味鸡的冲动，29.9元4块吮指原味鸡确实很划算，而有时候甚至是9.9元就能下单2块吮指原味鸡… 大爱。
-鸡腿：大鸡腿，肉质鲜嫩多汁，绝对是原味鸡的代表；
-鸡翅：体积最小，非常入味，每一口都回味无穷；
-鸡胸：肉质干，块头大，大口吃肉都很爱;
-膀肋：小骨头多，吃起来香，独特嚼劲; 
-三角：肉多块大，鲜嫩多汁，福音;
-2025年春节感冒在家
-春节假期放假前的最后2天周末，办公楼物业停了暖气，习惯性日常在公司内只穿衬衫，结果就着凉了。
-春节前1天嗓子开始不舒服，初二之后就开始咳嗽比较厉害了，休息了两天已无感冒症状，但咳嗽还很严重并无好转。
-开工后按照小红书的方子进行尝试：
-1，桔子在火上烤得全黑，趁热吃
-2，喝藿香正气水，没有想象中难喝
-3，没事早点睡，23点前睡觉
-第2天咳嗽症状减轻
-第3天咳嗽症状再次减轻
-相信今天喝完就能痊愈
-好身体才有好精力，才能有好的业绩
-藿香正气水、藿香正气液 这两种药品差距好大
-
-藿香正气水 和 藿香正气液，以前傻傻分不清，现在尝试了一次藿香正气水之后，终于懂了… 效果是真的好。
-因为感冒咳嗽，原计划春节假期内的一次旅行也就取消了，多休息…希望自己能好起来，但咳嗽好起来好难。
-春节在家看电视、看各种视频… 南京、泉州、重庆、南昌、吉安、乌镇、许昌 好多地方都想去，在这里立个FLAG，希望2025年能有机会在假期或周末能去实现。
-甲胄动力210-60A小牛专用控制器
-同学年糕的小牛NQi又一次升级了，100A大单体+3000W电机，满电续航达到了100+，时速也超过了100KM/小时。换下来的甲胄动力210-60A小牛专用控制器就顺手拿给我了。虽然是小牛专用控制器，但小牛NQi是电动摩托车，而我的小牛NXT玩家版则是电动自行车，小牛电摩和电自的控制器在接口上不一样，无奈我的NXT装不了。
-
-年后的周日下午去剪头，白发又多了好多…
-终于周末了，从初6提前一天到岗工作至今13天，终于能休息了，去在理发店里箭头，中途睡着三次…光顾了6年的Tony老师说我的白头发又多了…唉~愁的，这段时间会很煎熬，希望早些处理完这些麻烦的事情。
-这半年时间，一次又一次的被人性刷新三观，以后会一定专门开个话题讲讲所见所闻。
-再一次破自己的工作记录
-春节期间整个部门并没有做任何的相关工作准备，直至初九的会议上，被BOSS骂得半死，赶紧集中全部的人力和资源，开始干活。一周时间，已经破了自己过往的工作记录了，2025年02月剩下的两周，希望能达成自己内心设定的更高一级的目标…加油。
-2025年正月十五依然加班中度过
-年就这么的过完了…]]></summary>
-        <author>
-            <name>Andy烧麦 - 成熟，聪明，豁达的人什么也不问 过去，现在，将来…</name>
         </author>
     </entry>
     <entry>
