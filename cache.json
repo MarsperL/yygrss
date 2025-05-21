@@ -136,6 +136,16 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
+          "id": "https://daverupert.com/2025/05/notion-to-obsidian/",
+          "author": null,
+          "description": "As the world turns, so doth productivity apps churn. Readers of this blog will know I’ve been a user of Notion for the last seven-plus years. The block-based editor, the database features, and general “webbiness” of Notion suited me and let my inner productivity- and systems-wonk flourish.\nHearing rave reviews about Obsidian from friends (who are certainly not a cult, I’m told), I’ve tried to switch twice before. I spent entire weekends setting up a trial vault but never felt compelled enough to switch fully. But today –after a slow month-long process– I’m happy to report I’ve ditched Notion and am using Obsidian now. So… what changed?\nMy problems with Notion\nIn March, Notion notified me that my monthly cost is increasing from $8/mo to $12/mo (a +50% increase). On top of that, Notion has b…",
+          "link": "https://daverupert.com/2025/05/notion-to-obsidian/",
+          "publishedOn": "2025-05-20T23:44:00.000Z",
+          "wordCount": 2618,
+          "title": "Moving from Notion to Obsidian",
+          "imageUrl": "https://cdn.daverupert.com/opengraph/notion-obsidian.png"
+        },
+        {
           "id": "https://daverupert.com/2025/05/obsidian-link-aggregator/",
           "author": null,
           "description": "I’m finishing up my move from Notion to Obsidian and one complexity I encountered was all my saved links. In the almost seven years of using Notion, I amassed a ~1.2 GB database of links. This is because of how the Notion Web Clipper creates a backup of the article and its assets. While this is gold to an internet archivist… I really only use this feature to sneak around paywalls. Moving to Obsidian gave me a chance to rethink my link collection process and along the way I figured out how to make an automated Link Aggregator that I could parlay into a newsletter-like blog post.\nStep 1: Install Obsidian Web Clipper\nThe first step was to capture links. I had looked at creating a custom bookmarklet, but as I rolled this out across my iPad, iPhone, personal computer, and work computer, the fou…",
@@ -673,36 +683,6 @@
           "wordCount": 2397,
           "title": "华为 VRP 系统简介&配置SSH,TELNET远程登录",
           "imageUrl": "null"
-        },
-        {
-          "id": "/archives/1740042455409",
-          "author": "运维小弟",
-          "description": "基于Zabbix主动发现机制实现Nacos服务动态监控 一、 快速部署Zabbix7.0 使用Docker-compose快速搭建Zabbix7.0监控平台，请参考文档： Zabbix7.0 Docker-compose部署指南 二. Nacos注册中心简介 Nacos（Dynamic Naming",
-          "link": "https://srebro.cn/archives/1740042455409",
-          "publishedOn": "2025-02-20T09:07:49.000Z",
-          "wordCount": 2323,
-          "title": "基于Zabbix主动发现机制实现Nacos服务动态监控",
-          "imageUrl": "null"
-        },
-        {
-          "id": "/archives/1739951915211",
-          "author": "运维小弟",
-          "description": "一、需求背景 某项目组采用容器化部署架构，通过 docker-compose对服务进行编排管理。为确保核心服务安全性，需对以下三个暴露的宿主机端口实施IP白名单访问控制： 服务名称 宿主机IP 宿主机端口 容器内部端口 apollo-configservice 172.22.33.204 10002",
-          "link": "https://srebro.cn/archives/1739951915211",
-          "publishedOn": "2025-02-19T07:59:34.000Z",
-          "wordCount": 2662,
-          "title": "基于iptables的Docker端口白名单控制",
-          "imageUrl": "null"
-        },
-        {
-          "id": "/archives/1739862823849",
-          "author": "运维小弟",
-          "description": "网络参考模型与标准协议 以下内容来源于 华为官方讲义课件+ 个人整理，如有侵权，请联系作者删除 1. 数据与网络参考模型 在数字化时代，信息以数据的形式存在并传递。本章通过网络参考模型，帮助我们理解数据的“一生”。 2. 应用与数据 2.1 应用 应用的存在是为了满足人们的需求，例如访问网页、在线游",
-          "link": "https://srebro.cn/archives/1739862823849",
-          "publishedOn": "2025-02-18T07:14:25.000Z",
-          "wordCount": 2342,
-          "title": "网络必备 | 网络参考模型（全）、ARP协议",
-          "imageUrl": "null"
         }
       ]
     },
@@ -1229,6 +1209,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=301097",
+          "author": "Brandon Lee",
+          "description": "I have been having tons of fun working with local LLMs in the home lab the last few days and I wanted to share a few steps and tweaks having to do with how to run Ollama with NVIDIA GPU in Proxmox in your VMs, LXC, and then exposing this to clients on your network. …\nThe post Run Ollama with NVIDIA GPU in Proxmox VMs and LXC containers appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/05/run-ollama-with-nvidia-gpu-in-proxmox-vms-and-lxc-containers/",
+          "publishedOn": "2025-05-20T11:59:04.000Z",
+          "wordCount": 11111,
+          "title": "Run Ollama with NVIDIA GPU in Proxmox VMs and LXC containers",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/Ollama-with-NVIDIA-GPU-in-Proxmox.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=301082",
           "author": "Brandon Lee",
@@ -2148,16 +2138,6 @@
           "wordCount": 8006,
           "title": "Daily Tech Deals February 20 2025",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/2025-02-19-7-51-37.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=299527",
-          "author": "Brandon Lee",
-          "description": "I think we are seeing a new era evolve in front of our eyes with the introduction by Crucial of the new 128 GB RAM kit that is now out at most of the major retailers. Never before have we had these kinds of densities for mini PCs and motherboards that use the SODIMM memory …\nThe post Mini PCs with 128 GB RAM: New Home Lab Era! appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/02/mini-pcs-with-128-gb-ram-new-home-lab-era/",
-          "publishedOn": "2025-02-20T13:24:25.000Z",
-          "wordCount": 9988,
-          "title": "Mini PCs with 128 GB RAM: New Home Lab Era!",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/Mini-PC-with-128-GB-RAM.jpg"
         }
       ]
     },
@@ -2166,6 +2146,36 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=32083",
+          "author": "Tanvir Kour",
+          "description": "Picture this: Maya runs a small fashion store in downtown Atlanta. A few years ago, the pandemic hit, forcing her to go digital to sell her products. Her inventory was high quality, and her marketing was strong, but her online checkout told a different story. Customers filled up their carts only to abandon most of […]",
+          "link": "https://collabnix.com/why-the-future-of-retail-depends-on-embedded-financial-services/",
+          "publishedOn": "2025-05-20T13:37:56.000Z",
+          "wordCount": 4004,
+          "title": "Why the Future of Retail Depends on Embedded Financial Services",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2025/05/Screenshot-2025-05-20-at-7.06.58%E2%80%AFPM.png"
+        },
+        {
+          "id": "https://collabnix.com/?p=32079",
+          "author": "Tanvir Kour",
+          "description": "Training companies are always on the lookout for fresh ways to improve efficiency in their operations. A core aspect that these organizations are now assessing is their software’s contribution to overall business success and return on investment (ROI). This guide delves into the influence of software on training companies and its significance in attaining an […]",
+          "link": "https://collabnix.com/measuring-roi-the-impact-of-software-on-training-company-success/",
+          "publishedOn": "2025-05-20T12:24:16.000Z",
+          "wordCount": null,
+          "title": "Measuring ROI: The Impact of Software on Training Company Success",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=32067",
+          "author": "Tanvir Kour",
+          "description": "Remote Patient Monitoring (RPM) is the use of digital technologies to gather medical and health-related data from individuals in one location and securely transmit it to healthcare providers in another for evaluation and guidance. This approach enables medical professionals to monitor patients beyond traditional clinical environments—such as at home or in rural settings—improving care accessibility […]",
+          "link": "https://collabnix.com/remote-patient-monitoring-software-key-features-benefits-and-development-steps/",
+          "publishedOn": "2025-05-20T11:49:56.000Z",
+          "wordCount": null,
+          "title": "Remote Patient Monitoring Software: Key Features, Benefits, and Development Steps",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=32057",
           "author": "Collabnix Team",
@@ -3175,76 +3185,6 @@
           "wordCount": 2714,
           "title": "How Automated Systems Are Redefining Customer Experience in Meal Services",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30644",
-          "author": "Tanvir Kour",
-          "description": "Discover how data-driven insights change search results, boosting relevance and user engagement. Learn cutting-edge techniques to enhance search performance.",
-          "link": "https://collabnix.com/leveraging-data-driven-insights-for-superior-search-visibility/",
-          "publishedOn": "2025-02-20T11:12:50.000Z",
-          "wordCount": 2909,
-          "title": "Leveraging Data-Driven Insights for Superior Search Visibility",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30640",
-          "author": "Ajeet Raina",
-          "description": "In today’s fast-paced financial landscape, mastering DevOps skills isn’t just for tech teams – it’s key to smarter financial management and portfolio efficiency. These skills streamline workflows, improve data accuracy, and enable better decision-making. Whether it’s automating pipelines or ensuring system reliability, practical DevOps expertise helps organizations stay competitive in managing finances and optimizing investment […]",
-          "link": "https://collabnix.com/5-essential-devops-skills-for-enhancing-financial-management-and-portfolio-efficiency/",
-          "publishedOn": "2025-02-20T11:06:21.000Z",
-          "wordCount": 2694,
-          "title": "5 Essential DevOps Skills for Enhancing Financial Management and Portfolio Efficiency",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30605",
-          "author": "Adesoji Alu",
-          "description": "Overview This guide will walk you through creating a simple chat application in .NET that interacts with a locally hosted AI model. Using the Microsoft.Extensions.AI library, you can communicate with an AI model without relying on cloud services. This provides better privacy, reduced latency, and cost efficiency. Prerequisites Install .NET 8.0 or a later version. […]",
-          "link": "https://collabnix.com/how-to-chat-with-a-local-ai-model-using-ollama-and-net-on-macos/",
-          "publishedOn": "2025-02-19T20:40:15.000Z",
-          "wordCount": 2964,
-          "title": "How To Chat with a Local AI Model using Ollama and  .NET on MacOS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30565",
-          "author": "Adesoji Alu",
-          "description": "As a developer who’s worked extensively with AI tools, I’ve found Ollama to be an intriguing option for production deployments. While it’s known for local development, its capabilities extend far beyond that. Let’s dive into how we can leverage Ollama in production environments and explore some real-world use cases. What Makes Ollama Production-Ready? Before we […]",
-          "link": "https://collabnix.com/using-ollama-in-production-a-developers-practical-guide/",
-          "publishedOn": "2025-02-19T16:15:20.000Z",
-          "wordCount": null,
-          "title": "Using Ollama in Production: A Developer’s Practical Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30594",
-          "author": "Tanvir Kour",
-          "description": "Businesses increasingly rely on real-time insights, seamless connectivity, and end-to-end visibility, making the Internet of Things (IoT) a driving force in fleet management evolution. Across industries like logistics and energy, IoT ensures smoother coordination of vehicles and operations. As technology evolves, IoT has become the cornerstone of modern fleet strategies, driving operational efficiency and competitive […]",
-          "link": "https://collabnix.com/a-smarter-way-to-manage-your-fleet-the-role-of-iot-in-fleet-management/",
-          "publishedOn": "2025-02-19T14:58:22.000Z",
-          "wordCount": null,
-          "title": "A Smarter Way to Manage Your Fleet: The Role of IoT in Fleet Management",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30543",
-          "author": "Adesoji Alu",
-          "description": "In the rapidly evolving landscape of AI development, Ollama has emerged as a game-changing tool for running Large Language Models locally. With over 43,000+ GitHub stars and 2000+ forks, Ollama has become the go-to solution for developers seeking to integrate LLMs into their local development workflow. The Rise of Ollama: By the Numbers – 43k+ […]",
-          "link": "https://collabnix.com/how-to-run-llms-locally-with-ollama/",
-          "publishedOn": "2025-02-19T14:48:14.000Z",
-          "wordCount": null,
-          "title": "How to Run LLMs Locally with Ollama",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30539",
-          "author": "Ajeet Raina",
-          "description": "Docker containers provide excellent isolation for applications, but accessing physical USB devices within a container can be challenging. By leveraging the USB/IP protocol, you can share USB devices over the network and use them in Docker containers. This guide will walk you through: We’ll use USB/IP, nsenter, and Docker to facilitate USB over IP and […]",
-          "link": "https://collabnix.com/integrating-usb-ip-into-docker-desktop-is-now-possible/",
-          "publishedOn": "2025-02-19T14:42:09.000Z",
-          "wordCount": null,
-          "title": "Integrating USB/IP into Docker Desktop is Now Possible",
-          "imageUrl": null
         }
       ]
     },
@@ -3500,6 +3440,16 @@
       "feedUrl": "https://www.skyue.com/feed/",
       "siteUrl": "https://www.skyue.com/",
       "articles": [
+        {
+          "id": "https://www.skyue.com/25052013.html",
+          "author": "拾月",
+          "description": "周日和南瓜到上海野生动物园一日游，疯狂按快门的一天。",
+          "link": "https://www.skyue.com/25052013.html",
+          "publishedOn": "2025-05-20T05:25:00.000Z",
+          "wordCount": 569,
+          "title": "上海野生动物园",
+          "imageUrl": ""
+        },
         {
           "id": "https://www.skyue.com/25051323.html",
           "author": "拾月",
@@ -4241,16 +4191,6 @@
           "wordCount": 1406,
           "title": "探索 Linux 内存占用找出最吃内存的进程",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/801/",
-          "author": null,
-          "description": "<blockquote>\n<p>现在容器技术很火，镜像又肥又大，部署较慢不说，安全风险还蹭蹭往上窜，简直让人头大！SlimToolkit 就像一位经验老道的镜像瘦身大师，能把镜像体积缩小到令人咋舌的程度，最多能瘦 30 倍！</p>\n</blockquote>",
-          "link": "https://dusays.com/801/",
-          "publishedOn": "2025-02-19T16:00:00.000Z",
-          "wordCount": 1346,
-          "title": "使用 SlimToolkit 打造更小的容器镜像",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
     },
@@ -4484,16 +4424,6 @@
           "wordCount": 398,
           "title": "使用Python识别验证码 ddddocr",
           "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
-        },
-        {
-          "id": "https://zahui.fan/posts/srz9zs/",
-          "author": null,
-          "description": "<p><code>powerlevel10k</code> 是 zsh 上很好看的主题，我一直是在 wsl 里用，配合 <code>Windows Terminal</code> 很好看，不过在 PyCharm 里打开会乱码，可以通过修改控制台字体为支持 powerline 的字体，不过还是不完美，有时候还有 BUG。</p>\n<p><img src=",
-          "link": "https://zahui.fan/posts/srz9zs/",
-          "publishedOn": "2025-02-20T10:47:52.000Z",
-          "wordCount": 414,
-          "title": "解决PyCharm终端使用zsh powerlevel10k主题时的乱码问题",
-          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
         }
       ]
     },
@@ -4633,6 +4563,16 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=22079",
+          "author": "xiaoz",
+          "description": "抱歉让大家久等了，距离上一次Zdir 4.3.0 版本已经过去三个月时间，现在迎来了Zdir 4.4.0版本，下面一起来看看有没有你感兴趣的更新内容。关于ZdirZdir是一款使用Golang + Vue3开发的多功能私有存储程序，集成了文件索引、在线预览和分享功能，支持WebDAV和离线下载，非常",
+          "link": "https://blog.xiaoz.org/archives/22079",
+          "publishedOn": "2025-05-21T01:38:32.000Z",
+          "wordCount": 299,
+          "title": "Zdir 4.4.0重磅更新 + 5月福利",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=22069",
           "author": "xiaoz",
@@ -4929,6 +4869,16 @@
       "feedUrl": "https://panzhixiang.cn/atom.xml",
       "siteUrl": "https://panzhixiang.cn/atom.xml",
       "articles": [
+        {
+          "id": "https://panzhixiang.cn/2025/how-chatgpt-know-you/",
+          "author": null,
+          "description": "通过与 ChatGPT 的对话，它竟然能从中对我进行深刻分析，并提出犀利的批判性建议，帮助我改善生活与工作。这篇文章记录了我的真实体验和 ChatGPT 的惊人分析能力。",
+          "link": "https://panzhixiang.cn/2025/how-chatgpt-know-you/",
+          "publishedOn": "2025-05-19T16:00:00.000Z",
+          "wordCount": 288,
+          "title": "ChatGPT 把我“看”穿了",
+          "imageUrl": null
+        },
         {
           "id": "https://panzhixiang.cn/2025/how-to-use-ai-in-my-life/",
           "author": null,
