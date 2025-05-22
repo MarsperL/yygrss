@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-05-21T02:04:51.953Z</updated>
+    <updated>2025-05-22T02:04:27.694Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Still Worth It? Running AI Workloads on a GTX 1060 in 2025]]></title>
+        <id>https://www.virtualizationhowto.com/?p=301118</id>
+        <link href="https://www.virtualizationhowto.com/2025/05/still-worth-it-running-ai-workloads-on-a-gtx-1060-in-2025/"/>
+        <updated>2025-05-21T12:18:29.000Z</updated>
+        <summary type="html"><![CDATA[If you are wanting to get into running AI models on your local workstation or home lab server, you may assume that you need to have the latest video card or a video card that costs hundreds if not upwards of $1000 to get started. However, this is honestly not the case. You can actually …
+The post Still Worth It? Running AI Workloads on a GTX 1060 in 2025 appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Before and After MCP: The Evolution of AI Tool Integration]]></title>
+        <id>https://collabnix.com/?p=32088</id>
+        <link href="https://collabnix.com/before-and-after-mcp-the-evolution-of-ai-tool-integration/"/>
+        <updated>2025-05-21T11:21:15.000Z</updated>
+        <summary type="html"><![CDATA[Today I want to talk about something that’s completely transforming how AI models interact with external tools – the Model Context Protocol (MCP). If you’ve been following AI development lately, you’ve probably noticed how quickly things are changing, and MCP is one of those game-changers that’s reshaping the entire landscape. Let’s dive into what the […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开源数字人平替方案]]></title>
+        <id>https://nops.icu/archives/210/</id>
+        <link href="https://nops.icu/archives/210/"/>
+        <updated>2025-05-21T08:12:00.000Z</updated>
+        <summary type="html"><![CDATA[测试了音频驱动肖像动画的框架，https://github.com/jixiaozhong/Sonic  眨眼、皱眉、微笑、扭动都很自然。适用口播视频、数字人、介绍视频。看效果显卡：4090显存...]]></summary>
+        <author>
+            <name>季兴</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zdir 4.4.0重磅更新 + 5月福利]]></title>
         <id>https://blog.xiaoz.org/?p=22079</id>
@@ -1754,6 +1785,43 @@ Continue reading...]]></summary>
 The post Killer Home Lab Projects You Can Build in a Weekend appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Redwood Cove 微架构评测]]></title>
+        <id>https://jia.je/hardware/2025/04/23/intel-redwood-cove/</id>
+        <link href="https://jia.je/hardware/2025/04/23/intel-redwood-cove/"/>
+        <updated>2025-04-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Intel Redwood Cove 微架构评测¶
+背景¶
+之前我们测试了 Intel 的微架构 Redwood Cove，这次就来测一下 Redwood Cove，它被用到了 Meteor Lake 以及 Granite Rapids 上。这次就以阿里云 g9i 实例的 Granite Rapids 机器来测试一下 Redwood Cove 微架构的各项指标。
+
+官方信息¶
+Intel 关于 Redwood Cove 微架构有这些官方的信息：
+
+Intel® 64 and IA-32 Architectures Optimization Reference Manual Volume 1
+Meteor Lake Architecture Overview
+
+现有评测¶
+网上已经有较多针对 Redwood Cove 微架构的评测和分析，建议阅读：
+
+Intel’s Redwood Cove: Baby Steps are Still Steps
+Intel Unveils Meteor Lake Architecture: Intel 4 Heralds the Disaggregated Future of Mobile CPUs
+
+下面分各个模块分别记录官方提供的信息，以及实测的结果。读者可以对照已有的第三方评测理解。官方信息与实测结果一致的数据会加粗。
+Benchmark¶
+Intel Redwood Cove 的性能测试结果见 SPEC。
+前端¶
+L1 ICache¶
+官方信息：
+
+Larger instruction cache: 32K→64K.
+
+为了测试 L1 ICache 容量，构造一个具有巨大指令 footprint 的循环，由大量的 4 字节 nop 和最后的分支指令组成。观察在不同 footprint 大小下的 IPC：
+
+可以看到 footprin…]]></summary>
+        <author>
+            <name>杰哥的{运维，编程，调板子}小笔记</name>
         </author>
     </entry>
     <entry>
@@ -5578,11 +5646,31 @@ istioctl install --se…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How to Run LLMs Locally with Ollama]]></title>
+        <id>https://collabnix.com/?p=30543</id>
+        <link href="https://collabnix.com/how-to-run-llms-locally-with-ollama/"/>
+        <updated>2025-02-27T02:48:14.000Z</updated>
+        <summary type="html"><![CDATA[In the rapidly evolving landscape of AI development, Ollama has emerged as a game-changing tool for running Large Language Models locally. With over 43,000+ GitHub stars and 2000+ forks, Ollama has become the go-to solution for developers seeking to integrate LLMs into their local development workflow. The Rise of Ollama: By the Numbers – 43k+ […]]]></summary>
+        <author>
+            <name>Adesoji Alu</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ask Gordon and Model Context Protocol (MCP) – Working Together]]></title>
         <id>https://collabnix.com/?p=30459</id>
         <link href="https://collabnix.com/ask-gordon-and-model-context-protocol-mcp-working-together/"/>
         <updated>2025-02-27T02:46:55.000Z</updated>
         <summary type="html"><![CDATA[You might wonder “What does Docker Desktop have to do with AI?” The answer lies in Ask Gordon, an innovative AI-powered assistant that’s now integrated into both Docker Desktop and the Docker CLI. This integration represents a significant step forward in making the Docker ecosystem more accessible and efficient for developers. What is Ask Gordon? […]]]></summary>
+        <author>
+            <name>Ajeet Raina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating USB/IP into Docker Desktop is Now Possible]]></title>
+        <id>https://collabnix.com/?p=30539</id>
+        <link href="https://collabnix.com/integrating-usb-ip-into-docker-desktop-is-now-possible/"/>
+        <updated>2025-02-27T01:42:09.000Z</updated>
+        <summary type="html"><![CDATA[Docker containers provide excellent isolation for applications, but accessing physical USB devices within a container can be challenging. By leveraging the USB/IP protocol, you can share USB devices over the network and use them in Docker containers. This guide will walk you through: We’ll use USB/IP, nsenter, and Docker to facilitate USB over IP and […]]]></summary>
         <author>
             <name>Ajeet Raina</name>
         </author>
@@ -6118,46 +6206,6 @@ The CPI 2024 is calculated using 13 different data sources from 12 different ins
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What is Ollama? Features and Getting Started]]></title>
-        <id>https://collabnix.com/?p=30600</id>
-        <link href="https://collabnix.com/what-is-ollama-features-and-getting-started/"/>
-        <updated>2025-02-21T09:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Ollama is an open-source platform designed to run large language models (LLMs) locally on your machine. This provides developers, researchers, and businesses with full control over their data, ensuring privacy and security while eliminating reliance on cloud-based services. By running AI models locally, Ollama reduces latency, enhances performance, and allows for complete customization. This guide […]]]></summary>
-        <author>
-            <name>Adesoji Alu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubernetes 资源管理深度解析：Requests、Limits 与底层 cgroups 的协作机制]]></title>
-        <id>/archives/1740127065121</id>
-        <link href="http://blog.lixx.cn/archives/1740127065121"/>
-        <updated>2025-02-21T08:38:19.000Z</updated>
-        <summary type="html"><![CDATA[摘要 在 Kubernetes 集群中，资源管理是保障应用稳定性和集群效率的核心环节。requests 和 limits 的配置直接影响 Pod 的调度行为、资源争抢时的分配策略，甚至容器的生存状态。本文将深入探讨这些配置的底层原理，并通过实际场景分析，揭示 Kubernetes 如何通过 Linu]]></summary>
-        <author>
-            <name>Lixx Blog - 李晓旭的博客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubernetes 资源管理深度解析：Requests、Limits 与底层 cgroups 的协作机制]]></title>
-        <id>/archives/1740127065121</id>
-        <link href="http://localhost:8090/archives/1740127065121"/>
-        <updated>2025-02-21T08:38:19.000Z</updated>
-        <summary type="html"><![CDATA[摘要 在 Kubernetes 集群中，资源管理是保障应用稳定性和集群效率的核心环节。requests 和 limits 的配置直接影响 Pod 的调度行为、资源争抢时的分配策略，甚至容器的生存状态。本文将深入探讨这些配置的底层原理，并通过实际场景分析，揭示 Kubernetes 如何通过 Linu]]></summary>
-        <author>
-            <name>Lixx Blog - 李晓旭的博客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Automated Systems Are Redefining Customer Experience in Meal Services]]></title>
-        <id>https://collabnix.com/?p=30650</id>
-        <link href="https://collabnix.com/how-automated-systems-are-redefining-customer-experience-in-meal-services/"/>
-        <updated>2025-02-21T05:15:50.000Z</updated>
-        <summary type="html"><![CDATA[The online meal service industry is revolutionizing the way people access food, offering one-stop-shop convenience, variety, and custom nutrition planning. Seniors, homebound adults, busy parents, professionals, and health-conscious consumers are discovering the benefits of these services for ready-made meals or portioned ingredients. Meal services use automated systems to ensure satisfaction through: Let’s explore how automated […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[分享个人的二手 iPhone 验机流程 2025]]></title>
         <id>https://www.ioiox.com/archives/173.html</id>
         <link href="https://www.ioiox.com/archives/173.html"/>
@@ -6184,29 +6232,6 @@ The CPI 2024 is calculated using 13 different data sources from 12 different ins
 面试中有一些问题很难，但是不要放弃，要不断尝试。很多时候，面试官并不期待你能在很短的时候内解出一道难题，他只…]]></summary>
         <author>
             <name>anzhihe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI不会抢人类饭碗，但不用AI的人正在被时代辞退]]></title>
-        <id>https://panzhixiang.cn/2025/how-to-use-ai/</id>
-        <link href="https://panzhixiang.cn/2025/how-to-use-ai/"/>
-        <updated>2025-02-20T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>大家最近是不是经常看到各种关于 DeepSeek 的新闻？各种传宣 AI 如何如何厉害。</p>
-<p>但是感觉AI新闻满天飞，工作还是老方法？</p>
-<p>今天讲几个比较简单但是有用的使用 AI 帮助提升工作的方法。</p>]]></summary>
-        <author>
-            <name>潘智祥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Tech Deals February 20 2025]]></title>
-        <id>https://www.virtualizationhowto.com/?p=299539</id>
-        <link href="https://www.virtualizationhowto.com/2025/02/daily-tech-deals-february-20-2025/"/>
-        <updated>2025-02-20T14:34:06.000Z</updated>
-        <summary type="html"><![CDATA[Below are a few daily tech deals take note of. We are all on the lookout for good tech at reasonable prices. The Samsung EVO 990 Pro drives have been pretty heavily discounted on Amazon as of recently with 30%+ discounts. You can get a SAMSUNG 16′ Galaxy Book4 Pro Laptop PC Computer 43% off …
-The post Daily Tech Deals February 20 2025 appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>

@@ -1043,6 +1043,16 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://nops.icu/archives/210/",
+          "author": "季兴",
+          "description": "测试了音频驱动肖像动画的框架，https://github.com/jixiaozhong/Sonic  眨眼、皱眉、微笑、扭动都很自然。适用口播视频、数字人、介绍视频。看效果显卡：4090显存...",
+          "link": "https://nops.icu/archives/210/",
+          "publishedOn": "2025-05-21T08:12:00.000Z",
+          "wordCount": 516,
+          "title": "开源数字人平替方案",
+          "imageUrl": null
+        },
+        {
           "id": "https://nops.icu/archives/203/",
           "author": "季兴",
           "description": "在今年的大模型落地背景下，敏感信息不和共有模型交互。我们分别评测了 A100 8卡、4090、H800、H20，动辄百万级，在前期探索阶段很难拿到产出数据支撑。  梳理需求后发现，90%场景是推...",
@@ -1209,6 +1219,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=301118",
+          "author": "Brandon Lee",
+          "description": "If you are wanting to get into running AI models on your local workstation or home lab server, you may assume that you need to have the latest video card or a video card that costs hundreds if not upwards of $1000 to get started. However, this is honestly not the case. You can actually …\nThe post Still Worth It? Running AI Workloads on a GTX 1060 in 2025 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/05/still-worth-it-running-ai-workloads-on-a-gtx-1060-in-2025/",
+          "publishedOn": "2025-05-21T12:18:29.000Z",
+          "wordCount": 11267,
+          "title": "Still Worth It? Running AI Workloads on a GTX 1060 in 2025",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/GTX-1060-for-AI.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=301097",
           "author": "Brandon Lee",
@@ -2128,16 +2148,6 @@
           "wordCount": 11407,
           "title": "Minisforum BD795i SE Motherboard Review for Home Lab",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/Minisforum-BD795i-SE-review.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=299539",
-          "author": "Brandon Lee",
-          "description": "Below are a few daily tech deals take note of. We are all on the lookout for good tech at reasonable prices. The Samsung EVO 990 Pro drives have been pretty heavily discounted on Amazon as of recently with 30%+ discounts. You can get a SAMSUNG 16′ Galaxy Book4 Pro Laptop PC Computer 43% off …\nThe post Daily Tech Deals February 20 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/02/daily-tech-deals-february-20-2025/",
-          "publishedOn": "2025-02-20T14:34:06.000Z",
-          "wordCount": 8006,
-          "title": "Daily Tech Deals February 20 2025",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/2025-02-19-7-51-37.jpg"
         }
       ]
     },
@@ -2146,6 +2156,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=32088",
+          "author": "Collabnix Team",
+          "description": "Today I want to talk about something that’s completely transforming how AI models interact with external tools – the Model Context Protocol (MCP). If you’ve been following AI development lately, you’ve probably noticed how quickly things are changing, and MCP is one of those game-changers that’s reshaping the entire landscape. Let’s dive into what the […]",
+          "link": "https://collabnix.com/before-and-after-mcp-the-evolution-of-ai-tool-integration/",
+          "publishedOn": "2025-05-21T11:21:15.000Z",
+          "wordCount": 4429,
+          "title": "Before and After MCP: The Evolution of AI Tool Integration",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=32083",
           "author": "Tanvir Kour",
@@ -3047,6 +3067,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://collabnix.com/?p=30543",
+          "author": "Adesoji Alu",
+          "description": "In the rapidly evolving landscape of AI development, Ollama has emerged as a game-changing tool for running Large Language Models locally. With over 43,000+ GitHub stars and 2000+ forks, Ollama has become the go-to solution for developers seeking to integrate LLMs into their local development workflow. The Rise of Ollama: By the Numbers – 43k+ […]",
+          "link": "https://collabnix.com/how-to-run-llms-locally-with-ollama/",
+          "publishedOn": "2025-02-27T02:48:14.000Z",
+          "wordCount": null,
+          "title": "How to Run LLMs Locally with Ollama",
+          "imageUrl": null
+        },
+        {
           "id": "https://collabnix.com/?p=30459",
           "author": "Ajeet Raina",
           "description": "You might wonder “What does Docker Desktop have to do with AI?” The answer lies in Ask Gordon, an innovative AI-powered assistant that’s now integrated into both Docker Desktop and the Docker CLI. This integration represents a significant step forward in making the Docker ecosystem more accessible and efficient for developers. What is Ask Gordon? […]",
@@ -3055,6 +3085,16 @@
           "wordCount": 3906,
           "title": "Ask Gordon and Model Context Protocol (MCP) – Working Together",
           "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2025/02/Screenshot-2025-02-14-at-7.33.54%E2%80%AFAM.png"
+        },
+        {
+          "id": "https://collabnix.com/?p=30539",
+          "author": "Ajeet Raina",
+          "description": "Docker containers provide excellent isolation for applications, but accessing physical USB devices within a container can be challenging. By leveraging the USB/IP protocol, you can share USB devices over the network and use them in Docker containers. This guide will walk you through: We’ll use USB/IP, nsenter, and Docker to facilitate USB over IP and […]",
+          "link": "https://collabnix.com/integrating-usb-ip-into-docker-desktop-is-now-possible/",
+          "publishedOn": "2025-02-27T01:42:09.000Z",
+          "wordCount": 3483,
+          "title": "Integrating USB/IP into Docker Desktop is Now Possible",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2025/02/Screenshot-2025-02-19-at-8.05.51%E2%80%AFPM.png"
         },
         {
           "id": "https://collabnix.com/?p=30788",
@@ -3165,26 +3205,6 @@
           "wordCount": 3552,
           "title": "How I Reduced a Docker Image Size by 90%: A Step-by-Step Journey",
           "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2025/02/Screenshot-from-2025-02-10-14-37-08.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=30600",
-          "author": "Adesoji Alu",
-          "description": "Ollama is an open-source platform designed to run large language models (LLMs) locally on your machine. This provides developers, researchers, and businesses with full control over their data, ensuring privacy and security while eliminating reliance on cloud-based services. By running AI models locally, Ollama reduces latency, enhances performance, and allows for complete customization. This guide […]",
-          "link": "https://collabnix.com/what-is-ollama-features-and-getting-started/",
-          "publishedOn": "2025-02-21T09:59:00.000Z",
-          "wordCount": 2909,
-          "title": "What is Ollama? Features and Getting Started",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30650",
-          "author": "Tanvir Kour",
-          "description": "The online meal service industry is revolutionizing the way people access food, offering one-stop-shop convenience, variety, and custom nutrition planning. Seniors, homebound adults, busy parents, professionals, and health-conscious consumers are discovering the benefits of these services for ready-made meals or portioned ingredients. Meal services use automated systems to ensure satisfaction through: Let’s explore how automated […]",
-          "link": "https://collabnix.com/how-automated-systems-are-redefining-customer-experience-in-meal-services/",
-          "publishedOn": "2025-02-21T05:15:50.000Z",
-          "wordCount": 2714,
-          "title": "How Automated Systems Are Redefining Customer Experience in Meal Services",
-          "imageUrl": null
         }
       ]
     },
@@ -4491,26 +4511,6 @@
           "wordCount": null,
           "title": "通过 WireGuard 实现云服务器与家庭 NAS 的安全互联：完整教程",
           "imageUrl": null
-        },
-        {
-          "id": "/archives/1740127065121",
-          "author": null,
-          "description": "摘要 在 Kubernetes 集群中，资源管理是保障应用稳定性和集群效率的核心环节。requests 和 limits 的配置直接影响 Pod 的调度行为、资源争抢时的分配策略，甚至容器的生存状态。本文将深入探讨这些配置的底层原理，并通过实际场景分析，揭示 Kubernetes 如何通过 Linu",
-          "link": "http://blog.lixx.cn/archives/1740127065121",
-          "publishedOn": "2025-02-21T08:38:19.000Z",
-          "wordCount": null,
-          "title": "Kubernetes 资源管理深度解析：Requests、Limits 与底层 cgroups 的协作机制",
-          "imageUrl": null
-        },
-        {
-          "id": "/archives/1740127065121",
-          "author": null,
-          "description": "摘要 在 Kubernetes 集群中，资源管理是保障应用稳定性和集群效率的核心环节。requests 和 limits 的配置直接影响 Pod 的调度行为、资源争抢时的分配策略，甚至容器的生存状态。本文将深入探讨这些配置的底层原理，并通过实际场景分析，揭示 Kubernetes 如何通过 Linu",
-          "link": "http://localhost:8090/archives/1740127065121",
-          "publishedOn": "2025-02-21T08:38:19.000Z",
-          "wordCount": null,
-          "title": "Kubernetes 资源管理深度解析：Requests、Limits 与底层 cgroups 的协作机制",
-          "imageUrl": null
         }
       ]
     },
@@ -4978,16 +4978,6 @@
           "wordCount": 254,
           "title": "流量时代里，我不想成为 AI 洗稿流水线上的螺丝钉",
           "imageUrl": "https://blog.panzhixiang.cn/images/wechat-buy-fans.png"
-        },
-        {
-          "id": "https://panzhixiang.cn/2025/how-to-use-ai/",
-          "author": null,
-          "description": "<p>大家最近是不是经常看到各种关于 DeepSeek 的新闻？各种传宣 AI 如何如何厉害。</p>\n<p>但是感觉AI新闻满天飞，工作还是老方法？</p>\n<p>今天讲几个比较简单但是有用的使用 AI 帮助提升工作的方法。</p>",
-          "link": "https://panzhixiang.cn/2025/how-to-use-ai/",
-          "publishedOn": "2025-02-20T16:00:00.000Z",
-          "wordCount": 243,
-          "title": "AI不会抢人类饭碗，但不用AI的人正在被时代辞退",
-          "imageUrl": "https://blog.panzhixiang.cn/images/how-to-use-ai-ima.png"
         }
       ]
     },
@@ -5425,6 +5415,16 @@
           "publishedOn": "2025-05-14T00:00:00.000Z",
           "wordCount": 2369,
           "title": "分析 Rocket Chip 中 Diplomacy 系统",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jia.je/hardware/2025/04/23/intel-redwood-cove/",
+          "author": null,
+          "description": "Intel Redwood Cove 微架构评测¶\n背景¶\n之前我们测试了 Intel 的微架构 Redwood Cove，这次就来测一下 Redwood Cove，它被用到了 Meteor Lake 以及 Granite Rapids 上。这次就以阿里云 g9i 实例的 Granite Rapids 机器来测试一下 Redwood Cove 微架构的各项指标。\n\n官方信息¶\nIntel 关于 Redwood Cove 微架构有这些官方的信息：\n\nIntel® 64 and IA-32 Architectures Optimization Reference Manual Volume 1\nMeteor Lake Architecture Overview\n\n现有评测¶\n网上已经有较多针对 Redwood Cove 微架构的评测和分析，建议阅读：\n\nIntel’s Redwood Cove: Baby Steps are Still Steps\nIntel Unveils Meteor Lake Architecture: Intel 4 Heralds the Disaggregated Future of Mobile CPUs\n\n下面分各个模块分别记录官方提供的信息，以及实测的结果。读者可以对照已有的第三方评测理解。官方信息与实测结果一致的数据会加粗。\nBenchmark¶\nIntel Redwood Cove 的性能测试结果见 SPEC。\n前端¶\nL1 ICache¶\n官方信息：\n\nLarger instruction cache: 32K→64K.\n\n为了测试 L1 ICache 容量，构造一个具有巨大指令 footprint 的循环，由大量的 4 字节 nop 和最后的分支指令组成。观察在不同 footprint 大小下的 IPC：\n\n可以看到 footprin…",
+          "link": "https://jia.je/hardware/2025/04/23/intel-redwood-cove/",
+          "publishedOn": "2025-04-23T00:00:00.000Z",
+          "wordCount": 1108,
+          "title": "Intel Redwood Cove 微架构评测",
           "imageUrl": null
         },
         {
