@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-05-22T02:04:27.694Z</updated>
+    <updated>2025-05-23T02:04:03.761Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Enable GPU Passthrough to LXC Containers in Proxmox]]></title>
+        <id>https://www.virtualizationhowto.com/?p=301142</id>
+        <link href="https://www.virtualizationhowto.com/2025/05/how-to-enable-gpu-passthrough-to-lxc-containers-in-proxmox/"/>
+        <updated>2025-05-22T17:26:27.000Z</updated>
+        <summary type="html"><![CDATA[I have been playing around lately with the GPU passthrough functionality in Proxmox and looking at the best ways to run AI workloads in Proxmox. Virtual machine passthrough is a great way to run something like Ollama. However, I wanted to experiment with GPU passthrough in an LXC container. Let’s look at Proxmox LXC container …
+The post How to Enable GPU Passthrough to LXC Containers in Proxmox appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华纳云618大促，166元买8H16G5M香港cn2云服务器，大带宽服务器688起]]></title>
+        <id>https://blog.xiaoz.org/?p=22091</id>
+        <link href="https://blog.xiaoz.org/archives/22091"/>
+        <updated>2025-05-22T09:08:50.000Z</updated>
+        <summary type="html"><![CDATA[2025年618大促，香港IDC华纳云率先打响第一枪，推出“618出海超值购“优惠活动，促销涵盖云服务器、CN2服务器、大带宽服务器、高防御服务器等多个产品，超低折扣加速企业数字化转型，轻松实现降本增效。华纳云618活动核心亮点：首单特惠，购买云服务器可享2折超低折扣，1H1G5M CN2永久价格1]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么需要 Prometheus + Alertmanager + Grafana？]]></title>
+        <id>/archives/1747885184192</id>
+        <link href="http://blog.lixx.cn/archives/1747885184192"/>
+        <updated>2025-05-22T03:41:58.000Z</updated>
+        <summary type="html"><![CDATA[由 Gemini 2.5 Flash Preview 05-20 生成 概述：为什么需要 Prometheus + Alertmanager + Grafana？ 想象一下你的 Kubernetes 集群是一个繁忙的城市，里面有无数的建筑物（Pod）、车辆（Deployment/Service）和居]]></summary>
+        <author>
+            <name>Lixx Blog - 李晓旭的博客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vibe Check №38]]></title>
+        <id>https://daverupert.com/2025/05/vibe-check-38/</id>
+        <link href="https://daverupert.com/2025/05/vibe-check-38/"/>
+        <updated>2025-05-22T03:08:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s been an eventful three months since my last update. I nearly burnt myself out powering through a big internal release at work in February, a season of back-to-back family activities March and April, I turned 45 at the end of April and school lets out next week. Summer has begun.
+And let’s be honest, we could blame the tardiness of this post on a lot of issues: the rise of fascist authoritarianism in America, busy home life, busy career, nights at the ball field… But we all know the real reason this post is months overdue: Balatro.
+Internal-source work project launched
+I devoted a lot of my Q1 life force to getting an internal work project out the door. It’s an internal design system that’s a sibling of the open source design system I work on but has more components, smaller API surfac…]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MarkItDown：将各类文档转换为Markdown的高效工具]]></title>
+        <id>https://panzhixiang.cn/2025/markitdown/</id>
+        <link href="https://panzhixiang.cn/2025/markitdown/"/>
+        <updated>2025-05-21T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[MarkItDown是一款由微软AutoGen团队开发的轻量级Python工具，支持多种文件格式转Markdown，保留文档结构，适合LLM分析。了解更多！]]></summary>
+        <author>
+            <name>潘智祥</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Still Worth It? Running AI Workloads on a GTX 1060 in 2025]]></title>
         <id>https://www.virtualizationhowto.com/?p=301118</id>
@@ -45,6 +99,35 @@ The post Still Worth It? Running AI Workloads on a GTX 1060 in 2025 appeared fir
         <summary type="html"><![CDATA[抱歉让大家久等了，距离上一次Zdir 4.3.0 版本已经过去三个月时间，现在迎来了Zdir 4.4.0版本，下面一起来看看有没有你感兴趣的更新内容。关于ZdirZdir是一款使用Golang + Vue3开发的多功能私有存储程序，集成了文件索引、在线预览和分享功能，支持WebDAV和离线下载，非常]]></summary>
         <author>
             <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple M4 微架构评测]]></title>
+        <id>https://jia.je/hardware/2025/05/21/apple-m4/</id>
+        <link href="https://jia.je/hardware/2025/05/21/apple-m4/"/>
+        <updated>2025-05-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple M4 微架构评测¶
+背景¶
+最近拿到了 Apple M4 的环境，借此机会测试一下 Apple M4 的微架构，和之前分析的 Apple M1 的微架构做比较。由于 Asahi Linux 尚不支持 Apple M4，所以这里的测试都在 macOS 上进行。
+
+官方信息¶
+Apple M4 的官方信息乏善可陈，关于微架构的信息几乎为零，但能从操作系统汇报的硬件信息中找到一些内容。
+现有评测¶
+网上已经有针对 Apple M4 微架构的评测和分析，建议阅读：
+
+苹果 M4 性能分析：尽力了，但芯片工艺快到头了！
+
+下面分各个模块分别记录官方提供的信息，以及实测的结果。读者可以对照已有的第三方评测理解。官方信息与实测结果一致的数据会加粗。
+前端¶
+取指带宽¶
+P-Core¶
+为了测试实际的 Fetch 宽度，参考 如何测量真正的取指带宽（I-fetch width） - JamesAslan 构造了测试。
+其原理是当 Fetch 要跨页的时候，由于两个相邻页可能映射到不同的物理地址，如果要支持单周期跨页取指，需要查询两次 ITLB，或者 ITLB 需要把相邻两个页的映射存在一起。这个场景一般比较少，处理器很少会针对这种特殊情况做优化，但也不是没有。经过测试，把循环放在两个页的边界上，发现 M4 P-Core 微架构遇到跨页的取指时确实会拆成两个周期来进行。
+在此基础上，构造一个循环，循环的第一条指令放在第一个页的最后四个字节，其余指令放第二个页上，那么每次循环的取指时间，就是一个周期（读取第一个页内的指令）加上第二个页内指令需要 Fetch 的周期数，多的这一个周期就足以把 Fetch 宽度从后端限制中区分开，实验结果如下：
+
+图中蓝线（cross-page）表示的就是上面所述的第一条指令放一个页，其余指令放第二个页的情况，横坐标是第二个页内的指令数，那么一次循环的…]]></summary>
+        <author>
+            <name>杰哥的{运维，编程，调板子}小笔记</name>
         </author>
     </entry>
     <entry>
@@ -246,6 +329,16 @@ Bensz]]></summary>
 <h2]]></summary>
         <author>
             <name>云野阁</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQL 数据库如何使用 mydumper 和 myloader 数据快速备份和迁移]]></title>
+        <id>https://www.mintimate.cn/2025/05/17/mysqlMigrationByDumper/</id>
+        <link href="https://www.mintimate.cn/2025/05/17/mysqlMigrationByDumper/"/>
+        <updated>2025-05-17T11:38:49.000Z</updated>
+        <summary type="html"><![CDATA[当我们需要备份或者迁移大量 MySQL 数据时，可以使用 mydumper 和 myloader 工具进行快速备份和迁移。尤其是跨服务器迁移或者是本地数据库上云的时候，它们可以更快速地且稳定地完成数据迁移。]]></summary>
+        <author>
+            <name>雨月空间站</name>
         </author>
     </entry>
     <entry>
@@ -5766,6 +5859,16 @@ The post Home Lab Hardware I’m Most Excited About in 2025 appeared first on Vi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What is Ollama? Features and Getting Started]]></title>
+        <id>https://collabnix.com/?p=30600</id>
+        <link href="https://collabnix.com/what-is-ollama-features-and-getting-started/"/>
+        <updated>2025-02-26T09:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Ollama is an open-source platform designed to run large language models (LLMs) locally on your machine. This provides developers, researchers, and businesses with full control over their data, ensuring privacy and security while eliminating reliance on cloud-based services. By running AI models locally, Ollama reduces latency, enhances performance, and allows for complete customization. This guide […]]]></summary>
+        <author>
+            <name>Adesoji Alu</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Logstash 写入 ES：借助自定义模板优化数据映射与存储]]></title>
         <id>https://zahui.fan/posts/ss9srz/</id>
         <link href="https://zahui.fan/posts/ss9srz/"/>
@@ -6138,50 +6241,6 @@ My doctor thought it might be Chondroma, which is a bit scary to look up, but is
 </blockquote>]]></summary>
         <author>
             <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用Python识别验证码 ddddocr]]></title>
-        <id>https://zahui.fan/posts/ss2wk6/</id>
-        <link href="https://zahui.fan/posts/ss2wk6/"/>
-        <updated>2025-02-22T09:48:05.000Z</updated>
-        <summary type="html"><![CDATA[<p>GitHub 地址：<a href="https://github.com/sml2h3/ddddocr">https://github.com/sml2h3/ddddocr</a></p>
-<p>安装</p>
-<figure class="highlight bash"><table><tr><td class="gutter"><pre><span]]></summary>
-        <author>
-            <name>杂烩饭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NAS使用SnappyMail搭建个人WebMail]]></title>
-        <id>https://www.dreamlyn.cn/1781251812.html</id>
-        <link href="https://www.dreamlyn.cn/1781251812.html"/>
-        <updated>2025-02-22T03:02:22.000Z</updated>
-        <summary type="html"><![CDATA[使用 docker-compose 搭建 SnappyMail 个人 WebMail 服务]]></summary>
-        <author>
-            <name>牧尘的NAS小站</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Tech Deals February 21 2025]]></title>
-        <id>https://www.virtualizationhowto.com/?p=299571</id>
-        <link href="https://www.virtualizationhowto.com/2025/02/daily-tech-deals-february-21-2025/"/>
-        <updated>2025-02-21T16:17:44.000Z</updated>
-        <summary type="html"><![CDATA[Below are a few daily tech deals take note of. We are all on the lookout for good tech at reasonable prices. You can get a GEN5 NVMe drive, the Crucial T700 2TB Gen5 NVMe M.2 SSD with Heatsink for 32% off. You can also get a Kingston NV3 500GB M.2 2280 NVMe drive for …
-The post Daily Tech Deals February 21 2025 appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minisforum BD795i SE Motherboard Review for Home Lab]]></title>
-        <id>https://www.virtualizationhowto.com/?p=299546</id>
-        <link href="https://www.virtualizationhowto.com/2025/02/minisforum-bd795i-se-motherboard-review-for-home-lab/"/>
-        <updated>2025-02-21T15:17:30.000Z</updated>
-        <summary type="html"><![CDATA[Minisforum is a name that is synonymous with home labs. They have one of the best mini PCs available for home lab use in the Minisforum MS-01 mini PC. I also predict we will be saying that about its successor, the MS-A2, soon to be released either this next month or in April. However, you …
-The post Minisforum BD795i SE Motherboard Review for Home Lab appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
