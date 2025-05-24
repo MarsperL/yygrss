@@ -117,16 +117,6 @@
           "wordCount": 372,
           "title": "中晚期肝癌：系统治疗与局部治疗要不要联合？如何联合？",
           "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
-        },
-        {
-          "id": "http://whyes.org/2025/esmo-guideline-hcc-2025",
-          "author": null,
-          "description": "最近几年，肝细胞癌（HCC）系统治疗取得了巨大进步，这也推动了肝癌指南的更新。近期， 欧洲肿瘤内科学会（ESMO）也更新了肝癌诊疗指南，全称是《Hepatocellular carcinoma: ESMO Clinical Practice...",
-          "link": "http://whyes.org/2025/esmo-guideline-hcc-2025",
-          "publishedOn": "2025-02-23T09:39:20.000Z",
-          "wordCount": 719,
-          "title": "ESMO肝癌实践指南（2025年版）更新要点",
-          "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
         }
       ]
     },
@@ -233,16 +223,6 @@
           "publishedOn": "2025-03-01T17:30:00.000Z",
           "wordCount": 959,
           "title": "The only way to know for sure... is to build a prototype",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/02/vibe-check-37/",
-          "author": null,
-          "description": "As the weather in Texas flip-flops weekly between sunny Spring and snowy Winter, I’ve been dealing with a bit of personal health this last quarter. From my ADHD diagnosis, to trying meds for the first time, to back-to-back sicknesses, then constant migraines, and then I think I got the Norovirus on New Years. A debilitating time for me, but in January it started to turn around when I got some good news…\n“It’s not a tumor, it’s a deformity”\nIn December I saw my primary care physician about a pain in my ankle that was causing me to hobble and at times preventing me from walking in November. It caused a lot of other issues as well; a fire-like pain in my thigh and a bump on my heel.\nMy doctor thought it might be Chondroma, which is a bit scary to look up, but is like a tumor made of cartilage…",
-          "link": "https://daverupert.com/2025/02/vibe-check-37/",
-          "publishedOn": "2025-02-22T19:40:00.000Z",
-          "wordCount": 1902,
-          "title": "Vibe Check №37",
           "imageUrl": null
         }
       ]
@@ -1222,13 +1202,34 @@
       "title": "Ather Beg's Useful Thoughts",
       "feedUrl": "https://atherbeg.com/feed/",
       "siteUrl": "https://atherbeg.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://atherbeg.com/?p=3343",
+          "author": "Ather Beg",
+          "description": "After attending VMworld/VMware Explore in person for the first time in 2013 in Barcelona, I was hooked, and since then, I could never bear the thought of not attending it. I broadened my circle of friends, which we affectionately call the vCommunity, by attending that event. Since then, VMworld/VMware Explore in Barcelona was where everyone  [...]",
+          "link": "https://atherbeg.com/2025/05/23/why-attend-vmware-explore-2025-in-las-vegas/",
+          "publishedOn": "2025-05-23T14:20:48.000Z",
+          "wordCount": 25829,
+          "title": "Why attend VMware Explore 2025 in Las Vegas",
+          "imageUrl": "https://atherbeg.com/wp-content/uploads/2014/11/Ather-Begs-Useful-Thoughts1.png"
+        }
+      ]
     },
     {
       "title": "Virtualization Howto",
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=301187",
+          "author": "Brandon Lee",
+          "description": "I caught wind a few weeks back of a new tool that I know I hadn’t heard about as of yet. It is called ProxMenux and after 5 minutes of using it, I knew that it is probably the best Proxmox tool that everyone needs to know about but that you probably aren’t using as …\nThe post ProxMenux Might Be the Best Proxmox Management Tool You’re Not Using appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/05/proxmenux-might-be-the-best-proxmox-management-tool-youre-not-using/",
+          "publishedOn": "2025-05-23T14:08:25.000Z",
+          "wordCount": 12014,
+          "title": "ProxMenux Might Be the Best Proxmox Management Tool You’re Not Using",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/ProxMenux-Might-Be-the-Best-Proxmox-Management-Tool-Youre-Not-Using-2.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=301142",
           "author": "Brandon Lee",
@@ -3452,16 +3453,6 @@
           "wordCount": 118,
           "title": "为什么忙起来就没有表达欲？",
           "imageUrl": "https://yeshu.cloud/images/android-chrome-192x192.png"
-        },
-        {
-          "id": "https://yeshu.cloud/posts/newsletter-132/",
-          "author": null,
-          "description": "云南是个好地方，未来有机会，一定要再来看看",
-          "link": "https://yeshu.cloud/posts/newsletter-132/",
-          "publishedOn": "2025-02-23T11:56:00.000Z",
-          "wordCount": 147,
-          "title": "昆明风光好",
-          "imageUrl": "https://yeshu.cloud/images/android-chrome-192x192.png"
         }
       ]
     },
@@ -4211,16 +4202,6 @@
           "wordCount": 1333,
           "title": "Untitled",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/802/",
-          "author": null,
-          "description": "<blockquote>\n<p>无论是服务器还是个人电脑，了解哪些进程占用了最多的内存，对于系统管理员和普通用户来说至关重要。不仅可以帮助我们优化系统性能，还能避免因内存不足而导致系统崩溃。本文将介绍如何在 Linux 系统中统计内存占用最多的前 10 个进程。</p>\n</blockquote>",
-          "link": "https://dusays.com/802/",
-          "publishedOn": "2025-02-22T16:00:00.000Z",
-          "wordCount": 1406,
-          "title": "探索 Linux 内存占用找出最吃内存的进程",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
     },
@@ -4554,16 +4535,6 @@
           "publishedOn": "2025-03-28T00:00:00.000Z",
           "wordCount": 1313,
           "title": "我们收集了18个顶级设计案例，GPT-4o 已经让设计师非常危险了",
-          "imageUrl": "https://picdn.youdianzhishi.com/images/blog-favicon.png"
-        },
-        {
-          "id": "https://www.qikqiak.com/post/cursor-rules-guide/",
-          "author": null,
-          "description": "当我们在使用 Cursor 来编写代码的时候，Cursor 规则可以说是最重要的，这个规则直接影响我们编写代码的质量。Cursor 规则是用户提供的一组指导说明，用来帮助 AI  更好地理解和处理代码库，这些规则可以包含特定的代码处理要求、项目规范或者其他重要信息，所以说其非常非常重要。",
-          "link": "https://www.qikqiak.com/post/cursor-rules-guide/",
-          "publishedOn": "2025-02-23T00:00:00.000Z",
-          "wordCount": 431,
-          "title": "一文搞懂如何在 Cursor 新版本(0.45+)中使用规则",
           "imageUrl": "https://picdn.youdianzhishi.com/images/blog-favicon.png"
         }
       ]
