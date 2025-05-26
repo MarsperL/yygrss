@@ -530,6 +530,31 @@
       "siteUrl": "https://srebro.cn/",
       "articles": [
         {
+          "id": "/archives/1748146487815",
+          "author": "运维小弟",
+          "description": "Domain Admin 介绍 Domain Admin是一个基于Python + Vue3.js 技术栈实现的域名和SSL证书监测平台，支持申请证书，自动续签，到期提醒，支持独立部署 的一个轻量级监控方案，占用系统资源较少。 🚢 项目地址 Github：https://github.com/dr",
+          "link": "https://srebro.cn/archives/1748146487815",
+          "publishedOn": "2025-05-25T04:15:19.000Z",
+          "wordCount": null,
+          "title": "Domain Admin：域名SSL证书监控+自动续签，运维从此0焦虑",
+          "enclosure": {
+            "url": "https://srebro.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https%3A%2F%2Fs3api.srebro.cn%2Fpicgo%2F202505251141669.png&size=m",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://srebro.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https%3A%2F%2Fs3api.srebro.cn%2Fpicgo%2F202505251141669.png&size=m"
+        },
+        {
+          "id": "/archives/1747992482280",
+          "author": "运维小弟",
+          "description": "Windows 与 Linux 文本格式转换 一、背景 在跨平台协作时，Windows 和 Linux 系统的换行符差异常导致文本文件显示异常，主要表现为： Windows 系统：使用 \\r\\n（CR+LF）表示换行（回车+换行符） Linux 系统：使用 \\n（LF）表示换行（仅换行符） 这种差异",
+          "link": "https://srebro.cn/archives/1747992482280",
+          "publishedOn": "2025-05-23T09:28:14.000Z",
+          "wordCount": null,
+          "title": "Windows 与 Linux 文本格式转换",
+          "imageUrl": null
+        },
+        {
           "id": "/archives/1746805396253",
           "author": "运维小弟",
           "description": "PostGIS 与 pgRouting：打造强大的地理空间分析容器 背景 在现代地理信息系统 (GIS) 和基于位置的服务中，PostGIS 和 pgRouting 是两个不可或缺的开源工具。PostGIS 为 PostgreSQL 数据库提供了强大的空间数据处理能力，而 pgRouting 则在此",
@@ -1200,6 +1225,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=301228",
+          "author": "Brandon Lee",
+          "description": "Beelink EQR5 Mini Pc\nThe post Memorial Day 2025 Deals on Mini PCs appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/05/memorial-day-2025-deals-on-mini-pcs/",
+          "publishedOn": "2025-05-26T00:32:35.000Z",
+          "wordCount": 8122,
+          "title": "Memorial Day 2025 Deals on Mini PCs",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/image.webp"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=301187",
           "author": "Brandon Lee",
@@ -2109,26 +2144,6 @@
           "wordCount": 11143,
           "title": "Platform9 Community Edition Free Download and Install: Migrate from VMware",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/Platform9.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=299609",
-          "author": "Brandon Lee",
-          "description": "Below are a few daily tech deals take note of. We are all on the lookout for good tech at reasonable prices. If you are in the market for a new workstation class machine, the Asus Proart Station PD500TE high performance desktop is 11% off plus you get a $100 coupon. If you are looking …\nThe post Daily Tech Deals February 24 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/02/daily-tech-deals-february-24-2025/",
-          "publishedOn": "2025-02-24T18:29:56.000Z",
-          "wordCount": 8251,
-          "title": "Daily Tech Deals February 24 2025",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/image-10.jpeg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=299588",
-          "author": "Brandon Lee",
-          "description": "One of the viable solutions for shared storage for running your Docker containers is NFS. Many are running a NAS in their home lab environment that is used for storage. With that said, one of the use cases for a NAS in the realm of home lab is using it for shared storage with your …\nThe post Docker NFS Mount on Synology and Performance Tweaks appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/02/docker-nfs-mount-on-synology-and-performance-tweaks/",
-          "publishedOn": "2025-02-24T15:16:00.000Z",
-          "wordCount": 10320,
-          "title": "Docker NFS Mount on Synology and Performance Tweaks",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/nfs-and-docker.jpg"
         }
       ]
     },
@@ -2137,6 +2152,46 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=32130",
+          "author": "Tanvir Kour",
+          "description": "Learn expert Google Ads conversion tracking strategies to eliminate wasted ad spend. Discover advanced techniques like enhanced conversions, offline tracking & proper attribution.",
+          "link": "https://collabnix.com/how-to-maximize-roi-with-accurate-google-ads-conversion-tracking/",
+          "publishedOn": "2025-05-25T18:51:41.000Z",
+          "wordCount": 4398,
+          "title": "How to Maximize ROI with Accurate Google Ads Conversion Tracking",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2025/05/Screenshot-2025-05-26-at-12.19.02%E2%80%AFAM.png"
+        },
+        {
+          "id": "https://collabnix.com/?p=32125",
+          "author": "Collabnix Team",
+          "description": "Running large language models locally has become increasingly accessible thanks to tools like Ollama. This comprehensive guide will walk you through setting up and using Ollama with Python, enabling you to harness the power of AI models directly on your machine. What is Ollama? Ollama is an open-source platform that makes it easy to run […]",
+          "link": "https://collabnix.com/using-ollama-with-python-step-by-step-guide/",
+          "publishedOn": "2025-05-25T06:13:54.000Z",
+          "wordCount": null,
+          "title": "Using Ollama with Python: Step-by-Step Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=32119",
+          "author": "Ajeet Raina",
+          "description": "Imagine hearing your favorite celebrity or even a loved one’s voice saying something new—something they never actually said. Thanks to AI voice cloning, this is no longer a sci-fi fantasy but a fast-growing reality. Voice cloning technology, which uses artificial intelligence to replicate human voices with striking accuracy, is shaking up industries, raising ethical […]",
+          "link": "https://collabnix.com/the-rise-of-ai-voice-cloning-benefits-risks-and-real-world-applications/",
+          "publishedOn": "2025-05-24T11:06:00.000Z",
+          "wordCount": null,
+          "title": "The Rise of AI Voice Cloning: Benefits, Risks, and Real-World Applications",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=32113",
+          "author": "Collabnix Team",
+          "description": "Anthropic has just dropped what many are calling the most significant AI advancement of 2025: Claude Sonnet 4. As part of the new Claude 4 family alongside Claude Opus 4, this latest model isn’t just an incremental upgrade—it’s a fundamental leap forward in AI capabilities that’s already transforming how developers, writers, and businesses approach complex […]",
+          "link": "https://collabnix.com/whats-new-in-claude-sonnet-4/",
+          "publishedOn": "2025-05-24T07:34:00.000Z",
+          "wordCount": null,
+          "title": "What’s New in Claude Sonnet 4",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=32088",
           "author": "Collabnix Team",
@@ -3116,86 +3171,6 @@
           "wordCount": null,
           "title": "Turning Market Sentiment Into Profit: Strategies For Savvy Investors",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30727",
-          "author": "Tanvir Kour",
-          "description": "Mobile trading apps are gaining ground, but can they seamlessly integrate AI signals? The convenience of trading on the go combined with AI’s intelligence promises a futuristic edge. Let’s see how these tools align to empower traders everywhere. How can AI signals enhance mobile trading experiences? click here to know app which connects you to […]",
-          "link": "https://collabnix.com/are-ai-signals-compatible-with-mobile-trading-apps/",
-          "publishedOn": "2025-02-25T13:44:16.000Z",
-          "wordCount": null,
-          "title": "Are AI Signals Compatible With Mobile Trading Apps?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30724",
-          "author": "Tanvir Kour",
-          "description": "Market sentiment is a powerful force, rippling across economies and shaping trends. From local reactions to global shifts, its influence can’t be ignored. Let’s delve into how this intangible yet impactful factor drives the markets we rely on. Want to explore the global ripple effects of market sentiment? Gas 4.4 Evex can introduce you to […]",
-          "link": "https://collabnix.com/the-ripple-effect-how-market-sentiment-influences-global-markets/",
-          "publishedOn": "2025-02-25T13:42:02.000Z",
-          "wordCount": null,
-          "title": "The Ripple Effect: How Market Sentiment Influences Global Markets?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30431",
-          "author": "Collabnix Team",
-          "description": "In today’s fast-paced dynamic developmental landscape, managing repositories and performing file operations on GitHub can often become a tedious chore. What if you could automate and simplify these tasks with just a single tool? This brings us to GitHub MCP Server. What is GitHub MCP Server? Model Context Protocol (MCP)  is an open protocol that […]",
-          "link": "https://collabnix.com/github-mcp-server-docker-and-claude-desktop/",
-          "publishedOn": "2025-02-25T11:11:13.000Z",
-          "wordCount": null,
-          "title": "GitHub MCP Server, Docker and Claude Desktop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30695",
-          "author": "Ajeet Raina",
-          "description": "Are you a developer ready for an immersive learning experience that will revolutionize your AI skills? NVIDIA GTC 2025 is back this year, and it promises to be one of the premier AI and accelerated computing conferences in the world. Whether you’re a seasoned GPU programmer or just starting your journey with AI, NVIDIA GTC […]",
-          "link": "https://collabnix.com/top-reasons-why-ai-developers-must-attend-nvidia-gtc-event/",
-          "publishedOn": "2025-02-25T09:04:27.000Z",
-          "wordCount": null,
-          "title": "Top Reasons Why AI Developers Must Attend NVIDIA GTC Event",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30695",
-          "author": "Ajeet Raina",
-          "description": "Are you a developer ready for an immersive learning experience that will revolutionize your AI skills? NVIDIA GTC is back, and it promises to be one of the premier AI and accelerated computing conferences in the world. Whether you’re a seasoned GPU programmer or just starting your journey with AI, NVIDIA GTC is the place […]",
-          "link": "https://collabnix.com/top-reasons-why-ai-developers-should-attend-nvidia-gtc-event/",
-          "publishedOn": "2025-02-25T09:04:27.000Z",
-          "wordCount": null,
-          "title": "Top Reasons Why AI Developers Should Attend NVIDIA GTC Event",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30693",
-          "author": "Ajeet Raina",
-          "description": "I recently had the opportunity to collaborate with Raveendiran RR, a Docker Community Speaker and Generative AI enthusiast, to present on this exciting topic at Cloud-Native LLMOps Day in Bengaluru. Together, we explored the transformative potential of Model Context Protocol in modern AI development workflows, sharing insights with the vibrant tech community. This blog post expands on the key […]",
-          "link": "https://collabnix.com/integration-of-model-context-protocol-and-docker-ai-agent-under-docker-desktop/",
-          "publishedOn": "2025-02-25T04:15:19.000Z",
-          "wordCount": null,
-          "title": "Integration of Model Context Protocol and Docker AI Agent under Docker Desktop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30660",
-          "author": "Adesoji Alu",
-          "description": "In this demo, we will walk through the steps to deploy the DeepSeek-R1 quantitative model on your machine using the Ollama Operator for Kubernetes. This operator makes it easy to run large language models on your cluster. The demo below includes installing the operator, deploying a model, and accessing it. Prerequisites A running Kubernetes cluster […]",
-          "link": "https://collabnix.com/deploy-deepseek-r1-using-ollama-operator-on-kubernetes/",
-          "publishedOn": "2025-02-24T14:50:51.000Z",
-          "wordCount": 2837,
-          "title": "Deploy DeepSeek-R1 using Ollama-Operator on Kubernetes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30414",
-          "author": "Adesoji Alu",
-          "description": "How I Reduced a Docker Image Size by 90%: A Step-by-Step Journey Let me take you through my journey of optimizing a Python-based Machine Learning application’s Docker image, reducing it from a hefty 3.09GB to just 280MB. Here’s how I did it, step by step. The Initial Problem I started with a typical Dockerfile for […]",
-          "link": "https://collabnix.com/how-i-reduced-a-docker-image-size-by-90-a-step-by-step-journey/",
-          "publishedOn": "2025-02-23T20:09:38.000Z",
-          "wordCount": 3552,
-          "title": "How I Reduced a Docker Image Size by 90%: A Step-by-Step Journey",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2025/02/Screenshot-from-2025-02-10-14-37-08.png"
         }
       ]
     },
@@ -3441,6 +3416,16 @@
       "feedUrl": "https://www.skyue.com/feed/",
       "siteUrl": "https://www.skyue.com/",
       "articles": [
+        {
+          "id": "https://www.skyue.com/25052511.html",
+          "author": "拾月",
+          "description": "南瓜在重庆出差，周末没活动，于是我昨天窝家里一天把《大奉打更人》给看完了，40集，1.5倍速。总体上与当年看《大宋少年志》的感觉有点像，朝堂+探案+爱情的题材，再上点「侠之大者，为国为民」的价值...",
+          "link": "https://www.skyue.com/25052511.html",
+          "publishedOn": "2025-05-25T03:33:00.000Z",
+          "wordCount": 548,
+          "title": "大奉打更人",
+          "imageUrl": ""
+        },
         {
           "id": "https://www.skyue.com/25052013.html",
           "author": "拾月",
@@ -3799,6 +3784,16 @@
       "feedUrl": "https://4311346.com/index.xml",
       "siteUrl": "https://4311346.com/",
       "articles": [
+        {
+          "id": "https://4311346.com/post/2025/0525-mulberry-fruit/",
+          "author": null,
+          "description": "经常会感叹时间过得太快，以至于生活和工作都跟不上时间，结果就是睡眠越来越不足。时间到了05月中旬，年龄又增大了一岁，意味着体力也会对应的减少，过去的一年多时间，每天都在加班中度过，甚至一些周末也都投入到了工作之中… 回头看来，这些并不是自己想要的，但不知道是不是到了这个年纪，却没有了折腾的心。至少过去一年多时间里，并没有想去主动改变的想法，难、累、委屈、郁闷充斥着每一天，还TMD继续在坚持…这就是牛马，但绝对不是一个快乐的牛马。\n所以，公司总会安排喝酒、唱歌、游玩等各种活动来进行放松和调整…\n先解答上篇文章几个问题（强大的组织能力和2025年五一劳动节）\n@粽叶加米，打工人的挣扎与坚持，职场拼力担心失去家庭生活，安逸则要面对“被劝退”\n其实强度大得只有自己离职，根本到不了被劝退的安逸，举个例子，“做不到罚款” ，过去一年，被罚款的部分已经超1个W了… 一个人工作终究是为自己，体现的淋漓尽致… 摸鱼~ 不存在的，等着被罚款。\n@Dorad，HR天天这业绩考核，日子也不好过啊\n举个招聘HR的例子把，将求职者约来，最终因为薪酬问题，对方没能入职。和销售一样，客户有意向，但因为价格问题，没能下单。时间长了，销售因为抓不住客户，没有业绩而被淘汰。而这个招聘HR，其实和这位销售一样，每一个“客户”都没抓住，最终没有业绩。等着的同样是被淘汰。\n大环境不好，不做可以滚，换个地方呢？重头再来滚一遍吗？日子好不好过，多由自身决定把。\n@obaby，四点出门晚啦，我都是两点出门\n五一当天加班，五一之前也没休息，连续上班10多天，睡4个小时出门是为了安全，只睡2小时，还1个人1路从武汉开到山东，怕是有点强大。\n@夜未央，太敬业了，事业心是一种天赋，真不需要强迫\n谈不上被强迫，一切为了自己，自己成长的同时，顺便将工作也干了，也就行了，这是打工，不是玩命。\n这里要提的一个词，是自律，共勉\n一个人不自律，谁也帮不了，自律不是偶尔的早起，不是想起来才坚持，更不是间歇性的努力，而是长久保持该有规律，亲手扶起另一个颓废的自己。\n中国科学院武汉植物园\n周一暴雨的清晨，被通知10点准时到东湖的一个会所开会。然后在会所园区内陪着大BOSS观光了一整圈后，开始会议和吃饭，人均380元的餐食标准有点贵，虽然费用能报销，但作为人力资源部门负责人却又在很多活动、会议中起到的是组织管理与服务性的后勤工作，所以单得买，往往一个报销周期还没结束，后一个活动有开始了，然后大几万就垫付进去了…笑话是没点存款还真干不了这活。\n\n会议+干饭结束，已是下午16点多，然后驱车去到距离附近不远的中国科学院武汉植物园看花。\n\n土生土长的武汉吖对这里都很熟悉，大致算算有20多年没有来过了…\n\n\n\n小学，中学，大学都有会组织春游来到这里，记忆最深刻的一次是有一年的郁金香展，后来大学期间有一次集体活动是在这里举行后，就再也没有来过。距离家里也就十多公里，家门口公交就能直达，而这么漂亮的地方，却最终遗忘了。\n\n植物园园区门口，可租电动代步车，价格喜人…\n\n武汉植物园花期，基本上集中在上半年，兰花、牡丹、郁金香、杜鹃、罂粟\n黄陂区七颗莓生态园\n这天早上前往黄陂区七颗莓生态园集合，在这里采摘桑葚和树莓，桑葚成熟得并不是太多，也有可能是前几天的周末被其它游客采摘完了，第一次见树莓，品种也好几个，但口感一般。整体来说，并没有去年在 黄陂星期八果园 采摘的收获大。\n\n目前这个季节，桑葚、蓝莓、树莓、钓小龙虾，然后园区老板自己养了点走地鸡\n\n小龙虾管饱，老板可以免费给加工，但得自己一个个在塘里钓\n\n农家乐，自己抓的鸡，旁边就杀了炖汤，土豆、地菜、汉菜都是地里自己挖的\n\n黄陂区木兰玫瑰园\n\n基本没啥人\n\n也算得上有山有水，但园区规划并不是很紧凑，如果父母来应该更喜欢\n\n来都来了，还是要看看玫瑰花的\n新洲区紫薇都市田园\n这里并不在计划着，原本去到黄陂区的木兰玫瑰园，花期基本已过，没什么看头，转头赶在17点30分截止入园之前从黄陂区奔步至新洲区的新洲区紫薇都市田园。\n\n入园后的体验远比木兰玫瑰园要好\n\n景点的打卡地点还挺多\n\n园区内的小火车，有点类似 《各个都是大家伙，中国铁道博物馆-蒸汽机车》中的 0号机车，还有窄轨铁路。\n\n紫薇都市田园属于4A景区，景区内自费游玩的项目也很多，最适合的应该是运动拓展活动，赏花这类只能春天带父母来。\n\n摘的树莓和桑葚并不是太多，回家后发现就这么一碗… 吃吧",
+          "link": "https://4311346.com/post/2025/0525-mulberry-fruit/",
+          "publishedOn": "2025-05-25T13:55:29.000Z",
+          "wordCount": 304,
+          "title": "武汉采摘树莓-黄陂七颗莓生态园",
+          "imageUrl": null
+        },
         {
           "id": "https://4311346.com/post/2025/0513-zuzhi.html",
           "author": null,
@@ -4888,26 +4883,6 @@
           "wordCount": 344,
           "title": "面试禁用 LLM：是坚守底线，还是错失未来？",
           "imageUrl": "https://blog.panzhixiang.cn/images/ai-interview-anthropic-economic-index.png"
-        },
-        {
-          "id": "https://panzhixiang.cn/2025/how-to-operate-wechat/",
-          "author": null,
-          "description": "<p><strong>当AI十分钟就能生成一篇热点文章，我们还有必要坚持原创吗？</strong></p>\n<h2 id=\"00-退群：在批量生产的狂欢里选择离席\"><a href=\"#00-退群：在批量生产的狂欢里选择离席\" class=\"headerlink\"",
-          "link": "https://panzhixiang.cn/2025/how-to-operate-wechat/",
-          "publishedOn": "2025-02-24T16:00:00.000Z",
-          "wordCount": 253,
-          "title": "流量时代里，我不想成为 AI 洗稿流水线上的螺丝钉",
-          "imageUrl": "https://blog.panzhixiang.cn/images/wechat-buy-fans.png"
-        },
-        {
-          "id": "https://panzhixiang.cn/2025/%E6%9C%AA%E5%91%BD%E5%90%8D/",
-          "author": null,
-          "description": "<p><strong>当AI十分钟就能生成一篇热点文章，我们还有必要坚持原创吗？</strong></p>\n<h2 id=\"00-退群：在批量生产的狂欢里选择离席\"><a href=\"#00-退群：在批量生产的狂欢里选择离席\" class=\"headerlink\"",
-          "link": "https://panzhixiang.cn/2025/%E6%9C%AA%E5%91%BD%E5%90%8D/",
-          "publishedOn": "2025-02-24T16:00:00.000Z",
-          "wordCount": 254,
-          "title": "流量时代里，我不想成为 AI 洗稿流水线上的螺丝钉",
-          "imageUrl": "https://blog.panzhixiang.cn/images/wechat-buy-fans.png"
         }
       ]
     },
