@@ -186,6 +186,16 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
+          "id": "https://daverupert.com/2025/05/take-my-hand-precious-lord/",
+          "author": null,
+          "description": "Take My Hand, Precious Lord (also known as the inverse Precious Lord, Take My Hand) is an old gospel hymn with a unique and special tie-in to the American Civil Rights story. Written in 1932 by Thomas Dorsey after he co-founded National Convention of Gospel Choirs and Choruses (NCGCC), the tune borrowed from a 1844 hymn called “Maitland” (George N. Allan) and took inspiration from a performance of the song by Blind Connie Williams.\nThe song was written after the death of Dorsey’s wife Nettie and his son during childbirth. Tragic doesn’t even begin to describe the situation. You feel the heartache in the simple refrain, “I am tired, I am weak, I am worn”. It’s a cry for help and comfort beyond what the world can offer.\nOne notable fan of the song was MLK. Dr. King would often asked Mahalia …",
+          "link": "https://daverupert.com/2025/05/take-my-hand-precious-lord/",
+          "publishedOn": "2025-05-27T14:19:00.000Z",
+          "wordCount": 1194,
+          "title": "Take My Hand, Precious Lord",
+          "imageUrl": null
+        },
+        {
           "id": "https://daverupert.com/2025/05/vibe-check-38/",
           "author": null,
           "description": "It’s been an eventful three months since my last update. I nearly burnt myself out powering through a big internal release at work in February, a season of back-to-back family activities March and April, I turned 45 at the end of April and school lets out next week. Summer has begun.\nAnd let’s be honest, we could blame the tardiness of this post on a lot of issues: the rise of fascist authoritarianism in America, busy home life, busy career, nights at the ball field… But we all know the real reason this post is months overdue: Balatro.\nInternal-source work project launched\nI devoted a lot of my Q1 life force to getting an internal work project out the door. It’s an internal design system that’s a sibling of the open source design system I work on but has more components, smaller API surfac…",
@@ -748,16 +758,6 @@
             "length": "0"
           },
           "imageUrl": "https://srebro.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https%3A%2F%2Fs3api.srebro.cn%2Fsrebro%2Fpicture%2FC210D961-8DBC-4486-981B-E583181FFE4A.png&size=m"
-        },
-        {
-          "id": "/archives/1740643397650",
-          "author": "运维小弟",
-          "description": "华为 VRP 系统简介&配置SSH/TELNET远程登录 1.华为 VRP 系统概述 1.1 什么是 VRP VRP（Versatile Routing Platform 华为数通设备操作系统）是华为公司数据通信产品的通用操作系统平台，从低端到核心的全系列路由器、以太网交换机、业务网关等产品的软件核",
-          "link": "https://srebro.cn/archives/1740643397650",
-          "publishedOn": "2025-02-27T08:03:41.000Z",
-          "wordCount": 2397,
-          "title": "华为 VRP 系统简介&配置SSH,TELNET远程登录",
-          "imageUrl": "null"
         }
       ]
     },
@@ -1079,16 +1079,6 @@
           "wordCount": 1071,
           "title": "超越 Sidecar：深入解析 Istio Ambient Mode 的流量机制与成本效益",
           "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
-        },
-        {
-          "id": "https://jimmysong.io/blog/istio-installation-deep-dive/",
-          "author": "Jimmy Song",
-          "description": "随着 Istio 版本迭代，其的安装方式和工具链也在不断演进。从 istioctl 到 Helm，再到曾经的 Istio Operator，用户常常会面临选择困境：到底哪种方式最适合我的场景？在最近的交流中，我经常遇到关于 Istio 安装方式选择的问题，特别是围绕 IstioOperator API 和已废弃的 Istio Operator 组件的区别。今天，我将以技术实践者的视角，带你梳理 Istio 的安装之道，拆解关键问题，并给出生产级建议。\nIstio 安装方式一览\nIstio 提供了多种安装路径，每种方式都有其设计初衷和适用场景。以下是当前主流选项：\nistioctl：官方推荐的安装工具，集验证、定制和运维于一体，几乎是生产环境的标配。\nHelm：Kubernetes 生态的包管理利器，适合 Helm 重度用户或 CI/CD 集成场景。\nIstio Operator（已废弃）：曾经的集群内管理方案，如今已退出历史舞台。\n接下来，我们逐一剖析这些方式的核心特点，以及背后的取舍逻辑。\nistioctl：生产环境的不二之选\n在 Istio 中，istioctl 被官方定位为首选安装工具。它的优势显而易见：\n强大的配置验证：在安装前，istioctl 会对配置进行静态检查，避免潜在问题。比如，使用 istioctl analyze 可以快速定位配置文件中的错误。\n灵活的定制能力：通过 IstioOperator API，你可以精确控制安装细节，比如只启用 Pilot 或调整网关配置。\n生产就绪的特性：从健康检查（istioctl verify-install）到增量升级，istioctl 提供了全生命周期支持。\n安全优先：相较于集群内控制器，istioctl 在本地运行，避免了高权限组件带来的安全隐患。\n实践中的一个简单例子：\nistioctl install --se…",
-          "link": "https://jimmysong.io/blog/istio-installation-deep-dive/",
-          "publishedOn": "2025-02-27T05:47:35.000Z",
-          "wordCount": 445,
-          "title": "Istio 安装方式深度剖析——选择与实践指南",
-          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
         }
       ]
     },
@@ -1285,6 +1275,26 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=301286",
+          "author": "Brandon Lee",
+          "description": "If you are looking for great deals on cheap NVMe storage for your home lab, gaming computer, creator machine, or something else, here are three drives that are super cheap for large amounts of blazing fast NVMe storage. Disclosure: The links below are monetized by the Amazon affiliate programs and I earn a small commission from those …\nThe post Daily Tech Deals May 27 2025 – Cheap NVMe! appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/05/daily-tech-deals-may-25-2025-cheap-nvme/",
+          "publishedOn": "2025-05-27T20:27:36.000Z",
+          "wordCount": 8203,
+          "title": "Daily Tech Deals May 27 2025 – Cheap NVMe!",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/2025-05-27-15-28-41.jpg"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=301272",
+          "author": "Brandon Lee",
+          "description": "This is one of those topics that can usually get some good discussions going and one that is thought provoking, especially with the hardware that is coming down the pipes this year. I am super excited about the NAS market this year and I really think we have new models that I am honestly just …\nThe post Will Powerful NAS Devices Kill the Mini PC Market in 2025? appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/05/will-powerful-nas-devices-kill-the-mini-pc-market-in-2025/",
+          "publishedOn": "2025-05-27T15:02:00.000Z",
+          "wordCount": 11458,
+          "title": "Will Powerful NAS Devices Kill the Mini PC Market in 2025?",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/Will-Powerful-NAS-Devices-Kill-the-Mini-PC-Market-in-2025.jpg"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=301235",
           "author": "Brandon Lee",
@@ -2174,26 +2184,6 @@
           "wordCount": 9998,
           "title": "List of Compatible Mini PCs with 128 GB RAM Kit",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/List-of-Compatible-Mini-PCs.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=299688",
-          "author": "Brandon Lee",
-          "description": "Below are a few daily tech deals take note of. We are all on the lookout for good tech at reasonable prices. Check out a very cool Anker Docking Station 13 in 1 that is 26% off. The SanDisk 1TB Extreme PRO USB 3.2 Solid State Flash Drive is 24% off. The WD_BLACK 2TB SN770M …\nThe post Daily Tech Deals February 26 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/02/daily-tech-deals-february-26-2025/",
-          "publishedOn": "2025-02-26T16:43:59.000Z",
-          "wordCount": 8573,
-          "title": "Daily Tech Deals February 26 2025",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/image-19.jpeg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=299665",
-          "author": "Brandon Lee",
-          "description": "As we are now near to the last month in the first quarter of 2025, there are many developments that I am excited about when it comes to home lab hardware. It seems like there are more powerful hardware options now than ever before. I wanted to give you all a look at the home …\nThe post Home Lab Hardware I’m Most Excited About in 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/02/home-lab-hardware-im-most-excited-about-in-2025/",
-          "publishedOn": "2025-02-26T14:34:36.000Z",
-          "wordCount": 9924,
-          "title": "Home Lab Hardware I’m Most Excited About in 2025",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/awesome-home-lab-hardware.png"
         }
       ]
     },
@@ -3141,76 +3131,6 @@
           "wordCount": 3563,
           "title": "Bridging the Gap Between DevOps and Marketing Automation",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=28797",
-          "author": "Collabnix Team",
-          "description": "NVIDIA’s NIM (Neural Inference Microservices) provides developers an efficient way to deploy optimized AI models from various sources, including community partners and NVIDIA itself. As part of the NVIDIA AI Enterprise suite, NIM offers a streamlined path to quickly iterate on and build innovative generative AI solutions. With NIM, you can easily deploy a microservice […]",
-          "link": "https://collabnix.com/deploying-nvidia-nim-for-generative-ai-applications/",
-          "publishedOn": "2025-02-27T07:56:49.000Z",
-          "wordCount": 3250,
-          "title": "Deploying NVIDIA NIM for Generative AI Applications",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30693",
-          "author": "Ajeet Raina",
-          "description": "I recently had the opportunity to collaborate with Raveendiran RR, a Docker Community Speaker and Generative AI enthusiast, to present on this exciting topic at Cloud-Native LLMOps Day in Bengaluru. Together, we explored the transformative potential of Model Context Protocol in modern AI development workflows, sharing insights with the vibrant tech community. This blog post expands on the key […]",
-          "link": "https://collabnix.com/integration-of-model-context-protocol-and-docker-ai-agent-under-docker-desktop/",
-          "publishedOn": "2025-02-27T04:15:19.000Z",
-          "wordCount": 5091,
-          "title": "Integration of Model Context Protocol and Docker AI Agent under Docker Desktop",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2025/02/Screenshot-2025-02-28-at-11.18.29%E2%80%AFAM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=30660",
-          "author": "Adesoji Alu",
-          "description": "Introduction to DeepSeek-R1 and Ollama In the era of generative AI, efficiently deploying large language models (LLMs) in production environments has become crucial for developers and organizations. DeepSeek-R1 is a powerful quantitative LLM developed for complex natural language processing tasks, offering state-of-the-art performance in text generation, question answering, and semantic analysis. Its optimized architecture makes […]",
-          "link": "https://collabnix.com/deploy-deepseek-r1-using-ollama-operator-on-kubernetes/",
-          "publishedOn": "2025-02-27T03:50:51.000Z",
-          "wordCount": null,
-          "title": "Deploy DeepSeek-R1 using Ollama-Operator on Kubernetes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30543",
-          "author": "Adesoji Alu",
-          "description": "In the rapidly evolving landscape of AI development, Ollama has emerged as a game-changing tool for running Large Language Models locally. With over 43,000+ GitHub stars and 2000+ forks, Ollama has become the go-to solution for developers seeking to integrate LLMs into their local development workflow. The Rise of Ollama: By the Numbers – 43k+ […]",
-          "link": "https://collabnix.com/how-to-run-llms-locally-with-ollama/",
-          "publishedOn": "2025-02-27T02:48:14.000Z",
-          "wordCount": null,
-          "title": "How to Run LLMs Locally with Ollama",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30459",
-          "author": "Ajeet Raina",
-          "description": "You might wonder “What does Docker Desktop have to do with AI?” The answer lies in Ask Gordon, an innovative AI-powered assistant that’s now integrated into both Docker Desktop and the Docker CLI. This integration represents a significant step forward in making the Docker ecosystem more accessible and efficient for developers. What is Ask Gordon? […]",
-          "link": "https://collabnix.com/ask-gordon-and-model-context-protocol-mcp-working-together/",
-          "publishedOn": "2025-02-27T02:46:55.000Z",
-          "wordCount": 3906,
-          "title": "Ask Gordon and Model Context Protocol (MCP) – Working Together",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2025/02/Screenshot-2025-02-14-at-7.33.54%E2%80%AFAM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=30539",
-          "author": "Ajeet Raina",
-          "description": "Docker containers provide excellent isolation for applications, but accessing physical USB devices within a container can be challenging. By leveraging the USB/IP protocol, you can share USB devices over the network and use them in Docker containers. This guide will walk you through: We’ll use USB/IP, nsenter, and Docker to facilitate USB over IP and […]",
-          "link": "https://collabnix.com/integrating-usb-ip-into-docker-desktop-is-now-possible/",
-          "publishedOn": "2025-02-27T01:42:09.000Z",
-          "wordCount": 3483,
-          "title": "Integrating USB/IP into Docker Desktop is Now Possible",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2025/02/Screenshot-2025-02-19-at-8.05.51%E2%80%AFPM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=30788",
-          "author": "Tanvir Kour",
-          "description": "Explore what UI, UX, and graphic designs are and how they are connected. Learn the importance of designing for a good user experience and actionable ways to achieve that.",
-          "link": "https://collabnix.com/what-is-graphic-design-and-ux-ui-design/",
-          "publishedOn": "2025-02-26T18:27:30.000Z",
-          "wordCount": 3015,
-          "title": "What is Graphic Design and UX/UI Design?",
-          "imageUrl": null
         }
       ]
     },
@@ -3405,16 +3325,6 @@
           "wordCount": 121,
           "title": "以终为始，面向价值观生活",
           "imageUrl": null
-        },
-        {
-          "id": "https://limboy.me/posts/ai-programming",
-          "author": null,
-          "description": "大概半年前，我开始接触 AI 编程助手，例如 Cursor 和 GitHub Copilot。简单试用后，感觉不太顺手，就暂时搁置了。当时我的感受是：",
-          "link": "https://limboy.me/posts/ai-programming",
-          "publishedOn": "2025-02-27T00:00:00.000Z",
-          "wordCount": 320,
-          "title": "AI 辅助编程的崛起意味着什么？",
-          "imageUrl": null
         }
       ]
     },
@@ -3585,16 +3495,6 @@
           "wordCount": 477,
           "title": "新项目RSS to Email上线",
           "imageUrl": ""
-        },
-        {
-          "id": "https://www.skyue.com/25022622.html",
-          "author": "拾月",
-          "description": "邮件通讯好久没更新了，尝试恢复更新，也是一次测试，至于测试什么，留下悬念容我下回分解。以下是从收藏夹捞的文章，不那么近期看的。☆ 最好的致敬是学习：DeepSeek R1赏析\\_哔哩哔哩\\_bi...",
-          "link": "https://www.skyue.com/25022622.html",
-          "publishedOn": "2025-02-26T14:27:00.000Z",
-          "wordCount": 476,
-          "title": "拾月推荐（第38期）",
-          "imageUrl": ""
         }
       ]
     },
@@ -3603,6 +3503,16 @@
       "feedUrl": "https://bluehe.cn/rss.xml",
       "siteUrl": "https://bluehe.cn/",
       "articles": [
+        {
+          "id": "https://bluehe.cn/archives/traffic-accident-2",
+          "author": "寻鹤",
+          "description": "[前一篇内容信息][1]\n来着某交警支队的责任道路交通事故认定书（简易程序）\n\n2024 年xx 月xx 日xx 时xx 分，（对方）驾驶南宁xxx 旧国标二轮电动自行车，沿平乐大道辅道北往南行驶至南宁市良庆区平乐大道平江路口时，与前方同向行驶的（父亲）驾...",
+          "link": "https://bluehe.cn/archives/traffic-accident-2",
+          "publishedOn": "2025-05-27T04:04:00.000Z",
+          "wordCount": 552,
+          "title": "父亲的交通事故后续",
+          "imageUrl": null
+        },
         {
           "id": "https://bluehe.cn/archives/gx-st-museum",
           "author": "寻鹤",
@@ -4238,6 +4148,16 @@
           "publishedOn": "2025-05-13T03:02:22.000Z",
           "wordCount": 642,
           "title": "什么是NAT？NAS远程访问绕不开的网络魔法",
+          "imageUrl": "https://img.dreamlyn.cn:8443/i/2024/02/22/115030.webp"
+        },
+        {
+          "id": "https://www.dreamlyn.cn/1129065187.html",
+          "author": null,
+          "description": "<p>向量数据库（Vector Database）是近年来随着大语言模型（LLM）和语义搜索发展而火起来的一种新型数据库。它的目标是支持<strong>基于“语义相似度”的高效搜索</strong>，与传统数据库按关键字精确匹配不同。</p>\n<hr>\n<h2 id=\"🧠-一、",
+          "link": "https://www.dreamlyn.cn/1129065187.html",
+          "publishedOn": "2025-05-05T02:05:59.000Z",
+          "wordCount": 766,
+          "title": "向量数据库介绍",
           "imageUrl": "https://img.dreamlyn.cn:8443/i/2024/02/22/115030.webp"
         }
       ]
