@@ -167,16 +167,6 @@
           "wordCount": 282,
           "title": "观点：晚期胆道癌（BTC）治疗的进展与困境",
           "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
-        },
-        {
-          "id": "http://whyes.org/2025/hcc-tace-systemic-therapy",
-          "author": null,
-          "description": "近日，EMERALD-1 和 LEAP-012 研究的结果同期发表在 Lancet 杂志上。在今年的 ASCO GI 会议上，一项来自国内的研究者发起的 II 期研究（CARES-005）也公布了主要研究结果。这几项研究在设计存在一些差别，...",
-          "link": "http://whyes.org/2025/hcc-tace-systemic-therapy",
-          "publishedOn": "2025-02-27T14:58:56.000Z",
-          "wordCount": 372,
-          "title": "中晚期肝癌：系统治疗与局部治疗要不要联合？如何联合？",
-          "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
         }
       ]
     },
@@ -600,6 +590,16 @@
       "siteUrl": "https://srebro.cn/",
       "articles": [
         {
+          "id": "/archives/1748417204037",
+          "author": "运维小弟",
+          "description": "使用 Node Exporter textfile 自定义指标收集器 比如我们要收集服务器的CPU 温度，他的实时值可以通过/sys/class/thermal/thermal_zone0/temp 获取 核心概念： * 将自定义的指标数据（例如温度、应用状态、业务指标等）写入文本文件。 * Nod",
+          "link": "https://srebro.cn/archives/1748417204037",
+          "publishedOn": "2025-05-28T07:26:56.000Z",
+          "wordCount": null,
+          "title": "使用 Node Exporter textfile 自定义指标收集器",
+          "imageUrl": null
+        },
+        {
           "id": "/archives/1748146487815",
           "author": "运维小弟",
           "description": "Domain Admin 介绍 Domain Admin是一个基于Python + Vue3.js 技术栈实现的域名和SSL证书监测平台，支持申请证书，自动续签，到期提醒，支持独立部署 的一个轻量级监控方案，占用系统资源较少。 🚢 项目地址 Github：https://github.com/dr",
@@ -972,16 +972,6 @@
           "wordCount": 183,
           "title": "AI 实践｜零成本生成SEO友好的TDK落地方案",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.ops-coffee.cn/s/ai-powered-project-creation-from-start-to-finish.html",
-          "author": null,
-          "description": "全程借助 AI 工具 Trae，从 0 到 1 打造简易 RSS 阅读器，分享使用过程、工具特性、实操难题及使用经验",
-          "link": "https://blog.ops-coffee.cn/s/ai-powered-project-creation-from-start-to-finish.html",
-          "publishedOn": "2025-02-27T17:26:28.000Z",
-          "wordCount": 87,
-          "title": "全程使用 AI 从 0 到 1 写了个小工具",
-          "imageUrl": null
         }
       ]
     },
@@ -990,6 +980,16 @@
       "feedUrl": "https://jimmysong.io/blog/index.xml",
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
+        {
+          "id": "https://jimmysong.io/blog/envoy-dynamic-module-tutorial/",
+          "author": "Jimmy Song",
+          "description": "在上一篇《理解 Envoy 的扩展与集成机制：从内置扩展到动态模块》中，我系统梳理了 Envoy 的各类扩展与集成方式，并特别推荐了 Dynamic Module 这一新兴机制。本篇将围绕 Dynamic Module 的原理与完整实操，帮助你高效掌握 Envoy 原生扩展的落地方案。\n什么是 Dynamic Module？\nDynamic Module 是 Envoy Proxy v1.34 起引入的实验特性，允许开发者以共享库（.so）形式动态加载自定义扩展。它不依赖虚拟机或外部进程，直接通过 C ABI 与主进程对接，具有极高性能和现代 SDK 支持（如官方 Rust SDK）。\n技术原理\nDynamic Module 本质上是一个实现了特定 ABI 入口的共享库（.so），通过定义在 C 头文件中的接口与 Envoy 进行交互。当前官方主推 Rust SDK（类型安全，开发体验佳），但也可用 Go、C++ 等语言编译出 C ABI 兼容的动态库。社区已经有 Go 的实验性实现。\n通过 ENVOY_DYNAMIC_MODULES_SEARCH_PATH 环境变量设置查找路径\n.so 文件命名需符合 lib{name}.so 规则，其中 {name} 对应配置文件的 dynamic_module_config.name\n加载后直接作为 HTTP Filter 加入请求处理链，与原生 Filter 平权\n注意：Dynamic Module 与主进程完全共享内存和权限，无隔离机制，安全级别等同于原生 C++ 扩展，务必只加载可信模块。\n优势与局限\n在上一篇文章中我已经总结过不同机制的优缺点。Dynamic Module 的主要优势体现在：\n性能极高：无中间虚拟机，无跨进程/语言序列化，支持高吞吐业务场景\n开发现代：Rust SDK 类型安全、文档完善，开发体验远优于 Was…",
+          "link": "https://jimmysong.io/blog/envoy-dynamic-module-tutorial/",
+          "publishedOn": "2025-05-28T07:34:56.000Z",
+          "wordCount": 618,
+          "title": "深入理解 Envoy Dynamic Module：原理、开发与全流程实战",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
+        },
         {
           "id": "https://jimmysong.io/blog/the-serpent-review/",
           "author": "Jimmy Song",
@@ -1275,6 +1275,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=301294",
+          "author": "Brandon Lee",
+          "description": "This is a NAS device that really intrigued me as it is one of the coolest small form factor NAS devices I have seen. It packs some pretty serious performance for its size and can run something like TrueNAS as well for storage in your home lab or as a target for something like Proxmox. …\nThe post Beelink ME Mini NAS Review: Ultra-Compact Storage with 24TB Potential appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/05/beelink-me-mini-nas-review-ultra-compact-storage-with-24tb-potential/",
+          "publishedOn": "2025-05-28T12:50:18.000Z",
+          "wordCount": 13090,
+          "title": "Beelink ME Mini NAS Review: Ultra-Compact Storage with 24TB Potential",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/Beelink-ME-Mini-NAS-Review.jpg"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=301286",
           "author": "Brandon Lee",
@@ -2164,26 +2174,6 @@
           "wordCount": 8630,
           "title": "Daily Tech Deals February 28 2025",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/image-24.jpeg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=299712",
-          "author": "Brandon Lee",
-          "description": "Just yesterday at the time of this writing, Warp terminal for Windows was released, rounding out support for all the major OS’es, including macOS and Linux. Could Warp be the best terminal for DevOps? Let’s discuss this a bit further and see what the verdict may be. I do think we have entered a new …\nThe post Best Terminal for DevOps Just Landed! appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/02/best-terminal-for-devops-just-landed/",
-          "publishedOn": "2025-02-28T13:38:30.000Z",
-          "wordCount": 10475,
-          "title": "Best Terminal for DevOps Just Landed!",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/Best-Terminal-for-DevOps.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=299697",
-          "author": "Brandon Lee",
-          "description": "So I have been talking a lot about RAM lately since the release of the Crucial 128 GB SODIMM RAM kit. I received my kit and have been testing it in the mini PCs that I have in my home lab and that I have reviewed over the course of 2024. I wanted to put …\nThe post List of Compatible Mini PCs with 128 GB RAM Kit appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/02/list-of-compatible-mini-pcs-with-128-gb-ram-kit/",
-          "publishedOn": "2025-02-27T15:13:44.000Z",
-          "wordCount": 9998,
-          "title": "List of Compatible Mini PCs with 128 GB RAM Kit",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/02/List-of-Compatible-Mini-PCs.png"
         }
       ]
     },
@@ -3121,16 +3111,6 @@
           "wordCount": 2756,
           "title": "Kubectl Quick Reference 2025",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30805",
-          "author": "Tanvir Kour",
-          "description": "Though they operate in different spheres, DevOps and marketing automation share common goals. These include improving efficiency, reducing manual work",
-          "link": "https://collabnix.com/bridging-the-gap-between-devops-and-marketing-automation/",
-          "publishedOn": "2025-02-28T08:25:28.000Z",
-          "wordCount": 3563,
-          "title": "Bridging the Gap Between DevOps and Marketing Automation",
-          "imageUrl": null
         }
       ]
     },
@@ -3314,16 +3294,6 @@
           "publishedOn": "2025-03-15T00:00:00.000Z",
           "wordCount": 217,
           "title": "理想的文本内容创作、分发和消费系统",
-          "imageUrl": null
-        },
-        {
-          "id": "https://limboy.me/posts/value-oriented-life",
-          "author": null,
-          "description": "不知道从什么时候开始，对坐飞机开始有种难以言说的恐惧。害怕被一个钢铁巨鸟带到离地万米的高空，害怕那无法预知的颠簸，更害怕自己对此无能为力。但生活又是充满着不得不飞的时刻，这反而促使我开始了一场逆向思考：假如我不幸在某次飞行中丧生，回顾这一生，是否留有遗憾？",
-          "link": "https://limboy.me/posts/value-oriented-life",
-          "publishedOn": "2025-02-28T00:00:00.000Z",
-          "wordCount": 121,
-          "title": "以终为始，面向价值观生活",
           "imageUrl": null
         }
       ]
@@ -4925,16 +4895,6 @@
           "publishedOn": "2025-03-15T03:50:00.000Z",
           "wordCount": 499,
           "title": "Chat2DB 数据库客户端邀请码",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.52itstyle.vip/archives/5618/",
-          "author": "柒",
-          "description": "iView中时间控件选择的时间总是少一天？",
-          "link": "https://blog.52itstyle.vip/archives/5618/",
-          "publishedOn": "2025-02-28T07:21:00.000Z",
-          "wordCount": 527,
-          "title": "iView中时间控件选择的时间总是少一天？",
           "imageUrl": null
         }
       ]

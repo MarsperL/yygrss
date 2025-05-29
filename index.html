@@ -59,8 +59,8 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-05-28 datetime="2025-05-27T20:27:36.000Z">2025-05-28</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-05-28 datetime="2025-05-27T20:27:36.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-05-28 datetime="2025-05-28T12:50:18.000Z">2025-05-28</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-05-28 datetime="2025-05-28T12:50:18.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
@@ -79,6 +79,27 @@
                       <details
                         class="article-expander"
                         data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.virtualizationhowto.com/?p&#x3D;301294"
+                        open
+                      >
+                        <summary class="article-expander__title">Beelink ME Mini NAS Review: Ultra-Compact Storage with 24TB Potential</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.virtualizationhowto.com/2025/05/beelink-me-mini-nas-review-ultra-compact-storage-with-24tb-potential/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.virtualizationhowto.com/wp-content/uploads/2025/05/Beelink-ME-Mini-NAS-Review.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>This is a NAS device that really intrigued me as it is one of the coolest small form factor NAS devices I have seen. It packs some pretty serious performance for its size and can run something like TrueNAS as well for storage in your home lab or as a target for something like Proxmox. …
+The post Beelink ME Mini NAS Review: Ultra-Compact Storage with 24TB Potential appeared first on Virtualization Howto.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;44
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
                         data-accordion-key="https://www.virtualizationhowto.com/?p&#x3D;301286"
                         open
                       >
@@ -91,6 +112,83 @@
 The post Daily Tech Deals May 27 2025 – Cheap NVMe! appeared first on Virtualization Howto.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;27
                                   min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Jimmy Song – 博客</button>
+                  <a class="source-heading__link" href="https://jimmysong.io/blog/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://jimmysong.io/blog/envoy-dynamic-module-tutorial/"
+                        open
+                      >
+                        <summary class="article-expander__title">深入理解 Envoy Dynamic Module：原理、开发与全流程实战</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://jimmysong.io/blog/envoy-dynamic-module-tutorial/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://jimmysong.io/images/backgrounds/favicon.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>在上一篇《理解 Envoy 的扩展与集成机制：从内置扩展到动态模块》中，我系统梳理了 Envoy 的各类扩展与集成方式，并特别推荐了 Dynamic Module 这一新兴机制。本篇将围绕 Dynamic Module 的原理与完整实操，帮助你高效掌握 Envoy 原生扩展的落地方案。
+什么是 Dynamic Module？
+Dynamic Module 是 Envoy Proxy v1.34 起引入的实验特性，允许开发者以共享库（.so）形式动态加载自定义扩展。它不依赖虚拟机或外部进程，直接通过 C ABI 与主进程对接，具有极高性能和现代 SDK 支持（如官方 Rust SDK）。
+技术原理
+Dynamic Module 本质上是一个实现了特定 ABI 入口的共享库（.so），通过定义在 C 头文件中的接口与 Envoy 进行交互。当前官方主推 Rust SDK（类型安全，开发体验佳），但也可用 Go、C++ 等语言编译出 C ABI 兼容的动态库。社区已经有 Go 的实验性实现。
+通过 ENVOY_DYNAMIC_MODULES_SEARCH_PATH 环境变量设置查找路径
+.so 文件命名需符合 lib{name}.so 规则，其中 {name} 对应配置文件的 dynamic_module_config.name
+加载后直接作为 HTTP Filter 加入请求处理链，与原生 Filter 平权
+注意：Dynamic Module 与主进程完全共享内存和权限，无隔离机制，安全级别等同于原生 C++ 扩展，务必只加载可信模块。
+优势与局限
+在上一篇文章中我已经总结过不同机制的优缺点。Dynamic Module 的主要优势体现在：
+性能极高：无中间虚拟机，无跨进程/语言序列化，支持高吞吐业务场景
+开发现代：Rust SDK 类型安全、文档完善，开发体验远优于 Was…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >运维小弟</button>
+                  <a class="source-heading__link" href="https://srebro.cn/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="/archives/1748417204037"
+                        open
+                      >
+                        <summary class="article-expander__title">使用 Node Exporter textfile 自定义指标收集器</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://srebro.cn/archives/1748417204037">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>使用 Node Exporter textfile 自定义指标收集器 比如我们要收集服务器的CPU 温度，他的实时值可以通过/sys/class/thermal/thermal_zone0/temp 获取 核心概念： * 将自定义的指标数据（例如温度、应用状态、业务指标等）写入文本文件。 * Nod</span>
                             </span>
                           </div>
                         </a>
@@ -16447,60 +16545,6 @@ The post Daily Tech Deals February 28 2025 appeared first on Virtualization Howt
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.virtualizationhowto.com/?p&#x3D;299712"
-                        open
-                      >
-                        <summary class="article-expander__title">Best Terminal for DevOps Just Landed!</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.virtualizationhowto.com/2025/02/best-terminal-for-devops-just-landed/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.virtualizationhowto.com/wp-content/uploads/2025/02/Best-Terminal-for-DevOps.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Just yesterday at the time of this writing, Warp terminal for Windows was released, rounding out support for all the major OS’es, including macOS and Linux. Could Warp be the best terminal for DevOps? Let’s discuss this a bit further and see what the verdict may be. I do think we have entered a new …
-The post Best Terminal for DevOps Just Landed! appeared first on Virtualization Howto.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;35
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Collabnix</button>
-                  <a class="source-heading__link" href="https://collabnix.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://collabnix.com/?p&#x3D;30805"
-                        open
-                      >
-                        <summary class="article-expander__title">Bridging the Gap Between DevOps and Marketing Automation</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://collabnix.com/bridging-the-gap-between-devops-and-marketing-automation/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Though they operate in different spheres, DevOps and marketing automation share common goals. These include improving efficiency, reducing manual work</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;12
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -16578,101 +16622,6 @@ kubectl apply -f kubemark-config.yaml
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >柒&#x27;s Blog</button>
-                  <a class="source-heading__link" href="https://blog.52itstyle.vip/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://blog.52itstyle.vip/archives/5618/"
-                        open
-                      >
-                        <summary class="article-expander__title">iView中时间控件选择的时间总是少一天？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://blog.52itstyle.vip/archives/5618/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>iView中时间控件选择的时间总是少一天？</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Limboy&#x27;s Essays</button>
-                  <a class="source-heading__link" href="https://limboy.me/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://limboy.me/posts/value-oriented-life"
-                        open
-                      >
-                        <summary class="article-expander__title">以终为始，面向价值观生活</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://limboy.me/posts/value-oriented-life">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>不知道从什么时候开始，对坐飞机开始有种难以言说的恐惧。害怕被一个钢铁巨鸟带到离地万米的高空，害怕那无法预知的颠簸，更害怕自己对此无能为力。但生活又是充满着不得不飞的时刻，这反而促使我开始了一场逆向思考：假如我不幸在某次飞行中丧生，回顾这一生，是否留有遗憾？</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >运维咖啡吧</button>
-                  <a class="source-heading__link" href="https://blog.ops-coffee.cn">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://blog.ops-coffee.cn/s/ai-powered-project-creation-from-start-to-finish.html"
-                        open
-                      >
-                        <summary class="article-expander__title">全程使用 AI 从 0 到 1 写了个小工具</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://blog.ops-coffee.cn/s/ai-powered-project-creation-from-start-to-finish.html">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>全程借助 AI 工具 Trae，从 0 到 1 打造简易 RSS 阅读器，分享使用过程、工具特性、实操难题及使用经验</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
       <section class="daily-content js-toggle-accordions-scope">
@@ -16682,80 +16631,11 @@ kubectl apply -f kubemark-config.yaml
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-02-27 datetime="2025-02-27T15:13:44.000Z">2025-02-27</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-02-27 datetime="2025-02-27T15:13:44.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-02-27 datetime="2025-02-27T00:18:10.000Z">2025-02-27</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-02-27 datetime="2025-02-27T00:18:10.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Virtualization Howto</button>
-                  <a class="source-heading__link" href="https://www.virtualizationhowto.com/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.virtualizationhowto.com/?p&#x3D;299697"
-                        open
-                      >
-                        <summary class="article-expander__title">List of Compatible Mini PCs with 128 GB RAM Kit</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.virtualizationhowto.com/2025/02/list-of-compatible-mini-pcs-with-128-gb-ram-kit/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.virtualizationhowto.com/wp-content/uploads/2025/02/List-of-Compatible-Mini-PCs.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>So I have been talking a lot about RAM lately since the release of the Crucial 128 GB SODIMM RAM kit. I received my kit and have been testing it in the mini PCs that I have in my home lab and that I have reviewed over the course of 2024. I wanted to put …
-The post List of Compatible Mini PCs with 128 GB RAM Kit appeared first on Virtualization Howto.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;33
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >whyes 的博客</button>
-                  <a class="source-heading__link" href="http://whyes.org/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://whyes.org/2025/hcc-tace-systemic-therapy"
-                        open
-                      >
-                        <summary class="article-expander__title">中晚期肝癌：系统治疗与局部治疗要不要联合？如何联合？</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="http://whyes.org/2025/hcc-tace-systemic-therapy">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process&#x3D;style/ss" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>近日，EMERALD-1 和 LEAP-012 研究的结果同期发表在 Lancet 杂志上。在今年的 ASCO GI 会议上，一项来自国内的研究者发起的 II 期研究（CARES-005）也公布了主要研究结果。这几项研究在设计存在一些差别，...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;1
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -19073,8 +18953,8 @@ custom.ts 文件
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/MarsperL/yygrss/actions/runs/15289806921">
-        <time id="build-timestamp" datetime="2025-05-28T02:05:28.298Z">2025-05-28T02:05:28.298Z</time>
+      <a class="footer-link" href="https://github.com/MarsperL/yygrss/actions/runs/15314589873">
+        <time id="build-timestamp" datetime="2025-05-29T02:05:08.360Z">2025-05-29T02:05:08.360Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
