@@ -159,6 +159,16 @@
       "siteUrl": "http://whyes.org/",
       "articles": [
         {
+          "id": "http://whyes.org/2025/zanidatamab-her2-btc",
+          "author": null,
+          "description": "胆道系统肿瘤（BTC）是一组肿瘤的统称，包括胆管癌（肝内胆管癌、肝门胆管癌和远端胆管癌）和胆囊癌。不同部位的 BTC 都是来源于胆道上皮细胞的癌变，生物学特征相似，抗肿瘤治疗方案也相似。如前文的讨论【链接】，不可切除或晚期 BTC 的治疗很...",
+          "link": "http://whyes.org/2025/zanidatamab-her2-btc",
+          "publishedOn": "2025-05-31T00:51:43.000Z",
+          "wordCount": 265,
+          "title": "泽尼达妥单抗获批用于 HER2 阳性胆道癌的后线治疗（附病例报告）",
+          "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
+        },
+        {
           "id": "http://whyes.org/2025/viewpoint-btc",
           "author": null,
           "description": "胆道癌（biliary tract cancer，BTC）是一组肿瘤的统称，包括胆管癌（肝内胆管癌、肝门胆管癌和远端胆管癌）和胆囊癌。对于可切除 BTC，如果生长在不同的部位，手术方式（切除范围、胆管重建和淋巴结清扫）差别很大。但不同部位的...",
@@ -273,26 +283,6 @@
           "publishedOn": "2025-03-02T15:07:00.000Z",
           "wordCount": 722,
           "title": "Unnecessary",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/03/i-don-t-like-sand/",
-          "author": null,
-          "description": "Happened upon a good example of the problem with AI generated alt text. It’s a gif of the infamous scene from Star Wars Episode II where Hayden Christensen playing Anakin Skywalker tells Natalie Portman’s character Queen Amadala, “I don’t like sand.” It’s the first phrase in the worst lines of dialogue in cinematic history. And here’s how the computer interpreted the gif…\n\nThe AI said “a man and a woman are sitting next to each other and the woman is saying I don’t like sand.” Not only does this miss the context that it’s from the world famous movie Star Wars, it gets the speaker entirely wrong. It OCR’d the text fine, but missed relaying the entire context.\nContext. That’s what alt text is. I’d hypothesize that context is probably one of the biggest reasons why language evolved. A caveman could yell “AHHH!H” to alert others of dangers, but I imagine after a couple rounds of those others would begin asking, “Ok, Grog, I understand you think there’s an AHHH!H out there, but what kiiiiiiind of AHHH!H?”\nMy ears are starting to perk up when I hear the word context. I hear all the time that “You have to give the AI more context and it will give you a better answer.” AI has a lot of vectorized text and image processing nodes, but it’s short on context I guess. Will AI one day have every frame of the expensive-to-license Star Wars franchise indexed in its brain like I do? Or are we the gatherers and keepers of context? Does our capacity for empathy (which allows us to project and inhabit other contexts we don’t necessary have) set humans apart?\nI hate to leave on such an open-ended question, but I think we can all agree… that woman doesn’t like sand.",
-          "link": "https://daverupert.com/2025/03/i-don-t-like-sand/",
-          "publishedOn": "2025-03-01T18:03:00.000Z",
-          "wordCount": 828,
-          "title": "I don't like sand",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/03/the-only-way-to-know-for-sure-is-to-build-a-prototype/",
-          "author": null,
-          "description": "I’ve mentioned Mark Brown’s channel Game Makers Tool Kit many times before. Well, I’m back with another banger about “How to find amazing game ideas”. The whole video is great but I specifically want to highlight something Mark said during the last ten seconds of the video as the credits and video thumbnails started to roll…\nAnd then the final question to answer is… is the game idea actually fun? Because the truth is… our brains are terrible video game simulators. Almost every idea seems fun in our heads. But once we actually make it we’ll realise  that it’s boring, that it’s too complicated, and that it has disastrous  unforeseen design problems. So the only way to know for sure… is to build a prototype.\nThe answer again –and I cannot stress this enough– is prototypes.\n“Our brains are ter…",
-          "link": "https://daverupert.com/2025/03/the-only-way-to-know-for-sure-is-to-build-a-prototype/",
-          "publishedOn": "2025-03-01T17:30:00.000Z",
-          "wordCount": 959,
-          "title": "The only way to know for sure... is to build a prototype",
           "imageUrl": null
         }
       ]
@@ -1286,6 +1276,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=301349",
+          "author": "Brandon Lee",
+          "description": "DeepSeek has set the world buzzing again as it is gaining recognition as a powerful, open-source large language model (LLM) that challenges models from the major tech players. In their newest update to DeepSeek, deepseek r1-0528, they have signification improved performance and added new features. It continues to be a serious contender to other proprietary …\nThe post DeepSeek R1-0528 Released: Open-Source AI Model Rivals GPT-4 and Gemini appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/05/deepseek-r1-0528-released-open-source-ai-model-rivals-gpt-4-and-gemini/",
+          "publishedOn": "2025-05-30T13:37:51.000Z",
+          "wordCount": 10577,
+          "title": "DeepSeek R1-0528 Released: Open-Source AI Model Rivals GPT-4 and Gemini",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/Deepseek-R1-0528.jpg"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=301324",
           "author": "Brandon Lee",
           "description": "Kubernetes is the defacto standard in running containers in a way that is highly available and scalable. There are many other solutions out there, like running multiple Docker hosts, Docker Swarm, Nomad, and others, but Kubernetes is still the standard and the technology to be sure to learn. Recent developments and tools in the realm …\nThe post 5 AI Tools for Kubernetes that will 10X your Home Lab! appeared first on Virtualization Howto.",
@@ -2192,6 +2192,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=32474",
+          "author": "Collabnix Team",
+          "description": "The landscape of local AI development has evolved dramatically in recent years, with developers increasingly seeking privacy-focused, offline-capable solutions for running Large Language Models (LLMs). Two powerful tools have emerged to address this need: OpenWebUI and Docker Model Runner. This comprehensive guide will explore both technologies and demonstrate how to leverage them together for an […]",
+          "link": "https://collabnix.com/how-to-successfully-run-open-webui-with-docker-model-runner/",
+          "publishedOn": "2025-05-30T11:48:35.000Z",
+          "wordCount": 4694,
+          "title": "How to successfully run Open WebUI with Docker Model Runner",
+          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2025/05/Screenshot-2025-05-30-at-5.18.57%E2%80%AFPM.png"
+        },
+        {
+          "id": "https://collabnix.com/?p=32398",
+          "author": "Tanvir Kour",
+          "description": "Starting a small business can be incredibly rewarding. But local business owners need to be aware of the digital threats that can disrupt their best-laid plans. Small and midsize enterprises (SMEs) are under attack by cybercriminals whose efforts are becoming increasingly sophisticated. Keep reading to learn about seven of the most pressing technology threats local […]",
+          "link": "https://collabnix.com/7-technology-threats-local-businesses-should-watch-in-2025/",
+          "publishedOn": "2025-05-30T11:26:08.000Z",
+          "wordCount": null,
+          "title": "7 Technology Threats Local Businesses Should Watch in 2025",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=32130",
           "author": "Tanvir Kour",
@@ -3111,16 +3131,6 @@
           "wordCount": 2323,
           "title": "K8sGPT CheatSheet 2025",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30837",
-          "author": "Collabnix Team",
-          "description": "Kubectl is the command-line interface for interacting with Kubernetes clusters. It allows you to deploy applications, inspect and manage cluster resources, and view logs. This cheatsheet provides a comprehensive reference of commonly used kubectl commands, organized by operation type. Whether you’re new to Kubernetes or an experienced administrator, this guide will help you quickly find […]",
-          "link": "https://collabnix.com/kubectl-quick-reference-2025/",
-          "publishedOn": "2025-03-01T18:44:13.000Z",
-          "wordCount": 2756,
-          "title": "Kubectl Quick Reference 2025",
-          "imageUrl": null
         }
       ]
     },
@@ -3327,16 +3337,6 @@
           "publishedOn": "2025-03-16T13:35:04.000Z",
           "wordCount": 384,
           "title": "小树学装修 - Mesh 组网",
-          "imageUrl": "https://yeshu.cloud/images/android-chrome-192x192.png"
-        },
-        {
-          "id": "https://yeshu.cloud/posts/newsletter-133/",
-          "author": null,
-          "description": "认识忙碌时的自己：当表达欲消失时，我们的大脑在想什么？",
-          "link": "https://yeshu.cloud/posts/newsletter-133/",
-          "publishedOn": "2025-03-02T13:40:46.000Z",
-          "wordCount": 118,
-          "title": "为什么忙起来就没有表达欲？",
           "imageUrl": "https://yeshu.cloud/images/android-chrome-192x192.png"
         }
       ]
