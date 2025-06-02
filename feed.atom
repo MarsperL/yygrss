@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-06-01T02:30:16.459Z</updated>
+    <updated>2025-06-02T02:10:42.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS MCP Servers: Revolutionizing AI-Powered Cloud Development with the Model Context Protocol]]></title>
+        <id>https://collabnix.com/?p=33888</id>
+        <link href="https://collabnix.com/aws-mcp-servers-revolutionizing-ai-powered-cloud-development-with-the-model-context-protocol/"/>
+        <updated>2025-06-01T17:27:18.000Z</updated>
+        <summary type="html"><![CDATA[The landscape of AI-assisted development is evolving rapidly, and AWS Labs has introduced a game-changing suite of specialized MCP servers that bring AWS best practices directly to your development workflow. Whether you’re building cloud-native applications, managing infrastructure, or optimizing costs, AWS MCP Servers are transforming how developers interact with AWS services through AI coding assistants. […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华为折叠屏产品：技术突破还是市场策略——一位普通用户的体验与观察]]></title>
+        <id>https://jimmysong.io/blog/huawei-foldable-tech-and-strategy/</id>
+        <link href="https://jimmysong.io/blog/huawei-foldable-tech-and-strategy/"/>
+        <updated>2025-06-01T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🎧 本文相关播客已上线，欢迎在 这里收听第 6 期节目：华为 MateBook Fold 体验与观察。
+
+今天我在商场体验了华为新推出的 MateBook Fold 非凡大师。这款售价两万多元的折叠屏笔记本，被宣传为“全球最轻薄”“自研芯片加持”，又一次把华为送上了舆论和技术创新的风口浪尖。
+使用华为 MateBook Fold 访问我的网站
+
+但当我亲自体验、查阅资料并梳理这些年华为的产品发布历史后，我发现——高端折叠屏产品的出现，远不止是单纯的“技术创新”或者“工程师情怀”，背后其实是华为主动推进市场策略、品牌升级和中国科技生态突围的缩影。
+这篇文章将从产品体验、形态分析、市场定位和品牌战略几个角度，结合我自己的经历，做一次理性观察。
+一、折叠笔记本 MateBook Fold 简要介绍
+2025 年 5 月，华为发布了旗下首款折叠屏笔记本——MateBook Fold 非凡大师。这台电脑配备 18 英寸可折叠 OLED 大屏，折叠后为 13 英寸，主打“轻薄便携”和“大屏办公”兼得，重量约 1.16kg。最大亮点是搭载华为自研麒麟 X90 芯片，运行鸿蒙 PC 版操作系统，标志着华为在笔记本领域实现了从硬件到系统的全链路自主。
+参数上，MateBook Fold 已对标甚至超越同类折叠产品：
+麒麟 X90 SoC，10 核心设计，5nm 工艺
+32GB 内存、1TB/2TB NVMe SSD
+18.3 英寸 3.3K OLED 可折叠屏，支持 LTPO、1600 尼特峰值亮度
+HarmonyOS 5 PC 版
+二、历史上的折叠屏设备与华为的创新
+实际上，折叠屏笔记本并非华为首创。联想 ThinkPad X1 Fold、华硕 Zenbook 17 Fold 等产品早已有之，但都因折痕、虚拟键盘、重量和生态适配等问题，始终停留在“概念先锋”阶段。
+华为此次 MateBo…]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[泽尼达妥单抗获批用于 HER2 阳性胆道癌的后线治疗（附病例报告）]]></title>
         <id>http://whyes.org/2025/zanidatamab-her2-btc</id>
@@ -5809,27 +5845,6 @@ The post Daily Tech Deals March 4 2025 appeared first on Virtualization Howto.]]
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VMSA-2025-0004 Critical VMware ESXi, Workstation, and Fusion Vulnerability Patch Now!]]></title>
-        <id>https://www.virtualizationhowto.com/?p=299773</id>
-        <link href="https://www.virtualizationhowto.com/2025/03/vmsa-2025-0004-critical-vmware-esxi-workstation-and-fusion-vulnerability-patch-now/"/>
-        <updated>2025-03-04T13:19:41.000Z</updated>
-        <summary type="html"><![CDATA[In case you haven’t heard as of yet, there is a new critical VMware ESXi, Workstation, and Fusion vulnerability that has been discovered and noted in the VMSA-2025-0004 security bulletin. These are tracked as CVE-2025-22224, CVE-2025-22225, CVE-2025-22226. Let’s look at the new vulnerability, what it entails, and how to remediate. Table of contentsDetails about the …
-The post VMSA-2025-0004 Critical VMware ESXi, Workstation, and Fusion Vulnerability Patch Now! appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typecho 优化：实现图片防盗链与1Panel使用]]></title>
-        <id>https://bluehe.cn/archives/modified-typecho</id>
-        <link href="https://bluehe.cn/archives/modified-typecho"/>
-        <updated>2025-03-04T12:33:00.000Z</updated>
-        <summary type="html"><![CDATA[这两年来我一直都是使用Nginx Proxy Manage工具来进行反向代理，但近期发现不好使用了，经常登录显示Bad gateway。Docker搭建的Nginx Proxy Manage是由一个npm_app和一个npm_db（mysql）构造，显示B...]]></summary>
-        <author>
-            <name>寻鹤</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[闲聊几句]]></title>
         <id>https://qq.mba/220.html</id>
         <link href="https://qq.mba/220.html"/>
@@ -5837,59 +5852,6 @@ The post VMSA-2025-0004 Critical VMware ESXi, Workstation, and Fusion Vulnerabil
         <summary type="html"><![CDATA[最近工作比较忙，虽然不至于日夜加班那种程度，但仍然是感觉，除了工作占据了大部分时间外，只有极少部分留给生活，所以总体来看，似乎也没啥好记录的，这不一开年了，公司就开始部署战略目标了，几个季度的目...]]></summary>
         <author>
             <name>满心</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[公网暴露 Ollama 端口存在风险？使用 OneApi 聚合你的模型调用]]></title>
-        <id>https://www.mintimate.cn/2025/03/03/hostOneApi/</id>
-        <link href="https://www.mintimate.cn/2025/03/03/hostOneApi/"/>
-        <updated>2025-03-03T22:58:53.000Z</updated>
-        <summary type="html"><![CDATA[公网暴露的 Ollama 端口存在风险？使用 OneApi 封装你的 Ollama 接口，并聚合多接口为 OpenAI 标准 API。保护 Ollama 端口的同时，让模型调用更加方便。]]></summary>
-        <author>
-            <name>雨月空间站</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[加密 NFS 搭建保障数据传输与存储安全]]></title>
-        <id>https://dusays.com/805/</id>
-        <link href="https://dusays.com/805/"/>
-        <updated>2025-03-03T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>在现代企业环境中，数据的安全性至关重要。NFS 作为一种广泛使用的文件共享协议，其数据在传输和存储过程中若是缺乏加密保护，将面临被窃取或篡改的风险。本文将详细介绍加密 NFS 搭建过程。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K8sGPT CheatSheet 2025]]></title>
-        <id>https://collabnix.com/?p=30848</id>
-        <link href="https://collabnix.com/k8sgpt-cheatsheet-2025/"/>
-        <updated>2025-03-03T07:09:44.000Z</updated>
-        <summary type="html"><![CDATA[K8sGPT is an AI-powered diagnostic tool for Kubernetes clusters that helps identify and solve issues using natural language processing. This cheatsheet provides a quick reference for common K8sGPT commands and operations. Installation Method Command Homebrew brew tap k8sgpt-ai/k8sgpt && brew install k8sgpt Binary Download from GitHub Releases Krew kubectl krew install k8sgpt Go go install github.com/k8sgpt-ai/k8sgpt@latest […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker快速部署WP2AI，将WordPress文章秒变AI智能知识库]]></title>
-        <id>https://blog.xiaoz.org/?p=21824</id>
-        <link href="https://blog.xiaoz.org/archives/21824"/>
-        <updated>2025-03-03T03:25:54.000Z</updated>
-        <summary type="html"><![CDATA[WP2AI可以将您的WordPress文章变成智能知识库，并通过AI智能匹配和解读，使其更准确的回答问题。WP2AI 由 xiaoz 使用 Golang + Vue3 开发，轻量且易用，已在 GitHub 开源，欢迎 WordPress 用户部署体验。演示地址：https://ai.xiaoz.to]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[面试禁用 LLM：是坚守底线，还是错失未来？]]></title>
-        <id>https://panzhixiang.cn/2025/llm-interview/</id>
-        <link href="https://panzhixiang.cn/2025/llm-interview/"/>
-        <updated>2025-03-02T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<h2 id="撕裂的职场现实"><a href="#撕裂的职场现实" class="headerlink" title="撕裂的职场现实"></a>撕裂的职场现实</h2><p>程序员用GitHub Copilot&#x2F;Cursor 3分钟生成代码，面试时却只看能不能“手撕”算法；文秘岗位日常使用 ChatGPT 撰写报告，面试只看是否能“限时手写”；设计师可以通过可灵&#x2F;Ideogram 快速生成简易海报，但是面试只看能不能手画。</p>
-<p>这种职场与面试的“双标”场景，正在成为 AI 时代的现实。</p>]]></summary>
-        <author>
-            <name>潘智祥</name>
         </author>
     </entry>
     <entry>
@@ -5911,23 +5873,6 @@ The post VMSA-2025-0004 Critical VMware ESXi, Workstation, and Fusion Vulnerabil
 毕竟，从五代到两宋、元朝，连官方正史档案都大量遗失，小地方的宗族谱系更难保存，除了“孔氏”等个别名门望族，地方小…]]></summary>
         <author>
             <name>法律小茶馆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V8 Ignition 解释器的内部实现探究]]></title>
-        <id>https://jia.je/software/2025/03/01/v8-ignition-internals/</id>
-        <link href="https://jia.je/software/2025/03/01/v8-ignition-internals/"/>
-        <updated>2025-03-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[V8 Ignition 解释器的内部实现探究¶
-背景¶
-V8 是一个很常见的 JavaScript 引擎，运行在很多的设备上，因此想探究一下它内部的部分实现。本博客在 ARM64 Ubuntu 24.04 平台上针对 V8 12.8.374.31 版本进行分析。本博客主要分析了 V8 的 Ignition 解释器的解释执行部分。
-
-编译 V8¶
-首先简单过一下 v8 的源码获取以及编译流程，主要参考了 Checking out the V8 source code 和 Compiling on Arm64 Linux:
-
-# setup depot_toolscd ~git clone https://chromium.googlesource.com/chromium/tools/depot_tools.gitexport PATH=$PWD/depot_tools:$PATH# clone v8 reposmkdir ~/v8cd ~/v8fetch v8cd v8# switch to specified taggit checkout 12.8.374.31gclient sync --verbose# install dependencies./build/install-build-deps.sh# install llvm 19wget https://mirrors.tuna.tsinghua.edu.cn/llvm-apt/llvm.shchmod +x llvm.shsudo ./llvm.sh 19 -m https://mirrors.tuna.tsinghua.edu.cn/llvm-aptrm llvm.shsudo apt install -y lld clang-19# fix incompatibilities with system cl…]]></summary>
-        <author>
-            <name>杰哥的{运维，编程，调板子}小笔记</name>
         </author>
     </entry>
     <entry>

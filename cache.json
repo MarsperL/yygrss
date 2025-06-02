@@ -971,6 +971,16 @@
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
         {
+          "id": "https://jimmysong.io/blog/huawei-foldable-tech-and-strategy/",
+          "author": "Jimmy Song",
+          "description": "🎧 本文相关播客已上线，欢迎在 这里收听第 6 期节目：华为 MateBook Fold 体验与观察。\n\n今天我在商场体验了华为新推出的 MateBook Fold 非凡大师。这款售价两万多元的折叠屏笔记本，被宣传为“全球最轻薄”“自研芯片加持”，又一次把华为送上了舆论和技术创新的风口浪尖。\n使用华为 MateBook Fold 访问我的网站\n\n但当我亲自体验、查阅资料并梳理这些年华为的产品发布历史后，我发现——高端折叠屏产品的出现，远不止是单纯的“技术创新”或者“工程师情怀”，背后其实是华为主动推进市场策略、品牌升级和中国科技生态突围的缩影。\n这篇文章将从产品体验、形态分析、市场定位和品牌战略几个角度，结合我自己的经历，做一次理性观察。\n一、折叠笔记本 MateBook Fold 简要介绍\n2025 年 5 月，华为发布了旗下首款折叠屏笔记本——MateBook Fold 非凡大师。这台电脑配备 18 英寸可折叠 OLED 大屏，折叠后为 13 英寸，主打“轻薄便携”和“大屏办公”兼得，重量约 1.16kg。最大亮点是搭载华为自研麒麟 X90 芯片，运行鸿蒙 PC 版操作系统，标志着华为在笔记本领域实现了从硬件到系统的全链路自主。\n参数上，MateBook Fold 已对标甚至超越同类折叠产品：\n麒麟 X90 SoC，10 核心设计，5nm 工艺\n32GB 内存、1TB/2TB NVMe SSD\n18.3 英寸 3.3K OLED 可折叠屏，支持 LTPO、1600 尼特峰值亮度\nHarmonyOS 5 PC 版\n二、历史上的折叠屏设备与华为的创新\n实际上，折叠屏笔记本并非华为首创。联想 ThinkPad X1 Fold、华硕 Zenbook 17 Fold 等产品早已有之，但都因折痕、虚拟键盘、重量和生态适配等问题，始终停留在“概念先锋”阶段。\n华为此次 MateBo…",
+          "link": "https://jimmysong.io/blog/huawei-foldable-tech-and-strategy/",
+          "publishedOn": "2025-06-01T04:00:00.000Z",
+          "wordCount": 368,
+          "title": "华为折叠屏产品：技术突破还是市场策略——一位普通用户的体验与观察",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
+        },
+        {
           "id": "https://jimmysong.io/blog/envoy-dynamic-module-tutorial/",
           "author": "Jimmy Song",
           "description": "在上一篇《理解 Envoy 的扩展与集成机制：从内置扩展到动态模块》中，我系统梳理了 Envoy 的各类扩展与集成方式，并特别推荐了 Dynamic Module 这一新兴机制。本篇将围绕 Dynamic Module 的原理与完整实操，帮助你高效掌握 Envoy 原生扩展的落地方案。\n什么是 Dynamic Module？\nDynamic Module 是 Envoy Proxy v1.34 起引入的实验特性，允许开发者以共享库（.so）形式动态加载自定义扩展。它不依赖虚拟机或外部进程，直接通过 C ABI 与主进程对接，具有极高性能和现代 SDK 支持（如官方 Rust SDK）。\n技术原理\nDynamic Module 本质上是一个实现了特定 ABI 入口的共享库（.so），通过定义在 C 头文件中的接口与 Envoy 进行交互。当前官方主推 Rust SDK（类型安全，开发体验佳），但也可用 Go、C++ 等语言编译出 C ABI 兼容的动态库。社区已经有 Go 的实验性实现。\n通过 ENVOY_DYNAMIC_MODULES_SEARCH_PATH 环境变量设置查找路径\n.so 文件命名需符合 lib{name}.so 规则，其中 {name} 对应配置文件的 dynamic_module_config.name\n加载后直接作为 HTTP Filter 加入请求处理链，与原生 Filter 平权\n注意：Dynamic Module 与主进程完全共享内存和权限，无隔离机制，安全级别等同于原生 C++ 扩展，务必只加载可信模块。\n优势与局限\n在上一篇文章中我已经总结过不同机制的优缺点。Dynamic Module 的主要优势体现在：\n性能极高：无中间虚拟机，无跨进程/语言序列化，支持高吞吐业务场景\n开发现代：Rust SDK 类型安全、文档完善，开发体验远优于 Was…",
@@ -2144,16 +2154,6 @@
           "wordCount": 8404,
           "title": "Daily Tech Deals March 4 2025",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/image-6.jpeg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=299773",
-          "author": "Brandon Lee",
-          "description": "In case you haven’t heard as of yet, there is a new critical VMware ESXi, Workstation, and Fusion vulnerability that has been discovered and noted in the VMSA-2025-0004 security bulletin. These are tracked as CVE-2025-22224, CVE-2025-22225, CVE-2025-22226. Let’s look at the new vulnerability, what it entails, and how to remediate. Table of contentsDetails about the …\nThe post VMSA-2025-0004 Critical VMware ESXi, Workstation, and Fusion Vulnerability Patch Now! appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/03/vmsa-2025-0004-critical-vmware-esxi-workstation-and-fusion-vulnerability-patch-now/",
-          "publishedOn": "2025-03-04T13:19:41.000Z",
-          "wordCount": 9547,
-          "title": "VMSA-2025-0004 Critical VMware ESXi, Workstation, and Fusion Vulnerability Patch Now!",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/VMware-Critical-vulnerability.png"
         }
       ]
     },
@@ -2162,6 +2162,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=33888",
+          "author": "Collabnix Team",
+          "description": "The landscape of AI-assisted development is evolving rapidly, and AWS Labs has introduced a game-changing suite of specialized MCP servers that bring AWS best practices directly to your development workflow. Whether you’re building cloud-native applications, managing infrastructure, or optimizing costs, AWS MCP Servers are transforming how developers interact with AWS services through AI coding assistants. […]",
+          "link": "https://collabnix.com/aws-mcp-servers-revolutionizing-ai-powered-cloud-development-with-the-model-context-protocol/",
+          "publishedOn": "2025-06-01T17:27:18.000Z",
+          "wordCount": 5749,
+          "title": "AWS MCP Servers: Revolutionizing AI-Powered Cloud Development with the Model Context Protocol",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=32474",
           "author": "Collabnix Team",
@@ -3091,16 +3101,6 @@
           "wordCount": 2736,
           "title": "Setting Up Ollama & Running DeepSeek R1 Locally for a Powerful RAG System",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30848",
-          "author": "Tanvir Kour",
-          "description": "K8sGPT is an AI-powered diagnostic tool for Kubernetes clusters that helps identify and solve issues using natural language processing. This cheatsheet provides a quick reference for common K8sGPT commands and operations. Installation Method Command Homebrew brew tap k8sgpt-ai/k8sgpt && brew install k8sgpt Binary Download from GitHub Releases Krew kubectl krew install k8sgpt Go go install github.com/k8sgpt-ai/k8sgpt@latest […]",
-          "link": "https://collabnix.com/k8sgpt-cheatsheet-2025/",
-          "publishedOn": "2025-03-03T07:09:44.000Z",
-          "wordCount": 2323,
-          "title": "K8sGPT CheatSheet 2025",
-          "imageUrl": null
         }
       ]
     },
@@ -3547,21 +3547,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bluehe.cn/usr/uploads/2025/03/1918863364.jpg"
-        },
-        {
-          "id": "https://bluehe.cn/archives/modified-typecho",
-          "author": "寻鹤",
-          "description": "这两年来我一直都是使用Nginx Proxy Manage工具来进行反向代理，但近期发现不好使用了，经常登录显示Bad gateway。Docker搭建的Nginx Proxy Manage是由一个npm_app和一个npm_db（mysql）构造，显示B...",
-          "link": "https://bluehe.cn/archives/modified-typecho",
-          "publishedOn": "2025-03-04T12:33:00.000Z",
-          "wordCount": 962,
-          "title": "Typecho 优化：实现图片防盗链与1Panel使用",
-          "enclosure": {
-            "url": "https://bluehe.cn/usr/uploads/2025/03/3044740513.png",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bluehe.cn/usr/uploads/2025/03/3044740513.png"
         }
       ]
     },
@@ -3997,16 +3982,6 @@
           "wordCount": 1526,
           "title": "RSSHub 搭建指南打造个性化资讯中心",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/805/",
-          "author": null,
-          "description": "<blockquote>\n<p>在现代企业环境中，数据的安全性至关重要。NFS 作为一种广泛使用的文件共享协议，其数据在传输和存储过程中若是缺乏加密保护，将面临被窃取或篡改的风险。本文将详细介绍加密 NFS 搭建过程。</p>\n</blockquote>",
-          "link": "https://dusays.com/805/",
-          "publishedOn": "2025-03-03T16:00:00.000Z",
-          "wordCount": 1372,
-          "title": "加密 NFS 搭建保障数据传输与存储安全",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
     },
@@ -4132,16 +4107,6 @@
           "wordCount": 978,
           "title": "VMware Fusion 彻底免费并支持商用，那么如何安装？",
           "imageUrl": "https://imagehost.mintimate.cn/post_HowToDownloadVmwareFusionAndWorkstation/banner.webp"
-        },
-        {
-          "id": "https://www.mintimate.cn/2025/03/03/hostOneApi/",
-          "author": null,
-          "description": "公网暴露的 Ollama 端口存在风险？使用 OneApi 封装你的 Ollama 接口，并聚合多接口为 OpenAI 标准 API。保护 Ollama 端口的同时，让模型调用更加方便。",
-          "link": "https://www.mintimate.cn/2025/03/03/hostOneApi/",
-          "publishedOn": "2025-03-03T22:58:53.000Z",
-          "wordCount": 1105,
-          "title": "公网暴露 Ollama 端口存在风险？使用 OneApi 聚合你的模型调用",
-          "imageUrl": "https://imagehost.mintimate.cn/post_hostOneApi/banner.webp"
         }
       ]
     },
@@ -4587,16 +4552,6 @@
           "wordCount": 403,
           "title": "实战指南：使用Docker安装Jenkins并结合Buildx构建跨平台镜像",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=21824",
-          "author": "xiaoz",
-          "description": "WP2AI可以将您的WordPress文章变成智能知识库，并通过AI智能匹配和解读，使其更准确的回答问题。WP2AI 由 xiaoz 使用 Golang + Vue3 开发，轻量且易用，已在 GitHub 开源，欢迎 WordPress 用户部署体验。演示地址：https://ai.xiaoz.to",
-          "link": "https://blog.xiaoz.org/archives/21824",
-          "publishedOn": "2025-03-03T03:25:54.000Z",
-          "wordCount": 338,
-          "title": "Docker快速部署WP2AI，将WordPress文章秒变AI智能知识库",
-          "imageUrl": null
         }
       ]
     },
@@ -4743,16 +4698,6 @@
           "wordCount": 185,
           "title": "少儿编程班是智商税？看看程序员爸爸的观点",
           "imageUrl": "https://blog.panzhixiang.cn/images/children-programing-hire.jpg"
-        },
-        {
-          "id": "https://panzhixiang.cn/2025/llm-interview/",
-          "author": null,
-          "description": "<h2 id=\"撕裂的职场现实\"><a href=\"#撕裂的职场现实\" class=\"headerlink\" title=\"撕裂的职场现实\"></a>撕裂的职场现实</h2><p>程序员用GitHub Copilot&#x2F;Cursor 3分钟生成代码，面试时却只看能不能“手撕”算法；文秘岗位日常使用 ChatGPT 撰写报告，面试只看是否能“限时手写”；设计师可以通过可灵&#x2F;Ideogram 快速生成简易海报，但是面试只看能不能手画。</p>\n<p>这种职场与面试的“双标”场景，正在成为 AI 时代的现实。</p>",
-          "link": "https://panzhixiang.cn/2025/llm-interview/",
-          "publishedOn": "2025-03-02T16:00:00.000Z",
-          "wordCount": 344,
-          "title": "面试禁用 LLM：是坚守底线，还是错失未来？",
-          "imageUrl": "https://blog.panzhixiang.cn/images/ai-interview-anthropic-economic-index.png"
         }
       ]
     },
@@ -5250,16 +5195,6 @@
           "publishedOn": "2025-03-06T00:00:00.000Z",
           "wordCount": 2041,
           "title": "Android Runtime 解释器的实现探究",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jia.je/software/2025/03/01/v8-ignition-internals/",
-          "author": null,
-          "description": "V8 Ignition 解释器的内部实现探究¶\n背景¶\nV8 是一个很常见的 JavaScript 引擎，运行在很多的设备上，因此想探究一下它内部的部分实现。本博客在 ARM64 Ubuntu 24.04 平台上针对 V8 12.8.374.31 版本进行分析。本博客主要分析了 V8 的 Ignition 解释器的解释执行部分。\n\n编译 V8¶\n首先简单过一下 v8 的源码获取以及编译流程，主要参考了 Checking out the V8 source code 和 Compiling on Arm64 Linux:\n\n# setup depot_toolscd ~git clone https://chromium.googlesource.com/chromium/tools/depot_tools.gitexport PATH=$PWD/depot_tools:$PATH# clone v8 reposmkdir ~/v8cd ~/v8fetch v8cd v8# switch to specified taggit checkout 12.8.374.31gclient sync --verbose# install dependencies./build/install-build-deps.sh# install llvm 19wget https://mirrors.tuna.tsinghua.edu.cn/llvm-apt/llvm.shchmod +x llvm.shsudo ./llvm.sh 19 -m https://mirrors.tuna.tsinghua.edu.cn/llvm-aptrm llvm.shsudo apt install -y lld clang-19# fix incompatibilities with system cl…",
-          "link": "https://jia.je/software/2025/03/01/v8-ignition-internals/",
-          "publishedOn": "2025-03-01T00:00:00.000Z",
-          "wordCount": 3281,
-          "title": "V8 Ignition 解释器的内部实现探究",
           "imageUrl": null
         }
       ]
