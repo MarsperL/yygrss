@@ -134,16 +134,6 @@
           "wordCount": 3285,
           "title": "Ansible知识梳理",
           "imageUrl": "https://tu.ltyuanfang.cn/api/fengjing.php?2603"
-        },
-        {
-          "id": "https://marsperl.github.io/yyg/80ffa402/",
-          "author": null,
-          "description": "拉取主题代码\n<figure class=\"highlight",
-          "link": "https://marsperl.github.io/yyg/80ffa402/",
-          "publishedOn": "2025-03-10T07:14:39.000Z",
-          "wordCount": 1033,
-          "title": "Hexo-Butterfly美化教程 | Butterfly主题安装",
-          "imageUrl": "https://random-img.pupper.cn/api?6593"
         }
       ]
     },
@@ -263,16 +253,6 @@
           "publishedOn": "2025-03-19T13:28:00.000Z",
           "wordCount": 939,
           "title": "Enshittification as a matter of taste",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/03/tag-you-re-it/",
-          "author": null,
-          "description": "I’m a bit behind in my RSS feeds and I didn’t realize Susan tagged me to answer a series of questions about my blog. I’ve read dozens of these and to be honest was feeling a little left out, so thanks Susan for including me! (Susan’s one of my favorite bloggers and crafters, be sure to like and subscribe.)\nWhy did you start blogging in the first place?\nI published a zine in high school with my best friend Mike. Our zine Wimpkiller was a creative outlet for all the composition notebooks we filled up over a bottomless cups of coffee at IHOP. We’d print out stories on Mike’s computer, chop ‘em up, glue ‘em together, and then scam copies after midnight with the help of the friendly late-shift worker at Kinko’s. I enjoyed that thrill of self-publishing then as much as I do now. It felt like the…",
-          "link": "https://daverupert.com/2025/03/tag-you-re-it/",
-          "publishedOn": "2025-03-09T22:34:00.000Z",
-          "wordCount": 1705,
-          "title": "Tag, you're it",
           "imageUrl": null
         }
       ]
@@ -936,6 +916,16 @@
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
         {
+          "id": "https://jimmysong.io/blog/path-finder-mac-file-manager-review/",
+          "author": "Jimmy Song",
+          "description": "除了定制 Finder，其实还有更强大的第三方文件管理器工具可以选择——我最近试用了 Path Finder，发现它极大提升了我的文件管理效率。下面我来系统介绍 Path Finder 的亮点功能和典型场景，并谈谈它的现实局限，帮助大家理性选择。\nPath Finder 用户界面\n\nPath Finder 简介\nPath Finder 是一款 macOS 下的高级文件管理器，被称为 Finder 的“超强版”。它不仅拥有 Finder 的全部基础功能，还做了大量扩展：双栏浏览、批量操作、文件合并/分割、直接操作系统文件、集成终端等，尤其适合开发者、设计师和重度文件管理用户。\nPath Finder 的核心功能亮点\n界面与导航增强\n双栏视图：同一窗口左右分栏，轻松在不同目录间拖拽、复制、对比，支持同步滚动便于文件夹内容比较\n标签页管理：支持多标签页，每个标签页可独立设置目录和视图，同时打开项目目录、资源文件夹、输出目录等\n专业工具集成\n集成终端：内置 Terminal，直接在当前目录执行命令行操作，支持自定义脚本，开发者可快速执行 git、npm 等命令\n模块化面板：功能以模块形式自由组合，包括文件预览、Git 状态、磁盘工具、应用管理等，可按工作场景定制（如开发者用 Terminal + Git Status，设计师用 Preview + Drop Stack）\n高级文件操作\n批量重命名与处理：支持正则表达式、序号、日期等复杂重命名规则，可对批量文件进行移动、复制、合并、分割等高级处理\n文件夹同步与合并：可视化对比两个文件夹差异，选择性同步或合并内容，是备份整理的利器\nDrop Stack 暂存区：将文件拖到 Drop Stack 模块暂存，跨目录收集文件后统一处理，避免反复切换路径\n系统级功能\n隐藏文件操作：一键显示/隐藏隐藏文件，可直接操作系统级文件（需注意权限和风险）…",
+          "link": "https://jimmysong.io/blog/path-finder-mac-file-manager-review/",
+          "publishedOn": "2025-06-07T11:26:55.000Z",
+          "wordCount": 423,
+          "title": "Path Finder：我的主力 Mac 文件管理器与现实局限",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
+        },
+        {
           "id": "https://jimmysong.io/blog/customize-finder-for-efficiency/",
           "author": "Jimmy Song",
           "description": "作为一个用 Mac 多年的用户，我始终觉得 Finder 虽然是 macOS 的核心应用，但默认体验其实并不理想：功能过于“简洁”，效率有待提升。不过，Finder 其实可以通过一些简单定制，极大改善你的日常文件管理体验。下面就来系统梳理下这些方法。\nMac Finder\n\n1. 打开路径栏和状态栏\nFinder 默认隐藏了很多关键信息。\n在 Finder 菜单栏依次点击「显示」>「显示路径栏」和「显示状态栏」，就能在窗口底部看到当前路径和磁盘剩余空间。这样，无论在多深的文件夹里，都能一眼看到自己所在位置和空间情况。\n2. 优化 Finder 搜索体验\nFinder 的搜索默认是全盘搜索，经常带来无关结果。建议打开 Finder 的「设置」>「高级」，把“执行搜索时”改为「搜索当前文件夹」。\n这样一来，只有在需要时才手动切换到全盘，日常查找效率会提升很多。\n3. 精简和定制侧边栏\n侧边栏默认项目太多，用不到反而碍事。可以在 Finder「设置」>「侧边栏」精简，把不常用的项目（如 AirDrop）去掉，只保留自己高频访问的文件夹。你也可以直接拖动常用文件夹到侧边栏，形成专属快捷入口。\n4. 自定义工具栏\nFinder 工具栏右键选择「自定工具栏」，把常用功能按钮（如排序、新建文件夹、弹出磁盘、Airdrop 等）拖上去，删去不用的按钮，让界面更简洁。\n其实大多数操作用右键菜单即可完成，不必全部堆在工具栏上。\n5. 推荐使用列表视图\n个人最推荐用 Finder 的「列表视图」。在 Finder 窗口空白处右键，选择「以列表方式显示」。这样可以清楚看到文件属性，支持多级文件夹的折叠和排序，比图标或分栏视图效率高很多。\n6. 开启 Finder 标签页\nFinder 支持多标签页管理文件夹。\n进入 Finder「设置」>「通用」，将“在新窗口中打开文件夹”改为“在标签页中打开”。用 Command + T 新建标签页，多个目录间切换非常高效，类似浏览器的操作体验。如果你的鼠标还有侧边滚轮的话，直接使用滚轮切换 Tab 十分便捷。\n7. 善用批量重命名\nMac Finder 中自带的批量重命名\n\n在 Finder 里选中多文件，右键选择「重命名 X 项…」，可以统一批量替换、添加前后缀、或按自定义规则编号，非常适合整理照片、文档、素材等。这是我最近才发现的功能，以前我一直以为只能给单个文件重命名，为此我还专门下载了用于批量重命名的应用，看来是多此一举了。对于规则简单的批量重命名，Mac Finder 自带的功能就够用了。如果你有更进一步的需求，推荐你使用”A Better Finder Rename“。\nA Better Finder Rename App\n\n结语与思考\n通过上述这些小设置，Finder 的使用体验会大幅提升，从一个“平庸”的文件管理器，变成顺手高效的日常工具。当然，对于重度用户来说，Finder 的功能终究有限。比如双栏、复杂的批量操作、文件同步、集成终端等等，如果你对这些有强烈需求，不妨试试第三方增强型文件管理器 Path Finder。\n在下一篇博客中，我会详细介绍 Path Finder 这款强大的 Finder 替代工具，以及它对重度用户的生产力提升。敬请期待。",
@@ -1130,6 +1120,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=6980",
+          "author": "laixintao",
+          "description": "Django ORM 是我最喜欢的 ORM，它自带了全套数据库管理的解决方案，开箱即用。但是到了某一家公司里就 […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/6980",
+          "publishedOn": "2025-06-01T13:53:26.000Z",
+          "wordCount": 1998,
+          "title": "Django 全局禁用外键",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=6969",
           "author": "laixintao",
           "description": "首先，通过这个抓包文件前几个包可以发现，服务器的网络是没有问题的，因为访问 DNS 或者 ubuntu apt […]\nContinue reading...",
@@ -1208,16 +1208,6 @@
           "wordCount": 1952,
           "title": "Spegel 镜像分发介绍",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6879",
-          "author": "laixintao",
-          "description": "pwru 是排查 Linux 网络问题最好的工具，全称是 Packet where are you? 它是怎么 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6879",
-          "publishedOn": "2025-02-24T07:25:50.000Z",
-          "wordCount": 1100,
-          "title": "pwru 工具介绍和案例一则",
-          "imageUrl": null
         }
       ]
     },
@@ -1226,6 +1216,16 @@
       "feedUrl": "https://www.derekseaman.com/feed/",
       "siteUrl": "https://www.derekseaman.com",
       "articles": [
+        {
+          "id": "https://www.derekseaman.com/?p=19047",
+          "author": "Derek Seaman",
+          "description": "In today’s interconnected world, safeguarding your personal information is more crucial than ever. With telecommunications companies collecting extensive data about your communication habits, it’s essential to understand how this information is used and how you can protect your privacy. From disabling Customer Proprietary Network Information (CPNI) to securing your Social Security Number and managing your […]",
+          "link": "https://www.derekseaman.com/2025/05/digital-privacy-decoded-simple-ways-to-secure-your-information.html",
+          "publishedOn": "2025-05-23T19:25:09.000Z",
+          "wordCount": 7063,
+          "title": "Digital Privacy Decoded: Simple Ways to Secure Your Information",
+          "imageUrl": "https://www.derekseaman.com/wp-content/uploads/data-privacy.png"
+        },
         {
           "id": "https://www.derekseaman.com/?p=20089",
           "author": "Derek Seaman",
@@ -2119,26 +2119,6 @@
           "wordCount": 10823,
           "title": "PCIE Bifurcation and Why You Need It in Your Home Server",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/You-Need-Bifurcation.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=299905",
-          "author": "Brandon Lee",
-          "description": "Looking for great tech deals? Check out items on today’s daily tech deals. You can get a GMKtec Gaming Mini PC K8 Plus for 27% off , a GMKtec Mini PC AMD Ryzen 7 5825U for 17% off, a GMKtec Mini PC Gaming, M7 Pro for 24% off, a SAMSUNG 990 PRO SSD PCIe 4.0 …\nThe post Daily Tech Deals March 10 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/03/daily-tech-deals-march-10-2025/",
-          "publishedOn": "2025-03-10T14:04:16.000Z",
-          "wordCount": 8467,
-          "title": "Daily Tech Deals March 10 2025",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/image-22.jpeg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=299889",
-          "author": "Brandon Lee",
-          "description": "I have built up a couple of Ryzen 9 7945HX home server builds over the past few weeks and have experimented a bit with the BIOS settings and things that ones may be interested in for home lab purposes. There is an interesting setting that you may want to experiment with as well and that …\nThe post Core Performance Boost Setting: Speed vs Power Consumption in Home Lab appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/03/core-performance-boost-setting-speed-vs-power-consumption-in-home-lab/",
-          "publishedOn": "2025-03-10T13:37:16.000Z",
-          "wordCount": 10938,
-          "title": "Core Performance Boost Setting: Speed vs Power Consumption in Home Lab",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/Core-Performance-Boost.png"
         }
       ]
     },
@@ -3086,16 +3066,6 @@
           "wordCount": 5623,
           "title": "Running LLMs with TensorRT-LLM on NVIDIA Jetson Orin Nano Super",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30907",
-          "author": "Ajeet Raina",
-          "description": "Recently, I upgraded my Jetson Orin Nano from JetPack 5.X to the latest JetPack 6.2. This represents a significant update, moving from Ubuntu 20.04 to Ubuntu 22.04 as the base OS and bringing numerous performance improvements. I’ve documented the entire process to help others make this transition smoothly. Why Upgrade? JetPack 6.1 offers several compelling […]",
-          "link": "https://collabnix.com/how-to-upgrade-jetpack-5-x-to-6-x-on-nvidia-jetson-orin-nano-super/",
-          "publishedOn": "2025-03-09T15:25:52.000Z",
-          "wordCount": 2657,
-          "title": "How to upgrade Jetpack 5.X to 6.X on NVIDIA Jetson Orin Nano Super",
-          "imageUrl": null
         }
       ]
     },
@@ -3311,6 +3281,16 @@
       "feedUrl": "https://www.skyue.com/feed/",
       "siteUrl": "https://www.skyue.com/",
       "articles": [
+        {
+          "id": "https://www.skyue.com/25060809.html",
+          "author": "拾月",
+          "description": "老板英文名叫Nick，用了电影《疯狂动物城》的Nick做头像。周五下午在团队小群突然聊到大家的头像，有人提议要不要都换《疯狂动物城》里的动物做头像，我突发奇想，干脆都换Nick的不同风格头像更好...",
+          "link": "https://www.skyue.com/25060809.html",
+          "publishedOn": "2025-06-08T01:41:00.000Z",
+          "wordCount": 543,
+          "title": "Fox Day",
+          "imageUrl": ""
+        },
         {
           "id": "https://www.skyue.com/25052511.html",
           "author": "拾月",
@@ -3690,16 +3670,6 @@
           "wordCount": 211,
           "title": "2025年3月阅读书摘",
           "imageUrl": "https://images.unsplash.com/photo-1517770413964-df8ca61194a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDI3fHxib29rcyUyMHxlbnwwfHx8fDE3NDQ0Mjc3NDB8MA&ixlib=rb-4.0.3&q=80&w=2000"
-        },
-        {
-          "id": "67c700fa6c5c20099658220d",
-          "author": "Domon",
-          "description": "世上每个人，都有一个他冥冥中知道无法实现的梦想，但他会用毕生去希望和等待它的到来。人类因此而悲哀，也因此而伟大和辉煌。",
-          "link": "https://www.domon.cn/2025-2yue-yue-du-shu-zhai/",
-          "publishedOn": "2025-03-04T13:35:31.000Z",
-          "wordCount": 155,
-          "title": "2025年2月阅读书摘",
-          "imageUrl": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDZ8fGJvb2tzfGVufDB8fHx8MTc0MTA5NTMxMnww&ixlib=rb-4.0.3&q=80&w=2000"
         }
       ]
     },
@@ -3946,16 +3916,6 @@
           "publishedOn": "2025-03-12T16:00:00.000Z",
           "wordCount": 8059,
           "title": "dynv6 免费二级域名申请及管理",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/807/",
-          "author": null,
-          "description": "<blockquote>\n<p>杜老师使用 Emby 管理媒体文件，但刮削时经常报错。tinyMediaManager 是款功能强大的开源媒体管理工具，能够帮助轻松整理和管理媒体库。本文将详细介绍 tinyMediaManager 的搭建过程和基本使用方法。</p>\n</blockquote>",
-          "link": "https://dusays.com/807/",
-          "publishedOn": "2025-03-09T16:00:00.000Z",
-          "wordCount": 1375,
-          "title": "使用 Docker 部署 tinyMediaManager 刮削工具",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
@@ -4507,16 +4467,6 @@
           "wordCount": 307,
           "title": "使用Docker搭建Transmute多模型智能翻译平台",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=21854",
-          "author": "xiaoz",
-          "description": "最近博主在寻找一些适合中国大陆漫游上网的eSIM卡，最后发现了RedteaGO，他们提供的数据套餐覆盖全球多个国家和地区，使用户可以在旅行期间轻松获取本地数据服务。使用博主的邀请优惠后，可以以10美元的价格获得一年50GB的大陆漫游流量，性价比极高。准备工作一台支持eSIM的手机，博主使用的是苹果S",
-          "link": "https://blog.xiaoz.org/archives/21854",
-          "publishedOn": "2025-03-10T02:25:41.000Z",
-          "wordCount": 265,
-          "title": "RedteaGO：性价比极高的中国大陆漫游上网eSIM流量卡",
-          "imageUrl": null
         }
       ]
     },
@@ -4673,16 +4623,6 @@
           "wordCount": 286,
           "title": "曾经被炒作的互联网技术，最终真的改变了世界——从互联网泡沫破裂，看今天 AI 热潮的未来",
           "imageUrl": "https://blog.panzhixiang.cn/images/na-si-da-ke.png"
-        },
-        {
-          "id": "https://panzhixiang.cn/2025/children-programing/",
-          "author": null,
-          "description": "少儿编程课真的值得投资吗？本文尝试通过师资水平、职业前景、学习效果等关键因素进行探讨，为犹豫不决的家长提供一点建议。更有成本效益比较和AI辅助学习的创新方案，帮你为孩子做出最明智的教育选择！",
-          "link": "https://panzhixiang.cn/2025/children-programing/",
-          "publishedOn": "2025-03-09T16:00:00.000Z",
-          "wordCount": 185,
-          "title": "少儿编程班是智商税？看看程序员爸爸的观点",
-          "imageUrl": "https://blog.panzhixiang.cn/images/children-programing-hire.jpg"
         }
       ]
     },
@@ -4803,18 +4743,7 @@
       "title": "思有云 - IOIOX",
       "feedUrl": "https://www.ioiox.com/feed",
       "siteUrl": "https://www.ioiox.com/",
-      "articles": [
-        {
-          "id": "https://www.ioiox.com/archives/173.html",
-          "author": "Stille",
-          "description": "前言由于去年 iPhone 16 Pro 提升不大，反而更重了，于是在闲鱼收了一台 15 Pro，在网上查了下大致的验机流程，结合自己的情况整理下，实践后感觉基本能解决大部分人的验机需求，分享给...",
-          "link": "https://www.ioiox.com/archives/173.html",
-          "publishedOn": "2025-02-21T03:49:00.000Z",
-          "wordCount": 1534,
-          "title": "分享个人的二手 iPhone 验机流程 2025",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "博客 | 云原生社区（中国）",
@@ -4893,6 +4822,46 @@
       "feedUrl": "https://chegva.com/feed",
       "siteUrl": "https://chegva.com",
       "articles": [
+        {
+          "id": "https://chegva.com/?p=6404",
+          "author": "anzhihe",
+          "description": "[real3dflipbook id=\"80\"]\r\n\r\n\r\n\n相关参考：\n\n中国古代中央政治制度(一张图)\n\n\n中国古今官职对照\n\n中国历代官制简表\n\n中国历代帝王世系与年号总表",
+          "link": "https://chegva.com/6404.html",
+          "publishedOn": "2025-06-02T21:46:45.000Z",
+          "wordCount": 9351,
+          "title": "从秦朝到清朝历代官制与军事体系图解合集",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chegva.com/?p=6401",
+          "author": "anzhihe",
+          "description": "死亡诗社 Dead Poets Society (1989)\n\n\n死亡诗社的剧情简介 · · · · · ·\n　　威尔顿预备学院以其沉稳凝重的教学风格和较高的升学率闻名，作为其毕业班的学生，理想就是升入名校。新学期文学老师约翰·基汀（罗宾·威廉姆斯 饰）的到来如同一阵春风，一反传统名校的严肃刻板。\n　　基汀带学生们在校史楼内聆听死亡的声音，反思生的意义 ；让男生们在绿茵场上宣读自己的理想；鼓励学生站在课桌上，用新的视角俯瞰世界。老师自由发散式的哲学思维让学生内心产生强烈的共鸣，他们渐渐学会自己思考与求索，勇敢的追问人生的路途，甚至违反门禁，成立死亡诗社，在山洞里击节而歌！\n\n　　基汀教授、基汀老师、基汀队长，他的教育宛若春风化雨，润物无声的留在每个人心里… ©豆瓣\n\n哦，船长，我的船长！ (O Captain! My Captain!)\n沃尔特·惠特曼\n\nⅠ\n\nO Captain! My Captain! our fearful trip is done;\nThe ship has weather'd every rack, the prize we sought is won;\nThe port is near, the bells I hear, the people all exulting,\nWhile follow eyes the steady keel, the vessel grim and daring:\n      But O heart! heart! heart!\n            O the bleeding drops of red,\n                  Where on the deck my Captain lies,\n                        Fallen cold and dead.\n\n哦，船长…",
+          "link": "https://chegva.com/6401.html",
+          "publishedOn": "2025-05-29T21:09:12.000Z",
+          "wordCount": 9190,
+          "title": "死亡诗社 Dead Poets Society (1989)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chegva.com/?p=6359",
+          "author": "anzhihe",
+          "description": "最近在给客户部署一套 k8s 集群时，主节点master1安装完后，master2 join时提示 etcd 证书报错，铲掉重装后问题还是稳定复现，客户提供的机器操作系统为Ubuntu 22.04、Kernel：Linux 5.15.x，报错信息节选如下：\n\nerror execution phase control-plane-prepare/certs: error creating PKI assets: failed to write or validate certificate \"etcd-server\": cert, not master2 is invalid: x509: certificate is valid for localhost, master2\n...\n（sudo -E /bin/bash <<EOF\nkubeadm join --config=/etc/kubernetes/kubeadm.yaml -v 0 --ignore-preflight-errors=SystemVerification,Port-10250,DirAvailable--etc-kubernetes-manifests\nEOF) : error(Process exited with status 1)\n\n使用的安装工具是产研封装的一套k8s外加自研产品的自动化部署流程，相当于个黑盒，看直接报错，问题是出在master2的etcd证书上。首先查看master1和master2的kubeadm.yaml中certSANS和ETD证书配置都没有问题，再去master2上查看etcd  server.crt和peer.crt，发现 CN（Common Name） 和   SAN（Subject Alternative Name） 配置中的主机名都多了一个换行符，但是查看…",
+          "link": "https://chegva.com/6359.html",
+          "publishedOn": "2025-05-26T11:51:05.000Z",
+          "wordCount": 12825,
+          "title": "k8s master join 时etcd证书报错问题",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chegva.com/?p=6282",
+          "author": "anzhihe",
+          "description": "大象：六十四卦的作用和意义。从卦象分析事物所处状态，从而判断应该如何应对。 | 《易传》 | 周易《杂卦传》详解 | 周易《序卦传》详解 | 周易《文言传》详解\n\n\n卦名大象辞原文大象辞解释\n\n乾1天行，健；君子以自强不息。\n《乾》卦为六十四卦之首，是太极的开端，也是太极的核心。乾为天，是以自然界最大的象来比喻。天道运转最显著地就是规律与法则，是主导事物发展的动因和原动力，而要维系太极稳定地存在和发展，就要有持续足够的能量来支撑，这就是“健”。因此，《乾》卦是不断消耗自己的能量，自强不息。主开创、奉献、推动、规则、领导、方向。万物类象，对太极来说，乾是阳；对生命来说，乾为心；对国家来说是总统；对企业来说是总裁；对家庭来说是父亲。刚健不止，生生不息，聚阴以成万物。\n\n坤2地势，坤；君子以厚德载物。\n《坤》卦为六十四卦第二卦，作为《乾》卦之体，意志之体现。坤为地，有天地，然后化生万物，大地是万物生长之环境与依托。“势”，作动词，表示蓄势之义，即积蓄、储备能量，将这些能量用来供养万物，以承天而时行。因此，《坤》卦是不断积聚能量，厚德载物。主经营、管理、执行、跟随、守成、孕育。对太极来说，坤是阴；对生命来说，坤为体；对国家来说是总理；对企业来说是总经理；对家庭来说是母亲。柔顺有常，自利利他，含万物而化光。\n\n屯3云雷，屯；君子以经纶。\n\n蒙4山下出泉，蒙；君子以果行育德。\n\n需5云上于天，需；君子以饮食宴乐。\n\n讼6天与水违行，讼；君子以作事谋始。\n\n师7地中有水，师；君子以容民畜众。\n\n比8地上有水，比；先王以建万国，亲诸侯。\n\n小畜9风行天上，小畜；君子以懿文德。\n\n履10上天下泽，履；君子以辩上下，定民志。\n\n泰11天地交，泰；后以财成天地之道，辅相天地之宜，以左右民。\n\n否12天地不交，否；君子以俭德辟难，不可荣以禄。\n\n同人13天与火，同人；君子以类族辨物。\n\n大有14火在天上，大有；君子以遏恶扬善，顺天休命。\n\n谦15地中有山，谦；君子以裒多益寡，称物平施。\n\n豫16雷出地奋，豫；先王以作乐崇德，殷荐之上帝，以配祖考。\n\n随17泽中有雷，随；君子以向晦入宴息。\n\n蛊18山下有风，蛊；君子以振民育德。\n\n临19泽上有地，临；君子以教思无穷，容保民无疆。\n\n观20风行地上，观；先王以省方，观民设教。\n\n噬嗑21雷电，噬嗑；先王以明罚敕法。\n\n贲22山下有火，贲；君子以明庶政，无敢折狱。\n\n剥23山附地上，剥；上以厚下，安宅。\n\n复24雷在地中，复；先王以至日闭关，商旅不行，后不省方。\n\n无妄25天下雷行物与，无妄；先王以茂对时，育万物。\n\n大畜26天在山中，大畜；君子以多识前言往行，以畜其德。\n\n颐27山下有雷，颐；君子以慎言语，节饮食。\n\n大过28泽灭木，大过；君子以独立不惧，遯世无闷。\n\n坎29水洊至，习坎；君子以常德行，习教事。\n\n离30明两作，离；大人以继明照于四方。\n\n咸31山上有泽，咸；君子以虚受人。\n\n恒32雷风，恒；君子以立不易方。\n\n遁33天下有山，遁；君子以远小人，不恶而严。\n\n大壮34雷在天上，大壮；君子以非礼弗履。\n\n晋35明出地上，晋；君子以自昭明德。\n\n明夷36明入地中，明夷；君子以莅众，用晦而明。\n\n家人37风自火出，家人；君子以言有物，而行有恒。\n\n睽38上火下泽，睽；君子以同而异。\n\n蹇39山上有水，蹇；君子以反身修德。\n\n解40雷雨作，解；君子以赦过宥罪。\n\n损41山下有泽，损；君子以惩忿窒欲。\n\n益42风雷，益；君子以见善则迁，有过则改。\n\n夬43泽上于天，夬；君子以施禄及下，居德则忌。\n\n姤44天下有风，姤；后以施命诰四方。\n\n萃45泽上于地，萃；君子以除戎器，戒不虞。\n\n升46地中生木，升；君子以顺德，积小以高大。\n\n困47泽无水，困；君子以致命遂志。\n\n井48木上有水，井；君子以劳民劝相。\n\n革49泽中有火，革；君子以治历明时。\n\n鼎50木上有火，鼎；君子以正位凝命。\n\n震51洊雷，震；君子以恐惧修身。\n\n艮52兼山，艮；君子以思不出其位。\n\n渐53山上有木，渐；君子以居贤德，善俗。\n\n归妹54泽上有雷，归妹；君子以永终知敝。\n\n丰55雷电皆至，丰；君子以折狱致刑。\n\n旅56山上有火，旅；君子以明慎用刑，而不留狱。\n\n巽57随风，巽；君子以申命行事。\n\n兑58丽泽，兑；君子以朋友讲习。\n\n涣59风行水上，涣；先王以享于帝立庙。\n\n节60泽上有水，节；君子以制数度，议德行。\n\n中孚61泽上有风，中孚；君子以议狱缓死。\n\n小过62山上有雷，小过；君子以行过乎恭，丧过乎哀，用过乎俭。\n\n既济63水在火上，既济；君子以思患而豫防之。\n\n未济64火在水上，未济；君子以慎辨物居方。",
+          "link": "https://chegva.com/6282.html",
+          "publishedOn": "2025-05-22T14:55:52.000Z",
+          "wordCount": 12909,
+          "title": "【持续更新】周易《大象传》详解",
+          "imageUrl": null
+        },
         {
           "id": "https://chegva.com/?p=6388",
           "author": "anzhihe",
@@ -5021,76 +4990,6 @@
           "publishedOn": "2025-03-13T12:03:10.000Z",
           "wordCount": 20207,
           "title": "k8s cordon和drain使用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6263",
-          "author": "anzhihe",
-          "description": "在开始这一系列文章之前，我想说，如果你想从我这里得到一些速成的方法，那么你就不用往下看了，学习是不可能速成的。这里只有一些方法和技巧，是我这么多年来行之有效的，分享出来也许对你有帮助。一方面，可能会让你学得更多和更累，另一方面，可能会让你学得更系统、更全面。总之，学习是一件“逆人性”的事，就像锻炼身体一样，需要人持续付出，会让人感到痛苦，并随时想找理由放弃。\n大部分人都认为自己爱学习，但是：\n\n他们都是只有意识没有行动，他们是动力不足的人。\n\n他们都不知道自己该学什么，他们缺乏方向和目标。\n\n他们都不具备自主学习的能力，没有正确的方法和技能。\n\n更要命的是，他们缺乏实践和坚持。\n\n如果你去研究一下古今中外的成功人士，就会发现，他们基本上都是非常自律的，也都是非常热爱学习的。他们可以沉得下心来不断地学习，在学习中不断地思考、探索和实践。\n所以，如果你不能克服自己 DNA 中的弱点，不能端正自己的态度，不能自律，不能坚持，不能举一反三，不能不断追问等，那么，无论有多好的方法，你都不可能学好。所以，有正确的态度很重要。\n然后，我会在后面给你一些方法和相关的技能，让你可以真正实际操作起来。\n主动学习和被动学习\n1946 年，美国学者埃德加·戴尔（Edgar Dale）提出了「学习金字塔」（Cone of Learning）的理论。之后，美国缅因州国家训练实验室也做了相同的实验，并发布了「学习金字塔」报告。\n\n人的学习分为「被动学习」和「主动学习」两个层次。\n\n被动学习：如听讲、阅读、视听、演示，学习内容的平均留存率为 5%、10%、20% 和 30%。\n\n主动学习：如通过讨论、实践、教授给他人，会将原来被动学习的内容留存率从 5% 提升到 50%、75% 和 90%。\n\n这个模型很好地展示了不同学习深度和层次之间的对比。\n我们可以看到，你听别人讲，或是自己看书，或是让别人演示给你，…",
-          "link": "https://chegva.com/6263.html",
-          "publishedOn": "2025-03-10T06:55:09.000Z",
-          "wordCount": 9803,
-          "title": "高效学习(一)：端正学习态度",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6297",
-          "author": "anzhihe",
-          "description": "在Linux系统中，了解硬盘的转速对于评估系统性能和进行硬件优化具有重要意义，硬盘转速通常以每分钟转数（RPM, Revolutions Per Minute）来衡量，是影响数据传输速度的关键因素之一。以下是不同转速硬盘（包括7200rpm、10000rpm和15000rpm）在关键性能指标上的对比表：\n\n硬盘转速读写速度平均寻道时间数据传输率故障率适用场景\n7200rpm中等较长较低较高一般办公、家庭娱乐\n10000rpm较快较短较高中等企业级应用、轻量级数据库\n15000rpm极快极短极高较低高性能计算、数据中心、虚拟化环境\n\n\n使用hdparm命令查看硬盘转速\nhdparm是一个常用的硬盘参数设置工具，可以用于显示硬盘的各种信息，包括转速，以下是使用hdparm命令查看硬盘转速的方法：\n1、安装hdparm：\n大多数Linux发行版默认都安装了hdparm，如果没有安装，可以使用以下命令进行安装：\n   sudo apt-get install hdparm  # Debian/Ubuntu系统\r\n   sudo yum install hdparm      # CentOS/RHEL系统\n2、查看硬盘转速：\n使用以下命令查看硬盘的转速：\n   sudo hdparm -I /dev/sda | grep Rotation\n/dev/sda是你要查看的硬盘设备路径，根据实际情况替换为相应的设备名称，如果你要查看的设备是/dev/sdb，则命令为：\n   sudo hdparm -I /dev/sdb | grep Rotation\n3、输出结果解释：\n命令执行后，会输出类似如下的信息：\n   Nominal media rotation rate: 7200\n这里的7200表示硬盘的转速为7200 RPM。如果是固态硬盘（SSD），输出可能是 Rotation Rate: Solid State Device。\n使用smartctl命令查看硬盘转速\nsmartctl是一个用于读取硬盘S.M.A.R.T.（Self-Monitoring, Analysis and Reporting Technology）信息的工具，也可以用于查看硬盘的转速，以下是使用smartctl命令查看硬盘转速的方法：\n1、安装smartmontools：\nsmartctl是smartmontools软件包的一部分，首先需要安装这个软件包：\n   sudo apt-get install smartmontools  # Debian/Ubuntu系统\r\n   sudo yum install smartmontools      # CentOS/RHEL系统\n2、查看硬盘转速：\n使用以下命令查看硬盘的转速：\n   sudo smartctl -a /dev/sda | grep Rotation\n同样，将/dev/sda替换为你实际要查看的设备名称。\n3、输出结果解释：\n命令执行后，会输出类似如下的信息：\n   Rotation Rate: 7200 rpm\n这里的7200 rpm表示硬盘的转速为7200 RPM。\n其他方法\n除了上述两种常用方法外，还有其他一些方法可以查看硬盘的转速或相关信息：\n使用lsblk命令：虽然lsblk不会直接显示硬盘转速，但它可以提供硬盘的型号和供应商信息，根据这些信息可以进一步查找硬盘的转速。\n  lsblk -d -o NAME,ROTA\nROTA 列显示设备是否为旋转设备（1 表示机械硬盘，0 表示固态硬盘）。\n查看sys文件系统：通过查看/sys文件系统中的相应设备文件，可以获取硬盘是否为旋转设备的信息。\n  cat /sys/block/sda/queue/rotational\n如果输出为1，则表示该设备是旋转设备；如果输出为0，则表示该设备是固态硬盘。\n在Linux系统中，有多种方法可以查看硬盘的转速，其中最常用的是hdparm和smartctl命令，这些命令不仅可以显示硬盘的转速，还可以提供其他有用的硬盘信息，帮助用户更好地了解和管理自己的硬件设备，选择合适的方法并根据实际需求进行操作，可以有效地提升系统性能和稳定性。\n\n\n参考：\n\nhttps://www.smartmontools.org/\n\n\nhttps://sourceforge.net/projects/hdparm/\n\n\nhttps://www.kdun.com/ask/tag/%e7%a1%ac%e7%9b%98%e8%bd%ac%e9%80%9f\n\nlinux dm-0 dm-1 设备映射 简介",
-          "link": "https://chegva.com/6297.html",
-          "publishedOn": "2025-03-06T09:20:48.000Z",
-          "wordCount": 10676,
-          "title": "Linux系统下查看硬盘转速",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6261",
-          "author": "anzhihe",
-          "description": "之前的《程序员练级攻略》系列文章，对于面试成功与否是非常重要的，但是因为内容太多，所以，你可能会迷失。这里，我再补充一下相关的知识。\n对于后端程序员来说，C、C++ 和 Java 是一定要学好的，TCP 网络和 Linux 系统编程也是需要学好的。《练级攻略》中那些资料如果你能全部吃透和掌握的话（也就是“编程语言”和“系统知识”这两个章节），那么，中国的所有公司你都可以进，包括 BAT，职位可以面到一级的高级工程师。年薪至少 30 万左右。\n如果你要更为底层的话，那么需要掌握高手篇中的“Linux 系统、内存和网络”、“异步 I/O”、“Lock-Free”，以及“Java 的底层知识”，把里面的那些资料都看懂学透，那么，你可以面过年薪 50 万的职位。这是没有问题的。\n如果你要往架构师方面发展，一方面你需要有足够多的经验，以及相关的项目实施经验，这需要在相当的大公司里做过相应的项目和架构。再辅助以高手篇中的分布式架构的三篇：入门、经典图书和论文、工程设计，以及微服务和容器化这些内容，我保证你至少可以拿到年薪 60 万以上的工作。\n前端的东西如果要学习好的话，并不难。攻略中也有三篇和前端相关的文章，那三篇文章学习个 3-5 年，你也是一个非常厉害的前端工程师了，能找到 30 万 - 50 万的工作应该没什么问题。只不过，如果你还想更好的话，你需要走两个方向，一个是设计（不是软件设计，而是 UI/UX 设计），另一个是后端架构技术。\n你一定要明白，真正解决用户的问题的不是前端技术，而且是后端的业务逻辑和数据计算。前端并不是计算机的本质，计算机提升社会运作效率并不是靠前端完成的，而是靠自动化来完成的，前端只是辅助。\n另外，如果你今天还在做支持性的工作，那么你要赶快转到有产出性的工作上去，不然的话，你未来也危险了。比如像测试、运维、项目管理等，这些都是支持性的工作。我个人建议你转…",
-          "link": "https://chegva.com/6261.html",
-          "publishedOn": "2025-03-05T01:21:30.000Z",
-          "wordCount": 9146,
-          "title": "程序员面试攻略(四)：实力才是王中王",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6299",
-          "author": "anzhihe",
-          "description": "Kubernetes 集群的性能测试是确保集群在高负载下稳定运行的重要步骤。Kubemark 和 ClusterLoader2 是 Kubernetes 社区提供的两个重要工具，专门用于模拟大规模集群负载和性能测试。以下是它们的详细介绍和使用方法：\n1. Kubemark\n概述\nKubemark 是 Kubernetes 的一个性能测试工具，用于模拟大规模 Kubernetes 集群。它通过创建“空心节点”（Hollow Nodes）来模拟真实的节点，而不需要实际的物理资源。这些空心节点会模拟 Kubelet 的行为，但不会真正运行 Pod。\n使用场景\n\n测试 Kubernetes 控制平面（如 API Server、Controller Manager、Scheduler）在大规模集群下的性能。\n\n验证集群的扩展性和稳定性。\n\n避免使用大量物理资源进行性能测试。\n\n工作原理\n\n空心节点：Kubemark 创建虚拟节点（Hollow Nodes），这些节点不会运行实际的 Pod，但会模拟 Kubelet 的行为。\n\n控制平面：实际的 Kubernetes 控制平面（API Server、Controller Manager、Scheduler）会与这些空心节点交互。\n\n负载生成：通过工具（如 ClusterLoader2）在空心节点上生成负载，测试控制平面的性能。\n\n使用步骤\n1、部署 Kubemark 集群：\n\n\n在现有的 Kubernetes 集群中部署 Kubemark。\n\n使用 Kubemark 的配置文件创建空心节点。\n\n\n例如：\n\nkubectl apply -f kubemark-config.yaml\n\n\n2、运行性能测试：\n\n\n使用 ClusterLoader2 或其他工具在 Kubemark 集群上生成负载。\n\n例如：\n\n./clusterloader …",
-          "link": "https://chegva.com/6299.html",
-          "publishedOn": "2025-02-28T08:10:28.000Z",
-          "wordCount": 10355,
-          "title": "K8s集群性能测试",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6287",
-          "author": "anzhihe",
-          "description": "天有不测风云，人有旦夕祸福。蜈蚣百足，行不及蛇；雄鸡两翼，飞不过鸦。马有千里之程，无骑不能自往；人有冲天之志，非运不能自通。\n\n\n盖闻：人生在世，富贵不能淫，贫贱不能移。文章盖世，孔子厄于陈邦；武略超群，太公钓于渭水。颜渊命短，殊非凶恶之徒；盗跖年长，岂是善良之辈。尧帝明圣，却生不肖之儿；瞽叟愚顽，反生大孝之子。张良原是布衣，萧何称谓县吏。\n\n\n晏子身无五尺，封作齐国宰相；孔明卧居草庐，能作蜀汉军师。楚霸虽雄，败于乌江自刎；汉王虽弱，竟有万里江山。李广有射虎之威，到老无封；冯唐有乘龙之才，一生不遇。韩信未遇之时，无一日三餐，及至遇行，腰悬三尺玉印，一旦时衰，死于阴人之手。\n\n\n有先贫而后富，有老壮而少衰。满腹文章，白发竟然不中；才疏学浅，少年及第登科。深院宫娥，运退反为妓妾；风流妓女，时来配作夫人。青春美女，却招愚蠢之夫；俊秀郎君，反配粗丑之妇。\n\n\n蛟龙未遇，潜水于鱼鳖之间；君子失时，拱手于小人之下。衣服虽破，常存仪礼之容；面带忧愁，每抱怀安之量。时遭不遇，只宜安贫守份；心若不欺，必然扬眉吐气。\n\n\n天不得时，日月无光；地不得时，草木不生；水不得时，风浪不平；人不得时，利运不通。注福注禄，命里已安排定，富贵谁不欲?人若不依根基八字，岂能为卿为相?\n\n\n吾昔寓居洛阳，朝求僧餐，暮宿破窑，思衣不可遮其体，思食不可济其饥。上人憎，下人厌，人道我贱，非我不弃也。\n\n\n今居朝堂，官至极品，位置三公，身虽鞠躬于一人之下，而列职于千万人之上，有挞百僚之杖，有斩鄙吝之剑，思衣而有罗锦千箱，思食而有珍馐百味，出则壮士执鞭，入则佳人捧觞，上人宠，下人拥。人道我贵，非我之能也，此乃时也、运也、命也。\n\n\n嗟呼!人生在世，富贵不可尽用，贫贱不可自欺，听由天地循环，周而复始焉。\n\n《寒窑赋》作者介绍\n　　吕蒙正（944或946—1011），北宋大臣。字圣功，洛阳（今属河南省）人。公元977年（宋太宗太平兴国二年）丁丑科状元。授将作监丞，通判升州。再著作郎，入值史馆。公元980年（太平兴国五年），拜左补阙，知制诰。后任参知政事。公元988年（端拱元年），拜为宰相。为人质厚宽简，素有重望，以正道自持，遇事敢言。每论时政，有不允者，必不强力推行。与赵普同在相位，关系极为融洽。公元991年（淳化二年），贬为吏部尚书。两年后复以本官入相。公元995年（至道元年），再度罢相。真宗即位，任命吕蒙正为左仆射。公元1001年（咸平四年），第三次登上相位。后封莱国公，授太子太师。不久，因病辞官，回归故里。卒谥文穆，赠中书令。\n    《破窑赋》系吕蒙正之《劝世章》，又称《寒窑赋》。由于受传统观影响太深，有人认为吕蒙正的思想过于保守消极，因此吕蒙正的许多文章典籍都已失落，而在《吕文穆公传》中这首破窑赋被看作是吕蒙正的经典之作。相传当初是为教化太子而作此文的。吕蒙正曾三次入相，兼任太子的老师。当时太子（后来的宋真宗）青春年少，目中无人，没有哪个太师敢当面教训太子。吕蒙正决定写一篇文章，来告诫太子。于是写了这篇《破窑赋》。这篇文章，虽然内容短小，但是却包含了无穷智慧，聪明的太子一下子就懂得其中的道理。据说太子读过此文后，一改常态，常虚心向他人请教。",
-          "link": "https://chegva.com/6287.html",
-          "publishedOn": "2025-02-27T00:18:10.000Z",
-          "wordCount": 8801,
-          "title": "《寒窑赋》",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6260",
-          "author": "anzhihe",
-          "description": "国内公司和国外公司在面试风格上完全不一样，所以，这里我们也需要了解一下不同风格的面试方法，这样有利于你准备。\n说句实话，国内的公司是比较好面的，国外的公司是比较难面的。从职位招聘信息上你就可以看出来，国内的公司包括知名公司更多的是面试在表面上。因为国内公司招的基本上都是马上能来干活的，所以，问的更多的是一些技术知识上的东西。\n准备这些知识性的东西，本质上来说跟准备考试没什么两样，恶补一下相关知识就好了。然后讲一个项目，项目中他们也不怎么追问细节，面试的过程中，也不需要写代码，也不需要解决一个难题，所以，容易蒙混过关。\n国外的知名公司就没有那么容易了，真是全方位的考察，你的表达能力、沟通能力、思维方式、解题思路、代码风格、算法和数据结构、设计和架构能力、解决难题的能力……这是很难靠恶补就可以过关的，没有踏踏实实的沉淀、钻研和思考，你是很难过关的。\n国内公司\n对于在基层干活的程序员来说，国内的公司，小公司不说了，诸如 BAT 这样的公司，基本上来说，都是比较好面的。一般来说，都会问你一些技术知识，比如：Java 语言的一些特性啊，会不会用 Spring 和 Netty 啊，JVM 怎么配置怎么调试啊，并发编程是怎么玩的……\n这些问题基本上来说都是知识性的问题，都是可以 Google 的，通过查手册查文档就可以知道的。所以，这些问题是很容易准备的，只要你老老实实地看几本我在《程序员练级攻略》里推荐的书就好了。当然，还是有很多人连这些基本的问题都回答不上来，这只能怪自己了。\n回答完这些知识性的问题，就是项目经历描述了。你可以随便讲你做过的项目，把这个项目用到的一些技术架构都说清楚就好了，还有怎么上线的，怎么运维的，怎么加班的，怎么苦逼的，怎么带人的，怎么管理项目的。面试官也很少追问技术细节，因为可能面试官自己都不懂（哈哈）。\n只要你按照我前面说的那个讲项目的方式来，面试官一看你用到…",
-          "link": "https://chegva.com/6260.html",
-          "publishedOn": "2025-02-24T07:37:02.000Z",
-          "wordCount": 9253,
-          "title": "程序员面试攻略(三)：面试风格",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6259",
-          "author": "anzhihe",
-          "description": "前面一篇文章讲的是面试前的准备，我从简历、技术知识、算法题和工作项目四个方面一一分享了该如何做准备，以及其中的经验和技巧。今天我们就来聊聊面试中的技巧。\n形象和谈吐\n面试过程很短，对一个人的认识和了解也是很有限的。如果你的技能一般的话，那么就需要加强你的形象和谈吐了。总之，你不能内在和外在都不要吧，最好是内在和外在都很好。\n形象方面，最好还是穿工作便装，休闲的也没事，但是要让人感到干净、整洁。不要有异味，不要邋遢——头不梳、胡子不刮、衣服也皱巴巴的，还是要修修边幅的。因为有 HR 的人会来面你的，HR 一般都是女孩子，所以不要吓到她们。\n另外，保持微笑，表现得热情、开朗和幽默是非常重要的。每个人都喜欢和开朗风趣积极向上的人相处。经常微笑，表现出自己的热情，适当开开玩笑，自嘲一下，会让人觉得你很容易亲近。交谈时千万不要像挤牙膏一样，别人问你一句，你答一句，要把完整的前因后果讲完。别人问你个事，你就多分享一些这个事中的酸甜苦辣，把故事讲得生动有趣点儿，能逗笑 HR 妹子最好（但不要撩）。\n说话的时候，要看着对方，一方面这是对对方的尊重和礼貌，另一方面，这也是一种自信。就算没有面好，也不要低着头，又不是做错了什么事。有什么事说不清楚的，不要犹豫，该画图画图。对于比较复杂的面试官听不懂的问题，要变换不同的方式来描述。\n面试官问的问题，你要给出充足的细节，千万不要让面试官不断地追问，那样就被动了。你问我解决过的最难的问题是什么，我就把这个问题的来龙去脉和其中的各种细节给你滔滔不绝地讲个遍。当然，也要讲得清楚干净有条理，不要东拉西扯的，也不要云山雾罩的。这些表达和谈吐还是要多练！\n最好的训练就写作，你写得多了，能把复杂的问题描述清楚了，自然也会体现在语言组织能力上了。\n答不出来\n面试中有一些问题很难，但是不要放弃，要不断尝试。很多时候，面试官并不期待你能在很短的时候内解出一道难题，他只…",
-          "link": "https://chegva.com/6259.html",
-          "publishedOn": "2025-02-21T03:26:53.000Z",
-          "wordCount": 9696,
-          "title": "程序员面试攻略(二)：面试中的技巧",
           "imageUrl": null
         }
       ]
@@ -5226,6 +5125,16 @@
       "siteUrl": "https://lostdeer.xyz",
       "articles": [
         {
+          "id": "https://lostdeer.xyz/?p=1401",
+          "author": "Yuntian52",
+          "description": "《食南之徒》 S级 这是我第一次读马伯庸的作品，刚刚我打开百科，竟发现还是我老乡。 这本食南之徒写于2024年 […]",
+          "link": "https://lostdeer.xyz/shinanzhitu/",
+          "publishedOn": "2025-06-07T10:33:40.000Z",
+          "wordCount": 2255,
+          "title": "《食南之徒》简评",
+          "imageUrl": "https://lostdeer.xyz/wp-content/uploads/2025/06/902397dda144ad3459826477aefa1bf431adcaef2fb0.webp"
+        },
+        {
           "id": "https://lostdeer.xyz/?p=1371",
           "author": "Yuntian52",
           "description": "前言 去年下半年工作之后，有了一个单人宿舍，基础设施虽然有些小毛病，但起码该有都有，对于一个人生活来说已经足够 […]",
@@ -5264,16 +5173,6 @@
           "wordCount": 2288,
           "title": "艺术作品，与时代性",
           "imageUrl": "https://lostdeer.xyz/wp-content/uploads/2024/12/s27903983_SXgfxH4F4a-e1742718763489.jpg"
-        },
-        {
-          "id": "https://lostdeer.xyz/?p=1337",
-          "author": "Yuntian52",
-          "description": "《雕刻时光》为前苏联导演塔可夫斯基关于自己在电影创作过程的记录。塔可夫斯基一生只留下了7部长片，但每一部都是经 […]",
-          "link": "https://lostdeer.xyz/sculpting-in-time/",
-          "publishedOn": "2025-02-23T09:26:08.000Z",
-          "wordCount": 2522,
-          "title": "《雕刻时光》笔记",
-          "imageUrl": "https://lostdeer.xyz/wp-content/uploads/2024/12/s28622011_JcmXuxKa-4.jpg"
         }
       ]
     },
