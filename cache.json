@@ -698,21 +698,6 @@
             "length": "0"
           },
           "imageUrl": "https://srebro.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https%3A%2F%2Fs3api.srebro.cn%2Fpicgo%2F202503131552612.png&size=m"
-        },
-        {
-          "id": "/archives/1741745198026",
-          "author": "运维小弟",
-          "description": "Docker子网冲突解决方案及配置说明 问题描述 公司现有子网为 172.19.0.0/24，某研发在使用docker的时候总是会有连不上的情况，排查发现在未配置 Docker 配置文件时，其默认创建的网络可能随机使用 172.17.0.0/16 至 172.31.0.0/16 范围内的子网，存在以",
-          "link": "https://srebro.cn/archives/1741745198026",
-          "publishedOn": "2025-03-12T02:10:02.000Z",
-          "wordCount": 2299,
-          "title": "Docker子网冲突解决方案",
-          "enclosure": {
-            "url": "https://srebro.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https%3A%2F%2Fs3api.srebro.cn%2Fsrebro%2Fpicture%2F2913E10A-DA1C-4E4C-8F3B-4C35DFE6AE5D.png&size=m",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://srebro.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https%3A%2F%2Fs3api.srebro.cn%2Fsrebro%2Fpicture%2F2913E10A-DA1C-4E4C-8F3B-4C35DFE6AE5D.png&size=m"
         }
       ]
     },
@@ -1130,6 +1115,16 @@
       "siteUrl": "https://www.kawabangga.com",
       "articles": [
         {
+          "id": "https://www.kawabangga.com/?p=7015",
+          "author": "laixintao",
+          "description": "一个 XDP 练习程序：作为 TCP 的 server 端，用 XDP 实现所有的 TCP 端口都接受 TCP […]\nContinue reading...",
+          "link": "https://www.kawabangga.com/posts/7015",
+          "publishedOn": "2025-06-08T15:57:48.000Z",
+          "wordCount": 2132,
+          "title": "XDP 实现所有的 TCP 端口都接受 TCP 建立连接",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.kawabangga.com/?p=6980",
           "author": "laixintao",
           "description": "Django ORM 是我最喜欢的 ORM，它自带了全套数据库管理的解决方案，开箱即用。但是到了某一家公司里就 […]\nContinue reading...",
@@ -1280,6 +1275,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=301463",
+          "author": "Brandon Lee",
+          "description": "Knowing what is on your network is a huge part of network security. We can document devices and other aspects of the network. However, what if a device appears on the network unannounced or not really in an expected way. Do you have visibility on this? I have been a huge advocate for ARP alert …\nThe post NetAlertX Self-Hosted Network Monitoring for Home Labs appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/06/netalertx-self-hosted-network-monitoring-for-home-labs/",
+          "publishedOn": "2025-06-09T13:49:16.000Z",
+          "wordCount": 10403,
+          "title": "NetAlertX Self-Hosted Network Monitoring for Home Labs",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/06/netalertx-self-hosted-network-monitoring.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=301425",
           "author": "Brandon Lee",
@@ -2099,36 +2104,6 @@
           "wordCount": 8400,
           "title": "Daily Tech Deals March 12 2025",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/image-32.jpeg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=299933",
-          "author": "Brandon Lee",
-          "description": "Many are utilizing Proxmox VE Server in their home labs. Proxmox is a great option for running virtual machines and containers and self-hosting. You will likely want to monitor your Proxmox environment with some type of tool to make sure everything is running as expected. CheckMK Raw edition is a free and open source monitoring …\nThe post Monitor Proxmox with CheckMK Open Source Monitoring appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/03/monitor-proxmox-with-checkmk-open-source-monitoring/",
-          "publishedOn": "2025-03-12T13:34:48.000Z",
-          "wordCount": 11022,
-          "title": "Monitor Proxmox with CheckMK Open Source Monitoring",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/Proxmox-Monitoring.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=299925",
-          "author": "Brandon Lee",
-          "description": "Looking for great tech deals? Check out items on today’s daily tech deals. You can get the Keychron K2 75% Layout Bluetooth Wireless Mechanical Gaming Keyboard for 25% off, the GMKtec M5 Plus Gaming Mini PC for 20% off, the GMKtec Mini PC Gaming, M7 Pro for 24% off, the ARZOPA 32” 4K UHD (3840×2160) …\nThe post Daily Tech Deals March 11 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/03/daily-tech-deals-march-11-2025/",
-          "publishedOn": "2025-03-11T14:47:39.000Z",
-          "wordCount": 8563,
-          "title": "Daily Tech Deals March 11 2025",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/image-30.jpeg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=299913",
-          "author": "Brandon Lee",
-          "description": "Building and running your own home server is one of the best ways to learn and allows ones to experiment and learn technologies that they might not get to learn in a production environment. When you are building your home server, there are various technologies that can give you options to run different types of …\nThe post PCIE Bifurcation and Why You Need It in Your Home Server appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/03/pcie-bifurcation-and-why-you-need-it-in-your-home-server/",
-          "publishedOn": "2025-03-11T14:23:32.000Z",
-          "wordCount": 10823,
-          "title": "PCIE Bifurcation and Why You Need It in Your Home Server",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/You-Need-Bifurcation.png"
         }
       ]
     },
@@ -2137,6 +2112,36 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=35423",
+          "author": "Tanvir Kour",
+          "description": "Unlocking Success with Custom Software Development No two businesses are exactly alike. Yet many still rely on off-the-shelf applications that assume they are. These generalized solutions often force companies to adapt to the software—rather than the software fitting their processes. In today’s competitive market, this mismatch can lead to operational bottlenecks, lost productivity, and missed […]",
+          "link": "https://collabnix.com/custom-software-that-works-for-you-a-strategic-path-to-digital-excellence/",
+          "publishedOn": "2025-06-09T10:30:23.000Z",
+          "wordCount": 5364,
+          "title": "Custom Software Development for Your Business Needs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=35405",
+          "author": "Collabnix Team",
+          "description": "Discover the top agentic AI trends 2025 that will transform business operations. From multi-agent systems to enterprise deployment strategies - get expert insights now.",
+          "link": "https://collabnix.com/agentic-ai-trends-2025-the-complete-guide-to-autonomous-intelligence-revolution/",
+          "publishedOn": "2025-06-08T18:33:42.000Z",
+          "wordCount": 7165,
+          "title": "Agentic AI Trends 2025: The Complete Guide to Autonomous Intelligence Revolution",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=35205",
+          "author": "Ajeet Raina",
+          "description": "As Discord continues to evolve as the primary platform for community building, gaming, and collaboration, the need for intelligent automation and AI-powered community management becomes increasingly important. The Model Context Protocol (MCP) opens up exciting possibilities for integrating AI assistants like Claude directly with Discord servers, enabling sophisticated bot interactions, content moderation, and community engagement […]",
+          "link": "https://collabnix.com/docker-mcp-toolkit-guide-integrating-claude-desktop-with-discord-servers/",
+          "publishedOn": "2025-06-08T08:05:46.000Z",
+          "wordCount": 5553,
+          "title": "Model Context Protocol: Integrate Claude with Discord",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=34886",
           "author": "Collabnix Team",
@@ -3036,46 +3041,6 @@
           "wordCount": 2728,
           "title": "How People Utilize VPNs in Cloud-Driven DevOps Teams",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30949",
-          "author": "Tanvir Kour",
-          "description": "See how a timer app Windows blends time tracking and monitoring to lift productivity for business owners and teams.",
-          "link": "https://collabnix.com/tracking-time-and-boosting-work-with-a-timer-app-windows/",
-          "publishedOn": "2025-03-11T16:11:58.000Z",
-          "wordCount": 3112,
-          "title": "Tracking Time and Boosting Work with a Timer App Windows",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30921",
-          "author": "Adesoji Alu",
-          "description": "Introduction DeepSeek is an advanced open-source code language model (LLM) that has gained significant popularity in the developer community. When paired with Ollama, an easy-to-use framework for running and managing LLMs locally, and deployed on Azure Kubernetes Service (AKS), we can create a powerful, scalable, and cost-effective environment for AI applications. This blog post walks […]",
-          "link": "https://collabnix.com/running-deepseek-r1-on-azure-kubernetes-service-aks-using-ollama/",
-          "publishedOn": "2025-03-11T12:28:23.000Z",
-          "wordCount": 3294,
-          "title": "Running DeepSeek R1 on Azure Kubernetes Service (AKS) using Ollama",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30926",
-          "author": "Collabnix Team",
-          "description": "Ollama, a powerful framework for running and managing large language models (LLMs) locally, is now available as a native Windows application. This means you no longer need to rely on Windows Subsystem for Linux (WSL) to run Ollama. Whether you’re a software developer, AI engineer, or DevOps professional, this guide will walk you through setting […]",
-          "link": "https://collabnix.com/is-ollama-available-for-windows/",
-          "publishedOn": "2025-03-11T07:46:46.000Z",
-          "wordCount": 2895,
-          "title": "Is Ollama available for Windows?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30928",
-          "author": "Ajeet Raina",
-          "description": "TensorRT-LLM is essentially a specialized tool that makes large language models (like ChatGPT) run much faster on NVIDIA hardware. Think of it this way: If a regular language model is like a car engine that can get you from point A to point B, TensorRT-LLM is like a high-performance tuning kit that makes that same […]",
-          "link": "https://collabnix.com/running-llms-with-tensorrt-llm-on-nvidia-jetson-orin-nano-super/",
-          "publishedOn": "2025-03-11T02:36:16.000Z",
-          "wordCount": 5623,
-          "title": "Running LLMs with TensorRT-LLM on NVIDIA Jetson Orin Nano Super",
-          "imageUrl": null
         }
       ]
     },
@@ -3400,16 +3365,6 @@
           "wordCount": 566,
           "title": "互联网公司后发劣势",
           "imageUrl": ""
-        },
-        {
-          "id": "https://www.skyue.com/25031123.html",
-          "author": "拾月",
-          "description": "最近极限操作，装修和备婚并行。2月22日和3月9日南瓜和我去了两趟杭州国际博览中心，分别参加家博会和婚博会。两次会场总体还算热闹，没有人山人海那么夸张，但也络绎不绝。在电商的冲击下，线下博览会仍...",
-          "link": "https://www.skyue.com/25031123.html",
-          "publishedOn": "2025-03-11T15:23:00.000Z",
-          "wordCount": 551,
-          "title": "家博会&amp;婚博会",
-          "imageUrl": ""
         }
       ]
     },
@@ -3418,6 +3373,21 @@
       "feedUrl": "https://bluehe.cn/rss.xml",
       "siteUrl": "https://bluehe.cn/",
       "articles": [
+        {
+          "id": "https://bluehe.cn/archives/pompeii-ancient-city",
+          "author": "寻鹤",
+          "description": "在广西壮族自治区博物馆举办了，凝固的时光—意大利那不勒斯国家考古博物馆藏庞贝文物特展，很早就买了早鸟票，值不值大家可以评价。成人45，优待30，文物并不是很多，2025年6月1日前往，看到在10:30分会有官方的讲解员为大家介绍，而我们正好在10:20分抵...",
+          "link": "https://bluehe.cn/archives/pompeii-ancient-city",
+          "publishedOn": "2025-06-09T08:10:00.000Z",
+          "wordCount": 562,
+          "title": "庞贝古城：火山灰下的封印",
+          "enclosure": {
+            "url": "https://bluehe.cn/usr/uploads/2025/06/3540863769.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bluehe.cn/usr/uploads/2025/06/3540863769.jpg"
+        },
         {
           "id": "https://bluehe.cn/archives/traffic-accident-2",
           "author": "寻鹤",
@@ -4070,6 +4040,16 @@
       "feedUrl": "https://zahui.fan/atom.xml",
       "siteUrl": "https://zahui.fan/atom.xml",
       "articles": [
+        {
+          "id": "https://zahui.fan/posts/sxl41q/",
+          "author": null,
+          "description": "<p><img src= \"https://static.zahui.fan/public/nes.gif\" data-lazy-src=\"https://static.zahui.fan/images/20250609183441693.png\" alt=\"image.png\"></p>\n<p>ALTER TABLE vehicle_user_role CONVERT TO CHARACTER",
+          "link": "https://zahui.fan/posts/sxl41q/",
+          "publishedOn": "2025-06-09T10:34:38.000Z",
+          "wordCount": 491,
+          "title": "MySQL字符集转换导致",
+          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
+        },
         {
           "id": "https://zahui.fan/posts/sxb6po/",
           "author": null,
