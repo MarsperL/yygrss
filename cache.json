@@ -1261,6 +1261,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=301482",
+          "author": "Brandon Lee",
+          "description": "I love really cool self-hosted tools that allow you to have total control over the solution and helps to avoid “free” online services that are riddled with ads, telemetry data and other undesirables. I want to introduce you to OmniTools which is a breath of fresh air. it is a lightweight self-hosted app that provides …\nThe post OmniTools: A Swiss Army Knife of Self-Hosted Utilities appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/06/omnitools-a-swiss-army-knife-of-self-hosted-utilities/",
+          "publishedOn": "2025-06-11T13:00:23.000Z",
+          "wordCount": 10488,
+          "title": "OmniTools: A Swiss Army Knife of Self-Hosted Utilities",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/06/omnitools-swiss-army-knife-self-hosted-utilities.jpg"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=301463",
           "author": "Brandon Lee",
           "description": "Knowing what is on your network is a huge part of network security. We can document devices and other aspects of the network. However, what if a device appears on the network unannounced or not really in an expected way. Do you have visibility on this? I have been a huge advocate for ARP alert …\nThe post NetAlertX Self-Hosted Network Monitoring for Home Labs appeared first on Virtualization Howto.",
@@ -2059,26 +2069,6 @@
           "wordCount": 8500,
           "title": "Daily Tech Deals March 14 2025",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/image-43.jpeg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=299994",
-          "author": "Brandon Lee",
-          "description": "Looking for great tech deals? Check out items on today’s daily tech deals. Today there are two really awesome 4 TB NVMe drives for 28% off, Dell OptiPlex 7020 MFF Mini PC for 14% off, MINISFORUM UM870 Slim Mini PC for 20% off, and a darkFlash ATX Mid-Tower PC Case for 14% off. Disclosure: The …\nThe post Daily Tech Deals March 13 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/03/daily-tech-deals-march-13-2025/",
-          "publishedOn": "2025-03-13T16:13:33.000Z",
-          "wordCount": 8403,
-          "title": "Daily Tech Deals March 13 2025",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/image-32.jpeg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=299969",
-          "author": "Brandon Lee",
-          "description": "So I have been doing all kinds of modding and strategizing on my Proxmox server and trying different things on my second Proxmox server build. Since I am using the Minisforum BD795i SE, this is a great board, but limited on connectivity in terms of storage options. Unlike the BD795M, it doesn’t have SATA ports …\nThe post Add NVMe slots to your Proxmox Server with Hardware and Bifurcation Mods! appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/03/add-nvme-slots-to-your-proxmox-server-with-hardware-and-bifurcation-mods/",
-          "publishedOn": "2025-03-13T14:35:41.000Z",
-          "wordCount": 10720,
-          "title": "Add NVMe slots to your Proxmox Server with Hardware and Bifurcation Mods!",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/Bifurcation-Mods.jpg"
         }
       ]
     },
@@ -2087,6 +2077,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=35502",
+          "author": "Ajeet Raina",
+          "description": "Learn how to minimize and manage the IoT attack surface. Discover how attack surface management tools and end-to-end encryption prevent cyberattacks.",
+          "link": "https://collabnix.com/less-exposure-more-protection-how-to-reduce-the-iot-attack-surface/",
+          "publishedOn": "2025-06-11T13:41:44.000Z",
+          "wordCount": 5158,
+          "title": "Less Exposure, More Protection: How to Reduce the IoT Attack Surface",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=35498",
+          "author": "Collabnix Team",
+          "description": "So you’ve probably heard the buzz about “Agentic AI” floating around tech circles lately, right? Maybe you’re wondering if it’s just another fancy buzzword or if there’s actually something revolutionary happening here. Well, let me tell you – this isn’t just hype. We’re looking at what might be the biggest shift in how AI works […]",
+          "link": "https://collabnix.com/what-is-agentic-ai-and-why-should-you-care-spoiler-its-going-to-change-everything-about-work/",
+          "publishedOn": "2025-06-11T09:37:30.000Z",
+          "wordCount": null,
+          "title": "What is Agentic AI and Why Should You Care? (Spoiler: It’s Going to Change Everything About Work)",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=35423",
           "author": "Tanvir Kour",
@@ -2986,26 +2996,6 @@
           "wordCount": 2888,
           "title": "Does Ollama Need a GPU?",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30986",
-          "author": "Adesoji Alu",
-          "description": "Introduction: The Ever-Changing Landscape of APIs If you’ve worked as a developer, you know the pain of API changes. One day, your app runs flawlessly; the next, an API update forces months of rework. This reality extends to AI-driven applications, and OpenAI’s latest announcements are no exception. The company is sunsetting its Assistants API in […]",
-          "link": "https://collabnix.com/why-openais-new-ai-agent-tools-could-revolutionize-coding-practices/",
-          "publishedOn": "2025-03-14T11:51:07.000Z",
-          "wordCount": 2838,
-          "title": "Why OpenAI’s New AI Agent Tools Could Revolutionize Coding Practices",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=30920",
-          "author": "Adesoji Alu",
-          "description": "Introduction Large language models (LLMs) like ChatGPT and Claude have revolutionized how we interact with technology, yet they’ve remained confined to static knowledge and isolated interfaces—until now. The Model Context Protocol (MCP), introduced by Anthropic, is breaking down these barriers, enabling AI to seamlessly integrate with real-world data and tools. This blog explores how MCP […]",
-          "link": "https://collabnix.com/model-context-protocol-mcp-what-problem-does-it-solve/",
-          "publishedOn": "2025-03-14T11:04:36.000Z",
-          "wordCount": 2982,
-          "title": "Model Context Protocol (MCP): What problem does it solve?",
-          "imageUrl": null
         }
       ]
     },
@@ -3222,6 +3212,16 @@
       "siteUrl": "https://www.skyue.com/",
       "articles": [
         {
+          "id": "https://www.skyue.com/25061209.html",
+          "author": "拾月",
+          "description": "端午节去宁波玩。此行的主要目的是探访天一阁。作为中国现存最古老、保存较完好的大型藏书楼，我早已心向往之。",
+          "link": "https://www.skyue.com/25061209.html",
+          "publishedOn": "2025-06-12T01:25:00.000Z",
+          "wordCount": 536,
+          "title": "天一阁",
+          "imageUrl": ""
+        },
+        {
           "id": "https://www.skyue.com/25061022.html",
           "author": "拾月",
           "description": "昨日到公司，在电梯遇见YB正在搬运物品，东西不多，想来已经搬完。6月9日是YB在字节的last day。YB在字节有新名字，但我仍习惯称他为YB。",
@@ -3329,16 +3329,6 @@
           "publishedOn": "2025-03-16T13:10:00.000Z",
           "wordCount": 545,
           "title": "装修日记（1）：各种准备工作",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://www.skyue.com/25031322.html",
-          "author": "拾月",
-          "description": "在电商行业干久了，经历过多家公司，就会发现：行业内所有产品都在向淘宝靠拢，内部方案沟通，经常被cue的问题就是「淘宝怎么做的」，如果做国际电商，镜像就是「亚马逊怎么做的」。这些公司通常也会定向招...",
-          "link": "https://www.skyue.com/25031322.html",
-          "publishedOn": "2025-03-13T14:42:00.000Z",
-          "wordCount": 566,
-          "title": "互联网公司后发劣势",
           "imageUrl": ""
         }
       ]
@@ -3654,6 +3644,16 @@
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
         {
+          "id": "https://dusays.com/838/",
+          "author": null,
+          "description": "<blockquote>\n</blockquote>",
+          "link": "https://dusays.com/838/",
+          "publishedOn": "2025-06-10T16:00:00.000Z",
+          "wordCount": 1285,
+          "title": "Temp Mail 评测：兼具隐私和便捷性的最佳临时电子邮件服务",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
           "id": "https://dusays.com/831/",
           "author": null,
           "description": "<blockquote>\n<p>在当今数字化协作的时代，高效的项目管理工具对于团队的成功至关重要。Focalboard 作为一款开源的项目管理软件，正逐渐崭露头角，受到了众多团队和个人的青睐。</p>\n</blockquote>",
@@ -3889,7 +3889,18 @@
       "title": "Linux运维笔记",
       "feedUrl": "https://wanghaiyang.cc/rss.xml",
       "siteUrl": "http://localhost:8090/",
-      "articles": []
+      "articles": [
+        {
+          "id": "/archives/X7gujnCM",
+          "author": null,
+          "description": "安装Redis 下载 找到对应的版本 https://download.redis.io/releases/ 安装依赖 yum install -y gcc tcl jemalloc-devel\n 解压 tar -zxvf redis-6.2.9.tar.gz -C /opt\n 运行编译命令 cd",
+          "link": "http://localhost:8090/archives/X7gujnCM",
+          "publishedOn": "2025-06-11T06:12:20.000Z",
+          "wordCount": null,
+          "title": "基于Linux环境安装Redis 6.2.7",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "清风",
@@ -4243,6 +4254,16 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=22137",
+          "author": "xiaoz",
+          "description": "近日，有关 Alist 疑似被收购的消息引发了网友热议。尽管目前尚未曝出明确的安全问题，但不少用户对其未来的安全性产生了疑虑。为此，博主将为大家整理了5款私有部署的网盘软件，希望能帮你完成过渡。写在最前由于每个人的需求并不完全一样，下方推荐的5款替代软件可能无法确保满足所有用户的需求，建议大家自行尝",
+          "link": "https://blog.xiaoz.org/archives/22137",
+          "publishedOn": "2025-06-11T08:57:54.000Z",
+          "wordCount": 292,
+          "title": "Alist被收购？这 5 款私有存储程序帮你过渡",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=22095",
           "author": "xiaoz",
