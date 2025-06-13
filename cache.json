@@ -1261,6 +1261,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=301494",
+          "author": "Brandon Lee",
+          "description": "Have you worked with Docker compose and ever wanted to have a proper blue/green deployment for making sure your services stay up and running when you update them? We have all experienced going down for a few seconds or a full restart of containers when updating them. Docker Compose is a great solution for orchestrating …\nThe post Docker Rollout: Zero-Downtime Deployments for Docker Compose Made Simple appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/06/docker-rollout-zero-downtime-deployments-for-docker-compose-made-simple/",
+          "publishedOn": "2025-06-12T14:47:48.000Z",
+          "wordCount": 10503,
+          "title": "Docker Rollout: Zero-Downtime Deployments for Docker Compose Made Simple",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/06/docker-rollout-zero-downtime-deployments.jpg"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=301482",
           "author": "Brandon Lee",
           "description": "I love really cool self-hosted tools that allow you to have total control over the solution and helps to avoid “free” online services that are riddled with ads, telemetry data and other undesirables. I want to introduce you to OmniTools which is a breath of fresh air. it is a lightweight self-hosted app that provides …\nThe post OmniTools: A Swiss Army Knife of Self-Hosted Utilities appeared first on Virtualization Howto.",
@@ -2049,26 +2059,6 @@
           "wordCount": 11622,
           "title": "Can You Run a Kubernetes Cluster on a Mini PC?",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/can-you-run-kubernetes-cluster-on-mini-pc.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=300010",
-          "author": "Brandon Lee",
-          "description": "If you haven’t downloaded StarWind V2V in a while, there has been a major series of updates to the tool as of late. It now has the ability to convert from VMware to Proxmox as of late, as well as several new options since the early days of the tool. Early on, it was simply …\nThe post StarWind V2V Converter: Convert VMware to Proxmox and New CLI appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/03/starwind-v2v-converter-convert-vmware-to-proxmox-and-new-cli/",
-          "publishedOn": "2025-03-14T21:11:34.000Z",
-          "wordCount": 10811,
-          "title": "StarWind V2V Converter: Convert VMware to Proxmox and New CLI",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/Best-Tool-to-get-off-VMware.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=300001",
-          "author": "Brandon Lee",
-          "description": "Looking for great tech deals? Check out items on today’s daily tech deals. Today there are two really awesome mechanical keyboards for 40% off and 34% off respectively, Laptop Screen Extender Monitor for 35% off, 2025 Upgraded Android 14 Tablet for 32% off, and a X3 Wireless Gaming Headset for 44% off. Disclosure: The links …\nThe post Daily Tech Deals March 14 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/03/daily-tech-deals-march-14-2025/",
-          "publishedOn": "2025-03-14T14:36:28.000Z",
-          "wordCount": 8500,
-          "title": "Daily Tech Deals March 14 2025",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/image-43.jpeg"
         }
       ]
     },
@@ -2986,16 +2976,6 @@
           "wordCount": 2606,
           "title": "Tech Solutions That Make Sense",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=31013",
-          "author": "Tanvir Kour",
-          "description": "I’ve been getting this question a lot lately: “Do I really need a GPU to run Ollama?” It’s a fair question, especially if you’re just dipping your toes into the world of local LLMs. So today, let’s break down the real deal with Ollama and GPUs in a way that hopefully makes sense whether you’re […]",
-          "link": "https://collabnix.com/does-ollama-need-a-gpu/",
-          "publishedOn": "2025-03-15T02:05:27.000Z",
-          "wordCount": 2888,
-          "title": "Does Ollama Need a GPU?",
-          "imageUrl": null
         }
       ]
     },
@@ -3172,13 +3152,13 @@
       "siteUrl": "https://limboy.me/",
       "articles": [
         {
-          "id": "https://limboy.me/posts/ideal-text-content-create-deliver-consume",
+          "id": "https://limboy.me/posts/ai-assisted-coding",
           "author": null,
-          "description": "理论上，一个平台包揽文本内容的创作、分发和消费应该会很高效，就像早期的 Twitter。但这种模式存在着根本性的弊端：不可控性。这种不可控体现在多个方面：",
-          "link": "https://limboy.me/posts/ideal-text-content-create-deliver-consume",
-          "publishedOn": "2025-03-15T00:00:00.000Z",
-          "wordCount": 217,
-          "title": "理想的文本内容创作、分发和消费系统",
+          "description": "前些日子尝试借助 Cursor（主要是 claude-sonnet-4） 写一个五子棋 Web App，想着这是一个挺成熟的项目，应该不太需要干预，直接 Vibe Coding（依靠 LLM 生成代码） 应该就能搞定。一开始挺顺利的，界面经过几轮 Prompt 后，基本符合需求，也可以下棋，但在优化五子棋智能时遇到了严重的问题。我扮演 QA 的角色，不断地下棋，然后反馈五子棋算法的错误落子，AI Code Assistant（以下简称 ACA） 收到反馈后，总是会回复：我找到问题了！我解决问题了！完美！诸如此类，我还真就信了。在尝试了大约 50 次后，我发现事情不对，它好像没有真正地解决问题，只是解决了我那次报给它的问题，而且代码也变得异常臃肿，根本没法维护。",
+          "link": "https://limboy.me/posts/ai-assisted-coding",
+          "publishedOn": "2025-06-12T00:00:00.000Z",
+          "wordCount": 391,
+          "title": "关于 AI 辅助编程的一些实践和思考",
           "imageUrl": null
         }
       ]
@@ -3521,16 +3501,6 @@
           "wordCount": 8041,
           "title": "前沿快讯 第69期 通过反向传播LLM生成的反馈来优化AI系统等",
           "imageUrl": "https://chevereto.hwb0307.com/images/2025/03/15/science.add3417-fa.jpg"
-        },
-        {
-          "id": "https://blognas.hwb0307.com/?p=6339",
-          "author": "Bensz",
-          "description": "Bensz\n前沿快讯 第68期 工程化嗜酸乳杆菌可以经鼻内给药为小鼠大脑输送药物等\n本博客由Faconhost大力赞助！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 前言 本文是前沿快讯的第68期。前沿快讯栏目主要收集一些个人感兴趣的近期发表的研究，关注领域包括肿瘤的分子生物学、临床研究、流行病学等，文献类型主要是期刊论文和综述。研究介绍在Google机翻摘要的基础上进行微调，可能不一定特别准确、专业，主要目的是方便自己和大家快速了解和回顾相关领域研究进展。如果你对某个研究的细节感兴趣，请自行寻找全文进一步了解。此外，研究根据子领域会进一步细分，不过交叉领域的研究不好分为某一类，所以这个分类主要用于初级索引，并不十分准确，不喜勿喷。最后，大家看到什么特别的研究，也可以在评论区向我推荐，我会酌情收录在后面的期刊中。如无意外，前沿快讯栏目会长期更新，周期为2周-1月 […]\nBensz",
-          "link": "https://blognas.hwb0307.com/medicine/6339",
-          "publishedOn": "2025-03-15T04:31:08.000Z",
-          "wordCount": 8493,
-          "title": "前沿快讯 第68期 工程化嗜酸乳杆菌可以经鼻内给药为小鼠大脑输送药物等",
-          "imageUrl": "https://chevereto.hwb0307.com/images/2025/03/07/science.adq2509-fa.jpg"
         }
       ]
     },
@@ -3998,16 +3968,6 @@
           "wordCount": null,
           "title": "初品代码甜品师的手艺！腾讯云 CodeBuddy 让编程更“甜“更高效",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.mintimate.cn/2025/03/15/first2Cnb/",
-          "author": null,
-          "description": "腾讯云推出云原生构建（CNB），为开源项目提供远程协作和算力支持，让仓库云原生构建更简单高效。",
-          "link": "https://www.mintimate.cn/2025/03/15/first2Cnb/",
-          "publishedOn": "2025-03-15T12:34:38.000Z",
-          "wordCount": 1090,
-          "title": "腾讯云推出云原生构建（CNB），面向未来，仓库云原生构建更简单",
-          "imageUrl": "https://imagehost.mintimate.cn/post_first2Cnb/banner.webp"
         }
       ]
     },
