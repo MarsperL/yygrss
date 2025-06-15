@@ -2049,26 +2049,6 @@
           "wordCount": 10310,
           "title": "Best Kubernetes Distributions for Home Lab Enthusiasts in 2025",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/Best-Kubernetes.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=300062",
-          "author": "Brandon Lee",
-          "description": "Looking for great tech deals? Check out items on today’s daily tech deals, including the ACEMAGICIAN K1 Mini Gaming PC with an AMD Ryzen 7 5700U, 16GB DDR4, and 512GB SSD for 32% off, the DreamQuest Mini Desktop Computer with an Intel 12th N95 processor, 32GB RAM, and 1TB M.2 SSD for 17% off, the …\nThe post Daily Tech Deals March 17 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/03/daily-tech-deals-march-17-2025/",
-          "publishedOn": "2025-03-17T12:53:56.000Z",
-          "wordCount": 8594,
-          "title": "Daily Tech Deals March 17 2025",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/image-45.jpeg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=300044",
-          "author": "Brandon Lee",
-          "description": "By in large, most are running home labs on mini PCs these days. They are just so powerful, cheap, and easy to come by from many different manufacturers, they have become the goto platform. However, can you run a Kubernetes cluster on a Mini PC? Is this possible and what are some of the things …\nThe post Can You Run a Kubernetes Cluster on a Mini PC? appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/03/can-you-run-a-kubernetes-cluster-on-a-mini-pc/",
-          "publishedOn": "2025-03-17T12:35:46.000Z",
-          "wordCount": 11622,
-          "title": "Can You Run a Kubernetes Cluster on a Mini PC?",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/can-you-run-kubernetes-cluster-on-mini-pc.jpg"
         }
       ]
     },
@@ -3929,6 +3909,16 @@
       "siteUrl": "https://www.mintimate.cn/atom.xml",
       "articles": [
         {
+          "id": "https://www.mintimate.cn/2025/06/10/linuxDdLinux/",
+          "author": null,
+          "description": "使用云厂商提供的 Linux 服务器，发行版本总是比较有限。但是，我们可以通过手动 DD 安装第三方 Linux 发行版，实现更多功能。",
+          "link": "https://www.mintimate.cn/2025/06/10/linuxDdLinux/",
+          "publishedOn": "2025-06-10T09:02:30.000Z",
+          "wordCount": 1299,
+          "title": "云服务器 Linux 手动 DD 安装第三方 Linux 发行版：原理与实战",
+          "imageUrl": "https://imagehost.mintimate.cn/post_linuxDdLinux/banner.webp"
+        },
+        {
           "id": "https://www.mintimate.cn/2025/05/17/mysqlMigrationByDumper/",
           "author": null,
           "description": "当我们需要备份或者迁移大量 MySQL 数据时，可以使用 mydumper 和 myloader 工具进行快速备份和迁移。尤其是跨服务器迁移或者是本地数据库上云的时候，它们可以更快速地且稳定地完成数据迁移。",
@@ -4204,6 +4194,36 @@
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
         {
+          "id": "https://blog.xiaoz.org/?p=22149",
+          "author": "xiaoz",
+          "description": "早在2021年的时候，xiaoz对Next Terminal这款软件有过介绍，见《使用Next Terminal在浏览器中管理你的服务器》，时隔多年，Next Terminal功能愈发强大，不仅能在浏览器中连接SSH、RDP，还能对会话进行监控和审计，非常适合公司和团队使用。关于Next Termi",
+          "link": "https://blog.xiaoz.org/archives/22149",
+          "publishedOn": "2025-06-14T06:45:11.000Z",
+          "wordCount": 291,
+          "title": "安全易用，Next Terminal运维审计系统618限时优惠",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaoz.org/?p=22147",
+          "author": "xiaoz",
+          "description": "莱卡云是一家国内正规备案的云服务器商家，莱卡云近期新上线了日本双ISP原生住宅IP的VPS，日本资源都是非常难得的，接下来给大家带来详细的测评结果如下。官方网站：https://www.lcayun.com内存CPU带宽硬盘流量价格购买1G1核10M20G500G/月88元/月链接1G1核30M20",
+          "link": "https://blog.xiaoz.org/archives/22147",
+          "publishedOn": "2025-06-14T04:06:02.000Z",
+          "wordCount": 257,
+          "title": "莱卡云原生日本VPS评测",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaoz.org/?p=22103",
+          "author": "xiaoz",
+          "description": "Amazon Lightsail是亚马逊云科技提供的一种简化的虚拟私有服务器（VPS）服务，它提供预配置的虚拟服务器实例和一系列方便的功能和服务，方便用户快速创建、管理和扩展服务器实例，适用于各种规模的应用程序和工作负载。新注册用户还可以免费试用3个月，体验其强大功能并充分了解其价值。1Panel",
+          "link": "https://blog.xiaoz.org/archives/22103",
+          "publishedOn": "2025-06-13T06:30:39.000Z",
+          "wordCount": 314,
+          "title": "在Amazon Lightsail 上轻松部署1Panel服务器管理面板",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.xiaoz.org/?p=22137",
           "author": "xiaoz",
           "description": "近日，有关 Alist 疑似被收购的消息引发了网友热议。尽管目前尚未曝出明确的安全问题，但不少用户对其未来的安全性产生了疑虑。为此，博主将为大家整理了5款私有部署的网盘软件，希望能帮你完成过渡。写在最前由于每个人的需求并不完全一样，下方推荐的5款替代软件可能无法确保满足所有用户的需求，建议大家自行尝",
@@ -4401,16 +4421,6 @@
           "publishedOn": "2025-03-21T05:58:22.000Z",
           "wordCount": 286,
           "title": "天钡WTR PRO 5825U高性能NAS开箱与硬盘拆装说明（多图）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=21867",
-          "author": "xiaoz",
-          "description": "Transmute是一款使用AI大模型驱动的智能翻译工具，可以同时对接多个大模型，比如OpenAI、DeepSeek、通义千问、豆包等。由xiaoz使用使用Python 3 + FastAPI技术开发，已在Github开源。演示地址：https://transmute.aimerge.cc/Gith",
-          "link": "https://blog.xiaoz.org/archives/21867",
-          "publishedOn": "2025-03-17T08:27:00.000Z",
-          "wordCount": 307,
-          "title": "使用Docker搭建Transmute多模型智能翻译平台",
           "imageUrl": null
         }
       ]
@@ -4946,6 +4956,26 @@
       "feedUrl": "https://jia.je/feed.xml",
       "siteUrl": "https://jia.je/",
       "articles": [
+        {
+          "id": "https://jia.je/hardware/2025/06/10/linux-vm-on-harmonyos-computer/",
+          "author": null,
+          "description": "在鸿蒙电脑上的虚拟机内启动 Linux¶\n背景¶\n最近在研究鸿蒙电脑，群友 @Fearyncess 摸索出了，如何在鸿蒙电脑上的虚拟机内启动 Linux，而不是 Windows。在此做个复现并记录。\n\n方法¶\n目前鸿蒙的应用市场上有两家虚拟机，我用 Oseasy 虚拟机，但是理论上铠大师也是可以的。（P.S. @driver1998 反馈：“铠大师测试也能启动，但键盘左右方向键的处理有点问题，虚拟机内收不到按键松开的信号，EFI 和 Linux里 面都是这样。目前建议用 OSEasy。”）\n首先需要在 U 盘上，把一个 UEFI arm64 的 Linux 安装盘写进去。我用的是 Ventoy + Debian Installer，理论上直接写例如 Debian 发行版的安装 ISO 也是可以的。\n然后把 U 盘插到鸿蒙电脑上，打开 Windows 虚拟机，直通到虚拟机里面，保证虚拟机里面可以看到 U 盘。\n接着，进入 Windows 磁盘管理，缩小 Windows 的 NTFS 分区，留出空间。注意 Windows 启动的时候会自动 growpart，所以装 Debian 前，不要回到 Windows。装好以后，可以继续用 Windows。\n接着，重启 Windows，同时按住 Escape，进入 OVMF 的界面，然后选择 Boot Manager，从 U 盘启动，然后就进入 Ventoy 的界面了。（注：根据 @quiccat 群友提醒，在 Windows 内，通过设置->系统->恢复->高级启动->UEFI 固件设置也可以进入 OVMF 的设置界面）\n剩下的就是正常的 Linux 安装过程了，分区的时候，注意保留 Windows 已有的 NTFS，可以和 Windows 用同一个 ESP 分区。网络的话，配置静态 IP 是 172.16.100.2，默认网关是 17…",
+          "link": "https://jia.je/hardware/2025/06/10/linux-vm-on-harmonyos-computer/",
+          "publishedOn": "2025-06-10T00:00:00.000Z",
+          "wordCount": 428,
+          "title": "在鸿蒙电脑上的虚拟机内启动 Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jia.je/hardware/2025/06/10/terminal-emulator-text-rendering/",
+          "author": null,
+          "description": "终端模拟器的文字绘制¶\n背景¶\n最近在造鸿蒙电脑上的终端模拟器 Termony，一开始用 ArkTS 的 Text + Span 空间来绘制终端，后来发现这样性能和可定制性比较差，就选择了自己用 OpenGL 实现，顺带学习了一下终端模拟器的文字绘制是什么样的一个过程。\n\n读取字形¶\n文本绘制，首先就要从字体文件中读取字形，提取出 Bitmap 来，然后把 Bitmap 绘制到该去的地方。为了提取这些信息，首先用 FreeType 库，它可以解析字体文件，然后计算出给定大小的给定字符的 Bitmap。但是，这个 Bitmap 它只记录字体非空白的部分（准确的说，是 Bounding Box），如下图的 width * height 部分：\n\n（图源：Managing Glyphs - FreeType Tutorial II）\n其中 x 轴，应该是同一行的字体对齐的，这样才会看到有高有低的字符出现在同一行，而不是全部上对齐或者下对齐。得到的 Bitmap 是行优先的，也就是说：\n\n图中左上角，坐标 (xMin, yMax) 对应 Bitmap 数组的下标是 0\n图中右上角，坐标 (xMax, yMax) 对应 Bitmap 数组的下标是 width-1\n图中左下角，坐标 (xMin, yMin) 对应 Bitmap 数组的下标是 width*(height-1)\n图中右下角，坐标 (xMax, yMax) 对应 Bitmap 数组的下标是 width*(height-1)+width-1\n\n得到这个 Bitmap 后，如果我们不用 OpenGL，而是直接生成 PNG，那就直接进行一次 copy 甚至 blend 就可以把文字绘制上去了。但是，我们要用 OpenGL 的 shader，就需要把 bitmap 放到 texture 里面。由于目前我们用的就是单色的字体，所以它对…",
+          "link": "https://jia.je/hardware/2025/06/10/terminal-emulator-text-rendering/",
+          "publishedOn": "2025-06-10T00:00:00.000Z",
+          "wordCount": 1626,
+          "title": "终端模拟器的文字绘制",
+          "imageUrl": null
+        },
         {
           "id": "https://jia.je/hardware/2025/06/06/huawei-matebook-pro/",
           "author": null,
