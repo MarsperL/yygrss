@@ -2029,26 +2029,6 @@
           "wordCount": 11882,
           "title": "Optimize SSD and NVMe Storage for Virtualization in Your Home Lab",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/Optimize-SSD-and-NVMe-2.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=300099",
-          "author": "Brandon Lee",
-          "description": "Looking for great tech deals? Check out today’s daily tech deals, including the MKtec Mini PC N150, G3 Plus with an Intel Twin Lake N150 (3.4GHz), 8GB DDR4 RAM, and 256GB PCIe M.2 SSD, featuring 4K Dual HDMI, USB 3.2, WiFi 6, Bluetooth 5.2, and a 2.5G RJ45 port for 30% off. Upgrade your workspace …\nThe post Daily Tech Deals March 18 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/03/daily-tech-deals-march-18-2025/",
-          "publishedOn": "2025-03-18T14:17:40.000Z",
-          "wordCount": 8646,
-          "title": "Daily Tech Deals March 18 2025",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/image-50.jpeg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=300070",
-          "author": "Brandon Lee",
-          "description": "Kubernetes is THE tool to learn for running containers. You can use it in the home lab, and certainly in production and cloud environments. If you are looking at getting into Kubernetes in the home lab environment, which is the best distribution for that? Let’s look at the best Kubernetes distributions for home lab enthusiasts …\nThe post Best Kubernetes Distributions for Home Lab Enthusiasts in 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/03/best-kubernetes-distributions-for-home-lab-enthusiasts-in-2025/",
-          "publishedOn": "2025-03-18T13:07:27.000Z",
-          "wordCount": 10310,
-          "title": "Best Kubernetes Distributions for Home Lab Enthusiasts in 2025",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/Best-Kubernetes.jpg"
         }
       ]
     },
@@ -2936,36 +2916,6 @@
           "wordCount": null,
           "title": "Getting Started with NVIDIA Dynamo: A Powerful Framework for Distributed LLM Inference",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=31032",
-          "author": "Tanvir Kour",
-          "description": "In this technical deep dive, I’ll walk through creating a complete Retrieval-Augmented Generation (RAG) agent using DeepSeek-R1 and Ollama. This approach combines the powerful reasoning capabilities of DeepSeek-R1 with the local deployment flexibility of Ollama to create an efficient, customizable knowledge retrieval system. Introduction to DeepSeek-R1 and Ollama DeepSeek-R1 is a reasoning-focused large language model […]",
-          "link": "https://collabnix.com/end-to-end-rag-agent-with-deepseek-r1-and-ollama-a-technical-deep-dive/",
-          "publishedOn": "2025-03-18T03:00:16.000Z",
-          "wordCount": 3494,
-          "title": "End To End RAG Agent With DeepSeek-R1 And Ollama: A Technical Deep Dive",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=31026",
-          "author": "Tanvir Kour",
-          "description": "World of Warcraft and other MMORPGs have developed through several decades of evolution. Since their beginning as text-based adventures MMORPGs have evolved into massive ongoing world ecosystems which accommodate many millions of global players. MMORPG developers need colossal computing resources and server speed along with artificial intelligence systems to satisfy their user base. Remarkable technology […]",
-          "link": "https://collabnix.com/how-ai-and-cloud-computing-are-powering-the-future-of-mmorpgs-like-world-of-warcraft/",
-          "publishedOn": "2025-03-17T16:23:57.000Z",
-          "wordCount": 3315,
-          "title": "How AI and Cloud Computing Are Powering the Future of MMORPGs Like World of Warcraft",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=31023",
-          "author": "Tanvir Kour",
-          "description": "Tech solutions are designed to make our lives easier. These powerful tools can be used in many different scenarios. They are geared towards solving real-world problems, reducing complexity, and boosting efficiency. We see evidence of this across the board; take cybersecurity, for example. Everyday users and businesses utilize these solutions for myriad purposes. Consider encrypted […]",
-          "link": "https://collabnix.com/tech-solutions-that-make-sense/",
-          "publishedOn": "2025-03-17T16:13:06.000Z",
-          "wordCount": 2606,
-          "title": "Tech Solutions That Make Sense",
-          "imageUrl": null
         }
       ]
     },
@@ -3167,7 +3117,18 @@
       "title": "This Cute World",
       "feedUrl": "https://thiscute.world/index.xml",
       "siteUrl": "https://thiscute.world/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://thiscute.world/posts/kubecon-china-2025/?utm_source=atom_feed",
+          "author": null,
+          "description": "<h2 id=\"前言\" class=\"headerLink\">\n<a href=\"#%e5%89%8d%e8%a8%80\" class=\"header-mark\"></a>前言</h2><p>今年 1 月底辞职后，在家过了个年，接着在上海、张家界、重庆、苏州、南京玩了一圈，4 月中旬才回深圳开始找工作。本来看到 6 月就是 KubeCon China 2025，还不太确定自己到时候会不会有时间去。不过很幸运，最后确定 offer 的公司非常重视技术，leader 在面试的时候就说看到我博客里写了\nKubeCon 的经历，公司非常鼓励参加这种技术交流活动，去报个 Talk 也完全可以，公司报销所有费用。</p>\n<p>于是我在入职还没满一个月的时候，就直接公费出差去香港 KubeCon China 2025 玩了一圈（</p>\n<blockquote>\n<p>也问过同事们是否有想法，但种种原因最后还是只有我一个人参加了（悲</p>\n</blockquote>",
+          "link": "https://thiscute.world/posts/kubecon-china-2025/?utm_source=atom_feed",
+          "publishedOn": "2025-06-15T09:43:44.000Z",
+          "wordCount": 930,
+          "title": "KubeCon China 2025 见闻",
+          "imageUrl": "https://thiscute.world/posts/kubecon-china-2025/featured-image.webp"
+        }
+      ]
     },
     {
       "title": "一颗小树",
@@ -3431,6 +3392,16 @@
       "feedUrl": "https://blognas.hwb0307.com/feed",
       "siteUrl": "https://blognas.hwb0307.com/",
       "articles": [
+        {
+          "id": "https://blognas.hwb0307.com/?p=6415",
+          "author": "Bensz",
+          "description": "Bensz\n前沿快讯 第73期 Y染色体缺失与肿瘤免疫抑制等\n本博客由Faconhost大力赞助！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 前言 本文是前沿快讯的第73期。前沿快讯栏目主要收集一些个人感兴趣的近期发表的研究，关注领域包括肿瘤的分子生物学、临床研究、流行病学等，文献类型主要是期刊论文和综述。研究介绍在Google机翻摘要的基础上进行微调，可能不一定特别准确、专业，主要目的是方便自己和大家快速了解和回顾相关领域研究进展。如果你对某个研究的细节感兴趣，请自行寻找全文进一步了解。此外，研究根据子领域会进一步细分，不过交叉领域的研究不好分为某一类，所以这个分类主要用于初级索引，并不十分准确，不喜勿喷。最后，大家看到什么特别的研究，也可以在评论区向我推荐，我会酌情收录在后面的期刊中。如无意外，前沿快讯栏目会长期更新，周期为2周-1月 […]\nBensz",
+          "link": "https://blognas.hwb0307.com/medicine/6415",
+          "publishedOn": "2025-06-15T08:30:05.000Z",
+          "wordCount": 7676,
+          "title": "前沿快讯 第73期 Y染色体缺失与肿瘤免疫抑制等",
+          "imageUrl": "https://chevereto.hwb0307.com/images/2025/06/06/image-20250606202541102.png"
+        },
         {
           "id": "https://blognas.hwb0307.com/?p=6387",
           "author": "Bensz",
@@ -3811,16 +3782,6 @@
           "wordCount": 1487,
           "title": "Nginx 从配置到缓存的性能优化",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/810/",
-          "author": null,
-          "description": "<blockquote>\n<p>1Panel 作为新一代的服务器管理面板，为 Linux 服务器运维提供了一个舒适便捷的 Web 图形界面。为了方便移动办公，1Panel 推出了 APP 移动端，目前还在测试阶段，不过足以满足大多数用户的需求。</p>\n</blockquote>",
-          "link": "https://dusays.com/810/",
-          "publishedOn": "2025-03-18T16:00:00.000Z",
-          "wordCount": 1324,
-          "title": "1Panel 全新移动 APP 上线",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
     },
@@ -3846,23 +3807,6 @@
       "feedUrl": "https://xbd666.cn/rss.xml",
       "siteUrl": "https://xbd666.cn",
       "articles": []
-    },
-    {
-      "title": "未雨绸缪",
-      "feedUrl": "https://7boe.top/rss.xml",
-      "siteUrl": "https://7boe.top/",
-      "articles": [
-        {
-          "id": "/archives/211",
-          "author": "Celia",
-          "description": "关于机场\nTNTCloud\n套餐详情\n注册连接 带aff\n节点数量目前观察 51个节点\n测速详情\n实际下载速度非常快",
-          "link": "https://7boe.top/archives/211",
-          "publishedOn": "2025-05-12T02:34:06.000Z",
-          "wordCount": 2681,
-          "title": "TNTCloud机场评测",
-          "imageUrl": "https://oss.7boe.top/2024/03/11/65ee77dac4869.png"
-        }
-      ]
     },
     {
       "title": "Justlovesmile's BLOG",
