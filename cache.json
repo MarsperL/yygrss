@@ -244,16 +244,6 @@
           "wordCount": 852,
           "title": "Don't let your voice be flattened by the über theme",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/03/enshittification-has-a-flavor/",
-          "author": null,
-          "description": "“Enshittification” is a termed coined by Cory Doctorow in 2023 to describe a pattern of decreasing quality observed in online services and products. Since Doctorow’s post, there’s been no shortage of think pieces on enshittification and its role in our society and to a large extent I agree with them all. I think it’s an inevitable problem that shows the splitting seams of Capitalism. If you will allow, I’d like to add a tangential thought – one slight embellishment – to this topic.\nTo me, enshittification means that a person who lacks taste was put in a position of power.\nEveryone knows ads on the internet suck. But ads also pay bills and help keep the lights on in newsrooms. When a website adds one (privacy-preserving) ad to a website, I say “Okay”. Two, I permit it. Three, I say “Easy no…",
-          "link": "https://daverupert.com/2025/03/enshittification-has-a-flavor/",
-          "publishedOn": "2025-03-19T13:28:00.000Z",
-          "wordCount": 939,
-          "title": "Enshittification as a matter of taste",
-          "imageUrl": null
         }
       ]
     },
@@ -877,16 +867,6 @@
           "wordCount": 51,
           "title": "今天是我的生日",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.ops-coffee.cn/r/city-china-zhejiang-ningbo-yinzhou-dongqianhu-01.html",
-          "author": null,
-          "description": "从哈尔滨归来后，内心充满不踏实与茫然，决定前往宁波东钱湖进行一场心灵的旅行。文章详细记录了在东钱湖畔的静坐观雨、湖边泊车、自驾环湖的行程，以及在韩岭老街和韩岭美术馆的探索，体验湖光山色与自然宁静带来的心灵抚慰。",
-          "link": "https://blog.ops-coffee.cn/r/city-china-zhejiang-ningbo-yinzhou-dongqianhu-01.html",
-          "publishedOn": "2025-03-18T19:35:02.000Z",
-          "wordCount": 83,
-          "title": "东钱湖｜观雨露营全记录，解锁治愈系周末",
-          "imageUrl": null
         }
       ]
     },
@@ -1091,16 +1071,6 @@
           "wordCount": 565,
           "title": "Nvidia 8卡A100简易性能测试",
           "imageUrl": null
-        },
-        {
-          "id": "https://nops.icu/archives/198/",
-          "author": "季兴",
-          "description": "你购买了test.dev 需要跳转到 test.com，在godaddy上仅需配置转发，http(s)://test.dev 都可正常跳转。在国内云仅支持http://test.dev→http...",
-          "link": "https://nops.icu/archives/198/",
-          "publishedOn": "2025-03-19T03:50:00.000Z",
-          "wordCount": 559,
-          "title": "为啥我推荐在godaddy上购买域名",
-          "imageUrl": null
         }
       ]
     },
@@ -1270,6 +1240,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=301502",
+          "author": "Brandon Lee",
+          "description": "Keeping visibility into your home lab over self-hosted services is a critical task. Let’s look at a new home lab dashboard called CoreControl that provides a free open-source dashboard that is a great solution in the home lab. What is CoreControl? First, what is CoreControl? It is a self-hosted system monitoring dashboard that gives you …\nThe post CoreControl Is the New Self-Hosted Dashboard Built for Home Labs appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/06/corecontrol-is-the-new-self-hosted-dashboard-built-for-home-labs/",
+          "publishedOn": "2025-06-16T12:54:27.000Z",
+          "wordCount": 9632,
+          "title": "CoreControl Is the New Self-Hosted Dashboard Built for Home Labs",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/06/applications-screen.jpg"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=301494",
           "author": "Brandon Lee",
@@ -2019,16 +1999,6 @@
           "wordCount": 8805,
           "title": "Daily Tech Deals March 19 2025",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/image-57.jpeg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=300109",
-          "author": "Brandon Lee",
-          "description": "When building out your home lab, the storage layer is arguably one of the most important. Choosing the right storage solution is key to having a platform that can run virtual machines and containers effectively. Traditional hard drives (spindles) are considered super slow by today’s standards. While they have their place, SSDs and NVMe drives …\nThe post Optimize SSD and NVMe Storage for Virtualization in Your Home Lab appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/03/optimize-ssd-and-nvme-storage-for-virtualization-in-your-home-lab/",
-          "publishedOn": "2025-03-19T13:08:49.000Z",
-          "wordCount": 11882,
-          "title": "Optimize SSD and NVMe Storage for Virtualization in Your Home Lab",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/Optimize-SSD-and-NVMe-2.jpg"
         }
       ]
     },
@@ -2038,6 +2008,26 @@
       "siteUrl": "https://collabnix.com",
       "articles": [
         {
+          "id": "https://collabnix.com/?p=36251",
+          "author": "Tanvir Kour",
+          "description": "LM Studio prioritizes ease of use with a polished GUI ideal for beginners, while Ollama offers greater flexibility and control through its developer-friendly command-line interface and REST API. Choose LM Studio if you want a plug-and-play experience with visual controls, or Ollama if you prefer command-line power and deeper customization options. The landscape of local […]",
+          "link": "https://collabnix.com/lm-studio-vs-ollama-picking-the-right-tool-for-local-llm-use/",
+          "publishedOn": "2025-06-16T11:31:36.000Z",
+          "wordCount": 5986,
+          "title": "LM Studio vs Ollama: Picking the Right Tool for Local LLM Use",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=36245",
+          "author": "Tanvir Kour",
+          "description": "Artificial intelligence is no longer just a background tool in the gaming world. Neural networks now shape how stories unfold, how enemies react, and how levels are generated. Players are seeing more personalized, dynamic, and unpredictable experiences thanks to AI integration. But what happens when systems collect too much personal data during gameplay? What if […]",
+          "link": "https://collabnix.com/neural-networks-and-ais-impact-on-the-evolution-of-gaming-experience/",
+          "publishedOn": "2025-06-16T07:57:22.000Z",
+          "wordCount": null,
+          "title": "Neural Networks and AI’s Impact on the Evolution of Gaming Experience",
+          "imageUrl": null
+        },
+        {
           "id": "https://collabnix.com/?p=35502",
           "author": "Ajeet Raina",
           "description": "Learn how to minimize and manage the IoT attack surface. Discover how attack surface management tools and end-to-end encryption prevent cyberattacks.",
@@ -2045,6 +2035,16 @@
           "publishedOn": "2025-06-11T13:41:44.000Z",
           "wordCount": 5158,
           "title": "Less Exposure, More Protection: How to Reduce the IoT Attack Surface",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=35498",
+          "author": "Collabnix Team",
+          "description": "So you’ve probably heard the buzz about “Agentic AI” floating around tech circles lately, right? Maybe you’re wondering if it’s just another fancy buzzword or if there’s actually something revolutionary happening here. Well, let me tell you – this isn’t just hype. We’re looking at what might be the biggest shift in how AI works […]",
+          "link": "https://collabnix.com/what-is-agentic-ai/",
+          "publishedOn": "2025-06-11T09:37:30.000Z",
+          "wordCount": null,
+          "title": "What is Agentic AI?",
           "imageUrl": null
         },
         {
@@ -2896,26 +2896,6 @@
           "wordCount": null,
           "title": "How to Customize LLM Models with Ollama’s Modelfile?",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=31048",
-          "author": "Adesoji Alu",
-          "description": "Introduction The Model Context Protocol (MCP) is revolutionizing how LLMs interact with external data sources and tools. Think of MCP as the “USB-C for AI applications” – a standardized interface that allows AI models to plug into various data sources and tools seamlessly. In this guide, I’ll walk you through building and hosting your own […]",
-          "link": "https://collabnix.com/how-to-build-and-host-your-own-mcp-servers-in-easy-steps/",
-          "publishedOn": "2025-03-19T12:10:59.000Z",
-          "wordCount": 2563,
-          "title": "How to Build and Host Your Own MCP Servers in Easy Steps?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=31040",
-          "author": "Collabnix Team",
-          "description": "In the rapidly evolving landscape of generative AI, efficiently serving large language models (LLMs) at scale remains a significant challenge. Enter NVIDIA Dynamo, an open-source inference framework specifically designed to address the complexities of serving generative AI models in distributed environments. In this blog post, we’ll explore what makes Dynamo special and provide a practical […]",
-          "link": "https://collabnix.com/getting-started-with-nvidia-dynamo-a-powerful-framework-for-distributed-llm-inference/",
-          "publishedOn": "2025-03-19T03:04:00.000Z",
-          "wordCount": null,
-          "title": "Getting Started with NVIDIA Dynamo: A Powerful Framework for Distributed LLM Inference",
-          "imageUrl": null
         }
       ]
     },
@@ -3574,6 +3554,36 @@
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
         },
         {
+          "id": "https://dusays.com/834/",
+          "author": null,
+          "description": "<blockquote>\n<p>找到一个安全、便捷且资源丰富且下载速度较快的操作系统 ISO 文件下载平台显得尤为重要。很多小伙伴习惯使用 MSDN，但又不喜欢其登录机制，这里杜老师推荐 OS.click，一款专注于为用户提供实用、高效的系统下载服务的网站。</p>\n</blockquote>",
+          "link": "https://dusays.com/834/",
+          "publishedOn": "2025-05-29T16:00:00.000Z",
+          "wordCount": 1352,
+          "title": "一站式操作系统 ISO 下载平台",
+          "imageUrl": "https://cdn.dusays.com/favicon.ico"
+        },
+        {
+          "id": "https://dusays.com/833/",
+          "author": null,
+          "description": "<blockquote>\n<p>开源项目一直是软件开发领域的重要组成部分，众多开发者依赖开源项目推动着技术快速发展。然而，近期 MinIO 社区版的一次更新却引发轩然大波，其删除 11 万行代码，原本功能完备的 Web 管理界面大幅精简，这举动不仅让用户措手不及，也引发了社区对于开源项目商业化的深度思考。</p>\n</blockquote>",
+          "link": "https://dusays.com/833/",
+          "publishedOn": "2025-05-26T16:00:00.000Z",
+          "wordCount": null,
+          "title": "MinIO 社区版 Web 管理界面被删事件全解析",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dusays.com/832/",
+          "author": null,
+          "description": "<blockquote>\n<p>因为图床程序暂不支持套餐到期通知，需要杜老师定期统计到期的用户，再通过邮箱发通知。每次统计时操作较麻烦，为了方便统计用户，尝试用 PHP 编写一个页面，可以筛选去不图床到期用户邮箱。</p>\n</blockquote>",
+          "link": "https://dusays.com/832/",
+          "publishedOn": "2025-05-23T16:00:00.000Z",
+          "wordCount": null,
+          "title": "如何使用 PHP 脚本筛选去不图床已到期用户邮箱",
+          "imageUrl": null
+        },
+        {
           "id": "https://dusays.com/831/",
           "author": null,
           "description": "<blockquote>\n<p>在当今数字化协作的时代，高效的项目管理工具对于团队的成功至关重要。Focalboard 作为一款开源的项目管理软件，正逐渐崭露头角，受到了众多团队和个人的青睐。</p>\n</blockquote>",
@@ -4074,26 +4084,6 @@
           "publishedOn": "2025-03-20T03:50:04.000Z",
           "wordCount": null,
           "title": "基于 Docker 的 PostgreSQL 数据库部署与运维指南",
-          "imageUrl": null
-        },
-        {
-          "id": "/archives/1742378257993",
-          "author": null,
-          "description": "一、背景需求 你是否遇到过以下问题？ 想在外网安全访问家中 NAS 的 SSH、Web 服务或私有 GitLab？ 云服务器有公网 IP，但家庭宽带没有固定公网 IP？ 直接暴露 NAS 端口到公网存在安全隐患？ WireGuard 的解决方案： 通过轻量级 VPN 打通云服务器与家庭 NAS，所有",
-          "link": "http://blog.lixx.cn/archives/1742378257993",
-          "publishedOn": "2025-03-19T09:58:29.000Z",
-          "wordCount": null,
-          "title": "通过 WireGuard 实现云服务器与家庭 NAS 的安全互联：完整教程",
-          "imageUrl": null
-        },
-        {
-          "id": "/archives/1742378257993",
-          "author": null,
-          "description": "一、背景需求 你是否遇到过以下问题？ 想在外网安全访问家中 NAS 的 SSH、Web 服务或私有 GitLab？ 云服务器有公网 IP，但家庭宽带没有固定公网 IP？ 直接暴露 NAS 端口到公网存在安全隐患？ WireGuard 的解决方案： 通过轻量级 VPN 打通云服务器与家庭 NAS，所有",
-          "link": "http://localhost:8090/archives/1742378257993",
-          "publishedOn": "2025-03-19T09:58:29.000Z",
-          "wordCount": null,
-          "title": "通过 WireGuard 实现云服务器与家庭 NAS 的安全互联：完整教程",
           "imageUrl": null
         }
       ]
