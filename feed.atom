@@ -2,10 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-06-17T02:08:22.928Z</updated>
+    <updated>2025-06-18T02:07:28.288Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VMware Cloud Foundation VCF 9.0 Released New Features]]></title>
+        <id>https://www.virtualizationhowto.com/?p=301523</id>
+        <link href="https://www.virtualizationhowto.com/2025/06/vmware-cloud-foundation-vcf-9-0-released-new-features/"/>
+        <updated>2025-06-17T16:07:22.000Z</updated>
+        <summary type="html"><![CDATA[Well, we have heard about it for quite some time now, but VMware Cloud Foundation VCF 9.0 is here. It has a lot of new enhancements that will provide a lot of new tools for next-gen workloads. Like we have always come to expect from VMware it will definitely allow you to run traditional VMs, …
+The post VMware Cloud Foundation VCF 9.0 Released New Features appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VMware Cloud Foundation 9.0 – What’s New]]></title>
+        <id>https://atherbeg.com/?p=3362</id>
+        <link href="https://atherbeg.com/2025/06/17/vmware-cloud-foundation-9-0-whats-new/"/>
+        <updated>2025-06-17T16:00:02.000Z</updated>
+        <summary type="html"><![CDATA[There has been considerable discussion about when VMware Cloud Foundation 9.0 will be released and what new features it will include.  Well, wait no more as it’s here. It was highly anticipated due to its promise to bring about a significant change, rather than just another release, and I think it fits the brief. vExperts  [...]]]></summary>
+        <author>
+            <name>Ather Beg</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[golang gitlab subgroup 构建问题]]></title>
+        <id>http://zhangguanzhang.github.io/2025/06/17/golang-gitlab-subgroup/</id>
+        <link href="http://zhangguanzhang.github.io/2025/06/17/golang-gitlab-subgroup/"/>
+        <updated>2025-06-17T14:40:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>最近给同事解决的 subgroup 问题…..</p>]]></summary>
+        <author>
+            <name>Zhangguanzhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【问答】第2章-词元和嵌入 （图解大模型：生成式AI原理与实战）]]></title>
+        <id>/archives/1750153301098</id>
+        <link href="http://blog.lixx.cn/archives/1750153301098"/>
+        <updated>2025-06-17T09:42:06.000Z</updated>
+        <summary type="html"><![CDATA[第2章　词元和嵌入 Q9：大模型的分词器和传统的中文分词有什么区别？对于一个指定的词表，一句话是不是只有一种唯一的分词方式？ A9: 大模型的分词器（Tokenizer）与传统的中文分词在目标、方法和结果上都有显著区别。 传统中文分词： 目标： 主要目标是将连续的汉字序列切分成具有明确语义的词语单元]]></summary>
+        <author>
+            <name>Lixx Blog - 李晓旭的博客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【问答】第1章 大模型简介 （图解大模型：生成式AI原理与实战）]]></title>
+        <id>/archives/1750153236590</id>
+        <link href="http://blog.lixx.cn/archives/1750153236590"/>
+        <updated>2025-06-17T09:41:25.000Z</updated>
+        <summary type="html"><![CDATA[第1章 大模型简介 Q1：Transformer 中的编码器和解码器有什么区别，只有编码器或者只有解码器的模型是否有用？ A1: Transformer 中的编码器（Encoder）和解码器（Decoder）在结构和功能上有所不同： 编码器（Encoder）： 作用：主要负责理解输入序列的上下文信息]]></summary>
+        <author>
+            <name>Lixx Blog - 李晓旭的博客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用blackbox-exporter做域名监控]]></title>
+        <id>https://zahui.fan/posts/sxztsa/</id>
+        <link href="https://zahui.fan/posts/sxztsa/"/>
+        <updated>2025-06-17T09:16:58.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="创建模块"><a href="#创建模块" class="headerlink" title="创建模块"></a>创建模块</h2><p>对应的 blackbox exporter 的配置文件：</p>
+<figure class="highlight yml"><table><tr><td class="gutter"><pre><span]]></summary>
+        <author>
+            <name>杂烩饭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多功能文件分享程序Zdir 4.5.1小版本更新，买一赠一活动即将结束]]></title>
+        <id>https://blog.xiaoz.org/?p=22161</id>
+        <link href="https://blog.xiaoz.org/archives/22161"/>
+        <updated>2025-06-17T07:12:01.000Z</updated>
+        <summary type="html"><![CDATA[Zdir是一款使用Golang + Vue3开发的多功能私有存储程序，集成了文件索引、在线预览和分享功能，支持WebDAV和离线下载，非常适合安装在NAS设备或大容量VPS上，是个人、工作室和小团队分享文件的理想选择。演示演示地址：https://demo.zdir.pro/ （国外服务器）用户名：]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在亚马逊云科技中创建MySQL数据库]]></title>
+        <id>https://blog.xiaoz.org/?p=22117</id>
+        <link href="https://blog.xiaoz.org/archives/22117"/>
+        <updated>2025-06-17T06:17:47.000Z</updated>
+        <summary type="html"><![CDATA[Amazon RDS 是一项简单易用的云数据库服务，自动处理数据库的搭建、备份、补丁等运维工作。它支持多种数据库引擎和部署方式，几分钟内即可创建数据库，并提供高性能选项（如多可用区、读写优化）和成本控制方案，帮助用户轻松管理数据库。这篇文章将介绍如何在亚马逊云科技中创建MySQL数据库，内容分为以下]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CoreControl Is the New Self-Hosted Dashboard Built for Home Labs]]></title>
         <id>https://www.virtualizationhowto.com/?p=301502</id>
@@ -5737,55 +5819,6 @@ alias kd='kubectl…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Daily Tech Deals March 20 2025]]></title>
-        <id>https://www.virtualizationhowto.com/?p=300157</id>
-        <link href="https://www.virtualizationhowto.com/2025/03/daily-tech-deals-march-20-2025/"/>
-        <updated>2025-03-20T13:09:18.000Z</updated>
-        <summary type="html"><![CDATA[Looking for great tech deals? Check out items on today’s daily tech deals. Today you can get a Microsoft Surface Laptop (2024) for 30% off, a Logitech G515 Lightspeed TKL Low Profile Wireless Gaming Keyboard for 21% off, Western Digital 6TB WD Red Pro NAS Internal Hard Drive HDD for 15% off, a WOLFBOX MF100 …
-The post Daily Tech Deals March 20 2025 appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automating Your Home Lab with Ansible, Terraform, and CI/CD Pipelines]]></title>
-        <id>https://www.virtualizationhowto.com/?p=300141</id>
-        <link href="https://www.virtualizationhowto.com/2025/03/automating-your-home-lab-with-ansible-terraform-and-ci-cd-pipelines/"/>
-        <updated>2025-03-20T12:47:50.000Z</updated>
-        <summary type="html"><![CDATA[There has never been a better time to automate your home lab with tools like Ansible, Terraform, and CI/CD pipelines. With the AI tools and help we have today and all the resources on available on the web, automation is something that can be achieved much easier than ever before. Automation with these tools helps …
-The post Automating Your Home Lab with Ansible, Terraform, and CI/CD Pipelines appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于 Docker 的 PostgreSQL 数据库部署与运维指南]]></title>
-        <id>/archives/1742442513772</id>
-        <link href="http://blog.lixx.cn/archives/1742442513772"/>
-        <updated>2025-03-20T03:50:04.000Z</updated>
-        <summary type="html"><![CDATA[一、Docker Compose 配置优化 1.1 最终版配置 version: '3.8'
-
-services:
-  postgres:
-    image: postgres:16-alpine
-    container_name: postgres  # 标准容器命名
-    restart]]></summary>
-        <author>
-            <name>Lixx Blog - 李晓旭的博客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Tech Deals March 19 2025]]></title>
-        <id>https://www.virtualizationhowto.com/?p=300134</id>
-        <link href="https://www.virtualizationhowto.com/2025/03/daily-tech-deals-march-19-2025/"/>
-        <updated>2025-03-19T19:50:24.000Z</updated>
-        <summary type="html"><![CDATA[Looking for great tech deals? Check out today’s daily tech deals, including the NETGEAR Orbi Whole Home Tri-band WiFi 6 Mesh Network System (RBK853)—featuring a router with two satellite extenders, security features, and coverage up to 7,500 square feet for up to 100 devices at AX6000 speeds (up to 6Gbps)—now 34% off. Upgrade your home …
-The post Daily Tech Deals March 19 2025 appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[高效学习(二)：源头、原理和知识地图]]></title>
         <id>https://chegva.com/?p=6265</id>
         <link href="https://chegva.com/6265.html"/>
@@ -5850,16 +5883,6 @@ Continue reading...]]></summary>
 育儿百科全书集合]]></summary>
         <author>
             <name>anzhihe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chat2DB 数据库客户端邀请码]]></title>
-        <id>https://blog.52itstyle.vip/archives/5620/</id>
-        <link href="https://blog.52itstyle.vip/archives/5620/"/>
-        <updated>2025-03-15T03:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Chat2DB 数据库客户端邀请码]]></summary>
-        <author>
-            <name>柒</name>
         </author>
     </entry>
     <entry>
