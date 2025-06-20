@@ -1054,16 +1054,6 @@
           "wordCount": 541,
           "title": "探索 GitHub Copilot：当 AI 成为你的贴身编码助手",
           "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
-        },
-        {
-          "id": "https://jimmysong.io/blog/beyond-sidecar/",
-          "author": "Jimmy Song",
-          "description": "欢迎阅读我的这篇博客——“超越 Sidecar：深入解析 Istio Ambient Mode 的流量机制与成本效益”。本文内容源自我在 KCD 北京的一次演讲。主要探讨的是 Istio 全新推出的一种数据面模式 —— Ambient Mode。它的核心理念是去除 Sidecar，减少资源开销与运维复杂度。本文将带大家了解 Ambient Mode 的出现背景、核心组件、流量路径机制以及与现有 Sidecar 模式的对比，从而帮助你快速评估并上手这项新特性。\n点击查看幻灯片。\n为什么关注 Ambient Mode？\n首先，我们来思考一个问题：为什么要关注、甚至尝试这种新模式？Sidecar 在服务网格里一直都用得好好的，为什么要“去 Sidecar”呢？\n让我们看看当前服务网格面临的一些问题和挑战。\n服务网格的挑战\nSidecar 代理带来的 资源开销 和 运维复杂度\n升级 或 重启 Envoy 时，常常需要连带重启所有 Pod\n越来越多对 高性能、低成本 的需求\n思考：有没有一种方式在保留服务网格核心能力（安全、可观测、流量控制）的同时，减少对每个 Pod 的侵入和额外资源消耗？\n服务网格的几种部署模式\n代理的位置\n  \n\n服务网格架构一直在探索代理部署位置的多种可能性。例如：\nSidecar：每个 Pod 内跑一个 Envoy。\nAmbient：将代理从 Pod 中剥离到节点级（即本篇要谈的模式）。\nCilium Mesh：利用 eBPF 在内核空间做 L4，然后结合 Envoy 提供 L7 功能。\ngRPC：直接将网格能力集成到 SDK 中。\n这些模式在功能、安全、性能和管理复杂度上都有不同的侧重。Istio Ambient Mode 则是针对 Sidecar 带来的高资源消耗和运维成本，而提出的新尝试。\nAmbient Mode 的诞生\nIstio 的新一代架构，移…",
-          "link": "https://jimmysong.io/blog/beyond-sidecar/",
-          "publishedOn": "2025-03-22T06:45:55.000Z",
-          "wordCount": 1071,
-          "title": "超越 Sidecar：深入解析 Istio Ambient Mode 的流量机制与成本效益",
-          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
         }
       ]
     },
@@ -1999,26 +1989,6 @@
           "wordCount": 11331,
           "title": "5 Mini PC Trends in 2025 and Beyond",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/mini-pc-trends-2025.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=300176",
-          "author": "Brandon Lee",
-          "description": "Looking for great tech deals? Check out items on today’s daily tech deals. Today you can get a SAMSUNG 990 EVO Plus SSD 4TB for 28% off, a Dell Vostro 3030 Tower Business Desktop Computer for 33% off, a SAMSUNG PRO Plus microSD Memory Card + Adapter, 512GB for 50% off, a kit of Kingston …\nThe post Daily Tech Deals March 21 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/03/daily-tech-deals-march-21-2025/",
-          "publishedOn": "2025-03-21T15:05:50.000Z",
-          "wordCount": 8556,
-          "title": "Daily Tech Deals March 21 2025",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/image-67.jpeg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=300164",
-          "author": "Brandon Lee",
-          "description": "I have been on a journey to try out various self-hosting stacks in the home lab and one of the configurations that has been a great platform for learning and selfhosting has been Docker Swarm with Microceph. This combination of technologies in a tech stack has been a great platform for managing and deploying apps. …\nThe post How I Deployed a Self-Hosting Stack with Docker Swarm & MicroCeph appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/03/how-i-deployed-a-self-hosting-stack-with-docker-swarm-microceph/",
-          "publishedOn": "2025-03-21T14:08:01.000Z",
-          "wordCount": 11236,
-          "title": "How I Deployed a Self-Hosting Stack with Docker Swarm & MicroCeph",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/Self-hosting-Stack.jpg"
         }
       ]
     },
@@ -2027,6 +1997,46 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=36750",
+          "author": "Collabnix Team",
+          "description": "Ollama vs ChatGPT 2025: A Comprehensive Comparison A  comprehensive technical analysis comparing local LLM deployment via Ollama against cloud-based ChatGPT APIs, including performance benchmarks, cost analysis, and implementation strategies The artificial intelligence landscape has reached a critical inflection point in 2025. Organizations worldwide face a fundamental strategic decision that will define their AI capabilities for […]",
+          "link": "https://collabnix.com/ollama-vs-chatgpt-2025-complete-technical-comparison-guide/",
+          "publishedOn": "2025-06-19T03:28:07.000Z",
+          "wordCount": 11918,
+          "title": "Ollama vs ChatGPT 2025: Complete Technical Comparison Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=36745",
+          "author": "Collabnix Team",
+          "description": "Top Picks for Best Ollama Models 2025 A comprehensive technical analysis of the most powerful local language models available through Ollama, including benchmarks, implementation guides, and optimization strategies Introduction to Ollama’s 2025 Ecosystem The landscape of local language model deployment has dramatically evolved in 2025, with Ollama establishing itself as the de facto standard for […]",
+          "link": "https://collabnix.com/best-ollama-models-in-2025-complete-performance-comparison/",
+          "publishedOn": "2025-06-19T03:09:32.000Z",
+          "wordCount": null,
+          "title": "Best Ollama Models 2025: Performance Comparison Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=36740",
+          "author": "Collabnix Team",
+          "description": "As a Python developer, you’ve probably experienced the pain of slow Docker builds, bloated images filled with build tools, and the frustration of waiting 10+ minutes for a simple code change to rebuild. Docker multi-stage builds solve these problems elegantly, and they’re particularly powerful for Python applications. In this comprehensive guide, we’ll explore how to […]",
+          "link": "https://collabnix.com/docker-multi-stage-builds-for-python-developers-a-complete-guide/",
+          "publishedOn": "2025-06-19T02:44:31.000Z",
+          "wordCount": null,
+          "title": "Docker Multi-Stage Builds for Python Developers: A Complete Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=36733",
+          "author": "Collabnix Team",
+          "description": "If you’re developing AI applications, you’ve probably experienced the frustration of slow Docker builds, bloated container images, and inefficient caching. Every time you tweak your model code, you’re stuck waiting for dependencies to reinstall, and your production images are loaded with unnecessary build tools. Docker multi-stage builds solve these problems elegantly, and they’re particularly powerful […]",
+          "link": "https://collabnix.com/optimize-your-ai-containers-with-docker-multi-stage-builds-a-complete-guide/",
+          "publishedOn": "2025-06-19T02:08:30.000Z",
+          "wordCount": null,
+          "title": "Optimize Your AI Containers with Docker Multi-Stage Builds: A Complete Guide",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=36707",
           "author": "Tanvir Kour",
@@ -3801,16 +3811,6 @@
           "publishedOn": "2025-03-24T16:00:00.000Z",
           "wordCount": 1369,
           "title": "OpenResty 的性能优化配置建议",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/811/",
-          "author": null,
-          "description": "<blockquote>\n<p>Nginx 是一个高性能的 HTTP 服务器和反向代理服务器，广泛应用于处理高并发请求。然而，默认配置并不一定适合所有场景，尤其是在高流量或复杂业务逻辑的情况下。本文将介绍一些 Nginx 的基础配置优化和缓存的使用方法以提升 Nginx 的性能。</p>\n</blockquote>",
-          "link": "https://dusays.com/811/",
-          "publishedOn": "2025-03-21T16:00:00.000Z",
-          "wordCount": 1487,
-          "title": "Nginx 从配置到缓存的性能优化",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
