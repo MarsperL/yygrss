@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-06-20T02:07:15.719Z</updated>
+    <updated>2025-06-21T02:05:20.749Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[免费服务清单｜零成本上线并维护你的网站]]></title>
+        <id>https://blog.ops-coffee.cn/s/free-services-for-website-deployment.html</id>
+        <link href="https://blog.ops-coffee.cn/s/free-services-for-website-deployment.html"/>
+        <updated>2025-06-21T09:47:36.000Z</updated>
+        <summary type="html"><![CDATA[本文分享了一份免费服务清单，帮助你低成本上线并维护网站，包括GitHub Pages、Cloudflare CDN、Cloudflare Pages等，让你的网站稳定运行多年。]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps Roadmap 2025: A Hands-On Path to Mastery from Home Lab to Automation]]></title>
+        <id>https://www.virtualizationhowto.com/?p=301561</id>
+        <link href="https://www.virtualizationhowto.com/2025/06/devops-roadmap-2025-a-hands-on-path-to-mastery-from-home-lab-to-automation/"/>
+        <updated>2025-06-20T18:52:03.000Z</updated>
+        <summary type="html"><![CDATA[If you’re like me, you’ve probably noticed that the world of DevOps is more accessible than ever. This is especially true if you’re willing to roll up your sleeves and build things in your own home lab. I personally think that whether you’re transitioning from a sysadmin role or dipping your toes into cloud engineering …
+The post DevOps Roadmap 2025: A Hands-On Path to Mastery from Home Lab to Automation appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球地缘政治背景下的中国芯片自主化崛起之路]]></title>
+        <id>https://jimmysong.io/blog/china-semiconductor-rise-geopolitics/</id>
+        <link href="https://jimmysong.io/blog/china-semiconductor-rise-geopolitics/"/>
+        <updated>2025-06-20T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[全面梳理中国芯片自主化的技术路径、国际格局、地缘政治影响与重点企业进展。详解芯片分类、全球产业链现状，中美科技博弈下国产厂商的突围与风险分析。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ollama vs ChatGPT 2025: Complete Technical Comparison Guide]]></title>
         <id>https://collabnix.com/?p=36750</id>
@@ -208,6 +239,23 @@ But in the morning. He felt much better. The dream washed away in a hot shower.
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[故障处理最佳实践]]></title>
+        <id>https://chegva.com/?p=6277</id>
+        <link href="https://chegva.com/6277.html"/>
+        <updated>2025-06-17T21:48:02.000Z</updated>
+        <summary type="html"><![CDATA[或多或少我们都会经历线上的故障。在我的职业生涯中，就经历过很多的线上故障。老实说，线上故障是我们技术人员成长中必须要经历的事。从故障中我们可以吸取到很多教训，能让我们学到很多书本上学不到的知识。坑踩多了，我们会变得越来越有经验，也就成为老司机了。
+不过，我看到很多公司处理线上故障的方式并不科学，而且存在很多问题，所以，想写文章来分享一些我的经验。这些经验主要来自亚马逊和阿里这两家互联网公司，以及我个人的经验总结。希望这套方法能够对你有帮助。
+故障发生时
+在故障发生时，最重要的是快速恢复故障。而快速恢复故障的前提是快速定位故障源。因为在很多分布式系统中，一旦发生故障就会出现“多米诺骨牌效应”。也就是说，系统会随着一个故障开始一点一点地波及到其它系统，而且这个过程可能会很快。一旦很多系统都在报警，要想快速定位到故障源就不是一件简单的事了。
+在亚马逊内部，每个开发团队至少都会有一位 oncall 的工程师。在 oncall 的时候，工程师要专心处理线上故障，轮换周期为每人一周。一旦发生比较大的故障，比如，S1 全部不可用，或 S2 某功能不可用，而且找不到替代方案，那么这个故障就会被提交到一个工单系统里。几乎所有相关团队 oncall 的工程师都会被叫到线上处理问题。
+工作流是，先线上签到，然后自查自己的服务，如果自己的服务没有问题，那么就可以在旁边待命（standby），以备在需要时进行配合。如果问题没有被及时解决，就会自动升级到高层，直到 SVP 级别。
+大家都知道，在亚马逊，不是按技能分工，而是按职责分工，也就是一个团队不是按前端、后端、运维等来分工，而是按所负责的 Service 来分工。所以，亚马逊的开发人员都是前端、后端、测试、运维全部都要干的。而亚马逊内部有很多的服务，一旦出现问题，为了避免一个工单在各个团队流转，需要所有团队上线处理，这样是最快的。
+如果我们的系统…]]></summary>
+        <author>
+            <name>anzhihe</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[VMware Cloud Foundation VCF 9.0 Released New Features]]></title>
         <id>https://www.virtualizationhowto.com/?p=301523</id>
         <link href="https://www.virtualizationhowto.com/2025/06/vmware-cloud-foundation-vcf-9-0-released-new-features/"/>
@@ -347,6 +395,30 @@ KubeCon 的经历，公司非常鼓励参加这种技术交流活动，去报个
 Bensz]]></summary>
         <author>
             <name>Bensz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《死亡诗社》经典台词]]></title>
+        <id>https://chegva.com/?p=6413</id>
+        <link href="https://chegva.com/6413.html"/>
+        <updated>2025-06-14T16:44:52.000Z</updated>
+        <summary type="html"><![CDATA[一、及时行乐，让你的生命超越凡俗
+
+
+　　《船长，我的船长》Oh ,captain ,my captain!
+
+
+　　《劝少年们珍惜时光》及时采撷你的花蕾／旧时光一去不回/今天尚在微笑的花朵／明天变得风中枯萎(丁尼生)
+    Gather ye rosebuds while ye may/Old time is still a-flying/And this same flowers that smiles today/Tomorrow will be dying
+
+
+　　因为信不信由你，这个房间里的每个人，总有一天都要停止呼吸，僵冷，死亡。我要你们向前到这儿来，细细玩味过去的面孔，你们经过这儿无数次，但从未真正看过他们，和你的差异并不大，对吧？同样的发型，和你们一样精力旺盛，和你们一样不可一世，世界都在他们的掌握之中，他们认为注定要成就大事，和大多数的你们一样，他们的双眼充满了希望，和你们一样。他们是否虚度时光，到最后一无所成？因为各位所见到的……这些男孩现在都已化为尘土了，如果你们仔细倾听，便能听见他们在低声耳语，附耳过去，仔细听，听见了？CARPE..。听见了吗？CARPE... CARPE DIEM 及时行乐，孩子们，让你的生命超越凡俗。
+    Becuase believe or not, each one of us in this room is one day going to stop breathing, turn cold and die. I'd like you to step forward of you and peruse some of the faces from the past. They're not that different from you , are they? Same haircuts.
+
+
+    Full of…]]></summary>
+        <author>
+            <name>anzhihe</name>
         </author>
     </entry>
     <entry>
@@ -680,6 +752,49 @@ Grid Coffee
 The post NetAlertX Self-Hosted Network Monitoring for Home Labs appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fdisk/parted创建与删除分区]]></title>
+        <id>https://chegva.com/?p=6374</id>
+        <link href="https://chegva.com/6374.html"/>
+        <updated>2025-06-09T13:20:30.000Z</updated>
+        <summary type="html"><![CDATA[fdisk新建分区操作流程
+目标示例：在 /dev/sdb 磁盘上创建大小为 300G 的新分区 /dev/sdb1，类型为 Linux LVM（8e）。
+1. 启动 fdisk
+fdisk /dev/sdb   # 替换为目标磁盘（如 /dev/sdc）
+2. 查看现有分区表（可选）
+Command (m for help): p   # 打印当前分区信息
+3. 创建新分区
+Command (m for help): n    # 新建分区
+
+设置选择分区类型
+
+Select (default p): p    # 主分区（p）或扩展分区（e）
+
+设置分区号（默认自动分配）：
+
+Partition number (1-4, default 1): 1   # 输入分区号（如1）
+
+指定起始扇区（默认从磁盘空闲位置开始）：
+
+First sector (2048-209715199, default 2048): [回车]  # 默认起始位置
+
+指定分区大小：
+
+Last sector, +/-sectors or +/-size{K,M,G,T,P}: +300G  # 结束位置或直接指定大小
+4. 修改分区类型（可选）
+例如设置为 Linux LVM（类型代码 8e）：
+Command (m for help): t    # 更改分区类型
+Selected partition 1       # 选择刚创建的分区（如1）
+Hex code (type L to list): 8e  # 输入类型代码（LVM为8e，Linux文件系统为83）
+5. 保存并退出
+Command (m for help): w   # 写入分区表并退出
+警告：输入 w 前请确认操作无误！若需放弃修改，输入 q 退出。
+6. 刷新分区表
+partprobe /dev/sdb   # 让系…]]></summary>
+        <author>
+            <name>anzhihe</name>
         </author>
     </entry>
     <entry>
@@ -5834,152 +5949,6 @@ The post 5 Mini PC Trends in 2025 and Beyond appeared first on Virtualization Ho
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[天钡WTR PRO 5825U PVE虚拟机设置硬盘直通]]></title>
-        <id>https://blog.xiaoz.org/?p=21902</id>
-        <link href="https://blog.xiaoz.org/archives/21902"/>
-        <updated>2025-03-23T13:46:16.000Z</updated>
-        <summary type="html"><![CDATA[最近在新买的天钡WTR PRO 5825U主机上部署了Proxmox VE（PVE）虚拟化环境，并创建了NAS虚拟机。为进一步提升存储性能，计划将物理硬盘直通（Passthrough）至虚拟机。开启IOMMU虚拟机直通硬件需要开启IOMMU，参考：天钡WTR PRO 5825U BIOS设置：来电自]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前沿快讯 第69期 通过反向传播LLM生成的反馈来优化AI系统等]]></title>
-        <id>https://blognas.hwb0307.com/?p=6346</id>
-        <link href="https://blognas.hwb0307.com/medicine/6346"/>
-        <updated>2025-03-23T11:23:17.000Z</updated>
-        <summary type="html"><![CDATA[Bensz
-前沿快讯 第69期 通过反向传播LLM生成的反馈来优化AI系统等
-本博客由Faconhost大力赞助！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 前言 本文是前沿快讯的第69期。前沿快讯栏目主要收集一些个人感兴趣的近期发表的研究，关注领域包括肿瘤的分子生物学、临床研究、流行病学等，文献类型主要是期刊论文和综述。研究介绍在Google机翻摘要的基础上进行微调，可能不一定特别准确、专业，主要目的是方便自己和大家快速了解和回顾相关领域研究进展。如果你对某个研究的细节感兴趣，请自行寻找全文进一步了解。此外，研究根据子领域会进一步细分，不过交叉领域的研究不好分为某一类，所以这个分类主要用于初级索引，并不十分准确，不喜勿喷。最后，大家看到什么特别的研究，也可以在评论区向我推荐，我会酌情收录在后面的期刊中。如无意外，前沿快讯栏目会长期更新，周期为2周-1月 […]
-Bensz]]></summary>
-        <author>
-            <name>Bensz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[艺术作品，与时代性]]></title>
-        <id>https://lostdeer.xyz/?p=1352</id>
-        <link href="https://lostdeer.xyz/artwork-and-periodization/"/>
-        <updated>2025-03-23T08:33:19.000Z</updated>
-        <summary type="html"><![CDATA[前两天翻阅过去自己的博客文章，重新阅读了一遍《大众评价的主观性与客观性》，感叹自己一年多以前竟然会写出这种完整 […]]]></summary>
-        <author>
-            <name>Yuntian52</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天钡WTR PRO 5825U BIOS设置：来电自启与硬件直通配置]]></title>
-        <id>https://blog.xiaoz.org/?p=21897</id>
-        <link href="https://blog.xiaoz.org/archives/21897"/>
-        <updated>2025-03-23T04:50:15.000Z</updated>
-        <summary type="html"><![CDATA[接上一篇文章《天钡WTR PRO 5825U高性能NAS开箱与硬盘拆装说明（多图）》，这篇文章将继续介绍天钡WTR PRO 5825U必要的BIOS设置选项，以便我们实现来电自启与硬件直通。快捷键DELETE进入BIOS模式F4保存配置BIOS设置来电自启来电自启是一项非常实用的功能，尤其适合NAS]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevOps-Inspired Guide: Optimizing PoE 2 Currency Pipelines]]></title>
-        <id>https://collabnix.com/?p=31107</id>
-        <link href="https://collabnix.com/devops-inspired-guide-optimizing-poe-2-currency-pipelines/"/>
-        <updated>2025-03-22T18:40:32.000Z</updated>
-        <summary type="html"><![CDATA[Path of Exile 2 (PoE 2) presents a highly modular, system-driven economy where success is dependent on efficient currency workflows, scalable strategies, and informed resource orchestration—much like DevOps pipelines in software delivery. This guide draws DevOps parallels to help you implement version-controlled, observable, and resilient currency strategies in PoE 2. 1. Currency as an Operational […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[简化kubectl常用命令]]></title>
-        <id>https://chegva.com/?p=6309</id>
-        <link href="https://chegva.com/6309.html"/>
-        <updated>2025-03-20T16:17:33.000Z</updated>
-        <summary type="html"><![CDATA[在k8s集群使用和运维中，每天都需要输入大量 kubectl 常用命令，其实我们可以通过定义 alias 别名和函数简化 kubectl 命令，比如使用k代替kubectl，po代替pods，svc代替services，kgpon代替kubectl get po -n [命名空间+资源名](以参数传入)，并且添加kubectl命令自动补全，将这些别名和函数添加到 Shell 配置文件（如 ~/.bashrc、~/.zshrc）中，方便日常使用。以下脚本可以登陆到linux shell环境执行，结合这些别名和函数，可以大幅提高操作 Kubernetes 的效率，以后就可以轻松愉快地使用 kubectl 命令啦。
-# 在 bash 中设置当前 shell 的自动补全
-source <(kubectl completion bash)
-echo "source <(kubectl completion bash)" >> ~/.bashrc
-
-# 在 zsh 中设置当前 shell 的自动补全
-# source <(kubectl completion zsh)  
-# echo '[[ $commands[kubectl] ]] && source <(kubectl completion zsh)' >> ~/.zshrc
-# zshrc添加将 .bashrc 改为 .zshrc
-
-# 添加简化命令,单引号包裹 EOF,禁止所有变量解析
-cat >> ~/.bashrc << 'EOF' 
-
-# 基础别名
-alias k='kubectl'                     # 用 k 代替 kubectl
-alias kg='kubectl get'                # 快速 get 资源
-alias kd='kubectl…]]></summary>
-        <author>
-            <name>anzhihe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[高效学习(二)：源头、原理和知识地图]]></title>
-        <id>https://chegva.com/?p=6265</id>
-        <link href="https://chegva.com/6265.html"/>
-        <updated>2025-03-18T03:44:57.000Z</updated>
-        <summary type="html"><![CDATA[有了上一篇文章中分享的那些观点，我们来看看应该怎么做。下面是我觉得比较不错的一些学习的方法，或者说对我来说最有效的学习方法。我相信，只要你和我一样，做到的话，你的学习效率一定能够提升很快。
-挑选知识和信息源
-还是我在《程序员练级攻略》中说的那样，英文对于我们来说至关重要，尤其是对于计算机知识来说。如果你觉得用百度搜中文关键词就可以找到自己想要的知识，那么你一定远远落后于这个时代了。如果你用 Google 英文关键词可以找到自己想要的知识，那么你算是能跟得上这个时代。如果你能在社区里跟社区里的大牛交流得到答案，那么你算是领先于这个时代了。
-所以，我认为你的信息源要有下面几个特质。
-
-应该是第一手资料，不是被别人理解过、消化过的二手资料。尤其对于知识性的东西来说，更是这样。应该是原汁原味的，不应该是被添油加醋的。
-
-应该是有佐证、有数据、有引用的，或是有权威人士或大公司生产系统背书的资料。应该是被时间和实践检验过的，或是小心求证过的，不是拍脑袋野路子或是道听途说出来的资料。
-
-应该是加入了一些自己的经验和思考，可以引发人深思的，是所谓信息的密集很大的文章。
-
-顺便说一句，我发现 Medium 上的文章质量比较高，很多文章都 Google 到了 Medium 上。
-我在《程序员练级攻略 》后期的文章中罗列了很多文章资源，有的读者很不能理解，他们觉得我多少应该导读一下或是写上一些自己的想法，而不是只是简单地罗列出来。这里请允许我辩解一下，我之所以这样做，并不是因为偷懒，我完全可以把这些信息资料全部隐藏起来，翻译也好，搬运也好，导读也好，自己消化完后再写出来。那么，我可以写出多少个专栏来？
-我觉得，只要我有时间，极客时间上的所有专栏都不用写了，我一个人就 OK 了。我可以写得又快又好，而且超出所有的人。那我可以挣到很多钱。但我不想这样，我想把我读过的好的文章推荐给大家，就像推荐书一样…]]></summary>
-        <author>
-            <name>anzhihe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Golang 中的 One-function Interfaces]]></title>
-        <id>https://www.kawabangga.com/?p=6903</id>
-        <link href="https://www.kawabangga.com/posts/6903"/>
-        <updated>2025-03-17T15:56:05.000Z</updated>
-        <summary type="html"><![CDATA[看到一个 Golang 的模式，用一个 function 来实现一个 interface，function 本 […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spegel 镜像分发介绍]]></title>
-        <id>https://www.kawabangga.com/?p=6889</id>
-        <link href="https://www.kawabangga.com/posts/6889"/>
-        <updated>2025-03-16T09:00:57.000Z</updated>
-        <summary type="html"><![CDATA[网络系列文章许久不更新了，因为最近的工作比较忙，有很多其他的问题要解决。上个周花了很多时间研究 P2P，（和  […]
-Continue reading...]]></summary>
-        <author>
-            <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BeddyStories —— 全球经典精选儿童睡前故事库（0-12岁）]]></title>
-        <id>https://chegva.com/?p=6312</id>
-        <link href="https://chegva.com/6312.html"/>
-        <updated>2025-03-16T04:58:23.000Z</updated>
-        <summary type="html"><![CDATA[BeddyStories是一个专为0-12岁儿童打造的免费睡前故事平台，汇集了来自全球的经典童话，让孩子在温馨的故事中进入梦乡。所有故事均可在线阅读，无需付费，用户可以不受任何限制地浏览和阅读网站上的所有故事内容。家长还可以订阅邮件通知，随时获取最新故事更新。平台有专业的儿童教育专家团队，对所有内容进行严格筛选和审核，确保故事健康、富有教育价值，并符合不同年龄段儿童的理解能力。未来几个月将推出音频版本，提供专业配音和适合不同年龄的语速，让孩子更沉浸于故事世界。网站每周更新故事内容，不断优化用户体验，让孩子们享受优质的睡前阅读时光。
-
-
-网站地址：https://beddystories.com/zh
-
-
-
-参考：
-
-超级经典睡前故事CBeebies_Bedtime_Stories推荐
-
-
-育儿百科全书集合]]></summary>
-        <author>
-            <name>anzhihe</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[在 windows 上安装 detection2]]></title>
         <id>https://skyao.io/post/202503-install-detection2-on-windows/</id>
         <link href="https://skyao.io/post/202503-install-detection2-on-windows/"/>
@@ -6011,91 +5980,6 @@ python -c "import torch; print(torch.__version__); print(torch.version.cuda)"
 1…]]></summary>
         <author>
             <name>敖小剑的博客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[k8s cordon和drain使用]]></title>
-        <id>https://chegva.com/?p=6300</id>
-        <link href="https://chegva.com/6300.html"/>
-        <updated>2025-03-13T12:03:10.000Z</updated>
-        <summary type="html"><![CDATA[Kubernetes Cordon
-kubectl cordon 命令用于将节点标记为不可调度。这意味着 Kubernetes 调度器不会将任何新的 Pod 调度到该节点上。但是，已经在该节点上运行的 Pod 不会受到影响，它们将继续运行。在 kubectl cordon 节点后删除节点上已有 Pod，Kubernetes 会自动将新的 Pod 调度到其他可用节点上，从而实现 Pod 的迁移。但是，请务必注意控制器、资源限制、节点亲和性/反亲和性以及 Taints 和 Tolerations 等因素，以确保 Pod 能够成功迁移。
-使用场景
-
-节点维护：在对节点进行维护（例如，硬件更换、内核更新、资源调整）之前，可以使用 cordon 命令来防止新的 Pod 调度到该节点上。
-
-资源调整：在调整节点的计算资源时，可以先使用 cordon 命令，以避免资源竞争。
-
-工作负载重新分配：在需要将工作负载重新分配到其他节点时，可以使用 cordon 命令来阻止新的 Pod 调度到目标节点上。
-
-如何使用
-
-Cordon 节点
-使用以下命令将节点标记为不可调度：
-kubectl cordon <node-name>
-将 <node-name> 替换为要 cordon 的节点的名称。
-
-检查节点状态
-使用以下命令检查节点的状态，确认节点是否已被 cordon：
-kubectl get nodes <node-name>
-在输出中，STATUS 列将显示 Ready,SchedulingDisabled，表示节点已被 cordon。
-
-Uncordon 节点
-完成维护或调整后，可以使用以下命令将节点标记为可调度：
-kubectl uncordon <node-name>
-这将撤销 cordon 操作，允许新的 Pod 调度到该节点上。
-
-
-Kubernetes Drain
-kubectl drain 命令用于安全地将节点上的所有 Pod 驱逐到其他节点。在驱逐 Pod 之前，drain 命令会先 cordon 节点，以防止新的 Pod 调度到该节点上。
-使用场景
-
-节点维护：在需要关闭或删除节点之前，可以使用 drain 命令将节点上的所有 Pod 驱逐到其他节点，以确保应用程序的可用性。
-
-节点缩容：在需要缩减集群规模时，可以使用 drain 命令将要移除的节点上的 Pod 驱逐到其他节点。
-
-如何使用
-
-Drain 节点
-使用以下命令 drain 节点：
-kubectl drain <node-name> --ignore-daemonsets --force
-
-
---ignore-daemonsets：忽略 DaemonSet 管理的 Pod。DaemonSet 通常提供节点本地服务，即使节点被标记为不可调度，也应该在节点上运行。
-
---force：强制驱逐 Pod，即使它们没有被 ReplicationController、Job 或 DaemonSet 管理。
-
-
-处理 Grace Period
-如果 Pod 有较长的 grace period，drain 命令可能需要较长时间才能完成。可以使用 --grace-period 标志来覆盖 Pod 的终止宽限期，并强制立即驱逐：
-kubectl drain <node-name> --grace-period 0 --force --ignore-daemonsets
-请谨慎使用此选项，因为强制停止 Pod 可能会导致数据丢失或应用程序错误。
-
-Cordon 和 Drain 的区别
-
-cordon 命令只是将节点标记为不可调度，不会影响已经在节点上运行的 Pod。
-
-drain 命令会先 cordon 节点，然后将节点上的所有 Pod 驱逐到其他节点。
-
-
-
-总结
-cordon 和 drain 命令是 Kubernetes 中用于节点管理的重要工具。cordon 命令用于防止新的 Pod 调度到节点上，而 drain 命令用于安全地将节点上的所有 Pod 驱逐到其他节点。在进行节点维护、资源调整或缩容时，可以使用这两个命令来确保应用程序的可用性。
-
-
-参考：
-
-kubectl cordon
-
-
-Kubernetes Cordon: How It Works And When To Use It 
-
-
-Mastering Kubernetes Node Management with the `kubectl cordon` Command
-
-k8s 污点(Taint) 和容忍度(Toleration)使用]]></summary>
-        <author>
-            <name>anzhihe</name>
         </author>
     </entry>
     <entry>
