@@ -2,10 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-06-22T02:23:18.425Z</updated>
+    <updated>2025-06-23T02:21:50.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ARM Neoverse V1 (代号 Zeus) 的 BTB 结构分析]]></title>
+        <id>https://jia.je/hardware/2025/06/23/arm-neoverse-v1-btb/</id>
+        <link href="https://jia.je/hardware/2025/06/23/arm-neoverse-v1-btb/"/>
+        <updated>2025-06-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ARM Neoverse V1 (代号 Zeus) 的 BTB 结构分析¶
+背景¶
+ARM Neoverse V1 是 ARM Neoverse N1 的下一代服务器 CPU，之前我们分析过 Neoverse N1 的 BTB 设计。而 ARM Neoverse V1 在很多地方都和 Cortex-X1 类似，有了一些改进，在这里对它的 BTB 做一些分析。
+
+官方信息¶
+首先收集了一些 ARM Neoverse V1 的 BTB 结构的官方信息：
+
+SW defined cars: HPC, from the cloud to the dashboard for an amazing driver experience
+64KB L1 ICache, 2x32B bandwidth
+8K-entry main BTB
+96-entry nano BTB, 0 cycle bubble
+2 stage prediction pipeline: P1 & P2
+
+Arm Neoverse V2 platform: Leadership Performance and Power Efficiency for Next-Generation Cloud Computing, ML and HPC Workloads
+2 predicted branches per cycle
+
+
+简单整理一下官方信息，大概有两级 BTB：
+
+96-entry nano BTB, 1 cycle latency (0 cycle bubble)
+8K-entry main BTB
+2 predicted branches per cycle
+
+但是很多细节是缺失的，因此下面结合微架构测试，进一步研究它的内部结构。
+微架构测试¶
+在之前的博客里，我们已经测试了各种处理器的 BTB，在这里也是一样的…]]></summary>
+        <author>
+            <name>杰哥的{运维，编程，调板子}小笔记</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拾月周刊（第39期）：有福吃粮]]></title>
+        <id>https://www.skyue.com/25062307.html</id>
+        <link href="https://www.skyue.com/25062307.html"/>
+        <updated>2025-06-22T23:07:00.000Z</updated>
+        <summary type="html"><![CDATA[本周封面：有福吃粮。]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitHub Copilot VS Code Setup: Docker MCP Toolkit Tutorial 2025]]></title>
+        <id>https://collabnix.com/?p=37385</id>
+        <link href="https://collabnix.com/github-copilot-vs-code-setup-docker-mcp-toolkit-tutorial-2025/"/>
+        <updated>2025-06-22T18:02:46.000Z</updated>
+        <summary type="html"><![CDATA[VS Code developers using GitHub Copilot are already experiencing the power of AI-assisted development. But what if your AI assistant could do more than just write code?]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[武汉卖房]]></title>
+        <id>https://www.skyue.com/25062211.html</id>
+        <link href="https://www.skyue.com/25062211.html"/>
+        <updated>2025-06-22T03:12:00.000Z</updated>
+        <summary type="html"><![CDATA[我在武汉的房子，终于还是卖掉了。将利息、税费计算在内，粗略估算亏损超过120万——这笔钱甚至够在武汉再买一套。心情比预想中平静，账面浮亏一直存在，自欺欺人毫无意义，如今只是将这笔浮亏变成实际亏损...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes Gateway API 网关选型全景对比]]></title>
+        <id>https://jimmysong.io/blog/kubernetes-gateway-api-comparison/</id>
+        <link href="https://jimmysong.io/blog/kubernetes-gateway-api-comparison/"/>
+        <updated>2025-06-22T02:23:23.000Z</updated>
+        <summary type="html"><![CDATA[对比分析 NGINX Ingress、Kong Gateway、Apache APISIX、Envoy Gateway 等支持 Gateway API 的主流 Kubernetes 网关，从性能、安全、可观测性、社区活跃度等多个维度深入解读。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[免费服务清单｜零成本上线并维护你的网站]]></title>
         <id>https://blog.ops-coffee.cn/s/free-services-for-website-deployment.html</id>
@@ -449,6 +524,16 @@ Bensz]]></summary>
         <summary type="html"><![CDATA[莱卡云是一家国内正规备案的云服务器商家，莱卡云近期新上线了日本双ISP原生住宅IP的VPS，日本资源都是非常难得的，接下来给大家带来详细的测评结果如下。官方网站：https://www.lcayun.com内存CPU带宽硬盘流量价格购买1G1核10M20G500G/月88元/月链接1G1核30M20]]></summary>
         <author>
             <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Home Assistant: iOS Focus Mode Automation Triggers]]></title>
+        <id>https://www.derekseaman.com/?p=20321</id>
+        <link href="https://www.derekseaman.com/2025/06/home-assistant-trigger-on-any-ios-18-ios-26-focus-mode.html"/>
+        <updated>2025-06-13T13:24:26.000Z</updated>
+        <summary type="html"><![CDATA[If you are a Home Assistant user and would like to trigger Home Assistant automations based on iOS Focus Mode changes, this post is for you. In iOS 18 and earlier all focus modes except Sleep can use built-in personal automations to trigger Home Assistant actions based on the Focusing being turned on or off. However, […]]]></summary>
+        <author>
+            <name>Derek Seaman</name>
         </author>
     </entry>
     <entry>
@@ -5739,57 +5824,6 @@ The post VMware Tools Vulnerability VMSA-2025-0005: What You Need to Know appear
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Big Spring Home Lab Sale: Beats Pro, Mini PCs, 10 gig Network Switches, NVMe, Monitors, and more!]]></title>
-        <id>https://www.virtualizationhowto.com/?p=300218</id>
-        <link href="https://www.virtualizationhowto.com/2025/03/big-spring-home-lab-sale-beats-pro-mini-pcs-10-gig-network-switches-nvme-monitors-and-more/"/>
-        <updated>2025-03-25T12:52:43.000Z</updated>
-        <summary type="html"><![CDATA[In case you haven’t heard, Amazon is having their Big Spring Sale starting today that is seeing huge discounts across the board for many of the items that we are interested in for leveling up our home labs. These include items like mini PCs, network switches, NVMe, monitors, and other items. I have created a …
-The post Big Spring Home Lab Sale: Beats Pro, Mini PCs, 10 gig Network Switches, NVMe, Monitors, and more! appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[两组照片：南瓜生日，路过巴黎]]></title>
-        <id>https://www.skyue.com/25032520.html</id>
-        <link href="https://www.skyue.com/25032520.html"/>
-        <updated>2025-03-25T12:11:00.000Z</updated>
-        <summary type="html"><![CDATA[南瓜生日要出差两周，所以上周六提前给南瓜过生日，在远洋乐堤港的mamala餐厅，餐厅环境不错。结束后，到天街三匠一生打了一组黄金对戒，使用约20克黄金，其中13.14克是求婚时送的小金块，外加6...]]></summary>
-        <author>
-            <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitOps vs. DevOps: Will Traditional Workflows Survive the Next 5 Years?]]></title>
-        <id>https://collabnix.com/?p=31137</id>
-        <link href="https://collabnix.com/gitops-vs-devops-will-traditional-workflows-survive-the-next-5-years/"/>
-        <updated>2025-03-25T01:57:32.000Z</updated>
-        <summary type="html"><![CDATA[GitOps vs DevOps is shaping up to be one interesting debate in modern software delivery. Is GitOps the future, or just a buzzword? What is it, even?! Let’s try to sort it out.]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被追尾后离开，父亲成逃逸主责方]]></title>
-        <id>https://bluehe.cn/archives/traffic-accident</id>
-        <link href="https://bluehe.cn/archives/traffic-accident"/>
-        <updated>2025-03-25T01:45:46.000Z</updated>
-        <summary type="html"><![CDATA[昨天饭后，父亲与老师（律师）沟通寻求帮助，在我们那边称呼律师为老师，我也追问关于这场交通事故的处理。父亲描述：在交警支队查询监控时，明确可以视频监控和截图看出，是由于对方的失误，骑着电动车冲撞到父亲的电动车，导致摔倒，父亲觉得无所谓，大意离开，被当成了逃逸...]]></summary>
-        <author>
-            <name>寻鹤</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在亚马逊云科技上部署DeepSeek-R1生成式AI模型的最佳实践]]></title>
-        <id>https://blog.xiaoz.org/?p=21920</id>
-        <link href="https://blog.xiaoz.org/archives/21920"/>
-        <updated>2025-03-25T01:11:09.000Z</updated>
-        <summary type="html"><![CDATA[为什么选择亚马逊云科技部署DeepSeek模型？在AWS re:Invent大会上，亚马逊云科技分享了大规模AI部署的三个关键发现：计算成本优化是大规模AI应用的核心考量构建高质量的生成式AI应用需要专业的MLOps支持开发者需要多样化的模型选择来满足不同场景需求中国AI公司DeepSeek推出的D]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SAML2单点登陆接入流程分析]]></title>
         <id>https://chegva.com/?p=6307</id>
         <link href="https://chegva.com/6307.html"/>
@@ -5871,29 +5905,6 @@ IdP将SAML响应发送回用户代理，用户代理再将其转发给SP。
 …]]></summary>
         <author>
             <name>anzhihe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Broadcom Locking VMware Updates to Require Download Token for Site ID]]></title>
-        <id>https://www.virtualizationhowto.com/?p=300208</id>
-        <link href="https://www.virtualizationhowto.com/2025/03/broadcom-locking-vmware-updates-to-require-download-token-for-site-id/"/>
-        <updated>2025-03-24T17:50:40.000Z</updated>
-        <summary type="html"><![CDATA[Well, more tightening with VMware by Broadcom. Broadcom has announced major changes to the way VIAdmins are getting updates in their environments. Let’s take a look at how Broadcom locking VMware updates and what those changes are and what you need to do moving forward. Table of contentsWhat is changing?What products are affected currently with …
-The post Broadcom Locking VMware Updates to Require Download Token for Site ID appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenResty 的性能优化配置建议]]></title>
-        <id>https://dusays.com/812/</id>
-        <link href="https://dusays.com/812/"/>
-        <updated>2025-03-24T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>1Panel 的用户越来越多，内置 Web 服务 OpenResty 使用占比也在增加，但网上对其优化的教程很少。应关关童靴的需求，更新一篇有关 OpenResty 的一些优化建议。可优化设置项较少，需要的小伙伴可以根据实际需求变更配置。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
         </author>
     </entry>
     <entry>

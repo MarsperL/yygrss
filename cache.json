@@ -906,6 +906,16 @@
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
         {
+          "id": "https://jimmysong.io/blog/kubernetes-gateway-api-comparison/",
+          "author": "Jimmy Song",
+          "description": "对比分析 NGINX Ingress、Kong Gateway、Apache APISIX、Envoy Gateway 等支持 Gateway API 的主流 Kubernetes 网关，从性能、安全、可观测性、社区活跃度等多个维度深入解读。",
+          "link": "https://jimmysong.io/blog/kubernetes-gateway-api-comparison/",
+          "publishedOn": "2025-06-22T02:23:23.000Z",
+          "wordCount": 747,
+          "title": "Kubernetes Gateway API 网关选型全景对比",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.webp"
+        },
+        {
           "id": "https://jimmysong.io/blog/china-semiconductor-rise-geopolitics/",
           "author": "Jimmy Song",
           "description": "全面梳理中国芯片自主化的技术路径、国际格局、地缘政治影响与重点企业进展。详解芯片分类、全球产业链现状，中美科技博弈下国产厂商的突围与风险分析。",
@@ -1206,6 +1216,16 @@
       "feedUrl": "https://www.derekseaman.com/feed/",
       "siteUrl": "https://www.derekseaman.com",
       "articles": [
+        {
+          "id": "https://www.derekseaman.com/?p=20321",
+          "author": "Derek Seaman",
+          "description": "If you are a Home Assistant user and would like to trigger Home Assistant automations based on iOS Focus Mode changes, this post is for you. In iOS 18 and earlier all focus modes except Sleep can use built-in personal automations to trigger Home Assistant actions based on the Focusing being turned on or off. However, […]",
+          "link": "https://www.derekseaman.com/2025/06/home-assistant-trigger-on-any-ios-18-ios-26-focus-mode.html",
+          "publishedOn": "2025-06-13T13:24:26.000Z",
+          "wordCount": 4962,
+          "title": "Home Assistant: iOS Focus Mode Automation Triggers",
+          "imageUrl": "https://www.derekseaman.com/wp-content/uploads/copilot_20250612_205827.jpg"
+        },
         {
           "id": "https://www.derekseaman.com/?p=19047",
           "author": "Derek Seaman",
@@ -1959,26 +1979,6 @@
           "wordCount": 10447,
           "title": "VMware Tools Vulnerability VMSA-2025-0005: What You Need to Know",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/VMware-Tools-Vulnerability-VMSA-2025-0005-2.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=300218",
-          "author": "Brandon Lee",
-          "description": "In case you haven’t heard, Amazon is having their Big Spring Sale starting today that is seeing huge discounts across the board for many of the items that we are interested in for leveling up our home labs. These include items like mini PCs, network switches, NVMe, monitors, and other items. I have created a …\nThe post Big Spring Home Lab Sale: Beats Pro, Mini PCs, 10 gig Network Switches, NVMe, Monitors, and more! appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/03/big-spring-home-lab-sale-beats-pro-mini-pcs-10-gig-network-switches-nvme-monitors-and-more/",
-          "publishedOn": "2025-03-25T12:52:43.000Z",
-          "wordCount": 9385,
-          "title": "Big Spring Home Lab Sale: Beats Pro, Mini PCs, 10 gig Network Switches, NVMe, Monitors, and more!",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/Big-Spring-Home-Lab.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=300208",
-          "author": "Brandon Lee",
-          "description": "Well, more tightening with VMware by Broadcom. Broadcom has announced major changes to the way VIAdmins are getting updates in their environments. Let’s take a look at how Broadcom locking VMware updates and what those changes are and what you need to do moving forward. Table of contentsWhat is changing?What products are affected currently with …\nThe post Broadcom Locking VMware Updates to Require Download Token for Site ID appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/03/broadcom-locking-vmware-updates-to-require-download-token-for-site-id/",
-          "publishedOn": "2025-03-24T17:50:40.000Z",
-          "wordCount": 9645,
-          "title": "Broadcom Locking VMware Updates to Require Download Token for Site ID",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/VMware-Locking.jpg"
         }
       ]
     },
@@ -1987,6 +1987,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=37385",
+          "author": "Collabnix Team",
+          "description": "VS Code developers using GitHub Copilot are already experiencing the power of AI-assisted development. But what if your AI assistant could do more than just write code?",
+          "link": "https://collabnix.com/github-copilot-vs-code-setup-docker-mcp-toolkit-tutorial-2025/",
+          "publishedOn": "2025-06-22T18:02:46.000Z",
+          "wordCount": 3965,
+          "title": "GitHub Copilot VS Code Setup: Docker MCP Toolkit Tutorial 2025",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=36750",
           "author": "Collabnix Team",
@@ -2876,16 +2886,6 @@
           "wordCount": 3324,
           "title": "Running Docker Desktop on NVIDIA Jetson Orin Nano Super for the first time",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=31137",
-          "author": "Tanvir Kour",
-          "description": "GitOps vs DevOps is shaping up to be one interesting debate in modern software delivery. Is GitOps the future, or just a buzzword? What is it, even?! Let’s try to sort it out.",
-          "link": "https://collabnix.com/gitops-vs-devops-will-traditional-workflows-survive-the-next-5-years/",
-          "publishedOn": "2025-03-25T01:57:32.000Z",
-          "wordCount": 3460,
-          "title": "GitOps vs. DevOps: Will Traditional Workflows Survive the Next 5 Years?",
-          "imageUrl": null
         }
       ]
     },
@@ -3112,6 +3112,26 @@
       "siteUrl": "https://www.skyue.com/",
       "articles": [
         {
+          "id": "https://www.skyue.com/25062307.html",
+          "author": "拾月",
+          "description": "本周封面：有福吃粮。",
+          "link": "https://www.skyue.com/25062307.html",
+          "publishedOn": "2025-06-22T23:07:00.000Z",
+          "wordCount": 559,
+          "title": "拾月周刊（第39期）：有福吃粮",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://www.skyue.com/25062211.html",
+          "author": "拾月",
+          "description": "我在武汉的房子，终于还是卖掉了。将利息、税费计算在内，粗略估算亏损超过120万——这笔钱甚至够在武汉再买一套。心情比预想中平静，账面浮亏一直存在，自欺欺人毫无意义，如今只是将这笔浮亏变成实际亏损...",
+          "link": "https://www.skyue.com/25062211.html",
+          "publishedOn": "2025-06-22T03:12:00.000Z",
+          "wordCount": 589,
+          "title": "武汉卖房",
+          "imageUrl": ""
+        },
+        {
           "id": "https://www.skyue.com/25062116.html",
           "author": "拾月",
           "description": "书接上文，在太原期间，我们参观了太原北齐壁画博物馆、晋商博物馆和晋祠博物馆。这三座博物馆各具特色，值得细细品味。若有朋友到太原旅行，又恰好喜欢逛博物馆，这三家均十分推荐。下面容我一一道来。",
@@ -3230,16 +3250,6 @@
           "wordCount": 576,
           "title": "情绪记录",
           "imageUrl": ""
-        },
-        {
-          "id": "https://www.skyue.com/25032520.html",
-          "author": "拾月",
-          "description": "南瓜生日要出差两周，所以上周六提前给南瓜过生日，在远洋乐堤港的mamala餐厅，餐厅环境不错。结束后，到天街三匠一生打了一组黄金对戒，使用约20克黄金，其中13.14克是求婚时送的小金块，外加6...",
-          "link": "https://www.skyue.com/25032520.html",
-          "publishedOn": "2025-03-25T12:11:00.000Z",
-          "wordCount": 538,
-          "title": "两组照片：南瓜生日，路过巴黎",
-          "imageUrl": ""
         }
       ]
     },
@@ -3342,21 +3352,6 @@
           "wordCount": 464,
           "title": "二零二五南湖花镜",
           "imageUrl": null
-        },
-        {
-          "id": "https://bluehe.cn/archives/traffic-accident",
-          "author": "寻鹤",
-          "description": "昨天饭后，父亲与老师（律师）沟通寻求帮助，在我们那边称呼律师为老师，我也追问关于这场交通事故的处理。父亲描述：在交警支队查询监控时，明确可以视频监控和截图看出，是由于对方的失误，骑着电动车冲撞到父亲的电动车，导致摔倒，父亲觉得无所谓，大意离开，被当成了逃逸...",
-          "link": "https://bluehe.cn/archives/traffic-accident",
-          "publishedOn": "2025-03-25T01:45:46.000Z",
-          "wordCount": 790,
-          "title": "被追尾后离开，父亲成逃逸主责方",
-          "enclosure": {
-            "url": "https://bluehe.cn/usr/uploads/2025/03/4202106869.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bluehe.cn/usr/uploads/2025/03/4202106869.jpg"
         }
       ]
     },
@@ -3771,16 +3766,6 @@
           "publishedOn": "2025-03-27T16:00:00.000Z",
           "wordCount": 1396,
           "title": "X Window 与 Wayland 的深度对比",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/812/",
-          "author": null,
-          "description": "<blockquote>\n<p>1Panel 的用户越来越多，内置 Web 服务 OpenResty 使用占比也在增加，但网上对其优化的教程很少。应关关童靴的需求，更新一篇有关 OpenResty 的一些优化建议。可优化设置项较少，需要的小伙伴可以根据实际需求变更配置。</p>\n</blockquote>",
-          "link": "https://dusays.com/812/",
-          "publishedOn": "2025-03-24T16:00:00.000Z",
-          "wordCount": 1369,
-          "title": "OpenResty 的性能优化配置建议",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
@@ -4326,16 +4311,6 @@
           "wordCount": 281,
           "title": "技术人用博客撬动产品机会，从写作到自由职业的11年实践",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=21920",
-          "author": "xiaoz",
-          "description": "为什么选择亚马逊云科技部署DeepSeek模型？在AWS re:Invent大会上，亚马逊云科技分享了大规模AI部署的三个关键发现：计算成本优化是大规模AI应用的核心考量构建高质量的生成式AI应用需要专业的MLOps支持开发者需要多样化的模型选择来满足不同场景需求中国AI公司DeepSeek推出的D",
-          "link": "https://blog.xiaoz.org/archives/21920",
-          "publishedOn": "2025-03-25T01:11:09.000Z",
-          "wordCount": 273,
-          "title": "在亚马逊云科技上部署DeepSeek-R1生成式AI模型的最佳实践",
-          "imageUrl": null
         }
       ]
     },
@@ -4849,6 +4824,16 @@
       "feedUrl": "https://jia.je/feed.xml",
       "siteUrl": "https://jia.je/",
       "articles": [
+        {
+          "id": "https://jia.je/hardware/2025/06/23/arm-neoverse-v1-btb/",
+          "author": null,
+          "description": "ARM Neoverse V1 (代号 Zeus) 的 BTB 结构分析¶\n背景¶\nARM Neoverse V1 是 ARM Neoverse N1 的下一代服务器 CPU，之前我们分析过 Neoverse N1 的 BTB 设计。而 ARM Neoverse V1 在很多地方都和 Cortex-X1 类似，有了一些改进，在这里对它的 BTB 做一些分析。\n\n官方信息¶\n首先收集了一些 ARM Neoverse V1 的 BTB 结构的官方信息：\n\nSW defined cars: HPC, from the cloud to the dashboard for an amazing driver experience\n64KB L1 ICache, 2x32B bandwidth\n8K-entry main BTB\n96-entry nano BTB, 0 cycle bubble\n2 stage prediction pipeline: P1 & P2\n\nArm Neoverse V2 platform: Leadership Performance and Power Efficiency for Next-Generation Cloud Computing, ML and HPC Workloads\n2 predicted branches per cycle\n\n\n简单整理一下官方信息，大概有两级 BTB：\n\n96-entry nano BTB, 1 cycle latency (0 cycle bubble)\n8K-entry main BTB\n2 predicted branches per cycle\n\n但是很多细节是缺失的，因此下面结合微架构测试，进一步研究它的内部结构。\n微架构测试¶\n在之前的博客里，我们已经测试了各种处理器的 BTB，在这里也是一样的…",
+          "link": "https://jia.je/hardware/2025/06/23/arm-neoverse-v1-btb/",
+          "publishedOn": "2025-06-23T00:00:00.000Z",
+          "wordCount": 1591,
+          "title": "ARM Neoverse V1 (代号 Zeus) 的 BTB 结构分析",
+          "imageUrl": null
+        },
         {
           "id": "https://jia.je/hardware/2025/06/10/linux-vm-on-harmonyos-computer/",
           "author": null,
