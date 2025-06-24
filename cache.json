@@ -750,16 +750,6 @@
           "wordCount": 3322,
           "title": "小米路由器 BE3600 Pro 笔记：初步分析、折腾路由 Docker（一）",
           "imageUrl": null
-        },
-        {
-          "id": "https://soulteary.com/2025/03/26/gitea-git-server-with-docker-and-traefik-v3.html",
-          "author": "苏洋(soulteary)",
-          "description": "本篇文章聊聊搭建“轻量好用又不吃资源”的代码仓库，分享如何在 Docker 环境下搭配 Traefik v3 快速搭建一个私有化的 Gitea 代码仓库。",
-          "link": "https://soulteary.com/2025/03/26/gitea-git-server-with-docker-and-traefik-v3.html",
-          "publishedOn": "2025-03-26T04:08:00.000Z",
-          "wordCount": 904,
-          "title": "使用 Docker 和 Traefik v3 搭建轻量代码仓库（Gitea 1.20+）",
-          "imageUrl": null
         }
       ]
     },
@@ -1290,6 +1280,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=301587",
+          "author": "Brandon Lee",
+          "description": "I have been super excited to get my hands on this particular NAS device – the Aoostar WTRMax. At first glance, it looks like a storage-packed NAS box, but under the hood, this machine is a powerful combination of compute, RAM, and lots of storage options. With support for up to 11 drives and the …\nThe post Aoostar WTR Max Review: The Almost Perfect NAS Mini PC appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/06/aoostar-wtr-max-review-the-almost-perfect-nas-mini-pc/",
+          "publishedOn": "2025-06-23T15:00:28.000Z",
+          "wordCount": 12277,
+          "title": "Aoostar WTR Max Review: The Almost Perfect NAS Mini PC",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/06/Aoostar-WTR-Max-review.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=301561",
           "author": "Brandon Lee",
@@ -1969,16 +1969,6 @@
           "wordCount": 11377,
           "title": "Minisforum BD790i X3D Motherboard Review with AMD 7945HX3D and PCIe Gen 5",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/Minisforum-BD790i-X3D-motherboard-review.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=300233",
-          "author": "Brandon Lee",
-          "description": "In case you didn’t know, VMware released a new VMware security advisory noted in the VMSA-2025-0005 bulletin and notes the flaw: CVE-2025-22230. This allows a user with limited privileges on a guest VM to perform privileged operations which means it can be a pretty major security concern in production environments. Let’s break down the VMware …\nThe post VMware Tools Vulnerability VMSA-2025-0005: What You Need to Know appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/03/vmware-tools-vulnerability-vmsa-2025-0005-what-you-need-to-know/",
-          "publishedOn": "2025-03-26T13:13:33.000Z",
-          "wordCount": 10447,
-          "title": "VMware Tools Vulnerability VMSA-2025-0005: What You Need to Know",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/VMware-Tools-Vulnerability-VMSA-2025-0005-2.jpg"
         }
       ]
     },
