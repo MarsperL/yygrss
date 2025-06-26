@@ -176,6 +176,16 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
+          "id": "https://daverupert.com/2025/06/fittext-too-attr-boogaloo/",
+          "author": null,
+          "description": "Text reflow on the web has an interesting relationship with Responsive Web Design. As a column gets smaller text wraps and becomes taller1. But for large format display text, that’s not always what you want2. What I’ve wanted for awhile now is a way to inversely size text based on the text length (where the font-size gets smaller as the heading gets longer).\nI’ve been chasing the white whale of responsive text-sizing for over a decade and I think I’ve got my best attempt to-date with the new attr() upgrades that landed in CSS (Chromium-only at time of writing).\nSee the Pen \n  inverse text-sizing with attr by Dave Rupert (@davatron5000)\n  on CodePen.\n\nCSS’s attr() function got an upgrade this year where you can use it independent of content in pseudo-elements. They also added the ability to…",
+          "link": "https://daverupert.com/2025/06/fittext-too-attr-boogaloo/",
+          "publishedOn": "2025-06-25T14:31:00.000Z",
+          "wordCount": 1529,
+          "title": "Inverse text-sizing based on text-length with attr()",
+          "imageUrl": null
+        },
+        {
           "id": "https://daverupert.com/2025/06/principles-of-redwoodsdk/",
           "author": null,
           "description": "We had Peter Pistorius on ShopTalk to talk about RedwoodJS and the project’s pivot to an almost entirely different project called RedwoodSDK. I am a complete outsider but I liked what RedwoodJS (the old project) was trying to do and didn’t fully understand why they felt the need to reboot. I even have a dusty old post in my drafts folder about what I liked about RedwoodJS. But after talking, it seems the winds of the JavaScript zeitgeist has changed and technology picks from 2020 aren’t the best deep integrations to have anymore.\nAfter talking to Peter, I was pleasantly surprised by the principles that guide the new RedwoodSDK project:\nZero magic - No codegen or transpiler side effects\nComposability over configuration  - No opinionated wrappers\nUses native Web APIs - No abstraction over fe…",
@@ -701,6 +711,16 @@
       "feedUrl": "https://soulteary.com/feed/",
       "siteUrl": "https://soulteary.com/feed/",
       "articles": [
+        {
+          "id": "https://soulteary.com/2025/06/25/build-a-stable-can-network-with-can-bridge.html",
+          "author": "苏洋(soulteary)",
+          "description": "本篇文章，分享前段时间折腾的一个开源项目。聊聊我们是如何解决调试开发阶段 CAN 通信和初始化相关的事情的。希望这篇文章可以为你未来调试设备、构建系统提供一点便利。",
+          "link": "https://soulteary.com/2025/06/25/build-a-stable-can-network-with-can-bridge.html",
+          "publishedOn": "2025-06-25T04:49:00.000Z",
+          "wordCount": 725,
+          "title": "构建稳定的 CAN 网络通信桥梁：CAN-Bridge",
+          "imageUrl": null
+        },
         {
           "id": "https://soulteary.com/2025/04/12/talk-about-feelings-not-technology-part-3.html",
           "author": "苏洋(soulteary)",
@@ -2886,16 +2906,6 @@
           "wordCount": 3025,
           "title": "The Unseen Challenge: Why Banks Struggle to Scale Even with Cloud Solutions",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=31262",
-          "author": "Collabnix Team",
-          "description": "In the rapidly evolving world of artificial intelligence, a new star is emerging: Small Language Models (SLMs). While large language models have dominated recent headlines, these compact yet powerful AI solutions are carving out a critical niche that promises to reshape how businesses and industries approach artificial intelligence. What Makes Small Language Models Special? Unlike […]",
-          "link": "https://collabnix.com/the-rise-of-small-language-models-a-game-changer-in-ai-technology/",
-          "publishedOn": "2025-03-28T08:18:07.000Z",
-          "wordCount": 2475,
-          "title": "The Rise of Small Language Models: A Game-Changer in AI Technology",
-          "imageUrl": null
         }
       ]
     },
@@ -3787,16 +3797,6 @@
           "wordCount": 1443,
           "title": "使用 Python 脚本下载指定网页的图片文件",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/813/",
-          "author": null,
-          "description": "<blockquote>\n<p>X Window 与 Wayland 不仅代表了图形界面技术不同发展阶段，更体现了设计理念、架构模式及应用场景的显著差异。本文将从历史背景、技术特点、应用场景及未来展望等多个维度，对 X Window 和 Wayland 进行深入剖析。</p>\n</blockquote>",
-          "link": "https://dusays.com/813/",
-          "publishedOn": "2025-03-27T16:00:00.000Z",
-          "wordCount": 1396,
-          "title": "X Window 与 Wayland 的深度对比",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
     },
@@ -4134,18 +4134,7 @@
       "title": "Home on 阳明的博客",
       "feedUrl": "https://www.qikqiak.com/index.xml",
       "siteUrl": "https://www.qikqiak.com/",
-      "articles": [
-        {
-          "id": "https://www.qikqiak.com/post/gpt-4o-designer-is-dangerous/",
-          "author": null,
-          "description": "It’s over.\nGPT-4o 仅凭文本和图像即可生成疯狂的 UI、广告和图形。\n\n下面是我们用于网页设计方向的 18 个疯狂示例（并附上了详细提示词）。",
-          "link": "https://www.qikqiak.com/post/gpt-4o-designer-is-dangerous/",
-          "publishedOn": "2025-03-28T00:00:00.000Z",
-          "wordCount": 1313,
-          "title": "我们收集了18个顶级设计案例，GPT-4o 已经让设计师非常危险了",
-          "imageUrl": "https://picdn.youdianzhishi.com/images/blog-favicon.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "小z博客",
@@ -4358,7 +4347,18 @@
       "title": "Alliot's blog",
       "feedUrl": "https://www.iots.vip/atom.xml",
       "siteUrl": "https://www.iots.vip/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.iots.vip/post/argocd-metadata-annotations-Toolong",
+          "author": null,
+          "description": "<p>　　使用 Argo CD 部署 kube-prometheus-stack 的时候，出现 <code>the metadata.annotations is invalid: Too long: must have at most 262144 bytes</code> 的问题，导致整个 Application 出现 Sync Error。 这是由于Kubernetes 对于 metadata.annotations 字段总长度有限制，通常不能超过262144字节（256KB），而执行 <code>kubectl apply</code> 时会在 annotation 中加入 <code>last-applied-configuration</code>, 从而导致 annotation 过大无法 apply。",
+          "link": "https://www.iots.vip/post/argocd-metadata-annotations-Toolong",
+          "publishedOn": "2025-06-24T11:21:52.000Z",
+          "wordCount": 1311,
+          "title": "ArgoCD部署应用出现metadata.annotations过大问题",
+          "imageUrl": "https://static.iots.vip/argocd-replace-sync.webp"
+        }
+      ]
     },
     {
       "title": "弹霄博科",
