@@ -124,16 +124,6 @@
           "wordCount": 1501,
           "title": "Ansible最新版安装",
           "imageUrl": "https://tu.ltyuanfang.cn/api/fengjing.php?7060"
-        },
-        {
-          "id": "https://marsperl.github.io/yyg/e80721f/",
-          "author": null,
-          "description": "🔜什么是Ansible？🔚",
-          "link": "https://marsperl.github.io/yyg/e80721f/",
-          "publishedOn": "2025-03-31T11:45:26.000Z",
-          "wordCount": 3285,
-          "title": "Ansible知识梳理",
-          "imageUrl": "https://tu.ltyuanfang.cn/api/fengjing.php?2603"
         }
       ]
     },
@@ -734,6 +724,16 @@
       "siteUrl": "https://blog.ops-coffee.cn",
       "articles": [
         {
+          "id": "https://blog.ops-coffee.cn/s/free-for-dev-free-services-for-developers.html",
+          "author": null,
+          "description": "探索free-for-dev项目，一个汇集了超过1600个免费开发者服务的宝藏库，覆盖软件开发全生命周期，助你在预算有限的情况下找到高性价比工具。",
+          "link": "https://blog.ops-coffee.cn/s/free-for-dev-free-services-for-developers.html",
+          "publishedOn": "2025-06-28T12:01:33.000Z",
+          "wordCount": 60,
+          "title": "我珍藏的免费服务清单，在这个GitHub项目面前不值一提",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.ops-coffee.cn/s/auto-cicd-with-github-actions-dockerhub-clawcloud.html",
           "author": null,
           "description": "本文详细介绍如何利用GitHub Actions、DockerHub和ClawCloud实现Django应用的自动化部署，通过Docker容器托管服务，轻松实现代码提交后的自动构建和部署，无需额外维护，低成本且高效。",
@@ -861,16 +861,6 @@
           "publishedOn": "2025-04-11T13:35:55.000Z",
           "wordCount": 140,
           "title": "磐安｜自驾浙中川藏线，过没有人从众的假期",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.ops-coffee.cn/r/birthday-surprise-and-life-reflection.html",
-          "author": null,
-          "description": "在34岁生日当天，儿子的一句“生日快乐”带来惊喜，文章以此为起点，反思了在大城市的生活、家庭的幸福以及对未来的思考。文中提到如何处理资产保值、对失业的态度、家庭的温馨重要性以及人生长跑的心态。",
-          "link": "https://blog.ops-coffee.cn/r/birthday-surprise-and-life-reflection.html",
-          "publishedOn": "2025-03-30T20:24:09.000Z",
-          "wordCount": 51,
-          "title": "今天是我的生日",
           "imageUrl": null
         }
       ]
@@ -1944,26 +1934,6 @@
           "wordCount": 11339,
           "title": "Sync Pi-Hole Settings and Blocklists between Instances with Nebula Sync",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/04/pi-hole-dns-sinkhole-open-source-solution.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=300285",
-          "author": "Brandon Lee",
-          "description": "Looking for great tech deals? Check out items on today’s daily tech deals. Today you can get a SAMSUNG 990 PRO SSD 4TB PCIe for 40% off, GMKtec Mini PC Intel Core i7-1195G7 for 36% off, RGB Backlit Rechargeable Wireless Keyboard & Mouse Combo for 35% off, Beelink EQ14 Mini PC, Intel Twin Lake N150 …\nThe post Daily Tech Deals March 31 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/03/daily-tech-deals-march-31-2025/",
-          "publishedOn": "2025-03-31T14:14:58.000Z",
-          "wordCount": 8539,
-          "title": "Daily Tech Deals March 31 2025",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/03/image-85.jpeg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=300270",
-          "author": "Brandon Lee",
-          "description": "We have all heard the very common expression, “it is always DNS”. We joke about this often, but very often DNS is at the heart of issues with connectivity. Incorrect DNS records, reverse lookups, or just overall DNS connectivity issues play a role in major outages. This can also affect the home lab environment. You …\nThe post DNS Failover for the Home Lab and Why You Need It appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/03/dns-failover-for-the-home-lab-and-why-you-need-it/",
-          "publishedOn": "2025-03-31T13:28:46.000Z",
-          "wordCount": null,
-          "title": "DNS Failover for the Home Lab and Why You Need It",
-          "imageUrl": null
         }
       ]
     },
@@ -3097,6 +3067,26 @@
       "siteUrl": "https://limboy.me/",
       "articles": [
         {
+          "id": "https://limboy.me/posts/stroke",
+          "author": null,
+          "description": "前几天在看跑男，有一个游戏环节是这样的：嘉宾通过努力得到一个笔画，目标文字中如果包含该笔画就会出现。感觉挺有意思的，对它稍加改造，于是就有了这个小游戏：笔画猜成语",
+          "link": "https://limboy.me/posts/stroke",
+          "publishedOn": "2025-06-29T00:00:00.000Z",
+          "wordCount": 113,
+          "title": "做了一个小游戏：笔画猜成语",
+          "imageUrl": null
+        },
+        {
+          "id": "https://limboy.me/posts/vibe-coding",
+          "author": null,
+          "description": "TL;DR",
+          "link": "https://limboy.me/posts/vibe-coding",
+          "publishedOn": "2025-06-28T00:00:00.000Z",
+          "wordCount": 458,
+          "title": "Vibe Coding 一段时间后的感受",
+          "imageUrl": null
+        },
+        {
           "id": "https://limboy.me/posts/amaxhosa-amazulu",
           "author": null,
           "description": "昨晚在看特雷弗·诺亚的《天生有罪》，开篇的一段话是这样的：",
@@ -3481,16 +3471,6 @@
           "wordCount": 4001,
           "title": "关于近期医疗行业大瓜的若干思考与预测",
           "imageUrl": "https://blognas.hwb0307.com/wp-content/uploads/zzmx-137-scaled.jpg"
-        },
-        {
-          "id": "https://blognas.hwb0307.com/?p=6351",
-          "author": "Bensz",
-          "description": "Bensz\n前沿快讯 第70期 套索肽抗生素拉里奥西丁及其衍生物具有广谱抗菌活性等\n本博客由Faconhost大力赞助！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 前言 本文是前沿快讯的第70期。前沿快讯栏目主要收集一些个人感兴趣的近期发表的研究，关注领域包括肿瘤的分子生物学、临床研究、流行病学等，文献类型主要是期刊论文和综述。研究介绍在Google机翻摘要的基础上进行微调，可能不一定特别准确、专业，主要目的是方便自己和大家快速了解和回顾相关领域研究进展。如果你对某个研究的细节感兴趣，请自行寻找全文进一步了解。此外，研究根据子领域会进一步细分，不过交叉领域的研究不好分为某一类，所以这个分类主要用于初级索引，并不十分准确，不喜勿喷。最后，大家看到什么特别的研究，也可以在评论区向我推荐，我会酌情收录在后面的期刊中。如无意外，前沿快讯栏目会长期更新，周期为2周-1月 […]\nBensz",
-          "link": "https://blognas.hwb0307.com/medicine/6351",
-          "publishedOn": "2025-03-30T14:17:34.000Z",
-          "wordCount": 6772,
-          "title": "前沿快讯 第70期 套索肽抗生素拉里奥西丁及其衍生物具有广谱抗菌活性等",
-          "imageUrl": "https://chevereto.hwb0307.com/images/2025/03/29/image-20250329084304552.png"
         }
       ]
     },
@@ -3801,16 +3781,6 @@
           "publishedOn": "2025-04-02T16:00:00.000Z",
           "wordCount": 1374,
           "title": "Linux 下的高效压缩工具 Zstandard",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/814/",
-          "author": null,
-          "description": "<blockquote>\n<p>有小伙伴反馈说侧边栏随机图出现了重复，有些审美疲劳，要求杜老师再更新一些图片，正好聊天广场有小伙伴分享了一个美图的网址。本文分享如何使用 Python 脚本下载指定网页的图片文件，需要的小伙伴可以参考文中代码。</p>\n</blockquote>",
-          "link": "https://dusays.com/814/",
-          "publishedOn": "2025-03-30T16:00:00.000Z",
-          "wordCount": 1443,
-          "title": "使用 Python 脚本下载指定网页的图片文件",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
