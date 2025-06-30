@@ -871,6 +871,16 @@
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
         {
+          "id": "https://jimmysong.io/blog/ai-gateway-in-depth/",
+          "author": "Jimmy Song",
+          "description": "深入分析 AI Gateway 与传统 API Gateway 的区别、主流产品对比、核心功能、发展趋势以及实际应用案例。",
+          "link": "https://jimmysong.io/blog/ai-gateway-in-depth/",
+          "publishedOn": "2025-06-29T02:41:02.000Z",
+          "wordCount": 2565,
+          "title": "深入解析 AI Gateway：新一代智能流量控制中枢",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.webp"
+        },
+        {
           "id": "https://jimmysong.io/blog/kubernetes-gateway-api-comparison/",
           "author": "Jimmy Song",
           "description": "对比分析 NGINX Ingress、Kong Gateway、Apache APISIX、Envoy Gateway 等支持 Gateway API 的主流 Kubernetes 网关，从性能、安全、可观测性、社区活跃度等多个维度深入解读。",
@@ -1943,6 +1953,26 @@
       "siteUrl": "https://collabnix.com",
       "articles": [
         {
+          "id": "https://collabnix.com/?p=38456",
+          "author": "Collabnix Team",
+          "description": "Understanding Retrieval Augmented Generation in AI Transform how your AI applications access and utilize knowledge. Retrieval-Augmented Generation (RAG) is revolutionizing artificial intelligence by combining the power of large language models with real-time information retrieval. This comprehensive guide will teach you everything about RAG—from fundamental concepts to advanced implementation techniques—helping you build more accurate, up-to-date, and reliable […]",
+          "link": "https://collabnix.com/retrieval-augmented-generation-rag-complete-guide-to-building-intelligent-ai-systems-in-2025/",
+          "publishedOn": "2025-06-29T03:25:56.000Z",
+          "wordCount": 5687,
+          "title": "Retrieval Augmented Generation: A Complete Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=38451",
+          "author": "Tanvir Kour",
+          "description": "Your Ultimate Ollama Guide for Local Language Models Running AI models locally has never been easier. Ollama revolutionizes how developers and AI enthusiasts interact with large language models (LLMs) by eliminating the need for expensive cloud services and providing complete privacy control. In this comprehensive guide, you’ll learn everything about Ollama—from installation to advanced usage—and why […]",
+          "link": "https://collabnix.com/ollama-complete-guide-how-to-run-large-language-models-locally-in-2025/",
+          "publishedOn": "2025-06-29T03:21:00.000Z",
+          "wordCount": null,
+          "title": "Ollama Guide: Run Large Language Models Locally",
+          "imageUrl": null
+        },
+        {
           "id": "https://collabnix.com/?p=38120",
           "author": "Tanvir Kour",
           "description": "Custom AI solutions can help you deal with a lot of stuff. Can they help you solve business challenges? Let’s discuss it here.",
@@ -2781,56 +2811,6 @@
           "wordCount": 2830,
           "title": "YouTube Transcript Generator Using Model Context Protocol in Just 5 Lines of Code",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=31321",
-          "author": "Adesoji Alu",
-          "description": "Revolutionizing AI Automation: Unleashing the Power of CrewAI In this blog today, let us discover how CrewAI – a fast, flexible, and standalone multi-agent automation framework – is transforming the way developers build intelligent, autonomous AI agents for any scenario. What is CrewAI? CrewAI is a lean, lightning-fast Python framework built entirely from scratch—completely independent […]",
-          "link": "https://collabnix.com/what-problem-does-crewai-solve-unleashing-the-power-of-crewai/",
-          "publishedOn": "2025-04-01T13:53:15.000Z",
-          "wordCount": 3822,
-          "title": "What problem does CrewAI solve?: Unleashing the Power of CrewAI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=31133",
-          "author": "Adesoji Alu",
-          "description": "Introduction As modern ML models become increasingly large and complex, training them often requires leveraging hundreds or thousands of accelerator chips spread across many hosts. Kubernetes has become a natural choice for scheduling and managing these distributed training workloads, but existing primitives aren’t always enough to capture the unique patterns of ML and HPC jobs. […]",
-          "link": "https://collabnix.com/running-distributed-ml-training-with-jobset-on-kubernetes/",
-          "publishedOn": "2025-04-01T12:11:11.000Z",
-          "wordCount": 3366,
-          "title": "Running Distributed ML Training with JobSet on Kubernetes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=31315",
-          "author": "Tanvir Kour",
-          "description": "The Perfect Match: CRM and Kanban for Zendesk Users Running a growing business is like juggling flaming torches while riding a unicycle—you need balance, focus, and the right tools to keep everything from crashing. If you’re using Zendesk Support, you already understand the importance of efficient customer service. But if you’re not using a CRM […]",
-          "link": "https://collabnix.com/why-every-growing-business-needs-a-crm-and-kanban-if-it-uses-zendesk-support/",
-          "publishedOn": "2025-03-31T15:12:14.000Z",
-          "wordCount": 3242,
-          "title": "Why Every Growing Business Needs a CRM and Kanban if It Uses Zendesk Support",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=31303",
-          "author": "Collabnix Team",
-          "description": "The Problem Since the release of macOS Sequoia (macOS 15), many Docker users have encountered a frustrating issue: Docker Desktop simply refuses to start properly. If you’re experiencing this problem, you might notice: This issue has been reported by users across different Mac models, including those with Apple Silicon chips like the M2, and affects […]",
-          "link": "https://collabnix.com/fixing-docker-desktop-not-starting-on-macos-sequoia-a-complete-guide/",
-          "publishedOn": "2025-03-30T18:25:58.000Z",
-          "wordCount": 2839,
-          "title": "Fixing Docker Desktop Not Starting on macOS Sequoia: A Complete Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=31307",
-          "author": "Collabnix Team",
-          "description": "Model Context Protocol (MCP) has rapidly evolved from an experimental framework to a production-ready solution for connecting AI models with external data sources and tools. As organizations move beyond proof-of-concepts to deploying MCP in mission-critical environments, new challenges and considerations arise. This guide walks through the essentials of taking MCP to production, covering architecture decisions, […]",
-          "link": "https://collabnix.com/how-to-use-mcp-in-production-a-practical-guide/",
-          "publishedOn": "2025-03-30T18:22:33.000Z",
-          "wordCount": 3707,
-          "title": "How to Use MCP in Production: A Practical Guide",
-          "imageUrl": null
         }
       ]
     },
@@ -3480,6 +3460,16 @@
       "siteUrl": "https://4311346.com/",
       "articles": [
         {
+          "id": "https://4311346.com/post/2025/0629-ser8pro.html",
+          "author": null,
+          "description": "九个月前卖掉了2020款的MacBookPro，当时还选配了16G内存是真的贵，最终转手的核心原因是效率，拿到的2900元现金加上闲鱼上回收的iPhone13-1890元，再搭配一辆闲置8年的GIANT2016款XTC820的费用2600元，换购了一辆小牛NXT玩家版电动自行车… 出行是方便了，但在家用PC这块却因没了MBP而难受了好久，对于一个曾经同时有着5台ThinkPad的老用户来说，拿着2020年的iPadAir4外接显示器在家加班做Excel表是真难受。2022年安全下车的Yoga Pro 14S得经常带着往返公司和家的路上，但在重量上和之前的 X1Carbon 的便携性相比弱爆了…\n2024年10月29日Apple发布了 M4芯片的 Mac mini，很长一段时间，各种门店和渠道都没货，直到2025年后的国补即使是3600元的价格很多时候也是一券难求，慢慢的对 M4芯片的 Mac mini，已完全失去了信心。虽然有装固态硬盘的群晖NAS，但丐版256G实属有点难受。升级板载内存也得费用，为什么不给NAS上大硬盘呢… 放弃~\n早在15年前就组装过HTPC，最终因为长期不在武汉，至今丢在储藏室的角落，最终闲置为铁砖头。而那时候的MACmini第一代产品自己还是安装着WindowsXP使用，那时候从没使用过Mac OS X操作系统。\n近2年长期加班熬夜，也睡不好，颈椎难受… 再每日背起5KG+的双肩包，就更难受了。索性在京东618下单了GTi13 Ultra，国补后 3278.40元的价格，没有什么理由不下单了。要知道在湖北国补平台上，长时间都是入口关闭状态，要不就是今日已领完。而在京东上居然可以直接下单就能享受过补后价格，是真的心动。\nGti想说爱你不容易\n要知道 GTi13 UItra 13900HK 32GB+1TB，在零刻官方平台得要 3799元，国补后的价格…",
+          "link": "https://4311346.com/post/2025/0629-ser8pro.html",
+          "publishedOn": "2025-06-29T04:42:03.000Z",
+          "wordCount": 313,
+          "title": "GTi想说爱你不容易，最终放弃上了SE",
+          "imageUrl": null
+        },
+        {
           "id": "https://4311346.com/post/2025/0610-duanwu.html",
           "author": null,
           "description": "万象城-华润置地旗下的大型商业地产品牌，主打高端购物中心、写字楼、酒店及住宅等综合业态，是中国最具影响力的商业地产项目之一。但华润置地万象城对自己来说，是一个 闻之色变 的名字… 2015年从华润置地离职后，十年的时间，仅有去年《特斯拉赛博皮卡巡展-武汉站》的时候去过这里。\n\n很多时候，是不愿意回忆在华润置地有命赚钱没命花钱的日子…\n\n端午节假期第一天，前往武汉万象城\n2025汉堡节全国巡展·武汉站\n这次 汉堡节全国巡展·武汉站 在武汉万象城举办，带着家人去凑个热闹。2025年05月31日端午节，这天下着雨，排队情况依旧，有排队的地方就有黄牛…\n\n尽管商家们已经贴出各种告示，但抵不住黄牛的纯在。黄牛价格在30元-100元之间/1个汉堡，价格取决于排队时间。\n\n排了皮蛋汉堡（浙江）和云堡（云南）\n\n还是有些惊艳的，能在家门口吃到来至全国各地的汉堡，还是挺开心的。只是下雨+排队，感受比较差，只买了两款，不然至少是4款起步。\n希望未来武汉还有能多这样类似的活动\nGrid Coffee\n\n万象城的咖啡店品牌挺多，这次选择Grid Coffee，他们的华中首店就落位于武汉万象城，也只是半个月前的事，Single Origin Coffee 全系单一产地咖啡，产品力及品牌号召力极具辨识度。\n2025年六一儿童节\n假期第二天，恰逢六一儿童节，早上07点就被同事的电话叫醒，起来参加临时的电话会议到中午，都不想再出门。下午继续下着雨，迷迷糊糊睡了一觉，起来点了一份靓靓蒸虾的凉面，外加紫燕百味鸡…一天就这么过去了。\n\n端午假期第三天，老老实实去到公司加班。\n\n检讨书…\n很多年没写过检讨了，这次被上级要求提交检讨~ 在端午节假期结束前，赶紧整了一份。\n主要原因是近半年时间里，公司内出现了多起劳动关系问题，虽然还不到劳动仲裁的地步，但确实费神费力。如果只是及个别的问题，或许是员工的问题，但如果不间断的出现问题，那可能真的是部门在日常工作中有疏忽，才会连续出现。\n时代不断在变，没有什么一劳永逸，需不断的主动学习并拥抱变化，主动求变，更好的从业务、流程、制度上去改进很多东西。防患于未然，不是等着事情发生，再有准备去应对，而是通过前期的准备，使得它根本就不会发生。\n来菜-湖北头牌藕汤\n这是一家在在街道口银泰创意城开始开遍全武汉的品牌，主打藕汤。而藕汤在湖北人的概念里差不多和热干面一样，没有那一家最好。来菜 像 费大厨 一样，定义了藕汤。这是第二次来到来菜，并不是因为藕汤，而是这盘煎鲈鱼。而这次发现这款擂椒茄子皮蛋也是很赞的。\n\n充值了300元，送59元，直接到账 359元，马上就会来第三次。\n\n将违法变为合法\n吃完 来菜 之后，反思自己的那一份检讨，发现自己这半年做得很多的事情，都是游走在法律边缘。\n800人规模的企业，通过各种人力资源手段，将原本违法的劳动关系变为合法… 想想也好可怕。\n2025年的端午节过完了\n并没有休息好，\n各种工作又来了，\nε=(´ο｀*)))唉 … 最近心情很差",
@@ -3852,6 +3842,16 @@
       "feedUrl": "https://www.mintimate.cn/atom.xml",
       "siteUrl": "https://www.mintimate.cn/atom.xml",
       "articles": [
+        {
+          "id": "https://www.mintimate.cn/2025/06/29/baseMemosBB/",
+          "author": null,
+          "description": "使用云厂商提供的 Linux 服务器，发行版本总是比较有限。但是，我们可以通过手动 DD 安装第三方 Linux 发行版，实现更多功能。",
+          "link": "https://www.mintimate.cn/2025/06/29/baseMemosBB/",
+          "publishedOn": "2025-06-29T15:25:27.000Z",
+          "wordCount": 1636,
+          "title": "自建 Memos 服务：碎片化笔记 + 博客说说栏，一栈双用",
+          "imageUrl": "https://imagehost.mintimate.cn/post_baseMemosBB/banner.webp"
+        },
         {
           "id": "https://www.mintimate.cn/2025/06/10/linuxDdLinux/",
           "author": null,
@@ -4369,16 +4369,6 @@
           "wordCount": 658,
           "title": "从 SC-081 说说 SSL 证书的那些事",
           "imageUrl": "https://static.txblog.110289.xyz/upload/e36d6fd5.jpg"
-        },
-        {
-          "id": "https://www.txisfine.cn/archives/fcd1738c.html",
-          "author": null,
-          "description": "<h1 id=\"What-is-MCP\"><a href=\"#What-is-MCP\" class=\"headerlink\" title=\"What is MCP?\"></a>What is MCP?</h1><p>MCP（Model Context Protocol）可以算是当",
-          "link": "https://www.txisfine.cn/archives/fcd1738c.html",
-          "publishedOn": "2025-03-31T14:43:26.000Z",
-          "wordCount": null,
-          "title": "MCP Server 牛刀小试之雷池 MCP",
-          "imageUrl": null
         }
       ]
     },
