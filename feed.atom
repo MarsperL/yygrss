@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-06-30T02:20:56.574Z</updated>
+    <updated>2025-07-01T02:26:42.470Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RAG Retrieval Augmented Generation: A Complete Guide]]></title>
+        <id>https://collabnix.com/?p=38577</id>
+        <link href="https://collabnix.com/rag-retrieval-augmented-generation-the-complete-guide-to-building-intelligent-ai-systems-in-2025/"/>
+        <updated>2025-06-30T16:58:35.000Z</updated>
+        <summary type="html"><![CDATA[Master RAG implementation with our comprehensive guide. Learn what RAG is, how to build RAG systems, best frameworks, and real-world applications. Complete tutorial with code examples.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ollama: The Complete Guide to Running Large Language Models Locally in 2025]]></title>
+        <id>https://collabnix.com/?p=38553</id>
+        <link href="https://collabnix.com/ollama-the-complete-guide-to-running-large-language-models-locally-in-2025/"/>
+        <updated>2025-06-30T16:49:36.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to install, configure, and optimize Ollama for running AI models locally. Complete guide with setup instructions, best practices, and troubleshooting tips]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[自建 Memos 服务：碎片化笔记 + 博客说说栏，一栈双用]]></title>
         <id>https://www.mintimate.cn/2025/06/29/baseMemosBB/</id>
@@ -157,6 +177,18 @@ The post My Favorite Home Lab Tools in 2025 (So Far): Projects I Keep Coming Bac
         <summary type="html"><![CDATA[Discover how Kubernetes revolutionizes AI and machine learning deployments. Learn best practices, tools, and strategies for running AI workloads at scale with Kubernetes orchestration.]]></summary>
         <author>
             <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ingress-nginx 使用自定义的nginx配置]]></title>
+        <id>https://zahui.fan/posts/sygayi/</id>
+        <link href="https://zahui.fan/posts/sygayi/"/>
+        <updated>2025-06-26T06:49:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>新版 ingress 增强了 “ 安全性 “, 它认为用户自己写的 nginx 配置文件不安全，所以又加了限制。我的 ingress 版本是： 1.12.2</p>
+<p>比如有个需求，Spring Boot 写的程序有个 &#x2F;actuator 路径，安全审查不通过，如果是个 nginx 可以通过：</p>
+<figure class="highlight]]></summary>
+        <author>
+            <name>杂烩饭</name>
         </author>
     </entry>
     <entry>
@@ -5683,70 +5715,6 @@ The post Free Up Disk Space in your Kubernetes Cluster appeared first on Virtual
 </blockquote>]]></summary>
         <author>
             <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Tech Deals April 2 2025]]></title>
-        <id>https://www.virtualizationhowto.com/?p=300336</id>
-        <link href="https://www.virtualizationhowto.com/2025/04/daily-tech-deals-april-2-2025/"/>
-        <updated>2025-04-02T13:12:06.000Z</updated>
-        <summary type="html"><![CDATA[Looking for great tech deals? Check out items on today’s daily tech deals. Today you can get a SAMSUNG 990 PRO SSD 4TB PCIe 4.0 M.2 2280 for 40% off, SAMSUNG 27″ Essential S3 for 39% off, 15.6inch Portable Monitor for 25% off, SAMSUNG Viewfinity S65UA Series 34-Inch for 39% off, and WD_BLACK 8TB SN850X …
-The post Daily Tech Deals April 2 2025 appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minisforum TB4-01 Thunderbolt 4 Dock Review]]></title>
-        <id>https://www.virtualizationhowto.com/?p=300314</id>
-        <link href="https://www.virtualizationhowto.com/2025/04/minisforum-tb4-01-thunderbolt-4-dock-review/"/>
-        <updated>2025-04-02T12:49:57.000Z</updated>
-        <summary type="html"><![CDATA[If you are a mobile creator or power user, even a mobile home lab user, carrying your laptop around doesn’t give you the connectivity options that you may be used to with your workstation. This is where a mobile dock comes in handy. Minisforum has released an extremely interesting Thunderbolt 4 dock that has a …
-The post Minisforum TB4-01 Thunderbolt 4 Dock Review appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia 8卡A100简易性能测试]]></title>
-        <id>https://nops.icu/archives/202/</id>
-        <link href="https://nops.icu/archives/202/"/>
-        <updated>2025-04-02T07:21:00.000Z</updated>
-        <summary type="html"><![CDATA[在 deepseek-r1:32b 中小尺寸模型下，A100 单卡可提供 1.8QPS，单问题 7 秒内完成响应。 对于小团队够用。 单卡推理比4090弱服务器硬件配置：○ CPU：Intel(...]]></summary>
-        <author>
-            <name>季兴</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube Transcript Generator Using Model Context Protocol in Just 5 Lines of Code]]></title>
-        <id>https://collabnix.com/?p=31364</id>
-        <link href="https://collabnix.com/youtube-transcript-generator-using-model-context-protocol-in-just-5-lines-of-code/"/>
-        <updated>2025-04-01T18:48:27.000Z</updated>
-        <summary type="html"><![CDATA[Ever wanted to get the transcript of a YouTube video without subscribing to expensive services or wrestling with complicated APIs? In this blog post, I’ll show you how to build a YouTube transcript generator using the Model Context Protocol (MCP) in just 5 lines of code, based on the excellent mcp-server-youtube-transcript project. What is Model […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Tech Deals April 1 2025]]></title>
-        <id>https://www.virtualizationhowto.com/?p=300307</id>
-        <link href="https://www.virtualizationhowto.com/2025/04/daily-tech-deals-april-1-2025/"/>
-        <updated>2025-04-01T15:28:48.000Z</updated>
-        <summary type="html"><![CDATA[Looking for great tech deals? Check out items on today’s daily tech deals. Today you can get a Lenovo ThinkPad E16 G2 Business Laptop for 56% off, SAMSUNG 990 PRO SSD 4TB for 40% of, SAMSUNG 49″ Odyssey QD-OLED (G93SC) for 41% of, WiFi Extender, 2024 Fastest WiFi Booster for 40% off, and a ACEMAGICIAN …
-The post Daily Tech Deals April 1 2025 appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sync Pi-Hole Settings and Blocklists between Instances with Nebula Sync]]></title>
-        <id>https://www.virtualizationhowto.com/?p=300293</id>
-        <link href="https://www.virtualizationhowto.com/2025/04/sync-pi-hole-settings-and-blocklists-between-instances-with-nebula-sync/"/>
-        <updated>2025-04-01T15:08:34.000Z</updated>
-        <summary type="html"><![CDATA[If you were like me, when you saw the Gravity Sync project was archived and would have no future development, this was a bummer as I have relied on Gravity sync for quite some time now to sync Pi-Hole instances. However, in steps the power of community! Another developer took on the project to carry …
-The post Sync Pi-Hole Settings and Blocklists between Instances with Nebula Sync appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
