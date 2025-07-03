@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-07-02T02:08:39.520Z</updated>
+    <updated>2025-07-03T02:09:13.380Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[多功能文件分享程序Zdir 4.6.0发布，新增网盘挂载]]></title>
+        <id>https://blog.xiaoz.org/?p=22202</id>
+        <link href="https://blog.xiaoz.org/archives/22202"/>
+        <updated>2025-07-03T01:22:43.000Z</updated>
+        <summary type="html"><![CDATA[Zdir是一款使用Golang + Vue3开发的多功能私有存储程序，集成了文件索引、在线预览和分享功能，支持WebDAV和离线下载，非常适合安装在NAS设备或大容量VPS上，是个人、工作室和小团队分享文件的理想选择。演示演示地址：https://demo.zdir.pro/ （国外服务器）用户名：]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Practices for Monitoring Remote Engineers Without Killing Their Trust]]></title>
+        <id>https://collabnix.com/?p=38861</id>
+        <link href="https://collabnix.com/best-practices-for-monitoring-remote-engineers-without-killing-their-trust/"/>
+        <updated>2025-07-02T14:05:38.000Z</updated>
+        <summary type="html"><![CDATA[Managing a remote team of engineers is like walking a tightrope. They need space to think, code, and create without someone breathing down their neck. But managers still need to know the work’s getting done—features shipped, bugs squashed, deadlines met. The trick is keeping tabs without turning into the office equivalent of a helicopter parent. […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker Model Runner Tutorial: Complete Guide to Deploy AI Models on Linux (2025)]]></title>
+        <id>https://collabnix.com/?p=38851</id>
+        <link href="https://collabnix.com/docker-model-runner-tutorial-complete-guide-to-deploy-ai-models-on-linux-2025/"/>
+        <updated>2025-07-02T13:33:25.000Z</updated>
+        <summary type="html"><![CDATA[Docker Model Runner Tutorial: Step-by-Step Guide Deploying AI models just got as simple as running Docker containers. Docker Model Runner brings the familiar Docker experience to AI model management, letting you deploy, manage, and scale machine learning models with the same ease you’d expect from containerized applications. This comprehensive guide will walk you through setting […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[借免费拼图工具诞生的故事分享下使用AI编程的经验]]></title>
+        <id>https://blog.ops-coffee.cn/s/free-online-puzzle-tool-development-journey.html</id>
+        <link href="https://blog.ops-coffee.cn/s/free-online-puzzle-tool-development-journey.html"/>
+        <updated>2025-07-02T13:19:35.000Z</updated>
+        <summary type="html"><![CDATA[这篇文章讲述了一个免费在线拼图工具的开发过程，从解决个人需求到逐渐完善功能，最终成为一个完全免费、无需登录的工具。通过AI辅助开发，实现了多种创新功能，如移动端兼容、图片视区平移等，展现了AI时代的创作可能性。]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Killer AI Projects You Can Try in a Weekend]]></title>
+        <id>https://www.virtualizationhowto.com/?p=301666</id>
+        <link href="https://www.virtualizationhowto.com/2025/07/5-killer-ai-projects-you-can-try-in-a-weekend/"/>
+        <updated>2025-07-02T12:57:12.000Z</updated>
+        <summary type="html"><![CDATA[You don’t need cloud credits or racks of GPUs to experiment with powerful AI tools. Thanks to lean local models and awesome open-source tools, you can build your own AI stack in a weekend. You can do all of this right in your home lab. You can host your own ChatGPT alternative, automate your RSS …
+The post 5 Killer AI Projects You Can Try in a Weekend appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How AI is Transforming Container Management and Logistics in the World of Kubernetes and Docker]]></title>
         <id>https://collabnix.com/?p=38777</id>
@@ -5720,47 +5771,6 @@ Continue reading...]]></summary>
         <updated>2025-04-04T14:29:23.000Z</updated>
         <summary type="html"><![CDATA[So, my new build is kicking off! Thanks to a motherboard sent over by Minisforum, the BD790i X3D with the AMD Ryzen 9 7945X3D processor. This little board packs a punch and is definitely a sweet spot for gamers with the high thread count and extra cache for gaming. With this home server/workstation build, I …
 The post Rate My Best Home Server Build aka Workstation! appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can Chrome Extensions be Used on Mobile: A Practical Guide]]></title>
-        <id>https://collabnix.com/?p=31497</id>
-        <link href="https://collabnix.com/can-chrome-extensions-be-used-on-mobile-a-practical-guide/"/>
-        <updated>2025-04-04T12:49:41.000Z</updated>
-        <summary type="html"><![CDATA[Trying to use Chrome extensions on your Android device and hitting a wall? You’re not alone. Despite being one of the most used browsers in the world, Chrome on mobile doesn’t support extensions the way its desktop version does. But that doesn’t mean you’re out of options. In this guide, we’ll explain can chrome extensions […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker Model Runner: The Missing Piece for Your GenAI Development Workflow]]></title>
-        <id>https://collabnix.com/?p=31451</id>
-        <link href="https://collabnix.com/docker-model-runner-the-missing-piece-for-your-genai-development-workflow/"/>
-        <updated>2025-04-04T06:44:35.000Z</updated>
-        <summary type="html"><![CDATA[Ever tried building a GenAI application and hit a wall? 🧱 I know I have. You start with excitement about implementing that cool chatbot or content generator, but then reality hits. You’re either sending sensitive data to third-party APIs with usage limits and costs that quickly add up 💸, or you’re wrestling with complex local […]]]></summary>
-        <author>
-            <name>Ajeet Raina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla Model 3 Report: An In-Depth Analysis by CrewAI Maintenance Specialist Agent]]></title>
-        <id>https://collabnix.com/?p=31444</id>
-        <link href="https://collabnix.com/tesla-model-3-report-an-in-depth-analysis-by-crewai-maintenance-specialist-agent/"/>
-        <updated>2025-04-03T21:25:12.000Z</updated>
-        <summary type="html"><![CDATA[T Tesla Model 3 Report: An Expert Maintenance Perspective Welcome to our in-depth blog post where CrewAI, acting as your dedicated maintenance specialist, provides a comprehensive report on the Tesla Model 3. In this post, we cover everything from the executive summary and detailed specifications to pricing, maintenance insights, and performance metrics. The final report […]]]></summary>
-        <author>
-            <name>Adesoji Alu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Tech Deals April 3 2025]]></title>
-        <id>https://www.virtualizationhowto.com/?p=300365</id>
-        <link href="https://www.virtualizationhowto.com/2025/04/daily-tech-deals-april-3-2025/"/>
-        <updated>2025-04-03T14:20:31.000Z</updated>
-        <summary type="html"><![CDATA[Looking for great tech deals? Check out items on today’s daily tech deals. Today you can get a SAMSUNG 990 PRO SSD 4TB PCIe 4.0 M.2 2280 for 40% off, SAMSUNG 27″ Essential S3 for 39% off, a TP-Link Deco AX3000 WiFi 6 Mesh System for 25% off, an Amazon eero 6+ mesh wifi system for …
-The post Daily Tech Deals April 3 2025 appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
         </author>
