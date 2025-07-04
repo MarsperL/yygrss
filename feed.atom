@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-07-03T02:09:13.380Z</updated>
+    <updated>2025-07-04T02:08:26.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wireshark 101: The 2025 Beginner’s Guide]]></title>
+        <id>https://www.virtualizationhowto.com/?p=301682</id>
+        <link href="https://www.virtualizationhowto.com/2025/07/wireshark-101-the-2025-beginners-guide/"/>
+        <updated>2025-07-03T15:36:23.000Z</updated>
+        <summary type="html"><![CDATA[If you are like me, when you manage networks, whether in the home lab or production environment, you probably use tools like ping, traceroute, netstat, etc. These are great tools and can help you diagnose simple network problems very quickly. However, sooner or later, you will run into problems that a simple command-line utility can …
+The post Wireshark 101: The 2025 Beginner’s Guide appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TALENTACE：中期肝癌 TACE 基础上联用 T+A，PFS 获益 #ESMOGI25]]></title>
+        <id>http://whyes.org/2025/talentace-tace-atezo-bev-hcc</id>
+        <link href="http://whyes.org/2025/talentace-tace-atezo-bev-hcc"/>
+        <updated>2025-07-03T15:07:34.000Z</updated>
+        <summary type="html"><![CDATA[对于不可手术切除的中期肝癌，经肝动脉化疗栓塞（TACE）是标准治疗。在 TACE 治疗不获益之后，不管肿瘤有没有进展到晚期，再使用系统治疗，这种是传统的 TACE 续贯系统治疗的模式。要不要直接把系统治疗加上去，以形成 TACE 联合系统治...]]></summary>
+        <author>
+            <name>whyes 的博客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周一才上线的网站，单单今天已经超过1000访问了]]></title>
+        <id>https://blog.ops-coffee.cn/s/new-version-free-puzzle-tool-update.html</id>
+        <link href="https://blog.ops-coffee.cn/s/new-version-free-puzzle-tool-update.html"/>
+        <updated>2025-07-03T14:17:19.000Z</updated>
+        <summary type="html"><![CDATA[免费拼图工具新版本上线，新增照片缩放、键盘操作、画布优化等功能，支持添加文字、箭头、方框和圆圈，完全免费，在线接反馈，快来体验吧！]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fabric：为你的命令行安上 AI 管道]]></title>
+        <id>https://jimmysong.io/blog/fabric-cli-ai-pipeline/</id>
+        <link href="https://jimmysong.io/blog/fabric-cli-ai-pipeline/"/>
+        <updated>2025-07-03T11:59:14.000Z</updated>
+        <summary type="html"><![CDATA[Fabric 是一个命令行 AI 工具框架，它通过“模式（Pattern）+ 管道”的方式，让你将 LLM 能力无缝集成到终端工作流中，本文详解安装、配置、核心概念与自定义模式实践。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCP提效--技术文档配图]]></title>
+        <id>https://nops.icu/archives/213/</id>
+        <link href="https://nops.icu/archives/213/"/>
+        <updated>2025-07-03T02:49:00.000Z</updated>
+        <summary type="html"><![CDATA[写技术文档一直是挺花时间，也挺头疼的一项任务。更头疼的是还要配图！先看效果（推荐手机端观看，可放大）：画的还是有模有样，看步骤cursor或chatbox添加mermaid MCPMCP添加方式...]]></summary>
+        <author>
+            <name>季兴</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Envoy Jaeger Tracing 示例详解]]></title>
+        <id>https://jimmysong.io/blog/envoy-jaeger-tracing-explained/</id>
+        <link href="https://jimmysong.io/blog/envoy-jaeger-tracing-explained/"/>
+        <updated>2025-07-03T02:03:08.000Z</updated>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[多功能文件分享程序Zdir 4.6.0发布，新增网盘挂载]]></title>
         <id>https://blog.xiaoz.org/?p=22202</id>
@@ -5724,36 +5784,6 @@ int global_data;__thread int tls_data;void global(int val) { global_data = val; 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Master Terraform: Your Essential Toolbox for a Clean, Secure, and Scalable Infrastructure]]></title>
-        <id>https://collabnix.com/?p=31370</id>
-        <link href="https://collabnix.com/master-terraform-your-essential-toolbox-for-a-clean-secure-and-scalable-infrastructure/"/>
-        <updated>2025-04-05T08:41:50.000Z</updated>
-        <summary type="html"><![CDATA[Terraform is an open-source Infrastructure as Code (IaC) tool from HashiCorp that allows you to define and provision infrastructure using configuration files, enabling automation and management of resources across various cloud providers and on-premises environments.Just for you to be updated,FYI, IBM acquired HashiCorp, the creator of Terraform, in a deal valued at $6.4 billion, which […]]]></summary>
-        <author>
-            <name>Adesoji Alu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla Model 3 Report: An In-Depth Analysis by CrewAI Maintenance Specialist Agent]]></title>
-        <id>https://collabnix.com/?p=31472</id>
-        <link href="https://collabnix.com/tesla-model-3-report-an-in-depth-analysis-by-crewai-maintenance-specialist-agent-2/"/>
-        <updated>2025-04-05T08:40:50.000Z</updated>
-        <summary type="html"><![CDATA[The Tesla Model 3 is a battery electric powered mid-size sedan with a fastback body style built by Tesla, Inc., introduced in 2017. The vehicle is marketed as being more affordable to more people than previous models made by Tesla. The Model 3 was the world’s top-selling plug-in electric car for three years, from 2018 […]]]></summary>
-        <author>
-            <name>Adesoji Alu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[二零二五南湖花镜]]></title>
-        <id>https://bluehe.cn/archives/nanhu-flower-2025</id>
-        <link href="https://bluehe.cn/archives/nanhu-flower-2025"/>
-        <updated>2025-04-05T02:25:00.000Z</updated>
-        <summary type="html"><![CDATA[“壮族三月三”放假时间：3 月 31 日至 4 月 1 日（星期一至星期二）放假，与周末连休。虽然有了假期，但可去的地方确很少，今年的三月三官方主场在民歌湖，母亲很想去在 3 月 31 日前往，但前一晚上我查了小红书的信息，发现在3月27就开始进行门票的预...]]></summary>
-        <author>
-            <name>寻鹤</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[数据是如何转发的]]></title>
         <id>https://www.kawabangga.com/?p=6919</id>
         <link href="https://www.kawabangga.com/posts/6919"/>
@@ -5762,17 +5792,6 @@ int global_data;__thread int tls_data;void global(int val) { global_data = val; 
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rate My Best Home Server Build aka Workstation!]]></title>
-        <id>https://www.virtualizationhowto.com/?p=300370</id>
-        <link href="https://www.virtualizationhowto.com/2025/04/rate-my-best-home-server-build-aka-workstation/"/>
-        <updated>2025-04-04T14:29:23.000Z</updated>
-        <summary type="html"><![CDATA[So, my new build is kicking off! Thanks to a motherboard sent over by Minisforum, the BD790i X3D with the AMD Ryzen 9 7945X3D processor. This little board packs a punch and is definitely a sweet spot for gamers with the high thread count and extra cache for gaming. With this home server/workstation build, I …
-The post Rate My Best Home Server Build aka Workstation! appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
