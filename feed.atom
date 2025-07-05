@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-07-04T02:08:26.515Z</updated>
+    <updated>2025-07-05T02:04:19.423Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[当我昨天还在为那1000流量欣喜时，今天直接翻10倍]]></title>
+        <id>https://blog.ops-coffee.cn/s/weekly-update-free-online-puzzle-tool.html</id>
+        <link href="https://blog.ops-coffee.cn/s/weekly-update-free-online-puzzle-tool.html"/>
+        <updated>2025-07-04T13:07:56.000Z</updated>
+        <summary type="html"><![CDATA[本周更新了免费在线拼图工具，新增多语言支持和解决小屏幕下载模糊问题，支持11种语言，覆盖全球80%以上用户，提升用户体验和国际化支持。]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重要通知：网站迁移与升级]]></title>
+        <id>/archives/1751620775463</id>
+        <link href="http://blog.lixx.cn/archives/1751620775463"/>
+        <updated>2025-07-04T09:23:10.000Z</updated>
+        <summary type="html"><![CDATA[重要通知：网站迁移与升级 尊敬的读者： 即日起，本人的技术文章与笔记将更新至全新平台：www.lixx.cn。 新站点采用 Docusaurus 框架构建，通过 GitHub 进行内容管理，并已集成 AI 辅助功能以优化笔记记录。此次迁移旨在提升内容发布的稳定性和效率，确保为您提供更优质的阅读体验。]]></summary>
+        <author>
+            <name>Lixx Blog - 李晓旭的博客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[英国公司注销流程]]></title>
+        <id>https://blog.xiaoz.org/?p=22212</id>
+        <link href="https://blog.xiaoz.org/archives/22212"/>
+        <updated>2025-07-04T07:08:40.000Z</updated>
+        <summary type="html"><![CDATA[2024年初，xiaoz分享了《关于注册英国公司那点事》，最开始我满心期待，以为可以在海外市场搞点事，也试着做了一些推广，结果搞了一年多毫无起色，最后不得不注销公司，也算是行成闭环了。为什么要注销英国公司下方整理了下我个人要注销英国公司的原因。目前海外业务未能成功开展每年需要承担英国公司地址费用每年]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[minio自建对象存储]]></title>
+        <id>https://zahui.fan/posts/syv4vu/</id>
+        <link href="https://zahui.fan/posts/syv4vu/"/>
+        <updated>2025-07-04T07:02:18.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="docker-部署"><a href="#docker-部署" class="headerlink" title="docker 部署"></a>docker 部署</h2><blockquote>
+<p>这里我指定了 network，我的 nginx 也是用的这个 network，可以直接用 名字 来访问</p>
+</blockquote>
+<figure]]></summary>
+        <author>
+            <name>杂烩饭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我将从 Tetrate 离职，重新思考下一段旅程]]></title>
+        <id>https://jimmysong.io/blog/leaving-tetrate/</id>
+        <link href="https://jimmysong.io/blog/leaving-tetrate/"/>
+        <updated>2025-07-04T03:18:41.000Z</updated>
+        <summary type="html"><![CDATA[回顾我在技术浪潮中的十年，从 Hadoop 到 Kubernetes，再到 Service Mesh 和 AI。在离开 Tetrate 之际，重新思考下一段旅程的方向。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wireshark 101: The 2025 Beginner’s Guide]]></title>
         <id>https://www.virtualizationhowto.com/?p=301682</id>
@@ -5749,38 +5802,6 @@ int global_data;__thread int tls_data;void global(int val) { global_data = val; 
 0000000000001140 <global>: 1140: 89 3d ce 2e 00 00 mov %edi,0x2e…]]></summary>
         <author>
             <name>杰哥的{运维，编程，调板子}小笔记</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[基于 RK3588 的 ARM 架构 ITX 主机搭建指南：系统选型和配置优化]]></title>
-        <id>https://soulteary.com/2025/04/06/build-arm-itx-nuc-on-rk3588.html</id>
-        <link href="https://soulteary.com/2025/04/06/build-arm-itx-nuc-on-rk3588.html"/>
-        <updated>2025-04-06T10:16:00.000Z</updated>
-        <summary type="html"><![CDATA[这篇文档，应该是目前你能够找到的 RK3588 相关，最全面的设备系统选型和配置优化的内容了，希望能够帮到有类似需求的你。]]></summary>
-        <author>
-            <name>苏洋(soulteary)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Technical Analysis of Llama 4 Scout, Maverick and Behemoth]]></title>
-        <id>https://collabnix.com/?p=31519</id>
-        <link href="https://collabnix.com/deep-technical-analysis-of-llama-4-scout-maverick-and-behemoth/"/>
-        <updated>2025-04-06T04:18:15.000Z</updated>
-        <summary type="html"><![CDATA[Meta’s release of the Llama 4 family represents a significant architectural leap forward in the domain of Large Language Models (LLMs). This technical deep dive explores the sophisticated architectural components, training methodologies, and performance optimizations that underpin the Llama 4 models, with particular focus on the mixture-of-experts (MoE) architecture and multimodal capabilities that define this […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 系统监控利器 ctop 命令详解]]></title>
-        <id>https://dusays.com/816/</id>
-        <link href="https://dusays.com/816/"/>
-        <updated>2025-04-05T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>在 Linux 系统，尤其是当我们在管理多个容器时，了解系统和容器的资源使用情况至关重要。今天，就给大家介绍一款强大的监控工具 ctop，本文详细介绍 ctop 的安装、使用、命令选项。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
         </author>
     </entry>
     <entry>
