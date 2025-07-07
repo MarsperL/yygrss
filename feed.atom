@@ -2,10 +2,94 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-07-06T02:24:08.343Z</updated>
+    <updated>2025-07-07T02:20:56.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[拾月周刊（第40期）：送报员]]></title>
+        <id>https://www.skyue.com/25070707.html</id>
+        <link href="https://www.skyue.com/25070707.html"/>
+        <updated>2025-07-06T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本期封面：送报员。]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DeepSeek R1 with Ollama: Complete Guide to Running AI Locally in 2025]]></title>
+        <id>https://collabnix.com/?p=39574</id>
+        <link href="https://collabnix.com/deepseek-r1-with-ollama-complete-guide-to-running-ai-locally-in-2025/"/>
+        <updated>2025-07-06T18:46:50.000Z</updated>
+        <summary type="html"><![CDATA[Want to run powerful AI models locally without cloud dependencies? DeepSeek R1 with Ollama offers a game-changing solution that rivals OpenAI’s ChatGPT while maintaining complete privacy and control. This comprehensive guide shows you exactly how to install, configure, and optimize DeepSeek R1 using Ollama on your local machine. What is DeepSeek R1? DeepSeek R1 is a […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agentic AI on Kubernetes: Advanced Orchestration, Deployment, and Scaling Strategies for Autonomous AI Systems]]></title>
+        <id>https://collabnix.com/?p=39570</id>
+        <link href="https://collabnix.com/agentic-ai-on-kubernetes-advanced-orchestration-deployment-and-scaling-strategies-for-autonomous-ai-systems/"/>
+        <updated>2025-07-06T18:23:58.000Z</updated>
+        <summary type="html"><![CDATA[Agentic AI represents the next evolution in artificial intelligence, where autonomous agents can reason, plan, and execute complex tasks independently. Deploying these sophisticated AI systems at scale requires robust orchestration platforms, and Kubernetes has emerged as the de facto standard for managing containerized Agentic AI workloads. This comprehensive technical guide explores advanced deployment patterns, optimization […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Gemma AI Models: A Comprehensive Technical Analysis and Implementation Guide for Developers]]></title>
+        <id>https://collabnix.com/?p=39534</id>
+        <link href="https://collabnix.com/google-gemma-ai-models-a-comprehensive-technical-analysis-and-implementation-guide-for-developers/"/>
+        <updated>2025-07-06T18:13:24.000Z</updated>
+        <summary type="html"><![CDATA[Google’s Gemma AI models represent a significant breakthrough in open-source large language model development, offering developers and researchers unprecedented access to state-of-the-art natural language processing capabilities. This comprehensive technical guide explores Gemma’s architecture, performance benchmarks, implementation strategies, and practical applications in modern AI systems. What Are Google Gemma AI Models? Google Gemma is a family […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Penetration Testing for Generative AI: Addressing Emerging Threats]]></title>
+        <id>https://collabnix.com/?p=39522</id>
+        <link href="https://collabnix.com/penetration-testing-for-generative-ai-addressing-emerging-threats/"/>
+        <updated>2025-07-06T17:27:59.000Z</updated>
+        <summary type="html"><![CDATA[Generative AI is no longer a future trend — it’s a present-day business driver. From chatbots that handle customer support to copilots that assist with coding and document drafting, companies across industries are deploying AI-powered tools to boost efficiency, reduce costs, and stand out in competitive markets. But alongside the promise comes a critical reality: […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用GitHub Actions实现Hexo博客的自动化发布]]></title>
+        <id>https://marsperl.github.io/yyg/37098f8c/</id>
+        <link href="https://marsperl.github.io/yyg/37098f8c/"/>
+        <updated>2025-07-06T13:43:23.000Z</updated>
+        <summary type="html"><![CDATA[基础环境
+原环境
+仓库：存放静态网页的仓库（公开）
+工作流：本地撰写博客—>执行编译，生成静态网页—>推送静态网页到仓库—>访问发布的网页
+<a href="#新环境" class="headerlink"]]></summary>
+        <author>
+            <name>云野阁</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MacBook抢修记，及新Mac必备软件]]></title>
+        <id>https://www.skyue.com/25070616.html</id>
+        <link href="https://www.skyue.com/25070616.html"/>
+        <updated>2025-07-06T08:03:00.000Z</updated>
+        <summary type="html"><![CDATA[半个月没更新博客，只因MacBook坏了。恢复更新第一篇，就写写此事。一、MacBook Pro抢修记上周三晚上发现我的MacBook充不进电，此时电池只剩20%多电量。等到电量降至10%，我才...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数据驱动：我是如何构建我的网站内容分析页面的]]></title>
+        <id>https://jimmysong.io/blog/how-i-built-my-website-content-analysis-dashboard/</id>
+        <link href="https://jimmysong.io/blog/how-i-built-my-website-content-analysis-dashboard/"/>
+        <updated>2025-07-06T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[为了更好地了解我的网站内容，我开发了一个全新的 /analysis 页面。本文将分享其功能、构建流程和技术实现，希望能为你提供灵感。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[像写代码一样记笔记：我的 VS Code + GitHub + Hugo 工作流]]></title>
         <id>https://jimmysong.io/blog/hugo-note-taking/</id>
@@ -5698,48 +5782,6 @@ The post How to Document Your Home Lab (The Right Way) appeared first on Virtual
 The post Daily Tech Deals April 8 2025 appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exploring the Llama 4 Herd and what problem does it solve?]]></title>
-        <id>https://collabnix.com/?p=31547</id>
-        <link href="https://collabnix.com/exploring-the-llama-4-herd-and-what-problem-does-it-solve/"/>
-        <updated>2025-04-08T14:10:14.000Z</updated>
-        <summary type="html"><![CDATA[Hold onto your hats, folks, because the world of Artificial Intelligence has just been given a significant shake-up. Meta has unveiled their latest marvels: the Llama 4 herd, marking what they’re calling “the beginning of a new era of natively multimodal AI innovation”. This isn’t just another incremental update; it’s a leap forward that promises […]]]></summary>
-        <author>
-            <name>Adesoji Alu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mini ITX PC Build Guide for 2025]]></title>
-        <id>https://www.virtualizationhowto.com/?p=300419</id>
-        <link href="https://www.virtualizationhowto.com/2025/04/mini-itx-pc-build-guide-for-2025/"/>
-        <updated>2025-04-08T14:02:40.000Z</updated>
-        <summary type="html"><![CDATA[Mini ITX motherboards I would say are gaining popularity even though they have been a favorite for a while now with PC builders who want to build very small, compact systems. I think in 2025, there have never been better options for building a mini ITX PC. There have been many great new motherboard designs …
-The post Mini ITX PC Build Guide for 2025 appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snapic Just 640px 主题使用]]></title>
-        <id>https://bluehe.cn/archives/5542</id>
-        <link href="https://bluehe.cn/archives/5542"/>
-        <updated>2025-04-08T10:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Snapic Just 640px 是一款Typecho程序主题，由作者Lopwon设计而来，是一款开源免费的主题，主题的版权信息在索引-链接（原Links）部分。
-其中这款主题最大的特点是：无感翻页翻篇^1，电脑的滚轮阀值我设置为15，以罗技鼠标DPI速...]]></summary>
-        <author>
-            <name>寻鹤</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[《MySQL 5.7.44审计合规实践：插件集成与日志分割自动化方案》]]></title>
-        <id>/archives/1744105014988</id>
-        <link href="https://srebro.cn/archives/1744105014988"/>
-        <updated>2025-04-08T09:37:15.000Z</updated>
-        <summary type="html"><![CDATA[背景需求 很多时候项目上，需要过等保3级，以往都是客户提供数据库审计的设备，但免不了碰到一些特殊情况，所以就需要我们自己给满足数据库的审计需求👇。 环境信息 在调研了市场上开源的数据库审计的插件，发现原来在Mysql5.7.33版本中，可使用server_audit.so插件审计日志插件(来源Ma]]></summary>
-        <author>
-            <name>运维小弟</name>
         </author>
     </entry>
     <entry>
