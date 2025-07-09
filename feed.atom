@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-07-08T02:09:45.334Z</updated>
+    <updated>2025-07-09T02:11:09.901Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OneNav 1.1.4 更新，可单独设置主题]]></title>
+        <id>https://blog.xiaoz.org/?p=22221</id>
+        <link href="https://blog.xiaoz.org/archives/22221"/>
+        <updated>2025-07-09T00:57:25.000Z</updated>
+        <summary type="html"><![CDATA[OneNav 是一款功能强大且简洁高效的浏览器书签管理器，支持集中式管理书签，完美解决跨设备、跨平台、跨浏览器的同步与访问难题，实现一处部署、随处访问。它不仅安装简单、界面简洁、操作方便，还可与浏览器扩展（插件）配合使用，为你带来更加高效便捷的书签管理体验。Github开源地址：https://gi]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[技术雷达 2025 年 7 月观察：AI 安全与云安全的双重挑战]]></title>
+        <id>https://jimmysong.io/blog/radar-trends-ai-security-july-2025/</id>
+        <link href="https://jimmysong.io/blog/radar-trends-ai-security-july-2025/"/>
+        <updated>2025-07-09T00:40:36.000Z</updated>
+        <summary type="html"><![CDATA[本文基于 O'Reilly 发布的《Radar Trends to Watch: July 2025》，从个人视角解读 AI 与云安全的前沿趋势与挑战，涉及 Agent 安全、prompt injection、工具中毒、DDoS 防御等核心议题。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的第六台电脑：有点不那么像电脑]]></title>
+        <id>https://jimmysong.io/blog/my-new-mac-mini-m4/</id>
+        <link href="https://jimmysong.io/blog/my-new-mac-mini-m4/"/>
+        <updated>2025-07-08T14:51:01.000Z</updated>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Use Docker Labels and Compose Tricks to Organize 75+ Containers]]></title>
+        <id>https://www.virtualizationhowto.com/?p=301720</id>
+        <link href="https://www.virtualizationhowto.com/2025/07/how-i-use-docker-labels-and-compose-tricks-to-organize-75-containers/"/>
+        <updated>2025-07-08T14:22:02.000Z</updated>
+        <summary type="html"><![CDATA[When you start to have a large number of containers in your fleet, these can begin to become hard to manage. If you are juggling lots of services across many different projects and environments, this is especially true. I have started to rely heavily on Docker labels and other tricks in Docker Compose. With the …
+The post How I Use Docker Labels and Compose Tricks to Organize 75+ Containers appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[博客图床又拍云成本飙升，如何优化]]></title>
+        <id>https://www.skyue.com/25070821.html</id>
+        <link href="https://www.skyue.com/25070821.html"/>
+        <updated>2025-07-08T13:44:00.000Z</updated>
+        <summary type="html"><![CDATA[最近我的博客图床服务又拍云费用飙升，花了些时间分析优化，目前成本已经降至0.2元/天左右，免费额度够用。]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[避风塘]]></title>
+        <id>https://limboy.me/posts/before-town</id>
+        <link href="https://limboy.me/posts/before-town"/>
+        <updated>2025-07-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[大概 4 年前，我注册了一个域名 before.town，因为脑海中忽然闪过「避风塘」，好像正好可以对应英文的 before town，而 town 又可以作为域名的后缀，就搜了一下，果然可以注册，就毫不犹豫地下手了，这一放就是 4 年。]]></summary>
+        <author>
+            <name>Limboy's Essays</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[职场，身不由己，各种局]]></title>
         <id>https://4311346.com/post/2025/0707-involuntarily.html</id>
@@ -5716,36 +5776,6 @@ The post Why I Started Documenting My Docker Containers and What I Include appea
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Online Fraud is on the Rise – How AI is Powering the Fightback]]></title>
-        <id>https://collabnix.com/?p=31629</id>
-        <link href="https://collabnix.com/online-fraud-is-on-the-rise-how-ai-is-powering-the-fightback/"/>
-        <updated>2025-04-10T13:10:13.000Z</updated>
-        <summary type="html"><![CDATA[Online fraud is a serious headache for businesses and individuals nationwide. According to the US Fraud Industry Pulse Survey 2025, a recent spike in online fraud saw 72% of respondents reporting a rise in digital attacks over the last year, with a significant gap between how protected businesses think they are and how protected they […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【初学者指南】使用 MCP 协议快速开发智能天气查询应用]]></title>
-        <id>/archives/1744278155679</id>
-        <link href="http://blog.lixx.cn/archives/1744278155679"/>
-        <updated>2025-04-10T09:54:12.000Z</updated>
-        <summary type="html"><![CDATA[在本文中，我将详细介绍如何使用 MCP（Model Context Protocol）协议开发一个智能天气查询应用。这个示例非常适合初学者，通过简单易懂的步骤，你将学习如何将大型语言模型（LLM）与专用的天气查询服务相结合，让用户能够使用自然语言查询天气信息。 什么是 MCP？ MCP（Model]]></summary>
-        <author>
-            <name>Lixx Blog - 李晓旭的博客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building AI Agents with n8n: A Complete Guide to Workflow Automation]]></title>
-        <id>https://collabnix.com/?p=31610</id>
-        <link href="https://collabnix.com/building-ai-agents-with-n8n-a-complete-guide-to-workflow-automation/"/>
-        <updated>2025-04-10T02:43:30.000Z</updated>
-        <summary type="html"><![CDATA[In today’s fast-paced digital environment, automation has become essential for businesses and individuals looking to optimize their workflows. Enter n8n—an open-source, AI-native workflow automation tool that’s rapidly gaining popularity for its powerful capabilities and flexibility. What is n8n? n8n is an open-source workflow automation platform that stands out from competitors like Zapier and Make.com due […]]]></summary>
-        <author>
-            <name>Adesoji Alu</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[如何进行条件分支预测器实验]]></title>
         <id>https://jia.je/software/2025/04/10/cbp-experiments/</id>
         <link href="https://jia.je/software/2025/04/10/cbp-experiments/"/>
@@ -5767,58 +5797,6 @@ benchmark 准备¶
 比较常见的 benchmark 就是 SPEC INT 2017，当然现在很多论文也会自己去寻找一些其他的 benchmark，不同的 benchmark 它的程序的特性也是不一样的，未来也可能会有新的 benchmark 出来，所以有必要了解从 benchmark 到 trace 的过程。选好了 benchmark 以后，我们需要思考怎么去生成一个 trace：为了减少后续模拟的负担，我们需要从 benchmark 中提取条件分支的执行历史，作为 groundtruth…]]></summary>
         <author>
             <name>杰哥的{运维，编程，调板子}小笔记</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Multi-Party Transaction Challenge]]></title>
-        <id>https://collabnix.com/?p=31607</id>
-        <link href="https://collabnix.com/the-multi-party-transaction-challenge/"/>
-        <updated>2025-04-09T19:45:47.000Z</updated>
-        <summary type="html"><![CDATA[Traditional payment infrastructure was designed with a singular focus: moving money from point A to point B. This approach works well for straightforward retail transactions but quickly becomes inadequate when platforms need to: Consider a global freelance platform: when a client pays for a project, that single transaction might need to distribute funds to the […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Practical Look at AI Code Generators for Front-End Development]]></title>
-        <id>https://collabnix.com/?p=31603</id>
-        <link href="https://collabnix.com/a-practical-look-at-ai-code-generators-for-front-end-development/"/>
-        <updated>2025-04-09T19:35:01.000Z</updated>
-        <summary type="html"><![CDATA[AI adoption in software development has accelerated significantly in recent years. Tools have evolved from simple linters and syntax highlighters to intelligent agents that can draft, refactor, and test production-ready code. A GitHub survey in 2024 found that at least 97% of software developers reported to have used AI tools at work at some point, […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Tech Deals April 9 2025]]></title>
-        <id>https://www.virtualizationhowto.com/?p=300456</id>
-        <link href="https://www.virtualizationhowto.com/2025/04/daily-tech-deals-april-9-2025/"/>
-        <updated>2025-04-09T15:30:52.000Z</updated>
-        <summary type="html"><![CDATA[Tariff Busters today!!! Check out items on today’s daily tech deals. You can get a Ring Battery Doorbell for 45% off, Beats Solo 4 – Wireless Bluetooth On-Ear Headphones for 22% off, Blink Outdoor 4 (newest model) for 50% off, TurboTax Deluxe 2024 Tax Software for 30% off, and a GABRYLLY Ergonomic Office Chair for …
-The post Daily Tech Deals April 9 2025 appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[把状态“亮”出来：几十块搞定家用 NAS 电子监控屏]]></title>
-        <id>https://soulteary.com/2025/04/09/light-up-the-status-a-few-costs-to-get-home-nas-electronic-monitoring-screen.html</id>
-        <link href="https://soulteary.com/2025/04/09/light-up-the-status-a-few-costs-to-get-home-nas-electronic-monitoring-screen.html"/>
-        <updated>2025-04-09T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[分享一篇轻松好玩的内容，用几十块钱的成本为原本不具备显示屏的设备，增加电子显示屏。]]></summary>
-        <author>
-            <name>苏洋(soulteary)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Document Your Home Lab (The Right Way)]]></title>
-        <id>https://www.virtualizationhowto.com/?p=300437</id>
-        <link href="https://www.virtualizationhowto.com/2025/04/how-to-document-your-home-lab-the-right-way/"/>
-        <updated>2025-04-09T14:42:28.000Z</updated>
-        <summary type="html"><![CDATA[It is something that we all hate to do, I know I do. But, it is something that you will always be glad that you have – documentation. Even with our very “in flux” home labs, documentation is a great thing to have and something you don’t want to skimp on. Even if you only …
-The post How to Document Your Home Lab (The Right Way) appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>

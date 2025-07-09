@@ -705,16 +705,6 @@
           "wordCount": 192,
           "title": "只聊感情，不聊技术（三）",
           "imageUrl": null
-        },
-        {
-          "id": "https://soulteary.com/2025/04/09/light-up-the-status-a-few-costs-to-get-home-nas-electronic-monitoring-screen.html",
-          "author": "苏洋(soulteary)",
-          "description": "分享一篇轻松好玩的内容，用几十块钱的成本为原本不具备显示屏的设备，增加电子显示屏。",
-          "link": "https://soulteary.com/2025/04/09/light-up-the-status-a-few-costs-to-get-home-nas-electronic-monitoring-screen.html",
-          "publishedOn": "2025-04-09T15:30:00.000Z",
-          "wordCount": 2502,
-          "title": "把状态“亮”出来：几十块搞定家用 NAS 电子监控屏",
-          "imageUrl": null
         }
       ]
     },
@@ -940,6 +930,26 @@
       "feedUrl": "https://jimmysong.io/blog/index.xml",
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
+        {
+          "id": "https://jimmysong.io/blog/radar-trends-ai-security-july-2025/",
+          "author": "Jimmy Song",
+          "description": "本文基于 O'Reilly 发布的《Radar Trends to Watch: July 2025》，从个人视角解读 AI 与云安全的前沿趋势与挑战，涉及 Agent 安全、prompt injection、工具中毒、DDoS 防御等核心议题。",
+          "link": "https://jimmysong.io/blog/radar-trends-ai-security-july-2025/",
+          "publishedOn": "2025-07-09T00:40:36.000Z",
+          "wordCount": 481,
+          "title": "技术雷达 2025 年 7 月观察：AI 安全与云安全的双重挑战",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
+        },
+        {
+          "id": "https://jimmysong.io/blog/my-new-mac-mini-m4/",
+          "author": "Jimmy Song",
+          "description": "",
+          "link": "https://jimmysong.io/blog/my-new-mac-mini-m4/",
+          "publishedOn": "2025-07-08T14:51:01.000Z",
+          "wordCount": null,
+          "title": "我的第六台电脑：有点不那么像电脑",
+          "imageUrl": null
+        },
         {
           "id": "https://jimmysong.io/blog/how-i-built-my-website-content-analysis-dashboard/",
           "author": "Jimmy Song",
@@ -1385,6 +1395,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=301720",
+          "author": "Brandon Lee",
+          "description": "When you start to have a large number of containers in your fleet, these can begin to become hard to manage. If you are juggling lots of services across many different projects and environments, this is especially true. I have started to rely heavily on Docker labels and other tricks in Docker Compose. With the …\nThe post How I Use Docker Labels and Compose Tricks to Organize 75+ Containers appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/07/how-i-use-docker-labels-and-compose-tricks-to-organize-75-containers/",
+          "publishedOn": "2025-07-08T14:22:02.000Z",
+          "wordCount": 10483,
+          "title": "How I Use Docker Labels and Compose Tricks to Organize 75+ Containers",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/07/Docker-labels-and-Compose-tricks.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=301706",
           "author": "Brandon Lee",
@@ -1984,26 +2004,6 @@
           "wordCount": 11719,
           "title": "Why I Started Documenting My Docker Containers and What I Include",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/04/Why-I-Started-Documenting-My-Docker-Containers-and-What-I-Include.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=300456",
-          "author": "Brandon Lee",
-          "description": "Tariff Busters today!!! Check out items on today’s daily tech deals. You can get a Ring Battery Doorbell for 45% off, Beats Solo 4 – Wireless Bluetooth On-Ear Headphones for 22% off, Blink Outdoor 4 (newest model) for 50% off, TurboTax Deluxe 2024 Tax Software for 30% off, and a GABRYLLY Ergonomic Office Chair for …\nThe post Daily Tech Deals April 9 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/04/daily-tech-deals-april-9-2025/",
-          "publishedOn": "2025-04-09T15:30:52.000Z",
-          "wordCount": 8503,
-          "title": "Daily Tech Deals April 9 2025",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/04/image-32.jpeg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=300437",
-          "author": "Brandon Lee",
-          "description": "It is something that we all hate to do, I know I do. But, it is something that you will always be glad that you have – documentation. Even with our very “in flux” home labs, documentation is a great thing to have and something you don’t want to skimp on. Even if you only …\nThe post How to Document Your Home Lab (The Right Way) appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/04/how-to-document-your-home-lab-the-right-way/",
-          "publishedOn": "2025-04-09T14:42:28.000Z",
-          "wordCount": 11754,
-          "title": "How to Document Your Home Lab (The Right Way)",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/04/How-to-Document-Your-Home-Lab-The-Right-Way.png"
         }
       ]
     },
@@ -2861,46 +2861,6 @@
           "wordCount": null,
           "title": "How to Backup and Restore your Docker Desktop Data",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=31629",
-          "author": "Tanvir Kour",
-          "description": "Online fraud is a serious headache for businesses and individuals nationwide. According to the US Fraud Industry Pulse Survey 2025, a recent spike in online fraud saw 72% of respondents reporting a rise in digital attacks over the last year, with a significant gap between how protected businesses think they are and how protected they […]",
-          "link": "https://collabnix.com/online-fraud-is-on-the-rise-how-ai-is-powering-the-fightback/",
-          "publishedOn": "2025-04-10T13:10:13.000Z",
-          "wordCount": 2523,
-          "title": "Online Fraud is on the Rise – How AI is Powering the Fightback",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=31610",
-          "author": "Adesoji Alu",
-          "description": "In today’s fast-paced digital environment, automation has become essential for businesses and individuals looking to optimize their workflows. Enter n8n—an open-source, AI-native workflow automation tool that’s rapidly gaining popularity for its powerful capabilities and flexibility. What is n8n? n8n is an open-source workflow automation platform that stands out from competitors like Zapier and Make.com due […]",
-          "link": "https://collabnix.com/building-ai-agents-with-n8n-a-complete-guide-to-workflow-automation/",
-          "publishedOn": "2025-04-10T02:43:30.000Z",
-          "wordCount": null,
-          "title": "Building AI Agents with n8n: A Complete Guide to Workflow Automation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=31607",
-          "author": "Tanvir Kour",
-          "description": "Traditional payment infrastructure was designed with a singular focus: moving money from point A to point B. This approach works well for straightforward retail transactions but quickly becomes inadequate when platforms need to: Consider a global freelance platform: when a client pays for a project, that single transaction might need to distribute funds to the […]",
-          "link": "https://collabnix.com/the-multi-party-transaction-challenge/",
-          "publishedOn": "2025-04-09T19:45:47.000Z",
-          "wordCount": 2876,
-          "title": "The Multi-Party Transaction Challenge",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=31603",
-          "author": "Tanvir Kour",
-          "description": "AI adoption in software development has accelerated significantly in recent years. Tools have evolved from simple linters and syntax highlighters to intelligent agents that can draft, refactor, and test production-ready code. A GitHub survey in 2024 found that at least 97% of software developers reported to have used AI tools at work at some point, […]",
-          "link": "https://collabnix.com/a-practical-look-at-ai-code-generators-for-front-end-development/",
-          "publishedOn": "2025-04-09T19:35:01.000Z",
-          "wordCount": 3024,
-          "title": "A Practical Look at AI Code Generators for Front-End Development",
-          "imageUrl": null
         }
       ]
     },
@@ -3137,6 +3097,16 @@
       "siteUrl": "https://limboy.me/",
       "articles": [
         {
+          "id": "https://limboy.me/posts/before-town",
+          "author": null,
+          "description": "大概 4 年前，我注册了一个域名 before.town，因为脑海中忽然闪过「避风塘」，好像正好可以对应英文的 before town，而 town 又可以作为域名的后缀，就搜了一下，果然可以注册，就毫不犹豫地下手了，这一放就是 4 年。",
+          "link": "https://limboy.me/posts/before-town",
+          "publishedOn": "2025-07-08T00:00:00.000Z",
+          "wordCount": 121,
+          "title": "避风塘",
+          "imageUrl": null
+        },
+        {
           "id": "https://limboy.me/posts/stroke",
           "author": null,
           "description": "前几天在看跑男，有一个游戏环节是这样的：嘉宾通过努力得到一个笔画，目标文字中如果包含该笔画就会出现。感觉挺有意思的，对它稍加改造，于是就有了这个小游戏：笔画猜成语",
@@ -3236,6 +3206,16 @@
       "feedUrl": "https://www.skyue.com/feed/",
       "siteUrl": "https://www.skyue.com/",
       "articles": [
+        {
+          "id": "https://www.skyue.com/25070821.html",
+          "author": "拾月",
+          "description": "最近我的博客图床服务又拍云费用飙升，花了些时间分析优化，目前成本已经降至0.2元/天左右，免费额度够用。",
+          "link": "https://www.skyue.com/25070821.html",
+          "publishedOn": "2025-07-08T13:44:00.000Z",
+          "wordCount": 573,
+          "title": "博客图床又拍云成本飙升，如何优化",
+          "imageUrl": ""
+        },
         {
           "id": "https://www.skyue.com/25070707.html",
           "author": "拾月",
@@ -4165,16 +4145,6 @@
           "wordCount": null,
           "title": "解析 PockerFlow 源码",
           "imageUrl": null
-        },
-        {
-          "id": "/archives/1744278155679",
-          "author": null,
-          "description": "在本文中，我将详细介绍如何使用 MCP（Model Context Protocol）协议开发一个智能天气查询应用。这个示例非常适合初学者，通过简单易懂的步骤，你将学习如何将大型语言模型（LLM）与专用的天气查询服务相结合，让用户能够使用自然语言查询天气信息。 什么是 MCP？ MCP（Model",
-          "link": "http://blog.lixx.cn/archives/1744278155679",
-          "publishedOn": "2025-04-10T09:54:12.000Z",
-          "wordCount": null,
-          "title": "【初学者指南】使用 MCP 协议快速开发智能天气查询应用",
-          "imageUrl": null
         }
       ]
     },
@@ -4206,6 +4176,16 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=22221",
+          "author": "xiaoz",
+          "description": "OneNav 是一款功能强大且简洁高效的浏览器书签管理器，支持集中式管理书签，完美解决跨设备、跨平台、跨浏览器的同步与访问难题，实现一处部署、随处访问。它不仅安装简单、界面简洁、操作方便，还可与浏览器扩展（插件）配合使用，为你带来更加高效便捷的书签管理体验。Github开源地址：https://gi",
+          "link": "https://blog.xiaoz.org/archives/22221",
+          "publishedOn": "2025-07-09T00:57:25.000Z",
+          "wordCount": 266,
+          "title": "OneNav 1.1.4 更新，可单独设置主题",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=22212",
           "author": "xiaoz",
