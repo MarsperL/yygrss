@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-07-11T02:20:14.136Z</updated>
+    <updated>2025-07-12T02:20:36.895Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 系统监控利器 ctop 命令详解]]></title>
+        <id>https://dusays.com/816/</id>
+        <link href="https://dusays.com/816/"/>
+        <updated>2025-07-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>在 Linux 系统，尤其是当我们在管理多个容器时，了解系统和容器的资源使用情况至关重要。今天，就给大家介绍一款强大的监控工具 ctop，本文详细介绍 ctop 的安装、使用、命令选项。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High-Availability (HA) Proxmox Clusters: Do’s & Don’ts]]></title>
+        <id>https://www.virtualizationhowto.com/?p=301746</id>
+        <link href="https://www.virtualizationhowto.com/2025/07/high-availability-ha-proxmox-clusters-dos-donts/"/>
+        <updated>2025-07-11T14:14:16.000Z</updated>
+        <summary type="html"><![CDATA[One of the most powerful features of running a virtualization cluster is being able to have high availability features that are built into the solution. High availability features allow you to run virtual machines in a way that makes them resilient to a host failure. Proxmox has these features built-in to the HA cluster features …
+The post High-Availability (HA) Proxmox Clusters: Do’s & Don’ts appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[eM Client：专业跨平台电子邮件客户端]]></title>
+        <id>https://blog.xiaoz.org/?p=22233</id>
+        <link href="https://blog.xiaoz.org/archives/22233"/>
+        <updated>2025-07-11T07:54:55.000Z</updated>
+        <summary type="html"><![CDATA[eM Client 是一款功能强大、界面直观的跨平台邮件客户端，支持邮件、日历、任务和联系人管理。这款邮件客户端xiaoz已经使用超过半年的时间，现在推荐给大家。eM Client特点PGP加密支持，提升邮件安全性支持邮件翻译支持AI处理邮件支持跨平台集成日历、任务和联系人支持离线使用购买eM Cl]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Build Financial Momentum in the Digital Age]]></title>
         <id>https://collabnix.com/?p=40323</id>
@@ -6477,24 +6510,6 @@ kubectl wait --timeout=5m -n envoy-gateway-system deployment/envoy-gateway --for
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KubeCon EU 2025 参会报告：塑造云原生格局的洞察与趋势]]></title>
-        <id>https://jimmysong.io/blog/kubecon-eu-2025-london-recap/</id>
-        <link href="https://jimmysong.io/blog/kubecon-eu-2025-london-recap/"/>
-        <updated>2025-04-13T11:22:45.000Z</updated>
-        <summary type="html"><![CDATA[上周，我亲自前往伦敦参加了 KubeCon + CloudNativeCon Europe 2025，这是云原生领域一年一度的盛会。今年的大会汇聚了超过 12,500 名开发者、维护者和用户，场面热烈、话题深度十足。
-为了更好地总结这次大会的内容和趋势，我制作了一份 HTML/PDF 格式的报告，对重点主题进行了归纳，包括：
-AI 在 Kubernetes 中的落地与趋势
-安全策略演进（供应链、身份信任等）
-平台工程从工具走向体验与指标
-多集群与边缘计算的现实应用
-可持续性与绿色计算的呼声增强
-👉 点击此处查看完整报告
-欢迎你阅读报告，也欢迎通过评论、邮件等方式与我交流你对大会趋势的看法！]]></summary>
-        <author>
-            <name>Jimmy Song</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[网络抓包的技巧]]></title>
         <id>https://www.kawabangga.com/?p=6950</id>
         <link href="https://www.kawabangga.com/posts/6950"/>
@@ -6503,18 +6518,6 @@ AI 在 Kubernetes 中的落地与趋势
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 SlimToolkit 打造更小的容器镜像]]></title>
-        <id>https://dusays.com/801/</id>
-        <link href="https://dusays.com/801/"/>
-        <updated>2025-04-12T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>现在容器技术很火，镜像又肥又大，部署较慢不说，安全风险还蹭蹭往上窜，简直让人头大！SlimToolkit 就像一位经验老道的镜像瘦身大师，能把镜像体积缩小到令人咋舌的程度，最多能瘦 30 倍！</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
         </author>
     </entry>
     <entry>

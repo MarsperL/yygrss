@@ -1009,16 +1009,6 @@
           "wordCount": 535,
           "title": "利用 EnvoyPatchPolicy 拓展 Envoy Gateway 的能力",
           "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
-        },
-        {
-          "id": "https://jimmysong.io/blog/kubecon-eu-2025-london-recap/",
-          "author": "Jimmy Song",
-          "description": "上周，我亲自前往伦敦参加了 KubeCon + CloudNativeCon Europe 2025，这是云原生领域一年一度的盛会。今年的大会汇聚了超过 12,500 名开发者、维护者和用户，场面热烈、话题深度十足。\n为了更好地总结这次大会的内容和趋势，我制作了一份 HTML/PDF 格式的报告，对重点主题进行了归纳，包括：\nAI 在 Kubernetes 中的落地与趋势\n安全策略演进（供应链、身份信任等）\n平台工程从工具走向体验与指标\n多集群与边缘计算的现实应用\n可持续性与绿色计算的呼声增强\n👉 点击此处查看完整报告\n欢迎你阅读报告，也欢迎通过评论、邮件等方式与我交流你对大会趋势的看法！",
-          "link": "https://jimmysong.io/blog/kubecon-eu-2025-london-recap/",
-          "publishedOn": "2025-04-13T11:22:45.000Z",
-          "wordCount": 203,
-          "title": "KubeCon EU 2025 参会报告：塑造云原生格局的洞察与趋势",
-          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
         }
       ]
     },
@@ -1225,6 +1215,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=301746",
+          "author": "Brandon Lee",
+          "description": "One of the most powerful features of running a virtualization cluster is being able to have high availability features that are built into the solution. High availability features allow you to run virtual machines in a way that makes them resilient to a host failure. Proxmox has these features built-in to the HA cluster features …\nThe post High-Availability (HA) Proxmox Clusters: Do’s & Don’ts appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/07/high-availability-ha-proxmox-clusters-dos-donts/",
+          "publishedOn": "2025-07-11T14:14:16.000Z",
+          "wordCount": 11539,
+          "title": "High-Availability (HA) Proxmox Clusters: Do’s & Don’ts",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/07/proxmox-ha-dos-and-donts.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=301735",
           "author": "Brandon Lee",
@@ -3453,6 +3453,16 @@
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
         {
+          "id": "https://dusays.com/816/",
+          "author": null,
+          "description": "<blockquote>\n<p>在 Linux 系统，尤其是当我们在管理多个容器时，了解系统和容器的资源使用情况至关重要。今天，就给大家介绍一款强大的监控工具 ctop，本文详细介绍 ctop 的安装、使用、命令选项。</p>\n</blockquote>",
+          "link": "https://dusays.com/816/",
+          "publishedOn": "2025-07-11T16:00:00.000Z",
+          "wordCount": 481,
+          "title": "Linux 系统监控利器 ctop 命令详解",
+          "imageUrl": "https://cdn.dusays.com/avatar.png"
+        },
+        {
           "id": "https://dusays.com/815/",
           "author": null,
           "description": "<blockquote>\n<p>Zstandard 以其卓越的性能和丰富的功能，成为了 Linux 下一款不可或缺的压缩工具。无论是对单个文件还是整个目录的压缩和解压，它都可以轻松应对，且在处理速度和压缩效果上都有着出色的表现。</p>\n</blockquote>",
@@ -3761,16 +3771,6 @@
           "wordCount": 1350,
           "title": "Wave Terminal 多功能开源终端工具",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/801/",
-          "author": null,
-          "description": "<blockquote>\n<p>现在容器技术很火，镜像又肥又大，部署较慢不说，安全风险还蹭蹭往上窜，简直让人头大！SlimToolkit 就像一位经验老道的镜像瘦身大师，能把镜像体积缩小到令人咋舌的程度，最多能瘦 30 倍！</p>\n</blockquote>",
-          "link": "https://dusays.com/801/",
-          "publishedOn": "2025-04-12T16:00:00.000Z",
-          "wordCount": 467,
-          "title": "使用 SlimToolkit 打造更小的容器镜像",
-          "imageUrl": "https://cdn.dusays.com/avatar.png"
         }
       ]
     },
@@ -4125,6 +4125,16 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=22233",
+          "author": "xiaoz",
+          "description": "eM Client 是一款功能强大、界面直观的跨平台邮件客户端，支持邮件、日历、任务和联系人管理。这款邮件客户端xiaoz已经使用超过半年的时间，现在推荐给大家。eM Client特点PGP加密支持，提升邮件安全性支持邮件翻译支持AI处理邮件支持跨平台集成日历、任务和联系人支持离线使用购买eM Cl",
+          "link": "https://blog.xiaoz.org/archives/22233",
+          "publishedOn": "2025-07-11T07:54:55.000Z",
+          "wordCount": 277,
+          "title": "eM Client：专业跨平台电子邮件客户端",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=22115",
           "author": "xiaoz",
