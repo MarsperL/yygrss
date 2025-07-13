@@ -293,6 +293,16 @@
       "siteUrl": "https://lawtee.com/",
       "articles": [
         {
+          "id": "https://lawtee.com/article/cloudflare-r2-safety-setting/",
+          "author": null,
+          "description": "CloudFlare R2 是大善人推出的重磅免费服务，默认即为用户提供 10G 存储空间和无限流量。不过这个无限还是有限制的，即每月写入类操作不超过 100 万次，每月读取类操作不能超过 1000万次，否则就将按量计费。最近我搬迁了 11 万多张图片到 R2 ，有点担心使用超限，所以对其作了严格的防护设置。\n防护原理\n\n我需要设置防护的这个 R2 存储桶是此前在 将Soomal.cc迁移到Hugo 这篇文章中提到的 soomal.cc 网站中的图片。\n该网站已经托管在 Cloudflare Pages ，由 Cloudflare Pages 提供免费服务，只需要对 html 中引用的图片进行防护。\n1.限制直接对R2存储桶访问。禁止使用链接直接访问 R2 存储桶，而是只能通过 Cloudflare Workers 服务进行访问。\n2.限制对图库链接的直接访问。禁止直接使用 https://images.soomal.cc/test.webp 这种网址请求图片，对所有图片的访问均需在原网站下进行。\n3.对原站启用适当防护策略。由于图片本身不适合设置太多防护规则，主要是通过在原站上设置，变相增加直接请求图片链接的难度。\n设置方法\n\n禁用 R2 公开地址\n\n在 R2 设置中，不要设置自定义域访问，不要在网络上公开 R2。\n在 Cors 策略中，设置仅通过原站访问。\n\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n\n\n\n[\n {\n \"AllowedOrigins\": [\n \"https://soomal.cc\",\n \"https://www.soomal.cc\"\n ],\n \"AllowedMethods\": [\n \"GET\",\n \"HEAD\"\n ],\n \"AllowedHeaders\": [\n \"*\"\n ]…",
+          "link": "https://lawtee.com/article/cloudflare-r2-safety-setting/",
+          "publishedOn": "2025-07-11T11:00:00.000Z",
+          "wordCount": 394,
+          "title": "使用 CloudFlare R2 作为图床时的安全防护设置，避免被恶意刷B类文件请求",
+          "imageUrl": "https://lawtee.com/article/cloudflare-r2-safety-setting/0.webp"
+        },
+        {
           "id": "https://lawtee.com/article/food-safety/",
           "author": null,
           "description": "最近天水幼儿园幼儿集体铅中毒事件引发广泛热议，从食品监管、工业原料、医疗检测、地下水污染到地方政府一系列“谜之操作”，导致所有怨气集中爆发。这里也趁机谈谈为什么食品安全保障这么困难。\n天水事件的反常之处\n\n网上对天水事件最大的质疑是，为什么幼儿园会放着便宜的食用色素不用，而使用工业染料。\n这其实涉及一个深层次的“生活哲学”问题，就是在现实中我们每次遇到那些不可思议的事件结果时，总能在其背后发现一堆不可思议的过程。\n也就是俗称的，当你第一次发现家里有一只蟑螂时，实际上搞不好暗地里已经有100只了。\n具体到这个事件中。\n当一个厨师能够想出使用染料对食品染色这种操作时，我想，就不要期望它能知道染料的成分是什么，不要期望它能知道色素比染料更便宜这回事了。\n我们很多人在网上分析问题时，喜欢用逻辑推导行为过程，但实际生活中，很多时候是没有正常逻辑可言的，可能那个厨师刚好在网上刷到过染料视频，或自己在网购平台看到过随机推荐的染料商品便产生了这种想法。\n天水事件如何定性\n\n是否故意投毒\n\n作为两个小孩的父亲，我很理解网上对天水事件喊打喊杀的想法，不过这个事件从现有情况来看，相关责任人应该是很难被判死刑的。\n一个争议在于，相关责任人是否故意投毒。\n但从常理推断，目前很难证明这个是故意投毒行为，毕竟这种报复社会的方式，怎么都说不通： 厨师串通厨工、园长连续投毒几个月意图谋害幼儿，这已经完全超出人类理解。\n是否能判死刑\n\n从目前来看，这个事件构成生产销售有毒有害食品罪应该是疑问不大的，其他像故意杀人、故意伤害、以危险方法危害公共安全等，应该是说不大通的。\n虽然生产销售有毒有害食品罪最高可以到死刑，但参照“三聚氰胺”等类似事件，一般情况是致人死亡的，才判死刑，否则还是有点困难。\n当然，这种量刑最终还得看具体案情，即便没有受害人死亡，这么严重的后果，判个死刑也不是不合理。\n另外，生产销售有毒有害食品…",
@@ -544,6 +554,16 @@
       "siteUrl": "https://blog.ops-coffee.cn",
       "articles": [
         {
+          "id": "https://blog.ops-coffee.cn/s/ruan-yifeng-weekly-traffic-analysis-and-tool-update.html",
+          "author": null,
+          "description": "阮一峰老师的科技爱好者周刊不仅是信息筛选的宝库，还能带来实实在在的流量。本文详细介绍了被周刊收录后的流量效果及免费拼图工具的最新更新。",
+          "link": "https://blog.ops-coffee.cn/s/ruan-yifeng-weekly-traffic-analysis-and-tool-update.html",
+          "publishedOn": "2025-07-12T14:36:20.000Z",
+          "wordCount": 64,
+          "title": "免费在线拼图工具被「科技爱好者周刊」收录啦",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.ops-coffee.cn/s/free-online-puzzle-tool-weekly-traffic-share.html",
           "author": null,
           "description": "刚刚更新了免费在线拼图工具，主要优化了边框与间距的分离设计，支持快捷键粘贴，并对SEO进行了特别优化，提升自然流量。",
@@ -760,6 +780,16 @@
       "feedUrl": "https://jimmysong.io/blog/index.xml",
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
+        {
+          "id": "https://jimmysong.io/blog/vibe-coding-free-tools/",
+          "author": "Jimmy Song",
+          "description": "本文总结了如何免费或低价使用 Claude Sonnet-4 和 Gemini 2.5 Pro 等高级 AI 编程工具，推荐了高性价比的主力组合，并详细对比了各工具的使用方式与定价，帮助开发者以最小成本获得最佳 vibe coding 体验。",
+          "link": "https://jimmysong.io/blog/vibe-coding-free-tools/",
+          "publishedOn": "2025-07-12T08:32:35.000Z",
+          "wordCount": 833,
+          "title": "薅羊毛指南：如何免费或低价使用 Claude Sonnet-4 和 Gemini 2.5 Pro 进行 Vibe Coding",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
+        },
         {
           "id": "https://jimmysong.io/blog/radar-trends-ai-security-july-2025/",
           "author": "Jimmy Song",
@@ -999,16 +1029,6 @@
           "wordCount": 703,
           "title": "Envoy Gateway 数据平面可观测性指南",
           "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
-        },
-        {
-          "id": "https://jimmysong.io/blog/leveraging-envoypatchpolicy-to-extend-the-capabilities-of-envoy-gateway/",
-          "author": "Jimmy Song",
-          "description": "注意：本文基于 Envoy Gateway v1.3.2。\n\nEnvoy Gateway 构建在 Envoy Proxy 之上，提供了一套丰富的功能。然而，在某些情况下，你可能希望使用 Envoy Proxy 的一些功能，而这些功能并未通过 Envoy Gateway 的 API 暴露出来。这时就可以使用从 Envoy Gateway v0.5.0 引入的 EnvoyPatchPolicy API。它允许你自定义 Envoy Gateway 生成的 xDS 资源。本文将指导你如何启用该 API，并实现一个非常实用的功能 —— 本地响应修改（Local Reply Modification）。\n我们将从前置条件开始介绍，然后讲解如何启用 EnvoyPatchPolicy、如何编写自定义响应逻辑，并最终验证效果。\n需要注意的是，该 API 由于依赖 Envoy Proxy 和 Envoy Gateway 的 xDS 翻译机制，可能在版本间存在不稳定性。但使用 EnvoyPatchPolicy，可以让你动态地塑造 Envoy Gateway 的行为，释放其全部潜力。\n前置条件\n在开始之前，请确保你已正确安装 Envoy Gateway 和示例资源清单。运行以下命令完成环境准备并确保可以通过 HTTP 访问示例 backend：\n# 安装 Envoy Gateway 和示例清单\nhelm install eg oci://docker.io/envoyproxy/gateway-helm --version v1.3.2 -n envoy-gateway-system --create-namespace\nkubectl wait --timeout=5m -n envoy-gateway-system deployment/envoy-gateway --for=conditio…",
-          "link": "https://jimmysong.io/blog/leveraging-envoypatchpolicy-to-extend-the-capabilities-of-envoy-gateway/",
-          "publishedOn": "2025-04-14T05:16:35.000Z",
-          "wordCount": 535,
-          "title": "利用 EnvoyPatchPolicy 拓展 Envoy Gateway 的能力",
-          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
         }
       ]
     },
@@ -1093,46 +1113,6 @@
           "wordCount": 996,
           "title": "请求为什么超时了？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6950",
-          "author": "laixintao",
-          "description": "虽然这个系列的文章都是聚焦于如何通过分析网络抓包文件，结合网络知识，来解决实际的问题的，但是分析之前的步骤—— […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6950",
-          "publishedOn": "2025-04-13T04:30:46.000Z",
-          "wordCount": 1421,
-          "title": "网络抓包的技巧",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6937",
-          "author": "laixintao",
-          "description": "这个问题实际的原因是客户端的端口不够用了。 为什么端口会不够用呢？因为一个 TCP 连接的标志是四元组： (s […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6937",
-          "publishedOn": "2025-04-07T11:17:18.000Z",
-          "wordCount": 1201,
-          "title": "压测的时候 QPS 为什么上不去？答案和解析",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6919",
-          "author": "laixintao",
-          "description": "在之前的文章中介绍了网络的「分层」概念，那么这一篇继续科普一下网络的基础，即「转发」这个概念。 所有的转发都是 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6919",
-          "publishedOn": "2025-04-04T15:42:39.000Z",
-          "wordCount": 1180,
-          "title": "数据是如何转发的",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6910",
-          "author": "laixintao",
-          "description": "小陈最近为团队的 HTTP 服务开发了一个高性能网关，用户的请求会先经过小陈开发的网关，网关对 HTTP He […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6910",
-          "publishedOn": "2025-03-31T14:41:55.000Z",
-          "wordCount": 1087,
-          "title": "压测的时候 QPS 为什么上不去？",
-          "imageUrl": null
         }
       ]
     },
@@ -1141,6 +1121,16 @@
       "feedUrl": "https://www.derekseaman.com/feed/",
       "siteUrl": "https://www.derekseaman.com",
       "articles": [
+        {
+          "id": "https://www.derekseaman.com/?p=19243",
+          "author": "Derek Seaman",
+          "description": "Taking charge of your personally identifying information in modern times is very difficult. In the US there are very few laws to protect what kind of personal data that companies can share. Companies like Meta, Amazon, Google, your ISP, etc. literally make billions of dollars by snooping on what you do online and sell information […]",
+          "link": "https://www.derekseaman.com/2025/07/data-brokers-exposed-how-to-opt-out-and-secure-your-personal-data.html",
+          "publishedOn": "2025-07-06T16:36:43.000Z",
+          "wordCount": 10551,
+          "title": "Data Brokers Exposed: How to Opt Out and Secure Your Personal Data",
+          "imageUrl": "https://www.derekseaman.com/wp-content/uploads/dafd806e-8b1d-4497-8595-98445c290ff4.jpeg"
+        },
         {
           "id": "https://www.derekseaman.com/?p=20321",
           "author": "Derek Seaman",
@@ -1804,26 +1794,6 @@
           "wordCount": null,
           "title": "5 Unexpected Ways to Use AI in Your Home Lab in 2025",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=300550",
-          "author": "Brandon Lee",
-          "description": "If you are looking for great deals on home lab mini PCs, there are lots of great Ryzen-based mini PCs and also Intel N series mini PCs on discounts today. Check out items on today’s daily tech deals. You can get a GMKtec M5 Plus Gaming Mini PC for 20% off, GMKtec Mini PC Gaming, …\nThe post Daily Tech Deals April 14 2025 (Great Ryzen Mini PCs for Home lab) appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/04/daily-tech-deals-april-14-2025-great-ryzen-mini-pcs-for-home-lab/",
-          "publishedOn": "2025-04-14T13:33:58.000Z",
-          "wordCount": 8753,
-          "title": "Daily Tech Deals April 14 2025 (Great Ryzen Mini PCs for Home lab)",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/04/image-41.jpeg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=300521",
-          "author": "Brandon Lee",
-          "description": "So you may be like me and still wondering if this is some kind of parallel universe where Broadcom reversed their decision to pull the free VMware ESXi hypervisor. But if you have been following my latest blog posts and latest videos, this has surprisingly been a development that came about with the recent release …\nThe post Install the New VMware ESXi Free Edition Custom ISOs and Limitations appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/04/install-the-new-vmware-esxi-free-edition-custom-isos-and-limitations/",
-          "publishedOn": "2025-04-14T12:45:56.000Z",
-          "wordCount": null,
-          "title": "Install the New VMware ESXi Free Edition Custom ISOs and Limitations",
-          "imageUrl": null
         }
       ]
     },
@@ -1832,6 +1802,46 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=40521",
+          "author": "Collabnix Team",
+          "description": "Getting Started with Claude AI Coding Assistant Imagine having an AI pair programmer that understands your entire codebase, can edit files directly, run terminal commands, and handle complex workflows—all through natural language commands. That’s exactly what Claude Code brings to your development workflow. Released by Anthropic as an agentic coding tool, Claude Code represents a fundamental shift […]",
+          "link": "https://collabnix.com/claude-code-the-complete-developers-guide-to-getting-started-with-anthropics-revolutionary-ai-coding-assistant/",
+          "publishedOn": "2025-07-12T07:24:36.000Z",
+          "wordCount": 5948,
+          "title": "Getting Started with Claude AI Coding Assistant",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=40515",
+          "author": "Collabnix Team",
+          "description": "Exploring the Hugging Face Small Language Model When most people think about powerful AI models, they picture massive neural networks with billions of parameters running on expensive cloud infrastructure. But what if I told you that Hugging Face just released a game-changing model family that delivers impressive performance while running comfortably on your smartphone? Meet SmolLM2 – […]",
+          "link": "https://collabnix.com/smollm2-the-complete-developers-guide-to-hugging-faces-revolutionary-small-language-model-for-on-device-ai/",
+          "publishedOn": "2025-07-12T07:08:35.000Z",
+          "wordCount": null,
+          "title": "Hugging Face Small Language Model: A Complete Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=40366",
+          "author": "Srushti Vachhrajani",
+          "description": "In the digital age, data is the new gold. But raw data alone is not enough—what matters is how we interpret and act upon it. Log analytics, the process of aggregating, analyzing, and visualizing log data, has emerged as a critical tool in bridging the gap between raw system logs and actionable insights. Whether you’re […]",
+          "link": "https://collabnix.com/use-log-analytics-to-gain-application-performance-security-and-business-insights/",
+          "publishedOn": "2025-07-11T08:55:30.000Z",
+          "wordCount": null,
+          "title": "Use Log Analytics to Gain Application Performance, Security, and Business Insights",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=40341",
+          "author": "Ajeet Raina",
+          "description": "Ever tried running a GPU-intensive workload on your laptop and watched it struggle like it’s trying to run a marathon in flip-flops? I know I have. You start with excitement about that cool AI model or data processing pipeline, but then reality hits. Your local machine either doesn’t have a GPU, or if it does, […]",
+          "link": "https://collabnix.com/what-is-docker-offload-and-what-problem-it-solves/",
+          "publishedOn": "2025-07-11T03:32:55.000Z",
+          "wordCount": null,
+          "title": "What is Docker Offload and What Problem It Solves",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=40323",
           "author": "Tanvir Kour",
@@ -2937,6 +2947,16 @@
       "siteUrl": "https://limboy.me/",
       "articles": [
         {
+          "id": "https://limboy.me/posts/35mm-coffee",
+          "author": null,
+          "description": "家附近有一个叫 35mm 的咖啡馆，以前经常去，某天心血来潮就想，会不会 35mm.coffee 正好是个可以注册的名呢？就上 Cloudflare 上看了下，果然可以，于是就注册了。即然注册了，就想着拿来做点什么，一开始把使用地限制在了 35MM 咖啡馆，也就是只有在那里才能使用，后来又将它改造成了只有晚上才能访问的网站，之后去掉了时间限制，改成可以随时访问的小 Twitter，还是不满意，总觉得少了一个明确的主题。",
+          "link": "https://limboy.me/posts/35mm-coffee",
+          "publishedOn": "2025-07-12T00:00:00.000Z",
+          "wordCount": 132,
+          "title": "35mm Coffee - 一个创意工作者的线上社区",
+          "imageUrl": null
+        },
+        {
           "id": "https://limboy.me/posts/before-town",
           "author": null,
           "description": "大概 4 年前，我注册了一个域名 before.town，因为脑海中忽然闪过「避风塘」，好像正好可以对应英文的 before town，而 town 又可以作为域名的后缀，就搜了一下，果然可以注册，就毫不犹豫地下手了，这一放就是 4 年。",
@@ -3224,6 +3244,21 @@
       "siteUrl": "https://bluehe.cn/",
       "articles": [
         {
+          "id": "https://bluehe.cn/archives/fangte-love",
+          "author": "寻鹤",
+          "description": "方特东盟神画是毕业季的热门，因为女朋友很早就提过这个事情，她：那我还有机会和你去方特，我：事在人为。规划行程好了，但由于毕业很多材料，一次次错过，终于在完成教资认定后，我提前准备的EVA雨衣派上了用场，7月3日早上出发前往，199一人的门票，体检很值得。\n入园就开始先玩伴你飞翔，以为会很快，但整整排了快一个小时才到我们，耐心都被磨破了，唯一值得庆幸的是，体验感超级超级好，被方特解释为：悬挂式飞翔影...",
+          "link": "https://bluehe.cn/archives/fangte-love",
+          "publishedOn": "2025-07-12T14:55:00.000Z",
+          "wordCount": 496,
+          "title": "南宁方特：一日游遍东盟十国",
+          "enclosure": {
+            "url": "https://bluehe.cn/usr/uploads/2025/07/666443545.jpg",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bluehe.cn/usr/uploads/2025/07/666443545.jpg"
+        },
+        {
           "id": "https://bluehe.cn/archives/graduation-season-echoes",
           "author": "寻鹤",
           "description": "大学毕业了的心情对比，高中时我会对着教室发呆，在高考后结束后，同学都回家了，而我们三人还买了零食奶茶，回到学校，光明正大的带着手机，打开教室投影，看起了视频，谈天说地，教官也不在没收手机，那就是毕业的心情。\n\n大学更多是独来独往，分配到了混合宿舍，6人间的...",
@@ -3425,6 +3460,16 @@
       "feedUrl": "https://domon.cn/rss/",
       "siteUrl": "https://www.domon.cn/",
       "articles": [
+        {
+          "id": "687246cbbac7b1178e43e553",
+          "author": "Domon",
+          "description": "人只要笑，就没有输。黄永玉的存在证明了一项不会磨灭的人性真理——人生苦，但人大于苦。",
+          "link": "https://www.domon.cn/2025-6yue-yue-du-shu-zhai/",
+          "publishedOn": "2025-07-01T11:28:00.000Z",
+          "wordCount": 153,
+          "title": "2025年6月阅读书摘",
+          "imageUrl": "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fHJlYWQlMjBib29rfGVufDB8fHx8MTc1MjMxOTc1OHww&ixlib=rb-4.1.0&q=80&w=2000"
+        },
         {
           "id": "6844f1736c5c200996582262",
           "author": "Domon",
@@ -4738,6 +4783,36 @@
       "feedUrl": "https://chegva.com/feed",
       "siteUrl": "https://chegva.com",
       "articles": [
+        {
+          "id": "https://chegva.com/?p=6479",
+          "author": "anzhihe",
+          "description": "分类术语基础概述关键技术发展历程应用场景\n\n基础概念AI（Artificial Intelligence）人工智能模拟人类智能的计算机系统，执行学习、推理、决策等任务，用于模拟、扩展和增强人类智能的技术工具和方法\n符号主义（规则系统）、连接主义（神经网络）、行为主义（环境交互），\n生成式AI、自然语言处理（NLP）、Transformer模型、BERT、PEFT微调方法及大语言模型（LLM）等\n\n1956年达特茅斯会议提出；\n2012年深度学习爆发；\n2022年生成式AI革命\n自动驾驶、医疗诊断、智能客服、内容创作辅助、人机协作\nML（Machine  Learning）机器学习利用数据进行学习的技术，从数据中学习规律，使计算机能够通过算法模型从数据中获取特征并不断优化模型以做出决策和预测，无需显式编程即可改进其性能\n监督学习（分类/回归）、无监督学习（聚类）、强化学习（奖励机制）\n机器学习的核心技术包括算法原理，涉及模型训练、特征工程、模型部署等流程，同时涵盖损失函数、正则化项等策略，以实现有效的模型评估与选择。\n\n1958年感知机诞生；\n1986年BP算法；\n2012年ImageNet竞赛突破\n金融风控、推荐系统、图像识别\nDL（Deep  Learning）深度学习基于多层神经网络的复杂模式学习，利用多层神经网络处理复杂数据模式的机器学习技术，通过模拟人脑神经网络进行学习和识别的机器学习方法CNN（图像处理）、RNN/LSTM（时序数据）、Transformer（自注意力机制）\n2012年AlexNet夺冠；\n2014年GAN；\n2015年ResNet\nAlphaGo、语音识别、图像处理、自然语言理解\nRL（Reinforcement Learning）强化学习通过环境反馈（奖励/惩罚）优化决策策略，是一种优化整个决策过程以最大化累积收益的算法领域，重点关注决策之间的…",
+          "link": "https://chegva.com/6479.html",
+          "publishedOn": "2025-07-10T17:12:03.000Z",
+          "wordCount": 11391,
+          "title": "AI领域核心术语技术总览表",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chegva.com/?p=6408",
+          "author": "anzhihe",
+          "description": "在 Kubernetes 生产环境中更换 etcd 节点的磁盘是一个高风险操作，需谨慎执行。什么情况需要更换磁盘？\n\n磁盘性能不足，如机械盘升级到 SSD\n\n\n磁盘硬件存在问题，影响稳定性\n\n\n\n\n\nETCD 对磁盘性能要求非常敏感，强烈建议使用 SSD 且独立挂盘。如果有更高性能要求，可以选择分离 snapshot(快照文件)/wal(预写日志)的目录，使用两块盘分离 IO 读写。\n\n以下是详细步骤和注意事项，以三节点 etcd 集群 （ETCD 使用 static pod 方式部署）为例：\n\n核心原则\n\n一次只操作一个节点：确保集群始终满足 N/2 + 1 的存活节点（3 节点集群需至少 2 节点在线）。\n\n完整备份：操作前必须备份 etcd 数据，并制定好灾备恢复计划。\n\n业务低峰期操作：减少对集群的影响，并制定好验证方案。\n\n演练及回滚计划：生产环境操作前务必在测试环境演练！确保团队熟悉流程并备有回滚计划。\n\n\n操作步骤\n1. 前置准备\n\n备份 etcd 数据（在任一 etcd 节点执行）：\nETCDCTL_API=3 etcdctl \\\r\n  --endpoints=https://127.0.0.1:2379 \\\r\n  --cacert=/etc/kubernetes/pki/etcd/ca.crt \\\r\n  --cert=/etc/kubernetes/pki/etcd/server.crt \\\r\n  --key=/etc/kubernetes/pki/etcd/server.key \\\r\n  snapshot save /tmp/etcd-snapshot-$(date +%Y%m%d).db\n验证备份完整性：\netcdutl snapshot status /tmp/etcd-snapshot-*.db\n\n检查集群健康状态：\nETCDCTL_API=3 e…",
+          "link": "https://chegva.com/6408.html",
+          "publishedOn": "2025-07-09T12:22:47.000Z",
+          "wordCount": 11248,
+          "title": "K8s集群etcd磁盘更换",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chegva.com/?p=6271",
+          "author": "anzhihe",
+          "description": "Talk is cheap，show me the code，是我们技术人常说的一句话，也是技术社区中经常用的一句话。这句话的意思是，那些光说不练的人说一句是很简单的，而写代码的人则会为一句话付出很多很多的精力，其表明，一个看上去再简单的东西，用一行一行的代码实现起来，并能让其运转起来也是一件很复杂很辛苦的事。说得容易，做起来难！\n这句话是 Linus 说的，也是我引入到中文社区的，然而，逐渐地，大众对这句话的解读开始有点变味了，走向了另外一个极端——他们觉得代码才是最重要的，甚至其中有些人开始觉得真正的技术人员是只用代码说话的！\n似乎，这个世界上总是会有一些人，当他们看到一个观点的时候，在他们的脑袋里只有两个答案，一个是 true，如果不是 true，那就是 false。就好像只要一个人犯了个错误，这个人就是一个不折不扣的大坏蛋，如果一个人是个好人，那他要在所有的地方都是优秀完美的。\n对于技术人员来说，其实，Talk 和 Code 是同样重要的， Talk 是人对人说的话，而 Code 也不仅仅只是人对机器说的话，也更是另外一种人对人说的话（因为 Code 需要易读和易维护，就需要让人读懂）。可见，无论是 Code 还是 Talk 其实都是要和人交流的，Code 是间接交流，Talk 则是直接交流。在公司中工作，需要了解公司的意图，与团队一起做项目，调研客户的需求，设计出用户易操作的界面……你会慢慢地发现，其实，Talk 并不 cheap，而 Code 才是其中比较 cheap 的（注：这是站在了另外一个角度）。\n一个好的程序员，需要有好的学习能力，这样你才能成为技术专家，但是，你还要有好的沟通能力，不然，你的技术能力完全发挥不出来。就像一棵大树一样，学习能力能让你的根越扎越深，无论遇到什么狂风暴雨，你都可以屹立不倒，而沟通能力则是树杆和枝叶，它们能让你伸展到更高更远的天…",
+          "link": "https://chegva.com/6271.html",
+          "publishedOn": "2025-07-02T15:10:29.000Z",
+          "wordCount": 9124,
+          "title": "高效沟通(一)：Talk和Code同等重要",
+          "imageUrl": null
+        },
         {
           "id": "https://chegva.com/?p=6343",
           "author": "anzhihe",
