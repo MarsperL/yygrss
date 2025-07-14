@@ -293,6 +293,16 @@
       "siteUrl": "https://lawtee.com/",
       "articles": [
         {
+          "id": "https://lawtee.com/article/about-education/",
+          "author": null,
+          "description": "我儿子今年 9 月准备上小学了。之前，我对教育这事并没有太放心上，直到最近才系统研究一下当前中小学教育问题，过程中咨询了很多朋友，了解到不少内情，对小孩未来教育问题也有了些粗糙的看法。\n关于择校\n\n3 年前，我女儿上小学前，我曾经简单研究了一下本地中小学教育情况。\n跨区求学者多\n\n由于我所在的区域，基础教育水平比较差。此前本地家长中但凡有能力者，大多是选择在隔壁区买房入户，然后入学。\n但这种距离通常都在 30 公里以上，少点的也有 20 来公里。\n如果不是时间非常充裕，普通家庭很难选择这种方案，并且，这些学区房通常价格也要比本地贵不少。\n实际上，正是因为这些舍得在教育上投入资源的家长纷纷跨区求学，导致本地头部教育资源大量外流，一定程度上造成基础教育质量很难提升上去。\n毕竟，教育本身还是个学校和家庭相互成就的事情，如果能力强的家庭都将小孩送出去读书，那剩下在本地读书的小孩，确实环境也要差一些。\n本地公办教育质量堪忧\n\n我多方对比咨询了不少教育界的朋友。大家普遍反映是本地公办中小学教育教学水平不高，相比市内某些区，平均水平差距巨大。\n集中反映的一个问题是，本地教师大多习惯性“躺平”，对教育教学信心不足，反正都是公办教师，教好教坏一个样，很多教师子女也不在本地就读，相当于整个体系在“摆烂”。\n但这个观点也不是很客观，事实上，我了解到目前本地教育政策，总体上是倾向于把教师子女留在本地就读的，但只是局限在最近几年出台政策后的教师子女身上。如果这一点都做不到，那这种“摆烂”就是真没救了。\n本地民办教育有一定改善\n\n令我十分诧异的是，本地在 2015 年之前，基本没有民办中小学。唯一一所挂名民办学校的，本身还是公办民助性质的，即学校由政府建设，教师是公办教师，只是参照民办学校管理，学费按照民办模式收取，后来这所学校也改为了纯公办。\n在民办学校部分，2015 年之后，本地在房地产上行阶段，…",
+          "link": "https://lawtee.com/article/about-education/",
+          "publishedOn": "2025-07-14T05:00:00.000Z",
+          "wordCount": 132,
+          "title": "关于中小学教育的一点思考",
+          "imageUrl": "https://lawtee.com/article/about-education/0.webp"
+        },
+        {
           "id": "https://lawtee.com/article/cloudflare-r2-safety-setting/",
           "author": null,
           "description": "CloudFlare R2 是大善人推出的重磅免费服务，默认即为用户提供 10G 存储空间和无限流量。不过这个无限还是有限制的，即每月写入类操作不超过 100 万次，每月读取类操作不能超过 1000万次，否则就将按量计费。最近我搬迁了 11 万多张图片到 R2 ，有点担心使用超限，所以对其作了严格的防护设置。\n防护原理\n\n我需要设置防护的这个 R2 存储桶是此前在 将Soomal.cc迁移到Hugo 这篇文章中提到的 soomal.cc 网站中的图片。\n该网站已经托管在 Cloudflare Pages ，由 Cloudflare Pages 提供免费服务，只需要对 html 中引用的图片进行防护。\n1.限制直接对R2存储桶访问。禁止使用链接直接访问 R2 存储桶，而是只能通过 Cloudflare Workers 服务进行访问。\n2.限制对图库链接的直接访问。禁止直接使用 https://images.soomal.cc/test.webp 这种网址请求图片，对所有图片的访问均需在原网站下进行。\n3.对原站启用适当防护策略。由于图片本身不适合设置太多防护规则，主要是通过在原站上设置，变相增加直接请求图片链接的难度。\n设置方法\n\n禁用 R2 公开地址\n\n在 R2 设置中，不要设置自定义域访问，不要在网络上公开 R2。\n在 Cors 策略中，设置仅通过原站访问。\n\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n\n\n\n[\n {\n \"AllowedOrigins\": [\n \"https://soomal.cc\",\n \"https://www.soomal.cc\"\n ],\n \"AllowedMethods\": [\n \"GET\",\n \"HEAD\"\n ],\n \"AllowedHeaders\": [\n \"*\"\n ]…",
@@ -2630,16 +2640,6 @@
           "publishedOn": "2025-04-16T14:37:04.000Z",
           "wordCount": 2851,
           "title": "How Containerization Affects LLC Operations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=31697",
-          "author": "Ajeet Raina",
-          "description": "Ever tried building a GenAI application and hit a wall? 🧱 I know I have. You start with excitement about implementing that cool chatbot or content generator, but then reality hits. You’re either sending sensitive data to third-party APIs with usage limits and costs that quickly add up 💸, or you’re wrestling with complex local […]",
-          "link": "https://collabnix.com/what-is-docker-model-runner-and-what-problem-does-it-solve/",
-          "publishedOn": "2025-04-15T17:50:59.000Z",
-          "wordCount": 4111,
-          "title": "What is Docker Model Runner and what problem does it solve?",
           "imageUrl": null
         }
       ]
