@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-07-14T11:12:52.897Z</updated>
+    <updated>2025-07-15T02:23:57.151Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ansible Semaphore UI: My New Go-To Infrastructure Automation Tool]]></title>
+        <id>https://www.virtualizationhowto.com/?p=301762</id>
+        <link href="https://www.virtualizationhowto.com/2025/07/ansible-semaphore-ui-my-new-go-to-infrastructure-automation-tool/"/>
+        <updated>2025-07-14T13:54:03.000Z</updated>
+        <summary type="html"><![CDATA[A couple of years ago now, I wrote about Ansible Semaphore which brings an awesome UI to Ansible and it is a MUCH simpler tool to get up and running and use than something like Ansible AWX. However, since I had last used the solution, Semaphore UI has now evolved to be something more than …
+The post Ansible Semaphore UI: My New Go-To Infrastructure Automation Tool appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于中小学教育的一点思考]]></title>
         <id>https://lawtee.com/article/about-education/</id>
@@ -2509,6 +2520,18 @@ The post OmniTools: A Swiss Army Knife of Self-Hosted Utilities appeared first o
         <summary type="html"><![CDATA[近日，有关 Alist 疑似被收购的消息引发了网友热议。尽管目前尚未曝出明确的安全问题，但不少用户对其未来的安全性产生了疑虑。为此，博主将为大家整理了5款私有部署的网盘软件，希望能帮你完成过渡。写在最前由于每个人的需求并不完全一样，下方推荐的5款替代软件可能无法确保满足所有用户的需求，建议大家自行尝]]></summary>
         <author>
             <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于Linux环境安装Redis 6.2.7]]></title>
+        <id>/archives/X7gujnCM</id>
+        <link href="https://haiyang.host/archives/X7gujnCM"/>
+        <updated>2025-06-11T06:12:20.000Z</updated>
+        <summary type="html"><![CDATA[安装Redis 下载 找到对应的版本 https://download.redis.io/releases/ 安装依赖 yum install -y gcc tcl jemalloc-devel
+ 解压 tar -zxvf redis-6.2.9.tar.gz -C /opt
+ 运行编译命令 cd]]></summary>
+        <author>
+            <name>Linux运维笔记</name>
         </author>
     </entry>
     <entry>
@@ -6616,17 +6639,6 @@ kubectl apply -f https://github.com/envoyproxy/gateway/…]]></summary>
         <summary type="html"><![CDATA[Containerization technologies have transformed the way businesses operate, especially within LLC frameworks. Tools like Docker bring speed and efficiency to workflows by simplifying application deployment and scaling processes. But how does this connect to LLC operations? Think of it as adding automation to an already flexible business structure. From improving collaboration among remote teams, to […]]]></summary>
         <author>
             <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Powerful but Cheap AI Workstations You Didn’t Know You Could Get (Perfect for Your Home Lab!)]]></title>
-        <id>https://www.virtualizationhowto.com/?p=300593</id>
-        <link href="https://www.virtualizationhowto.com/2025/04/5-powerful-but-cheap-ai-workstations-you-didnt-know-you-could-get-perfect-for-your-home-lab/"/>
-        <updated>2025-04-16T13:10:16.000Z</updated>
-        <summary type="html"><![CDATA[I have really been looking at AI for the home lab and the hardware needed to run local language models (LLMs) successfully and in a speedy way. There is no question that GPUs are the heart of the solution as well as having a reasonably powered system underneath your GPU to handle the processing of …
-The post 5 Powerful but Cheap AI Workstations You Didn’t Know You Could Get (Perfect for Your Home Lab!) appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>

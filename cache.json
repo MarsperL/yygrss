@@ -1216,6 +1216,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=301762",
+          "author": "Brandon Lee",
+          "description": "A couple of years ago now, I wrote about Ansible Semaphore which brings an awesome UI to Ansible and it is a MUCH simpler tool to get up and running and use than something like Ansible AWX. However, since I had last used the solution, Semaphore UI has now evolved to be something more than …\nThe post Ansible Semaphore UI: My New Go-To Infrastructure Automation Tool appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/07/ansible-semaphore-ui-my-new-go-to-infrastructure-automation-tool/",
+          "publishedOn": "2025-07-14T13:54:03.000Z",
+          "wordCount": 10216,
+          "title": "Ansible Semaphore UI: My New Go-To Infrastructure Automation Tool",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/07/ansible-semaphore-ui.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=301746",
           "author": "Brandon Lee",
           "description": "One of the most powerful features of running a virtualization cluster is being able to have high availability features that are built into the solution. High availability features allow you to run virtual machines in a way that makes them resilient to a host failure. Proxmox has these features built-in to the HA cluster features …\nThe post High-Availability (HA) Proxmox Clusters: Do’s & Don’ts appeared first on Virtualization Howto.",
@@ -1774,16 +1784,6 @@
           "wordCount": 11084,
           "title": "5 Reasons Proxmox Is the Ultimate Home Lab Hypervisor in 2025",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/04/5-Reasons-Proxmox-Is-the-Ultimate-Home-Lab-Hypervisor-in-2025.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=300593",
-          "author": "Brandon Lee",
-          "description": "I have really been looking at AI for the home lab and the hardware needed to run local language models (LLMs) successfully and in a speedy way. There is no question that GPUs are the heart of the solution as well as having a reasonably powered system underneath your GPU to handle the processing of …\nThe post 5 Powerful but Cheap AI Workstations You Didn’t Know You Could Get (Perfect for Your Home Lab!) appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/04/5-powerful-but-cheap-ai-workstations-you-didnt-know-you-could-get-perfect-for-your-home-lab/",
-          "publishedOn": "2025-04-16T13:10:16.000Z",
-          "wordCount": 11161,
-          "title": "5 Powerful but Cheap AI Workstations You Didn’t Know You Could Get (Perfect for Your Home Lab!)",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/04/5-Powerful-but-Cheap-AI-Workstations.png"
         }
       ]
     },
@@ -3752,8 +3752,18 @@
     {
       "title": "Linux运维笔记",
       "feedUrl": "https://wanghaiyang.cc/rss.xml",
-      "siteUrl": "http://localhost:8090/",
+      "siteUrl": "https://haiyang.host",
       "articles": [
+        {
+          "id": "/archives/X7gujnCM",
+          "author": null,
+          "description": "安装Redis 下载 找到对应的版本 https://download.redis.io/releases/ 安装依赖 yum install -y gcc tcl jemalloc-devel\n 解压 tar -zxvf redis-6.2.9.tar.gz -C /opt\n 运行编译命令 cd",
+          "link": "https://haiyang.host/archives/X7gujnCM",
+          "publishedOn": "2025-06-11T06:12:20.000Z",
+          "wordCount": null,
+          "title": "基于Linux环境安装Redis 6.2.7",
+          "imageUrl": null
+        },
         {
           "id": "/archives/X7gujnCM",
           "author": null,
