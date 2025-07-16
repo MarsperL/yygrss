@@ -791,6 +791,16 @@
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
         {
+          "id": "https://jimmysong.io/blog/openrouter-insight/",
+          "author": "Jimmy Song",
+          "description": "最近在研究 Claude Code 的调用方式时，我深入体验了 OpenRouter 这个 AI Gateway 聚合平台，观察了它的功能、商业模式与生态，并将其与 Portkey、LiteLLM、Kong 等其他主流 AI 网关方案进行了横向对比。",
+          "link": "https://jimmysong.io/blog/openrouter-insight/",
+          "publishedOn": "2025-07-15T10:00:00.000Z",
+          "wordCount": 1493,
+          "title": "OpenRouter 探索笔记：一个聚合 AI 模型调用的幕后网关",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.webp"
+        },
+        {
           "id": "https://jimmysong.io/blog/vibe-coding-free-tools/",
           "author": "Jimmy Song",
           "description": "本文总结了如何免费或低价使用 Claude Sonnet-4 和 Gemini 2.5 Pro 等高级 AI 编程工具，推荐了高性价比的主力组合，并详细对比了各工具的使用方式与定价，帮助开发者以最小成本获得最佳 vibe coding 体验。",
@@ -1029,16 +1039,6 @@
           "wordCount": 675,
           "title": "从 ingress-nginx 迁移到 Envoy Gateway 指南",
           "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
-        },
-        {
-          "id": "https://jimmysong.io/blog/envoy-gateway-data-plane-observability/",
-          "author": "Jimmy Song",
-          "description": "注意：本文基于 Envoy Gateway v1.3.2 编写。\n\n在大规模微服务架构中，可观测性是理解与运维系统的核心能力。Envoy Gateway 构建于 Envoy Proxy 之上，提供了丰富的可观测性功能，包括指标、日志和追踪。本文将通过动手实践的方式，讲解如何基于 Prometheus、Loki 和 Tempo 等开源后端，为 Envoy Gateway 的数据平面（即 Envoy proxy 本身）配置可观测性功能。\n前置条件\n在开始配置之前，请确保你已经完成 Envoy Gateway 的基本安装。下图展示了 Envoy Gateway 的可观测性组件架构：\nEnvoy Gateway 可观测性管道\n  \n\nOpenTelemetry Collector 是一个可插拔的数据中转组件，负责接收、处理和转发可观测性数据（如指标和追踪），来源包括 Envoy Gateway 等系统。通过将数据生成与数据消费解耦，它能够灵活对接多种可观测性后端（如 Prometheus、Tempo、Jaeger），同时支持数据增强、格式转换和多路导出。\n安装 Envoy Gateway\n按照官方 快速开始指南 安装 Envoy Gateway：\nhelm install eg oci://docker.io/envoyproxy/gateway-helm --version v1.3.2 -n envoy-gateway-system --create-namespace\nkubectl wait --timeout=5m -n envoy-gateway-system deployment/envoy-gateway --for=condition=Available\nkubectl apply -f https://github.com/envoyproxy/gateway/…",
-          "link": "https://jimmysong.io/blog/envoy-gateway-data-plane-observability/",
-          "publishedOn": "2025-04-17T12:12:11.000Z",
-          "wordCount": 703,
-          "title": "Envoy Gateway 数据平面可观测性指南",
-          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
         }
       ]
     },
@@ -1215,6 +1215,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=301787",
+          "author": "Brandon Lee",
+          "description": "I have been super excited and using AI-enhanced coding tools for the last few months now. So, I am on the lookout for new tools and solutions. In case you haven’t heard, has just released Kiro AI IDE (now in Preview). It is build from the ground up for spec-driven development and agent-based automation. Kiro …\nThe post Amazon Kiro AI IDE Released in Preview Download it Now! appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/07/amazon-kiro-ai-ide-released-in-preview-download-it-now/",
+          "publishedOn": "2025-07-15T14:26:41.000Z",
+          "wordCount": 10230,
+          "title": "Amazon Kiro AI IDE Released in Preview Download it Now!",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/07/Amazon-Kiro-AI-IDE.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=301762",
           "author": "Brandon Lee",
@@ -1792,6 +1802,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=41268",
+          "author": "Tanvir Kour",
+          "description": "Containerized AI uses lightweight, standalone software packages called containers to deploy artificial intelligence models. These containers bundle the necessary code, libraries, and dependencies for an AI system to run consistently across various computing environments. It’s like having a portable toolkit that works the same whether you’re in your office or halfway around the world. This […]",
+          "link": "https://collabnix.com/how-containerized-ai-accelerates-modern-supply-chain-workflows/",
+          "publishedOn": "2025-07-15T17:46:09.000Z",
+          "wordCount": 4493,
+          "title": "How Containerized AI Accelerates Modern Supply Chain Workflows",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=41265",
+          "author": "Tanvir Kour",
+          "description": "A start-up can hire a brilliant back-end engineer in Berlin and a DevOps specialist in São Paulo before breakfast, but the real race only begins when those new colleagues must deliver production-ready code. Software organisations live on time-to-productivity: the fewer sprints a hire needs to merge a first pull request, the faster velocity rises and […]",
+          "link": "https://collabnix.com/using-lms-to-onboard-tech-teams-faster-and-more-effectively/",
+          "publishedOn": "2025-07-15T17:29:49.000Z",
+          "wordCount": null,
+          "title": "Using LMS to Onboard Tech Teams Faster and More Effectively",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=40521",
           "author": "Collabnix Team",
@@ -2631,16 +2661,6 @@
           "wordCount": 2772,
           "title": "Running AI Agents Locally with Ollama and AutoGen",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=31707",
-          "author": "Tanvir Kour",
-          "description": "Containerization technologies have transformed the way businesses operate, especially within LLC frameworks. Tools like Docker bring speed and efficiency to workflows by simplifying application deployment and scaling processes. But how does this connect to LLC operations? Think of it as adding automation to an already flexible business structure. From improving collaboration among remote teams, to […]",
-          "link": "https://collabnix.com/how-containerization-affects-llc-operations/",
-          "publishedOn": "2025-04-16T14:37:04.000Z",
-          "wordCount": 2851,
-          "title": "How Containerization Affects LLC Operations",
-          "imageUrl": null
         }
       ]
     },
@@ -3334,6 +3354,16 @@
       "siteUrl": "https://4311346.com/",
       "articles": [
         {
+          "id": "https://4311346.com/post/2025/0715-charge.html",
+          "author": null,
+          "description": "都说男人开上电车后就开始精打细算变得抠门，即使是电动自行车，每一次的充电都变得斤斤计较起来。\n2024款小牛NXT玩家版行驶9个月，总里程4100公里，每月平均行驶455公里。每日上下班往返共计16公里，算下来每月出行28天，使用率是相当的高。\n这9个月期间，比较大的雨雪天气和一些外出办事由沃尔沃S60代替的里程数基本和偶尔骑小牛NXT出门遛弯及中午偶尔外出公司附近吃饭相抵消。\n小牛NXT玩家版使用72V35A铅酸电池，充电功率在400W-500W之间，日常充电主要有三个地方（频率占比），家楼下（90%）、父母家楼下（7%）、公司楼下（3%）。\n同样的充电功率按价格来说，公司楼下最便宜0.40元/小时，父母家楼下最贵，自己家楼下价格居中  400W-500W 之间 0.43元/小时。\n近日突然发现家楼下的自行车充电桩计费方式进行了变更，由按充电功率直接乘以小时数计价，变为了 按实际使用电量+阶梯使用服务费计价。\n\n以400W-500W充电功率，从20%充至100%需要6小时为例\n原计价方式计价\n6小时 X 0.43元/小时 = 2.58元\n新计价方式计价\n6小时 X  0.27元/小时 + 2.7度电 X 0.58元 = 3.19元\n同比增长 24%\n日常使用对比2023款沃尔沃S60\n一般车辆低于30%开始充电，费用2元左右，少的时候1.8元，而现在每次达3元… 虽然充一次电行驶里程在70-80公里，每周仅充2次合计费用也不会超过10元，唉~自己变得小气了…\nS60一箱95号汽油费用达500多元，市区能开600公里，平均0.83元/公里，外加保养，保险，平均下来，每公里单价超过1.2元。而且开得越少单价越高。\n而小牛NXT平均每公里 0.04元，虽然铅酸电池2年也有损耗，但相比S60省去的大几千元的停车费，根本不值得提了。\n30倍的行驶差价，50倍的使用成本差异。\n出门就…",
+          "link": "https://4311346.com/post/2025/0715-charge.html",
+          "publishedOn": "2025-07-15T14:19:51.000Z",
+          "wordCount": null,
+          "title": "充电桩更改结算方式，变相涨价25%-30%",
+          "imageUrl": null
+        },
+        {
           "id": "https://4311346.com/post/2025/0707-involuntarily.html",
           "author": null,
           "description": "半个月内被公司要求的第二篇检讨书… 可想而知这期间被挨过多少次骂和批评，感受到这一周的漫长和极度的难熬。事并不是个大事，只是领导造了口大锅，它得有人扛。还没想好这篇检讨书要怎么写，毕竟和上一次检讨书相关，时间并不长，虽然发生的不是同一类事情，但这个流程有点难受。\n总之是要端正态度，接受评判，立即改正\n上一篇文章中提到的的工作内容，将违法变为合法… 夜未央 评论说 ：“你只是在打工，又不是自己的公司，为什么要冒险走灰色地带呢？翻车了老板最先怪的还是你。”  其实大多数的工作内容都是在合法的范畴内，但多多少少会游走的法律的一些边缘。毕竟自己做的是人力资源工作，所以涉及法律内容更多在《劳动法》、《劳动合同法》、《民法典》、《交通道路安全法》这些法律范畴内。\n举个真实的例子：\n我们在大型购物中心内的一家2000平米的门店里有约60名正式员工为消费者提供服务，这是典型的ToC业务，而我们的C端客户年龄层次均在35岁-55岁之间。他们有着自己的工作和生活，通常只能在周中的晚上或周末来到我们的门店。全武汉各大购物中心内的门店我们有近20家，大多数需要在平日的晚上或周末为客户提供服务。\n但在2024年自己入职时，却发现 700多名个门店的员工，日常每日都会超过8小时的工作时间，且必须在周六日上班为客户提供服务，公司却按照标准工时签订的劳动合同和结算每月工资。显然从《劳动合同法》来说，已违法，而且这个违法成本也非常的大。\n超出每日8小时外的工作时间，如果不安排对应的补休，公司需按照1.5倍的小时工资支付劳动报酬，且每日不能超过3小时。周六日的出勤因为单休并没有全部调休，更是需要按照2倍的日工资来结算其中1天的劳动报酬。而那些五一、十一、端午、中秋啥的法定节假日又往往是我们线下门店业务业绩最好也是最忙的时候，他们根本就无法休，而这些法定节假日上班，公司则需要按照3倍的劳动报酬支付对应的加班工资…",
@@ -3981,16 +4011,6 @@
           "publishedOn": "2025-04-18T09:13:26.000Z",
           "wordCount": 872,
           "title": "使用selenium来实现Grafana的自动截图",
-          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
-        },
-        {
-          "id": "https://zahui.fan/posts/suuwju/",
-          "author": null,
-          "description": "<p>正常情况下收集日志流程为：</p>\n<ol>\n<li>filebeat 读取节点上指定目录日志文件 –&gt; kafka</li>\n<li>logstash 消费 kafka 数据 –&gt; 写入到 ES 的指定索引<br>加入 kafka 会提高健壮性，可以起到削峰填谷的效果。现在是非生产环境没有 kafka，所以才采用 filebeat 写入到 ES 这种方案。另一种架构：<a",
-          "link": "https://zahui.fan/posts/suuwju/",
-          "publishedOn": "2025-04-17T09:47:54.000Z",
-          "wordCount": 961,
-          "title": "Filebeat直接输出到Elasticsearch",
           "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
         }
       ]
