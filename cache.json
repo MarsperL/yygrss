@@ -564,6 +564,16 @@
       "siteUrl": "https://blog.ops-coffee.cn",
       "articles": [
         {
+          "id": "https://blog.ops-coffee.cn/s/how-to-create-a-successful-product-online-photo-collage.html",
+          "author": null,
+          "description": "免费在线拼图工具更新，支持拖拽上传、智能自动布局和个性化配置持久化，提升用户体验，无需登录，高清下载，无水印，完全免费。",
+          "link": "https://blog.ops-coffee.cn/s/how-to-create-a-successful-product-online-photo-collage.html",
+          "publishedOn": "2025-07-16T03:40:35.000Z",
+          "wordCount": 65,
+          "title": "当我还在为那10倍流量狂喜时，它已悄悄变成了日常",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.ops-coffee.cn/s/ruan-yifeng-weekly-traffic-analysis-and-tool-update.html",
           "author": null,
           "description": "阮一峰老师的科技爱好者周刊不仅是信息筛选的宝库，还能带来实实在在的流量。本文详细介绍了被周刊收录后的流量效果及免费拼图工具的最新更新。",
@@ -790,6 +800,16 @@
       "feedUrl": "https://jimmysong.io/blog/index.xml",
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
+        {
+          "id": "https://jimmysong.io/blog/kiro-first-impression/",
+          "author": "Jimmy Song",
+          "description": "试用 AWS 推出的 AI 编程 IDE —— Kiro 的真实体验，介绍其 Spec 模式、任务编排能力及当前的不足，并分享我对其未来发展的期待。",
+          "link": "https://jimmysong.io/blog/kiro-first-impression/",
+          "publishedOn": "2025-07-16T04:00:00.000Z",
+          "wordCount": 444,
+          "title": "AWS Kiro 初体验：一款更注重流程感的 AI IDE",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.webp"
+        },
         {
           "id": "https://jimmysong.io/blog/openrouter-insight/",
           "author": "Jimmy Song",
@@ -1029,16 +1049,6 @@
           "wordCount": 513,
           "title": "理解 Envoy 的扩展与集成机制：从内置扩展到动态模块",
           "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
-        },
-        {
-          "id": "https://jimmysong.io/blog/migrating-from-ingress-nginx-to-envoy-gateway/",
-          "author": "Jimmy Song",
-          "description": "本文旨在帮助当前依赖 ingress-nginx 的用户迁移至 Envoy Gateway 并采用 Gateway API。我们将介绍迁移的动因，提供一个基于 Minikube 的实操示例，并展示如 ingress2gateway 工具如何简化整个迁移流程。\n为什么要迁移？\nIngress Controller 是每个 Kubernetes 集群中不可或缺的组件。许多用户在最初搭建集群时选择了 ingress-nginx，并在之后很少关注它的配置运行。而传统的 Ingress API 与 nginx controller 存在诸多限制：如果你曾因复杂的注解配置而感到困扰，或者遇到配置更改导致连接中断的情况，那么你可能已经意识到，是时候寻找更现代的替代方案了。\n认识 Envoy Gateway 和 Gateway API\nEnvoy Proxy 是一个现代的、为云原生设计的代理，具备可观测性、热更新和良好的可运维性。Envoy Gateway（EG） 基于 Envoy 构建，提供了基于 Kubernetes Gateway API 的强大 Ingress 解决方案。\n与传统的 Ingress API 不同，Gateway API 提供了 Gateway、HTTPRoute 和 GatewayClass 等结构化资源，支持更清晰、无注解的配置方式。EG 支持如下高级特性：\n全局速率限制\n基于 OIDC 的认证\nWAF 防护集成（如 Coraza）\n这些特性往往可以替代额外的 API Gateway 产品。Envoy Gateway 是完全开源的，并由 CNCF 社区治理。\n如需企业级支持，Tetrate Enterprise Gateway for Envoy (TEG) 提供了一个可用于生产的企业级发行版。\n\n迁移流程：从 nginx 迁移到 Envoy Gateway\n在动…",
-          "link": "https://jimmysong.io/blog/migrating-from-ingress-nginx-to-envoy-gateway/",
-          "publishedOn": "2025-04-18T08:31:36.000Z",
-          "wordCount": 675,
-          "title": "从 ingress-nginx 迁移到 Envoy Gateway 指南",
-          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
         }
       ]
     },
@@ -1215,6 +1225,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=301785",
+          "author": "Brandon Lee",
+          "description": "There has never been a better time to get into coding things, especially infrastructure as code. There are so many powerful AI tools available now so the barrier to entry for writing code has never been lower. I have always believed in treating my home lab like “real” production infrastructure. Infrastructure as code is the …\nThe post Run Your Home Lab with Infrastructure as Code Like a Boss appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/07/run-your-home-lab-with-infrastructure-as-code-like-a-boss/",
+          "publishedOn": "2025-07-16T12:39:10.000Z",
+          "wordCount": 10639,
+          "title": "Run Your Home Lab with Infrastructure as Code Like a Boss",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/07/home-lab-infrastructure-as-code.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=301787",
           "author": "Brandon Lee",
@@ -1784,16 +1804,6 @@
           "wordCount": 10467,
           "title": "Best Budget GPU for AI in Your Home Server 2025",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/04/Best-Budget-GPU-for-AI.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=300620",
-          "author": "Brandon Lee",
-          "description": "There has certainly been a major shift in virtualization technologies over the past year or so. So many have been fleeing VMware for other hypervisors. It seems like Proxmox has become the new favorite in the community and home lab environments in general. Virtualization is the heart of any home lab, whether you are self-hosting …\nThe post 5 Reasons Proxmox Is the Ultimate Home Lab Hypervisor in 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/04/5-reasons-proxmox-is-the-ultimate-home-lab-hypervisor-in-2025/",
-          "publishedOn": "2025-04-17T14:35:56.000Z",
-          "wordCount": 11084,
-          "title": "5 Reasons Proxmox Is the Ultimate Home Lab Hypervisor in 2025",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/04/5-Reasons-Proxmox-Is-the-Ultimate-Home-Lab-Hypervisor-in-2025.png"
         }
       ]
     },
@@ -1802,6 +1812,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=41371",
+          "author": "Collabnix Team",
+          "description": "Running large language models locally has become essential for developers who need privacy, cost control, and offline capabilities. Ollama has emerged as the leading platform for running LLMs locally, but choosing the right model can make or break your development workflow. This comprehensive guide covers the best Ollama models for developers in 2025, with practical […]",
+          "link": "https://collabnix.com/best-ollama-models-for-developers-complete-2025-guide-with-code-examples/",
+          "publishedOn": "2025-07-16T11:40:02.000Z",
+          "wordCount": 5169,
+          "title": "Best Ollama Models for Developers: Complete 2025 Guide with Code Examples",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=41368",
+          "author": "Tanvir Kour",
+          "description": "When you spin up containers in the cloud, the last thing you’re probably thinking about is privacy. Not user privacy in the conventional GDPR-screaming, cookie-banner sense. No, we’re talking about something more subtle, and arguably more dangerous: metadata leakage. Because under the hood, your logs are saying a lot more than you think. Sure, they’re […]",
+          "link": "https://collabnix.com/metadata-matters-how-container-logs-and-personal-data-cross-paths-in-cloud-environments/",
+          "publishedOn": "2025-07-16T11:35:28.000Z",
+          "wordCount": null,
+          "title": "Metadata Matters: How Container Logs and Personal Data Cross Paths in Cloud Environments",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=41268",
           "author": "Tanvir Kour",
@@ -2650,16 +2680,6 @@
           "publishedOn": "2025-04-22T04:21:09.000Z",
           "wordCount": 3025,
           "title": "Proxy Server for AI Tools: Review of the Top Providers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=31706",
-          "author": "Adesoji Alu",
-          "description": "Have you ever wished you could build smart AI agents without shipping your data to third-party servers? What if I told you you can run powerful language models like Llama3 directly on your machine while building sophisticated AI agent systems? Let’s roll up our sleeves and create a self-contained AI development environment using Ollama and […]",
-          "link": "https://collabnix.com/running-ai-agents-locally-with-ollama-and-autogen/",
-          "publishedOn": "2025-04-17T21:19:40.000Z",
-          "wordCount": 2772,
-          "title": "Running AI Agents Locally with Ollama and AutoGen",
           "imageUrl": null
         }
       ]
@@ -3766,16 +3786,6 @@
           "wordCount": 528,
           "title": "探索 Linux 内存占用找出最吃内存的进程",
           "imageUrl": "https://cdn.dusays.com/avatar.png"
-        },
-        {
-          "id": "https://dusays.com/820/",
-          "author": null,
-          "description": "<blockquote>\n<p>在数字化工作时代，一款高效、便捷的终端工具对于开发者、系统管理员和网络工程师等人群来说至关重要。Electerm 作为一款开源免费的跨平台终端模拟器，凭借其丰富的功能和优秀的用户体验，成为了众多用户的首选。</p>\n</blockquote>",
-          "link": "https://dusays.com/820/",
-          "publishedOn": "2025-04-17T16:00:00.000Z",
-          "wordCount": 1344,
-          "title": "Electerm 高效便捷的开源终端工具",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
     },
@@ -4001,16 +4011,6 @@
           "publishedOn": "2025-05-06T08:04:22.000Z",
           "wordCount": 482,
           "title": "Grafana 查询SQL 自定义变量",
-          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
-        },
-        {
-          "id": "https://zahui.fan/posts/suwpme/",
-          "author": null,
-          "description": "<p>selenium 是一个 python 库, 用于操作 chromium 浏览器实现一些自动化的动作, 本文是为了把 grafana 的监控图截图保存, 后续可以将图片做成运维报表之类的.</p>\n<h2 id=\"调试阶段\"><a href=\"#调试阶段\" class=\"headerlink\" title=\"调试阶段\"></a>调试阶段</h2><p>调试阶段可以使用电脑上的",
-          "link": "https://zahui.fan/posts/suwpme/",
-          "publishedOn": "2025-04-18T09:13:26.000Z",
-          "wordCount": 872,
-          "title": "使用selenium来实现Grafana的自动截图",
           "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
         }
       ]

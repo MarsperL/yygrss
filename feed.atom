@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-07-16T02:20:48.988Z</updated>
+    <updated>2025-07-17T02:21:24.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Run Your Home Lab with Infrastructure as Code Like a Boss]]></title>
+        <id>https://www.virtualizationhowto.com/?p=301785</id>
+        <link href="https://www.virtualizationhowto.com/2025/07/run-your-home-lab-with-infrastructure-as-code-like-a-boss/"/>
+        <updated>2025-07-16T12:39:10.000Z</updated>
+        <summary type="html"><![CDATA[There has never been a better time to get into coding things, especially infrastructure as code. There are so many powerful AI tools available now so the barrier to entry for writing code has never been lower. I have always believed in treating my home lab like “real” production infrastructure. Infrastructure as code is the …
+The post Run Your Home Lab with Infrastructure as Code Like a Boss appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Ollama Models for Developers: Complete 2025 Guide with Code Examples]]></title>
+        <id>https://collabnix.com/?p=41371</id>
+        <link href="https://collabnix.com/best-ollama-models-for-developers-complete-2025-guide-with-code-examples/"/>
+        <updated>2025-07-16T11:40:02.000Z</updated>
+        <summary type="html"><![CDATA[Running large language models locally has become essential for developers who need privacy, cost control, and offline capabilities. Ollama has emerged as the leading platform for running LLMs locally, but choosing the right model can make or break your development workflow. This comprehensive guide covers the best Ollama models for developers in 2025, with practical […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Metadata Matters: How Container Logs and Personal Data Cross Paths in Cloud Environments]]></title>
+        <id>https://collabnix.com/?p=41368</id>
+        <link href="https://collabnix.com/metadata-matters-how-container-logs-and-personal-data-cross-paths-in-cloud-environments/"/>
+        <updated>2025-07-16T11:35:28.000Z</updated>
+        <summary type="html"><![CDATA[When you spin up containers in the cloud, the last thing you’re probably thinking about is privacy. Not user privacy in the conventional GDPR-screaming, cookie-banner sense. No, we’re talking about something more subtle, and arguably more dangerous: metadata leakage. Because under the hood, your logs are saying a lot more than you think. Sure, they’re […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS Kiro 初体验：一款更注重流程感的 AI IDE]]></title>
+        <id>https://jimmysong.io/blog/kiro-first-impression/</id>
+        <link href="https://jimmysong.io/blog/kiro-first-impression/"/>
+        <updated>2025-07-16T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[试用 AWS 推出的 AI 编程 IDE —— Kiro 的真实体验，介绍其 Spec 模式、任务编排能力及当前的不足，并分享我对其未来发展的期待。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当我还在为那10倍流量狂喜时，它已悄悄变成了日常]]></title>
+        <id>https://blog.ops-coffee.cn/s/how-to-create-a-successful-product-online-photo-collage.html</id>
+        <link href="https://blog.ops-coffee.cn/s/how-to-create-a-successful-product-online-photo-collage.html"/>
+        <updated>2025-07-16T03:40:35.000Z</updated>
+        <summary type="html"><![CDATA[免费在线拼图工具更新，支持拖拽上传、智能自动布局和个性化配置持久化，提升用户体验，无需登录，高清下载，无水印，完全免费。]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Containerized AI Accelerates Modern Supply Chain Workflows]]></title>
         <id>https://collabnix.com/?p=41268</id>
@@ -6578,40 +6629,6 @@ The post Best Budget GPU for AI in Your Home Server 2025 appeared first on Virtu
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[使用selenium来实现Grafana的自动截图]]></title>
-        <id>https://zahui.fan/posts/suwpme/</id>
-        <link href="https://zahui.fan/posts/suwpme/"/>
-        <updated>2025-04-18T09:13:26.000Z</updated>
-        <summary type="html"><![CDATA[<p>selenium 是一个 python 库, 用于操作 chromium 浏览器实现一些自动化的动作, 本文是为了把 grafana 的监控图截图保存, 后续可以将图片做成运维报表之类的.</p>
-<h2 id="调试阶段"><a href="#调试阶段" class="headerlink" title="调试阶段"></a>调试阶段</h2><p>调试阶段可以使用电脑上的]]></summary>
-        <author>
-            <name>杂烩饭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从 ingress-nginx 迁移到 Envoy Gateway 指南]]></title>
-        <id>https://jimmysong.io/blog/migrating-from-ingress-nginx-to-envoy-gateway/</id>
-        <link href="https://jimmysong.io/blog/migrating-from-ingress-nginx-to-envoy-gateway/"/>
-        <updated>2025-04-18T08:31:36.000Z</updated>
-        <summary type="html"><![CDATA[本文旨在帮助当前依赖 ingress-nginx 的用户迁移至 Envoy Gateway 并采用 Gateway API。我们将介绍迁移的动因，提供一个基于 Minikube 的实操示例，并展示如 ingress2gateway 工具如何简化整个迁移流程。
-为什么要迁移？
-Ingress Controller 是每个 Kubernetes 集群中不可或缺的组件。许多用户在最初搭建集群时选择了 ingress-nginx，并在之后很少关注它的配置运行。而传统的 Ingress API 与 nginx controller 存在诸多限制：如果你曾因复杂的注解配置而感到困扰，或者遇到配置更改导致连接中断的情况，那么你可能已经意识到，是时候寻找更现代的替代方案了。
-认识 Envoy Gateway 和 Gateway API
-Envoy Proxy 是一个现代的、为云原生设计的代理，具备可观测性、热更新和良好的可运维性。Envoy Gateway（EG） 基于 Envoy 构建，提供了基于 Kubernetes Gateway API 的强大 Ingress 解决方案。
-与传统的 Ingress API 不同，Gateway API 提供了 Gateway、HTTPRoute 和 GatewayClass 等结构化资源，支持更清晰、无注解的配置方式。EG 支持如下高级特性：
-全局速率限制
-基于 OIDC 的认证
-WAF 防护集成（如 Coraza）
-这些特性往往可以替代额外的 API Gateway 产品。Envoy Gateway 是完全开源的，并由 CNCF 社区治理。
-如需企业级支持，Tetrate Enterprise Gateway for Envoy (TEG) 提供了一个可用于生产的企业级发行版。
-
-迁移流程：从 nginx 迁移到 Envoy Gateway
-在动…]]></summary>
-        <author>
-            <name>Jimmy Song</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[武汉动物园一日游]]></title>
         <id>https://qq.mba/231.html</id>
         <link href="https://qq.mba/231.html"/>
@@ -6619,39 +6636,6 @@ WAF 防护集成（如 Coraza）
         <summary type="html"><![CDATA[昨天闺女生日，专门请假带孩子出去转转，孩子目前尚小，很多地方不适合，感觉闺女对动物一类蛮感兴趣，所以决定带孩子去 武汉动物园 看看。动物园面积挺大的，动物种类也不少，一圈走下来还挺累人的，这个以...]]></summary>
         <author>
             <name>满心</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running AI Agents Locally with Ollama and AutoGen]]></title>
-        <id>https://collabnix.com/?p=31706</id>
-        <link href="https://collabnix.com/running-ai-agents-locally-with-ollama-and-autogen/"/>
-        <updated>2025-04-17T21:19:40.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever wished you could build smart AI agents without shipping your data to third-party servers? What if I told you you can run powerful language models like Llama3 directly on your machine while building sophisticated AI agent systems? Let’s roll up our sleeves and create a self-contained AI development environment using Ollama and […]]]></summary>
-        <author>
-            <name>Adesoji Alu</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electerm 高效便捷的开源终端工具]]></title>
-        <id>https://dusays.com/820/</id>
-        <link href="https://dusays.com/820/"/>
-        <updated>2025-04-17T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>在数字化工作时代，一款高效、便捷的终端工具对于开发者、系统管理员和网络工程师等人群来说至关重要。Electerm 作为一款开源免费的跨平台终端模拟器，凭借其丰富的功能和优秀的用户体验，成为了众多用户的首选。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Reasons Proxmox Is the Ultimate Home Lab Hypervisor in 2025]]></title>
-        <id>https://www.virtualizationhowto.com/?p=300620</id>
-        <link href="https://www.virtualizationhowto.com/2025/04/5-reasons-proxmox-is-the-ultimate-home-lab-hypervisor-in-2025/"/>
-        <updated>2025-04-17T14:35:56.000Z</updated>
-        <summary type="html"><![CDATA[There has certainly been a major shift in virtualization technologies over the past year or so. So many have been fleeing VMware for other hypervisors. It seems like Proxmox has become the new favorite in the community and home lab environments in general. Virtualization is the heart of any home lab, whether you are self-hosting …
-The post 5 Reasons Proxmox Is the Ultimate Home Lab Hypervisor in 2025 appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
