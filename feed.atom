@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-07-17T02:21:24.639Z</updated>
+    <updated>2025-07-18T02:22:54.582Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[使用openssl制作自签名双向认证证书]]></title>
+        <id>https://zahui.fan/posts/szkilc/</id>
+        <link href="https://zahui.fan/posts/szkilc/"/>
+        <updated>2025-07-17T23:58:24.000Z</updated>
+        <summary type="html"><![CDATA[<p>可以直接使用我制作好的工具，支持自签名 HTTPS 证书和双向认证证书，纯 shell 脚本，支持 Docker 使用，一键生成证书：<a href="https://github.com/iuxt/my_cert">https://github.com/iuxt/my_cert</a></p>
+<p>双向认证用途是什么：]]></summary>
+        <author>
+            <name>杂烩饭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logseq 高效知识管理与协作利器]]></title>
+        <id>https://dusays.com/817/</id>
+        <link href="https://dusays.com/817/"/>
+        <updated>2025-07-17T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>Logseq 以其出色的知识管理能力、便捷协作功能、强大的隐私保护以及灵活的可扩展性，成为了日常学习和工作中不可或缺的工具。不仅帮助高效地记录和整理知识，还激发了创造力和思考能力。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker Networking Tutorial: Bridge vs. Macvlan vs. Overlay for Home Labs]]></title>
+        <id>https://www.virtualizationhowto.com/?p=301827</id>
+        <link href="https://www.virtualizationhowto.com/2025/07/docker-networking-tutorial-bridge-vs-macvlan-vs-overlay-for-home-labs/"/>
+        <updated>2025-07-17T15:12:38.000Z</updated>
+        <summary type="html"><![CDATA[Everyone starts out using the default bridge network in a Docker container environment. And, if you are running standalone Docker hosts there is likely nothing wrong with using this network type because it just works. However, like any tool, knowing the details of other functionality can help to have the configurations you need with different …
+The post Docker Networking Tutorial: Bridge vs. Macvlan vs. Overlay for Home Labs appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[兄弟们！！！15天超100k]]></title>
+        <id>https://blog.ops-coffee.cn/s/online-photo-collage-website-success-story.html</id>
+        <link href="https://blog.ops-coffee.cn/s/online-photo-collage-website-success-story.html"/>
+        <updated>2025-07-17T11:28:04.000Z</updated>
+        <summary type="html"><![CDATA[本文讲述了一个在线拼图网站如何在15天内实现超过10万访问量的成功故事。文章涵盖了产品的快速开发过程、用户反馈的积极影响以及新增的水印系统和复制到剪贴板功能。]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Run Your Home Lab with Infrastructure as Code Like a Boss]]></title>
         <id>https://www.virtualizationhowto.com/?p=301785</id>
@@ -6603,29 +6647,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[封面是最近吃的一碗牛肉面，牛肉真的很多。 最近上班摸鱼，读了一点点成功学的书，前面看完了“被讨厌的勇气”，说实 […]]]></summary>
         <author>
             <name>Yuntian52</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[探索 Linux 内存占用找出最吃内存的进程]]></title>
-        <id>https://dusays.com/802/</id>
-        <link href="https://dusays.com/802/"/>
-        <updated>2025-04-18T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>无论是服务器还是个人电脑，了解哪些进程占用了最多的内存，对于系统管理员和普通用户来说至关重要。不仅可以帮助我们优化系统性能，还能避免因内存不足而导致系统崩溃。本文将介绍如何在 Linux 系统中统计内存占用最多的前 10 个进程。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Budget GPU for AI in Your Home Server 2025]]></title>
-        <id>https://www.virtualizationhowto.com/?p=300634</id>
-        <link href="https://www.virtualizationhowto.com/2025/04/best-budget-gpu-for-ai-in-your-home-server-2025/"/>
-        <updated>2025-04-18T14:45:25.000Z</updated>
-        <summary type="html"><![CDATA[The heart of running AI workloads at home is the GPU installed in your AI workstation or AI server. If you are running local LLMs like LLaMA or looking to generate images with something like Stable Diffusion, the GPU you pick will have a huge impact on the performance and experience of your AI solution …
-The post Best Budget GPU for AI in Your Home Server 2025 appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>

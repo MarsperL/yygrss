@@ -564,6 +564,16 @@
       "siteUrl": "https://blog.ops-coffee.cn",
       "articles": [
         {
+          "id": "https://blog.ops-coffee.cn/s/online-photo-collage-website-success-story.html",
+          "author": null,
+          "description": "本文讲述了一个在线拼图网站如何在15天内实现超过10万访问量的成功故事。文章涵盖了产品的快速开发过程、用户反馈的积极影响以及新增的水印系统和复制到剪贴板功能。",
+          "link": "https://blog.ops-coffee.cn/s/online-photo-collage-website-success-story.html",
+          "publishedOn": "2025-07-17T11:28:04.000Z",
+          "wordCount": null,
+          "title": "兄弟们！！！15天超100k",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.ops-coffee.cn/s/how-to-create-a-successful-product-online-photo-collage.html",
           "author": null,
           "description": "免费在线拼图工具更新，支持拖拽上传、智能自动布局和个性化配置持久化，提升用户体验，无需登录，高清下载，无水印，完全免费。",
@@ -1226,6 +1236,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=301827",
+          "author": "Brandon Lee",
+          "description": "Everyone starts out using the default bridge network in a Docker container environment. And, if you are running standalone Docker hosts there is likely nothing wrong with using this network type because it just works. However, like any tool, knowing the details of other functionality can help to have the configurations you need with different …\nThe post Docker Networking Tutorial: Bridge vs. Macvlan vs. Overlay for Home Labs appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/07/docker-networking-tutorial-bridge-vs-macvlan-vs-overlay-for-home-labs/",
+          "publishedOn": "2025-07-17T15:12:38.000Z",
+          "wordCount": 10534,
+          "title": "Docker Networking Tutorial: Bridge vs. Macvlan vs. Overlay for Home Labs",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/07/docker-networking-tutorial-2.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=301785",
           "author": "Brandon Lee",
           "description": "There has never been a better time to get into coding things, especially infrastructure as code. There are so many powerful AI tools available now so the barrier to entry for writing code has never been lower. I have always believed in treating my home lab like “real” production infrastructure. Infrastructure as code is the …\nThe post Run Your Home Lab with Infrastructure as Code Like a Boss appeared first on Virtualization Howto.",
@@ -1794,16 +1814,6 @@
           "wordCount": 11880,
           "title": "Synology Just Locked Down Your NAS Drives Here’s What to Use Instead",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/04/Synology-locking-hard-drives.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=300634",
-          "author": "Brandon Lee",
-          "description": "The heart of running AI workloads at home is the GPU installed in your AI workstation or AI server. If you are running local LLMs like LLaMA or looking to generate images with something like Stable Diffusion, the GPU you pick will have a huge impact on the performance and experience of your AI solution …\nThe post Best Budget GPU for AI in Your Home Server 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/04/best-budget-gpu-for-ai-in-your-home-server-2025/",
-          "publishedOn": "2025-04-18T14:45:25.000Z",
-          "wordCount": 10467,
-          "title": "Best Budget GPU for AI in Your Home Server 2025",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/04/Best-Budget-GPU-for-AI.png"
         }
       ]
     },
@@ -3488,6 +3498,16 @@
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
         {
+          "id": "https://dusays.com/817/",
+          "author": null,
+          "description": "<blockquote>\n<p>Logseq 以其出色的知识管理能力、便捷协作功能、强大的隐私保护以及灵活的可扩展性，成为了日常学习和工作中不可或缺的工具。不仅帮助高效地记录和整理知识，还激发了创造力和思考能力。</p>\n</blockquote>",
+          "link": "https://dusays.com/817/",
+          "publishedOn": "2025-07-17T16:00:00.000Z",
+          "wordCount": 427,
+          "title": "Logseq 高效知识管理与协作利器",
+          "imageUrl": "https://cdn.dusays.com/avatar.png"
+        },
+        {
           "id": "https://dusays.com/816/",
           "author": null,
           "description": "<blockquote>\n<p>在 Linux 系统，尤其是当我们在管理多个容器时，了解系统和容器的资源使用情况至关重要。今天，就给大家介绍一款强大的监控工具 ctop，本文详细介绍 ctop 的安装、使用、命令选项。</p>\n</blockquote>",
@@ -3776,16 +3796,6 @@
           "wordCount": 1372,
           "title": "LibreTV 免费的在线视频观看神器",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/802/",
-          "author": null,
-          "description": "<blockquote>\n<p>无论是服务器还是个人电脑，了解哪些进程占用了最多的内存，对于系统管理员和普通用户来说至关重要。不仅可以帮助我们优化系统性能，还能避免因内存不足而导致系统崩溃。本文将介绍如何在 Linux 系统中统计内存占用最多的前 10 个进程。</p>\n</blockquote>",
-          "link": "https://dusays.com/802/",
-          "publishedOn": "2025-04-18T16:00:00.000Z",
-          "wordCount": 528,
-          "title": "探索 Linux 内存占用找出最吃内存的进程",
-          "imageUrl": "https://cdn.dusays.com/avatar.png"
         }
       ]
     },
@@ -3923,6 +3933,16 @@
       "feedUrl": "https://zahui.fan/atom.xml",
       "siteUrl": "https://zahui.fan/atom.xml",
       "articles": [
+        {
+          "id": "https://zahui.fan/posts/szkilc/",
+          "author": null,
+          "description": "<p>可以直接使用我制作好的工具，支持自签名 HTTPS 证书和双向认证证书，纯 shell 脚本，支持 Docker 使用，一键生成证书：<a href=\"https://github.com/iuxt/my_cert\">https://github.com/iuxt/my_cert</a></p>\n<p>双向认证用途是什么：",
+          "link": "https://zahui.fan/posts/szkilc/",
+          "publishedOn": "2025-07-17T23:58:24.000Z",
+          "wordCount": 1335,
+          "title": "使用openssl制作自签名双向认证证书",
+          "imageUrl": "https://s3.babudiu.com/iuxt/public/skeleton1.svg"
+        },
         {
           "id": "https://zahui.fan/posts/syv4vu/",
           "author": null,
