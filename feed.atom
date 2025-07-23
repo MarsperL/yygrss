@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-07-22T02:22:31.151Z</updated>
+    <updated>2025-07-23T02:23:25.205Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Home Assistant Docker Compose Design Decisions: Networking, Storage, Backups]]></title>
+        <id>https://www.virtualizationhowto.com/?p=301884</id>
+        <link href="https://www.virtualizationhowto.com/2025/07/home-assistant-docker-compose-design-decisions-networking-storage-backups/"/>
+        <updated>2025-07-22T13:39:00.000Z</updated>
+        <summary type="html"><![CDATA[If you have been wanting to get into Home Assistant, it is a growing ecosystem that is fun and exciting. And, if you already have a home lab environment, which most of the readers here do, you already likely have the infrastructure you need to run a Home Assistant Docker container. Using Docker Compose, you …
+The post Home Assistant Docker Compose Design Decisions: Networking, Storage, Backups appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pyramid of Merit]]></title>
+        <id>https://daverupert.com/2025/07/the-pyramid-of-merit/</id>
+        <link href="https://daverupert.com/2025/07/the-pyramid-of-merit/"/>
+        <updated>2025-07-22T13:38:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s one quote from Twilight of the Elites (Chris Hayes, 2013) that has stuck with me since reading the book earlier this year. In sharing his experience attending the prestigious test-in Hunter College High School in Manhattan, Hayes acknowledges that the idea (and social stratification and skin tone) of merit begins to homogenize over time. In one sentence he laid bare the lie of meritocracy and it cut deep for me:
+The pyramid of merit has come to mirror the pyramid of wealth and cultural capital.
+In the tech and venture capital space there’s ample criticisms of meritocracy out there dispelling the head-slap-inducing claims made by ill-informed tech bros who have found themselves in positions of power. I’d be lying if I said meritocracy didn’t appeal to me at least on some level; rewa…]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[嵊州｜不仅是碳水之都，更是玩水天堂]]></title>
+        <id>https://blog.ops-coffee.cn/r/city-china-zhejiang-shaoxing-shengzhou-summer.html</id>
+        <link href="https://blog.ops-coffee.cn/r/city-china-zhejiang-shaoxing-shengzhou-summer.html"/>
+        <updated>2025-07-22T08:02:18.000Z</updated>
+        <summary type="html"><![CDATA[逃离城市的喧嚣，到嵊州的山间小溪中玩水，感受夏日的清凉和美食的魅力。探索嵊州的清澈水域和特色小吃，享受一段宁静而放松的时光。]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brand Backdrops on Demand: How AI Backgrounds Give Your Videos a Pro Look]]></title>
+        <id>https://collabnix.com/?p=42446</id>
+        <link href="https://collabnix.com/brand-backdrops-on-demand-how-ai-backgrounds-give-your-videos-a-pro-look/"/>
+        <updated>2025-07-22T07:54:46.000Z</updated>
+        <summary type="html"><![CDATA[Ever watch your favorite YouTuber and wonder how they always have a spotless, vibey setup — even when recording from their spare bedroom? Spoiler alert: half the magic is a background generator. For today’s creators, keeping your intros, outros, and on-screen look fresh doesn’t require hiring a studio designer or building a Pinterest-worthy home office. […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kubernetes Pod Optimization: Advanced Best Practices and Performance Tuning for Production Workloads]]></title>
         <id>https://collabnix.com/?p=42398</id>
@@ -6524,37 +6567,6 @@ The post NAS vs Virtual SAN vs Ceph: What’s the Best Storage for Your Home Lab
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Home Lab Security: 5 Threats You’re Not Watching (But Should Be)]]></title>
-        <id>https://www.virtualizationhowto.com/?p=300738</id>
-        <link href="https://www.virtualizationhowto.com/2025/04/home-lab-security-5-threats-youre-not-watching-but-should-be/"/>
-        <updated>2025-04-24T14:20:24.000Z</updated>
-        <summary type="html"><![CDATA[Running your home lab is a tremendously good resource for learning. It allows you to get your hands on many different technologies and experiment with these in a way that would not be possible otherwise. However, Most who spin up a home lab will focus on the functionality aspect of the lab or the performance …
-The post Home Lab Security: 5 Threats You’re Not Watching (But Should Be) appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here’s How to Optimize Growth in the Utility Industry]]></title>
-        <id>https://collabnix.com/?p=31789</id>
-        <link href="https://collabnix.com/heres-how-to-optimize-growth-in-the-utility-industry/"/>
-        <updated>2025-04-24T11:40:34.000Z</updated>
-        <summary type="html"><![CDATA[Utility businesses offer a wide array of services, including natural gas distribution, power generation and supply, water supply, sewage, and recycling. Like other sectors, utility firms are also facing challenges thanks to various issues like changing business environments, technology trends, and others. Owning a utility firm and wondering how you can optimize its growth and […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BinPay虚拟卡上手指南，支持OpenAI/ChatGPT]]></title>
-        <id>https://blog.xiaoz.org/?p=21965</id>
-        <link href="https://blog.xiaoz.org/archives/21965"/>
-        <updated>2025-04-24T04:27:08.000Z</updated>
-        <summary type="html"><![CDATA[最近博主又发现一个虚拟卡钱包BinPay，注册和使用门槛低，支持绑定PayPal / Google Play，也支持OpenAI/ChatGPT等场景，如果您有境外支付场景需求，可以试一试BinPay。门槛邮箱或手机号KYC：身份证、护照、驾照任意一种注册BinPayBinPay专属邀请地址：htt]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[请求为什么超时了？答案和解析]]></title>
         <id>https://www.kawabangga.com/?p=6969</id>
         <link href="https://www.kawabangga.com/posts/6969"/>
@@ -6563,18 +6575,6 @@ The post Home Lab Security: 5 Threats You’re Not Watching (But Should Be) appe
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在银河麒麟桌面操作系统 ARM 版上安装 KVM 虚拟化]]></title>
-        <id>https://dusays.com/822/</id>
-        <link href="https://dusays.com/822/"/>
-        <updated>2025-04-23T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>KVM 是一种开源全虚拟化解决方案，能够在 Linux 系统运行多个操作系统。本文将详细介绍如何在银河麒麟桌面操作系统 ARM 版安装 KVM 虚拟化环境，帮助用户搭建高效的虚拟化平台。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
         </author>
     </entry>
     <entry>
