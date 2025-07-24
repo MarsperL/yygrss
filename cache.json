@@ -303,6 +303,16 @@
       "siteUrl": "https://lawtee.com/",
       "articles": [
         {
+          "id": "https://lawtee.com/article/add-live-talking-page-for-static-blog/",
+          "author": null,
+          "description": "静态博客添加说说或朋友圈页面，是一个老生常谈的话题了，以往很多方法要么搭建起来麻烦，要么用起来麻烦，为彻底解决这个问题，我今天试了下使用 Github Issue 来搭建，只需要简单两步，即可搭建一个能够即时动态更新的说说页面。\n主要原理\n\n使用 Github issue 作为说说内容发布平台，通过在静态博客上新建页面引用 Github issue 内容，实现页面发布。使用 Github Action 跟踪 issue 变化情况，在有变动时触发博客页面更新。\n优点：\n基于 Github 搭建，操作简单，维护容易。不懂的直接找 AI ，100% 都能解决。\nGithub 提供手机 APP ，可以将 issue 作为快捷方式添加到桌面进行快速操作，跟微信发朋友圈没啥区别。\n内容安全可控，随时可迁移，没有容量焦虑，理论上可发布内容数量无上限。\n缺点：暂时没有想到。\n搭建方法\n\n在博客模板中新建一个说说页面\n\n例如，Hugo 可以在 layouts 文件夹中新建一个 monents.html 之类文件名的文件，使用 resources.GetRemote 远程获取你想要将说说页面。一般是 https://api.github.com/repos/microsoft/vscode/issues/519/comments 这种格式链接。\n复制一个博客上的静态页面模板内容，适当修改，完成必要的主题设置。\n示例：\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n\n\n\n{{ define \"main\" }}\n<article class=\"main-article\">\n\n\n {{ $u…",
+          "link": "https://lawtee.com/article/add-live-talking-page-for-static-blog/",
+          "publishedOn": "2025-07-18T09:00:00.000Z",
+          "wordCount": 495,
+          "title": "只需 2 步简单操作，一劳永逸解决静态博客添加朋友圈、说说之类的功能",
+          "imageUrl": "https://lawtee.com/article/add-live-talking-page-for-static-blog/0.webp"
+        },
+        {
           "id": "https://lawtee.com/article/about-education/",
           "author": null,
           "description": "我儿子今年 9 月准备上小学了。之前，我对教育这事并没有太放心上，直到最近才系统研究一下当前中小学教育问题，过程中咨询了很多朋友，了解到不少内情，对小孩未来教育问题也有了些粗糙的看法。\n关于择校\n\n3 年前，我女儿上小学前，我曾经简单研究了一下本地中小学教育情况。\n跨区求学者多\n\n由于我所在的区域，基础教育水平比较差。此前本地家长中但凡有能力者，大多是选择在隔壁区买房入户，然后入学。\n但这种距离通常都在 30 公里以上，少点的也有 20 来公里。\n如果不是时间非常充裕，普通家庭很难选择这种方案，并且，这些学区房通常价格也要比本地贵不少。\n实际上，正是因为这些舍得在教育上投入资源的家长纷纷跨区求学，导致本地头部教育资源大量外流，一定程度上造成基础教育质量很难提升上去。\n毕竟，教育本身还是个学校和家庭相互成就的事情，如果能力强的家庭都将小孩送出去读书，那剩下在本地读书的小孩，确实环境也要差一些。\n本地公办教育质量堪忧\n\n我多方对比咨询了不少教育界的朋友。大家普遍反映是本地公办中小学教育教学水平不高，相比市内某些区，平均水平差距巨大。\n集中反映的一个问题是，本地教师大多习惯性“躺平”，对教育教学信心不足，反正都是公办教师，教好教坏一个样，很多教师子女也不在本地就读，相当于整个体系在“摆烂”。\n但这个观点也不是很客观，事实上，我了解到目前本地教育政策，总体上是倾向于把教师子女留在本地就读的，但只是局限在最近几年出台政策后的教师子女身上。如果这一点都做不到，那这种“摆烂”就是真没救了。\n本地民办教育有一定改善\n\n令我十分诧异的是，本地在 2015 年之前，基本没有民办中小学。唯一一所挂名民办学校的，本身还是公办民助性质的，即学校由政府建设，教师是公办教师，只是参照民办学校管理，学费按照民办模式收取，后来这所学校也改为了纯公办。\n在民办学校部分，2015 年之后，本地在房地产上行阶段，…",
@@ -451,16 +461,6 @@
           "wordCount": 105,
           "title": "五一假期的一起本不该发生的交通事故",
           "imageUrl": "https://lawtee.com/article/another-traffic-accident/0.webp"
-        },
-        {
-          "id": "https://lawtee.com/article/living-for-life/",
-          "author": null,
-          "description": "最近一个月仿佛无所事事，但又感觉时间总是不够用。一天到头也不知道在忙啥，说不出个所以然，简单记个流水账试下。\n简单流水账\n\n对口帮扶的村长去世了\n\n4月1日，去到村中，才发现对口帮扶的村长在一个多星期前因为干农活时被毒蛇咬伤，医治未果去世。这事让我感觉很受教训，这些天但凡外出都是眼睛死死盯着地面。特别是每天晚上去接小孩放学前，我都会提前一个多小时在学校附近的旅游度假区散步，夜间灯光昏暗，周边都是山体，搞得紧张兮兮的。\n另外我也查找了一下，发现微信上有很多抗蛇毒血清医院的详细信息，但基本都是一个县区只有一家医院有储备，而且可能不一定齐全。\n\n高校依然有点遗世独立\n\n最近个把月几次陪省内几个高校教授、院长考察、调研，面对现实的紧张氛围与越来越严肃的风气，他们依然显得比较乐观。在陪同两个教授去一个工业园区调研时，我们误入另一个外资企业园区，一进去就发现别有洞天，这些高标准的工业园，真是太令人惊艳，但想没想教授突然来一句：“都是劳民伤财的面子工程” ；在参加一个较为严肃的会议时，主办方将嘉宾发言材料提前发给了我们，其中一个教授的发言材料让我看了忍俊不禁，发言材料完全按照口语书写，一些语气词、助词、辅助表达的口语全都一字不落地写在了发言稿上，然后照着读还能把一些语气词给读歪；在私下跟一个法学院教授聊天时，我提到关于涉外法治斗争的一些事情，教授明显对这个问题很抵触，说某某某只会瞎搞，应该尽早取消某个机构之类的。\n\n开始新一届小学报名\n\n我家老二今年9月要读小学，在幼儿园班主任多次催促下，先暂且报了一下公办学校，民办的报名还要迟一段时间才开始。今年的学区划分又与以往有些差异，我家原来分配的学区比较差，但今年一看居然变好了。不过，我这几年对公办小学的印象真是太差了，不管是教学水平、教师责任心态、学校管理效果，都并不是很看好。哪怕是号称最好的那几所需要全体学生参与抽奖才能上的学校，也没觉得有…",
-          "link": "https://lawtee.com/article/living-for-life/",
-          "publishedOn": "2025-04-16T03:00:00.000Z",
-          "wordCount": 101,
-          "title": "被裹挟前进的人生",
-          "imageUrl": "https://lawtee.com/article/living-for-life/00.webp"
         }
       ]
     },
@@ -1098,6 +1098,16 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://nops.icu/archives/218/",
+          "author": "季兴",
+          "description": "日常工作会碰到众多文字汇报，如周报、事故贴、分析报告等。本质是填充内容到制式文档中联想场景：每周从任务系统中查看、汇总任务进展形成周报，记录在钉文档中在繁杂的事故后总结，人员发言、故障截图、日志...",
+          "link": "https://nops.icu/archives/218/",
+          "publishedOn": "2025-07-23T07:25:00.000Z",
+          "wordCount": 690,
+          "title": "AIOps提效--风格化报表自动生成",
+          "imageUrl": null
+        },
+        {
           "id": "https://nops.icu/archives/213/",
           "author": "季兴",
           "description": "写技术文档一直是挺花时间，也挺头疼的一项任务。更头疼的是还要配图！先看效果（推荐手机端观看，可放大）：画的还是有模有样，看步骤cursor或chatbox添加mermaid MCPMCP添加方式...",
@@ -1265,6 +1275,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=301897",
+          "author": "Brandon Lee",
+          "description": "Wow, I feel like I can’t keep up with all the awesome tools that are out there. With the explosion of AI and AI-driven workflows, there has been a flurry of activity on this front with Dev tools that absolutely will take your game to the next level. I want to introduce the community to …\nThe post 5 Must-Have Coding Tools to Supercharge Your Home Lab Workflow appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/07/5-must-have-coding-tools-to-supercharge-your-home-lab-workflow/",
+          "publishedOn": "2025-07-23T12:24:24.000Z",
+          "wordCount": 10064,
+          "title": "5 Must-Have Coding Tools to Supercharge Your Home Lab Workflow",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/07/5-home-lab-coding-tools.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=301884",
           "author": "Brandon Lee",
@@ -1824,16 +1844,6 @@
           "wordCount": 12278,
           "title": "Spring Cleaning Your Home Lab with 5 Ways to Optimize and Save Resources",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/04/Spring-Cleaning-your-home-lab.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=300758",
-          "author": "Brandon Lee",
-          "description": "One of the critical design decisions that you have with a home lab is storage. There are many great options available. And, depending on a few things, like which hypervisor you use, you can choose from a wide range of technologies. Let’s take a look at three storage technologies: NAS vs Virtual SAN vs Ceph …\nThe post NAS vs Virtual SAN vs Ceph: What’s the Best Storage for Your Home Lab? appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/04/nas-vs-virtual-san-vs-ceph-whats-the-best-storage-for-your-home-lab/",
-          "publishedOn": "2025-04-25T12:48:21.000Z",
-          "wordCount": 11849,
-          "title": "NAS vs Virtual SAN vs Ceph: What’s the Best Storage for Your Home Lab?",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/04/nas-vs-virtual-san-vs-ceph-size.png"
         }
       ]
     },
@@ -3568,6 +3578,16 @@
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
         {
+          "id": "https://dusays.com/818/",
+          "author": null,
+          "description": "<blockquote>\n<p>在信息爆炸的时代，思维导图已经成为高效整理知识、梳理思路必备工具。而 SimpleMindMap 作为一款强大的 Web 思维导图工具，凭借其独特的魅力，正吸引着越来越多用户目光。</p>\n</blockquote>",
+          "link": "https://dusays.com/818/",
+          "publishedOn": "2025-07-23T16:00:00.000Z",
+          "wordCount": 429,
+          "title": "SimpleMindMap 开启思维可视化之旅",
+          "imageUrl": "https://cdn.dusays.com/avatar.png"
+        },
+        {
           "id": "https://dusays.com/817/",
           "author": null,
           "description": "<blockquote>\n<p>Logseq 以其出色的知识管理能力、便捷协作功能、强大的隐私保护以及灵活的可扩展性，成为了日常学习和工作中不可或缺的工具。不仅帮助高效地记录和整理知识，还激发了创造力和思考能力。</p>\n</blockquote>",
@@ -3836,16 +3856,6 @@
           "wordCount": 1331,
           "title": "探索扣子空间：开启 AI 协作办公新时代",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/803/",
-          "author": null,
-          "description": "<blockquote>\n<p>有小伙伴说杜老师说侧边栏随机图片素材太少，翻来覆去只有那么几张。为了充实随机图片，杜老师采集了一个图片网站。奈何能力有限，某些图片采集失败，保存为空文件，所以需要编写一个脚本，来验证图片是否为正常。</p>\n</blockquote>",
-          "link": "https://dusays.com/803/",
-          "publishedOn": "2025-04-24T16:00:00.000Z",
-          "wordCount": 471,
-          "title": "使用 Python 脚本验证指定目录的图片文件",
-          "imageUrl": "https://cdn.dusays.com/avatar.png"
         }
       ]
     },
@@ -4429,26 +4439,6 @@
           "wordCount": 269,
           "title": "牛逼，这款高颜值SSH客户端Ishell Pro值得一试",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=21978",
-          "author": "xiaoz",
-          "description": "OneNav是由xiaoz开发的一款高效浏览器书签管理工具，可以将浏览器书签集中式管理，完美解决跨设备、跨平台、跨浏览器的同步与访问难题，一处部署、随处访问。OneNav提供多种安装方法，最常见的就是Docker部署，这篇文章分享下如何在飞牛NAS系统上搭建OneNav导航页，帮助你高效管理浏览器书",
-          "link": "https://blog.xiaoz.org/archives/21978",
-          "publishedOn": "2025-04-25T09:22:49.000Z",
-          "wordCount": 250,
-          "title": "用飞牛自建OneNav导航页，简单又高效的管理浏览器书签",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=21976",
-          "author": "xiaoz",
-          "description": "随着人工智能技术的飞速发展，ChatGPT已成为全球最受欢迎的AI工具。然而，国内用户在订阅ChatGPT Plus时，往往面临一个关键问题：如何支付ChatGPT Plus的订阅费用？特别是对于没有海外信用卡的用户来说，直接订阅ChatGPT Plus并不容易。许多国内用户正是因为缺乏海外信用卡，",
-          "link": "https://blog.xiaoz.org/archives/21976",
-          "publishedOn": "2025-04-25T08:24:54.000Z",
-          "wordCount": null,
-          "title": "星际放映厅——靠谱稳定的ChatGPT Plus代充平台",
-          "imageUrl": null
         }
       ]
     },
@@ -4474,6 +4464,16 @@
       "feedUrl": "https://www.txisfine.cn/atom.xml",
       "siteUrl": "https://www.txisfine.cn/atom.xml",
       "articles": [
+        {
+          "id": "https://www.txisfine.cn/archives/d6fbb673.html",
+          "author": null,
+          "description": "<p>迟来的更新，祝各位 7.24 运维节快乐～</p>\n<hr>\n<p><img src=\"https://static.txblog.110289.xyz/upload/20250723234931.png\" alt=\"CNB.COOL\"></p>\n<p>腾讯云推出的云原生构",
+          "link": "https://www.txisfine.cn/archives/d6fbb673.html",
+          "publishedOn": "2025-07-23T15:34:58.000Z",
+          "wordCount": 1329,
+          "title": "在 CNB.COOL 构建龙芯平台 Docker 镜像",
+          "imageUrl": "https://static.txblog.110289.xyz/upload/20250724001729.png"
+        },
         {
           "id": "https://www.txisfine.cn/archives/a6cede2d.html",
           "author": null,

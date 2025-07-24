@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-07-23T02:23:25.205Z</updated>
+    <updated>2025-07-24T02:22:35.273Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SimpleMindMap 开启思维可视化之旅]]></title>
+        <id>https://dusays.com/818/</id>
+        <link href="https://dusays.com/818/"/>
+        <updated>2025-07-23T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>在信息爆炸的时代，思维导图已经成为高效整理知识、梳理思路必备工具。而 SimpleMindMap 作为一款强大的 Web 思维导图工具，凭借其独特的魅力，正吸引着越来越多用户目光。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 CNB.COOL 构建龙芯平台 Docker 镜像]]></title>
+        <id>https://www.txisfine.cn/archives/d6fbb673.html</id>
+        <link href="https://www.txisfine.cn/archives/d6fbb673.html"/>
+        <updated>2025-07-23T15:34:58.000Z</updated>
+        <summary type="html"><![CDATA[<p>迟来的更新，祝各位 7.24 运维节快乐～</p>
+<hr>
+<p><img src="https://static.txblog.110289.xyz/upload/20250723234931.png" alt="CNB.COOL"></p>
+<p>腾讯云推出的云原生构]]></summary>
+        <author>
+            <name>弹霄博科</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Must-Have Coding Tools to Supercharge Your Home Lab Workflow]]></title>
+        <id>https://www.virtualizationhowto.com/?p=301897</id>
+        <link href="https://www.virtualizationhowto.com/2025/07/5-must-have-coding-tools-to-supercharge-your-home-lab-workflow/"/>
+        <updated>2025-07-23T12:24:24.000Z</updated>
+        <summary type="html"><![CDATA[Wow, I feel like I can’t keep up with all the awesome tools that are out there. With the explosion of AI and AI-driven workflows, there has been a flurry of activity on this front with Dev tools that absolutely will take your game to the next level. I want to introduce the community to …
+The post 5 Must-Have Coding Tools to Supercharge Your Home Lab Workflow appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIOps提效--风格化报表自动生成]]></title>
+        <id>https://nops.icu/archives/218/</id>
+        <link href="https://nops.icu/archives/218/"/>
+        <updated>2025-07-23T07:25:00.000Z</updated>
+        <summary type="html"><![CDATA[日常工作会碰到众多文字汇报，如周报、事故贴、分析报告等。本质是填充内容到制式文档中联想场景：每周从任务系统中查看、汇总任务进展形成周报，记录在钉文档中在繁杂的事故后总结，人员发言、故障截图、日志...]]></summary>
+        <author>
+            <name>季兴</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Home Assistant Docker Compose Design Decisions: Networking, Storage, Backups]]></title>
         <id>https://www.virtualizationhowto.com/?p=301884</id>
@@ -175,6 +221,84 @@ The post 15 Weekend-Ready Ansible Playbooks for Your Home Lab appeared first on 
         <summary type="html"><![CDATA[MCP Server Tutorial: Build with TypeScript from Scratch Building a Model Context Protocol (MCP) server with TypeScript has become increasingly important for developers working with AI applications. This comprehensive guide will walk you through creating a production-ready MCP server from the ground up, complete with working code examples and best practices. What is MCP and […]]]></summary>
         <author>
             <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[只需 2 步简单操作，一劳永逸解决静态博客添加朋友圈、说说之类的功能]]></title>
+        <id>https://lawtee.com/article/add-live-talking-page-for-static-blog/</id>
+        <link href="https://lawtee.com/article/add-live-talking-page-for-static-blog/"/>
+        <updated>2025-07-18T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[静态博客添加说说或朋友圈页面，是一个老生常谈的话题了，以往很多方法要么搭建起来麻烦，要么用起来麻烦，为彻底解决这个问题，我今天试了下使用 Github Issue 来搭建，只需要简单两步，即可搭建一个能够即时动态更新的说说页面。
+主要原理
+
+使用 Github issue 作为说说内容发布平台，通过在静态博客上新建页面引用 Github issue 内容，实现页面发布。使用 Github Action 跟踪 issue 变化情况，在有变动时触发博客页面更新。
+优点：
+基于 Github 搭建，操作简单，维护容易。不懂的直接找 AI ，100% 都能解决。
+Github 提供手机 APP ，可以将 issue 作为快捷方式添加到桌面进行快速操作，跟微信发朋友圈没啥区别。
+内容安全可控，随时可迁移，没有容量焦虑，理论上可发布内容数量无上限。
+缺点：暂时没有想到。
+搭建方法
+
+在博客模板中新建一个说说页面
+
+例如，Hugo 可以在 layouts 文件夹中新建一个 monents.html 之类文件名的文件，使用 resources.GetRemote 远程获取你想要将说说页面。一般是 https://api.github.com/repos/microsoft/vscode/issues/519/comments 这种格式链接。
+复制一个博客上的静态页面模板内容，适当修改，完成必要的主题设置。
+示例：
+
+
+
+ 1
+ 2
+ 3
+ 4
+ 5
+ 6
+ 7
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+
+
+
+{{ define "main" }}
+<article class="main-article">
+
+
+ {{ $u…]]></summary>
+        <author>
+            <name>法律小茶馆</name>
         </author>
     </entry>
     <entry>
@@ -6524,49 +6648,6 @@ The post Spring Cleaning Your Home Lab with 5 Ways to Optimize and Save Resource
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NAS vs Virtual SAN vs Ceph: What’s the Best Storage for Your Home Lab?]]></title>
-        <id>https://www.virtualizationhowto.com/?p=300758</id>
-        <link href="https://www.virtualizationhowto.com/2025/04/nas-vs-virtual-san-vs-ceph-whats-the-best-storage-for-your-home-lab/"/>
-        <updated>2025-04-25T12:48:21.000Z</updated>
-        <summary type="html"><![CDATA[One of the critical design decisions that you have with a home lab is storage. There are many great options available. And, depending on a few things, like which hypervisor you use, you can choose from a wide range of technologies. Let’s take a look at three storage technologies: NAS vs Virtual SAN vs Ceph …
-The post NAS vs Virtual SAN vs Ceph: What’s the Best Storage for Your Home Lab? appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用飞牛自建OneNav导航页，简单又高效的管理浏览器书签]]></title>
-        <id>https://blog.xiaoz.org/?p=21978</id>
-        <link href="https://blog.xiaoz.org/archives/21978"/>
-        <updated>2025-04-25T09:22:49.000Z</updated>
-        <summary type="html"><![CDATA[OneNav是由xiaoz开发的一款高效浏览器书签管理工具，可以将浏览器书签集中式管理，完美解决跨设备、跨平台、跨浏览器的同步与访问难题，一处部署、随处访问。OneNav提供多种安装方法，最常见的就是Docker部署，这篇文章分享下如何在飞牛NAS系统上搭建OneNav导航页，帮助你高效管理浏览器书]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[星际放映厅——靠谱稳定的ChatGPT Plus代充平台]]></title>
-        <id>https://blog.xiaoz.org/?p=21976</id>
-        <link href="https://blog.xiaoz.org/archives/21976"/>
-        <updated>2025-04-25T08:24:54.000Z</updated>
-        <summary type="html"><![CDATA[随着人工智能技术的飞速发展，ChatGPT已成为全球最受欢迎的AI工具。然而，国内用户在订阅ChatGPT Plus时，往往面临一个关键问题：如何支付ChatGPT Plus的订阅费用？特别是对于没有海外信用卡的用户来说，直接订阅ChatGPT Plus并不容易。许多国内用户正是因为缺乏海外信用卡，]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 Python 脚本验证指定目录的图片文件]]></title>
-        <id>https://dusays.com/803/</id>
-        <link href="https://dusays.com/803/"/>
-        <updated>2025-04-24T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>有小伙伴说杜老师说侧边栏随机图片素材太少，翻来覆去只有那么几张。为了充实随机图片，杜老师采集了一个图片网站。奈何能力有限，某些图片采集失败，保存为空文件，所以需要编写一个脚本，来验证图片是否为正常。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[请求为什么超时了？答案和解析]]></title>
         <id>https://www.kawabangga.com/?p=6969</id>
         <link href="https://www.kawabangga.com/posts/6969"/>
@@ -6626,30 +6707,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[23年的时候分享了在使用的广电福兔卡，当时觉得还挺香的，最近突然收到一条短信，说我流量只剩下十几个G了，我竟感到不可思议，因为我这张每个月有192G，这还不算上月结余的，正常使用的情况下，不可能...]]></summary>
         <author>
             <name>满心</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[被裹挟前进的人生]]></title>
-        <id>https://lawtee.com/article/living-for-life/</id>
-        <link href="https://lawtee.com/article/living-for-life/"/>
-        <updated>2025-04-16T03:00:00.000Z</updated>
-        <summary type="html"><![CDATA[最近一个月仿佛无所事事，但又感觉时间总是不够用。一天到头也不知道在忙啥，说不出个所以然，简单记个流水账试下。
-简单流水账
-
-对口帮扶的村长去世了
-
-4月1日，去到村中，才发现对口帮扶的村长在一个多星期前因为干农活时被毒蛇咬伤，医治未果去世。这事让我感觉很受教训，这些天但凡外出都是眼睛死死盯着地面。特别是每天晚上去接小孩放学前，我都会提前一个多小时在学校附近的旅游度假区散步，夜间灯光昏暗，周边都是山体，搞得紧张兮兮的。
-另外我也查找了一下，发现微信上有很多抗蛇毒血清医院的详细信息，但基本都是一个县区只有一家医院有储备，而且可能不一定齐全。
-
-高校依然有点遗世独立
-
-最近个把月几次陪省内几个高校教授、院长考察、调研，面对现实的紧张氛围与越来越严肃的风气，他们依然显得比较乐观。在陪同两个教授去一个工业园区调研时，我们误入另一个外资企业园区，一进去就发现别有洞天，这些高标准的工业园，真是太令人惊艳，但想没想教授突然来一句：“都是劳民伤财的面子工程” ；在参加一个较为严肃的会议时，主办方将嘉宾发言材料提前发给了我们，其中一个教授的发言材料让我看了忍俊不禁，发言材料完全按照口语书写，一些语气词、助词、辅助表达的口语全都一字不落地写在了发言稿上，然后照着读还能把一些语气词给读歪；在私下跟一个法学院教授聊天时，我提到关于涉外法治斗争的一些事情，教授明显对这个问题很抵触，说某某某只会瞎搞，应该尽早取消某个机构之类的。
-
-开始新一届小学报名
-
-我家老二今年9月要读小学，在幼儿园班主任多次催促下，先暂且报了一下公办学校，民办的报名还要迟一段时间才开始。今年的学区划分又与以往有些差异，我家原来分配的学区比较差，但今年一看居然变好了。不过，我这几年对公办小学的印象真是太差了，不管是教学水平、教师责任心态、学校管理效果，都并不是很看好。哪怕是号称最好的那几所需要全体学生参与抽奖才能上的学校，也没觉得有…]]></summary>
-        <author>
-            <name>法律小茶馆</name>
         </author>
     </entry>
     <entry>
