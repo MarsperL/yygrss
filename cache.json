@@ -533,21 +533,6 @@
             "length": "0"
           },
           "imageUrl": "https://srebro.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https%3A%2F%2Fs3api.srebro.cn%3A443%2Fpicgo%2F202505072114725.png&size=m"
-        },
-        {
-          "id": "/archives/1745596430631",
-          "author": "运维小弟",
-          "description": "在Nginx 中为页面配置用户名密码认证 1. 安装 htpasswd 工具 生成密码文件的工具 htpasswd 位于 Apache 工具包中，按系统安装： # Debian/Ubuntu 系统 sudo apt-get install apache2-utils # CentOS/RHEL 系",
-          "link": "https://srebro.cn/archives/1745596430631",
-          "publishedOn": "2025-04-25T15:54:25.000Z",
-          "wordCount": null,
-          "title": "Nginx 中页面配置用户名密码认证",
-          "enclosure": {
-            "url": "https://srebro.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https%3A%2F%2Fs3api.srebro.cn%3A443%2Fpicgo%2F202504252352615.png&size=m",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "https://srebro.cn/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https%3A%2F%2Fs3api.srebro.cn%3A443%2Fpicgo%2F202504252352615.png&size=m"
         }
       ]
     },
@@ -1276,6 +1261,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=301913",
+          "author": "Brandon Lee",
+          "description": "Create chaos in our home labs, on purpose? Is that a crazy idea? Well, it could be, but if you are into platform engineering and SRE type skills and want to do the same thing that Netflix, Google, and others have done to improve their environments, you may want to introduce chaos engineering. What is …\nThe post Home Lab Chaos Engineering Unleashed with LitmusChaos appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/07/home-lab-chaos-engineering-unleashed-with-litmuschaos/",
+          "publishedOn": "2025-07-24T14:58:27.000Z",
+          "wordCount": 10960,
+          "title": "Home Lab Chaos Engineering Unleashed with LitmusChaos",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/07/Home-Lab-Chaos-Monkey.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=301897",
           "author": "Brandon Lee",
           "description": "Wow, I feel like I can’t keep up with all the awesome tools that are out there. With the explosion of AI and AI-driven workflows, there has been a flurry of activity on this front with Dev tools that absolutely will take your game to the next level. I want to introduce the community to …\nThe post 5 Must-Have Coding Tools to Supercharge Your Home Lab Workflow appeared first on Virtualization Howto.",
@@ -1852,6 +1847,36 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=42626",
+          "author": "Collabnix Team",
+          "description": "Learn how to install and optimize DeepSeek-R1 with Ollama in 2025. Complete technical guide covering GPU setup, memory optimization, benchmarking, and production deployment strategies.",
+          "link": "https://collabnix.com/deepseek-r1-setup-with-ollama-complete-2025-technical-installation-guide/",
+          "publishedOn": "2025-07-23T12:02:04.000Z",
+          "wordCount": 5829,
+          "title": "DeepSeek R1 Setup: Complete 2025 Installation Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=42525",
+          "author": "Tanvir Kour",
+          "description": "As a professional deeply involved in software development and operations, I’ve always been fascinated by how automation reshapes industries. Recently, I’ve noticed a growing trend where DevOps principles are extending beyond IT into more traditional sectors. Take tree care companies, for example. A few years ago, the idea of using a tree service CRM to […]",
+          "link": "https://collabnix.com/from-devops-to-greenops-automating-workflows-beyond-it/",
+          "publishedOn": "2025-07-23T07:41:06.000Z",
+          "wordCount": null,
+          "title": "From DevOps to GreenOps: Automating Workflows Beyond IT",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=42522",
+          "author": "Tanvir Kour",
+          "description": "Containerized workflows use lightweight, self-contained environments to run applications consistently across different systems. Each container includes all necessary dependencies, libraries, and configurations, ensuring the application works seamlessly whether in development or production. Think of it as packing everything an app needs into a portable box that runs anywhere. Containers streamline deployments by reducing compatibility issues […]",
+          "link": "https://collabnix.com/7-communication-bottlenecks-to-eliminate-in-containerized-workflows/",
+          "publishedOn": "2025-07-23T07:35:32.000Z",
+          "wordCount": null,
+          "title": "7 Communication Bottlenecks to Eliminate in Containerized Workflows",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=42446",
           "author": "Tanvir Kour",
@@ -2730,26 +2755,6 @@
           "publishedOn": "2025-04-26T16:35:39.000Z",
           "wordCount": null,
           "title": "What is Model Context Protocol: A Technical Deep Dive",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=31802",
-          "author": "Tanvir Kour",
-          "description": "In 2015, Jake was a 24-year-old sales rep with nothing but a Gmail account and a dream. He sent hundreds of cold emails, most of which went straight to spam or never got opened. He had no tools, no tracking, and no real strategy. Fast forward to 2025, and Jake is now the head of […]",
-          "link": "https://collabnix.com/is-cold-email-still-effective-in-2025/",
-          "publishedOn": "2025-04-25T15:37:50.000Z",
-          "wordCount": 3056,
-          "title": "Is Cold Email Still Effective in 2025?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=31798",
-          "author": "Tanvir Kour",
-          "description": "Find out 3 effective ways to convert WMV to MOV – from online services to professional software, including Movavi Video Converter. Comparison, tips and useful facts.",
-          "link": "https://collabnix.com/3-methods-to-convert-wmv-to-mov-reliable-solutions-for-different-tasks/",
-          "publishedOn": "2025-04-25T14:17:27.000Z",
-          "wordCount": null,
-          "title": "3 Methods To Convert WMV To MOV: Reliable Solutions For Different Tasks",
           "imageUrl": null
         }
       ]
