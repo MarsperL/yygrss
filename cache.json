@@ -816,6 +816,16 @@
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
         {
+          "id": "https://jimmysong.io/blog/ai-coding-and-vibe-tools-research/",
+          "author": "Jimmy Song",
+          "description": "本文详细分析了当前主流的 AI 编程工具和氛围编程平台，包括 IDE 类、CLI 类和应用生成平台三大类别，帮助开发者选择合适的工具。",
+          "link": "https://jimmysong.io/blog/ai-coding-and-vibe-tools-research/",
+          "publishedOn": "2025-07-25T04:00:00.000Z",
+          "wordCount": 1725,
+          "title": "当前 AI 编程与氛围编程工具研究报告",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.webp"
+        },
+        {
           "id": "https://jimmysong.io/blog/ni-xing-ni-shang-review/",
           "author": "Jimmy Song",
           "description": "姜文沉寂七年之后推出新片《你行，你上》，看似是钢琴神童郎朗的奋斗史，实则是一场关于父权、教育焦虑、文化身份的集体隐喻。",
@@ -1260,6 +1270,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=301957",
+          "author": "Brandon Lee",
+          "description": "I am a huge advocate of project-based learning and I think a little extra time on the weekend if you have a few minutes or a couple of hours in the home lab can pay out huge rewards in terms of learning and taking your lab to the next level. However, sometimes we get stuck …\nThe post 5 Proxmox Projects to Level Up Your Home Lab This Weekend appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/07/5-proxmox-projects-to-level-up-your-home-lab-this-weekend/",
+          "publishedOn": "2025-07-25T12:41:14.000Z",
+          "wordCount": 9815,
+          "title": "5 Proxmox Projects to Level Up Your Home Lab This Weekend",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/07/5-proxmox-home-lab-projects.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=301913",
           "author": "Brandon Lee",
@@ -2746,16 +2766,6 @@
           "wordCount": null,
           "title": "The New MCP Authorization Specification: Simplifying AI Security Through Standardization",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=31806",
-          "author": "Collabnix Team",
-          "description": "Model Context Protocol (MCP) represents a significant advancement in connecting AI models with the external world. As large language models (LLMs) like Claude and GPT continue to evolve, their isolation from real-world data sources and tools has become an increasingly limiting factor. MCP addresses this challenge by providing a standardized way for AI systems to […]",
-          "link": "https://collabnix.com/what-is-model-context-protocol-a-technical-deep-dive/",
-          "publishedOn": "2025-04-26T16:35:39.000Z",
-          "wordCount": null,
-          "title": "What is Model Context Protocol: A Technical Deep Dive",
-          "imageUrl": null
         }
       ]
     },
@@ -3851,16 +3861,6 @@
           "wordCount": 1279,
           "title": "合肥游记「多图预警」",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/823/",
-          "author": null,
-          "description": "<blockquote>\n<p>当今数字化浪潮中，人工智能正以前所未有的速度改变着我们的工作和生活方式。字节跳动于 2025 年 4 月 19 日推出的通用型 AI Agent 平台，无疑是这一变革中一颗璀璨新星，为我们带来了全新的 AI 协作办公体验。</p>\n</blockquote>",
-          "link": "https://dusays.com/823/",
-          "publishedOn": "2025-04-26T16:00:00.000Z",
-          "wordCount": 1331,
-          "title": "探索扣子空间：开启 AI 协作办公新时代",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
     },
@@ -4215,6 +4215,16 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=22248",
+          "author": "xiaoz",
+          "description": "私有对象存储用得比较多的大概是MinIO了，但最近xiaoz在网上看到MinIO新版本删减了WEB控制台功能，且修改了License，最新版本的MinIO商业使用可能存在风险，这时候一般有两种选择：继续使用旧版本MinIO：minio/minio:RELEASE.2022-05-26T05-48-4",
+          "link": "https://blog.xiaoz.org/archives/22248",
+          "publishedOn": "2025-07-25T03:00:01.000Z",
+          "wordCount": 309,
+          "title": "MinIO替代品：使用Docker轻松部署RustFS高性能对象存储服务",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=22233",
           "author": "xiaoz",

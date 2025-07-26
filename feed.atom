@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-07-25T02:22:06.410Z</updated>
+    <updated>2025-07-26T02:12:25.092Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 Proxmox Projects to Level Up Your Home Lab This Weekend]]></title>
+        <id>https://www.virtualizationhowto.com/?p=301957</id>
+        <link href="https://www.virtualizationhowto.com/2025/07/5-proxmox-projects-to-level-up-your-home-lab-this-weekend/"/>
+        <updated>2025-07-25T12:41:14.000Z</updated>
+        <summary type="html"><![CDATA[I am a huge advocate of project-based learning and I think a little extra time on the weekend if you have a few minutes or a couple of hours in the home lab can pay out huge rewards in terms of learning and taking your lab to the next level. However, sometimes we get stuck …
+The post 5 Proxmox Projects to Level Up Your Home Lab This Weekend appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[当前 AI 编程与氛围编程工具研究报告]]></title>
+        <id>https://jimmysong.io/blog/ai-coding-and-vibe-tools-research/</id>
+        <link href="https://jimmysong.io/blog/ai-coding-and-vibe-tools-research/"/>
+        <updated>2025-07-25T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[本文详细分析了当前主流的 AI 编程工具和氛围编程平台，包括 IDE 类、CLI 类和应用生成平台三大类别，帮助开发者选择合适的工具。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MinIO替代品：使用Docker轻松部署RustFS高性能对象存储服务]]></title>
+        <id>https://blog.xiaoz.org/?p=22248</id>
+        <link href="https://blog.xiaoz.org/archives/22248"/>
+        <updated>2025-07-25T03:00:01.000Z</updated>
+        <summary type="html"><![CDATA[私有对象存储用得比较多的大概是MinIO了，但最近xiaoz在网上看到MinIO新版本删减了WEB控制台功能，且修改了License，最新版本的MinIO商业使用可能存在风险，这时候一般有两种选择：继续使用旧版本MinIO：minio/minio:RELEASE.2022-05-26T05-48-4]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Home Lab Chaos Engineering Unleashed with LitmusChaos]]></title>
         <id>https://www.virtualizationhowto.com/?p=301913</id>
@@ -6624,28 +6655,6 @@ The post Spring Cleaning Your Home Lab with 5 Ways to Optimize and Save Resource
         <summary type="html"><![CDATA[很久没更新了，今天也没力气写什么，纯纯吐槽。最近两个月，工作压力非常大，原因也很简单，目标没完成，不只是我们的目标没完成，是整个业务的目标没完成，然后自上而下，一层层push，分析原因，上手段。...]]></summary>
         <author>
             <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Model Context Protocol: A Technical Deep Dive]]></title>
-        <id>https://collabnix.com/?p=31806</id>
-        <link href="https://collabnix.com/what-is-model-context-protocol-a-technical-deep-dive/"/>
-        <updated>2025-04-26T16:35:39.000Z</updated>
-        <summary type="html"><![CDATA[Model Context Protocol (MCP) represents a significant advancement in connecting AI models with the external world. As large language models (LLMs) like Claude and GPT continue to evolve, their isolation from real-world data sources and tools has become an increasingly limiting factor. MCP addresses this challenge by providing a standardized way for AI systems to […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[探索扣子空间：开启 AI 协作办公新时代]]></title>
-        <id>https://dusays.com/823/</id>
-        <link href="https://dusays.com/823/"/>
-        <updated>2025-04-26T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>当今数字化浪潮中，人工智能正以前所未有的速度改变着我们的工作和生活方式。字节跳动于 2025 年 4 月 19 日推出的通用型 AI Agent 平台，无疑是这一变革中一颗璀璨新星，为我们带来了全新的 AI 协作办公体验。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
         </author>
     </entry>
     <entry>
