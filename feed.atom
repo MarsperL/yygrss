@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-07-27T02:32:31.480Z</updated>
+    <updated>2025-07-28T02:29:00.135Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[拾月周记（第43期）：有财伸懒腰]]></title>
+        <id>https://www.skyue.com/25072807.html</id>
+        <link href="https://www.skyue.com/25072807.html"/>
+        <updated>2025-07-27T23:07:00.000Z</updated>
+        <summary type="html"><![CDATA[本周图片来自南瓜，抓拍到有财伸懒腰，萌死了。]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox中国版关闭，如何下载国际版并迁移数据？]]></title>
+        <id>https://www.mintimate.cn/2025/07/28/installFirefox/</id>
+        <link href="https://www.mintimate.cn/2025/07/28/installFirefox/"/>
+        <updated>2025-07-27T16:08:48.000Z</updated>
+        <summary type="html"><![CDATA[特供版 Firefox 即将停止服务，那么如何安装国际版的 Firefox 呢？使用软件包管理器(Windows(winget)、macOS(brew) 和 Linux)可以丝滑安装 Firefox, 但是如果想要迁移到国际版，该怎么做呢?]]></summary>
+        <author>
+            <name>雨月空间站</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[南瓜怀孕和搬家]]></title>
+        <id>https://www.skyue.com/25072721.html</id>
+        <link href="https://www.skyue.com/25072721.html"/>
+        <updated>2025-07-27T13:08:00.000Z</updated>
+        <summary type="html"><![CDATA[一、新家上周六从未名府搬到紫樾府，这是半年来我们第二次搬家，主要是因为南瓜怀孕了。未名府是loft公寓，南瓜每天爬楼梯不安全；同时没有多余的房间，未来父母过来照顾我们没有地方住；而且房子面积很小...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里七年，小树毕业了]]></title>
+        <id>https://yeshu.cloud/posts/leave-first-job/</id>
+        <link href="https://yeshu.cloud/posts/leave-first-job/"/>
+        <updated>2025-07-27T09:46:51.000Z</updated>
+        <summary type="html"><![CDATA[和第一份工作认真告个别。]]></summary>
+        <author>
+            <name>一颗小树</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kagents: Revolutionizing Kubernetes Agent Management for Modern Container Orchestration]]></title>
+        <id>https://collabnix.com/?p=43317</id>
+        <link href="https://collabnix.com/kagents-revolutionizing-kubernetes-agent-management-for-modern-container-orchestration/"/>
+        <updated>2025-07-27T02:57:53.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes has become the backbone of modern container orchestration, powering everything from microservices architectures to enterprise-scale applications. However, managing agents across distributed Kubernetes clusters remains a complex challenge that many DevOps teams struggle with daily. Enter Kagents – a revolutionary approach to Kubernetes agent management that’s transforming how organizations deploy, monitor, and maintain their containerized […]]]></summary>
+        <author>
+            <name>Ajeet Raina</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A social media ethos]]></title>
         <id>https://daverupert.com/2025/07/social-media-ethos/</id>
@@ -40,6 +90,16 @@ Discord is for like-minded communities, prioritize intimate ones.
 Log into LinkedIn once a month and give some thumbs-ups. It supports your friends and colleagues in the algorithmic trash fire and that handshakefullness and relationship building might be helpful in the future if you need a job.]]></summary>
         <author>
             <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[​​开源密码管理新选择：自建 Bitwarden(Vault)密码托管，跨平台同步 + MFA 多因素认证]]></title>
+        <id>https://www.mintimate.cn/2025/07/26/vaultwardenHost/</id>
+        <link href="https://www.mintimate.cn/2025/07/26/vaultwardenHost/"/>
+        <updated>2025-07-26T08:47:38.000Z</updated>
+        <summary type="html"><![CDATA[自建开源 Bitwarden/Vault 密码库：安全托管强密码，跨平台自动同步、自动填充密码，支持 MFA 多因素认证。掌控数据，提升安全！​]]></summary>
+        <author>
+            <name>雨月空间站</name>
         </author>
     </entry>
     <entry>
@@ -6554,27 +6614,6 @@ The post Home Lab Explorers School for learning Proxmox DevOps Kubernetes and mo
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ultimate Guide to Building a 2.5GbE Home Lab Network in 2025]]></title>
-        <id>https://www.virtualizationhowto.com/?p=300799</id>
-        <link href="https://www.virtualizationhowto.com/2025/04/ultimate-guide-to-building-a-2-5gbe-home-lab-network-in-2025/"/>
-        <updated>2025-04-29T14:22:00.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to networking, 1 gig networking is becoming “long in the tooth”. There have been many advancements in the networking field, especially getting to 2.5 GbE as a very mainstream standard. In this guide, we will take a look at everything you need to upgrade to 2.5 GbE home lab network in 2025. …
-The post Ultimate Guide to Building a 2.5GbE Home Lab Network in 2025 appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Free PuTTY Alternatives for Mac You Should Try]]></title>
-        <id>https://collabnix.com/?p=31846</id>
-        <link href="https://collabnix.com/free-putty-alternatives-for-mac/"/>
-        <updated>2025-04-29T09:06:28.000Z</updated>
-        <summary type="html"><![CDATA[Missing PuTTY on your macOS device? This guide will introduce you to a whole new world of free PuTTY alternatives, including Termius, Attune, iTerm2, and many others.]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[聊聊我对生二胎的一些想法]]></title>
         <id>https://qq.mba/235.html</id>
         <link href="https://qq.mba/235.html"/>
@@ -6582,36 +6621,6 @@ The post Ultimate Guide to Building a 2.5GbE Home Lab Network in 2025 appeared f
         <summary type="html"><![CDATA[每次和老婆坐在客厅算家庭账本，算到最后总会陷入沉默。备孕二胎的念头像颗野草，时不时在心里冒头，但一想到现实，又赶紧把这火苗掐灭。产检费、顺产的几千块钱倒是小钱，可孩子出生后，乃至以后培养教育确实...]]></summary>
         <author>
             <name>满心</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的投资之路：从迷茫亏损到系统构建与“策引”的萌芽]]></title>
-        <id>https://www.bmpi.dev/self/my-investment-path/</id>
-        <link href="https://www.bmpi.dev/self/my-investment-path/"/>
-        <updated>2025-04-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[深入地聊一聊我在投资这条道路上摸爬滚打、不断探索的心路历程。这不仅仅是一个关于钱的故事，更是一个关于认知迭代、技术实践以及如何与自己的人性博弈并最终萌生“策引”这个想法的旅程。]]></summary>
-        <author>
-            <name>BMPI</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubernetes MCP Server:  Step by Step Guide]]></title>
-        <id>https://collabnix.com/?p=31837</id>
-        <link href="https://collabnix.com/kubernetes-mcp-server-step-by-step-guide/"/>
-        <updated>2025-04-27T17:12:53.000Z</updated>
-        <summary type="html"><![CDATA[In today’s cloud-native world, managing Kubernetes clusters efficiently is crucial for DevOps professionals and platform engineers. While command-line tools like kubectl are powerful, wouldn’t it be great if you could interact with your Kubernetes clusters using natural language through your AI assistant? This is exactly what MCP-Server-Kubernetes enables for Claude users. What is MCP-Server-Kubernetes? MCP-Server-Kubernetes […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The New MCP Authorization Specification: Simplifying AI Security Through Standardization]]></title>
-        <id>https://collabnix.com/?p=31832</id>
-        <link href="https://collabnix.com/the-new-mcp-authorization-specification-simplifying-ai-security/"/>
-        <updated>2025-04-27T16:29:51.000Z</updated>
-        <summary type="html"><![CDATA[In the rapidly evolving landscape of AI technology, a significant development recently emerged that might have flown under your radar. On April 26, 2025, a new authorization specification for Model Context Protocol (MCP) was published, developed through collaboration between Anthropic and various industry partners. What is MCP and Why Does This Matter? The Model Context […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
         </author>
     </entry>
     <entry>
