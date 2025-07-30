@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-07-29T02:34:03.206Z</updated>
+    <updated>2025-07-30T02:25:33.554Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[python grpc 使用域名第一次耗时长问题]]></title>
+        <id>http://zhangguanzhang.github.io/2025/07/29/python-grpc-first-long/</id>
+        <link href="http://zhangguanzhang.github.io/2025/07/29/python-grpc-first-long/"/>
+        <updated>2025-07-29T17:40:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>最近给同事解决的 python grpc 耗时长问题…..</p>]]></summary>
+        <author>
+            <name>Zhangguanzhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wave Terminal 多功能开源终端工具]]></title>
+        <id>https://dusays.com/819/</id>
+        <link href="https://dusays.com/819/"/>
+        <updated>2025-07-29T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>在现代开发工作中，终端是我们必不可少的工具之一。今天要给大家介绍的 Wave Terminal，无疑是一款将传统终端功能与图形化能力完美融合开源终端，能够极大地提升我们的工作效率。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxmox Backup Server 4.0 Beta Released – Try the New Features Today!]]></title>
+        <id>https://www.virtualizationhowto.com/?p=302046</id>
+        <link href="https://www.virtualizationhowto.com/2025/07/proxmox-backup-server-4-0-beta-released-try-the-new-features-today/"/>
+        <updated>2025-07-29T12:02:56.000Z</updated>
+        <summary type="html"><![CDATA[If you have been following along with my post from yesterday, Proxmox has released Proxmox VE Server 9 Beta just a few days ago now at the time of this writing. To go along with that release, they have also dropped Proxmox Backup Server 4.0 Beta. Like Proxmox 9 Beta, Proxmox Backup Server 4.0 Beta …
+The post Proxmox Backup Server 4.0 Beta Released – Try the New Features Today! appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[打造你的 AI 能力图谱：我上线了一个开发者专属的人工智能资源库]]></title>
         <id>https://jimmysong.io/blog/launch-ai-resource-page/</id>
@@ -173,6 +206,16 @@ The post 5 Proxmox Projects to Level Up Your Home Lab This Weekend appeared firs
 The post Home Lab Chaos Engineering Unleashed with LitmusChaos appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[又是一个里程碑，轻松超过200k]]></title>
+        <id>https://blog.ops-coffee.cn/s/collage-maker-another-milestone-passing-200k.html</id>
+        <link href="https://blog.ops-coffee.cn/s/collage-maker-another-milestone-passing-200k.html"/>
+        <updated>2025-07-24T14:41:26.000Z</updated>
+        <summary type="html"><![CDATA[在线拼图工具访问量突破200k！了解其背后的故事与最新更新，包括高清下载优化、工具栏动态调整及全球化支持，体验完全免费、高清下载的在线拼图工具。]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
         </author>
     </entry>
     <entry>
@@ -6536,59 +6579,6 @@ Bensz]]></summary>
         <summary type="html"><![CDATA[The Model Context Protocol (MCP) represents a significant advancement in AI capabilities, offering a universal interface that connects AI models directly to various data sources and tools. Launched by Anthropic in November 2024, MCP standardizes how applications provide context to LLMs, functioning as a “USB-C port for AI applications.” While MCP offers tremendous potential for […]]]></summary>
         <author>
             <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minisforum N5 Pro NAS might replace our home lab servers with AI storage?]]></title>
-        <id>https://www.virtualizationhowto.com/?p=300839</id>
-        <link href="https://www.virtualizationhowto.com/2025/05/minisforum-n5-pro-nas-might-replace-our-home-lab-servers-with-ai-storage/"/>
-        <updated>2025-05-01T12:47:23.000Z</updated>
-        <summary type="html"><![CDATA[I have to say that this is one that I am really excited about. The Minisforum N5 Pro NAS will be Minisforum’s first foray into the NAS world. However, they are already very adept with hardware that is both cutting edge and well reviewed and accepted in the home lab community. I am not sure …
-The post Minisforum N5 Pro NAS might replace our home lab servers with AI storage? appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 10 Interesting MCP Servers You Should Know About in 2025]]></title>
-        <id>https://collabnix.com/?p=31869</id>
-        <link href="https://collabnix.com/top-10-interesting-mcp-servers-you-should-know-about-in-2025/"/>
-        <updated>2025-05-01T12:00:50.000Z</updated>
-        <summary type="html"><![CDATA[Model Control Protocol (MCP) servers represent a significant advancement in the world of AI and Large Language Models (LLMs). These specialized interfaces enable LLMs like Claude, ChatGPT, and others to interact with external tools, APIs, and services, dramatically extending their capabilities beyond simple text generation. Think of MCP servers as bridges that connect the reasoning […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Corporate Law Impacts Tech Startups in New York City]]></title>
-        <id>https://collabnix.com/?p=31865</id>
-        <link href="https://collabnix.com/how-corporate-law-impacts-tech-startups-in-new-york-city/"/>
-        <updated>2025-05-01T08:16:45.000Z</updated>
-        <summary type="html"><![CDATA[Starting a tech startup in New York City comes with big opportunities and equally significant legal challenges. Corporate law shapes nearly every aspect of operations, from entity formation to compliance and fundraising. Understanding these impacts isn’t just helpful – it’s critical for growth. So, let’s explore how corporate law directly influences the trajectory of NYC-based […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[去不图床数据清理通知]]></title>
-        <id>https://dusays.com/804/</id>
-        <link href="https://dusays.com/804/"/>
-        <updated>2025-04-30T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>近期发现外链流量激增，经分析了解并非是攻击导致，通过 URL 判断其来源是一些匿名及到期用户所上传的图片。因此决定发文公告：清理去不图床所有匿名用户所上传的图片，并周期检查已到期用户。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[个人网站变现，小网站也能有投放]]></title>
-        <id>https://blog.ops-coffee.cn/r/side-hustle-personal-website-advertising-success.html</id>
-        <link href="https://blog.ops-coffee.cn/r/side-hustle-personal-website-advertising-success.html"/>
-        <updated>2025-04-29T18:15:17.000Z</updated>
-        <summary type="html"><![CDATA[本文介绍了一个个人网站如何通过改变广告位名称“锟斤拷锟斤”到“广告位招租”，从而吸引广告投放，并探讨了SEO友好型的网站广告策略，以及如何在用户体验和收益之间取得平衡，体现了长期主义和个人品牌建设的理念。]]></summary>
-        <author>
-            <name>运维咖啡吧</name>
         </author>
     </entry>
     <entry>
