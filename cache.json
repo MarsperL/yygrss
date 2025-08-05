@@ -176,6 +176,16 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
+          "id": "https://daverupert.com/2025/08/digital-holidays/",
+          "author": null,
+          "description": "The cost of being online is getting too damn high and I’m tired of pretending it’s possible to fit these tasks into a normal life. That’s why I’d like to share a modest proposal for a new set of holidays to manage our digital lives:\n(Ahem.)\nA day to clear out your inboxes\nA day to reset your passwords and delete old accounts\nA day to fix your calendars\nA day to cancel online service subscriptions\nA day to manage the tags on your website\nA day to switch out any critical apps\nA day to backup your computer and phone\nA day to organize your photos\nA day to organize your music collection and playlists\nA day to setup your new phone/computer\nA day to try out a new app or major piece of software for your primary workflow\nA day to delete old text messages\nAll I’m asking for is 1/30th of a year that we end up cramming into other days. I’m willing to trade some of the B-tier holidays (Easter, Thanksgiving, etc) for this. If you work in the government please call me, it is URGENT.",
+          "link": "https://daverupert.com/2025/08/digital-holidays/",
+          "publishedOn": "2025-08-04T13:03:00.000Z",
+          "wordCount": 736,
+          "title": "A modest proposal for new holidays to manage your digital life",
+          "imageUrl": null
+        },
+        {
           "id": "https://daverupert.com/2025/08/back-in-my-day-a-movie-cost-five-cents/",
           "author": null,
           "description": "After all our summer trips I buckled down last weekend and did some budgetting and I’ve realized I have to update the spreadsheet in my head. Here’s how much things cost in my outdated DaveBrain 2000 operating system:\nFast food -$5/person = $20/family\nSnacks - $2.50/person = $10/family\nThat –as my bank account is telling me– is super incorrect. The real numbers are much more like:\nFast food - $12.50~$15/person = $50~$60/family\nSnacks  - $5~$7.50/person = $20~$30/family\nAnd groceries have gone up too. Woof. Hard times in the concrete jungle.\nWe’re updating the database and cutting back on these obvious financial vampires. And we know when/why we tend to rely on them to get us through the week. So that’s good. But when you have kids –snack-reliant kids at that– introducing austerity measures like this is hard, because being a penny-pinching dick about money all the time probably isn’t good for them either.\nDon’t worry about me though. I’m lucky to have a great job and two kidneys, I’m sure I can sell one of them for a decent amount.\nNamaste.",
@@ -323,16 +333,6 @@
           "publishedOn": "2025-05-12T14:56:00.000Z",
           "wordCount": 1501,
           "title": "How to make a Link Aggregator in Obsidian",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/05/week-links-2/",
-          "author": null,
-          "description": "Last year I attempted to do some newsletter-style link aggregation… that good intention imploded spectacularly. But I switched to Obsidian this month and now I have a better system for aggregating links (post on that coming later). Inside this issue you’ll find some games, some homelab server hardware, some AI discourse™, some musical instruments, and more.\n368 Chickens: So many chickens\nAI Search Has A Citation Problem: Eight AI search engines, all bad at citing news.\nCHVLR: Gundam inspired solo RPG\nCompute Blade: Rack-mountable, PoE-powered carrier board for Raspberry Pi\nDegrow Your Community: A list of actions you can do to encourage degrowth\nDon’t fork the ecosystem: It’s hard to get people to change patterns with software, bolt-ons are almost always preferred\nDragonsweeper: A dungeon …",
-          "link": "https://daverupert.com/2025/05/week-links-2/",
-          "publishedOn": "2025-05-07T03:03:00.000Z",
-          "wordCount": 941,
-          "title": "Week Links №2: April 2025",
           "imageUrl": null
         }
       ]
@@ -1381,6 +1381,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=302118",
+          "author": "Brandon Lee",
+          "description": "If you have been following the news lately, Ubiquiti just released something very exciting, UniFi OS Server. This will likely change how we self-host our Unifi controller and network application moving forward. Let’s take a deep dive into what this new offering is, what its capabilities are, and what we can use to self-host it …\nThe post New UniFi OS Server Lets You Self-Host the Full UniFi Experience appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/08/new-unifi-os-server-lets-you-self-host-the-full-unifi-experience/",
+          "publishedOn": "2025-08-04T12:04:49.000Z",
+          "wordCount": 11461,
+          "title": "New UniFi OS Server Lets You Self-Host the Full UniFi Experience",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/08/Unifi-OS-Server.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=302096",
           "author": "Brandon Lee",
           "description": "Do yourself a favor and get accustomed to project-based learning. This is my philosophy to the most effective learning you can do. A home lab is a great way to do this. AND, getting into using containers will totally change your mindset on how you run your applications. Using Docker, you can totally spin up …\nThe post 10 Docker Projects You Can Build in a Weekend and Actually Use! appeared first on Virtualization Howto.",
@@ -1949,26 +1959,6 @@
           "wordCount": 10988,
           "title": "How to Mirror Your On-Premises GitLab Repo to GitLab Cloud for Resiliency",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/GitLab-Mirror.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=300913",
-          "author": "Brandon Lee",
-          "description": "All of us want to know that our investments are going to last at least as long as possible. When you make an investment in your home lab, the same is true. There are definitely core technologies to be looking out for that are a great investment in your lab and will allow you to …\nThe post Future-Proof Your Home Server: Why NVMe, ZFS, and 10GbE Are Non-Negotiable in 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/05/future-proof-your-home-server-why-nvme-zfs-and-10gbe-are-non-negotiable-in-2025/",
-          "publishedOn": "2025-05-07T12:55:34.000Z",
-          "wordCount": 11094,
-          "title": "Future-Proof Your Home Server: Why NVMe, ZFS, and 10GbE Are Non-Negotiable in 2025",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/Future-Proof-your-home-server.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=300893",
-          "author": "Brandon Lee",
-          "description": "I am always on the lookout for great new open-source tools for monitoring and management in the home lab and in production environments. I am a huge fan of Uptime Kuma as a monitoring solution, and other tools like Prometheus and Grafana. However, not tool long ago I heard about a new open-source monitoring solution …\nThe post Checkmate Monitoring for Free Open Source Docker Solution for Uptime Monitoring appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/05/checkmate-monitoring-for-free-open-source-docker-solution-for-uptime-monitoring/",
-          "publishedOn": "2025-05-06T14:41:43.000Z",
-          "wordCount": 10930,
-          "title": "Checkmate Monitoring for Free Open Source Docker Solution for Uptime Monitoring",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/Monitors-configured-in-checkmate-for-uptime-1.jpg"
         }
       ]
     },
@@ -1977,6 +1967,46 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=44791",
+          "author": "Tanvir Kour",
+          "description": "What is Ollama? Ollama is a lightweight, extensible framework for building and running large language models locally. Run LLaMA, Mistral, CodeLlama, and other models on your machine without cloud dependencies. Quick Installation macOS Linux Windows Docker Installation Starting Ollama Service Basic Model Operations Pull Models List Available Models Remove Models Running Models Interactive Chat Single […]",
+          "link": "https://collabnix.com/complete-ollama-guide-installation-usage-code-examples/",
+          "publishedOn": "2025-08-04T10:01:24.000Z",
+          "wordCount": 2984,
+          "title": "Complete Ollama Guide: Installation, Usage & Code Examples",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=44783",
+          "author": "Collabnix Team",
+          "description": "Docker has transformed how R developers build, deploy, and share data science applications, Shiny dashboards, and analytical workflows. With R’s growing adoption in enterprise environments and the rise of containerized data science, mastering Docker for R development is essential for modern statisticians, data scientists, and R developers. Whether you’re containerizing Shiny applications, Plumber APIs, R […]",
+          "link": "https://collabnix.com/10-essential-docker-best-practices-for-r-developers-in-2025/",
+          "publishedOn": "2025-08-04T03:50:53.000Z",
+          "wordCount": null,
+          "title": "10 Essential Docker Best Practices for R Developers in 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=44780",
+          "author": "Collabnix Team",
+          "description": "Docker has revolutionized how Python developers build, ship, and run applications. With over 13 billion container downloads and Python consistently ranking as one of the top programming languages, mastering Docker for Python development is crucial for modern software engineering. Whether you’re containerizing Django web applications, Flask APIs, or machine learning models, following Docker best practices […]",
+          "link": "https://collabnix.com/10-essential-docker-best-practices-for-python-developers-in-2025/",
+          "publishedOn": "2025-08-04T03:38:39.000Z",
+          "wordCount": null,
+          "title": "10 Essential Docker Best Practices for Python Developers in 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=44777",
+          "author": "Collabnix Team",
+          "description": "Master Claude Code's command line interface for efficient AI-powered development workflows",
+          "link": "https://collabnix.com/claude-code-best-practices-advanced-command-line-ai-development-in-2025/",
+          "publishedOn": "2025-08-04T03:29:20.000Z",
+          "wordCount": null,
+          "title": "Claude Code Best Practices: Advanced Command Line AI Development in 2025",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=44684",
           "author": "Collabnix Team",
@@ -3734,6 +3764,16 @@
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
         {
+          "id": "https://dusays.com/820/",
+          "author": null,
+          "description": "<blockquote>\n<p>在数字化工作时代，一款高效、便捷的终端工具对于开发者、系统管理员和网络工程师等人群来说至关重要。Electerm 作为一款开源免费的跨平台终端模拟器，凭借其丰富的功能和优秀的用户体验，成为了众多用户的首选。</p>\n</blockquote>",
+          "link": "https://dusays.com/820/",
+          "publishedOn": "2025-08-04T16:00:00.000Z",
+          "wordCount": 423,
+          "title": "Electerm 高效便捷的开源终端工具",
+          "imageUrl": "https://cdn.dusays.com/avatar.png"
+        },
+        {
           "id": "https://dusays.com/819/",
           "author": null,
           "description": "<blockquote>\n<p>在现代开发工作中，终端是我们必不可少的工具之一。今天要给大家介绍的 Wave Terminal，无疑是一款将传统终端功能与图形化能力完美融合开源终端，能够极大地提升我们的工作效率。</p>\n</blockquote>",
@@ -3962,16 +4002,6 @@
           "wordCount": 1425,
           "title": "使用 Python 脚本实现图片相似度匹配",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/805/",
-          "author": null,
-          "description": "<blockquote>\n<p>在现代企业环境中，数据的安全性至关重要。NFS 作为一种广泛使用的文件共享协议，其数据在传输和存储过程中若是缺乏加密保护，将面临被窃取或篡改的风险。本文将详细介绍加密 NFS 搭建过程。</p>\n</blockquote>",
-          "link": "https://dusays.com/805/",
-          "publishedOn": "2025-05-06T16:00:00.000Z",
-          "wordCount": 491,
-          "title": "加密 NFS 搭建保障数据传输与存储安全",
-          "imageUrl": "https://cdn.dusays.com/avatar.png"
         }
       ]
     },
@@ -4265,26 +4295,6 @@
           "wordCount": null,
           "title": "为什么需要 Prometheus + Alertmanager + Grafana？",
           "imageUrl": null
-        },
-        {
-          "id": "/archives/1746612469032",
-          "author": null,
-          "description": "摘要：本文深入解析嵌入模型（Embedding）、向量数据库（Vector Database）与检索增强生成（RAG）的技术原理，结合完整流程图与代码示例，揭示现代语义搜索与生成系统的核心架构。 一、嵌入（Embedding）：语义理解的数学基石 1.1 什么是嵌入？ 嵌入是将非结构化数据（文本、图",
-          "link": "http://blog.lixx.cn/archives/1746612469032",
-          "publishedOn": "2025-05-07T10:08:08.000Z",
-          "wordCount": null,
-          "title": "嵌入模型、向量数据库与RAG技术详解：从原理到实践",
-          "imageUrl": null
-        },
-        {
-          "id": "/archives/1746611820481",
-          "author": null,
-          "description": "https://github.com/The-Pocket/PocketFlow/blob/main/pocketflow/__init__.py 你好！这个 Python 文件 实现了一个灵活的任务流程编排框架，其中包含同步和异步的节点和流程。对于初学者来说，理解这个文件可以帮助你掌握很多 Pyt",
-          "link": "http://blog.lixx.cn/archives/1746611820481",
-          "publishedOn": "2025-05-07T09:57:43.000Z",
-          "wordCount": null,
-          "title": "解析 PockerFlow 源码",
-          "imageUrl": null
         }
       ]
     },
@@ -4305,6 +4315,16 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=22267",
+          "author": "xiaoz",
+          "description": "Zurl 是一款简单易用的短链接系统，可以快速生成短链接，方便分享和管理。Zurl 旨在提供一个轻量级的解决方案，帮助用户更好地管理和跟踪链接。该系统由xiaoz开发。Github开源：https://github.com/helloxz/zurl功能特点短链接生成：用户可以将长链接转换为短链接，便",
+          "link": "https://blog.xiaoz.org/archives/22267",
+          "publishedOn": "2025-08-04T08:00:11.000Z",
+          "wordCount": 267,
+          "title": "使用Docker快速部署Zurl短链接服务",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=22248",
           "author": "xiaoz",
@@ -4513,16 +4533,6 @@
           "publishedOn": "2025-05-15T01:17:35.000Z",
           "wordCount": 268,
           "title": "聊一聊一加Ace 5",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=22024",
-          "author": "xiaoz",
-          "description": "国产安卓手机系统往往预装了一大堆软件，包括无法直接卸载的系统软件和和第三方软件，然而大部分预装软件我们可能根本用不上。虽然大部分第三方软件可以卸载，但是部分内置软件系统不提供卸载功能。这篇文章将以xiaoz的小米手机和Windows 11操作系统来展开说明如何卸载HyperOS系统内置的预装软件，比",
-          "link": "https://blog.xiaoz.org/archives/22024",
-          "publishedOn": "2025-05-07T06:40:20.000Z",
-          "wordCount": 284,
-          "title": "如何用Universal Debloater Alliance卸载安卓预装软件",
           "imageUrl": null
         }
       ]
