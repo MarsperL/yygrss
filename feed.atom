@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-08-06T02:26:07.435Z</updated>
+    <updated>2025-08-07T02:26:43.953Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[All the concerns that make you a boring developer]]></title>
+        <id>https://daverupert.com/2025/08/got-99-engineering-problems-but-a-grift-aint-one/</id>
+        <link href="https://daverupert.com/2025/08/got-99-engineering-problems-but-a-grift-aint-one/"/>
+        <updated>2025-08-06T14:46:00.000Z</updated>
+        <summary type="html"><![CDATA[I was thinking this morning about how once you understand that your technology choices have security, performance, and accessibility considerations you become a much more boring developer. Acknowledging those obligations can sort of strips the fun out of programming, but we’re better for it.
+I decided to pull on that thread a little more and come up with a list of all the concerns you might have as an engineer/developer that ultimately compound to make you a boring, wet blanket of a person to be in meetings with.
+Security  - Make sure you’re not opening the door for hackers.
+Privacy - Don’t leak personal information. Or don’t collect it in the first place.
+Performance  - Can the software work on low-end devices? Can you deliver the large bundle over bad internet? Those are your problems.
+I…]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[出版级 PDF 电子书导出工具分享：将 Hugo Markdown 图书导出为 PDF]]></title>
+        <id>https://jimmysong.io/blog/hugo-book-pdf-exporter/</id>
+        <link href="https://jimmysong.io/blog/hugo-book-pdf-exporter/"/>
+        <updated>2025-08-06T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[介绍如何用 Hugo 构建的 Markdown 图书导出为专业 PDF，包括多语言、Emoji 渲染、代码高亮、图片处理、章节排序、封面自定义等关键技术，并简述 PDF Book Exporter 的架构与使用方法，适用于技术文档和电子书出版。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12 Essential Steps I Take on Every New Docker Host]]></title>
+        <id>https://www.virtualizationhowto.com/?p=302175</id>
+        <link href="https://www.virtualizationhowto.com/2025/08/12-essential-steps-i-take-on-every-new-docker-host/"/>
+        <updated>2025-08-06T12:22:52.000Z</updated>
+        <summary type="html"><![CDATA[I get excited when I am spinning up a new Docker container host as I think about all the new, cool workloads and projects that can be ran on it. Building up your Docker container host the right way and doing the right things can make your dive into containerization a breeze and lay the …
+The post 12 Essential Steps I Take on Every New Docker Host appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Operational Resilience is the Next Competitive Advantage]]></title>
+        <id>https://collabnix.com/?p=45874</id>
+        <link href="https://collabnix.com/why-operational-resilience-is-the-next-competitive-advantage/"/>
+        <updated>2025-08-06T10:50:40.000Z</updated>
+        <summary type="html"><![CDATA[What would you do if your website suddenly crashed out of nowhere on the day of your newest product launch? All the existing orders vanish, customer support lines get flooded, and you’ve started trending on Twitter for all the wrong reasons. How quickly could your team respond to get things back on track? Could the […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[私有化下(CentOS 7)Podman调研]]></title>
+        <id>http://zhangguanzhang.github.io/2025/08/06/centos7-podman/</id>
+        <link href="http://zhangguanzhang.github.io/2025/08/06/centos7-podman/"/>
+        <updated>2025-08-06T10:10:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>CentOS 7 上 Podman调研…..</p>]]></summary>
+        <author>
+            <name>Zhangguanzhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免实名、免绑卡，轻松用上阿里云国际、AWS、GCP 等全球云！]]></title>
+        <id>https://blog.xiaoz.org/?p=22279</id>
+        <link href="https://blog.xiaoz.org/archives/22279"/>
+        <updated>2025-08-06T03:09:23.000Z</updated>
+        <summary type="html"><![CDATA[在云计算越来越重要的今天，很多个人开发者、中小企业甚至高校团队都希望能够方便、快速地接入全球主流云平台，例如 AWS、Google Cloud、阿里云国际版等。但现实情况是：开通流程繁琐、实名认证要求严格、还得绑定国际信用卡！NiceCloud喜云是一家获得官方授权的多云服务平台代理商，聚合了阿里云]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Instant VMs and LXCs on Proxmox: My Go-To Terraform Templates for Quick Deployments]]></title>
         <id>https://www.virtualizationhowto.com/?p=302063</id>
@@ -233,6 +299,16 @@ The post New UniFi OS Server Lets You Self-Host the Full UniFi Experience appear
         <summary type="html"><![CDATA[Introduction: What is Perplexity AI? Perplexity AI has emerged as a revolutionary AI-powered search engine that’s changing how we find and consume information online. Unlike traditional search engines that return lists of links, Perplexity provides direct, cited answers to your questions using advanced language models. But is it worth the hype? Let’s dive deep into […]]]></summary>
         <author>
             <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WisprFlow 被严重高估了：试用一周后我选择卸载]]></title>
+        <id>https://jimmysong.io/blog/uninstalling-wisprflow/</id>
+        <link href="https://jimmysong.io/blog/uninstalling-wisprflow/"/>
+        <updated>2025-08-03T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[试用 WisprFlow 语音识别工具一周后的真实体验：服务不稳定、非实时识别、指令识别错乱、占用空间大、性价比低——我为什么选择卸载它。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
         </author>
     </entry>
     <entry>
@@ -6521,17 +6597,6 @@ vim /etc/fstab
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top Docker Performance Tweaks on Low-Power Hardware]]></title>
-        <id>https://www.virtualizationhowto.com/?p=300964</id>
-        <link href="https://www.virtualizationhowto.com/2025/05/top-docker-performance-tweaks-on-low-power-hardware/"/>
-        <updated>2025-05-09T14:17:09.000Z</updated>
-        <summary type="html"><![CDATA[There are two things that I highly recommend for modern home lab environments, Docker and low-power mini PCs. Docker provides a much more efficient way to run apps compared to running full virtual machines. Also, low-power mini PCs are getting more popular and powerful. However, there are still things you can and should think about …
-The post Top Docker Performance Tweaks on Low-Power Hardware appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TDSQL MySQL ERROR 1173 （42000）：This table type requires a primary key报错处理]]></title>
         <id>https://chegva.com/?p=6371</id>
         <link href="https://chegva.com/6371.html"/>
@@ -6588,28 +6653,6 @@ SHOW CREATE TABLE 表名;
         <summary type="html"><![CDATA[不得不感叹，时间过得可真快，感觉才刚到25年，没想到已经距离年中不远了，这不生日也到了，由于是工作日，所以晚上到家也七点了，妈妈给做了菜，然后媳妇儿从公司点了两个菜，买了蛋糕，一家人一起吃个饭，...]]></summary>
         <author>
             <name>满心</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楠溪江自驾Day3 - 探秘暨家寨]]></title>
-        <id>https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-03.html</id>
-        <link href="https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-03.html"/>
-        <updated>2025-05-08T16:39:01.000Z</updated>
-        <summary type="html"><![CDATA[本文记录了作者从美岙村出发，经过巽宅镇、坑口村、金溪水库等地点，最终到达暨家寨的自驾旅程。途中欣赏了楠溪江源头的美景，探索了山黄线和铁金线的险峻山路，体验了浙南山地村落的风土人情，最终在暨家寨度过了一个宁静的夜晚。]]></summary>
-        <author>
-            <name>运维咖啡吧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 Python 脚本实现图片相似度匹配]]></title>
-        <id>https://dusays.com/827/</id>
-        <link href="https://dusays.com/827/"/>
-        <updated>2025-05-08T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>随着相机像素越来越大，图片体积也变大了。在图片处理中，较大的文件体积会影响性能，因此杜老师会先生成缩略图，筛选完成后再通过 Python 脚本实现图片相似度匹配。这里是一个简单的示例，供需要的小伙伴们参考。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
         </author>
     </entry>
     <entry>
