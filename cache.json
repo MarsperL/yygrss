@@ -639,6 +639,16 @@
       "siteUrl": "https://blog.ops-coffee.cn",
       "articles": [
         {
+          "id": "https://blog.ops-coffee.cn/r/city-china-zhejiang-shaoxing-xinchang-yanbangshibadu.html",
+          "author": null,
+          "description": "探索绍兴嵊州的盐帮十八渡和穿岩十九峰，体验徒步与玩水的乐趣，感受山野之美，品味嵊州小吃，享受两天的完美旅行。",
+          "link": "https://blog.ops-coffee.cn/r/city-china-zhejiang-shaoxing-xinchang-yanbangshibadu.html",
+          "publishedOn": "2025-08-07T06:15:18.000Z",
+          "wordCount": 138,
+          "title": "新昌｜从十八渡到十九峰，夏日徒步玩水的绝佳线路",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.ops-coffee.cn/s/collage-maker-another-milestone-passing-200k.html",
           "author": null,
           "description": "在线拼图工具访问量突破200k！了解其背后的故事与最新更新，包括高清下载优化、工具栏动态调整及全球化支持，体验完全免费、高清下载的在线拼图工具。",
@@ -847,16 +857,6 @@
           "wordCount": 83,
           "title": "楠溪江自驾Day5 - 泛舟楠溪江",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-04.html",
-          "author": null,
-          "description": "本文记录了楠溪江自驾游第四天的行程，包括探访暨家寨的宁静美景、林坑古村的古朴建筑、屿北村的千年历史以及苍坡古村的夜晚。沿途体验了自然与人文的完美结合，感受了永嘉县独特的风景与文化。",
-          "link": "https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-04.html",
-          "publishedOn": "2025-05-09T16:06:17.000Z",
-          "wordCount": 83,
-          "title": "楠溪江自驾Day4 - 林坑古村落",
-          "imageUrl": null
         }
       ]
     },
@@ -865,6 +865,16 @@
       "feedUrl": "https://jimmysong.io/blog/index.xml",
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
+        {
+          "id": "https://jimmysong.io/blog/rag-handbook-release/",
+          "author": "Jimmy Song",
+          "description": "详细介绍我新编写的《RAG 实践手册》以及配套的开源示例项目 rag-chatbot，该聊天机器人已部署在我的网站上，基于 Cloudflare Workers 运行。",
+          "link": "https://jimmysong.io/blog/rag-handbook-release/",
+          "publishedOn": "2025-08-07T13:00:00.000Z",
+          "wordCount": 396,
+          "title": "发布《RAG 实践手册》：构建基于 Cloudflare 和千问大模型的智能聊天机器人",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.webp"
+        },
         {
           "id": "https://jimmysong.io/blog/hugo-book-pdf-exporter/",
           "author": "Jimmy Song",
@@ -1390,6 +1400,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=302195",
+          "author": "Brandon Lee",
+          "description": "In case you haven’t heard, Proxmox 9 has officially dropped and it contains some great new features like LVM thick LUN snapshots, SDN fabric enhancements and more. However, one of the features that has flown under the radar is a completely rewritten mobile web ui experience that will help admins to have a newly redesigned …\nThe post Proxmox VE 9’s New Mobile Web UI: Manage Your Cluster from Anywhere appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/08/proxmox-ve-9s-new-mobile-web-ui-manage-your-cluster-from-anywhere/",
+          "publishedOn": "2025-08-07T12:44:49.000Z",
+          "wordCount": 9818,
+          "title": "Proxmox VE 9’s New Mobile Web UI: Manage Your Cluster from Anywhere",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/08/Proxmox-mobile-management.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=302175",
           "author": "Brandon Lee",
@@ -1977,6 +1997,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=46243",
+          "author": "Tanvir Kour",
+          "description": "Imagine logging in to a digital classroom. Your favorite lessons, quizzes, chat messages, and even your progress through AI-powered learning are right there. Pretty cool, right? But that same convenience comes with a big responsibility: keeping your student data secure. Let’s dig into why this matters for every teacher, student, and parent using cloud-based classrooms […]",
+          "link": "https://collabnix.com/student-data-security-an-essential-in-cloud-based-classrooms/",
+          "publishedOn": "2025-08-07T10:28:10.000Z",
+          "wordCount": 2391,
+          "title": "Student Data Security: An Essential in Cloud-Based Classrooms",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=46238",
+          "author": "Ajeet Raina",
+          "description": "Learn how to install, configure, and deploy OpenAI's GPT OSS models (20B & 120B parameters) with this comprehensive step-by-step tutorial covering local inference, API access, and optimization techniques.",
+          "link": "https://collabnix.com/complete-gpt-oss-tutorial-how-to-setup-deploy-optimize-openais-open-source-models/",
+          "publishedOn": "2025-08-07T10:02:08.000Z",
+          "wordCount": null,
+          "title": "Complete GPT OSS Tutorial: How to Setup, Deploy & Optimize OpenAI’s Open Source Models",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=45874",
           "author": "Tanvir Kour",
