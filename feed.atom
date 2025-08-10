@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-08-09T02:08:28.820Z</updated>
+    <updated>2025-08-10T02:31:01.893Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[上线仅一个月，免费拼图工具收到赞助啦]]></title>
+        <id>https://blog.ops-coffee.cn/s/collage-maker-tool-gets-sponsored-after-one-month-launch.html</id>
+        <link href="https://blog.ops-coffee.cn/s/collage-maker-tool-gets-sponsored-after-one-month-launch.html"/>
+        <updated>2025-08-09T11:44:49.000Z</updated>
+        <summary type="html"><![CDATA[从一个解决个人麻烦的想法，到服务成千上万用户的拼图工具，再到收到第一笔收入，这段历程充满意义。发现这个免费、无广告的在线拼图工具的成长故事。]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes AI: The Most Searched Term Transforming Cloud Computing in 2025]]></title>
+        <id>https://collabnix.com/?p=46673</id>
+        <link href="https://collabnix.com/kubernetes-ai-the-most-searched-term-transforming-cloud-computing-in-2025/"/>
+        <updated>2025-08-09T11:35:58.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: Why “Kubernetes AI” Dominates 2025 Search Rankings If you’ve been following cloud computing trends in 2025, you’ve probably noticed one term consistently topping search results: Kubernetes AI. This isn’t just a passing fad—it represents the most significant shift in container orchestration since Kubernetes itself revolutionized cloud-native development. According to multiple industry reports and trend […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Open Source LLMs for 2025: Your Complete Guide]]></title>
+        <id>https://collabnix.com/?p=46669</id>
+        <link href="https://collabnix.com/the-10-best-open-source-llms-for-2025-your-complete-guide-to-free-language-models/"/>
+        <updated>2025-08-09T11:30:25.000Z</updated>
+        <summary type="html"><![CDATA[Discover the Best Open Source LLMs for 2025 Open-source Large Language Models (LLMs) have revolutionized AI accessibility in 2025, offering powerful alternatives to expensive proprietary models. This guide reviews the 10 best open-source LLMs available today, helping you choose the perfect model for your needs. What Are Open-Source LLMs? Open-source LLMs are freely available language […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中国电动汽车的激进崛起：政策驱动、产业变革与全球竞争]]></title>
+        <id>https://jimmysong.io/blog/china-ev-rise/</id>
+        <link href="https://jimmysong.io/blog/china-ev-rise/"/>
+        <updated>2025-08-09T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[为什么中国电动车发展得如此激进？从国家政策、产业环境到国际竞争，中国新能源汽车产业正在经历怎样的变革与挑战？]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从 Manus 到 Genspark：多智能体协作工具的潜力与盲区]]></title>
+        <id>https://jimmysong.io/blog/manus-to-genspark/</id>
+        <link href="https://jimmysong.io/blog/manus-to-genspark/"/>
+        <updated>2025-08-09T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[基于 Manus 的早期体验与 Genspark AI Slide 幻灯片生成功能最新试用，深入分析这类多智能体工具的能力边界、价值亮点及改进方向。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Testcontainers Tutorial: Complete Guide to Integration Testing with Docker (2025)]]></title>
         <id>https://collabnix.com/?p=46572</id>
@@ -6538,17 +6588,6 @@ macOS默认遵循以下优先级：
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Real First Step to DevOps: Mastering Containers with Docker]]></title>
-        <id>https://www.virtualizationhowto.com/?p=300986</id>
-        <link href="https://www.virtualizationhowto.com/2025/05/the-real-first-step-to-devops-mastering-containers-with-docker/"/>
-        <updated>2025-05-12T13:13:53.000Z</updated>
-        <summary type="html"><![CDATA[As with any discipline, there are many different paths that lead to the same goal. However, there are certain skills that are foundational to learning the skill you are attempting to learn. With DevOps, there are many different foundational skills that might be thought of to go with the DevOps mindset. Som may choose to …
-The post The Real First Step to DevOps: Mastering Containers with Docker appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LVM卷在线扩缩容及常用操作]]></title>
         <id>https://chegva.com/?p=6365</id>
         <link href="https://chegva.com/6365.html"/>
@@ -6594,38 +6633,6 @@ vim /etc/fstab
 # 设备标识（建议使用UUID，避免设备名变化导致问题），第1个0为dump 备份标志（0=不备份，1=备份），第2个0为 fsck 检查…]]></summary>
         <author>
             <name>anzhihe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[楠溪江自驾Day5 - 泛舟楠溪江]]></title>
-        <id>https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-05.html</id>
-        <link href="https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-05.html"/>
-        <updated>2025-05-11T20:26:02.000Z</updated>
-        <summary type="html"><![CDATA[本文记录了作者在楠溪江自驾旅行的第五天，详细描述了游览苍坡古村、岩头古村、狮子岩和太平岩的经历，结合了历史人文与自然风光的体验，展现了楠溪江的独特魅力。]]></summary>
-        <author>
-            <name>运维咖啡吧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 系统无法通过 pip 命令安装 Python 库问题解决]]></title>
-        <id>https://dusays.com/828/</id>
-        <link href="https://dusays.com/828/"/>
-        <updated>2025-05-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>为了更好的执行 Python 脚本，杜老师习惯使用 Ubuntu 系统，不过在安装 Python 库时经常报错。收集了安装 Python 库的报错信息，并整理了解决办法，供需要的小伙伴们参考。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[观点：晚期胆道癌（BTC）治疗的进展与困境]]></title>
-        <id>http://whyes.org/2025/viewpoint-btc</id>
-        <link href="http://whyes.org/2025/viewpoint-btc"/>
-        <updated>2025-05-11T14:39:06.000Z</updated>
-        <summary type="html"><![CDATA[胆道癌（biliary tract cancer，BTC）是一组肿瘤的统称，包括胆管癌（肝内胆管癌、肝门胆管癌和远端胆管癌）和胆囊癌。对于可切除 BTC，如果生长在不同的部位，手术方式（切除范围、胆管重建和淋巴结清扫）差别很大。但不同部位的...]]></summary>
-        <author>
-            <name>whyes 的博客</name>
         </author>
     </entry>
     <entry>
