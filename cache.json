@@ -334,16 +334,6 @@
           "wordCount": 2618,
           "title": "Moving from Notion to Obsidian",
           "imageUrl": "https://cdn.daverupert.com/opengraph/notion-obsidian.png"
-        },
-        {
-          "id": "https://daverupert.com/2025/05/obsidian-link-aggregator/",
-          "author": null,
-          "description": "I’m finishing up my move from Notion to Obsidian and one complexity I encountered was all my saved links. In the almost seven years of using Notion, I amassed a ~1.2 GB database of links. This is because of how the Notion Web Clipper creates a backup of the article and its assets. While this is gold to an internet archivist… I really only use this feature to sneak around paywalls. Moving to Obsidian gave me a chance to rethink my link collection process and along the way I figured out how to make an automated Link Aggregator that I could parlay into a newsletter-like blog post.\nStep 1: Install Obsidian Web Clipper\nThe first step was to capture links. I had looked at creating a custom bookmarklet, but as I rolled this out across my iPad, iPhone, personal computer, and work computer, the fou…",
-          "link": "https://daverupert.com/2025/05/obsidian-link-aggregator/",
-          "publishedOn": "2025-05-12T14:56:00.000Z",
-          "wordCount": 1501,
-          "title": "How to make a Link Aggregator in Obsidian",
-          "imageUrl": null
         }
       ]
     },
@@ -352,6 +342,26 @@
       "feedUrl": "https://hyruo.com/index.xml",
       "siteUrl": "https://lawtee.com/",
       "articles": [
+        {
+          "id": "https://lawtee.com/article/how-to-choose-a-family-nas/",
+          "author": null,
+          "description": "我前两年在 《怎样设计一个大量照片文件的网络存储的方案》 中简单分析了一下手头上的存储资源，并遵循 321 法则（备份数据分为三份、采用两种不同存储介质、并确保有一份存储在异地），使用群晖 NAS 作为家中主要存储设备，辅以 Onedrive 网络备份和移动硬盘冷备份。但到如今，这个方案又出现了些新问题，不得已，我重新设计了一套新的存储方案。\n当前主要问题\n\n群晖性能孱弱难以适应当下需要\n\n我这台群晖 DS416Slim 是 2017 年购入，至今服役 8 年，2 核 1GHz 的 ARM CPU，搭配 512MB 内存，在当下已经运转的极为吃力。\n近期，我在将手机照片备份到 NAS 时发现，一个 6 万文件的删除操作（随机不同文件夹内的重复文件），在 NAS 上花了 3 个多小时才完成，一查后台，发现 CPU 、内存全是满载状态，也是难为这个小机器了。\n日常使用中，我主要使用群晖的 Synology Photos 应用，这个相册应用支持简单的人像分类和时间分类。但由于我目前存储了近 20 万张照片，用起来非常卡，需要长时间读取 NAS 缓存到浏览器或手机 APP 后，才稍好点。\n而媒体索引就更夸张了，我从手机备份 3.8 万照片进去后，发现媒体索引每小时只能索引 200 张左右照片，得花整整 7 天时间才能完成。\n\n\nOnedrive 存储空间有限\n\n我此前选择继续使用 Onedrive 是因为当时我家庭照片、视频尚只有 700GB，Onedrive 1024GB 的存储空间足够我使用。但两年过后，目前我家的照片、视频已经达到 1000GB，Onedrive 存储不够用了。\n好在我的 Onedrive 是自己购买的家庭版，共计可以开 6 个账号，每个账号 1TB。但我实际只使用了两个账号，另外 4 个在闲鱼兜售共享给了其他网友。\n不过，我这个家庭版共享模式，自己倒是挺吃亏…",
+          "link": "https://lawtee.com/article/how-to-choose-a-family-nas/",
+          "publishedOn": "2025-08-08T09:00:00.000Z",
+          "wordCount": 325,
+          "title": "群晖、迷你主机还是捡垃圾，家用NAS怎么选",
+          "imageUrl": "https://lawtee.com/article/how-to-choose-a-family-nas/1.webp"
+        },
+        {
+          "id": "https://lawtee.com/article/how-to-solve-no-money-for-family-treatment-due-to-poor-court-enforcement/",
+          "author": null,
+          "description": "最近碰到一个 10 多年前案件的当事人，他曾遭遇过一场严重车祸，导致半身瘫痪、重度伤残，但因当时撞他的肇事者只是一名未成年人，肇事摩托车也没有任何保险，所以这个当事人几乎没有从那场车祸中得到任何赔偿，未执行到位金额高达 130 万元。近期这个当事人遇到一个难题，他的父亲得了食道癌，无钱医治，所以找到了我们。\n司法救助\n\n这个当事人的遭遇，只是我们曾经处理过无数类似情况的缩影。在 2000 年之后长达十多年的时间里，由于交通参与者安全意识薄弱、交通管理水平相对较低，大量交通事故案件中受害人实际上很难得到有效赔偿。\n2014 年国家层面建立了“司法救助”制度，对于刑事犯罪案件、民事侵权案件，因案件无法侦破、被告人没有赔偿能力或赔偿能力不足，致使受害人及其近亲属依法得不到有效赔偿，生活陷入困境的情况，统筹纳入司法救助渠道解决。\n但“司法救助”制度，讲白了也只是个辅助救济手段，受财政资金预算影响极大，不可能覆盖到当事人的全部损失。\n我们当年对于这类司法救助，原则上都以 3 万元为限，即不管损失多少，最多也只能给到 3 万元。\n在长达十多年时间里，大部分当事人只能拿到不足损失额 10% 的救助金。\n至于前边提到这个当事人，由于他的实际损失数目巨大，所以拿到手的救助金比例也就更低，我查了下 2012 年曾批复给他的救助金是 3 万元，占损失比重只有 2% .\n而当年，像他这样的情况，我们一个小小的县级区域，就有 50 多人。\n社会救助\n\n这位当事人，因车祸丧失劳动力，在司法救助后，只能靠社会救助生活，这其中主要就是国家的低保政策。\n但由于他户口不在我们这边，只能在老家农村地区申请低保，保障的效果也不是很好。\n低保医疗\n\n这次遇到的问题，并不是他本人的问题。\n如果是他本人的医治问题，我们一般可以通过协调本地医疗资源给予帮助。\n首先，低保对象本身由国家直接提供免费医保，无需缴纳医保费用即可…",
+          "link": "https://lawtee.com/article/how-to-solve-no-money-for-family-treatment-due-to-poor-court-enforcement/",
+          "publishedOn": "2025-08-01T08:00:00.000Z",
+          "wordCount": 114,
+          "title": "因法院执行不到位，导致无钱治病如何解决",
+          "imageUrl": "https://lawtee.com/article/how-to-solve-no-money-for-family-treatment-due-to-poor-court-enforcement/1.webp"
+        },
         {
           "id": "https://lawtee.com/article/placing-the-altar/",
           "author": null,
@@ -511,26 +521,6 @@
           "wordCount": 313,
           "title": "使用免费的 StackEdit 排版编辑微信公众号文章",
           "imageUrl": "https://lawtee.com/article/use-stackedit-edit-wechat-article/PAQneRt8uS778uGl.webp"
-        },
-        {
-          "id": "https://lawtee.com/article/write-hugo-blog-by-stackedit/",
-          "author": null,
-          "description": "我去年写过一篇 手机上使用StackEdit发布Hugo博客 的文章，但后续实际使用比较少。主要是因为平常很少在手机更新博客，并且我还另外找了个 PageCMS 也是非常不错的程序，（详见：使用 Pages CMS作为 HUGO 博客后台） 。不过，总体来说，想在手机上流畅更新博客，还是挺麻烦的，有必要对原来方法进行些小调整。\n之前主要问题\n\nStackEdit 问题。主要是在图片上传上，Hugo 默认目录是图片跟随 index.md 文件在同一个文件夹，但 StackEdit 默认是图库模式，只能指定一个文件夹来上传，容易造成原目录结构混乱。另外，因为 StackEdit 是本地缓存加在线同步模式，同步时默认仓库会多出很多缓存文件，而且默认同步频率很快，对目标仓库管理有一定压力。\nPageCMS 问题。主要是编辑器对手机触摸操作支持不好，不管是富文本编辑器还是 markdown 编辑器，都比较容易出故障。还有一个是 PageCMS 由于适配 Hugo 目录结构时需要修改 Hugo 模板的图片钩子功能，导致上传图片路径跟 Hugo 实际渲染的图片路径不是同一个，后台编辑时可能看到的图片都是 X 。\nVSCode 问题。 我之前更常使用的是 VSCode Web 版来写作，但 VSCode 最大问题也是对手机触摸操作支持不好，文字编辑特别费劲，只能一股脑往下打字，连最基本的复制剪切都很难在手机上实现。\n改进方法\n\n在手机上写作，最重要的还是 Markdown 编辑器的可用性。这点上，StackEdit 自然要强过其他几种方案。至于之前存在的问题，我仔细想想后，觉得还是能够克服的。\n设置仓库同步\n\n改变原有直接使用 StackEdit 打开 Hugo 仓库模式，转为通过 Rsyn 对指定目录进行同步。\n比如下边这个步骤，我通过指定在 StackEdit 提交更新时对仅包含 “n…",
-          "link": "https://lawtee.com/article/write-hugo-blog-by-stackedit/",
-          "publishedOn": "2025-05-08T09:25:00.000Z",
-          "wordCount": 397,
-          "title": "使用StackEdit进行Hugo写作",
-          "imageUrl": "https://lawtee.com/article/write-hugo-blog-by-stackedit/j8iIBbPM2YN4gs54.webp"
-        },
-        {
-          "id": "https://lawtee.com/article/another-traffic-accident/",
-          "author": null,
-          "description": "五一假期，本来没打算出远门，但岳母急着回老家，只能匆匆成行。为了减少拥堵时间，老婆建议我早上早点出发，结果才 3 点我妈就打电话过来问，是不是可以走了，她也想顺路回去看看。\n但没想到，一出门还是遇上大堵车，二广高速肇庆段几十公里飘红，广清、广连也都差不多，选择导航推荐路线便出发了。\n结果一出佛山就懵逼，在广州绕城高速转许广高速的第一个立交口，右边两条车道差不多四五公里都是大车熄火在睡觉，压根转不过去。\n只能硬着头继续往前开，想着绕行一段再上，结果第二个、第三个路口都是一模一样的情况。\n懵逼的我就不信邪了，一直走绕城高速到北村立交才终于进到北上的高速。\n上了广连高速后，接连发生堵车，差不多从 4 点半堵到早上 10 点。\n堵车\n\n\n天亮后，我在堵车路上拍了个照片。\n本来是个稀松平常的照片，但在写这篇博客的此时，刚从相册翻到这张照片，不禁一阵寒意，感觉冥冥中自有天意。\n因为一个小时后，我就要跟右边的大车来次亲密接触了。\n补充下：又仔细看了下，事故车跟这个不是同一个车。只是拖挂部分都是申通，车牌不一样。\n\n\n事故情况\n\n我大概是 4 点 10 分经过白云机场，接下来往山区走时，开始遭遇大堵车。\n疲劳驾驶\n\n由于前一晚没睡好，精力很差，遇上这种不知何时是头的堵车，真是很心塞，服务区也进不去，只能跟着车流慢慢往前磨，有时候一个小时就磨一两公里。\n真是想休息都没地方休，除非像大车那样，停应急车道睡觉，不然真是没啥办法。\n辅助驾驶\n\n在这堵车过程中，我只能开着最低级别的 L2 辅助驾驶解放下双脚。\n但这个五年前的 L2 辅助驾驶，无限接近 L2.0 水准，跟当下国产电动车那些 L2.9 L2.99 的不在一个档次上。\n只有一个雷达和摄像头进行测距和路况识别，只能在本车道内实现定速巡航或跟车行驶。\n日常用倒也没啥问题，我在高速上大部分时候都开这功能，但眼睛还是得盯着路边，方向盘也不可能放手。\n\n事故发生\n\n由于精力很差，到 8 点时，经过半个夜间折腾，我已经被搞得有点迷糊，只能确保车还走在本车道上，跟着前车走，当然，这大部分还是辅助驾驶的功劳。\n特别是在隧道这种全程白线的路段，辅助驾驶基本可以确保车辆完全在车道中央行驶，并且前雷达也可以确保不跟前车发生追尾。\n结果万万没想到，右边大车居然在隧道变道过来。\n\n\n本来堵车就很迷糊了，看到这实线变道，一时头脑发懵。\n人工干预刹车吧，这辅助驾驶又得退出重新开一遍。\n不刹车吧，好像也没问题，我车身一大半都过了大车车尾，明显应该让我先过去吧，而且车道内距离还是够宽，应该能过。\n但稀奇古怪的是，大车司机后来说他在看手机，没留意路况，车辆却一直在往左别。\n好家伙，就这样，我的后视镜刮到了他车门。\n\n事故处理\n\n刮后视镜这种事，也不是第一次遇到了，以前都是把后视镜重新掰回去就算了，一般都是掉个漆而已，不是大事。\n但这次有点不同的是，掰回去后，电动折叠功能出现故障。\n大车司机也是个实诚人，说要不报个警处理下。\n我说，报警的话，你这隧道内压实线变道可以要扣分罚款的。\n他想了想也有点犹豫，但后来还是打了 122 报警电话处理。\n122 说没发生人身伤害的话，需要自行到下一个高速出口去搞快处。\n在又磨了两个小时堵车后，终于下高速来处理这事。\n\n一下高速就看到路边停了几十辆车，都是排队等处理事故的。\n在等了差不多两个小时后，终于是处理完，大车同意出保险解决。\n主要是 4S 店沙雕说这后视镜换一个 3500 块，加工时费 300，如果是镜子和底座都坏了，得 6000 块钱。“零整比”高得离谱。大车司机说最多能出 1000 块钱，吓得我也不敢私了解决。\n\n最后通过 12123 在线处理，出了个事故认定书。\n修车\n\n昨天把车开去 4S 定损，结果人家看了一眼后，说换个壳子就完事，但需要等配件。\n感觉又被干懵逼。\n本来我是比较同情大车司机的。当时他变道也是不得已，前方车抛锚，不变道也走不了。\n而且他们车辆保险都很贵，出一次险上涨保费也不少。如果真要出几千块保险，他这亏得还是蛮多。\n但如果只是换个壳子，出个交强险就行。\n也算是个比较好的结果了吧。\n事后复盘\n\n高速事故，我遇到两次了。\n2016 年遇到一次，三个车道车流都是 120+ ，结果前车突然停在路中间，因为没判断好他到底是停着还是缓行，急刹车时间晚了点，结果没刹住，最后车头擦了对方车尾油漆，搞了几百块钱。\n这次，总体来说，虽然是对方车全责，但我还是很过意不去。\n假设我当时精力集中的话，几乎不可能发生碰撞，无论是提前刹车还是向左稍微避让点，都不至于是这个结果。\n最惊险的是，因为这个大车司机当时说眼睛瞟手机去了，如果他方向再打大一点，可能就是我这边整个车头撞上去。即便当时大家时速都在 3KM 以下，也可能出现更大的损失。\n高速路上有非常多的警示牌提示不要疲劳驾驶。\n但对于这种动不动堵车几个小时甚至十几个小时的路况，似乎没有什么好的应对办法。\n感觉像个悖论。",
-          "link": "https://lawtee.com/article/another-traffic-accident/",
-          "publishedOn": "2025-05-06T03:00:00.000Z",
-          "wordCount": 105,
-          "title": "五一假期的一起本不该发生的交通事故",
-          "imageUrl": "https://lawtee.com/article/another-traffic-accident/0.webp"
         }
       ]
     },
@@ -837,16 +827,6 @@
           "wordCount": 66,
           "title": "楠溪江自驾六天，花费1200元，总结推荐",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-06.html",
-          "author": null,
-          "description": "本文记录了楠溪江自驾游的最后一天，从太平岩出发，经过沙头镇，最终到达瓯北码头的旅程。文章详细描述了沿途的风景变化，楠溪江与瓯江的交汇，以及回程的体验，提供了丰富的旅游信息和感悟。",
-          "link": "https://blog.ops-coffee.cn/r/city-china-zhejiang-wenzhou-yongjia-nanxijiang-06.html",
-          "publishedOn": "2025-05-12T23:30:41.000Z",
-          "wordCount": 86,
-          "title": "楠溪江自驾Day6 - 交汇瓯江口",
-          "imageUrl": null
         }
       ]
     },
@@ -855,6 +835,16 @@
       "feedUrl": "https://jimmysong.io/blog/index.xml",
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
+        {
+          "id": "https://jimmysong.io/blog/embedding-atlas-experience/",
+          "author": "Jimmy Song",
+          "description": "最近发现了 Apple 开源的 Embedding Atlas 项目，结合自己的网站 RAG 测试，体验了数据可视化和检索的强大功能。",
+          "link": "https://jimmysong.io/blog/embedding-atlas-experience/",
+          "publishedOn": "2025-08-10T02:00:00.000Z",
+          "wordCount": 405,
+          "title": "发现 Embedding Atlas：网站数据可视化与检索新体验",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.webp"
+        },
         {
           "id": "https://jimmysong.io/blog/china-ev-rise/",
           "author": "Jimmy Song",
@@ -1989,16 +1979,6 @@
           "wordCount": 12117,
           "title": "Self-Hosting LLMs with Docker and Proxmox: How to Run Your Own GPT",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/Self-hosting-LLMs.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=301000",
-          "author": "Brandon Lee",
-          "description": "I have had so much fun the past few months building Proxmox servers based around Minisforum boards that have come out on the market as of recently, including the BD795M, BD795i SE, and the BD790i X3D. All of these boards have been really great, and ran perfectly in the home lab. I wanted to take …\nThe post My Top 3 Proxmox Server Builds for Performance and Efficiency appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/05/my-top-3-proxmox-server-builds-for-performance-and-efficiency/",
-          "publishedOn": "2025-05-13T12:49:54.000Z",
-          "wordCount": 12711,
-          "title": "My Top 3 Proxmox Server Builds for Performance and Efficiency",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/Top-3-Proxmox-Server-Builds.png"
         }
       ]
     },
@@ -3423,6 +3403,16 @@
       "siteUrl": "https://www.skyue.com/",
       "articles": [
         {
+          "id": "https://www.skyue.com/25081107.html",
+          "author": "拾月",
+          "description": "本周休婚假，在云南旅行，走东南环线。周六晚，阴历十六，在元阳梯田花窝窝客栈吃着老鸭汤火锅，看到天空的月亮又亮又圆，映着山谷村落里零星的灯光，非常漂亮，随手拍了一张。",
+          "link": "https://www.skyue.com/25081107.html",
+          "publishedOn": "2025-08-10T23:07:00.000Z",
+          "wordCount": 580,
+          "title": "25W31：十六的月亮",
+          "imageUrl": ""
+        },
+        {
           "id": "https://www.skyue.com/25080407.html",
           "author": "拾月",
           "description": "细心的朋友可能已经发现，我把最近3期的拾月周刊标题改为了拾月周记，因为挂着周刊的名字，总希望写点对读者有用的内容，这让我有负担。实际上，拾月周刊内容越来越私人化，现在定位为「每周整理值得记录的内...",
@@ -3620,6 +3610,16 @@
       "siteUrl": "https://bluehe.cn/",
       "articles": [
         {
+          "id": "https://bluehe.cn/archives/nanning-yongjiang",
+          "author": "寻鹤",
+          "description": "刷到了“世纪晚霞”的帖子，我也经不起诱惑，在8月2日前往，天气虽然炎热，在等待的时候逛起了我从未涉足的南宁古城墙区域，真别说，别有一番风景，几颗大树提供了遮风挡雨，来来往往的骑行人员、一步迈着一步慢跑的人员、江岸边钓鱼人青年、江岸跳水的人群、江上划着皮划艇的南男女女，以及那不没有晚霞的日落，这就是那天的收获。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n...",
+          "link": "https://bluehe.cn/archives/nanning-yongjiang",
+          "publishedOn": "2025-08-10T07:44:00.000Z",
+          "wordCount": 446,
+          "title": "邕江沿岸",
+          "imageUrl": null
+        },
+        {
           "id": "https://bluehe.cn/archives/fangte-love",
           "author": "寻鹤",
           "description": "方特东盟神画是毕业季的热门，因为女朋友很早就提过这个事情，她：那我还有机会和你去方特，我：事在人为。规划行程好了，但由于毕业很多材料，一次次错过，终于在完成教资认定后，我提前准备的EVA雨衣派上了用场，7月3日早上出发前往，199一人的门票，体检很值得。\n入园就开始先玩伴你飞翔，以为会很快，但整整排了快一个小时才到我们，耐心都被磨破了，唯一值得庆幸的是，体验感超级超级好，被方特解释为：悬挂式飞翔影...",
@@ -3677,16 +3677,6 @@
           "publishedOn": "2025-05-15T03:54:00.000Z",
           "wordCount": 459,
           "title": "广西科技馆游记",
-          "imageUrl": null
-        },
-        {
-          "id": "https://bluehe.cn/archives/nanning-zoo",
-          "author": "寻鹤",
-          "description": "在乘坐地铁前往的时候，我先看美团上看价格，发现成人票居然需要57元，对比以前新增了一个手机讲解的服务，相当于多花7元购买该服务，而且是捆绑的，不能只购买门票，而在微信公众号搜索南宁动物园，官方跳转线上购票的同程旅行就是成人是50元/人，学生25元/人。\n\n...",
-          "link": "https://bluehe.cn/archives/nanning-zoo",
-          "publishedOn": "2025-05-13T01:39:00.000Z",
-          "wordCount": 459,
-          "title": "南宁动物园",
           "imageUrl": null
         }
       ]
@@ -3827,6 +3817,16 @@
       "siteUrl": "https://www.domon.cn/",
       "articles": [
         {
+          "id": "6890be7112ab346740f8fa0d",
+          "author": "Domon",
+          "description": "虽然我在中国见过很多胆小鬼，但坚忍不拔却是中国人最大的特点。",
+          "link": "https://www.domon.cn/2025nian-7yue-yue-du-shu-zhai/",
+          "publishedOn": "2025-08-04T14:08:07.000Z",
+          "wordCount": 199,
+          "title": "2025年7月阅读书摘",
+          "imageUrl": "https://images.unsplash.com/photo-1523865236457-3ae3358a4eaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE1fHxib29rc3xlbnwwfHx8fDE3NTQzMTY0NzJ8MA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
           "id": "687246cbbac7b1178e43e553",
           "author": "Domon",
           "description": "人只要笑，就没有输。黄永玉的存在证明了一项不会磨灭的人性真理——人生苦，但人大于苦。",
@@ -3845,16 +3845,6 @@
           "wordCount": 146,
           "title": "2025年5月阅读书摘",
           "imageUrl": "https://images.unsplash.com/photo-1610116306796-6fea9f4fae38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fGJvb2tzfGVufDB8fHx8MTc0OTM1MTA4MXww&ixlib=rb-4.1.0&q=80&w=2000"
-        },
-        {
-          "id": "681ec43d6c5c20099658224f",
-          "author": "Domon",
-          "description": "孤独横穿日子，让生活中的一切变得毫无意义，那是我自己的疏忽和失败。",
-          "link": "https://www.domon.cn/2025-4yue-yue-du-shu-zhai/",
-          "publishedOn": "2025-05-10T03:15:10.000Z",
-          "wordCount": 146,
-          "title": "2025年4月阅读书摘",
-          "imageUrl": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDEwfHxib29rc3xlbnwwfHx8fDE3NDY4NDY5MDB8MA&ixlib=rb-4.1.0&q=80&w=2000"
         }
       ]
     },
@@ -3863,6 +3853,16 @@
       "feedUrl": "https://dusays.com/atom.xml",
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
+        {
+          "id": "https://dusays.com/821/",
+          "author": null,
+          "description": "<blockquote>\n<p>在数字媒体盛行的今天，观看电影、电视剧等视频内容成为了人们日常娱乐的重要部分。然而，许多视频平台要么需要付费订阅，要么充斥大量广告，还有的需要复杂的注册流程，极大地影响了观影体验。今天，就给大家介绍一款名为 LibreTV 的开源工具，它将彻底改变在线观影方式。</p>\n</blockquote>",
+          "link": "https://dusays.com/821/",
+          "publishedOn": "2025-08-10T16:00:00.000Z",
+          "wordCount": 570,
+          "title": "LibreTV 免费的在线视频观看神器",
+          "imageUrl": "https://cdn.dusays.com/avatar.png"
+        },
         {
           "id": "https://dusays.com/820/",
           "author": null,
@@ -4072,16 +4072,6 @@
           "wordCount": null,
           "title": "探索网络实验的神器 Mininet",
           "imageUrl": null
-        },
-        {
-          "id": "https://dusays.com/806/",
-          "author": null,
-          "description": "<blockquote>\n<p>RSSHub 可以根据我们的需求生成个性化的 RSS 订阅源，让我们轻松地获取到各种平台的最新资讯。本文将详细介绍 RSSHub 搭建过程，快速搭建起属于自己的资讯中心。</p>\n</blockquote>",
-          "link": "https://dusays.com/806/",
-          "publishedOn": "2025-05-12T16:00:00.000Z",
-          "wordCount": 648,
-          "title": "RSSHub 搭建指南打造个性化资讯中心",
-          "imageUrl": "https://cdn.dusays.com/avatar.png"
         }
       ]
     },
@@ -4128,18 +4118,7 @@
       "title": "牧尘的NAS小站",
       "feedUrl": "https://www.dreamlyn.cn/atom.xml",
       "siteUrl": "https://www.dreamlyn.cn/atom.xml",
-      "articles": [
-        {
-          "id": "https://www.dreamlyn.cn/27425.html",
-          "author": null,
-          "description": "<h1 id=\"一、前言\"><a href=\"#一、前言\" class=\"headerlink\" title=\"一、前言\"></a>一、前言</h1><p>你是否曾经困惑过：家里的NAS明明连上了网，为何我在外地却访问不到？为什么别人能通过公网IP访问他们的设备，而我却只能在局域",
-          "link": "https://www.dreamlyn.cn/27425.html",
-          "publishedOn": "2025-05-13T03:02:22.000Z",
-          "wordCount": 642,
-          "title": "什么是NAT？NAS远程访问绕不开的网络魔法",
-          "imageUrl": "https://img.dreamlyn.cn:8443/i/2024/02/22/115030.webp"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Pandalab",
@@ -4201,16 +4180,6 @@
           "wordCount": 1390,
           "title": "MySQL 数据库如何使用 mydumper 和 myloader 数据快速备份和迁移",
           "imageUrl": "https://imagehost.mintimate.cn/post_mysqlMigrationByDumper/banner.webp"
-        },
-        {
-          "id": "https://www.mintimate.cn/2025/05/12/ioregBattery/",
-          "author": null,
-          "description": "告别第三方工具！在 macOS 的 Terminal 上使用 ioreg 直接查看更真实的电池健康度，无需第三方工具，无需重启，无需打开电池设置，无需打开电池健康度页面。",
-          "link": "https://www.mintimate.cn/2025/05/12/ioregBattery/",
-          "publishedOn": "2025-05-12T15:29:13.000Z",
-          "wordCount": 1066,
-          "title": "告别第三方工具！macOS Terminal 直接查看更真实的电池健康度",
-          "imageUrl": "https://imagehost.mintimate.cn/post_ioregBattery/banner.webp"
         }
       ]
     },
@@ -4297,16 +4266,6 @@
           "publishedOn": "2025-05-23T09:25:59.000Z",
           "wordCount": 531,
           "title": "PHP应用容器化遇到的一些问题",
-          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
-        },
-        {
-          "id": "https://zahui.fan/posts/sw6yvo/",
-          "author": null,
-          "description": "<h2 id=\"定义\"><a href=\"#定义\" class=\"headerlink\" title=\"定义\"></a>定义</h2><h2 id=\"HTTP-Get-监控\"><a href=\"#HTTP-Get-监控\" class=\"headerlink\" title=\"HTTP Get 监控\"></a>HTTP Get 监控</h2><h2 id=\"收集业务-Metrics\"><a",
-          "link": "https://zahui.fan/posts/sw6yvo/",
-          "publishedOn": "2025-05-13T08:42:59.000Z",
-          "wordCount": 485,
-          "title": "Prometheus自动监控K8S集群中的service",
           "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
         }
       ]
@@ -4959,6 +4918,56 @@
       "siteUrl": "https://chegva.com",
       "articles": [
         {
+          "id": "https://chegva.com/?p=6272",
+          "author": "anzhihe",
+          "description": "了解了沟通原理和相关问题之后，我们来系统地分析一下哪些因素会成为沟通中最主要的障碍，并给出应对方法。\n信息不准确\n对照我们在沟通原理中提到的沟通模型，可以看到，如果被编码的信息本身是错误的，或是你的编码器中有 bug，把信息编辑错了，那么，无论是你有多牛的沟通技巧，采用多有效率的沟通方式，都不可能表达清楚。用词不当，词不达意，添油加醋，断章取义，歪曲事实……都是这类沟通方式最糟糕的表现。\n针对这类情况，我给出的建议是，在沟通之前，首先要想清楚沟通的目的是什么，然后整理自己的措辞。如果是一些比较重要的沟通，最好可以把自己的想法写下来，然后放一会儿，再回过头来看，想象一下如果是别人对自己讲这些话，自己会怎么理解。\n在实时交谈的过程中时，面对一些容易让人产生误解，或是自己感觉没有表达好的信息，你需要停下来，思考一下，换个方式，重新再来一次。我也经常这样。我会停一下，告诉对方，让他等一下，给我一点时间来组织语言和逻辑，或者说，对不起，我没表达好，我换个思路重新说……\n而当别人没有表达清楚的时候，你要及时打断对方，跟对方说，你没有听懂，你不知道这是什么意思，是否可以重新澄清一下，等等。这都是我们日常沟通中惯用的手法。而如果你明明知道你不懂却不好意思问的话，这就是沟通中最大的阻碍了，沟通就是要来来回回的确认。\n这里的关键点是，在信息不准确时，节约时间已经没有意义了。沟通效率的关键不在于快，而是准确！要做到这些，你需要不断地练习，多有几次准确表达自己、成功沟通的经历，就会驱使你的沟通表现越来越好。在《程序员面试攻略》中，我还分享了另一个方法，就是多看多写，养成写博客的习惯。当你越来越能把复杂的事情写清楚的时候，你的表达能力就会越好。\n信息太多\n信息太多就等于没有信息。有些人在交流的时候，会先说一些无效信息或者与主题无关的干扰信息。比如：\n\n害怕别人可能不能理解，就进行大量的前期铺垫和背景…",
+          "link": "https://chegva.com/6272.html",
+          "publishedOn": "2025-08-07T12:50:56.000Z",
+          "wordCount": 9259,
+          "title": "高效沟通(二)：沟通阻碍和应对方法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chegva.com/?p=6483",
+          "author": "anzhihe",
+          "description": "Nginx可以通过配置stream模块来实现对HTTPS的TCP四层正向代理。核心是使用proxy_pass指令将流量转发到目标服务器，同时配合ssl_preread指令处理TLS握手，实现HTTPS的透明代理。\n一个简单的配置示例：\nstream {\r\n    resolver 223.5.5.5 114.114.114.114; # 配置DNS解析器\r\n    resolver_timeout 10s;\r\n\r\n    server {\r\n        listen 443; # 监听的端口\r\n        ssl_preread on; # 启用ssl_preread模块，用于处理TLS握手\r\n\r\n        proxy_connect_timeout 10s;\r\n        proxy_timeout 30s;\r\n        proxy_pass $ssl_preread_server_name:$server_port; # 转发到目标服务器\r\n        proxy_protocol on; #启用PROXY protocol\r\n        # 可以根据需要添加其他proxy_*指令\r\n    }\r\n}\n\n\n配置说明:\n\n\n\n\nstream模块: Nginx的stream模块用于处理TCP和UDP的四层代理，与HTTP模块同级。\n\nresolver: 配置DNS解析器，用于解析目标服务器的域名。\n\nlisten: 指定Nginx监听的端口，这里是20017。\n\nssl_preread on: 启用ssl_preread模块，这个模块允许Nginx在TLS握手阶段读取SNI (Server Name Indication) 扩展，从而获取目标服务器的域名，这对于HTTPS的透明代理至关重要。\n\nproxy_pass: 将流量转发到目标服务器。$ssl_preread_server_name是ssl_preread模块提取到的SNI信息，表示目标服务器的域名，$server_port是客户端请求的目标端口。\n\nproxy_connect_timeout, proxy_timeout: 设置连接超时和读写超时时间。\n\nproxy_protocol on: 启用PROXY protocol，如果后端服务器支持，可以传递客户端的真实IP和端口信息。\n\n\n\n注意事项:\n\n\n\n\n需要确保Nginx编译时已启用ngx_stream_ssl_preread_module和ngx_stream_proxy_module模块。\n\n目标服务器需要正确配置SSL证书，以便Nginx能够正常进行TLS握手。\n\n根据实际需求，可以配置其他proxy_*指令，例如proxy_buffer_size, proxy_next_upstream等。\n\n如果后端服务器是HTTPS的，则需要在proxy_pass中指定HTTPS协议，例如 proxy_pass https://$ssl_preread_server_name:$server_port;。\n\n\n\n配置HTTPS正向代理的流程:\n\n\n\n\n客户端发起HTTPS请求，连接到Nginx的监听端口。\n\nNginx的stream模块接收到连接，并使用ssl_preread模块读取SNI信息，获取目标服务器的域名。\n\nNginx根据SNI信息，将请求转发到目标服务器。\n\nNginx与目标服务器建立TLS连接，进行HTTPS握手。\n\nNginx将目标服务器的响应返回给客户端。\n\n\n\n通过stream模块和ssl_preread模块，Nginx可以实现对HTTPS的TCP四层正向代理，将客户端的请求透明地转发到目标服务器，并处理TLS握手。这种方式可以用于实现负载均衡、流量转发等功能，同时保持HTTPS的安全性。\n相关参考：\n\n使用NGINX作为HTTPS正向代理服务器\n\n\nNginx 四层代理详解：原理、配置与实战\n\n使用Nginx实现TCP反向代理\n\nNGINX正向代理和反向代理实验记录\n\n\n如何用NGINX实现UDP四层反向代理？\n\n\nnginx 转发代理 wss 和 https (目标程序是 ws 和 http)\n\n\n四层负载均衡漫谈\n\nNginx stream转发配置\n\n\n\nSquid正向代理",
+          "link": "https://chegva.com/6483.html",
+          "publishedOn": "2025-07-31T16:11:33.000Z",
+          "wordCount": 9828,
+          "title": "Nginx正向代理",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chegva.com/?p=6490",
+          "author": "anzhihe",
+          "description": "工作中，发送大文件时必不可少的一步操作就是比对MD5值，这个步骤很有必要，有时候折腾半天才发现接收到的文件并不完整，MD5值对不上，又得重新拷贝一遍，MD5值主要用来校验文件完整性（如下载文件、备份验证）。\n\nLinux 系统\n方法 1：使用 md5sum 命令（最常用）\nmd5sum 文件名\n示例：\nmd5sum ubuntu.iso\n输出：\nd6e8f9265763a0d9a3e633b1c5f1c4b2 ubuntu.iso\n（d6e8... 即为 MD5 值）\n方法 2：结合其他工具（如 find 批量处理）\nfind /path/to/files -type f -exec md5sum {} \\;\n图形界面工具（可选）：\n\nGtkHash：支持多种哈希算法，提供图形化操作。\n\n\n\nmacOS 系统\n方法 1：使用终端命令 md5\nmacOS 自带 md5 命令，直接运行即可：\nmd5 文件路径\n示例：\nmd5 ~/Downloads/ubuntu.iso\n输出：\nMD5 (/Users/anzhihe/Downloads/ubuntu.iso) = d6e8f9265763a0d9a3e633b1c5f1c4b2\n（d6e8... 即为 MD5 值）\n方法 2：使用 openssl 命令\n如果习惯 OpenSSL 语法，也可以使用：\nopenssl md5 文件路径\n图形化工具（可选）\n\nHashTab（付费但好用）\n\n\n安装后右键文件 → 显示简介 → HashTab 标签页。\n\n\nQuickHash（免费开源）\n\n\n支持文件/文件夹的多种哈希计算（MD5、SHA1 等）。\n\n\nWindows 10 系统\n方法 1：使用 PowerShell（推荐，无需安装）\n\n打开 PowerShell（管理员权限非必需）。\n\n执行命令：\n\nGet-FileHash 文件路径 -Algorithm MD5\n示例：\nGet-FileHash \"C:\\Downloads\\ubuntu.iso\" -Algorithm MD5\n输出：\nAlgorithm       Hash                                                                   Path\r\n---------       ----                                                                   ----\r\nMD5             D6E8F9265763A0D9A3E633B1C5F1C4B2                                       C:\\Downloads\\ubuntu.iso\n（D6E8... 即为 MD5 值）\n\n⚠️ 注意：\n\n若提示 Get-FileHash 不存在，请升级 PowerShell 至 4.0 以上版本（Win10 默认支持）。\n\n\n方法 2：使用命令提示符（CMD） + CertUtil\n\n打开 CMD（管理员权限非必需）。\n\n执行：\n\ncertutil -hashfile 文件路径 MD5\n示例：\ncertutil -hashfile \"C:\\Downloads\\ubuntu.iso\" MD5\n输出：\nMD5 的哈希:\r\nd6e8f9265763a0d9a3e633b1c5f1c4b2\r\nCertUtil: -hashfile 命令成功完成。\n\n图形界面工具（可选）：\n\n7-Zip：\n右键文件 → CRC SHA → MD5。\n\nHashTab（免费工具）：\n安装后右键文件 → 属性 → 文件校验 标签页。\n\n\n注意事项：\n\nMD5 的用途：校验文件完整性（如下载文件、备份验证），不适用于安全加密（已被证明不安全）。\n\n跨平台一致性：同一文件的 MD5 值在 Linux/macOS/Windows 下结果相同。\n\n大文件处理：计算时间随文件大小增加，耐心等待即可。\n\n如有其他需求（如 SHA256 校验），可调整命令中的算法参数（如 -Algorithm SHA256）,macOS中将命令中的 md5 替换为 shasum -a 256 即可。",
+          "link": "https://chegva.com/6490.html",
+          "publishedOn": "2025-07-26T08:41:09.000Z",
+          "wordCount": 10813,
+          "title": "Linux、Mac和Win10查看文件MD5值",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chegva.com/?p=6486",
+          "author": "anzhihe",
+          "description": "距离绝地大逃杀1.0上线已经一个多月了，情况比想象中的要好，五只乌龟都还在，小强、虾王、斗鱼也没有被吃掉。国斗天天在小缸里干架，有只小乌龟还越狱了，被娃发现抓了回来，鱼龟混养算是成功啦。但是由于缸太小，水体小，虽然铺了火山石，一两周后水看着还是有点浑，石头下边都是粑粑，水培绿植和过滤也不太给力，于是换了个60的缸，重新开缸升级一版——绝地大逃杀2.0之开心乐园。\n底部：火山石+细菌屋+过滤板；水培绿植：水竹+春羽+绿萝；和娃周末一起自制了一个过滤器，里边放了过滤棉+滤材+火山石(用来种绿萝)。然后又买了十条观背青鳉，这种小鱼(游速快+体型小+躲避)和乌龟混养存活率会高很多，从旁边鱼缸捞了条草金放缸里，没过三分钟就被巴西蛊王咬到鱼鳍了，赶紧扔回鱼缸，不然就要目睹惨案发生了。中途出差两周没回来，虾王跳缸而亡，不知是新缸不适应还是太兴奋了，缘份已尽。回来发现鱼缸里的三条小黄辣丁崽子只剩下一条了，从公园里捞回来一个多月，长了一公分，大概率是被草金吃掉了，气得赶紧把仅剩的独苗捞到了乌龟缸里。旁边草金也跳了一条，后边斗鱼又跳了一条，被咬死一条，失踪一条，龟缸里只剩两条斗鱼了。观背青鳉失踪一条，还剩九条。周末娃从电玩城捞鱼机又捞了八条草金回来，这玩意根本死不完。\n目前是五只龟，小强(长了一公分，是条虾虎)，一条黄辣丁，九条青鳉，两条国斗。周末去捞了几条小鱼和虾，又从鱼缸弄了些田螺崽子放了进来。基本上黄辣丁和小强、小鱼虾喜欢待在过滤板下、石头缝和细菌屋管子里，有时上来玩玩。龟和鱼在上边玩，总体来说，相处得都还算和谐，希望它们都能开开心心在开心乐园里幸福地生活下去。\n\n\n\n\r\n\n\r\n\r\n\r\n[video dplayer=\"true\" autoplay=\"false\" src=\"https://cdn.chegva.com/ueditor/php/upload/video/20250720/1752947083647950.mp4\" loop=\"false\" preload=\"true\" theme=\"#b7daff\" mutex=\"true\" iconsColor=\"#ffffff\"]\r\n\r\n\r\n\n\r\n\n\r\n\r\n\r\n[video dplayer=\"true\" autoplay=\"false\" src=\"https://cdn.chegva.com/ueditor/php/upload/video/20250720/1752947083593583.mp4\" loop=\"false\" preload=\"true\" theme=\"#b7daff\" mutex=\"true\" iconsColor=\"#ffffff\"]",
+          "link": "https://chegva.com/6486.html",
+          "publishedOn": "2025-07-19T17:52:43.000Z",
+          "wordCount": 8619,
+          "title": "绝地大逃杀2.0之开心乐园",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chegva.com/?p=6406",
+          "author": "anzhihe",
+          "description": "生产实践：\n\n    使用脚本、工具批量操作服务器做免密及修改密码\n\n学习技巧：\n\n    Shell 脚本、sshpass、parallel-ssh及ansible工具使用\n\n脚本内容：      \n\n     使用脚本、工具批量操作服务器做免密及修改密码，常用于服务器初始化及批量操作。\n一、sshpass使用\n1、确保本地机器已安装sshpass工具\napt install sshpass  # Ubuntu/Debian\r\nyum install sshpass  # CentOS/RHEL\n2、准备服务器列表文件（如servers.txt），格式为：用户名@IP地址:端口 密码\n例如：\nroot@192.168.1.100:22 password1\r\nadmin@192.168.1.101:2222 password2\n批量配置SSH免密登录\n#!/bin/bash\r\n\r\n# 生成SSH密钥对（如果尚未生成）\r\nif [ ! -f ~/.ssh/id_rsa ]; then\r\n    ssh-keygen -t rsa -N \"\" -f ~/.ssh/id_rsa\r\nfi\r\n\r\n# 读取服务器列表\r\nwhile read line; do\r\n    # 提取信息\r\n    server=$(echo $line | cut -d' ' -f1)\r\n    password=$(echo $line | cut -d' ' -f2)\r\n    \r\n    # 分离用户名、IP和端口\r\n    user=$(echo $server | cut -d'@' -f1)\r\n    ip_port=$(echo $server | cut -d'@' -f2)\r\n    ip=$(echo $ip_port | cut -d':' -f1)\r\n    port=$(echo …",
+          "link": "https://chegva.com/6406.html",
+          "publishedOn": "2025-07-17T16:23:34.000Z",
+          "wordCount": 13857,
+          "title": "使用脚本、工具批量操作服务器做免密登录及修改密码",
+          "imageUrl": null
+        },
+        {
           "id": "https://chegva.com/?p=6479",
           "author": "anzhihe",
           "description": "分类术语基础概述关键技术发展历程应用场景\n\n基础概念AI（Artificial Intelligence）人工智能模拟人类智能的计算机系统，执行学习、推理、决策等任务，用于模拟、扩展和增强人类智能的技术工具和方法\n符号主义（规则系统）、连接主义（神经网络）、行为主义（环境交互），\n生成式AI、自然语言处理（NLP）、Transformer模型、BERT、PEFT微调方法及大语言模型（LLM）等\n\n1956年达特茅斯会议提出；\n2012年深度学习爆发；\n2022年生成式AI革命\n自动驾驶、医疗诊断、智能客服、内容创作辅助、人机协作\nML（Machine  Learning）机器学习利用数据进行学习的技术，从数据中学习规律，使计算机能够通过算法模型从数据中获取特征并不断优化模型以做出决策和预测，无需显式编程即可改进其性能\n监督学习（分类/回归）、无监督学习（聚类）、强化学习（奖励机制）\n机器学习的核心技术包括算法原理，涉及模型训练、特征工程、模型部署等流程，同时涵盖损失函数、正则化项等策略，以实现有效的模型评估与选择。\n\n1958年感知机诞生；\n1986年BP算法；\n2012年ImageNet竞赛突破\n金融风控、推荐系统、图像识别\nDL（Deep  Learning）深度学习基于多层神经网络的复杂模式学习，利用多层神经网络处理复杂数据模式的机器学习技术，通过模拟人脑神经网络进行学习和识别的机器学习方法CNN（图像处理）、RNN/LSTM（时序数据）、Transformer（自注意力机制）\n2012年AlexNet夺冠；\n2014年GAN；\n2015年ResNet\nAlphaGo、语音识别、图像处理、自然语言理解\nRL（Reinforcement Learning）强化学习通过环境反馈（奖励/惩罚）优化决策策略，是一种优化整个决策过程以最大化累积收益的算法领域，重点关注决策之间的…",
@@ -5076,76 +5085,6 @@
           "publishedOn": "2025-05-22T14:55:52.000Z",
           "wordCount": 12909,
           "title": "【持续更新】周易《大象传》详解",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6388",
-          "author": "anzhihe",
-          "description": "在macOS中，若因VPN或其他软件导致默认nameserver（DNS服务器）地址被强制修改，可通过以下方法手动强制替换DNS服务器地址，确保域名解析正常：\n\n一、通过系统偏好设置（图形化操作）\n\n打开网络设置\n\n\n点击左上角苹果图标 > 系统偏好设置 > 网络。\n\n选择当前活跃的网络接口（如Wi-Fi、Ethernet或VPN虚拟接口）。\n\n\n修改DNS服务器\n\n\n点击右下角 高级 > 切换到 DNS 标签页。\n\n在 DNS服务器 列表左侧，点击 + 添加新的DNS地址（如8.8.8.8、114.114.114.114）。\n\n拖动新添加的DNS地址到列表顶部，确保优先级最高。\n\n点击 OK > 应用 保存配置。\n\n\n清除DNS缓存\n终端执行：\n\nkillall -HUP mDNSResponder\n\n二、通过终端命令强制修改（推荐）\n若VPN或软件锁定了图形化设置，可直接通过终端覆盖DNS配置：\n1. 查看当前网络接口名\n执行命令获取活跃接口名（如Wi-Fi、Ethernet或VPN连接名）：\nnetworksetup -listallnetworkservices\n2. 强制设置指定DNS服务器\n替换[接口名]为实际名称（如Wi-Fi），并指定DNS地址（以8.8.8.8和1.1.1.1为例）：\nnetworksetup -setdnsservers \"[接口名]\" 8.8.8.8 1.1.1.1\n示例：\nnetworksetup -setdnsservers \"Wi-Fi\" 8.8.8.8 1.1.1.1\n3. 验证DNS配置\n# 查看当前DNS服务器\r\nnetworksetup -getdnsservers \"[接口名]\"\r\n\r\n# 测试域名解析\r\ndig example.com\r\nnslookup example.com\n4. 清除DNS缓存\nkillall -HUP mDNSResponder  # 刷新缓存\r\ndscacheutil -flushcache     # 辅助清理\n\n三、针对VPN虚拟接口的特殊处理\n若DNS被VPN虚拟接口（如utun0）强制覆盖，需直接修改VPN接口的DNS设置：\n1. 临时覆盖VPN接口DNS\n# 查找VPN虚拟接口名（通常为utun0、utun1等）\r\nifconfig | grep utun\r\n\r\n# 手动设置DNS（以utun0为例）\r\nsudo networksetup -setdnsservers \"utun0\" 8.8.8.8 1.1.1.1\n2. 阻止VPN自动修改DNS\n\n在aTrust VPN客户端设置中，取消勾选 使用VPN的DNS服务器 或类似选项。\n\n若客户端无此选项，需联系VPN管理员调整策略。\n\n\n四、直接修改配置文件（备用方案）\n若上述方法无效，可手动修改/etc/resolv.conf（需关闭SIP保护）：\n\n临时禁用SIP（需重启）\n\n\n重启Mac，按住 Command + R 进入恢复模式。\n\n打开终端执行：\n\ncsrutil disable\r\nreboot\n\n修改DNS配置文件\n\n\n编辑/etc/resolv.conf（文件可能为只读链接，需先删除后重建）：\n\nsudo rm /etc/resolv.conf\r\nsudo tee /etc/resolv.conf <<EOF\r\nnameserver 8.8.8.8\r\nnameserver 1.1.1.1\r\nEOF\n\n重新启用SIP\n\n\n再次进入恢复模式执行：\n\ncsrutil enable\r\nreboot\n\n五、验证DNS是否生效\n\n检查当前使用的DNS服务器\nscutil --dns | grep \"nameserver\n\n测试域名解析延迟\ntime dig example.co\n\n捕获DNS请求流量\ntcpdump -i en0 port 53 -vvn  # 替换en0为实际接口\n\n\n六、注意事项\n\n优先级问题\nmacOS默认遵循以下优先级：\n手动设置DNS > VPN接口DNS > 系统默认DNS。若VPN强制锁定DNS，需联系管理员调整策略。\n\n持久性配置\n通过networksetup修改的DNS在重启后仍有效，但某些VPN重连后可能覆盖配置，需结合脚本或自动化工具固化设置。\n\n防火墙与代理干扰\n确保本地防火墙（如Little Snitch）或代理工具未拦截DNS请求（默认端口UDP 53）。\n\n通过上述方法，可强制替换macOS的nameserver地址，解决因DNS配置异常导致的域名解析问题。",
-          "link": "https://chegva.com/6388.html",
-          "publishedOn": "2025-05-12T14:40:45.000Z",
-          "wordCount": 10442,
-          "title": "MacOS修改nameserver DNS服务器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6365",
-          "author": "anzhihe",
-          "description": "在使用lvm前先了解下 LVM介绍及架构，直接开撸。\nLVM卷使用\n假设有一块1T的盘(/dev/sdb)，创建三个分区，使用LVM配置逻辑卷并管理，常见操作步骤如下：\n1. 使用fdisk创建LVM类型的分区 → 2. 创建物理卷 → 3. 创建卷组 → 4. 创建逻辑卷 → 5. 格式化并挂载逻辑卷 → 6. 更新fstab\n使用fdisk创建分区：fdisk /dev/sdb\n\n\n按 n 创建新分区，选择主分区 (p)，分区号1，起始扇区默认，结束扇区设置为 +300G。\n\n按 t 更改分区类型，选择 8e (Linux LVM)。\n\n重复上述步骤创建分区2和3，分配剩余空间（确保类型均为8e）。\n\n按 w 保存并退出。\n\n\nLVM配置逻辑卷\n1. 创建物理卷（PV）：\r\npvcreate /dev/sdb1 /dev/sdb2 /dev/sdb3\r\n\r\n2. 创建卷组（VG）：\r\nvgcreate vg_sealer /dev/sdb1 /dev/sdb2 /dev/sdb3\r\n\r\n3. 创建逻辑卷（LV）：\r\nlvcreate -n lv_sealer -L 300G vg_sealer\n格式化并挂载逻辑卷\n1. 格式化逻辑卷：根据需求选择 ext4、xfs 或其他类型，格式化命令需匹配\r\nmkfs.ext4 /dev/vg_sealer/lv_sealer\r\n\r\n2. 创建挂载目录：\r\nmkdir -p /var/lib/sealer\r\n\r\n3. 获取逻辑卷的UUID：\r\nblkid /dev/vg_sealer/lv_sealer\r\n\r\n4. 编辑/etc/fstab文件：\r\nvim /etc/fstab\r\n添加以下行，\r\n# 设备标识（建议使用UUID，避免设备名变化导致问题），第1个0为dump 备份标志（0=不备份，1=备份），第2个0为 fsck 检查…",
-          "link": "https://chegva.com/6365.html",
-          "publishedOn": "2025-05-11T21:32:06.000Z",
-          "wordCount": 12225,
-          "title": "LVM卷在线扩缩容及常用操作",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6371",
-          "author": "anzhihe",
-          "description": "踩了个研发建表没有设置主键的坑，mark一下。数据库实例是 tdsql mysql 5.7，服务建表的时候直接报错：ERROR 1173 （42000）：This table type requires a primary key，最后乖乖加上主键解决。\ntdsql中设置建表必须需要显式主键的参数为 reject_table_no_pk\n\n至于为什么建表必须创建主键应该是主要有两个原因，一个是mysql规范，一个是怕影响性能埋坑。\n\nTDSQL-C MySQL 版使用规范\n\n\n\n TDSQL 内核使用 row 格式的 binlog 复制。根据目前 MariaDB/MySQL 的实现方式，如果一个 update/delete 语句更新或者删除了很多行，那么到了备机上面，更新或者删除每个行时候，需要使用索引扫描或者全表扫描来找到这个行，导致备机复制变得非常慢，这是非常严重的问题。 在 TDSQL 的告警平台上面就有用户出现过主备延迟因此变得非常大的告警。为了避免这些致命问题的出现，所以才有“自动增加主键”和“禁止 create table/alter table 语句产生无主键的表”\n解决方案\n为表添加显式主键\n1.通过 ALTER TABLE 语句为表添加主键\r\nALTER TABLE 表名 ADD PRIMARY KEY (列名);\r\n\r\n2.或者修改建表语句，添加主键\r\nCREATE TABLE IF NOT EXISTS `zone_xxx_job` (\r\n    `id` bigint(20) NOT NULL AUTO_INCREMENT,\r\n    `dispatch_job_id` bigint(20) NULL,\r\n    PRIMARY KEY (`id`)\r\n) ENGINE = InnoDB CHARSET = utf8mb4;\r\n\r\n3.验证主键是否生效\r\nSHOW CREATE TABLE 表名;\n\n注意事项：\n\n列要求：主键列必须满足以下条件：\n\n\n值唯一且非空。\n\n数据类型适合作为索引（推荐整数类型如 INT、BIGINT）。\n\n\n数据冲突：若表中已有数据，需确保主键列无重复值，否则会报错 Duplicate entry。\n\n\n\n参考：记一次数据库迁移的过程采坑过程",
-          "link": "https://chegva.com/6371.html",
-          "publishedOn": "2025-05-09T09:45:52.000Z",
-          "wordCount": 9080,
-          "title": "TDSQL MySQL ERROR 1173 （42000）：This table type requires a primary key报错处理",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6370",
-          "author": "anzhihe",
-          "description": "sql_mode 是 MySQL 中一个关键的系统变量，用于控制 SQL 语法解析、数据校验和存储行为的严格程度。合理配置 sql_mode 可以确保数据一致性、兼容性和安全性。以下是详细的配置说明及操作指南：\n\n一、sql_mode 的核心作用\n\n语法校验：控制 SQL 语句的语法规则（如是否允许省略 GROUP BY 中的非聚合字段）。\n\n数据校验：严格检查数据的合法性（如日期格式、除零操作）。\n\n兼容性：调整 MySQL 行为以兼容其他数据库（如 Oracle 或 SQL Server）。\n\n安全性与性能：通过严格模式避免脏数据写入，提升数据质量。\n\n\n二、常见的 sql_mode 模式\n\n\n模式名称说明\n\nSTRICT_ALL_TABLES对所有表的写入操作启用严格模式，非法数据会触发错误。\nSTRICT_TRANS_TABLES对事务型存储引擎（如 InnoDB）启用严格模式，非事务引擎可能宽松处理。\nONLY_FULL_GROUP_BY要求 GROUP BY 子句包含所有非聚合字段，避免查询结果不确定性。\nNO_ZERO_IN_DATE禁止日期中的月份或日为 0（如 '2023-00-01'）。\nNO_ZERO_DATE禁止插入 '0000-00-00' 这样的零日期。\nERROR_FOR_DIVISION_BY_ZERO除零操作触发错误（否则返回 NULL 并警告）。\nNO_AUTO_CREATE_USER禁止 GRANT 语句自动创建用户（需先显式创建用户）。\nNO_ENGINE_SUBSTITUTION阻止存储引擎自动替换（如表指定引擎不可用时直接报错）。\nANSI启用 ANSI SQL 兼容模式，包含多种严格规则。\nTRADITIONAL启用传统严格模式（类似 STRICT_TRANS_TABLES + 其他严格规则）。\n\n\n三、查看与配置 sql_mo…",
-          "link": "https://chegva.com/6370.html",
-          "publishedOn": "2025-05-06T01:39:45.000Z",
-          "wordCount": 11677,
-          "title": "MySQL sql_mode 参数配置详解",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6268",
-          "author": "anzhihe",
-          "description": "如何面对枯燥的知识\n首先，我们要知道，为什么会有枯燥的知识？一般来说，枯燥的东西通常是你不感兴趣的东西，而你不感兴趣的东西，可能是你并不知道有什么用的东西。这样的知识通常是比较底层或是抽象度比较高的知识，比如：线性代数，或者一些操作系统内部的原理……越理论的东西就越让人觉得枯燥。\n我还记得，当初上大学学习《计算机网络》时，直接学习那个七层协议，以及那些报文，让我感觉枯燥得不行。那个时候，完全不知道这些东西有什么用，因为我连网络是什么都没有见过。直到有一天，我在老师的公司里看到了网卡、网线和 Hub，然后了解了 Windows NT 的域和 IP 地址，然后用 Power Builder 连上了 SQL Server，用 SQL 写入并读取了数据，我才真正明白网络原来有这么好玩。\n我开始学习《TCP/IP 详解》，又感到一阵枯燥。然后，有一个同事给我递来了《Unix 网络编程》，我照着其中的例子，写了一个聊天服务器，前端用 Delphi 写了一个 QQ 的样子，那种兴奋劲就别提了。再后来，因为要处理网络问题，调优网络性能，我才发现，以前随便学了点的《TCP/IP 详解》对我在排查网络问题上有很大的帮助。这个时候，我才认真地看了这本书，也正是这个时候，才算是真正读进去了。\n后来，我让我团队的一个人学《TCP/IP 详解》这本书，他发现有点难啃就买了一本《图解 TCP/IP》。我找来一看，发现这种图文并茂的书真是增加了很不错的阅读体验，一下子就觉得不是很枯燥了。这让我回想起来那本《从一到无穷大》的相对论科普书，简单、一点也不枯燥。然而，能把这么复杂的问题用这么简单的语言讲清楚的一定是这个领域的大牛了。\n我列举我的这个学习过程，就是想说，如果你发现有些知识太过于枯燥，那么可以通过下面的方法解决。\n\n这个知识对于你来说来太高级了，你可能不知道能用在什么地方。\n\n人的认知是从感性认识向…",
-          "link": "https://chegva.com/6268.html",
-          "publishedOn": "2025-05-03T06:36:20.000Z",
-          "wordCount": 9338,
-          "title": "高效学习(五)：面对枯燥和量大的知识",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6377",
-          "author": "anzhihe",
-          "description": "[xj title=\"日常成长\" introduction=\"20210606-1,20210606-2,20210606-3,20210612-1,20210612-2,20210612-3,20210612-4,20210613-1,20210613-2,20210614-1,20210614-2,20210622-1,20210622-2,20210627-1,20210627-2\" url=\"https://cdn.chegva.com/ueditor/php/upload/video/202106/20210606-1.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210606-2.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210606-3.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210612-1.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210612-2.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210612-3.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210612-4.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210613-1.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210613-2.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210614-1.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210614-2.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210622-1.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210622-2.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210627-1.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202106/20210627-2.mp4\" name=\"20210606-1,20210606-2,20210606-3,20210612-1,20210612-2,20210612-3,20210612-4,20210613-1,20210613-2,20210614-1,20210614-2,20210622-1,20210622-2,20210627-1,20210627-2\"\r\n]",
-          "link": "https://chegva.com/6377.html",
-          "publishedOn": "2025-05-02T09:09:06.000Z",
-          "wordCount": 8510,
-          "title": "我的崽崽(31)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6376",
-          "author": "anzhihe",
-          "description": "[xj title=\"回村里玩耍\" introduction=\"20210501-1,20210501-2,20210501-3,20210503,20210504-1,20210504-2,20210507,20210508,20210512,20210521,20210529-1,20210529-2,20210529-3,20210529-4\" url=\"https://cdn.chegva.com/ueditor/php/upload/video/202105/20210501-1.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202105/20210501-2.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202105/20210501-3.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202105/20210503.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202105/20210504-1.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202105/20210504-2.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202105/20210507.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202105/20210508.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202105/20210512.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202105/20210521.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202105/20210529-1.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202105/20210529-2.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202105/20210529-3.mp4,https://cdn.chegva.com/ueditor/php/upload/video/202105/20210529-4.mp4\" name=\"20210501-1,20210501-2,20210501-3,20210503,20210504-1,20210504-2,20210507,20210508,20210512,20210521,20210529-1,20210529-2,20210529-3,20210529-4\"\r\n]",
-          "link": "https://chegva.com/6376.html",
-          "publishedOn": "2025-05-02T09:01:34.000Z",
-          "wordCount": 8493,
-          "title": "我的崽崽(30)",
           "imageUrl": null
         }
       ]
@@ -5301,6 +5240,16 @@
       "siteUrl": "https://lostdeer.xyz",
       "articles": [
         {
+          "id": "https://lostdeer.xyz/?p=1410",
+          "author": "Yuntian52",
+          "description": "长安的荔枝 A级 （存在少量剧透） 这部电影今天看了《长安的荔枝》，《长安的荔枝》应该是马伯庸最知名的作品，但 […]",
+          "link": "https://lostdeer.xyz/the-lychee-road/",
+          "publishedOn": "2025-07-20T09:58:08.000Z",
+          "wordCount": 2296,
+          "title": "《长安的荔枝》简评",
+          "imageUrl": "https://lostdeer.xyz/wp-content/uploads/2025/07/The-Lychee-Road.png"
+        },
+        {
           "id": "https://lostdeer.xyz/?p=1401",
           "author": "Yuntian52",
           "description": "《食南之徒》 S级 这是我第一次读马伯庸的作品，刚刚我打开百科，竟发现还是我老乡。 这本食南之徒写于2024年 […]",
@@ -5309,36 +5258,6 @@
           "wordCount": 2255,
           "title": "《食南之徒》简评",
           "imageUrl": "https://lostdeer.xyz/wp-content/uploads/2025/06/902397dda144ad3459826477aefa1bf431adcaef2fb0.webp"
-        },
-        {
-          "id": "https://lostdeer.xyz/?p=1371",
-          "author": "Yuntian52",
-          "description": "前言 去年下半年工作之后，有了一个单人宿舍，基础设施虽然有些小毛病，但起码该有都有，对于一个人生活来说已经足够 […]",
-          "link": "https://lostdeer.xyz/the-road-of-baking/",
-          "publishedOn": "2025-05-08T14:07:11.000Z",
-          "wordCount": 2582,
-          "title": "烘焙之路",
-          "imageUrl": "https://lostdeer.xyz/wp-content/uploads/2025/05/bread_jam_plate_209922_1920x1200.jpg"
-        },
-        {
-          "id": "https://lostdeer.xyz/?p=1361",
-          "author": "Yuntian52",
-          "description": "一、认知体系构建 1.1 面粉科学 分类 蛋白质含量 特性 适用场景 辨别技巧 高筋面粉 ≥13% 高延展性/ […]",
-          "link": "https://lostdeer.xyz/baking-note/",
-          "publishedOn": "2025-04-26T07:38:43.000Z",
-          "wordCount": 2698,
-          "title": "烘焙系统入门简易攻略（2025版）",
-          "imageUrl": "https://lostdeer.xyz/wp-content/uploads/2025/04/cakes_desserts_food_306074_1920x1080.jpg"
-        },
-        {
-          "id": "https://lostdeer.xyz/?p=1358",
-          "author": "Yuntian52",
-          "description": "封面是最近吃的一碗牛肉面，牛肉真的很多。 最近上班摸鱼，读了一点点成功学的书，前面看完了“被讨厌的勇气”，说实 […]",
-          "link": "https://lostdeer.xyz/gossip250419/",
-          "publishedOn": "2025-04-18T17:08:14.000Z",
-          "wordCount": 2261,
-          "title": "平淡的一周，摸鱼读了点书。",
-          "imageUrl": "https://lostdeer.xyz/wp-content/uploads/2025/04/16af5d96a57e70d138a0607d6506c87c-scaled.jpg"
         }
       ]
     },
