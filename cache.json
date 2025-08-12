@@ -616,8 +616,18 @@
     {
       "title": "运维咖啡吧",
       "feedUrl": "https://blog.ops-coffee.cn/feed.xml",
-      "siteUrl": "https://blog.ops-coffee.cn",
+      "siteUrl": "https://blog.ops-coffee.cn/atom.xml",
       "articles": [
+        {
+          "id": "https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day1-departure.html",
+          "author": null,
+          "description": "2025年暑期自驾出发啦",
+          "link": "https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day1-departure.html",
+          "publishedOn": "2025-08-11T23:08:43.000Z",
+          "wordCount": 113,
+          "title": "久违的暑假｜沿海自驾DAY1 - 出发",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.ops-coffee.cn/s/collage-maker-tool-gets-sponsored-after-one-month-launch.html",
           "author": null,
@@ -1401,6 +1411,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=302254",
+          "author": "Brandon Lee",
+          "description": "I have had some questions in the comments about showing the upgrade from Proxmox VE 8 to 9. The official documentation is there, but can be a little hard to follow at times. So, here you go, my how to upgrade from Proxmox VE 8 to 9 guide. We will cover the high points, as …\nThe post How to Upgrade from Proxmox VE 8 to 9 Fast and Hassle-Free appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/08/how-to-upgrade-from-proxmox-ve-8-to-9-fast-and-hassle-free/",
+          "publishedOn": "2025-08-11T12:00:18.000Z",
+          "wordCount": 12488,
+          "title": "How to Upgrade from Proxmox VE 8 to 9 Fast and Hassle-Free",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/08/Upgrade-Proxmox-VE-8-to-9.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=302227",
           "author": "Brandon Lee",
           "description": "Man so many projects to try and most of us feel like we don’t have enough time. However, I hope you have been enjoying my “weekend” series blog post I have been releasing each Friday to spur on some project-based learning in the home lab. This is hands down the best way to learn new …\nThe post 5 Secure Networking Projects for Your Home Lab This Weekend! appeared first on Virtualization Howto.",
@@ -1969,16 +1989,6 @@
           "wordCount": 11359,
           "title": "Meet kubectl-ai: Google Just Delivered the Best Tool for Kubernetes Management",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/kubectl-ai-best-tool-for-kubernetes-management.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=301016",
-          "author": "Brandon Lee",
-          "description": "One of the coolest things that you can self-host is large language models (LLMs) like GPT. AI has transformed everything from writing content to coding. However, if you want to run your own self-hosted GPT this is a great idea for privacy and security. Instead of sending your data to a cloud provider, you can …\nThe post Self-Hosting LLMs with Docker and Proxmox: How to Run Your Own GPT appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/05/self-hosting-llms-with-docker-and-proxmox-how-to-run-your-own-gpt/",
-          "publishedOn": "2025-05-14T13:01:02.000Z",
-          "wordCount": 12117,
-          "title": "Self-Hosting LLMs with Docker and Proxmox: How to Run Your Own GPT",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/Self-hosting-LLMs.png"
         }
       ]
     },
@@ -1987,6 +1997,46 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=46890",
+          "author": "Diksha Gathania",
+          "description": "We’ve reached a tipping point. AI isn’t just enhancing marketing; it’s starting to run it. Today’s most innovative teams aren’t spending late nights building drip sequences or debating subject lines. Instead, they’re deploying AI agents, digital workers that can write, test, optimize, and even pivot campaigns in real time. And they’re doing it better than […]",
+          "link": "https://collabnix.com/how-ai-agents-are-running-campaigns-so-you-dont-have-to/",
+          "publishedOn": "2025-08-11T12:03:37.000Z",
+          "wordCount": 3060,
+          "title": "How AI Agents Are Running Campaigns So You Don’t Have To",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=46875",
+          "author": "Collabnix Team",
+          "description": "Understanding the architecture, capabilities, and future of large language models that are reshaping our digital landscape",
+          "link": "https://collabnix.com/the-complete-guide-to-ai-models-in-2025-a-technical-deep-dive-into-the-ai-revolution/",
+          "publishedOn": "2025-08-11T08:17:59.000Z",
+          "wordCount": null,
+          "title": "The Complete Guide to AI Models in 2025: A Technical Deep Dive into the AI Revolution",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=46872",
+          "author": "Tanvir Kour",
+          "description": "Ever wonder how the latest developments in cloud computing and DevOps will affect IT in the future? These domains get set to undergo changes as technology continues to develop at a rapid rate. Cloud computing has emerged as a key enabler for DevOps lead as it facilitates resource scaling, enhances collaboration, and lowers expenses. Most […]",
+          "link": "https://collabnix.com/how-do-devops-and-cloud-computing-worktogether-to-create-a-trend-set/",
+          "publishedOn": "2025-08-11T07:50:53.000Z",
+          "wordCount": null,
+          "title": "How do DevOps and Cloud Computing WorkTogether to Create a Trend Set?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=46865",
+          "author": "Collabnix Team",
+          "description": "Introduction: What is Hugging Face and Why It’s Revolutionizing AI Hugging Face has emerged as the definitive platform for machine learning and artificial intelligence development, often dubbed “the GitHub of machine learning.” If you’re working with AI in 2025, understanding Hugging Face isn’t just beneficial—it’s essential. This comprehensive guide will walk you through everything you […]",
+          "link": "https://collabnix.com/hugging-face-complete-guide-2025-the-ultimate-tutorial-for-machine-learning-and-ai-development/",
+          "publishedOn": "2025-08-11T06:38:07.000Z",
+          "wordCount": null,
+          "title": "Hugging Face Complete Guide 2025: The Ultimate Tutorial for Machine Learning and AI Development",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=46673",
           "author": "Tanvir Kour",
@@ -3591,16 +3641,6 @@
           "wordCount": 569,
           "title": "上海野生动物园",
           "imageUrl": ""
-        },
-        {
-          "id": "https://www.skyue.com/25051323.html",
-          "author": "拾月",
-          "description": "上一篇婚礼记录，收到非常多的祝福，感谢大家。九江和高平婚礼前，各有一次愉快的出行，记录之。富春芳草地4月12日的周末两天，到富春芳草地酒店住了两晚。这家酒店是YB推荐的，他带着女儿去过多次，杭州...",
-          "link": "https://www.skyue.com/25051323.html",
-          "publishedOn": "2025-05-13T15:50:00.000Z",
-          "wordCount": 549,
-          "title": "富春芳草地&amp;只有河南",
-          "imageUrl": ""
         }
       ]
     },
@@ -3797,16 +3837,6 @@
           "publishedOn": "2025-05-25T13:55:29.000Z",
           "wordCount": 304,
           "title": "武汉采摘树莓-黄陂七颗莓生态园",
-          "imageUrl": null
-        },
-        {
-          "id": "https://4311346.com/post/2025/0513-zuzhi.html",
-          "author": null,
-          "description": "确实是，好久没更新了，其实并没有忘记这里，身边发生的事情太多，一件一件… 不知道从哪里说起。\n当然因为好久没更新了，内容有点多，又有点杂…\n上一篇《2025年清明节-闲逛-华农梦想岛》中就期待着2025年的五一劳动节假期，而2025年国家也将劳动节假期从1天调整为了2天。至去年04月进入这个新行业以来，休假就少了好多。全年除了春节外，年中的各种节假日，在武汉的700多名门店员工，都是要上班的。虽然是总部，是后端的人力资源岗，可以按照国家标准来休假，但作为公司服务部门即使休假，其实也并不是那么安心，因为总有业务部门同事和领导会在他们的上班时间内，有相应的需求找到人力资源部门。\n五一假期的第一天上午，按照公司传统，所有的管理人员将去到业务最前端去帮忙，去年不例外，今年也不例外。公司的这个传统和文化已经好久了，其它管理人员早已见怪不怪了。\n特别是在04月30日这天，会因为明天的市场旺季而特别的忙。这一天吃上晚餐以是深夜，还有几十公里才能到家。\n\n这是第二次来江夏区的这家美蚝王，居然还有大油边…\n强大的组织能力\n而公司似乎就有着在非常短的时间范围内，组织上百名后端人力，去到前段支援，从而抢占市场先机的组织能力。且不说这一天自己去到市场一线的业绩好坏，首先态度要到位。所以几次临时的市场活动中，并未看到有同行竞争对手，因为在同时获得政府信息时，竞品无法组织人员来到市场一线。\n在这个过程中，总会有人员因为家庭中的各种事宜，最后将家庭放置第一位，最终没能跟上组织的步伐。\n人力部门内的一名试用期的主管岗，也就此被劝退，业绩是核心问题，但态度决定了后续是否还能给机会去锻炼。\n很愿意将自己在过去十多年的工作经验与方法传授给部门的员工，而这些人总会因为“偷懒”得去思考，而选择了最笨的方式去干，这个方式之所以笨，是因为效率低，而效率低就得花费更多的时间。毕竟工作内的时间是有限的，又不愿意加班，又不原…",
-          "link": "https://4311346.com/post/2025/0513-zuzhi.html",
-          "publishedOn": "2025-05-13T14:36:13.000Z",
-          "wordCount": null,
-          "title": "强大的组织能力和2025年五一劳动节",
           "imageUrl": null
         }
       ]
@@ -4355,6 +4385,26 @@
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
         {
+          "id": "https://blog.xiaoz.org/?p=22313",
+          "author": "xiaoz",
+          "description": "部分朋友在注册海外服务的时候可能会要求手机号验证，而大多数海外服务又不支持国内手机号（或者国内手机号收不到验证码的情况），这时候海外手机号用来接收验证码就显得非常重要，但并不是每个用户都有海外手机号，不过好在有一些第三方接码平台帮助我们解决了这个问题，比如今天要介绍的SMS ActivateSMS",
+          "link": "https://blog.xiaoz.org/archives/22313",
+          "publishedOn": "2025-08-12T01:56:53.000Z",
+          "wordCount": 261,
+          "title": "注册海外服务不用愁，SMS Activate帮你搞定接码",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaoz.org/?p=22294",
+          "author": "xiaoz",
+          "description": "backrest是一款基于restic的可视化加密备份工具，如果还不了解restic的可以参考xiaoz之前写的一篇文章《CentOS 7使用restic备份VPS数据》，backrest在restic基础上增加了WEBUI管理和定时任务、快照预览等功能，极大的简化了restic繁杂的命令行操作。这",
+          "link": "https://blog.xiaoz.org/archives/22294",
+          "publishedOn": "2025-08-11T02:28:13.000Z",
+          "wordCount": 313,
+          "title": "服务器数据备份方案：用Backrest实现加密+增量+定时备份",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.xiaoz.org/?p=22279",
           "author": "xiaoz",
           "description": "在云计算越来越重要的今天，很多个人开发者、中小企业甚至高校团队都希望能够方便、快速地接入全球主流云平台，例如 AWS、Google Cloud、阿里云国际版等。但现实情况是：开通流程繁琐、实名认证要求严格、还得绑定国际信用卡！NiceCloud喜云是一家获得官方授权的多云服务平台代理商，聚合了阿里云",
@@ -4743,18 +4793,7 @@
       "title": "山山仙人博客",
       "feedUrl": "https://www.ssgeek.com/atom.xml",
       "siteUrl": "https://www.ssgeek.com/",
-      "articles": [
-        {
-          "id": "https://www.ssgeek.com/blog/sheng-ru-xia-hua-yu-ji-shu-ren-de-jing-shen-yuan-you",
-          "author": null,
-          "description": "———纪念左耳朵耗子",
-          "link": "https://www.ssgeek.com/blog/sheng-ru-xia-hua-yu-ji-shu-ren-de-jing-shen-yuan-you",
-          "publishedOn": "2025-05-14T00:00:00.000Z",
-          "wordCount": null,
-          "title": "生如夏花——与技术人的精神远游",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "张戈博客",
@@ -5214,16 +5253,6 @@
           "publishedOn": "2025-05-21T00:00:00.000Z",
           "wordCount": 4012,
           "title": "Apple M4 微架构评测",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jia.je/hardware/2025/05/14/rocket-chip-diplomacy/",
-          "author": null,
-          "description": "分析 Rocket Chip 中 Diplomacy 系统¶\n背景¶\nRocket Chip 大量使用了 Diplomacy 系统来组织它的总线、中断和时钟网络。因此，如果想要对 Rocket Chip 进行定制，那么必须要对 Rocket Chip 中 Diplomacy 系统的使用有充分的了解，而这方面的文档比较欠缺。本文是对 Rocket Chip 中 Diplomacy 系统的使用的分析。阅读本文前，建议阅读先前的 分析 Diplomacy 系统 文章，对 Diplomacy 系统的设计和内部实现获得一定的了解。\n\nRocket Chip 总线结构概要¶\nRocket Chip 主要有以下几个总线：\n\nsbus: System Bus\nmbus: Memory Bus\ncbus: Control Bus\npbus: Periphery Bus\nfbus: Frontend Bus\n\n图示可以见参考文档中的链接，不过链接中的结构和实际的有一些区别。目前的 Rocket Chip 的总线结构大致是这样：\n\nfbus -> sbus -> mbustile --/ \\-> cbus -> pbus\n\n主要是 pbus 的位置从连接 sbus 移动到了连接 cbus。\n根据配置不同，总线结构也不同，例如在有 coh(coherence manager) 的时候，是：\n\nfbus -> sbus -> coh -> mbustile --/ \\-> cbus -> pbus\n\n深入分析 Rocket Chip 总线结构¶\n下面是一个双核 Rocket Chip 的 GraphML 导出来用 yED 绘制的架构图：\n\n接下来深入分析图中的各个连接关系以及对应的代码。\nTileLink 和 AXI 总线¶\n这个图比较复杂，混合了多个 Diplomacy 网络，首先是总线的部分，包…",
-          "link": "https://jia.je/hardware/2025/05/14/rocket-chip-diplomacy/",
-          "publishedOn": "2025-05-14T00:00:00.000Z",
-          "wordCount": 2369,
-          "title": "分析 Rocket Chip 中 Diplomacy 系统",
           "imageUrl": null
         }
       ]
