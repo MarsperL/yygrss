@@ -619,6 +619,16 @@
       "siteUrl": "https://blog.ops-coffee.cn/atom.xml",
       "articles": [
         {
+          "id": "https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day2-wenlingshitang.html",
+          "author": null,
+          "description": "从绍兴到温岭的沿海自驾之旅，探索了104国道上的自然美景和温岭石塘的海利村，欣赏了最美的渔村风光和壮观的海景，是一次令人难忘的旅程。",
+          "link": "https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day2-wenlingshitang.html",
+          "publishedOn": "2025-08-12T16:02:00.000Z",
+          "wordCount": 125,
+          "title": "久违的暑假｜沿海自驾DAY2 - 温岭",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day1-departure.html",
           "author": null,
           "description": "2025年暑期自驾出发啦",
@@ -1204,16 +1214,6 @@
           "wordCount": 974,
           "title": "可是七十年代的东南亚也不安全啊！",
           "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
-        },
-        {
-          "id": "https://jimmysong.io/blog/beijing-license-lottery-14-years/",
-          "author": "Jimmy Song",
-          "description": "一直以来，我的博客大多写的是云原生、Istio、Envoy 这些工程师世界里的技术细节。但今天，我想尝试写点不一样的。\n作为一个生活在北京、拿不到车牌的普通居民，我见证了北京小客车摇号政策的整个演变过程：从刚开始大家还抱着“试试看”的心态，到后来有人十年不中、有人靠关系租指标，摇号已经不只是一个“出行手段分配机制”，更像是城市治理中的一个样本，浓缩了太多我们这个时代的制度逻辑与社会情绪。\n十四年过去了，北京仍然是全国最拥堵的城市之一。很多人不禁要问：摇号真的有效吗？它有没有副作用？是不是反而在制造新的不公平？它有没有拖延本该进行的交通治理改革？又是否在无形中撕裂了城市与区域之间的发展机会？\n这篇文章是我第一次尝试从“政策观察者”的角度出发，整理我对北京限购政策的理解与思考。如果你也曾为“中签难于中彩票”感到无力，或在京牌黑市中瞠目结舌，欢迎你读完它，也欢迎你告诉我——我们是否还能期待一种更合理、更公平的未来。\n {\n  \n  setTimeout(async () => {\n    const id = \"markmap-markmap.md\";\n    let container = document.getElementById(id) ||\n                    document.querySelector('[id=\"' + CSS.escape(id) + '\"]');\n    if (!container) return console.warn('container not found:', id);\n\n    const scriptTpl = container.querySelector('#markmap-md-content') ||\n                      container.querySelector('sc…",
-          "link": "https://jimmysong.io/blog/beijing-license-lottery-14-years/",
-          "publishedOn": "2025-05-15T01:30:00.000Z",
-          "wordCount": 1971,
-          "title": "北京小客车摇号政策十四年：成效、问题与未来出路",
-          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
         }
       ]
     },
@@ -1410,6 +1410,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=302288",
+          "author": "Brandon Lee",
+          "description": "Running Docker containers is an absolute game changer for your home lab and production environments where they make sense. If you are wanting an easy way to spin up new environments and host apps and services, running containers has so many benefits. Learning Docker and containers in general is a great skill to have. However, …\nThe post 10 Common Docker Container Mistakes and How to Avoid Them appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/08/10-common-docker-container-mistakes-and-how-to-avoid-them/",
+          "publishedOn": "2025-08-12T12:37:46.000Z",
+          "wordCount": 10003,
+          "title": "10 Common Docker Container Mistakes and How to Avoid Them",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/08/docker-container-mistakes.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=302254",
           "author": "Brandon Lee",
@@ -1979,16 +1989,6 @@
           "wordCount": 11314,
           "title": "5 Best LLM Models You Can Run in Docker on Low-Power Hardware",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/5-best-llm-models-you-can-run-in-docker.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=301043",
-          "author": "Brandon Lee",
-          "description": "There is no question that the world of Kubernetes is evolving fast. The AI revolution has also brought about some tremendously helpful tools to work with and on Kubernetes clusters. Most IDE coding tools now have chat with AI bots built in so that you can bounce ideas off an AI engine for troubleshooting or …\nThe post Meet kubectl-ai: Google Just Delivered the Best Tool for Kubernetes Management appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/05/meet-kubectl-ai-google-just-delivered-the-best-tool-for-kubernetes-management/",
-          "publishedOn": "2025-05-15T12:51:25.000Z",
-          "wordCount": 11359,
-          "title": "Meet kubectl-ai: Google Just Delivered the Best Tool for Kubernetes Management",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/kubectl-ai-best-tool-for-kubernetes-management.png"
         }
       ]
     },
@@ -1997,6 +1997,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=47124",
+          "author": "Tanvir Kour",
+          "description": "When you talk about containers, spreadsheets and tax codes aren’t the first things that come to mind. But you would be wrong to think there’s no connection between accountancy and containerization. The accounting world is currently undergoing a digital revolution that will help accountants do their work faster, safer, and more compliantly than ever before. […]",
+          "link": "https://collabnix.com/how-containerization-is-reshaping-the-accountancy-workplace/",
+          "publishedOn": "2025-08-12T17:09:47.000Z",
+          "wordCount": 2341,
+          "title": "How Containerization Is Reshaping the Accountancy Workplace",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=47119",
+          "author": "Tanvir Kour",
+          "description": "Healthcare IT is changing fast, with DevOps leading the charge. As a result, the patchwork solutions are evaporating, and instead, efficiency is becoming a built-in feature of modern workflows in hospitals and clinics alike. Here’s a look at the intriguing nature of this relationship and what it means in practice for an industry niche that’s […]",
+          "link": "https://collabnix.com/how-devops-is-reinventing-workflows-in-healthcare-it/",
+          "publishedOn": "2025-08-12T17:05:51.000Z",
+          "wordCount": 2328,
+          "title": "How DevOps Is Reinventing Workflows in Healthcare IT",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=46890",
           "author": "Diksha Gathania",
@@ -3056,26 +3076,6 @@
           "wordCount": 3392,
           "title": "Which Model to Choose with Docker Model Runner?",
           "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2025/05/Screenshot-2025-05-17-at-10.33.02%E2%80%AFPM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=32051",
-          "author": "Ajeet Raina",
-          "description": "The Model Context Protocol (MCP) is an open standard designed to help AI systems maintain context throughout a conversation. It provides a consistent way for AI applications to manage context, making it easier to build reliable AI systems with persistent memory. In this blog, I will show you how to build MCP server from the […]",
-          "link": "https://collabnix.com/how-to-build-your-first-mcp-server-in-python/",
-          "publishedOn": "2025-05-15T08:15:19.000Z",
-          "wordCount": 4223,
-          "title": "How to Build Your First MCP Server in Python",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=32046",
-          "author": "Tanvir Kour",
-          "description": "For many years, the standard method to stop and control web crawlers has been the robots.txt file. Dating back to 1994 as part of the Robots Exclusion Protocol (REP) on the nascent web, robots.txt is arguably misunderstood by those outside of tech circles. It’s not a security feature; it’s more of a ‘gentleman’s agreement,’ telling […]",
-          "link": "https://collabnix.com/data-wars-how-devs-are-fighting-back-against-ai-web-crawlers/",
-          "publishedOn": "2025-05-15T07:32:28.000Z",
-          "wordCount": null,
-          "title": "Data Wars: How Devs Are Fighting Back Against AI Web Crawlers",
-          "imageUrl": null
         }
       ]
     },
@@ -3708,16 +3708,6 @@
           "wordCount": 552,
           "title": "父亲的交通事故后续",
           "imageUrl": null
-        },
-        {
-          "id": "https://bluehe.cn/archives/gx-st-museum",
-          "author": "寻鹤",
-          "description": "5月11日，带着弟弟一同前往广西科技馆，科技馆也是五一的时候就想去的，但五一五天都是预约满，父亲在5月5日的时候也带弟弟前往了，没有预约是进不去的，当时我也不知道他们去的是科技馆，没有提示，使得白跑一趟。每天可预约的名额是5000，我预约成功还剩下3600...",
-          "link": "https://bluehe.cn/archives/gx-st-museum",
-          "publishedOn": "2025-05-15T03:54:00.000Z",
-          "wordCount": 459,
-          "title": "广西科技馆游记",
-          "imageUrl": null
         }
       ]
     },
@@ -4091,16 +4081,6 @@
           "publishedOn": "2025-05-17T16:00:00.000Z",
           "wordCount": null,
           "title": "Oryx 助力音视频服务开源利器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dusays.com/829/",
-          "author": null,
-          "description": "<blockquote>\n<p>在计算机网络的学习与研究领域，Mininet 是一款极具价值的工具。它就像是一个迷你网络世界的构建者，为我们提供了便捷的网络实验环境。本文将带你深入了解 Mininet 的魅力所在，并手把手教你安装与使用它。</p>\n</blockquote>",
-          "link": "https://dusays.com/829/",
-          "publishedOn": "2025-05-14T16:00:00.000Z",
-          "wordCount": null,
-          "title": "探索网络实验的神器 Mininet",
           "imageUrl": null
         }
       ]
@@ -4622,16 +4602,6 @@
           "publishedOn": "2025-05-16T00:50:50.000Z",
           "wordCount": 282,
           "title": "OneNav 1.1.3 更新 + 不容错过的 5 月福利",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=22040",
-          "author": "xiaoz",
-          "description": "最近xiaoz打算换一部备用机，经过对比，最终选择了一加 Ace 5来替换现有的Redmi Note11T Pro 5G，这篇文章简单聊一聊我对一加Ace 5的感受。配置这里就简单贴一下一加Ace 5配置，更多详细参数可以网上自行搜索。参数名称参数值CPU第三代骁龙8后摄主像素5000万像素机身重量",
-          "link": "https://blog.xiaoz.org/archives/22040",
-          "publishedOn": "2025-05-15T01:17:35.000Z",
-          "wordCount": 268,
-          "title": "聊一聊一加Ace 5",
           "imageUrl": null
         }
       ]
