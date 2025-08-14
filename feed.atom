@@ -2,10 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-08-13T02:09:59.440Z</updated>
+    <updated>2025-08-14T02:10:35.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Testing Proxmox 9 Snapshots as Volume Chains on iSCSI (Tech Preview)]]></title>
+        <id>https://www.virtualizationhowto.com/?p=302303</id>
+        <link href="https://www.virtualizationhowto.com/2025/08/testing-proxmox-9-snapshots-as-volume-chains-on-iscsi-tech-preview/"/>
+        <updated>2025-08-13T12:17:39.000Z</updated>
+        <summary type="html"><![CDATA[One of the new features I was really excited about when looking into the features of Proxmox 9 VE Server was the snapshot capabilities on thick provisioned LUNs with iSCSI and NFS. I think for many VMware admins, it really made traditional SAN technologies a no go in previous versions of Proxmox to not be …
+The post Testing Proxmox 9 Snapshots as Volume Chains on iSCSI (Tech Preview) appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Fine-Tune LLM and Use It with Ollama: A Complete Guide for 2025]]></title>
+        <id>https://collabnix.com/?p=47175</id>
+        <link href="https://collabnix.com/how-to-fine-tune-llm-and-use-it-with-ollama-a-complete-guide-for-2025/"/>
+        <updated>2025-08-13T11:29:57.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to customize large language models for your specific needs and deploy them locally using Ollama. This comprehensive guide covers everything from data preparation to model deployment.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Types of Ollama Models: Complete Guide to Local AI Model Varieties]]></title>
+        <id>https://collabnix.com/?p=47172</id>
+        <link href="https://collabnix.com/types-of-ollama-models-complete-guide-to-local-ai-model-varieties/"/>
+        <updated>2025-08-13T10:53:30.000Z</updated>
+        <summary type="html"><![CDATA[Discover the different types of Ollama models available for local AI deployment. Learn about Llama, Mistral, Code Llama, and other model families with practical implementation tips.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choosing Ollama Models: The Complete 2025 Guide for Developers and Enterprises]]></title>
+        <id>https://collabnix.com/?p=47169</id>
+        <link href="https://collabnix.com/choosing-ollama-models-the-complete-2025-guide-for-developers-and-enterprises/"/>
+        <updated>2025-08-13T10:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Running large language models locally has become essential for developers, enterprises, and AI enthusiasts who prioritize privacy, cost control, and offline capabilities. Ollama has emerged as the leading platform for local LLM deployment, but with over 100+ models available, choosing the right one can be overwhelming. This comprehensive guide covers everything you need to know […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Ollama Models for Function Calling Tools: Complete Guide 2025]]></title>
+        <id>https://collabnix.com/?p=47166</id>
+        <link href="https://collabnix.com/best-ollama-models-for-function-calling-tools-complete-guide-2025/"/>
+        <updated>2025-08-13T10:40:30.000Z</updated>
+        <summary type="html"><![CDATA[Discover the top Ollama models for function calling in 2025. Compare performance, features, and implementation guides for Llama 3.1, Mistral, CodeLlama, and more.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vCluster: The Complete Guide to Virtual Kubernetes Clusters in 2025]]></title>
+        <id>https://collabnix.com/?p=47156</id>
+        <link href="https://collabnix.com/vcluster-the-complete-guide-to-virtual-kubernetes-clusters-in-2025/"/>
+        <updated>2025-08-13T08:39:37.000Z</updated>
+        <summary type="html"><![CDATA[Discover how vCluster revolutionizes Kubernetes multi-tenancy with 99% faster provisioning, massive cost savings, and enterprise-grade isolation]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Kubernetes中部署一个单节点Elasticsearch]]></title>
+        <id>https://zahui.fan/posts/t0wu1k/</id>
+        <link href="https://zahui.fan/posts/t0wu1k/"/>
+        <updated>2025-08-13T02:10:31.000Z</updated>
+        <summary type="html"><![CDATA[<ol>
+<li>Elasticsearch 有自己的高可用集群机制，不建议再用 k8s 管理</li>
+<li>适用于临时使用一下、或者测试使用</li>
+</ol>
+<h2 id="数据存储问题"><a href="#数据存储问题" class="headerlink" title="数据存储问题"></a>数据存储问题</h2><p>为了测试使用，我也没有用 pvc 来管理数据，而是选择了]]></summary>
+        <author>
+            <name>杂烩饭</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Containerization Is Reshaping the Accountancy Workplace]]></title>
         <id>https://collabnix.com/?p=47124</id>
@@ -6661,27 +6736,6 @@ Bensz]]></summary>
         <summary type="html"><![CDATA[记录我如何在日常中应用AI大模型：从替代传统搜索、完善产品创意、分析医疗报告到辅助编程。探索Monica、Claude、Google Gemini等工具的实际应用场景，体验AI影响工作与生活方式。]]></summary>
         <author>
             <name>潘智祥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Best LLM Models You Can Run in Docker on Low-Power Hardware]]></title>
-        <id>https://www.virtualizationhowto.com/?p=301066</id>
-        <link href="https://www.virtualizationhowto.com/2025/05/5-best-llm-models-you-can-run-in-docker-on-low-power-hardware/"/>
-        <updated>2025-05-16T13:02:28.000Z</updated>
-        <summary type="html"><![CDATA[I have been super interested in running LLMs at home with the help of great open source tools freely available out there. Large Language Models (LLMs) are now not just limited to large datacenters full of GPUs. It is now possible to run LLMs locally on your local hardware, even on low-power systems without a …
-The post 5 Best LLM Models You Can Run in Docker on Low-Power Hardware appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OneNav 1.1.3 更新 + 不容错过的 5 月福利]]></title>
-        <id>https://blog.xiaoz.org/?p=22061</id>
-        <link href="https://blog.xiaoz.org/archives/22061"/>
-        <updated>2025-05-16T00:50:50.000Z</updated>
-        <summary type="html"><![CDATA[OneNav 是一款功能强大且简洁高效的浏览器书签管理器，支持集中式管理书签，完美解决跨设备、跨平台、跨浏览器的同步与访问难题，实现一处部署、随处访问。它不仅安装简单、界面简洁、操作方便，还可与浏览器扩展（插件）配合使用，为你带来更加高效便捷的书签管理体验。Github开源地址：https://gi]]></summary>
-        <author>
-            <name>xiaoz</name>
         </author>
     </entry>
     <entry>

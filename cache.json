@@ -1411,6 +1411,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=302303",
+          "author": "Brandon Lee",
+          "description": "One of the new features I was really excited about when looking into the features of Proxmox 9 VE Server was the snapshot capabilities on thick provisioned LUNs with iSCSI and NFS. I think for many VMware admins, it really made traditional SAN technologies a no go in previous versions of Proxmox to not be …\nThe post Testing Proxmox 9 Snapshots as Volume Chains on iSCSI (Tech Preview) appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/08/testing-proxmox-9-snapshots-as-volume-chains-on-iscsi-tech-preview/",
+          "publishedOn": "2025-08-13T12:17:39.000Z",
+          "wordCount": 11486,
+          "title": "Testing Proxmox 9 Snapshots as Volume Chains on iSCSI (Tech Preview)",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/08/proxmox-9-snapshots-as-volume-chains-on-iscsi.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=302288",
           "author": "Brandon Lee",
           "description": "Running Docker containers is an absolute game changer for your home lab and production environments where they make sense. If you are wanting an easy way to spin up new environments and host apps and services, running containers has so many benefits. Learning Docker and containers in general is a great skill to have. However, …\nThe post 10 Common Docker Container Mistakes and How to Avoid Them appeared first on Virtualization Howto.",
@@ -1979,16 +1989,6 @@
           "wordCount": 11348,
           "title": "Best Self-hosted GitHub Copilot AI Coding Alternatives",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/self-hosted-github-copilot-alternatives.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=301066",
-          "author": "Brandon Lee",
-          "description": "I have been super interested in running LLMs at home with the help of great open source tools freely available out there. Large Language Models (LLMs) are now not just limited to large datacenters full of GPUs. It is now possible to run LLMs locally on your local hardware, even on low-power systems without a …\nThe post 5 Best LLM Models You Can Run in Docker on Low-Power Hardware appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/05/5-best-llm-models-you-can-run-in-docker-on-low-power-hardware/",
-          "publishedOn": "2025-05-16T13:02:28.000Z",
-          "wordCount": 11314,
-          "title": "5 Best LLM Models You Can Run in Docker on Low-Power Hardware",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/5-best-llm-models-you-can-run-in-docker.png"
         }
       ]
     },
@@ -1997,6 +1997,56 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=47175",
+          "author": "Collabnix Team",
+          "description": "Learn how to customize large language models for your specific needs and deploy them locally using Ollama. This comprehensive guide covers everything from data preparation to model deployment.",
+          "link": "https://collabnix.com/how-to-fine-tune-llm-and-use-it-with-ollama-a-complete-guide-for-2025/",
+          "publishedOn": "2025-08-13T11:29:57.000Z",
+          "wordCount": 3295,
+          "title": "How to Fine-Tune LLM and Use It with Ollama: A Complete Guide for 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=47172",
+          "author": "Collabnix Team",
+          "description": "Discover the different types of Ollama models available for local AI deployment. Learn about Llama, Mistral, Code Llama, and other model families with practical implementation tips.",
+          "link": "https://collabnix.com/types-of-ollama-models-complete-guide-to-local-ai-model-varieties/",
+          "publishedOn": "2025-08-13T10:53:30.000Z",
+          "wordCount": null,
+          "title": "Types of Ollama Models: Complete Guide to Local AI Model Varieties",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=47169",
+          "author": "Collabnix Team",
+          "description": "Running large language models locally has become essential for developers, enterprises, and AI enthusiasts who prioritize privacy, cost control, and offline capabilities. Ollama has emerged as the leading platform for local LLM deployment, but with over 100+ models available, choosing the right one can be overwhelming. This comprehensive guide covers everything you need to know […]",
+          "link": "https://collabnix.com/choosing-ollama-models-the-complete-2025-guide-for-developers-and-enterprises/",
+          "publishedOn": "2025-08-13T10:45:00.000Z",
+          "wordCount": null,
+          "title": "Choosing Ollama Models: The Complete 2025 Guide for Developers and Enterprises",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=47166",
+          "author": "Collabnix Team",
+          "description": "Discover the top Ollama models for function calling in 2025. Compare performance, features, and implementation guides for Llama 3.1, Mistral, CodeLlama, and more.",
+          "link": "https://collabnix.com/best-ollama-models-for-function-calling-tools-complete-guide-2025/",
+          "publishedOn": "2025-08-13T10:40:30.000Z",
+          "wordCount": null,
+          "title": "Best Ollama Models for Function Calling Tools: Complete Guide 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=47156",
+          "author": "Tanvir Kour",
+          "description": "Discover how vCluster revolutionizes Kubernetes multi-tenancy with 99% faster provisioning, massive cost savings, and enterprise-grade isolation",
+          "link": "https://collabnix.com/vcluster-the-complete-guide-to-virtual-kubernetes-clusters-in-2025/",
+          "publishedOn": "2025-08-13T08:39:37.000Z",
+          "wordCount": null,
+          "title": "vCluster: The Complete Guide to Virtual Kubernetes Clusters in 2025",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=47124",
           "author": "Tanvir Kour",
@@ -4199,6 +4249,16 @@
       "siteUrl": "https://zahui.fan/atom.xml",
       "articles": [
         {
+          "id": "https://zahui.fan/posts/t0wu1k/",
+          "author": null,
+          "description": "<ol>\n<li>Elasticsearch 有自己的高可用集群机制，不建议再用 k8s 管理</li>\n<li>适用于临时使用一下、或者测试使用</li>\n</ol>\n<h2 id=\"数据存储问题\"><a href=\"#数据存储问题\" class=\"headerlink\" title=\"数据存储问题\"></a>数据存储问题</h2><p>为了测试使用，我也没有用 pvc 来管理数据，而是选择了",
+          "link": "https://zahui.fan/posts/t0wu1k/",
+          "publishedOn": "2025-08-13T02:10:31.000Z",
+          "wordCount": 1092,
+          "title": "在Kubernetes中部署一个单节点Elasticsearch",
+          "imageUrl": "https://s3.babudiu.com/iuxt/public/skeleton1.svg"
+        },
+        {
           "id": "https://zahui.fan/posts/szkilc/",
           "author": null,
           "description": "<p>可以直接使用我制作好的工具，支持自签名 HTTPS 证书和双向认证证书，纯 shell 脚本，支持 Docker 使用，一键生成证书：<a href=\"https://github.com/iuxt/my_cert\">https://github.com/iuxt/my_cert</a></p>\n<p>双向认证用途是什么：",
@@ -4592,16 +4652,6 @@
           "publishedOn": "2025-05-19T00:42:37.000Z",
           "wordCount": 333,
           "title": "使用 Docker 部署 OpenResty Manager 搭建可视化反向代理系统",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=22061",
-          "author": "xiaoz",
-          "description": "OneNav 是一款功能强大且简洁高效的浏览器书签管理器，支持集中式管理书签，完美解决跨设备、跨平台、跨浏览器的同步与访问难题，实现一处部署、随处访问。它不仅安装简单、界面简洁、操作方便，还可与浏览器扩展（插件）配合使用，为你带来更加高效便捷的书签管理体验。Github开源地址：https://gi",
-          "link": "https://blog.xiaoz.org/archives/22061",
-          "publishedOn": "2025-05-16T00:50:50.000Z",
-          "wordCount": 282,
-          "title": "OneNav 1.1.3 更新 + 不容错过的 5 月福利",
           "imageUrl": null
         }
       ]
