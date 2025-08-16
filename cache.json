@@ -579,6 +579,16 @@
       "siteUrl": "https://blog.ops-coffee.cn/atom.xml",
       "articles": [
         {
+          "id": "https://blog.ops-coffee.cn/s/2025-summer-coastal-road-trip-day4-quanzhou-xijie.html",
+          "author": null,
+          "description": "探索泉州西街、开元寺和清源山，体验闽南特色美食和夜茶文化，感受泉州的独特魅力与生活格调。",
+          "link": "https://blog.ops-coffee.cn/s/2025-summer-coastal-road-trip-day4-quanzhou-xijie.html",
+          "publishedOn": "2025-08-15T00:15:18.000Z",
+          "wordCount": 121,
+          "title": "久违的暑假｜沿海自驾DAY4 - 泉州",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day3-dongtou.html",
           "author": null,
           "description": "2025暑假沿海自驾第三天，探索温岭石塘的海利村与最美渔村，体验山顶TUTU咖啡馆的270°海景，随后前往洞头风景区，感受七彩洞头村的滨海生活气息。",
@@ -815,6 +825,26 @@
       "feedUrl": "https://jimmysong.io/blog/index.xml",
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
+        {
+          "id": "https://jimmysong.io/blog/big-data-stream-processing-vs-ai-agent/",
+          "author": "Jimmy Song",
+          "description": "对比大数据时代的流式数据处理与当下 AI 原生 Agent 工作流的异同，结合 Dataiku、IBM StreamSets 与 n8n 的最新动态进行案例分析与趋势判断，探讨技术演进与融合趋势。",
+          "link": "https://jimmysong.io/blog/big-data-stream-processing-vs-ai-agent/",
+          "publishedOn": "2025-08-15T06:00:00.000Z",
+          "wordCount": 1070,
+          "title": "从大数据流式处理到 AI 原生 Agent：以 Dataiku、StreamSets、n8n 为例的技术演进",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.webp"
+        },
+        {
+          "id": "https://jimmysong.io/blog/n8n-deep-dive/",
+          "author": "Jimmy Song",
+          "description": "深入解析 n8n 的发展历程、技术架构、插件机制、扩展方式及企业级应用案例，评估其作为开源低代码 AI 工作流平台的优势与长期投资价值。",
+          "link": "https://jimmysong.io/blog/n8n-deep-dive/",
+          "publishedOn": "2025-08-15T01:45:00.000Z",
+          "wordCount": 1551,
+          "title": "n8n 深度分析：架构、插件机制与企业级应用案例",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.webp"
+        },
         {
           "id": "https://jimmysong.io/blog/open-source-ai-agent-workflow-comparison/",
           "author": "Jimmy Song",
@@ -1174,16 +1204,6 @@
           "wordCount": 618,
           "title": "深入理解 Envoy Dynamic Module：原理、开发与全流程实战",
           "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
-        },
-        {
-          "id": "https://jimmysong.io/blog/the-serpent-review/",
-          "author": "Jimmy Song",
-          "description": "最近看完了一部让我越看越发冷汗、也越看越佩服的犯罪剧——《蛇惑》（The Serpent），不吐不快，也想强烈安利给你们。\nThe Serpent\n  \n\n这部剧由 Netflix 和 BBC 联合制作，改编自真实事件。它讲述了法国连环杀手查尔斯·索布拉杰（Charles Sobhraj）在 1970 年代东南亚“嬉皮之路”上对西方背包客连环作案的故事，同时展现了一位荷兰外交官赫尔曼·克尼彭贝格（Herman Knippenberg）锲而不舍追查真相的过程。\n作为一个去过清迈、曼谷的观众，这种剧集真的很容易让我产生代入感。剧中大量还原了泰国曼谷、清迈等地 70 年代的风貌，还有那些背着吉他、穿着牛仔裤、在路边摊喝啤酒的西方年轻人……那种自由、冒险与危险并存的“嬉皮士文化”氛围，既迷人又让人不寒而栗。\n笔者在摩旅前往拜县的“嬉皮士之路”上\n  \n\n\n\n\n\n  \n  \n毒蛇的微笑：人性与冷酷的极致\n索布拉杰这个角色让我印象极为深刻。他的“毒蛇”外号，不只是因为狡猾，更因为他温文尔雅、极具迷惑力。他不像传统意义上的杀手——不用暴力、几乎不动刀枪——却能用自己的“人情味”和信任感，让受害者心甘情愿走进他的陷阱：请你吃饭、带你逛市集、甚至帮你安排行程，最后却在水里下药，偷走护照，甚至焚尸灭迹。\n他的同伴也同样令人唏嘘。女友玛丽（Marie-Andrée Leclerc）一开始像个受害者，结果她的日记却写着：“我知道我们做的是错的，但我更在意他有没有看我一眼。”这种依恋、自我催眠与人性的灰色地带，非常震撼。\n还有那个沉默的助手 Ajay，永远站在索布拉杰身边，几乎没有情感波动。你会忍不住想，他到底是帮凶，还是另一个受害者？\n“一个人对抗系统”的侦查线\n剧中的另一条主线，是荷兰外交官赫尔曼·克尼彭贝格的调查。他本来只是个普通的使馆工作人员，因为两位荷兰背包客失踪介入调查，最后几乎搭上了自…",
-          "link": "https://jimmysong.io/blog/the-serpent-review/",
-          "publishedOn": "2025-05-18T12:00:00.000Z",
-          "wordCount": 974,
-          "title": "可是七十年代的东南亚也不安全啊！",
-          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
         }
       ]
     },
@@ -1370,6 +1390,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=302351",
+          "author": "Brandon Lee",
+          "description": "I have been focused a lot on containerized development and DevOps lately and many of the weekend projects I have written about have been focused there. However, for those that love projects involving virtual machines, these are still very much needed and well worth the time and energy to devote time to these in your …\nThe post 8 Virtual Machine Projects You Need to Build This Weekend! appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/08/8-virtual-machine-projects-you-need-to-build-this-weekend/",
+          "publishedOn": "2025-08-15T12:45:34.000Z",
+          "wordCount": 10926,
+          "title": "8 Virtual Machine Projects You Need to Build This Weekend!",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/08/8-vms-to-build-for-the-weekend-2.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=302329",
           "author": "Brandon Lee",
@@ -1967,6 +1997,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=47615",
+          "author": "Collabnix Team",
+          "description": "Choosing a dedicated server is a big decision, whether you’re running a growing website, managing heavy workloads, or hosting complex applications. Unlike shared or VPS hosting, a dedicated server gives you exclusive access to the entire machine, offering more control, better performance, and greater customization. However, with so many providers and configurations available, it’s important […]",
+          "link": "https://collabnix.com/top-7-things-to-check-before-you-buy-a-dedicated-server/",
+          "publishedOn": "2025-08-15T11:20:44.000Z",
+          "wordCount": 2239,
+          "title": "Top 7 Things to Check Before You Buy a Dedicated Server",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=47175",
           "author": "Collabnix Team",
@@ -3086,16 +3126,6 @@
           "wordCount": null,
           "title": "Remote Patient Monitoring Software: Key Features, Benefits, and Development Steps",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=32057",
-          "author": "Collabnix Team",
-          "description": "Docker Model Runner allows you to run AI models locally through Docker Desktop. Here’s a breakdown of the available models and their recommended use cases: 1. ai/smollm2 2. ai/llama3.2 3. ai/llama3.3 4. ai/gemma3 5. ai/phi4 6. ai/mistral and ai/mistral-nemo 7. ai/qwen2.5 8. ai/deepseek-r1-distill-llama How to Choose a Model Getting Started Example Pull a small model […]",
-          "link": "https://collabnix.com/which-model-to-choose-with-docker-model-runner/",
-          "publishedOn": "2025-05-17T16:52:36.000Z",
-          "wordCount": 3392,
-          "title": "Which Model to Choose with Docker Model Runner?",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2025/05/Screenshot-2025-05-17-at-10.33.02%E2%80%AFPM.png"
         }
       ]
     },
@@ -3751,16 +3781,6 @@
           "wordCount": 7676,
           "title": "前沿快讯 第73期 Y染色体缺失与肿瘤免疫抑制等",
           "imageUrl": "https://chevereto.hwb0307.com/images/2025/06/06/image-20250606202541102.png"
-        },
-        {
-          "id": "https://blognas.hwb0307.com/?p=6387",
-          "author": "Bensz",
-          "description": "Bensz\n前沿快讯 第72期 从广泛蛇毒暴露史的高度免疫的人类供者中分离出广谱中和抗体等\n本博客由Faconhost大力赞助！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 前言 本文是前沿快讯的第72期。前沿快讯栏目主要收集一些个人感兴趣的近期发表的研究，关注领域包括肿瘤的分子生物学、临床研究、流行病学等，文献类型主要是期刊论文和综述。研究介绍在Google机翻摘要的基础上进行微调，可能不一定特别准确、专业，主要目的是方便自己和大家快速了解和回顾相关领域研究进展。如果你对某个研究的细节感兴趣，请自行寻找全文进一步了解。此外，研究根据子领域会进一步细分，不过交叉领域的研究不好分为某一类，所以这个分类主要用于初级索引，并不十分准确，不喜勿喷。最后，大家看到什么特别的研究，也可以在评论区向我推荐，我会酌情收录在后面的期刊中。如无意外，前沿快讯栏目会长期更新，周期为2周-1月 […]\nBensz",
-          "link": "https://blognas.hwb0307.com/medicine/6387",
-          "publishedOn": "2025-05-18T10:45:44.000Z",
-          "wordCount": 7459,
-          "title": "前沿快讯 第72期 从广泛蛇毒暴露史的高度免疫的人类供者中分离出广谱中和抗体等",
-          "imageUrl": "https://chevereto.hwb0307.com/images/2025/05/12/41586_2025_8985_Fig1_HTML.png"
         }
       ]
     },
@@ -4102,16 +4122,6 @@
           "wordCount": 487,
           "title": "使用 Docker 部署 tinyMediaManager 刮削工具",
           "imageUrl": "https://cdn.dusays.com/avatar.png"
-        },
-        {
-          "id": "https://dusays.com/830/",
-          "author": null,
-          "description": "<blockquote>\n<p>Oryx 是一个开源的音视频服务解决方案，具有多种特点和应用场景。</p>\n</blockquote>",
-          "link": "https://dusays.com/830/",
-          "publishedOn": "2025-05-17T16:00:00.000Z",
-          "wordCount": null,
-          "title": "Oryx 助力音视频服务开源利器",
-          "imageUrl": null
         }
       ]
     },
@@ -4677,26 +4687,6 @@
           "wordCount": 786,
           "title": "我们托管了一台龙芯 3C6000/S 服务器",
           "imageUrl": "https://static.txblog.110289.xyz/upload/a6cede2d.jpg"
-        },
-        {
-          "id": "https://www.txisfine.cn/archives/aeccbd15.html",
-          "author": null,
-          "description": "<p>在使用 NGINX 进行配置时，如果不理解 if 指令的逻辑，很多时候都会尝试在 location 块中使用 if 指令来实现某些逻辑控制。我最近被 NGINX 的 if 坑了一下。写个博客记录一下吧。</p>\n<p>NGINX 的配置是一种声明式的静态结构，其核心设计理念",
-          "link": "https://www.txisfine.cn/archives/aeccbd15.html",
-          "publishedOn": "2025-05-18T05:37:15.000Z",
-          "wordCount": 885,
-          "title": "NGINX 中诡计多端的 IF",
-          "imageUrl": "https://static.txblog.110289.xyz/upload/7e1fa63.png"
-        },
-        {
-          "id": "https://www.txisfine.cn/archives/e36d6fd5.html",
-          "author": null,
-          "description": "<p>2025 年 4 月 13 日。CA&#x2F;Browser Forum 组织投票，正式通过 <a href=\"https://github.com/cabforum/servercert/pull/553\">SC-081 提案</a>。此后，SSL证书的有效期会逐步从现",
-          "link": "https://www.txisfine.cn/archives/e36d6fd5.html",
-          "publishedOn": "2025-05-17T16:08:17.000Z",
-          "wordCount": 658,
-          "title": "从 SC-081 说说 SSL 证书的那些事",
-          "imageUrl": "https://static.txblog.110289.xyz/upload/e36d6fd5.jpg"
         }
       ]
     },
