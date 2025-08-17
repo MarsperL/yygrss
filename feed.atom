@@ -2,10 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-08-16T02:05:19.499Z</updated>
+    <updated>2025-08-17T02:22:49.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[在银河麒麟桌面操作系统 ARM 版上安装 KVM 虚拟化]]></title>
+        <id>https://dusays.com/822/</id>
+        <link href="https://dusays.com/822/"/>
+        <updated>2025-08-16T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>KVM 是一种开源全虚拟化解决方案，能够在 Linux 系统运行多个操作系统。本文将详细介绍如何在银河麒麟桌面操作系统 ARM 版安装 KVM 虚拟化环境，帮助用户搭建高效的虚拟化平台。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[飞牛 NAS 公网防护设置的一些心得体会]]></title>
+        <id>https://lawtee.com/article/fnos-network-sercurity/</id>
+        <link href="https://lawtee.com/article/fnos-network-sercurity/"/>
+        <updated>2025-08-16T14:30:00.000Z</updated>
+        <summary type="html"><![CDATA[飞牛 NAS 和群晖一样，自带系统级内网穿透功能。多年来，我一直使用群晖 quickconnect 用来访问家中的 NAS，虽然速度慢，但作为 NAS 界的扛把子，群晖服务的安全性还是让人比较安心。但飞牛这边就有点心结了，于是只好自己配置外网访问，同时通过防火墙和一定的规则设置，尽量在易用性和安全性中间寻求平衡，本文主要介绍我这种选择的原因和配置方案。
+为何不用飞牛 FN connect
+
+出于隐私安全考虑
+
+我在上一篇 《飞牛 OS 到底是选物理机安装还是虚拟机安装》 提到，毕竟飞牛还只是一家 20 多人的初创公司，从理性的角度来看，我可能没有必要把自己的隐私全交给它保管。
+相比而言，群晖那边，好歹是一家全球化企业，行业排名第一，在数据安全方面让人放心得多。
+虽然有点厚此薄彼，但这也是无奈的选择。
+此外，即便是群晖，也不是那么靠谱。例如，我单位机房有一台群晖 DS1618+，基于数据安全考虑，压根没有开启过外网连接，更谈不上使用 quickconnect 进行远程访问，所有数据都只保存在内网。
+还是个人信息安全
+
+从技术角度来看，以前想要从用户 NAS 中“偷数据”，总的来说难度还是不小。
+我相信，即便群晖要偷用户数据，也不可能一股脑将所有文件偷走，那个庞大的传输量，不可能不引发用户警觉，风险过高。
+真要“偷数据”也只能选择高价值的信息偷，而近年来兴起的 AI 识别功能就为“偷数据”创造了极佳条件。
+只需要有针对性设置关键词，“盗取”用户少量数据，即可实现“收益”最大化。
+此前，群晖的低下性能，让我觉得群晖很难用上这种手段，甚至到后来，由于我的 NAS 性能过于孱弱，我直接关闭了 AI 识图功能。
+而目前市面上各种国产 NAS（绿联、极空间等）或者图像软件（immich, mt photos, 飞牛相册等），无一不引用了更为强大的 AI 大模型，毫无疑问都可以更加精准地识…]]></summary>
+        <author>
+            <name>法律小茶馆</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[道家阴阳采补理论与小孩改命之说]]></title>
+        <id>https://chegva.com/?p=6497</id>
+        <link href="https://chegva.com/6497.html"/>
+        <updated>2025-08-16T11:03:21.000Z</updated>
+        <summary type="html"><![CDATA[改命是根据道家的学说来的。我们知道八字背后有五行，五行背后有阴阳。改命就是从阴阳运用的一种方法。道家认为：任何事物都有“阴阳”的两面，阴不离阳，阳不离阴。如果“阴阳失调”，就会导致问题。片面强调阴阳的任何一面，都是愚蠢的，死板僵化的思想，做事情一定失败。这就是“孤阴不生，孤阳不长”。道家追求的最高境界是“合一”，就是阴阳的全然和谐和融合平衡。出了问题怎样来解决问题？就是“阴阳互补”，互补的方式就是“采阴补阳”----“阳”不足的时候，不是直接加“阳”，直接施加“阳”的结果只会压制“阳”的生成，变得阳气更不足了。所以必须用性质完全不同的“阴”来补充配合，培植阳气。同样，“阴”不足，就要用“阳”来补，叫做“采阳补阴”。举一些例子吧。让大家好理解。这个也是以前师父教给我的，非常有意思。
+
+
+一个男子有点女性化，阳刚不足，柔和体贴，细心有余。根据人的这种心理本性的吸引，他会本能地倾向喜欢一个活泼大方，开朗大气，偏于男性化倾向的强势女子，现实生活中人们往往都是这样来搭配的。不过，这样的结合并不好，没有做到“采补”，所以会让双方的缺点更突出，优点无法表现。
+ 
+家庭中这种结构，会让男子的女性化更加突出，阳气受到压制；同时，女子在家庭中的强势地位也会强化保持，继续“阳亢”。最终的结果是“角色易位”，长期下来男的会觉得压抑，女的也会不满意。因为这种婚姻结构违反了他们内心的生物本性，迟早会出问题。
+ 
+因此要婚姻幸福，必须“采补”。偏于女性化的男子，他必须娶一个“非常”女性化的女子，柔情似水型的典型女性。也就是说要娶“阴”的特征特别明显强化的女子，才能通过“采阴补阳”，来补充自己不足的阳气。跟这样的女子在一起，该男子身上的阳气会越来越强，阴气慢慢退减，这样家庭事业都会很兴旺。
+
+
+特别阴性的女子（阴气过旺型），也需要与阳气不是太强的男子结合才好。但是这种女子又容易特别喜欢超级强势的男子。但是…]]></summary>
+        <author>
+            <name>anzhihe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[飞牛 OS 到底是选物理机安装还是虚拟机安装]]></title>
+        <id>https://lawtee.com/article/pve-fnos/</id>
+        <link href="https://lawtee.com/article/pve-fnos/"/>
+        <updated>2025-08-16T07:30:00.000Z</updated>
+        <summary type="html"><![CDATA[最近装了一台 x86 NAS，采用爱普生 ST190E 主机，搭配 4 核 4 线程的 i3-8300T 处理器，16GB DDR4 内存，以及 1TB Nvme M.2 接口固态硬盘和两个 2TB 的 SATA 接口 2.5 寸机械硬盘。这篇文章主要讲我如何在这台主机上安装飞牛 OS，重点是比较物理机安装和虚拟机安装的优劣。
+虚拟机安装（一）
+
+我一开始选的是 PVE 9.0 通过虚拟机安装飞牛 OS。
+安装教程参考飞牛官网方式，如何在虚拟机安装飞牛 fnOS？。
+但是这个教程中，并未提到 GPU 直通的问题。
+由于我的 i3-8300T 内置 UHD 630 核显，而我使用飞牛最主要的用途就是相册功能，因此我重点需要解决 UHD 630 核显直通飞牛 OS 问题。
+但这个事情并没有那么顺利。
+我先后尝试了两种方法：
+使用 PVEtools
+
+项目地址：github.com/ivanhak/pvetools
+PVEtools 有很多常用 pve 工具，可以快速配置 apt 源，并设置 PCI 硬件直通。其中就有核显直通功能。
+
+
+但是我在多次尝试后，发现并不如意，飞牛中一直未能显示出来 GPU。
+手动添加核显直通
+
+在 AI 帮助下，我直接在 PVE 终端中配置核显直通。
+主要就是通过安装 intel 核显驱动，然后配置 /etc/default/grub 文件进行。
+通过这种方式，我成功将 UHD 630 核显直通给了飞牛 OS。
+但却引发另一个问题 —— PVE 中无法管理飞牛了。在 PVE 面板中，无法连接飞牛虚拟机，一直提示 VM 100 qmp command 'set_password' failed - Could not set password.
+由于一直没能解决这个问题，后来我放弃使用虚拟机，重新在物理机上安装飞牛 OS。
+物理机安装飞牛OS
+
+物理机…]]></summary>
+        <author>
+            <name>法律小茶馆</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[久违的暑假｜沿海自驾DAY5 - 古城]]></title>
+        <id>https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day5-quanzhou-gucheng.html</id>
+        <link href="https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day5-quanzhou-gucheng.html"/>
+        <updated>2025-08-16T02:20:39.000Z</updated>
+        <summary type="html"><![CDATA[探索泉州古城的历史文化与非遗遗产，体验清源山晚茶、参观开元寺和泉州府文庙，品尝当地美食如沙茶面，欣赏非遗木偶戏，感受古城的独特魅力。]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8 Virtual Machine Projects You Need to Build This Weekend!]]></title>
         <id>https://www.virtualizationhowto.com/?p=302351</id>
@@ -6704,81 +6807,6 @@ The post Run Ollama with NVIDIA GPU in Proxmox VMs and LXC containers appeared f
         <summary type="html"><![CDATA[通过与 ChatGPT 的对话，它竟然能从中对我进行深刻分析，并提出犀利的批判性建议，帮助我改善生活与工作。这篇文章记录了我的真实体验和 ChatGPT 的惊人分析能力。]]></summary>
         <author>
             <name>潘智祥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Self-hosted GitHub Copilot AI Coding Alternatives]]></title>
-        <id>https://www.virtualizationhowto.com/?p=301082</id>
-        <link href="https://www.virtualizationhowto.com/2025/05/best-self-hosted-github-copilot-ai-coding-alternatives/"/>
-        <updated>2025-05-19T13:39:08.000Z</updated>
-        <summary type="html"><![CDATA[AI coding assistants are all the rage these days, from vibe coding, to helping to level the playing field for those who aren’t a developer. For those of us in the home lab, it is a great way to level-up with automation, Kubernetes, CI/CD, and other tasks that otherwise might be challenging. GitHub Copilot has …
-The post Best Self-hosted GitHub Copilot AI Coding Alternatives appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hexo-Butterfly美化教程-[5]安装常用插件]]></title>
-        <id>https://marsperl.github.io/yyg/23010111/</id>
-        <link href="https://marsperl.github.io/yyg/23010111/"/>
-        <updated>2025-05-19T10:58:52.000Z</updated>
-        <summary type="html"><![CDATA[前言
-以下是小站建设过程中用到的一些常用插件
-图片路径转asset_img
-将 markdown 图像路径转换为 asset_img 语法，使图像在 typora 和 hexo]]></summary>
-        <author>
-            <name>云野阁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hexo-Butterfly美化教程-[4]修改配置文件]]></title>
-        <id>https://marsperl.github.io/yyg/8a5ee3aa/</id>
-        <link href="https://marsperl.github.io/yyg/8a5ee3aa/"/>
-        <updated>2025-05-19T10:57:45.000Z</updated>
-        <summary type="html"><![CDATA[Hexo配置文件(_config.yml)
-打开blog目录下的Hexo的配置文件 _config.yml，进行自定义配置。（以下显示是通用配置）
-
-
-<span]]></summary>
-        <author>
-            <name>云野阁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hexo-Butterfly美化教程-[3]建主要页面]]></title>
-        <id>https://marsperl.github.io/yyg/b2261cee/</id>
-        <link href="https://marsperl.github.io/yyg/b2261cee/"/>
-        <updated>2025-05-19T08:53:35.000Z</updated>
-        <summary type="html"><![CDATA[安装Tag Plugins Plus 标签外挂插件
-
-安装标签外挂插件，方便之后各主要页面配置使用
-
-
-<span]]></summary>
-        <author>
-            <name>云野阁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 Docker 部署 OpenResty Manager 搭建可视化反向代理系统]]></title>
-        <id>https://blog.xiaoz.org/?p=22069</id>
-        <link href="https://blog.xiaoz.org/archives/22069"/>
-        <updated>2025-05-19T00:42:37.000Z</updated>
-        <summary type="html"><![CDATA[在之前的文章中，xiaoz推荐过可视化Nginx反向代理工具Nginx Proxy Manager，最近xiaoz还发现一款功能更加强大，界面更加漂亮的OpenResty Manager，完全可以替代Nginx Proxy Manager，并且还带有基础防御功能，推荐在服务器或NAS上搭建使用。Op]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用 Docker 部署 tinyMediaManager 刮削工具]]></title>
-        <id>https://dusays.com/807/</id>
-        <link href="https://dusays.com/807/"/>
-        <updated>2025-05-18T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>杜老师使用 Emby 管理媒体文件，但刮削时经常报错。tinyMediaManager 是款功能强大的开源媒体管理工具，能够帮助轻松整理和管理媒体库。本文将详细介绍 tinyMediaManager 的搭建过程和基本使用方法。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
         </author>
     </entry>
     <entry>
