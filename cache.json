@@ -6,6 +6,16 @@
       "siteUrl": "https://MarsperL.github.io/",
       "articles": [
         {
+          "id": "https://marsperl.github.io/yyg/986299a9/",
+          "author": null,
+          "description": "<a href=\"#网络\" class=\"headerlink\"",
+          "link": "https://marsperl.github.io/yyg/986299a9/",
+          "publishedOn": "2025-08-22T10:17:22.000Z",
+          "wordCount": 4623,
+          "title": "k8s知识梳理--进阶",
+          "imageUrl": "https://api.vvhan.com/api/wallpaper/views"
+        },
+        {
           "id": "https://marsperl.github.io/yyg/37098f8c/",
           "author": null,
           "description": "基础环境\n原环境\n仓库：存放静态网页的仓库（公开）\n工作流：本地撰写博客—>执行编译，生成静态网页—>推送静态网页到仓库—>访问发布的网页\n<a href=\"#新环境\" class=\"headerlink\"",
@@ -65,6 +75,16 @@
       "feedUrl": "https://daverupert.com/atom.xml",
       "siteUrl": "https://daverupert.com",
       "articles": [
+        {
+          "id": "https://daverupert.com/2025/08/limiting-youtube-to-a-single-tab/",
+          "author": null,
+          "description": "This week I decided to go nuclear on my bad YouTube habit. I installed a plugin called Tab Limiter that lets me limit youtube.com to one tab at a time. Clicking links that open in new tabs will now auto-close the tab.\nWhy do this? I talked about it before but when I’m bored I open tabs. Adding friction here prevents me from CMD+clicking videos during moments of boredom and creating a month’s-worth unclose-able tabs of videos to watch. It encourages me to stay focused and nudges me towards YouTube’s lossy1 “Add to queue” feature to queue up one video at a time in a single tab. I sort of prefer this way of using YouTube and it makes it feel a lot more like a native app.\nThat inspired me to install the YouTube Progressive Web App and because the PWA is basically a dedicated tab, Tab Limiter keeps me from opening other videos in new tabs. I’m now funneled into the application.\nOpening a dropdown and clicking “Add to queue” is adding more “good friction” to the process. It also comes with a counter. 20 tabs open, no big deal, I’m immune to that effect. 20 items in a queue. Yeesh. That’s a todo list.\nTab Limiter has a brutalist UI and that’s what makes it perfect. It’s also open sourced on GitHub which is important to me so I can make sure it’s not sending my browsing history to China. And I can fork it. One improvement I’m considering is to add the closed video’s ID to the YouTube queue before closing the tab. It seems easy enough, but probably not as easy as I’m hoping. The core idea there is that it might be helpful if I come across an urgent watch-now link or someone sends me a link.\nI’m also still using Raycast Focus which is a great way to blockout time and stop distractions at the source.\n\n\n\n\nYouTube queues only exist in memory in the tab context, it’s not a cross-tab feature so if you close a tab and started a new one, the entire old queue got erased forever. ↩",
+          "link": "https://daverupert.com/2025/08/limiting-youtube-to-a-single-tab/",
+          "publishedOn": "2025-08-22T13:59:00.000Z",
+          "wordCount": 885,
+          "title": "Limiting YouTube to a Single Tab",
+          "imageUrl": null
+        },
         {
           "id": "https://daverupert.com/2025/08/classifiers-and-cosmotechnics/",
           "author": null,
@@ -242,6 +262,16 @@
       "feedUrl": "https://hyruo.com/index.xml",
       "siteUrl": "https://lawtee.com/",
       "articles": [
+        {
+          "id": "https://lawtee.com/article/slim-down-nas-storage/",
+          "author": null,
+          "description": "之前在 群晖、迷你主机还是捡垃圾，家用NAS怎么选 提到，我家里 NAS 存储的重要家庭数据已经达到 1000GB，主要就是家中多年积累下来的照片、视频，共计约 20 万文件。虽说存储量也不大，但在迁移过程中，还是感觉很吃力，大量小文件读写，用移动硬盘复制都得几个小时。为了解决这个问题，便于日后轻松上阵，我借鉴之前在 hugo 和 soomal 项目中的经验，对 NAS 文件来了次大瘦身，节约 75% 的空间。\n清理重复文件\n\n\n\n我以前备份照片视频的模式，基本都是采取每年一到两次的频率，将相机、手机照片视频冷备份到 NAS。大体是选择在春节、国庆长假这种时间节点，以及换手机的时候，一股脑把手机上照片视频通过移动硬盘复制过去。\n在这过程中，有一个比较麻烦的事情是，每次我换手机都会将上一台手机的照片视频导入新手机，而上一台手机中很多照片、视频实际上都已经在 NAS 有备份。这种情况下，如果自己备份的时候认真一点，通常会考虑删除一遍重复文件，但很多时候比较懒就没管了。造成 NAS 中实际上有不少文件都是重复版本。\n要清理群晖 NAS 中的重复文件，通常有三种方法。\n群晖自带的存储空间分析器。打开群晖自带的存储空间分析器，查找“潜在重复文件”，通常会输出一个 csv 文件，列明重复文件。把需要删除的文件导出为 txt，然后在“任务计划”中通过命令 cat /volume3/video/delete.txt | xargs -I {} rm -f \"{}\" 就能把重复文件删除。\n\n\n\n这种方法只适合重复文件数量较少的情况。例如，我的群晖每次只支持查找 5000 个重复文件。如果重复文件显著超过这个数值，就不是很实用了。毕竟，每次查找重复文件都耗时颇多。\n\n\n\n第三方应用工具。 群晖第三方应用市场有几款删除文件工具比较实用。例如：dupeGuru fdupes 等。我也下载测试过，但…",
+          "link": "https://lawtee.com/article/slim-down-nas-storage/",
+          "publishedOn": "2025-08-19T08:30:00.000Z",
+          "wordCount": 621,
+          "title": "为 NAS 存储来个大瘦身 - 照片视频压缩方案",
+          "imageUrl": "https://lawtee.com/article/slim-down-nas-storage/1.webp"
+        },
         {
           "id": "https://lawtee.com/article/fnos-network-sercurity/",
           "author": null,
@@ -538,6 +568,16 @@
       "feedUrl": "https://blog.ops-coffee.cn/feed.xml",
       "siteUrl": "https://blog.ops-coffee.cn/atom.xml",
       "articles": [
+        {
+          "id": "https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day11-xiamen-shatan.html",
+          "author": null,
+          "description": "2025年暑假，厦门环岛骑行成为了最佳旅行体验。文章详细记录了从环岛东路到白城沙滩的骑行经历，以及在演武大桥观景平台欣赏厦门湾美景的难忘时刻。",
+          "link": "https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day11-xiamen-shatan.html",
+          "publishedOn": "2025-08-21T20:02:40.000Z",
+          "wordCount": 120,
+          "title": "久违的暑假｜沿海自驾DAY11 - 沙滩",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day10-xiamen-huandao.html",
           "author": null,
@@ -845,6 +885,26 @@
       "feedUrl": "https://jimmysong.io/blog/index.xml",
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
+        {
+          "id": "https://jimmysong.io/blog/qoder-alibaba-ai-ide-personal-review/",
+          "author": "Jimmy Song",
+          "description": "从个人视角深度体验阿里巴巴最新推出的 Qoder AI IDE，探索 Agentic Coding 平台的革命性功能与发展前景。",
+          "link": "https://jimmysong.io/blog/qoder-alibaba-ai-ide-personal-review/",
+          "publishedOn": "2025-08-22T00:00:00.000Z",
+          "wordCount": 1342,
+          "title": "Qoder：阿里巴巴推出的 AI IDE，全方位了解其能力与未来",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.webp"
+        },
+        {
+          "id": "https://jimmysong.io/blog/ai-native-software-delivery/",
+          "author": "Jimmy Song",
+          "description": "本文介绍我最近使用 AI 翻译的新书《AI 原生软件交付》，分享书中的核心观点与个人感受。",
+          "link": "https://jimmysong.io/blog/ai-native-software-delivery/",
+          "publishedOn": "2025-08-21T15:00:00.000Z",
+          "wordCount": 371,
+          "title": "《AI 原生软件交付》读书笔记：用 AI 翻译的新书分享",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.webp"
+        },
         {
           "id": "https://jimmysong.io/blog/ai-agent-translation/",
           "author": "Jimmy Song",
@@ -1347,6 +1407,66 @@
       "siteUrl": "https://www.derekseaman.com",
       "articles": [
         {
+          "id": "https://www.derekseaman.com/?p=21145",
+          "author": "Derek Seaman",
+          "description": "Hot off the press is Proxmox Backup Server 4.0. PBS is a great tool to use with your Proxmox VE servers to do fast and easy backups of your VMs and LXCs. It’s very easy to setup, and can be deployed in a variety of forms: bare metal, VM or LXC.  Personally, I’ve deployed Proxmox […]",
+          "link": "https://www.derekseaman.com/2025/08/proxmox-backup-server-pbs-4-0-blog-series.html",
+          "publishedOn": "2025-08-21T19:44:45.000Z",
+          "wordCount": 4223,
+          "title": "Proxmox Backup Server (PBS) 4.0 Blog Series",
+          "imageUrl": "https://www.derekseaman.com/wp-content/uploads/copilot_20250817_094613.jpeg"
+        },
+        {
+          "id": "https://www.derekseaman.com/?p=20892",
+          "author": "Derek Seaman",
+          "description": "Many home labs have both Proxmox VE hosts (for running VMs and LXCs) as well as a Synology NAS. If you want to run Proxmox Backup Server on your Synology NAS as a VM, this post is for you. I’ll show you how to install PBS as VM on your NAS, as well as configure […]",
+          "link": "https://www.derekseaman.com/2025/08/how-to-proxmox-backup-server-4-as-a-synology-vm.html",
+          "publishedOn": "2025-08-17T23:28:33.000Z",
+          "wordCount": 5065,
+          "title": "How To: Proxmox Backup Server 4 as a Synology VM",
+          "imageUrl": "https://www.derekseaman.com/wp-content/uploads/copilot_20250817_094613.jpeg"
+        },
+        {
+          "id": "https://www.derekseaman.com/?p=20829",
+          "author": "Derek Seaman",
+          "description": "New to Proxmox Backup Server (PBS) 4.0 is a ‘tech preview’ feature for using S3 buckets as a datastore. While many people associate S3 buckets with Amazon, it is more or less a standard that many cloud providers support. This opens up many possibilities for direct PBS to cloud backups, which is great news. However, […]",
+          "link": "https://www.derekseaman.com/2025/08/how-to-backblaze-b2-as-a-proxmox-backup-server-4-0-datastore.html",
+          "publishedOn": "2025-08-17T21:32:37.000Z",
+          "wordCount": 5378,
+          "title": "How To: Backblaze B2 as a Proxmox Backup Server 4 S3 Datastore",
+          "imageUrl": "https://www.derekseaman.com/wp-content/uploads/copilot_20250817_094613.jpeg"
+        },
+        {
+          "id": "https://www.derekseaman.com/?p=20647",
+          "author": "Derek Seaman",
+          "description": "If you have a Synology NAS and want to use it with Proxmox Backup Server (PBS), you have two primary options for your datastore: NFS or an iSCSI LUN. If you want to use NFS storage, check out my previous article: How To: Setup Synology NFS for Proxmox Backup Server Datastore . However, the NFS datastore […]",
+          "link": "https://www.derekseaman.com/2025/08/how-to-synology-iscsi-lun-for-proxmox-backup-server-datastore.html",
+          "publishedOn": "2025-08-17T17:15:50.000Z",
+          "wordCount": 5178,
+          "title": "How To: Synology iSCSI LUN for Proxmox Backup Server Datastore",
+          "imageUrl": "https://www.derekseaman.com/wp-content/uploads/copilot_20250817_094613.jpeg"
+        },
+        {
+          "id": "https://www.derekseaman.com/?p=20775",
+          "author": "Derek Seaman",
+          "description": "This refreshed 2025 post covers using a Synology NAS NFS share as a datastore for Proxmox backups. Configuring a NFS share for the proper Proxmox Backup Server permissions can be quite challenging. The permissions requirements for PBS are different from just a basic NFS mount to a Proxmox VE host that you use for VE […]",
+          "link": "https://www.derekseaman.com/2025/08/how-to-synology-nfs-for-proxmox-backup-server-datastore-2025.html",
+          "publishedOn": "2025-08-17T16:47:41.000Z",
+          "wordCount": 5104,
+          "title": "How To: Synology NFS for Proxmox Backup Server Datastore (2025)",
+          "imageUrl": "https://www.derekseaman.com/wp-content/uploads/copilot_20250817_094613.jpeg"
+        },
+        {
+          "id": "https://www.derekseaman.com/?p=20537",
+          "author": "Derek Seaman",
+          "description": "In this article I will walk you through how to install Proxmox Backup Server (PBS) 4.0 inside of a VM running on Proxmox 9.0. You might be wondering why you might want to install PBS as a VM instead of a LXC. Good question! If you want to use iSCSI LUNs as a PBS datastore, […]",
+          "link": "https://www.derekseaman.com/2025/08/how-to-proxmox-backup-server-4-vm-installation.html",
+          "publishedOn": "2025-08-17T15:52:44.000Z",
+          "wordCount": 7257,
+          "title": "How To: Proxmox Backup Server 4 (VM) Installation",
+          "imageUrl": "https://www.derekseaman.com/wp-content/uploads/copilot_20250817_094613.jpeg"
+        },
+        {
           "id": "https://www.derekseaman.com/?p=20476",
           "author": "Derek Seaman",
           "description": "Note: This post is NOT sponsored and there are NO public affiliate links. If you would like a private code to use for $50 off some plans, use my contact form and I’ll email you a code. Choosing a cell phone plan in the United States can be overwhelming, with dozens of providers and an […]",
@@ -1375,16 +1495,6 @@
           "wordCount": 4962,
           "title": "Home Assistant: iOS Focus Mode Automation Triggers",
           "imageUrl": "https://www.derekseaman.com/wp-content/uploads/copilot_20250612_205827.jpg"
-        },
-        {
-          "id": "https://www.derekseaman.com/?p=19047",
-          "author": "Derek Seaman",
-          "description": "In today’s interconnected world, safeguarding your personal information is more crucial than ever. With telecommunications companies collecting extensive data about your communication habits, it’s essential to understand how this information is used and how you can protect your privacy. From disabling Customer Proprietary Network Information (CPNI) to securing your Social Security Number and managing your […]",
-          "link": "https://www.derekseaman.com/2025/05/digital-privacy-decoded-simple-ways-to-secure-your-information.html",
-          "publishedOn": "2025-05-23T19:25:09.000Z",
-          "wordCount": 7063,
-          "title": "Digital Privacy Decoded: Simple Ways to Secure Your Information",
-          "imageUrl": "https://www.derekseaman.com/wp-content/uploads/data-privacy.png"
         }
       ]
     },
@@ -1410,6 +1520,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=302520",
+          "author": "Brandon Lee",
+          "description": "Storage is one of the coolest projects that you can undertake in your home lab as most apps or services that you want to self-host will have the need to store things. Aside from specific app data, you will likely want to run virtual machines, Docker containers, or other types of resources, your storage makes …\nThe post 5 Storage Projects to Supercharge Your Home Lab This Weekend appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/08/5-storage-projects-to-supercharge-your-home-lab-this-weekend/",
+          "publishedOn": "2025-08-22T12:08:55.000Z",
+          "wordCount": 10511,
+          "title": "5 Storage Projects to Supercharge Your Home Lab This Weekend",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/08/home-lab-storage-projects-for-the-weekend.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=302489",
           "author": "Brandon Lee",
@@ -3106,16 +3226,6 @@
           "wordCount": 4398,
           "title": "How to Maximize ROI with Accurate Google Ads Conversion Tracking",
           "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2025/05/Screenshot-2025-05-26-at-12.19.02%E2%80%AFAM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=32125",
-          "author": "Collabnix Team",
-          "description": "Running large language models locally has become increasingly accessible thanks to tools like Ollama. This comprehensive guide will walk you through setting up and using Ollama with Python, enabling you to harness the power of AI models directly on your machine. What is Ollama? Ollama is an open-source platform that makes it easy to run […]",
-          "link": "https://collabnix.com/using-ollama-with-python-step-by-step-guide/",
-          "publishedOn": "2025-05-25T06:13:54.000Z",
-          "wordCount": null,
-          "title": "Using Ollama with Python: Step-by-Step Guide",
-          "imageUrl": null
         }
       ]
     },
@@ -3681,16 +3791,6 @@
           "wordCount": 543,
           "title": "Fox Day",
           "imageUrl": ""
-        },
-        {
-          "id": "https://www.skyue.com/25052511.html",
-          "author": "拾月",
-          "description": "南瓜在重庆出差，周末没活动，于是我昨天窝家里一天把《大奉打更人》给看完了，40集，1.5倍速。总体上与当年看《大宋少年志》的感觉有点像，朝堂+探案+爱情的题材，再上点「侠之大者，为国为民」的价值...",
-          "link": "https://www.skyue.com/25052511.html",
-          "publishedOn": "2025-05-25T03:33:00.000Z",
-          "wordCount": 548,
-          "title": "大奉打更人",
-          "imageUrl": ""
         }
       ]
     },
@@ -3868,26 +3968,6 @@
           "wordCount": null,
           "title": "2025年端午节-雨中的武汉汉堡节",
           "imageUrl": null
-        },
-        {
-          "id": "https://4311346.com/post/2025/0525-mulberry-fruit.html",
-          "author": null,
-          "description": "经常会感叹时间过得太快，以至于生活和工作都跟不上时间，结果就是睡眠越来越不足。时间到了05月中旬，年龄又增大了一岁，意味着体力也会对应的减少，过去的一年多时间，每天都在加班中度过，甚至一些周末也都投入到了工作之中… 回头看来，这些并不是自己想要的，但不知道是不是到了这个年纪，却没有了折腾的心。至少过去一年多时间里，并没有想去主动改变的想法，难、累、委屈、郁闷充斥着每一天，还TMD继续在坚持…这就是牛马，但绝对不是一个快乐的牛马。\n所以，公司总会安排喝酒、唱歌、游玩等各种活动来进行放松和调整…\n先解答上篇文章几个问题（强大的组织能力和2025年五一劳动节）\n@粽叶加米，打工人的挣扎与坚持，职场拼力担心失去家庭生活，安逸则要面对“被劝退”\n其实强度大得只有自己离职，根本到不了被劝退的安逸，举个例子，“做不到罚款” ，过去一年，被罚款的部分已经超1个W了… 一个人工作终究是为自己，体现的淋漓尽致… 摸鱼~ 不存在的，等着被罚款。\n@Dorad，HR天天这业绩考核，日子也不好过啊\n举个招聘HR的例子把，将求职者约来，最终因为薪酬问题，对方没能入职。和销售一样，客户有意向，但因为价格问题，没能下单。时间长了，销售因为抓不住客户，没有业绩而被淘汰。而这个招聘HR，其实和这位销售一样，每一个“客户”都没抓住，最终没有业绩。等着的同样是被淘汰。\n大环境不好，不做可以滚，换个地方呢？重头再来滚一遍吗？日子好不好过，多由自身决定把。\n@obaby，四点出门晚啦，我都是两点出门\n五一当天加班，五一之前也没休息，连续上班10多天，睡4个小时出门是为了安全，只睡2小时，还1个人1路从武汉开到山东，怕是有点强大。\n@夜未央，太敬业了，事业心是一种天赋，真不需要强迫\n谈不上被强迫，一切为了自己，自己成长的同时，顺便将工作也干了，也就行了，这是打工，不是玩命。\n这里要提的一个词，是自律，共勉\n一个人不自律，谁也帮不了，自律不是偶尔的早起，不是想起来才坚持，更不是间歇性的努力，而是长久保持该有规律，亲手扶起另一个颓废的自己。\n中国科学院武汉植物园\n周一暴雨的清晨，被通知10点准时到东湖的一个会所开会。然后在会所园区内陪着大BOSS观光了一整圈后，开始会议和吃饭，人均380元的餐食标准有点贵，虽然费用能报销，但作为人力资源部门负责人却又在很多活动、会议中起到的是组织管理与服务性的后勤工作，所以单得买，往往一个报销周期还没结束，后一个活动有开始了，然后大几万就垫付进去了…笑话是没点存款还真干不了这活。\n\n会议+干饭结束，已是下午16点多，然后驱车去到距离附近不远的中国科学院武汉植物园看花。\n\n土生土长的武汉吖对这里都很熟悉，大致算算有20多年没有来过了…\n\n\n\n小学，中学，大学都有会组织春游来到这里，记忆最深刻的一次是有一年的郁金香展，后来大学期间有一次集体活动是在这里举行后，就再也没有来过。距离家里也就十多公里，家门口公交就能直达，而这么漂亮的地方，却最终遗忘了。\n\n植物园园区门口，可租电动代步车，价格喜人…\n\n武汉植物园花期，基本上集中在上半年，兰花、牡丹、郁金香、杜鹃、罂粟\n黄陂区七颗莓生态园\n这天早上前往黄陂区七颗莓生态园集合，在这里采摘桑葚和树莓，桑葚成熟得并不是太多，也有可能是前几天的周末被其它游客采摘完了，第一次见树莓，品种也好几个，但口感一般。整体来说，并没有去年在 黄陂星期八果园 采摘的收获大。\n\n目前这个季节，桑葚、蓝莓、树莓、钓小龙虾，然后园区老板自己养了点走地鸡\n\n小龙虾管饱，老板可以免费给加工，但得自己一个个在塘里钓\n\n农家乐，自己抓的鸡，旁边就杀了炖汤，土豆、地菜、汉菜都是地里自己挖的\n\n黄陂区木兰玫瑰园\n\n基本没啥人\n\n也算得上有山有水，但园区规划并不是很紧凑，如果父母来应该更喜欢\n\n来都来了，还是要看看玫瑰花的\n新洲区紫薇都市田园\n这里并不在计划着，原本去到黄陂区的木兰玫瑰园，花期基本已过，没什么看头，转头赶在17点30分截止入园之前从黄陂区奔步至新洲区的新洲区紫薇都市田园。\n\n入园后的体验远比木兰玫瑰园要好\n\n景点的打卡地点还挺多\n\n园区内的小火车，有点类似 《各个都是大家伙，中国铁道博物馆-蒸汽机车》中的 0号机车，还有窄轨铁路。\n\n紫薇都市田园属于4A景区，景区内自费游玩的项目也很多，最适合的应该是运动拓展活动，赏花这类只能春天带父母来。\n\n摘的树莓和桑葚并不是太多，回家后发现就这么一碗… 吃吧",
-          "link": "https://4311346.com/post/2025/0525-mulberry-fruit.html",
-          "publishedOn": "2025-05-25T13:55:29.000Z",
-          "wordCount": null,
-          "title": "武汉采摘树莓-黄陂七颗莓生态园",
-          "imageUrl": null
-        },
-        {
-          "id": "https://4311346.com/post/2025/0525-mulberry-fruit/",
-          "author": null,
-          "description": "经常会感叹时间过得太快，以至于生活和工作都跟不上时间，结果就是睡眠越来越不足。时间到了05月中旬，年龄又增大了一岁，意味着体力也会对应的减少，过去的一年多时间，每天都在加班中度过，甚至一些周末也都投入到了工作之中… 回头看来，这些并不是自己想要的，但不知道是不是到了这个年纪，却没有了折腾的心。至少过去一年多时间里，并没有想去主动改变的想法，难、累、委屈、郁闷充斥着每一天，还TMD继续在坚持…这就是牛马，但绝对不是一个快乐的牛马。\n所以，公司总会安排喝酒、唱歌、游玩等各种活动来进行放松和调整…\n先解答上篇文章几个问题（强大的组织能力和2025年五一劳动节）\n@粽叶加米，打工人的挣扎与坚持，职场拼力担心失去家庭生活，安逸则要面对“被劝退”\n其实强度大得只有自己离职，根本到不了被劝退的安逸，举个例子，“做不到罚款” ，过去一年，被罚款的部分已经超1个W了… 一个人工作终究是为自己，体现的淋漓尽致… 摸鱼~ 不存在的，等着被罚款。\n@Dorad，HR天天这业绩考核，日子也不好过啊\n举个招聘HR的例子把，将求职者约来，最终因为薪酬问题，对方没能入职。和销售一样，客户有意向，但因为价格问题，没能下单。时间长了，销售因为抓不住客户，没有业绩而被淘汰。而这个招聘HR，其实和这位销售一样，每一个“客户”都没抓住，最终没有业绩。等着的同样是被淘汰。\n大环境不好，不做可以滚，换个地方呢？重头再来滚一遍吗？日子好不好过，多由自身决定把。\n@obaby，四点出门晚啦，我都是两点出门\n五一当天加班，五一之前也没休息，连续上班10多天，睡4个小时出门是为了安全，只睡2小时，还1个人1路从武汉开到山东，怕是有点强大。\n@夜未央，太敬业了，事业心是一种天赋，真不需要强迫\n谈不上被强迫，一切为了自己，自己成长的同时，顺便将工作也干了，也就行了，这是打工，不是玩命。\n这里要提的一个词，是自律，共勉\n一个人不自律，谁也帮不了，自律不是偶尔的早起，不是想起来才坚持，更不是间歇性的努力，而是长久保持该有规律，亲手扶起另一个颓废的自己。\n中国科学院武汉植物园\n周一暴雨的清晨，被通知10点准时到东湖的一个会所开会。然后在会所园区内陪着大BOSS观光了一整圈后，开始会议和吃饭，人均380元的餐食标准有点贵，虽然费用能报销，但作为人力资源部门负责人却又在很多活动、会议中起到的是组织管理与服务性的后勤工作，所以单得买，往往一个报销周期还没结束，后一个活动有开始了，然后大几万就垫付进去了…笑话是没点存款还真干不了这活。\n\n会议+干饭结束，已是下午16点多，然后驱车去到距离附近不远的中国科学院武汉植物园看花。\n\n土生土长的武汉吖对这里都很熟悉，大致算算有20多年没有来过了…\n\n\n\n小学，中学，大学都有会组织春游来到这里，记忆最深刻的一次是有一年的郁金香展，后来大学期间有一次集体活动是在这里举行后，就再也没有来过。距离家里也就十多公里，家门口公交就能直达，而这么漂亮的地方，却最终遗忘了。\n\n植物园园区门口，可租电动代步车，价格喜人…\n\n武汉植物园花期，基本上集中在上半年，兰花、牡丹、郁金香、杜鹃、罂粟\n黄陂区七颗莓生态园\n这天早上前往黄陂区七颗莓生态园集合，在这里采摘桑葚和树莓，桑葚成熟得并不是太多，也有可能是前几天的周末被其它游客采摘完了，第一次见树莓，品种也好几个，但口感一般。整体来说，并没有去年在 黄陂星期八果园 采摘的收获大。\n\n目前这个季节，桑葚、蓝莓、树莓、钓小龙虾，然后园区老板自己养了点走地鸡\n\n小龙虾管饱，老板可以免费给加工，但得自己一个个在塘里钓\n\n农家乐，自己抓的鸡，旁边就杀了炖汤，土豆、地菜、汉菜都是地里自己挖的\n\n黄陂区木兰玫瑰园\n\n基本没啥人\n\n也算得上有山有水，但园区规划并不是很紧凑，如果父母来应该更喜欢\n\n来都来了，还是要看看玫瑰花的\n新洲区紫薇都市田园\n这里并不在计划着，原本去到黄陂区的木兰玫瑰园，花期基本已过，没什么看头，转头赶在17点30分截止入园之前从黄陂区奔步至新洲区的新洲区紫薇都市田园。\n\n入园后的体验远比木兰玫瑰园要好\n\n景点的打卡地点还挺多\n\n园区内的小火车，有点类似 《各个都是大家伙，中国铁道博物馆-蒸汽机车》中的 0号机车，还有窄轨铁路。\n\n紫薇都市田园属于4A景区，景区内自费游玩的项目也很多，最适合的应该是运动拓展活动，赏花这类只能春天带父母来。\n\n摘的树莓和桑葚并不是太多，回家后发现就这么一碗… 吃吧",
-          "link": "https://4311346.com/post/2025/0525-mulberry-fruit/",
-          "publishedOn": "2025-05-25T13:55:29.000Z",
-          "wordCount": 304,
-          "title": "武汉采摘树莓-黄陂七颗莓生态园",
-          "imageUrl": null
         }
       ]
     },
@@ -3933,6 +4013,16 @@
       "feedUrl": "https://dusays.com/atom.xml",
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
+        {
+          "id": "https://dusays.com/823/",
+          "author": null,
+          "description": "<blockquote>\n<p>当今数字化浪潮中，人工智能正以前所未有的速度改变着我们的工作和生活方式。字节跳动于 2025 年 4 月 19 日推出的通用型 AI Agent 平台，无疑是这一变革中一颗璀璨新星，为我们带来了全新的 AI 协作办公体验。</p>\n</blockquote>",
+          "link": "https://dusays.com/823/",
+          "publishedOn": "2025-08-22T16:00:00.000Z",
+          "wordCount": 513,
+          "title": "探索扣子空间「邀请码不限量分享」",
+          "imageUrl": "https://cdn.dusays.com/avatar.png"
+        },
         {
           "id": "https://dusays.com/822/",
           "author": null,
@@ -4102,16 +4192,6 @@
           "wordCount": null,
           "title": "MinIO 社区版 Web 管理界面被删事件全解析",
           "imageUrl": null
-        },
-        {
-          "id": "https://dusays.com/808/",
-          "author": null,
-          "description": "<blockquote>\n<p>自飞牛 OS 支持虚拟机后，很多使用飞牛的小伙伴会询问杜老师有关 DDNS 的问题。希望可以白嫖一个二级域名，支持 API 变更解析值，且支持 IPv6 解析。恰好杜老师发现了一个网站，支持多后缀的二级域名白嫖，这里分享给需要的小伙伴们！</p>\n</blockquote>",
-          "link": "https://dusays.com/808/",
-          "publishedOn": "2025-05-24T16:00:00.000Z",
-          "wordCount": 463,
-          "title": "dynv6 免费二级域名申请及管理",
-          "imageUrl": "https://cdn.dusays.com/avatar.png"
         }
       ]
     },
@@ -4887,6 +4967,26 @@
       "siteUrl": "https://chegva.com",
       "articles": [
         {
+          "id": "https://chegva.com/?p=6502",
+          "author": "anzhihe",
+          "description": "最近工作需要买了个64G的U盘，在Windows系统下使用格式化了 NTFS 格式，但是在Mac上无法写入，macOS默认仅支持读取NTFS，还得再格一次，真是格老子的了。\nMac 上“磁盘工具”中可用的文件系统格式\nMac 上的“磁盘工具”支持多种文件系统格式：\n\nApple 文件系统 (APFS)：macOS 10.13 或后续版本使用的文件系统。\n\nMac OS 扩展：macOS 10.12 或之前版本使用的文件系统。\n\nMS-DOS (FAT) 和 ExFAT：与 Windows 兼容的文件系统。\n\n\nWindows 兼容格式\n如果格式化磁盘以配合 Windows 使用，请选取以下其中一种兼容 Windows 的文件系统格式。\n\nMS-DOS (FAT)：用于 Windows 宗卷且大小为 32 GB 或不足 32 GB。\n\nExFAT：用于 Windows 宗卷且大小超过 32 GB。\n\n\n\n文件系统选择\n\n\nMacOS 使用终端格式化 U 盘\n在面对无法清除U盘分区，无法写入，无法抹掉情况时，在 Mac 上可以使用终端彻底格式化 U 盘，可以使用 diskutil 命令。以下是详细步骤：\n\n⚠️ 注意事项\n\n格式化会清空 U 盘上的所有数据，请先备份重要文件。\n\n确保选择了正确的 U 盘，否则可能误删其他数据。\n\n1、打开终端查看 U 盘信息\n输入以下命令查看所有磁盘设备：\ndiskutil list\n2、卸载 U 盘\n格式化前，先卸载 U 盘：\ndiskutil umountDisk /dev/disk4\n3、覆盖 U 盘（可选）\ndiskutil zeroDisk /dev/disk4\n4、彻底格式化 U 盘\n格式化并抹除 U 盘，使用以下命令：\ndiskutil eraseDisk FAT32 USB_NAME MBRFormat /dev/disk4\n\n…",
+          "link": "https://chegva.com/6502.html",
+          "publishedOn": "2025-08-21T14:51:55.000Z",
+          "wordCount": 11925,
+          "title": "MacOS格式化 U 盘",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chegva.com/?p=6278",
+          "author": "anzhihe",
+          "description": "我一直说，时间是人生中最宝贵的财富，今天我就来跟你聊聊时间管理方面的话题。\n关于时间管理，以前在外企工作时，受过一个专门的培训，我在工作中也总结过自己的方式。时间管理是非常重要的，因为时间过得实在是太快了，快得让你有点受不了，而看似忙碌的我们似乎在这一年中也没有做太多事，尤其是让自己能成长的事情。\n有那么一句话是这么说，老天很公平，给了所有人同样多的时间，而有的人能够把时间用好，有的人则没有把时间用好。日积月累，人和人的差距就越来越大了。\n之前的文章和你讲过，我在工作强度很大的情况下依然可以找到时间来学习和提升自己，主要是对学习的渴望程度很大。今天想和你谈一下，除了自己对某件事情的热情外，我们该怎么管理好自己的时间。\n不过，说实话，在安排时间方面，我成长于一个相对于今天算是比较好的环境，举几个例子。\n\n那个年代，没有智能手机，工作中也不用实时聊天工具。而现在，很多公司都会有若干个聊天群，所有人都可以把信息发给所有的人，而不管这个事是否与你相关。但这些信息无法像邮件那样根据邮件标题聚合，或是通过设置规则自动分类……于是你工作在了一个信息杂乱无章的环境里，而且还在不断地被人打扰，不断地被打断。\n\n那个年代，别人要来找我开会，需要先给我发会议邀请，而且发会议邀请的时候，会找我日历上空闲的时间段来订会议。所以，我可以把很多工作安排在我的日历上，通过邮箱（Outlook 或是 Gmail 都有这样的功能）共享出去。这样，别人都会自觉地不在我有安排的时间段来找我。\n\n而今天，我看到很多公司直接在微信上联系。你要是回复慢了，电话直接打过来，直接叫你去开会。不像我那个年代，老板临时给员工开会也要问一下员工有没有时间，但现在的工作环境连问都不问，直接一句，你来一下。\n\n那个年代，工作被非常有计划地安排。还记得在路透工作的时候，管理者们都说，你工作时如果有 70% 的时间能花在项目开发上，算是…",
+          "link": "https://chegva.com/6278.html",
+          "publishedOn": "2025-08-18T09:12:18.000Z",
+          "wordCount": 10019,
+          "title": "如何做好时间管理",
+          "imageUrl": null
+        },
+        {
           "id": "https://chegva.com/?p=6497",
           "author": "anzhihe",
           "description": "改命是根据道家的学说来的。我们知道八字背后有五行，五行背后有阴阳。改命就是从阴阳运用的一种方法。道家认为：任何事物都有“阴阳”的两面，阴不离阳，阳不离阴。如果“阴阳失调”，就会导致问题。片面强调阴阳的任何一面，都是愚蠢的，死板僵化的思想，做事情一定失败。这就是“孤阴不生，孤阳不长”。道家追求的最高境界是“合一”，就是阴阳的全然和谐和融合平衡。出了问题怎样来解决问题？就是“阴阳互补”，互补的方式就是“采阴补阳”----“阳”不足的时候，不是直接加“阳”，直接施加“阳”的结果只会压制“阳”的生成，变得阳气更不足了。所以必须用性质完全不同的“阴”来补充配合，培植阳气。同样，“阴”不足，就要用“阳”来补，叫做“采阳补阴”。举一些例子吧。让大家好理解。这个也是以前师父教给我的，非常有意思。\n\n\n一个男子有点女性化，阳刚不足，柔和体贴，细心有余。根据人的这种心理本性的吸引，他会本能地倾向喜欢一个活泼大方，开朗大气，偏于男性化倾向的强势女子，现实生活中人们往往都是这样来搭配的。不过，这样的结合并不好，没有做到“采补”，所以会让双方的缺点更突出，优点无法表现。\n \n家庭中这种结构，会让男子的女性化更加突出，阳气受到压制；同时，女子在家庭中的强势地位也会强化保持，继续“阳亢”。最终的结果是“角色易位”，长期下来男的会觉得压抑，女的也会不满意。因为这种婚姻结构违反了他们内心的生物本性，迟早会出问题。\n \n因此要婚姻幸福，必须“采补”。偏于女性化的男子，他必须娶一个“非常”女性化的女子，柔情似水型的典型女性。也就是说要娶“阴”的特征特别明显强化的女子，才能通过“采阴补阳”，来补充自己不足的阳气。跟这样的女子在一起，该男子身上的阳气会越来越强，阴气慢慢退减，这样家庭事业都会很兴旺。\n\n\n特别阴性的女子（阴气过旺型），也需要与阳气不是太强的男子结合才好。但是这种女子又容易特别喜欢超级强势的男子。但是…",
@@ -5064,16 +5164,6 @@
           "publishedOn": "2025-05-26T11:51:05.000Z",
           "wordCount": 12825,
           "title": "k8s master join 时etcd证书报错问题",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6282",
-          "author": "anzhihe",
-          "description": "大象：六十四卦的作用和意义。从卦象分析事物所处状态，从而判断应该如何应对。 | 《易传》 | 周易《杂卦传》详解 | 周易《序卦传》详解 | 周易《文言传》详解\n\n\n卦名大象辞原文大象辞解释\n\n乾1天行，健；君子以自强不息。\n《乾》卦为六十四卦之首，是太极的开端，也是太极的核心。乾为天，是以自然界最大的象来比喻。天道运转最显著地就是规律与法则，是主导事物发展的动因和原动力，而要维系太极稳定地存在和发展，就要有持续足够的能量来支撑，这就是“健”。因此，《乾》卦是不断消耗自己的能量，自强不息。主开创、奉献、推动、规则、领导、方向。万物类象，对太极来说，乾是阳；对生命来说，乾为心；对国家来说是总统；对企业来说是总裁；对家庭来说是父亲。刚健不止，生生不息，聚阴以成万物。\n\n坤2地势，坤；君子以厚德载物。\n《坤》卦为六十四卦第二卦，作为《乾》卦之体，意志之体现。坤为地，有天地，然后化生万物，大地是万物生长之环境与依托。“势”，作动词，表示蓄势之义，即积蓄、储备能量，将这些能量用来供养万物，以承天而时行。因此，《坤》卦是不断积聚能量，厚德载物。主经营、管理、执行、跟随、守成、孕育。对太极来说，坤是阴；对生命来说，坤为体；对国家来说是总理；对企业来说是总经理；对家庭来说是母亲。柔顺有常，自利利他，含万物而化光。\n\n屯3云雷，屯；君子以经纶。\n\n蒙4山下出泉，蒙；君子以果行育德。\n\n需5云上于天，需；君子以饮食宴乐。\n\n讼6天与水违行，讼；君子以作事谋始。\n\n师7地中有水，师；君子以容民畜众。\n\n比8地上有水，比；先王以建万国，亲诸侯。\n\n小畜9风行天上，小畜；君子以懿文德。\n\n履10上天下泽，履；君子以辩上下，定民志。\n\n泰11天地交，泰；后以财成天地之道，辅相天地之宜，以左右民。\n\n否12天地不交，否；君子以俭德辟难，不可荣以禄。\n\n同人13天与火，同人；君子以类族辨物。\n\n大有14火在天上，大有；君子以遏恶扬善，顺天休命。\n\n谦15地中有山，谦；君子以裒多益寡，称物平施。\n\n豫16雷出地奋，豫；先王以作乐崇德，殷荐之上帝，以配祖考。\n\n随17泽中有雷，随；君子以向晦入宴息。\n\n蛊18山下有风，蛊；君子以振民育德。\n\n临19泽上有地，临；君子以教思无穷，容保民无疆。\n\n观20风行地上，观；先王以省方，观民设教。\n\n噬嗑21雷电，噬嗑；先王以明罚敕法。\n\n贲22山下有火，贲；君子以明庶政，无敢折狱。\n\n剥23山附地上，剥；上以厚下，安宅。\n\n复24雷在地中，复；先王以至日闭关，商旅不行，后不省方。\n\n无妄25天下雷行物与，无妄；先王以茂对时，育万物。\n\n大畜26天在山中，大畜；君子以多识前言往行，以畜其德。\n\n颐27山下有雷，颐；君子以慎言语，节饮食。\n\n大过28泽灭木，大过；君子以独立不惧，遯世无闷。\n\n坎29水洊至，习坎；君子以常德行，习教事。\n\n离30明两作，离；大人以继明照于四方。\n\n咸31山上有泽，咸；君子以虚受人。\n\n恒32雷风，恒；君子以立不易方。\n\n遁33天下有山，遁；君子以远小人，不恶而严。\n\n大壮34雷在天上，大壮；君子以非礼弗履。\n\n晋35明出地上，晋；君子以自昭明德。\n\n明夷36明入地中，明夷；君子以莅众，用晦而明。\n\n家人37风自火出，家人；君子以言有物，而行有恒。\n\n睽38上火下泽，睽；君子以同而异。\n\n蹇39山上有水，蹇；君子以反身修德。\n\n解40雷雨作，解；君子以赦过宥罪。\n\n损41山下有泽，损；君子以惩忿窒欲。\n\n益42风雷，益；君子以见善则迁，有过则改。\n\n夬43泽上于天，夬；君子以施禄及下，居德则忌。\n\n姤44天下有风，姤；后以施命诰四方。\n\n萃45泽上于地，萃；君子以除戎器，戒不虞。\n\n升46地中生木，升；君子以顺德，积小以高大。\n\n困47泽无水，困；君子以致命遂志。\n\n井48木上有水，井；君子以劳民劝相。\n\n革49泽中有火，革；君子以治历明时。\n\n鼎50木上有火，鼎；君子以正位凝命。\n\n震51洊雷，震；君子以恐惧修身。\n\n艮52兼山，艮；君子以思不出其位。\n\n渐53山上有木，渐；君子以居贤德，善俗。\n\n归妹54泽上有雷，归妹；君子以永终知敝。\n\n丰55雷电皆至，丰；君子以折狱致刑。\n\n旅56山上有火，旅；君子以明慎用刑，而不留狱。\n\n巽57随风，巽；君子以申命行事。\n\n兑58丽泽，兑；君子以朋友讲习。\n\n涣59风行水上，涣；先王以享于帝立庙。\n\n节60泽上有水，节；君子以制数度，议德行。\n\n中孚61泽上有风，中孚；君子以议狱缓死。\n\n小过62山上有雷，小过；君子以行过乎恭，丧过乎哀，用过乎俭。\n\n既济63水在火上，既济；君子以思患而豫防之。\n\n未济64火在水上，未济；君子以慎辨物居方。",
-          "link": "https://chegva.com/6282.html",
-          "publishedOn": "2025-05-22T14:55:52.000Z",
-          "wordCount": 12909,
-          "title": "【持续更新】周易《大象传》详解",
           "imageUrl": null
         }
       ]
