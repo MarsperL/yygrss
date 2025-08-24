@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-08-23T01:57:09.817Z</updated>
+    <updated>2025-08-24T02:12:01.039Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[久违的暑假｜沿海自驾DAY12 - 步道]]></title>
+        <id>https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day12-xiamen-budao.html</id>
+        <link href="https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day12-xiamen-budao.html"/>
+        <updated>2025-08-23T07:28:25.000Z</updated>
+        <summary type="html"><![CDATA[在厦门山海步道徒步，体验云海线和林海线的独特魅力，穿过山间与水系，感受城市与自然的完美结合，是一次难忘的旅行经历。]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[探索扣子空间「邀请码不限量分享」]]></title>
         <id>https://dusays.com/823/</id>
@@ -6612,17 +6622,6 @@ One notable fan of the song was MLK. Dr. King would often asked Mahalia …]]></
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dozzle Real-Time Docker Log Monitoring Made Easy]]></title>
-        <id>https://www.virtualizationhowto.com/?p=301235</id>
-        <link href="https://www.virtualizationhowto.com/2025/05/dozzle-real-time-docker-log-monitoring-made-easy/"/>
-        <updated>2025-05-26T14:09:58.000Z</updated>
-        <summary type="html"><![CDATA[One of the struggles that I know I had when starting to implement containers in the home lab a few years back was visibility on what was actually going on in the containers themselves. As you learn how to look at your Docker logs, this gets easier. However, it makes is more easy to keep …
-The post Dozzle Real-Time Docker Log Monitoring Made Easy appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[k8s master join 时etcd证书报错问题]]></title>
         <id>https://chegva.com/?p=6359</id>
         <link href="https://chegva.com/6359.html"/>
@@ -6638,27 +6637,6 @@ EOF) : error(Process exited with status 1)
 使用的安装工具是产研封装的一套k8s外加自研产品的自动化部署流程，相当于个黑盒，看直接报错，问题是出在master2的etcd证书上。首先查看master1和master2的kubeadm.yaml中certSANS和ETD证书配置都没有问题，再去master2上查看etcd  server.crt和peer.crt，发现 CN（Common Name） 和   SAN（Subject Alternative Name） 配置中的主机名都多了一个换行符，但是查看…]]></summary>
         <author>
             <name>anzhihe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memorial Day 2025 Deals on Mini PCs]]></title>
-        <id>https://www.virtualizationhowto.com/?p=301228</id>
-        <link href="https://www.virtualizationhowto.com/2025/05/memorial-day-2025-deals-on-mini-pcs/"/>
-        <updated>2025-05-26T00:32:35.000Z</updated>
-        <summary type="html"><![CDATA[Beelink EQR5 Mini Pc
-The post Memorial Day 2025 Deals on Mini PCs appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Maximize ROI with Accurate Google Ads Conversion Tracking]]></title>
-        <id>https://collabnix.com/?p=32130</id>
-        <link href="https://collabnix.com/how-to-maximize-roi-with-accurate-google-ads-conversion-tracking/"/>
-        <updated>2025-05-25T18:51:41.000Z</updated>
-        <summary type="html"><![CDATA[Learn expert Google Ads conversion tracking strategies to eliminate wasted ad spend. Discover advanced techniques like enhanced conversions, offline tracking & proper attribution.]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
         </author>
     </entry>
     <entry>
