@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-08-25T02:05:54.863Z</updated>
+    <updated>2025-08-26T02:02:44.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Portainer 2.33 LTS Released with Alerting, New Look, Helm Overhaul and More!]]></title>
+        <id>https://www.virtualizationhowto.com/?p=302556</id>
+        <link href="https://www.virtualizationhowto.com/2025/08/portainer-2-33-lts-released-with-alerting-new-look-helm-overhaul-and-more/"/>
+        <updated>2025-08-25T12:08:54.000Z</updated>
+        <summary type="html"><![CDATA[Portainer has long been on the lists of best Docker tools that you can use in the home lab and in production environments. REcently, they have announced the new Portainer 2.33 LTS version has been released. It is folding in many of the new features contained in the recent STS builds and bringing these into …
+The post Portainer 2.33 LTS Released with Alerting, New Look, Helm Overhaul and More! appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用 VS Code 与 GitHub Copilot 高效 Vibe Coding 指南]]></title>
+        <id>https://jimmysong.io/blog/vs-code-copilot-vibe-coding-guide/</id>
+        <link href="https://jimmysong.io/blog/vs-code-copilot-vibe-coding-guide/"/>
+        <updated>2025-08-25T08:46:37.000Z</updated>
+        <summary type="html"><![CDATA[掌握 VS Code 与 GitHub Copilot 的高效开发技巧，提升你的编程体验与效率，开启愉快的 vibe coding 之旅。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[久违的暑假｜沿海自驾DAY14 - 嘉庚]]></title>
+        <id>https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day14-xiamen-jiageng.html</id>
+        <link href="https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day14-xiamen-jiageng.html"/>
+        <updated>2025-08-25T02:38:57.000Z</updated>
+        <author>
+            <name>运维咖啡吧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25W33：葛巷地铁站看EFC]]></title>
         <id>https://www.skyue.com/25082507.html</id>
@@ -6538,39 +6568,6 @@ The post 5 AI Tools for Kubernetes that will 10X your Home Lab! appeared first o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beelink ME Mini NAS Review: Ultra-Compact Storage with 24TB Potential]]></title>
-        <id>https://www.virtualizationhowto.com/?p=301294</id>
-        <link href="https://www.virtualizationhowto.com/2025/05/beelink-me-mini-nas-review-ultra-compact-storage-with-24tb-potential/"/>
-        <updated>2025-05-28T12:50:18.000Z</updated>
-        <summary type="html"><![CDATA[This is a NAS device that really intrigued me as it is one of the coolest small form factor NAS devices I have seen. It packs some pretty serious performance for its size and can run something like TrueNAS as well for storage in your home lab or as a target for something like Proxmox. …
-The post Beelink ME Mini NAS Review: Ultra-Compact Storage with 24TB Potential appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深入理解 Envoy Dynamic Module：原理、开发与全流程实战]]></title>
-        <id>https://jimmysong.io/blog/envoy-dynamic-module-tutorial/</id>
-        <link href="https://jimmysong.io/blog/envoy-dynamic-module-tutorial/"/>
-        <updated>2025-05-28T07:34:56.000Z</updated>
-        <summary type="html"><![CDATA[在上一篇《理解 Envoy 的扩展与集成机制：从内置扩展到动态模块》中，我系统梳理了 Envoy 的各类扩展与集成方式，并特别推荐了 Dynamic Module 这一新兴机制。本篇将围绕 Dynamic Module 的原理与完整实操，帮助你高效掌握 Envoy 原生扩展的落地方案。
-什么是 Dynamic Module？
-Dynamic Module 是 Envoy Proxy v1.34 起引入的实验特性，允许开发者以共享库（.so）形式动态加载自定义扩展。它不依赖虚拟机或外部进程，直接通过 C ABI 与主进程对接，具有极高性能和现代 SDK 支持（如官方 Rust SDK）。
-技术原理
-Dynamic Module 本质上是一个实现了特定 ABI 入口的共享库（.so），通过定义在 C 头文件中的接口与 Envoy 进行交互。当前官方主推 Rust SDK（类型安全，开发体验佳），但也可用 Go、C++ 等语言编译出 C ABI 兼容的动态库。社区已经有 Go 的实验性实现。
-通过 ENVOY_DYNAMIC_MODULES_SEARCH_PATH 环境变量设置查找路径
-.so 文件命名需符合 lib{name}.so 规则，其中 {name} 对应配置文件的 dynamic_module_config.name
-加载后直接作为 HTTP Filter 加入请求处理链，与原生 Filter 平权
-注意：Dynamic Module 与主进程完全共享内存和权限，无隔离机制，安全级别等同于原生 C++ 扩展，务必只加载可信模块。
-优势与局限
-在上一篇文章中我已经总结过不同机制的优缺点。Dynamic Module 的主要优势体现在：
-性能极高：无中间虚拟机，无跨进程/语言序列化，支持高吞吐业务场景
-开发现代：Rust SDK 类型安全、文档完善，开发体验远优于 Was…]]></summary>
-        <author>
-            <name>Jimmy Song</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[使用 Node Exporter textfile 自定义指标收集器]]></title>
         <id>/archives/1748417204037</id>
         <link href="https://srebro.cn/archives/1748417204037"/>
@@ -6578,40 +6575,6 @@ Dynamic Module 本质上是一个实现了特定 ABI 入口的共享库（.so）
         <summary type="html"><![CDATA[使用 Node Exporter textfile 自定义指标收集器 比如我们要收集服务器的CPU 温度，他的实时值可以通过/sys/class/thermal/thermal_zone0/temp 获取 核心概念： * 将自定义的指标数据（例如温度、应用状态、业务指标等）写入文本文件。 * Nod]]></summary>
         <author>
             <name>运维小弟</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daily Tech Deals May 27 2025 – Cheap NVMe!]]></title>
-        <id>https://www.virtualizationhowto.com/?p=301286</id>
-        <link href="https://www.virtualizationhowto.com/2025/05/daily-tech-deals-may-25-2025-cheap-nvme/"/>
-        <updated>2025-05-27T20:27:36.000Z</updated>
-        <summary type="html"><![CDATA[If you are looking for great deals on cheap NVMe storage for your home lab, gaming computer, creator machine, or something else, here are three drives that are super cheap for large amounts of blazing fast NVMe storage. Disclosure: The links below are monetized by the Amazon affiliate programs and I earn a small commission from those …
-The post Daily Tech Deals May 27 2025 – Cheap NVMe! appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Will Powerful NAS Devices Kill the Mini PC Market in 2025?]]></title>
-        <id>https://www.virtualizationhowto.com/?p=301272</id>
-        <link href="https://www.virtualizationhowto.com/2025/05/will-powerful-nas-devices-kill-the-mini-pc-market-in-2025/"/>
-        <updated>2025-05-27T15:02:00.000Z</updated>
-        <summary type="html"><![CDATA[This is one of those topics that can usually get some good discussions going and one that is thought provoking, especially with the hardware that is coming down the pipes this year. I am super excited about the NAS market this year and I really think we have new models that I am honestly just …
-The post Will Powerful NAS Devices Kill the Mini PC Market in 2025? appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Take My Hand, Precious Lord]]></title>
-        <id>https://daverupert.com/2025/05/take-my-hand-precious-lord/</id>
-        <link href="https://daverupert.com/2025/05/take-my-hand-precious-lord/"/>
-        <updated>2025-05-27T14:19:00.000Z</updated>
-        <summary type="html"><![CDATA[Take My Hand, Precious Lord (also known as the inverse Precious Lord, Take My Hand) is an old gospel hymn with a unique and special tie-in to the American Civil Rights story. Written in 1932 by Thomas Dorsey after he co-founded National Convention of Gospel Choirs and Choruses (NCGCC), the tune borrowed from a 1844 hymn called “Maitland” (George N. Allan) and took inspiration from a performance of the song by Blind Connie Williams.
-The song was written after the death of Dorsey’s wife Nettie and his son during childbirth. Tragic doesn’t even begin to describe the situation. You feel the heartache in the simple refrain, “I am tired, I am weak, I am worn”. It’s a cry for help and comfort beyond what the world can offer.
-One notable fan of the song was MLK. Dr. King would often asked Mahalia …]]></summary>
-        <author>
-            <name>daverupert.com</name>
         </author>
     </entry>
     <entry>
