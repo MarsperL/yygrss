@@ -559,6 +559,16 @@
       "siteUrl": "https://blog.ops-coffee.cn/atom.xml",
       "articles": [
         {
+          "id": "https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day15-zhangzhou-gucheng.html",
+          "author": null,
+          "description": "",
+          "link": "https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day15-zhangzhou-gucheng.html",
+          "publishedOn": "2025-08-26T04:47:37.000Z",
+          "wordCount": 124,
+          "title": "久违的暑假｜沿海自驾DAY15 - 漳州",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day14-xiamen-jiageng.html",
           "author": null,
           "description": "",
@@ -1541,6 +1551,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=302599",
+          "author": "Brandon Lee",
+          "description": "One of the most important areas to take a look at when you start playing around with automating things in your home lab, is the problem of using secrets and storing them. Let’s look at three unique solutions, including Hashicorp Vault, Doppler, and Sealed Secrets. Each of these has strengths and may be a good …\nThe post Vault vs Doppler vs Sealed Secrets: Automating Home Lab Secrets in 2025 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/08/vault-vs-doppler-vs-sealed-secrets-automating-home-lab-secrets-in-2025/",
+          "publishedOn": "2025-08-26T12:24:51.000Z",
+          "wordCount": 11033,
+          "title": "Vault vs Doppler vs Sealed Secrets: Automating Home Lab Secrets in 2025",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/08/home-lab-secrets-management.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=302556",
           "author": "Brandon Lee",
           "description": "Portainer has long been on the lists of best Docker tools that you can use in the home lab and in production environments. REcently, they have announced the new Portainer 2.33 LTS version has been released. It is folding in many of the new features contained in the recent STS builds and bringing these into …\nThe post Portainer 2.33 LTS Released with Alerting, New Look, Helm Overhaul and More! appeared first on Virtualization Howto.",
@@ -2089,16 +2109,6 @@
           "wordCount": 10577,
           "title": "DeepSeek R1-0528 Released: Open-Source AI Model Rivals GPT-4 and Gemini",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/Deepseek-R1-0528.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=301324",
-          "author": "Brandon Lee",
-          "description": "Kubernetes is the defacto standard in running containers in a way that is highly available and scalable. There are many other solutions out there, like running multiple Docker hosts, Docker Swarm, Nomad, and others, but Kubernetes is still the standard and the technology to be sure to learn. Recent developments and tools in the realm …\nThe post 5 AI Tools for Kubernetes that will 10X your Home Lab! appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/05/5-ai-tools-for-kubernetes-that-will-10x-your-home-lab/",
-          "publishedOn": "2025-05-29T13:19:38.000Z",
-          "wordCount": 10824,
-          "title": "5 AI Tools for Kubernetes that will 10X your Home Lab!",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/ai-tools-for-kubernetes.jpg"
         }
       ]
     },
@@ -2107,6 +2117,36 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=50231",
+          "author": "Tanvir Kour",
+          "description": "Learn how rotating proxies in Python enhance web scraping with scalability, anonymity, geo-targeting, and reliable large-scale data collection.",
+          "link": "https://collabnix.com/why-use-rotating-proxies-for-web-scraping-in-python/",
+          "publishedOn": "2025-08-26T16:37:29.000Z",
+          "wordCount": 4024,
+          "title": "Why Use Rotating Proxies for Web Scraping in Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=50193",
+          "author": "Tanvir Kour",
+          "description": "Email remains a vital tool in communication, but it also presents significant security challenges. Digital attacks often get in by finding weak spots in email systems. Because so much private information travels through email, strong security programs are crucial to keep it safe. Want to protect your email? This article shares ways to stop cyber […]",
+          "link": "https://collabnix.com/avoid-breaches-with-smarter-email-security-solutions/",
+          "publishedOn": "2025-08-26T10:07:30.000Z",
+          "wordCount": null,
+          "title": "Avoid Breaches With Smarter Email Security Solutions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=50129",
+          "author": "Umang Saxena",
+          "description": "This blog was originally posted by the author here Why Use Docker for Your Next.js App ? By containerizing your app, you create a consistent, portable, and reproducible environment that runs the same way on any machine — from your laptop to a production server. How to Dockerize a Next.js App: A Step-by-Step Guide Are […]",
+          "link": "https://collabnix.com/hosting-your-nextjs-app-using-docker-in-5-minutes/",
+          "publishedOn": "2025-08-26T02:07:24.000Z",
+          "wordCount": null,
+          "title": "Hosting Your Nextjs App using Docker in 5 Minutes",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=49917",
           "author": "Tanvir Kour",
@@ -4261,6 +4301,16 @@
       "feedUrl": "https://www.mintimate.cn/atom.xml",
       "siteUrl": "https://www.mintimate.cn/atom.xml",
       "articles": [
+        {
+          "id": "https://www.mintimate.cn/2025/08/24/knowledgeRagCnb/",
+          "author": null,
+          "description": "将 VitePress 文档的 Markdown 数据向量化，并使用 RAG 进行检索，在 VitePress 导航栏添加 AI 助手插件。",
+          "link": "https://www.mintimate.cn/2025/08/24/knowledgeRagCnb/",
+          "publishedOn": "2025-08-24T07:00:00.000Z",
+          "wordCount": 1366,
+          "title": "将 VitePress 文档数据向量化，配合 RAG 实现 AI 助手插件",
+          "imageUrl": "https://imagehost.mintimate.cn/post_knowledgeRagCnb/banner.webp"
+        },
         {
           "id": "https://www.mintimate.cn/2025/07/28/installFirefox/",
           "author": null,

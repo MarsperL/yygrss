@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-08-26T02:02:44.884Z</updated>
+    <updated>2025-08-27T01:58:28.029Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Use Rotating Proxies for Web Scraping in Python]]></title>
+        <id>https://collabnix.com/?p=50231</id>
+        <link href="https://collabnix.com/why-use-rotating-proxies-for-web-scraping-in-python/"/>
+        <updated>2025-08-26T16:37:29.000Z</updated>
+        <summary type="html"><![CDATA[Learn how rotating proxies in Python enhance web scraping with scalability, anonymity, geo-targeting, and reliable large-scale data collection.]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vault vs Doppler vs Sealed Secrets: Automating Home Lab Secrets in 2025]]></title>
+        <id>https://www.virtualizationhowto.com/?p=302599</id>
+        <link href="https://www.virtualizationhowto.com/2025/08/vault-vs-doppler-vs-sealed-secrets-automating-home-lab-secrets-in-2025/"/>
+        <updated>2025-08-26T12:24:51.000Z</updated>
+        <summary type="html"><![CDATA[One of the most important areas to take a look at when you start playing around with automating things in your home lab, is the problem of using secrets and storing them. Let’s look at three unique solutions, including Hashicorp Vault, Doppler, and Sealed Secrets. Each of these has strengths and may be a good …
+The post Vault vs Doppler vs Sealed Secrets: Automating Home Lab Secrets in 2025 appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avoid Breaches With Smarter Email Security Solutions]]></title>
+        <id>https://collabnix.com/?p=50193</id>
+        <link href="https://collabnix.com/avoid-breaches-with-smarter-email-security-solutions/"/>
+        <updated>2025-08-26T10:07:30.000Z</updated>
+        <summary type="html"><![CDATA[Email remains a vital tool in communication, but it also presents significant security challenges. Digital attacks often get in by finding weak spots in email systems. Because so much private information travels through email, strong security programs are crucial to keep it safe. Want to protect your email? This article shares ways to stop cyber […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[久违的暑假｜沿海自驾DAY15 - 漳州]]></title>
+        <id>https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day15-zhangzhou-gucheng.html</id>
+        <link href="https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day15-zhangzhou-gucheng.html"/>
+        <updated>2025-08-26T04:47:37.000Z</updated>
+        <author>
+            <name>运维咖啡吧</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hosting Your Nextjs App using Docker in 5 Minutes]]></title>
+        <id>https://collabnix.com/?p=50129</id>
+        <link href="https://collabnix.com/hosting-your-nextjs-app-using-docker-in-5-minutes/"/>
+        <updated>2025-08-26T02:07:24.000Z</updated>
+        <summary type="html"><![CDATA[This blog was originally posted by the author here Why Use Docker for Your Next.js App ? By containerizing your app, you create a consistent, portable, and reproducible environment that runs the same way on any machine — from your laptop to a production server. How to Dockerize a Next.js App: A Step-by-Step Guide Are […]]]></summary>
+        <author>
+            <name>Umang Saxena</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Portainer 2.33 LTS Released with Alerting, New Look, Helm Overhaul and More!]]></title>
         <id>https://www.virtualizationhowto.com/?p=302556</id>
@@ -94,6 +144,16 @@ The post Portainer 2.33 LTS Released with Alerting, New Look, Helm Overhaul and 
         <summary type="html"><![CDATA[Top Kubernetes Tools for DevOps in 2025 Kubernetes has revolutionized container orchestration, but managing K8s clusters effectively requires the right set of tools. Whether you’re scaling microservices, implementing GitOps, or securing containerized workloads, having the essential Kubernetes tools in your DevOps arsenal can make the difference between smooth operations and constant troubleshooting. In this comprehensive […]]]></summary>
         <author>
             <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将 VitePress 文档数据向量化，配合 RAG 实现 AI 助手插件]]></title>
+        <id>https://www.mintimate.cn/2025/08/24/knowledgeRagCnb/</id>
+        <link href="https://www.mintimate.cn/2025/08/24/knowledgeRagCnb/"/>
+        <updated>2025-08-24T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[将 VitePress 文档的 Markdown 数据向量化，并使用 RAG 进行检索，在 VitePress 导航栏添加 AI 助手插件。]]></summary>
+        <author>
+            <name>雨月空间站</name>
         </author>
     </entry>
     <entry>
@@ -6554,17 +6614,6 @@ While follow eyes the steady keel, the vessel grim and daring:
 </blockquote>]]></summary>
         <author>
             <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 AI Tools for Kubernetes that will 10X your Home Lab!]]></title>
-        <id>https://www.virtualizationhowto.com/?p=301324</id>
-        <link href="https://www.virtualizationhowto.com/2025/05/5-ai-tools-for-kubernetes-that-will-10x-your-home-lab/"/>
-        <updated>2025-05-29T13:19:38.000Z</updated>
-        <summary type="html"><![CDATA[Kubernetes is the defacto standard in running containers in a way that is highly available and scalable. There are many other solutions out there, like running multiple Docker hosts, Docker Swarm, Nomad, and others, but Kubernetes is still the standard and the technology to be sure to learn. Recent developments and tools in the realm …
-The post 5 AI Tools for Kubernetes that will 10X your Home Lab! appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
