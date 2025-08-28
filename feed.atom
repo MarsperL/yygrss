@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-08-27T01:58:28.029Z</updated>
+    <updated>2025-08-28T01:57:50.355Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Top Home lab Networking Mistakes to Avoid in 2025]]></title>
+        <id>https://www.virtualizationhowto.com/?p=302609</id>
+        <link href="https://www.virtualizationhowto.com/2025/08/top-home-lab-networking-mistakes-to-avoid-in-2025/"/>
+        <updated>2025-08-27T11:57:11.000Z</updated>
+        <summary type="html"><![CDATA[Networking is literally the lifeblood of your home lab. If the network is no good, then everything else is going to fall down. Things won’t perform well, and you will spend most of your time troubleshooting the network and other issues related to connectivity. If you are just getting into a home lab or you …
+The post Top Home lab Networking Mistakes to Avoid in 2025 appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[久违的暑假｜沿海自驾DAY16 - 龙海]]></title>
+        <id>https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day16-zhangzhou-longhai.html</id>
+        <link href="https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day16-zhangzhou-longhai.html"/>
+        <updated>2025-08-27T02:12:49.000Z</updated>
+        <summary type="html"><![CDATA[从漳州出发，沿着G228国道自驾前往东山岛，途经美丽的岛美村和镇海角，探索火山岩地貌和原始海景，享受沿海自驾的乐趣与美景。]]></summary>
+        <author>
+            <name>运维咖啡吧</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Use Rotating Proxies for Web Scraping in Python]]></title>
         <id>https://collabnix.com/?p=50231</id>
@@ -54,6 +75,79 @@ The post Vault vs Doppler vs Sealed Secrets: Automating Home Lab Secrets in 2025
         <summary type="html"><![CDATA[This blog was originally posted by the author here Why Use Docker for Your Next.js App ? By containerizing your app, you create a consistent, portable, and reproducible environment that runs the same way on any machine — from your laptop to a production server. How to Dockerize a Next.js App: A Step-by-Step Guide Are […]]]></summary>
         <author>
             <name>Umang Saxena</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Win10卸载McAfee Agent托管模式本地卸载被阻止问题]]></title>
+        <id>https://chegva.com/?p=6506</id>
+        <link href="https://chegva.com/6506.html"/>
+        <updated>2025-08-25T12:48:36.000Z</updated>
+        <summary type="html"><![CDATA[问题
+无法从以下任一项中本地卸载 MA：
+
+Windows 程序和功能控制面板
+
+命令提示符
+
+当您尝试卸载 MA 时，会显示以下错误：
+
+McAfee Agent cannot be removed because other products are still using it
+注意: 如果客户端计算机上未安装其他 McAfee 企业版产品，则可能会发生此问题。
+原因
+当 MA 处于 托管模式时，会发生此错误。
+这种行为是设计使然，以防止用户删除代理。
+MA 以两种模式运行：
+
+托管模式 - MA 与 ePolicy Orchestrator （ePO）进行连接并与之通信，以管理 McAfee Enterprise 产品更新。
+
+非托管模式 - MA 不会与 ePO 连接或通信，而是从 McAfee Enterprise HTTP 服务器提取更新。
+
+解决
+1、停止McAfee服务：
+按 Windows 键 + R，键入 services.msc ，然后停止 MA 相关服务。
+
+2、卸载McAfee服务：
+将计算机退出托管模式，删除任何依存该代理的托管产品，然后再尝试卸载该代理：
+
+以管理员身份打开命令提示符：
+
+
+按 Windows 键 + R，键入 cmd ，然后按 Enter 键。
+
+如果出现用户帐户控制对话框，请确认其显示的操作是您想要的，然后单击继续。
+
+
+
+在客户端计算机上，访问该 frminst 文件。在命令窗口中，键入以下内容：
+64位操作系统：CD C:\Program Files\Mcafee\Agent\x86\，32位操作系统：CD C:\Program Files\Mcafee\Agent\
+
+键入以下命令。，然后按 Enter 键：frminst.exe /remove=agent
+
+Close the command prompt.
+
+从客户端计算机中删除所有 McAfee Enterprise 托管产品。 示例：
+
+
+Endpoint Security
+
+VirusScan Enterprise
+
+Endpoint Encryption
+
+
+
+可选：从客户端计算机中删除 McAfee Framework Service 通过 程序和功能。
+
+
+
+参考：
+
+https://thrive.trellix.com/s/article/KB60556?language=zh_CN
+
+
+处于托管模式时无法删除mcafee解决办法]]></summary>
+        <author>
+            <name>anzhihe</name>
         </author>
     </entry>
     <entry>
@@ -6530,93 +6624,6 @@ HarmonyOS 5 PC 版
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DeepSeek R1-0528 Released: Open-Source AI Model Rivals GPT-4 and Gemini]]></title>
-        <id>https://www.virtualizationhowto.com/?p=301349</id>
-        <link href="https://www.virtualizationhowto.com/2025/05/deepseek-r1-0528-released-open-source-ai-model-rivals-gpt-4-and-gemini/"/>
-        <updated>2025-05-30T13:37:51.000Z</updated>
-        <summary type="html"><![CDATA[DeepSeek has set the world buzzing again as it is gaining recognition as a powerful, open-source large language model (LLM) that challenges models from the major tech players. In their newest update to DeepSeek, deepseek r1-0528, they have signification improved performance and added new features. It continues to be a serious contender to other proprietary …
-The post DeepSeek R1-0528 Released: Open-Source AI Model Rivals GPT-4 and Gemini appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to successfully run Open WebUI with Docker Model Runner]]></title>
-        <id>https://collabnix.com/?p=32474</id>
-        <link href="https://collabnix.com/how-to-successfully-run-open-webui-with-docker-model-runner/"/>
-        <updated>2025-05-30T11:48:35.000Z</updated>
-        <summary type="html"><![CDATA[The landscape of local AI development has evolved dramatically in recent years, with developers increasingly seeking privacy-focused, offline-capable solutions for running Large Language Models (LLMs). Two powerful tools have emerged to address this need: OpenWebUI and Docker Model Runner. This comprehensive guide will explore both technologies and demonstrate how to leverage them together for an […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Technology Threats Local Businesses Should Watch in 2025]]></title>
-        <id>https://collabnix.com/?p=32398</id>
-        <link href="https://collabnix.com/7-technology-threats-local-businesses-should-watch-in-2025/"/>
-        <updated>2025-05-30T11:26:08.000Z</updated>
-        <summary type="html"><![CDATA[Starting a small business can be incredibly rewarding. But local business owners need to be aware of the digital threats that can disrupt their best-laid plans. Small and midsize enterprises (SMEs) are under attack by cybercriminals whose efforts are becoming increasingly sophisticated. Keep reading to learn about seven of the most pressing technology threats local […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Fifth Estate]]></title>
-        <id>https://daverupert.com/2025/05/the-fifth-estate/</id>
-        <link href="https://daverupert.com/2025/05/the-fifth-estate/"/>
-        <updated>2025-05-30T00:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Careless People is a tell-all book that walks through Facebook’s rampant (and criminally?) inept responses to it’s growing role in global policy, from it’s role in the Rohingya genocide in Myanmar to the election of Donald J. Trump. The book, written by Facebook’s former director of foreign policy Sarah Wynn-Williams, explains that Zuckerberg initially denied the notion that Facebook could ever impact an election but over time starts to see Facebook and social media as a powerful “Digital Fifth Estate”.
-The three-estate system used to refer to the Clergy, the Nobles, and the Commoners. In modern times, the three-estate system describes the legislative, executive, and judicial branches of government. Then there’s the newly minted (ahem, circa 1840) Fourth Estate comprised of good ol’ fashio…]]></summary>
-        <author>
-            <name>daverupert.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[死亡诗社 Dead Poets Society (1989)]]></title>
-        <id>https://chegva.com/?p=6401</id>
-        <link href="https://chegva.com/6401.html"/>
-        <updated>2025-05-29T21:09:12.000Z</updated>
-        <summary type="html"><![CDATA[死亡诗社 Dead Poets Society (1989)
-
-
-死亡诗社的剧情简介 · · · · · ·
-　　威尔顿预备学院以其沉稳凝重的教学风格和较高的升学率闻名，作为其毕业班的学生，理想就是升入名校。新学期文学老师约翰·基汀（罗宾·威廉姆斯 饰）的到来如同一阵春风，一反传统名校的严肃刻板。
-　　基汀带学生们在校史楼内聆听死亡的声音，反思生的意义 ；让男生们在绿茵场上宣读自己的理想；鼓励学生站在课桌上，用新的视角俯瞰世界。老师自由发散式的哲学思维让学生内心产生强烈的共鸣，他们渐渐学会自己思考与求索，勇敢的追问人生的路途，甚至违反门禁，成立死亡诗社，在山洞里击节而歌！
-
-　　基汀教授、基汀老师、基汀队长，他的教育宛若春风化雨，润物无声的留在每个人心里… ©豆瓣
-
-哦，船长，我的船长！ (O Captain! My Captain!)
-沃尔特·惠特曼
-
-Ⅰ
-
-O Captain! My Captain! our fearful trip is done;
-The ship has weather'd every rack, the prize we sought is won;
-The port is near, the bells I hear, the people all exulting,
-While follow eyes the steady keel, the vessel grim and daring:
-      But O heart! heart! heart!
-            O the bleeding drops of red,
-                  Where on the deck my Captain lies,
-                        Fallen cold and dead.
-
-哦，船长…]]></summary>
-        <author>
-            <name>anzhihe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一站式操作系统 ISO 下载平台]]></title>
-        <id>https://dusays.com/834/</id>
-        <link href="https://dusays.com/834/"/>
-        <updated>2025-05-29T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>找到一个安全、便捷且资源丰富且下载速度较快的操作系统 ISO 文件下载平台显得尤为重要。很多小伙伴习惯使用 MSDN，但又不喜欢其登录机制，这里杜老师推荐 OS.click，一款专注于为用户提供实用、高效的系统下载服务的网站。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[使用 Node Exporter textfile 自定义指标收集器]]></title>
         <id>/archives/1748417204037</id>
         <link href="https://srebro.cn/archives/1748417204037"/>
@@ -6676,24 +6683,6 @@ While follow eyes the steady keel, the vessel grim and daring:
  论文，可以说是创造学校历史了。]]></summary>
         <author>
             <name>法律小茶馆</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[k8s master join 时etcd证书报错问题]]></title>
-        <id>https://chegva.com/?p=6359</id>
-        <link href="https://chegva.com/6359.html"/>
-        <updated>2025-05-26T11:51:05.000Z</updated>
-        <summary type="html"><![CDATA[最近在给客户部署一套 k8s 集群时，主节点master1安装完后，master2 join时提示 etcd 证书报错，铲掉重装后问题还是稳定复现，客户提供的机器操作系统为Ubuntu 22.04、Kernel：Linux 5.15.x，报错信息节选如下：
-
-error execution phase control-plane-prepare/certs: error creating PKI assets: failed to write or validate certificate "etcd-server": cert, not master2 is invalid: x509: certificate is valid for localhost, master2
-...
-（sudo -E /bin/bash <<EOF
-kubeadm join --config=/etc/kubernetes/kubeadm.yaml -v 0 --ignore-preflight-errors=SystemVerification,Port-10250,DirAvailable--etc-kubernetes-manifests
-EOF) : error(Process exited with status 1)
-
-使用的安装工具是产研封装的一套k8s外加自研产品的自动化部署流程，相当于个黑盒，看直接报错，问题是出在master2的etcd证书上。首先查看master1和master2的kubeadm.yaml中certSANS和ETD证书配置都没有问题，再去master2上查看etcd  server.crt和peer.crt，发现 CN（Common Name） 和   SAN（Subject Alternative Name） 配置中的主机名都多了一个换行符，但是查看…]]></summary>
-        <author>
-            <name>anzhihe</name>
         </author>
     </entry>
     <entry>

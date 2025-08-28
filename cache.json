@@ -234,16 +234,6 @@
           "wordCount": null,
           "title": "Chekuskin's dream",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/05/the-fifth-estate/",
-          "author": null,
-          "description": "Careless People is a tell-all book that walks through Facebook’s rampant (and criminally?) inept responses to it’s growing role in global policy, from it’s role in the Rohingya genocide in Myanmar to the election of Donald J. Trump. The book, written by Facebook’s former director of foreign policy Sarah Wynn-Williams, explains that Zuckerberg initially denied the notion that Facebook could ever impact an election but over time starts to see Facebook and social media as a powerful “Digital Fifth Estate”.\nThe three-estate system used to refer to the Clergy, the Nobles, and the Commoners. In modern times, the three-estate system describes the legislative, executive, and judicial branches of government. Then there’s the newly minted (ahem, circa 1840) Fourth Estate comprised of good ol’ fashio…",
-          "link": "https://daverupert.com/2025/05/the-fifth-estate/",
-          "publishedOn": "2025-05-30T00:04:00.000Z",
-          "wordCount": 1388,
-          "title": "The Fifth Estate",
-          "imageUrl": null
         }
       ]
     },
@@ -558,6 +548,16 @@
       "feedUrl": "https://blog.ops-coffee.cn/feed.xml",
       "siteUrl": "https://blog.ops-coffee.cn/atom.xml",
       "articles": [
+        {
+          "id": "https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day16-zhangzhou-longhai.html",
+          "author": null,
+          "description": "从漳州出发，沿着G228国道自驾前往东山岛，途经美丽的岛美村和镇海角，探索火山岩地貌和原始海景，享受沿海自驾的乐趣与美景。",
+          "link": "https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day16-zhangzhou-longhai.html",
+          "publishedOn": "2025-08-27T02:12:49.000Z",
+          "wordCount": 122,
+          "title": "久违的暑假｜沿海自驾DAY16 - 龙海",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day15-zhangzhou-gucheng.html",
           "author": null,
@@ -1551,6 +1551,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=302609",
+          "author": "Brandon Lee",
+          "description": "Networking is literally the lifeblood of your home lab. If the network is no good, then everything else is going to fall down. Things won’t perform well, and you will spend most of your time troubleshooting the network and other issues related to connectivity. If you are just getting into a home lab or you …\nThe post Top Home lab Networking Mistakes to Avoid in 2025 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/08/top-home-lab-networking-mistakes-to-avoid-in-2025/",
+          "publishedOn": "2025-08-27T11:57:11.000Z",
+          "wordCount": 11379,
+          "title": "Top Home lab Networking Mistakes to Avoid in 2025",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/08/Top-Home-Lab-networking-mistakes-in-2025-2.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=302599",
           "author": "Brandon Lee",
           "description": "One of the most important areas to take a look at when you start playing around with automating things in your home lab, is the problem of using secrets and storing them. Let’s look at three unique solutions, including Hashicorp Vault, Doppler, and Sealed Secrets. Each of these has strengths and may be a good …\nThe post Vault vs Doppler vs Sealed Secrets: Automating Home Lab Secrets in 2025 appeared first on Virtualization Howto.",
@@ -2099,16 +2109,6 @@
           "wordCount": 11877,
           "title": "Best Low Power Mini PC for Proxmox? Geekom A5 2025 Edition Review",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/06/Best-Low-Power-Mini-PC-for-Proxmox.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=301349",
-          "author": "Brandon Lee",
-          "description": "DeepSeek has set the world buzzing again as it is gaining recognition as a powerful, open-source large language model (LLM) that challenges models from the major tech players. In their newest update to DeepSeek, deepseek r1-0528, they have signification improved performance and added new features. It continues to be a serious contender to other proprietary …\nThe post DeepSeek R1-0528 Released: Open-Source AI Model Rivals GPT-4 and Gemini appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/05/deepseek-r1-0528-released-open-source-ai-model-rivals-gpt-4-and-gemini/",
-          "publishedOn": "2025-05-30T13:37:51.000Z",
-          "wordCount": 10577,
-          "title": "DeepSeek R1-0528 Released: Open-Source AI Model Rivals GPT-4 and Gemini",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/05/Deepseek-R1-0528.jpg"
         }
       ]
     },
@@ -3256,26 +3256,6 @@
           "wordCount": 5749,
           "title": "AWS MCP Servers: Revolutionizing AI-Powered Cloud Development with the Model Context Protocol",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=32474",
-          "author": "Collabnix Team",
-          "description": "The landscape of local AI development has evolved dramatically in recent years, with developers increasingly seeking privacy-focused, offline-capable solutions for running Large Language Models (LLMs). Two powerful tools have emerged to address this need: OpenWebUI and Docker Model Runner. This comprehensive guide will explore both technologies and demonstrate how to leverage them together for an […]",
-          "link": "https://collabnix.com/how-to-successfully-run-open-webui-with-docker-model-runner/",
-          "publishedOn": "2025-05-30T11:48:35.000Z",
-          "wordCount": 4694,
-          "title": "How to successfully run Open WebUI with Docker Model Runner",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2025/05/Screenshot-2025-05-30-at-5.18.57%E2%80%AFPM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=32398",
-          "author": "Tanvir Kour",
-          "description": "Starting a small business can be incredibly rewarding. But local business owners need to be aware of the digital threats that can disrupt their best-laid plans. Small and midsize enterprises (SMEs) are under attack by cybercriminals whose efforts are becoming increasingly sophisticated. Keep reading to learn about seven of the most pressing technology threats local […]",
-          "link": "https://collabnix.com/7-technology-threats-local-businesses-should-watch-in-2025/",
-          "publishedOn": "2025-05-30T11:26:08.000Z",
-          "wordCount": null,
-          "title": "7 Technology Threats Local Businesses Should Watch in 2025",
-          "imageUrl": null
         }
       ]
     },
@@ -4232,16 +4212,6 @@
           "wordCount": 440,
           "title": "解释器权限不够的处理思路",
           "imageUrl": "https://cdn.dusays.com/avatar.png"
-        },
-        {
-          "id": "https://dusays.com/834/",
-          "author": null,
-          "description": "<blockquote>\n<p>找到一个安全、便捷且资源丰富且下载速度较快的操作系统 ISO 文件下载平台显得尤为重要。很多小伙伴习惯使用 MSDN，但又不喜欢其登录机制，这里杜老师推荐 OS.click，一款专注于为用户提供实用、高效的系统下载服务的网站。</p>\n</blockquote>",
-          "link": "https://dusays.com/834/",
-          "publishedOn": "2025-05-29T16:00:00.000Z",
-          "wordCount": 1352,
-          "title": "一站式操作系统 ISO 下载平台",
-          "imageUrl": "https://cdn.dusays.com/favicon.ico"
         }
       ]
     },
@@ -5027,6 +4997,16 @@
       "siteUrl": "https://chegva.com",
       "articles": [
         {
+          "id": "https://chegva.com/?p=6506",
+          "author": "anzhihe",
+          "description": "问题\n无法从以下任一项中本地卸载 MA：\n\nWindows 程序和功能控制面板\n\n命令提示符\n\n当您尝试卸载 MA 时，会显示以下错误：\n\nMcAfee Agent cannot be removed because other products are still using it\n注意: 如果客户端计算机上未安装其他 McAfee 企业版产品，则可能会发生此问题。\n原因\n当 MA 处于 托管模式时，会发生此错误。\n这种行为是设计使然，以防止用户删除代理。\nMA 以两种模式运行：\n\n托管模式 - MA 与 ePolicy Orchestrator （ePO）进行连接并与之通信，以管理 McAfee Enterprise 产品更新。\n\n非托管模式 - MA 不会与 ePO 连接或通信，而是从 McAfee Enterprise HTTP 服务器提取更新。\n\n解决\n1、停止McAfee服务：\n按 Windows 键 + R，键入 services.msc ，然后停止 MA 相关服务。\n\n2、卸载McAfee服务：\n将计算机退出托管模式，删除任何依存该代理的托管产品，然后再尝试卸载该代理：\n\n以管理员身份打开命令提示符：\n\n\n按 Windows 键 + R，键入 cmd ，然后按 Enter 键。\n\n如果出现用户帐户控制对话框，请确认其显示的操作是您想要的，然后单击继续。\n\n\n\n在客户端计算机上，访问该 frminst 文件。在命令窗口中，键入以下内容：\n64位操作系统：CD C:\\Program Files\\Mcafee\\Agent\\x86\\，32位操作系统：CD C:\\Program Files\\Mcafee\\Agent\\\n\n键入以下命令。，然后按 Enter 键：frminst.exe /remove=agent\n\nClose the command prompt.\n\n从客户端计算机中删除所有 McAfee Enterprise 托管产品。 示例：\n\n\nEndpoint Security\n\nVirusScan Enterprise\n\nEndpoint Encryption\n\n\n\n可选：从客户端计算机中删除 McAfee Framework Service 通过 程序和功能。\n\n\n\n参考：\n\nhttps://thrive.trellix.com/s/article/KB60556?language=zh_CN\n\n\n处于托管模式时无法删除mcafee解决办法",
+          "link": "https://chegva.com/6506.html",
+          "publishedOn": "2025-08-25T12:48:36.000Z",
+          "wordCount": 8996,
+          "title": "Win10卸载McAfee Agent托管模式本地卸载被阻止问题",
+          "imageUrl": null
+        },
+        {
           "id": "https://chegva.com/?p=6502",
           "author": "anzhihe",
           "description": "最近工作需要买了个64G的U盘，在Windows系统下使用格式化了 NTFS 格式，但是在Mac上无法写入，macOS默认仅支持读取NTFS，还得再格一次，真是格老子的了。\nMac 上“磁盘工具”中可用的文件系统格式\nMac 上的“磁盘工具”支持多种文件系统格式：\n\nApple 文件系统 (APFS)：macOS 10.13 或后续版本使用的文件系统。\n\nMac OS 扩展：macOS 10.12 或之前版本使用的文件系统。\n\nMS-DOS (FAT) 和 ExFAT：与 Windows 兼容的文件系统。\n\n\nWindows 兼容格式\n如果格式化磁盘以配合 Windows 使用，请选取以下其中一种兼容 Windows 的文件系统格式。\n\nMS-DOS (FAT)：用于 Windows 宗卷且大小为 32 GB 或不足 32 GB。\n\nExFAT：用于 Windows 宗卷且大小超过 32 GB。\n\n\n\n文件系统选择\n\n\nMacOS 使用终端格式化 U 盘\n在面对无法清除U盘分区，无法写入，无法抹掉情况时，在 Mac 上可以使用终端彻底格式化 U 盘，可以使用 diskutil 命令。以下是详细步骤：\n\n⚠️ 注意事项\n\n格式化会清空 U 盘上的所有数据，请先备份重要文件。\n\n确保选择了正确的 U 盘，否则可能误删其他数据。\n\n1、打开终端查看 U 盘信息\n输入以下命令查看所有磁盘设备：\ndiskutil list\n2、卸载 U 盘\n格式化前，先卸载 U 盘：\ndiskutil umountDisk /dev/disk4\n3、覆盖 U 盘（可选）\ndiskutil zeroDisk /dev/disk4\n4、彻底格式化 U 盘\n格式化并抹除 U 盘，使用以下命令：\ndiskutil eraseDisk FAT32 USB_NAME MBRFormat /dev/disk4\n\n…",
@@ -5204,26 +5184,6 @@
           "publishedOn": "2025-06-02T21:46:45.000Z",
           "wordCount": 9351,
           "title": "从秦朝到清朝历代官制与军事体系图解合集",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6401",
-          "author": "anzhihe",
-          "description": "死亡诗社 Dead Poets Society (1989)\n\n\n死亡诗社的剧情简介 · · · · · ·\n　　威尔顿预备学院以其沉稳凝重的教学风格和较高的升学率闻名，作为其毕业班的学生，理想就是升入名校。新学期文学老师约翰·基汀（罗宾·威廉姆斯 饰）的到来如同一阵春风，一反传统名校的严肃刻板。\n　　基汀带学生们在校史楼内聆听死亡的声音，反思生的意义 ；让男生们在绿茵场上宣读自己的理想；鼓励学生站在课桌上，用新的视角俯瞰世界。老师自由发散式的哲学思维让学生内心产生强烈的共鸣，他们渐渐学会自己思考与求索，勇敢的追问人生的路途，甚至违反门禁，成立死亡诗社，在山洞里击节而歌！\n\n　　基汀教授、基汀老师、基汀队长，他的教育宛若春风化雨，润物无声的留在每个人心里… ©豆瓣\n\n哦，船长，我的船长！ (O Captain! My Captain!)\n沃尔特·惠特曼\n\nⅠ\n\nO Captain! My Captain! our fearful trip is done;\nThe ship has weather'd every rack, the prize we sought is won;\nThe port is near, the bells I hear, the people all exulting,\nWhile follow eyes the steady keel, the vessel grim and daring:\n      But O heart! heart! heart!\n            O the bleeding drops of red,\n                  Where on the deck my Captain lies,\n                        Fallen cold and dead.\n\n哦，船长…",
-          "link": "https://chegva.com/6401.html",
-          "publishedOn": "2025-05-29T21:09:12.000Z",
-          "wordCount": 9190,
-          "title": "死亡诗社 Dead Poets Society (1989)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6359",
-          "author": "anzhihe",
-          "description": "最近在给客户部署一套 k8s 集群时，主节点master1安装完后，master2 join时提示 etcd 证书报错，铲掉重装后问题还是稳定复现，客户提供的机器操作系统为Ubuntu 22.04、Kernel：Linux 5.15.x，报错信息节选如下：\n\nerror execution phase control-plane-prepare/certs: error creating PKI assets: failed to write or validate certificate \"etcd-server\": cert, not master2 is invalid: x509: certificate is valid for localhost, master2\n...\n（sudo -E /bin/bash <<EOF\nkubeadm join --config=/etc/kubernetes/kubeadm.yaml -v 0 --ignore-preflight-errors=SystemVerification,Port-10250,DirAvailable--etc-kubernetes-manifests\nEOF) : error(Process exited with status 1)\n\n使用的安装工具是产研封装的一套k8s外加自研产品的自动化部署流程，相当于个黑盒，看直接报错，问题是出在master2的etcd证书上。首先查看master1和master2的kubeadm.yaml中certSANS和ETD证书配置都没有问题，再去master2上查看etcd  server.crt和peer.crt，发现 CN（Common Name） 和   SAN（Subject Alternative Name） 配置中的主机名都多了一个换行符，但是查看…",
-          "link": "https://chegva.com/6359.html",
-          "publishedOn": "2025-05-26T11:51:05.000Z",
-          "wordCount": 12825,
-          "title": "k8s master join 时etcd证书报错问题",
           "imageUrl": null
         }
       ]
