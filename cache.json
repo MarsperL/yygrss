@@ -228,10 +228,30 @@
       ]
     },
     {
-      "title": "法律小茶馆",
+      "title": "老T博客",
       "feedUrl": "https://hyruo.com/index.xml",
       "siteUrl": "https://lawtee.com/",
       "articles": [
+        {
+          "id": "https://lawtee.com/article/change-new-blog-name/",
+          "author": null,
+          "description": "虽然还没到 9 月 1 日，但我儿子今天已经提前去学校适应小学生活，随着新的阶段到来，我也想着给本博客换个名称。过程中，找两个小孩帮忙，顺便给他们解释了一下网站域名 Lawtee的含义，然后，不知怎得，两娃就突然开始喊我“老T”。感觉也是天意注定，那我就将本博名字改叫“老T博客”吧。\n老T即Lawtee\n\n去年我在选择 Lawtee.com 这个域名时，本来也没想太多，主要是 5 位带 law 三个字母的 com 域名，早已被注册殆尽，而 6 字母中带这三个字母的，也所剩无几，矮个子里边挑高个，最后也就选了这个。\n在英文发音中，Law 的美式发音  /lɑː/ 读起来跟 老 字很相近，而 Tee 发音为 /tiː/ 跟字母 T 一模一样。因此，Lawtee 读成 “老T” 倒也显得理所应当。\n这次更名前，我也在网上简单搜索了一下，好像叫“老T”这种名字的也不多，那就这样用了。\n为什么不再用之前名称\n\n此前，我将本博取名 “法律小茶馆” 其实是按照 Lawtee 意译而来，在一些欧洲国家，Tee 就是茶的意思，跟 Tea 的发音也没啥区别。\n但正如目前所现，本博其实大部分内容都跟法律没啥关系，与法律相关主题最多能占到 1/4，强行取个这样的名字，很容易让人误解。\n不过，总的来说，由于我长期从事法律工作，这个域名倒也没有继续更换的必要。只是文字介绍需要稍微变动一下，不再着重强调自己的职业，而是依据内容展现方向，改成了“法律、科技和生活”。\n毕竟，工作只占日常 1/3 不到的时间，工作之余，这个身份也没有必要随时挂着碍眼了。\n未来有何规划\n\n这里还是引用之前更换 Lawtee.com 域名时的想法吧，其实也没什么大的变化。\n正如我在 关于 页面中提到： “到 2023 年，自己也已经接近 35 岁，在一些行业都是开始想着退休的年龄，于是回头重构一下博客，想着就这样定型玩下去。” …",
+          "link": "https://lawtee.com/article/change-new-blog-name/",
+          "publishedOn": "2025-08-28T07:20:00.000Z",
+          "wordCount": 515,
+          "title": "将博客更名为“老T博客” 顺便更新自己使用过的一些硬件产品",
+          "imageUrl": "https://lawtee.com/article/change-new-blog-name/1.webp"
+        },
+        {
+          "id": "https://lawtee.com/article/repair-a-panasonic-smart-tolit-seat/",
+          "author": null,
+          "description": "最近，我家一个智能马桶盖出故障，控制板上，除了水温按钮有反应，其他按钮全失灵，而且重新上电也没任何反应。直觉告诉我，这应该不是单一故障，而是多个问题同时存在所导致。为此，我晚上花了几个小时仔细研究了一下这个产品。\n故障表现\n\n这台松下 EKS09 智能马桶盖是我 2019 年买的，迄今已接近 6 年，超出了五年保质期。要么自己修，要么换新的。\n考虑到我之后买的两个马桶盖水压普遍偏大，而这个松下的冲水柔和，主要是小孩在用，所以我第一反应还是想通过维修来解决。\n此前这个马桶盖曾出现过按键失灵情况，一度所有按钮都没反应，但隔天又好了，应该是排线板接触不良或腐蚀问题。\n这次故障更加麻烦点。\n控制面板上 8 个按钮。其中 6 个功能控制键中，只有 1 个水温键有反应；测试键方面，长按测试后灯常亮，但没进入测试，并且无论如何无法退出测试，着座键及灯光正常。\n在断电重新上电后，只听到电机嗡嗡声，但不出水，冲洗杆也不伸出来。\n\n\n问题查找和维修过程\n\n由于我此前对智能马桶盖的内部构造没有研究过，直觉上认为这次应该是两个问题。\n控制面板失灵；\n冲洗杆马达坏了或堵了。\n主板\n\n马桶盖外壳拆解倒是比较简单，总体来说，就是卸下螺丝，稍微用力就拆出来了。但真要找到问题所在还得花点功夫。\n\n\n首先是肉眼观察整个主板，发现已经作了防水处理，肉眼也没见到有元器件烧毁情况。也应证了水温按钮可以使用、上电后电机会嗡嗡出声的情况，总体功能上应该没大的问题。\n出水杆\n\n其次，重点是研究这个出水杆的构造。\n\n\n这个出水杆由两个马达控制，蓝色管进水，白色管输送到出水杆中。\n我一开始不知道这个东西原理，以为是出水杆末端马达控制升降，三角位的马达在抽水。\n后来才知道，出水杆末端那个马达仅仅是起到旋转开关的作用，控制阀门；而控制升降的是三角位的马达。\n但拆下这两个马达后，却也没发现什么异常情况。\n在整机上电后，末端马达能够…",
+          "link": "https://lawtee.com/article/repair-a-panasonic-smart-tolit-seat/",
+          "publishedOn": "2025-08-26T03:30:00.000Z",
+          "wordCount": 86,
+          "title": "维修一个松下智能马桶盖",
+          "imageUrl": "https://lawtee.com/article/repair-a-panasonic-smart-tolit-seat/msedge_RQT9txkO9M.webp"
+        },
         {
           "id": "https://lawtee.com/article/slim-down-nas-storage/",
           "author": null,
@@ -431,16 +451,6 @@
           "wordCount": 205,
           "title": "618买个电脑够折腾",
           "imageUrl": "https://lawtee.com/article/618-buy-a-laptop/0.webp"
-        },
-        {
-          "id": "https://lawtee.com/article/attend-two-events/",
-          "author": null,
-          "description": "最近抽空参加了佛大法学院 22 周年活动，由于之前曾参与 20 周年活动筹备工作，但当年因为活动时间与学校校庆活动重叠，最终没有单独举办。这次相当于是弥补之前没有单独举办活动的遗憾吧。\n学院 22 周年庆活动\n\n\n佛大法学院最早可以溯源到 1960 年佛山师范学院（后改名佛山师专）创办的“政史科”，但在动荡时期，学校一度停办。1982 年复办佛山师专后，于 1983 年正式设置“政史系”。到 1986 年，佛山师专并入佛山大学，之后于 2003 年，“政史系”改名为“政法系”，学院正式命名“政法学院”，并首设法学专业。到 2005 年，佛山教育学院的政史系也并了进来。\n目前佛大法学院以 2003 年作为学院办学起点，我想核心原因还是在于对法学专业的传承吧，只有两个专业：法学、知识产权，在校生规模大约 550 人。\n之前政史系的思想政治教育、历史等专业都已经在发展过程中消失了，后边政法系的公共事业管理专业也已停办。\n \n\n这次活动是在江湾老校区举办，主要是目前学院教学工作整体回到了老校区，而新校区大部分安排的都是理工科专业。\n \n我带了女儿过去打卡，参加了校园 3KM 徒步活动以及一些小游戏。\n \n但可惜的是，我们这一届校友似乎只有一两人参加了活动，过程中除了见到学校教师和个别两年前一同参与筹备活动的校友外，其他一个熟人都没见到。从外表上看，大部分人要么是比较早期入学的老校友，或者最近两三年毕业的新校友，中间基本是个断层状态。\n室内活动\n\n\n由于当天下午女儿急着回学校参加舞蹈排练，所以我并没有参加这次院庆室内活动。但从群里看到学院老师发的照片，也大致了解整个活动情况。\n \n出席活动的教师和校友我倒基本都认识。即便这几年学院为了提升办学层级，引入新的管理团队，但我也都在不同场合结识过。\n主要还是佛山这个地方太小，就这么一所完整的公办本科大学，包括院长、副院长、系主任和青年骨干教师在内，大家经常都会参加佛山市内各种会议、活动，一来二去也就混了个脸熟。\n\n特别是这次邀请参加活动的两位老领导，都曾从校园跳出去党政机关。一位曾担任佛山中院副院长，后来去另一所高校任职，另一位也长期从事政法工作，都在不同工作场合认识。可以说，佛大法学院在本地确实还是有比较不错的发展机会，起码人脉这块是有不少空间可以发掘的。\n\n参观野生动物救护中心\n\n\n前一天上午，我带两个小孩参加了一个小众活动，参观野生动物救护中心。\n \n这个保护中心的位置有点偏，在高明区明城镇的云勇森林公园附近。\n我记得自己以前去过这个森林公园，可是从来不知道有这么个场所在那里。回想一下，好像是因为路边没有指示牌的缘故，只有查导航地图才能找到。（重新看了下地图，发现其实森林公园跟这个救护中心不是同一个入口）\n可能也是出于安全考虑吧，毕竟整个场所密布监控，如果不是参加活动，平时应该不对外开放。\n\n这个救护中心里边有很多个区域，有的是爬行动物，有的哺乳动物，有的鸟类，感觉跟野生动物园挺像的。但规模和种类上肯定比不上动物园。\n \n由于我对野生动物实在没啥研究，过程中主要带小孩听现场介绍，但也是听的云里雾里。\n \n\n \n这次活动主要是知晓了还有这么个地方，像动物医院一般，不仅配备了实验室、冷库、隔离室、手术室，还有麻醉机、CT 机、X 光机、显微镜等专业救护设备。\n我想，这一切，应该主要还是为了体现人性的光辉吧。\n感觉这个救护中心可以和佛大开展很多合作，毕竟后者的动物医学、畜牧类专业一直是学校的优势专业，近期动物医学方面还在 Science 发表了 Evolving H5N1 receptor specificity\n 论文，可以说是创造学校历史了。",
-          "link": "https://lawtee.com/article/attend-two-events/",
-          "publishedOn": "2025-05-27T07:00:00.000Z",
-          "wordCount": 104,
-          "title": "参加佛大法学院22周年活动及参观野生动物救护中心",
-          "imageUrl": "https://lawtee.com/article/attend-two-events/00.webp"
         }
       ]
     },
@@ -1334,16 +1344,6 @@
           "wordCount": 349,
           "title": "格林尼治、经线与全球时间：帝国主义视角下的时间与空间霸权",
           "imageUrl": null
-        },
-        {
-          "id": "https://jimmysong.io/blog/huawei-foldable-tech-and-strategy/",
-          "author": "Jimmy Song",
-          "description": "🎧 本文相关播客已上线，欢迎在 这里收听第 6 期节目：华为 MateBook Fold 体验与观察。\n\n今天我在商场体验了华为新推出的 MateBook Fold 非凡大师。这款售价两万多元的折叠屏笔记本，被宣传为“全球最轻薄”“自研芯片加持”，又一次把华为送上了舆论和技术创新的风口浪尖。\n使用华为 MateBook Fold 访问我的网站\n\n但当我亲自体验、查阅资料并梳理这些年华为的产品发布历史后，我发现——高端折叠屏产品的出现，远不止是单纯的“技术创新”或者“工程师情怀”，背后其实是华为主动推进市场策略、品牌升级和中国科技生态突围的缩影。\n这篇文章将从产品体验、形态分析、市场定位和品牌战略几个角度，结合我自己的经历，做一次理性观察。\n一、折叠笔记本 MateBook Fold 简要介绍\n2025 年 5 月，华为发布了旗下首款折叠屏笔记本——MateBook Fold 非凡大师。这台电脑配备 18 英寸可折叠 OLED 大屏，折叠后为 13 英寸，主打“轻薄便携”和“大屏办公”兼得，重量约 1.16kg。最大亮点是搭载华为自研麒麟 X90 芯片，运行鸿蒙 PC 版操作系统，标志着华为在笔记本领域实现了从硬件到系统的全链路自主。\n参数上，MateBook Fold 已对标甚至超越同类折叠产品：\n麒麟 X90 SoC，10 核心设计，5nm 工艺\n32GB 内存、1TB/2TB NVMe SSD\n18.3 英寸 3.3K OLED 可折叠屏，支持 LTPO、1600 尼特峰值亮度\nHarmonyOS 5 PC 版\n二、历史上的折叠屏设备与华为的创新\n实际上，折叠屏笔记本并非华为首创。联想 ThinkPad X1 Fold、华硕 Zenbook 17 Fold 等产品早已有之，但都因折痕、虚拟键盘、重量和生态适配等问题，始终停留在“概念先锋”阶段。\n华为此次 MateBo…",
-          "link": "https://jimmysong.io/blog/huawei-foldable-tech-and-strategy/",
-          "publishedOn": "2025-06-01T04:00:00.000Z",
-          "wordCount": 368,
-          "title": "华为折叠屏产品：技术突破还是市场策略——一位普通用户的体验与观察",
-          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
         }
       ]
     },
@@ -1560,6 +1560,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=302684",
+          "author": "Brandon Lee",
+          "description": "I have been big into documenting my home lab and finding tools that are great for creating documentation for my DevOps processes in the lab and in production. This has led me down a rabbit hole of trying all sorts of documentation tools and tools that can help visualize my docker compose code. If you …\nThe post Visualize Your Docker-Compose with Mermaid + docker-compose-viz This Weekend appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/08/visualize-your-docker-compose-with-mermaid-docker-compose-viz-this-weekend/",
+          "publishedOn": "2025-08-29T13:31:53.000Z",
+          "wordCount": 10251,
+          "title": "Visualize Your Docker-Compose with Mermaid + docker-compose-viz This Weekend",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/08/Visualize-Docker-Compose-this-weekend.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=302636",
           "author": "Brandon Lee",
@@ -2137,6 +2147,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=50899",
+          "author": "Tanvir Kour",
+          "description": "In today’s world, artificial intelligence is reaching ever greater heights in its development. It is capturing various spheres of activity and people’s everyday lives. Even large companies have not escaped the influence of the development of this neural network. After all, in modern realities, businesses must keep up with the times and adopt advanced technologies. […]",
+          "link": "https://collabnix.com/why-businesses-should-use-generative-ai-consulting-services-today/",
+          "publishedOn": "2025-08-29T10:01:21.000Z",
+          "wordCount": 2702,
+          "title": "Why Businesses Should Use Generative AI Consulting Services Today",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=50618",
           "author": "Tanvir Kour",
@@ -4812,6 +4832,16 @@
       "siteUrl": "https://panzhixiang.cn/atom.xml",
       "articles": [
         {
+          "id": "https://panzhixiang.cn/2025/douyin/",
+          "author": null,
+          "description": "<p>我大概两个月前开始做一个抖音账号。</p>\n<p>因为是业余时间做的，基本上都是下班路上随便找个地方坐下来讲一些话题，或者就是在书房录制一些视频。算是佛系更新吧。</p>\n<p>我前天没有啥话题，正好在南京南的站台上有很多人抽烟，我就随手拍了一张照片吐槽一下。没想到因为这个",
+          "link": "https://panzhixiang.cn/2025/douyin/",
+          "publishedOn": "2025-08-28T16:00:00.000Z",
+          "wordCount": 157,
+          "title": "在抖音上被喷惨了",
+          "imageUrl": null
+        },
+        {
           "id": "https://panzhixiang.cn/2025/a-prompt-help-ai-understanding-your-code/",
           "author": null,
           "description": "AI 编程助手总是在你的大项目里“重复造轮子”？核心原因是它缺少全局上下文。我分享一个用了很久的 Prompt，能让 AI 自己为代码库生成一份 README “说明书”，辅助解决“失忆”问题。告别无效沟通，让你的 AI 变成真正懂项目的队友。",
@@ -5351,7 +5381,18 @@
       "title": "关于行走",
       "feedUrl": "https://www.xingzou.org/feed",
       "siteUrl": "https://www.xingzou.org/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.xingzou.org/p/899",
+          "author": "北禾",
+          "description": "自从年前从上家公司被裁员后，最近半年没怎么写记录，说是太懒，其实是一个借口，主要是最近这半年来，觉得不是太顺，也不知道怎么来写这段记录，刚好今天有时间，顺着时间线写写最近半年的一些变化。  2月...",
+          "link": "https://www.xingzou.org/p/899",
+          "publishedOn": "2025-08-28T12:06:00.000Z",
+          "wordCount": 418,
+          "title": "半年记",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "迷鹿屋",
