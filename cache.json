@@ -66,6 +66,16 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
+          "id": "https://daverupert.com/2025/08/git-diagramming-the-weave/",
+          "author": null,
+          "description": "We all know the current US President is one hell of an orator and often assures us that he has “the best words”:\nI went to an Ivy League school. I’m very highly educated. I know words. I have the best words.\nThe man knows words. Says so right there. While some might view his non-sequitur ramblings as the nascent stages of dementia or an unfiltered ADHD brain launching into successive short (at times racist) bullet-point diatribes based on the last word or phrase he said like a cursed game of word association, the President asserts this is not the case:\nYou know, I do the weave. You know what the weave is? I’ll talk about, like, nine different things, and they all come back brilliantly together. And it’s like - and friends of mine that are, like, English professors - they say, it’s the most…",
+          "link": "https://daverupert.com/2025/08/git-diagramming-the-weave/",
+          "publishedOn": "2025-08-31T02:22:00.000Z",
+          "wordCount": 1830,
+          "title": "Git diagramming \"The Weave\"",
+          "imageUrl": null
+        },
+        {
           "id": "https://daverupert.com/2025/08/limiting-youtube-to-a-single-tab/",
           "author": null,
           "description": "This week I decided to go nuclear on my bad YouTube habit. I installed a plugin called Tab Limiter that lets me limit youtube.com to one tab at a time. Clicking links that open in new tabs will now auto-close the tab.\nWhy do this? I talked about it before but when I’m bored I open tabs. Adding friction here prevents me from CMD+clicking videos during moments of boredom and creating a month’s-worth unclose-able tabs of videos to watch. It encourages me to stay focused and nudges me towards YouTube’s lossy1 “Add to queue” feature to queue up one video at a time in a single tab. I sort of prefer this way of using YouTube and it makes it feel a lot more like a native app.\nThat inspired me to install the YouTube Progressive Web App and because the PWA is basically a dedicated tab, Tab Limiter keeps me from opening other videos in new tabs. I’m now funneled into the application.\nOpening a dropdown and clicking “Add to queue” is adding more “good friction” to the process. It also comes with a counter. 20 tabs open, no big deal, I’m immune to that effect. 20 items in a queue. Yeesh. That’s a todo list.\nTab Limiter has a brutalist UI and that’s what makes it perfect. It’s also open sourced on GitHub which is important to me so I can make sure it’s not sending my browsing history to China. And I can fork it. One improvement I’m considering is to add the closed video’s ID to the YouTube queue before closing the tab. It seems easy enough, but probably not as easy as I’m hoping. The core idea there is that it might be helpful if I come across an urgent watch-now link or someone sends me a link.\nI’m also still using Raycast Focus which is a great way to blockout time and stop distractions at the source.\n\n\n\n\nYouTube queues only exist in memory in the tab context, it’s not a cross-tab feature so if you close a tab and started a new one, the entire old queue got erased forever. ↩",
@@ -1324,16 +1334,6 @@
           "wordCount": 295,
           "title": "如何把 Mac Finder 用得更顺手？——高效文件管理定制指南",
           "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
-        },
-        {
-          "id": "https://jimmysong.io/blog/the-sunset-of-the-british-empire/",
-          "author": "Jimmy Song",
-          "description": "引子：西方文明与遮羞布\n最近在 X（原 Twitter）上看到 Elon Musk 转发 Atlas Press 的一则热门推文，内容大意是：“西方文明在大体上推动了人类进步，最典型的例子就是大英帝国——在许多被占领的地方提升了生活水平。”\n马斯克在 x.com 转发的推文，宣言西方文明的“向善力量”\n\n但历史的真实远不止于此。每当有人高举“西方文明造福人类”的大旗时，我们都需要去揭开那层“文明遮羞布”，看看它背后的血与火。\n英国历史上曾长期大规模参与跨大西洋奴隶贸易，是全球最重要的奴隶贸易国家之一，累计贩运奴隶超过 300 万人。这段历史极大推动了英国的资本积累和工业革命。英国最终在 19 世纪初逐步废除了奴隶贸易和奴隶制度，但背后的动因，既有道德觉醒，也有经济转型、社会压力和国际竞争等多重现实考量。只有在奴隶贸易不再是经济支柱后，英国才以“文明”与“道义”的姿态主导了废奴进程。这是帝国光环背后必须直面的阴影。\n余晖中的帝国\n如果说欧洲是现代文明的启明星，给现代文明带来曙光，那么英国就是那道最早划破黑夜的光束。她率先完成工业革命，以蒸汽机为引擎，把人类带入机械化时代；她缔造了“日不落帝国”，将贸易、航海与资本主义扩展到全球；她孕育了宪政制度与代议制民主，为现代国家治理提供蓝本；她还诞生了牛顿与达尔文、莎士比亚与狄更斯，以科学与文学之光照亮人类思想的疆域。\n然而，不能忽视的是，英国现代化进程中的光辉，也伴随着深重的阴影。她在全球扩张过程中掠夺资源、压迫他族，殖民地人民长期遭受不平等统治与文化压制。文明输出的背后，往往是经济掠夺与文化霸权的延伸——英语被强行推广，本土文化被边缘化，殖民地的经济结构被刻意塑造成对宗主国依附的形式。工业革命所带来的繁荣，也建立在奴隶贸易、工人剥削和全球不平等贸易体系的基础之上。\n曾经的大英帝国殖民地遍布全球（图片来自网络）\n\n因此，英国既是现代文…",
-          "link": "https://jimmysong.io/blog/the-sunset-of-the-british-empire/",
-          "publishedOn": "2025-06-03T12:40:00.000Z",
-          "wordCount": 220,
-          "title": "大英帝国的余晖：我眼中的英国与欧洲大陆",
-          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
         }
       ]
     },
@@ -2127,6 +2127,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=51268",
+          "author": "Tanvir Kour",
+          "description": "Artificial intelligence now drives faster coding, higher accuracy, and measurable productivity gains. Leading AI coding tools like GitHub Copilot, Windsurf, and Tabnine generate functions in seconds, detect bugs early, and adapt to individual developer workflows. In this guide, we compare their performance from solo prototyping to enterprise-scale projects, including remote coding scenarios. High-performance AI assistants […]",
+          "link": "https://collabnix.com/which-ai-tool-is-best-for-coding-developers-guide/",
+          "publishedOn": "2025-08-31T16:21:20.000Z",
+          "wordCount": 3733,
+          "title": "Which AI Tool Is Best for Coding? Developers Guide",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=51015",
           "author": "Tanvir Kour",
@@ -3656,6 +3666,16 @@
       "siteUrl": "https://yeshu.cloud/",
       "articles": [
         {
+          "id": "https://yeshu.cloud/posts/newsletter-136/",
+          "author": null,
+          "description": "融入团队的关键，不是被动等待适应，而是主动创造价值。",
+          "link": "https://yeshu.cloud/posts/newsletter-136/",
+          "publishedOn": "2025-08-31T13:10:22.000Z",
+          "wordCount": 111,
+          "title": "如何快速融入新团队",
+          "imageUrl": "https://yeshu.cloud/images/android-chrome-192x192.png"
+        },
+        {
           "id": "https://yeshu.cloud/posts/newsletter-135/",
           "author": null,
           "description": "给自己营造一个可以持续下去的环境。",
@@ -3682,6 +3702,26 @@
       "feedUrl": "https://www.skyue.com/feed/",
       "siteUrl": "https://www.skyue.com/",
       "articles": [
+        {
+          "id": "https://www.skyue.com/25090107.html",
+          "author": "拾月",
+          "description": "周五上班时，瞥了一眼窗外，看到如下场景，联想到很多电影中拍的高楼林立的空镜，既摩登又压抑。",
+          "link": "https://www.skyue.com/25090107.html",
+          "publishedOn": "2025-08-31T23:07:00.000Z",
+          "wordCount": 563,
+          "title": "2025W34~高楼林立",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://www.skyue.com/25083113.html",
+          "author": "拾月",
+          "description": "（本文图片超多）8月2日到16日休婚假到云南玩了一趟，走滇东南环线。写篇博文记录之，亦可作为攻略供诸位读者参考。选云南的原因有二：南瓜怀孕，安全考虑，不去西藏、新疆等偏远地区（怀孕前的规划是川西...",
+          "link": "https://www.skyue.com/25083113.html",
+          "publishedOn": "2025-08-31T05:33:00.000Z",
+          "wordCount": null,
+          "title": "滇东南环线自驾游",
+          "imageUrl": null
+        },
         {
           "id": "https://www.skyue.com/25082507.html",
           "author": "拾月",
@@ -4870,16 +4910,6 @@
           "wordCount": 305,
           "title": "AI 热潮下的迷茫和沮丧",
           "imageUrl": null
-        },
-        {
-          "id": "https://panzhixiang.cn/2025/ganrao/",
-          "author": null,
-          "description": "怀念高中时期的心流状态，如今却被成年生活的打断与分心取代。从学习到工作、从多项目切换到家庭责任，这篇文章记录了专注力的流失过程",
-          "link": "https://panzhixiang.cn/2025/ganrao/",
-          "publishedOn": "2025-06-02T16:00:00.000Z",
-          "wordCount": null,
-          "title": "从高中时的心流状态到成年后的分心",
-          "imageUrl": null
         }
       ]
     },
@@ -4934,16 +4964,6 @@
           "publishedOn": "2025-06-17T14:40:30.000Z",
           "wordCount": null,
           "title": "golang gitlab subgroup 构建问题",
-          "imageUrl": null
-        },
-        {
-          "id": "http://zhangguanzhang.github.io/2025/06/02/kubernetes-cert/",
-          "author": null,
-          "description": "<p>从小白角度来写下 k8s 证书…..</p>",
-          "link": "http://zhangguanzhang.github.io/2025/06/02/kubernetes-cert/",
-          "publishedOn": "2025-06-02T20:40:30.000Z",
-          "wordCount": null,
-          "title": "小白向的 kubernetes 证书讲解",
           "imageUrl": null
         }
       ]
