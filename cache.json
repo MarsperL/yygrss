@@ -24,16 +24,6 @@
           "wordCount": 1697,
           "title": "使用GitHub Actions实现Hexo博客的自动化发布",
           "imageUrl": "https://t.alcy.cc/fj"
-        },
-        {
-          "id": "https://marsperl.github.io/yyg/9e02bef8/",
-          "author": null,
-          "description": "一千个读者眼中有一千个哈姆雷特\n该篇为主观观影感受，非专业分析，请勿过度解读！\n<a href=\"#大致剧情\" class=\"headerlink\"",
-          "link": "https://marsperl.github.io/yyg/9e02bef8/",
-          "publishedOn": "2025-06-04T03:35:51.000Z",
-          "wordCount": 1445,
-          "title": "观影感受--雄狮少年2",
-          "imageUrl": "https://marsperl.github.io/img/img01.png"
         }
       ]
     },
@@ -936,6 +926,36 @@
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
         {
+          "id": "https://jimmysong.io/blog/hugo-mcp-server-vscode/",
+          "author": "Jimmy Song",
+          "description": "详细介绍如何开发一个 Hugo 网站的 MCP Server，深入解析 MCP 协议、工具注册机制、内容类型识别、智能 slug 生成等核心技术，并展示与 VS Code 的集成方案。",
+          "link": "https://jimmysong.io/blog/hugo-mcp-server-vscode/",
+          "publishedOn": "2025-09-01T11:27:39.000Z",
+          "wordCount": 1471,
+          "title": "Hugo Website MCP Server：打造智能博客内容生成脚手架并集成 VS Code",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.webp"
+        },
+        {
+          "id": "https://jimmysong.io/blog/kubernetes-ai-oss-solo/",
+          "author": "Jimmy Song",
+          "description": "探索 Solo.io 开源项目如何助力 Kubernetes AI 应用，提升推理服务与自动化运维的能力，助你实现智能化转型。",
+          "link": "https://jimmysong.io/blog/kubernetes-ai-oss-solo/",
+          "publishedOn": "2025-09-01T03:35:09.000Z",
+          "wordCount": 2438,
+          "title": "Kubernetes AI 应用基础设施开源实践与创新：Solo.io 开源项目研究",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.webp"
+        },
+        {
+          "id": "https://jimmysong.io/blog/markdown-wechat-publication/",
+          "author": "Jimmy Song",
+          "description": "本文分享开发将 Hugo 博客 Markdown 技术文章一键发布到微信公众号草稿的自动化工具的实践经验，涵盖整体架构设计、发布流程、微信平台格式适配、图片与代码处理、常见问题及定制化开发心得。",
+          "link": "https://jimmysong.io/blog/markdown-wechat-publication/",
+          "publishedOn": "2025-09-01T01:00:00.000Z",
+          "wordCount": 388,
+          "title": "开发将 Markdown 一键发布到微信公众号草稿工具的经验分享",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.webp"
+        },
+        {
           "id": "https://jimmysong.io/blog/understanding-mcp/",
           "author": "Jimmy Song",
           "description": "深入理解 Model Context Protocol (MCP)，探索其在 AI 应用中的扩展能力，像 USB 一样简便的接口设计，助力开发者提升效率。",
@@ -1551,6 +1571,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=302743",
+          "author": "Brandon Lee",
+          "description": "I have been using Nginx Proxy Manager (NPM) for quite some time now, a few years from what I remember. It is a great solution and one that I point many to who are just starting out with their Docker learning journey and want to have a quick and easy way to stand up proper …\nThe post I Replaced Nginx Proxy Manager with Traefik in My Home Lab and It Changed Everything appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/09/i-replaced-nginx-proxy-manager-with-traefik-in-my-home-lab-and-it-changed-everything/",
+          "publishedOn": "2025-09-01T12:22:31.000Z",
+          "wordCount": 9649,
+          "title": "I Replaced Nginx Proxy Manager with Traefik in My Home Lab and It Changed Everything",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/08/why-I-switched-from-nginx-proxy-manager-to-traefik.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=302684",
           "author": "Brandon Lee",
           "description": "I have been big into documenting my home lab and finding tools that are great for creating documentation for my DevOps processes in the lab and in production. This has led me down a rabbit hole of trying all sorts of documentation tools and tools that can help visualize my docker compose code. If you …\nThe post Visualize Your Docker-Compose with Mermaid + docker-compose-viz This Weekend appeared first on Virtualization Howto.",
@@ -2109,16 +2139,6 @@
           "wordCount": 11222,
           "title": "KubeSolo New Kubernetes Edge Distro by Portainer",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/06/kubesolo-Kubernetes-edge.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=301385",
-          "author": "Brandon Lee",
-          "description": "With so many now looking at spinning up Proxmox in the home lab and even the enterprise, NAKIVO is offering a really great resource in a free e-book for download that helps ones get up and running quickly with Proxmox. Let’s take a look at this resource and what information it contains. About the book …\nThe post Getting Started with Proxmox VE E-book Download appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/06/getting-started-with-proxmox-ve-e-book-download/",
-          "publishedOn": "2025-06-03T15:01:32.000Z",
-          "wordCount": 10112,
-          "title": "Getting Started with Proxmox VE E-book Download",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/06/Proxmox-VE-E-Book-guide.jpg"
         }
       ]
     },
@@ -2127,6 +2147,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=51314",
+          "author": "Tanvir Kour",
+          "description": "AI is no longer a concept from the future: it acts now as a practical lever of transformation for businesses. Across industries, companies deploy AI to fine-tune operations, enhance customer experiences, and generate new sources of revenue. However, the creation of AI products is not only reliant on technical skills; it really needs a process-orientated […]",
+          "link": "https://collabnix.com/designing-and-building-ai-products-and-services-a-practical-guide-for-businesses/",
+          "publishedOn": "2025-09-01T08:33:40.000Z",
+          "wordCount": 2702,
+          "title": "Designing and Building AI Products and Services: A Practical Guide for Businesses",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=51268",
           "author": "Tanvir Kour",
@@ -3295,16 +3325,6 @@
           "publishedOn": "2025-06-04T18:00:25.000Z",
           "wordCount": 5970,
           "title": "What is the Difference Between Generative AI and Agentic AI? A Complete Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=34483",
-          "author": "Collabnix Team",
-          "description": "The artificial intelligence landscape is undergoing a fundamental transformation. While traditional AI systems excel at responding to prompts and generating content, a new paradigm is emerging: Agentic AI. These systems don’t just respond—they reason, plan, and act autonomously to achieve complex objectives. At the heart of this revolution lies groundbreaking infrastructure like the Model Context […]",
-          "link": "https://collabnix.com/what-is-agentic-ai-a-deep-dive-into-mcp-and-the-modern-agent-ecosystem/",
-          "publishedOn": "2025-06-04T03:39:22.000Z",
-          "wordCount": null,
-          "title": "What is Agentic AI? A Deep Dive into MCP and the Modern Agent Ecosystem",
           "imageUrl": null
         }
       ]
@@ -4487,16 +4507,6 @@
           "wordCount": 491,
           "title": "MySQL字符集转换导致",
           "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
-        },
-        {
-          "id": "https://zahui.fan/posts/sxb6po/",
-          "author": null,
-          "description": "<p>双向认证是用户需要提供证书来访问服务器，没有证书的用户不允许访问服务器，并且在服务端可以实现吊销指定用户的证书来实现禁止用户访问。配置 https 双向认证会影响到使用 https 协议拉取和推送代码，以及 git lfs 的正常使用 (lfs 使用 https 协议)，ssh 协议使用代码仓库不受影响。</p>\n<h2 id=\"配置双向认证\"><a href=\"#配置双向认证\"",
-          "link": "https://zahui.fan/posts/sxb6po/",
-          "publishedOn": "2025-06-04T01:56:12.000Z",
-          "wordCount": 528,
-          "title": "使用双向认证增加git仓库安全性",
-          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
         }
       ]
     },
@@ -4574,6 +4584,16 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=22358",
+          "author": "xiaoz",
+          "description": "OneNav 是一款功能强大且简洁高效的浏览器书签管理器，支持集中式管理书签，完美解决跨设备、跨平台、跨浏览器的同步与访问难题，实现一处部署、随处访问。它不仅安装简单、界面简洁、操作方便，还可与浏览器扩展（插件）配合使用，为你带来更加高效便捷的书签管理体验。安装OneNav还未安装OneNav的用户",
+          "link": "https://blog.xiaoz.org/archives/22358",
+          "publishedOn": "2025-09-01T08:02:01.000Z",
+          "wordCount": 261,
+          "title": "OneNav 书签 1.2.2 正式发布：订阅用户专属主题BookNest上线",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=22347",
           "author": "xiaoz",
@@ -4899,16 +4919,6 @@
           "publishedOn": "2025-06-22T16:00:00.000Z",
           "wordCount": null,
           "title": "为什么我对\"紧急但不重要\"的事情生理性讨厌？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://panzhixiang.cn/2025/ai-sad/",
-          "author": null,
-          "description": "面对 AI 技术的飞速发展，我作为一名从业者却感到越来越迷茫。从聊天工具的同质化到普通人难以感受到 AI 的真正价值，再到 AI 产品和生态设计的局限性，这些现象让我不断思考：AI 的未来究竟在哪里？",
-          "link": "https://panzhixiang.cn/2025/ai-sad/",
-          "publishedOn": "2025-06-03T16:00:00.000Z",
-          "wordCount": 305,
-          "title": "AI 热潮下的迷茫和沮丧",
           "imageUrl": null
         }
       ]
