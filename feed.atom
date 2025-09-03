@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-09-02T01:59:52.670Z</updated>
+    <updated>2025-09-03T01:51:16.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TerraMaster D1 SSD Plus Review: Blazing Fast Storage for Creators and Home Labs]]></title>
+        <id>https://www.virtualizationhowto.com/?p=302796</id>
+        <link href="https://www.virtualizationhowto.com/2025/09/terramaster-d1-ssd-plus-review-blazing-fast-storage-for-creators-and-home-labs/"/>
+        <updated>2025-09-02T12:14:35.000Z</updated>
+        <summary type="html"><![CDATA[The portable SSD market has exploded in recent years. When Terramaster sent over the D1 SSD Plus for me to take a look at, it was an intriguing little device to say the least and one that piqued my interest. This is a specially suited device that is designed for creators and others who may …
+The post TerraMaster D1 SSD Plus Review: Blazing Fast Storage for Creators and Home Labs appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[氛围编程工具全景对比：从插件到 IDE、从终端到 Agent]]></title>
+        <id>https://jimmysong.io/blog/vibe-coding-tools-comparison/</id>
+        <link href="https://jimmysong.io/blog/vibe-coding-tools-comparison/"/>
+        <updated>2025-09-02T06:59:30.000Z</updated>
+        <summary type="html"><![CDATA[本文作为《AI 编程与氛围编程工具研究》的姊妹篇，全面补充当前市面上主流与新兴的氛围编程工具对比，包括独立 IDE、IDE 插件以及终端/CLI 工具，分析其开源程度、Agent 能力、模型接入方式与典型应用场景。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Replaced Nginx Proxy Manager with Traefik in My Home Lab and It Changed Everything]]></title>
         <id>https://www.virtualizationhowto.com/?p=302743</id>
@@ -6557,27 +6578,6 @@ HarmonyOS 5 的工具链用的是 LLVM 15，自带的编译器是 clang，那个
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10 Ways to Transition from IT admin to DevOps Engineer]]></title>
-        <id>https://www.virtualizationhowto.com/?p=301414</id>
-        <link href="https://www.virtualizationhowto.com/2025/06/10-ways-to-transition-from-it-admin-to-devops-engineer/"/>
-        <updated>2025-06-05T13:02:42.000Z</updated>
-        <summary type="html"><![CDATA[In what I would call the second half of my professional career I have been making the transition from a traditional server administrator, virtualization engineer, IT specialist to a DevOps engineer and cloud architect. This is a transition that I think many are seeing the need to make with the wild popularity of cloud-native technologies. …
-The post 10 Ways to Transition from IT admin to DevOps Engineer appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python高级语法指南：从LangGraph项目中学习]]></title>
-        <id>/archives/1749117268483</id>
-        <link href="http://blog.lixx.cn/archives/1749117268483"/>
-        <updated>2025-06-05T09:54:58.000Z</updated>
-        <summary type="html"><![CDATA[在本文中，我们将通过分析一个基于LangGraph的项目，深入探讨Python中的一些高级语法特性。这些特性在现代Python应用开发中非常常见，尤其是在使用Pydantic、FastAPI和LangGraph等框架时。 目录 Pydantic模型 BaseModel基础 Field函数 不同的Fi]]></summary>
-        <author>
-            <name>Lixx Blog - 李晓旭的博客</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[618买个电脑够折腾]]></title>
         <id>https://lawtee.com/article/618-buy-a-laptop/</id>
         <link href="https://lawtee.com/article/618-buy-a-laptop/"/>
@@ -6646,53 +6646,6 @@ Orz.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[多功能文件分享程序Zdir 4.5.0发布，新增图床模式]]></title>
-        <id>https://blog.xiaoz.org/?p=22095</id>
-        <link href="https://blog.xiaoz.org/archives/22095"/>
-        <updated>2025-06-05T02:32:20.000Z</updated>
-        <summary type="html"><![CDATA[Zdir是一款使用Golang + Vue3开发的多功能私有存储程序，集成了文件索引、在线预览和分享功能，支持WebDAV和离线下载，非常适合安装在NAS设备或大容量VPS上，是个人、工作室和小团队分享文件的理想选择。官网：https://www.zdir.pro/zh/购买订阅：https://s]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何把 Mac Finder 用得更顺手？——高效文件管理定制指南]]></title>
-        <id>https://jimmysong.io/blog/customize-finder-for-efficiency/</id>
-        <link href="https://jimmysong.io/blog/customize-finder-for-efficiency/"/>
-        <updated>2025-06-05T00:44:16.000Z</updated>
-        <summary type="html"><![CDATA[作为一个用 Mac 多年的用户，我始终觉得 Finder 虽然是 macOS 的核心应用，但默认体验其实并不理想：功能过于“简洁”，效率有待提升。不过，Finder 其实可以通过一些简单定制，极大改善你的日常文件管理体验。下面就来系统梳理下这些方法。
-Mac Finder
-
-1. 打开路径栏和状态栏
-Finder 默认隐藏了很多关键信息。
-在 Finder 菜单栏依次点击「显示」>「显示路径栏」和「显示状态栏」，就能在窗口底部看到当前路径和磁盘剩余空间。这样，无论在多深的文件夹里，都能一眼看到自己所在位置和空间情况。
-2. 优化 Finder 搜索体验
-Finder 的搜索默认是全盘搜索，经常带来无关结果。建议打开 Finder 的「设置」>「高级」，把“执行搜索时”改为「搜索当前文件夹」。
-这样一来，只有在需要时才手动切换到全盘，日常查找效率会提升很多。
-3. 精简和定制侧边栏
-侧边栏默认项目太多，用不到反而碍事。可以在 Finder「设置」>「侧边栏」精简，把不常用的项目（如 AirDrop）去掉，只保留自己高频访问的文件夹。你也可以直接拖动常用文件夹到侧边栏，形成专属快捷入口。
-4. 自定义工具栏
-Finder 工具栏右键选择「自定工具栏」，把常用功能按钮（如排序、新建文件夹、弹出磁盘、Airdrop 等）拖上去，删去不用的按钮，让界面更简洁。
-其实大多数操作用右键菜单即可完成，不必全部堆在工具栏上。
-5. 推荐使用列表视图
-个人最推荐用 Finder 的「列表视图」。在 Finder 窗口空白处右键，选择「以列表方式显示」。这样可以清楚看到文件属性，支持多级文件夹的折叠和排序，比图标或分栏视图效率高很多。
-6. 开启 Finder 标签页
-Finder 支持多标签页管理文件夹。
-进入 Finder「设置」>「通用」，将“在新窗口中打开文件夹”改为“在标签页中打开”。用 Command + T 新建标签页，多个目录间切换非常高效，类似浏览器的操作体验。如果你的鼠标还有侧边滚轮的话，直接使用滚轮切换 Tab 十分便捷。
-7. 善用批量重命名
-Mac Finder 中自带的批量重命名
-
-在 Finder 里选中多文件，右键选择「重命名 X 项…」，可以统一批量替换、添加前后缀、或按自定义规则编号，非常适合整理照片、文档、素材等。这是我最近才发现的功能，以前我一直以为只能给单个文件重命名，为此我还专门下载了用于批量重命名的应用，看来是多此一举了。对于规则简单的批量重命名，Mac Finder 自带的功能就够用了。如果你有更进一步的需求，推荐你使用”A Better Finder Rename“。
-A Better Finder Rename App
-
-结语与思考
-通过上述这些小设置，Finder 的使用体验会大幅提升，从一个“平庸”的文件管理器，变成顺手高效的日常工具。当然，对于重度用户来说，Finder 的功能终究有限。比如双栏、复杂的批量操作、文件同步、集成终端等等，如果你对这些有强烈需求，不妨试试第三方增强型文件管理器 Path Finder。
-在下一篇博客中，我会详细介绍 Path Finder 这款强大的 Finder 替代工具，以及它对重度用户的生产力提升。敬请期待。]]></summary>
-        <author>
-            <name>Jimmy Song</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ARM Neoverse N1 (代号 Ares) 的 BTB 结构分析]]></title>
         <id>https://jia.je/hardware/2025/06/05/arm-neoverse-n1-btb/</id>
         <link href="https://jia.je/hardware/2025/06/05/arm-neoverse-n1-btb/"/>
@@ -6737,17 +6690,6 @@ The Arm Neoverse N1 Platform: Building Blocks for the Next-Gen Cloud-to-Edge Inf
         <summary type="html"><![CDATA[As artificial intelligence continues to transform industries and reshape how we work, two key terms have emerged that often confuse both technical professionals and business leaders: generative AI and agentic AI. While these technologies may seem similar on the surface, they serve fundamentally different purposes and operate in distinct ways. Understanding the difference between generative […]]]></summary>
         <author>
             <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KubeSolo New Kubernetes Edge Distro by Portainer]]></title>
-        <id>https://www.virtualizationhowto.com/?p=301395</id>
-        <link href="https://www.virtualizationhowto.com/2025/06/kubesolo-new-kubernetes-edge-distro-by-portainer/"/>
-        <updated>2025-06-04T14:24:40.000Z</updated>
-        <summary type="html"><![CDATA[When I saw Neil Cresswell’s (Portainer’s CEO) post on LinkedIn about a new Kubernetes distribution that was about to be released by Portainer, this got my attention. The new distro, called KubeSolo, was purpose-built to be for Kubernetes environments that need to be run on low-resource devices like a Raspberry Pi, an IoT gateway, or …
-The post KubeSolo New Kubernetes Edge Distro by Portainer appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
