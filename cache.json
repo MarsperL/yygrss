@@ -233,6 +233,26 @@
       "siteUrl": "https://lawtee.com/",
       "articles": [
         {
+          "id": "https://lawtee.com/article/fix-pve-node-unknown-bug/",
+          "author": null,
+          "description": "周日下午，老T准备在 PVE 装个 RouterOS 测试，结果发现无法创建虚拟机。具体表现是，在虚拟机创建页面，节点处提示 “Node epson seems to be offline” ，然后 PVE 面板上，节点显示灰色问号，提示状态为 “Unknown”。由此，开始了老T一段跌宕起伏的 Bug 修复过程。\nPVE 存储设备配置冲突\n\n遇到 Bug 后，老T第一时间怀疑是不是节点配置冲突。因为节点内的虚拟机本身在正常运行，除了节点上有灰色问号，在节点中还有两个存储设备也同样显示黑色问号。\n这两个存储设备实际就是主机中的两个机械硬盘。此前，老T将这两个机械硬盘挂载后，直通给了 100 号虚拟机使用。\n但考虑到虚拟机中无法读取硬盘温度，便分离了存储，改用 PCI-E 硬件直通，将 SATA 控制器直通到虚拟机。故此遗留两个过期的存储设备。\n于是老T在 PVE 面板中直接删除了两个存储设备，然后刷新，看到问题依旧。\n老T在想，是否是因为集群状态还没更新，于是重启并强制刷新集群状态，同时检查存储挂载情况。\n\n\n\n1\n2\n3\n\n\n\nsystemctl restart pve-cluster\nsystemctl restart corosync\npvesm status\n\n\n\n\n\n果然，存储状态有点问题。PVE 配置中保留了两个 HDD 的 LVM 存储定义，但实际物理磁盘已经直通给 100 号虚拟机不可见。\n\n\n\n1\n2\n3\n4\n5\n6\n7\n8\n\n\n\nroot@epson:# pvesm status\nCommand failed with status code 5.\ncommand '/sbin/vgscan --ignorelockingfailure --mknodes' failed: exit code 5\nName Type Status Total Used …",
+          "link": "https://lawtee.com/article/fix-pve-node-unknown-bug/",
+          "publishedOn": "2025-09-02T10:30:00.000Z",
+          "wordCount": 1211,
+          "title": "一次跌宕起伏的BUG修复——PVE节点出现Unknown状态故障",
+          "imageUrl": "https://lawtee.com/article/fix-pve-node-unknown-bug/1.webp"
+        },
+        {
+          "id": "https://lawtee.com/article/august-talk-about/",
+          "author": null,
+          "description": "这是老 T 在 8 月份的说说内容，这里将其一并提取发布，主要包括 Folo RSS 更换域名后的一些问题，医保用药问题，汽车滤芯损毁问题，以及在使用飞牛和群晖过程中遇到的一些问题等。\nGithub issue 作为博客说说发布页面的模板设置问题\n\n在设置模板过程中，需要留意以下几个问题：\n页面构建缓存。可能导致页面内容可能无法更新。\n\n\n\n1\n2\n3\n4\n5\n6\n\n\n\n {{ $url := \"https://api.github.com/repos/user/moments/issues/1/comments\" }}\n {{ $opts := dict\n \"headers\" (dict \"User-Agent\" \"Hugo Static Site Generator\")\n \"cache\" 300\n \"cacheKey\" (printf \"gh-comments-%s\" (now.Format \"2006-01-02-15:04\"))\n }}\n\n\n\n\n\n内容排序。 github issue api 输出数据是最新的内容在后边，需要倒过来。\n\n\n\n1\n2\n3\n4\n\n\n\n {{ with resources.GetRemote $url $opts }}\n {{ if and .Content (ne .Content \"\") }}\n {{ $comments := .Content | transform.Unmarshal (dict \"format\" \"json\") }}\n {{ $sortedComments := sort $comments \"created_at\" \"desc\" }}\n\n\n\n\n\n时间格式。github issue 默认使用 UTC 时间，中国的话，需要在基准上加8个小时。\n\n\n\n1\n2\n3\n\n\n\n<time>\n {{ (.created_at |…",
+          "link": "https://lawtee.com/article/august-talk-about/",
+          "publishedOn": "2025-08-30T12:30:00.000Z",
+          "wordCount": 429,
+          "title": "8月说说: Folo RSS迁移 医保药价 断机油滤芯 飞牛不显示硬盘温度",
+          "imageUrl": "https://lawtee.com/article/august-talk-about/0.webp"
+        },
+        {
           "id": "https://lawtee.com/article/change-new-blog-name/",
           "author": null,
           "description": "虽然还没到 9 月 1 日，但我儿子今天已经提前去学校适应小学生活，随着新的阶段到来，我也想着给本博客换个名称。过程中，找两个小孩帮忙，顺便给他们解释了一下网站域名 Lawtee的含义，然后，不知怎得，两娃就突然开始喊我“老T”。感觉也是天意注定，那我就将本博名字改叫“老T博客”吧。\n老T即Lawtee\n\n去年我在选择 Lawtee.com 这个域名时，本来也没想太多，主要是 5 位带 law 三个字母的 com 域名，早已被注册殆尽，而 6 字母中带这三个字母的，也所剩无几，矮个子里边挑高个，最后也就选了这个。\n在英文发音中，Law 的美式发音  /lɑː/ 读起来跟 老 字很相近，而 Tee 发音为 /tiː/ 跟字母 T 一模一样。因此，Lawtee 读成 “老T” 倒也显得理所应当。\n这次更名前，我也在网上简单搜索了一下，好像叫“老T”这种名字的也不多，那就这样用了。\n为什么不再用之前名称\n\n此前，我将本博取名 “法律小茶馆” 其实是按照 Lawtee 意译而来，在一些欧洲国家，Tee 就是茶的意思，跟 Tea 的发音也没啥区别。\n但正如目前所现，本博其实大部分内容都跟法律没啥关系，与法律相关主题最多能占到 1/4，强行取个这样的名字，很容易让人误解。\n不过，总的来说，由于我长期从事法律工作，这个域名倒也没有继续更换的必要。只是文字介绍需要稍微变动一下，不再着重强调自己的职业，而是依据内容展现方向，改成了“法律、科技和生活”。\n毕竟，工作只占日常 1/3 不到的时间，工作之余，这个身份也没有必要随时挂着碍眼了。\n未来有何规划\n\n这里还是引用之前更换 Lawtee.com 域名时的想法吧，其实也没什么大的变化。\n正如我在 关于 页面中提到： “到 2023 年，自己也已经接近 35 岁，在一些行业都是开始想着退休的年龄，于是回头重构一下博客，想着就这样定型玩下去。” …",
@@ -441,16 +461,6 @@
           "wordCount": 236,
           "title": "618添加一台半新半旧电脑",
           "imageUrl": "https://lawtee.com/article/a-half-new-pc/00.webp"
-        },
-        {
-          "id": "https://lawtee.com/article/618-buy-a-laptop/",
-          "author": null,
-          "description": "一年一度 618 ，本来想趁着这次升级一下电脑配置，结果发现没得升级空间，只能换新。而新装电脑又遇上怪事，折腾一天，到现在还没个定数。\nThinkpad P53 升级不了显卡\n\n我当年买 P53 时压根没想过还有这种情况，因为历来 Thinkpad P 系列就可以换显卡，结果这次想换时，才发现这玩意显卡是焊死在主板上的，不是原来的 MXM 接口。\n\n这下就蒙圈了，原本买 P53 时想着是先搞个凑合能用的 T2000 显卡，后续有需要再换 RTX 5000，结果这条路一下就断了。\nDIY 组装价格贵到飞起\n\n很多年没有自己组装电脑了，研究了一天当下电脑配置，然后着手选购。\n本来我想法是搞个 5000 块左右，能将 CS2 帧率从目前 P53 上的 130 左右提高到 300 就行，按这方向，于是选了 AMD 9600x + AMD 7650GRE 方案。\n但是一轮选下来，发现 5000 完全不够用，差不多去到 6400 。\n电脑配置单\n微星B650M GAMING WIFI D5 + R5 9600X散 ¥2089\n海韵（SEASONIC）650W FOCUS金牌全模电源 ¥599\n小米REDMI 24.5英寸显示器 200Hz Fast IPS ¥549\n致态（ZhiTai） 1TB SSD固态硬盘 NVMe Ti600 ¥419\n光威（Gloway）32GB(16GBx2) 龙武银A-die 6000 C28 ¥849\n利民Thermalright Peerless Assassin 120 SE 风扇 ¥139\n盈通（yeston）AMD RADEON RX 7650 GRE 8G D6 ¥1839\n长城（Great Wall）阿基米德1黑色电脑机箱 ¥139\n并且，其实我对这个配置还很不满意，已经很大程度压减性能。事实上，我更开始选的是 AMD 9700X + GTX 4060 方案，总价还得再高出 2000 左右。\n最让我受不了的是，当我直接搜第三方组装机时，发现人家那价格真是超离谱。\n比如京东上微星和攀升那些基础型号，什么 i5-13490F + 5060 主机卖到 3900，9600x + 7650GRE 卖到 4700。\n究其原因，就是这些主机都带了国家补贴，在原价基础上打八折。\n这样下来，自己 DIY 的性价比荡然无存。\n一言难尽的国补\n\n既然 DIY 不行，那我老实选整机国补行了吧。\n结果又是个大坑。\n在京东找游戏本，发现机械革命蛟龙 16Pro 2025 (R9-7845HX 16G 512G RTX5060 180Hz 2.5K) 原价 6400 ，国补后价格才 5199 。\n这游戏本性能，不说别的，起码在纸面数据上已经比我自己 DIY 个 9600x + 7650GRE 强很多，居然整机价格还便宜 1000 多。\n于是准备冲动下单。\n然后发现，这国补资格，怎么死活用不了。 我想着今年先前也没用过这个啊。\n一问客服，人家回复说广东国补 6月1日 后就停了。\n这才去查下新闻，发现好像也是这么回事。\n问题是，几乎所有电脑都标着国补价格在那，我要花 6400 买这玩意的话，会不会显得自己完全是个冤大头。\n换平台下单暂未发货\n\n后来我不死心又看了下淘宝那边，发现淘宝有个国补优选专区，只需要将原来绑定京东的国补资格取消，重新绑定到淘宝就能下单。\n但淘宝这边这款电脑是预售，说是 3 天内发货，也不知道最后能不能成。\n先等着吧。\n\n实在不发货就算了，因为我发现下单的这个 AMD 7845HX CPU 似乎也有点小问题，虽然纸面评测数据很高，但实际游戏性能可能会受 CCD 架构影响，只开 6 个核心玩游戏时，搞不好比默认 12 核模式更快，心理上总有点膈应。\n一天上一当，当当不一样\n\n刚好今天有个亲戚发个链接过来让砍一刀，然后顺便查了下拼多多同款笔记本电脑价格。\n好家伙，拼多多百亿补贴后直接就是 5299 块。只比京东这边国补后贵 100 块。\n原来都是骗补贴的套路。\nOrz.",
-          "link": "https://lawtee.com/article/618-buy-a-laptop/",
-          "publishedOn": "2025-06-05T09:00:00.000Z",
-          "wordCount": 205,
-          "title": "618买个电脑够折腾",
-          "imageUrl": "https://lawtee.com/article/618-buy-a-laptop/0.webp"
         }
       ]
     },
@@ -546,8 +556,78 @@
     {
       "title": "运维咖啡吧",
       "feedUrl": "https://blog.ops-coffee.cn/feed.xml",
-      "siteUrl": "https://blog.ops-coffee.cn/atom.xml",
+      "siteUrl": "https://blog.ops-coffee.com/atom.xml",
       "articles": [
+        {
+          "id": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day23-chaozhou-hangong.html",
+          "author": null,
+          "description": "在潮州深度游，体验本地生活，参观韩文公祠和开元寺泰佛殿，骑行凤凰洲，品尝潮州特色美食如牛肉粿条和十八曲鱼饺，感受潮州的独特魅力。",
+          "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day23-chaozhou-hangong.html",
+          "publishedOn": "2025-09-03T02:02:27.000Z",
+          "wordCount": 117,
+          "title": "久违的暑假｜沿海自驾DAY23 - 韩公",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day22-chaozhou-chengqiang.html",
+          "author": null,
+          "description": "在潮州的第二天，探索了历史悠久的西湖公园和壮丽的古城墙，体验了当地的美食如芝麻茶和白粥，感受了潮州独特的文化氛围和自然风光。",
+          "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day22-chaozhou-chengqiang.html",
+          "publishedOn": "2025-09-02T05:26:13.000Z",
+          "wordCount": 121,
+          "title": "久违的暑假｜沿海自驾DAY22 - 城墙",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day21-chaozhou-gucheng.html",
+          "author": null,
+          "description": "探索潮州古城的历史文化，游览广济桥、牌坊街，品尝潮州特色美食，体验潮汕文化的独特魅力。深入了解潮州的历史遗迹与现代风情，感受潮州古城的深厚底蕴。",
+          "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day21-chaozhou-gucheng.html",
+          "publishedOn": "2025-09-01T06:01:34.000Z",
+          "wordCount": 128,
+          "title": "久违的暑假｜沿海自驾DAY21 - 潮州",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day20-zhangzhou-zhaoan.html",
+          "author": null,
+          "description": "从东山岛出发，探索漳州诏安的特色美食贼婆面与南峰凉茶，感受生活气息浓郁的诏安小城。随后前往潮州，迎接韩江的夕阳美景，继续美食之旅。",
+          "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day20-zhangzhou-zhaoan.html",
+          "publishedOn": "2025-08-31T07:01:58.000Z",
+          "wordCount": 118,
+          "title": "久违的暑假｜沿海自驾DAY20 - 诏安",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day19-zhangzhou-dongshan-aojiao.html",
+          "author": null,
+          "description": "在东山岛的第19天，探索澳角村，体验闽南渔村的宁静与美丽，品尝当地特色沙茶面和甜汤，感受不同于南门湾的沿海风情。",
+          "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day19-zhangzhou-dongshan-aojiao.html",
+          "publishedOn": "2025-08-30T13:03:21.000Z",
+          "wordCount": 121,
+          "title": "久违的暑假｜沿海自驾DAY19 - 澳角",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day18-zhangzhou-dongshan-zuoer.html",
+          "author": null,
+          "description": "在2025年的沿海自驾游中，作者在苏峰山与南门湾度过了难忘的一天，体验了美丽的环岛公路、古朴的岩雅古村和电影取景地南门湾，同时享受了海边的宁静与美食。",
+          "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day18-zhangzhou-dongshan-zuoer.html",
+          "publishedOn": "2025-08-29T03:41:59.000Z",
+          "wordCount": 130,
+          "title": "久违的暑假｜沿海自驾DAY18 - 左耳",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day17-zhangzhou-dongshan.html",
+          "author": null,
+          "description": "本文记录了从漳州到东山岛的沿海自驾游行程，途经六鳌半岛和古雷半岛，探索了金銮湾和苏峰山的美景，体验了当地的渔业文化和不期而遇的人情味。",
+          "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day17-zhangzhou-dongshan.html",
+          "publishedOn": "2025-08-28T03:20:34.000Z",
+          "wordCount": 125,
+          "title": "久违的暑假｜沿海自驾DAY17 - 东山",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day17-zhangzhou-dongshan.html",
           "author": null,
@@ -556,6 +636,16 @@
           "publishedOn": "2025-08-28T03:20:34.000Z",
           "wordCount": 123,
           "title": "久违的暑假｜沿海自驾DAY17 - 东山",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day16-zhangzhou-longhai.html",
+          "author": null,
+          "description": "从漳州出发，沿着G228国道自驾前往东山岛，途经美丽的岛美村和镇海角，探索火山岩地貌和原始海景，享受沿海自驾的乐趣与美景。",
+          "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day16-zhangzhou-longhai.html",
+          "publishedOn": "2025-08-27T02:12:49.000Z",
+          "wordCount": 124,
+          "title": "久违的暑假｜沿海自驾DAY16 - 龙海",
           "imageUrl": null
         },
         {
@@ -569,6 +659,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day15-zhangzhou-gucheng.html",
+          "author": null,
+          "description": "",
+          "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day15-zhangzhou-gucheng.html",
+          "publishedOn": "2025-08-26T04:47:37.000Z",
+          "wordCount": 126,
+          "title": "久违的暑假｜沿海自驾DAY15 - 漳州",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day15-zhangzhou-gucheng.html",
           "author": null,
           "description": "",
@@ -576,6 +676,16 @@
           "publishedOn": "2025-08-26T04:47:37.000Z",
           "wordCount": 124,
           "title": "久违的暑假｜沿海自驾DAY15 - 漳州",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day14-xiamen-jiageng.html",
+          "author": null,
+          "description": "",
+          "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day14-xiamen-jiageng.html",
+          "publishedOn": "2025-08-25T02:38:57.000Z",
+          "wordCount": 118,
+          "title": "久违的暑假｜沿海自驾DAY14 - 嘉庚",
           "imageUrl": null
         },
         {
@@ -589,6 +699,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day13-xiamen-jimei.html",
+          "author": null,
+          "description": "文章记录了在厦门的图书馆、博物馆及集美学村的游览经历，体验了图书馆的静谧、博物馆的历史文化以及集美学村的中西合璧建筑，感受了厦门的文化魅力。",
+          "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day13-xiamen-jimei.html",
+          "publishedOn": "2025-08-24T05:13:05.000Z",
+          "wordCount": 126,
+          "title": "久违的暑假｜沿海自驾DAY13 - 集美",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day13-xiamen-jimei.html",
           "author": null,
           "description": "文章记录了在厦门的图书馆、博物馆及集美学村的游览经历，体验了图书馆的静谧、博物馆的历史文化以及集美学村的中西合璧建筑，感受了厦门的文化魅力。",
@@ -596,6 +716,16 @@
           "publishedOn": "2025-08-24T05:13:05.000Z",
           "wordCount": 124,
           "title": "久违的暑假｜沿海自驾DAY13 - 集美",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day12-xiamen-budao.html",
+          "author": null,
+          "description": "在厦门山海步道徒步，体验云海线和林海线的独特魅力，穿过山间与水系，感受城市与自然的完美结合，是一次难忘的旅行经历。",
+          "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day12-xiamen-budao.html",
+          "publishedOn": "2025-08-23T07:28:25.000Z",
+          "wordCount": 134,
+          "title": "久违的暑假｜沿海自驾DAY12 - 步道",
           "imageUrl": null
         },
         {
@@ -609,6 +739,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day11-xiamen-shatan.html",
+          "author": null,
+          "description": "2025年暑假，厦门环岛骑行成为了最佳旅行体验。文章详细记录了从环岛东路到白城沙滩的骑行经历，以及在演武大桥观景平台欣赏厦门湾美景的难忘时刻。",
+          "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day11-xiamen-shatan.html",
+          "publishedOn": "2025-08-21T20:02:40.000Z",
+          "wordCount": 122,
+          "title": "久违的暑假｜沿海自驾DAY11 - 沙滩",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day11-xiamen-shatan.html",
           "author": null,
           "description": "2025年暑假，厦门环岛骑行成为了最佳旅行体验。文章详细记录了从环岛东路到白城沙滩的骑行经历，以及在演武大桥观景平台欣赏厦门湾美景的难忘时刻。",
@@ -616,6 +756,16 @@
           "publishedOn": "2025-08-21T20:02:40.000Z",
           "wordCount": 120,
           "title": "久违的暑假｜沿海自驾DAY11 - 沙滩",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day10-xiamen-huandao.html",
+          "author": null,
+          "description": "2025暑假沿海自驾的第十天，探索了厦门的沿海风光与历史文化。骑行环岛路，感受海风与椰林，参观大嶝岛上的金门县政府旧址，体验厦门的浪漫与松弛。",
+          "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day10-xiamen-huandao.html",
+          "publishedOn": "2025-08-21T02:35:40.000Z",
+          "wordCount": 124,
+          "title": "久违的暑假｜沿海自驾DAY10 - 厦门",
           "imageUrl": null
         },
         {
@@ -629,6 +779,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day9-quanzhou-jinjiang.html",
+          "author": null,
+          "description": "在泉州沿海自驾的第九天，探索了永宁古城的历史文化与番仔楼，意外发现了安平桥的宏伟，以及石井镇的郑成功文化，展现了泉州丰富的历史与自然景观。",
+          "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day9-quanzhou-jinjiang.html",
+          "publishedOn": "2025-08-20T02:54:26.000Z",
+          "wordCount": 127,
+          "title": "久违的暑假｜沿海自驾DAY9 - 晋江",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day9-quanzhou-jinjiang.html",
           "author": null,
           "description": "在泉州沿海自驾的第九天，探索了永宁古城的历史文化与番仔楼，意外发现了安平桥的宏伟，以及石井镇的郑成功文化，展现了泉州丰富的历史与自然景观。",
@@ -636,6 +796,16 @@
           "publishedOn": "2025-08-20T02:54:26.000Z",
           "wordCount": 125,
           "title": "久违的暑假｜沿海自驾DAY9 - 晋江",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day8-quanzhou-shishi.html",
+          "author": null,
+          "description": "探索泉州洛阳桥的历史与建造技术，体验福建海滨的宁静与美丽，感受渔村生活与海滨风光的独特魅力。",
+          "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day8-quanzhou-shishi.html",
+          "publishedOn": "2025-08-19T02:46:43.000Z",
+          "wordCount": 123,
+          "title": "久违的暑假｜沿海自驾DAY8 - 石狮",
           "imageUrl": null
         },
         {
@@ -649,6 +819,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day7-quanzhou-shaolin.html",
+          "author": null,
+          "description": "探索泉州少林寺的历史与文化，体验南少林武术的独特魅力，并在夜晚漫步泉州古城，感受东西湖的宁静与美丽，享受一个人的旅行时光。",
+          "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day7-quanzhou-shaolin.html",
+          "publishedOn": "2025-08-18T02:49:49.000Z",
+          "wordCount": 123,
+          "title": "久违的暑假｜沿海自驾DAY7 - 少林",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day7-quanzhou-shaolin.html",
           "author": null,
           "description": "探索泉州少林寺的历史与文化，体验南少林武术的独特魅力，并在夜晚漫步泉州古城，感受东西湖的宁静与美丽，享受一个人的旅行时光。",
@@ -656,6 +836,16 @@
           "publishedOn": "2025-08-18T02:49:49.000Z",
           "wordCount": 121,
           "title": "久违的暑假｜沿海自驾DAY7 - 少林",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day6-quanzhou-xunpu.html",
+          "author": null,
+          "description": "探索泉州第六天，体验通淮关岳庙、清净寺、天后宫等历史文化景点，品尝当地美食如姜母鸭、海蛎煎，并感受晋江边的夜晚氛围。",
+          "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day6-quanzhou-xunpu.html",
+          "publishedOn": "2025-08-17T07:43:21.000Z",
+          "wordCount": 128,
+          "title": "久违的暑假｜沿海自驾DAY6 - 蟳埔",
           "imageUrl": null
         },
         {
@@ -669,6 +859,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day5-quanzhou-gucheng.html",
+          "author": null,
+          "description": "探索泉州古城的历史文化与非遗遗产，体验清源山晚茶、参观开元寺和泉州府文庙，品尝当地美食如沙茶面，欣赏非遗木偶戏，感受古城的独特魅力。",
+          "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day5-quanzhou-gucheng.html",
+          "publishedOn": "2025-08-16T02:20:39.000Z",
+          "wordCount": 130,
+          "title": "久违的暑假｜沿海自驾DAY5 - 古城",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.ops-coffee.cn/r/2025-summer-coastal-road-trip-day5-quanzhou-gucheng.html",
           "author": null,
           "description": "探索泉州古城的历史文化与非遗遗产，体验清源山晚茶、参观开元寺和泉州府文庙，品尝当地美食如沙茶面，欣赏非遗木偶戏，感受古城的独特魅力。",
@@ -676,6 +876,16 @@
           "publishedOn": "2025-08-16T02:20:39.000Z",
           "wordCount": 128,
           "title": "久违的暑假｜沿海自驾DAY5 - 古城",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day4-quanzhou-xijie.html",
+          "author": null,
+          "description": "探索泉州西街、开元寺和清源山，体验闽南特色美食和夜茶文化，感受泉州的独特魅力与生活格调。",
+          "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day4-quanzhou-xijie.html",
+          "publishedOn": "2025-08-15T00:15:18.000Z",
+          "wordCount": 125,
+          "title": "久违的暑假｜沿海自驾DAY4 - 泉州",
           "imageUrl": null
         },
         {
@@ -925,6 +1135,26 @@
       "feedUrl": "https://jimmysong.io/blog/index.xml",
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
+        {
+          "id": "https://jimmysong.io/blog/e2b-browserbase-report/",
+          "author": "Jimmy Song",
+          "description": "探索云端智能体基础设施新纪元，深入分析 E2B 与 Browserbase 的技术架构与全球趋势，助力 AI Agent 的未来发展。",
+          "link": "https://jimmysong.io/blog/e2b-browserbase-report/",
+          "publishedOn": "2025-09-03T09:16:04.000Z",
+          "wordCount": 2062,
+          "title": "云端智能体基础设施新纪元：E2B 与 Browserbase 深度调研与全球趋势分析",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.webp"
+        },
+        {
+          "id": "https://jimmysong.io/blog/kubernetes-ai-native/",
+          "author": "Jimmy Song",
+          "description": "探讨 Kubernetes 在 AI Native 时代面临的挑战，以及如何从 Cloud Native 迈向 AI Native，实现平台的持续相关性。",
+          "link": "https://jimmysong.io/blog/kubernetes-ai-native/",
+          "publishedOn": "2025-09-03T03:15:27.000Z",
+          "wordCount": 1359,
+          "title": "Kubernetes 在 AI Native 时代的挑战与转型",
+          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.webp"
+        },
         {
           "id": "https://jimmysong.io/blog/vibe-coding-tools-comparison/",
           "author": "Jimmy Song",
@@ -1438,16 +1668,6 @@
           "wordCount": 2132,
           "title": "XDP 实现所有的 TCP 端口都接受 TCP 建立连接",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=6980",
-          "author": "laixintao",
-          "description": "Django ORM 是我最喜欢的 ORM，它自带了全套数据库管理的解决方案，开箱即用。但是到了某一家公司里就 […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/6980",
-          "publishedOn": "2025-06-01T13:53:26.000Z",
-          "wordCount": 1998,
-          "title": "Django 全局禁用外键",
-          "imageUrl": null
         }
       ]
     },
@@ -1570,6 +1790,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=302832",
+          "author": "Brandon Lee",
+          "description": "I have been experimenting with SSO lately in the home lab and decided to give Authentik a try. And let me tell you, it is a crazy good self-hosted SSO solution that will likely do anything you need it to do. What’s more, we can install Authentik SSO with Docker Compose easily. Overview of Authentik …\nThe post I Added Authentik SSO to My Home Lab with Docker-Compose: Logging In Will Never Be the Same appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/09/i-added-authentik-sso-to-my-home-lab-with-docker-compose-logging-in-will-never-be-the-same/",
+          "publishedOn": "2025-09-03T12:38:46.000Z",
+          "wordCount": 10203,
+          "title": "I Added Authentik SSO to My Home Lab with Docker-Compose: Logging In Will Never Be the Same",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/09/authentik-sso-docker-compose-in-the-home-lab.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=302796",
           "author": "Brandon Lee",
@@ -3286,36 +3516,6 @@
           "wordCount": 5553,
           "title": "Model Context Protocol: Integrate Claude with Discord",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=34886",
-          "author": "Collabnix Team",
-          "description": "Testcontainers Tutorial: Docker Model Runner Guide",
-          "link": "https://collabnix.com/testcontainers-docker-model-runner-tutorial/",
-          "publishedOn": "2025-06-06T06:17:25.000Z",
-          "wordCount": 6295,
-          "title": "Testcontainers Tutorial: Docker Model Runner Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=34769",
-          "author": "Tanvir Kour",
-          "description": "Discover how eSIM technology boosts IoT device connectivity, enabling global, secure, and scalable integration across DevOps, cloud, and smart systems.",
-          "link": "https://collabnix.com/the-role-of-esim-in-improving-iot-device-connectivity/",
-          "publishedOn": "2025-06-05T19:38:02.000Z",
-          "wordCount": 5123,
-          "title": "The Role of eSIM in Improving IoT Device Connectivity",
-          "imageUrl": "https://i0.wp.com/collabnix.com/wp-content/uploads/2025/05/ChatGPT-Image-May-6-2025-07_16_47-PM.png"
-        },
-        {
-          "id": "https://collabnix.com/?p=34603",
-          "author": "Collabnix Team",
-          "description": "As artificial intelligence continues to transform industries and reshape how we work, two key terms have emerged that often confuse both technical professionals and business leaders: generative AI and agentic AI. While these technologies may seem similar on the surface, they serve fundamentally different purposes and operate in distinct ways. Understanding the difference between generative […]",
-          "link": "https://collabnix.com/what-is-the-difference-between-generative-ai-and-agentic-ai-a-complete-guide/",
-          "publishedOn": "2025-06-04T18:00:25.000Z",
-          "wordCount": 5970,
-          "title": "What is the Difference Between Generative AI and Agentic AI? A Complete Guide",
-          "imageUrl": null
         }
       ]
     },
@@ -4154,6 +4354,16 @@
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
         {
+          "id": "https://dusays.com/825/",
+          "author": null,
+          "description": "<blockquote>\n<p>刚从合肥返京，就收到了天津出差任务。虽然京津距离不远，但杜老师平时工作较忙，周末一般都在家睡懒觉，所以也是想着趁此机会游玩一下！分享给未来过天津的小伙伴，大家来云旅游~</p>\n</blockquote>",
+          "link": "https://dusays.com/825/",
+          "publishedOn": "2025-09-03T16:00:00.000Z",
+          "wordCount": 477,
+          "title": "天津游记「多图预警」",
+          "imageUrl": "https://cdn.dusays.com/avatar.png"
+        },
+        {
           "id": "https://dusays.com/824/",
           "author": null,
           "description": "<blockquote>\n<p>时隔一年，又一次来到了安徽省会——合肥。这次出差的时间很灵活，杜老师有半天时间可以到附近景区逛一逛，就特地带了单反相机拍了些照片。本文整理了几张特色的美照，特邀杜老师的另一半帮忙配的介绍文，感兴趣的小伙伴可进来一看！</p>\n</blockquote>",
@@ -4302,16 +4512,6 @@
           "wordCount": 1285,
           "title": "Temp Mail 评测：兼具隐私和便捷性的最佳临时电子邮件服务",
           "imageUrl": "https://cdn.dusays.com/favicon.ico"
-        },
-        {
-          "id": "https://dusays.com/810/",
-          "author": null,
-          "description": "<blockquote>\n<p>1Panel 作为新一代的服务器管理面板，为 Linux 服务器运维提供了一个舒适便捷的 Web 图形界面。为了方便移动办公，1Panel 推出了 APP 移动端，目前还在测试阶段，不过足以满足大多数用户的需求。</p>\n</blockquote>",
-          "link": "https://dusays.com/810/",
-          "publishedOn": "2025-06-05T16:00:00.000Z",
-          "wordCount": 434,
-          "title": "1Panel 全新移动 APP 上线",
-          "imageUrl": "https://cdn.dusays.com/avatar.png"
         }
       ]
     },
@@ -5235,16 +5435,6 @@
           "wordCount": 13527,
           "title": "fdisk/parted创建与删除分区",
           "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6404",
-          "author": "anzhihe",
-          "description": "[real3dflipbook id=\"80\"]\r\n\r\n\r\n\n相关参考：\n\n中国古代中央政治制度(一张图)\n\n\n中国古今官职对照\n\n中国历代官制简表\n\n中国历代帝王世系与年号总表",
-          "link": "https://chegva.com/6404.html",
-          "publishedOn": "2025-06-02T21:46:45.000Z",
-          "wordCount": 9351,
-          "title": "从秦朝到清朝历代官制与军事体系图解合集",
-          "imageUrl": null
         }
       ]
     },
@@ -5333,36 +5523,6 @@
           "publishedOn": "2025-06-10T00:00:00.000Z",
           "wordCount": 1626,
           "title": "终端模拟器的文字绘制",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jia.je/hardware/2025/06/06/huawei-matebook-pro/",
-          "author": null,
-          "description": "鸿蒙电脑 MateBook Pro 开箱体验¶\n购买¶\n2025.6.6 号正式开卖，当华为线上商城显示没货的时候，果断去线下门店买了一台回来。购买的是 32GB 内存，1TB SSD 存储，加柔光屏的版本，型号 HAD-W32，原价 9999，国补后 7999。\n\n开箱¶\n由于用了国补，需要当面激活，就在店里直接激活了，所以没有体验到鸿蒙系统的扫码激活功能，有点可惜。激活前的第一次开机需要插电，直接按电源键是没有反应的。激活过程也很简单，联网，创建用户，登录华为账号，输入指纹，就可以了。包装盒里还有 140W 单口 Type-C 电源适配器，体积挺小的。此外附赠了一条 Type-C to Type-C 的线，还有一个 Type-C 有线耳机，外加一个 Type-A 母口加 Type-C 公口的线，可以用来接 Type-A 公口的外设。此外还有快速指南和一个超纤抛光布。店家还贴心地提供了一个虚拟机的安装教程。\n外形上，就是 MateBook X Pro 加了一个 HarmonyOS 的标识，上手很轻，不愧是不到一公斤的笔记本，对于习惯用 MacBookAir 轻薄本的我来说，是很大的一个亮点。不像 MacBookAir，这台鸿蒙电脑有风扇，有点小小的不习惯，但还算安静。\n系统体验¶\n预装的版本是 HarmonyOS 5.0.1.305，有更新 5.0.1.310 SP9，首先更新了一下系统。这是我的第一台支持触屏的笔记本，所以用起来还有点新奇。这个柔光屏用起来触感不错，和之前买的柔光屏 MatePad 的触感类似。\n底部状态栏的颜色会随着情况变化，比如在桌面的时候，默认壁纸是黑色的，状态栏也就是黑色的。如果打开了设置，设置是白色的，状态栏也就是白色的。之后可以多测试一下它具体的变色逻辑。\n系统里预装了 WPS Office，迅雷，亿图，中望 CAD，剪映，好压，抖音等，面向…",
-          "link": "https://jia.je/hardware/2025/06/06/huawei-matebook-pro/",
-          "publishedOn": "2025-06-06T00:00:00.000Z",
-          "wordCount": 705,
-          "title": "鸿蒙电脑 MateBook Pro 开箱体验",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jia.je/hardware/2025/06/06/using-fortran-on-harmonyos-5/",
-          "author": null,
-          "description": "在 HarmonyOS 5 上运行 Fortran 程序¶\n背景¶\n前段时间把 SPEC CPU 2017 移植到了鸿蒙 5 上：https://github.com/jiegec/SPECCPU2017Harmony，由于 SPEC CPU 2017 里有不少 Fortran 程序，所以就研究了一下怎么编译 Fortran 代码，最终搞成了，在这里记录一下。\n\n过程¶\nHarmonyOS 5 的工具链用的是 LLVM 15，自带的编译器是 clang，那个时候还没有 LLVM flang。但是，经过实际测试，使用新版本的 flang，也是可以的，只是需要做一些额外的操作。例如 flang 有自己的 runtime（类比 libgcc 和 LLVM 的 compiler-rt），需要交叉编译一个 arm64 的版本，下面是仓库中 build-flang.sh 的内容：\n\n#!/bin/sh# build missing libraries for aarch64-linux-ohos target# assume llvm-project is cloned at $HOME/llvm-projectset -x -emkdir -p flangexport PATH=~/command-line-tools/sdk/default/openharmony/native/llvm/bin:$PATHDST=$PWD/flangcd $HOME/llvm-projectgit checkout main# match hash in flang-new-20 --versiongit reset 7cf14539b644 --hardcd libunwindrm -rf buildmkdir -p buildcd buildcmake .. -G Ninja \\ -DCMAK…",
-          "link": "https://jia.je/hardware/2025/06/06/using-fortran-on-harmonyos-5/",
-          "publishedOn": "2025-06-06T00:00:00.000Z",
-          "wordCount": 463,
-          "title": "在 HarmonyOS 5 上运行 Fortran 程序",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jia.je/hardware/2025/06/05/arm-neoverse-n1-btb/",
-          "author": null,
-          "description": "ARM Neoverse N1 (代号 Ares) 的 BTB 结构分析¶\n背景¶\nARM Neoverse N1 是比较早的一代 ARM 服务器的处理器，它在很多地方都和 Cortex-A76 类似。它的 BTB 结构比较有意思，所以在这里对它的 BTB 做一些分析。\n\n官方信息¶\n首先收集了一些 ARM Neoverse N1 的 BTB 结构的官方信息：\n\nArm Neoverse N2: Arm’s 2nd generation high performance infrastructure CPUs and system IPs 中对 Neoverse N1 的介绍：\nBranch Prediction Width: 8 instrs\nNano BTB (0 cyc taken-branch bubble): 16 entry\nMain BTB: 6K entry\n\nThe Arm Neoverse N1 Platform: Building Blocks for the Next-Gen Cloud-to-Edge Infrastructure SoC 的介绍：\n6K entry Main BTB, 3 cycle access latency\n64-entry Micro BTB\n16-entry Nano BTB\n4-way set associative 64KB L1 ICache\n\n\n简单整理一下官方信息，大概有三级 BTB：\n\n16-entry Nano BTB, 1 cycle latency (0 cycle bubble)\n64-entry Micro BTB\n6K-entry Main BTB, 3 cycle latency\n\n但是很多细节是缺失的，因此下面结合微架构测试，进一步研究它的内部结构。\n微架构测试¶\n在之前的博客里，我们已经测试…",
-          "link": "https://jia.je/hardware/2025/06/05/arm-neoverse-n1-btb/",
-          "publishedOn": "2025-06-05T00:00:00.000Z",
-          "wordCount": 2459,
-          "title": "ARM Neoverse N1 (代号 Ares) 的 BTB 结构分析",
           "imageUrl": null
         }
       ]
