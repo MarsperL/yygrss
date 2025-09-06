@@ -56,6 +56,16 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
+          "id": "https://daverupert.com/2025/09/why-would-anybody-start-a-website/",
+          "author": null,
+          "description": "Nilay Patel sat down for a Decoder interview with Microsoft CTO Kevin Scott to talk about NLWeb, an open source effort to allow an LLM-style indexing of small websites and provide local search. Instead of having large centralized search indexes like Google or Bing, the indexing shifts to sites having their own local indexes that large search platforms hook into via an MCP, an API endpoint for LLMs (basically). Lots to unpack there, but at first glance I like the idea of local ownership of search indexes over the “scrape everything” model that’s killing the Open Web.\nI was listening to the episode because it’s relevant to my work, but I also like Nilay Patel’s perspective and think he has a sober 10,000ft view of the tech industry; without fawning over CEOs, new tech, and VC hype. That is r…",
+          "link": "https://daverupert.com/2025/09/why-would-anybody-start-a-website/",
+          "publishedOn": "2025-09-05T13:30:00.000Z",
+          "wordCount": 1464,
+          "title": "“Why would anybody start a website?”",
+          "imageUrl": null
+        },
+        {
           "id": "https://daverupert.com/2025/08/git-diagramming-the-weave/",
           "author": null,
           "description": "We all know the current US President is one hell of an orator and often assures us that he has “the best words”:\nI went to an Ivy League school. I’m very highly educated. I know words. I have the best words.\nThe man knows words. Says so right there. While some might view his non-sequitur ramblings as the nascent stages of dementia or an unfiltered ADHD brain launching into successive short (at times racist) bullet-point diatribes based on the last word or phrase he said like a cursed game of word association, the President asserts this is not the case:\nYou know, I do the weave. You know what the weave is? I’ll talk about, like, nine different things, and they all come back brilliantly together. And it’s like - and friends of mine that are, like, English professors - they say, it’s the most…",
@@ -1801,6 +1811,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=302859",
+          "author": "Brandon Lee",
+          "description": "They say that you learn more from mistakes than when things go successfully. I can definitely attest to that fact. I have had some horrible crash and burns in the home lab. But, when the smoke clears and dust settles I have come out a better engineer for it. Mistakes are difficult and challenging sometimes …\nThe post 10 Home Lab Mistakes I Made (So You Don’t Have To) appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/09/10-home-lab-mistakes-i-made-so-you-dont-have-to/",
+          "publishedOn": "2025-09-05T13:58:13.000Z",
+          "wordCount": 11622,
+          "title": "10 Home Lab Mistakes I Made (So You Don’t Have To)",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/09/best-home-lab-mistakes.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=302761",
           "author": "Brandon Lee",
           "description": "Traefik is one of my favorite reverse proxies and it stands out for a number of reasons, including how easy it is to use it with infrastructure as code and have your certs as part of your general docker configuration. However, one of the other things that is very cool about it is that there …\nThe post Best Traefik Plugins for Home Lab and Production (My Top Picks) appeared first on Virtualization Howto.",
@@ -2377,6 +2397,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=51907",
+          "author": "Collabnix Team",
+          "description": "Understanding how Kubernetes allocates GPUs to workloads is crucial for anyone working with AI/ML applications or high-performance computing. This comprehensive guide explores the intricate mechanisms behind GPU allocation in Kubernetes, from the device plugin framework to the complete allocation process. Overview: The GPU Allocation Challenge Traditional Kubernetes was designed for CPU and memory resources, which […]",
+          "link": "https://collabnix.com/how-gpu-allocation-to-kubernetes-works-deep-dive-into-the-mechanism/",
+          "publishedOn": "2025-09-05T09:02:45.000Z",
+          "wordCount": 3780,
+          "title": "How GPU Allocation to Kubernetes Works: Deep Dive into the Mechanism",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=51903",
+          "author": "Collabnix Team",
+          "description": "As we advance through 2025, the convergence of Kubernetes and GPU acceleration has become the cornerstone of modern AI/ML infrastructure. With “Kubernetes AI” emerging as the most searched term (experiencing a 300% increase in search volume), organizations are rapidly adopting GPU-enabled Kubernetes clusters to power their machine learning workloads. This comprehensive guide explores the trending […]",
+          "link": "https://collabnix.com/kubernetes-and-gpu-the-complete-2025-guide-to-ai-ml-acceleration/",
+          "publishedOn": "2025-09-05T08:56:35.000Z",
+          "wordCount": null,
+          "title": "Kubernetes and GPU: The Complete 2025 Guide to AI/ML Acceleration",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=51314",
           "author": "Tanvir Kour",
@@ -3516,16 +3556,6 @@
           "wordCount": 7165,
           "title": "Agentic AI Trends 2025: The Complete Guide to Autonomous Intelligence Revolution",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=35205",
-          "author": "Ajeet Raina",
-          "description": "As Discord continues to evolve as the primary platform for community building, gaming, and collaboration, the need for intelligent automation and AI-powered community management becomes increasingly important. The Model Context Protocol (MCP) opens up exciting possibilities for integrating AI assistants like Claude directly with Discord servers, enabling sophisticated bot interactions, content moderation, and community engagement […]",
-          "link": "https://collabnix.com/docker-mcp-toolkit-guide-integrating-claude-desktop-with-discord-servers/",
-          "publishedOn": "2025-06-08T08:05:46.000Z",
-          "wordCount": 5553,
-          "title": "Model Context Protocol: Integrate Claude with Discord",
-          "imageUrl": null
         }
       ]
     },
@@ -4120,26 +4150,6 @@
           "publishedOn": "2025-06-10T14:06:00.000Z",
           "wordCount": 570,
           "title": "YB",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://www.skyue.com/25060818.html",
-          "author": "拾月",
-          "description": "分享几个近期好物。",
-          "link": "https://www.skyue.com/25060818.html",
-          "publishedOn": "2025-06-08T10:49:00.000Z",
-          "wordCount": 563,
-          "title": "好物推荐：印章、镜头、水果叉",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://www.skyue.com/25060809.html",
-          "author": "拾月",
-          "description": "老板英文名叫Nick，用了电影《疯狂动物城》的Nick做头像。周五下午在团队小群突然聊到大家的头像，有人提议要不要都换《疯狂动物城》里的动物做头像，我突发奇想，干脆都换Nick的不同风格头像更好...",
-          "link": "https://www.skyue.com/25060809.html",
-          "publishedOn": "2025-06-08T01:41:00.000Z",
-          "wordCount": 543,
-          "title": "Fox Day",
           "imageUrl": ""
         }
       ]
@@ -5071,6 +5081,16 @@
       "feedUrl": "https://panzhixiang.cn/atom.xml",
       "siteUrl": "https://panzhixiang.cn/atom.xml",
       "articles": [
+        {
+          "id": "https://panzhixiang.cn/2025/ai-era-engineer-gap/",
+          "author": null,
+          "description": "记录一下关于AI时代下资深工程师与新人之间的差距感想，分享了一点自己的经验，试着分析了技术广度与深度的平衡，以及AI对工程师职业发展的影响",
+          "link": "https://panzhixiang.cn/2025/ai-era-engineer-gap/",
+          "publishedOn": "2025-09-04T16:00:00.000Z",
+          "wordCount": 197,
+          "title": "AI时代，到底是拉近了还是拉大了资深工程师与新人的差距？",
+          "imageUrl": "https://blog.panzhixiang.cn/images/how-junior-grow-up-in-ai-era.png"
+        },
         {
           "id": "https://panzhixiang.cn/2025/douyin/",
           "author": null,
