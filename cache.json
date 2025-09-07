@@ -243,6 +243,26 @@
       "siteUrl": "https://lawtee.com/",
       "articles": [
         {
+          "id": "https://lawtee.com/article/one-million-works/",
+          "author": null,
+          "description": "昨天在 QQ 群看到朋友说我码字已经超 100 万。确实，截止目前，Hugo 统计 359 篇文章，已合计 1036977 字。其实这个统计在到八九十万的时候，我还是比较关注，毕竟很快要到 100 万，心里还有点激动。但真等到后边恰好破百万时，又没怎么在意了。这让我想到心理学中的目标达成悖论：人们往往在追求目标时投入巨大情感，真正实现后却可能产生空虚感。\n回顾码字经历\n\n这次码字破 100 万，也许是个迟来的“成就”。毕竟，熟悉老T的老朋友，特别是从 2008 年开始一起加入 Blogfans 的老兄弟们，都知道我曾经多次大量删除过以往的文章。按照老T在 2017 年留下的老 Mysql 数据库统计，当时字数就已经有 114 万，只是当年并没有去想过这个问题。而如今留下的这些内容里边，属于 2017 年以前写的，占原本比例应该不足 1/4 。不过，不管怎样，这次破 100 万，对自己来说还是有一定纪念意义。\n\n\n最初想法\n\n回顾老T 2008 年以来码字的经历，我想正是印证了最初写下的那句 When each sunrise, we start a new. 虽然在当年，这句话更多表达的是新生之意，晨光初启、新途又始。到后来，随着日复一日的坚持更新，这句话逐渐演变为红日再升、新章复启。如今，站在新的起点，我更多的在想，这很可能又是一个破晓之时，需要境界新开了。\n\n\n\n 1\n 2\n 3\n 4\n 5\n 6\n 7\n 8\n 9\n10\n11\n12\n\n\n\n---\ntitle: \"您好, 世界!\"\nslug: \"hello-world\"\ndate: 2008-05-21\ncategories: [\"技术\"]\ntags: [\"WordPress\"]\n---\n\n经过十多小时从零开始的学习，我终于开通了自己的第一个网站。\n在这里我要特别感谢抓抓，要是没有他在最后一刻发出的消息免费提供了本网站的…",
+          "link": "https://lawtee.com/article/one-million-works/",
+          "publishedOn": "2025-09-06T01:30:00.000Z",
+          "wordCount": 196,
+          "title": "码字百万之际—开通个人微信订阅号",
+          "imageUrl": "https://lawtee.com/article/one-million-works/0.webp"
+        },
+        {
+          "id": "https://lawtee.com/article/why-1000m-bandwith-tesed-300m/",
+          "author": null,
+          "description": "2020年，老T曾以这个标题写过一篇简单的 文章，主要是因为当年在百度上搜索这个问题答案时，找到的都是千篇一律洗稿内容，鲜有能够讲清这个问题的文章。\n甚至可以说，当时网上大多数关于这个问题的解答都是在瞎扯。有些讨论下边，还各种对提问者挖苦、讥讽，认为提问者丝毫不懂网络常识，但又不给出解决问题的思路办法。由于当年老T也恰好遇到这个问题，便进行一番研究。\n现今5年过去，国内网络环境又与此前有了一些不同，千兆宽带已成标配，甚至万兆宽带也开始进入部分家庭，老T觉得有必要重新对这个问题进行梳理。\n为何1000M光纤宽带，测速只有300M？\n\n当年老T遇到这个问题，首要原因就出在路由器上。\n在1000M光纤刚开始进入千家万户的时候，由于多数家庭用户还在使用旧型号路由器，有些路由器虽然参数上写着支持 1000Mbps 网口，但那个网速只是供内网传输使用的，内外网之间的速度并不能达到 1000M。\n也就是说，在内网配置没有明显问题的情况下，用户将两台电脑同时用网线连接到路由器时，这两台电脑之间的内网传输速度能够达到 1000Mbps。\n而当用户通过这台路由器连接外网时，这时由于路由器内部芯片处理能力限制，传输速度就会骤减至 300-500Mbps。\n老T 画了个示意图，争取把这个逻辑展示清楚。\n\n\n5年前，不少家庭用户都是因为这个情况导致测速结果达不到运营商标称的速度。\n例如：\n网件 R7000 WAN TO LAN 最大速率：931 Mbps \n网件 R6300v2 WAN TO LAN 最大速率：806 Mbps \n华硕 AC68U WAN TO LAN 最大速率: 754.5 Mbps \nTP-LINK TGR1900 WAN TO LAN 最大速率: 631 Mbps\n网件 R6100 WAN TO LAN 最大速率: 93.1 Mbps\n不过，当年老T 遇到的问题比这个还稍微复杂…",
+          "link": "https://lawtee.com/article/why-1000m-bandwith-tesed-300m/",
+          "publishedOn": "2025-09-05T03:30:00.000Z",
+          "wordCount": 238,
+          "title": "为何1000M宽带，有时候测速只有300M（二）",
+          "imageUrl": "https://lawtee.com/article/why-1000m-bandwith-tesed-300m/1.webp"
+        },
+        {
           "id": "https://lawtee.com/article/china-military-parade/",
           "author": null,
           "description": "纪念中国人民抗日战争暨世界反法西斯战争胜利80周年阅兵仪式在昨日隆重举行。老话说，国之大事，在祀与戎，而和平年代的阅兵式，正是这两件事的完美结合。作为当今世界最受关注的事件，老T在网上冲浪过程中，也看到不少外国人的评价，其中很多都比较有意思，这里也简单跟大家分享一下。\n俄罗斯人如何看待93阅兵\n\n老T在日常混迹的多个技术论坛上都看到有人发贴讨论中国的阅兵式，其中最典型的评论就是：“看吧，中国果然没有向俄罗斯提供武器，不然战争局面早就改写了。” 由于在多个平台都看到这种评论，老T也感觉摸不着头脑。只能说，相比西方媒体这些年大肆宣扬的“中国威胁论”，西方民间对俄罗斯的恐惧感，确实是入心入肺了。\n\n\n由于我们这一代人都在亲身经历中国工业现代化进程，对国内的制造能力早已有充分认识。哪怕按照最朴素的唯物主义思维也知道，一个常住人口和GDP都比不过广东的国家，制造能力显然跟中国有巨大差距。\n但西方老百姓长期受媒体偏见影响，对中国的这种能力认识还是存在较大偏差。而此次阅兵展示，一定程度上也算是在帮他们纠偏。\n不过，在这过程中，我也很好奇，就是作为这种评论里的另一方，俄罗斯人会如何看待中国阅兵呢？\n老T特意找了些懂俄语的朋友帮忙，也翻了翻俄罗斯两大社交平台 VK.com 和 Pikabu.ru，了解下到底俄罗斯普通网友有何观后感。\n“大受震撼”的技术派\n主要评论包括： “规模惊人！技术顶尖！” “正步完美，装备像科幻片” “机器狗和核导弹？中国准备好应对一切了” “水下无人机和机器人才是未来战争，中国AI武器领先了” “新型坦克配高超音速导弹…北约想清楚要和谁打了吗？”\n\n\n\n照老T说，这反应在我们这边看来也还算实在。我们天天看着“下饺子” 新装备官宣，可能有点习以为常了。但对俄罗斯人来说，这次阅兵式上展示的装备，特别是高超音速、无人机、AI 这些新装备，确实刷新了他们的认知，甚至带点羡慕…",
@@ -1678,16 +1698,6 @@
           "wordCount": 1579,
           "title": "c100m 问题",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.kawabangga.com/?p=7015",
-          "author": "laixintao",
-          "description": "一个 XDP 练习程序：作为 TCP 的 server 端，用 XDP 实现所有的 TCP 端口都接受 TCP […]\nContinue reading...",
-          "link": "https://www.kawabangga.com/posts/7015",
-          "publishedOn": "2025-06-08T15:57:48.000Z",
-          "wordCount": 2132,
-          "title": "XDP 实现所有的 TCP 端口都接受 TCP 建立连接",
-          "imageUrl": null
         }
       ]
     },
@@ -2379,16 +2389,6 @@
           "wordCount": 10488,
           "title": "OmniTools: A Swiss Army Knife of Self-Hosted Utilities",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/06/omnitools-swiss-army-knife-self-hosted-utilities.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=301463",
-          "author": "Brandon Lee",
-          "description": "Knowing what is on your network is a huge part of network security. We can document devices and other aspects of the network. However, what if a device appears on the network unannounced or not really in an expected way. Do you have visibility on this? I have been a huge advocate for ARP alert …\nThe post NetAlertX Self-Hosted Network Monitoring for Home Labs appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/06/netalertx-self-hosted-network-monitoring-for-home-labs/",
-          "publishedOn": "2025-06-09T13:49:16.000Z",
-          "wordCount": 10403,
-          "title": "NetAlertX Self-Hosted Network Monitoring for Home Labs",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/06/netalertx-self-hosted-network-monitoring.png"
         }
       ]
     },
@@ -4193,21 +4193,6 @@
           "wordCount": 486,
           "title": "毕业季回响",
           "imageUrl": null
-        },
-        {
-          "id": "https://bluehe.cn/archives/pompeii-ancient-city",
-          "author": "寻鹤",
-          "description": "在广西壮族自治区博物馆举办了，凝固的时光—意大利那不勒斯国家考古博物馆藏庞贝文物特展，很早就买了早鸟票，值不值大家可以评价。成人45，优待30，文物并不是很多，2025年6月1日前往，看到在10:30分会有官方的讲解员为大家介绍，而我们正好在10:20分抵...",
-          "link": "https://bluehe.cn/archives/pompeii-ancient-city",
-          "publishedOn": "2025-06-09T08:10:00.000Z",
-          "wordCount": 562,
-          "title": "庞贝古城：火山灰下的封印",
-          "enclosure": {
-            "url": "https://bluehe.cn/usr/uploads/2025/06/3540863769.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bluehe.cn/usr/uploads/2025/06/3540863769.jpg"
         }
       ]
     },
@@ -4355,16 +4340,6 @@
           "wordCount": 153,
           "title": "2025年6月阅读书摘",
           "imageUrl": "https://images.unsplash.com/photo-1506880018603-83d5b814b5a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDN8fHJlYWQlMjBib29rfGVufDB8fHx8MTc1MjMxOTc1OHww&ixlib=rb-4.1.0&q=80&w=2000"
-        },
-        {
-          "id": "6844f1736c5c200996582262",
-          "author": "Domon",
-          "description": "当我们感到悲伤，无法再忍受生活，一棵树就会对我们说：安静，安静！看着我！生活既非容易，生活亦非艰难。让神在你心里说话吧，那些妄念就会沉默。你慌了，因为你走的路偏离母亲和故乡；但其实你的每一步、每一天，又将你拉近母亲身边。故乡不在此处或彼处，除了在你心中，故乡不会在任何地方。",
-          "link": "https://www.domon.cn/2025-5yue-yue-du-shu-zhai/",
-          "publishedOn": "2025-06-08T02:22:13.000Z",
-          "wordCount": 146,
-          "title": "2025年5月阅读书摘",
-          "imageUrl": "https://images.unsplash.com/photo-1610116306796-6fea9f4fae38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDd8fGJvb2tzfGVufDB8fHx8MTc0OTM1MTA4MXww&ixlib=rb-4.1.0&q=80&w=2000"
         }
       ]
     },
@@ -4716,16 +4691,6 @@
           "publishedOn": "2025-06-17T09:16:58.000Z",
           "wordCount": 867,
           "title": "使用blackbox-exporter做域名监控",
-          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
-        },
-        {
-          "id": "https://zahui.fan/posts/sxl41q/",
-          "author": null,
-          "description": "<p><img src= \"https://static.zahui.fan/public/nes.gif\" data-lazy-src=\"https://static.zahui.fan/images/20250609183441693.png\" alt=\"image.png\"></p>\n<p>ALTER TABLE vehicle_user_role CONVERT TO CHARACTER",
-          "link": "https://zahui.fan/posts/sxl41q/",
-          "publishedOn": "2025-06-09T10:34:38.000Z",
-          "wordCount": 491,
-          "title": "MySQL字符集转换导致",
           "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
         }
       ]
@@ -5307,6 +5272,16 @@
       "siteUrl": "https://chegva.com",
       "articles": [
         {
+          "id": "https://chegva.com/?p=6385",
+          "author": "anzhihe",
+          "description": "天涯莲蓬鬼话小说精选，《鬼吹灯》《盗墓笔记》这些就不用说了，友情提醒：胆小者、唯物主义者慎看哦\n《我當道士那些年》\n作者：仐三\n\n\n符籙、虎爪、靈玉、鎖魂結、引魂燈、聚陰地、修仙、崑崙……道家源流傳承千年，未必一切只是傳說！\n\n因為踩著正午十二點出生擁有天生的童子命，讓嬰兒時期的我被百鬼纏身，父母尋訪了村子裡的高人，我的師父── 一個高深莫測的真正道士，註定了我這輩子要做道士。跟著師傅修練闖蕩，遇見冤魂、厲鬼、蛇靈、餓鬼墓……此乃區區小事，苗疆蠱術、神秘的川地南部養屍地、人人聞之色變的滅村傳說……原來平常保衛國家的，除了軍人之外，還有道術的山、醫、命、卜這些派系傳人，玄學世界的神秘面紗即將被揭開……\n\n《我在泰国卖佛牌的那几年》\n作者：鬼店主\n\n鬼这东西，很多人信，也有很多人不信，世界上有太多事情根本无法用科学方式来解释和回答。我本是个无神论者，可一次无意间到泰国的旅游经历，却完全改变了我的命运。我不但信了鬼，而且还在泰国开店卖鬼。你没看错，别人都是捉鬼，而我是卖鬼。\n\n《苗疆蛊事》\n作者：南无袈裟理科佛\n\n\n巫蛊之祸，自西汉起延续几千年，屡禁不止，直至如今，在大中国，唯有乡野之民谈及。而巫蛊降头茅山之术，偏偏在东南亚各地盛行，连香港、台湾之地，也繁荣昌盛，流派纷起。诸位好友，真的认为华夏大地无奇人焉？否！否！否！我会告诉你我就是一个来自苗疆的养蛊人么？\n\n《苗疆蛊事Ⅱ》又名《苗疆蛊事之世界尽头》\n\n苗疆青年陆言，回乡途中，误被人害，下了恐怖之蛊毒，在生死求存之中，却发现自家亲戚之中，居然有一位更加恐怖的苗疆养蛊人，而倒霉的是，求医问药的他陷入了一场关于某位大人失踪的悬疑奇案之中，挣脱不得……\n天山之后，并非末法，旧人落，新人出，黑恶势力卷土重来，曾经的朋友却化身做了敌人，危机重重，幕后黑手呼之欲出，又有域外势力逐鹿中原，上演八国联军之态势，华夏黯淡，谁能扛起新时代的旗帜，…",
+          "link": "https://chegva.com/6385.html",
+          "publishedOn": "2025-09-05T12:26:50.000Z",
+          "wordCount": 8800,
+          "title": "天涯莲蓬鬼话小说精选",
+          "imageUrl": null
+        },
+        {
           "id": "https://chegva.com/?p=6506",
           "author": "anzhihe",
           "description": "问题\n无法从以下任一项中本地卸载 MA：\n\nWindows 程序和功能控制面板\n\n命令提示符\n\n当您尝试卸载 MA 时，会显示以下错误：\n\nMcAfee Agent cannot be removed because other products are still using it\n注意: 如果客户端计算机上未安装其他 McAfee 企业版产品，则可能会发生此问题。\n原因\n当 MA 处于 托管模式时，会发生此错误。\n这种行为是设计使然，以防止用户删除代理。\nMA 以两种模式运行：\n\n托管模式 - MA 与 ePolicy Orchestrator （ePO）进行连接并与之通信，以管理 McAfee Enterprise 产品更新。\n\n非托管模式 - MA 不会与 ePO 连接或通信，而是从 McAfee Enterprise HTTP 服务器提取更新。\n\n解决\n1、停止McAfee服务：\n按 Windows 键 + R，键入 services.msc ，然后停止 MA 相关服务。\n\n2、卸载McAfee服务：\n将计算机退出托管模式，删除任何依存该代理的托管产品，然后再尝试卸载该代理：\n\n以管理员身份打开命令提示符：\n\n\n按 Windows 键 + R，键入 cmd ，然后按 Enter 键。\n\n如果出现用户帐户控制对话框，请确认其显示的操作是您想要的，然后单击继续。\n\n\n\n在客户端计算机上，访问该 frminst 文件。在命令窗口中，键入以下内容：\n64位操作系统：CD C:\\Program Files\\Mcafee\\Agent\\x86\\，32位操作系统：CD C:\\Program Files\\Mcafee\\Agent\\\n\n键入以下命令。，然后按 Enter 键：frminst.exe /remove=agent\n\nClose the command prompt.\n\n从客户端计算机中删除所有 McAfee Enterprise 托管产品。 示例：\n\n\nEndpoint Security\n\nVirusScan Enterprise\n\nEndpoint Encryption\n\n\n\n可选：从客户端计算机中删除 McAfee Framework Service 通过 程序和功能。\n\n\n\n参考：\n\nhttps://thrive.trellix.com/s/article/KB60556?language=zh_CN\n\n\n处于托管模式时无法删除mcafee解决办法",
@@ -5474,16 +5449,6 @@
           "publishedOn": "2025-06-14T16:44:52.000Z",
           "wordCount": 10728,
           "title": "《死亡诗社》经典台词",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6374",
-          "author": "anzhihe",
-          "description": "fdisk新建分区操作流程\n目标示例：在 /dev/sdb 磁盘上创建大小为 300G 的新分区 /dev/sdb1，类型为 Linux LVM（8e）。\n1. 启动 fdisk\nfdisk /dev/sdb   # 替换为目标磁盘（如 /dev/sdc）\n2. 查看现有分区表（可选）\nCommand (m for help): p   # 打印当前分区信息\n3. 创建新分区\nCommand (m for help): n    # 新建分区\n\n设置选择分区类型\n\nSelect (default p): p    # 主分区（p）或扩展分区（e）\n\n设置分区号（默认自动分配）：\n\nPartition number (1-4, default 1): 1   # 输入分区号（如1）\n\n指定起始扇区（默认从磁盘空闲位置开始）：\n\nFirst sector (2048-209715199, default 2048): [回车]  # 默认起始位置\n\n指定分区大小：\n\nLast sector, +/-sectors or +/-size{K,M,G,T,P}: +300G  # 结束位置或直接指定大小\n4. 修改分区类型（可选）\n例如设置为 Linux LVM（类型代码 8e）：\nCommand (m for help): t    # 更改分区类型\r\nSelected partition 1       # 选择刚创建的分区（如1）\r\nHex code (type L to list): 8e  # 输入类型代码（LVM为8e，Linux文件系统为83）\n5. 保存并退出\nCommand (m for help): w   # 写入分区表并退出\n警告：输入 w 前请确认操作无误！若需放弃修改，输入 q 退出。\n6. 刷新分区表\npartprobe /dev/sdb   # 让系…",
-          "link": "https://chegva.com/6374.html",
-          "publishedOn": "2025-06-09T13:20:30.000Z",
-          "wordCount": 13527,
-          "title": "fdisk/parted创建与删除分区",
           "imageUrl": null
         }
       ]
