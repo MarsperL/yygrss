@@ -1186,6 +1186,16 @@
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
         {
+          "id": "https://jimmysong.io/blog/ai-ide-factions-and-vibe-coding/",
+          "author": "Jimmy Song",
+          "description": "探索 AI IDE 的关键分野，了解规格驱动、模式设计与云端联动如何影响开发者的选择与工程落地。",
+          "link": "https://jimmysong.io/blog/ai-ide-factions-and-vibe-coding/",
+          "publishedOn": "2025-09-07T06:16:49.000Z",
+          "wordCount": 1679,
+          "title": "AI IDE 的关键分野：Spec、模式、云端与模型选择",
+          "imageUrl": "https://assets.jimmysong.io/images/blog/ai-ide-factions-and-vibe-coding/banner.webp"
+        },
+        {
           "id": "https://jimmysong.io/blog/e2b-browserbase-report/",
           "author": "Jimmy Song",
           "description": "探索云端智能体基础设施新纪元，深入分析 E2B 与 Browserbase 的技术架构与全球趋势，助力 AI Agent 的未来发展。",
@@ -2398,6 +2408,26 @@
       "siteUrl": "https://collabnix.com",
       "articles": [
         {
+          "id": "https://collabnix.com/?p=52258",
+          "author": "Collabnix Team",
+          "description": "As artificial intelligence and machine learning workloads continue to dominate modern computing infrastructure, efficiently managing GPU resources in Kubernetes clusters has become critical for organizations looking to maximize performance while controlling costs. With GPU acceleration providing 10-100x performance improvements over CPU-only processing and 48% of organizations now using Kubernetes for AI/ML workloads, implementing proper GPU […]",
+          "link": "https://collabnix.com/kubernetes-gpu-resource-management-best-practices-complete-technical-guide-for-2025/",
+          "publishedOn": "2025-09-07T05:25:14.000Z",
+          "wordCount": 5193,
+          "title": "Kubernetes GPU Resource Management Best Practices: Complete Technical Guide for 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=52069",
+          "author": "Collabnix Team",
+          "description": "Comprehensive comparison of Hugging Face and Ollama for local AI deployment. Learn setup, performance, use cases, and which platform suits your AI development needs.",
+          "link": "https://collabnix.com/hugging-face-vs-ollama-the-complete-technical-deep-dive-guide-for-local-ai-development-in-2025/",
+          "publishedOn": "2025-09-06T03:59:17.000Z",
+          "wordCount": null,
+          "title": "Hugging Face vs Ollama: The Complete Technical Deep Dive Guide for Local AI Development in 2025",
+          "imageUrl": null
+        },
+        {
           "id": "https://collabnix.com/?p=51907",
           "author": "Collabnix Team",
           "description": "Understanding how Kubernetes allocates GPUs to workloads is crucial for anyone working with AI/ML applications or high-performance computing. This comprehensive guide explores the intricate mechanisms behind GPU allocation in Kubernetes, from the device plugin framework to the complete allocation process. Overview: The GPU Allocation Challenge Traditional Kubernetes was designed for CPU and memory resources, which […]",
@@ -3536,26 +3566,6 @@
           "wordCount": null,
           "title": "What is Agentic AI and Why Should You Care? (Spoiler: It’s Going to Change Everything About Work)",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=35423",
-          "author": "Tanvir Kour",
-          "description": "Unlocking Success with Custom Software Development No two businesses are exactly alike. Yet many still rely on off-the-shelf applications that assume they are. These generalized solutions often force companies to adapt to the software—rather than the software fitting their processes. In today’s competitive market, this mismatch can lead to operational bottlenecks, lost productivity, and missed […]",
-          "link": "https://collabnix.com/custom-software-that-works-for-you-a-strategic-path-to-digital-excellence/",
-          "publishedOn": "2025-06-09T10:30:23.000Z",
-          "wordCount": 5364,
-          "title": "Custom Software Development for Your Business Needs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=35405",
-          "author": "Collabnix Team",
-          "description": "Discover the top agentic AI trends 2025 that will transform business operations. From multi-agent systems to enterprise deployment strategies - get expert insights now.",
-          "link": "https://collabnix.com/agentic-ai-trends-2025-the-complete-guide-to-autonomous-intelligence-revolution/",
-          "publishedOn": "2025-06-08T18:33:42.000Z",
-          "wordCount": 7165,
-          "title": "Agentic AI Trends 2025: The Complete Guide to Autonomous Intelligence Revolution",
-          "imageUrl": null
         }
       ]
     },
@@ -3953,6 +3963,16 @@
       "siteUrl": "https://www.skyue.com/",
       "articles": [
         {
+          "id": "https://www.skyue.com/25090807.html",
+          "author": "拾月",
+          "description": "周二是我和南瓜认识两周年、求婚一周年的日子，下班约美瑭广场吃烤肉，赴约路上看到彩虹。 ​​​",
+          "link": "https://www.skyue.com/25090807.html",
+          "publishedOn": "2025-09-07T23:07:00.000Z",
+          "wordCount": 559,
+          "title": "2025W35：彩虹",
+          "imageUrl": ""
+        },
+        {
           "id": "https://www.skyue.com/25090107.html",
           "author": "拾月",
           "description": "周五上班时，瞥了一眼窗外，看到如下场景，联想到很多电影中拍的高楼林立的空镜，既摩登又压抑。",
@@ -4303,16 +4323,6 @@
           "wordCount": 313,
           "title": "GTi想说爱你不容易，最终放弃上了SE",
           "imageUrl": null
-        },
-        {
-          "id": "https://4311346.com/post/2025/0610-duanwu.html",
-          "author": null,
-          "description": "万象城-华润置地旗下的大型商业地产品牌，主打高端购物中心、写字楼、酒店及住宅等综合业态，是中国最具影响力的商业地产项目之一。但华润置地万象城对自己来说，是一个 闻之色变 的名字… 2015年从华润置地离职后，十年的时间，仅有去年《特斯拉赛博皮卡巡展-武汉站》的时候去过这里。\n\n很多时候，是不愿意回忆在华润置地有命赚钱没命花钱的日子…\n\n端午节假期第一天，前往武汉万象城\n2025汉堡节全国巡展·武汉站\n这次 汉堡节全国巡展·武汉站 在武汉万象城举办，带着家人去凑个热闹。2025年05月31日端午节，这天下着雨，排队情况依旧，有排队的地方就有黄牛…\n\n尽管商家们已经贴出各种告示，但抵不住黄牛的纯在。黄牛价格在30元-100元之间/1个汉堡，价格取决于排队时间。\n\n排了皮蛋汉堡（浙江）和云堡（云南）\n\n还是有些惊艳的，能在家门口吃到来至全国各地的汉堡，还是挺开心的。只是下雨+排队，感受比较差，只买了两款，不然至少是4款起步。\n希望未来武汉还有能多这样类似的活动\nGrid Coffee\n\n万象城的咖啡店品牌挺多，这次选择Grid Coffee，他们的华中首店就落位于武汉万象城，也只是半个月前的事，Single Origin Coffee 全系单一产地咖啡，产品力及品牌号召力极具辨识度。\n2025年六一儿童节\n假期第二天，恰逢六一儿童节，早上07点就被同事的电话叫醒，起来参加临时的电话会议到中午，都不想再出门。下午继续下着雨，迷迷糊糊睡了一觉，起来点了一份靓靓蒸虾的凉面，外加紫燕百味鸡…一天就这么过去了。\n\n端午假期第三天，老老实实去到公司加班。\n\n检讨书…\n很多年没写过检讨了，这次被上级要求提交检讨~ 在端午节假期结束前，赶紧整了一份。\n主要原因是近半年时间里，公司内出现了多起劳动关系问题，虽然还不到劳动仲裁的地步，但确实费神费力。如果只是及个别的问题，或许是员工的问题，但如果不间断的出现问题，那可能真的是部门在日常工作中有疏忽，才会连续出现。\n时代不断在变，没有什么一劳永逸，需不断的主动学习并拥抱变化，主动求变，更好的从业务、流程、制度上去改进很多东西。防患于未然，不是等着事情发生，再有准备去应对，而是通过前期的准备，使得它根本就不会发生。\n来菜-湖北头牌藕汤\n这是一家在在街道口银泰创意城开始开遍全武汉的品牌，主打藕汤。而藕汤在湖北人的概念里差不多和热干面一样，没有那一家最好。来菜 像 费大厨 一样，定义了藕汤。这是第二次来到来菜，并不是因为藕汤，而是这盘煎鲈鱼。而这次发现这款擂椒茄子皮蛋也是很赞的。\n\n充值了300元，送59元，直接到账 359元，马上就会来第三次。\n\n将违法变为合法\n吃完 来菜 之后，反思自己的那一份检讨，发现自己这半年做得很多的事情，都是游走在法律边缘。\n800人规模的企业，通过各种人力资源手段，将原本违法的劳动关系变为合法… 想想也好可怕。\n2025年的端午节过完了\n并没有休息好，\n各种工作又来了，\nε=(´ο｀*)))唉 … 最近心情很差",
-          "link": "https://4311346.com/post/2025/0610-duanwu.html",
-          "publishedOn": "2025-06-10T01:41:45.000Z",
-          "wordCount": null,
-          "title": "2025年端午节-雨中的武汉汉堡节",
-          "imageUrl": null
         }
       ]
     },
@@ -4605,16 +4615,6 @@
           "wordCount": 1636,
           "title": "自建 Memos 服务：碎片化笔记 + 博客说说栏，一栈双用",
           "imageUrl": "https://imagehost.mintimate.cn/post_baseMemosBB/banner.webp"
-        },
-        {
-          "id": "https://www.mintimate.cn/2025/06/10/linuxDdLinux/",
-          "author": null,
-          "description": "使用云厂商提供的 Linux 服务器，发行版本总是比较有限。但是，我们可以通过手动 DD 安装第三方 Linux 发行版，实现更多功能。",
-          "link": "https://www.mintimate.cn/2025/06/10/linuxDdLinux/",
-          "publishedOn": "2025-06-10T09:02:30.000Z",
-          "wordCount": 1299,
-          "title": "云服务器 Linux 手动 DD 安装第三方 Linux 发行版：原理与实战",
-          "imageUrl": "https://imagehost.mintimate.cn/post_linuxDdLinux/banner.webp"
         }
       ]
     },
@@ -4728,16 +4728,6 @@
           "publishedOn": "2025-06-17T09:41:25.000Z",
           "wordCount": null,
           "title": "【问答】第1章 大模型简介 （图解大模型：生成式AI原理与实战）",
-          "imageUrl": null
-        },
-        {
-          "id": "/archives/1749547449658",
-          "author": null,
-          "description": "揭秘AI革命：大语言模型的基本概念与技术 本文是《揭秘AI革命》系列的第一篇，基于清华大学计算机系马少平教授的《计算机是如何实现智能的》系列讲座整理 引言：AI的新纪元 近年来，人工智能领域迎来了一场革命性的变革，这场变革的核心推动力就是大语言模型（Large Language Model，简称LL",
-          "link": "http://blog.lixx.cn/archives/1749547449658",
-          "publishedOn": "2025-06-10T09:25:26.000Z",
-          "wordCount": null,
-          "title": "揭秘AI革命：大语言模型的基本概念与技术",
           "imageUrl": null
         }
       ]
