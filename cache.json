@@ -1186,6 +1186,16 @@
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
         {
+          "id": "https://jimmysong.io/blog/pdf-to-markdown-open-source-deep-dive/",
+          "author": "Jimmy Song",
+          "description": "深入探讨开源 PDF 转 Markdown 工具，比较 Dolphin、MarkItDown、MinerU 和 Marker 的功能与优缺点，助您选择最佳解决方案。",
+          "link": "https://jimmysong.io/blog/pdf-to-markdown-open-source-deep-dive/",
+          "publishedOn": "2025-09-09T07:41:18.000Z",
+          "wordCount": 1015,
+          "title": "深度调研开源 PDF 转 Markdown 工具：Marker、MinerU 与替代方案",
+          "imageUrl": "https://assets.jimmysong.io/images/blog/pdf-to-markdown-open-source-deep-dive/banner.webp"
+        },
+        {
           "id": "https://jimmysong.io/blog/ai-ide-factions-and-vibe-coding/",
           "author": "Jimmy Song",
           "description": "探索 AI IDE 的关键分野，了解规格驱动、模式设计与云端联动如何影响开发者的选择与工程落地。",
@@ -1643,6 +1653,16 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://nops.icu/archives/219/",
+          "author": "季兴",
+          "description": "两三年前，无意刷到“杨旭游记”视频，独特的房车旅游形式，杨旭操着一口京腔娓娓道来，主人公大多数是自己。从祖国的边陲到非洲的角落，偶尔在寒暑假有他女儿客串。从一个人穿越500公里无人区，在石油小镇...",
+          "link": "https://nops.icu/archives/219/",
+          "publishedOn": "2025-09-09T06:54:00.000Z",
+          "wordCount": 520,
+          "title": "买房车前建议你租一天",
+          "imageUrl": null
+        },
+        {
           "id": "https://nops.icu/archives/218/",
           "author": "季兴",
           "description": "日常工作会碰到众多文字汇报，如周报、事故贴、分析报告等。本质是填充内容到制式文档中联想场景：每周从任务系统中查看、汇总任务进展形成周报，记录在钉文档中在繁杂的事故后总结，人员发言、故障截图、日志...",
@@ -1830,6 +1850,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=302898",
+          "author": "Brandon Lee",
+          "description": "I have totally shifted my home lab over to using mini PCs in the past couple of years. Full-blown enterprise servers, while cool, are simply not needed to self-host or do very cool things as they might have been a few years back. Modern mini PCs have very powerful specs with some even having 32 …\nThe post NPUs in Mini PCs are Worthless for a Home Lab, Here’s Why appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/09/npus-in-mini-pcs-are-worthless-for-a-home-lab-heres-why/",
+          "publishedOn": "2025-09-09T12:10:48.000Z",
+          "wordCount": 10281,
+          "title": "NPUs in Mini PCs are Worthless for a Home Lab, Here’s Why",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/09/npu-worthless-in-mini-pcs.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=302896",
           "author": "Brandon Lee",
@@ -3890,16 +3920,6 @@
           "wordCount": 118,
           "title": "冷水澡",
           "imageUrl": null
-        },
-        {
-          "id": "https://limboy.me/posts/ai-assisted-coding",
-          "author": null,
-          "description": "前些日子尝试借助 Cursor（主要是 claude-sonnet-4） 写一个五子棋 Web App，想着这是一个挺成熟的项目，应该不太需要干预，直接 Vibe Coding（依靠 LLM 生成代码） 应该就能搞定。一开始挺顺利的，界面经过几轮 Prompt 后，基本符合需求，也可以下棋，但在优化五子棋智能时遇到了严重的问题。我扮演 QA 的角色，不断地下棋，然后反馈五子棋算法的错误落子，AI Code Assistant（以下简称 ACA） 收到反馈后，总是会回复：我找到问题了！我解决问题了！完美！诸如此类，我还真就信了。在尝试了大约 50 次后，我发现事情不对，它好像没有真正地解决问题，只是解决了我那次报给它的问题，而且代码也变得异常臃肿，根本没法维护。",
-          "link": "https://limboy.me/posts/ai-assisted-coding",
-          "publishedOn": "2025-06-12T00:00:00.000Z",
-          "wordCount": 391,
-          "title": "关于 AI 辅助编程的一些实践和思考",
-          "imageUrl": null
         }
       ]
     },
@@ -4161,16 +4181,6 @@
           "wordCount": 558,
           "title": "太原之行（1）：拍晋少奶奶写真、听周深演唱会",
           "imageUrl": ""
-        },
-        {
-          "id": "https://www.skyue.com/25061209.html",
-          "author": "拾月",
-          "description": "端午节去宁波玩。此行的主要目的是探访天一阁。作为中国现存最古老、保存较完好的大型藏书楼，我早已心向往之。",
-          "link": "https://www.skyue.com/25061209.html",
-          "publishedOn": "2025-06-12T01:25:00.000Z",
-          "wordCount": 536,
-          "title": "天一阁",
-          "imageUrl": ""
         }
       ]
     },
@@ -4332,6 +4342,16 @@
       "siteUrl": "https://www.domon.cn/",
       "articles": [
         {
+          "id": "68bd796e12ab346740f8fa20",
+          "author": "Domon",
+          "description": "保持内心平静不是无视焦虑泛滥这个现实。相反，平静是在给予我们适应这个瞬息万变的世界所需的韧性、能量以及耐力。",
+          "link": "https://www.domon.cn/2025-8yue-yue-du-shu-zhai/",
+          "publishedOn": "2025-09-07T12:26:24.000Z",
+          "wordCount": 161,
+          "title": "2025年8月阅读书摘",
+          "imageUrl": "https://images.unsplash.com/photo-1610116306796-6fea9f4fae38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGJvb2tzfGVufDB8fHx8MTc1NzE4NzQ2Mnww&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
           "id": "6890be7112ab346740f8fa0d",
           "author": "Domon",
           "description": "虽然我在中国见过很多胆小鬼，但坚忍不拔却是中国人最大的特点。",
@@ -4358,6 +4378,16 @@
       "feedUrl": "https://dusays.com/atom.xml",
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
+        {
+          "id": "https://dusays.com/826/",
+          "author": null,
+          "description": "<blockquote>\n<p>北京这边天气不错，特别适合骑行。杜老师拿出了压箱底的全景相机，打算录制一段沿途景色，结果压制出的文件体积很大。之前分享过通过 FFmpeg 来压缩视频的方法，这次整理了更多的方法，供需要的小伙伴们参考！</p>\n</blockquote>",
+          "link": "https://dusays.com/826/",
+          "publishedOn": "2025-09-09T16:00:00.000Z",
+          "wordCount": 594,
+          "title": "几种通过 FFmpeg 无损压缩视频的方法",
+          "imageUrl": "https://cdn.dusays.com/avatar.png"
+        },
         {
           "id": "https://dusays.com/825/",
           "author": null,
@@ -4496,16 +4526,6 @@
           "publishedOn": "2025-06-17T16:00:00.000Z",
           "wordCount": 490,
           "title": "OpenResty 的性能优化配置建议",
-          "imageUrl": "https://cdn.dusays.com/avatar.png"
-        },
-        {
-          "id": "https://dusays.com/811/",
-          "author": null,
-          "description": "<blockquote>\n<p>Nginx 是一个高性能的 HTTP 服务器和反向代理服务器，广泛应用于处理高并发请求。然而，默认配置并不一定适合所有场景，尤其是在高流量或复杂业务逻辑的情况下。本文将介绍一些 Nginx 的基础配置优化和缓存的使用方法以提升 Nginx 的性能。</p>\n</blockquote>",
-          "link": "https://dusays.com/811/",
-          "publishedOn": "2025-06-11T16:00:00.000Z",
-          "wordCount": 601,
-          "title": "Nginx 从配置到缓存的性能优化",
           "imageUrl": "https://cdn.dusays.com/avatar.png"
         }
       ]
@@ -5488,26 +5508,6 @@
           "publishedOn": "2025-06-23T00:00:00.000Z",
           "wordCount": 1591,
           "title": "ARM Neoverse V1 (代号 Zeus) 的 BTB 结构分析",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jia.je/hardware/2025/06/10/linux-vm-on-harmonyos-computer/",
-          "author": null,
-          "description": "在鸿蒙电脑上的虚拟机内启动 Linux¶\n背景¶\n最近在研究鸿蒙电脑，群友 @Fearyncess 摸索出了，如何在鸿蒙电脑上的虚拟机内启动 Linux，而不是 Windows。在此做个复现并记录。\n\n方法¶\n目前鸿蒙的应用市场上有两家虚拟机，我用 Oseasy 虚拟机，但是理论上铠大师也是可以的。（P.S. @driver1998 反馈：“铠大师测试也能启动，但键盘左右方向键的处理有点问题，虚拟机内收不到按键松开的信号，EFI 和 Linux里 面都是这样。目前建议用 OSEasy。”）\n首先需要在 U 盘上，把一个 UEFI arm64 的 Linux 安装盘写进去。我用的是 Ventoy + Debian Installer，理论上直接写例如 Debian 发行版的安装 ISO 也是可以的。\n然后把 U 盘插到鸿蒙电脑上，打开 Windows 虚拟机，直通到虚拟机里面，保证虚拟机里面可以看到 U 盘。\n接着，进入 Windows 磁盘管理，缩小 Windows 的 NTFS 分区，留出空间。注意 Windows 启动的时候会自动 growpart，所以装 Debian 前，不要回到 Windows。装好以后，可以继续用 Windows。\n接着，重启 Windows，同时按住 Escape，进入 OVMF 的界面，然后选择 Boot Manager，从 U 盘启动，然后就进入 Ventoy 的界面了。（注：根据 @quiccat 群友提醒，在 Windows 内，通过设置->系统->恢复->高级启动->UEFI 固件设置也可以进入 OVMF 的设置界面）\n剩下的就是正常的 Linux 安装过程了，分区的时候，注意保留 Windows 已有的 NTFS，可以和 Windows 用同一个 ESP 分区。网络的话，配置静态 IP 是 172.16.100.2，默认网关是 17…",
-          "link": "https://jia.je/hardware/2025/06/10/linux-vm-on-harmonyos-computer/",
-          "publishedOn": "2025-06-10T00:00:00.000Z",
-          "wordCount": 428,
-          "title": "在鸿蒙电脑上的虚拟机内启动 Linux",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jia.je/hardware/2025/06/10/terminal-emulator-text-rendering/",
-          "author": null,
-          "description": "终端模拟器的文字绘制¶\n背景¶\n最近在造鸿蒙电脑上的终端模拟器 Termony，一开始用 ArkTS 的 Text + Span 空间来绘制终端，后来发现这样性能和可定制性比较差，就选择了自己用 OpenGL 实现，顺带学习了一下终端模拟器的文字绘制是什么样的一个过程。\n\n读取字形¶\n文本绘制，首先就要从字体文件中读取字形，提取出 Bitmap 来，然后把 Bitmap 绘制到该去的地方。为了提取这些信息，首先用 FreeType 库，它可以解析字体文件，然后计算出给定大小的给定字符的 Bitmap。但是，这个 Bitmap 它只记录字体非空白的部分（准确的说，是 Bounding Box），如下图的 width * height 部分：\n\n（图源：Managing Glyphs - FreeType Tutorial II）\n其中 x 轴，应该是同一行的字体对齐的，这样才会看到有高有低的字符出现在同一行，而不是全部上对齐或者下对齐。得到的 Bitmap 是行优先的，也就是说：\n\n图中左上角，坐标 (xMin, yMax) 对应 Bitmap 数组的下标是 0\n图中右上角，坐标 (xMax, yMax) 对应 Bitmap 数组的下标是 width-1\n图中左下角，坐标 (xMin, yMin) 对应 Bitmap 数组的下标是 width*(height-1)\n图中右下角，坐标 (xMax, yMax) 对应 Bitmap 数组的下标是 width*(height-1)+width-1\n\n得到这个 Bitmap 后，如果我们不用 OpenGL，而是直接生成 PNG，那就直接进行一次 copy 甚至 blend 就可以把文字绘制上去了。但是，我们要用 OpenGL 的 shader，就需要把 bitmap 放到 texture 里面。由于目前我们用的就是单色的字体，所以它对…",
-          "link": "https://jia.je/hardware/2025/06/10/terminal-emulator-text-rendering/",
-          "publishedOn": "2025-06-10T00:00:00.000Z",
-          "wordCount": 1626,
-          "title": "终端模拟器的文字绘制",
           "imageUrl": null
         }
       ]
