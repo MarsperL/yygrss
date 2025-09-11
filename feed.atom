@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-09-10T01:52:48.536Z</updated>
+    <updated>2025-09-11T01:55:50.990Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[麒麟内核4.19.90-52.49导致的flannel vxlan跨节点不通]]></title>
+        <id>http://zhangguanzhang.github.io/2025/09/10/kylin-4.19.90-52.49-udp-drop/</id>
+        <link href="http://zhangguanzhang.github.io/2025/09/10/kylin-4.19.90-52.49-udp-drop/"/>
+        <updated>2025-09-10T18:10:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>一次麒麟内核导致 flannel 跨节点不通的排查</p>]]></summary>
+        <author>
+            <name>Zhangguanzhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stop Using .env Files: Docker Secrets Made Easy with Doppler]]></title>
+        <id>https://www.virtualizationhowto.com/?p=302900</id>
+        <link href="https://www.virtualizationhowto.com/2025/09/stop-using-env-files-docker-secrets-made-easy-with-doppler/"/>
+        <updated>2025-09-10T11:54:32.000Z</updated>
+        <summary type="html"><![CDATA[One of the things that gets “hard” when you start caring about the security of your Docker containers is managing your secrets. It is a tricky bit that you need to understand and handle with care as secrets are generally needed but they can open a can of worms if you aren’t careful, especially in …
+The post Stop Using .env Files: Docker Secrets Made Easy with Doppler appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[精通 DevRel：开发者关系成功策略]]></title>
+        <id>https://jimmysong.io/blog/thinking-devrel/</id>
+        <link href="https://jimmysong.io/blog/thinking-devrel/"/>
+        <updated>2025-09-10T10:53:11.000Z</updated>
+        <summary type="html"><![CDATA[探索成功的开发者关系策略，了解 DevRel 团队结构与关键角色，助力开发者社区的真实参与与业务增长。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开发者关系的演变与价值：从个人实践到 DevRel Foundation]]></title>
+        <id>https://jimmysong.io/blog/devrel-role-evolution-and-value/</id>
+        <link href="https://jimmysong.io/blog/devrel-role-evolution-and-value/"/>
+        <updated>2025-09-10T07:45:00.000Z</updated>
+        <summary type="html"><![CDATA[结合 Linux Foundation 发起 DevRel Foundation 的契机，系统解析 DevRel 的角色、组织位置、价值与度量，结合 CNCF Ambassador 实践与个人反思，并给出适用企业决策树与职业路径图。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[是时候换笔记工具了？TriliumNext 安装与入门指南（支持 Docker）]]></title>
+        <id>https://blog.xiaoz.org/?p=22368</id>
+        <link href="https://blog.xiaoz.org/archives/22368"/>
+        <updated>2025-09-10T02:09:44.000Z</updated>
+        <summary type="html"><![CDATA[TriliumNext 是一个功能强大、支持层级笔记与关系图谱的开源自托管知识库系统，这款工具xiaoz从去年就开始关注，但一直没来得及体验。最近xiaoz抽时间用Docker部署TriliumNext后发现真香，如果您也想部署自己的私有笔记系统，TriliumNext绝对值得一试。TriliumN]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[语音合成的未来已来：深入探索工业级可控零样本文本到语音系统 Index TTS！]]></title>
+        <id>https://jimmysong.io/blog/bilibili-index-tts-introduction/</id>
+        <link href="https://jimmysong.io/blog/bilibili-index-tts-introduction/"/>
+        <updated>2025-09-10T01:10:07.000Z</updated>
+        <summary type="html"><![CDATA[探索工业级可控零样本文本到语音系统 Index TTS，精准控制语音时长与情感，重塑语音合成的未来。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的AI投资助手]]></title>
+        <id>https://www.bmpi.dev/self/my-invest-pilot/</id>
+        <link href="https://www.bmpi.dev/self/my-invest-pilot/"/>
+        <updated>2025-09-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[如何做出更好的投资决策？]]></summary>
+        <author>
+            <name>BMPI</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[几种通过 FFmpeg 无损压缩视频的方法]]></title>
         <id>https://dusays.com/826/</id>
@@ -58,6 +129,26 @@ The post NPUs in Mini PCs are Worthless for a Home Lab, Here’s Why appeared fi
 The post Why You Should Be Vibe Coding in Your Home Lab Right Now! appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ollama GPU Acceleration: The Ultimate NVIDIA CUDA and AMD ROCm Configuration Guide for Production AI Deployment]]></title>
+        <id>https://collabnix.com/?p=52493</id>
+        <link href="https://collabnix.com/ollama-gpu-acceleration-the-ultimate-nvidia-cuda-and-amd-rocm-configuration-guide-for-production-ai-deployment/"/>
+        <updated>2025-09-08T11:52:53.000Z</updated>
+        <summary type="html"><![CDATA[The rise of large language models (LLMs) running locally has revolutionized how developers approach AI integration, with Ollama emerging as the dominant platform for local LLM deployment. However, the true power of Ollama lies in its sophisticated GPU acceleration capabilities, which can deliver 10-50x performance improvements over CPU-only inference. This comprehensive technical guide provides production-ready […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qwen-Image-Edit: The Ultimate Technical Guide to AI-Powered Image Editing (2025)]]></title>
+        <id>https://collabnix.com/?p=52484</id>
+        <link href="https://collabnix.com/qwen-image-edit-the-ultimate-technical-guide-to-ai-powered-image-editing-2025/"/>
+        <updated>2025-09-08T07:20:42.000Z</updated>
+        <summary type="html"><![CDATA[Introduction to Qwen-Image-Edit Qwen-Image-Edit represents a breakthrough in AI-powered image editing technology, extending Alibaba’s powerful 20B parameter Qwen-Image foundation model with specialized editing capabilities. Released in August 2025 and featured extensively on Collabnix for its technical innovation, this state-of-the-art model achieves unprecedented performance in semantic image editing, appearance modification, and most notably, precise text rendering […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
         </author>
     </entry>
     <entry>
@@ -6653,71 +6744,6 @@ TiPlus7000
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[在Amazon Lightsail 上轻松部署1Panel服务器管理面板]]></title>
-        <id>https://blog.xiaoz.org/?p=22103</id>
-        <link href="https://blog.xiaoz.org/archives/22103"/>
-        <updated>2025-06-13T06:30:39.000Z</updated>
-        <summary type="html"><![CDATA[Amazon Lightsail是亚马逊云科技提供的一种简化的虚拟私有服务器（VPS）服务，它提供预配置的虚拟服务器实例和一系列方便的功能和服务，方便用户快速创建、管理和扩展服务器实例，适用于各种规模的应用程序和工作负载。新注册用户还可以免费试用3个月，体验其强大功能并充分了解其价值。1Panel]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[一场空难带来的震动：AI171 航班与我对飞行的重新思考]]></title>
-        <id>https://jimmysong.io/blog/air-india-ai171-reflection/</id>
-        <link href="https://jimmysong.io/blog/air-india-ai171-reflection/"/>
-        <updated>2025-06-13T04:37:32.000Z</updated>
-        <summary type="html"><![CDATA[6 月 12 日，印度航空 AI171 航班从艾哈迈达巴德起飞，不到一分钟便坠毁于市区一所医学院，造成 242 人死亡，仅有一人奇迹生还。这起事故震惊了全世界。
-而对于我个人——一个曾累计飞行超过 400 小时、里程超 20 万公里的常旅客而言，这起事故尤其令人触动。我从未在旅途中遭遇任何重大意外，但当看到这次空难的消息时，一种前所未有的不安悄然袭来。我是在手机上刷到一个新闻推送时得知这一消息的，画面和标题让我瞬间愣住了，完全无法相信这种事故会发生在一架现代化的宽体客机上。
-起飞 30 秒后坠毁：关于 AI171 航班
-这架 AI171 航班由印度航空执飞，机型为波音 787-8 梦想客机，注册号为 VT-ANK，机龄约 11 年。
-起飞机场：艾哈迈达巴德·萨达尔·瓦拉巴伊·帕特尔国际机场（AMD）
-目的地：英国伦敦·盖特威克机场（LGW）
-机上乘客：共 242 人（含机组）
-乘客构成：169 名印度人、53 名英国人、1 名加拿大人、7 名葡萄牙人
-据生还者回忆，飞机起飞约 30 秒后发出巨响，随即失速坠毁，撞入一所医学院建筑，引发大火与爆炸，现场浓烟冲天。
-唯一幸存者的故事
-40 岁的英国籍乘客维什瓦什·库马尔·拉梅什（Vishwash Kumar Ramesh）坐在 11A 紧急出口附近。他回忆，当他从震荡中醒来，眼前尽是尸体和飞机残骸。
-“我站起来就跑，然后有人抓住我，把我塞进一辆救护车。”
-
-
-
-幸存者坐在靠近紧急出口的位置
-
-拉梅什在事故中受多处伤，曾一度神志不清，目前已脱离生命危险。然而，他的兄弟也在同一航班上，不幸遇难。
-根据《卫报》报道，事发后有目击者拍下他在废墟边独自步行的画面，从画面上看，他意识清晰，似乎并无大碍，但那种茫然和震惊写在脸上。视频中的每一帧都令人唏嘘。
-我为他的生还感到庆幸，却也能想象，他接下来的生活会被“为什么只有我活下来”的念头反复撕裂。这不仅是生理层面的幸存，更是心理上的生还。孤身走出灾难废墟的人，往往要独自面对世上最沉重的问题。
-飞行从未百分之百安全
-长期以来，我们习惯于将飞行视作一种安全、规律、枯燥的移动方式。即便从统计上讲，飞行仍是最安全的交通方式之一，但 AI171 提醒我们：风险从未真正消失，只是被极低的概率隐藏了起来。
-这架飞机坠毁的可能诱因包括：
-起飞配置错误（如襟翼收起过早、起落架未收）
-引擎失效或鸟击
-极端高温影响空气密度与升力
-飞行员判断与操作
-这些因素单看都难以致命，但正是极端情况下多重因素的“叠加效应”，酿成了悲剧。
-这让我不禁联想到另一场至今仍未破解的空难谜团——马来西亚航空 MH370 航班失踪事件。2014 年，一架波音 777 客机载着 239 人从吉隆坡飞往北京途中突然在雷达上消失，至今杳无音讯。与 AI171 不同，MH370 留下的不是目击与幸存者，而是一整个航班的“蒸发”。我们至今对它的结局一无所知，却也因它更加清楚：现代民航即使拥有最先进的系统，也并不意味着全知、全控与无懈可击。
-波音公司的回应与市场影响
-事故发生后，波音公司在第一时间发布声明称“将全力配合印度民航局、航空事故调查部门以及客户方展开全面调查”。波音强调安全是其核心价值，但这一事故对其声誉无疑是一次沉重打击。
-受此影响，波音公司当日美股盘中一度下跌超过 3.4%，并引发市场对 787 机型安全维护与质量控制的新一轮质疑。分析师指出，虽然目前尚无证据表明事故源于设计缺陷，但在此前一系列质量问题（包括 737 MAX 系列）尚未完全平息的背景下，此次坠机事件进一步加剧了投资者的担忧。
-与电影《死神来了》的重合感
-说来也讽刺。我刚刚重看完《死神来了》系列电影——一群人在预感中逃过一场灾难后，被命运逐一追回。
-《死神来了 6：血脉诅咒》海报
-
-而现实世界中的 AI171 空难，就仿佛成了那部电影的倒影。唯一的生还者维什瓦什，仿佛承载着某种命运的偏爱或诅咒。而我，一个毫无事故历史的“飞行老兵”，也在深夜不由自主地设想：如果我在那架飞机上，我会坐在哪个座位？我能跑得掉吗？
-悼念与警觉
-英国与印度的政要、王室都对此次事故表达了哀悼。许多乘客原本只是一次平凡的返程之旅，有些是探亲、有些是旅行、有些是回国工作，甚至还有专注于瑜伽和心理健康的生命服务者。
-事故终结了这些人的人生，却也再次提醒我们，每一次飞行都值得敬畏。
-对我而言，AI171 不只是一次遥远的空难新闻，它让我重新思考：那些我习以为常的空中旅程，究竟意味着什么？它提醒我，即使已累积数百小时飞行经验，我也仍应以谦卑之心面对每一次起飞和降落。
-生命太脆弱，而我们都不是命运的例外。也许下次坐飞机，我应该试着选择靠近紧急出口的位置？
-坐飞机时我喜欢选择靠近过道的位置
-
-
-愿逝者安息，愿幸存者找到生活的意义，愿所有远行的人平安归来。一切有为法，如梦幻泡影，如露亦如电，应作如是观。]]></summary>
-        <author>
-            <name>Jimmy Song</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Docker部署Drawnix可视化白板工具、兼顾思维导图]]></title>
         <id>https://zhoutian.com/254.html</id>
         <link href="https://zhoutian.com/254.html"/>
@@ -6725,57 +6751,6 @@ TiPlus7000
         <summary type="html"><![CDATA[目前办公用的一款亿图的 MindMaster ，虽说免费功能也够用了，有时候其它地方也偶尔会用到，每次都安装软件也麻烦，之前用过一款 mind-map 不尽如人意，今天正好看见博友的项目推荐，感...]]></summary>
         <author>
             <name>满心</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[冷水澡]]></title>
-        <id>https://limboy.me/posts/code-shower</id>
-        <link href="https://limboy.me/posts/code-shower"/>
-        <updated>2025-06-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[断断续续从不同渠道听说过洗冷水澡，以及带来的好处，并没太在意：热水澡那么舒服，为什么要折磨自己呢。直到有一次心血来潮试了一下：打开冷水，不给自己思考时间，迎上去。头 1 分钟会有点挑战，3 分钟后，基本就适应了。后来又发现一个小技巧，可以帮助克服最开始的不适应：洗头。一方面可以避免冷水全部浇在身上，另一方面也可以分散注意力，等头洗完后，身体也差不多适应了。]]></summary>
-        <author>
-            <name>Limboy's Essays</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker Rollout: Zero-Downtime Deployments for Docker Compose Made Simple]]></title>
-        <id>https://www.virtualizationhowto.com/?p=301494</id>
-        <link href="https://www.virtualizationhowto.com/2025/06/docker-rollout-zero-downtime-deployments-for-docker-compose-made-simple/"/>
-        <updated>2025-06-12T14:47:48.000Z</updated>
-        <summary type="html"><![CDATA[Have you worked with Docker compose and ever wanted to have a proper blue/green deployment for making sure your services stay up and running when you update them? We have all experienced going down for a few seconds or a full restart of containers when updating them. Docker Compose is a great solution for orchestrating …
-The post Docker Rollout: Zero-Downtime Deployments for Docker Compose Made Simple appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Less Exposure, More Protection: How to Reduce the IoT Attack Surface]]></title>
-        <id>https://collabnix.com/?p=35502</id>
-        <link href="https://collabnix.com/less-exposure-more-protection-how-to-reduce-the-iot-attack-surface/"/>
-        <updated>2025-06-11T13:41:44.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to minimize and manage the IoT attack surface. Discover how attack surface management tools and end-to-end encryption prevent cyberattacks.]]></summary>
-        <author>
-            <name>Ajeet Raina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Agentic AI?]]></title>
-        <id>https://collabnix.com/?p=35498</id>
-        <link href="https://collabnix.com/what-is-agentic-ai/"/>
-        <updated>2025-06-11T09:37:30.000Z</updated>
-        <summary type="html"><![CDATA[So you’ve probably heard the buzz about “Agentic AI” floating around tech circles lately, right? Maybe you’re wondering if it’s just another fancy buzzword or if there’s actually something revolutionary happening here. Well, let me tell you – this isn’t just hype. We’re looking at what might be the biggest shift in how AI works […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Agentic AI and Why Should You Care? (Spoiler: It’s Going to Change Everything About Work)]]></title>
-        <id>https://collabnix.com/?p=35498</id>
-        <link href="https://collabnix.com/what-is-agentic-ai-and-why-should-you-care-spoiler-its-going-to-change-everything-about-work/"/>
-        <updated>2025-06-11T09:37:30.000Z</updated>
-        <summary type="html"><![CDATA[So you’ve probably heard the buzz about “Agentic AI” floating around tech circles lately, right? Maybe you’re wondering if it’s just another fancy buzzword or if there’s actually something revolutionary happening here. Well, let me tell you – this isn’t just hype. We’re looking at what might be the biggest shift in how AI works […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
         </author>
     </entry>
     <entry>
