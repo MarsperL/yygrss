@@ -56,6 +56,16 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
+          "id": "https://daverupert.com/2025/09/you-cant-drink-coffee-on-a-running-horse/",
+          "author": null,
+          "description": "I’m coming up on 20 years of professional web development and I still don’t get it sometimes. I tend to measure myself or view work productivity through the lens of “How much code did I write?” and that does a great disservice to myself and what I do.\nThere’s a lot more to the job:\nChecking email\nScheduling calls\nWriting release notes\nContributing to newsletters\nDocumentation (code and otherwise)\nMaking spreadsheets\nDemystifying the work I do to teammates\nClarifying decisions\nHaving technical conversations with teammates\nHaving non-technical conversations with teammates\nInvestigating weird browser behaviors\nBabysitting servers and build processes\nReviewing PRs\nManual QA on branch deploys\nAttending meetings\nAttending talks (internal/external)\nCross-org contributions\nLearning\nPlanning\nDreaming\nScheming\nCommunity Ops\nMoving cards across a board\nReading thru backlogs\nAssociating tickets to PRs\nClosing out old tickets\nReading specs\nGiving feedback on web standards\nEating lunch\nTaking walks\nCleaning my home office\nThese are all aspects of becoming a better web developer. It’s not always about lines-of-code or hours-in-chair. Ideally, we’re all shipping our creations, but sometimes you’re the lead role and sometimes you’re a supporting role. A lot of the work is immeasurable, but it all counts towards something. So… self, don’t be so hard on yourself.",
+          "link": "https://daverupert.com/2025/09/you-cant-drink-coffee-on-a-running-horse/",
+          "publishedOn": "2025-09-11T13:26:00.000Z",
+          "wordCount": 757,
+          "title": "Many years on the job and I still don't get it.",
+          "imageUrl": null
+        },
+        {
           "id": "https://daverupert.com/2025/09/why-would-anybody-start-a-website/",
           "author": null,
           "description": "Nilay Patel sat down for a Decoder interview with Microsoft CTO Kevin Scott to talk about NLWeb, an open source effort to allow an LLM-style indexing of small websites and provide local search. Instead of having large centralized search indexes like Google or Bing, the indexing shifts to sites having their own local indexes that large search platforms hook into via an MCP, an API endpoint for LLMs (basically). Lots to unpack there, but at first glance I like the idea of local ownership of search indexes over the “scrape everything” model that’s killing the Open Web.\nI was listening to the episode because it’s relevant to my work, but I also like Nilay Patel’s perspective and think he has a sober 10,000ft view of the tech industry; without fawning over CEOs, new tech, and VC hype. That is r…",
@@ -1870,6 +1880,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=303005",
+          "author": "Brandon Lee",
+          "description": "Have you ever been there before? You accidentally plug in the wrong cable in your home lab or enterprise environment and you realize what you have done when pings stop, the network comes to a crawl and services start becoming unresponsive. You have effectively introduced a loop in the network and the resulting broadcast storm …\nThe post Spanning Tree Sucks, Long Live Spanning Tree! appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/09/spanning-tree-sucks-long-live-spanning-tree/",
+          "publishedOn": "2025-09-11T12:18:20.000Z",
+          "wordCount": 10565,
+          "title": "Spanning Tree Sucks, Long Live Spanning Tree!",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/09/spanning-tree-sucks-long-live-spanning-tree.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=302900",
           "author": "Brandon Lee",
@@ -4969,26 +4989,6 @@
           "wordCount": null,
           "title": "在亚马逊云科技中创建MySQL数据库",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=22149",
-          "author": "xiaoz",
-          "description": "早在2021年的时候，xiaoz对Next Terminal这款软件有过介绍，见《使用Next Terminal在浏览器中管理你的服务器》，时隔多年，Next Terminal功能愈发强大，不仅能在浏览器中连接SSH、RDP，还能对会话进行监控和审计，非常适合公司和团队使用。关于Next Termi",
-          "link": "https://blog.xiaoz.org/archives/22149",
-          "publishedOn": "2025-06-14T06:45:11.000Z",
-          "wordCount": 291,
-          "title": "安全易用，Next Terminal运维审计系统618限时优惠",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=22147",
-          "author": "xiaoz",
-          "description": "莱卡云是一家国内正规备案的云服务器商家，莱卡云近期新上线了日本双ISP原生住宅IP的VPS，日本资源都是非常难得的，接下来给大家带来详细的测评结果如下。官方网站：https://www.lcayun.com内存CPU带宽硬盘流量价格购买1G1核10M20G500G/月88元/月链接1G1核30M20",
-          "link": "https://blog.xiaoz.org/archives/22147",
-          "publishedOn": "2025-06-14T04:06:02.000Z",
-          "wordCount": 257,
-          "title": "莱卡云原生日本VPS评测",
-          "imageUrl": null
         }
       ]
     },
@@ -5481,6 +5481,21 @@
       "feedUrl": "https://jia.je/feed.xml",
       "siteUrl": "https://jia.je/",
       "articles": [
+        {
+          "id": "https://jia.je/hardware/2025/09/10/arm-core-development/",
+          "author": null,
+          "description": "ARM 公版核微架构演进¶\n背景¶\nARM 公版核微架构的演进频繁，型号又比较多，相关信息散落在各种地方，为了方便查阅，在这里做一个收集。\n\n2025 年¶\nC1-Ultra¶\n\nInside Arm's New C1‑Ultra CPU: Double‑Digit IPC Gains Again!\nC1-Ultra: successor to Cortex X925\nBranch prediction: Additional tracking for local/per-PC history\n33% increase in L1 I-Cache available bandwidth\nOut of order window size growth: Up to 25% growth, Up to ~2K instruction in flight\n2x L1 data cache capacity (128KB)\nData prefetchers: array-indexing coverage\n\nArm® C1-Ultra Core Technical Reference Manual\nImplementation of the Scalable Vector Extension (SVE) with a 128-bit vector length and Scalable Vector Extension 2 (SVE2)\nImplementation of the Scalable Matrix Extension (SME) and Scalable Matrix Extension 2 (SME2), and support for the C1-SME2 unit\nconfigure the L2 cache to be 2048KB or 3072KB\nA …",
+          "link": "https://jia.je/hardware/2025/09/10/arm-core-development/",
+          "publishedOn": "2025-09-10T00:00:00.000Z",
+          "wordCount": 2736,
+          "title": "ARM 公版核微架构演进",
+          "enclosure": {
+            "url": "https://jia.je/assets/images/social/blog/posts/hardware/arm-core-development.png",
+            "type": "image/png",
+            "length": "70789"
+          },
+          "imageUrl": "https://jia.je/assets/images/social/blog/posts/hardware/arm-core-development.png"
+        },
         {
           "id": "https://jia.je/hardware/2025/07/08/amd-zen-3-btb/",
           "author": null,

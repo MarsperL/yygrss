@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-09-11T01:55:50.990Z</updated>
+    <updated>2025-09-12T01:51:00.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Many years on the job and I still don't get it.]]></title>
+        <id>https://daverupert.com/2025/09/you-cant-drink-coffee-on-a-running-horse/</id>
+        <link href="https://daverupert.com/2025/09/you-cant-drink-coffee-on-a-running-horse/"/>
+        <updated>2025-09-11T13:26:00.000Z</updated>
+        <summary type="html"><![CDATA[I’m coming up on 20 years of professional web development and I still don’t get it sometimes. I tend to measure myself or view work productivity through the lens of “How much code did I write?” and that does a great disservice to myself and what I do.
+There’s a lot more to the job:
+Checking email
+Scheduling calls
+Writing release notes
+Contributing to newsletters
+Documentation (code and otherwise)
+Making spreadsheets
+Demystifying the work I do to teammates
+Clarifying decisions
+Having technical conversations with teammates
+Having non-technical conversations with teammates
+Investigating weird browser behaviors
+Babysitting servers and build processes
+Reviewing PRs
+Manual QA on branch deploys
+Attending meetings
+Attending talks (internal/external)
+Cross-org contributions
+Learning
+Planning
+Dreaming
+Scheming
+Community Ops
+Moving cards across a board
+Reading thru backlogs
+Associating tickets to PRs
+Closing out old tickets
+Reading specs
+Giving feedback on web standards
+Eating lunch
+Taking walks
+Cleaning my home office
+These are all aspects of becoming a better web developer. It’s not always about lines-of-code or hours-in-chair. Ideally, we’re all shipping our creations, but sometimes you’re the lead role and sometimes you’re a supporting role. A lot of the work is immeasurable, but it all counts towards something. So… self, don’t be so hard on yourself.]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spanning Tree Sucks, Long Live Spanning Tree!]]></title>
+        <id>https://www.virtualizationhowto.com/?p=303005</id>
+        <link href="https://www.virtualizationhowto.com/2025/09/spanning-tree-sucks-long-live-spanning-tree/"/>
+        <updated>2025-09-11T12:18:20.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever been there before? You accidentally plug in the wrong cable in your home lab or enterprise environment and you realize what you have done when pings stop, the network comes to a crawl and services start becoming unresponsive. You have effectively introduced a loop in the network and the resulting broadcast storm …
+The post Spanning Tree Sucks, Long Live Spanning Tree! appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[麒麟内核4.19.90-52.49导致的flannel vxlan跨节点不通]]></title>
         <id>http://zhangguanzhang.github.io/2025/09/10/kylin-4.19.90-52.49-udp-drop/</id>
@@ -75,6 +129,35 @@ The post Stop Using .env Files: Docker Secrets Made Easy with Doppler appeared f
         <summary type="html"><![CDATA[如何做出更好的投资决策？]]></summary>
         <author>
             <name>BMPI</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARM 公版核微架构演进]]></title>
+        <id>https://jia.je/hardware/2025/09/10/arm-core-development/</id>
+        <link href="https://jia.je/hardware/2025/09/10/arm-core-development/"/>
+        <updated>2025-09-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ARM 公版核微架构演进¶
+背景¶
+ARM 公版核微架构的演进频繁，型号又比较多，相关信息散落在各种地方，为了方便查阅，在这里做一个收集。
+
+2025 年¶
+C1-Ultra¶
+
+Inside Arm's New C1‑Ultra CPU: Double‑Digit IPC Gains Again!
+C1-Ultra: successor to Cortex X925
+Branch prediction: Additional tracking for local/per-PC history
+33% increase in L1 I-Cache available bandwidth
+Out of order window size growth: Up to 25% growth, Up to ~2K instruction in flight
+2x L1 data cache capacity (128KB)
+Data prefetchers: array-indexing coverage
+
+Arm® C1-Ultra Core Technical Reference Manual
+Implementation of the Scalable Vector Extension (SVE) with a 128-bit vector length and Scalable Vector Extension 2 (SVE2)
+Implementation of the Scalable Matrix Extension (SME) and Scalable Matrix Extension 2 (SME2), and support for the C1-SME2 unit
+configure the L2 cache to be 2048KB or 3072KB
+A …]]></summary>
+        <author>
+            <name>杰哥的{运维，编程，调板子}小笔记</name>
         </author>
     </entry>
     <entry>
@@ -6623,26 +6706,6 @@ Bensz]]></summary>
     Full of…]]></summary>
         <author>
             <name>anzhihe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[安全易用，Next Terminal运维审计系统618限时优惠]]></title>
-        <id>https://blog.xiaoz.org/?p=22149</id>
-        <link href="https://blog.xiaoz.org/archives/22149"/>
-        <updated>2025-06-14T06:45:11.000Z</updated>
-        <summary type="html"><![CDATA[早在2021年的时候，xiaoz对Next Terminal这款软件有过介绍，见《使用Next Terminal在浏览器中管理你的服务器》，时隔多年，Next Terminal功能愈发强大，不仅能在浏览器中连接SSH、RDP，还能对会话进行监控和审计，非常适合公司和团队使用。关于Next Termi]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[莱卡云原生日本VPS评测]]></title>
-        <id>https://blog.xiaoz.org/?p=22147</id>
-        <link href="https://blog.xiaoz.org/archives/22147"/>
-        <updated>2025-06-14T04:06:02.000Z</updated>
-        <summary type="html"><![CDATA[莱卡云是一家国内正规备案的云服务器商家，莱卡云近期新上线了日本双ISP原生住宅IP的VPS，日本资源都是非常难得的，接下来给大家带来详细的测评结果如下。官方网站：https://www.lcayun.com内存CPU带宽硬盘流量价格购买1G1核10M20G500G/月88元/月链接1G1核30M20]]></summary>
-        <author>
-            <name>xiaoz</name>
         </author>
     </entry>
     <entry>
