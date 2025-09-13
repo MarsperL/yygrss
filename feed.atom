@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-09-12T01:51:00.498Z</updated>
+    <updated>2025-09-13T01:46:27.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Do You Really Need a Full-Sized Rack for Your Home Lab in 2025?]]></title>
+        <id>https://www.virtualizationhowto.com/?p=303031</id>
+        <link href="https://www.virtualizationhowto.com/2025/09/do-you-really-need-a-full-sized-rack-for-your-home-lab-in-2025/"/>
+        <updated>2025-09-12T12:41:35.000Z</updated>
+        <summary type="html"><![CDATA[In 2025, home labs are more powerful and smaller than ever, thanks to mini PCs. Mini PCs with AMD Ryzen or Intel Core Ultra processors now have up to 32 threads or more and can handle workloads that we may used to have needed for rackmount servers. Still, racks are iconic in the home lab …
+The post Do You Really Need a Full-Sized Rack for Your Home Lab in 2025? appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 原生时代的 OSPO：从全球报告看中国企业的新机遇]]></title>
+        <id>https://jimmysong.io/blog/ospo-2025-report-cn-analysis/</id>
+        <link href="https://jimmysong.io/blog/ospo-2025-report-cn-analysis/"/>
+        <updated>2025-09-12T09:40:38.000Z</updated>
+        <summary type="html"><![CDATA[OSPO 已从合规与安全部门，演变为 AI 原生时代企业治理与创新的战略中枢。本文解析 2025 年 Linux Foundation 报告，并结合中国头部企业的开源实践，展望 OSPO 在中国的发展机遇。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[System Initiative 深度调研报告：AI Native 基础设施的探索]]></title>
+        <id>https://jimmysong.io/blog/system-initiative-ai-native-infra/</id>
+        <link href="https://jimmysong.io/blog/system-initiative-ai-native-infra/"/>
+        <updated>2025-09-12T08:07:16.000Z</updated>
+        <summary type="html"><![CDATA[System Initiative 通过 AI 代理与数字孪生技术，推动基础设施自动化进入新阶段。本文系统梳理其技术架构、产品特性及团队背景，帮助读者理解 AI Native Infra 的创新实践与未来趋势。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vue项目接口防刷加固：接入腾讯云天御验证码实现人机验证、恶意请求拦截]]></title>
+        <id>https://www.mintimate.cn/2025/09/12/qcloudCaptchaIntegration/</id>
+        <link href="https://www.mintimate.cn/2025/09/12/qcloudCaptchaIntegration/"/>
+        <updated>2025-09-12T07:19:26.000Z</updated>
+        <summary type="html"><![CDATA[我们在设计一些公共业务接口的时候，比如登录、注册、找回密码等，为了防止恶意请求，我们通常会采用人机验证、恶意请求拦截等手段来保护我们的接口。本文将介绍如何使用腾讯云天御验证码来实现人机验证和恶意请求拦截。]]></summary>
+        <author>
+            <name>雨月空间站</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Many years on the job and I still don't get it.]]></title>
         <id>https://daverupert.com/2025/09/you-cant-drink-coffee-on-a-running-horse/</id>
@@ -6653,35 +6694,6 @@ The post CoreControl Is the New Self-Hosted Dashboard Built for Home Labs appear
         <summary type="html"><![CDATA[Artificial intelligence is no longer just a background tool in the gaming world. Neural networks now shape how stories unfold, how enemies react, and how levels are generated. Players are seeing more personalized, dynamic, and unpredictable experiences thanks to AI integration. But what happens when systems collect too much personal data during gameplay? What if […]]]></summary>
         <author>
             <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KubeCon China 2025 见闻]]></title>
-        <id>https://thiscute.world/posts/kubecon-china-2025/?utm_source=atom_feed</id>
-        <link href="https://thiscute.world/posts/kubecon-china-2025/?utm_source=atom_feed"/>
-        <updated>2025-06-15T09:43:44.000Z</updated>
-        <summary type="html"><![CDATA[<h2 id="前言" class="headerLink">
-<a href="#%e5%89%8d%e8%a8%80" class="header-mark"></a>前言</h2><p>今年 1 月底辞职后，在家过了个年，接着在上海、张家界、重庆、苏州、南京玩了一圈，4 月中旬才回深圳开始找工作。本来看到 6 月就是 KubeCon China 2025，还不太确定自己到时候会不会有时间去。不过很幸运，最后确定 offer 的公司非常重视技术，leader 在面试的时候就说看到我博客里写了
-KubeCon 的经历，公司非常鼓励参加这种技术交流活动，去报个 Talk 也完全可以，公司报销所有费用。</p>
-<p>于是我在入职还没满一个月的时候，就直接公费出差去香港 KubeCon China 2025 玩了一圈（</p>
-<blockquote>
-<p>也问过同事们是否有想法，但种种原因最后还是只有我一个人参加了（悲</p>
-</blockquote>]]></summary>
-        <author>
-            <name>This Cute World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[前沿快讯 第73期 Y染色体缺失与肿瘤免疫抑制等]]></title>
-        <id>https://blognas.hwb0307.com/?p=6415</id>
-        <link href="https://blognas.hwb0307.com/medicine/6415"/>
-        <updated>2025-06-15T08:30:05.000Z</updated>
-        <summary type="html"><![CDATA[Bensz
-前沿快讯 第73期 Y染色体缺失与肿瘤免疫抑制等
-本博客由Faconhost大力赞助！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 前言 本文是前沿快讯的第73期。前沿快讯栏目主要收集一些个人感兴趣的近期发表的研究，关注领域包括肿瘤的分子生物学、临床研究、流行病学等，文献类型主要是期刊论文和综述。研究介绍在Google机翻摘要的基础上进行微调，可能不一定特别准确、专业，主要目的是方便自己和大家快速了解和回顾相关领域研究进展。如果你对某个研究的细节感兴趣，请自行寻找全文进一步了解。此外，研究根据子领域会进一步细分，不过交叉领域的研究不好分为某一类，所以这个分类主要用于初级索引，并不十分准确，不喜勿喷。最后，大家看到什么特别的研究，也可以在评论区向我推荐，我会酌情收录在后面的期刊中。如无意外，前沿快讯栏目会长期更新，周期为2周-1月 […]
-Bensz]]></summary>
-        <author>
-            <name>Bensz</name>
         </author>
     </entry>
     <entry>
