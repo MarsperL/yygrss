@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-09-16T01:52:51.761Z</updated>
+    <updated>2025-09-17T01:52:13.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI Launches GPT-5-Codex: The Ultimate AI Coding Companion That Can Work for 7+ Hours Independently]]></title>
+        <id>https://collabnix.com/?p=53762</id>
+        <link href="https://collabnix.com/openai-launches-gpt-5-codex-the-ultimate-ai-coding-companion-that-can-work-for-7-hours-independently/"/>
+        <updated>2025-09-16T14:55:32.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI has released GPT-5-Codex, a specialized AI coding model that can work autonomously for hours, revolutionizing software development with advanced agentic capabilities and superior code review features.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Quantization in AI: A Deep Dive into Model Compression Techniques]]></title>
+        <id>https://collabnix.com/?p=53753</id>
+        <link href="https://collabnix.com/understanding-quantization-in-ai-a-deep-dive-into-model-compression-techniques/"/>
+        <updated>2025-09-16T14:15:56.000Z</updated>
+        <summary type="html"><![CDATA[As artificial intelligence models continue to grow in size and complexity, the computational and memory requirements for deployment have become increasingly prohibitive. Modern large language models (LLMs) like GPT-4 and Claude contain hundreds of billions of parameters, requiring substantial hardware resources for both training and inference. Quantization has emerged as one of the most effective […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caddy Reverse Proxy in 2025: The Simplest Docker Setup for Your Home Lab]]></title>
+        <id>https://www.virtualizationhowto.com/?p=303056</id>
+        <link href="https://www.virtualizationhowto.com/2025/09/caddy-reverse-proxy-in-2025-the-simplest-docker-setup-for-your-home-lab/"/>
+        <updated>2025-09-16T12:34:50.000Z</updated>
+        <summary type="html"><![CDATA[If you have been keeping up with my home lab projects lately, you know I have been playing around with a lot of different reverse proxies and learning as much as I can about these. Traefik has been my recent go to in the home lab. However, there is another reverse proxy that is simple …
+The post Caddy Reverse Proxy in 2025: The Simplest Docker Setup for Your Home Lab appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用 Python 脚本实现图片相似度匹配]]></title>
         <id>https://dusays.com/827/</id>
@@ -6643,70 +6674,6 @@ The post DevOps Roadmap 2025: A Hands-On Path to Mastery from Home Lab to Automa
         <summary type="html"><![CDATA[全面梳理中国芯片自主化的技术路径、国际格局、地缘政治影响与重点企业进展。详解芯片分类、全球产业链现状，中美科技博弈下国产厂商的突围与风险分析。]]></summary>
         <author>
             <name>Jimmy Song</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ollama vs ChatGPT 2025: Complete Technical Comparison Guide]]></title>
-        <id>https://collabnix.com/?p=36750</id>
-        <link href="https://collabnix.com/ollama-vs-chatgpt-2025-complete-technical-comparison-guide/"/>
-        <updated>2025-06-19T03:28:07.000Z</updated>
-        <summary type="html"><![CDATA[Ollama vs ChatGPT 2025: A Comprehensive Comparison A  comprehensive technical analysis comparing local LLM deployment via Ollama against cloud-based ChatGPT APIs, including performance benchmarks, cost analysis, and implementation strategies The artificial intelligence landscape has reached a critical inflection point in 2025. Organizations worldwide face a fundamental strategic decision that will define their AI capabilities for […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Ollama Models 2025: Performance Comparison Guide]]></title>
-        <id>https://collabnix.com/?p=36745</id>
-        <link href="https://collabnix.com/best-ollama-models-in-2025-complete-performance-comparison/"/>
-        <updated>2025-06-19T03:09:32.000Z</updated>
-        <summary type="html"><![CDATA[Top Picks for Best Ollama Models 2025 A comprehensive technical analysis of the most powerful local language models available through Ollama, including benchmarks, implementation guides, and optimization strategies Introduction to Ollama’s 2025 Ecosystem The landscape of local language model deployment has dramatically evolved in 2025, with Ollama establishing itself as the de facto standard for […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker Multi-Stage Builds for Python Developers: A Complete Guide]]></title>
-        <id>https://collabnix.com/?p=36740</id>
-        <link href="https://collabnix.com/docker-multi-stage-builds-for-python-developers-a-complete-guide/"/>
-        <updated>2025-06-19T02:44:31.000Z</updated>
-        <summary type="html"><![CDATA[As a Python developer, you’ve probably experienced the pain of slow Docker builds, bloated images filled with build tools, and the frustration of waiting 10+ minutes for a simple code change to rebuild. Docker multi-stage builds solve these problems elegantly, and they’re particularly powerful for Python applications. In this comprehensive guide, we’ll explore how to […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimize Your AI Containers with Docker Multi-Stage Builds: A Complete Guide]]></title>
-        <id>https://collabnix.com/?p=36733</id>
-        <link href="https://collabnix.com/optimize-your-ai-containers-with-docker-multi-stage-builds-a-complete-guide/"/>
-        <updated>2025-06-19T02:08:30.000Z</updated>
-        <summary type="html"><![CDATA[If you’re developing AI applications, you’ve probably experienced the frustration of slow Docker builds, bloated container images, and inefficient caching. Every time you tweak your model code, you’re stuck waiting for dependencies to reinstall, and your production images are loaded with unnecessary build tools. Docker multi-stage builds solve these problems elegantly, and they’re particularly powerful […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[太原之行（1）：拍晋少奶奶写真、听周深演唱会]]></title>
-        <id>https://www.skyue.com/25061822.html</id>
-        <link href="https://www.skyue.com/25061822.html"/>
-        <updated>2025-06-18T14:57:00.000Z</updated>
-        <summary type="html"><![CDATA[上个月南瓜抢到了6月14日（周六）周深太原演唱会门票，于是特意在6月13日周五请假一天，连着周末在太原玩三天。南瓜因公司组织山西团建，12号先行抵达太原。三天行程如下：周五上午乘飞机到太原，下午...]]></summary>
-        <author>
-            <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The unsung principles of RedwoodSDK]]></title>
-        <id>https://daverupert.com/2025/06/principles-of-redwoodsdk/</id>
-        <link href="https://daverupert.com/2025/06/principles-of-redwoodsdk/"/>
-        <updated>2025-06-18T14:06:00.000Z</updated>
-        <summary type="html"><![CDATA[We had Peter Pistorius on ShopTalk to talk about RedwoodJS and the project’s pivot to an almost entirely different project called RedwoodSDK. I am a complete outsider but I liked what RedwoodJS (the old project) was trying to do and didn’t fully understand why they felt the need to reboot. I even have a dusty old post in my drafts folder about what I liked about RedwoodJS. But after talking, it seems the winds of the JavaScript zeitgeist has changed and technology picks from 2020 aren’t the best deep integrations to have anymore.
-After talking to Peter, I was pleasantly surprised by the principles that guide the new RedwoodSDK project:
-Zero magic - No codegen or transpiler side effects
-Composability over configuration  - No opinionated wrappers
-Uses native Web APIs - No abstraction over fe…]]></summary>
-        <author>
-            <name>daverupert.com</name>
         </author>
     </entry>
     <entry>

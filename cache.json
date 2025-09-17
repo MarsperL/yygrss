@@ -234,16 +234,6 @@
           "wordCount": 1529,
           "title": "Inverse text-sizing based on text-length with attr()",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/06/principles-of-redwoodsdk/",
-          "author": null,
-          "description": "We had Peter Pistorius on ShopTalk to talk about RedwoodJS and the project’s pivot to an almost entirely different project called RedwoodSDK. I am a complete outsider but I liked what RedwoodJS (the old project) was trying to do and didn’t fully understand why they felt the need to reboot. I even have a dusty old post in my drafts folder about what I liked about RedwoodJS. But after talking, it seems the winds of the JavaScript zeitgeist has changed and technology picks from 2020 aren’t the best deep integrations to have anymore.\nAfter talking to Peter, I was pleasantly surprised by the principles that guide the new RedwoodSDK project:\nZero magic - No codegen or transpiler side effects\nComposability over configuration  - No opinionated wrappers\nUses native Web APIs - No abstraction over fe…",
-          "link": "https://daverupert.com/2025/06/principles-of-redwoodsdk/",
-          "publishedOn": "2025-06-18T14:06:00.000Z",
-          "wordCount": 998,
-          "title": "The unsung principles of RedwoodSDK",
-          "imageUrl": null
         }
       ]
     },
@@ -1960,6 +1950,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=303056",
+          "author": "Brandon Lee",
+          "description": "If you have been keeping up with my home lab projects lately, you know I have been playing around with a lot of different reverse proxies and learning as much as I can about these. Traefik has been my recent go to in the home lab. However, there is another reverse proxy that is simple …\nThe post Caddy Reverse Proxy in 2025: The Simplest Docker Setup for Your Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/09/caddy-reverse-proxy-in-2025-the-simplest-docker-setup-for-your-home-lab/",
+          "publishedOn": "2025-09-16T12:34:50.000Z",
+          "wordCount": 11032,
+          "title": "Caddy Reverse Proxy in 2025: The Simplest Docker Setup for Your Home Lab",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/09/Caddy-Reverse-Proxy-Docker-Setup.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=303062",
           "author": "Brandon Lee",
           "description": "If you are starting to run containers in 2025 in the home lab or production environments, the operating system you choose is the foundation that starts it all. Since containers are lightweight by design, it doesn’t mean that you skimp on the operating system. You want it to be a robust and feature rich, secure …\nThe post Best 5 Docker Container Operating Systems in 2025 (Home Lab & Enterprise Picks) appeared first on Virtualization Howto.",
@@ -2556,6 +2556,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=53762",
+          "author": "Collabnix Team",
+          "description": "OpenAI has released GPT-5-Codex, a specialized AI coding model that can work autonomously for hours, revolutionizing software development with advanced agentic capabilities and superior code review features.",
+          "link": "https://collabnix.com/openai-launches-gpt-5-codex-the-ultimate-ai-coding-companion-that-can-work-for-7-hours-independently/",
+          "publishedOn": "2025-09-16T14:55:32.000Z",
+          "wordCount": 2976,
+          "title": "OpenAI Launches GPT-5-Codex: The Ultimate AI Coding Companion That Can Work for 7+ Hours Independently",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=53753",
+          "author": "Collabnix Team",
+          "description": "As artificial intelligence models continue to grow in size and complexity, the computational and memory requirements for deployment have become increasingly prohibitive. Modern large language models (LLMs) like GPT-4 and Claude contain hundreds of billions of parameters, requiring substantial hardware resources for both training and inference. Quantization has emerged as one of the most effective […]",
+          "link": "https://collabnix.com/understanding-quantization-in-ai-a-deep-dive-into-model-compression-techniques/",
+          "publishedOn": "2025-09-16T14:15:56.000Z",
+          "wordCount": 3096,
+          "title": "Understanding Quantization in AI: A Deep Dive into Model Compression Techniques",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=53633",
           "author": "Collabnix Team",
@@ -3735,46 +3755,6 @@
           "wordCount": 3965,
           "title": "GitHub Copilot VS Code Setup: Docker MCP Toolkit Tutorial 2025",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=36750",
-          "author": "Collabnix Team",
-          "description": "Ollama vs ChatGPT 2025: A Comprehensive Comparison A  comprehensive technical analysis comparing local LLM deployment via Ollama against cloud-based ChatGPT APIs, including performance benchmarks, cost analysis, and implementation strategies The artificial intelligence landscape has reached a critical inflection point in 2025. Organizations worldwide face a fundamental strategic decision that will define their AI capabilities for […]",
-          "link": "https://collabnix.com/ollama-vs-chatgpt-2025-complete-technical-comparison-guide/",
-          "publishedOn": "2025-06-19T03:28:07.000Z",
-          "wordCount": 11918,
-          "title": "Ollama vs ChatGPT 2025: Complete Technical Comparison Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=36745",
-          "author": "Collabnix Team",
-          "description": "Top Picks for Best Ollama Models 2025 A comprehensive technical analysis of the most powerful local language models available through Ollama, including benchmarks, implementation guides, and optimization strategies Introduction to Ollama’s 2025 Ecosystem The landscape of local language model deployment has dramatically evolved in 2025, with Ollama establishing itself as the de facto standard for […]",
-          "link": "https://collabnix.com/best-ollama-models-in-2025-complete-performance-comparison/",
-          "publishedOn": "2025-06-19T03:09:32.000Z",
-          "wordCount": null,
-          "title": "Best Ollama Models 2025: Performance Comparison Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=36740",
-          "author": "Collabnix Team",
-          "description": "As a Python developer, you’ve probably experienced the pain of slow Docker builds, bloated images filled with build tools, and the frustration of waiting 10+ minutes for a simple code change to rebuild. Docker multi-stage builds solve these problems elegantly, and they’re particularly powerful for Python applications. In this comprehensive guide, we’ll explore how to […]",
-          "link": "https://collabnix.com/docker-multi-stage-builds-for-python-developers-a-complete-guide/",
-          "publishedOn": "2025-06-19T02:44:31.000Z",
-          "wordCount": null,
-          "title": "Docker Multi-Stage Builds for Python Developers: A Complete Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=36733",
-          "author": "Collabnix Team",
-          "description": "If you’re developing AI applications, you’ve probably experienced the frustration of slow Docker builds, bloated container images, and inefficient caching. Every time you tweak your model code, you’re stuck waiting for dependencies to reinstall, and your production images are loaded with unnecessary build tools. Docker multi-stage builds solve these problems elegantly, and they’re particularly powerful […]",
-          "link": "https://collabnix.com/optimize-your-ai-containers-with-docker-multi-stage-builds-a-complete-guide/",
-          "publishedOn": "2025-06-19T02:08:30.000Z",
-          "wordCount": null,
-          "title": "Optimize Your AI Containers with Docker Multi-Stage Builds: A Complete Guide",
-          "imageUrl": null
         }
       ]
     },
@@ -4348,16 +4328,6 @@
           "publishedOn": "2025-06-21T08:37:00.000Z",
           "wordCount": 561,
           "title": "太原之行（2）：逛博物馆",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://www.skyue.com/25061822.html",
-          "author": "拾月",
-          "description": "上个月南瓜抢到了6月14日（周六）周深太原演唱会门票，于是特意在6月13日周五请假一天，连着周末在太原玩三天。南瓜因公司组织山西团建，12号先行抵达太原。三天行程如下：周五上午乘飞机到太原，下午...",
-          "link": "https://www.skyue.com/25061822.html",
-          "publishedOn": "2025-06-18T14:57:00.000Z",
-          "wordCount": 558,
-          "title": "太原之行（1）：拍晋少奶奶写真、听周深演唱会",
           "imageUrl": ""
         }
       ]
