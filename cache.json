@@ -1754,16 +1754,6 @@
           "wordCount": 747,
           "title": "Kubernetes Gateway API 网关选型全景对比",
           "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.webp"
-        },
-        {
-          "id": "https://jimmysong.io/blog/china-semiconductor-rise-geopolitics/",
-          "author": "Jimmy Song",
-          "description": "全面梳理中国芯片自主化的技术路径、国际格局、地缘政治影响与重点企业进展。详解芯片分类、全球产业链现状，中美科技博弈下国产厂商的突围与风险分析。",
-          "link": "https://jimmysong.io/blog/china-semiconductor-rise-geopolitics/",
-          "publishedOn": "2025-06-20T04:00:00.000Z",
-          "wordCount": 1918,
-          "title": "全球地缘政治背景下的中国芯片自主化崛起之路",
-          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.webp"
         }
       ]
     },
@@ -1949,6 +1939,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=303093",
+          "author": "Brandon Lee",
+          "description": "There are a lot of great ways to run Kubernetes in your home lab. I have covered many of these from running k3s to running a Minikube cluster on Ubuntu…\nThe post Why Talos Omni Kubernetes Has Changed My Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/09/why-talos-omni-kubernetes-has-changed-my-home-lab/",
+          "publishedOn": "2025-09-17T16:05:11.000Z",
+          "wordCount": 9785,
+          "title": "Why Talos Omni Kubernetes Has Changed My Home Lab",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/09/Kubernetes-home-lab-in-2025.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=303056",
           "author": "Brandon Lee",
@@ -2556,6 +2556,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=53958",
+          "author": "Tanvir Kour",
+          "description": "Manufacturing has always been vulnerable to disruption—supply chain delays, labor shortages, or unexpected global events that can shut down production lines overnight. The pandemic proved just how fragile traditional manufacturing operations really are when everything depends on predictable conditions. In today’s digital-first economy, resilience is no longer optional for manufacturers who want to survive the […]",
+          "link": "https://collabnix.com/the-role-of-it-in-building-resilient-manufacturing-operations/",
+          "publishedOn": "2025-09-17T14:22:02.000Z",
+          "wordCount": 2356,
+          "title": "The Role of IT in Building Resilient Manufacturing Operations",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=53762",
           "author": "Collabnix Team",
