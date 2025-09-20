@@ -589,6 +589,56 @@
       "siteUrl": "https://blog.ops-coffee.com/atom.xml",
       "articles": [
         {
+          "id": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day39-shenzhen-meirenyu.html",
+          "author": null,
+          "description": "在2025年暑假的沿海自驾游中，作者来到了深圳大鹏半岛，徒步前往鹿嘴山庄，探索了周星驰拍摄美人鱼的地点，体验了深圳壮丽的沿海风光和清澈的海水。",
+          "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day39-shenzhen-meirenyu.html",
+          "publishedOn": "2025-09-19T04:51:08.000Z",
+          "wordCount": 119,
+          "title": "久违的暑假｜沿海自驾DAY39 - 美人鱼",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day38-shenzhen-pengcheng.html",
+          "author": null,
+          "description": "在深圳大亚湾与较场尾的探索中，体验了一次轮胎爆胎的插曲，探索了大鹏所城和东山古寺的历史，感受了海边民宿的独特魅力，以及如何在旅途中坦然面对突发状况。",
+          "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day38-shenzhen-pengcheng.html",
+          "publishedOn": "2025-09-18T03:50:27.000Z",
+          "wordCount": 118,
+          "title": "久违的暑假｜沿海自驾DAY38 - 鹏城",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day37-huizhou-dayawan-tangping.html",
+          "author": null,
+          "description": "本文记录了2025暑假沿海自驾游的第37天，探访了巽寮湾、稔山镇和大亚湾，体验了市井气息的稔山市场，探索了大亚湾的美丽海岸线，并了解了惠州的海景房和躺平文化。",
+          "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day37-huizhou-dayawan-tangping.html",
+          "publishedOn": "2025-09-17T05:38:39.000Z",
+          "wordCount": 124,
+          "title": "久违的暑假｜沿海自驾DAY37 - 躺平",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day36-huizhou-shuangyuewan-chonglang.html",
+          "author": null,
+          "description": "探索惠州双月湾的红海湾，感受其风浪与自然之美，体验冲浪乐趣，游览海龟湾及双月湾观景台，尽享沿海自驾的乐趣与美景。",
+          "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day36-huizhou-shuangyuewan-chonglang.html",
+          "publishedOn": "2025-09-16T03:19:22.000Z",
+          "wordCount": 121,
+          "title": "久违的暑假｜沿海自驾DAY36 - 冲浪",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day35-huizhou-shuangyuewan.html",
+          "author": null,
+          "description": "在金町湾的细沙滩上漫步，探索双月湾的美丽晚霞和海鲜美食。享受夏日沿海自驾游的宁静与美好，体验金町湾和双月湾的独特魅力。",
+          "link": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day35-huizhou-shuangyuewan.html",
+          "publishedOn": "2025-09-15T04:15:11.000Z",
+          "wordCount": 122,
+          "title": "久违的暑假｜沿海自驾DAY35 - 双月湾",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day34-shanwei-ermalu.html",
           "author": null,
           "description": "2025年夏季沿海自驾游第34天，探索汕尾的红海湾与品清湖，感受蓝天白云下的美丽海滩，体验汕尾的美食文化，尤其是二马路美食街的丰富选择。",
@@ -1247,16 +1297,6 @@
           "wordCount": 298,
           "title": "无需付费｜借助免费服务零成本上线动态网站",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.ops-coffee.cn/s/free-services-for-website-deployment.html",
-          "author": null,
-          "description": "本文分享了一份免费服务清单，帮助你低成本上线并维护网站，包括GitHub Pages、Cloudflare CDN、Cloudflare Pages等，让你的网站稳定运行多年。",
-          "link": "https://blog.ops-coffee.cn/s/free-services-for-website-deployment.html",
-          "publishedOn": "2025-06-21T09:47:36.000Z",
-          "wordCount": 84,
-          "title": "免费服务清单｜零成本上线并维护你的网站",
-          "imageUrl": null
         }
       ]
     },
@@ -1744,16 +1784,6 @@
           "wordCount": 2565,
           "title": "深入解析 AI Gateway：新一代智能流量控制中枢",
           "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.webp"
-        },
-        {
-          "id": "https://jimmysong.io/blog/kubernetes-gateway-api-comparison/",
-          "author": "Jimmy Song",
-          "description": "对比分析 NGINX Ingress、Kong Gateway、Apache APISIX、Envoy Gateway 等支持 Gateway API 的主流 Kubernetes 网关，从性能、安全、可观测性、社区活跃度等多个维度深入解读。",
-          "link": "https://jimmysong.io/blog/kubernetes-gateway-api-comparison/",
-          "publishedOn": "2025-06-22T02:23:23.000Z",
-          "wordCount": 747,
-          "title": "Kubernetes Gateway API 网关选型全景对比",
-          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.webp"
         }
       ]
     },
@@ -1939,6 +1969,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=303212",
+          "author": "Brandon Lee",
+          "description": "Sometimes it is hard to know where to start when building a home lab. It can be overwhelming with all the choices and services that you know you may need…\nThe post The First Services I Always Spin Up in Any Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/09/the-first-services-i-always-spin-up-in-any-home-lab/",
+          "publishedOn": "2025-09-19T12:30:25.000Z",
+          "wordCount": 8965,
+          "title": "The First Services I Always Spin Up in Any Home Lab",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/09/First-Services-home-lab.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=303169",
           "author": "Brandon Lee",
@@ -2556,6 +2596,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=54068",
+          "author": "Collabnix Team",
+          "description": "Introduction: The Evolution from Single to Multi-Agent AI Systems The artificial intelligence landscape has dramatically shifted in 2025. While single Large Language Models (LLMs) like GPT-4 and Claude dominated 2023-2024, the future belongs to multi-agent LLM systems where specialized AI agents collaborate to solve complex problems. According to recent research, over 80% of enterprise workloads […]",
+          "link": "https://collabnix.com/multi-agent-and-multi-llm-architecture-complete-guide-for-2025/",
+          "publishedOn": "2025-09-19T10:37:03.000Z",
+          "wordCount": 4282,
+          "title": "Multi-Agent and Multi-LLM Architecture: Complete Guide for 2025",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=53958",
           "author": "Tanvir Kour",
@@ -4309,16 +4359,6 @@
           "wordCount": 559,
           "title": "拾月周刊（第39期）：有福吃粮",
           "imageUrl": ""
-        },
-        {
-          "id": "https://www.skyue.com/25062211.html",
-          "author": "拾月",
-          "description": "我在武汉的房子，终于还是卖掉了。将利息、税费计算在内，粗略估算亏损超过120万——这笔钱甚至够在武汉再买一套。心情比预想中平静，账面浮亏一直存在，自欺欺人毫无意义，如今只是将这笔浮亏变成实际亏损...",
-          "link": "https://www.skyue.com/25062211.html",
-          "publishedOn": "2025-06-22T03:12:00.000Z",
-          "wordCount": 589,
-          "title": "武汉卖房",
-          "imageUrl": ""
         }
       ]
     },
@@ -5360,6 +5400,16 @@
       "siteUrl": "https://chegva.com",
       "articles": [
         {
+          "id": "https://chegva.com/?p=6512",
+          "author": "anzhihe",
+          "description": "以大模型为代表的AI技术正在重塑自动化运维（AIOps）的范式，通过预测、自动化、优化、安全四大核心能力，解决传统运维中响应滞后、效率低下、成本高昂等痛点。以下是具体分析：\n\n一、AI为自动化运维带来的核心价值\n\n故障预测与自愈\n\n\n预测性分析\n基于历史日志、指标数据训练模型，提前识别硬件故障（如磁盘损坏）、网络拥堵、服务崩溃等风险。例如，通过LSTM模型分析服务器CPU使用率趋势，预测72小时内可能发生的性能瓶颈。\n\n自动化修复\n结合Ansible/SaltStack等工具，AI可自动执行修复脚本（如重启服务、扩容资源），减少人工干预。例如，当检测到数据库连接池耗尽时，AI触发自动重启数据库进程并调整连接池参数。\n\n\n智能告警与根因分析\n\n\n告警降噪\n通过NLP技术对告警信息进行语义分析，合并重复告警并标注优先级。例如，将“磁盘空间不足”的100条告警聚类为1条核心告警，并关联历史处理方案。\n\n根因定位\n利用图神经网络（GNN）构建服务依赖拓扑，快速定位故障根源。例如，当Web服务不可用时，AI通过拓扑分析发现是数据库连接超时导致，而非网络问题。\n\n\n资源优化与成本节约\n\n\n动态资源调度\n基于强化学习（RL）模型，根据业务负载自动调整资源分配。例如，在电商大促期间，AI预测流量峰值并提前扩容云服务器，活动结束后自动释放资源，降低30%以上成本。\n\n能耗优化\n通过AI算法分析数据中心PUE（电源使用效率），动态调整制冷系统参数，减少能源浪费。\n\n\n安全运维增强\n\n\n异常检测\n利用无监督学习（如Isolation Forest）识别异常登录行为、API调用模式，实时阻断DDoS攻击或数据泄露风险。\n\n漏洞预测\n基于代码静态分析（SAST）和动态分析（DAST）结果，AI预测潜在安全漏洞，并生成修复建议。\n\n\n二、AI功能开发的关键路径\n1. 技术选型与架构设计\n\n后端AI服务…",
+          "link": "https://chegva.com/6512.html",
+          "publishedOn": "2025-09-15T06:17:53.000Z",
+          "wordCount": 17154,
+          "title": "AI技术赋能自动化运维的核心价值与功能开发路径",
+          "imageUrl": null
+        },
+        {
           "id": "https://chegva.com/?p=6385",
           "author": "anzhihe",
           "description": "天涯莲蓬鬼话小说精选，《鬼吹灯》《盗墓笔记》这些就不用说了，友情提醒：胆小者、唯物主义者慎看哦\n《我當道士那些年》\n作者：仐三\n\n\n符籙、虎爪、靈玉、鎖魂結、引魂燈、聚陰地、修仙、崑崙……道家源流傳承千年，未必一切只是傳說！\n\n因為踩著正午十二點出生擁有天生的童子命，讓嬰兒時期的我被百鬼纏身，父母尋訪了村子裡的高人，我的師父── 一個高深莫測的真正道士，註定了我這輩子要做道士。跟著師傅修練闖蕩，遇見冤魂、厲鬼、蛇靈、餓鬼墓……此乃區區小事，苗疆蠱術、神秘的川地南部養屍地、人人聞之色變的滅村傳說……原來平常保衛國家的，除了軍人之外，還有道術的山、醫、命、卜這些派系傳人，玄學世界的神秘面紗即將被揭開……\n\n《我在泰国卖佛牌的那几年》\n作者：鬼店主\n\n鬼这东西，很多人信，也有很多人不信，世界上有太多事情根本无法用科学方式来解释和回答。我本是个无神论者，可一次无意间到泰国的旅游经历，却完全改变了我的命运。我不但信了鬼，而且还在泰国开店卖鬼。你没看错，别人都是捉鬼，而我是卖鬼。\n\n《苗疆蛊事》\n作者：南无袈裟理科佛\n\n\n巫蛊之祸，自西汉起延续几千年，屡禁不止，直至如今，在大中国，唯有乡野之民谈及。而巫蛊降头茅山之术，偏偏在东南亚各地盛行，连香港、台湾之地，也繁荣昌盛，流派纷起。诸位好友，真的认为华夏大地无奇人焉？否！否！否！我会告诉你我就是一个来自苗疆的养蛊人么？\n\n《苗疆蛊事Ⅱ》又名《苗疆蛊事之世界尽头》\n\n苗疆青年陆言，回乡途中，误被人害，下了恐怖之蛊毒，在生死求存之中，却发现自家亲戚之中，居然有一位更加恐怖的苗疆养蛊人，而倒霉的是，求医问药的他陷入了一场关于某位大人失踪的悬疑奇案之中，挣脱不得……\n天山之后，并非末法，旧人落，新人出，黑恶势力卷土重来，曾经的朋友却化身做了敌人，危机重重，幕后黑手呼之欲出，又有域外势力逐鹿中原，上演八国联军之态势，华夏黯淡，谁能扛起新时代的旗帜，…",
@@ -5517,16 +5567,6 @@
           "publishedOn": "2025-06-22T18:33:05.000Z",
           "wordCount": 8673,
           "title": "绝地大逃杀",
-          "imageUrl": null
-        },
-        {
-          "id": "https://chegva.com/?p=6277",
-          "author": "anzhihe",
-          "description": "或多或少我们都会经历线上的故障。在我的职业生涯中，就经历过很多的线上故障。老实说，线上故障是我们技术人员成长中必须要经历的事。从故障中我们可以吸取到很多教训，能让我们学到很多书本上学不到的知识。坑踩多了，我们会变得越来越有经验，也就成为老司机了。\n不过，我看到很多公司处理线上故障的方式并不科学，而且存在很多问题，所以，想写文章来分享一些我的经验。这些经验主要来自亚马逊和阿里这两家互联网公司，以及我个人的经验总结。希望这套方法能够对你有帮助。\n故障发生时\n在故障发生时，最重要的是快速恢复故障。而快速恢复故障的前提是快速定位故障源。因为在很多分布式系统中，一旦发生故障就会出现“多米诺骨牌效应”。也就是说，系统会随着一个故障开始一点一点地波及到其它系统，而且这个过程可能会很快。一旦很多系统都在报警，要想快速定位到故障源就不是一件简单的事了。\n在亚马逊内部，每个开发团队至少都会有一位 oncall 的工程师。在 oncall 的时候，工程师要专心处理线上故障，轮换周期为每人一周。一旦发生比较大的故障，比如，S1 全部不可用，或 S2 某功能不可用，而且找不到替代方案，那么这个故障就会被提交到一个工单系统里。几乎所有相关团队 oncall 的工程师都会被叫到线上处理问题。\n工作流是，先线上签到，然后自查自己的服务，如果自己的服务没有问题，那么就可以在旁边待命（standby），以备在需要时进行配合。如果问题没有被及时解决，就会自动升级到高层，直到 SVP 级别。\n大家都知道，在亚马逊，不是按技能分工，而是按职责分工，也就是一个团队不是按前端、后端、运维等来分工，而是按所负责的 Service 来分工。所以，亚马逊的开发人员都是前端、后端、测试、运维全部都要干的。而亚马逊内部有很多的服务，一旦出现问题，为了避免一个工单在各个团队流转，需要所有团队上线处理，这样是最快的。\n如果我们的系统…",
-          "link": "https://chegva.com/6277.html",
-          "publishedOn": "2025-06-17T21:48:02.000Z",
-          "wordCount": 10087,
-          "title": "故障处理最佳实践",
           "imageUrl": null
         }
       ]
