@@ -1306,6 +1306,16 @@
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
         {
+          "id": "https://jimmysong.io/blog/verdent-first-impression/",
+          "author": "Jimmy Song",
+          "description": "探索 Verdent AI 编程助手在 VS Code 的使用体验，了解其独特功能与改进空间，助力开发者在 AI 时代更高效成长。",
+          "link": "https://jimmysong.io/blog/verdent-first-impression/",
+          "publishedOn": "2025-09-21T03:12:27.000Z",
+          "wordCount": 866,
+          "title": "试用 Verdent 的一些感受：一款支持 Subagent 的 AI 编程助手",
+          "imageUrl": "https://assets.jimmysong.io/images/blog/verdent-first-impression/banner.webp"
+        },
+        {
           "id": "https://jimmysong.io/blog/agentic-design-patterns-review/",
           "author": "Jimmy Song",
           "description": "探索智能体设计的 21 种模式，提升 AI 系统的自主性与效率，助力开发者应对复杂挑战。",
@@ -2578,16 +2588,6 @@
           "wordCount": 10337,
           "title": "Freelens is an Open Source and Free Kubernetes IDE for 2025!",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/06/freelens-open-source-kubernetes-ide-in-2025.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=301587",
-          "author": "Brandon Lee",
-          "description": "I have been super excited to get my hands on this particular NAS device – the Aoostar WTRMax. At first glance, it looks like a storage-packed NAS box, but under the hood, this machine is a powerful combination of compute, RAM, and lots of storage options. With support for up to 11 drives and the …\nThe post Aoostar WTR Max Review: The Almost Perfect NAS Mini PC appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/06/aoostar-wtr-max-review-the-almost-perfect-nas-mini-pc/",
-          "publishedOn": "2025-06-23T15:00:28.000Z",
-          "wordCount": 12277,
-          "title": "Aoostar WTR Max Review: The Almost Perfect NAS Mini PC",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/06/Aoostar-WTR-Max-review.png"
         }
       ]
     },
@@ -3765,16 +3765,6 @@
           "wordCount": null,
           "title": "Building RAG Applications with Ollama and Python: Complete 2025 Tutorial",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=37791",
-          "author": "Collabnix Team",
-          "description": "A technical exploration of autonomous AI systems that move beyond content generation to real-world execution",
-          "link": "https://collabnix.com/beyond-code-generation-where-ai-is-actually-taking-action-in-the-real-world/",
-          "publishedOn": "2025-06-24T13:20:47.000Z",
-          "wordCount": null,
-          "title": "AI in Real-World Applications: Beyond Code Generation",
-          "imageUrl": null
         }
       ]
     },
@@ -4120,6 +4110,16 @@
       "feedUrl": "https://www.skyue.com/feed/",
       "siteUrl": "https://www.skyue.com/",
       "articles": [
+        {
+          "id": "https://www.skyue.com/25092207.html",
+          "author": "拾月",
+          "description": "要搬工区了，周五是浙大森林A座lastday，傍晚到楼下拍照留念。",
+          "link": "https://www.skyue.com/25092207.html",
+          "publishedOn": "2025-09-21T23:07:00.000Z",
+          "wordCount": 558,
+          "title": "2025W37：浙大森林A座",
+          "imageUrl": ""
+        },
         {
           "id": "https://www.skyue.com/25091507.html",
           "author": "拾月",
@@ -4497,6 +4497,16 @@
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
         {
+          "id": "https://dusays.com/828/",
+          "author": null,
+          "description": "<blockquote>\n<p>为了更好的执行 Python 脚本，杜老师习惯使用 Ubuntu 系统，不过在安装 Python 库时经常报错。收集了安装 Python 库的报错信息，并整理了解决办法，供需要的小伙伴们参考。</p>\n</blockquote>",
+          "link": "https://dusays.com/828/",
+          "publishedOn": "2025-09-21T16:00:00.000Z",
+          "wordCount": 793,
+          "title": "Ubuntu 系统无法通过 pip 命令安装 Python 库问题解决",
+          "imageUrl": "https://cdn.dusays.com/avatar.png"
+        },
+        {
           "id": "https://dusays.com/827/",
           "author": null,
           "description": "<blockquote>\n<p>随着相机像素越来越大，图片体积也变大了。在图片处理中，较大的文件体积会影响性能，因此杜老师会先生成缩略图，筛选完成后再通过 Python 脚本实现图片相似度匹配。这里是一个简单的示例，供需要的小伙伴们参考。</p>\n</blockquote>",
@@ -4635,16 +4645,6 @@
           "wordCount": 559,
           "title": "使用 Python 脚本下载指定网页的图片文件",
           "imageUrl": "https://cdn.dusays.com/avatar.png"
-        },
-        {
-          "id": "https://dusays.com/813/",
-          "author": null,
-          "description": "<blockquote>\n<p>X Window 与 Wayland 不仅代表了图形界面技术不同发展阶段，更体现了设计理念、架构模式及应用场景的显著差异。本文将从历史背景、技术特点、应用场景及未来展望等多个维度，对 X Window 和 Wayland 进行深入剖析。</p>\n</blockquote>",
-          "link": "https://dusays.com/813/",
-          "publishedOn": "2025-06-23T16:00:00.000Z",
-          "wordCount": 505,
-          "title": "X Window 与 Wayland 的深度对比",
-          "imageUrl": "https://cdn.dusays.com/avatar.png"
         }
       ]
     },
@@ -4682,6 +4682,16 @@
       "feedUrl": "https://www.dreamlyn.cn/atom.xml",
       "siteUrl": "https://www.dreamlyn.cn/atom.xml",
       "articles": [
+        {
+          "id": "https://www.dreamlyn.cn/1975778823.html",
+          "author": null,
+          "description": "<h1 id=\"🍳-CookLikeHOC：用老乡鸡的方式烹饪美味，轻松上手的JavaScript项目！\"><a href=\"#🍳-CookLikeHOC：用老乡鸡的方式烹饪美味，轻松上手的JavaScript项目！\" class=\"headerlink\" title=\"🍳",
+          "link": "https://www.dreamlyn.cn/1975778823.html",
+          "publishedOn": "2025-09-13T07:08:09.000Z",
+          "wordCount": 620,
+          "title": "CookLikeHOC：用老乡鸡的方式烹饪美味，轻松上手的JavaScript项目！",
+          "imageUrl": "https://img.dreamlyn.cn:8443/i/2024/02/22/115030.webp"
+        },
         {
           "id": "https://www.dreamlyn.cn/1975778801.html",
           "author": null,
@@ -4810,16 +4820,6 @@
           "publishedOn": "2025-06-26T06:49:30.000Z",
           "wordCount": 851,
           "title": "ingress-nginx 使用自定义的nginx配置",
-          "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
-        },
-        {
-          "id": "https://zahui.fan/posts/sycvjt/",
-          "author": null,
-          "description": "<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br><span class=\"line\">2</span><br><span class=\"line\">3</span><br><span class=\"line\">4</span><br><span",
-          "link": "https://zahui.fan/posts/sycvjt/",
-          "publishedOn": "2025-06-24T10:23:52.000Z",
-          "wordCount": 1060,
-          "title": "P12格式证书与PEM格式转换",
           "imageUrl": "https://static.zahui.fan/public/skeleton1.svg"
         }
       ]
@@ -5055,18 +5055,7 @@
       "title": "Alliot's blog",
       "feedUrl": "https://www.iots.vip/atom.xml",
       "siteUrl": "https://www.iots.vip/atom.xml",
-      "articles": [
-        {
-          "id": "https://www.iots.vip/post/argocd-metadata-annotations-Toolong",
-          "author": null,
-          "description": "<p>　　使用 Argo CD 部署 kube-prometheus-stack 的时候，出现 <code>the metadata.annotations is invalid: Too long: must have at most 262144 bytes</code> 的问题，导致整个 Application 出现 Sync Error。 这是由于Kubernetes 对于 metadata.annotations 字段总长度有限制，通常不能超过262144字节（256KB），而执行 <code>kubectl apply</code> 时会在 annotation 中加入 <code>last-applied-configuration</code>, 从而导致 annotation 过大无法 apply。",
-          "link": "https://www.iots.vip/post/argocd-metadata-annotations-Toolong",
-          "publishedOn": "2025-06-24T11:21:52.000Z",
-          "wordCount": 1311,
-          "title": "ArgoCD部署应用出现metadata.annotations过大问题",
-          "imageUrl": "https://static.iots.vip/argocd-replace-sync.webp"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "弹霄博科",
@@ -5158,7 +5147,18 @@
       "title": "山山仙人博客",
       "feedUrl": "https://www.ssgeek.com/atom.xml",
       "siteUrl": "https://www.ssgeek.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.ssgeek.com/20251200-%E6%B5%85%E8%B0%88JWTJWSJWEJWAJWK",
+          "author": null,
+          "description": "",
+          "link": "https://www.ssgeek.com/20251200-%E6%B5%85%E8%B0%88JWTJWSJWEJWAJWK",
+          "publishedOn": "2025-09-18T14:02:09.154Z",
+          "wordCount": 48,
+          "title": "20251200-浅谈JWTJWSJWEJWAJWK",
+          "imageUrl": "https://www.ssgeek.com/img/avatar.png"
+        }
+      ]
     },
     {
       "title": "张戈博客",
@@ -5573,16 +5573,6 @@
           "publishedOn": "2025-07-07T00:00:00.000Z",
           "wordCount": 1081,
           "title": "AMD Zen 1 的 BTB 结构分析",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jia.je/hardware/2025/06/23/arm-neoverse-v1-btb/",
-          "author": null,
-          "description": "ARM Neoverse V1 (代号 Zeus) 的 BTB 结构分析¶\n背景¶\nARM Neoverse V1 是 ARM Neoverse N1 的下一代服务器 CPU，之前我们分析过 Neoverse N1 的 BTB 设计。而 ARM Neoverse V1 在很多地方都和 Cortex-X1 类似，有了一些改进，在这里对它的 BTB 做一些分析。\n\n官方信息¶\n首先收集了一些 ARM Neoverse V1 的 BTB 结构的官方信息：\n\nSW defined cars: HPC, from the cloud to the dashboard for an amazing driver experience\n64KB L1 ICache, 2x32B bandwidth\n8K-entry main BTB\n96-entry nano BTB, 0 cycle bubble\n2 stage prediction pipeline: P1 & P2\n\nArm Neoverse V2 platform: Leadership Performance and Power Efficiency for Next-Generation Cloud Computing, ML and HPC Workloads\n2 predicted branches per cycle\n\n\n简单整理一下官方信息，大概有两级 BTB：\n\n96-entry nano BTB, 1 cycle latency (0 cycle bubble)\n8K-entry main BTB\n2 predicted branches per cycle\n\n但是很多细节是缺失的，因此下面结合微架构测试，进一步研究它的内部结构。\n微架构测试¶\n在之前的博客里，我们已经测试了各种处理器的 BTB，在这里也是一样的…",
-          "link": "https://jia.je/hardware/2025/06/23/arm-neoverse-v1-btb/",
-          "publishedOn": "2025-06-23T00:00:00.000Z",
-          "wordCount": 1591,
-          "title": "ARM Neoverse V1 (代号 Zeus) 的 BTB 结构分析",
           "imageUrl": null
         }
       ]
