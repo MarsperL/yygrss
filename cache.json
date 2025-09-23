@@ -570,18 +570,7 @@
       "title": "Rss Feed - 苏洋博客",
       "feedUrl": "https://soulteary.com/feed/",
       "siteUrl": "https://soulteary.com/feed/",
-      "articles": [
-        {
-          "id": "https://soulteary.com/2025/06/25/build-a-stable-can-network-with-can-bridge.html",
-          "author": "苏洋(soulteary)",
-          "description": "本篇文章，分享前段时间折腾的一个开源项目。聊聊我们是如何解决调试开发阶段 CAN 通信和初始化相关的事情的。希望这篇文章可以为你未来调试设备、构建系统提供一点便利。",
-          "link": "https://soulteary.com/2025/06/25/build-a-stable-can-network-with-can-bridge.html",
-          "publishedOn": "2025-06-25T04:49:00.000Z",
-          "wordCount": 725,
-          "title": "构建稳定的 CAN 网络通信桥梁：CAN-Bridge",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "运维咖啡吧",
@@ -1306,6 +1295,16 @@
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
         {
+          "id": "https://jimmysong.io/blog/github-gitcoin-fund-phishing-2025/",
+          "author": "Jimmy Song",
+          "description": "以我近期遭遇的“GitHub × Gitcoin Developer Fund 2025”钓鱼为案例，系统分析其利益驱动、完整链条、技术实现与个人/组织的防御与应急 SOP。",
+          "link": "https://jimmysong.io/blog/github-gitcoin-fund-phishing-2025/",
+          "publishedOn": "2025-09-22T02:08:57.000Z",
+          "wordCount": 847,
+          "title": "新型 GitHub 资助申请诈骗全解析：利益链条、作案流程、技术实现与防御",
+          "imageUrl": "https://assets.jimmysong.io/images/blog/github-gitcoin-fund-phishing-2025/banner.webp"
+        },
+        {
           "id": "https://jimmysong.io/blog/verdent-first-impression/",
           "author": "Jimmy Song",
           "description": "探索 Verdent AI 编程助手在 VS Code 的使用体验，了解其独特功能与改进空间，助力开发者在 AI 时代更高效成长。",
@@ -1980,6 +1979,26 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=303310",
+          "author": "Brandon Lee",
+          "description": "In case you haven’t heard, Microsoft is getting things ready to release the latest version of Windows 11, Windows 11 version 25H2. In this one, Microsoft isn’t just dropping a…\nThe post Windows 11 25H2 ISOs and Enablement Package Download Released Ahead of Launch appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/09/windows-11-25h2-isos-and-enablement-package-download-released-ahead-of-launch/",
+          "publishedOn": "2025-09-22T15:16:55.000Z",
+          "wordCount": 10235,
+          "title": "Windows 11 25H2 ISOs and Enablement Package Download Released Ahead of Launch",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/09/Windows-11-25H2-download-ISO.png"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=303256",
+          "author": "Brandon Lee",
+          "description": "I have been all-in on mini PCs now for the past couple of years and have since gotten rid of my enterprise 2U servers and that create a lot of…\nThe post Why Your Mini PC’s NVMe Drive Isn’t as Fast as You Think appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/09/why-your-mini-pcs-nvme-drive-isnt-as-fast-as-you-think/",
+          "publishedOn": "2025-09-22T12:02:28.000Z",
+          "wordCount": 11703,
+          "title": "Why Your Mini PC’s NVMe Drive Isn’t as Fast as You Think",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/09/why-your-mini-pcs-nvme-drive-isnt-as-fast-as-you-might-think.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=303212",
           "author": "Brandon Lee",
           "description": "Sometimes it is hard to know where to start when building a home lab. It can be overwhelming with all the choices and services that you know you may need…\nThe post The First Services I Always Spin Up in Any Home Lab appeared first on Virtualization Howto.",
@@ -2578,16 +2597,6 @@
           "wordCount": 9689,
           "title": "My Favorite Home Lab Tools in 2025 (So Far): Projects I Keep Coming Back To",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/06/click-your-on-premises-repository-settings.jpg"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=301614",
-          "author": "Brandon Lee",
-          "description": "I have been playing around with various Kubernetes IDE solutions for years now and there are many different ones that offer great solutions for working with Kubernetes to be honest. I have written about and have been showing solutions like Open Lens and Lens over the past few years. My new favorite is Aptakube. However, …\nThe post Freelens is an Open Source and Free Kubernetes IDE for 2025! appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/06/freelens-is-an-open-source-and-free-kubernetes-ide-for-2025/",
-          "publishedOn": "2025-06-24T15:35:59.000Z",
-          "wordCount": 10337,
-          "title": "Freelens is an Open Source and Free Kubernetes IDE for 2025!",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/06/freelens-open-source-kubernetes-ide-in-2025.png"
         }
       ]
     },
@@ -3744,26 +3753,6 @@
           "publishedOn": "2025-06-26T06:31:09.000Z",
           "wordCount": null,
           "title": "Kubernetes Performance Tuning: 15 Best Practices for Production",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/running-ollama-on-kubernetes-a-complete-guide-to-local-llm-deployment-3/",
-          "author": "Collabnix Team",
-          "description": "Learn how to deploy and scale Ollama LLM models on Kubernetes clusters for production-ready AI applications",
-          "link": "https://collabnix.com/running-ollama-on-kubernetes/",
-          "publishedOn": "2025-06-24T18:25:28.000Z",
-          "wordCount": 4148,
-          "title": "Running Ollama on Kubernetes: A Complete Guide to Local LLM Deployment",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=37829",
-          "author": "Collabnix Team",
-          "description": "Retrieval-Augmented Generation (RAG) has revolutionized how we build intelligent applications that can access and reason over external knowledge bases. In this comprehensive tutorial, we’ll explore how to build production-ready RAG applications using Ollama and Python, leveraging the latest techniques and best practices for 2025. What is RAG and Why Use Ollama? Retrieval-Augmented Generation combines the […]",
-          "link": "https://collabnix.com/building-rag-applications-with-ollama-and-python-complete-2025-tutorial/",
-          "publishedOn": "2025-06-24T16:30:44.000Z",
-          "wordCount": null,
-          "title": "Building RAG Applications with Ollama and Python: Complete 2025 Tutorial",
           "imageUrl": null
         }
       ]
