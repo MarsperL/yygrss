@@ -1979,6 +1979,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=303432",
+          "author": "Brandon Lee",
+          "description": "Reverse proxies I think are one of the most important services that you can spin up in your home lab. In fact, if you caught my recent blog post and…\nThe post Why Pangolin is the one reverse proxy I’d pick if I was starting my home lab today appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/09/why-pangolin-is-the-one-reverse-proxy-id-pick-if-i-was-starting-my-home-lab-today/",
+          "publishedOn": "2025-09-29T12:30:47.000Z",
+          "wordCount": 11670,
+          "title": "Why Pangolin is the one reverse proxy I’d pick if I was starting my home lab today",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/09/Why-Pangolin-is-the-one-reverse-proxy-Id-pick-if-I-was-starting-my-home-lab-today-3.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=303382",
           "author": "Brandon Lee",
           "description": "Recently, I covered the first services that you should spin up in a home lab, including core services that are needed to make sure things work as expected with apps…\nThe post The First Hardware I Always Buy for Any Home Lab appeared first on Virtualization Howto.",
@@ -2597,16 +2607,6 @@
           "wordCount": 10668,
           "title": "Wireshark 101: The 2025 Beginner’s Guide",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/07/Wireshark-beginners-guide.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=301666",
-          "author": "Brandon Lee",
-          "description": "You don’t need cloud credits or racks of GPUs to experiment with powerful AI tools. Thanks to lean local models and awesome open-source tools, you can build your own AI stack in a weekend. You can do all of this right in your home lab. You can host your own ChatGPT alternative, automate your RSS …\nThe post 5 Killer AI Projects You Can Try in a Weekend appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/07/5-killer-ai-projects-you-can-try-in-a-weekend/",
-          "publishedOn": "2025-07-02T12:57:12.000Z",
-          "wordCount": 9597,
-          "title": "5 Killer AI Projects You Can Try in a Weekend",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/07/5-Killer-AI-Projects.png"
         }
       ]
     },
@@ -2615,6 +2615,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=55163",
+          "author": "Tanvir Kour",
+          "description": "Artificial Intelligence (AI) has become a significant force in transforming various industries. One area where its impact is profound is Technology Assisted Review (TAR). This innovative approach enhances data analysis and document review processes, making them more efficient. By integrating intelligent algorithms, TAR has revolutionized how professionals handle large volumes of information. Understanding Technology Assisted […]",
+          "link": "https://collabnix.com/how-ai-is-driving-advances-in-technology-assisted-review/",
+          "publishedOn": "2025-09-29T09:52:59.000Z",
+          "wordCount": 2494,
+          "title": "How AI Is Driving Advances in Technology Assisted Review",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=54960",
           "author": "Tanvir Kour",
@@ -3663,36 +3673,6 @@
           "publishedOn": "2025-07-06T17:27:59.000Z",
           "wordCount": null,
           "title": "Penetration Testing for Generative AI: Addressing Emerging Threats",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=38861",
-          "author": "Tanvir Kour",
-          "description": "Managing a remote team of engineers is like walking a tightrope. They need space to think, code, and create without someone breathing down their neck. But managers still need to know the work’s getting done—features shipped, bugs squashed, deadlines met. The trick is keeping tabs without turning into the office equivalent of a helicopter parent. […]",
-          "link": "https://collabnix.com/best-practices-for-monitoring-remote-engineers-without-killing-their-trust/",
-          "publishedOn": "2025-07-02T14:05:38.000Z",
-          "wordCount": 3910,
-          "title": "Best Practices for Monitoring Remote Engineers Without Killing Their Trust",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=38851",
-          "author": "Collabnix Team",
-          "description": "Docker Model Runner Tutorial: Step-by-Step Guide Deploying AI models just got as simple as running Docker containers. Docker Model Runner brings the familiar Docker experience to AI model management, letting you deploy, manage, and scale machine learning models with the same ease you’d expect from containerized applications. This comprehensive guide will walk you through setting […]",
-          "link": "https://collabnix.com/docker-model-runner-tutorial-complete-guide-to-deploy-ai-models-on-linux-2025/",
-          "publishedOn": "2025-07-02T13:33:25.000Z",
-          "wordCount": null,
-          "title": "Docker Model Runner Tutorial: Complete Guide to Deploy AI Models on Linux (2025)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=38777",
-          "author": "Tanvir Kour",
-          "description": "Discover how AI, Kubernetes, and Docker are transforming container management in logistics by optimizing routes, automating operations, and improving efficiency in supply chains.",
-          "link": "https://collabnix.com/how-ai-is-transforming-container-management-and-logistics-in-the-world-of-kubernetes-and-docker/",
-          "publishedOn": "2025-07-01T19:38:42.000Z",
-          "wordCount": 4235,
-          "title": "How AI is Transforming Container Management and Logistics in the World of Kubernetes and Docker",
           "imageUrl": null
         }
       ]
@@ -5592,23 +5572,6 @@
           "publishedOn": "2025-07-07T00:00:00.000Z",
           "wordCount": 1081,
           "title": "AMD Zen 1 的 BTB 结构分析",
-          "imageUrl": null
-        }
-      ]
-    },
-    {
-      "title": "关于行走",
-      "feedUrl": "https://www.xingzou.org/feed",
-      "siteUrl": "https://www.xingzou.org/",
-      "articles": [
-        {
-          "id": "https://www.xingzou.org/p/899",
-          "author": "北禾",
-          "description": "自从年前从上家公司被裁员后，最近半年没怎么写记录，说是太懒，其实是一个借口，主要是最近这半年来，觉得不是太顺，也不知道怎么来写这段记录，刚好今天有时间，顺着时间线写写最近半年的一些变化。  2月...",
-          "link": "https://www.xingzou.org/p/899",
-          "publishedOn": "2025-08-28T12:06:00.000Z",
-          "wordCount": 418,
-          "title": "半年记",
           "imageUrl": null
         }
       ]
