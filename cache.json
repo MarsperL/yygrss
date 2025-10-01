@@ -1773,26 +1773,6 @@
           "wordCount": 391,
           "title": "我将从 Tetrate 离职，重新思考下一段旅程",
           "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
-        },
-        {
-          "id": "https://jimmysong.io/blog/fabric-cli-ai-pipeline/",
-          "author": "Jimmy Song",
-          "description": "Fabric 是一个命令行 AI 工具框架，它通过“模式（Pattern）+ 管道”的方式，让你将 LLM 能力无缝集成到终端工作流中，本文详解安装、配置、核心概念与自定义模式实践。",
-          "link": "https://jimmysong.io/blog/fabric-cli-ai-pipeline/",
-          "publishedOn": "2025-07-03T11:59:14.000Z",
-          "wordCount": 555,
-          "title": "Fabric：为你的命令行安上 AI 管道",
-          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
-        },
-        {
-          "id": "https://jimmysong.io/blog/envoy-jaeger-tracing-explained/",
-          "author": "Jimmy Song",
-          "description": "",
-          "link": "https://jimmysong.io/blog/envoy-jaeger-tracing-explained/",
-          "publishedOn": "2025-07-03T02:03:08.000Z",
-          "wordCount": null,
-          "title": "Envoy Jaeger Tracing 示例详解",
-          "imageUrl": null
         }
       ]
     },
@@ -1819,16 +1799,6 @@
           "publishedOn": "2025-07-23T07:25:00.000Z",
           "wordCount": 690,
           "title": "AIOps提效--风格化报表自动生成",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nops.icu/archives/213/",
-          "author": "季兴",
-          "description": "写技术文档一直是挺花时间，也挺头疼的一项任务。更头疼的是还要配图！先看效果（推荐手机端观看，可放大）：画的还是有模有样，看步骤cursor或chatbox添加mermaid MCPMCP添加方式...",
-          "link": "https://nops.icu/archives/213/",
-          "publishedOn": "2025-07-03T02:49:00.000Z",
-          "wordCount": 533,
-          "title": "MCP提效--技术文档配图",
           "imageUrl": null
         }
       ]
@@ -1978,6 +1948,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=303434",
+          "author": "Brandon Lee",
+          "description": "Since I have moved my home lab now to mostly mini PCs, I definitely keep my eyes open for great mini PC configurations and offerings that make sense for home…\nThe post MINIX Elite EU715-AI Review The Mini PC Designed for AI and Home Labs appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/09/minix-elite-eu715-ai-review-the-mini-pc-designed-for-ai-and-home-labs/",
+          "publishedOn": "2025-09-30T11:58:52.000Z",
+          "wordCount": 10703,
+          "title": "MINIX Elite EU715-AI Review The Mini PC Designed for AI and Home Labs",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/09/MINIX-Elite-EU715-AI-Review-2.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=303432",
           "author": "Brandon Lee",
@@ -4265,6 +4245,16 @@
       "siteUrl": "https://blognas.hwb0307.com/",
       "articles": [
         {
+          "id": "https://blognas.hwb0307.com/?p=6475",
+          "author": "Bensz",
+          "description": "Bensz\n前沿快讯 第74期 Arc研究所发起虚拟细胞挑战赛等\n本博客由Faconhost大力赞助！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 前言 本文是前沿快讯的第74期。前沿快讯栏目主要收集一些个人感兴趣的近期发表的研究，关注领域包括肿瘤的分子生物学、临床研究、流行病学等，文献类型主要是期刊论文和综述。研究介绍在Google机翻摘要的基础上进行微调，可能不一定特别准确、专业，主要目的是方便自己和大家快速了解和回顾相关领域研究进展。如果你对某个研究的细节感兴趣，请自行寻找全文进一步了解。此外，研究根据子领域会进一步细分，不过交叉领域的研究不好分为某一类，所以这个分类主要用于初级索引，并不十分准确，不喜勿喷。最后，大家看到什么特别的研究，也可以在评论区向我推荐，我会酌情收录在后面的期刊中。如无意外，前沿快讯栏目会长期更新，周期为2周-1月 […]\nBensz",
+          "link": "https://blognas.hwb0307.com/medicine/6475",
+          "publishedOn": "2025-09-30T14:25:43.000Z",
+          "wordCount": 8928,
+          "title": "前沿快讯 第74期 Arc研究所发起虚拟细胞挑战赛等",
+          "imageUrl": "https://chevereto.hwb0307.com/images/2025/07/05/image-20250705170737633.png"
+        },
+        {
           "id": "https://blognas.hwb0307.com/?p=6463",
           "author": "Bensz",
           "description": "Bensz\nApple系列 2025年你是否需要iPhone 17？\n本博客由Faconhost大力赞助！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 前言 随着极客湾发布了对iPhone17系列的评测，相信很多小伙伴都已经感受到了iPhone 17系列相比前两代所带来的巨大升级。作为一个iPhone 15 Pro Max机主，我也有比较强的换机冲动；使用更老机型的小伙伴类似的冲动或许更加强烈。许多从来没有使用过iPhone的安卓/鸿蒙小伙伴在听闻iPhone 17数字版的“巨大升级”后，也会考虑是否有必要购入1台尝鲜甚至是当主力机。作为一名在苹果生态浸淫多年的iPhone安卓双持用户，我想系统地整理、归纳一些关键信息，以分析在2025年有哪些小伙伴可能需要iPhone 17系列 (～￣▽￣)～ 个人建议 iPhone 18相比iPhone 17的 […]\nBensz",
@@ -4742,6 +4732,16 @@
       "siteUrl": "https://zahui.fan/atom.xml",
       "articles": [
         {
+          "id": "https://zahui.fan/posts/t3e151/",
+          "author": null,
+          "description": "<p>在 macOS 中运行命令行程序，如果你不想开一个终端窗口，并且希望实现开机自启动等等功能，可以使用 macOS 自带的服务管理。这里以 easytier 这个组网工具为例：</p>\n<p>直接执行的命令是：<code>/usr/local/bin/easytier-core -c /Users/iuxt/config/easytier.toml</code></p>\n<h2",
+          "link": "https://zahui.fan/posts/t3e151/",
+          "publishedOn": "2025-09-30T06:10:12.000Z",
+          "wordCount": 806,
+          "title": "macOS自定义后台运行程序",
+          "imageUrl": "https://s3.babudiu.com/iuxt/public/skeleton1.svg"
+        },
+        {
           "id": "https://zahui.fan/posts/t37flu/",
           "author": null,
           "description": "<h2 id=\"为什么有这个需求\"><a href=\"#为什么有这个需求\" class=\"headerlink\" title=\"为什么有这个需求\"></a>为什么有这个需求</h2><p>比如说一个服务运行在 Docker 中，通过 Docker 网络和其他容器连接，比如一个容器会通过 docker 网络访问数据库容器，这个数据库也没有做端口映射。现在我想用 Navicat",
@@ -4838,6 +4838,16 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=22413",
+          "author": "xiaoz",
+          "description": "为助力开发者与企业用户更低成本、更轻松地开启云端探索，亚马逊云科技正式推出新版本的 Free Tier 2.0，对免费套餐服务进行了一次值得关注的优化与升级。需要注意的是，此项全新福利目前仅在海外区域上线（北京与宁夏区域除外），正是您注册并启动亚马逊云科技海外区之旅的好时机。这篇文章将介绍：注册亚马",
+          "link": "https://blog.xiaoz.org/archives/22413",
+          "publishedOn": "2025-09-30T01:56:05.000Z",
+          "wordCount": 257,
+          "title": "亚马逊云科技免费套餐升级2.0，新用户注册最高可获得 $200 美元抵扣金",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=22450",
           "author": "xiaoz",
@@ -5036,16 +5046,6 @@
           "publishedOn": "2025-07-04T07:08:40.000Z",
           "wordCount": 246,
           "title": "英国公司注销流程",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=22202",
-          "author": "xiaoz",
-          "description": "Zdir是一款使用Golang + Vue3开发的多功能私有存储程序，集成了文件索引、在线预览和分享功能，支持WebDAV和离线下载，非常适合安装在NAS设备或大容量VPS上，是个人、工作室和小团队分享文件的理想选择。演示演示地址：https://demo.zdir.pro/ （国外服务器）用户名：",
-          "link": "https://blog.xiaoz.org/archives/22202",
-          "publishedOn": "2025-07-03T01:22:43.000Z",
-          "wordCount": 280,
-          "title": "多功能文件分享程序Zdir 4.6.0发布，新增网盘挂载",
           "imageUrl": null
         }
       ]
