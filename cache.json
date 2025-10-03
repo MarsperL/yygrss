@@ -1773,16 +1773,6 @@
           "wordCount": 335,
           "title": "数据驱动：我是如何构建我的网站内容分析页面的",
           "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
-        },
-        {
-          "id": "https://jimmysong.io/blog/hugo-note-taking/",
-          "author": "Jimmy Song",
-          "description": "从 VS Code 编辑器到 GitHub 版本控制，再到 Hugo 静态网站生成，我的这套工作流让记笔记变得像写代码一样高效而优雅。",
-          "link": "https://jimmysong.io/blog/hugo-note-taking/",
-          "publishedOn": "2025-07-05T10:30:00.000Z",
-          "wordCount": 882,
-          "title": "像写代码一样记笔记：我的 VS Code + GitHub + Hugo 工作流",
-          "imageUrl": "https://jimmysong.io/images/backgrounds/favicon.png"
         }
       ]
     },
@@ -1958,6 +1948,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=303531",
+          "author": "Brandon Lee",
+          "description": "I have been playing around with and using OPNsense for a while now and it is a rock solid open-srouce firewall that can do just about anything you want to…\nThe post The OPNsense Plugin You Must Install in 2025: Zenarmor Guide & Review appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/10/the-opnsense-plugin-you-must-install-in-2025-zenarmor-guide-review/",
+          "publishedOn": "2025-10-02T13:10:36.000Z",
+          "wordCount": 11692,
+          "title": "The OPNsense Plugin You Must Install in 2025: Zenarmor Guide & Review",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/10/The-OPNsense-Plugin-You-Must-Install-in-2025.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=303510",
           "author": "Brandon Lee",
@@ -2605,6 +2605,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=55520",
+          "author": "Tanvir Kour",
+          "description": "You want to keep all your business data and operations in one place? Learn how unified management systems can help you achieve that.",
+          "link": "https://collabnix.com/how-unified-systems-impact-modern-business-operations/",
+          "publishedOn": "2025-10-02T18:14:18.000Z",
+          "wordCount": 3427,
+          "title": "How Unified Systems Impact Modern Business Operations",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=55276",
           "author": "Tanvir Kour",
@@ -3955,7 +3965,18 @@
       "title": "This Cute World",
       "feedUrl": "https://thiscute.world/index.xml",
       "siteUrl": "https://thiscute.world/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://thiscute.world/posts/linux-desktop-explained/?utm_source=atom_feed",
+          "author": null,
+          "description": "<h2 id=\"定位与目标\" class=\"headerLink\">\n<a href=\"#%e5%ae%9a%e4%bd%8d%e4%b8%8e%e7%9b%ae%e6%a0%87\" class=\"header-mark\"></a>定位与目标</h2><p>Linux 桌面包含了相当多的系统组件，这些组件组合形成了一个精密的系统，它们共同管理着从硬件设备到用户会话的方方面面。</p>\n<p>即使我已经有七八年的 Linux 使用经验，在遇到系统的各种大小毛病时，还是常常觉得问题的定位跟解决很是艰难。倘若我们能像庖丁那样“目无全牛”，对整个系统的架构了如指掌，在定位问题时顺着骨节筋脉下刀，那解决起问题来自然也将游刃有余。</p>",
+          "link": "https://thiscute.world/posts/linux-desktop-explained/?utm_source=atom_feed",
+          "publishedOn": "2025-09-09T12:17:33.000Z",
+          "wordCount": 4574,
+          "title": "Linux 桌面系统组件概览与故障排查指南",
+          "imageUrl": "https://thiscute.world/posts/linux-desktop-explained/featured-image.webp"
+        }
+      ]
     },
     {
       "title": "一颗小树",
