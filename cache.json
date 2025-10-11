@@ -3,8 +3,18 @@
     {
       "title": "云野阁",
       "feedUrl": "https://marsperl.github.io/rss2.xml",
-      "siteUrl": "https://MarsperL.github.io/",
+      "siteUrl": "https://yyg.js.cool/",
       "articles": [
+        {
+          "id": "https://yyg.js.cool/yyg/2eca17c7/",
+          "author": null,
+          "description": "博客加入Gitalk评论后，需要访问相应页面，才在存放评论的仓库创建Issues。本文通过脚本自动访问文章页面完成Gitalk自动创建评论Issues。脚本自attson/hexo-gitalk-init: Hexo gitalk 极简初始化脚本基础上修改而来（是在windows本地运行）。\n这是一个用于 Hexo 博客的 Gitalk 评论系统自动初始化脚本。它能自动扫描所有文章，识别出尚未创建评论 Issue 的页面，并通过模拟浏览器访问来触发 Gitalk 自动完成 Issue",
+          "link": "https://yyg.js.cool/yyg/2eca17c7/",
+          "publishedOn": "2025-10-08T14:06:07.000Z",
+          "wordCount": 3172,
+          "title": "Gitalk自动创建评论Issues",
+          "imageUrl": "https://api.vvhan.com/api/wallpaper/views"
+        },
         {
           "id": "https://marsperl.github.io/yyg/2eca17c7/",
           "author": null,
@@ -16,6 +26,16 @@
           "imageUrl": "https://picapi.pai.al/api/scenery.php"
         },
         {
+          "id": "https://yyg.js.cool/yyg/986299a9/",
+          "author": null,
+          "description": "<a href=\"#网络\" class=\"headerlink\"",
+          "link": "https://yyg.js.cool/yyg/986299a9/",
+          "publishedOn": "2025-08-22T10:17:22.000Z",
+          "wordCount": null,
+          "title": "k8s知识梳理--进阶",
+          "imageUrl": null
+        },
+        {
           "id": "https://marsperl.github.io/yyg/986299a9/",
           "author": null,
           "description": "<a href=\"#网络\" class=\"headerlink\"",
@@ -24,6 +44,16 @@
           "wordCount": 4569,
           "title": "k8s知识梳理--进阶",
           "imageUrl": "https://imgapi.cn/api.php?fl=fengjing&gs=images"
+        },
+        {
+          "id": "https://yyg.js.cool/yyg/4789a872/",
+          "author": null,
+          "description": "前言\n在linux环境下，使用docker部署ollama+deepseek-r1:1.5b+open-webui，实现私有化部署DeepSeek。\n部署过程\n<a href=\"#安装docker\" class=\"headerlink\"",
+          "link": "https://yyg.js.cool/yyg/4789a872/",
+          "publishedOn": "2025-08-16T09:12:50.000Z",
+          "wordCount": null,
+          "title": "私有化部署DeepSeek",
+          "imageUrl": null
         },
         {
           "id": "https://marsperl.github.io/yyg/4789a872/",
@@ -1324,6 +1354,16 @@
       "siteUrl": "https://collabnix.com",
       "articles": [
         {
+          "id": "https://collabnix.com/?p=56592",
+          "author": "Tanvir Kour",
+          "description": "You want to incorporate AI technology into your workflow? Learn about the best AI services available that can help you manage this process.",
+          "link": "https://collabnix.com/10-ai-services-transforming-businesses-in-2025/",
+          "publishedOn": "2025-10-11T05:35:50.000Z",
+          "wordCount": 3270,
+          "title": "10 AI Services Transforming Businesses in 2025",
+          "imageUrl": null
+        },
+        {
           "id": "https://collabnix.com/?p=56345",
           "author": "Tanvir Kour",
           "description": "How well a company does depends a lot on how engaged its workers are. Employees are more motivated and productive at work when they feel like they belong, are valued, and are supported. But in many companies, engagement goes down because the systems that teams use don’t work effectively together. It’s hard to gather information, […]",
@@ -2529,6 +2569,16 @@
       "siteUrl": "https://bluehe.cn/",
       "articles": [
         {
+          "id": "https://bluehe.cn/archives/5938",
+          "author": "luhan",
+          "description": "大师阿迪斯\n...",
+          "link": "https://bluehe.cn/archives/5938",
+          "publishedOn": "2025-10-11T12:29:00.000Z",
+          "wordCount": 561,
+          "title": "未命名文档",
+          "imageUrl": null
+        },
+        {
           "id": "https://bluehe.cn/archives/snapic-just-640px",
           "author": "寻鹤",
           "description": "Snapic Just 640px是我在用的主题，作者更新很快，但一些修改只能在文件修，所以来总结一下我全部的设置。\n\nLopwon：不推荐从外部引入字体，访问不顺畅会导致自己的页面加载受阻，如果非得使用，需要放置在主题本身的 css 文件之下，也就是在 head 标签内的最下方，以覆盖主题 css 中的字体设置。\n\n\n1、我是直接在head.php的< head >部分填写以下代码：...",
@@ -2595,6 +2645,16 @@
       "feedUrl": "https://dongjunke.cn/atom.xml",
       "siteUrl": "https://dongjunke.cn/atom.xml",
       "articles": [
+        {
+          "id": "https://dongjunke.cn/posts/2025/10/11/33842.html",
+          "author": null,
+          "description": "<p>食草堂是当代艺术家牛印合在1997年创立的手工皮具品牌。坐落在我老家鹿泉区的食草堂，与其说是一家食草堂的工厂店，不如是一座艺术园区，因为园区里还有很多工业遗迹，印象中这里最早是个锅炉厂，园区里还有一些艺术家本人策划的艺术展览和艺术馆。</p>\n<p>似乎艺术家对机车情有独钟",
+          "link": "https://dongjunke.cn/posts/2025/10/11/33842.html",
+          "publishedOn": "2025-10-11T13:08:56.000Z",
+          "wordCount": 436,
+          "title": "食草堂",
+          "imageUrl": "https://pic.587804.xyz/pic/20251011210414.webp"
+        },
         {
           "id": "https://dongjunke.cn/posts/2025/10/04/58899.html",
           "author": null,
@@ -3112,6 +3172,16 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=22469",
+          "author": "xiaoz",
+          "description": "亚马逊云科技是业界公认的全面、可靠且可扩展的云服务平台。现在，新用户可获得高达200美元服务抵扣金，用于免费体验其核心服务，还没 注册亚马逊云科技 的朋友千万别错过。这200美元由两部分组成：注册即得$100：完成注册，立获100美元抵扣金。任务再得$100：完成简单探索任务，额外再得100美元抵扣",
+          "link": "https://blog.xiaoz.org/archives/22469",
+          "publishedOn": "2025-10-11T02:06:04.000Z",
+          "wordCount": 264,
+          "title": "新用户专属福利：手把手教你领取200美元亚马逊云科技服务抵扣金",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=22413",
           "author": "xiaoz",
