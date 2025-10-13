@@ -96,6 +96,16 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
+          "id": "https://daverupert.com/2025/10/custom-elements-manifest-killer-feature/",
+          "author": null,
+          "description": "One unsung feature in the web components space that I don’t think gets enough attention is the Custom Elements Manifest initiative. I think it’s the killer feature of web components.\nKnown as “CEM” to its friends, a CEM is a community standard JSON format that surfaces information about your component APIs. The analyzer scans your class-based component to build up a “manifest” of all the methods, events, slots, parts, tag name, and CSS variables you want to expose. It works on a single component or an entire system’s worth of components. If you want to surface more details to consumers (like accepted attributes or CSS custom properties), you can provide more context to the analyzer through JSDoc comments and/or TypeScript types – which is good code hygiene and a favor for your future self …",
+          "link": "https://daverupert.com/2025/10/custom-elements-manifest-killer-feature/",
+          "publishedOn": "2025-10-13T15:30:00.000Z",
+          "wordCount": 1667,
+          "title": "The killer feature of Web Components",
+          "imageUrl": null
+        },
+        {
           "id": "https://daverupert.com/2025/10/why-i-hate-the-mvp-car/",
           "author": null,
           "description": "I have a love-hate relationship with “the MVP car”, that classic illustration that shows us the RIGHT and WRONG way to build a product. To be fair, I don’t think its creator Henrik Kniberg would want it called “the MVP car” at all. According to his post the whole point of the illustration is to replace “MVP” with something more descriptive like “Earliest Testable/Usable/Lovable Product”. I wholeheartedly agree with the notion and short-cycle iteration beats long-cycle “Bing Bang Delivery” as Kniberg refers to it.\nKniberg notes that sharing the car like a meme erases his original context and all we see is the car. Despite taking the time to get the context and being a lover of iteration, I think I have built up petty grievances over the years with the MVP car. The next thousand or so words …",
@@ -1091,16 +1101,6 @@
           "wordCount": null,
           "title": "《你行，你上》：姜文到底是反对“鸡娃”，还是给它立了碑？",
           "imageUrl": null
-        },
-        {
-          "id": "https://jimmysong.io/blog/kiro-first-impression/",
-          "author": "Jimmy Song",
-          "description": "试用 AWS 推出的 AI 编程 IDE —— Kiro 的真实体验，介绍其 Spec 模式、任务编排能力及当前的不足，并分享我对其未来发展的期待。",
-          "link": "https://jimmysong.io/blog/kiro-first-impression/",
-          "publishedOn": "2025-07-16T04:00:00.000Z",
-          "wordCount": null,
-          "title": "AWS Kiro 初体验：一款更注重流程感的 AI IDE",
-          "imageUrl": null
         }
       ]
     },
@@ -1266,6 +1266,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=303726",
+          "author": "Brandon Lee",
+          "description": "I think all of us are looking for very cool tools that can add modern dashboards to Proxmox and to help monitor what is going on with your Proxmox host,…\nThe post This Free Tool Gives Proxmox the Monitoring Dashboard It Always Needed appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/10/this-free-tool-gives-proxmox-the-monitoring-dashboard-it-always-needed/",
+          "publishedOn": "2025-10-13T12:14:16.000Z",
+          "wordCount": 12119,
+          "title": "This Free Tool Gives Proxmox the Monitoring Dashboard It Always Needed",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/10/Pulse-proxmox-monitoring.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=303705",
           "author": "Brandon Lee",
@@ -2609,6 +2619,21 @@
       "siteUrl": "https://bluehe.cn/",
       "articles": [
         {
+          "id": "https://bluehe.cn/archives/251012-diary",
+          "author": "寻鹤",
+          "description": "聚餐\n \n把最近五个月的生活叙述整理下，端午节也就是5月31日，同学一直约我出来，我之前婉拒了两次，俗话说事不过三，应邀见面，这是毕业后的为数不多的见面，我们关系很好，在大学图书馆一起学习，期末考试时，我很佩服她做笔记的能力，许多知识点我还在逐条背时，她已经汇总出来了，握住她的 “宝典” ppt，真的让我考试难度降低了一半，学起来也不吃力了。在校由于我们的导师是同一位，所以有很多的共同话题，但五月...",
+          "link": "https://bluehe.cn/archives/251012-diary",
+          "publishedOn": "2025-10-12T10:22:00.000Z",
+          "wordCount": 593,
+          "title": "于日常处 · 十月记",
+          "enclosure": {
+            "url": "https://bluehe.cn/usr/uploads/2025/10/CRnall_20250706_175813899.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bluehe.cn/usr/uploads/2025/10/CRnall_20250706_175813899.webp"
+        },
+        {
           "id": "https://bluehe.cn/archives/5938",
           "author": "luhan",
           "description": "大师阿迪斯\n...",
@@ -2837,16 +2862,6 @@
           "publishedOn": "2025-07-21T13:50:05.000Z",
           "wordCount": null,
           "title": "湖北国补真不容易，电视刚买就降价",
-          "imageUrl": null
-        },
-        {
-          "id": "https://4311346.com/post/2025/0715-charge.html",
-          "author": null,
-          "description": "都说男人开上电车后就开始精打细算变得抠门，即使是电动自行车，每一次的充电都变得斤斤计较起来。\n2024款小牛NXT玩家版行驶9个月，总里程4100公里，每月平均行驶455公里。每日上下班往返共计16公里，算下来每月出行28天，使用率是相当的高。\n这9个月期间，比较大的雨雪天气和一些外出办事由沃尔沃S60代替的里程数基本和偶尔骑小牛NXT出门遛弯及中午偶尔外出公司附近吃饭相抵消。\n小牛NXT玩家版使用72V35A铅酸电池，充电功率在400W-500W之间，日常充电主要有三个地方（频率占比），家楼下（90%）、父母家楼下（7%）、公司楼下（3%）。\n同样的充电功率按价格来说，公司楼下最便宜0.40元/小时，父母家楼下最贵，自己家楼下价格居中  400W-500W 之间 0.43元/小时。\n近日突然发现家楼下的自行车充电桩计费方式进行了变更，由按充电功率直接乘以小时数计价，变为了 按实际使用电量+阶梯使用服务费计价。\n\n以400W-500W充电功率，从20%充至100%需要6小时为例\n原计价方式计价\n6小时 X 0.43元/小时 = 2.58元\n新计价方式计价\n6小时 X  0.27元/小时 + 2.7度电 X 0.58元 = 3.19元\n同比增长 24%\n日常使用对比2023款沃尔沃S60\n一般车辆低于30%开始充电，费用2元左右，少的时候1.8元，而现在每次达3元… 虽然充一次电行驶里程在70-80公里，每周仅充2次合计费用也不会超过10元，唉~自己变得小气了…\nS60一箱95号汽油费用达500多元，市区能开600公里，平均0.83元/公里，外加保养，保险，平均下来，每公里单价超过1.2元。而且开得越少单价越高。\n而小牛NXT平均每公里 0.04元，虽然铅酸电池2年也有损耗，但相比S60省去的大几千元的停车费，根本不值得提了。\n30倍的行驶差价，50倍的使用成本差异。\n出门就…",
-          "link": "https://4311346.com/post/2025/0715-charge.html",
-          "publishedOn": "2025-07-15T14:19:51.000Z",
-          "wordCount": null,
-          "title": "充电桩更改结算方式，变相涨价25%-30%",
           "imageUrl": null
         }
       ]
@@ -3205,6 +3220,12 @@
       ]
     },
     {
+      "title": "Lixx Blog - 李晓旭的博客",
+      "feedUrl": "https://lixx.cn/rss.xml",
+      "siteUrl": "http://blog.lixx.cn/",
+      "articles": []
+    },
+    {
       "title": "BMPI",
       "feedUrl": "https://www.bmpi.dev/index.xml",
       "siteUrl": "https://www.bmpi.dev/",
@@ -3242,6 +3263,16 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=22488",
+          "author": "xiaoz",
+          "description": "我们去海外旅游时，以往会选择开通三大运营商的海外漫游包，亦或者网上提前购买一张当地的SIM卡，但这样的传统方案不仅价格较贵，且操作较为繁琐。那有没有既能便宜上网，又不用拔插实体SIM卡的方案呢？当然有，我们只需用手机的eSIM功能 + 流量套餐即可解决，比如接下来将要介绍的eSIM功能和eSIM-H",
+          "link": "https://blog.xiaoz.org/archives/22488",
+          "publishedOn": "2025-10-13T10:38:03.000Z",
+          "wordCount": 250,
+          "title": "无需换卡，海外旅游轻松上网：eSIM-Home 多国流量包体验",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=22469",
           "author": "xiaoz",
