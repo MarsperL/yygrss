@@ -96,6 +96,16 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
+          "id": "https://daverupert.com/2025/10/quiet-ui/",
+          "author": null,
+          "description": "As President of Web Components, it’s my duty to publicly comment on every Web Component library and framework that exists. Today I’m taking a look at Quiet UI, a new source-available web component library soft-launched by Cory LaViska, the creator of Shoelace WebAwesome. You might be asking “another UI library? But why?” and that’s a good question, I’ll let Cory tell you in his own words…\nI wanted to play with bleeding edge features that weren’t available in all browsers yet… I wanted to take everything I learned from developing components over the years and challenge some ideas, try new things, and bake in opinions that I’ve traditionally veered away from. It felt liberating.\n“Play” as a foundation is compelling to me. A lot of writing and ancient programming advice says “Write the thing,…",
+          "link": "https://daverupert.com/2025/10/quiet-ui/",
+          "publishedOn": "2025-10-16T05:08:00.000Z",
+          "wordCount": 1764,
+          "title": "Lots to shout about in Quiet UI",
+          "imageUrl": null
+        },
+        {
           "id": "https://daverupert.com/2025/10/custom-elements-manifest-killer-feature/",
           "author": null,
           "description": "One unsung feature in the web components space that I don’t think gets enough attention is the Custom Elements Manifest initiative. I think it’s the killer feature of web components.\nKnown as “CEM” to its friends, a CEM is a community standard JSON format that surfaces information about your component APIs. The analyzer scans your class-based component to build up a “manifest” of all the methods, events, slots, parts, tag name, and CSS variables you want to expose. It works on a single component or an entire system’s worth of components. If you want to surface more details to consumers (like accepted attributes or CSS custom properties), you can provide more context to the analyzer through JSDoc comments and/or TypeScript types – which is good code hygiene and a favor for your future self …",
@@ -1091,16 +1101,6 @@
           "wordCount": null,
           "title": "当前 AI 编程与氛围编程工具研究报告",
           "imageUrl": null
-        },
-        {
-          "id": "https://jimmysong.io/blog/ni-xing-ni-shang-review/",
-          "author": "Jimmy Song",
-          "description": "这篇影评讨论和解读姜文沉寂七年之后推出新片《你行，你上》，看似是钢琴神童郎朗的奋斗史，实则是一场关于父权、教育焦虑、文化身份的集体隐喻。",
-          "link": "https://jimmysong.io/blog/ni-xing-ni-shang-review/",
-          "publishedOn": "2025-07-19T00:18:40.000Z",
-          "wordCount": null,
-          "title": "《你行，你上》：姜文到底是反对“鸡娃”，还是给它立了碑？",
-          "imageUrl": null
         }
       ]
     },
@@ -1267,6 +1267,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=303843",
+          "author": "Brandon Lee",
+          "description": "There is no question that Terraform is my favorite infrastructure as code tool in the home lab for standing up infrastructure. Ansible is my favorite for configuration management. With Terraform,…\nThe post Best Terraform Modules for Home Labs in 2025 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/10/best-terraform-modules-for-home-labs-in-2025/",
+          "publishedOn": "2025-10-16T12:35:45.000Z",
+          "wordCount": 14412,
+          "title": "Best Terraform Modules for Home Labs in 2025",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/10/Best-Terraform-modules.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=303824",
           "author": "Brandon Lee",
           "description": "We have exciting times to be able to run a home lab with all the automation, AI, and other tools available to us to use. In fact, I am more…\nThe post How I Built a Self-Healing Home Lab That Fixes Itself appeared first on Virtualization Howto.",
@@ -1423,6 +1433,36 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=56983",
+          "author": "Tanvir Kour",
+          "description": "An essential component of financial management is revenue recognition in business. And as businesses scale and transactions become more complex, it can be even more difficult for finance teams to accurately recognize revenue. This process guarantees that the financial statements portray true earnings and promote stakeholder confidence. With its crucial role in keeping financial integrity […]",
+          "link": "https://collabnix.com/what-makes-revenue-recognition-solutions-vital-for-finance-teams/",
+          "publishedOn": "2025-10-16T21:32:38.000Z",
+          "wordCount": 2500,
+          "title": "What Makes Revenue Recognition Solutions Vital for Finance Teams",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=56981",
+          "author": "Tanvir Kour",
+          "description": "Salespeople are always looking for ways to sharpen their skills. Micro practice is a powerful technique to improve selling skills. Here, each of the different components of the sales process will be broken down so that everyone can work on a tiny segment of it at a time to improve. Understanding Micro Practice Micro practice […]",
+          "link": "https://collabnix.com/how-to-upgrade-sales-skills-with-micro-practice/",
+          "publishedOn": "2025-10-16T21:30:26.000Z",
+          "wordCount": 2518,
+          "title": "How to Upgrade Sales Skills With Micro Practice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=56969",
+          "author": "Tanvir Kour",
+          "description": "Streaming platforms face constant pressure to keep subscribers engaged while competition grows. Many users cancel when they feel the content is not relevant or the experience is not smooth. AI agents help reduce churn and boost retention by predicting user behavior, personalizing recommendations, and improving customer support. These systems analyze viewing patterns, identify when someone […]",
+          "link": "https://collabnix.com/can-ai-agents-help-ott-providers-reduce-churn-and-boost-retention-through-smarter-engagement-strategies/",
+          "publishedOn": "2025-10-16T21:28:17.000Z",
+          "wordCount": 3170,
+          "title": "Can AI Agents Help OTT Providers Reduce Churn and Boost Retention Through Smarter Engagement Strategies",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=56908",
           "author": "Tanvir Kour",
@@ -2441,16 +2481,6 @@
           "publishedOn": "2025-07-19T15:41:10.000Z",
           "wordCount": null,
           "title": "Perplexity AI: The Complete Guide to the Revolutionary Search Engine Transforming How We Find Information",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=41918",
-          "author": "Collabnix Team",
-          "description": "MCP Server Tutorial: Build with TypeScript from Scratch Building a Model Context Protocol (MCP) server with TypeScript has become increasingly important for developers working with AI applications. This comprehensive guide will walk you through creating a production-ready MCP server from the ground up, complete with working code examples and best practices. What is MCP and […]",
-          "link": "https://collabnix.com/how-to-build-mcp-server-using-typescript-from-scratch-complete-tutorial/",
-          "publishedOn": "2025-07-18T13:00:43.000Z",
-          "wordCount": null,
-          "title": "MCP Server Tutorial: Build with TypeScript from Scratch",
           "imageUrl": null
         }
       ]
