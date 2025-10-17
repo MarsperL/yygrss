@@ -1267,6 +1267,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=303869",
+          "author": "Brandon Lee",
+          "description": "What are we talking about? Keep a home lab safe??? Well, it is easy to get carried away when you run a home lab. The whole point of having one…\nThe post How I Keep My Home Lab Safe While Experimenting with New Tools appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/10/how-i-keep-my-home-lab-safe-while-experimenting-with-new-tools/",
+          "publishedOn": "2025-10-17T13:03:46.000Z",
+          "wordCount": 14394,
+          "title": "How I Keep My Home Lab Safe While Experimenting with New Tools",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/10/Keep-Your-home-lab-safe.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=303843",
           "author": "Brandon Lee",
           "description": "There is no question that Terraform is my favorite infrastructure as code tool in the home lab for standing up infrastructure. Ansible is my favorite for configuration management. With Terraform,…\nThe post Best Terraform Modules for Home Labs in 2025 appeared first on Virtualization Howto.",
@@ -2472,16 +2482,6 @@
           "wordCount": null,
           "title": "Fleet GPS Tracking With Kubernetes And Cloud Services",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=42058",
-          "author": "Collabnix Team",
-          "description": "Discover Perplexity AI, the $18 billion AI-powered search engine that's revolutionizing online search. Learn features, pricing, comparisons with Google and ChatGPT, and how to maximize its potential in 2025.",
-          "link": "https://collabnix.com/perplexity-ai-the-complete-guide-to-the-revolutionary-search-engine-transforming-how-we-find-information/",
-          "publishedOn": "2025-07-19T15:41:10.000Z",
-          "wordCount": null,
-          "title": "Perplexity AI: The Complete Guide to the Revolutionary Search Engine Transforming How We Find Information",
-          "imageUrl": null
         }
       ]
     },
@@ -2490,6 +2490,16 @@
       "feedUrl": "https://limboy.me/index.xml",
       "siteUrl": "https://limboy.me/",
       "articles": [
+        {
+          "id": "https://limboy.me/posts/review-system",
+          "author": null,
+          "description": "未经审视的人生是不值得过的。",
+          "link": "https://limboy.me/posts/review-system",
+          "publishedOn": "2025-10-17T00:00:00.000Z",
+          "wordCount": 155,
+          "title": "构建自己的反思系统",
+          "imageUrl": null
+        },
         {
           "id": "https://limboy.me/posts/before-town-v2",
           "author": null,
@@ -3324,6 +3334,16 @@
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
         {
+          "id": "https://blog.xiaoz.org/?p=22523",
+          "author": "xiaoz",
+          "description": "游惠宝国际漫游长效卡是一款可在中国大陆漫游使用上网卡，在启动的时候自行选购香港电话号码，号码可用于接收短信使用，支持漫游中国大陆、中国香港、中国澳门、新加坡、马来西亚等22个国家地区的流量。适用场景游惠宝长效卡适用于以下任意一种场景：经常在中国大陆、港、澳、新加坡等多地出差的商务人士希望拥有一个香港",
+          "link": "https://blog.xiaoz.org/archives/22523",
+          "publishedOn": "2025-10-17T04:31:39.000Z",
+          "wordCount": 244,
+          "title": "低成本拥有一张游惠宝长效卡，大陆港澳轻松漫游，支持实体SIM卡和eSIM",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.xiaoz.org/?p=22504",
           "author": "xiaoz",
           "description": "CTExcel是中国电信面向海外公众客户推出的自主品牌移动通信服务，CTExcel推出的【中英共享】套餐，让你在中国和英国都能轻松的使用移动数据上网，非常适合海外留学、英国旅游、国内魔法上网等场景。这篇文章博主将介绍CTExcel套餐资费、开通和使用注意事项。适用场景英国、欧洲留学使用跨境电商英国、",
@@ -3555,6 +3575,16 @@
       "siteUrl": "http://zhangguanzhang.github.io/atom.xml",
       "articles": [
         {
+          "id": "http://zhangguanzhang.github.io/2025/10/17/keepalived-locking-pid-file-invalid/",
+          "author": null,
+          "description": "<h2 id=\"由来\"><a href=\"#由来\" class=\"headerlink\" title=\"由来\"></a>由来</h2><p>现场部署业务后发现访问有问题，排查后发现业务网关访问 etcd 的 <a href=\"https://zhangguanzhang.gith",
+          "link": "http://zhangguanzhang.github.io/2025/10/17/keepalived-locking-pid-file-invalid/",
+          "publishedOn": "2025-10-17T18:10:30.000Z",
+          "wordCount": 2584,
+          "title": "keepalived Locking pid file error 22 - Invalid argument",
+          "imageUrl": null
+        },
+        {
           "id": "http://zhangguanzhang.github.io/2025/10/13/k8s-hostNetwork-hostname/",
           "author": null,
           "description": "<p>最近升级和压测遇到的 hostNetwork 下 hostname 的坑问题</p>",
@@ -3650,6 +3680,12 @@
       "articles": []
     },
     {
+      "title": "Ready, Set, Virtual!",
+      "feedUrl": "https://www.readysetvirtual.com/feed",
+      "siteUrl": "https://www.readysetvirtual.com",
+      "articles": []
+    },
+    {
       "title": "Christopher Kusek, Technology Evangelist",
       "feedUrl": "https://www.pkguild.com/feed",
       "siteUrl": "https://www.pkguild.com",
@@ -3696,6 +3732,16 @@
       "feedUrl": "https://chegva.com/feed",
       "siteUrl": "https://chegva.com",
       "articles": [
+        {
+          "id": "https://chegva.com/?p=6518",
+          "author": "anzhihe",
+          "description": "之前使用的归档页面是秋叶博客分享的 → Wordpress带缓存和特效的归档页面制作，使用的是php的缓存机制，每次发布/删除文章后，归档页面缓存不会自动清除和重建，想整一个包含缓存机制和手动刷新功能的归档页面，针对原来的归档页面优化了一下。\n\n实现方案：将核心功能放在functions.php中，页面模板只负责显示。这种架构使缓存管理和内容生成逻辑集中化，而页面模板只负责显示内容，系统会在文章更新时自动刷新缓存，同时为管理员提供手动刷新选项，确保归档页面始终保持最新状态。更符合WordPress最佳实践，具有更好的性能和可维护性。\n查看效果：https://chegva.com/archive/\n功能设计\n\nfunctions.php部分：\n\n\n缓存管理机制\n\n文章更新时自动清除缓存\n\n归档内容生成函数\n\n手动清除缓存的工具\n\n\n页面模板部分：\n\n\n只负责显示归档内容\n\n包含响应式布局和交互功能\n\n\n缓存清除场景说明\n\n\n场景旧状态新状态说明\n\n  新文章发布非发布状态 (draft, pending 等)publish归档需要添加新文章\n定时发布futurepublish 归档需要添加新文章\n  取消发布publish非发布状态 (draft, private 等)归档需要移除该文章\n  移至回收站任何状态trash归档需要移除该文章\n  已发布文章更新publishpublish❌ 不触发缓存清除\n  草稿更新draftdraft❌ 不触发缓存清除\n\n\n工作流程图\n\n\n定时发布文章的工作流程\n\n实现代码\n第一步：在functions.php中添加以下代码\n/**\r\n * 添加归档页面\r\n **/\r\n\r\n// 注册归档缓存选项\r\nadd_action('init', function() {\r\n    add_option('qiuye_archives', '', '…",
+          "link": "https://chegva.com/6518.html",
+          "publishedOn": "2025-10-13T15:17:21.000Z",
+          "wordCount": 12830,
+          "title": "WordPress自动更新缓存功能的归档页面制作",
+          "imageUrl": null
+        },
         {
           "id": "https://chegva.com/?p=6528",
           "author": "anzhihe",
@@ -3806,6 +3852,12 @@
           "imageUrl": "https://jia.je/assets/images/social/blog/posts/hardware/arm-core-development.png"
         }
       ]
+    },
+    {
+      "title": "迷鹿屋",
+      "feedUrl": "https://lostdeer.xyz/feed",
+      "siteUrl": "https://lostdeer.xyz",
+      "articles": []
     },
     {
       "title": "酷 壳 – CoolShell",

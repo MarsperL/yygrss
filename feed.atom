@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-10-16T23:15:55.533Z</updated>
+    <updated>2025-10-17T23:16:16.816Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[keepalived Locking pid file error 22 - Invalid argument]]></title>
+        <id>http://zhangguanzhang.github.io/2025/10/17/keepalived-locking-pid-file-invalid/</id>
+        <link href="http://zhangguanzhang.github.io/2025/10/17/keepalived-locking-pid-file-invalid/"/>
+        <updated>2025-10-17T18:10:30.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="由来"><a href="#由来" class="headerlink" title="由来"></a>由来</h2><p>现场部署业务后发现访问有问题，排查后发现业务网关访问 etcd 的 <a href="https://zhangguanzhang.gith]]></summary>
+        <author>
+            <name>Zhangguanzhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Keep My Home Lab Safe While Experimenting with New Tools]]></title>
+        <id>https://www.virtualizationhowto.com/?p=303869</id>
+        <link href="https://www.virtualizationhowto.com/2025/10/how-i-keep-my-home-lab-safe-while-experimenting-with-new-tools/"/>
+        <updated>2025-10-17T13:03:46.000Z</updated>
+        <summary type="html"><![CDATA[What are we talking about? Keep a home lab safe??? Well, it is easy to get carried away when you run a home lab. The whole point of having one…
+The post How I Keep My Home Lab Safe While Experimenting with New Tools appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[低成本拥有一张游惠宝长效卡，大陆港澳轻松漫游，支持实体SIM卡和eSIM]]></title>
+        <id>https://blog.xiaoz.org/?p=22523</id>
+        <link href="https://blog.xiaoz.org/archives/22523"/>
+        <updated>2025-10-17T04:31:39.000Z</updated>
+        <summary type="html"><![CDATA[游惠宝国际漫游长效卡是一款可在中国大陆漫游使用上网卡，在启动的时候自行选购香港电话号码，号码可用于接收短信使用，支持漫游中国大陆、中国香港、中国澳门、新加坡、马来西亚等22个国家地区的流量。适用场景游惠宝长效卡适用于以下任意一种场景：经常在中国大陆、港、澳、新加坡等多地出差的商务人士希望拥有一个香港]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[构建自己的反思系统]]></title>
+        <id>https://limboy.me/posts/review-system</id>
+        <link href="https://limboy.me/posts/review-system"/>
+        <updated>2025-10-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[未经审视的人生是不值得过的。]]></summary>
+        <author>
+            <name>Limboy's Essays</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Makes Revenue Recognition Solutions Vital for Finance Teams]]></title>
         <id>https://collabnix.com/?p=56983</id>
@@ -132,6 +173,68 @@ The post TrueNAS Connect Open Beta Just Dropped and its A Game-Changer for Home 
 Known as “CEM” to its friends, a CEM is a community standard JSON format that surfaces information about your component APIs. The analyzer scans your class-based component to build up a “manifest” of all the methods, events, slots, parts, tag name, and CSS variables you want to expose. It works on a single component or an entire system’s worth of components. If you want to surface more details to consumers (like accepted attributes or CSS custom properties), you can provide more context to the analyzer through JSDoc comments and/or TypeScript types – which is good code hygiene and a favor for your future self …]]></summary>
         <author>
             <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WordPress自动更新缓存功能的归档页面制作]]></title>
+        <id>https://chegva.com/?p=6518</id>
+        <link href="https://chegva.com/6518.html"/>
+        <updated>2025-10-13T15:17:21.000Z</updated>
+        <summary type="html"><![CDATA[之前使用的归档页面是秋叶博客分享的 → Wordpress带缓存和特效的归档页面制作，使用的是php的缓存机制，每次发布/删除文章后，归档页面缓存不会自动清除和重建，想整一个包含缓存机制和手动刷新功能的归档页面，针对原来的归档页面优化了一下。
+
+实现方案：将核心功能放在functions.php中，页面模板只负责显示。这种架构使缓存管理和内容生成逻辑集中化，而页面模板只负责显示内容，系统会在文章更新时自动刷新缓存，同时为管理员提供手动刷新选项，确保归档页面始终保持最新状态。更符合WordPress最佳实践，具有更好的性能和可维护性。
+查看效果：https://chegva.com/archive/
+功能设计
+
+functions.php部分：
+
+
+缓存管理机制
+
+文章更新时自动清除缓存
+
+归档内容生成函数
+
+手动清除缓存的工具
+
+
+页面模板部分：
+
+
+只负责显示归档内容
+
+包含响应式布局和交互功能
+
+
+缓存清除场景说明
+
+
+场景旧状态新状态说明
+
+  新文章发布非发布状态 (draft, pending 等)publish归档需要添加新文章
+定时发布futurepublish 归档需要添加新文章
+  取消发布publish非发布状态 (draft, private 等)归档需要移除该文章
+  移至回收站任何状态trash归档需要移除该文章
+  已发布文章更新publishpublish❌ 不触发缓存清除
+  草稿更新draftdraft❌ 不触发缓存清除
+
+
+工作流程图
+
+
+定时发布文章的工作流程
+
+实现代码
+第一步：在functions.php中添加以下代码
+/**
+ * 添加归档页面
+ **/
+
+// 注册归档缓存选项
+add_action('init', function() {
+    add_option('qiuye_archives', '', '…]]></summary>
+        <author>
+            <name>anzhihe</name>
         </author>
     </entry>
     <entry>
@@ -4640,16 +4743,6 @@ VIDDA 发现 X 2025款 55V3N-X
         <summary type="html"><![CDATA[Note: This post is NOT sponsored and there are NO public affiliate links. If you would like a private code to use for $50 off some plans, use my contact form and I’ll email you a code. Choosing a cell phone plan in the United States can be overwhelming, with dozens of providers and an […]]]></summary>
         <author>
             <name>Derek Seaman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perplexity AI: The Complete Guide to the Revolutionary Search Engine Transforming How We Find Information]]></title>
-        <id>https://collabnix.com/?p=42058</id>
-        <link href="https://collabnix.com/perplexity-ai-the-complete-guide-to-the-revolutionary-search-engine-transforming-how-we-find-information/"/>
-        <updated>2025-07-19T15:41:10.000Z</updated>
-        <summary type="html"><![CDATA[Discover Perplexity AI, the $18 billion AI-powered search engine that's revolutionizing online search. Learn features, pricing, comparisons with Google and ChatGPT, and how to maximize its potential in 2025.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
         </author>
     </entry>
     <entry>
