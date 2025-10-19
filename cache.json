@@ -2472,36 +2472,6 @@
           "wordCount": null,
           "title": "7 Communication Bottlenecks to Eliminate in Containerized Workflows",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=42446",
-          "author": "Tanvir Kour",
-          "description": "Ever watch your favorite YouTuber and wonder how they always have a spotless, vibey setup — even when recording from their spare bedroom? Spoiler alert: half the magic is a background generator. For today’s creators, keeping your intros, outros, and on-screen look fresh doesn’t require hiring a studio designer or building a Pinterest-worthy home office. […]",
-          "link": "https://collabnix.com/brand-backdrops-on-demand-how-ai-backgrounds-give-your-videos-a-pro-look/",
-          "publishedOn": "2025-07-22T07:54:46.000Z",
-          "wordCount": null,
-          "title": "Brand Backdrops on Demand: How AI Backgrounds Give Your Videos a Pro Look",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=42398",
-          "author": "Collabnix Team",
-          "description": "Learn how to optimize Kubernetes pods for maximum performance, security, and reliability in production environments with detailed code examples and proven strategies.",
-          "link": "https://collabnix.com/kubernetes-pod-optimization-advanced-best-practices-and-performance-tuning-for-production-workloads/",
-          "publishedOn": "2025-07-21T18:40:36.000Z",
-          "wordCount": null,
-          "title": "Kubernetes Pod Optimization: Advanced Best Practices and Performance Tuning for Production Workloads",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=42395",
-          "author": "Tanvir Kour",
-          "description": "Track vehicles in real time with Kubernetes and cloud fleets. Build scalable, secure GPS systems for logistics, transport, and delivery operations.",
-          "link": "https://collabnix.com/fleet-gps-tracking-kubernetes-cloud-services/",
-          "publishedOn": "2025-07-21T18:25:36.000Z",
-          "wordCount": null,
-          "title": "Fleet GPS Tracking With Kubernetes And Cloud Services",
-          "imageUrl": null
         }
       ]
     },
@@ -2547,6 +2517,66 @@
       "feedUrl": "https://thiscute.world/index.xml",
       "siteUrl": "https://thiscute.world/",
       "articles": [
+        {
+          "id": "https://thiscute.world/posts/linux-desktop-6-shutdown-troubleshooting/?utm_source=atom_feed",
+          "author": null,
+          "description": "<blockquote>\n<p><strong>AI 创作声明</strong>：本系列文章由笔者借助 ChatGPT, Kimi K2, 豆包和 Cursor 等 AI 工具创作，有很大篇幅的内容完全由 AI 在我的指导下生成。如有错误，还请指正。</p>\n</blockquote><h2 id=\"前言\" class=\"headerLink\">\n<a href=\"#%e5%89%8d%e8%a8%80\" class=\"header-mark\"></a>前言</h2><p>系统关机看似简单，但背后涉及了繁杂的资源清理和状态管理过程。当你点击关机按钮，系统却卡在那里不动，或者出现各种奇怪的错误信息时，理解关机流程和故障排查方法就显得尤为重要。</p>\n<p>除了关机，Linux 还提供了休眠和挂起两种重要的电源管理功能，它们可以让系统快速进入低功耗状态，同时保持工作状态，是日常使用中非常实用的功能。</p>",
+          "link": "https://thiscute.world/posts/linux-desktop-6-shutdown-troubleshooting/?utm_source=atom_feed",
+          "publishedOn": "2025-10-19T02:22:33.000Z",
+          "wordCount": 929,
+          "title": "Linux 桌面系统故障排查指南（六） - 系统关机与电源管理",
+          "imageUrl": "https://thiscute.world/posts/linux-desktop-6-shutdown-troubleshooting/featured-image.webp"
+        },
+        {
+          "id": "https://thiscute.world/posts/linux-desktop-5-network/?utm_source=atom_feed",
+          "author": null,
+          "description": "<blockquote>\n<p><strong>AI 创作声明</strong>：本系列文章由笔者借助 ChatGPT, Kimi K2, 豆包和 Cursor 等 AI 工具创作，有很大篇幅的内容完全由 AI 在我的指导下生成。如有错误，还请指正。</p>\n</blockquote><h2 id=\"前言\" class=\"headerLink\">\n<a href=\"#%e5%89%8d%e8%a8%80\" class=\"header-mark\"></a>前言</h2><p>网络连接是现代桌面的基础功能，涉及硬件驱动、固件加载、网络管理和 DNS 解析等多个环节。</p>\n<p>本文将从网卡驱动开始，经过内核网络栈，到达应用层，了解 Linux 网络系统的完整架构，包括如何配置网络连接，如何设置防火墙规则，以及如何诊断各种网络问题。</p>",
+          "link": "https://thiscute.world/posts/linux-desktop-5-network/?utm_source=atom_feed",
+          "publishedOn": "2025-10-19T02:21:33.000Z",
+          "wordCount": 1508,
+          "title": "Linux 桌面系统故障排查指南（五） - 网络",
+          "imageUrl": "https://thiscute.world/posts/linux-desktop-5-network/featured-image.webp"
+        },
+        {
+          "id": "https://thiscute.world/posts/linux-desktop-4-multimedia-input/?utm_source=atom_feed",
+          "author": null,
+          "description": "<blockquote>\n<p><strong>AI 创作声明</strong>：本系列文章由笔者借助 ChatGPT, Kimi K2, 豆包和 Cursor 等 AI 工具创作，有很大篇幅的内容完全由 AI 在我的指导下生成。如有错误，还请指正。</p>\n</blockquote><h2 id=\"前言\" class=\"headerLink\">\n<a href=\"#%e5%89%8d%e8%a8%80\" class=\"header-mark\"></a>前言</h2><p>Linux 桌面系统的多媒体处理和中文支持涉及多个子系统。音频延迟、字体渲染质量、输入法响应速度等问题看似简单，背后却涉及 PipeWire、fontconfig、fcitx5 等多个组件的协同工作。</p>",
+          "link": "https://thiscute.world/posts/linux-desktop-4-multimedia-input/?utm_source=atom_feed",
+          "publishedOn": "2025-10-19T02:20:33.000Z",
+          "wordCount": 1615,
+          "title": "Linux 桌面系统故障排查指南（四） - 多媒体处理与中文支持",
+          "imageUrl": "https://thiscute.world/posts/linux-desktop-4-multimedia-input/featured-image.webp"
+        },
+        {
+          "id": "https://thiscute.world/posts/linux-desktop-3-session-graphics/?utm_source=atom_feed",
+          "author": null,
+          "description": "<blockquote>\n<p><strong>AI 创作声明</strong>：本系列文章由笔者借助 ChatGPT, Kimi K2, 豆包和 Cursor 等 AI 工具创作，有很大篇幅的内容完全由 AI 在我的指导下生成。如有错误，还请指正。</p>\n</blockquote><h2 id=\"前言\" class=\"headerLink\">\n<a href=\"#%e5%89%8d%e8%a8%80\" class=\"header-mark\"></a>前言</h2><p>Systemd 及各项系统服务启动后会进入登录页面，从这一捕开始的 Linux 桌面使用过程涉及会话管理、窗口合成、图形渲染和输入处理等多个组件。</p>",
+          "link": "https://thiscute.world/posts/linux-desktop-3-session-graphics/?utm_source=atom_feed",
+          "publishedOn": "2025-10-19T02:19:33.000Z",
+          "wordCount": 1308,
+          "title": "Linux 桌面系统故障排查指南（三） - 桌面会话与图形渲染",
+          "imageUrl": "https://thiscute.world/posts/linux-desktop-3-session-graphics/featured-image.webp"
+        },
+        {
+          "id": "https://thiscute.world/posts/linux-desktop-2-systemd-services/?utm_source=atom_feed",
+          "author": null,
+          "description": "<blockquote>\n<p><strong>AI 创作声明</strong>：本系列文章由笔者借助 ChatGPT, Kimi K2, 豆包和 Cursor 等 AI 工具创作，有很大篇幅的内容完全由 AI 在我的指导下生成。如有错误，还请指正。</p>\n</blockquote><h2 id=\"概述\" class=\"headerLink\">\n<a href=\"#%e6%a6%82%e8%bf%b0\" class=\"header-mark\"></a>概述</h2><p>本文是《Linux 桌面系统故障排查指南》系列的第二篇，专注于 systemd 生态系统与服务管理。在上一篇中，我们了解了系统启动与安全框架，现在让我们深入探讨 systemd 核心功能以及 systemd 生态系统中的各个专门化组件。</p>",
+          "link": "https://thiscute.world/posts/linux-desktop-2-systemd-services/?utm_source=atom_feed",
+          "publishedOn": "2025-10-19T02:18:33.000Z",
+          "wordCount": 2247,
+          "title": "Linux 桌面系统故障排查指南（二） - systemd 全家桶与服务管理",
+          "imageUrl": "https://thiscute.world/posts/linux-desktop-2-systemd-services/featured-image.webp"
+        },
+        {
+          "id": "https://thiscute.world/posts/linux-desktop-1-boot-security/?utm_source=atom_feed",
+          "author": null,
+          "description": "<blockquote>\n<p><strong>AI 创作声明</strong>：本系列文章由笔者借助 ChatGPT, Kimi K2, 豆包和 Cursor 等 AI 工具创作，有很大篇幅的内容完全由 AI 在我的指导下生成。如有错误，还请指正。</p>\n</blockquote><h2 id=\"前言\" class=\"headerLink\">\n<a href=\"#%e5%89%8d%e8%a8%80\" class=\"header-mark\"></a>前言</h2><p>本文将简要介绍 Linux 桌面系统的启动机制，从 UEFI 引导到内核加载，从 initramfs 到 systemd\n服务启动，再到桌面环境加载。同时还会探讨系统的安全框架，了解 PAM、PolicyKit 等组件如何保护系统安全。</p>",
+          "link": "https://thiscute.world/posts/linux-desktop-1-boot-security/?utm_source=atom_feed",
+          "publishedOn": "2025-10-19T02:17:33.000Z",
+          "wordCount": 2090,
+          "title": "Linux 桌面系统故障排查指南（一） - 系统启动与安全框架",
+          "imageUrl": "https://thiscute.world/posts/linux-desktop-1-boot-security/featured-image.webp"
+        },
         {
           "id": "https://thiscute.world/posts/linux-desktop-explained/?utm_source=atom_feed",
           "author": null,
@@ -2952,16 +2982,6 @@
           "publishedOn": "2025-08-01T14:52:19.000Z",
           "wordCount": null,
           "title": "武汉的夏天，东湖荷宴·荷畔院子",
-          "imageUrl": null
-        },
-        {
-          "id": "https://4311346.com/post/2025/0721-vidda-app.html",
-          "author": null,
-          "description": "JD下单直接享受国补价\n在京东退掉 GTi13 Ultra 之后最害怕的事情是，再次下单 SER8Pro 享受不了国补价。因为后续几次下单都基本是原价3783元。只到两天后，再一次下单，才有机会直接享受国补后价格3026.40元。\n这也让自己觉的国补只是个噱头，享受国补价，很容易嘛~ 那知后续就打脸了。\n随后准备再次在 JD上下单 VIDDA 发现 X 2025款 55英寸(55V3N-X) 时，不管怎么样多次下单依然显示为原价…后来等了一天在湖北国补微信小程序上抢券有抢到线上券，但使用也真TMD麻烦，索性就原价下单了。原因是家里书房的电视坏了…\n无法使用国补2599元原价下单时找京东店员要了98折，实付¥2547.02元，一切都很顺利，直到15天后，发现京东又开始给账户发放满2000元减200元的满减券…不要国补就能2399元够买…\n赶紧申请保价\n赶紧申请保价，好在立即就成果了，虽然没有200元这么多，148.02元，将在7个工作日内返还。好把JD还算是靠谱的，找回了那么一丝的心理安慰。\n\nLG 55LA6200-CN坏了\n2013年购入的LG电视55LA6200-CN再一次坏了… 这可是当年7000块买得电视，基本没用几次…第一次坏了是2018年03月此时已过三年保修期，售后维修价格1800元（据说是换屏）。售后修好之后看到那IPS屏的效果确实还不错，也就没在关注。当时2500元左右价格确实能买全新的小米电视，但是实际对比过显示效果，差距还是很大，所以也就选择LG售后维修了。\n能不维修尽量不要维修\n能不维修尽量不要维修，这也是自己经历过得坑，LG 55LA6200-CN 被LG官方售后拖走，维修期大约21天左右。送回的电视确实更换了IPS屏幕，显示效果依然在线。但难受的是LG 55LA6200-CN边框和角落上得划痕，一看就是运输所致。后来的几年里虽然没有出现过什么问题，但相比维修前，偶尔会出现一些接口信号得BUG，不影响观看使用，也就没关注，而然出现这些BUG不到一年的时间，就再一次黑屏了。\n被逼无奈升级售后\n以至于在LG 55LA6200-CN维修期间购买的 SONY KD-55X7000D，专门配套购买了电视机屏幕保5年的售后服务。使用至今7年过去了 SONY KD-55X7000D 从没出现过问题。\n\n只是这7年时间里，4K已成为主流，而1080P的SONY有些落伍。\nVIDDA 发现 X 2025款 55V3N-X\n原本计划1500元的Redmi A系列55寸就行了，后来仔细对比了下，76% DCI-P3 蛋疼！能达到 95% DCI-P3色域的机型 X55 价格2000元，虽然可以达到 4G+64G 四核A73架构，但直下式DLED，不带背光分区，二级能效… 多少有点打退堂鼓。小米的产品，很多都是背放大了优点的营销…\n\n湖北国补真不容易\n海信VIDDA安装第三方应用\n原来需要用海信爱家APP投屏文件，尼玛的，找了半天，插U盘都不得用。 群辉NAS自带的Synology Photos TV 版非常的好用，只可惜DSM 7.22版本后不再支持Video Station套件，NAS平台自带的 DS Video 也不再支持，只能使用第三方TV软件了。\n美的空调酷省电Ultra\n美的空调1.5匹酷省电Ultra（货号 KFR-35GW/N8KS1-1U），好难受一周前2200的价格没有下单，等有空了居然就享受不了国补价了，ZTMCD… 等着把。\n\n光从性价比来看小米巨省电Pro款，也是不错的备选，关键是厂家安装小米比起美的也会更便宜，但始终还没能下定决心。\n直至07月21日，京东上美的空调还无法享受国补价，相信还能等来国补价，怕的是这个夏天就这样过去了~不如明年再换。",
-          "link": "https://4311346.com/post/2025/0721-vidda-app.html",
-          "publishedOn": "2025-07-21T13:50:05.000Z",
-          "wordCount": null,
-          "title": "湖北国补真不容易，电视刚买就降价",
           "imageUrl": null
         }
       ]
