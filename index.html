@@ -167,6 +167,75 @@ The post Minisforum MS-02 Ultra Has Insane Home Lab Potential with 256GB RAM, Tr
                 </section>
               </section>
             </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >CHEGVA</button>
+                  <a class="source-heading__link" href="https://chegva.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://chegva.com/?p&#x3D;6538"
+                        open
+                      >
+                        <summary class="article-expander__title">DM达梦数据库登陆方式及日常运维命令</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://chegva.com/6538.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>使用SQL客户端连接达梦数据库，主要有命令行工具 DISQL 和图形化工具 DM管理工具 两种方式。具体选择可参考下表：
+
+
+工具类型工具名称主要特点/适用场景
+
+命令行工具DISQL达梦自带，类似Oracle的SQLPlus，存放于安装路径的/bin/或/tool/目录，适合习惯命令行操作、需执行特定命令（如DESC查看表结构）或自动化脚本的场景。
+图形化工具DM管理工具功能强大、操作简单的图形化客户端，适合日常管理、查询数据、视觉化操作。
+
+
+🖥️ 使用DISQL命令行连接
+DISQL工具位于达梦数据库安装路径下的bin或tool目录。
+
+基本连接语法：
+
+./disql 用户名/密码@主机地址:端口号
+例如，连接本地默认数据库实例（端口通常为5236）：
+./disql SYSDBA/SYSDBA@localhost:5236
+注意：在/bin目录下使用disql时，建议直接在命令中写全连接信息。如果只输入./disql后回车，后续将无法输入端口号（除非使用默认端口5236）。
+
+交互式连接：
+在/tool目录下或直接运行disql后，可以使用LOGIN或CONN（CONNECT）命令连接。
+
+CONN SYSDBA/SYSDBA@localhost:5236
+或 LOGIN 随后根据提示输入服务器地址、用户名、密码及端口号。
+
+简化连接配置（可选）：
+为省去每次输入完整地址的麻烦，可配置dm_svc.conf文件（通常在/etc目录）。在文件中按格式添加服务名：
+
+自定义服务名&#x3D;(IP地址:端口号)
+
+例如：DMDB&#x3D;(192.168.1.100:5236)
+配置后，连接时只需使用服务名：
+./disql SYSDBA/SYSDBA@DMDB
+🖱️ 使用图形化客户端连接
+达梦数据库也提供了图形化的DM管理工具（DM Management Studio）。
+
+…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;59
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
         </ul>
       </section>
       <section class="daily-content js-toggle-accordions-scope">
@@ -206,6 +275,39 @@ The post Minisforum MS-02 Ultra Has Insane Home Lab Potential with 256GB RAM, Tr
                             <span class="media-object__text">
                               <span>真正的突破，往往不是来自于对旧问题的更优解，而是来自于对新问题的勇敢定义。</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Ready, Set, Virtual!</button>
+                  <a class="source-heading__link" href="https://www.readysetvirtual.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.readysetvirtual.com/?p&#x3D;1759"
+                        open
+                      >
+                        <summary class="article-expander__title">Getting network on Linux servers operational after migrating hypervisors</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.readysetvirtual.com/2025/10/19/getting-network-on-linux-servers-operational-after-migrating-hypervisors/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Recently I made the move to migrate all my VMs from running on VMware ESXi to running on</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;9
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -524,6 +626,37 @@ The post How I Keep My Home Lab Safe While Experimenting with New Tools appeared
                     class="source-heading__name"
                     data-action="toggle-accordions"
                     title="Click to toggle the source, Ctrl + click to toggle all."
+                  >运维咖啡吧</button>
+                  <a class="source-heading__link" href="https://blog.ops-coffee.com/atom.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day59-rv-life-cost-summary.html"
+                        open
+                      >
+                        <summary class="article-expander__title">久违的暑假｜一人一车沿海自驾两个月总结</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day59-rv-life-cost-summary.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>昨天离开了江西，进入浙江开化县，体验小城生活后，连夜赶回上海。文章记录了从开化到上海的最后一站，分享了自驾经历、花费和房车使用心得。</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
                   >小z博客</button>
                   <a class="source-heading__link" href="https://blog.xiaoz.org">Open</a>
                 </h3>
@@ -753,6 +886,37 @@ The post Best Terraform Modules for Home Labs in 2025 appeared first on Virtuali
                     class="source-heading__name"
                     data-action="toggle-accordions"
                     title="Click to toggle the source, Ctrl + click to toggle all."
+                  >运维咖啡吧</button>
+                  <a class="source-heading__link" href="https://blog.ops-coffee.com/atom.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day58-quzhou-kaihua.html"
+                        open
+                      >
+                        <summary class="article-expander__title">久违的暑假｜沿海自驾DAY58 - 开化</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day58-quzhou-kaihua.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>探索开化县，一个宁静的小城，体验根雕艺术和开化纸的历史，漫步马金溪畔，欣赏自然美景和独特建筑，享受一场远离喧嚣的旅行。</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
                   >daverupert.com</button>
                   <a class="source-heading__link" href="https://daverupert.com">Open</a>
                 </h3>
@@ -947,6 +1111,37 @@ The post How I Built a Self-Healing Home Lab That Fixes Itself appeared first on
                 </section>
               </section>
             </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >运维咖啡吧</button>
+                  <a class="source-heading__link" href="https://blog.ops-coffee.com/atom.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day57-shangrao-sanqingshan.html"
+                        open
+                      >
+                        <summary class="article-expander__title">久违的暑假｜沿海自驾DAY57 - 三清山</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day57-shangrao-sanqingshan.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>本次沿海自驾的第57天，挑战难度极大的三清山徒步。从外双溪索道开始，历经西海岸、阳光海岸、南清园等景区，感受三清山的壮丽与秀美，体验高空栈道的惊险与震撼。</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
         </ul>
       </section>
       <section class="daily-content js-toggle-accordions-scope">
@@ -988,6 +1183,37 @@ The post How I Built a Self-Healing Home Lab That Fixes Itself appeared first on
 The post TrueNAS Connect Open Beta Just Dropped and its A Game-Changer for Home and Enterprise NAS appeared first on Virtualization Howto.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;49
                                   min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >运维咖啡吧</button>
+                  <a class="source-heading__link" href="https://blog.ops-coffee.com/atom.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day56-shangrao-xinjiang.html"
+                        open
+                      >
+                        <summary class="article-expander__title">久违的暑假｜沿海自驾DAY56 - 上饶</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day56-shangrao-xinjiang.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>从鹰潭到上饶的沿海自驾之旅，体验龙潭湖公园的宁静与美丽，品尝当地美食如黄老头小炒黄牛肉，参观上饶博物馆和双塔公园，感受江西的自然与文化魅力。</span>
                             </span>
                           </div>
                         </a>
@@ -1222,6 +1448,37 @@ The post This Free Tool Gives Proxmox the Monitoring Dashboard It Always Needed 
                               <span>最近升级和压测遇到的 hostNetwork 下 hostname 的坑问题</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;10
                                   min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >运维咖啡吧</button>
+                  <a class="source-heading__link" href="https://blog.ops-coffee.com/atom.xml">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day55-yingtan-longhushan.html"
+                        open
+                      >
+                        <summary class="article-expander__title">久违的暑假｜沿海自驾DAY55 - 鹰潭</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day55-yingtan-longhushan.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>从江西抚州到鹰潭的自驾之旅，探索了龙虎山的道教文化，游览了上清古镇，品尝了地道的牛骨粉，体验了不一样的江西风情。</span>
                             </span>
                           </div>
                         </a>
@@ -12468,8 +12725,8 @@ Log into LinkedIn once a month and give some thumbs-ups. It supports your friend
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/MarsperL/rss-reader/actions/runs/18659745173">
-        <time id="build-timestamp" datetime="2025-10-20T17:23:54.492Z">2025-10-20T17:23:54.492Z</time>
+      <a class="footer-link" href="https://github.com/MarsperL/rss-reader/actions/runs/18660030163">
+        <time id="build-timestamp" datetime="2025-10-20T17:35:51.730Z">2025-10-20T17:35:51.730Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
