@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-10-21T09:09:10.836Z</updated>
+    <updated>2025-10-21T16:51:12.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MinIO 社区版 Web 管理界面被删事件全解析]]></title>
+        <id>https://dusays.com/833/</id>
+        <link href="https://dusays.com/833/"/>
+        <updated>2025-10-21T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>开源项目一直是软件开发领域的重要组成部分，众多开发者依赖开源项目推动着技术快速发展。然而，近期 MinIO 社区版的一次更新却引发轩然大波，其删除 11 万行代码，原本功能完备的 Web 管理界面大幅精简，这举动不仅让用户措手不及，也引发了社区对于开源项目商业化的深度思考。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[龙芯久久派 JTAG 刷 U-BOOT/PMON]]></title>
+        <id>https://www.txisfine.cn/archives/4a1d6780.html</id>
+        <link href="https://www.txisfine.cn/archives/4a1d6780.html"/>
+        <updated>2025-10-21T15:42:35.000Z</updated>
+        <summary type="html"><![CDATA[<p>特别感谢 @杜比 杜总的支持和帮助。以及 @RigoLigo <a href="https://www.bilibili.com/video/BV12QPme7Euk">https://www.bilibili.com/video/BV12QPme7Euk</a> 的视频。]]></summary>
+        <author>
+            <name>弹霄博科</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Future of DevOps Pipelines]]></title>
+        <id>https://collabnix.com/?p=57553</id>
+        <link href="https://collabnix.com/the-future-of-devops-pipelines/"/>
+        <updated>2025-10-21T14:09:19.000Z</updated>
+        <summary type="html"><![CDATA[Exploring the Future of DevOps Pipelines Modern software development is shifting toward fully automated DevOps pipelines that handle the entire delivery process with minimal human involvement. These pipelines connect source control, CI/CD platforms, automated testing, security scanners, infrastructure-as-code, and container orchestration into a single continuous workflow. Automation removes repetitive manual tasks and reduces the risk […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Need an Immutable Home Lab Server OS]]></title>
+        <id>https://www.virtualizationhowto.com/?p=303912</id>
+        <link href="https://www.virtualizationhowto.com/2025/10/why-you-need-an-immutable-home-lab-server-os/"/>
+        <updated>2025-10-21T11:57:37.000Z</updated>
+        <summary type="html"><![CDATA[Have you ever sunk a weekend into fixing a Linux system that broke after you applied an update or lost track of configuration tweaks that you made? Maybe you forgot…
+The post Why You Need an Immutable Home Lab Server OS appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build an AI Client Intake Workflow]]></title>
+        <id>https://collabnix.com/?p=57542</id>
+        <link href="https://collabnix.com/how-to-build-an-ai-client-intake-workflow/"/>
+        <updated>2025-10-21T11:23:53.000Z</updated>
+        <summary type="html"><![CDATA[A client intake workflow streamlines how businesses collect, organize, and manage essential information. When powered by AI, it becomes smarter—automating tasks like sorting responses or identifying priorities. By combining secure tools with integrations like CRM systems, workflows simplify operations while ensuring data privacy. This guide explains how to build a seamless system that’s efficient and […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Multi-Agent Multi-LLM Systems: The Future of AI Architecture (Complete Guide 2025)]]></title>
         <id>https://collabnix.com/?p=57524</id>
@@ -438,6 +491,16 @@ I wanted to play with bleeding edge features that weren’t available in all bro
 The post How I Built a Self-Healing Home Lab That Fixes Itself appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从自己造轮子NodePort白名单到参考 calico 规则]]></title>
+        <id>http://zhangguanzhang.github.io/2025/10/15/k8s-NodePort-filter/</id>
+        <link href="http://zhangguanzhang.github.io/2025/10/15/k8s-NodePort-filter/"/>
+        <updated>2025-10-15T10:10:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>研究下 calico 如何实现 nodePort 白名单。</p>]]></summary>
+        <author>
+            <name>Zhangguanzhang</name>
         </author>
     </entry>
     <entry>

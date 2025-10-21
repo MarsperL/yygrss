@@ -1297,6 +1297,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=303912",
+          "author": "Brandon Lee",
+          "description": "Have you ever sunk a weekend into fixing a Linux system that broke after you applied an update or lost track of configuration tweaks that you made? Maybe you forgot…\nThe post Why You Need an Immutable Home Lab Server OS appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/10/why-you-need-an-immutable-home-lab-server-os/",
+          "publishedOn": "2025-10-21T11:57:37.000Z",
+          "wordCount": 10420,
+          "title": "Why You Need an Immutable Home Lab Server OS",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/10/Immutable-home-lab.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=303928",
           "author": "Brandon Lee",
           "description": "I continue to get more and more excited about the mini PC space and what is possible in the small form factor of computing. I am still rocking two MS-01’s…\nThe post Minisforum MS-02 Ultra Has Insane Home Lab Potential with 256GB RAM, Triple PCIe, and 25Gb Networking appeared first on Virtualization Howto.",
@@ -1483,6 +1493,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=57553",
+          "author": "Collabnix Team",
+          "description": "Exploring the Future of DevOps Pipelines Modern software development is shifting toward fully automated DevOps pipelines that handle the entire delivery process with minimal human involvement. These pipelines connect source control, CI/CD platforms, automated testing, security scanners, infrastructure-as-code, and container orchestration into a single continuous workflow. Automation removes repetitive manual tasks and reduces the risk […]",
+          "link": "https://collabnix.com/the-future-of-devops-pipelines/",
+          "publishedOn": "2025-10-21T14:09:19.000Z",
+          "wordCount": 2748,
+          "title": "The Future of DevOps Pipelines",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=57542",
+          "author": "Tanvir Kour",
+          "description": "A client intake workflow streamlines how businesses collect, organize, and manage essential information. When powered by AI, it becomes smarter—automating tasks like sorting responses or identifying priorities. By combining secure tools with integrations like CRM systems, workflows simplify operations while ensuring data privacy. This guide explains how to build a seamless system that’s efficient and […]",
+          "link": "https://collabnix.com/how-to-build-an-ai-client-intake-workflow/",
+          "publishedOn": "2025-10-21T11:23:53.000Z",
+          "wordCount": null,
+          "title": "How to Build an AI Client Intake Workflow",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=57524",
           "author": "Collabnix Team",
@@ -3109,6 +3139,16 @@
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
         {
+          "id": "https://dusays.com/833/",
+          "author": null,
+          "description": "<blockquote>\n<p>开源项目一直是软件开发领域的重要组成部分，众多开发者依赖开源项目推动着技术快速发展。然而，近期 MinIO 社区版的一次更新却引发轩然大波，其删除 11 万行代码，原本功能完备的 Web 管理界面大幅精简，这举动不仅让用户措手不及，也引发了社区对于开源项目商业化的深度思考。</p>\n</blockquote>",
+          "link": "https://dusays.com/833/",
+          "publishedOn": "2025-10-21T16:00:00.000Z",
+          "wordCount": 555,
+          "title": "MinIO 社区版 Web 管理界面被删事件全解析",
+          "imageUrl": "https://cdn.dusays.com/avatar.png"
+        },
+        {
           "id": "https://dusays.com/832/",
           "author": null,
           "description": "<blockquote>\n<p>因为图床程序暂不支持套餐到期通知，需要杜老师定期统计到期的用户，再通过邮箱发通知。每次统计时操作较麻烦，为了方便统计用户，尝试用 PHP 编写一个页面，可以筛选去不图床到期用户邮箱。</p>\n</blockquote>",
@@ -3585,7 +3625,18 @@
       "title": "弹霄博科",
       "feedUrl": "https://www.txisfine.cn/atom.xml",
       "siteUrl": "https://www.txisfine.cn/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.txisfine.cn/archives/4a1d6780.html",
+          "author": null,
+          "description": "<p>特别感谢 @杜比 杜总的支持和帮助。以及 @RigoLigo <a href=\"https://www.bilibili.com/video/BV12QPme7Euk\">https://www.bilibili.com/video/BV12QPme7Euk</a> 的视频。",
+          "link": "https://www.txisfine.cn/archives/4a1d6780.html",
+          "publishedOn": "2025-10-21T15:42:35.000Z",
+          "wordCount": 868,
+          "title": "龙芯久久派 JTAG 刷 U-BOOT/PMON",
+          "imageUrl": "https://static.txblog.110289.xyz/upload/20240619002552.png"
+        }
+      ]
     },
     {
       "title": "云原生实验室",
@@ -3671,6 +3722,16 @@
           "publishedOn": "2025-10-17T18:10:30.000Z",
           "wordCount": 2584,
           "title": "keepalived Locking pid file error 22 - Invalid argument",
+          "imageUrl": null
+        },
+        {
+          "id": "http://zhangguanzhang.github.io/2025/10/15/k8s-NodePort-filter/",
+          "author": null,
+          "description": "<p>研究下 calico 如何实现 nodePort 白名单。</p>",
+          "link": "http://zhangguanzhang.github.io/2025/10/15/k8s-NodePort-filter/",
+          "publishedOn": "2025-10-15T10:10:30.000Z",
+          "wordCount": 4800,
+          "title": "从自己造轮子NodePort白名单到参考 calico 规则",
           "imageUrl": null
         },
         {
