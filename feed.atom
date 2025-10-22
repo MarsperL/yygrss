@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MarsperL.github.io/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-10-22T14:52:02.465Z</updated>
+    <updated>2025-10-22T14:57:36.105Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
     <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
@@ -272,6 +272,16 @@ The post Minisforum MS-02 Ultra Has Insane Home Lab Potential with 256GB RAM, Tr
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[keepalived Locking pid file error 22 - Invalid argument]]></title>
+        <id>http://zhangguanzhang.github.io/2025/10/17/keepalived-locking-pid-file-invalid/</id>
+        <link href="http://zhangguanzhang.github.io/2025/10/17/keepalived-locking-pid-file-invalid/"/>
+        <updated>2025-10-17T18:10:30.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="由来"><a href="#由来" class="headerlink" title="由来"></a>由来</h2><p>现场部署业务后发现访问有问题，排查后发现业务网关访问 etcd 的 <a href="https://zhangguanzhang.gith]]></summary>
+        <author>
+            <name>Zhangguanzhang</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How I Keep My Home Lab Safe While Experimenting with New Tools]]></title>
         <id>https://www.virtualizationhowto.com/?p=303869</id>
         <link href="https://www.virtualizationhowto.com/2025/10/how-i-keep-my-home-lab-safe-while-experimenting-with-new-tools/"/>
@@ -399,6 +409,16 @@ The post How I Built a Self-Healing Home Lab That Fixes Itself appeared first on
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[从自己造轮子NodePort白名单到参考 calico 规则]]></title>
+        <id>http://zhangguanzhang.github.io/2025/10/15/k8s-NodePort-filter/</id>
+        <link href="http://zhangguanzhang.github.io/2025/10/15/k8s-NodePort-filter/"/>
+        <updated>2025-10-15T10:10:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>研究下 calico 如何实现 nodePort 白名单。</p>]]></summary>
+        <author>
+            <name>Zhangguanzhang</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[国内可漫游上网的CTExcel eSIM套餐：资费、开通与使用全指南]]></title>
         <id>https://blog.xiaoz.org/?p=22504</id>
         <link href="https://blog.xiaoz.org/archives/22504"/>
@@ -449,6 +469,16 @@ The post This Free Tool Gives Proxmox the Monitoring Dashboard It Always Needed 
         <summary type="html"><![CDATA[我们去海外旅游时，以往会选择开通三大运营商的海外漫游包，亦或者网上提前购买一张当地的SIM卡，但这样的传统方案不仅价格较贵，且操作较为繁琐。那有没有既能便宜上网，又不用拔插实体SIM卡的方案呢？当然有，我们只需用手机的eSIM功能 + 流量套餐即可解决，比如接下来将要介绍的eSIM功能和eSIM-H]]></summary>
         <author>
             <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hostNetwork下hostname的坑]]></title>
+        <id>http://zhangguanzhang.github.io/2025/10/13/k8s-hostNetwork-hostname/</id>
+        <link href="http://zhangguanzhang.github.io/2025/10/13/k8s-hostNetwork-hostname/"/>
+        <updated>2025-10-13T10:10:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>最近升级和压测遇到的 hostNetwork 下 hostname 的坑问题</p>]]></summary>
+        <author>
+            <name>Zhangguanzhang</name>
         </author>
     </entry>
     <entry>
@@ -1157,6 +1187,16 @@ LOGO LAMP
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[个别节点上 flannel.1 的 IP 无法 ping]]></title>
+        <id>http://zhangguanzhang.github.io/2025/09/23/flannel.1-cannot-ping/</id>
+        <link href="http://zhangguanzhang.github.io/2025/09/23/flannel.1-cannot-ping/"/>
+        <updated>2025-09-23T10:10:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>一次客户环境上个别节点 flannel.1 的 IP 无法 ping 的排查</p>]]></summary>
+        <author>
+            <name>Zhangguanzhang</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[我搞了个网站「热点墨客」，让AI直接把热点读给你听！]]></title>
         <id>https://blog.xiaoz.org/?p=22383</id>
         <link href="https://blog.xiaoz.org/archives/22383"/>
@@ -1434,6 +1474,16 @@ Bensz]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[salt-run很久才返回]]></title>
+        <id>http://zhangguanzhang.github.io/2025/09/12/salt-run-hang/</id>
+        <link href="http://zhangguanzhang.github.io/2025/09/12/salt-run-hang/"/>
+        <updated>2025-09-12T20:10:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>一次 salt-run 很久才返回的排查</p>]]></summary>
+        <author>
+            <name>Zhangguanzhang</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AI 原生时代的 OSPO：从全球报告看中国企业的新机遇]]></title>
         <id>https://jimmysong.io/blog/ospo-2025-report-cn-analysis/</id>
         <link href="https://jimmysong.io/blog/ospo-2025-report-cn-analysis/"/>
@@ -1504,6 +1554,16 @@ Cleaning my home office
 These are all aspects of becoming a better web developer. It’s not always about lines-of-code or hours-in-chair. Ideally, we’re all shipping our creations, but sometimes you’re the lead role and sometimes you’re a supporting role. A lot of the work is immeasurable, but it all counts towards something. So… self, don’t be so hard on yourself.]]></summary>
         <author>
             <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[麒麟内核4.19.90-52.49导致的flannel vxlan跨节点不通]]></title>
+        <id>http://zhangguanzhang.github.io/2025/09/10/kylin-4.19.90-52.49-udp-drop/</id>
+        <link href="http://zhangguanzhang.github.io/2025/09/10/kylin-4.19.90-52.49-udp-drop/"/>
+        <updated>2025-09-10T18:10:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>一次麒麟内核导致 flannel 跨节点不通的排查</p>]]></summary>
+        <author>
+            <name>Zhangguanzhang</name>
         </author>
     </entry>
     <entry>
@@ -1713,6 +1773,16 @@ I was listening to the episode because it’s relevant to my work, but I also li
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AI时代，到底是拉近了还是拉大了资深工程师与新人的差距？]]></title>
+        <id>https://panzhixiang.cn/2025/ai-era-engineer-gap/</id>
+        <link href="https://panzhixiang.cn/2025/ai-era-engineer-gap/"/>
+        <updated>2025-09-04T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[记录一下关于AI时代下资深工程师与新人之间的差距感想，分享了一点自己的经验，试着分析了技术广度与深度的平衡，以及AI对工程师职业发展的影响]]></summary>
+        <author>
+            <name>潘智祥</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[轻量级组网工具WireGuard]]></title>
         <id>https://zahui.fan/posts/t22j7t/</id>
         <link href="https://zahui.fan/posts/t22j7t/"/>
@@ -1733,6 +1803,16 @@ I was listening to the episode because it’s relevant to my work, but I also li
 </blockquote>]]></summary>
         <author>
             <name>杜老师说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[flannel 路由错乱]]></title>
+        <id>http://zhangguanzhang.github.io/2025/09/03/flannel-mode-chaos/</id>
+        <link href="http://zhangguanzhang.github.io/2025/09/03/flannel-mode-chaos/"/>
+        <updated>2025-09-03T10:10:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>一次 flannel 路由错乱导致的跨节点不通</p>]]></summary>
+        <author>
+            <name>Zhangguanzhang</name>
         </author>
     </entry>
     <entry>
@@ -1935,6 +2015,18 @@ You know, I do the weave. You know what the weave is? I’ll talk about, like, n
 </blockquote>]]></summary>
         <author>
             <name>杜老师说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在抖音上被喷惨了]]></title>
+        <id>https://panzhixiang.cn/2025/douyin/</id>
+        <link href="https://panzhixiang.cn/2025/douyin/"/>
+        <updated>2025-08-28T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>我大概两个月前开始做一个抖音账号。</p>
+<p>因为是业余时间做的，基本上都是下班路上随便找个地方坐下来讲一些话题，或者就是在书房录制一些视频。算是佛系更新吧。</p>
+<p>我前天没有啥话题，正好在南京南的站台上有很多人抽烟，我就随手拍了一张照片吐槽一下。没想到因为这个]]></summary>
+        <author>
+            <name>潘智祥</name>
         </author>
     </entry>
     <entry>
@@ -2171,6 +2263,16 @@ YouTube queues only exist in memory in the tab context, it’s not a cross-tab f
         <summary type="html"><![CDATA[AI Agent 自动化工作流让科技图书翻译效率提升十倍，详细介绍从人工到 AI 的转变、工作流设计与效率对比。]]></summary>
         <author>
             <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用这个提示词，教会AI理解你的整个项目]]></title>
+        <id>https://panzhixiang.cn/2025/a-prompt-help-ai-understanding-your-code/</id>
+        <link href="https://panzhixiang.cn/2025/a-prompt-help-ai-understanding-your-code/"/>
+        <updated>2025-08-19T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI 编程助手总是在你的大项目里“重复造轮子”？核心原因是它缺少全局上下文。我分享一个用了很久的 Prompt，能让 AI 自己为代码库生成一份 README “说明书”，辅助解决“失忆”问题。告别无效沟通，让你的 AI 变成真正懂项目的队友。]]></summary>
+        <author>
+            <name>潘智祥</name>
         </author>
     </entry>
     <entry>
@@ -2654,6 +2756,16 @@ I…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[私有化下(CentOS 7)Podman调研]]></title>
+        <id>http://zhangguanzhang.github.io/2025/08/06/centos7-podman/</id>
+        <link href="http://zhangguanzhang.github.io/2025/08/06/centos7-podman/"/>
+        <updated>2025-08-06T10:10:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>CentOS 7 上 Podman调研…..</p>]]></summary>
+        <author>
+            <name>Zhangguanzhang</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Theater UX]]></title>
         <id>https://daverupert.com/2025/08/theater-ux/</id>
         <link href="https://daverupert.com/2025/08/theater-ux/"/>
@@ -3036,6 +3148,16 @@ My $200 Yamaha story growing up was my step-dad’s acoustic. He had two acousti
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[python grpc 使用域名第一次耗时长问题]]></title>
+        <id>http://zhangguanzhang.github.io/2025/07/29/python-grpc-first-long/</id>
+        <link href="http://zhangguanzhang.github.io/2025/07/29/python-grpc-first-long/"/>
+        <updated>2025-07-29T17:40:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>最近给同事解决的 python grpc 耗时长问题…..</p>]]></summary>
+        <author>
+            <name>Zhangguanzhang</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Wave Terminal 多功能开源终端工具]]></title>
         <id>https://dusays.com/819/</id>
         <link href="https://dusays.com/819/"/>
@@ -3065,6 +3187,16 @@ My $200 Yamaha story growing up was my step-dad’s acoustic. He had two acousti
         <summary type="html"><![CDATA[特供版 Firefox 即将停止服务，那么如何安装国际版的 Firefox 呢？使用软件包管理器(Windows(winget)、macOS(brew) 和 Linux)可以丝滑安装 Firefox, 但是如果想要迁移到国际版，该怎么做呢?]]></summary>
         <author>
             <name>雨月空间站</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我业余时间做的一个小工具，竟成了黑客的“靶场”]]></title>
+        <id>https://panzhixiang.cn/2025/side-project-always-be-hacked/</id>
+        <link href="https://panzhixiang.cn/2025/side-project-always-be-hacked/"/>
+        <updated>2025-07-27T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我开发的一个英语学习工具意外成为黑客攻击目标，通过AI分析攻击日志，识别出攻击类型，并获得实用的安全防护建议。分享这次独特的网络安全经历和AI在技术问题解决中的应用。]]></summary>
+        <author>
+            <name>潘智祥</name>
         </author>
     </entry>
     <entry>

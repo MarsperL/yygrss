@@ -2795,6 +2795,12 @@
       ]
     },
     {
+      "title": "Alliot's blog",
+      "feedUrl": "https://www.iots.vip/atom.xml",
+      "siteUrl": "https://www.iots.vip/atom.xml",
+      "articles": []
+    },
+    {
       "title": "弹霄博科",
       "feedUrl": "https://www.txisfine.cn/atom.xml",
       "siteUrl": "https://www.txisfine.cn/atom.xml",
@@ -2816,6 +2822,162 @@
       "feedUrl": "https://icloudnative.io/index.xml",
       "siteUrl": "https://icloudnative.io/",
       "articles": []
+    },
+    {
+      "title": "潘智祥",
+      "feedUrl": "https://panzhixiang.cn/atom.xml",
+      "siteUrl": "https://panzhixiang.cn/atom.xml",
+      "articles": [
+        {
+          "id": "https://panzhixiang.cn/2025/ai-era-engineer-gap/",
+          "author": null,
+          "description": "记录一下关于AI时代下资深工程师与新人之间的差距感想，分享了一点自己的经验，试着分析了技术广度与深度的平衡，以及AI对工程师职业发展的影响",
+          "link": "https://panzhixiang.cn/2025/ai-era-engineer-gap/",
+          "publishedOn": "2025-09-04T16:00:00.000Z",
+          "wordCount": 197,
+          "title": "AI时代，到底是拉近了还是拉大了资深工程师与新人的差距？",
+          "imageUrl": "https://blog.panzhixiang.cn/images/how-junior-grow-up-in-ai-era.png"
+        },
+        {
+          "id": "https://panzhixiang.cn/2025/douyin/",
+          "author": null,
+          "description": "<p>我大概两个月前开始做一个抖音账号。</p>\n<p>因为是业余时间做的，基本上都是下班路上随便找个地方坐下来讲一些话题，或者就是在书房录制一些视频。算是佛系更新吧。</p>\n<p>我前天没有啥话题，正好在南京南的站台上有很多人抽烟，我就随手拍了一张照片吐槽一下。没想到因为这个",
+          "link": "https://panzhixiang.cn/2025/douyin/",
+          "publishedOn": "2025-08-28T16:00:00.000Z",
+          "wordCount": 158,
+          "title": "在抖音上被喷惨了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://panzhixiang.cn/2025/a-prompt-help-ai-understanding-your-code/",
+          "author": null,
+          "description": "AI 编程助手总是在你的大项目里“重复造轮子”？核心原因是它缺少全局上下文。我分享一个用了很久的 Prompt，能让 AI 自己为代码库生成一份 README “说明书”，辅助解决“失忆”问题。告别无效沟通，让你的 AI 变成真正懂项目的队友。",
+          "link": "https://panzhixiang.cn/2025/a-prompt-help-ai-understanding-your-code/",
+          "publishedOn": "2025-08-19T16:00:00.000Z",
+          "wordCount": 354,
+          "title": "用这个提示词，教会AI理解你的整个项目",
+          "imageUrl": null
+        },
+        {
+          "id": "https://panzhixiang.cn/2025/side-project-always-be-hacked/",
+          "author": null,
+          "description": "我开发的一个英语学习工具意外成为黑客攻击目标，通过AI分析攻击日志，识别出攻击类型，并获得实用的安全防护建议。分享这次独特的网络安全经历和AI在技术问题解决中的应用。",
+          "link": "https://panzhixiang.cn/2025/side-project-always-be-hacked/",
+          "publishedOn": "2025-07-27T16:00:00.000Z",
+          "wordCount": 307,
+          "title": "我业余时间做的一个小工具，竟成了黑客的“靶场”",
+          "imageUrl": "https://blog.panzhixiang.cn/images/side-project-overview.png"
+        }
+      ]
+    },
+    {
+      "title": "青牛踏雪 - Kubernetes|Docker|Istio|Envoy|Hugo|Golang",
+      "feedUrl": "https://unixsre.com/index.xml",
+      "siteUrl": "https://unixsre.com/",
+      "articles": []
+    },
+    {
+      "title": "山山仙人博客",
+      "feedUrl": "https://www.ssgeek.com/atom.xml",
+      "siteUrl": "https://www.ssgeek.com/",
+      "articles": []
+    },
+    {
+      "title": "Zhangguanzhang",
+      "feedUrl": "https://zhangguanzhang.github.io/atom.xml",
+      "siteUrl": "http://zhangguanzhang.github.io/atom.xml",
+      "articles": [
+        {
+          "id": "http://zhangguanzhang.github.io/2025/10/17/keepalived-locking-pid-file-invalid/",
+          "author": null,
+          "description": "<h2 id=\"由来\"><a href=\"#由来\" class=\"headerlink\" title=\"由来\"></a>由来</h2><p>现场部署业务后发现访问有问题，排查后发现业务网关访问 etcd 的 <a href=\"https://zhangguanzhang.gith",
+          "link": "http://zhangguanzhang.github.io/2025/10/17/keepalived-locking-pid-file-invalid/",
+          "publishedOn": "2025-10-17T18:10:30.000Z",
+          "wordCount": null,
+          "title": "keepalived Locking pid file error 22 - Invalid argument",
+          "imageUrl": null
+        },
+        {
+          "id": "http://zhangguanzhang.github.io/2025/10/15/k8s-NodePort-filter/",
+          "author": null,
+          "description": "<p>研究下 calico 如何实现 nodePort 白名单。</p>",
+          "link": "http://zhangguanzhang.github.io/2025/10/15/k8s-NodePort-filter/",
+          "publishedOn": "2025-10-15T10:10:30.000Z",
+          "wordCount": null,
+          "title": "从自己造轮子NodePort白名单到参考 calico 规则",
+          "imageUrl": null
+        },
+        {
+          "id": "http://zhangguanzhang.github.io/2025/10/13/k8s-hostNetwork-hostname/",
+          "author": null,
+          "description": "<p>最近升级和压测遇到的 hostNetwork 下 hostname 的坑问题</p>",
+          "link": "http://zhangguanzhang.github.io/2025/10/13/k8s-hostNetwork-hostname/",
+          "publishedOn": "2025-10-13T10:10:30.000Z",
+          "wordCount": null,
+          "title": "hostNetwork下hostname的坑",
+          "imageUrl": null
+        },
+        {
+          "id": "http://zhangguanzhang.github.io/2025/09/23/flannel.1-cannot-ping/",
+          "author": null,
+          "description": "<p>一次客户环境上个别节点 flannel.1 的 IP 无法 ping 的排查</p>",
+          "link": "http://zhangguanzhang.github.io/2025/09/23/flannel.1-cannot-ping/",
+          "publishedOn": "2025-09-23T10:10:30.000Z",
+          "wordCount": null,
+          "title": "个别节点上 flannel.1 的 IP 无法 ping",
+          "imageUrl": null
+        },
+        {
+          "id": "http://zhangguanzhang.github.io/2025/09/12/salt-run-hang/",
+          "author": null,
+          "description": "<p>一次 salt-run 很久才返回的排查</p>",
+          "link": "http://zhangguanzhang.github.io/2025/09/12/salt-run-hang/",
+          "publishedOn": "2025-09-12T20:10:30.000Z",
+          "wordCount": null,
+          "title": "salt-run很久才返回",
+          "imageUrl": null
+        },
+        {
+          "id": "http://zhangguanzhang.github.io/2025/09/10/kylin-4.19.90-52.49-udp-drop/",
+          "author": null,
+          "description": "<p>一次麒麟内核导致 flannel 跨节点不通的排查</p>",
+          "link": "http://zhangguanzhang.github.io/2025/09/10/kylin-4.19.90-52.49-udp-drop/",
+          "publishedOn": "2025-09-10T18:10:30.000Z",
+          "wordCount": null,
+          "title": "麒麟内核4.19.90-52.49导致的flannel vxlan跨节点不通",
+          "imageUrl": null
+        },
+        {
+          "id": "http://zhangguanzhang.github.io/2025/09/03/flannel-mode-chaos/",
+          "author": null,
+          "description": "<p>一次 flannel 路由错乱导致的跨节点不通</p>",
+          "link": "http://zhangguanzhang.github.io/2025/09/03/flannel-mode-chaos/",
+          "publishedOn": "2025-09-03T10:10:30.000Z",
+          "wordCount": null,
+          "title": "flannel 路由错乱",
+          "imageUrl": null
+        },
+        {
+          "id": "http://zhangguanzhang.github.io/2025/08/06/centos7-podman/",
+          "author": null,
+          "description": "<p>CentOS 7 上 Podman调研…..</p>",
+          "link": "http://zhangguanzhang.github.io/2025/08/06/centos7-podman/",
+          "publishedOn": "2025-08-06T10:10:30.000Z",
+          "wordCount": null,
+          "title": "私有化下(CentOS 7)Podman调研",
+          "imageUrl": null
+        },
+        {
+          "id": "http://zhangguanzhang.github.io/2025/07/29/python-grpc-first-long/",
+          "author": null,
+          "description": "<p>最近给同事解决的 python grpc 耗时长问题…..</p>",
+          "link": "http://zhangguanzhang.github.io/2025/07/29/python-grpc-first-long/",
+          "publishedOn": "2025-07-29T17:40:30.000Z",
+          "wordCount": null,
+          "title": "python grpc 使用域名第一次耗时长问题",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
