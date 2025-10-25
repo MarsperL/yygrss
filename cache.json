@@ -2,7 +2,7 @@
   "sources": [
     {
       "title": "云野阁",
-      "feedUrl": "https://marsperl.github.io/rss2.xml",
+      "feedUrl": "https://yyg.js.cool/rss2.xml",
       "siteUrl": "https://yyg.js.cool/",
       "articles": [
         {
@@ -11,19 +11,9 @@
           "description": "博客加入Gitalk评论后，需要访问相应页面，才在存放评论的仓库创建Issues。本文通过脚本自动访问文章页面完成Gitalk自动创建评论Issues。脚本自attson/hexo-gitalk-init: Hexo gitalk 极简初始化脚本基础上修改而来（是在windows本地运行）。\n这是一个用于 Hexo 博客的 Gitalk 评论系统自动初始化脚本。它能自动扫描所有文章，识别出尚未创建评论 Issue 的页面，并通过模拟浏览器访问来触发 Gitalk 自动完成 Issue",
           "link": "https://yyg.js.cool/yyg/2eca17c7/",
           "publishedOn": "2025-10-08T14:06:07.000Z",
-          "wordCount": 3172,
+          "wordCount": 3137,
           "title": "Gitalk自动创建评论Issues",
-          "imageUrl": "https://api.vvhan.com/api/wallpaper/views"
-        },
-        {
-          "id": "https://marsperl.github.io/yyg/2eca17c7/",
-          "author": null,
-          "description": "博客加入Gitalk评论后，需要访问相应页面，才在存放评论的仓库创建Issues。本文通过脚本自动访问文章页面完成Gitalk自动创建评论Issues。脚本自attson/hexo-gitalk-init: Hexo gitalk 极简初始化脚本基础上修改而来（是在windows本地运行）。\n这是一个用于 Hexo 博客的 Gitalk 评论系统自动初始化脚本。它能自动扫描所有文章，识别出尚未创建评论 Issue",
-          "link": "https://marsperl.github.io/yyg/2eca17c7/",
-          "publishedOn": "2025-10-08T14:06:07.000Z",
-          "wordCount": 4166,
-          "title": "Gitalk自动创建评论Issues",
-          "imageUrl": "https://picapi.pai.al/api/scenery.php"
+          "imageUrl": "https://t.alcy.cc/fj"
         },
         {
           "id": "https://yyg.js.cool/yyg/986299a9/",
@@ -31,17 +21,7 @@
           "description": "<a href=\"#网络\" class=\"headerlink\"",
           "link": "https://yyg.js.cool/yyg/986299a9/",
           "publishedOn": "2025-08-22T10:17:22.000Z",
-          "wordCount": null,
-          "title": "k8s知识梳理--进阶",
-          "imageUrl": null
-        },
-        {
-          "id": "https://marsperl.github.io/yyg/986299a9/",
-          "author": null,
-          "description": "<a href=\"#网络\" class=\"headerlink\"",
-          "link": "https://marsperl.github.io/yyg/986299a9/",
-          "publishedOn": "2025-08-22T10:17:22.000Z",
-          "wordCount": 4569,
+          "wordCount": 3372,
           "title": "k8s知识梳理--进阶",
           "imageUrl": "https://imgapi.cn/api.php?fl=fengjing&gs=images"
         },
@@ -51,19 +31,9 @@
           "description": "前言\n在linux环境下，使用docker部署ollama+deepseek-r1:1.5b+open-webui，实现私有化部署DeepSeek。\n部署过程\n<a href=\"#安装docker\" class=\"headerlink\"",
           "link": "https://yyg.js.cool/yyg/4789a872/",
           "publishedOn": "2025-08-16T09:12:50.000Z",
-          "wordCount": null,
+          "wordCount": 656,
           "title": "私有化部署DeepSeek",
-          "imageUrl": null
-        },
-        {
-          "id": "https://marsperl.github.io/yyg/4789a872/",
-          "author": null,
-          "description": "前言\n在linux环境下，使用docker部署ollama+deepseek-r1:1.5b+open-webui，实现私有化部署DeepSeek。\n部署过程\n<a href=\"#安装docker\"",
-          "link": "https://marsperl.github.io/yyg/4789a872/",
-          "publishedOn": "2025-08-16T09:12:50.000Z",
-          "wordCount": null,
-          "title": "私有化部署DeepSeek",
-          "imageUrl": null
+          "imageUrl": "https://api.vvhan.com/api/wallpaper/views"
         }
       ]
     },
@@ -303,16 +273,6 @@
           "publishedOn": "2025-07-30T13:31:00.000Z",
           "wordCount": null,
           "title": "Before I go: Always buy the $200 Yamaha",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/07/social-media-ethos/",
-          "author": null,
-          "description": "I’m trying to come up with an ethos of how I want to use social media. What rules and constraints do I put around it. This is a living document.\nRules for posting/reposting content:\nRepost/Share cool links from the internet\nRepost/Share cool art (and credit whenever possible)\nRepost/Share people looking for work\nDoubly-so if the people above are in tech and from an underrepresented group\nRepost/Share job listing from reputable companies\nThen… if you’ve done all that, promote your own thing\nGeneral principles for me and my brain:\nI have a bad habit of starting the day off with a goof, avoid this\nI like riffing and puns but it can have reply-guy vibes, limit this\nIn any conversation you have 3 options: Be rude, Be nice, Say nothing – the latter is usually the most correct answer\nIt’s okay to let people be wrong\nWrite down the issues you allow yourself to get outraged over\nRead the room before posting\nYou can block/mute any person or channel for any reason, it’s fun\nResearch suggests it takes 23m15s to resume a task after a distraction!\nRaycast Focus is your friend\nOn specific social-media apps:\nX is for Nazis and Russian bot nets, avoid.\nFB/Instgram are for family and friends, use on occasion.\nTikTok is a dopamine trap, avoid.\nYouTube is a dopamine trap, but useful.\nBluesky is fine.\nMastodon is for quality conversations.\nDiscord is for like-minded communities, prioritize intimate ones.\nLog into LinkedIn once a month and give some thumbs-ups. It supports your friends and colleagues in the algorithmic trash fire and that handshakefullness and relationship building might be helpful in the future if you need a job.",
-          "link": "https://daverupert.com/2025/07/social-media-ethos/",
-          "publishedOn": "2025-07-26T18:08:00.000Z",
-          "wordCount": null,
-          "title": "A social media ethos",
           "imageUrl": null
         }
       ]
@@ -698,6 +658,16 @@
       "feedUrl": "https://jimmysong.io/blog/index.xml",
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
+        {
+          "id": "https://jimmysong.io/blog/from-yaml-to-markdown-devops-vs-collabops/",
+          "author": "Jimmy Song",
+          "description": "探索从 YAML 到 Markdown 的演变，揭示 AI 原生时代的规约驱动开发如何重塑智能体的行为与协作方式。",
+          "link": "https://jimmysong.io/blog/from-yaml-to-markdown-devops-vs-collabops/",
+          "publishedOn": "2025-10-24T10:45:45.000Z",
+          "wordCount": 1239,
+          "title": "从 YAML 到 Markdown：规约驱动开发的演化与 AI 原生范式的崛起",
+          "imageUrl": "https://assets.jimmysong.io/images/blog/from-yaml-to-markdown-devops-vs-collabops/banner.webp"
+        },
         {
           "id": "https://jimmysong.io/blog/ml-systems-intro/",
           "author": "Jimmy Song",
@@ -1233,6 +1203,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=303914",
+          "author": "Brandon Lee",
+          "description": "If you want to take your home lab to a home lab 2.0, it’s all about automation. The more of your environment you can have self-manage, the more time you…\nThe post Top 10 Automation Scripts Every Home Lab Should Have in 2025 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/10/top-10-automation-scripts-every-home-lab-should-have-in-2025/",
+          "publishedOn": "2025-10-24T12:46:53.000Z",
+          "wordCount": 12715,
+          "title": "Top 10 Automation Scripts Every Home Lab Should Have in 2025",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/10/10-Scripts-You-Need-2.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=303917",
           "author": "Brandon Lee",
           "description": "There are so many great tools that you can use to automate provisioning a virtual machine in your home lab when running on Proxmox. However, if you are using manual…\nThe post Proxmox Cloud-Init Made Easy: Automating VM Provisioning Like the Cloud appeared first on Virtualization Howto.",
@@ -1349,6 +1329,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=56331",
+          "author": "Tanvir Kour",
+          "description": "How well a company does depends a lot on how engaged its workers are. Employees are more motivated and productive at work when they feel like they belong, are valued, and are supported. But in many companies, engagement goes down because the systems that teams use don’t work effectively together. It’s hard to gather information, […]",
+          "link": "https://collabnix.com/creating-a-connected-workplace-that-boosts-employee-engagement-2/",
+          "publishedOn": "2025-10-24T07:36:49.000Z",
+          "wordCount": 2769,
+          "title": "Creating a Connected Workplace That Boosts Employee Engagement",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=57553",
           "author": "Collabnix Team",
@@ -2509,16 +2499,6 @@
           "wordCount": null,
           "title": "习惯养成的一点新实践",
           "imageUrl": null
-        },
-        {
-          "id": "https://yeshu.cloud/posts/leave-first-job/",
-          "author": null,
-          "description": "和第一份工作认真告个别。",
-          "link": "https://yeshu.cloud/posts/leave-first-job/",
-          "publishedOn": "2025-07-27T09:46:51.000Z",
-          "wordCount": null,
-          "title": "阿里七年，小树毕业了",
-          "imageUrl": null
         }
       ]
     },
@@ -3139,16 +3119,6 @@
           "wordCount": null,
           "title": "Firefox中国版关闭，如何下载国际版并迁移数据？",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.mintimate.cn/2025/07/26/vaultwardenHost/",
-          "author": null,
-          "description": "自建开源 Bitwarden/Vault 密码库：安全托管强密码，跨平台自动同步、自动填充密码，支持 MFA 多因素认证。掌控数据，提升安全！​",
-          "link": "https://www.mintimate.cn/2025/07/26/vaultwardenHost/",
-          "publishedOn": "2025-07-26T08:47:38.000Z",
-          "wordCount": null,
-          "title": "​​开源密码管理新选择：自建 Bitwarden(Vault)密码托管，跨平台同步 + MFA 多因素认证",
-          "imageUrl": null
         }
       ]
     },
@@ -3449,6 +3419,16 @@
       "siteUrl": "http://zhangguanzhang.github.io/atom.xml",
       "articles": [
         {
+          "id": "http://zhangguanzhang.github.io/2025/10/23/docker-bin-containerd/",
+          "author": null,
+          "description": "<p>简单科普下 docker 启动时候和 contaienrd 相关</p>",
+          "link": "http://zhangguanzhang.github.io/2025/10/23/docker-bin-containerd/",
+          "publishedOn": "2025-10-23T17:10:30.000Z",
+          "wordCount": 3034,
+          "title": "离线安装docker和包管理安装docker下containerd的启动相关",
+          "imageUrl": null
+        },
+        {
           "id": "http://zhangguanzhang.github.io/2025/10/17/keepalived-locking-pid-file-invalid/",
           "author": null,
           "description": "<h2 id=\"由来\"><a href=\"#由来\" class=\"headerlink\" title=\"由来\"></a>由来</h2><p>现场部署业务后发现访问有问题，排查后发现业务网关访问 etcd 的 <a href=\"https://zhangguanzhang.gith",
@@ -3646,6 +3626,18 @@
       "title": "酷 壳 – CoolShell",
       "feedUrl": "https://coolshell.cn/feed",
       "siteUrl": "https://coolshell.cn",
+      "articles": []
+    },
+    {
+      "title": "Feisky",
+      "feedUrl": "https://feisky.xyz/index.xml",
+      "siteUrl": "https://feisky.xyz/",
+      "articles": []
+    },
+    {
+      "title": "运维随笔",
+      "feedUrl": "https://wandouduoduo.github.io/atom.xml",
+      "siteUrl": "/atom.xml",
       "articles": []
     }
   ],

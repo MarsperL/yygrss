@@ -1,11 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://MarsperL.github.io/yygrss/index.html</id>
+    <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-10-23T23:10:35.062Z</updated>
+    <updated>2025-10-25T02:11:37.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
-    <link rel="alternate" href="https://MarsperL.github.io/yygrss/index.html"/>
-    <link rel="self" href="https://MarsperL.github.io/yygrss/feed.atom"/>
+    <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
+    <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Automation Scripts Every Home Lab Should Have in 2025]]></title>
+        <id>https://www.virtualizationhowto.com/?p=303914</id>
+        <link href="https://www.virtualizationhowto.com/2025/10/top-10-automation-scripts-every-home-lab-should-have-in-2025/"/>
+        <updated>2025-10-24T12:46:53.000Z</updated>
+        <summary type="html"><![CDATA[If you want to take your home lab to a home lab 2.0, it’s all about automation. The more of your environment you can have self-manage, the more time you…
+The post Top 10 Automation Scripts Every Home Lab Should Have in 2025 appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从 YAML 到 Markdown：规约驱动开发的演化与 AI 原生范式的崛起]]></title>
+        <id>https://jimmysong.io/blog/from-yaml-to-markdown-devops-vs-collabops/</id>
+        <link href="https://jimmysong.io/blog/from-yaml-to-markdown-devops-vs-collabops/"/>
+        <updated>2025-10-24T10:45:45.000Z</updated>
+        <summary type="html"><![CDATA[探索从 YAML 到 Markdown 的演变，揭示 AI 原生时代的规约驱动开发如何重塑智能体的行为与协作方式。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating a Connected Workplace That Boosts Employee Engagement]]></title>
+        <id>https://collabnix.com/?p=56331</id>
+        <link href="https://collabnix.com/creating-a-connected-workplace-that-boosts-employee-engagement-2/"/>
+        <updated>2025-10-24T07:36:49.000Z</updated>
+        <summary type="html"><![CDATA[How well a company does depends a lot on how engaged its workers are. Employees are more motivated and productive at work when they feel like they belong, are valued, and are supported. But in many companies, engagement goes down because the systems that teams use don’t work effectively together. It’s hard to gather information, […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[离线安装docker和包管理安装docker下containerd的启动相关]]></title>
+        <id>http://zhangguanzhang.github.io/2025/10/23/docker-bin-containerd/</id>
+        <link href="http://zhangguanzhang.github.io/2025/10/23/docker-bin-containerd/"/>
+        <updated>2025-10-23T17:10:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>简单科普下 docker 启动时候和 contaienrd 相关</p>]]></summary>
+        <author>
+            <name>Zhangguanzhang</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[晚期肝癌一线治疗：仑伐替尼+诺法利单抗 vs 仑伐替尼，患者生存未显著改善 #ESMO25]]></title>
         <id>http://whyes.org/2025/cs-1003-305-hcc-lenvatinib</id>
@@ -1082,17 +1123,6 @@ G85银昆高速，秦岭北侧的宝鸡市到秦岭南侧的汉中市
         <updated>2025-10-08T14:06:07.000Z</updated>
         <summary type="html"><![CDATA[博客加入Gitalk评论后，需要访问相应页面，才在存放评论的仓库创建Issues。本文通过脚本自动访问文章页面完成Gitalk自动创建评论Issues。脚本自attson/hexo-gitalk-init: Hexo gitalk 极简初始化脚本基础上修改而来（是在windows本地运行）。
 这是一个用于 Hexo 博客的 Gitalk 评论系统自动初始化脚本。它能自动扫描所有文章，识别出尚未创建评论 Issue 的页面，并通过模拟浏览器访问来触发 Gitalk 自动完成 Issue]]></summary>
-        <author>
-            <name>云野阁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitalk自动创建评论Issues]]></title>
-        <id>https://marsperl.github.io/yyg/2eca17c7/</id>
-        <link href="https://marsperl.github.io/yyg/2eca17c7/"/>
-        <updated>2025-10-08T14:06:07.000Z</updated>
-        <summary type="html"><![CDATA[博客加入Gitalk评论后，需要访问相应页面，才在存放评论的仓库创建Issues。本文通过脚本自动访问文章页面完成Gitalk自动创建评论Issues。脚本自attson/hexo-gitalk-init: Hexo gitalk 极简初始化脚本基础上修改而来（是在windows本地运行）。
-这是一个用于 Hexo 博客的 Gitalk 评论系统自动初始化脚本。它能自动扫描所有文章，识别出尚未创建评论 Issue]]></summary>
         <author>
             <name>云野阁</name>
         </author>
@@ -3146,16 +3176,6 @@ YouTube queues only exist in memory in the tab context, it’s not a cross-tab f
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[k8s知识梳理--进阶]]></title>
-        <id>https://marsperl.github.io/yyg/986299a9/</id>
-        <link href="https://marsperl.github.io/yyg/986299a9/"/>
-        <updated>2025-08-22T10:17:22.000Z</updated>
-        <summary type="html"><![CDATA[<a href="#网络" class="headerlink"]]></summary>
-        <author>
-            <name>云野阁</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Qoder：阿里巴巴推出的 AI IDE，全方位了解其能力与未来]]></title>
         <id>https://jimmysong.io/blog/qoder-alibaba-ai-ide-personal-review/</id>
         <link href="https://jimmysong.io/blog/qoder-alibaba-ai-ide-personal-review/"/>
@@ -3436,19 +3456,6 @@ In late June my family stole away for a quick trip to Arizona. My in-laws bought
 在linux环境下，使用docker部署ollama+deepseek-r1:1.5b+open-webui，实现私有化部署DeepSeek。
 部署过程
 <a href="#安装docker" class="headerlink"]]></summary>
-        <author>
-            <name>云野阁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[私有化部署DeepSeek]]></title>
-        <id>https://marsperl.github.io/yyg/4789a872/</id>
-        <link href="https://marsperl.github.io/yyg/4789a872/"/>
-        <updated>2025-08-16T09:12:50.000Z</updated>
-        <summary type="html"><![CDATA[前言
-在linux环境下，使用docker部署ollama+deepseek-r1:1.5b+open-webui，实现私有化部署DeepSeek。
-部署过程
-<a href="#安装docker"]]></summary>
         <author>
             <name>云野阁</name>
         </author>
@@ -4284,62 +4291,6 @@ My $200 Yamaha story growing up was my step-dad’s acoustic. He had two acousti
         <summary type="html"><![CDATA[我开发的一个英语学习工具意外成为黑客攻击目标，通过AI分析攻击日志，识别出攻击类型，并获得实用的安全防护建议。分享这次独特的网络安全经历和AI在技术问题解决中的应用。]]></summary>
         <author>
             <name>潘智祥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[阿里七年，小树毕业了]]></title>
-        <id>https://yeshu.cloud/posts/leave-first-job/</id>
-        <link href="https://yeshu.cloud/posts/leave-first-job/"/>
-        <updated>2025-07-27T09:46:51.000Z</updated>
-        <summary type="html"><![CDATA[和第一份工作认真告个别。]]></summary>
-        <author>
-            <name>一颗小树</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A social media ethos]]></title>
-        <id>https://daverupert.com/2025/07/social-media-ethos/</id>
-        <link href="https://daverupert.com/2025/07/social-media-ethos/"/>
-        <updated>2025-07-26T18:08:00.000Z</updated>
-        <summary type="html"><![CDATA[I’m trying to come up with an ethos of how I want to use social media. What rules and constraints do I put around it. This is a living document.
-Rules for posting/reposting content:
-Repost/Share cool links from the internet
-Repost/Share cool art (and credit whenever possible)
-Repost/Share people looking for work
-Doubly-so if the people above are in tech and from an underrepresented group
-Repost/Share job listing from reputable companies
-Then… if you’ve done all that, promote your own thing
-General principles for me and my brain:
-I have a bad habit of starting the day off with a goof, avoid this
-I like riffing and puns but it can have reply-guy vibes, limit this
-In any conversation you have 3 options: Be rude, Be nice, Say nothing – the latter is usually the most correct answer
-It’s okay to let people be wrong
-Write down the issues you allow yourself to get outraged over
-Read the room before posting
-You can block/mute any person or channel for any reason, it’s fun
-Research suggests it takes 23m15s to resume a task after a distraction!
-Raycast Focus is your friend
-On specific social-media apps:
-X is for Nazis and Russian bot nets, avoid.
-FB/Instgram are for family and friends, use on occasion.
-TikTok is a dopamine trap, avoid.
-YouTube is a dopamine trap, but useful.
-Bluesky is fine.
-Mastodon is for quality conversations.
-Discord is for like-minded communities, prioritize intimate ones.
-Log into LinkedIn once a month and give some thumbs-ups. It supports your friends and colleagues in the algorithmic trash fire and that handshakefullness and relationship building might be helpful in the future if you need a job.]]></summary>
-        <author>
-            <name>daverupert.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[​​开源密码管理新选择：自建 Bitwarden(Vault)密码托管，跨平台同步 + MFA 多因素认证]]></title>
-        <id>https://www.mintimate.cn/2025/07/26/vaultwardenHost/</id>
-        <link href="https://www.mintimate.cn/2025/07/26/vaultwardenHost/"/>
-        <updated>2025-07-26T08:47:38.000Z</updated>
-        <summary type="html"><![CDATA[自建开源 Bitwarden/Vault 密码库：安全托管强密码，跨平台自动同步、自动填充密码，支持 MFA 多因素认证。掌控数据，提升安全！​]]></summary>
-        <author>
-            <name>雨月空间站</name>
         </author>
     </entry>
 </feed>
