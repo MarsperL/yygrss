@@ -2615,6 +2615,21 @@
       "siteUrl": "https://bluehe.cn/",
       "articles": [
         {
+          "id": "https://bluehe.cn/archives/huahui-garden",
+          "author": "寻鹤",
+          "description": "2025年10月19日，星期天，天气阴，出门时感觉有雨滴到头上，但也骑着电单车出门打卡公园，南宁花卉公园内的幽兰苑是一处仿江南传统园林风格建筑群，这是我此行的目的地。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n园内驻扎着许多摄影师，帮着许多人穿着古风衣服的女子拍照，也会碰到拍Vlog的，这就使得一些地方我都没有走进拍照的欲望。\n\n\n\n\n\n\n\n为什么叫花卉呢？因为从园区正门进来，就是一大片的花卉科普展示，还有花卉...",
+          "link": "https://bluehe.cn/archives/huahui-garden",
+          "publishedOn": "2025-10-25T12:17:00.000Z",
+          "wordCount": 573,
+          "title": "藏在花卉公园里",
+          "enclosure": {
+            "url": "https://bluehe.cn/usr/uploads/2025/10/img_20251019_160048473.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bluehe.cn/usr/uploads/2025/10/img_20251019_160048473.webp"
+        },
+        {
           "id": "https://bluehe.cn/archives/251012-diary",
           "author": "寻鹤",
           "description": "聚餐\n \n把最近五个月的生活叙述整理下，端午节也就是5月31日，同学一直约我出来，我之前婉拒了两次，俗话说事不过三，应邀见面，这是毕业后的为数不多的见面，我们关系很好，在大学图书馆一起学习，期末考试时，我很佩服她做笔记的能力，许多知识点我还在逐条背时，她已经汇总出来了，握住她的 “宝典” ppt，真的让我考试难度降低了一半，学起来也不吃力了。在校由于我们的导师是同一位，所以有很多的共同话题，但五月...",
@@ -3109,16 +3124,6 @@
           "wordCount": null,
           "title": "将 VitePress 文档数据向量化，配合 RAG 实现 AI 助手插件",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.mintimate.cn/2025/07/28/installFirefox/",
-          "author": null,
-          "description": "特供版 Firefox 即将停止服务，那么如何安装国际版的 Firefox 呢？使用软件包管理器(Windows(winget)、macOS(brew) 和 Linux)可以丝滑安装 Firefox, 但是如果想要迁移到国际版，该怎么做呢?",
-          "link": "https://www.mintimate.cn/2025/07/28/installFirefox/",
-          "publishedOn": "2025-07-27T16:08:48.000Z",
-          "wordCount": null,
-          "title": "Firefox中国版关闭，如何下载国际版并迁移数据？",
-          "imageUrl": null
         }
       ]
     },
@@ -3382,16 +3387,6 @@
           "wordCount": 354,
           "title": "用这个提示词，教会AI理解你的整个项目",
           "imageUrl": null
-        },
-        {
-          "id": "https://panzhixiang.cn/2025/side-project-always-be-hacked/",
-          "author": null,
-          "description": "我开发的一个英语学习工具意外成为黑客攻击目标，通过AI分析攻击日志，识别出攻击类型，并获得实用的安全防护建议。分享这次独特的网络安全经历和AI在技术问题解决中的应用。",
-          "link": "https://panzhixiang.cn/2025/side-project-always-be-hacked/",
-          "publishedOn": "2025-07-27T16:00:00.000Z",
-          "wordCount": 307,
-          "title": "我业余时间做的一个小工具，竟成了黑客的“靶场”",
-          "imageUrl": "https://blog.panzhixiang.cn/images/side-project-overview.png"
         }
       ]
     },
@@ -3638,6 +3633,18 @@
       "title": "运维随笔",
       "feedUrl": "https://wandouduoduo.github.io/atom.xml",
       "siteUrl": "/atom.xml",
+      "articles": []
+    },
+    {
+      "title": "为个人日志",
+      "feedUrl": "https://www.whyvv.top/atom.xml",
+      "siteUrl": "/atom.xml",
+      "articles": []
+    },
+    {
+      "title": "ZKeeer's Note",
+      "feedUrl": "http://zkeeer.space/?feed=rss2",
+      "siteUrl": "http://zkeeer.space",
       "articles": []
     }
   ],
