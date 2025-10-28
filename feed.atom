@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-10-27T23:10:39.367Z</updated>
+    <updated>2025-10-28T23:10:30.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What Is an AI Trading Sandbox?]]></title>
+        <id>https://collabnix.com/?p=58168</id>
+        <link href="https://collabnix.com/what-is-an-ai-trading-sandbox/"/>
+        <updated>2025-10-28T16:56:15.000Z</updated>
+        <summary type="html"><![CDATA[When testing trading algorithms, jumping straight into live markets is risky. AI trading sandboxes provide a controlled environment to explore strategies without real financial consequences. These spaces offer a glimpse into market behavior, helping traders experiment and refine their tools safely. So, what makes these environments so helpful, and what other advantages do they offer? […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Run GPU-Enabled Containers in Your Home Lab]]></title>
+        <id>https://www.virtualizationhowto.com/?p=304190</id>
+        <link href="https://www.virtualizationhowto.com/2025/10/how-to-run-gpu-enabled-containers-in-your-home-lab/"/>
+        <updated>2025-10-28T12:52:02.000Z</updated>
+        <summary type="html"><![CDATA[GPUs are definitely no longer just for gamers or crypto miners. They are also now the essential hardware when it comes to AI, media encoding, and things like machine learning.…
+The post How To Run GPU-Enabled Containers in Your Home Lab appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 Must-Try Real Estate Marketing Postcards to Boost Your Client Reach]]></title>
         <id>https://collabnix.com/?p=58042</id>
@@ -471,6 +492,16 @@ The post Why You Need an Immutable Home Lab Server OS appeared first on Virtuali
 The post Minisforum MS-02 Ultra Has Insane Home Lab Potential with 256GB RAM, Triple PCIe, and 25Gb Networking appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一次500万连接EMQ集群的配置复盘]]></title>
+        <id>https://nops.icu/archives/225/</id>
+        <link href="https://nops.icu/archives/225/"/>
+        <updated>2025-10-20T02:20:00.000Z</updated>
+        <summary type="html"><![CDATA[在我们的商业场景中，设备和云端需要低消耗、可靠的连接。最终我们使用了mqtt协议。初代方案CLB--HAproxy--内网CLB--EMQ集群，稳定维持几百万连接当前方案云推出各种负载均衡产品，...]]></summary>
+        <author>
+            <name>季兴</name>
         </author>
     </entry>
     <entry>
@@ -4341,18 +4372,6 @@ The death of the Economy started long before Covid if I’m honest. Since the iP
         <summary type="html"><![CDATA[In Chromium 139, CSS gets a new corner-shape property which unlocks some cool new CSS tricks. Most notably it gives us “squircles”, the mathematical superellipse shape introduced by Apple in iOS 7. Designers have been in love with them ever since and include them in every design comp using Figma’s “corner-smoothing” slider even tho CSS has no similar correlation… until now!
 Frontend Masters has a beautiful writeup on corner-shape and superellipses showing that it goes way beyond squircles to make some real complex shapes. One capability they didn’t cover in that post is probably the most important of all: CSS corner-shape enables easy sci-fi rectangles.
 By “sci-fi rectangles” I am of course referring to the sci-fi film and television trope where all rectangles (doors, windows, furniture, u…]]></summary>
-        <author>
-            <name>daverupert.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Before I go: Always buy the $200 Yamaha]]></title>
-        <id>https://daverupert.com/2025/07/always-buy-the-yamaha/</id>
-        <link href="https://daverupert.com/2025/07/always-buy-the-yamaha/"/>
-        <updated>2025-07-30T13:31:00.000Z</updated>
-        <summary type="html"><![CDATA[I don’t have much life advice but I do know one thing: Always buy the $200 Yamaha guitar.
-If you’re thinking about it, do it. Talk to any guitarist you know who has been playing awhile and they’ll have a story about a $200 Yamaha and how good it sounds relative to the price. It’s with uncanny regularity I encounter fellow travelers with a similar story about this particular cheap guitar.
-My $200 Yamaha story growing up was my step-dad’s acoustic. He had two acoustic guitars actually; the Yamaha which stayed out propped against his bedroom wall and another one (I don’t remember the brand) with fancy jade inlays that stayed clasped in the green felt case under his bed. I wasn’t supposed to touch any of his guitars but I would sneak in and noodle on that Yamaha every chance I got. The Yamaha …]]></summary>
         <author>
             <name>daverupert.com</name>
         </author>

@@ -264,16 +264,6 @@
           "wordCount": null,
           "title": "Easy sci-fi rectangles with corner-shape",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/07/always-buy-the-yamaha/",
-          "author": null,
-          "description": "I don’t have much life advice but I do know one thing: Always buy the $200 Yamaha guitar.\nIf you’re thinking about it, do it. Talk to any guitarist you know who has been playing awhile and they’ll have a story about a $200 Yamaha and how good it sounds relative to the price. It’s with uncanny regularity I encounter fellow travelers with a similar story about this particular cheap guitar.\nMy $200 Yamaha story growing up was my step-dad’s acoustic. He had two acoustic guitars actually; the Yamaha which stayed out propped against his bedroom wall and another one (I don’t remember the brand) with fancy jade inlays that stayed clasped in the green felt case under his bed. I wasn’t supposed to touch any of his guitars but I would sneak in and noodle on that Yamaha every chance I got. The Yamaha …",
-          "link": "https://daverupert.com/2025/07/always-buy-the-yamaha/",
-          "publishedOn": "2025-07-30T13:31:00.000Z",
-          "wordCount": null,
-          "title": "Before I go: Always buy the $200 Yamaha",
-          "imageUrl": null
         }
       ]
     },
@@ -1086,6 +1076,16 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://nops.icu/archives/225/",
+          "author": "季兴",
+          "description": "在我们的商业场景中，设备和云端需要低消耗、可靠的连接。最终我们使用了mqtt协议。初代方案CLB--HAproxy--内网CLB--EMQ集群，稳定维持几百万连接当前方案云推出各种负载均衡产品，...",
+          "link": "https://nops.icu/archives/225/",
+          "publishedOn": "2025-10-20T02:20:00.000Z",
+          "wordCount": 534,
+          "title": "一次500万连接EMQ集群的配置复盘",
+          "imageUrl": null
+        },
+        {
           "id": "https://nops.icu/archives/223/",
           "author": "季兴",
           "description": "今年4月采购Apple Mac Studio 在本地离线运行模型，实现了云故障诊断的本地化与安全闭环。此方案获得Apple官方认可，被选为典型案例，并由其出资拍摄宣传短片。影片将展示双方品牌Lo...",
@@ -1202,6 +1202,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=304190",
+          "author": "Brandon Lee",
+          "description": "GPUs are definitely no longer just for gamers or crypto miners. They are also now the essential hardware when it comes to AI, media encoding, and things like machine learning.…\nThe post How To Run GPU-Enabled Containers in Your Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/10/how-to-run-gpu-enabled-containers-in-your-home-lab/",
+          "publishedOn": "2025-10-28T12:52:02.000Z",
+          "wordCount": 12930,
+          "title": "How To Run GPU-Enabled Containers in Your Home Lab",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/10/GPU-accelerated-containers.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=304181",
           "author": "Brandon Lee",
@@ -1339,6 +1349,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=58168",
+          "author": "Tanvir Kour",
+          "description": "When testing trading algorithms, jumping straight into live markets is risky. AI trading sandboxes provide a controlled environment to explore strategies without real financial consequences. These spaces offer a glimpse into market behavior, helping traders experiment and refine their tools safely. So, what makes these environments so helpful, and what other advantages do they offer? […]",
+          "link": "https://collabnix.com/what-is-an-ai-trading-sandbox/",
+          "publishedOn": "2025-10-28T16:56:15.000Z",
+          "wordCount": 2492,
+          "title": "What Is an AI Trading Sandbox?",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=58042",
           "author": "Tanvir Kour",
@@ -3120,6 +3140,12 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Linux运维笔记",
+      "feedUrl": "https://wanghaiyang.cc/rss.xml",
+      "siteUrl": "https://haiyang.host",
+      "articles": []
     },
     {
       "title": "清风",
