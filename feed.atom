@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-10-28T23:10:30.961Z</updated>
+    <updated>2025-10-29T23:10:51.779Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Claude Skills: The Complete Guide to Extending AI Capabilities (2025)]]></title>
+        <id>https://collabnix.com/?p=58379</id>
+        <link href="https://collabnix.com/claude-skills-the-complete-guide-to-extending-ai-capabilities-2025/"/>
+        <updated>2025-10-29T14:01:41.000Z</updated>
+        <summary type="html"><![CDATA[What Are Claude Skills? A Game-Changer for AI Productivity Claude Skills represent a revolutionary approach to customizing and extending Claude’s capabilities through specialized knowledge modules. Think of Skills as expert plugins that transform Claude from a general-purpose AI assistant into a domain-specific powerhouse tailored to your exact needs. Released as part of Claude’s extended functionality, […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zorin OS Is the Best Linux Distro for Windows Users (and Perfect for Home Labs)]]></title>
+        <id>https://www.virtualizationhowto.com/?p=304192</id>
+        <link href="https://www.virtualizationhowto.com/2025/10/zorin-os-is-the-best-linux-distro-for-windows-users-and-perfect-for-home-labs/"/>
+        <updated>2025-10-29T12:39:19.000Z</updated>
+        <summary type="html"><![CDATA[If you have been itching to switch to something different than Windows and you have been tempted to move to Linux, but have been afraid to do so, there is…
+The post Zorin OS Is the Best Linux Distro for Windows Users (and Perfect for Home Labs) appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么？阿里云DNS提供cname权重啦？]]></title>
+        <id>https://nops.icu/archives/227/</id>
+        <link href="https://nops.icu/archives/227/"/>
+        <updated>2025-10-29T03:10:00.000Z</updated>
+        <summary type="html"><![CDATA[突然在阿里云控制台上看到，可以设置cname的权重，印象里只有mx记录有优先级！特意去查了DNS规范，确实没有实践是检验真理的唯一标准，开干按标准dns协议，cname记录是没有“权重”、“优先...]]></summary>
+        <author>
+            <name>季兴</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从孔子到开源：道与术之间的中国式创新困境]]></title>
+        <id>https://jimmysong.io/blog/from-confucius-to-open-source/</id>
+        <link href="https://jimmysong.io/blog/from-confucius-to-open-source/"/>
+        <updated>2025-10-29T02:19:10.000Z</updated>
+        <summary type="html"><![CDATA[从儒家礼治到开源协作，探讨两千年制度文化如何塑造中国的技术与创新精神。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用kubeadm部署一套高可用k8s集群1.34 for Ubuntu]]></title>
+        <id>https://zahui.fan/posts/t4ve3m/</id>
+        <link href="https://zahui.fan/posts/t4ve3m/"/>
+        <updated>2025-10-29T01:42:58.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>基于 ubuntu 使用 kubeadm 搭建集群， <a href="/posts/b86d9e9f/">centos部署文档</a>, 有疑问的地方可以看 <a]]></summary>
+        <author>
+            <name>杂烩饭</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What Is an AI Trading Sandbox?]]></title>
         <id>https://collabnix.com/?p=58168</id>
@@ -4342,38 +4394,6 @@ The death of the Economy started long before Covid if I’m honest. Since the iP
 总体来说，比隔壁不远处的东湖莲舍性价比更高，不管是环境还是菜品。]]></summary>
         <author>
             <name>Andy烧麦 - 成熟，聪明，豁达的人什么也不问 过去，现在，将来…</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cline 获 3200 万美元融资，AI 编码新时代来袭！]]></title>
-        <id>https://jimmysong.io/blog/cline-ai-funding/</id>
-        <link href="https://jimmysong.io/blog/cline-ai-funding/"/>
-        <updated>2025-08-01T06:27:13.000Z</updated>
-        <summary type="html"><![CDATA[开源 AI 编码工具 Cline 完成 3200 万美元融资，凭借透明定价和无约束模型使用迅速崛起。本文解析其成功秘诀及对 AI 编码行业的深远影响。]]></summary>
-        <author>
-            <name>Jimmy Song</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[理解 KubeSphere 的“转身”，但遗憾它没有好好告别]]></title>
-        <id>https://jimmysong.io/blog/kubesphere-opensource-exit/</id>
-        <link href="https://jimmysong.io/blog/kubesphere-opensource-exit/"/>
-        <updated>2025-08-01T02:30:00.000Z</updated>
-        <summary type="html"><![CDATA[青云宣布 KubeSphere 暂停开源版支持，引发社区强烈反响。这篇文章从开源参与者的视角出发，理性分析其背后的动因与影响，并呼吁以更成熟的方式应对企业开源项目的生命周期变化。]]></summary>
-        <author>
-            <name>Jimmy Song</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easy sci-fi rectangles with corner-shape]]></title>
-        <id>https://daverupert.com/2025/07/sci-fi-rectangles-with-corner-shape/</id>
-        <link href="https://daverupert.com/2025/07/sci-fi-rectangles-with-corner-shape/"/>
-        <updated>2025-07-31T14:36:00.000Z</updated>
-        <summary type="html"><![CDATA[In Chromium 139, CSS gets a new corner-shape property which unlocks some cool new CSS tricks. Most notably it gives us “squircles”, the mathematical superellipse shape introduced by Apple in iOS 7. Designers have been in love with them ever since and include them in every design comp using Figma’s “corner-smoothing” slider even tho CSS has no similar correlation… until now!
-Frontend Masters has a beautiful writeup on corner-shape and superellipses showing that it goes way beyond squircles to make some real complex shapes. One capability they didn’t cover in that post is probably the most important of all: CSS corner-shape enables easy sci-fi rectangles.
-By “sci-fi rectangles” I am of course referring to the sci-fi film and television trope where all rectangles (doors, windows, furniture, u…]]></summary>
-        <author>
-            <name>daverupert.com</name>
         </author>
     </entry>
 </feed>

@@ -254,16 +254,6 @@
           "wordCount": null,
           "title": "The Economy? He died five years ago.",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/07/sci-fi-rectangles-with-corner-shape/",
-          "author": null,
-          "description": "In Chromium 139, CSS gets a new corner-shape property which unlocks some cool new CSS tricks. Most notably it gives us “squircles”, the mathematical superellipse shape introduced by Apple in iOS 7. Designers have been in love with them ever since and include them in every design comp using Figma’s “corner-smoothing” slider even tho CSS has no similar correlation… until now!\nFrontend Masters has a beautiful writeup on corner-shape and superellipses showing that it goes way beyond squircles to make some real complex shapes. One capability they didn’t cover in that post is probably the most important of all: CSS corner-shape enables easy sci-fi rectangles.\nBy “sci-fi rectangles” I am of course referring to the sci-fi film and television trope where all rectangles (doors, windows, furniture, u…",
-          "link": "https://daverupert.com/2025/07/sci-fi-rectangles-with-corner-shape/",
-          "publishedOn": "2025-07-31T14:36:00.000Z",
-          "wordCount": null,
-          "title": "Easy sci-fi rectangles with corner-shape",
-          "imageUrl": null
         }
       ]
     },
@@ -648,6 +638,16 @@
       "feedUrl": "https://jimmysong.io/blog/index.xml",
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
+        {
+          "id": "https://jimmysong.io/blog/from-confucius-to-open-source/",
+          "author": "Jimmy Song",
+          "description": "从儒家礼治到开源协作，探讨两千年制度文化如何塑造中国的技术与创新精神。",
+          "link": "https://jimmysong.io/blog/from-confucius-to-open-source/",
+          "publishedOn": "2025-10-29T02:19:10.000Z",
+          "wordCount": 783,
+          "title": "从孔子到开源：道与术之间的中国式创新困境",
+          "imageUrl": "https://assets.jimmysong.io/images/blog/from-confucius-to-open-source/banner.webp"
+        },
         {
           "id": "https://jimmysong.io/blog/solaris-1972-ai-metaphor/",
           "author": "Jimmy Song",
@@ -1047,26 +1047,6 @@
           "wordCount": null,
           "title": "用 JSON Prompt 构建 3D 图标：结构化提示词的强大实践",
           "imageUrl": null
-        },
-        {
-          "id": "https://jimmysong.io/blog/cline-ai-funding/",
-          "author": "Jimmy Song",
-          "description": "开源 AI 编码工具 Cline 完成 3200 万美元融资，凭借透明定价和无约束模型使用迅速崛起。本文解析其成功秘诀及对 AI 编码行业的深远影响。",
-          "link": "https://jimmysong.io/blog/cline-ai-funding/",
-          "publishedOn": "2025-08-01T06:27:13.000Z",
-          "wordCount": null,
-          "title": "Cline 获 3200 万美元融资，AI 编码新时代来袭！",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jimmysong.io/blog/kubesphere-opensource-exit/",
-          "author": "Jimmy Song",
-          "description": "青云宣布 KubeSphere 暂停开源版支持，引发社区强烈反响。这篇文章从开源参与者的视角出发，理性分析其背后的动因与影响，并呼吁以更成熟的方式应对企业开源项目的生命周期变化。",
-          "link": "https://jimmysong.io/blog/kubesphere-opensource-exit/",
-          "publishedOn": "2025-08-01T02:30:00.000Z",
-          "wordCount": null,
-          "title": "理解 KubeSphere 的“转身”，但遗憾它没有好好告别",
-          "imageUrl": null
         }
       ]
     },
@@ -1075,6 +1055,16 @@
       "feedUrl": "https://nops.icu/feed/",
       "siteUrl": "/",
       "articles": [
+        {
+          "id": "https://nops.icu/archives/227/",
+          "author": "季兴",
+          "description": "突然在阿里云控制台上看到，可以设置cname的权重，印象里只有mx记录有优先级！特意去查了DNS规范，确实没有实践是检验真理的唯一标准，开干按标准dns协议，cname记录是没有“权重”、“优先...",
+          "link": "https://nops.icu/archives/227/",
+          "publishedOn": "2025-10-29T03:10:00.000Z",
+          "wordCount": 523,
+          "title": "什么？阿里云DNS提供cname权重啦？",
+          "imageUrl": null
+        },
         {
           "id": "https://nops.icu/archives/225/",
           "author": "季兴",
@@ -1202,6 +1192,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=304192",
+          "author": "Brandon Lee",
+          "description": "If you have been itching to switch to something different than Windows and you have been tempted to move to Linux, but have been afraid to do so, there is…\nThe post Zorin OS Is the Best Linux Distro for Windows Users (and Perfect for Home Labs) appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/10/zorin-os-is-the-best-linux-distro-for-windows-users-and-perfect-for-home-labs/",
+          "publishedOn": "2025-10-29T12:39:19.000Z",
+          "wordCount": 13097,
+          "title": "Zorin OS Is the Best Linux Distro for Windows Users (and Perfect for Home Labs)",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/10/Zorin-OS-Best-Linux-Distro-for-Windows-users3.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=304190",
           "author": "Brandon Lee",
@@ -1349,6 +1349,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=58379",
+          "author": "Collabnix Team",
+          "description": "What Are Claude Skills? A Game-Changer for AI Productivity Claude Skills represent a revolutionary approach to customizing and extending Claude’s capabilities through specialized knowledge modules. Think of Skills as expert plugins that transform Claude from a general-purpose AI assistant into a domain-specific powerhouse tailored to your exact needs. Released as part of Claude’s extended functionality, […]",
+          "link": "https://collabnix.com/claude-skills-the-complete-guide-to-extending-ai-capabilities-2025/",
+          "publishedOn": "2025-10-29T14:01:41.000Z",
+          "wordCount": 4487,
+          "title": "Claude Skills: The Complete Guide to Extending AI Capabilities (2025)",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=58168",
           "author": "Tanvir Kour",
@@ -3218,6 +3228,16 @@
       "feedUrl": "https://zahui.fan/atom.xml",
       "siteUrl": "https://zahui.fan/atom.xml",
       "articles": [
+        {
+          "id": "https://zahui.fan/posts/t4ve3m/",
+          "author": null,
+          "description": "<blockquote>\n<p>基于 ubuntu 使用 kubeadm 搭建集群， <a href=\"/posts/b86d9e9f/\">centos部署文档</a>, 有疑问的地方可以看 <a",
+          "link": "https://zahui.fan/posts/t4ve3m/",
+          "publishedOn": "2025-10-29T01:42:58.000Z",
+          "wordCount": 1602,
+          "title": "使用kubeadm部署一套高可用k8s集群1.34 for Ubuntu",
+          "imageUrl": "https://s3.babudiu.com/iuxt/public/skeleton1.svg"
+        },
         {
           "id": "https://zahui.fan/posts/t3e151/",
           "author": null,
