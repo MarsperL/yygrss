@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-10-29T23:10:51.779Z</updated>
+    <updated>2025-10-30T23:10:59.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 Things You Should Be Monitoring on Your Home Lab Network (But Probably Aren’t)]]></title>
+        <id>https://www.virtualizationhowto.com/?p=304295</id>
+        <link href="https://www.virtualizationhowto.com/2025/10/5-things-you-should-be-monitoring-on-your-home-lab-network-but-probably-arent/"/>
+        <updated>2025-10-30T12:50:17.000Z</updated>
+        <summary type="html"><![CDATA[You may have spent tons of time optimizing and monitoring the performance of virtual machines, containers, and other infrastructure in your home lab. However, network visibility often gets ignored in…
+The post 5 Things You Should Be Monitoring on Your Home Lab Network (But Probably Aren’t) appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从 Kubernetes 到 Qwen：AI 时代的“开源”为何变了？]]></title>
+        <id>https://jimmysong.io/blog/ai-era-open-source-difference/</id>
+        <link href="https://jimmysong.io/blog/ai-era-open-source-difference/"/>
+        <updated>2025-10-30T11:31:01.000Z</updated>
+        <summary type="html"><![CDATA[探讨 AI 时代开源的变革，从 Kubernetes 到 Qwen，揭示中美厂商在开源策略上的根本差异与新机遇。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 时代的脂砚斋：从《红楼梦》创作谈大语言模型与提示工程]]></title>
+        <id>https://jimmysong.io/blog/zhiyanzhai-ai/</id>
+        <link href="https://jimmysong.io/blog/zhiyanzhai-ai/"/>
+        <updated>2025-10-30T11:07:09.000Z</updated>
+        <summary type="html"><![CDATA[以《红楼梦》作者与脂砚斋批注的协作为例，类比现代大语言模型与提示工程师的互动，探讨人机协作与反馈循环对创作和 AI 训练的启示。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Claude Skills: The Complete Guide to Extending AI Capabilities (2025)]]></title>
         <id>https://collabnix.com/?p=58379</id>
@@ -77,6 +108,33 @@ The post Zorin OS Is the Best Linux Distro for Windows Users (and Perfect for Ho
 The post How To Run GPU-Enabled Containers in Your Home Lab appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[条件分支预测器逆向工程（以 Apple M1 Firestorm 为例）]]></title>
+        <id>https://jia.je/hardware/2025/10/28/cbp-reverse-engineer/</id>
+        <link href="https://jia.je/hardware/2025/10/28/cbp-reverse-engineer/"/>
+        <updated>2025-10-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[条件分支预测器逆向工程（以 Apple M1 Firestorm 为例）¶
+背景¶
+去年我完成了针对 Apple 和 Qualcomm 条件分支预测器（Conditional Branch Predictor）的逆向工程研究，相关论文已发表在 arXiv 上，并公开了源代码。考虑到许多读者对处理器逆向工程感兴趣，但可能因其复杂性而望而却步，本文将以 Apple M1 Firestorm 为例，详细介绍条件分支预测器的逆向工程方法，作为对原论文的补充说明。
+
+背景知识¶
+首先介绍一些背景知识。要逆向工程条件分支预测器，需要先了解其工作原理。条件分支预测器的基本思路是：
+
+条件分支的跳转行为（跳转或不跳转）通常是高度可预测的
+预测器的输入包括条件分支的地址，以及近期执行的若干条分支的历史记录；输出则是预测该条件分支是否跳转
+
+为了在硬件上实现这一算法，处理器会维护一个预测表，表中每一项包含一个 2 位饱和计数器，用于预测跳转方向。查表时，系统会对条件分支地址以及近期执行的分支历史进行哈希运算，使用哈希结果作为索引读取表项，然后根据计数器的值来预测分支的跳转方向。
+
+（图源：CMU ECE740 Computer Architecture: Branch Prediction）
+目前主流处理器普遍采用 TAGE 预测器，它在上述基础查表方法的基础上进行了重要改进：
+
+观察到不同分支的预测所需的历史长度各不相同：有些分支无需历史信息即可准确预测，有些依赖近期分支的跳转结果，而有些则需要更久远的历史信息；
+分支历史越长，可能的路径组合就越多，导致预测器训练过程变慢，训练期间的预测错误率较高，因此希望尽快收敛；
+为满足不同分支对历史长度的需求，TAGE 设计了多个预测表，每个表使用不同长度的分支历史。多个表同时进行预测，当多个表都提供预测结果时（仅在 tag 匹配时提供预测），选择使用…]]></summary>
+        <author>
+            <name>杰哥的{运维，编程，调板子}小笔记</name>
         </author>
     </entry>
     <entry>
@@ -4292,108 +4350,6 @@ Namaste.]]></summary>
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Production-Ready LLM Infrastructure: Deploying Ollama on Kubernetes with Anthropic MCP Best Practices]]></title>
-        <id>https://collabnix.com/?p=44614</id>
-        <link href="https://collabnix.com/production-ready-llm-infrastructure-deploying-ollama-on-kubernetes-with-anthropic-mcp-best-practices/"/>
-        <updated>2025-08-02T10:20:49.000Z</updated>
-        <summary type="html"><![CDATA[Complete guide to deploying Ollama on Kubernetes with Anthropic MCP integration. Learn production best practices, security, scaling, and monitoring for enterprise LLM workloads.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Top 10 AI Models Every Developer Should Know in 2025]]></title>
-        <id>https://collabnix.com/?p=44603</id>
-        <link href="https://collabnix.com/the-top-10-ai-models-every-developer-should-know-in-2025-a-comprehensive-guide/"/>
-        <updated>2025-08-02T09:19:17.000Z</updated>
-        <summary type="html"><![CDATA[The AI landscape in 2025 has reached unprecedented maturity, with powerful models becoming essential tools for modern software development. Whether you’re building the next generation of applications, automating complex workflows, or enhancing user experiences, choosing the right AI model can make or break your project. This comprehensive guide examines the top 10 AI models that […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started with Ollama on Kubernetes]]></title>
-        <id>https://collabnix.com/?p=44578</id>
-        <link href="https://collabnix.com/getting-started-with-ollama-on-kubernetes/"/>
-        <updated>2025-08-02T08:57:54.000Z</updated>
-        <summary type="html"><![CDATA[Ollama has emerged as one of the most popular tools for running large language models (LLMs) locally, providing developers and organizations with a simple way to deploy and interact with models like Llama, Mistral, and CodeLlama without relying on external APIs. By packaging these powerful AI models into an easy-to-use interface, Ollama democratizes access to […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[天生有罪]]></title>
-        <id>https://limboy.me/books/born-a-crime</id>
-        <link href="https://limboy.me/books/born-a-crime"/>
-        <updated>2025-08-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[这本书的核心是诺亚与他母亲帕特里夏的深厚关系。她是一位极具韧性、虔诚且思想独立的女性，用智慧、幽默和坚定的爱武装特雷弗，教他如何利用语言和思想去打破种族和社会的壁垒。因为他的特殊身份，加上淘气的天性，结合南非当时的社会环境，让他的童年和青少年总是在滑稽可笑和惊心动魄之间切换：被母亲从行驶的汽车中扔出以躲避危险；在不同社区间利用语言优势游刃有余；从经营盗版CD生意，到与家暴的继父斗争等等。]]></summary>
-        <author>
-            <name>Limboy's Essays</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Economy? He died five years ago.]]></title>
-        <id>https://daverupert.com/2025/08/the-economy-he-died-five-years-ago/</id>
-        <link href="https://daverupert.com/2025/08/the-economy-he-died-five-years-ago/"/>
-        <updated>2025-08-01T15:11:00.000Z</updated>
-        <summary type="html"><![CDATA[I hold a conspiracy theory the global economy died five years ago during Covid. It’s been on life support through stimulus checks and flash tech hype cycles ever since trying to keep the dormant heart beating. You sense it too. There’s no beating heart. There’s no thumping energy. No vein of excitement. Tech and knowledge work seems to be suffering the most.
-The death of the Economy started long before Covid if I’m honest. Since the iPhone it feels like everyone has been waiting for the next big hit, the next new shiny, the next money-maker. It’s like an endless distracted boyfriend meme looping year over year. And I regret to inform you that the investors are at it again. Today it’s LLMs, before that crypto and the Web3 Metaverse, before that VR, before that the gig economy, before that s…]]></summary>
-        <author>
-            <name>daverupert.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[武汉的夏天，东湖荷宴·荷畔院子]]></title>
-        <id>https://4311346.com/post/2025/0801-donghuheyan.html</id>
-        <link href="https://4311346.com/post/2025/0801-donghuheyan.html"/>
-        <updated>2025-08-01T14:52:19.000Z</updated>
-        <summary type="html"><![CDATA[武汉东湖风景区靠近磨山景区南门那一片有好多的私人会所，大多提供餐厅和住宿服务，每一家都有其独特的特色。
-唐代诗人孟浩然有一首诗中曾写到 “荷风送香气，竹露滴清响” ，这个酷热的夏天能在这样的会所餐厅吃饭，看看湖景，赏赏荷花，聊聊人生，惬意至极。
-荷宴·荷畔院子
-
-磨山景区南门旁，打卡记录下把~ 下次还能来~
-
-早早就预定的777包房，风景无敌
-
-如果只是几个人，大厅长廊窗边的环境也非常的好
-
-窗外的荷花，如此应景。
-
-一定要出来在荷花池中走走，荷庭别院，百味入宴，真的像是来到了一个世外桃源。
-武汉东湖磨山风景区
-
-荷宴·荷畔院子旁就是武汉东湖磨山风景区南门，乘坐30元/人往返的景区电瓶车去到磨山山顶楚天台，一路风景很赞。
-
-不记得是什么时候开始，磨山风景区免票了，而作为武汉人，特别是从小在东湖边长大的人来说，东湖磨山也有很多年没来过了，特别的陌生。
-
-电瓶车送到楚天台楼梯口，一口气上去后，发现居然还得掏20元/人买票才能进入楚天台。
-
-原因是楚天台内每天几个时间段有湖北编钟表演
-
-磨山风景区楚天台的结构图，直接上官方描述。
-楚天台坐落于武汉东湖磨山第二主峰，是楚文化游览区的标志性建筑。该建筑依山势而建，采用外五层内六层结构，主体高度达35.26米，建筑面积2260平方米。台前345级台阶与弧形道相连接，栏板雕刻楚器云纹浮雕，正面镶嵌600余块天然大理石拼成"楚天仙境丹凤朝阳"图案。
-建筑顶部安放1.2米高青铜凤标，基座高1.5米，整体净高7.2米，展现楚文化中"凤水合一"的图腾崇拜。台内常年展出楚国出土文物复仿制品及名人蜡像，并每日定时举办编钟乐舞表演。登临顶层观景平台可俯瞰东湖全景，形成山水人文相融的景观体系
-
-楚天台上，远看东湖听涛景区
-
-楚天台上，远看东湖落雁景区
-
-楚天台上，远看东湖吹笛景区
-逛累了，回到荷宴开吃
-
-小盘开胃菜，武汉怀旧妈妈菜 和 青笋海蜇丝
-
-金汤薏米佛跳墙，这里居然也能喝到福州的佛跳墙，内容厚实
-
-三文鱼拼鹅肝刺身，金砖鹅肝，凸(艹皿艹 )~入口即化的冰淇淋感，晚上回家淘宝回购了
-还有几个有特色的菜品
-年份甲鱼烧蹄筋鞭花、绝味黑鸦煲、开胃天门鳝鱼羹、腊味黄陂煮豆丝
-总体来说，比隔壁不远处的东湖莲舍性价比更高，不管是环境还是菜品。]]></summary>
-        <author>
-            <name>Andy烧麦 - 成熟，聪明，豁达的人什么也不问 过去，现在，将来…</name>
         </author>
     </entry>
 </feed>
