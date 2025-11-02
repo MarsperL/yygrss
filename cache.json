@@ -224,16 +224,6 @@
           "wordCount": null,
           "title": "Theater UX",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/08/digital-holidays/",
-          "author": null,
-          "description": "The cost of being online is getting too damn high and I’m tired of pretending it’s possible to fit these tasks into a normal life. That’s why I’d like to share a modest proposal for a new set of holidays to manage our digital lives:\n(Ahem.)\nA day to clear out your inboxes\nA day to reset your passwords and delete old accounts\nA day to fix your calendars\nA day to cancel online service subscriptions\nA day to manage the tags on your website\nA day to switch out any critical apps\nA day to backup your computer and phone\nA day to organize your photos\nA day to organize your music collection and playlists\nA day to setup your new phone/computer\nA day to try out a new app or major piece of software for your primary workflow\nA day to delete old text messages\nAll I’m asking for is 1/30th of a year that we end up cramming into other days. I’m willing to trade some of the B-tier holidays (Easter, Thanksgiving, etc) for this. If you work in the government please call me, it is URGENT.",
-          "link": "https://daverupert.com/2025/08/digital-holidays/",
-          "publishedOn": "2025-08-04T13:03:00.000Z",
-          "wordCount": null,
-          "title": "A modest proposal for new holidays to manage your digital life",
-          "imageUrl": null
         }
       ]
     },
@@ -1350,6 +1340,46 @@
       "siteUrl": "https://collabnix.com",
       "articles": [
         {
+          "id": "https://collabnix.com/building-ai-coding-assistants-with-claude-and-mcp-a-complete-guide/",
+          "author": "Collabnix Team",
+          "description": "Learn to build production-ready AI coding assistants using Claude and Model Context Protocol (MCP). Includes code examples, Docker configs, and best practices.",
+          "link": "https://collabnix.com/building-ai-coding-assistants-with-claude-and-mcp-a-complete-guide/",
+          "publishedOn": "2025-11-02T09:07:55.000Z",
+          "wordCount": 3323,
+          "title": "Building AI Coding Assistants with Claude and MCP: A Complete Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/model-serving-at-scale-torchserve-on-kubernetes-guide-2024/",
+          "author": "Collabnix Team",
+          "description": "Learn to deploy PyTorch models at scale with TorchServe on Kubernetes. Complete guide with YAML configs, autoscaling, and production best practices.",
+          "link": "https://collabnix.com/model-serving-at-scale-torchserve-on-kubernetes-guide-2024/",
+          "publishedOn": "2025-11-02T09:03:25.000Z",
+          "wordCount": null,
+          "title": "Model Serving at Scale: TorchServe on Kubernetes Guide 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/document-processing-for-rag-best-practices-and-tools-for-2024/",
+          "author": "Collabnix Team",
+          "description": "Master document processing for RAG systems with practical examples, code snippets, and best practices. Learn chunking strategies, embedding optimization, and production deployment.",
+          "link": "https://collabnix.com/document-processing-for-rag-best-practices-and-tools-for-2024/",
+          "publishedOn": "2025-11-02T09:00:41.000Z",
+          "wordCount": null,
+          "title": "Document Processing for RAG: Best Practices and Tools for 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/webhook-driven-ai-workflows-with-claude-and-kubernetes/",
+          "author": "Collabnix Team",
+          "description": "Learn how to build production-ready webhook-driven AI workflows using Claude API and Kubernetes. Includes YAML configs, Python examples, and best practices.",
+          "link": "https://collabnix.com/webhook-driven-ai-workflows-with-claude-and-kubernetes/",
+          "publishedOn": "2025-11-02T08:57:50.000Z",
+          "wordCount": null,
+          "title": "Webhook-Driven AI Workflows with Claude and Kubernetes",
+          "imageUrl": null
+        },
+        {
           "id": "https://collabnix.com/?p=58379",
           "author": "Collabnix Team",
           "description": "What Are Claude Skills? A Game-Changer for AI Productivity Claude Skills represent a revolutionary approach to customizing and extending Claude’s capabilities through specialized knowledge modules. Think of Skills as expert plugins that transform Claude from a general-purpose AI assistant into a domain-specific powerhouse tailored to your exact needs. Released as part of Claude’s extended functionality, […]",
@@ -2228,66 +2258,6 @@
           "wordCount": null,
           "title": "How Electronic Forms Streamline DevOps Workflows",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=45696",
-          "author": "Tanvir Kour",
-          "description": "In an era where even your smart fridge could be collecting data, protecting sensitive business information has become far more complicated than just updating antivirus software. While most companies have shored up their digital defences, there is another threat creeping under the radar, one that operates in plain sight, yet often slips by unnoticed. This […]",
-          "link": "https://collabnix.com/how-bug-sweeping-can-help-businesses-stay-ahead-of-cyber-threats/",
-          "publishedOn": "2025-08-05T10:23:13.000Z",
-          "wordCount": null,
-          "title": "How Bug Sweeping Can Help Businesses Stay Ahead of Cyber Threats",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=45693",
-          "author": "Tanvir Kour",
-          "description": "Our technology-driven world has forced businesses to always be on the lookout for ways to increase productivity and decrease costs. Mobile asset management software provides a solution that is less of a burden and more practical for tracking and managing the resources owned by an organization. This tool allows organizations to conduct business without cumbersome […]",
-          "link": "https://collabnix.com/cut-costs-with-mobile-asset-management-software/",
-          "publishedOn": "2025-08-05T10:16:34.000Z",
-          "wordCount": null,
-          "title": "Cut Costs with Mobile Asset Management Software",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=45688",
-          "author": "Tanvir Kour",
-          "description": "Maintaining equipment, machinery, and entire fleets is no small feat. All maintenance managers have dealt with a missed inspection, an emergency repair, or an unscheduled downtime. But what if there were a better way to streamline all of this? A Computerized Maintenance Management System, or CMMS, makes your maintenance processes easier, smoother, and less stressful. […]",
-          "link": "https://collabnix.com/cmms-software-meaning-a-deep-dive-into-maintenance-systems/",
-          "publishedOn": "2025-08-05T09:26:15.000Z",
-          "wordCount": null,
-          "title": "CMMS Software Meaning: A Deep Dive Into Maintenance Systems",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=45524",
-          "author": "Collabnix Team",
-          "description": "Choosing between Claude API and OpenAI API is one of the most critical decisions developers face when building AI-powered applications in 2025. Both platforms offer powerful capabilities, but they excel in different areas and serve different use cases. This comprehensive comparison analyzes both APIs across performance, pricing, features, and real-world applications. We’ll include actual benchmarks, […]",
-          "link": "https://collabnix.com/claude-api-vs-openai-api-2025-complete-developer-comparison-with-benchmarks-code-examples/",
-          "publishedOn": "2025-08-05T05:00:23.000Z",
-          "wordCount": null,
-          "title": "Claude API vs OpenAI API 2025: Complete Developer Comparison with Benchmarks & Code Examples",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=45515",
-          "author": "Collabnix Team",
-          "description": "The Claude API from Anthropic has become one of the most powerful and reliable AI APIs available to developers in 2025. With Claude Sonnet 4 and Claude Opus 4 now available, integrating Claude’s advanced conversational AI capabilities into your applications has never been more accessible. This comprehensive guide covers everything from basic setup to advanced […]",
-          "link": "https://collabnix.com/claude-api-integration-guide-2025-complete-developer-tutorial-with-code-examples/",
-          "publishedOn": "2025-08-05T04:47:52.000Z",
-          "wordCount": null,
-          "title": "Claude API Integration Guide 2025: Complete Developer Tutorial with Code Examples",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=45473",
-          "author": "Tanvir Kour",
-          "description": "Transform Your AI Experience with Ollama’s Game-Changing Desktop Application The wait is over! Ollama has officially launched its Ollama 0.1.0 desktop application for both macOS and Windows, marking a significant milestone in making local AI accessible to everyone. This groundbreaking release transforms how users interact with large language models, moving beyond command-line interfaces to deliver […]",
-          "link": "https://collabnix.com/the-new-ollama-0-1-0-desktop-app-revolutionary-local-ai-made-simple-for-mac-and-windows-users/",
-          "publishedOn": "2025-08-05T04:00:21.000Z",
-          "wordCount": null,
-          "title": "The New Ollama 0.1.0 Desktop App: Revolutionary Local AI Made Simple for Mac and Windows Users",
-          "imageUrl": null
         }
       ]
     },
@@ -2467,6 +2437,16 @@
       "feedUrl": "https://www.skyue.com/feed/",
       "siteUrl": "https://www.skyue.com/",
       "articles": [
+        {
+          "id": "https://www.skyue.com/25110220.html",
+          "author": "拾月",
+          "description": "昨天到西湖citywalk。先到万松书院，正值相亲角时间（每周六上午），各处贴满了相亲简历，人头攒动，第一次见这场面，长见识了!",
+          "link": "https://www.skyue.com/25110220.html",
+          "publishedOn": "2025-11-02T12:36:00.000Z",
+          "wordCount": 558,
+          "title": "晓霞弄和万松书院",
+          "imageUrl": ""
+        },
         {
           "id": "https://www.skyue.com/25110122.html",
           "author": "拾月",
@@ -2915,6 +2895,16 @@
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
         {
+          "id": "https://dusays.com/835/",
+          "author": null,
+          "description": "<blockquote>\n</blockquote>",
+          "link": "https://dusays.com/835/",
+          "publishedOn": "2025-11-02T16:00:00.000Z",
+          "wordCount": 477,
+          "title": "脑力不足",
+          "imageUrl": "https://cdn.dusays.com/avatar.png"
+        },
+        {
           "id": "https://dusays.com/834/",
           "author": null,
           "description": "<blockquote>\n<p>找到一个安全、便捷且资源丰富且下载速度较快的操作系统 ISO 文件下载平台显得尤为重要。很多小伙伴习惯使用 MSDN，但又不喜欢其登录机制，这里杜老师推荐 OS.click，一款专注于为用户提供实用、高效的系统下载服务的网站。</p>\n</blockquote>",
@@ -3052,16 +3042,6 @@
           "publishedOn": "2025-08-10T16:00:00.000Z",
           "wordCount": null,
           "title": "LibreTV 免费的在线视频观看神器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dusays.com/820/",
-          "author": null,
-          "description": "<blockquote>\n<p>在数字化工作时代，一款高效、便捷的终端工具对于开发者、系统管理员和网络工程师等人群来说至关重要。Electerm 作为一款开源免费的跨平台终端模拟器，凭借其丰富的功能和优秀的用户体验，成为了众多用户的首选。</p>\n</blockquote>",
-          "link": "https://dusays.com/820/",
-          "publishedOn": "2025-08-04T16:00:00.000Z",
-          "wordCount": null,
-          "title": "Electerm 高效便捷的开源终端工具",
           "imageUrl": null
         }
       ]
