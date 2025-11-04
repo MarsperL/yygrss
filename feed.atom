@@ -2,10 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-11-04T00:05:18.114Z</updated>
+    <updated>2025-11-04T23:10:40.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes Autoscaling for LLM Inference: Complete Guide (2024)]]></title>
+        <id>https://collabnix.com/kubernetes-autoscaling-for-llm-inference-complete-guide-2024/</id>
+        <link href="https://collabnix.com/kubernetes-autoscaling-for-llm-inference-complete-guide-2024/"/>
+        <updated>2025-11-04T15:39:08.000Z</updated>
+        <summary type="html"><![CDATA[Master Kubernetes autoscaling for LLM inference workloads. Learn HPA, KEDA, VPA configuration with practical examples for efficient GPU utilization.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Model Governance on Kubernetes: A Complete Implementation Guide]]></title>
+        <id>https://collabnix.com/ai-model-governance-on-kubernetes-a-complete-implementation-guide/</id>
+        <link href="https://collabnix.com/ai-model-governance-on-kubernetes-a-complete-implementation-guide/"/>
+        <updated>2025-11-04T15:35:59.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to implement AI model governance on Kubernetes with practical examples, YAML configurations, and best practices for MLOps teams.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🎵 Hunting for the Cleanest Instrumentals: My Real Journey Through Today’s AI Vocal Removers]]></title>
+        <id>https://collabnix.com/?p=59159</id>
+        <link href="https://collabnix.com/%f0%9f%8e%b5-hunting-for-the-cleanest-instrumentals-my-real-journey-through-todays-ai-vocal-removers/"/>
+        <updated>2025-11-04T15:32:09.000Z</updated>
+        <summary type="html"><![CDATA[For​‍​‌‍​‍‌​‍​‌‍​‍‌ a long time, my habit was to break down the music I listened to by focusing on one particular aspect like the drum grooves, the subtle guitar lines, or the synth swells that are usually under the singer’s voice. However, every time I attempted to remove vocals by means of old-fashioned methods, I would […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distributed Training on Kubernetes: Best Practices & Implementation]]></title>
+        <id>https://collabnix.com/distributed-training-on-kubernetes-best-practices-implementation/</id>
+        <link href="https://collabnix.com/distributed-training-on-kubernetes-best-practices-implementation/"/>
+        <updated>2025-11-04T15:31:26.000Z</updated>
+        <summary type="html"><![CDATA[Master distributed training on Kubernetes with production-ready configurations, PyTorch/TensorFlow examples, and expert troubleshooting tips for ML workloads.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running Multiple Ollama Models on Kubernetes: Complete Guide]]></title>
+        <id>https://collabnix.com/running-multiple-ollama-models-on-kubernetes-complete-guide/</id>
+        <link href="https://collabnix.com/running-multiple-ollama-models-on-kubernetes-complete-guide/"/>
+        <updated>2025-11-04T15:28:28.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to deploy and manage multiple Ollama LLM models on Kubernetes with practical YAML configs, scaling strategies, and production best practices.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I Switched to Zabbix for Monitoring My Docker Containers]]></title>
+        <id>https://www.virtualizationhowto.com/?p=304903</id>
+        <link href="https://www.virtualizationhowto.com/2025/11/why-i-switched-to-zabbix-for-monitoring-my-docker-containers/"/>
+        <updated>2025-11-04T13:22:27.000Z</updated>
+        <summary type="html"><![CDATA[Since I have switched to mainly running home lab services to Docker, I have been trying different tools to monitor Docker in a way that I want it to be…
+The post Why I Switched to Zabbix for Monitoring My Docker Containers appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serverless AI Deployment for Scalable LLM Inference]]></title>
+        <id>https://collabnix.com/serverless-ai-deploy-llm-inference-at-scale-with-knative/</id>
+        <link href="https://collabnix.com/serverless-ai-deploy-llm-inference-at-scale-with-knative/"/>
+        <updated>2025-11-04T04:05:53.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to deploy scalable LLM inference services using Knative on Kubernetes. Complete guide with code examples, GPU support, and production best practices.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Multi-Tenant LLM Platform on Kubernetes: Complete Guide]]></title>
+        <id>https://collabnix.com/building-a-multi-tenant-llm-platform-on-kubernetes-complete-guide/</id>
+        <link href="https://collabnix.com/building-a-multi-tenant-llm-platform-on-kubernetes-complete-guide/"/>
+        <updated>2025-11-04T04:02:50.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build a production-ready multi-tenant LLM platform on Kubernetes with isolation, resource management, and scaling. Includes YAML configs and code.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building AI Agents with Kubernetes Jobs and CronJobs: Complete Guide]]></title>
+        <id>https://collabnix.com/building-ai-agents-with-kubernetes-jobs-and-cronjobs-complete-guide/</id>
+        <link href="https://collabnix.com/building-ai-agents-with-kubernetes-jobs-and-cronjobs-complete-guide/"/>
+        <updated>2025-11-04T03:59:54.000Z</updated>
+        <summary type="html"><![CDATA[Learn to build, deploy, and scale AI agents using Kubernetes Jobs and CronJobs. Includes YAML configs, Python examples, and production best practices.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building Autonomous Systems with Docker and MCP: A Complete Guide]]></title>
+        <id>https://collabnix.com/building-autonomous-systems-with-docker-and-mcp-a-complete-guide/</id>
+        <link href="https://collabnix.com/building-autonomous-systems-with-docker-and-mcp-a-complete-guide/"/>
+        <updated>2025-11-04T03:57:02.000Z</updated>
+        <summary type="html"><![CDATA[Learn to build autonomous systems using Docker and Model Context Protocol (MCP). Includes practical examples, YAML configs, and production best practices.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[为什么玻璃便宜，但安装贵：AI 时代的 Jevons 悖论与 Baumol 效应]]></title>
         <id>https://jimmysong.io/blog/jevons-baumol-ai-china/</id>
@@ -4298,51 +4399,6 @@ CITY GRIP SAVER
         <link href="https://jimmysong.io/blog/rag-handbook-release/"/>
         <updated>2025-08-07T13:00:00.000Z</updated>
         <summary type="html"><![CDATA[详细介绍我新编写的《RAG 实践手册》以及配套的开源示例项目 rag-chatbot，该聊天机器人已部署在我的网站上，基于 Cloudflare Workers 运行。]]></summary>
-        <author>
-            <name>Jimmy Song</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Student Data Security: An Essential in Cloud-Based Classrooms]]></title>
-        <id>https://collabnix.com/?p=46243</id>
-        <link href="https://collabnix.com/student-data-security-an-essential-in-cloud-based-classrooms/"/>
-        <updated>2025-08-07T10:28:10.000Z</updated>
-        <summary type="html"><![CDATA[Imagine logging in to a digital classroom. Your favorite lessons, quizzes, chat messages, and even your progress through AI-powered learning are right there. Pretty cool, right? But that same convenience comes with a big responsibility: keeping your student data secure. Let’s dig into why this matters for every teacher, student, and parent using cloud-based classrooms […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complete GPT OSS Tutorial: How to Setup, Deploy & Optimize OpenAI’s Open Source Models]]></title>
-        <id>https://collabnix.com/?p=46238</id>
-        <link href="https://collabnix.com/complete-gpt-oss-tutorial-how-to-setup-deploy-optimize-openais-open-source-models/"/>
-        <updated>2025-08-07T10:02:08.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to install, configure, and deploy OpenAI's GPT OSS models (20B & 120B parameters) with this comprehensive step-by-step tutorial covering local inference, API access, and optimization techniques.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All the concerns that make you a boring developer]]></title>
-        <id>https://daverupert.com/2025/08/got-99-engineering-problems-but-a-grift-aint-one/</id>
-        <link href="https://daverupert.com/2025/08/got-99-engineering-problems-but-a-grift-aint-one/"/>
-        <updated>2025-08-06T14:46:00.000Z</updated>
-        <summary type="html"><![CDATA[I was thinking this morning about how once you understand that your technology choices have security, performance, and accessibility considerations you become a much more boring developer. Acknowledging those obligations can sort of strips the fun out of programming, but we’re better for it.
-I decided to pull on that thread a little more and come up with a list of all the concerns you might have as an engineer/developer that ultimately compound to make you a boring, wet blanket of a person to be in meetings with.
-Security  - Make sure you’re not opening the door for hackers.
-Privacy - Don’t leak personal information. Or don’t collect it in the first place.
-Performance  - Can the software work on low-end devices? Can you deliver the large bundle over bad internet? Those are your problems.
-I…]]></summary>
-        <author>
-            <name>daverupert.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[出版级 PDF 电子书导出工具分享：将 Hugo Markdown 图书导出为 PDF]]></title>
-        <id>https://jimmysong.io/blog/hugo-book-pdf-exporter/</id>
-        <link href="https://jimmysong.io/blog/hugo-book-pdf-exporter/"/>
-        <updated>2025-08-06T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[介绍如何用 Hugo 构建的 Markdown 图书导出为专业 PDF，包括多语言、Emoji 渲染、代码高亮、图片处理、章节排序、封面自定义等关键技术，并简述 PDF Book Exporter 的架构与使用方法，适用于技术文档和电子书出版。]]></summary>
         <author>
             <name>Jimmy Song</name>
         </author>

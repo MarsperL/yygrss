@@ -204,16 +204,6 @@
           "wordCount": null,
           "title": "Vibe Check №39",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/08/got-99-engineering-problems-but-a-grift-aint-one/",
-          "author": null,
-          "description": "I was thinking this morning about how once you understand that your technology choices have security, performance, and accessibility considerations you become a much more boring developer. Acknowledging those obligations can sort of strips the fun out of programming, but we’re better for it.\nI decided to pull on that thread a little more and come up with a list of all the concerns you might have as an engineer/developer that ultimately compound to make you a boring, wet blanket of a person to be in meetings with.\nSecurity  - Make sure you’re not opening the door for hackers.\nPrivacy - Don’t leak personal information. Or don’t collect it in the first place.\nPerformance  - Can the software work on low-end devices? Can you deliver the large bundle over bad internet? Those are your problems.\nI…",
-          "link": "https://daverupert.com/2025/08/got-99-engineering-problems-but-a-grift-aint-one/",
-          "publishedOn": "2025-08-06T14:46:00.000Z",
-          "wordCount": null,
-          "title": "All the concerns that make you a boring developer",
-          "imageUrl": null
         }
       ]
     },
@@ -1017,16 +1007,6 @@
           "wordCount": null,
           "title": "发布《RAG 实践手册》：构建基于 Cloudflare 和千问大模型的智能聊天机器人",
           "imageUrl": null
-        },
-        {
-          "id": "https://jimmysong.io/blog/hugo-book-pdf-exporter/",
-          "author": "Jimmy Song",
-          "description": "介绍如何用 Hugo 构建的 Markdown 图书导出为专业 PDF，包括多语言、Emoji 渲染、代码高亮、图片处理、章节排序、封面自定义等关键技术，并简述 PDF Book Exporter 的架构与使用方法，适用于技术文档和电子书出版。",
-          "link": "https://jimmysong.io/blog/hugo-book-pdf-exporter/",
-          "publishedOn": "2025-08-06T13:00:00.000Z",
-          "wordCount": null,
-          "title": "出版级 PDF 电子书导出工具分享：将 Hugo Markdown 图书导出为 PDF",
-          "imageUrl": null
         }
       ]
     },
@@ -1172,6 +1152,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=304903",
+          "author": "Brandon Lee",
+          "description": "Since I have switched to mainly running home lab services to Docker, I have been trying different tools to monitor Docker in a way that I want it to be…\nThe post Why I Switched to Zabbix for Monitoring My Docker Containers appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/11/why-i-switched-to-zabbix-for-monitoring-my-docker-containers/",
+          "publishedOn": "2025-11-04T13:22:27.000Z",
+          "wordCount": 16037,
+          "title": "Why I Switched to Zabbix for Monitoring My Docker Containers",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/Monitor-Docker-like-a-boss-with-zabbix-2.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=304677",
           "author": "Brandon Lee",
@@ -1359,6 +1349,96 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/kubernetes-autoscaling-for-llm-inference-complete-guide-2024/",
+          "author": "Collabnix Team",
+          "description": "Master Kubernetes autoscaling for LLM inference workloads. Learn HPA, KEDA, VPA configuration with practical examples for efficient GPU utilization.",
+          "link": "https://collabnix.com/kubernetes-autoscaling-for-llm-inference-complete-guide-2024/",
+          "publishedOn": "2025-11-04T15:39:08.000Z",
+          "wordCount": 3232,
+          "title": "Kubernetes Autoscaling for LLM Inference: Complete Guide (2024)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/ai-model-governance-on-kubernetes-a-complete-implementation-guide/",
+          "author": "Collabnix Team",
+          "description": "Learn how to implement AI model governance on Kubernetes with practical examples, YAML configurations, and best practices for MLOps teams.",
+          "link": "https://collabnix.com/ai-model-governance-on-kubernetes-a-complete-implementation-guide/",
+          "publishedOn": "2025-11-04T15:35:59.000Z",
+          "wordCount": null,
+          "title": "AI Model Governance on Kubernetes: A Complete Implementation Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=59159",
+          "author": "Tanvir Kour",
+          "description": "For​‍​‌‍​‍‌​‍​‌‍​‍‌ a long time, my habit was to break down the music I listened to by focusing on one particular aspect like the drum grooves, the subtle guitar lines, or the synth swells that are usually under the singer’s voice. However, every time I attempted to remove vocals by means of old-fashioned methods, I would […]",
+          "link": "https://collabnix.com/%f0%9f%8e%b5-hunting-for-the-cleanest-instrumentals-my-real-journey-through-todays-ai-vocal-removers/",
+          "publishedOn": "2025-11-04T15:32:09.000Z",
+          "wordCount": null,
+          "title": "🎵 Hunting for the Cleanest Instrumentals: My Real Journey Through Today’s AI Vocal Removers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/distributed-training-on-kubernetes-best-practices-implementation/",
+          "author": "Collabnix Team",
+          "description": "Master distributed training on Kubernetes with production-ready configurations, PyTorch/TensorFlow examples, and expert troubleshooting tips for ML workloads.",
+          "link": "https://collabnix.com/distributed-training-on-kubernetes-best-practices-implementation/",
+          "publishedOn": "2025-11-04T15:31:26.000Z",
+          "wordCount": null,
+          "title": "Distributed Training on Kubernetes: Best Practices & Implementation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/running-multiple-ollama-models-on-kubernetes-complete-guide/",
+          "author": "Collabnix Team",
+          "description": "Learn how to deploy and manage multiple Ollama LLM models on Kubernetes with practical YAML configs, scaling strategies, and production best practices.",
+          "link": "https://collabnix.com/running-multiple-ollama-models-on-kubernetes-complete-guide/",
+          "publishedOn": "2025-11-04T15:28:28.000Z",
+          "wordCount": null,
+          "title": "Running Multiple Ollama Models on Kubernetes: Complete Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/serverless-ai-deploy-llm-inference-at-scale-with-knative/",
+          "author": "Collabnix Team",
+          "description": "Learn how to deploy scalable LLM inference services using Knative on Kubernetes. Complete guide with code examples, GPU support, and production best practices.",
+          "link": "https://collabnix.com/serverless-ai-deploy-llm-inference-at-scale-with-knative/",
+          "publishedOn": "2025-11-04T04:05:53.000Z",
+          "wordCount": null,
+          "title": "Serverless AI Deployment for Scalable LLM Inference",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/building-a-multi-tenant-llm-platform-on-kubernetes-complete-guide/",
+          "author": "Collabnix Team",
+          "description": "Learn how to build a production-ready multi-tenant LLM platform on Kubernetes with isolation, resource management, and scaling. Includes YAML configs and code.",
+          "link": "https://collabnix.com/building-a-multi-tenant-llm-platform-on-kubernetes-complete-guide/",
+          "publishedOn": "2025-11-04T04:02:50.000Z",
+          "wordCount": null,
+          "title": "Building a Multi-Tenant LLM Platform on Kubernetes: Complete Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/building-ai-agents-with-kubernetes-jobs-and-cronjobs-complete-guide/",
+          "author": "Collabnix Team",
+          "description": "Learn to build, deploy, and scale AI agents using Kubernetes Jobs and CronJobs. Includes YAML configs, Python examples, and production best practices.",
+          "link": "https://collabnix.com/building-ai-agents-with-kubernetes-jobs-and-cronjobs-complete-guide/",
+          "publishedOn": "2025-11-04T03:59:54.000Z",
+          "wordCount": null,
+          "title": "Building AI Agents with Kubernetes Jobs and CronJobs: Complete Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/building-autonomous-systems-with-docker-and-mcp-a-complete-guide/",
+          "author": "Collabnix Team",
+          "description": "Learn to build autonomous systems using Docker and Model Context Protocol (MCP). Includes practical examples, YAML configs, and production best practices.",
+          "link": "https://collabnix.com/building-autonomous-systems-with-docker-and-mcp-a-complete-guide/",
+          "publishedOn": "2025-11-04T03:57:02.000Z",
+          "wordCount": null,
+          "title": "Building Autonomous Systems with Docker and MCP: A Complete Guide",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=58919",
           "author": "Ajeet Raina",
@@ -2307,26 +2387,6 @@
           "publishedOn": "2025-08-08T18:25:59.000Z",
           "wordCount": null,
           "title": "Testcontainers Tutorial: Complete Guide to Integration Testing with Docker (2025)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=46243",
-          "author": "Tanvir Kour",
-          "description": "Imagine logging in to a digital classroom. Your favorite lessons, quizzes, chat messages, and even your progress through AI-powered learning are right there. Pretty cool, right? But that same convenience comes with a big responsibility: keeping your student data secure. Let’s dig into why this matters for every teacher, student, and parent using cloud-based classrooms […]",
-          "link": "https://collabnix.com/student-data-security-an-essential-in-cloud-based-classrooms/",
-          "publishedOn": "2025-08-07T10:28:10.000Z",
-          "wordCount": null,
-          "title": "Student Data Security: An Essential in Cloud-Based Classrooms",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=46238",
-          "author": "Collabnix Team",
-          "description": "Learn how to install, configure, and deploy OpenAI's GPT OSS models (20B & 120B parameters) with this comprehensive step-by-step tutorial covering local inference, API access, and optimization techniques.",
-          "link": "https://collabnix.com/complete-gpt-oss-tutorial-how-to-setup-deploy-optimize-openais-open-source-models/",
-          "publishedOn": "2025-08-07T10:02:08.000Z",
-          "wordCount": null,
-          "title": "Complete GPT OSS Tutorial: How to Setup, Deploy & Optimize OpenAI’s Open Source Models",
           "imageUrl": null
         }
       ]
