@@ -214,16 +214,6 @@
           "wordCount": null,
           "title": "All the concerns that make you a boring developer",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/08/theater-ux/",
-          "author": null,
-          "description": "I saw this summer’s Marvel movie in the theater on Sunday. A bit of a last minute idea so we ended up going to the “legacy” movie theater across the highway. Before I continue, It’s important to understand my local cinema dynamics. We have two theaters here in Austin: The Alamo Drafthouse and All Other Cinemas.\nThe best place to see movies in Austin is at the Alamo Drafthouse. If you’ve never been to an Alamo, I’m sorry. It’s a movie theater for people who love movies by people who love movies. They craft the entire art house experience from end-to-end. From the custom pre-screener of thematically topical clips, to the strict no late arrival and no texting policies, to custom food and drink options that match the latest blockbuster movie. A waiter brings you food, drinks, and refills so yo…",
-          "link": "https://daverupert.com/2025/08/theater-ux/",
-          "publishedOn": "2025-08-05T13:43:00.000Z",
-          "wordCount": null,
-          "title": "Theater UX",
-          "imageUrl": null
         }
       ]
     },
@@ -608,6 +598,26 @@
       "feedUrl": "https://jimmysong.io/blog/index.xml",
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
+        {
+          "id": "https://jimmysong.io/blog/jevons-baumol-ai-china/",
+          "author": "Jimmy Song",
+          "description": "在 AI 时代，为什么玻璃材料越来越便宜，但安装维修却越来越贵？这背后其实是 Jevons 悖论与 Baumol 效应的交织。",
+          "link": "https://jimmysong.io/blog/jevons-baumol-ai-china/",
+          "publishedOn": "2025-11-03T17:27:19.000Z",
+          "wordCount": 936,
+          "title": "为什么玻璃便宜，但安装贵：AI 时代的 Jevons 悖论与 Baumol 效应",
+          "imageUrl": "https://assets.jimmysong.io/images/blog/jevons-baumol-ai-china/banner.webp"
+        },
+        {
+          "id": "https://jimmysong.io/blog/github-copilot-cli-custom-agents/",
+          "author": "Jimmy Song",
+          "description": "本文介绍 GitHub Copilot CLI 新增的自定义 Agent 功能，演示如何在命令行中创建你的 AI 助手，自动执行代码修复、任务委托和工作流集成。",
+          "link": "https://jimmysong.io/blog/github-copilot-cli-custom-agents/",
+          "publishedOn": "2025-11-03T15:10:20.000Z",
+          "wordCount": null,
+          "title": "GitHub Copilot CLI 自定义 Agent 实战：打造命令行 AI 助手",
+          "imageUrl": null
+        },
         {
           "id": "https://jimmysong.io/blog/ai-era-open-source-difference/",
           "author": "Jimmy Song",
@@ -1163,6 +1173,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=304677",
+          "author": "Brandon Lee",
+          "description": "If you are like me, I have always been interested in networking and the technologies that allow us to get packets from point A to point B. In the home…\nThe post See Everything on Your Home Lab Network with ntopng appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/11/see-everything-on-your-home-lab-network-with-ntopng/",
+          "publishedOn": "2025-11-03T13:14:39.000Z",
+          "wordCount": 16269,
+          "title": "See Everything on Your Home Lab Network with ntopng",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/ntopng-network-monitor-2.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=304360",
           "author": "Brandon Lee",
           "description": "Let’s face it, we are always on the lookout for good tools that we can use in our home labs to do various things or just make our lives easier.…\nThe post Best Home Lab Tools You’re Crazy Not to Use in 2025 appeared first on Virtualization Howto.",
@@ -1339,6 +1359,76 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=58919",
+          "author": "Ajeet Raina",
+          "description": "If you’re building robots, you’re going to want to hear about this. NVIDIA just released Jetson Thor, and it’s a beast. We’re talking 2,070 teraflops of FP4 performance powered by their Blackwell architecture. What does that mean for you? You can finally run those demanding agentic AI systems, handle real-time sensor processing, and tackle complex robotics […]",
+          "link": "https://collabnix.com/getting-started-with-nvidia-jetson-agx-thor-developer-kit-a-complete-reference-guide/",
+          "publishedOn": "2025-11-03T12:54:30.000Z",
+          "wordCount": 4136,
+          "title": "Getting Started with NVIDIA Jetson AGX Thor Developer Kit: A Complete Reference Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=58895",
+          "author": "Tanvir Kour",
+          "description": "In the DevOps world, we’ve spent years eliminating dependencies, containerizing applications, and moving workloads to the cloud. Yet many teams still rely on heavyweight desktop applications for one of the most common tasks in software development: managing documentation. Whether it’s converting release notes to PDF, signing compliance documents, merging technical specifications, or compressing reports before […]",
+          "link": "https://collabnix.com/streamlining-documentation-workflows-in-modern-devops-the-case-for-web-based-pdf-tools/",
+          "publishedOn": "2025-11-03T06:43:35.000Z",
+          "wordCount": null,
+          "title": "Streamlining Documentation Workflows in Modern DevOps: The Case for Web-Based PDF Tools",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=58892",
+          "author": "Ajeet Raina",
+          "description": "TL;DR – Install These 5 Containerized MCP Servers Today This blog was originally published here Stop wasting time with complex environment setups. These Docker-containerized MCP servers from the Docker Hub MCP Catalog work out of the box: Why Docker MCP Gateway Changes Everything It’s 11 AM. Sprint planning just wrapped. You need to: You open […]",
+          "link": "https://collabnix.com/top-5-mcp-servers-every-developer-must-be-aware-of/",
+          "publishedOn": "2025-11-03T06:41:44.000Z",
+          "wordCount": null,
+          "title": "Top 5 MCP Servers Every Developer Must Be Aware Of",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/llm-gateway-patterns-rate-limiting-and-load-balancing-guide/",
+          "author": "Collabnix Team",
+          "description": "Master LLM gateway patterns with practical rate limiting and load balancing strategies. Includes code examples, Kubernetes configs, and troubleshooting tips.",
+          "link": "https://collabnix.com/llm-gateway-patterns-rate-limiting-and-load-balancing-guide/",
+          "publishedOn": "2025-11-03T04:16:45.000Z",
+          "wordCount": null,
+          "title": "LLM Gateway Patterns: Rate Limiting and Load Balancing Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/scaling-ollama-deployments-load-balancing-strategies-for-production/",
+          "author": "Collabnix Team",
+          "description": "Master load balancing strategies for scaling Ollama deployments in production. Complete guide with Kubernetes configs, HAProxy setup, and troubleshooting tips.",
+          "link": "https://collabnix.com/scaling-ollama-deployments-load-balancing-strategies-for-production/",
+          "publishedOn": "2025-11-03T04:12:19.000Z",
+          "wordCount": null,
+          "title": "Scaling Ollama Deployments: Load Balancing Strategies for Production",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/mlops-on-kubernetes-ci-cd-for-machine-learning-models-in-2024/",
+          "author": "Collabnix Team",
+          "description": "Master MLOps on Kubernetes with practical CI/CD pipelines for ML models. Includes YAML configs, Python examples, and production-ready workflows.",
+          "link": "https://collabnix.com/mlops-on-kubernetes-ci-cd-for-machine-learning-models-in-2024/",
+          "publishedOn": "2025-11-03T04:08:20.000Z",
+          "wordCount": null,
+          "title": "MLOps on Kubernetes: CI/CD for Machine Learning Models in 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/building-an-ai-devops-assistant-with-claude-api-complete-guide/",
+          "author": "Collabnix Team",
+          "description": "Learn to build a production-ready AI DevOps assistant using Claude API with Kubernetes integration, complete code examples, and deployment configurations.",
+          "link": "https://collabnix.com/building-an-ai-devops-assistant-with-claude-api-complete-guide/",
+          "publishedOn": "2025-11-03T04:05:43.000Z",
+          "wordCount": null,
+          "title": "Building an AI DevOps Assistant with Claude API: Complete Guide",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/building-ai-coding-assistants-with-claude-and-mcp-a-complete-guide/",
           "author": "Collabnix Team",
@@ -2237,26 +2327,6 @@
           "publishedOn": "2025-08-07T10:02:08.000Z",
           "wordCount": null,
           "title": "Complete GPT OSS Tutorial: How to Setup, Deploy & Optimize OpenAI’s Open Source Models",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=45874",
-          "author": "Tanvir Kour",
-          "description": "What would you do if your website suddenly crashed out of nowhere on the day of your newest product launch? All the existing orders vanish, customer support lines get flooded, and you’ve started trending on Twitter for all the wrong reasons. How quickly could your team respond to get things back on track? Could the […]",
-          "link": "https://collabnix.com/why-operational-resilience-is-the-next-competitive-advantage/",
-          "publishedOn": "2025-08-06T10:50:40.000Z",
-          "wordCount": null,
-          "title": "Why Operational Resilience is the Next Competitive Advantage",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=45746",
-          "author": "Tanvir Kour",
-          "description": "Electronic forms simplify the complex nature of DevOps workflows. Primarily, these tools replace manual tasks with automated processes that save time. And that’s just the tip of the iceberg. In order to understand how exactly this plays out in practice, stick around and we’ll bring you up to speed with everything. Automating Onboarding and User […]",
-          "link": "https://collabnix.com/how-electronic-forms-streamline-devops-workflows/",
-          "publishedOn": "2025-08-05T12:50:31.000Z",
-          "wordCount": null,
-          "title": "How Electronic Forms Streamline DevOps Workflows",
           "imageUrl": null
         }
       ]
@@ -3360,6 +3430,16 @@
       "siteUrl": "https://panzhixiang.cn/atom.xml",
       "articles": [
         {
+          "id": "https://panzhixiang.cn/2025/ai-agent/",
+          "author": null,
+          "description": "<p>AI Agent绝对是今年最热门的岗位之一。</p>\n<p>我经常在各种平台上看到有人说想转AI Agent方向的工作，我们组有一个”AI Application Developer”岗位从今年年初招聘至今还没有找到合适的候选人，而且我自己也在做这个岗位，于是就从技能、薪资、地域等角度分析了一下目前市场上AI Agent相关的岗位。</p>\n<h2 id=\"薪资分析\"><a href=\"#薪资分析\" class=\"headerlink\" title=\"薪资分析\"></a>薪资分析</h2>",
+          "link": "https://panzhixiang.cn/2025/ai-agent/",
+          "publishedOn": "2025-11-02T16:00:00.000Z",
+          "wordCount": 252,
+          "title": "2025年AI Agent岗位市场调研：基于101个职位的数据分析",
+          "imageUrl": "https://blog.panzhixiang.cn/images/ai-agent-salary.png"
+        },
+        {
           "id": "https://panzhixiang.cn/2025/ai-era-engineer-gap/",
           "author": null,
           "description": "记录一下关于AI时代下资深工程师与新人之间的差距感想，分享了一点自己的经验，试着分析了技术广度与深度的平衡，以及AI对工程师职业发展的影响",
@@ -3502,16 +3582,6 @@
           "publishedOn": "2025-09-03T10:10:30.000Z",
           "wordCount": null,
           "title": "flannel 路由错乱",
-          "imageUrl": null
-        },
-        {
-          "id": "http://zhangguanzhang.github.io/2025/08/06/centos7-podman/",
-          "author": null,
-          "description": "<p>CentOS 7 上 Podman调研…..</p>",
-          "link": "http://zhangguanzhang.github.io/2025/08/06/centos7-podman/",
-          "publishedOn": "2025-08-06T10:10:30.000Z",
-          "wordCount": null,
-          "title": "私有化下(CentOS 7)Podman调研",
           "imageUrl": null
         }
       ]
