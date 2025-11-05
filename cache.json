@@ -589,6 +589,16 @@
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
         {
+          "id": "https://jimmysong.io/blog/ai-inference-on-kubernetes/",
+          "author": "Jimmy Song",
+          "description": "AI 推理系统的核心诉求恰好与 Kubernetes 的设计哲学契合。本文从工程化视角探讨云原生在 AI 基础设施中的地位与未来趋势。",
+          "link": "https://jimmysong.io/blog/ai-inference-on-kubernetes/",
+          "publishedOn": "2025-11-05T03:44:57.000Z",
+          "wordCount": 954,
+          "title": "为什么 AI 推理天然属于 Kubernetes",
+          "imageUrl": "https://assets.jimmysong.io/images/blog/ai-inference-on-kubernetes/banner.webp"
+        },
+        {
           "id": "https://jimmysong.io/blog/jevons-baumol-ai-china/",
           "author": "Jimmy Song",
           "description": "在 AI 时代，为什么玻璃材料越来越便宜，但安装维修却越来越贵？这背后其实是 Jevons 悖论与 Baumol 效应的交织。",
@@ -997,16 +1007,6 @@
           "wordCount": null,
           "title": "从 Manus 到 Genspark：多智能体协作工具的潜力与盲区",
           "imageUrl": null
-        },
-        {
-          "id": "https://jimmysong.io/blog/rag-handbook-release/",
-          "author": "Jimmy Song",
-          "description": "详细介绍我新编写的《RAG 实践手册》以及配套的开源示例项目 rag-chatbot，该聊天机器人已部署在我的网站上，基于 Cloudflare Workers 运行。",
-          "link": "https://jimmysong.io/blog/rag-handbook-release/",
-          "publishedOn": "2025-08-07T13:00:00.000Z",
-          "wordCount": null,
-          "title": "发布《RAG 实践手册》：构建基于 Cloudflare 和千问大模型的智能聊天机器人",
-          "imageUrl": null
         }
       ]
     },
@@ -1152,6 +1152,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=305328",
+          "author": "Brandon Lee",
+          "description": "One of the strengths I think to the home lab community is that we all try to squeeze as much as we can out of our gear. Many of us…\nThe post 5 Signs It’s Time to Upgrade Your Home Lab Hardware appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/11/5-signs-its-time-to-upgrade-your-home-lab-hardware/",
+          "publishedOn": "2025-11-05T12:53:26.000Z",
+          "wordCount": 10341,
+          "title": "5 Signs It’s Time to Upgrade Your Home Lab Hardware",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/5-signs-its-time-to-upgrade-your-home-lab.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=304903",
           "author": "Brandon Lee",

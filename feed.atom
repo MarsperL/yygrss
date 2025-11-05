@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-11-04T23:10:40.789Z</updated>
+    <updated>2025-11-05T23:11:25.621Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 Signs It’s Time to Upgrade Your Home Lab Hardware]]></title>
+        <id>https://www.virtualizationhowto.com/?p=305328</id>
+        <link href="https://www.virtualizationhowto.com/2025/11/5-signs-its-time-to-upgrade-your-home-lab-hardware/"/>
+        <updated>2025-11-05T12:53:26.000Z</updated>
+        <summary type="html"><![CDATA[One of the strengths I think to the home lab community is that we all try to squeeze as much as we can out of our gear. Many of us…
+The post 5 Signs It’s Time to Upgrade Your Home Lab Hardware appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么 AI 推理天然属于 Kubernetes]]></title>
+        <id>https://jimmysong.io/blog/ai-inference-on-kubernetes/</id>
+        <link href="https://jimmysong.io/blog/ai-inference-on-kubernetes/"/>
+        <updated>2025-11-05T03:44:57.000Z</updated>
+        <summary type="html"><![CDATA[AI 推理系统的核心诉求恰好与 Kubernetes 的设计哲学契合。本文从工程化视角探讨云原生在 AI 基础设施中的地位与未来趋势。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kubernetes Autoscaling for LLM Inference: Complete Guide (2024)]]></title>
         <id>https://collabnix.com/kubernetes-autoscaling-for-llm-inference-complete-guide-2024/</id>
@@ -4391,16 +4412,6 @@ CITY GRIP SAVER
         <summary type="html"><![CDATA[What is Testcontainers? Testcontainers is a powerful Java library that provides lightweight, throwaway instances of databases, message brokers, web browsers, or anything that can run in a Docker container for integration testing. Instead of mocking external dependencies or maintaining complex test environments, Testcontainers lets you run real instances of your dependencies during tests. Key Features […]]]></summary>
         <author>
             <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[发布《RAG 实践手册》：构建基于 Cloudflare 和千问大模型的智能聊天机器人]]></title>
-        <id>https://jimmysong.io/blog/rag-handbook-release/</id>
-        <link href="https://jimmysong.io/blog/rag-handbook-release/"/>
-        <updated>2025-08-07T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[详细介绍我新编写的《RAG 实践手册》以及配套的开源示例项目 rag-chatbot，该聊天机器人已部署在我的网站上，基于 Cloudflare Workers 运行。]]></summary>
-        <author>
-            <name>Jimmy Song</name>
         </author>
     </entry>
     <entry>
