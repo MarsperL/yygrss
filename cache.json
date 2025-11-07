@@ -1133,6 +1133,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=306402",
+          "author": "Brandon Lee",
+          "description": "So I had to do a double take when I looked at the ProxMenuX repo and saw that with the latest release there is a new tool that is included…\nThe post Meet ProxMenux Monitor: The New Way to Monitor Proxmox Servers appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/11/meet-proxmenux-monitor-the-new-way-to-monitor-proxmox-servers/",
+          "publishedOn": "2025-11-07T13:37:47.000Z",
+          "wordCount": 10781,
+          "title": "Meet ProxMenux Monitor: The New Way to Monitor Proxmox Servers",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/meet-proxmenux-monitor.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=306331",
           "author": "Brandon Lee",
           "description": "There is definitely a checklist of things that I think are good to mention when it comes to backing up things in the home lab. We all know about “backups”…\nThe post 10 Things You Should Back Up in Your Home Lab (But Probably Don’t) appeared first on Virtualization Howto.",
@@ -1349,6 +1359,66 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/agentic-ai-workflows-from-concept-to-deployment-with-docker/",
+          "author": "Collabnix Team",
+          "description": "Learn to build, containerize, and deploy agentic AI workflows using Docker. Complete guide with code examples, best practices, and troubleshooting tips.",
+          "link": "https://collabnix.com/agentic-ai-workflows-from-concept-to-deployment-with-docker/",
+          "publishedOn": "2025-11-07T04:00:42.000Z",
+          "wordCount": 3302,
+          "title": "Agentic AI Workflows: From Concept to Deployment with Docker",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/claude-desktop-extensions-building-custom-mcp-servers-guide/",
+          "author": "Collabnix Team",
+          "description": "Learn to build custom MCP servers for Claude Desktop. Complete guide with Python examples, Docker integration, security best practices, and troubleshooting tips.",
+          "link": "https://collabnix.com/claude-desktop-extensions-building-custom-mcp-servers-guide/",
+          "publishedOn": "2025-11-07T03:57:54.000Z",
+          "wordCount": null,
+          "title": "Claude Desktop Extensions: Building Custom MCP Servers Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/building-distributed-training-systems-on-kubernetes-a-complete-guide/",
+          "author": "Collabnix Team",
+          "description": "Learn how to build scalable distributed training systems on Kubernetes with PyTorch and TensorFlow. Includes YAML configs, code examples, and best practices.",
+          "link": "https://collabnix.com/building-distributed-training-systems-on-kubernetes-a-complete-guide/",
+          "publishedOn": "2025-11-05T06:38:43.000Z",
+          "wordCount": null,
+          "title": "Building Distributed Training Systems on Kubernetes: A Complete Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/building-enterprise-rag-systems-security-and-compliance-guide/",
+          "author": "Collabnix Team",
+          "description": "Master enterprise RAG system security with practical examples for authentication, data governance, and compliance. Includes Kubernetes configs and Python code.",
+          "link": "https://collabnix.com/building-enterprise-rag-systems-security-and-compliance-guide/",
+          "publishedOn": "2025-11-05T06:35:56.000Z",
+          "wordCount": null,
+          "title": "Building Enterprise RAG Systems: Security and Compliance Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/llm-model-versioning-best-practices-and-tools-for-production-mlops/",
+          "author": "Collabnix Team",
+          "description": "Master LLM model versioning with practical examples, DVC, MLflow, and Kubernetes integration. Complete guide for production AI/ML deployments.",
+          "link": "https://collabnix.com/llm-model-versioning-best-practices-and-tools-for-production-mlops/",
+          "publishedOn": "2025-11-05T06:31:43.000Z",
+          "wordCount": null,
+          "title": "LLM Model Versioning: Best Practices and Tools for Production MLOps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/from-prototype-to-production-scaling-llm-applications-in-kubernetes/",
+          "author": "Collabnix Team",
+          "description": "Learn to scale LLM applications from prototype to production with Kubernetes, vLLM, and best practices for GPU resource management and cost optimization.",
+          "link": "https://collabnix.com/from-prototype-to-production-scaling-llm-applications-in-kubernetes/",
+          "publishedOn": "2025-11-05T06:29:02.000Z",
+          "wordCount": null,
+          "title": "From Prototype to Production: Scaling LLM Applications in Kubernetes",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/kubernetes-autoscaling-for-llm-inference-complete-guide-2024/",
           "author": "Collabnix Team",
@@ -2358,36 +2428,6 @@
           "wordCount": null,
           "title": "Hugging Face Complete Guide 2025: The Ultimate Tutorial for Machine Learning and AI Development",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=46673",
-          "author": "Tanvir Kour",
-          "description": "Introduction: Why “Kubernetes AI” Dominates 2025 Search Rankings If you’ve been following cloud computing trends in 2025, you’ve probably noticed one term consistently topping search results: Kubernetes AI. This isn’t just a passing fad—it represents the most significant shift in container orchestration since Kubernetes itself revolutionized cloud-native development. According to multiple industry reports and trend […]",
-          "link": "https://collabnix.com/kubernetes-ai-the-most-searched-term-transforming-cloud-computing-in-2025/",
-          "publishedOn": "2025-08-09T11:35:58.000Z",
-          "wordCount": null,
-          "title": "Kubernetes AI: The Most Searched Term Transforming Cloud Computing in 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=46669",
-          "author": "Collabnix Team",
-          "description": "Discover the Best Open Source LLMs for 2025 Open-source Large Language Models (LLMs) have revolutionized AI accessibility in 2025, offering powerful alternatives to expensive proprietary models. This guide reviews the 10 best open-source LLMs available today, helping you choose the perfect model for your needs. What Are Open-Source LLMs? Open-source LLMs are freely available language […]",
-          "link": "https://collabnix.com/the-10-best-open-source-llms-for-2025-your-complete-guide-to-free-language-models/",
-          "publishedOn": "2025-08-09T11:30:25.000Z",
-          "wordCount": null,
-          "title": "Best Open Source LLMs for 2025: Your Complete Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=46572",
-          "author": "Collabnix Team",
-          "description": "What is Testcontainers? Testcontainers is a powerful Java library that provides lightweight, throwaway instances of databases, message brokers, web browsers, or anything that can run in a Docker container for integration testing. Instead of mocking external dependencies or maintaining complex test environments, Testcontainers lets you run real instances of your dependencies during tests. Key Features […]",
-          "link": "https://collabnix.com/testcontainers-tutorial-complete-guide-to-integration-testing-with-docker-2025/",
-          "publishedOn": "2025-08-08T18:25:59.000Z",
-          "wordCount": null,
-          "title": "Testcontainers Tutorial: Complete Guide to Integration Testing with Docker (2025)",
-          "imageUrl": null
         }
       ]
     },
@@ -2443,6 +2483,16 @@
       "feedUrl": "https://thiscute.world/index.xml",
       "siteUrl": "https://thiscute.world/",
       "articles": [
+        {
+          "id": "https://thiscute.world/posts/job-and-life/?utm_source=atom_feed",
+          "author": null,
+          "description": "<meting-js server=\"netease\" type=\"song\" id=\"176048\" theme=\"#448aff\"></meting-js>\n<h2 id=\"如今\" class=\"headerLink\">\n<a href=\"#%e5%a6%82%e4%bb%8a\" class=\"header-mark\"></a>如今</h2><p>回到乡下老家，我把二楼大客厅布置成了办公室，置办了张大号升降桌，配上两台大显示器，宽带也升级到了千兆。</p>\n<p>今年大部分时间，我就在这里上班。</p>\n<p>上班累了，一抬头，落地窗外就是一片稻田。离家 50 米是村活动广场，我偶尔去玩玩滑板；天热了，\n每天中午就去山里水潭练习游泳；下午下班后，常沿着进山路跑上一两个小时，或者骑行；晚上，就刷点动漫，或者研究点技术。每隔一两个月，我会去一线城市参加些感兴趣的技术会议，感受下氛围，或者干脆找个地方旅游上班，顺道联络联络老朋友老同学。</p>",
+          "link": "https://thiscute.world/posts/job-and-life/?utm_source=atom_feed",
+          "publishedOn": "2025-11-04T14:38:53.000Z",
+          "wordCount": 142,
+          "title": "大梦一场",
+          "imageUrl": "https://thiscute.world/posts/job-and-life/featured-image.jpeg"
+        },
         {
           "id": "https://thiscute.world/posts/linux-desktop-6-shutdown-troubleshooting/?utm_source=atom_feed",
           "author": null,
@@ -2803,21 +2853,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bluehe.cn/usr/uploads/2025/09/2477840953.jpg"
-        },
-        {
-          "id": "https://bluehe.cn/archives/nanning-yongjiang",
-          "author": "寻鹤",
-          "description": "刷到了“世纪晚霞”的帖子，我也经不起诱惑，在8月2日前往，天气虽然炎热，在等待的时候逛起了我从未涉足的南宁古城墙区域，真别说，别有一番风景，几颗大树提供了遮风挡雨，来来往往的骑行人员、一步迈着一步慢跑的人员、江岸边钓鱼人青年、江岸跳水的人群、江上划着皮划艇的南男女女，以及那不没有晚霞的日落，这就是那天的收获。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n...",
-          "link": "https://bluehe.cn/archives/nanning-yongjiang",
-          "publishedOn": "2025-08-10T07:44:00.000Z",
-          "wordCount": null,
-          "title": "邕江沿岸",
-          "enclosure": {
-            "url": "https://bluehe.cn/usr/uploads/2025/08/3603911509.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bluehe.cn/usr/uploads/2025/08/3603911509.jpg"
         }
       ]
     },
@@ -3489,6 +3524,16 @@
       "feedUrl": "https://panzhixiang.cn/atom.xml",
       "siteUrl": "https://panzhixiang.cn/atom.xml",
       "articles": [
+        {
+          "id": "https://panzhixiang.cn/2025/kimi-k2-thinking-optimized/",
+          "author": null,
+          "description": "<p>大家估计看过很过大模型的评测。基本上都是设想几个编程场景，然后用几个不同的模型进行对比。</p>\n<p>但在真实的工作场景中，我们面对的更多是一个已经存在、可能庞大复杂的代码库。要在这样的代码库中理解架构、找到关键信息、做出正确修改，这才是真正的挑战。</p>\n<p>这次，我让kimi k2 thinking 面对了一个<strong>地狱级</strong>考验：在拥有 <strong>8 万行代码、500 多个文件</strong>的 MkSaaS 模板库中，开发一个”纳瓦尔语录”网站。</p>",
+          "link": "https://panzhixiang.cn/2025/kimi-k2-thinking-optimized/",
+          "publishedOn": "2025-11-07T16:00:00.000Z",
+          "wordCount": 260,
+          "title": "8 万行代码，kimi k2 thinking 能 hold 住吗？",
+          "imageUrl": "https://blog.panzhixiang.cn/images/mksaas-code-lines.png"
+        },
         {
           "id": "https://panzhixiang.cn/2025/ai-agent/",
           "author": null,
