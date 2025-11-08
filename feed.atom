@@ -2,10 +2,117 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-11-07T23:10:27.521Z</updated>
+    <updated>2025-11-08T23:10:04.584Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[KAITO 与 KubeFleet：CNCF 正在重塑 AI 推理基础设施]]></title>
+        <id>https://jimmysong.io/blog/kaito-and-kubefleet-ai-inference/</id>
+        <link href="https://jimmysong.io/blog/kaito-and-kubefleet-ai-inference/"/>
+        <updated>2025-11-08T17:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Learn how KServe, vLLM, llm-d, and WG Serving enable efficient, scalable, and standardized cloud native LLM inference for high-performance AI deployments.]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smokeping is the Simple Way to Monitor Pings in Your Home Lab]]></title>
+        <id>https://www.virtualizationhowto.com/?p=306435</id>
+        <link href="https://www.virtualizationhowto.com/2025/11/smokeping-is-the-simple-way-to-monitor-pings-in-your-home-lab/"/>
+        <updated>2025-11-08T14:13:59.000Z</updated>
+        <summary type="html"><![CDATA[Network latency can absolutely kill your performance. If you have noticed y our virtual machines lagging, or your Docker containers struggling to pull images down. Or, if you have felt…
+The post Smokeping is the Simple Way to Monitor Pings in Your Home Lab appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[狮山公园竖图抢先版]]></title>
+        <id>https://bluehe.cn/archives/shishan-vertical</id>
+        <link href="https://bluehe.cn/archives/shishan-vertical"/>
+        <updated>2025-11-08T14:04:00.000Z</updated>
+        <summary type="html"><![CDATA[不是楼阁而是亭桥，为何称竹影桥？因狮山公园是以竹文化打造主题的园林，有许多珍贵的竹子品种，故因此而得名。
+[fotos]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/fotos]...]]></summary>
+        <author>
+            <name>寻鹤</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用云原生大模型开源四件套构建高效推理体系：KServe + vLLM + llm-d + WG Serving]]></title>
+        <id>https://jimmysong.io/blog/cloud-native-llm-inference-stack/</id>
+        <link href="https://jimmysong.io/blog/cloud-native-llm-inference-stack/"/>
+        <updated>2025-11-08T05:21:59.000Z</updated>
+        <summary type="html"><![CDATA[云原生与 AI 原生架构师必读：KServe、vLLM、llm-d、WG Serving 如何形成大模型推理的云原生“四件套”，各自定位与组合优势，以及生态融合趋势分析。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ollama Performance Tuning: GPU Optimization Techniques for Production]]></title>
+        <id>https://collabnix.com/ollama-performance-tuning-gpu-optimization-techniques-for-production/</id>
+        <link href="https://collabnix.com/ollama-performance-tuning-gpu-optimization-techniques-for-production/"/>
+        <updated>2025-11-08T04:03:15.000Z</updated>
+        <summary type="html"><![CDATA[Master Ollama GPU optimization with advanced techniques for VRAM management, Flash Attention, multi-GPU setups, and Kubernetes deployments. Boost LLM performance 2-3x.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A/B Testing LLM Models: Infrastructure and Deployment Strategies]]></title>
+        <id>https://collabnix.com/a-b-testing-llm-models-infrastructure-and-deployment-strategies/</id>
+        <link href="https://collabnix.com/a-b-testing-llm-models-infrastructure-and-deployment-strategies/"/>
+        <updated>2025-11-08T04:00:13.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to implement A/B testing for LLM models using Kubernetes, Istio, and modern MLOps practices. Includes code examples and production strategies.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code: Agentic Coding from Your Terminal – Complete Guide]]></title>
+        <id>https://collabnix.com/claude-code-agentic-coding-from-your-terminal-complete-guide/</id>
+        <link href="https://collabnix.com/claude-code-agentic-coding-from-your-terminal-complete-guide/"/>
+        <updated>2025-11-08T03:55:34.000Z</updated>
+        <summary type="html"><![CDATA[Master Claude Code for agentic AI-powered coding in your terminal. Learn installation, configuration, advanced workflows, and best practices for DevOps teams.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLM-Powered Code Review: Automated PR Analysis for DevOps Teams]]></title>
+        <id>https://collabnix.com/llm-powered-code-review-automated-pr-analysis-for-devops-teams/</id>
+        <link href="https://collabnix.com/llm-powered-code-review-automated-pr-analysis-for-devops-teams/"/>
+        <updated>2025-11-08T03:52:39.000Z</updated>
+        <summary type="html"><![CDATA[Build a production-ready LLM-powered code review system with GitHub Actions. Automate PR analysis, catch bugs, and improve code quality with AI.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8 万行代码，kimi k2 thinking 能 hold 住吗？]]></title>
         <id>https://panzhixiang.cn/2025/kimi-k2-thinking-optimized/</id>
@@ -4403,58 +4510,6 @@ CITY GRIP SAVER
         <summary type="html"><![CDATA[We’ve reached a tipping point. AI isn’t just enhancing marketing; it’s starting to run it. Today’s most innovative teams aren’t spending late nights building drip sequences or debating subject lines. Instead, they’re deploying AI agents, digital workers that can write, test, optimize, and even pivot campaigns in real time. And they’re doing it better than […]]]></summary>
         <author>
             <name>Diksha Gathania</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Complete Guide to AI Models in 2025: A Technical Deep Dive into the AI Revolution]]></title>
-        <id>https://collabnix.com/?p=46875</id>
-        <link href="https://collabnix.com/the-complete-guide-to-ai-models-in-2025-a-technical-deep-dive-into-the-ai-revolution/"/>
-        <updated>2025-08-11T08:17:59.000Z</updated>
-        <summary type="html"><![CDATA[Understanding the architecture, capabilities, and future of large language models that are reshaping our digital landscape]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How do DevOps and Cloud Computing WorkTogether to Create a Trend Set?]]></title>
-        <id>https://collabnix.com/?p=46872</id>
-        <link href="https://collabnix.com/how-do-devops-and-cloud-computing-worktogether-to-create-a-trend-set/"/>
-        <updated>2025-08-11T07:50:53.000Z</updated>
-        <summary type="html"><![CDATA[Ever wonder how the latest developments in cloud computing and DevOps will affect IT in the future? These domains get set to undergo changes as technology continues to develop at a rapid rate. Cloud computing has emerged as a key enabler for DevOps lead as it facilitates resource scaling, enhances collaboration, and lowers expenses. Most […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hugging Face Complete Guide 2025: The Ultimate Tutorial for Machine Learning and AI Development]]></title>
-        <id>https://collabnix.com/?p=46865</id>
-        <link href="https://collabnix.com/hugging-face-complete-guide-2025-the-ultimate-tutorial-for-machine-learning-and-ai-development/"/>
-        <updated>2025-08-11T06:38:07.000Z</updated>
-        <summary type="html"><![CDATA[Introduction: What is Hugging Face and Why It’s Revolutionizing AI Hugging Face has emerged as the definitive platform for machine learning and artificial intelligence development, often dubbed “the GitHub of machine learning.” If you’re working with AI in 2025, understanding Hugging Face isn’t just beneficial—it’s essential. This comprehensive guide will walk you through everything you […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LibreTV 免费的在线视频观看神器]]></title>
-        <id>https://dusays.com/821/</id>
-        <link href="https://dusays.com/821/"/>
-        <updated>2025-08-10T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>在数字媒体盛行的今天，观看电影、电视剧等视频内容成为了人们日常娱乐的重要部分。然而，许多视频平台要么需要付费订阅，要么充斥大量广告，还有的需要复杂的注册流程，极大地影响了观影体验。今天，就给大家介绍一款名为 LibreTV 的开源工具，它将彻底改变在线观影方式。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[发现 Embedding Atlas：网站数据可视化与检索新体验]]></title>
-        <id>https://jimmysong.io/blog/embedding-atlas-experience/</id>
-        <link href="https://jimmysong.io/blog/embedding-atlas-experience/"/>
-        <updated>2025-08-10T02:00:00.000Z</updated>
-        <summary type="html"><![CDATA[最近发现了 Apple 开源的 Embedding Atlas 项目，结合自己的网站 RAG 测试，体验了数据可视化和检索的强大功能。]]></summary>
-        <author>
-            <name>Jimmy Song</name>
         </author>
     </entry>
     <entry>
