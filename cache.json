@@ -1380,6 +1380,66 @@
       "siteUrl": "https://collabnix.com",
       "articles": [
         {
+          "id": "https://collabnix.com/?p=59586",
+          "author": "Tanvir Kour",
+          "description": "iPad Pro 13 is constructed on the powerful M3 chip, which is designed to provide exceptional processing speed when performing multitasks, writing as well and researching. This model has a Liquid Retina XDR display that has a sharp display and the correct colour, thus making it ideal when reading a textbook, developing projects or during […]",
+          "link": "https://collabnix.com/how-the-ipad-pro-13-makes-studying-smarter-and-simpler/",
+          "publishedOn": "2025-11-09T11:49:31.000Z",
+          "wordCount": 2502,
+          "title": "How the iPad Pro 13 Makes Studying Smarter and Simpler?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=59581",
+          "author": "Tanvir Kour",
+          "description": "If you have built a retrieval pipeline or a recommendation feature lately, you have already touched embeddings. They are the trick that turns messy real-world inputs such as text, images, audio, logs, or user actions into points in a mathematical space where similar things are literally near each other. Once your data lives as vectors, […]",
+          "link": "https://collabnix.com/understanding-embeddings-the-math-behind-ai-vector-databases/",
+          "publishedOn": "2025-11-09T11:30:37.000Z",
+          "wordCount": null,
+          "title": "Understanding Embeddings: The Math Behind AI Vector Databases",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/local-development-environment-for-ai-applications-complete-guide/",
+          "author": "Collabnix Team",
+          "description": "Build a production-ready local development environment for AI applications using Docker, Kubernetes, and GPU support. Includes code examples and best practices.",
+          "link": "https://collabnix.com/local-development-environment-for-ai-applications-complete-guide/",
+          "publishedOn": "2025-11-09T04:07:34.000Z",
+          "wordCount": null,
+          "title": "Local Development Environment for AI Applications: Complete Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/vector-embeddings-with-sentence-transformers-and-docker-complete-guide/",
+          "author": "Collabnix Team",
+          "description": "Learn to deploy vector embeddings using Sentence Transformers in Docker. Includes practical examples, YAML configs, and production-ready containerization.",
+          "link": "https://collabnix.com/vector-embeddings-with-sentence-transformers-and-docker-complete-guide/",
+          "publishedOn": "2025-11-09T04:04:44.000Z",
+          "wordCount": null,
+          "title": "Vector Embeddings with Sentence Transformers and Docker: Complete Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/kubernetes-statefulsets-for-ai-ml-storage-complete-guide-2024/",
+          "author": "Collabnix Team",
+          "description": "Master Kubernetes StatefulSets for AI/ML storage with practical examples, YAML configs, and best practices for distributed training workloads.",
+          "link": "https://collabnix.com/kubernetes-statefulsets-for-ai-ml-storage-complete-guide-2024/",
+          "publishedOn": "2025-11-09T04:01:56.000Z",
+          "wordCount": null,
+          "title": "Kubernetes StatefulSets for AI/ML Storage: Complete Guide 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/agentic-ai-development-with-claude-a-practical-devops-tutorial/",
+          "author": "Collabnix Team",
+          "description": "Learn to build autonomous AI agents with Claude API. Includes Python code, Docker deployment, Kubernetes manifests, and production-ready examples for DevOps teams.",
+          "link": "https://collabnix.com/agentic-ai-development-with-claude-a-practical-devops-tutorial/",
+          "publishedOn": "2025-11-09T03:59:15.000Z",
+          "wordCount": null,
+          "title": "Agentic AI Development with Claude: A Practical DevOps Tutorial",
+          "imageUrl": null
+        },
+        {
           "id": "https://collabnix.com/ollama-performance-tuning-gpu-optimization-techniques-for-production/",
           "author": "Collabnix Team",
           "description": "Master Ollama GPU optimization with advanced techniques for VRAM management, Flash Attention, multi-GPU setups, and Kubernetes deployments. Boost LLM performance 2-3x.",
@@ -2448,16 +2508,6 @@
           "wordCount": null,
           "title": "How DevOps Is Reinventing Workflows in Healthcare IT",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=46890",
-          "author": "Diksha Gathania",
-          "description": "We’ve reached a tipping point. AI isn’t just enhancing marketing; it’s starting to run it. Today’s most innovative teams aren’t spending late nights building drip sequences or debating subject lines. Instead, they’re deploying AI agents, digital workers that can write, test, optimize, and even pivot campaigns in real time. And they’re doing it better than […]",
-          "link": "https://collabnix.com/how-ai-agents-are-running-campaigns-so-you-dont-have-to/",
-          "publishedOn": "2025-08-11T12:03:37.000Z",
-          "wordCount": null,
-          "title": "How AI Agents Are Running Campaigns So You Don’t Have To",
-          "imageUrl": null
         }
       ]
     },
@@ -3296,6 +3346,16 @@
       "feedUrl": "https://www.mintimate.cn/atom.xml",
       "siteUrl": "https://www.mintimate.cn/atom.xml",
       "articles": [
+        {
+          "id": "https://www.mintimate.cn/2025/11/09/aioDevContainer/",
+          "author": null,
+          "description": "基于 Docker 在服务器上构建 All In One 远程开发容器，通过 SSH 连接实现跨设备开发。即使 AI Agent 操作失误导致环境崩溃，也不会影响宿主机，随时可以快速重建。",
+          "link": "https://www.mintimate.cn/2025/11/09/aioDevContainer/",
+          "publishedOn": "2025-11-09T07:18:45.000Z",
+          "wordCount": 2390,
+          "title": "告别环境配置烦恼：基于 Docker 打造丝滑的 All In One远程开发环境",
+          "imageUrl": "https://imagehost.mintimate.cn/post_aioDevContainer/banner.webp"
+        },
         {
           "id": "https://www.mintimate.cn/2025/09/12/qcloudCaptchaIntegration/",
           "author": null,

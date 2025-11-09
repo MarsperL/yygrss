@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-11-08T23:10:04.584Z</updated>
+    <updated>2025-11-09T23:10:42.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How the iPad Pro 13 Makes Studying Smarter and Simpler?]]></title>
+        <id>https://collabnix.com/?p=59586</id>
+        <link href="https://collabnix.com/how-the-ipad-pro-13-makes-studying-smarter-and-simpler/"/>
+        <updated>2025-11-09T11:49:31.000Z</updated>
+        <summary type="html"><![CDATA[iPad Pro 13 is constructed on the powerful M3 chip, which is designed to provide exceptional processing speed when performing multitasks, writing as well and researching. This model has a Liquid Retina XDR display that has a sharp display and the correct colour, thus making it ideal when reading a textbook, developing projects or during […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding Embeddings: The Math Behind AI Vector Databases]]></title>
+        <id>https://collabnix.com/?p=59581</id>
+        <link href="https://collabnix.com/understanding-embeddings-the-math-behind-ai-vector-databases/"/>
+        <updated>2025-11-09T11:30:37.000Z</updated>
+        <summary type="html"><![CDATA[If you have built a retrieval pipeline or a recommendation feature lately, you have already touched embeddings. They are the trick that turns messy real-world inputs such as text, images, audio, logs, or user actions into points in a mathematical space where similar things are literally near each other. Once your data lives as vectors, […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[告别环境配置烦恼：基于 Docker 打造丝滑的 All In One远程开发环境]]></title>
+        <id>https://www.mintimate.cn/2025/11/09/aioDevContainer/</id>
+        <link href="https://www.mintimate.cn/2025/11/09/aioDevContainer/"/>
+        <updated>2025-11-09T07:18:45.000Z</updated>
+        <summary type="html"><![CDATA[基于 Docker 在服务器上构建 All In One 远程开发容器，通过 SSH 连接实现跨设备开发。即使 AI Agent 操作失误导致环境崩溃，也不会影响宿主机，随时可以快速重建。]]></summary>
+        <author>
+            <name>雨月空间站</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Local Development Environment for AI Applications: Complete Guide]]></title>
+        <id>https://collabnix.com/local-development-environment-for-ai-applications-complete-guide/</id>
+        <link href="https://collabnix.com/local-development-environment-for-ai-applications-complete-guide/"/>
+        <updated>2025-11-09T04:07:34.000Z</updated>
+        <summary type="html"><![CDATA[Build a production-ready local development environment for AI applications using Docker, Kubernetes, and GPU support. Includes code examples and best practices.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vector Embeddings with Sentence Transformers and Docker: Complete Guide]]></title>
+        <id>https://collabnix.com/vector-embeddings-with-sentence-transformers-and-docker-complete-guide/</id>
+        <link href="https://collabnix.com/vector-embeddings-with-sentence-transformers-and-docker-complete-guide/"/>
+        <updated>2025-11-09T04:04:44.000Z</updated>
+        <summary type="html"><![CDATA[Learn to deploy vector embeddings using Sentence Transformers in Docker. Includes practical examples, YAML configs, and production-ready containerization.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes StatefulSets for AI/ML Storage: Complete Guide 2024]]></title>
+        <id>https://collabnix.com/kubernetes-statefulsets-for-ai-ml-storage-complete-guide-2024/</id>
+        <link href="https://collabnix.com/kubernetes-statefulsets-for-ai-ml-storage-complete-guide-2024/"/>
+        <updated>2025-11-09T04:01:56.000Z</updated>
+        <summary type="html"><![CDATA[Master Kubernetes StatefulSets for AI/ML storage with practical examples, YAML configs, and best practices for distributed training workloads.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agentic AI Development with Claude: A Practical DevOps Tutorial]]></title>
+        <id>https://collabnix.com/agentic-ai-development-with-claude-a-practical-devops-tutorial/</id>
+        <link href="https://collabnix.com/agentic-ai-development-with-claude-a-practical-devops-tutorial/"/>
+        <updated>2025-11-09T03:59:15.000Z</updated>
+        <summary type="html"><![CDATA[Learn to build autonomous AI agents with Claude API. Includes Python code, Docker deployment, Kubernetes manifests, and production-ready examples for DevOps teams.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KAITO 与 KubeFleet：CNCF 正在重塑 AI 推理基础设施]]></title>
         <id>https://jimmysong.io/blog/kaito-and-kubefleet-ai-inference/</id>
@@ -4500,16 +4570,6 @@ CITY GRIP SAVER
         <summary type="html"><![CDATA[Healthcare IT is changing fast, with DevOps leading the charge. As a result, the patchwork solutions are evaporating, and instead, efficiency is becoming a built-in feature of modern workflows in hospitals and clinics alike. Here’s a look at the intriguing nature of this relationship and what it means in practice for an industry niche that’s […]]]></summary>
         <author>
             <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Agents Are Running Campaigns So You Don’t Have To]]></title>
-        <id>https://collabnix.com/?p=46890</id>
-        <link href="https://collabnix.com/how-ai-agents-are-running-campaigns-so-you-dont-have-to/"/>
-        <updated>2025-08-11T12:03:37.000Z</updated>
-        <summary type="html"><![CDATA[We’ve reached a tipping point. AI isn’t just enhancing marketing; it’s starting to run it. Today’s most innovative teams aren’t spending late nights building drip sequences or debating subject lines. Instead, they’re deploying AI agents, digital workers that can write, test, optimize, and even pivot campaigns in real time. And they’re doing it better than […]]]></summary>
-        <author>
-            <name>Diksha Gathania</name>
         </author>
     </entry>
     <entry>
