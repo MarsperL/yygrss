@@ -1143,6 +1143,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=306365",
+          "author": "Brandon Lee",
+          "description": "There are certain docker containers that make a lot of sense to run in a home lab that just make life easier, better, and more efficient in the lab environment.…\nThe post 15 Docker Containers That Make Your Home Lab Instantly Better appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/11/15-docker-containers-that-make-your-home-lab-instantly-better/",
+          "publishedOn": "2025-11-10T13:15:54.000Z",
+          "wordCount": 10761,
+          "title": "15 Docker Containers That Make Your Home Lab Instantly Better",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/15-docker-containers-that-instantly-improve-your-home-lab.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=306435",
           "author": "Brandon Lee",
           "description": "Network latency can absolutely kill your performance. If you have noticed y our virtual machines lagging, or your Docker containers struggling to pull images down. Or, if you have felt…\nThe post Smokeping is the Simple Way to Monitor Pings in Your Home Lab appeared first on Virtualization Howto.",
@@ -1379,6 +1389,46 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/building-llm-evaluation-pipelines-on-kubernetes-a-complete-guide/",
+          "author": "Collabnix Team",
+          "description": "Learn to build production-grade LLM evaluation pipelines on Kubernetes with practical YAML configs, code examples, and best practices for scalable AI/ML workflows.",
+          "link": "https://collabnix.com/building-llm-evaluation-pipelines-on-kubernetes-a-complete-guide/",
+          "publishedOn": "2025-11-10T04:13:06.000Z",
+          "wordCount": 3094,
+          "title": "Building LLM Evaluation Pipelines on Kubernetes: A Complete Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/claude-and-autonomous-agents-practical-implementation-guide/",
+          "author": "Collabnix Team",
+          "description": "Learn to build production-ready autonomous agents with Claude AI. Complete guide with code examples, Kubernetes deployment, and best practices for DevOps.",
+          "link": "https://collabnix.com/claude-and-autonomous-agents-practical-implementation-guide/",
+          "publishedOn": "2025-11-10T04:10:16.000Z",
+          "wordCount": null,
+          "title": "Claude and Autonomous Agents: Practical Implementation Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/ollama-api-integration-building-production-ready-llm-applications/",
+          "author": "Collabnix Team",
+          "description": "Learn to build production-ready LLM applications with Ollama API. Complete guide with Python examples, Kubernetes deployment, and performance optimization tips.",
+          "link": "https://collabnix.com/ollama-api-integration-building-production-ready-llm-applications/",
+          "publishedOn": "2025-11-10T04:07:16.000Z",
+          "wordCount": null,
+          "title": "Ollama API Integration: Building Production-Ready LLM Applications",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/autoscaling-ai-workloads-hpa-and-keda-for-ml-applications/",
+          "author": "Collabnix Team",
+          "description": "Master autoscaling for AI/ML workloads on Kubernetes using HPA and KEDA. Complete guide with YAML configs, code examples, and production best practices.",
+          "link": "https://collabnix.com/autoscaling-ai-workloads-hpa-and-keda-for-ml-applications/",
+          "publishedOn": "2025-11-10T04:04:27.000Z",
+          "wordCount": null,
+          "title": "Autoscaling AI Workloads: HPA and KEDA for ML Applications",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=59586",
           "author": "Tanvir Kour",
@@ -2448,66 +2498,6 @@
           "wordCount": null,
           "title": "How to Fine-Tune LLM and Use It with Ollama: A Complete Guide for 2025",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=47172",
-          "author": "Collabnix Team",
-          "description": "Discover the different types of Ollama models available for local AI deployment. Learn about Llama, Mistral, Code Llama, and other model families with practical implementation tips.",
-          "link": "https://collabnix.com/types-of-ollama-models-complete-guide-to-local-ai-model-varieties/",
-          "publishedOn": "2025-08-13T10:53:30.000Z",
-          "wordCount": null,
-          "title": "Types of Ollama Models: Complete Guide to Local AI Model Varieties",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=47169",
-          "author": "Collabnix Team",
-          "description": "Running large language models locally has become essential for developers, enterprises, and AI enthusiasts who prioritize privacy, cost control, and offline capabilities. Ollama has emerged as the leading platform for local LLM deployment, but with over 100+ models available, choosing the right one can be overwhelming. This comprehensive guide covers everything you need to know […]",
-          "link": "https://collabnix.com/choosing-ollama-models-the-complete-2025-guide-for-developers-and-enterprises/",
-          "publishedOn": "2025-08-13T10:45:00.000Z",
-          "wordCount": null,
-          "title": "Choosing Ollama Models: The Complete 2025 Guide for Developers and Enterprises",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=47166",
-          "author": "Collabnix Team",
-          "description": "Discover the top Ollama models for function calling in 2025. Compare performance, features, and implementation guides for Llama 3.1, Mistral, CodeLlama, and more.",
-          "link": "https://collabnix.com/best-ollama-models-for-function-calling-tools-complete-guide-2025/",
-          "publishedOn": "2025-08-13T10:40:30.000Z",
-          "wordCount": null,
-          "title": "Best Ollama Models for Function Calling Tools: Complete Guide 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=47156",
-          "author": "Tanvir Kour",
-          "description": "Discover how vCluster revolutionizes Kubernetes multi-tenancy with 99% faster provisioning, massive cost savings, and enterprise-grade isolation",
-          "link": "https://collabnix.com/vcluster-the-complete-guide-to-virtual-kubernetes-clusters-in-2025/",
-          "publishedOn": "2025-08-13T08:39:37.000Z",
-          "wordCount": null,
-          "title": "vCluster: The Complete Guide to Virtual Kubernetes Clusters in 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=47124",
-          "author": "Tanvir Kour",
-          "description": "When you talk about containers, spreadsheets and tax codes aren’t the first things that come to mind. But you would be wrong to think there’s no connection between accountancy and containerization. The accounting world is currently undergoing a digital revolution that will help accountants do their work faster, safer, and more compliantly than ever before. […]",
-          "link": "https://collabnix.com/how-containerization-is-reshaping-the-accountancy-workplace/",
-          "publishedOn": "2025-08-12T17:09:47.000Z",
-          "wordCount": null,
-          "title": "How Containerization Is Reshaping the Accountancy Workplace",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=47119",
-          "author": "Tanvir Kour",
-          "description": "Healthcare IT is changing fast, with DevOps leading the charge. As a result, the patchwork solutions are evaporating, and instead, efficiency is becoming a built-in feature of modern workflows in hospitals and clinics alike. Here’s a look at the intriguing nature of this relationship and what it means in practice for an industry niche that’s […]",
-          "link": "https://collabnix.com/how-devops-is-reinventing-workflows-in-healthcare-it/",
-          "publishedOn": "2025-08-12T17:05:51.000Z",
-          "wordCount": null,
-          "title": "How DevOps Is Reinventing Workflows in Healthcare IT",
-          "imageUrl": null
         }
       ]
     },
@@ -3421,16 +3411,6 @@
           "publishedOn": "2025-09-04T14:35:52.000Z",
           "wordCount": null,
           "title": "轻量级组网工具WireGuard",
-          "imageUrl": null
-        },
-        {
-          "id": "https://zahui.fan/posts/t0wu1k/",
-          "author": null,
-          "description": "<ol>\n<li>Elasticsearch 有自己的高可用集群机制，不建议再用 k8s 管理</li>\n<li>适用于临时使用一下、或者测试使用</li>\n</ol>\n<h2 id=\"数据存储问题\"><a href=\"#数据存储问题\" class=\"headerlink\" title=\"数据存储问题\"></a>数据存储问题</h2><p>为了测试使用，我也没有用 pvc 来管理数据，而是选择了",
-          "link": "https://zahui.fan/posts/t0wu1k/",
-          "publishedOn": "2025-08-13T02:10:31.000Z",
-          "wordCount": null,
-          "title": "在Kubernetes中部署一个单节点Elasticsearch",
           "imageUrl": null
         }
       ]

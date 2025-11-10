@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-11-09T23:10:42.227Z</updated>
+    <updated>2025-11-10T23:10:41.495Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[15 Docker Containers That Make Your Home Lab Instantly Better]]></title>
+        <id>https://www.virtualizationhowto.com/?p=306365</id>
+        <link href="https://www.virtualizationhowto.com/2025/11/15-docker-containers-that-make-your-home-lab-instantly-better/"/>
+        <updated>2025-11-10T13:15:54.000Z</updated>
+        <summary type="html"><![CDATA[There are certain docker containers that make a lot of sense to run in a home lab that just make life easier, better, and more efficient in the lab environment.…
+The post 15 Docker Containers That Make Your Home Lab Instantly Better appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building LLM Evaluation Pipelines on Kubernetes: A Complete Guide]]></title>
+        <id>https://collabnix.com/building-llm-evaluation-pipelines-on-kubernetes-a-complete-guide/</id>
+        <link href="https://collabnix.com/building-llm-evaluation-pipelines-on-kubernetes-a-complete-guide/"/>
+        <updated>2025-11-10T04:13:06.000Z</updated>
+        <summary type="html"><![CDATA[Learn to build production-grade LLM evaluation pipelines on Kubernetes with practical YAML configs, code examples, and best practices for scalable AI/ML workflows.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude and Autonomous Agents: Practical Implementation Guide]]></title>
+        <id>https://collabnix.com/claude-and-autonomous-agents-practical-implementation-guide/</id>
+        <link href="https://collabnix.com/claude-and-autonomous-agents-practical-implementation-guide/"/>
+        <updated>2025-11-10T04:10:16.000Z</updated>
+        <summary type="html"><![CDATA[Learn to build production-ready autonomous agents with Claude AI. Complete guide with code examples, Kubernetes deployment, and best practices for DevOps.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ollama API Integration: Building Production-Ready LLM Applications]]></title>
+        <id>https://collabnix.com/ollama-api-integration-building-production-ready-llm-applications/</id>
+        <link href="https://collabnix.com/ollama-api-integration-building-production-ready-llm-applications/"/>
+        <updated>2025-11-10T04:07:16.000Z</updated>
+        <summary type="html"><![CDATA[Learn to build production-ready LLM applications with Ollama API. Complete guide with Python examples, Kubernetes deployment, and performance optimization tips.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Autoscaling AI Workloads: HPA and KEDA for ML Applications]]></title>
+        <id>https://collabnix.com/autoscaling-ai-workloads-hpa-and-keda-for-ml-applications/</id>
+        <link href="https://collabnix.com/autoscaling-ai-workloads-hpa-and-keda-for-ml-applications/"/>
+        <updated>2025-11-10T04:04:27.000Z</updated>
+        <summary type="html"><![CDATA[Master autoscaling for AI/ML workloads on Kubernetes using HPA and KEDA. Complete guide with YAML configs, code examples, and production best practices.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How the iPad Pro 13 Makes Studying Smarter and Simpler?]]></title>
         <id>https://collabnix.com/?p=59586</id>
@@ -4496,80 +4547,6 @@ CITY GRIP SAVER
         <summary type="html"><![CDATA[Learn how to customize large language models for your specific needs and deploy them locally using Ollama. This comprehensive guide covers everything from data preparation to model deployment.]]></summary>
         <author>
             <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Types of Ollama Models: Complete Guide to Local AI Model Varieties]]></title>
-        <id>https://collabnix.com/?p=47172</id>
-        <link href="https://collabnix.com/types-of-ollama-models-complete-guide-to-local-ai-model-varieties/"/>
-        <updated>2025-08-13T10:53:30.000Z</updated>
-        <summary type="html"><![CDATA[Discover the different types of Ollama models available for local AI deployment. Learn about Llama, Mistral, Code Llama, and other model families with practical implementation tips.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Choosing Ollama Models: The Complete 2025 Guide for Developers and Enterprises]]></title>
-        <id>https://collabnix.com/?p=47169</id>
-        <link href="https://collabnix.com/choosing-ollama-models-the-complete-2025-guide-for-developers-and-enterprises/"/>
-        <updated>2025-08-13T10:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Running large language models locally has become essential for developers, enterprises, and AI enthusiasts who prioritize privacy, cost control, and offline capabilities. Ollama has emerged as the leading platform for local LLM deployment, but with over 100+ models available, choosing the right one can be overwhelming. This comprehensive guide covers everything you need to know […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Ollama Models for Function Calling Tools: Complete Guide 2025]]></title>
-        <id>https://collabnix.com/?p=47166</id>
-        <link href="https://collabnix.com/best-ollama-models-for-function-calling-tools-complete-guide-2025/"/>
-        <updated>2025-08-13T10:40:30.000Z</updated>
-        <summary type="html"><![CDATA[Discover the top Ollama models for function calling in 2025. Compare performance, features, and implementation guides for Llama 3.1, Mistral, CodeLlama, and more.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[vCluster: The Complete Guide to Virtual Kubernetes Clusters in 2025]]></title>
-        <id>https://collabnix.com/?p=47156</id>
-        <link href="https://collabnix.com/vcluster-the-complete-guide-to-virtual-kubernetes-clusters-in-2025/"/>
-        <updated>2025-08-13T08:39:37.000Z</updated>
-        <summary type="html"><![CDATA[Discover how vCluster revolutionizes Kubernetes multi-tenancy with 99% faster provisioning, massive cost savings, and enterprise-grade isolation]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[在Kubernetes中部署一个单节点Elasticsearch]]></title>
-        <id>https://zahui.fan/posts/t0wu1k/</id>
-        <link href="https://zahui.fan/posts/t0wu1k/"/>
-        <updated>2025-08-13T02:10:31.000Z</updated>
-        <summary type="html"><![CDATA[<ol>
-<li>Elasticsearch 有自己的高可用集群机制，不建议再用 k8s 管理</li>
-<li>适用于临时使用一下、或者测试使用</li>
-</ol>
-<h2 id="数据存储问题"><a href="#数据存储问题" class="headerlink" title="数据存储问题"></a>数据存储问题</h2><p>为了测试使用，我也没有用 pvc 来管理数据，而是选择了]]></summary>
-        <author>
-            <name>杂烩饭</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Containerization Is Reshaping the Accountancy Workplace]]></title>
-        <id>https://collabnix.com/?p=47124</id>
-        <link href="https://collabnix.com/how-containerization-is-reshaping-the-accountancy-workplace/"/>
-        <updated>2025-08-12T17:09:47.000Z</updated>
-        <summary type="html"><![CDATA[When you talk about containers, spreadsheets and tax codes aren’t the first things that come to mind. But you would be wrong to think there’s no connection between accountancy and containerization. The accounting world is currently undergoing a digital revolution that will help accountants do their work faster, safer, and more compliantly than ever before. […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How DevOps Is Reinventing Workflows in Healthcare IT]]></title>
-        <id>https://collabnix.com/?p=47119</id>
-        <link href="https://collabnix.com/how-devops-is-reinventing-workflows-in-healthcare-it/"/>
-        <updated>2025-08-12T17:05:51.000Z</updated>
-        <summary type="html"><![CDATA[Healthcare IT is changing fast, with DevOps leading the charge. As a result, the patchwork solutions are evaporating, and instead, efficiency is becoming a built-in feature of modern workflows in hospitals and clinics alike. Here’s a look at the intriguing nature of this relationship and what it means in practice for an industry niche that’s […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
         </author>
     </entry>
     <entry>
