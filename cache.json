@@ -106,6 +106,16 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
+          "id": "https://daverupert.com/2025/11/random-mini-dungeons/",
+          "author": null,
+          "description": "I stumbled onto Odd Artworks’ Random Mini Dungeon video series via the algorithm. He rolls against a dice table to generate a theme and requirements and starts drawing an isomorphic dungeon on a single sheet of paper. It’s almost like a Solo-RPG meets Inktober mashup activity.\nThe process is straight forward: roll dice, spend an hour to an afternoon drawing the dungeon, scan it, add three layers of gray tones for shading, add color, then add glowing effects. All wrapped up in a “Draw and Talk” format, it makes for a nice predictable ASMR formula. He then collects all the dungeons and goblins he draws and puts them in a stapled zine.\nThe cartoony style is adorable and reminds me a bit of Kyle Ferrin from Leder Games’s style, who I’m fond of because I got to play DnD with Kyle once. Generating dungeons this way could be a great way to create one-shot mini-dungeons for your campaign (doubly-so if you run a campaign for kids). As a bonus you could surprise players at the end with a little artwork to remember the campaign.\nAnyways, I think it’s great and adds positive vibes into the world. You can buy Odd Artwork’s zines his website: https://www.oddartworks.com/",
+          "link": "https://daverupert.com/2025/11/random-mini-dungeons/",
+          "publishedOn": "2025-11-11T15:46:00.000Z",
+          "wordCount": 706,
+          "title": "Random Mini Dungeons",
+          "imageUrl": null
+        },
+        {
           "id": "https://daverupert.com/2025/10/vibe-check-40/",
           "author": null,
           "description": "Another hot Fall in Texas. No notable rain since June. Air-conditioning humming. Water bill up. Backyard is a dust bowl from the dogs tearing up all the grass.\nMy schedule is a constant loop of kid activities; school, cheer, baseball, guitar, birthday parties, randomized school holidays, etc. I call it “The Luge”. A family bobsled ride downhill with no meaningful breaks until Christmas. There’s been some real highlights like nights at the ballpark, singing through the K-Pop Demon Slayers album with a car full of girlie-pop tweenagers, and watching my son play his first rock show. But personally, there’s been an overwhelming cloud through it all.\nI’ve been grumpy, like super grumpy\nI’ve been in an incurably foul mood for the last month. I’m almost not sure this vibe-check is worth putting o…",
@@ -588,6 +598,26 @@
       "feedUrl": "https://jimmysong.io/blog/index.xml",
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
+        {
+          "id": "https://jimmysong.io/blog/chatgpt-atlas-architecture-analysis/",
+          "author": "Jimmy Song",
+          "description": "从开发者视角系统拆解 ChatGPT Atlas 浏览器为何体积庞大、架构复杂、与 Chrome 完全不同，并深入解释 Agent 模式的运行机制与限制。",
+          "link": "https://jimmysong.io/blog/chatgpt-atlas-architecture-analysis/",
+          "publishedOn": "2025-11-11T01:46:24.000Z",
+          "wordCount": 1054,
+          "title": "ChatGPT Atlas 架构解剖：为什么体积巨大、运行方式不同、Agent 又如此缓慢？",
+          "imageUrl": "https://assets.jimmysong.io/images/blog/chatgpt-atlas-architecture-analysis/banner.webp"
+        },
+        {
+          "id": "https://jimmysong.io/blog/chatgpt-atlas-two-weeks-dev-perspective/",
+          "author": "Jimmy Song",
+          "description": "作为长期使用 ChatGPT、Codex、Chrome、VSCode 的开发者，我从 Atlas 上线第一天开始将其作为主力浏览器。本篇以开发者视角梳理它的架构优势、工作流增强点、痛点与潜在方向。",
+          "link": "https://jimmysong.io/blog/chatgpt-atlas-two-weeks-dev-perspective/",
+          "publishedOn": "2025-11-11T01:26:05.000Z",
+          "wordCount": 1050,
+          "title": "ChatGPT Atlas 深度使用两周：作为开发者，我看到的真实潜力与结构性短板",
+          "imageUrl": "https://assets.jimmysong.io/images/blog/chatgpt-atlas-two-weeks-dev-perspective/atlas.webp"
+        },
         {
           "id": "https://jimmysong.io/blog/kaito-and-kubefleet-ai-inference/",
           "author": "Jimmy Song",
@@ -1143,6 +1173,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=306462",
+          "author": "Brandon Lee",
+          "description": "Proxmox is definitely the de facto standard for open-source virtualization in the home lab. It is a crazy good virtualization platform that you can run for free, with clustering, and…\nThe post 15 Best Proxmox Tools and Scripts That Make Your Home Lab Easier appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/11/15-best-proxmox-tools-and-scripts-that-make-your-home-lab-easier/",
+          "publishedOn": "2025-11-11T13:21:34.000Z",
+          "wordCount": 10078,
+          "title": "15 Best Proxmox Tools and Scripts That Make Your Home Lab Easier",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/15-proxmox-tools.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=306365",
           "author": "Brandon Lee",
           "description": "There are certain docker containers that make a lot of sense to run in a home lab that just make life easier, better, and more efficient in the lab environment.…\nThe post 15 Docker Containers That Make Your Home Lab Instantly Better appeared first on Virtualization Howto.",
@@ -1389,6 +1429,56 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=60012",
+          "author": "Tanvir Kour",
+          "description": "Introduction: The Future of No-Code App Development Has Arrived Imagine transforming your app idea into a fully functional, production-ready application in under 5 minutes—without writing a single line of code. That’s not a promise for tomorrow; it’s what Emergent.sh delivers today with its AI-powered agentic vibe-coding platform. While traditional development demands months of work and […]",
+          "link": "https://collabnix.com/vibe-coding-with-emergent/",
+          "publishedOn": "2025-11-11T18:20:04.000Z",
+          "wordCount": 3623,
+          "title": "Vibe Coding with Emergent",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/claude-vs-gpt-4-a-technical-comparison-for-devops-engineers/",
+          "author": "Collabnix Team",
+          "description": "Deep technical comparison of Claude and GPT-4 for developers. Includes API benchmarks, code examples, pricing analysis, and integration patterns.",
+          "link": "https://collabnix.com/claude-vs-gpt-4-a-technical-comparison-for-devops-engineers/",
+          "publishedOn": "2025-11-11T04:09:02.000Z",
+          "wordCount": null,
+          "title": "Claude vs GPT-4: A Technical Comparison for DevOps Engineers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/kubernetes-operators-for-ml-complete-crd-implementation-guide/",
+          "author": "Collabnix Team",
+          "description": "Master Kubernetes Operators for ML workloads. Complete guide to Custom Resource Definitions, controller implementation, and best practices with code examples.",
+          "link": "https://collabnix.com/kubernetes-operators-for-ml-complete-crd-implementation-guide/",
+          "publishedOn": "2025-11-11T04:06:00.000Z",
+          "wordCount": null,
+          "title": "Kubernetes Operators for ML: Complete CRD Implementation Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/multi-agent-orchestration-patterns-and-best-practices-for-2024/",
+          "author": "Collabnix Team",
+          "description": "Master multi-agent orchestration with proven patterns, code examples, and best practices. Learn orchestration frameworks, deployment strategies, and troubleshooting.",
+          "link": "https://collabnix.com/multi-agent-orchestration-patterns-and-best-practices-for-2024/",
+          "publishedOn": "2025-11-11T04:03:06.000Z",
+          "wordCount": null,
+          "title": "Multi-Agent Orchestration: Patterns and Best Practices for 2024",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/fine-tuning-open-source-llms-complete-infrastructure-guide-2024/",
+          "author": "Collabnix Team",
+          "description": "Master LLM fine-tuning infrastructure with Kubernetes, GPU optimization, and distributed training. Includes YAML configs, troubleshooting, and cost optimization.",
+          "link": "https://collabnix.com/fine-tuning-open-source-llms-complete-infrastructure-guide-2024/",
+          "publishedOn": "2025-11-11T04:00:20.000Z",
+          "wordCount": null,
+          "title": "Fine-Tuning Open Source LLMs: Complete Infrastructure Guide 2024",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/building-llm-evaluation-pipelines-on-kubernetes-a-complete-guide/",
           "author": "Collabnix Team",
@@ -2487,16 +2577,6 @@
           "publishedOn": "2025-08-15T11:20:44.000Z",
           "wordCount": null,
           "title": "Top 7 Things to Check Before You Buy a Dedicated Server",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=47175",
-          "author": "Collabnix Team",
-          "description": "Learn how to customize large language models for your specific needs and deploy them locally using Ollama. This comprehensive guide covers everything from data preparation to model deployment.",
-          "link": "https://collabnix.com/how-to-fine-tune-llm-and-use-it-with-ollama-a-complete-guide-for-2025/",
-          "publishedOn": "2025-08-13T11:29:57.000Z",
-          "wordCount": null,
-          "title": "How to Fine-Tune LLM and Use It with Ollama: A Complete Guide for 2025",
           "imageUrl": null
         }
       ]

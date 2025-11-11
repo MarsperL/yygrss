@@ -2,10 +2,104 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-11-10T23:10:41.495Z</updated>
+    <updated>2025-11-11T20:41:33.444Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vibe Coding with Emergent]]></title>
+        <id>https://collabnix.com/?p=60012</id>
+        <link href="https://collabnix.com/vibe-coding-with-emergent/"/>
+        <updated>2025-11-11T18:20:04.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: The Future of No-Code App Development Has Arrived Imagine transforming your app idea into a fully functional, production-ready application in under 5 minutes—without writing a single line of code. That’s not a promise for tomorrow; it’s what Emergent.sh delivers today with its AI-powered agentic vibe-coding platform. While traditional development demands months of work and […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Random Mini Dungeons]]></title>
+        <id>https://daverupert.com/2025/11/random-mini-dungeons/</id>
+        <link href="https://daverupert.com/2025/11/random-mini-dungeons/"/>
+        <updated>2025-11-11T15:46:00.000Z</updated>
+        <summary type="html"><![CDATA[I stumbled onto Odd Artworks’ Random Mini Dungeon video series via the algorithm. He rolls against a dice table to generate a theme and requirements and starts drawing an isomorphic dungeon on a single sheet of paper. It’s almost like a Solo-RPG meets Inktober mashup activity.
+The process is straight forward: roll dice, spend an hour to an afternoon drawing the dungeon, scan it, add three layers of gray tones for shading, add color, then add glowing effects. All wrapped up in a “Draw and Talk” format, it makes for a nice predictable ASMR formula. He then collects all the dungeons and goblins he draws and puts them in a stapled zine.
+The cartoony style is adorable and reminds me a bit of Kyle Ferrin from Leder Games’s style, who I’m fond of because I got to play DnD with Kyle once. Generating dungeons this way could be a great way to create one-shot mini-dungeons for your campaign (doubly-so if you run a campaign for kids). As a bonus you could surprise players at the end with a little artwork to remember the campaign.
+Anyways, I think it’s great and adds positive vibes into the world. You can buy Odd Artwork’s zines his website: https://www.oddartworks.com/]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[15 Best Proxmox Tools and Scripts That Make Your Home Lab Easier]]></title>
+        <id>https://www.virtualizationhowto.com/?p=306462</id>
+        <link href="https://www.virtualizationhowto.com/2025/11/15-best-proxmox-tools-and-scripts-that-make-your-home-lab-easier/"/>
+        <updated>2025-11-11T13:21:34.000Z</updated>
+        <summary type="html"><![CDATA[Proxmox is definitely the de facto standard for open-source virtualization in the home lab. It is a crazy good virtualization platform that you can run for free, with clustering, and…
+The post 15 Best Proxmox Tools and Scripts That Make Your Home Lab Easier appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude vs GPT-4: A Technical Comparison for DevOps Engineers]]></title>
+        <id>https://collabnix.com/claude-vs-gpt-4-a-technical-comparison-for-devops-engineers/</id>
+        <link href="https://collabnix.com/claude-vs-gpt-4-a-technical-comparison-for-devops-engineers/"/>
+        <updated>2025-11-11T04:09:02.000Z</updated>
+        <summary type="html"><![CDATA[Deep technical comparison of Claude and GPT-4 for developers. Includes API benchmarks, code examples, pricing analysis, and integration patterns.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes Operators for ML: Complete CRD Implementation Guide]]></title>
+        <id>https://collabnix.com/kubernetes-operators-for-ml-complete-crd-implementation-guide/</id>
+        <link href="https://collabnix.com/kubernetes-operators-for-ml-complete-crd-implementation-guide/"/>
+        <updated>2025-11-11T04:06:00.000Z</updated>
+        <summary type="html"><![CDATA[Master Kubernetes Operators for ML workloads. Complete guide to Custom Resource Definitions, controller implementation, and best practices with code examples.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multi-Agent Orchestration: Patterns and Best Practices for 2024]]></title>
+        <id>https://collabnix.com/multi-agent-orchestration-patterns-and-best-practices-for-2024/</id>
+        <link href="https://collabnix.com/multi-agent-orchestration-patterns-and-best-practices-for-2024/"/>
+        <updated>2025-11-11T04:03:06.000Z</updated>
+        <summary type="html"><![CDATA[Master multi-agent orchestration with proven patterns, code examples, and best practices. Learn orchestration frameworks, deployment strategies, and troubleshooting.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fine-Tuning Open Source LLMs: Complete Infrastructure Guide 2024]]></title>
+        <id>https://collabnix.com/fine-tuning-open-source-llms-complete-infrastructure-guide-2024/</id>
+        <link href="https://collabnix.com/fine-tuning-open-source-llms-complete-infrastructure-guide-2024/"/>
+        <updated>2025-11-11T04:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Master LLM fine-tuning infrastructure with Kubernetes, GPU optimization, and distributed training. Includes YAML configs, troubleshooting, and cost optimization.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT Atlas 架构解剖：为什么体积巨大、运行方式不同、Agent 又如此缓慢？]]></title>
+        <id>https://jimmysong.io/blog/chatgpt-atlas-architecture-analysis/</id>
+        <link href="https://jimmysong.io/blog/chatgpt-atlas-architecture-analysis/"/>
+        <updated>2025-11-11T01:46:24.000Z</updated>
+        <summary type="html"><![CDATA[从开发者视角系统拆解 ChatGPT Atlas 浏览器为何体积庞大、架构复杂、与 Chrome 完全不同，并深入解释 Agent 模式的运行机制与限制。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT Atlas 深度使用两周：作为开发者，我看到的真实潜力与结构性短板]]></title>
+        <id>https://jimmysong.io/blog/chatgpt-atlas-two-weeks-dev-perspective/</id>
+        <link href="https://jimmysong.io/blog/chatgpt-atlas-two-weeks-dev-perspective/"/>
+        <updated>2025-11-11T01:26:05.000Z</updated>
+        <summary type="html"><![CDATA[作为长期使用 ChatGPT、Codex、Chrome、VSCode 的开发者，我从 Atlas 上线第一天开始将其作为主力浏览器。本篇以开发者视角梳理它的架构优势、工作流增强点、痛点与潜在方向。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[15 Docker Containers That Make Your Home Lab Instantly Better]]></title>
         <id>https://www.virtualizationhowto.com/?p=306365</id>
@@ -4537,16 +4631,6 @@ CITY GRIP SAVER
         <summary type="html"><![CDATA[对比 Coze Studio/Loop、n8n、Dify、FastGPT、RAGFlow、LangGraph、Fabric 等开源 AI Agent 与工作流平台，从功能定位、生态扩展、自托管能力、许可证限制、社区活跃度等维度全面分析，并重点探讨在这些工具中选择长期投入平台的参考依据。]]></summary>
         <author>
             <name>Jimmy Song</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Fine-Tune LLM and Use It with Ollama: A Complete Guide for 2025]]></title>
-        <id>https://collabnix.com/?p=47175</id>
-        <link href="https://collabnix.com/how-to-fine-tune-llm-and-use-it-with-ollama-a-complete-guide-for-2025/"/>
-        <updated>2025-08-13T11:29:57.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to customize large language models for your specific needs and deploy them locally using Ollama. This comprehensive guide covers everything from data preparation to model deployment.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
         </author>
     </entry>
     <entry>
