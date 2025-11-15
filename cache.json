@@ -39,6 +39,16 @@
       "siteUrl": "http://whyes.org/",
       "articles": [
         {
+          "id": "http://whyes.org/2025/btc-idh1-fgfr2-her2",
+          "author": null,
+          "description": "前几天参加了一个学术会议，会中设置了一个投票环节，针对几个问题，收集现场参会医生的看法。其中一个问题是：对于有特点靶点变异的晚期胆道癌（BTC）患者，一线治疗首选靶向治疗还是按照常规使用化疗联合免疫治疗？ 现场收集到的投票结果有些超出我的预...",
+          "link": "http://whyes.org/2025/btc-idh1-fgfr2-her2",
+          "publishedOn": "2025-11-15T10:23:03.000Z",
+          "wordCount": 199,
+          "title": "有靶点变异的晚期胆道癌，一线治疗可以跳过化疗？",
+          "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
+        },
+        {
           "id": "http://whyes.org/2025/cs-1003-305-hcc-lenvatinib",
           "author": null,
           "description": "在 2022 年的 ESMO 年会，LEAP-002 研究公布了研究结果，仑伐替尼联合帕博利珠单抗用于晚期肝癌的一线治疗，与仑伐替尼相比，未能显著改善患者总生存期（OS）和无进展生存期（PFS）。这项研究结果在当时引发了广泛的讨论。在 LE...",
@@ -273,16 +283,6 @@
           "publishedOn": "2025-08-19T15:41:00.000Z",
           "wordCount": null,
           "title": "Classifiers and cosmotechnics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/08/vibe-check-39/",
-          "author": null,
-          "description": "In the middle of the night on the morning of July 4th, a storm parked over the Texas Hill Country and caused the Guadalupe river to rise more than 25 feet in two hours. 135 dead, including dozens of children from summer camps along the river. As a parent, this is the greatest tragedy you could imagine. My heart goes out to the families and friends who lost a little one that week.\nAs a Texan, this is yet another tragedy in a growing list of rare but forecastable tragedies where federal, state, and local officials failed Texans. I’m tired.\nWith that event casting a dark shadow on the summer acknowledged, here’s a recap of the last couple months.\nA trip to the Grand Canyon\nIn late June my family stole away for a quick trip to Arizona. My in-laws bought a vacation place in Flagstaff to escape …",
-          "link": "https://daverupert.com/2025/08/vibe-check-39/",
-          "publishedOn": "2025-08-17T22:32:00.000Z",
-          "wordCount": null,
-          "title": "Vibe Check №39",
           "imageUrl": null
         }
       ]
@@ -848,6 +848,16 @@
       "feedUrl": "https://jimmysong.io/blog/index.xml",
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
+        {
+          "id": "https://jimmysong.io/blog/helm-4-delivery-and-plugin-rebuild/",
+          "author": "Jimmy Song",
+          "description": "解读 Helm 4 的核心变化，包括 Server-Side Apply、WASM 插件系统、kstatus 状态模型、可重现构建与内容哈希缓存，并以时间线回顾 Helm 的历史。",
+          "link": "https://jimmysong.io/blog/helm-4-delivery-and-plugin-rebuild/",
+          "publishedOn": "2025-11-14T11:06:46.000Z",
+          "wordCount": 1108,
+          "title": "Helm v4：交付范式收敛与插件体系重建",
+          "imageUrl": "https://assets.jimmysong.io/images/blog/helm-4-delivery-and-plugin-rebuild/banner.webp"
+        },
         {
           "id": "https://jimmysong.io/blog/kimi-k2-thinking-cn-awakening/",
           "author": "Jimmy Song",
@@ -2858,36 +2868,6 @@
           "wordCount": null,
           "title": "VDRs for Cross-Functional Collaboration Between DevOps, Legal, and Compliance Teams",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=48030",
-          "author": "Collabnix Team",
-          "description": "Master Ollama embedded models for local AI embeddings. Complete technical guide covering implementation, performance optimization, and integration with open-source AI workflows",
-          "link": "https://collabnix.com/ollama-embedded-models-the-complete-technical-guide-to-local-ai-embeddings-in-2025/",
-          "publishedOn": "2025-08-17T09:32:17.000Z",
-          "wordCount": null,
-          "title": "Ollama Embedded Models: The Complete Technical Guide to Local AI Embeddings in 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=48026",
-          "author": "Collabnix Team",
-          "description": "Ollama embedded models represent a paradigm shift in local language model deployment, offering enterprise-grade performance with zero-dependency inference through advanced GGUF quantization and llama.cpp optimization. This comprehensive technical analysis examines the architecture, implementation strategies, and performance characteristics of Ollama's embedded ecosystem.",
-          "link": "https://collabnix.com/ollama-embedded-models-the-complete-technical-guide-for-2025-enterprise-deployment/",
-          "publishedOn": "2025-08-17T09:22:43.000Z",
-          "wordCount": null,
-          "title": "Ollama Embedded Models: The Complete Technical Guide for 2025 Enterprise Deployment",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=48022",
-          "author": "Tanvir Kour",
-          "description": "6-video-tips-for-kubernetes-and-docker-tutorials",
-          "link": "https://collabnix.com/6-video-tips-for-kubernetes-and-docker-tutorials/",
-          "publishedOn": "2025-08-17T09:11:26.000Z",
-          "wordCount": null,
-          "title": "6 Video Tips for Kubernetes and Docker Tutorials",
-          "imageUrl": null
         }
       ]
     },
@@ -3214,6 +3194,21 @@
       "feedUrl": "https://bluehe.cn/rss.xml",
       "siteUrl": "https://bluehe.cn/",
       "articles": [
+        {
+          "id": "https://bluehe.cn/archives/nanning-shishan-horizontal",
+          "author": "寻鹤",
+          "description": "2025年10月18日，作为城市漫步者的一天，我来到南宁狮山公园，这也是我们小学的必选郊游地点。为什么说必选？因为其他的公园很远，烧烤也没有场地，而狮山公园正好满足条件，次次都来这儿烧烤。\n我在敲着这篇文章的时候，还问起了母亲，母亲印象深刻：“你当时带回来的烧烤nongnong的（糊了）”。因为我当时不会烧烤，而且火很大，烧着烤着就糊了，当时被嘲笑了一番。\n\n腾讯地图上显示是南宁兴宁区公园人气榜第...",
+          "link": "https://bluehe.cn/archives/nanning-shishan-horizontal",
+          "publishedOn": "2025-11-15T13:37:00.000Z",
+          "wordCount": 581,
+          "title": "南宁视角：横着读懂狮山",
+          "enclosure": {
+            "url": "https://bluehe.cn/usr/uploads/2025/11/img_20251026_144414224.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bluehe.cn/usr/uploads/2025/11/img_20251026_144414224.webp"
+        },
         {
           "id": "https://bluehe.cn/archives/shishan-vertical",
           "author": "寻鹤",
