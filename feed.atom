@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-11-17T00:10:07.501Z</updated>
+    <updated>2025-11-17T23:11:30.778Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What is Kagent and Why Should DevOps Engineers Care?]]></title>
+        <id>https://collabnix.com/?p=60759</id>
+        <link href="https://collabnix.com/what-is-kagent-and-why-should-devops-engineers-care/"/>
+        <updated>2025-11-17T19:32:53.000Z</updated>
+        <summary type="html"><![CDATA[In the rapidly evolving landscape of cloud-native infrastructure, Kagent emerges as the first open-source agentic AI framework purpose-built for Kubernetes environments. Developed by Solo.io and contributed to the Cloud Native Computing Foundation (CNCF), Kagent represents a paradigm shift from traditional automation to autonomous, reasoning-capable systems that can independently diagnose, troubleshoot, and resolve complex operational challenges […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lazy Docker Is the Easiest Way to Manage Home Lab Containers From Your Terminal]]></title>
+        <id>https://www.virtualizationhowto.com/?p=306701</id>
+        <link href="https://www.virtualizationhowto.com/2025/11/lazy-docker-is-the-easiest-way-to-manage-home-lab-containers-from-your-terminal/"/>
+        <updated>2025-11-17T13:12:18.000Z</updated>
+        <summary type="html"><![CDATA[When you start out in the home lab managing containers, this always starts out fairly simple when you have one or two containers. You might even introduce a reverse proxy…
+The post Lazy Docker Is the Easiest Way to Manage Home Lab Containers From Your Terminal appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[云原生的下半场：AI Native 平台工程时代已经到来]]></title>
+        <id>https://jimmysong.io/blog/cloud-native-second-half-ai-native-platform-engineering/</id>
+        <link href="https://jimmysong.io/blog/cloud-native-second-half-ai-native-platform-engineering/"/>
+        <updated>2025-11-17T11:07:40.000Z</updated>
+        <summary type="html"><![CDATA[回顾云原生十年演进，展望 AI Native 平台工程的技术分层与关键变革，解析 KubeCon NA 2025 行业信号。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NotebookLM：我目前最常用、也最愿意推荐的 AI 学习与内容组织工具]]></title>
+        <id>https://jimmysong.io/blog/notebooklm-learning-and-knowledge-organization/</id>
+        <link href="https://jimmysong.io/blog/notebooklm-learning-and-knowledge-organization/"/>
+        <updated>2025-11-17T08:44:45.000Z</updated>
+        <summary type="html"><![CDATA[基于我持续数月的深度使用体验，分析 NotebookLM 如何帮助我更高效地学习新技术、阅读庞杂文档、生成教学大纲，并给出未来期待的改进方向。]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When to Switch from Serverless Architecture to Kubernetes]]></title>
+        <id>https://collabnix.com/?p=60725</id>
+        <link href="https://collabnix.com/when-should-you-switch-from-serverless-to-kubernetes-a-practical-guide/"/>
+        <updated>2025-11-17T04:18:14.000Z</updated>
+        <summary type="html"><![CDATA[Understanding Serverless Architecture and Its Limits The Serverless vs Kubernetes debate isn’t about which technology is superior—it’s about finding the right tool for your specific problem. As applications mature and scale, many teams face a critical question: when does it make sense to migrate from serverless functions to a Kubernetes-based architecture? Let’s cut through the […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[无Docker环境进行容器镜像操作]]></title>
         <id>https://zahui.fan/posts/t5tiax/</id>
@@ -18,6 +69,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Running AI Workloads on Kubernetes in 2025]]></title>
+        <id>https://collabnix.com/?p=60658</id>
+        <link href="https://collabnix.com/running-ai-workloads-on-kubernetes-in-2025/"/>
+        <updated>2025-11-16T10:05:13.000Z</updated>
+        <summary type="html"><![CDATA[Optimizing AI Workloads on Kubernetes in 2025 If you’ve been keeping an eye on the cloud-native world, you’ve probably noticed how AI is shaking things up big time. As we roll into late 2025, one of the hottest trends in Kubernetes is its tight integration with AI workloads. We’re talking about everything from training massive […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[湘湖花海、遇见答案咖啡馆]]></title>
         <id>https://www.skyue.com/25111616.html</id>
         <link href="https://www.skyue.com/25111616.html"/>
@@ -25,6 +86,36 @@
         <summary type="html"><![CDATA[周末天气很好，继续探索杭州。昨天和朋友一起到湘湖花海，今天下午到遇见答案咖啡馆，此刻就在咖啡馆更新这篇文章。]]></summary>
         <author>
             <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Much Power Does a USB-C Portable Monitor Actually Consume?]]></title>
+        <id>https://collabnix.com/?p=60614</id>
+        <link href="https://collabnix.com/how-much-power-does-a-usb-c-portable-monitor-actually-consume/"/>
+        <updated>2025-11-16T06:51:50.000Z</updated>
+        <summary type="html"><![CDATA[Today, efficiency and portability are inextricably linked. No matter if you’re a scholar or gamer, or online nomad, the use of a portable monitor makes multitasking simpler and efficient. The sleek and lightweight monitors are compatible with tablets, laptops, or even phones, often via one USB-C cable. One question that many people ignore is what […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hands-On Kubeflow Tutorial: Deploy Your First ML Pipeline on Kubernetes]]></title>
+        <id>https://collabnix.com/?p=60618</id>
+        <link href="https://collabnix.com/hands-on-kubeflow-tutorial-deploy-your-first-ml-pipeline-on-kubernetes/"/>
+        <updated>2025-11-16T06:50:53.000Z</updated>
+        <summary type="html"><![CDATA[Comprehensive Kubeflow Tutorial for ML Pipelines Kubeflow is no longer “nice-to-have” — it’s the MLOps engine powering 90% of production AI on Kubernetes. But most tutorials stop at “Hello World.”We don’t. In 45 minutes, you’ll: Step 1: Set Up Local Kubernetes + Kubeflow Verify: Access UI at http://localhost:8080 via port-forward: Step 2: Write the ML […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Energy Management Software Development Costs Explained for Enterprises]]></title>
+        <id>https://collabnix.com/?p=60609</id>
+        <link href="https://collabnix.com/energy-management-software-development-costs-explained-for-enterprises/"/>
+        <updated>2025-11-16T06:09:31.000Z</updated>
+        <summary type="html"><![CDATA[Energy costs are like a Netflix subscription, but without the “cancel” button: they’re just always there, and the bigger the business, the more expensive the plan. In recent years, electricity prices have been rising faster than inflation, and geopolitical instability has only intensified this trend. For enterprises, this is one of the most serious items […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
         </author>
     </entry>
     <entry>
@@ -4955,26 +5046,6 @@ YouTube queues only exist in memory in the tab context, it’s not a cross-tab f
         <summary type="html"><![CDATA[AI Agent 自动化工作流让科技图书翻译效率提升十倍，详细介绍从人工到 AI 的转变、工作流设计与效率对比。]]></summary>
         <author>
             <name>Jimmy Song</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用这个提示词，教会AI理解你的整个项目]]></title>
-        <id>https://panzhixiang.cn/2025/a-prompt-help-ai-understanding-your-code/</id>
-        <link href="https://panzhixiang.cn/2025/a-prompt-help-ai-understanding-your-code/"/>
-        <updated>2025-08-19T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI 编程助手总是在你的大项目里“重复造轮子”？核心原因是它缺少全局上下文。我分享一个用了很久的 Prompt，能让 AI 自己为代码库生成一份 README “说明书”，辅助解决“失忆”问题。告别无效沟通，让你的 AI 变成真正懂项目的队友。]]></summary>
-        <author>
-            <name>潘智祥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Classifiers and cosmotechnics]]></title>
-        <id>https://daverupert.com/2025/08/classifiers-and-cosmotechnics/</id>
-        <link href="https://daverupert.com/2025/08/classifiers-and-cosmotechnics/"/>
-        <updated>2025-08-19T15:41:00.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been playing around with Midjourney for work and the one thing that makes Stable Diffusion cool and useful to me is the --sref flag to summon results in a specific visual style or “style reference” (e.g. Celestial Swirlscape is --sref 2566192150). They differ a bit from traditional or “artist” styles (e.g. “In the style of Picasso” or “Rip off Studio Ghibli”) but can be that or they can be more generic or compositional like “Pink Retronetic Dreamscape”. I’ve read a deep-dive on SREF codes and it’s still a bit unclear how they work to me. They’re like a hybrid between prompt shorthand and style classification. Curated and collected by humans, but a code generated by machines. I have to imagine there’s some clumped circles on a node graph chart somewhere that determine this… but I don’t…]]></summary>
-        <author>
-            <name>daverupert.com</name>
         </author>
     </entry>
     <entry>
