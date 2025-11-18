@@ -4387,6 +4387,113 @@
       "feedUrl": "http://zkeeer.space/?feed=rss2",
       "siteUrl": "http://zkeeer.space",
       "articles": []
+    },
+    {
+      "title": "李锋镝的博客",
+      "feedUrl": "https://www.lifengdi.com/feed",
+      "siteUrl": "https://www.lifengdi.com",
+      "articles": [
+        {
+          "id": "https://www.lifengdi.com/?p=4582",
+          "author": "李锋镝",
+          "description": "在 AI 智能体开发中，工具调用的标准化是提升效率的关键。MCP（Model Context Protocol，模型上下文协议）作为连接大模型与外部工具的通用标准，让开发者能快速构建可复用、跨平台的 AI 工具。本文将从协议原理、环境搭建、工具开发、调试部署到生态扩展，全方位拆解 MCP 的开发流程，补充详细的技术细节 […]",
+          "link": "https://www.lifengdi.com/ren-gong-zhi-neng/4582",
+          "publishedOn": "2025-11-18T07:08:49.000Z",
+          "wordCount": 1511,
+          "title": "从零开发 MCP 协议工具：从原理到实战的完整指南（Python 版）",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4581",
+          "author": "李锋镝",
+          "description": "一、学习前的核心认知：工程师学 AI 的优势与避坑原则 1. 工程师的天然优势 我们不用像算法研究员那样深耕数学和底层原理，核心优势在于： 熟悉“调用接口、使用框架”的开发模式（AI 应用开发本质是“大模型 API + 业务逻辑”）； 具备项目拆解和落地能力（能把 AI 功能转化为用户可用的产品）； 懂工程化实践（部署 […]",
+          "link": "https://www.lifengdi.com/ren-gong-zhi-neng/4581",
+          "publishedOn": "2025-11-18T02:17:15.000Z",
+          "wordCount": 1021,
+          "title": "工程师专属 AI 自学路线：从入门到实战，避开90%的坑（2025 最新版）",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4580",
+          "author": "李锋镝",
+          "description": "在信息爆炸的时代，我们积累了大量工作文档、学习笔记、行业资料，但传统检索方式效率低下，且公共AI工具存在隐私泄露风险。而私有化AI知识库能完美解决这些痛点——它将你的专属数据存储在本地，通过强大的大模型实现自然语言问答，既安全私密，又能快速精准提取信息。 本文将以“DeepSeek（中文优势模型）+ Ollama（模型 […]",
+          "link": "https://www.lifengdi.com/ren-gong-zhi-neng/4580",
+          "publishedOn": "2025-11-17T05:53:12.000Z",
+          "wordCount": 825,
+          "title": "1小时搭建私有化AI知识库：DeepSeek + Ollama + AnythingLLM 实战指南（从部署到优化）",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4579",
+          "author": "李锋镝",
+          "description": "PostgreSQL简介 PostgreSQL 是一款开源企业级关系型数据库，核心定位是“功能全面、稳定可靠、高度可扩展”，兼具开源自由与商业数据库的企业级能力，被广泛用于金融、电商、政务等核心业务场景。以下从核心维度深度解析： 一、核心定位与发展背景 起源：1986年源于加州大学伯克利分校的 POSTGRES 项目， […]",
+          "link": "https://www.lifengdi.com/zhong-jian-jian/4579",
+          "publishedOn": "2025-11-17T02:19:32.000Z",
+          "wordCount": 908,
+          "title": "深入了解PostgreSQL",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4578",
+          "author": "李锋镝",
+          "description": "在 Web 开发中，身份认证与状态管理是核心基础功能——用户登录、权限校验、会话保持等场景都离不开它们。JWT、Cookie、Session、Token 作为常用技术，常常被混淆使用。本文将从技术原理、核心特性、安全机制、实战场景四个维度，全面拆解四者的差异与关联，补充底层实现细节、安全优化方案和选型决策框架，帮你在面 […]",
+          "link": "https://www.lifengdi.com/hou-duan/4578",
+          "publishedOn": "2025-11-14T06:46:21.000Z",
+          "wordCount": 1287,
+          "title": "JWT、Cookie、Session、Token 区别与实战选型指南",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4576",
+          "author": "李锋镝",
+          "description": "当大语言模型（LLM）的浪潮从云端席卷而来时，一个矛盾逐渐凸显：一方面，企业和个人对AI的需求从通用对话转向隐私敏感的场景（如医疗数据处理、内部文档分析）；另一方面，云端大模型的使用成本、数据泄露风险和网络依赖，成为不可忽视的门槛。 在这样的背景下，Ollama——这款开源跨平台的本地大模型运行框架，正以「让大模型走进 […]",
+          "link": "https://www.lifengdi.com/ren-gong-zhi-neng/4576",
+          "publishedOn": "2025-11-14T01:36:43.000Z",
+          "wordCount": 728,
+          "title": "Ollama：重新定义本地大模型运行的开源革命",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4575",
+          "author": "李锋镝",
+          "description": "在 AI 编程工具（Trae、Cursor、GitHub Copilot）普及的今天，“写代码”已不再是开发者的核心瓶颈——AI 能在几秒内生成千行代码，但往往因为“不懂需求、缺乏上下文”，产出的代码需要大量修改才能使用。 真正决定协作效率的，是“能否让 AI 精准理解你的意图”。而高质量的文档，正是构建清晰上下文、打 […]",
+          "link": "https://www.lifengdi.com/ren-gong-zhi-neng/4575",
+          "publishedOn": "2025-11-13T08:10:49.000Z",
+          "wordCount": 1219,
+          "title": "AI 协作新范式：以文档为中心的开发实践指南",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4574",
+          "author": "李锋镝",
+          "description": "在智能体（Agent）开发中，工具调用的标准化是提升开发效率、降低生态碎片化的关键。模型上下文协议（Model Context Protocol, MCP）作为连接大语言模型与外部工具的通用标准，完美解决了不同工具接入方式各异、跨平台复用困难的痛点。而 LangChain 1.0 通过 langchain-mcp-ad […]",
+          "link": "https://www.lifengdi.com/ren-gong-zhi-neng/4574",
+          "publishedOn": "2025-11-13T02:17:00.000Z",
+          "wordCount": 1625,
+          "title": "LangChain 1.0 智能体实战：MCP 协议赋能工具标准化调用（从开发到落地）",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4573",
+          "author": "李锋镝",
+          "description": "在大模型应用落地过程中，算力成本往往成为中小企业和个人开发者的核心痛点——传统云服务商单卡4090每小时费用高达数十元，自建GPU集群又面临高额前期投入。而共绩算力平台通过整合全国闲置算力资源，将4090单卡算力价格压至1.68元/小时，为大模型部署提供了高性价比选择。 本文将以通义千问2.5-7B-Instruct模 […]",
+          "link": "https://www.lifengdi.com/ren-gong-zhi-neng/4573",
+          "publishedOn": "2025-11-12T09:56:30.000Z",
+          "wordCount": 1110,
+          "title": "高性价比大模型部署实战：共绩算力 + QWEN-2.5-7B 从入门到生产全指南",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4572",
+          "author": "李锋镝",
+          "description": "在智能体（Agent）的能力进化中，记忆系统是决定其“自进化”能力的核心——它需要像人类一样，在推理过程中动态调用、重构记忆，而非机械存储或检索。当前主流的参数化记忆易导致灾难性遗忘，基于检索的记忆又缺乏动态交互特性，而 MemGen 提出的“生成式隐式记忆”框架，恰好开辟了第三种路径。 本文将从技术背景、核心架构、源 […]",
+          "link": "https://www.lifengdi.com/ren-gong-zhi-neng/4572",
+          "publishedOn": "2025-11-12T02:18:46.000Z",
+          "wordCount": 1220,
+          "title": "深度拆解 MemGen：Agent 生成式隐式记忆框架的原理、源码与实战",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
