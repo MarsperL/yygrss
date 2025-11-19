@@ -839,6 +839,16 @@
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
         {
+          "id": "https://jimmysong.io/blog/cloudflare-2025-11-18-outage-analysis/",
+          "author": "Jimmy Song",
+          "description": "分析 Cloudflare 2025 年 11 月 18 日全网故障，探讨隐性假设、自动化配置链路与现代基础设施的系统性风险。",
+          "link": "https://jimmysong.io/blog/cloudflare-2025-11-18-outage-analysis/",
+          "publishedOn": "2025-11-19T10:56:34.000Z",
+          "wordCount": 945,
+          "title": "Cloudflare 11·18 全网故障：隐性假设如何摧毁现代互联网基础设施",
+          "imageUrl": "https://assets.jimmysong.io/images/blog/cloudflare-2025-11-18-outage-analysis/banner.webp"
+        },
+        {
           "id": "https://jimmysong.io/blog/cloud-native-second-half-ai-native-platform-engineering/",
           "author": "Jimmy Song",
           "description": "回顾云原生十年演进，展望 AI Native 平台工程的技术分层与关键变革，解析 KubeCon NA 2025 行业信号。",
@@ -1287,26 +1297,6 @@
           "wordCount": null,
           "title": "使用 VS Code 与 GitHub Copilot 高效 Vibe Coding 指南",
           "imageUrl": null
-        },
-        {
-          "id": "https://jimmysong.io/blog/qoder-alibaba-ai-ide-personal-review/",
-          "author": "Jimmy Song",
-          "description": "从个人视角深度体验阿里巴巴最新推出的 Qoder AI IDE，探索 Agentic Coding 平台的革命性功能与发展前景。",
-          "link": "https://jimmysong.io/blog/qoder-alibaba-ai-ide-personal-review/",
-          "publishedOn": "2025-08-22T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Qoder：阿里巴巴推出的 AI IDE，全方位了解其能力与未来",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jimmysong.io/blog/ai-native-software-delivery/",
-          "author": "Jimmy Song",
-          "description": "本文介绍我最近使用 AI 翻译的新书《AI 原生软件交付》，分享书中的核心观点与个人感受。",
-          "link": "https://jimmysong.io/blog/ai-native-software-delivery/",
-          "publishedOn": "2025-08-21T15:00:00.000Z",
-          "wordCount": null,
-          "title": "《AI 原生软件交付》读书笔记：用 AI 翻译的新书分享",
-          "imageUrl": null
         }
       ]
     },
@@ -1452,6 +1442,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=306693",
+          "author": "Brandon Lee",
+          "description": "I have been on a kick lately of trying out various Linux distros. The Linux distro ecosystem has had some really great introductions over the past couple of years. Just…\nThe post Cachy Linux is the Fast New Linux Distro Your Home Lab Will Love appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/11/cachy-linux-is-the-fast-new-linux-distro-your-home-lab-will-love/",
+          "publishedOn": "2025-11-19T13:36:33.000Z",
+          "wordCount": 10033,
+          "title": "Cachy Linux is the Fast New Linux Distro Your Home Lab Will Love",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/cachyos.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=306757",
           "author": "Brandon Lee",
@@ -1759,6 +1759,36 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=60902",
+          "author": "Collabnix Team",
+          "description": "Discover Google Gemini 3 - the most intelligent AI model with state-of-the-art reasoning, generative UI, and agentic capabilities. Complete guide with Python, Node.js, and Docker examples.",
+          "link": "https://collabnix.com/google-gemini-3-complete-developer-guide-with-code-examples/",
+          "publishedOn": "2025-11-19T12:20:19.000Z",
+          "wordCount": 10811,
+          "title": "Google Gemini 3: Complete Developer Guide with Code Examples",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=60896",
+          "author": "Tanvir Kour",
+          "description": "The software development landscape is experiencing a seismic shift. Within the last 24 hours, Google dropped what might be their most significant developer tool since Firebase or Google Cloud Platform: Google Antigravity, an agentic development platform powered by their newly released Gemini 3 model. As someone who’s spent years in the DevOps trenches and watched […]",
+          "link": "https://collabnix.com/first-impressions-google-antigravity-the-search-giant-enters-the-agentic-ide-arena/",
+          "publishedOn": "2025-11-19T12:03:21.000Z",
+          "wordCount": null,
+          "title": "First Impressions: Google Antigravity – The Search Giant Enters the Agentic IDE Arena",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=60888",
+          "author": "Collabnix Team",
+          "description": "Maximize Efficiency with ChatGPT Everyday Tasks Introduction: Why ChatGPT is Transforming Daily Workflows With over 326 million global searches, ChatGPT has become the go-to AI assistant for millions of users worldwide. Whether you’re a developer, content creator, business professional, or student, ChatGPT can automate repetitive tasks, boost creativity, and save hours of manual work. In […]",
+          "link": "https://collabnix.com/how-to-use-chatgpt-for-everyday-tasks-a-complete-guide-with-code-examples/",
+          "publishedOn": "2025-11-19T08:20:17.000Z",
+          "wordCount": null,
+          "title": "ChatGPT for Everyday Tasks: A Complete Guide",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=60759",
           "author": "Collabnix Team",
@@ -2938,16 +2968,6 @@
           "wordCount": null,
           "title": "Top Kubernetes Tools for DevOps in 2025",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=49182",
-          "author": "Collabnix Team",
-          "description": "When technical delivery, contracts, and regulations collide, the smallest misstep can slow a whole program. An online data room, or virtual data room(VDR), fixes the usual chaos by giving DevOps, legal, and compliance teams a secure place to work from the same documents, with the same context, and under the same controls. Cross-functional work rarely […]",
-          "link": "https://collabnix.com/vdrs-for-cross-functional-collaboration-between-devops-legal-and-compliance-teams/",
-          "publishedOn": "2025-08-21T11:35:08.000Z",
-          "wordCount": null,
-          "title": "VDRs for Cross-Functional Collaboration Between DevOps, Legal, and Compliance Teams",
-          "imageUrl": null
         }
       ]
     },
@@ -3127,6 +3147,16 @@
       "feedUrl": "https://www.skyue.com/feed/",
       "siteUrl": "https://www.skyue.com/",
       "articles": [
+        {
+          "id": "https://www.skyue.com/25111921.html",
+          "author": "拾月",
+          "description": "上上周末拍了孕妇照，今天收到精修图，好看！",
+          "link": "https://www.skyue.com/25111921.html",
+          "publishedOn": "2025-11-19T13:56:00.000Z",
+          "wordCount": 532,
+          "title": "孕妇照",
+          "imageUrl": ""
+        },
         {
           "id": "https://www.skyue.com/25111616.html",
           "author": "拾月",
