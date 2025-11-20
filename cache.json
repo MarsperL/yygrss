@@ -254,16 +254,6 @@
           "wordCount": null,
           "title": "Git diagramming \"The Weave\"",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/08/limiting-youtube-to-a-single-tab/",
-          "author": null,
-          "description": "This week I decided to go nuclear on my bad YouTube habit. I installed a plugin called Tab Limiter that lets me limit youtube.com to one tab at a time. Clicking links that open in new tabs will now auto-close the tab.\nWhy do this? I talked about it before but when I’m bored I open tabs. Adding friction here prevents me from CMD+clicking videos during moments of boredom and creating a month’s-worth unclose-able tabs of videos to watch. It encourages me to stay focused and nudges me towards YouTube’s lossy1 “Add to queue” feature to queue up one video at a time in a single tab. I sort of prefer this way of using YouTube and it makes it feel a lot more like a native app.\nThat inspired me to install the YouTube Progressive Web App and because the PWA is basically a dedicated tab, Tab Limiter keeps me from opening other videos in new tabs. I’m now funneled into the application.\nOpening a dropdown and clicking “Add to queue” is adding more “good friction” to the process. It also comes with a counter. 20 tabs open, no big deal, I’m immune to that effect. 20 items in a queue. Yeesh. That’s a todo list.\nTab Limiter has a brutalist UI and that’s what makes it perfect. It’s also open sourced on GitHub which is important to me so I can make sure it’s not sending my browsing history to China. And I can fork it. One improvement I’m considering is to add the closed video’s ID to the YouTube queue before closing the tab. It seems easy enough, but probably not as easy as I’m hoping. The core idea there is that it might be helpful if I come across an urgent watch-now link or someone sends me a link.\nI’m also still using Raycast Focus which is a great way to blockout time and stop distractions at the source.\n\n\n\n\nYouTube queues only exist in memory in the tab context, it’s not a cross-tab feature so if you close a tab and started a new one, the entire old queue got erased forever. ↩",
-          "link": "https://daverupert.com/2025/08/limiting-youtube-to-a-single-tab/",
-          "publishedOn": "2025-08-22T13:59:00.000Z",
-          "wordCount": null,
-          "title": "Limiting YouTube to a Single Tab",
-          "imageUrl": null
         }
       ]
     },
@@ -828,6 +818,16 @@
       "feedUrl": "https://jimmysong.io/blog/index.xml",
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
+        {
+          "id": "https://jimmysong.io/blog/antigravity-vscode-style-ide/",
+          "author": "Jimmy Song",
+          "description": "介绍如何通过配置扩展市场、安装 AMP 和 CodeX 插件，以及调整编辑器设置，将 Antigravity 打造为符合 VS Code 使用习惯的 AI IDE。",
+          "link": "https://jimmysong.io/blog/antigravity-vscode-style-ide/",
+          "publishedOn": "2025-11-20T03:55:34.000Z",
+          "wordCount": 1175,
+          "title": "把 Antigravity 用成一个更像 VS Code 的 AI IDE",
+          "imageUrl": "https://assets.jimmysong.io/images/blog/antigravity-vscode-style-ide/banner.webp"
+        },
         {
           "id": "https://jimmysong.io/blog/cloudflare-2025-11-18-outage-analysis/",
           "author": "Jimmy Song",
@@ -1433,6 +1433,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=306873",
+          "author": "Brandon Lee",
+          "description": "Here we are late in 2025, with the news that Proxmox VE 9.1 has been released as news from the Proxmox official blog has announced. This release has a lot…\nThe post Proxmox VE 9.1 Launches with OCI Image Support, vTPM Snapshots, and Big SDN Upgrades appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/11/proxmox-ve-9-1-launches-with-oci-image-support-vtpm-snapshots-and-big-sdn-upgrades/",
+          "publishedOn": "2025-11-20T13:11:40.000Z",
+          "wordCount": 11195,
+          "title": "Proxmox VE 9.1 Launches with OCI Image Support, vTPM Snapshots, and Big SDN Upgrades",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/Proxmox-VE-9.1-Released.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=306693",
           "author": "Brandon Lee",
           "description": "I have been on a kick lately of trying out various Linux distros. The Linux distro ecosystem has had some really great introductions over the past couple of years. Just…\nThe post Cachy Linux is the Fast New Linux Distro Your Home Lab Will Love appeared first on Virtualization Howto.",
@@ -1749,6 +1759,36 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=60988",
+          "author": "Collabnix Team",
+          "description": "Discover how AI transforms CI/CD pipelines with predictive testing, intelligent deployments, and self-optimizing automation to boost DevOps efficiency and reliability.",
+          "link": "https://collabnix.com/ai-in-ci-cd-pipelines-automating-testing-and-deployment-with-machine-learning/",
+          "publishedOn": "2025-11-20T09:15:56.000Z",
+          "wordCount": 6590,
+          "title": "AI in CI/CD Pipelines: Automating Testing and Deployment with Machine Learning",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=60978",
+          "author": "Tanvir Kour",
+          "description": "Engineering groups today encounter a distinct obstacle: they’re concurrently constructing technology and determining how to operate with swiftly developing instruments. While organizations sprint to embrace fresh solutions, the reality for developers is considerably messier. Achievement isn’t about selecting the most attractive instruments; it’s about grasping how technology modifies the manner individuals genuinely operate. Numerous organizations […]",
+          "link": "https://collabnix.com/transforming-employee-experience-with-ai-digital-transformation-what-engineering-teams-need-to-know/",
+          "publishedOn": "2025-11-20T05:40:59.000Z",
+          "wordCount": null,
+          "title": "Transforming Employee Experience with AI Digital Transformation: What Engineering Teams Need to Know",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=60967",
+          "author": "Collabnix Team",
+          "description": "As devs, we typically think about other people’s data – processing it, encrypting it, validating it. But what about our own data, our own privacy? We talk about privacy by design all the time, but the truth is that many developers still don’t apply those same principles in either their work or personal digital lives. […]",
+          "link": "https://collabnix.com/the-developers-guide-to-online-privacy-without-going-off-the-grid/",
+          "publishedOn": "2025-11-20T03:28:28.000Z",
+          "wordCount": null,
+          "title": "The Developer’s Guide to Online Privacy (Without Going Off the Grid)",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=60902",
           "author": "Collabnix Team",
@@ -3737,16 +3777,6 @@
           "publishedOn": "2025-08-28T16:00:00.000Z",
           "wordCount": null,
           "title": "合肥游记「多图预警」",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dusays.com/823/",
-          "author": null,
-          "description": "<blockquote>\n<p>当今数字化浪潮中，人工智能正以前所未有的速度改变着我们的工作和生活方式。字节跳动于 2025 年 4 月 19 日推出的通用型 AI Agent 平台，无疑是这一变革中一颗璀璨新星，为我们带来了全新的 AI 协作办公体验。</p>\n</blockquote>",
-          "link": "https://dusays.com/823/",
-          "publishedOn": "2025-08-22T16:00:00.000Z",
-          "wordCount": null,
-          "title": "探索扣子空间「邀请码不限量分享」",
           "imageUrl": null
         }
       ]
