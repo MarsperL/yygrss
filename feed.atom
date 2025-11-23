@@ -2,10 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-11-22T22:12:15.038Z</updated>
+    <updated>2025-11-23T22:12:36.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Grid Paper]]></title>
+        <id>https://daverupert.com/2025/11/grid-paper/</id>
+        <link href="https://daverupert.com/2025/11/grid-paper/"/>
+        <updated>2025-11-23T18:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Try Grid Paper
+I’ve been getting into drawing dungeons on isomorphic grids. It’s fun but I was a little frustrated with the process of sourcing and printing out graph paper with an isomorphic grid on it. You have two bad options, basically:
+Download a low-res JPG you found on Google Image search where the grid sizes are wonky and it has a giant URL on it. I needed something clean and simple.
+Buy grid paper on Amazon in bulk. Now I’m thinking about centimeters vs. inches, cost, color, paper size, style, and quantity before I draw a single dungeon. I needed something ad hoc and with less commitment.
+After 15 minutes of getting frustrated I said “I can build this.” And so I did using HTML, CSS, and the tiniest bit of JavaScript. And because it’s a webpage… why limit myself to one kind of grid? I’m able to support ~7 grids types using different kinds of background gradients:
+Grids
+Dot Grids
+Isomorphic Grids
+Isomorphic Dot Grids
+Dual Hex Grids
+Perspective Grids
+Two-Point Perspective Grids
+Feeling good about this little tool. The quality can be a bit blurry but background gradients and printers are weird. It’d be nice to make it crisper and I might put some effort at the task (use SVG patterns?)… but at less than 5kb and a couple of nights worth of work, I’m happy with the result. It “made the rounds” as they say on the socials and seems to be a common issue other people experience, so I’ll call that a success.]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微言小义（2025.10）]]></title>
+        <id>https://www.skyue.com/25112321.html</id>
+        <link href="https://www.skyue.com/25112321.html"/>
+        <updated>2025-11-23T13:50:00.000Z</updated>
+        <summary type="html"><![CDATA[我曾经使用微言小义系列备份散落在朋友圈、微博和X等平台上的碎片内容，最早写于2016年4月，最后更新于2022年1月。后来写周刊，将碎片内容放在周刊中，但最近我把周刊停更了，那便恢复微言小义系列...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubecost 3.0 is Here: A Major Architectural Shift for Kubernetes Cost Management]]></title>
+        <id>https://collabnix.com/?p=61165</id>
+        <link href="https://collabnix.com/kubecost-3-0-is-here-a-major-architectural-shift-for-kubernetes-cost-management/"/>
+        <updated>2025-11-23T07:22:07.000Z</updated>
+        <summary type="html"><![CDATA[KubeCost 3.0: Transforming Kubernetes Cost Management Kubernetes cost management just got a serious upgrade. The Kubecost Helm Chart repository, which provides the templates for developing this enterprise-grade application to monitor and manage Kubernetes spend, has released version 3.0, introducing fundamental changes aimed at improving performance, granularity, and efficiency. If you are currently running Kubecost 2.x, […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一条盘山路：把呼吸调成“大明山模式”]]></title>
+        <id>https://bluehe.cn/archives/damingshan-mode</id>
+        <link href="https://bluehe.cn/archives/damingshan-mode"/>
+        <updated>2025-11-23T06:12:00.000Z</updated>
+        <summary type="html"><![CDATA[这里的“大明山模式”源于在半山坡停靠在一侧的草堆旁，下车时随着风的飘然，我能清晰的闻到草的清甜味，我不断的说，这里草的味道好浓郁，总而言之：呼吸在自然里，这就是“大明山模式”。
+2025年11月16日星期天，本该前两周就计划好的行程，终于在今天出发了。早上9点我来到黎同学的家，一起骑着小电驴去取他的车，然后去接他的朋友。开始了自驾路线，我们五人从南宁市区出发，走安吉经都南高速至府城出口下，再转二级...]]></summary>
+        <author>
+            <name>寻鹤</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevSecOps Guide: CI/CD for Secure PDF Microservices]]></title>
+        <id>https://collabnix.com/?p=61140</id>
+        <link href="https://collabnix.com/devsecops-guide-ci-cd-for-secure-pdf-microservices/"/>
+        <updated>2025-11-22T18:59:05.000Z</updated>
+        <summary type="html"><![CDATA[Practical DevSecOps playbook to build, sign, scan, and ship a PDF microservice with SBOMs, provenance, secrets hygiene, and policy gates.]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Quick Play Mobile Games Are Defining Modern Downtime]]></title>
+        <id>https://collabnix.com/?p=61137</id>
+        <link href="https://collabnix.com/why-quick-play-mobile-games-are-defining-modern-downtime/"/>
+        <updated>2025-11-22T18:07:03.000Z</updated>
+        <summary type="html"><![CDATA[There’s a particular kind of pause people reach for today, the kind that fits between meetings or while dinner simmers or when you’re waiting in the school pickup line. Quick play mobile games have slipped into that space with an ease that feels almost obvious now. They’re not asking for hours or emotional investment. They’re […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Skills: Transform Claude from a General-Purpose AI into a Specialized Expert]]></title>
+        <id>https://collabnix.com/?p=61120</id>
+        <link href="https://collabnix.com/claude-skills-transform-claude-from-a-general-purpose-ai-into-a-specialized-expert/"/>
+        <updated>2025-11-22T06:37:50.000Z</updated>
+        <summary type="html"><![CDATA[Unlock Claude's full potential with modular, reusable Skills that extend capabilities across document creation, data analysis, frontend design, and more]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[南宁视角：金茶花低语]]></title>
         <id>https://bluehe.cn/archives/jin-chahua-park</id>
@@ -5062,16 +5145,6 @@ Github issue 作为博客说说发布页面的模板设置问题
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Avoid Breaches With Smarter Email Security Solutions]]></title>
-        <id>https://collabnix.com/?p=50193</id>
-        <link href="https://collabnix.com/avoid-breaches-with-smarter-email-security-solutions/"/>
-        <updated>2025-08-26T10:07:30.000Z</updated>
-        <summary type="html"><![CDATA[Email remains a vital tool in communication, but it also presents significant security challenges. Digital attacks often get in by finding weak spots in email systems. Because so much private information travels through email, strong security programs are crucial to keep it safe. Want to protect your email? This article shares ways to stop cyber […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[维修一个松下智能马桶盖]]></title>
         <id>https://lawtee.com/article/repair-a-panasonic-smart-tolit-seat/</id>
         <link href="https://lawtee.com/article/repair-a-panasonic-smart-tolit-seat/"/>
@@ -5110,56 +5183,6 @@ Github issue 作为博客说说发布页面的模板设置问题
 在整机上电后，末端马达能够…]]></summary>
         <author>
             <name>老T博客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hosting Your Nextjs App using Docker in 5 Minutes]]></title>
-        <id>https://collabnix.com/?p=50129</id>
-        <link href="https://collabnix.com/hosting-your-nextjs-app-using-docker-in-5-minutes/"/>
-        <updated>2025-08-26T02:07:24.000Z</updated>
-        <summary type="html"><![CDATA[This blog was originally posted by the author here Why Use Docker for Your Next.js App ? By containerizing your app, you create a consistent, portable, and reproducible environment that runs the same way on any machine — from your laptop to a production server. How to Dockerize a Next.js App: A Step-by-Step Guide Are […]]]></summary>
-        <author>
-            <name>Umang Saxena</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Resolve an iPhone that Fails to Update to iOS 26]]></title>
-        <id>https://collabnix.com/?p=49917</id>
-        <link href="https://collabnix.com/how-to-resolve-an-iphone-that-fails-to-update-to-ios-26/"/>
-        <updated>2025-08-24T14:40:34.000Z</updated>
-        <summary type="html"><![CDATA[The iOS 26 update adds new features and better performance to iPhone users. Nevertheless, the issue of an unsuccessful update is common, and it may disrupt everyday use and annoy many people. Ignoring it may lead to missed security updates and performance improvements. So, this article explores why the update fails and how to fix […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gemini CLI: The Complete Guide to Google’s Revolutionary AI Command Line Interface (2025)]]></title>
-        <id>https://collabnix.com/?p=49904</id>
-        <link href="https://collabnix.com/gemini-cli-the-complete-guide-to-googles-revolutionary-ai-command-line-interface-2025/"/>
-        <updated>2025-08-24T13:57:43.000Z</updated>
-        <summary type="html"><![CDATA[What is Gemini CLI? Your Terminal’s New AI Superpower Gemini CLI is Google’s groundbreaking open-source AI agent that brings the full power of Gemini AI directly into your terminal. Released in 2025, this revolutionary command-line interface transforms how developers code, debug, and manage projects by providing intelligent assistance through natural language commands. Unlike traditional CLI […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kubernetes and GPU: The Complete Guide to AI/ML Acceleration in 2025]]></title>
-        <id>https://collabnix.com/?p=49899</id>
-        <link href="https://collabnix.com/kubernetes-and-gpu-the-complete-guide-to-ai-ml-acceleration-in-2025/"/>
-        <updated>2025-08-24T13:47:03.000Z</updated>
-        <summary type="html"><![CDATA[As AI and machine learning workloads become increasingly central to modern applications, the need for GPU acceleration in Kubernetes has exploded. Whether you’re training deep learning models, running inference workloads, or processing massive datasets, understanding how to effectively leverage GPUs in Kubernetes is essential for any DevOps engineer or ML practitioner. This comprehensive guide covers […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Kubernetes Tools for DevOps in 2025]]></title>
-        <id>https://collabnix.com/?p=49886</id>
-        <link href="https://collabnix.com/top-20-kubernetes-tools-every-devops-engineer-must-know-in-2025/"/>
-        <updated>2025-08-24T13:25:56.000Z</updated>
-        <summary type="html"><![CDATA[Top Kubernetes Tools for DevOps in 2025 Kubernetes has revolutionized container orchestration, but managing K8s clusters effectively requires the right set of tools. Whether you’re scaling microservices, implementing GitOps, or securing containerized workloads, having the essential Kubernetes tools in your DevOps arsenal can make the difference between smooth operations and constant troubleshooting. In this comprehensive […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
         </author>
     </entry>
     <entry>
