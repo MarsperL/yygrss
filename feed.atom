@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-11-24T22:11:59.999Z</updated>
+    <updated>2025-11-25T22:13:16.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[IncusOS Is the New Minimal Hypervisor OS Changing Home Labs in 2025]]></title>
+        <id>https://www.virtualizationhowto.com/?p=306960</id>
+        <link href="https://www.virtualizationhowto.com/2025/11/incusos-is-the-new-minimal-hypervisor-os-changing-home-labs-in-2025/"/>
+        <updated>2025-11-25T13:40:37.000Z</updated>
+        <summary type="html"><![CDATA[Many in the home lab these days are running Proxmox, XCP-ng, or “maybe” back to the now free “again” VMware ESXi. However, another really cool hypervisor that you may not…
+The post IncusOS Is the New Minimal Hypervisor OS Changing Home Labs in 2025 appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are Pods in Kubernetes? A Complete Guide with Examples]]></title>
+        <id>https://collabnix.com/?p=61239</id>
+        <link href="https://collabnix.com/what-are-pods-in-kubernetes-a-complete-guide-with-examples/"/>
+        <updated>2025-11-25T04:22:47.000Z</updated>
+        <summary type="html"><![CDATA[Kubernetes has become the de facto standard for container orchestration, and at its core lies a fundamental building block: the Pod. Whether you’re just getting started with Kubernetes or looking to deepen your understanding, mastering Pods is essential for deploying and managing containerized applications effectively. In this comprehensive guide, we’ll explore what Pods are, how […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[周末苏州行]]></title>
         <id>https://www.skyue.com/25112421.html</id>
@@ -609,6 +630,16 @@ The post 10 Best Terminal Tools for Home Labs in 2025 appeared first on Virtuali
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TRAE SOLO vs VS Code: Rethinking Coding Tools from the Perspective of AI Engineering Entities]]></title>
+        <id>https://jimmysong.io/blog/trae-vs-vscode-insiders-agent-hq-and-ai-engineering-entity/</id>
+        <link href="https://jimmysong.io/blog/trae-vs-vscode-insiders-agent-hq-and-ai-engineering-entity/"/>
+        <updated>2025-11-14T07:14:39.000Z</updated>
+        <summary type="html"><![CDATA[A comparison of TRAE SOLO and VS Code (Copilot, Agent HQ) via the AI Engineering Entity framework, focusing on automation, collaboration, model transparency, and engineering roles.]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TRAE SOLO vs VS Code：从“AI 工程实体”视角重新审视编程工具]]></title>
         <id>https://jimmysong.io/blog/trae-vs-vscode--agent-hq-and-ai-engineering-entity/</id>
         <link href="https://jimmysong.io/blog/trae-vs-vscode--agent-hq-and-ai-engineering-entity/"/>
@@ -1122,6 +1153,16 @@ The post 15 Docker Containers That Make Your Home Lab Instantly Better appeared 
         <summary type="html"><![CDATA[Learn to build autonomous AI agents with Claude API. Includes Python code, Docker deployment, Kubernetes manifests, and production-ready examples for DevOps teams.]]></summary>
         <author>
             <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KAITO and KubeFleet: CNCF Is Reshaping AI Inference Infrastructure]]></title>
+        <id>https://jimmysong.io/blog/kaito-and-fleet-enabled-ai-inference/</id>
+        <link href="https://jimmysong.io/blog/kaito-and-fleet-enabled-ai-inference/"/>
+        <updated>2025-11-08T17:40:00.000Z</updated>
+        <summary type="html"><![CDATA[CNCF is standardizing AI inference infrastructure for scalable deployment in multi-cluster Kubernetes environments through KAITO and KubeFleet.]]></summary>
+        <author>
+            <name>Jimmy Song</name>
         </author>
     </entry>
     <entry>
@@ -5153,16 +5194,6 @@ Github issue 作为博客说说发布页面的模板设置问题
 正如我在 关于 页面中提到： “到 2023 年，自己也已经接近 35 岁，在一些行业都是开始想着退休的年龄，于是回头重构一下博客，想着就这样定型玩下去。” …]]></summary>
         <author>
             <name>老T博客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[深入理解 MCP：像 USB 一样的 AI 扩展协议]]></title>
-        <id>https://jimmysong.io/blog/understanding-mcp/</id>
-        <link href="https://jimmysong.io/blog/understanding-mcp/"/>
-        <updated>2025-08-28T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[深入理解 Model Context Protocol (MCP)，探索其在 AI 应用中的扩展能力，像 USB 一样简便的接口设计，助力开发者提升效率。]]></summary>
-        <author>
-            <name>Jimmy Song</name>
         </author>
     </entry>
     <entry>

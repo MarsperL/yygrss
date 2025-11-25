@@ -824,7 +824,7 @@
       ]
     },
     {
-      "title": "Jimmy Song – 博客",
+      "title": "Jimmy Song – Blog",
       "feedUrl": "https://jimmysong.io/blog/index.xml",
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
@@ -889,6 +889,16 @@
           "imageUrl": "https://assets.jimmysong.io/images/blog/kimi-k2-thinking-cn-awakening/banner.webp"
         },
         {
+          "id": "https://jimmysong.io/blog/trae-vs-vscode-insiders-agent-hq-and-ai-engineering-entity/",
+          "author": "Jimmy Song",
+          "description": "A comparison of TRAE SOLO and VS Code (Copilot, Agent HQ) via the AI Engineering Entity framework, focusing on automation, collaboration, model transparency, and engineering roles.",
+          "link": "https://jimmysong.io/blog/trae-vs-vscode-insiders-agent-hq-and-ai-engineering-entity/",
+          "publishedOn": "2025-11-14T07:14:39.000Z",
+          "wordCount": 3086,
+          "title": "TRAE SOLO vs VS Code: Rethinking Coding Tools from the Perspective of AI Engineering Entities",
+          "imageUrl": "https://assets.jimmysong.io/images/blog/trae-vs-vscode-insiders-agent-hq-and-ai-engineering-entity/banner.webp"
+        },
+        {
           "id": "https://jimmysong.io/blog/trae-vs-vscode--agent-hq-and-ai-engineering-entity/",
           "author": "Jimmy Song",
           "description": "以 AI 工程实体框架，系统对比 TRAE SOLO 与 VS Code（含 Copilot、Agent HQ）在自动化、协作、模型透明度等方面的差异与工程定位。",
@@ -947,6 +957,16 @@
           "wordCount": 1050,
           "title": "ChatGPT Atlas 深度使用两周：作为开发者，我看到的真实潜力与结构性短板",
           "imageUrl": "https://assets.jimmysong.io/images/blog/chatgpt-atlas-two-weeks-dev-perspective/atlas.webp"
+        },
+        {
+          "id": "https://jimmysong.io/blog/kaito-and-fleet-enabled-ai-inference/",
+          "author": "Jimmy Song",
+          "description": "CNCF is standardizing AI inference infrastructure for scalable deployment in multi-cluster Kubernetes environments through KAITO and KubeFleet.",
+          "link": "https://jimmysong.io/blog/kaito-and-fleet-enabled-ai-inference/",
+          "publishedOn": "2025-11-08T17:40:00.000Z",
+          "wordCount": null,
+          "title": "KAITO and KubeFleet: CNCF Is Reshaping AI Inference Infrastructure",
+          "imageUrl": null
         },
         {
           "id": "https://jimmysong.io/blog/kaito-and-kubefleet-ai-inference/",
@@ -1277,16 +1297,6 @@
           "wordCount": null,
           "title": "开发将 Markdown 一键发布到微信公众号草稿工具的经验分享",
           "imageUrl": null
-        },
-        {
-          "id": "https://jimmysong.io/blog/understanding-mcp/",
-          "author": "Jimmy Song",
-          "description": "深入理解 Model Context Protocol (MCP)，探索其在 AI 应用中的扩展能力，像 USB 一样简便的接口设计，助力开发者提升效率。",
-          "link": "https://jimmysong.io/blog/understanding-mcp/",
-          "publishedOn": "2025-08-28T06:00:00.000Z",
-          "wordCount": null,
-          "title": "深入理解 MCP：像 USB 一样的 AI 扩展协议",
-          "imageUrl": null
         }
       ]
     },
@@ -1442,6 +1452,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=306960",
+          "author": "Brandon Lee",
+          "description": "Many in the home lab these days are running Proxmox, XCP-ng, or “maybe” back to the now free “again” VMware ESXi. However, another really cool hypervisor that you may not…\nThe post IncusOS Is the New Minimal Hypervisor OS Changing Home Labs in 2025 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/11/incusos-is-the-new-minimal-hypervisor-os-changing-home-labs-in-2025/",
+          "publishedOn": "2025-11-25T13:40:37.000Z",
+          "wordCount": 12711,
+          "title": "IncusOS Is the New Minimal Hypervisor OS Changing Home Labs in 2025",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/Meet-IncusOS.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=306938",
           "author": "Brandon Lee",
@@ -1789,6 +1809,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=61239",
+          "author": "Collabnix Team",
+          "description": "Kubernetes has become the de facto standard for container orchestration, and at its core lies a fundamental building block: the Pod. Whether you’re just getting started with Kubernetes or looking to deepen your understanding, mastering Pods is essential for deploying and managing containerized applications effectively. In this comprehensive guide, we’ll explore what Pods are, how […]",
+          "link": "https://collabnix.com/what-are-pods-in-kubernetes-a-complete-guide-with-examples/",
+          "publishedOn": "2025-11-25T04:22:47.000Z",
+          "wordCount": 9209,
+          "title": "What Are Pods in Kubernetes? A Complete Guide with Examples",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=61165",
           "author": "Collabnix Team",
