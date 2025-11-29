@@ -6,6 +6,16 @@
       "siteUrl": "https://yyg.js.cool/",
       "articles": [
         {
+          "id": "https://yyg.js.cool/yyg/fd7b65ac/",
+          "author": null,
+          "description": "前言\nRssWe 的诞生，源于我对rssTea的真实体验。在订阅播客时，时常遇到音频无法加载或显示的窘境；并且，随着订阅源日益增多，列表变得杂乱无章，难以快速定位。当文章列表过长时，想返回顶部或直接查看特定播客内容也变得异常繁琐。\n想着解决这些不便，我决定自己动手解决。RssWe 由此诞生。\nRssWe是一个无需服务器的RSS和播客阅读器，支持PWA，使用GitHub Actions运行。\n一个高效、轻量的RSS/Atom",
+          "link": "https://yyg.js.cool/yyg/fd7b65ac/",
+          "publishedOn": "2025-11-29T05:31:50.000Z",
+          "wordCount": 855,
+          "title": "RssWe--支持PWA的RSS和播客在线阅读器",
+          "imageUrl": "https://yyg.js.cool/yyghub/img/512.png"
+        },
+        {
           "id": "https://yyg.js.cool/yyg/2eca17c7/",
           "author": null,
           "description": "博客加入Gitalk评论后，需要访问相应页面，才在存放评论的仓库创建Issues。本文通过脚本自动访问文章页面完成Gitalk自动创建评论Issues。脚本自attson/hexo-gitalk-init: Hexo gitalk 极简初始化脚本基础上修改而来（是在windows本地运行）。\n这是一个用于 Hexo 博客的 Gitalk 评论系统自动初始化脚本。它能自动扫描所有文章，识别出尚未创建评论 Issue 的页面，并通过模拟浏览器访问来触发 Gitalk 自动完成 Issue",
@@ -95,6 +105,16 @@
       "feedUrl": "https://daverupert.com/atom.xml",
       "siteUrl": "https://daverupert.com",
       "articles": [
+        {
+          "id": "https://daverupert.com/2025/11/communions-and-ladders/",
+          "author": null,
+          "description": "Two friends of mine (brothers, actually) got laid off from their job at a megachurch here in Austin. We met through a mutual friend that started attending their church. Our kids hang out on Roblox, so we’re connected through dadship and games. They oversaw a lot of the music and arts work that went into the weekly service. I wasn’t involved in the church so their unceremonious departure doesn’t impact me as much as folks in their community, but friends losing work is not fun and I feel for their families.\n[Smash cut: my son on stage playing in front of pretend groupies]\nMy son is learning to play the guitar at School of Rock. One cool aspect about the School of Rock program is that you go from knowing nothing to performing a rock show in ~4 months after signing up. Recitals are nothing new…",
+          "link": "https://daverupert.com/2025/11/communions-and-ladders/",
+          "publishedOn": "2025-11-29T18:36:00.000Z",
+          "wordCount": 1581,
+          "title": "One thing churches do well",
+          "imageUrl": null
+        },
         {
           "id": "https://daverupert.com/2025/11/grid-paper/",
           "author": null,
@@ -1266,26 +1286,6 @@
           "publishedOn": "2025-09-01T11:27:39.000Z",
           "wordCount": null,
           "title": "Hugo Website MCP Server：打造智能博客内容生成脚手架并集成 VS Code",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jimmysong.io/blog/kubernetes-ai-oss-solo/",
-          "author": "Jimmy Song",
-          "description": "探索 Solo.io 开源项目如何助力 Kubernetes AI 应用，提升推理服务与自动化运维的能力，助你实现智能化转型。",
-          "link": "https://jimmysong.io/blog/kubernetes-ai-oss-solo/",
-          "publishedOn": "2025-09-01T03:35:09.000Z",
-          "wordCount": null,
-          "title": "Kubernetes AI 应用基础设施开源实践与创新：Solo.io 开源项目研究",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jimmysong.io/blog/markdown-wechat-publication/",
-          "author": "Jimmy Song",
-          "description": "本文分享开发将 Hugo 博客 Markdown 技术文章一键发布到微信公众号草稿的自动化工具的实践经验，涵盖整体架构设计、发布流程、微信平台格式适配、图片与代码处理、常见问题及定制化开发心得。",
-          "link": "https://jimmysong.io/blog/markdown-wechat-publication/",
-          "publishedOn": "2025-09-01T01:00:00.000Z",
-          "wordCount": null,
-          "title": "开发将 Markdown 一键发布到微信公众号草稿工具的经验分享",
           "imageUrl": null
         }
       ]
@@ -2998,26 +2998,6 @@
           "wordCount": null,
           "title": "Kubernetes and GPU: The Complete 2025 Guide to AI/ML Acceleration",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=51314",
-          "author": "Tanvir Kour",
-          "description": "AI is no longer a concept from the future: it acts now as a practical lever of transformation for businesses. Across industries, companies deploy AI to fine-tune operations, enhance customer experiences, and generate new sources of revenue. However, the creation of AI products is not only reliant on technical skills; it really needs a process-orientated […]",
-          "link": "https://collabnix.com/designing-and-building-ai-products-and-services-a-practical-guide-for-businesses/",
-          "publishedOn": "2025-09-01T08:33:40.000Z",
-          "wordCount": null,
-          "title": "Designing and Building AI Products and Services: A Practical Guide for Businesses",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=51268",
-          "author": "Tanvir Kour",
-          "description": "Artificial intelligence now drives faster coding, higher accuracy, and measurable productivity gains. Leading AI coding tools like GitHub Copilot, Windsurf, and Tabnine generate functions in seconds, detect bugs early, and adapt to individual developer workflows. In this guide, we compare their performance from solo prototyping to enterprise-scale projects, including remote coding scenarios. High-performance AI assistants […]",
-          "link": "https://collabnix.com/which-ai-tool-is-best-for-coding-developers-guide/",
-          "publishedOn": "2025-08-31T16:21:20.000Z",
-          "wordCount": null,
-          "title": "Which AI Tool Is Best for Coding? Developers Guide",
-          "imageUrl": null
         }
       ]
     },
@@ -3558,6 +3538,16 @@
       "feedUrl": "https://blognas.hwb0307.com/feed",
       "siteUrl": "https://blognas.hwb0307.com/",
       "articles": [
+        {
+          "id": "https://blognas.hwb0307.com/?p=6601",
+          "author": "Bensz",
+          "description": "Bensz\nDocker系列 WordPress系列 AutoSaleVPS插件\n本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ AutoSaleVPS的Github仓库： 开发和调试不易，希望小伙伴们帮忙给项目点Star、关注我的帐号呀！感谢感谢！ 前言 最近恰逢2025年黑色星期五，又到了频繁需要更新VPS信息的时候。由于我的推广页面是一个WordPress页面，手动编辑多有不便，所以我就一直想着，开发一个WordPress插件来自动完成编辑VPS信息的任务。刚好这周六有点空，早上简单地构思了一下，在AI的辅助下花了几个小时搓出了这个项目——AutoSaleVPS。AutoSaleVPS 是一个基于大语言模型（LLM）的WordPress 插件，主要用于辅助WordPress博主进行高效的VPS 推广。它的主要特点包 […]\nBensz",
+          "link": "https://blognas.hwb0307.com/linux/docker/6601",
+          "publishedOn": "2025-11-29T10:29:34.000Z",
+          "wordCount": 4539,
+          "title": "Docker系列 WordPress系列 AutoSaleVPS插件",
+          "imageUrl": "https://chevereto.hwb0307.com/images/2025/11/29/iShot_2025-11-29_18.25.14.gif"
+        },
         {
           "id": "https://blognas.hwb0307.com/?p=6475",
           "author": "Bensz",
@@ -4500,6 +4490,106 @@
       "siteUrl": "https://www.lifengdi.com",
       "articles": [
         {
+          "id": "https://www.lifengdi.com/?p=4604",
+          "author": "李锋镝",
+          "description": "Gemini 3 Pro 的发布不仅刷新了多模态模型的性能上限，更通过 Gemini CLI 把这种能力直接搬进了终端。从此，终端不再只是执行命令的窗口，而是集“代码生成、多模态开发、项目文档自动化、云端故障排查”于一体的全能开发环境。借助 Agentic Coding 特性，它能理解复杂工程需求，调用外部工具，甚至独 […]",
+          "link": "https://www.lifengdi.com/ren-gong-zhi-neng/4604",
+          "publishedOn": "2025-11-29T05:37:10.000Z",
+          "wordCount": 1583,
+          "title": "Gemini CLI 深度实战：用 Gemini 3 Pro 打造终端级开发环境（2025 全场景指南）",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4603",
+          "author": "李锋镝",
+          "description": "字节跳动在AI领域的千亿投入终于落地编程赛道——首款专属编程模型 Doubao-Seed-Code 正式亮相。这款以“长上下文+视觉理解”为核心卖点的模型，不仅将国内编程模型的上下文长度刷新至256K，还打出了首月9.9元的亲民价格，直接掀起国产AI编程工具的性价比内卷。 本文结合多场景实测，从核心特性、实战表现、接入 […]",
+          "link": "https://www.lifengdi.com/ren-gong-zhi-neng/4603",
+          "publishedOn": "2025-11-28T02:13:27.000Z",
+          "wordCount": 748,
+          "title": "9.9元解锁AI编程新体验：Doubao-Seed-Code 深度实测",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4601",
+          "author": "李锋镝",
+          "description": "与大语言模型协作的核心，从来不是“AI有多聪明”，而是“你能否用提示词精准引导AI”。模糊的指令只会产出敷衍的结果，而专业的提示词能让AI发挥出远超预期的潜力——无论是撰写专业报告、生成精准代码，还是处理复杂逻辑推理，优质提示词都是效率翻倍的关键。 本文整合业界前沿实践，详细拆解8个专业级提示词工程技巧，补充丰富的场景 […]",
+          "link": "https://www.lifengdi.com/ren-gong-zhi-neng/4601",
+          "publishedOn": "2025-11-27T08:09:01.000Z",
+          "wordCount": 805,
+          "title": "提示词工程进阶指南：8大核心技巧，让AI精准读懂你的需求（2025实战版）",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4599",
+          "author": "李锋镝",
+          "description": "你是否刷到过这样的创意视频：李清照身着宋装娓娓道来南渡历程，曹操以豪迈语气讲述官渡之战，搭配贴合场景的古风插画与背景音乐，让枯燥的历史变得生动鲜活？借助 Coze（扣子）的可视化工作流，无需专业剪辑、设计技能，就能自动化完成从文案创作到视频输出的全流程，让历史人物“复活”在屏幕上。 本文将从原理拆解、分步实操、参数优化 […]",
+          "link": "https://www.lifengdi.com/ren-gong-zhi-neng/4599",
+          "publishedOn": "2025-11-27T05:57:05.000Z",
+          "wordCount": 864,
+          "title": "Coze 创意实战：AI 让历史人物“开口说话”，一键生成自述视频全流程指南",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4596",
+          "author": "李锋镝",
+          "description": "一、核心基础模板：结构化提示词框架（所有场景通用） 模板公式：场景定位 + 需求描述 + 约束条件 + 输出格式 # 场景定位 {开发场景：如“Java 后端订单模块 DTO 生成”“Python 数据处理脚本”“Vue 前端表单组件”} # 需求描述 {具体功能/目标，分点列出核心要求，避免模糊表述} 1. 核心功能 […]",
+          "link": "https://www.lifengdi.com/ren-gong-zhi-neng/4596",
+          "publishedOn": "2025-11-26T08:37:49.000Z",
+          "wordCount": 1367,
+          "title": "AI 编程高效提示词模板库（2025 实战版）",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4595",
+          "author": "李锋镝",
+          "description": "2025 年堪称 AI 编程工具爆发年，从 IDE 集成插件（Cursor、Trae）到独立生成平台（v0.dev、Galileo AI），各类工具层出不穷。但不少资深开发者却陷入困惑：本想靠 AI 提升效率，实际却越用越慢——审核 AI 代码的时间比自己写还久，规范对齐、逻辑修正耗费大量精力。 这并非 AI 编程没用 […]",
+          "link": "https://www.lifengdi.com/ren-gong-zhi-neng/4595",
+          "publishedOn": "2025-11-26T02:36:24.000Z",
+          "wordCount": 895,
+          "title": "AI 编程效率悖论：为什么资深开发者用着反而变慢了？（2025 实战指南）",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4594",
+          "author": "李锋镝",
+          "description": "Google 发布的 Gemini 3 彻底颠覆了前端开发的传统模式——无需复杂编码，只需一句自然语言描述，就能生成高保真产品原型、企业级网站、3D 动画应用甚至完整游戏。这种“所想即所得”的开发体验，让前端开发从“代码堆砌”转向“创意落地”，但也引发了“前端已死”的热议。 本文结合实测体验，深度拆解 Gemini 3 […]",
+          "link": "https://www.lifengdi.com/ren-gong-zhi-neng/4594",
+          "publishedOn": "2025-11-25T08:27:02.000Z",
+          "wordCount": 921,
+          "title": "Gemini 3 前端开发革命：从原型到 3D 应用，一句话搞定全栈开发（2025 实测）",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4591",
+          "author": "李锋镝",
+          "description": "AI 智能体（AI Agent）已从概念走向实用，成为连接大模型与真实场景的核心载体。一个成熟的智能体并非单一技术的堆叠，而是由基础架构、协作机制、知识增强、工具集成等多维度技术构成的复杂系统。 本文将系统拆解 AI 智能体的九大核心技术，补充详细的技术原理、实战案例、选型建议和落地避坑指南，帮你从“理解概念”到“动手 […]",
+          "link": "https://www.lifengdi.com/ren-gong-zhi-neng/4591",
+          "publishedOn": "2025-11-25T01:10:11.000Z",
+          "wordCount": 1859,
+          "title": "AI 智能体构建全景指南：九大核心技术深度拆解与落地实战",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4590",
+          "author": "李锋镝",
+          "description": "Google 重磅推出的 Gemini 3 Pro 凭借顶尖的多模态能力和推理性能，成为 AI 圈的焦点。很多人误以为这类旗舰模型门槛高、收费贵，其实普通用户完全可以免费体验其核心功能——无论是日常对话、代码开发，还是图片、视频生成，都能在官方平台零成本实现。 一、免费使用渠道：官方平台一站式体验 Gemini 3 P […]",
+          "link": "https://www.lifengdi.com/ren-gong-zhi-neng/4590",
+          "publishedOn": "2025-11-24T03:41:49.000Z",
+          "wordCount": 909,
+          "title": "零成本玩转 Gemini 3 Pro：普通人的全场景免费使用指南（2025 最新）",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4588",
+          "author": "李锋镝",
+          "description": "当谷歌 DeepMind 推出 Gemini 3 时，整个 AI 圈的反应不再是“惊艳”，而是“颠覆”——它能在极短时间内精准还原主流平台首页（含完整交互逻辑），生成可直接运行的游戏、拆解长视频细节，甚至用代码实现专业领域的 3D 交互动画。这种“从静态生成到动态交互”的跨越，让多模态 AI 真正从“展示工具”升级为“ […]",
+          "link": "https://www.lifengdi.com/ren-gong-zhi-neng/4588",
+          "publishedOn": "2025-11-21T03:42:36.000Z",
+          "wordCount": 806,
+          "title": "Gemini 3 深度解析：从像素级复刻到 AGI 雏形，多模态 AI 如何重构开发与创作？",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
           "id": "https://www.lifengdi.com/?p=4582",
           "author": "李锋镝",
           "description": "在 AI 智能体开发中，工具调用的标准化是提升效率的关键。MCP（Model Context Protocol，模型上下文协议）作为连接大模型与外部工具的通用标准，让开发者能快速构建可复用、跨平台的 AI 工具。本文将从协议原理、环境搭建、工具开发、调试部署到生态扩展，全方位拆解 MCP 的开发流程，补充详细的技术细节 […]",
@@ -4606,6 +4696,16 @@
       "feedUrl": "https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss",
       "siteUrl": "https://github.com/guanguans/favorite-link",
       "articles": [
+        {
+          "id": "https://github.com/phptg/bot-api",
+          "author": null,
+          "description": "PHP library to interact with Telegram Bot API. Contribute to phptg/bot-api development by creating an account on GitHub.",
+          "link": "https://github.com/phptg/bot-api",
+          "publishedOn": "2025-11-28T16:00:00.000Z",
+          "wordCount": 3019,
+          "title": "phptg/bot-api: 与 Telegram Bot API 交互的 PHP 库",
+          "imageUrl": "https://opengraph.githubassets.com/7e853a734503f45565eea1220fc0cdc4223971982ba869c267b12aa4233b9404/phptg/bot-api"
+        },
         {
           "id": "https://github.com/binwiederhier/ntfy-android",
           "author": null,
@@ -6645,36 +6745,6 @@
           "wordCount": 8690,
           "title": "dockur/windows: Docker 容器中的 Windows。",
           "imageUrl": "https://repository-images.githubusercontent.com/743140652/69c0c16a-9695-484e-861e-9b07c0507f45"
-        },
-        {
-          "id": "https://github.com/zakirullin/cognitive-load",
-          "author": null,
-          "description": "🧠 Cognitive load is what matters. Contribute to zakirullin/cognitive-load development by creating an account on GitHub.",
-          "link": "https://github.com/zakirullin/cognitive-load",
-          "publishedOn": "2025-09-01T08:00:00.000Z",
-          "wordCount": 14478,
-          "title": "zakirullin/cognitive-load: 这世上有如此多的流行术语和最佳实践，但它们中大多数无法真正落地。因此，让我们把注意力转向更根本的方面，比方说，开发者在阅读代码时所感受到的“困惑程度”。",
-          "imageUrl": "https://opengraph.githubassets.com/fd281a88c07caa3a9ea66f49b5ef543e678a5bc391479f6f07d726ed4d4c36de/zakirullin/cognitive-load"
-        },
-        {
-          "id": "https://github.com/yii2-extensions/franken-php",
-          "author": null,
-          "description": "Supercharge your Yii2 applications with FrankenPHP blazing-fast HTTP server. - yii2-extensions/franken-php",
-          "link": "https://github.com/yii2-extensions/franken-php",
-          "publishedOn": "2025-09-01T00:00:00.000Z",
-          "wordCount": 4326,
-          "title": "yii2-extensions/franken-php: 为 Yii2 应用程序提供的极速 FrankenPHP 集成，支持无缝的 HTTP/2 和 HTTP/3，自动内存管理，以及实时功能。",
-          "imageUrl": "https://opengraph.githubassets.com/085890cb185410e4e0bb85f6e93c3ff0702b69155b31c6ae03387c41a8130d9a/yii2-extensions/franken-php"
-        },
-        {
-          "id": "https://github.com/macstadium/orka-desktop",
-          "author": null,
-          "description": "Orka Desktop is a free, no obligation, virtualization tool, which is designed to be deployed on individual macOS workstations. - macstadium/orka-desktop",
-          "link": "https://github.com/macstadium/orka-desktop",
-          "publishedOn": "2025-08-31T16:00:00.000Z",
-          "wordCount": 1987,
-          "title": "macstadium/orka-desktop: Orka Desktop 是一款免费的虚拟化工具，旨在部署到单个 macOS 工作站上。",
-          "imageUrl": "https://opengraph.githubassets.com/c23087f9e2e26b466cc119b9abd2f3bfdfe4102d29a5b364cd900ff4cb1bb49d/macstadium/orka-desktop"
         }
       ]
     },
