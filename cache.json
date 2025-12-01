@@ -839,6 +839,16 @@
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
         {
+          "id": "https://jimmysong.io/blog/from-using-ai-to-building-ai-systems/",
+          "author": "Jimmy Song",
+          "description": "AI's real turning point is moving from using AI tools to building AI systems. Why the era of AI engineering hasn't begun, and the developer opportunity in the next three years.",
+          "link": "https://jimmysong.io/blog/from-using-ai-to-building-ai-systems/",
+          "publishedOn": "2025-11-29T12:40:54.000Z",
+          "wordCount": 2047,
+          "title": "From Using AI to Relying on AI: Why the Era of AI Engineering Has Yet to Begin",
+          "imageUrl": "https://assets.jimmysong.io/images/blog/from-using-ai-to-building-ai-systems/banner.webp"
+        },
+        {
           "id": "https://jimmysong.io/blog/antigravity-vscode-style-ide/",
           "author": "Jimmy Song",
           "description": "介绍如何通过配置扩展市场、安装 AMP 和 CodeX 插件，以及调整编辑器设置，将 Antigravity 打造为符合 VS Code 使用习惯的 AI IDE。",
@@ -1247,46 +1257,6 @@
           "wordCount": null,
           "title": "AI IDE 的关键分野：Spec、模式、云端与模型选择",
           "imageUrl": null
-        },
-        {
-          "id": "https://jimmysong.io/blog/e2b-browserbase-report/",
-          "author": "Jimmy Song",
-          "description": "探索云端智能体基础设施新纪元，深入分析 E2B 与 Browserbase 的技术架构与全球趋势，助力 AI Agent 的未来发展。",
-          "link": "https://jimmysong.io/blog/e2b-browserbase-report/",
-          "publishedOn": "2025-09-03T09:16:04.000Z",
-          "wordCount": null,
-          "title": "云端智能体基础设施新纪元：E2B 与 Browserbase 深度调研与全球趋势分析",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jimmysong.io/blog/kubernetes-ai-native/",
-          "author": "Jimmy Song",
-          "description": "探讨 Kubernetes 在 AI Native 时代面临的挑战，以及如何从 Cloud Native 迈向 AI Native，实现平台的持续相关性。",
-          "link": "https://jimmysong.io/blog/kubernetes-ai-native/",
-          "publishedOn": "2025-09-03T03:15:27.000Z",
-          "wordCount": null,
-          "title": "Kubernetes 在 AI Native 时代的挑战与转型",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jimmysong.io/blog/vibe-coding-tools-comparison/",
-          "author": "Jimmy Song",
-          "description": "本文作为《AI 编程与氛围编程工具研究》的姊妹篇，全面补充当前市面上主流与新兴的氛围编程工具对比，包括独立 IDE、IDE 插件以及终端/CLI 工具，分析其开源程度、Agent 能力、模型接入方式与典型应用场景。",
-          "link": "https://jimmysong.io/blog/vibe-coding-tools-comparison/",
-          "publishedOn": "2025-09-02T06:59:30.000Z",
-          "wordCount": null,
-          "title": "氛围编程工具全景对比：从插件到 IDE、从终端到 Agent",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jimmysong.io/blog/hugo-mcp-server-vscode/",
-          "author": "Jimmy Song",
-          "description": "详细介绍如何开发一个 Hugo 网站的 MCP Server，深入解析 MCP 协议、工具注册机制、内容类型识别、智能 slug 生成等核心技术，并展示与 VS Code 的集成方案。",
-          "link": "https://jimmysong.io/blog/hugo-mcp-server-vscode/",
-          "publishedOn": "2025-09-01T11:27:39.000Z",
-          "wordCount": null,
-          "title": "Hugo Website MCP Server：打造智能博客内容生成脚手架并集成 VS Code",
-          "imageUrl": null
         }
       ]
     },
@@ -1442,6 +1412,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=307117",
+          "author": "Brandon Lee",
+          "description": "Networking like everything else has evolved quite a bit over the past few years, not really in terms of new technologies, but in terms of new hardware, and pricing of…\nThe post 2025 Home Lab Network Upgrades Every Home Lab Needs appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/12/2025-home-lab-network-upgrades-every-home-lab-needs/",
+          "publishedOn": "2025-12-01T12:34:33.000Z",
+          "wordCount": 12131,
+          "title": "2025 Home Lab Network Upgrades Every Home Lab Needs",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/Home-Lab-Network-Upgrade-Guide-2025.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=307080",
           "author": "Brandon Lee",
@@ -3168,6 +3148,16 @@
       "siteUrl": "https://www.skyue.com/",
       "articles": [
         {
+          "id": "https://www.skyue.com/25113021.html",
+          "author": "拾月",
+          "description": "周末继续探索杭州周边，周六玩嘉兴银杏天鹅湖，周日访View Cafe村咖。",
+          "link": "https://www.skyue.com/25113021.html",
+          "publishedOn": "2025-11-30T13:01:00.000Z",
+          "wordCount": 564,
+          "title": "嘉兴银杏天鹅湖和径山View Cafe村咖",
+          "imageUrl": ""
+        },
+        {
           "id": "https://www.skyue.com/25112421.html",
           "author": "拾月",
           "description": "上周末到苏州玩了两天，我们想在娃出生之前尽可能多的出去玩，待娃出生，估计我们就锁死在杭州了。",
@@ -3354,6 +3344,21 @@
       "feedUrl": "https://bluehe.cn/rss.xml",
       "siteUrl": "https://bluehe.cn/",
       "articles": [
+        {
+          "id": "https://bluehe.cn/archives/email-reply",
+          "author": "寻鹤",
+          "description": "为什么开始留意“回复邮箱界面”？其实没什么宏大理由，就是2024年7月11日，我在整理收件箱的时候，突然意识到，我收到的每一封认真写的回复，都带着一种温度。\n如我们评论一样，结尾附了一个小表情，莫名就轻松了起来，这些细节它其实是个人表达的一部分。尤其在互访互评、合作沟通越来越频繁的现在，一封看起来舒服的回复，真的会让对方更愿意继续对话，甚至记得你。\n所以，我开始留意那些“会说话”的界面设计、模板、...",
+          "link": "https://bluehe.cn/archives/email-reply",
+          "publishedOn": "2025-11-30T12:58:00.000Z",
+          "wordCount": 677,
+          "title": "回邮美学：“会说话的界面”",
+          "enclosure": {
+            "url": "https://bluehe.cn/usr/uploads/2025/11/云心怀鹤_2025-11-30.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bluehe.cn/usr/uploads/2025/11/%E4%BA%91%E5%BF%83%E6%80%80%E9%B9%A4_2025-11-30.webp"
+        },
         {
           "id": "https://bluehe.cn/archives/damingshan-mode",
           "author": "寻鹤",
