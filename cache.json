@@ -3803,16 +3803,6 @@
           "wordCount": null,
           "title": "几种通过 FFmpeg 无损压缩视频的方法",
           "imageUrl": null
-        },
-        {
-          "id": "https://dusays.com/825/",
-          "author": null,
-          "description": "<blockquote>\n<p>刚从合肥返京，就收到了天津出差任务。虽然京津距离不远，但杜老师平时工作较忙，周末一般都在家睡懒觉，所以也是想着趁此机会游玩一下！分享给未来过天津的小伙伴，大家来云旅游~</p>\n</blockquote>",
-          "link": "https://dusays.com/825/",
-          "publishedOn": "2025-09-03T16:00:00.000Z",
-          "wordCount": null,
-          "title": "天津游记「多图预警」",
-          "imageUrl": null
         }
       ]
     },
@@ -4319,16 +4309,6 @@
           "wordCount": null,
           "title": "麒麟内核4.19.90-52.49导致的flannel vxlan跨节点不通",
           "imageUrl": null
-        },
-        {
-          "id": "http://zhangguanzhang.github.io/2025/09/03/flannel-mode-chaos/",
-          "author": null,
-          "description": "<p>一次 flannel 路由错乱导致的跨节点不通</p>",
-          "link": "http://zhangguanzhang.github.io/2025/09/03/flannel-mode-chaos/",
-          "publishedOn": "2025-09-03T10:10:30.000Z",
-          "wordCount": null,
-          "title": "flannel 路由错乱",
-          "imageUrl": null
         }
       ]
     },
@@ -4494,6 +4474,56 @@
       "feedUrl": "https://www.lifengdi.com/feed",
       "siteUrl": "https://www.lifengdi.com",
       "articles": [
+        {
+          "id": "https://www.lifengdi.com/?p=4610",
+          "author": "李锋镝",
+          "description": "当谷歌毫无预兆地推出Gemini 3.0与Antigravity开发平台，一场软件开发领域的颠覆性变革正式拉开序幕。这不仅是一次模型版本的迭代，更是对传统开发模式、工具生态与开发者核心竞争力的全面重构。从接近博士水平的逻辑推理能力，到任务导向的开发新范式，AI编程正从\"辅助工具\"进化为\"核 […]",
+          "link": "https://www.lifengdi.com/ren-gong-zhi-neng/4610",
+          "publishedOn": "2025-12-02T06:15:40.000Z",
+          "wordCount": 780,
+          "title": "Gemini 3.0与Antigravity：AI编程重构开发范式，开发者如何破局新生？",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4609",
+          "author": "李锋镝",
+          "description": "AI编程正以不可逆转的态势重构软件开发生态——从自然语言一键生成项目框架，到设计稿无缝转化为可运行代码，再到精准复刻现有工程风格的智能编码，曾经的技术想象已成为日常开发中的实用工具。本文将从技术内核、主流模式、行业现状到落地实践，全方位解析AI编程的运行逻辑与应用路径，助力企业和技术人员快速把握这场技术变革的核心机遇。 […]",
+          "link": "https://www.lifengdi.com/ren-gong-zhi-neng/4609",
+          "publishedOn": "2025-12-02T01:59:51.000Z",
+          "wordCount": 744,
+          "title": "AI编程革命：技术原理深度拆解与全场景落地指南",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4607",
+          "author": "李锋镝",
+          "description": "在企业运维、开发协作等复杂场景中，AI 正从“单步工具调用”向“全流程自动化”演进。一个成熟的企业级 Agent 不仅要能执行孤立任务，更要像资深工程师一样，具备“分析问题→收集证据→决策修复→总结复盘”的闭环能力。而这一切的核心，正是基于 Prompt 动态演进的架构设计——通过 MCP 协议标准化交互，让 Prom […]",
+          "link": "https://www.lifengdi.com/ren-gong-zhi-neng/4607",
+          "publishedOn": "2025-12-01T08:24:12.000Z",
+          "wordCount": 1100,
+          "title": "企业级自动化 Agent 架构深析：Prompt 演进驱动的智能工作流落地",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4606",
+          "author": "李锋镝",
+          "description": "看到大家的博客评论下面都带有UserAgent信息，还有地理位置信息，一直都很羡慕，奈何网上苦寻插件不见。要么就是插件年久失修，要么就是直接主题集成，无一我想要的。昨天又想起这事，心痒难耐，遂决定自己敲一个出来（其实是AI代笔）。 首先看了下WordPress的评论表，发现UserAgent和用户IP都存的有，这就很方 […]",
+          "link": "https://www.lifengdi.com/article/cha-jian/4606",
+          "publishedOn": "2025-12-01T03:21:46.000Z",
+          "wordCount": 1404,
+          "title": "WordPress评论添加UserAgent以及地理位置信息",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4605",
+          "author": "李锋镝",
+          "description": "在 AI 开发（尤其是大模型、RAG 系统）中，向量（Vector）是绕不开的核心基础。很多开发者因担心数学门槛望而却步，但实际上，向量的本质是“特征的数字化描述”——AI 正是通过向量将文本、图片等复杂信息转化为可计算的数值，从而实现语义理解、相似检索等核心功能。 本文将完全避开晦涩的数学推导，用“生活化例子+代码实 […]",
+          "link": "https://www.lifengdi.com/ren-gong-zhi-neng/4605",
+          "publishedOn": "2025-12-01T02:09:06.000Z",
+          "wordCount": 1239,
+          "title": "开发者必懂的 AI 向量入门：从数学基础到实战应用",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
         {
           "id": "https://www.lifengdi.com/?p=4604",
           "author": "李锋镝",
@@ -4701,6 +4731,86 @@
       "feedUrl": "https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss",
       "siteUrl": "https://github.com/guanguans/favorite-link",
       "articles": [
+        {
+          "id": "https://github.com/Kailun2047/go-slowmo",
+          "author": null,
+          "description": "Visualize Go scheduler events at runtime. Contribute to Kailun2047/go-slowmo development by creating an account on GitHub.",
+          "link": "https://github.com/Kailun2047/go-slowmo",
+          "publishedOn": "2025-12-01T16:00:00.000Z",
+          "wordCount": 1728,
+          "title": "Kailun2047/go-slowmo: 在运行时可视化 Go 调度器事件。",
+          "imageUrl": "https://opengraph.githubassets.com/410dd0f31505c98ad748be2b4d3950cb577c386513528032cbf04a4c05f7293f/Kailun2047/go-slowmo"
+        },
+        {
+          "id": "https://github.com/alecthomas/chroma",
+          "author": null,
+          "description": "A general purpose syntax highlighter in pure Go . Contribute to alecthomas/chroma development by creating an account on GitHub.",
+          "link": "https://github.com/alecthomas/chroma",
+          "publishedOn": "2025-12-01T08:00:00.000Z",
+          "wordCount": 5887,
+          "title": "alecthomas/chroma: Chroma takes source code and other structured text and converts it into syntax highlighted HTML, ANSI-coloured text, etc.",
+          "imageUrl": "https://opengraph.githubassets.com/c6d92cd2aa21376a32c6e44ea77b979758edf4c4f6b888398a8d120c791d3072/alecthomas/chroma"
+        },
+        {
+          "id": "https://github.com/jaywcjlove/deskmark",
+          "author": null,
+          "description": "Add text and icon watermarks to your desktop for easy use when recording videos. - jaywcjlove/deskmark",
+          "link": "https://github.com/jaywcjlove/deskmark",
+          "publishedOn": "2025-12-01T00:00:00.000Z",
+          "wordCount": 994,
+          "title": "jaywcjlove/deskmark: 在桌面上添加文本和图标水印，以便在录制视频时轻松使用。",
+          "imageUrl": "https://repository-images.githubusercontent.com/1107814165/347eca27-204a-4a15-8430-3282d6cee157"
+        },
+        {
+          "id": "https://github.com/lvzhaobo/qoder-rules",
+          "author": null,
+          "description": "Contribute to lvzhaobo/qoder-rules development by creating an account on GitHub.",
+          "link": "https://github.com/lvzhaobo/qoder-rules",
+          "publishedOn": "2025-11-30T16:00:00.000Z",
+          "wordCount": 6328,
+          "title": "lvzhaobo/qoder-rules: Qoder 规则 - 规范编码设计模式",
+          "imageUrl": "https://opengraph.githubassets.com/0b597925c546ae96de6223a90b03d43547cc78423a354882898d8d3c2033c3f2/lvzhaobo/qoder-rules"
+        },
+        {
+          "id": "https://github.com/addyosmani/gemini-cli-tips",
+          "author": null,
+          "description": "Gemini CLI Tips and Tricks. Contribute to addyosmani/gemini-cli-tips development by creating an account on GitHub.",
+          "link": "https://github.com/addyosmani/gemini-cli-tips",
+          "publishedOn": "2025-11-30T16:00:00.000Z",
+          "wordCount": 42472,
+          "title": "addyosmani/gemini-cli-tips: Gemini CLI 提示和技巧",
+          "imageUrl": "https://opengraph.githubassets.com/95ad3038aa472f8ecdd1d48f55ce9defc9f1b0980a0c873ed7484ac8888f0b66/addyosmani/gemini-cli-tips"
+        },
+        {
+          "id": "https://github.com/kunkundi/crossdesk",
+          "author": null,
+          "description": "A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。 - kunkundi/crossdesk",
+          "link": "https://github.com/kunkundi/crossdesk",
+          "publishedOn": "2025-11-30T08:00:00.000Z",
+          "wordCount": 4431,
+          "title": "kunkundi/crossdesk: 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。",
+          "imageUrl": "https://opengraph.githubassets.com/f75d6ec113d5f945e6083baa3bb77825fb047c891d0534ec73100fc37514f429/kunkundi/crossdesk"
+        },
+        {
+          "id": "https://github.com/antonmedv/gitmal",
+          "author": null,
+          "description": "A static page generator for repos. Contribute to antonmedv/gitmal development by creating an account on GitHub.",
+          "link": "https://github.com/antonmedv/gitmal",
+          "publishedOn": "2025-11-30T00:00:00.000Z",
+          "wordCount": 1658,
+          "title": "antonmedv/gitmal: Gitmal 是一个用于 Git 仓库的静态页面生成器。Gitmal 可以使用文件、提交、代码高亮和 Markdown 渲染生成静态 HTML 页面。",
+          "imageUrl": "https://opengraph.githubassets.com/0d0f62905d5aa287ff91a83954d7961f91acfb45fd74d4310012277317f28e93/antonmedv/gitmal"
+        },
+        {
+          "id": "https://github.com/hipages/php-fpm_exporter",
+          "author": null,
+          "description": "A prometheus exporter for PHP-FPM. Contribute to hipages/php-fpm_exporter development by creating an account on GitHub.",
+          "link": "https://github.com/hipages/php-fpm_exporter",
+          "publishedOn": "2025-11-29T16:00:00.000Z",
+          "wordCount": 4982,
+          "title": "hipages/php-fpm_exporter: 这是一个用于 PHP-FPM 的 Prometheus 导出器。这个导出器会直接连接到 PHP-FPM，并通过 HTTP 协议导出指标数据。",
+          "imageUrl": "https://opengraph.githubassets.com/f49d3a1e4698021dd556d54f2afedd4d770ae3e4dde9643bf3bea981b809b104/hipages/php-fpm_exporter"
+        },
         {
           "id": "https://github.com/phptg/bot-api",
           "author": null,
@@ -6740,16 +6850,6 @@
           "wordCount": 5352,
           "title": "Adembc/lazyssh: 一个基于终端的 SSH 管理器，灵感来自 lazydocker 和 k9s - 用 Go 编写",
           "imageUrl": "https://opengraph.githubassets.com/8cff583774e6376e00aa177f9cb776d110b3fa7a8f85eb4ddc72b8eedc83b5aa/Adembc/lazyssh"
-        },
-        {
-          "id": "https://github.com/dockur/windows",
-          "author": null,
-          "description": "Windows inside a Docker container. Contribute to dockur/windows development by creating an account on GitHub.",
-          "link": "https://github.com/dockur/windows",
-          "publishedOn": "2025-09-01T16:00:00.000Z",
-          "wordCount": 8690,
-          "title": "dockur/windows: Docker 容器中的 Windows。",
-          "imageUrl": "https://repository-images.githubusercontent.com/743140652/69c0c16a-9695-484e-861e-9b07c0507f45"
         }
       ]
     },
