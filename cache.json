@@ -264,16 +264,6 @@
           "wordCount": null,
           "title": "Many years on the job and I still don't get it.",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/09/why-would-anybody-start-a-website/",
-          "author": null,
-          "description": "Nilay Patel sat down for a Decoder interview with Microsoft CTO Kevin Scott to talk about NLWeb, an open source effort to allow an LLM-style indexing of small websites and provide local search. Instead of having large centralized search indexes like Google or Bing, the indexing shifts to sites having their own local indexes that large search platforms hook into via an MCP, an API endpoint for LLMs (basically). Lots to unpack there, but at first glance I like the idea of local ownership of search indexes over the “scrape everything” model that’s killing the Open Web.\nI was listening to the episode because it’s relevant to my work, but I also like Nilay Patel’s perspective and think he has a sober 10,000ft view of the tech industry; without fawning over CEOs, new tech, and VC hype. That is r…",
-          "link": "https://daverupert.com/2025/09/why-would-anybody-start-a-website/",
-          "publishedOn": "2025-09-05T13:30:00.000Z",
-          "wordCount": null,
-          "title": "“Why would anybody start a website?”",
-          "imageUrl": null
         }
       ]
     },
@@ -1442,6 +1432,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=307221",
+          "author": "Brandon Lee",
+          "description": "We are always looking out for great little mini PCs for the home lab that have the capabilities we expect and great features to self-host workloads. Beelink sent over a…\nThe post Beelink SER9 Max Review: Major Platform Upgrades and Real 10 Gig Networking appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/12/beelink-ser9-max-review-major-platform-upgrades-and-real-10-gig-networking/",
+          "publishedOn": "2025-12-04T13:43:40.000Z",
+          "wordCount": 12423,
+          "title": "Beelink SER9 Max Review: Major Platform Upgrades and Real 10 Gig Networking",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/12/beelink-ser9-max-3.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=307185",
           "author": "Brandon Lee",
@@ -2997,16 +2997,6 @@
           "publishedOn": "2025-09-07T05:25:14.000Z",
           "wordCount": null,
           "title": "Kubernetes GPU Resource Management Best Practices: Complete Technical Guide for 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=52069",
-          "author": "Collabnix Team",
-          "description": "Comprehensive comparison of Hugging Face and Ollama for local AI deployment. Learn setup, performance, use cases, and which platform suits your AI development needs.",
-          "link": "https://collabnix.com/hugging-face-vs-ollama-the-complete-technical-deep-dive-guide-for-local-ai-development-in-2025/",
-          "publishedOn": "2025-09-06T03:59:17.000Z",
-          "wordCount": null,
-          "title": "Hugging Face vs Ollama: The Complete Technical Deep Dive Guide for Local AI Development in 2025",
           "imageUrl": null
         }
       ]
