@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-12-04T21:39:20.667Z</updated>
+    <updated>2025-12-05T11:01:15.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[开源一个色情图像（NSFW）识别方案，支持私有部署和HTTP调用]]></title>
+        <id>https://blog.xiaoz.org/?p=22562</id>
+        <link href="https://blog.xiaoz.org/archives/22562"/>
+        <updated>2025-12-05T04:02:18.000Z</updated>
+        <summary type="html"><![CDATA[各位好，我是ImgURL图床作者 xiaoz，一直以来，ImgURL图床使用雅虎Open NSFW方案来识别用户上传的色情图像，不过雅虎在2019年已将Open NSFW项目归档，且不再更新，Open NSFW项目已经有些过时，且识别准确度一般，最近正好在重构ImgURL，因此急需替代方案。市面上找]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beelink SER9 Max Review: Major Platform Upgrades and Real 10 Gig Networking]]></title>
         <id>https://www.virtualizationhowto.com/?p=307221</id>
