@@ -1257,16 +1257,6 @@
           "wordCount": null,
           "title": "语音合成的未来已来：深入探索工业级可控零样本文本到语音系统 Index TTS！",
           "imageUrl": null
-        },
-        {
-          "id": "https://jimmysong.io/blog/pdf-to-markdown-open-source-deep-dive/",
-          "author": "Jimmy Song",
-          "description": "深入探讨开源 PDF 转 Markdown 工具，比较 Dolphin、MarkItDown、MinerU 和 Marker 的功能与优缺点，助您选择最佳解决方案。",
-          "link": "https://jimmysong.io/blog/pdf-to-markdown-open-source-deep-dive/",
-          "publishedOn": "2025-09-09T07:41:18.000Z",
-          "wordCount": null,
-          "title": "深度调研开源 PDF 转 Markdown 工具：Marker、MinerU 与替代方案",
-          "imageUrl": null
         }
       ]
     },
@@ -1313,16 +1303,6 @@
           "publishedOn": "2025-09-30T04:07:00.000Z",
           "wordCount": 530,
           "title": "《商米 X mac studio》宣传片",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nops.icu/archives/219/",
-          "author": "季兴",
-          "description": "两三年前，无意刷到“杨旭游记”视频，独特的房车旅游形式，杨旭操着一口京腔娓娓道来，主人公大多数是自己。从祖国的边陲到非洲的角落，偶尔在寒暑假有他女儿客串。从一个人穿越500公里无人区，在石油小镇...",
-          "link": "https://nops.icu/archives/219/",
-          "publishedOn": "2025-09-09T06:54:00.000Z",
-          "wordCount": 527,
-          "title": "买房车前建议你租一天",
           "imageUrl": null
         }
       ]
@@ -1859,6 +1839,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=62105",
+          "author": "Collabnix Team",
+          "description": "Learn how to build robust, scalable, and secure CI/CD pipelines for Kubernetes. This comprehensive guide covers 8 essential best practices along with the top tools that DevOps teams use to streamline container deployments, implement GitOps workflows, and achieve continuous delivery at scale.",
+          "link": "https://collabnix.com/kubernetes-ci-cd-pipelines-8-best-practices-and-tools/",
+          "publishedOn": "2025-12-07T19:15:41.000Z",
+          "wordCount": 8565,
+          "title": "Kubernetes CI/CD Pipelines – 8 Best Practices and Tools",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=62102",
+          "author": "Collabnix Team",
+          "description": "The debate between Meta’s Llama and OpenAI’s GPT models has become central to the AI landscape. Both represent significant achievements in large language models, but they serve different needs and philosophies. This article breaks down the key differences, strengths, and provides practical code examples to help you choose the right model for your projects. The […]",
+          "link": "https://collabnix.com/llama-vs-gpt-a-comprehensive-comparison-for-developers/",
+          "publishedOn": "2025-12-07T19:09:57.000Z",
+          "wordCount": null,
+          "title": "Llama vs GPT: A Comprehensive Comparison for Developers",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=61434",
           "author": "Tanvir Kour",
@@ -3932,6 +3932,16 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=22574",
+          "author": "xiaoz",
+          "description": "Umami是xiaoz使用长达3年多的一款WEB统计软件，该软件免费开源，也是目前比较流行的自建WEB统计方案。但现在xiaoz要放弃自建Umami，转投Cloudflare Web Analytics怀抱，具体见下文所述。为什么不再自建Umami？在使用Umami 三年多的时间以来，博主经历过2次",
+          "link": "https://blog.xiaoz.org/archives/22574",
+          "publishedOn": "2025-12-07T11:47:23.000Z",
+          "wordCount": 291,
+          "title": "折腾三年 Umami 后，我换成了 Cloudflare Web Analytics",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=22562",
           "author": "xiaoz",
