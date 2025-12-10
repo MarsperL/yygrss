@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-12-09T21:38:47.040Z</updated>
+    <updated>2025-12-10T21:42:46.220Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Containers Will Be More Important Than Ever in the 2026 Home Lab]]></title>
+        <id>https://www.virtualizationhowto.com/?p=307424</id>
+        <link href="https://www.virtualizationhowto.com/2025/12/why-containers-will-be-more-important-than-ever-in-the-2026-home-lab/"/>
+        <updated>2025-12-10T13:26:00.000Z</updated>
+        <summary type="html"><![CDATA[I think we are seeing a paradigm shift in hardware landscape with the surging price of consumer RAM. This is not only going to affect the obvious, RAM upgrades, but…
+The post Why Containers Will Be More Important Than Ever in the 2026 Home Lab appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPU Scheduling in Kubernetes: A Complete Guide]]></title>
+        <id>https://collabnix.com/?p=62329</id>
+        <link href="https://collabnix.com/gpu-scheduling-resource-management-in-kubernetes/"/>
+        <updated>2025-12-10T06:48:11.000Z</updated>
+        <summary type="html"><![CDATA[Understanding GPU Scheduling in Kubernetes As artificial intelligence and machine learning workloads continue to dominate enterprise computing, Kubernetes has emerged as the de facto platform for orchestrating GPU-accelerated applications. With ‘Kubernetes AI’ experiencing a 300% increase in search volume in 2025 and 48% of organizations now running AI/ML workloads on Kubernetes, understanding GPU scheduling and […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCP Linux Foundation: A Historic Milestone for AI]]></title>
+        <id>https://collabnix.com/?p=62316</id>
+        <link href="https://collabnix.com/mcp-joins-the-linux-foundation-a-historic-milestone-for-agentic-ai/"/>
+        <updated>2025-12-10T06:21:12.000Z</updated>
+        <summary type="html"><![CDATA[MCP Linux Foundation: A New Era for Agentic AI In a move that marks a pivotal moment for the AI industry, Anthropic has donated the Model Context Protocol (MCP) to the Linux Foundation, establishing it as a founding project of the newly created Agentic AI Foundation (AAIF). This announcement, made on December 9, 2025, brings […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CNCF in the AI Native Era? The Agentic AI Foundation Is Officially Established]]></title>
+        <id>https://jimmysong.io/blog/agentic-ai-foundation-cncf-era/</id>
+        <link href="https://jimmysong.io/blog/agentic-ai-foundation-cncf-era/"/>
+        <updated>2025-12-10T03:25:38.000Z</updated>
+        <summary type="html"><![CDATA[An analysis of the background, strategic urgency, differences and division of labor between Agentic AI Foundation (AAIF) and CNCF/CNAI, and its significance for the AI Native era.]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What a Good Web Hosting Service Should Always Include]]></title>
         <id>https://collabnix.com/?p=62281</id>
@@ -6752,26 +6793,6 @@ Bensz]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI 原生时代的 OSPO：从全球报告看中国企业的新机遇]]></title>
-        <id>https://jimmysong.io/blog/ospo-2025-report-cn-analysis/</id>
-        <link href="https://jimmysong.io/blog/ospo-2025-report-cn-analysis/"/>
-        <updated>2025-09-12T09:40:38.000Z</updated>
-        <summary type="html"><![CDATA[OSPO 已从合规与安全部门，演变为 AI 原生时代企业治理与创新的战略中枢。本文解析 2025 年 Linux Foundation 报告，并结合中国头部企业的开源实践，展望 OSPO 在中国的发展机遇。]]></summary>
-        <author>
-            <name>Jimmy Song</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[System Initiative 深度调研报告：AI Native 基础设施的探索]]></title>
-        <id>https://jimmysong.io/blog/system-initiative-ai-native-infra/</id>
-        <link href="https://jimmysong.io/blog/system-initiative-ai-native-infra/"/>
-        <updated>2025-09-12T08:07:16.000Z</updated>
-        <summary type="html"><![CDATA[System Initiative 通过 AI 代理与数字孪生技术，推动基础设施自动化进入新阶段。本文系统梳理其技术架构、产品特性及团队背景，帮助读者理解 AI Native Infra 的创新实践与未来趋势。]]></summary>
-        <author>
-            <name>Jimmy Song</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[zjkiza/sql-blade: 该包执行位于单独文件中的原始 SQL 查询，并具有嵌入 Blade 扩展的灵活性，能够使用 Blade 语法动态创建查询。]]></title>
         <id>https://github.com/zjkiza/sql-blade</id>
         <link href="https://github.com/zjkiza/sql-blade"/>
@@ -6789,16 +6810,6 @@ Bensz]]></summary>
         <summary type="html"><![CDATA[SmartPush,一款iOS苹果远程推送测试程序,Mac OS下的APNS工具APP,iOS Push Notification Debug App - shaojiankui/SmartPush]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vue项目接口防刷加固：接入腾讯云天御验证码实现人机验证、恶意请求拦截]]></title>
-        <id>https://www.mintimate.cn/2025/09/12/qcloudCaptchaIntegration/</id>
-        <link href="https://www.mintimate.cn/2025/09/12/qcloudCaptchaIntegration/"/>
-        <updated>2025-09-12T07:19:26.000Z</updated>
-        <summary type="html"><![CDATA[我们在设计一些公共业务接口的时候，比如登录、注册、找回密码等，为了防止恶意请求，我们通常会采用人机验证、恶意请求拦截等手段来保护我们的接口。本文将介绍如何使用腾讯云天御验证码来实现人机验证和恶意请求拦截。]]></summary>
-        <author>
-            <name>雨月空间站</name>
         </author>
     </entry>
     <entry>
@@ -6838,49 +6849,6 @@ Bensz]]></summary>
         <summary type="html"><![CDATA[A CLI tool and GitHub Action to post Go code coverage reports as comment to your pull requests. - fgrosse/go-coverage-report]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Many years on the job and I still don't get it.]]></title>
-        <id>https://daverupert.com/2025/09/you-cant-drink-coffee-on-a-running-horse/</id>
-        <link href="https://daverupert.com/2025/09/you-cant-drink-coffee-on-a-running-horse/"/>
-        <updated>2025-09-11T13:26:00.000Z</updated>
-        <summary type="html"><![CDATA[I’m coming up on 20 years of professional web development and I still don’t get it sometimes. I tend to measure myself or view work productivity through the lens of “How much code did I write?” and that does a great disservice to myself and what I do.
-There’s a lot more to the job:
-Checking email
-Scheduling calls
-Writing release notes
-Contributing to newsletters
-Documentation (code and otherwise)
-Making spreadsheets
-Demystifying the work I do to teammates
-Clarifying decisions
-Having technical conversations with teammates
-Having non-technical conversations with teammates
-Investigating weird browser behaviors
-Babysitting servers and build processes
-Reviewing PRs
-Manual QA on branch deploys
-Attending meetings
-Attending talks (internal/external)
-Cross-org contributions
-Learning
-Planning
-Dreaming
-Scheming
-Community Ops
-Moving cards across a board
-Reading thru backlogs
-Associating tickets to PRs
-Closing out old tickets
-Reading specs
-Giving feedback on web standards
-Eating lunch
-Taking walks
-Cleaning my home office
-These are all aspects of becoming a better web developer. It’s not always about lines-of-code or hours-in-chair. Ideally, we’re all shipping our creations, but sometimes you’re the lead role and sometimes you’re a supporting role. A lot of the work is immeasurable, but it all counts towards something. So… self, don’t be so hard on yourself.]]></summary>
-        <author>
-            <name>daverupert.com</name>
         </author>
     </entry>
     <entry>

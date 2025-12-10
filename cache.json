@@ -254,16 +254,6 @@
           "wordCount": null,
           "title": "Why I hate the MVP car",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/09/you-cant-drink-coffee-on-a-running-horse/",
-          "author": null,
-          "description": "I’m coming up on 20 years of professional web development and I still don’t get it sometimes. I tend to measure myself or view work productivity through the lens of “How much code did I write?” and that does a great disservice to myself and what I do.\nThere’s a lot more to the job:\nChecking email\nScheduling calls\nWriting release notes\nContributing to newsletters\nDocumentation (code and otherwise)\nMaking spreadsheets\nDemystifying the work I do to teammates\nClarifying decisions\nHaving technical conversations with teammates\nHaving non-technical conversations with teammates\nInvestigating weird browser behaviors\nBabysitting servers and build processes\nReviewing PRs\nManual QA on branch deploys\nAttending meetings\nAttending talks (internal/external)\nCross-org contributions\nLearning\nPlanning\nDreaming\nScheming\nCommunity Ops\nMoving cards across a board\nReading thru backlogs\nAssociating tickets to PRs\nClosing out old tickets\nReading specs\nGiving feedback on web standards\nEating lunch\nTaking walks\nCleaning my home office\nThese are all aspects of becoming a better web developer. It’s not always about lines-of-code or hours-in-chair. Ideally, we’re all shipping our creations, but sometimes you’re the lead role and sometimes you’re a supporting role. A lot of the work is immeasurable, but it all counts towards something. So… self, don’t be so hard on yourself.",
-          "link": "https://daverupert.com/2025/09/you-cant-drink-coffee-on-a-running-horse/",
-          "publishedOn": "2025-09-11T13:26:00.000Z",
-          "wordCount": null,
-          "title": "Many years on the job and I still don't get it.",
-          "imageUrl": null
         }
       ]
     },
@@ -829,6 +819,16 @@
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
         {
+          "id": "https://jimmysong.io/blog/agentic-ai-foundation-cncf-era/",
+          "author": "Jimmy Song",
+          "description": "An analysis of the background, strategic urgency, differences and division of labor between Agentic AI Foundation (AAIF) and CNCF/CNAI, and its significance for the AI Native era.",
+          "link": "https://jimmysong.io/blog/agentic-ai-foundation-cncf-era/",
+          "publishedOn": "2025-12-10T03:25:38.000Z",
+          "wordCount": 2146,
+          "title": "CNCF in the AI Native Era? The Agentic AI Foundation Is Officially Established",
+          "imageUrl": "https://assets.jimmysong.io/images/blog/agentic-ai-foundation-cncf-era/banner.webp"
+        },
+        {
           "id": "https://jimmysong.io/blog/bun-anthropic-runtime-shift/",
           "author": "Jimmy Song",
           "description": "Bun's acquisition by Anthropic marks the first time a general-purpose language runtime is integrated into a large model engineering system, revealing a structural trend for AI-native runtimes.",
@@ -1207,26 +1207,6 @@
           "wordCount": null,
           "title": "智能体的 21 种设计模式总结：Agentic Design Patterns 书评",
           "imageUrl": null
-        },
-        {
-          "id": "https://jimmysong.io/blog/ospo-2025-report-cn-analysis/",
-          "author": "Jimmy Song",
-          "description": "OSPO 已从合规与安全部门，演变为 AI 原生时代企业治理与创新的战略中枢。本文解析 2025 年 Linux Foundation 报告，并结合中国头部企业的开源实践，展望 OSPO 在中国的发展机遇。",
-          "link": "https://jimmysong.io/blog/ospo-2025-report-cn-analysis/",
-          "publishedOn": "2025-09-12T09:40:38.000Z",
-          "wordCount": null,
-          "title": "AI 原生时代的 OSPO：从全球报告看中国企业的新机遇",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jimmysong.io/blog/system-initiative-ai-native-infra/",
-          "author": "Jimmy Song",
-          "description": "System Initiative 通过 AI 代理与数字孪生技术，推动基础设施自动化进入新阶段。本文系统梳理其技术架构、产品特性及团队背景，帮助读者理解 AI Native Infra 的创新实践与未来趋势。",
-          "link": "https://jimmysong.io/blog/system-initiative-ai-native-infra/",
-          "publishedOn": "2025-09-12T08:07:16.000Z",
-          "wordCount": null,
-          "title": "System Initiative 深度调研报告：AI Native 基础设施的探索",
-          "imageUrl": null
         }
       ]
     },
@@ -1372,6 +1352,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=307424",
+          "author": "Brandon Lee",
+          "description": "I think we are seeing a paradigm shift in hardware landscape with the surging price of consumer RAM. This is not only going to affect the obvious, RAM upgrades, but…\nThe post Why Containers Will Be More Important Than Ever in the 2026 Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/12/why-containers-will-be-more-important-than-ever-in-the-2026-home-lab/",
+          "publishedOn": "2025-12-10T13:26:00.000Z",
+          "wordCount": 11646,
+          "title": "Why Containers Will Be More Important Than Ever in the 2026 Home Lab",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/12/home-lab-containers-2026.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=307356",
           "author": "Brandon Lee",
@@ -1829,6 +1819,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=62329",
+          "author": "Collabnix Team",
+          "description": "Understanding GPU Scheduling in Kubernetes As artificial intelligence and machine learning workloads continue to dominate enterprise computing, Kubernetes has emerged as the de facto platform for orchestrating GPU-accelerated applications. With ‘Kubernetes AI’ experiencing a 300% increase in search volume in 2025 and 48% of organizations now running AI/ML workloads on Kubernetes, understanding GPU scheduling and […]",
+          "link": "https://collabnix.com/gpu-scheduling-resource-management-in-kubernetes/",
+          "publishedOn": "2025-12-10T06:48:11.000Z",
+          "wordCount": 11509,
+          "title": "GPU Scheduling in Kubernetes: A Complete Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=62316",
+          "author": "Collabnix Team",
+          "description": "MCP Linux Foundation: A New Era for Agentic AI In a move that marks a pivotal moment for the AI industry, Anthropic has donated the Model Context Protocol (MCP) to the Linux Foundation, establishing it as a founding project of the newly created Agentic AI Foundation (AAIF). This announcement, made on December 9, 2025, brings […]",
+          "link": "https://collabnix.com/mcp-joins-the-linux-foundation-a-historic-milestone-for-agentic-ai/",
+          "publishedOn": "2025-12-10T06:21:12.000Z",
+          "wordCount": null,
+          "title": "MCP Linux Foundation: A Historic Milestone for AI",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=62281",
           "author": "Collabnix Team",
@@ -3885,16 +3895,6 @@
           "wordCount": 2390,
           "title": "告别环境配置烦恼：基于 Docker 打造丝滑的 All In One远程开发环境",
           "imageUrl": "https://imagehost.mintimate.cn/post_aioDevContainer/banner.webp"
-        },
-        {
-          "id": "https://www.mintimate.cn/2025/09/12/qcloudCaptchaIntegration/",
-          "author": null,
-          "description": "我们在设计一些公共业务接口的时候，比如登录、注册、找回密码等，为了防止恶意请求，我们通常会采用人机验证、恶意请求拦截等手段来保护我们的接口。本文将介绍如何使用腾讯云天御验证码来实现人机验证和恶意请求拦截。",
-          "link": "https://www.mintimate.cn/2025/09/12/qcloudCaptchaIntegration/",
-          "publishedOn": "2025-09-12T07:19:26.000Z",
-          "wordCount": 2231,
-          "title": "Vue项目接口防刷加固：接入腾讯云天御验证码实现人机验证、恶意请求拦截",
-          "imageUrl": "https://imagehost.mintimate.cn/post_qcloudCaptchaIntegration/banner.webp"
         }
       ]
     },
