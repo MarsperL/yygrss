@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-12-10T21:42:46.220Z</updated>
+    <updated>2025-12-11T21:40:18.633Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why the Kubernetes AI Conformance Program Changes Everything for Production AI Workloads]]></title>
+        <id>https://collabnix.com/?p=62424</id>
+        <link href="https://collabnix.com/why-the-kubernetes-ai-conformance-program-changes-everything-for-production-ai-workloads/"/>
+        <updated>2025-12-11T14:03:08.000Z</updated>
+        <summary type="html"><![CDATA[The Cloud Native Computing Foundation just dropped something significant at KubeCon + CloudNativeCon North America 2025: the Certified Kubernetes AI Conformance Program. If you’ve been running AI workloads on Kubernetes—or trying to—you already know why this matters. If you haven’t, let me explain why this is a game-changer for the entire AI infrastructure ecosystem. The […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaling Your Startup: How a QuickBooks-Integrated CRM Supports Growing Business Needs]]></title>
+        <id>https://collabnix.com/?p=62418</id>
+        <link href="https://collabnix.com/scaling-your-startup-how-a-quickbooks-integrated-crm-supports-growing-business-needs/"/>
+        <updated>2025-12-11T13:41:34.000Z</updated>
+        <summary type="html"><![CDATA[In the early days of a startup, it’s normal to run everything from QuickBooks, a shared inbox, and a couple of spreadsheets. You know every customer by name, you remember who owes what, and most important information lives in your head. But as your startup wins more clients, hires more people, and handles more deals […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do You Really Need Wi-Fi 7 in Your Home Lab in 2025?]]></title>
+        <id>https://www.virtualizationhowto.com/?p=307354</id>
+        <link href="https://www.virtualizationhowto.com/2025/12/do-you-really-need-wi-fi-7-in-your-home-lab-in-2025/"/>
+        <updated>2025-12-11T13:21:02.000Z</updated>
+        <summary type="html"><![CDATA[Usually we are thinking about upgrading other hardware in our home labs, including mini PCs, network switches, storage, and RAM (cough cough with today’s prices). However, there is another aspect…
+The post Do You Really Need Wi-Fi 7 in Your Home Lab in 2025? appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARK: Multi-Agent Systems Are Finally Entering the Engineer's World]]></title>
+        <id>https://jimmysong.io/blog/ark-agent-runtime-engineering/</id>
+        <link href="https://jimmysong.io/blog/ark-agent-runtime-engineering/"/>
+        <updated>2025-12-11T13:19:42.000Z</updated>
+        <summary type="html"><![CDATA[How ARK uses cloud-native architecture and declarative runtime to drive engineering adoption of multi-agent systems and shape the Agentic Runtime ecosystem.]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Kubernetes Runs Better on GPUs?]]></title>
+        <id>https://collabnix.com/?p=62414</id>
+        <link href="https://collabnix.com/why-kubernetes-runs-better-on-gpus/"/>
+        <updated>2025-12-11T13:07:37.000Z</updated>
+        <summary type="html"><![CDATA[The convergence of Kubernetes and GPU computing has fundamentally transformed how organizations deploy and scale artificial intelligence, machine learning, and data science workloads. As GPU-accelerated applications become increasingly mainstream, understanding why Kubernetes excels at orchestrating GPU resources is essential for modern infrastructure teams. The Evolution of GPU Support in Kubernetes Kubernetes revolutionized container orchestration when […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Role of Patient Education Content in Effective Medical SEO Strategies]]></title>
+        <id>https://collabnix.com/?p=62398</id>
+        <link href="https://collabnix.com/the-role-of-patient-education-content-in-effective-medical-seo-strategies/"/>
+        <updated>2025-12-11T09:10:30.000Z</updated>
+        <summary type="html"><![CDATA[In today’s digital environment, healthcare providers recognize the importance of a robust online presence. Effective medical search engine optimization (SEO) strategies are crucial in achieving this goal. Among various tactics, patient education content stands out as a key component. Well-crafted educational materials boost visibility and build trust with audiences. Understanding Medical SEO Medical SEO involves […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microservices For Video Screencasts On Kubernetes]]></title>
+        <id>https://collabnix.com/?p=62380</id>
+        <link href="https://collabnix.com/microservices-for-video-screencasts-on-kubernetes/"/>
+        <updated>2025-12-11T08:45:41.000Z</updated>
+        <summary type="html"><![CDATA[Technical screencasts and demo videos have quietly become core infrastructure for many engineering teams. A clean recording of a deployment walkthrough or cluster debugging session often saves more time than a long internal document. Once teams start producing these videos regularly, a familiar problem appears: huge files, manual editing, slow uploads, and no reproducible pipeline. […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Open Source Suddenly Disappear? An AI Chat Dev Tool Went 404 Overnight]]></title>
+        <id>https://jimmysong.io/blog/ai-project-lunary-404/</id>
+        <link href="https://jimmysong.io/blog/ai-project-lunary-404/"/>
+        <updated>2025-12-11T05:20:12.000Z</updated>
+        <summary type="html"><![CDATA[Lunary, an open-source project in the AI DevTool space, suddenly deleted its GitHub repo, exposing the instability of commercial open source projects.]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Containers Will Be More Important Than Ever in the 2026 Home Lab]]></title>
         <id>https://www.virtualizationhowto.com/?p=307424</id>
@@ -6724,16 +6805,6 @@ Bensz]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[寻找公园里的幸运]]></title>
-        <id>https://bluehe.cn/archives/people-park-lucky</id>
-        <link href="https://bluehe.cn/archives/people-park-lucky"/>
-        <updated>2025-09-13T08:24:00.000Z</updated>
-        <summary type="html"><![CDATA[毕业后似乎失去了保护一般，也面临着就业压力，虽然说大四的时候就应该找好实习工作，在努力争取转正，这便是最好的结局。不可能总是如此幸运，在小国企实习了三个月，项目接近尾声，我已经预感到无法转正了，领导让我决定是否在继续工作两个月，我拒绝了，这不是我所期望的。在南宁这座城市不断的寻找工作，也曾想前往广州深圳寻找发展机会，出去总归需要勇气，一张车票就可以前往，我更喜欢有规划性的做好准备，而不是说走就走。...]]></summary>
-        <author>
-            <name>寻鹤</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[sheafui/components: 一套为 Laravel 应用程序开发的开源用户界面组件，基于 Blade、Alpine.js 和 Livewire 构建。]]></title>
         <id>https://github.com/sheafui/components</id>
         <link href="https://github.com/sheafui/components"/>
@@ -6744,16 +6815,6 @@ Bensz]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[CookLikeHOC：用老乡鸡的方式烹饪美味，轻松上手的JavaScript项目！]]></title>
-        <id>https://www.dreamlyn.cn/1975778823.html</id>
-        <link href="https://www.dreamlyn.cn/1975778823.html"/>
-        <updated>2025-09-13T07:08:09.000Z</updated>
-        <summary type="html"><![CDATA[<h1 id="🍳-CookLikeHOC：用老乡鸡的方式烹饪美味，轻松上手的JavaScript项目！"><a href="#🍳-CookLikeHOC：用老乡鸡的方式烹饪美味，轻松上手的JavaScript项目！" class="headerlink" title="🍳]]></summary>
-        <author>
-            <name>牧尘的NAS小站</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[本文探讨了 Laravel 应用中竞态条件的问题，并提供了两种预防方法：Laravel 原子锁和 Redis 并发限制器。]]></title>
         <id>https://houdaslassi.com/blog/race-conditions-in-laravel-prevention-guide</id>
         <link href="https://houdaslassi.com/blog/race-conditions-in-laravel-prevention-guide"/>
@@ -6761,16 +6822,6 @@ Bensz]]></summary>
         <summary type="html"><![CDATA[Learn what race conditions are in Laravel applications and how to prevent them using atomic locks and Redis concurrency limiters with practical code examples.]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[salt-run很久才返回]]></title>
-        <id>http://zhangguanzhang.github.io/2025/09/12/salt-run-hang/</id>
-        <link href="http://zhangguanzhang.github.io/2025/09/12/salt-run-hang/"/>
-        <updated>2025-09-12T20:10:30.000Z</updated>
-        <summary type="html"><![CDATA[<p>一次 salt-run 很久才返回的排查</p>]]></summary>
-        <author>
-            <name>Zhangguanzhang</name>
         </author>
     </entry>
     <entry>

@@ -819,6 +819,26 @@
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
         {
+          "id": "https://jimmysong.io/blog/ark-agent-runtime-engineering/",
+          "author": "Jimmy Song",
+          "description": "How ARK uses cloud-native architecture and declarative runtime to drive engineering adoption of multi-agent systems and shape the Agentic Runtime ecosystem.",
+          "link": "https://jimmysong.io/blog/ark-agent-runtime-engineering/",
+          "publishedOn": "2025-12-11T13:19:42.000Z",
+          "wordCount": 2420,
+          "title": "ARK: Multi-Agent Systems Are Finally Entering the Engineer's World",
+          "imageUrl": "https://assets.jimmysong.io/images/blog/ark-agentic-runtime-for-kubernetes/banner.webp"
+        },
+        {
+          "id": "https://jimmysong.io/blog/ai-project-lunary-404/",
+          "author": "Jimmy Song",
+          "description": "Lunary, an open-source project in the AI DevTool space, suddenly deleted its GitHub repo, exposing the instability of commercial open source projects.",
+          "link": "https://jimmysong.io/blog/ai-project-lunary-404/",
+          "publishedOn": "2025-12-11T05:20:12.000Z",
+          "wordCount": null,
+          "title": "Can Open Source Suddenly Disappear? An AI Chat Dev Tool Went 404 Overnight",
+          "imageUrl": null
+        },
+        {
           "id": "https://jimmysong.io/blog/agentic-ai-foundation-cncf-era/",
           "author": "Jimmy Song",
           "description": "An analysis of the background, strategic urgency, differences and division of labor between Agentic AI Foundation (AAIF) and CNCF/CNAI, and its significance for the AI Native era.",
@@ -1353,6 +1373,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=307354",
+          "author": "Brandon Lee",
+          "description": "Usually we are thinking about upgrading other hardware in our home labs, including mini PCs, network switches, storage, and RAM (cough cough with today’s prices). However, there is another aspect…\nThe post Do You Really Need Wi-Fi 7 in Your Home Lab in 2025? appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/12/do-you-really-need-wi-fi-7-in-your-home-lab-in-2025/",
+          "publishedOn": "2025-12-11T13:21:02.000Z",
+          "wordCount": 11723,
+          "title": "Do You Really Need Wi-Fi 7 in Your Home Lab in 2025?",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/12/Wi-Fi-7-upgrade.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=307424",
           "author": "Brandon Lee",
           "description": "I think we are seeing a paradigm shift in hardware landscape with the surging price of consumer RAM. This is not only going to affect the obvious, RAM upgrades, but…\nThe post Why Containers Will Be More Important Than Ever in the 2026 Home Lab appeared first on Virtualization Howto.",
@@ -1819,6 +1849,56 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=62424",
+          "author": "Collabnix Team",
+          "description": "The Cloud Native Computing Foundation just dropped something significant at KubeCon + CloudNativeCon North America 2025: the Certified Kubernetes AI Conformance Program. If you’ve been running AI workloads on Kubernetes—or trying to—you already know why this matters. If you haven’t, let me explain why this is a game-changer for the entire AI infrastructure ecosystem. The […]",
+          "link": "https://collabnix.com/why-the-kubernetes-ai-conformance-program-changes-everything-for-production-ai-workloads/",
+          "publishedOn": "2025-12-11T14:03:08.000Z",
+          "wordCount": 13054,
+          "title": "Why the Kubernetes AI Conformance Program Changes Everything for Production AI Workloads",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=62418",
+          "author": "Collabnix Team",
+          "description": "In the early days of a startup, it’s normal to run everything from QuickBooks, a shared inbox, and a couple of spreadsheets. You know every customer by name, you remember who owes what, and most important information lives in your head. But as your startup wins more clients, hires more people, and handles more deals […]",
+          "link": "https://collabnix.com/scaling-your-startup-how-a-quickbooks-integrated-crm-supports-growing-business-needs/",
+          "publishedOn": "2025-12-11T13:41:34.000Z",
+          "wordCount": null,
+          "title": "Scaling Your Startup: How a QuickBooks-Integrated CRM Supports Growing Business Needs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=62414",
+          "author": "Collabnix Team",
+          "description": "The convergence of Kubernetes and GPU computing has fundamentally transformed how organizations deploy and scale artificial intelligence, machine learning, and data science workloads. As GPU-accelerated applications become increasingly mainstream, understanding why Kubernetes excels at orchestrating GPU resources is essential for modern infrastructure teams. The Evolution of GPU Support in Kubernetes Kubernetes revolutionized container orchestration when […]",
+          "link": "https://collabnix.com/why-kubernetes-runs-better-on-gpus/",
+          "publishedOn": "2025-12-11T13:07:37.000Z",
+          "wordCount": null,
+          "title": "Why Kubernetes Runs Better on GPUs?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=62398",
+          "author": "Tanvir Kour",
+          "description": "In today’s digital environment, healthcare providers recognize the importance of a robust online presence. Effective medical search engine optimization (SEO) strategies are crucial in achieving this goal. Among various tactics, patient education content stands out as a key component. Well-crafted educational materials boost visibility and build trust with audiences. Understanding Medical SEO Medical SEO involves […]",
+          "link": "https://collabnix.com/the-role-of-patient-education-content-in-effective-medical-seo-strategies/",
+          "publishedOn": "2025-12-11T09:10:30.000Z",
+          "wordCount": null,
+          "title": "The Role of Patient Education Content in Effective Medical SEO Strategies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=62380",
+          "author": "Tanvir Kour",
+          "description": "Technical screencasts and demo videos have quietly become core infrastructure for many engineering teams. A clean recording of a deployment walkthrough or cluster debugging session often saves more time than a long internal document. Once teams start producing these videos regularly, a familiar problem appears: huge files, manual editing, slow uploads, and no reproducible pipeline. […]",
+          "link": "https://collabnix.com/microservices-for-video-screencasts-on-kubernetes/",
+          "publishedOn": "2025-12-11T08:45:41.000Z",
+          "wordCount": null,
+          "title": "Microservices For Video Screencasts On Kubernetes",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=62329",
           "author": "Collabnix Team",
@@ -3533,21 +3613,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bluehe.cn/usr/uploads/2025/10/P20250914-161902_1.webp"
-        },
-        {
-          "id": "https://bluehe.cn/archives/people-park-lucky",
-          "author": "寻鹤",
-          "description": "毕业后似乎失去了保护一般，也面临着就业压力，虽然说大四的时候就应该找好实习工作，在努力争取转正，这便是最好的结局。不可能总是如此幸运，在小国企实习了三个月，项目接近尾声，我已经预感到无法转正了，领导让我决定是否在继续工作两个月，我拒绝了，这不是我所期望的。在南宁这座城市不断的寻找工作，也曾想前往广州深圳寻找发展机会，出去总归需要勇气，一张车票就可以前往，我更喜欢有规划性的做好准备，而不是说走就走。...",
-          "link": "https://bluehe.cn/archives/people-park-lucky",
-          "publishedOn": "2025-09-13T08:24:00.000Z",
-          "wordCount": null,
-          "title": "寻找公园里的幸运",
-          "enclosure": {
-            "url": "https://bluehe.cn/usr/uploads/2025/09/2477840953.jpg",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bluehe.cn/usr/uploads/2025/09/2477840953.jpg"
         }
       ]
     },
@@ -3861,16 +3926,6 @@
           "publishedOn": "2025-11-13T05:05:16.347Z",
           "wordCount": 819,
           "title": "Windows 下 OpenCV 编译与 GoCV 安装实战",
-          "imageUrl": "https://img.dreamlyn.cn:8443/i/2024/02/22/115030.webp"
-        },
-        {
-          "id": "https://www.dreamlyn.cn/1975778823.html",
-          "author": null,
-          "description": "<h1 id=\"🍳-CookLikeHOC：用老乡鸡的方式烹饪美味，轻松上手的JavaScript项目！\"><a href=\"#🍳-CookLikeHOC：用老乡鸡的方式烹饪美味，轻松上手的JavaScript项目！\" class=\"headerlink\" title=\"🍳",
-          "link": "https://www.dreamlyn.cn/1975778823.html",
-          "publishedOn": "2025-09-13T07:08:09.000Z",
-          "wordCount": 620,
-          "title": "CookLikeHOC：用老乡鸡的方式烹饪美味，轻松上手的JavaScript项目！",
           "imageUrl": "https://img.dreamlyn.cn:8443/i/2024/02/22/115030.webp"
         }
       ]
@@ -4262,16 +4317,6 @@
           "publishedOn": "2025-09-23T10:10:30.000Z",
           "wordCount": null,
           "title": "个别节点上 flannel.1 的 IP 无法 ping",
-          "imageUrl": null
-        },
-        {
-          "id": "http://zhangguanzhang.github.io/2025/09/12/salt-run-hang/",
-          "author": null,
-          "description": "<p>一次 salt-run 很久才返回的排查</p>",
-          "link": "http://zhangguanzhang.github.io/2025/09/12/salt-run-hang/",
-          "publishedOn": "2025-09-12T20:10:30.000Z",
-          "wordCount": null,
-          "title": "salt-run很久才返回",
           "imageUrl": null
         }
       ]
