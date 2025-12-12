@@ -87,16 +87,6 @@
           "wordCount": null,
           "title": "IMbrave152：TIGIT抗体未能给晚期肝癌的一线治疗增效 #ESMO25",
           "imageUrl": null
-        },
-        {
-          "id": "http://whyes.org/2025/leap-012-hcc-tace-len-pembro-china",
-          "author": null,
-          "description": "在刚刚召开的 CSCO 年会上，LEAP-012 研究（中期为主的肝细胞癌：TACE+仑伐替尼+帕博利珠单抗 vs TACE+双安慰剂）公布了中国区患者的数据。主要借助中国区亚组的患者数据，这项联合治疗已经在国内获批上市，并且是同类方案中唯...",
-          "link": "http://whyes.org/2025/leap-012-hcc-tace-len-pembro-china",
-          "publishedOn": "2025-09-14T04:47:20.000Z",
-          "wordCount": 178,
-          "title": "LEAP-012 研究中国人群数据公布，OS 获益趋势明确 #CSCO25",
-          "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
         }
       ]
     },
@@ -819,6 +809,26 @@
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
         {
+          "id": "https://jimmysong.io/blog/goose-aaif-agentic-runtime/",
+          "author": "Jimmy Song",
+          "description": "An analysis of Block's Goose project, why it became one of the first Agentic AI Foundation (AAIF) projects, and what this means for Agentic Runtime and the evolution of AI-Native infrastructure.",
+          "link": "https://jimmysong.io/blog/goose-aaif-agentic-runtime/",
+          "publishedOn": "2025-12-12T08:16:48.000Z",
+          "wordCount": 2182,
+          "title": "Decoding Goose: Why It Joined AAIF and What This Means for Agentic Runtime",
+          "imageUrl": "https://assets.jimmysong.io/images/blog/goose-aaif-agentic-runtime/banner.webp"
+        },
+        {
+          "id": "https://jimmysong.io/blog/ark-agentic-runtime-for-kubernetes/",
+          "author": "Jimmy Song",
+          "description": "How ARK uses cloud-native architecture and declarative runtime to drive engineering adoption of multi-agent systems and shape the Agentic Runtime ecosystem.",
+          "link": "https://jimmysong.io/blog/ark-agentic-runtime-for-kubernetes/",
+          "publishedOn": "2025-12-11T13:19:42.000Z",
+          "wordCount": null,
+          "title": "ARK: Multi-Agent Systems Are Finally Entering the Engineer's World",
+          "imageUrl": null
+        },
+        {
           "id": "https://jimmysong.io/blog/ark-agent-runtime-engineering/",
           "author": "Jimmy Song",
           "description": "How ARK uses cloud-native architecture and declarative runtime to drive engineering adoption of multi-agent systems and shape the Agentic Runtime ecosystem.",
@@ -1217,16 +1227,6 @@
           "wordCount": null,
           "title": "试用 Verdent 的一些感受：一款支持 Subagent 的 AI 编程助手",
           "imageUrl": null
-        },
-        {
-          "id": "https://jimmysong.io/blog/agentic-design-patterns-review/",
-          "author": "Jimmy Song",
-          "description": "探索智能体设计的 21 种模式，提升 AI 系统的自主性与效率，助力开发者应对复杂挑战。",
-          "link": "https://jimmysong.io/blog/agentic-design-patterns-review/",
-          "publishedOn": "2025-09-13T12:56:37.000Z",
-          "wordCount": null,
-          "title": "智能体的 21 种设计模式总结：Agentic Design Patterns 书评",
-          "imageUrl": null
         }
       ]
     },
@@ -1372,6 +1372,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=307474",
+          "author": "Brandon Lee",
+          "description": "If you were able to wipe the slate clean and start your home lab journey fresh today for the beginning of 2026, what would your starter stack look like? I…\nThe post Ultimate Home Lab Starter Stack for 2026 (Key Recommendations) appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/12/ultimate-home-lab-starter-stack-for-2026-key-recommendations/",
+          "publishedOn": "2025-12-12T13:13:59.000Z",
+          "wordCount": 12148,
+          "title": "Ultimate Home Lab Starter Stack for 2026 (Key Recommendations)",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/12/Ultimate-home-lab-stack-2026-3.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=307354",
           "author": "Brandon Lee",
@@ -1849,6 +1859,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=62530",
+          "author": "Tanvir Kour",
+          "description": "Far from just “writing,” technical documentation has always required an architectural discipline. But in 2025, that architecture is being built differently. We’re moving beyond the days of manual drafting and staring at a blinking cursor. Today, our role looks more like “Knowledge Operations Engineers,” shaping, prompting, and organizing intelligent data. And our tools are evolving […]",
+          "link": "https://collabnix.com/ai-for-technical-writing-best-tools-for-documentation-knowledge-bases/",
+          "publishedOn": "2025-12-12T06:34:08.000Z",
+          "wordCount": 9346,
+          "title": "AI for Technical Writing: Best Tools for Documentation & Knowledge Bases",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=62424",
           "author": "Collabnix Team",
@@ -3028,96 +3048,6 @@
           "wordCount": null,
           "title": "Cerebras: revolutionizing AI infrastructure with wafer-scale computing",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=53496",
-          "author": "Collabnix Team",
-          "description": "If you’ve been keeping up with the rapidly evolving AI landscape, you’ve probably heard whispers about Qwen 3 – Alibaba’s latest AI powerhouse that’s making developers and AI enthusiasts worldwide take notice. But what exactly is Qwen 3, and why is everyone talking about it? In this comprehensive guide, we’ll dive deep into everything you […]",
-          "link": "https://collabnix.com/qwen-3-the-game-changing-ai-model-thats-revolutionizing-local-ai-development/",
-          "publishedOn": "2025-09-14T02:59:17.000Z",
-          "wordCount": null,
-          "title": "Qwen 3: The Game-Changing AI Model That’s Revolutionizing Local AI Development",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=53373",
-          "author": "Collabnix Team",
-          "description": "Discover how Docker's revolutionary cagent framework is transforming AI agent development with simple YAML configurations, multi-agent orchestration, and seamless tool integration.",
-          "link": "https://collabnix.com/what-is-docker-cagent-and-what-problem-does-it-solve/",
-          "publishedOn": "2025-09-13T19:30:37.000Z",
-          "wordCount": null,
-          "title": "What is Docker cagent and what problem does it solve?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=53346",
-          "author": "Tanvir Kour",
-          "description": "Docker isn’t just a buzzword anymore—it’s the backbone of modern software development. With over 13 billion container downloads per month and a market projected to reach $993 million by 2025, Docker has become as essential as knowing how to code itself. But here’s the shocking truth: 90% of developers are using Docker wrong. If you’re […]",
-          "link": "https://collabnix.com/the-ultimate-docker-guide-thats-breaking-the-internet-in-2025-why-90-of-developers-are-getting-it-wrong-and-how-to-join-the-top-10/",
-          "publishedOn": "2025-09-13T17:37:34.000Z",
-          "wordCount": null,
-          "title": "The Ultimate Docker Guide That’s Breaking the Internet in 2025: Why 90% of Developers Are Getting It Wrong (And How to Join the Top 10%)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=53341",
-          "author": "Tanvir Kour",
-          "description": "A comprehensive guide to understanding, implementing, and securing autonomous AI systems in enterprise environments As Agentic AI systems transition from experimental tools to mission-critical business infrastructure, organizations face unprecedented security challenges. Unlike traditional AI that responds to prompts, Agentic AI operates autonomously—planning, executing, and adapting across multiple systems with minimal human oversight. This comprehensive analysis […]",
-          "link": "https://collabnix.com/agentic-ai-security-threats-architectures-mitigations/",
-          "publishedOn": "2025-09-13T17:16:15.000Z",
-          "wordCount": null,
-          "title": "Agentic AI Security: Threats, Architectures & Mitigations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=53339",
-          "author": "Collabnix Team",
-          "description": "Why the shift from traditional AI to autonomous agents is creating a cybersecurity nightmare that 93% of security leaders aren’t prepared for The Shock That Changed Everything Picture this: You wake up Monday morning to discover your AI assistant has autonomously approved $2.3 million in fraudulent transactions, granted system access to unauthorized users, and leaked […]",
-          "link": "https://collabnix.com/5-agentic-ai-threats-that-could-cripple-your-business-in-2025/",
-          "publishedOn": "2025-09-13T17:10:51.000Z",
-          "wordCount": null,
-          "title": "5 Agentic AI Threats That Could Cripple Your Business in 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=53334",
-          "author": "Tanvir Kour",
-          "description": "Run ChatGPT-level AI models on your laptop for FREE – No API bills, complete privacy, and unlimited usage! Ollama has revolutionized local AI by making it ridiculously easy to run powerful language models on your own hardware. Think of it as “Docker for AI models” – one command and you’re running models that rival ChatGPT, […]",
-          "link": "https://collabnix.com/the-complete-ollama-guide-2025-from-zero-to-ai-hero-with-50-code-examples/",
-          "publishedOn": "2025-09-13T17:06:04.000Z",
-          "wordCount": null,
-          "title": "The Complete Ollama Guide 2025: From Zero to AI Hero (With 50+ Code Examples!)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=53330",
-          "author": "Tanvir Kour",
-          "description": "Explore the future of decentralized social media, from blockchain-based platforms to user-owned content. Learn how it works, what it solves, and where it's headed.",
-          "link": "https://collabnix.com/what-decentralized-social-media-could-look-like-in-2025/",
-          "publishedOn": "2025-09-13T16:38:45.000Z",
-          "wordCount": null,
-          "title": "What Decentralized Social Media Could Look Like in 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=53326",
-          "author": "Tanvir Kour",
-          "description": "DevOps is more than just automation or fast deployment. The way a team interacts is just as important as the tools they use. Research shows that culture, especially the recognition-first type, greatly impacts delivery performance and employee well-being. In this environment, celebrating wins is not an afterthought. It becomes a regular, visible part of working […]",
-          "link": "https://collabnix.com/building-high-performing-devops-teams-through-meaningful-recognition/",
-          "publishedOn": "2025-09-13T16:34:19.000Z",
-          "wordCount": null,
-          "title": "Building High-Performing DevOps Teams Through Meaningful Recognition",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=53323",
-          "author": "Tanvir Kour",
-          "description": "Protecting music publishing APIs must go beyond basic coding practices. Security ensures that valuable release metadata, audio uploads, and client data remain safe. What makes an effective checklist? Stay tuned as we discuss all the key points you need to cover in your API development efforts. OAuth Scopes for Permission Control OAuth scopes define which […]",
-          "link": "https://collabnix.com/security-checklist-for-music-publishing-apis/",
-          "publishedOn": "2025-09-13T16:28:31.000Z",
-          "wordCount": null,
-          "title": "Security Checklist for Music Publishing APIs",
-          "imageUrl": null
         }
       ]
     },
@@ -3445,16 +3375,6 @@
           "publishedOn": "2025-09-14T23:07:00.000Z",
           "wordCount": null,
           "title": "2025W36：喝咖啡，遇暴雨",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.skyue.com/25091409.html",
-          "author": "拾月",
-          "description": "昨天到杨公堤15号体验，跟着导航从天目山路突然拐进飞达巷，途经蚂蚁Z空间，勾起了很多回忆。",
-          "link": "https://www.skyue.com/25091409.html",
-          "publishedOn": "2025-09-14T01:40:00.000Z",
-          "wordCount": null,
-          "title": "飞达巷",
           "imageUrl": null
         }
       ]
@@ -4017,6 +3937,16 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=22614",
+          "author": "xiaoz",
+          "description": "游惠宝国际漫游长效卡是一款可在中国大陆漫游使用上网卡，支持漫游中国大陆、中国香港、中国澳门、新加坡、马来西亚等22个国家地区的流量。除了漫游上网外还可额外选购香港电话号码，号码可用于接收短信和注册海外服务。适用场景游惠宝长效卡适用于以下任意一种场景：经常在中国大陆、港、澳、新加坡等多地出差的商务人士",
+          "link": "https://blog.xiaoz.org/archives/22614",
+          "publishedOn": "2025-12-12T07:24:58.000Z",
+          "wordCount": 251,
+          "title": "游惠宝长效卡12月福利，大陆港澳轻松漫游上网，支持收短信",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=22574",
           "author": "xiaoz",
