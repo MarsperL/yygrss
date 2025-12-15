@@ -3828,16 +3828,6 @@
           "wordCount": null,
           "title": "Ubuntu 系统无法通过 pip 命令安装 Python 库问题解决",
           "imageUrl": null
-        },
-        {
-          "id": "https://dusays.com/827/",
-          "author": null,
-          "description": "<blockquote>\n<p>随着相机像素越来越大，图片体积也变大了。在图片处理中，较大的文件体积会影响性能，因此杜老师会先生成缩略图，筛选完成后再通过 Python 脚本实现图片相似度匹配。这里是一个简单的示例，供需要的小伙伴们参考。</p>\n</blockquote>",
-          "link": "https://dusays.com/827/",
-          "publishedOn": "2025-09-15T16:00:00.000Z",
-          "wordCount": null,
-          "title": "使用 Python 脚本实现图片相似度匹配",
-          "imageUrl": null
         }
       ]
     },
@@ -3898,6 +3888,16 @@
       "feedUrl": "https://zahui.fan/atom.xml",
       "siteUrl": "https://zahui.fan/atom.xml",
       "articles": [
+        {
+          "id": "https://zahui.fan/posts/t79irt/",
+          "author": null,
+          "description": "<p>很早之前我在上学的时候给安卓手机刷机，root 后还可以安装了个号称 Linux 瑞士军刀的 App，不过没搞懂有什么用，不过记住了这个难忘的名字 – BusyBox</p>\n<h2 id=\"BusyBox-是什么\"><a href=\"#BusyBox-是什么\" class=\"headerlink\" title=\"BusyBox 是什么\"></a>BusyBox",
+          "link": "https://zahui.fan/posts/t79irt/",
+          "publishedOn": "2025-12-14T13:57:28.000Z",
+          "wordCount": 1507,
+          "title": "容器调试工具之BusyBox",
+          "imageUrl": "https://s3.babudiu.com/iuxt/public/skeleton1.svg"
+        },
         {
           "id": "https://zahui.fan/posts/t5tiax/",
           "author": null,
@@ -4380,21 +4380,6 @@
             "length": "56203"
           },
           "imageUrl": "https://jia.je/assets/images/social/blog/posts/software/blog-analytics-three-months.png"
-        },
-        {
-          "id": "https://jia.je/hardware/2025/09/10/arm-core-development/",
-          "author": null,
-          "description": "ARM 公版核微架构演进¶\n背景¶\nARM 公版核微架构的演进频繁，型号又比较多，相关信息散落在各种地方，为了方便查阅，在这里做一个收集。\n\n2025 年¶\nC1-Ultra¶\n\nArmの新しいCPU「C1」は2桁パーセントの性能アップ。電力効率も大幅改善\nInside Arm's New C1‑Ultra CPU: Double‑Digit IPC Gains Again!\nC1-Ultra: successor to Cortex X925\nBranch prediction: Additional tracking for local/per-PC history\n33% increase in L1 I-Cache available bandwidth\nOut of order window size growth: Up to 25% growth, Up to ~2K instruction in flight\n2x L1 data cache capacity (128KB)\nData prefetchers: array-indexing coverage\n\nArm® C1-Ultra Core Technical Reference Manual\nImplementation of the Scalable Vector Extension (SVE) with a 128-bit vector length and Scalable Vector Extension 2 (SVE2)\nImplementation of the Scalable Matrix Extension (SME) and Scalable Matrix Extension 2 (SME2), and support for the C1-SME2 unit\nconfigure…",
-          "link": "https://jia.je/hardware/2025/09/10/arm-core-development/",
-          "publishedOn": "2025-09-10T00:00:00.000Z",
-          "wordCount": 2739,
-          "title": "ARM 公版核微架构演进",
-          "enclosure": {
-            "url": "https://jia.je/assets/images/social/blog/posts/hardware/arm-core-development.png",
-            "type": "image/png",
-            "length": "70789"
-          },
-          "imageUrl": "https://jia.je/assets/images/social/blog/posts/hardware/arm-core-development.png"
         }
       ]
     },

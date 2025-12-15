@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-12-13T21:35:33.193Z</updated>
+    <updated>2025-12-15T00:24:29.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[容器调试工具之BusyBox]]></title>
+        <id>https://zahui.fan/posts/t79irt/</id>
+        <link href="https://zahui.fan/posts/t79irt/"/>
+        <updated>2025-12-14T13:57:28.000Z</updated>
+        <summary type="html"><![CDATA[<p>很早之前我在上学的时候给安卓手机刷机，root 后还可以安装了个号称 Linux 瑞士军刀的 App，不过没搞懂有什么用，不过记住了这个难忘的名字 – BusyBox</p>
+<h2 id="BusyBox-是什么"><a href="#BusyBox-是什么" class="headerlink" title="BusyBox 是什么"></a>BusyBox]]></summary>
+        <author>
+            <name>杂烩饭</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[奋斗就是，每一天都很难]]></title>
         <id>https://4311346.com/post/2025/1213-difficult.html</id>
@@ -6726,18 +6737,6 @@ Bensz]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[使用 Python 脚本实现图片相似度匹配]]></title>
-        <id>https://dusays.com/827/</id>
-        <link href="https://dusays.com/827/"/>
-        <updated>2025-09-15T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>随着相机像素越来越大，图片体积也变大了。在图片处理中，较大的文件体积会影响性能，因此杜老师会先生成缩略图，筛选完成后再通过 Python 脚本实现图片相似度匹配。这里是一个简单的示例，供需要的小伙伴们参考。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[the-ora/browser: Ora 是一款快速、安全、美观的浏览器，专为 macOS 设计。受 Safari 和 Arc 的启发，Ora 提供了一个干净、原生的体验，让人感觉在 macOS 上使用得心应手——没有多余的臃肿。]]></title>
         <id>https://github.com/the-ora/browser</id>
         <link href="https://github.com/the-ora/browser"/>
@@ -6985,35 +6984,6 @@ Bensz]]></summary>
         <updated>2025-09-10T08:00:00.000Z</updated>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARM 公版核微架构演进]]></title>
-        <id>https://jia.je/hardware/2025/09/10/arm-core-development/</id>
-        <link href="https://jia.je/hardware/2025/09/10/arm-core-development/"/>
-        <updated>2025-09-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[ARM 公版核微架构演进¶
-背景¶
-ARM 公版核微架构的演进频繁，型号又比较多，相关信息散落在各种地方，为了方便查阅，在这里做一个收集。
-
-2025 年¶
-C1-Ultra¶
-
-Armの新しいCPU「C1」は2桁パーセントの性能アップ。電力効率も大幅改善
-Inside Arm's New C1‑Ultra CPU: Double‑Digit IPC Gains Again!
-C1-Ultra: successor to Cortex X925
-Branch prediction: Additional tracking for local/per-PC history
-33% increase in L1 I-Cache available bandwidth
-Out of order window size growth: Up to 25% growth, Up to ~2K instruction in flight
-2x L1 data cache capacity (128KB)
-Data prefetchers: array-indexing coverage
-
-Arm® C1-Ultra Core Technical Reference Manual
-Implementation of the Scalable Vector Extension (SVE) with a 128-bit vector length and Scalable Vector Extension 2 (SVE2)
-Implementation of the Scalable Matrix Extension (SME) and Scalable Matrix Extension 2 (SME2), and support for the C1-SME2 unit
-configure…]]></summary>
-        <author>
-            <name>杰哥的{运维，编程，调板子}小笔记</name>
         </author>
     </entry>
     <entry>
