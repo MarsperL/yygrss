@@ -1373,6 +1373,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=307572",
+          "author": "Brandon Lee",
+          "description": "An aspect of maintaining a production environment or home lab environment that I have personally never really enjoyed is patching. However, it is one of those necessary evils when you…\nThe post PatchMon Is the Linux Update GUI I’ve Been Wanting for My Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/12/patchmon-is-the-linux-update-gui-ive-been-wanting-for-my-home-lab/",
+          "publishedOn": "2025-12-15T13:23:36.000Z",
+          "wordCount": 12199,
+          "title": "PatchMon Is the Linux Update GUI I’ve Been Wanting for My Home Lab",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/12/Meet-PatchMon-3.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=307474",
           "author": "Brandon Lee",
           "description": "If you were able to wipe the slate clean and start your home lab journey fresh today for the beginning of 2026, what would your starter stack look like? I…\nThe post Ultimate Home Lab Starter Stack for 2026 (Key Recommendations) appeared first on Virtualization Howto.",
@@ -1859,6 +1869,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=62902",
+          "author": "Collabnix Team",
+          "description": "Minikube is a powerful tool that lets you run Kubernetes locally on your Ubuntu machine. Whether you’re a developer testing Kubernetes applications or learning container orchestration, Minikube provides a lightweight, single-node Kubernetes cluster that’s perfect for development and testing purposes. In this comprehensive guide, I’ll walk you through everything you need to know about installing […]",
+          "link": "https://collabnix.com/how-to-install-minikube-on-ubuntu-linux-complete-step-by-step-guide/",
+          "publishedOn": "2025-12-15T08:50:50.000Z",
+          "wordCount": 6936,
+          "title": "How To Install Minikube on Ubuntu (Linux): Complete Step-by-Step Guide",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=62605",
           "author": "Collabnix Team",
@@ -3037,26 +3057,6 @@
           "publishedOn": "2025-09-17T14:22:02.000Z",
           "wordCount": null,
           "title": "The Role of IT in Building Resilient Manufacturing Operations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=53762",
-          "author": "Collabnix Team",
-          "description": "OpenAI has released GPT-5-Codex, a specialized AI coding model that can work autonomously for hours, revolutionizing software development with advanced agentic capabilities and superior code review features.",
-          "link": "https://collabnix.com/openai-launches-gpt-5-codex-the-ultimate-ai-coding-companion-that-can-work-for-7-hours-independently/",
-          "publishedOn": "2025-09-16T14:55:32.000Z",
-          "wordCount": null,
-          "title": "OpenAI Launches GPT-5-Codex: The Ultimate AI Coding Companion That Can Work for 7+ Hours Independently",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=53753",
-          "author": "Collabnix Team",
-          "description": "As artificial intelligence models continue to grow in size and complexity, the computational and memory requirements for deployment have become increasingly prohibitive. Modern large language models (LLMs) like GPT-4 and Claude contain hundreds of billions of parameters, requiring substantial hardware resources for both training and inference. Quantization has emerged as one of the most effective […]",
-          "link": "https://collabnix.com/understanding-quantization-in-ai-a-deep-dive-into-model-compression-techniques/",
-          "publishedOn": "2025-09-16T14:15:56.000Z",
-          "wordCount": null,
-          "title": "Understanding Quantization in AI: A Deep Dive into Model Compression Techniques",
           "imageUrl": null
         }
       ]

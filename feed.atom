@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-12-15T00:24:29.537Z</updated>
+    <updated>2025-12-15T21:40:27.569Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PatchMon Is the Linux Update GUI I’ve Been Wanting for My Home Lab]]></title>
+        <id>https://www.virtualizationhowto.com/?p=307572</id>
+        <link href="https://www.virtualizationhowto.com/2025/12/patchmon-is-the-linux-update-gui-ive-been-wanting-for-my-home-lab/"/>
+        <updated>2025-12-15T13:23:36.000Z</updated>
+        <summary type="html"><![CDATA[An aspect of maintaining a production environment or home lab environment that I have personally never really enjoyed is patching. However, it is one of those necessary evils when you…
+The post PatchMon Is the Linux Update GUI I’ve Been Wanting for My Home Lab appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Install Minikube on Ubuntu (Linux): Complete Step-by-Step Guide]]></title>
+        <id>https://collabnix.com/?p=62902</id>
+        <link href="https://collabnix.com/how-to-install-minikube-on-ubuntu-linux-complete-step-by-step-guide/"/>
+        <updated>2025-12-15T08:50:50.000Z</updated>
+        <summary type="html"><![CDATA[Minikube is a powerful tool that lets you run Kubernetes locally on your Ubuntu machine. Whether you’re a developer testing Kubernetes applications or learning container orchestration, Minikube provides a lightweight, single-node Kubernetes cluster that’s perfect for development and testing purposes. In this comprehensive guide, I’ll walk you through everything you need to know about installing […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[容器调试工具之BusyBox]]></title>
         <id>https://zahui.fan/posts/t79irt/</id>
@@ -6694,26 +6715,6 @@ Bensz]]></summary>
         <summary type="html"><![CDATA[🔊 Simple, pretty, testable console output for PHP CLI apps. - shalvah/clara]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Launches GPT-5-Codex: The Ultimate AI Coding Companion That Can Work for 7+ Hours Independently]]></title>
-        <id>https://collabnix.com/?p=53762</id>
-        <link href="https://collabnix.com/openai-launches-gpt-5-codex-the-ultimate-ai-coding-companion-that-can-work-for-7-hours-independently/"/>
-        <updated>2025-09-16T14:55:32.000Z</updated>
-        <summary type="html"><![CDATA[OpenAI has released GPT-5-Codex, a specialized AI coding model that can work autonomously for hours, revolutionizing software development with advanced agentic capabilities and superior code review features.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Quantization in AI: A Deep Dive into Model Compression Techniques]]></title>
-        <id>https://collabnix.com/?p=53753</id>
-        <link href="https://collabnix.com/understanding-quantization-in-ai-a-deep-dive-into-model-compression-techniques/"/>
-        <updated>2025-09-16T14:15:56.000Z</updated>
-        <summary type="html"><![CDATA[As artificial intelligence models continue to grow in size and complexity, the computational and memory requirements for deployment have become increasingly prohibitive. Modern large language models (LLMs) like GPT-4 and Claude contain hundreds of billions of parameters, requiring substantial hardware resources for both training and inference. Quantization has emerged as one of the most effective […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
         </author>
     </entry>
     <entry>
