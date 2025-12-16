@@ -1373,6 +1373,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=307626",
+          "author": "Brandon Lee",
+          "description": "Having redundant DNS servers in a home lab is a great idea and helps to shore up one of the single points of failure that we can have in the…\nThe post Stop Using Pi-Hole Sync Tools and Use Technitium DNS Clustering Instead appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/12/stop-using-pi-hole-sync-tools-and-use-technitium-dns-clustering-instead/",
+          "publishedOn": "2025-12-16T13:15:27.000Z",
+          "wordCount": 12263,
+          "title": "Stop Using Pi-Hole Sync Tools and Use Technitium DNS Clustering Instead",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/12/technitium-dns-clustering.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=307572",
           "author": "Brandon Lee",
           "description": "An aspect of maintaining a production environment or home lab environment that I have personally never really enjoyed is patching. However, it is one of those necessary evils when you…\nThe post PatchMon Is the Linux Update GUI I’ve Been Wanting for My Home Lab appeared first on Virtualization Howto.",
@@ -3048,16 +3058,6 @@
           "wordCount": null,
           "title": "Multi-Agent and Multi-LLM Architecture: Complete Guide for 2025",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=53958",
-          "author": "Tanvir Kour",
-          "description": "Manufacturing has always been vulnerable to disruption—supply chain delays, labor shortages, or unexpected global events that can shut down production lines overnight. The pandemic proved just how fragile traditional manufacturing operations really are when everything depends on predictable conditions. In today’s digital-first economy, resilience is no longer optional for manufacturers who want to survive the […]",
-          "link": "https://collabnix.com/the-role-of-it-in-building-resilient-manufacturing-operations/",
-          "publishedOn": "2025-09-17T14:22:02.000Z",
-          "wordCount": null,
-          "title": "The Role of IT in Building Resilient Manufacturing Operations",
-          "imageUrl": null
         }
       ]
     },
@@ -3957,6 +3957,16 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=22624",
+          "author": "xiaoz",
+          "description": "Process Explorer是一款强大的Windows系统进程管理工具，可详细查看、监控和管理进程、线程、文件及注册表活动，是任务管理器的增强替代品。本文将手把手教你用它定位 Windows 弹窗来源。起因xiaoz桌面最近弹出下面广告，各位知道是哪个软件干的吗？xiaoz自认为有丰富的Wind",
+          "link": "https://blog.xiaoz.org/archives/22624",
+          "publishedOn": "2025-12-16T07:20:09.000Z",
+          "wordCount": 280,
+          "title": "Process Explorer助你轻松找出Windows弹窗广告",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=22614",
           "author": "xiaoz",
