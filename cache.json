@@ -839,6 +839,16 @@
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
         {
+          "id": "https://jimmysong.io/blog/ai-oss-landscape-intro/",
+          "author": "Jimmy Song",
+          "description": "Comprehensive introduction to the AI Open Source Landscape's positioning, interface, scoring model, and data mechanisms to help developers efficiently discover quality AI projects.",
+          "link": "https://jimmysong.io/blog/ai-oss-landscape-intro/",
+          "publishedOn": "2025-12-23T08:34:05.000Z",
+          "wordCount": 2004,
+          "title": "AI Open Source Landscape: A One-Stop Guide to AI Project Navigation and Scoring System",
+          "imageUrl": "https://assets.jimmysong.io/images/blog/ai-oss-landscape-intro/banner.webp"
+        },
+        {
           "id": "https://jimmysong.io/blog/ai-2026-infra-agentic-runtime/",
           "author": "Jimmy Song",
           "description": "2026 AI's turning point: not models, but infrastructure, agentic runtimes, GPU efficiency, and new organizational forms.",
@@ -1247,16 +1257,6 @@
           "wordCount": null,
           "title": "云原生企业转型：AI 原生时代的深度解析",
           "imageUrl": null
-        },
-        {
-          "id": "https://jimmysong.io/blog/web-automation-advancement/",
-          "author": "Jimmy Song",
-          "description": "Chrome DevTools MCP 与 Playwright MCP 的推出标志着前端开发自动化进入新阶段，AI 助手能够更深层次地控制和调试浏览器，为开发者带来前所未有的自动化体验。",
-          "link": "https://jimmysong.io/blog/web-automation-advancement/",
-          "publishedOn": "2025-09-25T02:01:57.000Z",
-          "wordCount": null,
-          "title": "Chrome DevTools MCP：前端开发自动化又上了一个新台阶",
-          "imageUrl": null
         }
       ]
     },
@@ -1402,6 +1402,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=307889",
+          "author": "Brandon Lee",
+          "description": "I have been writing a lot about DNS lately as I have been trying out a lot of different solutions. Recently, I took the new version of Technitium for a…\nThe post I Now Manage My DNS Server from Git (and It Changed Everything) appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/12/i-now-manage-my-dns-server-from-git-and-it-changed-everything/",
+          "publishedOn": "2025-12-23T13:26:45.000Z",
+          "wordCount": 11883,
+          "title": "I Now Manage My DNS Server from Git (and It Changed Everything)",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/12/Manage-DNS-with-Git-2.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=307802",
           "author": "Brandon Lee",
@@ -1959,6 +1969,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=63431",
+          "author": "Collabnix Team",
+          "description": "Understanding AI Engineering in Modern Microservices The AI engineering landscape has undergone a seismic shift in 2025. What started as experimental prototypes just two years ago has evolved into production-ready systems powering real enterprise workflows. If you’ve been building containerized applications and microservices, you’re already equipped with the mental models needed for this new era—because […]",
+          "link": "https://collabnix.com/agents-are-the-new-microservices-what-2025-taught-us-about-ai-engineering/",
+          "publishedOn": "2025-12-23T03:49:24.000Z",
+          "wordCount": 9060,
+          "title": "Agents Are the New Microservices: What 2025 Taught Us About AI Engineering",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=63394",
           "author": "Collabnix Team",
@@ -4251,16 +4271,6 @@
           "wordCount": null,
           "title": "运维&开发的终极利器？一个Hexhub全搞定！下单专业版再赠Zdir/OneNav授权",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=22391",
-          "author": "xiaoz",
-          "description": "一年零九个月，这是xiaoz上一块手表（小米Watch S3 eSIM版）的陪伴时长。在上一篇分享中，xiaoz聊过对它的期待与失落；而现在，xiaoz手中的设备已换成一加手表2。今天这篇文章，就来聊聊这次换新后的真实体验。为什么要替换小米Watch S3 eSIM版xiaoz家里面的大部分电器都是",
-          "link": "https://blog.xiaoz.org/archives/22391",
-          "publishedOn": "2025-09-25T02:35:19.000Z",
-          "wordCount": null,
-          "title": "入手了一加手表2，终于有点智能的味道了",
-          "imageUrl": null
         }
       ]
     },
@@ -4870,6 +4880,536 @@
       "feedUrl": "https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss",
       "siteUrl": "https://github.com/guanguans/favorite-link",
       "articles": [
+        {
+          "id": "https://github.com/bylinxx/MacCalendar",
+          "author": null,
+          "description": "完全免费&开源的离线小而美 macOS 菜单栏日历app，支持中国农历、节假日、放假安排、系统日程等 - bylinxx/MacCalendar",
+          "link": "https://github.com/bylinxx/MacCalendar",
+          "publishedOn": "2025-12-22T16:00:00.000Z",
+          "wordCount": 1058,
+          "title": "bylinxx/MacCalendar: 完全免费&开源的离线小而美 macOS 菜单栏日历 app，支持中国农历、节假日、放假安排、系统日程等",
+          "imageUrl": "https://opengraph.githubassets.com/c79cd4fd326c02748a64609f21196ca5e91f8bbcc3d62bf567a85f6661190893/bylinxx/MacCalendar"
+        },
+        {
+          "id": "https://github.com/el7cosmos/pasir",
+          "author": null,
+          "description": "PHP Application Server in Rust. Contribute to el7cosmos/pasir development by creating an account on GitHub.",
+          "link": "https://github.com/el7cosmos/pasir",
+          "publishedOn": "2025-12-22T08:00:00.000Z",
+          "wordCount": 5969,
+          "title": "el7cosmos/pasir: 这是一个高性能的 PHP 应用服务器，使用 Rust 编写，通过将 PHP 执行直接嵌入现代 HTTP 服务器，为 PHP 应用程序提供了坚实的基础。Pasir 使用自定义 SAPI 和通过 ext-php-rs 的 C 绑定构建，提供了一个快速高效的替代传统 PHP-FPM 设置的方案，同时保持与现有 PHP 应用程序的兼容性。n Rust",
+          "imageUrl": "https://opengraph.githubassets.com/1b858a92c6182e4042c2ad62bdf7e40af68a18a2314e63b67bc54c5de4749b22/el7cosmos/pasir"
+        },
+        {
+          "id": "主要是) 静态分析工具，旨在从您的代码中提取详细的 PHP 和 Laravel 特定信息。](https://github.com/laravel/surveyor",
+          "author": null,
+          "description": "",
+          "link": "https://raw.githubusercontent.com/guanguans/favorite-link/master/%E4%B8%BB%E8%A6%81%E6%98%AF)%20%E9%9D%99%E6%80%81%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7%EF%BC%8C%E6%97%A8%E5%9C%A8%E4%BB%8E%E6%82%A8%E7%9A%84%E4%BB%A3%E7%A0%81%E4%B8%AD%E6%8F%90%E5%8F%96%E8%AF%A6%E7%BB%86%E7%9A%84%20PHP%20%E5%92%8C%20Laravel%20%E7%89%B9%E5%AE%9A%E4%BF%A1%E6%81%AF%E3%80%82](https://github.com/laravel/surveyor",
+          "publishedOn": "2025-12-22T00:00:00.000Z",
+          "wordCount": null,
+          "title": "laravel/surveyor: Laravel Surveyor 是一个强大的 (主要是) 静态分析工具，旨在从您的代码中提取详细的 PHP 和 Laravel 特定信息。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/sunchayn/nimbus",
+          "author": null,
+          "description": "Nimbus automatically analyzes your routes and validation rules to build interactive request schemas and a native interface for testing and exploring your APIs - sunchayn/nimbus",
+          "link": "https://github.com/sunchayn/nimbus",
+          "publishedOn": "2025-12-21T16:00:00.000Z",
+          "wordCount": 2950,
+          "title": "sunchayn/nimbus: Nimbus 自动分析您的路由和验证规则，以构建交互式请求模式和用于测试和探索 API 的本机接口。",
+          "imageUrl": "https://repository-images.githubusercontent.com/1071776702/d7882a41-09c0-4859-8393-57d75452b490"
+        },
+        {
+          "id": "https://github.com/Flow-Launcher/Flow.Launcher",
+          "author": null,
+          "description": ":mag: Quick file search & app launcher for Windows with community-made plugins - Flow-Launcher/Flow.Launcher",
+          "link": "https://github.com/Flow-Launcher/Flow.Launcher",
+          "publishedOn": "2025-12-21T16:00:00.000Z",
+          "wordCount": 8537,
+          "title": "Flow-Launcher/Flow.Launcher: Windows 快速文件搜索与应用程序启动器，支持社区制作的插件。",
+          "imageUrl": "https://repository-images.githubusercontent.com/257526212/8a4cf2fd-2c9c-424b-a8b9-4cfef901259b"
+        },
+        {
+          "id": "https://github.com/InterceptSuite/ProxyBridge",
+          "author": null,
+          "description": "Redirect any Windows/MacOS TCP and UDP traffic to HTTP/Socks5 proxy - InterceptSuite/ProxyBridge",
+          "link": "https://github.com/InterceptSuite/ProxyBridge",
+          "publishedOn": "2025-12-20T16:00:00.000Z",
+          "wordCount": 3560,
+          "title": "InterceptSuite/ProxyBridge: 将任何 Windows/MacOS TCP 和 UDP 流量重定向到 HTTP/SOCKS5 代理",
+          "imageUrl": "https://opengraph.githubassets.com/418102e881f5bacc450af8de7722bd225177087260c706919db498e1d9540ffd/InterceptSuite/ProxyBridge"
+        },
+        {
+          "id": "https://github.com/tasselx/Keyden",
+          "author": null,
+          "description": "Keyden is a clean and elegant macOS menu bar TOTP authenticator — securely store secrets in macOS Keychain, add accounts via QR code scanning, and copy codes with one click . Keyden 是一款简洁优雅的 macOS ...",
+          "link": "https://github.com/tasselx/Keyden",
+          "publishedOn": "2025-12-19T16:00:00.000Z",
+          "wordCount": 4888,
+          "title": "tasselx/Keyden: 一款简洁优雅的 macOS 菜单栏 TOTP 验证器——密钥安全存储于 macOS 钥匙串，支持扫码添加账号与一键复制验证码",
+          "imageUrl": "https://opengraph.githubassets.com/c8ea84932704e07935dad79748d014495a6226aa91eac847a74e8feed5096fd7/tasselx/Keyden"
+        },
+        {
+          "id": "https://github.com/bonu-dev/php-elasticsearch-builder",
+          "author": null,
+          "description": "PHP Query Builder for Elasticsearch. Contribute to bonu-dev/php-elasticsearch-builder development by creating an account on GitHub.",
+          "link": "https://github.com/bonu-dev/php-elasticsearch-builder",
+          "publishedOn": "2025-12-19T08:00:00.000Z",
+          "wordCount": 4769,
+          "title": "bonu-dev/php-elasticsearch-builder: 一个干净、流畅、不可变且类型安全的 Elasticsearch 查询生成器 - 从头开始 ​​ 构建，可与官方 Elasticsearch PHP 客户端无缝协作。",
+          "imageUrl": "https://opengraph.githubassets.com/aaf46b44acbcdf81ab489c83b1e7dba3ff985df2477b38d34dc6a2a06eee472a/bonu-dev/php-elasticsearch-builder"
+        },
+        {
+          "id": "https://github.com/thedevdojo/refine",
+          "author": null,
+          "description": "A developer Chrome extension and Laravel package for live-editing Blade templates directly in the browser - thedevdojo/refine",
+          "link": "https://github.com/thedevdojo/refine",
+          "publishedOn": "2025-12-19T00:00:00.000Z",
+          "wordCount": 5916,
+          "title": "thedevdojo/refine: Refine 是一个实时 Blade 编辑器。它支持在浏览器中即时编辑 Blade 模板。右键点击任何元素，选择“编辑代码”，然后直接修改源代码。",
+          "imageUrl": "https://repository-images.githubusercontent.com/1111200159/10f01e46-e8e9-4258-81f9-7d83ec168fc5"
+        },
+        {
+          "id": "https://github.com/ludoguenet/laravel-artifact",
+          "author": null,
+          "description": "Lightweight Laravel package that handles basic media management with no fuss. - ludoguenet/laravel-artifact",
+          "link": "https://github.com/ludoguenet/laravel-artifact",
+          "publishedOn": "2025-12-18T16:00:00.000Z",
+          "wordCount": 2697,
+          "title": "ludoguenet/laravel-artifact: 轻量级的 Laravel 软件包，可以轻松处理基本的媒体管理。",
+          "imageUrl": "https://opengraph.githubassets.com/9a6e7482fce42c76e432de095e69d10cd5e1e0f3ad61f84358bb654611403e19/ludoguenet/laravel-artifact"
+        },
+        {
+          "id": "https://github.com/xnx3/translate",
+          "author": null,
+          "description": "AI i18n, Two lines of js realize automatic html translation. No need to change the page, no language configuration file, no API key, SEO friendly! - xnx3/translate",
+          "link": "https://github.com/xnx3/translate",
+          "publishedOn": "2025-12-18T16:00:00.000Z",
+          "wordCount": 4846,
+          "title": "xnx3/translate: AI i18n，两行 js 实现 html 自动翻译。无需更改页面，无需语言配置文件，无需 API 密钥，SEO 友好！",
+          "imageUrl": "https://opengraph.githubassets.com/54ad6bbd2f6df6a50ab223a4f277a4faafc1fe7909bac407fa7351cf9b797f61/xnx3/translate"
+        },
+        {
+          "id": "https://github.com/aerni/laravel-cloudflared",
+          "author": null,
+          "description": "A simple package to create and manage Cloudflare Tunnels for your Laravel projects. - aerni/laravel-cloudflared",
+          "link": "https://github.com/aerni/laravel-cloudflared",
+          "publishedOn": "2025-12-18T08:00:00.000Z",
+          "wordCount": 2126,
+          "title": "aerni/laravel-cloudflared: 一个简单的包，用于为您的 Laravel 项目创建和管理 Cloudflare 隧道。Cloudflare 隧道为您提供对本地开发环境的即时公共访问，类似于 Expose 或 ngrok，但由 Cloudflare 提供支持。",
+          "imageUrl": "https://opengraph.githubassets.com/21c03a0f914623ca6f78e816aef3aeb07fd56cd49f621fc349998759bc96f31e/aerni/laravel-cloudflared"
+        },
+        {
+          "id": "https://github.com/samber/hot",
+          "author": null,
+          "description": "🌶️ In-memory caching library for read-intensive Go applications - samber/hot",
+          "link": "https://github.com/samber/hot",
+          "publishedOn": "2025-12-18T08:00:00.000Z",
+          "wordCount": 10607,
+          "title": "samber/hot: 用于读取密集型 Go 应用程序的内存缓存库",
+          "imageUrl": "https://repository-images.githubusercontent.com/780817705/49a41934-96e2-4f5d-9015-5b479eb8591a"
+        },
+        {
+          "id": "https://github.com/osama-98/laravel-enum-translatable",
+          "author": null,
+          "description": "Contribute to osama-98/laravel-enum-translatable development by creating an account on GitHub.",
+          "link": "https://github.com/osama-98/laravel-enum-translatable",
+          "publishedOn": "2025-12-18T00:00:00.000Z",
+          "wordCount": 4615,
+          "title": "osama-98/laravel-enum-translatable: osama-98/laravel-enum-translatable: 一个用于可翻译枚举的 Laravel 包。",
+          "imageUrl": "https://opengraph.githubassets.com/2e30c2d1da96c0e57c20ca6f780d863baa54d1c923dfaf15c5b7baf79351b8ff/osama-98/laravel-enum-translatable"
+        },
+        {
+          "id": "https://github.com/lusingander/serie",
+          "author": null,
+          "description": "A rich git commit graph in your terminal, like magic 📚 - lusingander/serie",
+          "link": "https://github.com/lusingander/serie",
+          "publishedOn": "2025-12-18T00:00:00.000Z",
+          "wordCount": 10118,
+          "title": "lusingander/serie: 你终端里丰富的 git 提交图，就像魔法一样 📚。",
+          "imageUrl": "https://repository-images.githubusercontent.com/834730157/7286c996-f9b3-4125-8d2e-d6e461b0f53b"
+        },
+        {
+          "id": "https://github.com/Grazulex/shipmark#-quick-start",
+          "author": null,
+          "description": "Git Release Management Made Easy. Contribute to Grazulex/shipmark development by creating an account on GitHub.",
+          "link": "https://github.com/Grazulex/shipmark#-quick-start",
+          "publishedOn": "2025-12-17T16:00:00.000Z",
+          "wordCount": 6422,
+          "title": "Grazulex/shipmark: 通过一个交互式命令行界面自动化您的发布工作流程，该界面生成变更日志、管理版本并创建标签——所有这些都无需外部依赖。",
+          "imageUrl": "https://opengraph.githubassets.com/bd061f9df4b27bc675bbe0746daa271f73dc9128abc23ccbf641aae6ed950294/Grazulex/shipmark"
+        },
+        {
+          "id": "基于 golang)](https://github.com/hezhizheng/go-wxpush",
+          "author": null,
+          "description": "",
+          "link": "https://raw.githubusercontent.com/guanguans/favorite-link/master/%E5%9F%BA%E4%BA%8E%20golang)](https://github.com/hezhizheng/go-wxpush",
+          "publishedOn": "2025-12-17T16:00:00.000Z",
+          "wordCount": null,
+          "title": "hezhizheng/go-wxpush: 极简且免费的微信消息推送服务 (基于 golang)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/rainxchzed/Github-Store",
+          "author": null,
+          "description": "A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop. - rainxchzed/Github-Store",
+          "link": "https://github.com/rainxchzed/Github-Store",
+          "publishedOn": "2025-12-17T16:00:00.000Z",
+          "wordCount": 4976,
+          "title": "rainxchzed/Github-Store: 一个免费的开源应用商店，用于 GitHub 发布 - 浏览、发现并一键安装应用。",
+          "imageUrl": "https://opengraph.githubassets.com/cd22d2b16719fd111956a2a17ae4686153ad83184b1e183486d9bb90e2ddad91/rainxchzed/Github-Store"
+        },
+        {
+          "id": "https://github.com/atuinsh/atuin",
+          "author": null,
+          "description": "✨ Magical shell history. Contribute to atuinsh/atuin development by creating an account on GitHub.",
+          "link": "https://github.com/atuinsh/atuin",
+          "publishedOn": "2025-12-17T08:00:00.000Z",
+          "wordCount": 2499,
+          "title": "atuinsh/atuin: Atuin 使用 SQLite 数据库替换现有的 shell 历史记录，并记录命令的附加上下文。此外，它还通过 Atuin 服务器提供机器之间可选且完全加密的历史记录同步。",
+          "imageUrl": "https://opengraph.githubassets.com/9762182742e25c7f2e9856cf2c6ffc6fb7840af5d198385b5961721f66c78bbb/atuinsh/atuin"
+        },
+        {
+          "id": "https://github.com/skim-rs/skim",
+          "author": null,
+          "description": "Fuzzy Finder in rust! Contribute to skim-rs/skim development by creating an account on GitHub.",
+          "link": "https://github.com/skim-rs/skim",
+          "publishedOn": "2025-12-17T00:00:00.000Z",
+          "wordCount": 11474,
+          "title": "skim-rs/skim: 我们平时花很多时间去文件、行和命令之间切换来切换去。这时候 Skim 就派上用场了！它是一个强大的模糊查找工具，能帮你让工作流程更快更高效。",
+          "imageUrl": "https://opengraph.githubassets.com/7f4624eb583ab72b3615a17b82627060d17a4ed122b7e12397cdf4ad4799651a/skim-rs/skim"
+        },
+        {
+          "id": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "author": null,
+          "description": "A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visual...",
+          "link": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "publishedOn": "2025-12-16T16:00:00.000Z",
+          "wordCount": 5400,
+          "title": "DayuanJiang/next-ai-draw-io: 一个将人工智能功能与 draw.io 图表集成的 next.js 网络应用程序。该应用程序允许您通过自然语言命令和人工智能辅助可视化来创建、修改和增强图表。",
+          "imageUrl": "https://opengraph.githubassets.com/efbd187c7c0e8bc4398e097bcc8db4061c9168845cc8cc823b66c6f68dae18f1/DayuanJiang/next-ai-draw-io"
+        },
+        {
+          "id": "https://github.com/FedericoPonzi/Horust",
+          "author": null,
+          "description": "Horust is a supervisor / init system written in rust and designed to run inside containers. - FedericoPonzi/Horust",
+          "link": "https://github.com/FedericoPonzi/Horust",
+          "publishedOn": "2025-12-16T08:00:00.000Z",
+          "wordCount": 4378,
+          "title": "FedericoPonzi/Horust: Horust 是一个用 Rust 编写的监督者/初始化系统，旨在容器内运行。",
+          "imageUrl": "https://opengraph.githubassets.com/07aebc161fc07e645eb85be5c4ab1bcfc6f042a394ede338e7572ef66644120b/FedericoPonzi/Horust"
+        },
+        {
+          "id": "如 3000、8080、5173 等) 的开发者。](https://github.com/productdevbook/port-killer",
+          "author": null,
+          "description": "",
+          "link": "https://raw.githubusercontent.com/guanguans/favorite-link/master/%E5%A6%82%203000%E3%80%818080%E3%80%815173%20%E7%AD%89)%20%E7%9A%84%E5%BC%80%E5%8F%91%E8%80%85%E3%80%82](https://github.com/productdevbook/port-killer",
+          "publishedOn": "2025-12-16T00:00:00.000Z",
+          "wordCount": null,
+          "title": "productdevbook/port-killer: 一个原生的 macOS 菜单栏应用，用于查找和终止在开放端口上运行的进程。非常适合需要快速释放端口 (如 3000、8080、5173 等) 的开发者。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/KnpLabs/knp-components",
+          "author": null,
+          "description": "Various component pack, includes paginator. Contribute to KnpLabs/knp-components development by creating an account on GitHub.",
+          "link": "https://github.com/KnpLabs/knp-components",
+          "publishedOn": "2025-12-15T16:00:00.000Z",
+          "wordCount": 1131,
+          "title": "KnpLabs/knp-components: 各种组件包，包括分页器",
+          "imageUrl": "https://opengraph.githubassets.com/c3a062ab7508604997b3aac68eb6b881365397984818e744ea3a06727c335535/KnpLabs/knp-components"
+        },
+        {
+          "id": "https://github.com/imputnet/helium",
+          "author": null,
+          "description": "Private, fast, and honest web browser. Contribute to imputnet/helium development by creating an account on GitHub.",
+          "link": "https://github.com/imputnet/helium",
+          "publishedOn": "2025-12-14T16:00:00.000Z",
+          "wordCount": 2548,
+          "title": "imputnet/helium: 为人们打造的基于 Chromium 的网络浏览器，充满爱。默认最佳隐私，无偏见的广告拦截，无臃肿无噪音。",
+          "imageUrl": "https://opengraph.githubassets.com/acb81f43dcf73b86fe98b1cf039bde3ab49416fd1706d78a828f72b4c795f2bf/imputnet/helium"
+        },
+        {
+          "id": "https://github.com/guanguans/php-cs-fixer-custom-fixers",
+          "author": null,
+          "description": "Use php-cs-fixer to format bats,blade.php,Dockerfile,env,json,md,sh,sql,text,toml,txt,xml,yaml...files. - guanguans/php-cs-fixer-custom-fixers",
+          "link": "https://github.com/guanguans/php-cs-fixer-custom-fixers",
+          "publishedOn": "2025-12-14T08:00:00.000Z",
+          "wordCount": 12895,
+          "title": "guanguans/php-cs-fixer-custom-fixers: 使用 php-cs-fixer 去格式化 bats、blade.php、Dockerfile、env、json、md、sh、sql、text、toml、txt、xml、yaml...文件。",
+          "imageUrl": "https://opengraph.githubassets.com/e282273a28647a2181b9f67a1e3c904f0ca5d61b77b35522a94ff9d1f59149b1/guanguans/php-cs-fixer-custom-fixers"
+        },
+        {
+          "id": "https://github.com/TestFlowLabs/testlink",
+          "author": null,
+          "description": "Framework-agnostic test-to-code linking for PHP. Works with Pest and PHPUnit. - TestFlowLabs/testlink",
+          "link": "https://github.com/TestFlowLabs/testlink",
+          "publishedOn": "2025-12-13T16:00:00.000Z",
+          "wordCount": 6456,
+          "title": "TestFlowLabs/testlink：TestLink 在您的测试和生产代码之间创建双向链接。确切地知道哪些测试覆盖了每个方法，以及每个测试执行了哪些方法。",
+          "imageUrl": "https://opengraph.githubassets.com/769a7324bd04335647701b586310762cf8d30ee28677a1fafa8fcb45ed63d421/TestFlowLabs/testlink"
+        },
+        {
+          "id": "https://github.com/houbb/opencc4j",
+          "author": null,
+          "description": "🇨🇳Open Chinese Convert is an opensource project for conversion between Traditional Chinese and Simplified Chinese.(java 中文繁简体转换，支持台湾、香港、中文日文转换。) - houbb/opencc4j",
+          "link": "https://github.com/houbb/opencc4j",
+          "publishedOn": "2025-12-12T16:00:00.000Z",
+          "wordCount": 10388,
+          "title": "houbb/opencc4j: java 中文繁简体转换，支持台湾、香港、中文日文转换。",
+          "imageUrl": "https://opengraph.githubassets.com/ee7dc50df458da3622b4124fd7330bdc3e860ba4f605e79c46d671efb0050a31/houbb/opencc4j"
+        },
+        {
+          "id": "https://gitlab.com/pyfox/custominspections",
+          "author": null,
+          "description": "",
+          "link": "https://gitlab.com/pyfox/custominspections",
+          "publishedOn": "2025-12-12T08:00:00.000Z",
+          "wordCount": null,
+          "title": "pyfox / CustomInspections: 用于编写自定义代码检查的 IntelliJ 产品插件，使用正则表达式。",
+          "imageUrl": null
+        },
+        {
+          "id": "SwiftUI)，以 1 FPS 的速度录制您的屏幕，每 15 分钟使用 AI 进行分析，并生成您的活动时间线及摘要。它体积小巧 (应用程序大小为 25MB)，使用约 100MB 的 RAM 和不到 1% 的 CPU。](https://github.com/JerryZLiu/Dayflow",
+          "author": null,
+          "description": "",
+          "link": "https://raw.githubusercontent.com/guanguans/favorite-link/master/SwiftUI)%EF%BC%8C%E4%BB%A5%201%20FPS%20%E7%9A%84%E9%80%9F%E5%BA%A6%E5%BD%95%E5%88%B6%E6%82%A8%E7%9A%84%E5%B1%8F%E5%B9%95%EF%BC%8C%E6%AF%8F%2015%20%E5%88%86%E9%92%9F%E4%BD%BF%E7%94%A8%20AI%20%E8%BF%9B%E8%A1%8C%E5%88%86%E6%9E%90%EF%BC%8C%E5%B9%B6%E7%94%9F%E6%88%90%E6%82%A8%E7%9A%84%E6%B4%BB%E5%8A%A8%E6%97%B6%E9%97%B4%E7%BA%BF%E5%8F%8A%E6%91%98%E8%A6%81%E3%80%82%E5%AE%83%E4%BD%93%E7%A7%AF%E5%B0%8F%E5%B7%A7%20(%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%A4%A7%E5%B0%8F%E4%B8%BA%2025MB)%EF%BC%8C%E4%BD%BF%E7%94%A8%E7%BA%A6%20100MB%20%E7%9A%84%20RAM%20%E5%92%8C%E4%B8%8D%E5%88%B0%201%%20%E7%9A%84%20CPU%E3%80%82](https://github.com/JerryZLiu/Dayflow",
+          "publishedOn": "2025-12-12T00:00:00.000Z",
+          "wordCount": null,
+          "title": "JerryZLiu/Dayflow: Dayflow 是一款原生 macOS 应用程序 (SwiftUI)，以 1 FPS 的速度录制您的屏幕，每 15 分钟使用 AI 进行分析，并生成您的活动时间线及摘要。它体积小巧 (应用程序大小为 25MB)，使用约 100MB 的 RAM 和不到 1% 的 CPU。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/PGshen/mini-clipboard",
+          "author": null,
+          "description": "Open-source. Focused on simple, beautiful, and smooth experience. - PGshen/mini-clipboard",
+          "link": "https://github.com/PGshen/mini-clipboard",
+          "publishedOn": "2025-12-11T16:00:00.000Z",
+          "wordCount": 2465,
+          "title": "PGshen/mini-clipboard: 轻量、好看的 macOS 剪贴板管理器：采集历史、时间线浏览、收藏分组、直接粘贴、快速粘贴、即时搜索等能力，帮助你更快地跨应用粘贴内容。",
+          "imageUrl": "https://opengraph.githubassets.com/66bf8005fdbda713e9350a2fb68a296d63ae0e07d3cafefb10504da2acdbd084/PGshen/mini-clipboard"
+        },
+        {
+          "id": "https://github.com/lizhipay/acg-faka",
+          "author": null,
+          "description": "个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡 - lizhipay/acg-faka",
+          "link": "https://github.com/lizhipay/acg-faka",
+          "publishedOn": "2025-12-11T16:00:00.000Z",
+          "wordCount": 1261,
+          "title": "lizhipay/acg-faka: 个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP 发卡源码，异次元发卡",
+          "imageUrl": "https://opengraph.githubassets.com/53f340dd8f12d5807289ed16601abbf74083629b2cbfdee8756f60ec43556018/lizhipay/acg-faka"
+        },
+        {
+          "id": "https://github.com/Wcowin/Mac-Finder-Clipboard",
+          "author": null,
+          "description": "FinderClip is a lightweight macOS menu bar application that provides an intuitive cut and paste experience for Finder｜FinderClip 是一款轻量级的 macOS 菜单栏应用程序，为 Finder 提供直观的剪切和粘贴体验。 - Wcowin/Mac-Finder-Cli...",
+          "link": "https://github.com/Wcowin/Mac-Finder-Clipboard",
+          "publishedOn": "2025-12-11T08:00:00.000Z",
+          "wordCount": 3652,
+          "title": "Wcowin/Mac-Finder-Clipboard: FinderClip 是一款轻量级的 macOS 菜单栏应用程序，为 Finder 提供直观的剪切和粘贴体验。",
+          "imageUrl": "https://opengraph.githubassets.com/c08ae961f5a4bed251ea17f83412c21183bf2df35b1fbfc0a05efd13c6019616/Wcowin/Mac-Finder-Clipboard"
+        },
+        {
+          "id": "https://github.com/SignTools/SignTools",
+          "author": null,
+          "description": "✒ A free, self-hosted platform to sideload iOS apps without a computer - SignTools/SignTools",
+          "link": "https://github.com/SignTools/SignTools",
+          "publishedOn": "2025-12-11T08:00:00.000Z",
+          "wordCount": 2204,
+          "title": "SignTools/SignTools: 一个免费的自托管平台，可以在没有电脑的情况下侧载 IOS 应用程序",
+          "imageUrl": "https://opengraph.githubassets.com/e656c9c7ae89337f3ecc1b2f357cf802cbde41279b4c866ef8e959e9bde1bf2d/SignTools/SignTools"
+        },
+        {
+          "id": "https://github.com/siddharthvaddem/openscreen",
+          "author": null,
+          "description": "Create stunning screen recordings for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  - GitHub - siddharthvaddem/openscreen: Creat...",
+          "link": "https://github.com/siddharthvaddem/openscreen",
+          "publishedOn": "2025-12-11T00:00:00.000Z",
+          "wordCount": 2474,
+          "title": "siddharthvaddem/openscreen: 免费制作令人惊叹的屏幕录制。开源，无需订阅，无水印，商业用途也免费。Screen Studio 的替代品。",
+          "imageUrl": "https://opengraph.githubassets.com/01de0232d02744e7244a7645ec6223293b98f84361199207e7111fdf56941559/siddharthvaddem/openscreen"
+        },
+        {
+          "id": "https://github.com/guiyumin/vget",
+          "author": null,
+          "description": "Versatile downloader for audio, video, podcasts, PDFs and more. Available as CLI and Docker | 多功能下载工具，支持音视频、播客、PDF等，提供 CLI 和 Docker 两种方式 - guiyumin/vget",
+          "link": "https://github.com/guiyumin/vget",
+          "publishedOn": "2025-12-10T16:00:00.000Z",
+          "wordCount": 2968,
+          "title": "guiyumin/vget: 多功能命令行下载工具，支持音频、视频、播客等。",
+          "imageUrl": "https://opengraph.githubassets.com/2a19f2cda19f050d7d75be27617862eab98b2819dbcd730a6a1f4860d343eb3d/guiyumin/vget"
+        },
+        {
+          "id": "https://github.com/mdolr/survol",
+          "author": null,
+          "description": "A browser extension to preview any link you hover. Contribute to mdolr/survol development by creating an account on GitHub.",
+          "link": "https://github.com/mdolr/survol",
+          "publishedOn": "2025-12-10T08:00:00.000Z",
+          "wordCount": 1377,
+          "title": "mdolr/survol: 一个浏览器扩展，用于预览您悬停的任何链接",
+          "imageUrl": "https://repository-images.githubusercontent.com/210928189/344f9780-0cd9-11eb-9dde-5051682ea61a"
+        },
+        {
+          "id": "https://github.com/nekofar/php-dev-tools",
+          "author": null,
+          "description": "Some of the useful development requirements for PHP projects. - nekofar/php-dev-tools",
+          "link": "https://github.com/nekofar/php-dev-tools",
+          "publishedOn": "2025-12-10T00:00:00.000Z",
+          "wordCount": 1051,
+          "title": "nekofar/php-dev-tools: PHP 项目的一些有用的开发要求。",
+          "imageUrl": "https://opengraph.githubassets.com/505ced5036a48229326e5fd9f916bdffe53e002c0cc25972607ae79d76ae166e/nekofar/php-dev-tools"
+        },
+        {
+          "id": "https://github.com/ritechoice23/laravel-fluent-ffmpeg",
+          "author": null,
+          "description": "A fluent, chainable API for working with FFmpeg in Laravel applications. Process videos and audio with an elegant, expressive syntax. - ritechoice23/laravel-fluent-ffmpeg",
+          "link": "https://github.com/ritechoice23/laravel-fluent-ffmpeg",
+          "publishedOn": "2025-12-09T16:00:00.000Z",
+          "wordCount": 2828,
+          "title": "ritechoice23/laravel-fluent-ffmpeg: 用于在 Laravel 应用程序中使用 FFmpeg 的流畅、可链式 API。使用优雅、富有表现力的语法处理视频和音频。",
+          "imageUrl": "https://opengraph.githubassets.com/18e2ddc09f633530f49a0654b3c840be28a89b8eb49edb0b2263e9027aa3dd4b/ritechoice23/laravel-fluent-ffmpeg"
+        },
+        {
+          "id": "https://github.com/b7s/laravelwhisper",
+          "author": null,
+          "description": "State-of-the-art speech recognition to your PHP/Laravel applications - b7s/whisper-php",
+          "link": "https://github.com/b7s/laravelwhisper",
+          "publishedOn": "2025-12-08T16:00:00.000Z",
+          "wordCount": 13306,
+          "title": "b7s/laravelwhisper: 🎙️ 使用 Whisper.cpp AI 将音频转换为文本 - 直接在 PHP 中！",
+          "imageUrl": "https://opengraph.githubassets.com/93b7b0b77bd8f6f6c7bffa91159b8391dbda2d024e02ba32b3fe7138e322aef1/b7s/whisper-php"
+        },
+        {
+          "id": "https://github.com/donlon/cloudflare-error-page",
+          "author": null,
+          "description": "Cloudflare error page generator. Contribute to donlon/cloudflare-error-page development by creating an account on GitHub.",
+          "link": "https://github.com/donlon/cloudflare-error-page",
+          "publishedOn": "2025-12-08T08:00:00.000Z",
+          "wordCount": 4770,
+          "title": "donlon/cloudflare-error-page: 该项目创建自定义错误页面，模仿众所周知的 Cloudflare 错误页面。您还可以将其嵌入到您的网站中。",
+          "imageUrl": "https://opengraph.githubassets.com/f139d1c856c281004876a307f5e610d7b84ad90d29864f190abd2cfa64708d65/donlon/cloudflare-error-page"
+        },
+        {
+          "id": "以及 Server 酱 ³)、自定义邮件、钉钉机器人、企业微信机器人、企业微信应用、飞书、pushplus、WxPusher、iGot、Qmsg、息知、PushDeer、Discord、OneBot、Telegram、ntfy 等多种推送方式。](https://github.com/CaoMeiYouRen/push-all-in-one",
+          "author": null,
+          "description": "",
+          "link": "https://raw.githubusercontent.com/guanguans/favorite-link/master/%E4%BB%A5%E5%8F%8A%20Server%20%E9%85%B1%20%C2%B3)%E3%80%81%E8%87%AA%E5%AE%9A%E4%B9%89%E9%82%AE%E4%BB%B6%E3%80%81%E9%92%89%E9%92%89%E6%9C%BA%E5%99%A8%E4%BA%BA%E3%80%81%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%9C%BA%E5%99%A8%E4%BA%BA%E3%80%81%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E5%BA%94%E7%94%A8%E3%80%81%E9%A3%9E%E4%B9%A6%E3%80%81pushplus%E3%80%81WxPusher%E3%80%81iGot%E3%80%81Qmsg%E3%80%81%E6%81%AF%E7%9F%A5%E3%80%81PushDeer%E3%80%81Discord%E3%80%81OneBot%E3%80%81Telegram%E3%80%81ntfy%20%E7%AD%89%E5%A4%9A%E7%A7%8D%E6%8E%A8%E9%80%81%E6%96%B9%E5%BC%8F%E3%80%82](https://github.com/CaoMeiYouRen/push-all-in-one",
+          "publishedOn": "2025-12-08T00:00:00.000Z",
+          "wordCount": null,
+          "title": "CaoMeiYouRen/push-all-in-one: 支持 Server 酱 (以及 Server 酱 ³)、自定义邮件、钉钉机器人、企业微信机器人、企业微信应用、飞书、pushplus、WxPusher、iGot、Qmsg、息知、PushDeer、Discord、OneBot、Telegram、ntfy 等多种推送方式。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/lowphpcom/wnmp",
+          "author": null,
+          "description": "WNMP One‑Click Stack | WebDAV · Nginx · PHP · MariaDB · Kernel Tuning - lowphpcom/wnmp",
+          "link": "https://github.com/lowphpcom/wnmp",
+          "publishedOn": "2025-12-07T16:00:00.000Z",
+          "wordCount": 6039,
+          "title": "lowphpcom/wnmp: WNMP 通过一条命令安装 Nginx、PHP、MariaDB，集成 acme.sh 自动申请证书，配置 WebDAV、开启 BBR/FQ、关闭 THP，为中小网站、边缘节点、私有化项目提供开箱即用的生产环境。",
+          "imageUrl": "https://opengraph.githubassets.com/4355668514124fc70beabd773b935a07bbf0dfa008a43d39a25e413b21d5be40/lowphpcom/wnmp"
+        },
+        {
+          "id": "https://github.com/wasm-fmt/mago_fmt",
+          "author": null,
+          "description": "A WASM based PHP Formatter. Contribute to wasm-fmt/mago_fmt development by creating an account on GitHub.",
+          "link": "https://github.com/wasm-fmt/mago_fmt",
+          "publishedOn": "2025-12-07T08:00:00.000Z",
+          "wordCount": 1680,
+          "title": "wasm-fmt/mago_fmt: 基于 WASM 的 PHP 格式化程序",
+          "imageUrl": "https://opengraph.githubassets.com/f9f02fff6f8f70a225d87bf8e530c80092cd94ab3245386c4938122c6fdf2a96/wasm-fmt/mago_fmt"
+        },
+        {
+          "id": "https://github.com/claude-php/Claude-PHP-SDK",
+          "author": null,
+          "description": "PHP SDK for Claude - Provides complete 1-for-1 functionality of the Official Python SDK - claude-php/Claude-PHP-SDK",
+          "link": "https://github.com/claude-php/Claude-PHP-SDK",
+          "publishedOn": "2025-12-07T00:00:00.000Z",
+          "wordCount": 10590,
+          "title": "claude-php/Claude-PHP-SDK: 为 Claude 提供 PHP SDK - 完整支持官方 Python SDK 的一对一功能",
+          "imageUrl": "https://opengraph.githubassets.com/fb22a4853e7b3e0123623d30a1d2e2d8dabf11a2f4668701c074b626746e9a7c/claude-php/Claude-PHP-SDK"
+        },
+        {
+          "id": "https://github.com/franbarbalopez/mirror",
+          "author": null,
+          "description": "Mirror is an elegant user impersonation package for Laravel. It allows administrators to seamlessly log in as other users to troubleshoot issues, provide support, or test user experiences - franbar...",
+          "link": "https://github.com/franbarbalopez/mirror",
+          "publishedOn": "2025-12-06T16:00:00.000Z",
+          "wordCount": 6518,
+          "title": "franbarbalopez/mirror: Mirror 是一个优雅的用户模拟包，适用于 Laravel。它允许管理员无缝地以其他用户的身份登录，以解决问题、提供支持或测试用户体验。",
+          "imageUrl": "https://repository-images.githubusercontent.com/1090596349/984ccc82-5b18-42a0-8bc6-88119f8f648a"
+        },
+        {
+          "id": "https://github.com/hellodigua/code996",
+          "author": null,
+          "description": "统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。 . Contribute to hellodigua/code996 development by creating an account on GitHub.",
+          "link": "https://github.com/hellodigua/code996",
+          "publishedOn": "2025-12-06T16:00:00.000Z",
+          "wordCount": 4691,
+          "title": "hellodigua/code996: 统计 Git 项目的 commit 时间分布，进而推导出项目的编码工作强度。",
+          "imageUrl": "https://opengraph.githubassets.com/47582229bbb2ce52e9fc8e9b8e592b8be60fcd32a0a09c5429976a35957748aa/hellodigua/code996"
+        },
+        {
+          "id": "https://github.com/hasinhayder/tyro/",
+          "author": null,
+          "description": "Tyro is a powerful Authentication, Authorization, Role & Privilege Management solution for Laravel 12. Think of it as a Swiss Army knife that handles everything from user authentication and rol...",
+          "link": "https://github.com/hasinhayder/tyro/",
+          "publishedOn": "2025-12-06T08:00:00.000Z",
+          "wordCount": 16835,
+          "title": "hasinhayder/tyro: Tyro 是 Laravel 12 的强大身份验证、授权、角色权限管理解决方案。可以将其视为一把瑞士军刀，处理从用户身份验证和基于角色的访问控制到用户挂起工作流的一切事务。",
+          "imageUrl": "https://opengraph.githubassets.com/f29f421831675bc2aa3768b21a31454c120d8cd614eed9a677ce0e75b630bc3f/hasinhayder/tyro"
+        },
+        {
+          "id": "https://github.com/pingcap/mysql-tester",
+          "author": null,
+          "description": "A Golang implementation of MySQL Test Framework. Contribute to pingcap/mysql-tester development by creating an account on GitHub.",
+          "link": "https://github.com/pingcap/mysql-tester",
+          "publishedOn": "2025-12-06T08:00:00.000Z",
+          "wordCount": 1980,
+          "title": "pingcap/mysql-tester: 这是一个 MySQL 测试框架的 Golang 实现。",
+          "imageUrl": "https://opengraph.githubassets.com/1189b2cf953141b4dfefe404d7abb6cba55c1869a9ee7d0c0ca091294b7c218c/pingcap/mysql-tester"
+        },
+        {
+          "id": "https://github.com/legeling/PromptHub",
+          "author": null,
+          "description": "一款开源、纯本地 AI Prompt 管理工具，帮助你高效管理、版本控制和复用 Prompt | An open-source, local-first AI prompt management tool that helps you efficiently manage, version-control, and reuse your prompts - legeling/PromptHub",
+          "link": "https://github.com/legeling/PromptHub",
+          "publishedOn": "2025-12-04T16:00:00.000Z",
+          "wordCount": 5981,
+          "title": "legeling/PromptHub: 一款开源、纯本地 AI Prompt 管理工具，帮助你高效管理、版本控制和复用 Prompt",
+          "imageUrl": "https://opengraph.githubassets.com/e27439475e15da11ddb755a09c2011f069ca702e5297185a623a8b5e3f34e114/legeling/PromptHub"
+        },
+        {
+          "id": "java、c#、php、ts 等)，让您享受简约的编程体验，快速访问支付宝开放平台的各种高频功能。](https://github.com/alipay/alipay-easysdk",
+          "author": null,
+          "description": "",
+          "link": "https://raw.githubusercontent.com/guanguans/favorite-link/master/java%E3%80%81c#%E3%80%81php%E3%80%81ts%20%E7%AD%89)%EF%BC%8C%E8%AE%A9%E6%82%A8%E4%BA%AB%E5%8F%97%E7%AE%80%E7%BA%A6%E7%9A%84%E7%BC%96%E7%A8%8B%E4%BD%93%E9%AA%8C%EF%BC%8C%E5%BF%AB%E9%80%9F%E8%AE%BF%E9%97%AE%E6%94%AF%E4%BB%98%E5%AE%9D%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0%E7%9A%84%E5%90%84%E7%A7%8D%E9%AB%98%E9%A2%91%E5%8A%9F%E8%83%BD%E3%80%82](https://github.com/alipay/alipay-easysdk",
+          "publishedOn": "2025-12-04T08:00:00.000Z",
+          "wordCount": null,
+          "title": "alipay/alipay-easysdk: 支付宝 Easy SDK 支持多语言 (java、c#、php、ts 等)，让您享受简约的编程体验，快速访问支付宝开放平台的各种高频功能。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/Lakr233/ComputerUse",
+          "author": null,
+          "description": "Contribute to Lakr233/ComputerUse development by creating an account on GitHub.",
+          "link": "https://github.com/Lakr233/ComputerUse",
+          "publishedOn": "2025-12-03T16:00:00.000Z",
+          "wordCount": 1606,
+          "title": "Lakr233/ComputerUse: ComputerUse 是一款为 macOS 开发的计算机自动化工具，使用 Swift 编写。它允许您以编程方式控制键盘、鼠标、屏幕和其他计算机功能。",
+          "imageUrl": "https://opengraph.githubassets.com/8165473cd282dad787cb7f8a3248a99632338a8f1bf9d6201120ecc530879f5d/Lakr233/ComputerUse"
+        },
+        {
+          "id": "https://github.com/edgafner/GBrowser",
+          "author": null,
+          "description": "A Browser embedded in your IDE . Contribute to edgafner/GBrowser development by creating an account on GitHub.",
+          "link": "https://github.com/edgafner/GBrowser",
+          "publishedOn": "2025-12-03T08:00:00.000Z",
+          "wordCount": 2030,
+          "title": "edgafner/GBrowser: 在你的 IDE 中嵌入一个网页浏览器窗口。消除在浏览器和 IDE 之间切换的麻烦。",
+          "imageUrl": "https://opengraph.githubassets.com/fc1eb7be2f8d88efb9a8e5c1ac83e692eb98969fc50edc14a3db099525e3a254/edgafner/GBrowser"
+        },
         {
           "id": "TUI/CLI) Markdown 导航器，具有基于树的结构导航。](https://github.com/Epistates/treemd",
           "author": null,
@@ -6459,566 +6999,6 @@
           "wordCount": 3182,
           "title": "lkrms/pretty-php: pretty-php 是一个快速、确定性、配置极少的 PHP 代码格式化工具，用 PHP 编写。",
           "imageUrl": "https://opengraph.githubassets.com/772f91e20c2d7deb6a513151d4e5cfbf29683d440d259c5333cb6dc7f9eb1ba2/lkrms/pretty-php"
-        },
-        {
-          "id": "https://github.com/nunomaduro/laravel-starter-kit",
-          "author": null,
-          "description": "Laravel Starter Kit is an ultra-strict, type-safe Laravel skeleton engineered for developers who refuse to compromise on code quality. - nunomaduro/laravel-starter-kit",
-          "link": "https://github.com/nunomaduro/laravel-starter-kit",
-          "publishedOn": "2025-09-25T08:00:00.000Z",
-          "wordCount": 2636,
-          "title": "nunomaduro/laravel-starter-kit: 严格的 Laravel 骨架 - 适用于那些在项目中要求一丝不苟的人。",
-          "imageUrl": "https://opengraph.githubassets.com/e86864a061f372a65b9962aada553b200965ae6a283af9baf32e19d580744f68/nunomaduro/laravel-starter-kit"
-        },
-        {
-          "id": "https://github.com/built-fast/phpstan-sensitive-parameter",
-          "author": null,
-          "description": "PHPStan extension for detecting parameters that should use SensitiveParameter - built-fast/phpstan-sensitive-parameter",
-          "link": "https://github.com/built-fast/phpstan-sensitive-parameter",
-          "publishedOn": "2025-09-24T16:00:00.000Z",
-          "wordCount": 3964,
-          "title": "built-fast/phpstan-sensitive-parameter: 用于检测应使用 SensitiveParameter 的参数的 PHPStan 扩展",
-          "imageUrl": "https://opengraph.githubassets.com/0481884a6146c2633cfa9f2b65d9b99e9f7ad88768a2f2d1d826dc4b0516f904/built-fast/phpstan-sensitive-parameter"
-        },
-        {
-          "id": "https://github.com/BeyondDimension/SteamTools",
-          "author": null,
-          "description": "🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。. Contribute to BeyondDimension/SteamTools development by creating an account on GitHub.",
-          "link": "https://github.com/BeyondDimension/SteamTools",
-          "publishedOn": "2025-09-24T08:00:00.000Z",
-          "wordCount": 2837,
-          "title": "BeyondDimension/SteamTools: 🛠“Watt Toolkit”是一个开源跨平台的多功能 Steam 工具箱。",
-          "imageUrl": "https://repository-images.githubusercontent.com/321682465/6a881680-75eb-11eb-869c-1b6b377f7bf7"
-        },
-        {
-          "id": "https://github.com/straight-tamago/misaka",
-          "author": null,
-          "description": "iOS & tvOS customisation tool for KFD & MDC. Contribute to straight-tamago/misaka development by creating an account on GitHub.",
-          "link": "https://github.com/straight-tamago/misaka",
-          "publishedOn": "2025-09-24T00:00:00.000Z",
-          "wordCount": 2365,
-          "title": "straight-tamago/misaka: 该应用程序的目的是让 iPhone 用户能够在不越狱的情况下定制他们的手机。",
-          "imageUrl": "https://opengraph.githubassets.com/0466d6a2818393e0733fd8fec5f693f9a6e77d84b988bcb49720fd856acc7f91/straight-tamago/misaka"
-        },
-        {
-          "id": "https://github.com/massgravel/Microsoft-Activation-Scripts",
-          "author": null,
-          "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. - massgravel/Microsoft-Activation-Scripts",
-          "link": "https://github.com/massgravel/Microsoft-Activation-Scripts",
-          "publishedOn": "2025-09-22T16:00:00.000Z",
-          "wordCount": 2230,
-          "title": "massgravel/Microsoft-Activation-Scripts: 开源 Windows 和 Office 激活工具，支持 HWID、Ohook、TSforge、KMS38 和在线 KMS 激活方法，并提供高级故障排除功能。",
-          "imageUrl": "https://repository-images.githubusercontent.com/233472199/7f86712b-fee6-4659-a2cf-c967d6b0d733"
-        },
-        {
-          "id": "https://github.com/OpenCut-app/OpenCut",
-          "author": null,
-          "description": "The open-source CapCut alternative. Contribute to OpenCut-app/OpenCut development by creating an account on GitHub.",
-          "link": "https://github.com/OpenCut-app/OpenCut",
-          "publishedOn": "2025-09-22T08:00:00.000Z",
-          "wordCount": 3105,
-          "title": "OpenCut-app/OpenCut: 开源的剪映替代品",
-          "imageUrl": "https://opengraph.githubassets.com/96cf853439236954694402ea2bec6fefbdf3cc99668f6f97e274eae3f120423c/OpenCut-app/OpenCut"
-        },
-        {
-          "id": "https://github.com/swaggyP36000/TrollStore-IPAs",
-          "author": null,
-          "description": "A collection of IPA files from many different sources, for TrollStore! - swaggyP36000/TrollStore-IPAs",
-          "link": "https://github.com/swaggyP36000/TrollStore-IPAs",
-          "publishedOn": "2025-09-21T16:00:00.000Z",
-          "wordCount": 31601,
-          "title": "swaggyP36000/TrollStore-IPAs: 来自许多不同来源的 IPA 文件的集合，用于 TrollStore！",
-          "imageUrl": "https://opengraph.githubassets.com/ae105a43daef9973c910da059a5ee95a438a41332a76818950ca55a542150090/swaggyP36000/TrollStore-IPAs"
-        },
-        {
-          "id": "https://github.com/TheResonanceTeam/TrollApps",
-          "author": null,
-          "description": "App Store alternative for TrollStore. Contribute to TheResonanceTeam/TrollApps development by creating an account on GitHub.",
-          "link": "https://github.com/TheResonanceTeam/TrollApps",
-          "publishedOn": "2025-09-21T08:00:00.000Z",
-          "wordCount": 1594,
-          "title": "TheResonanceTeam/TrollApps: TrollStore 的 App Store 替代方案",
-          "imageUrl": "https://opengraph.githubassets.com/5caed40718549f4b120d11ad6304d0ba04ea0a58e5d8c23504ca7497ed3d7ede/TheResonanceTeam/TrollApps"
-        },
-        {
-          "id": "https://github.com/Lessica/XcodeAnyTroll",
-          "author": null,
-          "description": "Run app from Xcode, without any code signature, but with any entitlements. Based on TrollStore. - Lessica/XcodeAnyTroll",
-          "link": "https://github.com/Lessica/XcodeAnyTroll",
-          "publishedOn": "2025-09-21T00:00:00.000Z",
-          "wordCount": 1710,
-          "title": "Lessica/XcodeAnyTroll: 这使得开发基于 TrollStore 的系统应用程序变得非常简单，或者在不需要使用开发者证书签名的情况下测试自己的应用程序。",
-          "imageUrl": "https://opengraph.githubassets.com/168b9112ea0717d0aa3abecff5ff31d98b8cd4d6cc2cefaa991970a9b91e5338/Lessica/XcodeAnyTroll"
-        },
-        {
-          "id": "https://github.com/Lessica/Reveil",
-          "author": null,
-          "description": "Bringing back the most advanced system and security analysis tool. - Lessica/Reveil",
-          "link": "https://github.com/Lessica/Reveil",
-          "publishedOn": "2025-09-20T16:00:00.000Z",
-          "wordCount": 1934,
-          "title": "Lessica/Reveil: 带回最先进的系统和安全分析工具。",
-          "imageUrl": "https://opengraph.githubassets.com/927a41d827e208832929daf743477ede3e0f417a8181d9b943fcbbb645b26c4d/Lessica/Reveil"
-        },
-        {
-          "id": "https://github.com/Comfy-Themes/Spicetify",
-          "author": null,
-          "description": "Stay comfy while listening to music. Contribute to Comfy-Themes/Spicetify development by creating an account on GitHub.",
-          "link": "https://github.com/Comfy-Themes/Spicetify",
-          "publishedOn": "2025-09-20T16:00:00.000Z",
-          "wordCount": 2235,
-          "title": "Comfy-Themes/Spicetify: 听音乐时保持舒适",
-          "imageUrl": "https://opengraph.githubassets.com/3a1865e81f9ecc93b3d5c3f415799bc5e4e5378119cc733e437a990d873b38a1/Comfy-Themes/Spicetify"
-        },
-        {
-          "id": "https://github.com/Lessica/TrollSpeed",
-          "author": null,
-          "description": "Shows upload & download speed below the status bar. Supports opa334’s TrollStore. - Lessica/TrollSpeed",
-          "link": "https://github.com/Lessica/TrollSpeed",
-          "publishedOn": "2025-09-20T08:00:00.000Z",
-          "wordCount": 2021,
-          "title": "Lessica/TrollSpeed: 在 ios/ipados 的状态栏下方显示上传和下载速度。",
-          "imageUrl": "https://opengraph.githubassets.com/e9e0da0a3ae581c35892a6a0c423d515907a9cab6bc2ce867a78ef02963429f5/Lessica/TrollSpeed"
-        },
-        {
-          "id": "https://github.com/spicetify/spicetify-themes",
-          "author": null,
-          "description": "A community-driven collection of themes for customizing Spotify through Spicetify - https://github.com/spicetify/cli - spicetify/spicetify-themes",
-          "link": "https://github.com/spicetify/spicetify-themes",
-          "publishedOn": "2025-09-19T16:00:00.000Z",
-          "wordCount": 2163,
-          "title": "spicetify/spicetify-themes: 这是一个用于 spicetify 的主题集合，spicetify 是一个用于自定义 Spotify 的命令行工具。",
-          "imageUrl": "https://repository-images.githubusercontent.com/204008310/9dfc2f95-983d-4e9a-9668-cbc3630baef5"
-        },
-        {
-          "id": "https://github.com/php-repos/phpkg",
-          "author": null,
-          "description": "phpkg source code. Contribute to php-repos/phpkg development by creating an account on GitHub.",
-          "link": "https://github.com/php-repos/phpkg",
-          "publishedOn": "2025-09-19T08:00:00.000Z",
-          "wordCount": 1660,
-          "title": "php-repos/phpkg: phpkg 是一个现代的 PHP 包管理器，可以提升您的代码，我们为您恢复了所有 PHP 功能，以便您可以随心所欲地编写代码。",
-          "imageUrl": "https://opengraph.githubassets.com/7469f0276c58bf6cae81e651159185bd07f7c923471644dcb04c3382c808d0d1/php-repos/phpkg"
-        },
-        {
-          "id": "https://github.com/catppuccin/spicetify",
-          "author": null,
-          "description": "🎧 Soothing pastel theme for Spotify. Contribute to catppuccin/spicetify development by creating an account on GitHub.",
-          "link": "https://github.com/catppuccin/spicetify",
-          "publishedOn": "2025-09-19T00:00:00.000Z",
-          "wordCount": 1827,
-          "title": "catppuccin/spicetify: Spotify 的舒缓粉彩主题",
-          "imageUrl": "https://opengraph.githubassets.com/f8689d4e3e2e741899924bf1fe79b6f6ecae9f24c0fd258dd8a42931e8cf9982/catppuccin/spicetify"
-        },
-        {
-          "id": "https://github.com/surfbryce/beautiful-lyrics",
-          "author": null,
-          "description": "Completely revolutionizes the Spotify Lyrics Experience by introducing Live Lyrics, Dynamic Backgrounds, and Immersive Views - surfbryce/beautiful-lyrics",
-          "link": "https://github.com/surfbryce/beautiful-lyrics",
-          "publishedOn": "2025-09-18T16:00:00.000Z",
-          "wordCount": 2234,
-          "title": "surfbryce/beautiful-lyrics: 通过引入实时歌词、动态背景和沉浸式视图，彻底改变了 Spotify 歌词体验",
-          "imageUrl": "https://opengraph.githubassets.com/067d0e1fa68611ac00044014a903cb0de7ea6b2a6f88cd085ae00101b7b35850/surfbryce/beautiful-lyrics"
-        },
-        {
-          "id": "https://github.com/microsoft/github-copilot-for-data-science",
-          "author": null,
-          "description": "Apply useful GitHub Copilot workflows and patterns in Data Science - microsoft/github-copilot-for-data-science",
-          "link": "https://github.com/microsoft/github-copilot-for-data-science",
-          "publishedOn": "2025-09-18T16:00:00.000Z",
-          "wordCount": 2457,
-          "title": "microsoft/github-copilot-for-data-science: 在数据科学中应用有用的 GitHub Copilot 工作流和模式",
-          "imageUrl": "https://opengraph.githubassets.com/3e5f38daa3a5e65d42b4866000fc54659c4abae88dee33c539a9be5c12a9fa1e/microsoft/github-copilot-for-data-science"
-        },
-        {
-          "id": "https://github.com/rxri/spicetify-extensions",
-          "author": null,
-          "description": "Collection of custom Spicetify extensions to enhance your Spotify experience - rxri/spicetify-extensions",
-          "link": "https://github.com/rxri/spicetify-extensions",
-          "publishedOn": "2025-09-18T08:00:00.000Z",
-          "wordCount": 2763,
-          "title": "rxri/spicetify-extensions: 收集自定义 Spicetify 扩展以增强您的 Spotify 体验",
-          "imageUrl": "https://opengraph.githubassets.com/5fe835bc34c8c2292568d433fca98e2da928ef48ce769cf2bc31129d6b571d54/rxri/spicetify-extensions"
-        },
-        {
-          "id": "https://github.com/wikimedia/AhoCorasick",
-          "author": null,
-          "description": "A PHP implementation of the Aho-Corasick string search algorithm. Mirror from https://gerrit.wikimedia.org/g/AhoCorasick - our actual code is hosted with Gerrit (please see https://www.mediawiki.or...",
-          "link": "https://github.com/wikimedia/AhoCorasick",
-          "publishedOn": "2025-09-18T08:00:00.000Z",
-          "wordCount": 1626,
-          "title": "wikimedia/AhoCorasick: AhoCorasick 是 Aho-Corasick 字符串搜索算法的 PHP 实现，这是一种高效搜索文本中多个关键词的方法。",
-          "imageUrl": "https://opengraph.githubassets.com/75703ea706fcf13143f924bd9d00b22fea264d96dc083be7ba637aaae9dd7180/wikimedia/AhoCorasick"
-        },
-        {
-          "id": "https://github.com/aureuserp/aureuserp",
-          "author": null,
-          "description": "Free and Open Source ERP platform. Contribute to aureuserp/aureuserp development by creating an account on GitHub.",
-          "link": "https://github.com/aureuserp/aureuserp",
-          "publishedOn": "2025-09-17T16:00:00.000Z",
-          "wordCount": 3829,
-          "title": "aureuserp/aureuserp: 免费开源 ERP 平台",
-          "imageUrl": "https://opengraph.githubassets.com/f7ebb38b1a780aeb2fecdf8f6c5d18c7f8820109a4eee0aa2618f7ebbc13fb73/aureuserp/aureuserp"
-        },
-        {
-          "id": "https://github.com/henrygd/beszel",
-          "author": null,
-          "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts. - henrygd/beszel",
-          "link": "https://github.com/henrygd/beszel",
-          "publishedOn": "2025-09-17T08:00:00.000Z",
-          "wordCount": 2527,
-          "title": "henrygd/beszel: 轻量级服务器监控中心，提供历史数据、Docker 统计数据和警报。",
-          "imageUrl": "https://repository-images.githubusercontent.com/825470378/2710c6db-f934-4a8b-a2c4-7a0abbcd2ad6"
-        },
-        {
-          "id": "https://github.com/shalvah/clara",
-          "author": null,
-          "description": "🔊 Simple, pretty, testable console output for PHP CLI apps. - shalvah/clara",
-          "link": "https://github.com/shalvah/clara",
-          "publishedOn": "2025-09-16T16:00:00.000Z",
-          "wordCount": 3426,
-          "title": "shalvah/clara: 🔊 适用于 PHP CLI 应用的简单、美观、可测试的控制台输出。",
-          "imageUrl": "https://opengraph.githubassets.com/767d1a19991c99ca14e15daa1540f8caa0c8e72cee82b3d2f201127cbac237cb/shalvah/clara"
-        },
-        {
-          "id": "https://github.com/Jessecar96/SteamDesktopAuthenticator",
-          "author": null,
-          "description": "Desktop implementation of Steam's mobile authenticator app - Jessecar96/SteamDesktopAuthenticator",
-          "link": "https://github.com/Jessecar96/SteamDesktopAuthenticator",
-          "publishedOn": "2025-09-16T08:00:00.000Z",
-          "wordCount": 2764,
-          "title": "Jessecar96/SteamDesktopAuthenticator: Steam 的移动身份验证应用程序的桌面实现",
-          "imageUrl": "https://opengraph.githubassets.com/89160e5db864f5960c87682677d1ba4254a06119d7d8be6a9aad63dab8004d78/Jessecar96/SteamDesktopAuthenticator"
-        },
-        {
-          "id": "https://github.com/jaywcjlove/vidcrop",
-          "author": null,
-          "description": "VidCrop is a video cropping tool that helps you easily crop video files. You can manually select any part of the video to crop, with an integrated video player allowing you to preview before and af...",
-          "link": "https://github.com/jaywcjlove/vidcrop",
-          "publishedOn": "2025-09-16T00:00:00.000Z",
-          "wordCount": 1227,
-          "title": "jaywcjlove/vidcrop: VidCrop 是一款视频裁剪工具，可帮助您轻松裁剪视频文件。",
-          "imageUrl": "https://repository-images.githubusercontent.com/1058245074/b6936de3-495f-4302-98d3-327089714c3b"
-        },
-        {
-          "id": "https://github.com/the-ora/browser",
-          "author": null,
-          "description": "Less noise, more browsing. Contribute to the-ora/browser development by creating an account on GitHub.",
-          "link": "https://github.com/the-ora/browser",
-          "publishedOn": "2025-09-15T16:00:00.000Z",
-          "wordCount": 2609,
-          "title": "the-ora/browser: Ora 是一款快速、安全、美观的浏览器，专为 macOS 设计。受 Safari 和 Arc 的启发，Ora 提供了一个干净、原生的体验，让人感觉在 macOS 上使用得心应手——没有多余的臃肿。",
-          "imageUrl": "https://opengraph.githubassets.com/930f4e570a60d3945119dcdad99f99d277fbdf0406d64fe882ef7e796ebad766/the-ora/browser"
-        },
-        {
-          "id": "https://github.com/ryangjchandler/laravel-bunny-fonts",
-          "author": null,
-          "description": "Manage Bunny Fonts programatically in your Laravel projects. - ryangjchandler/laravel-bunny-fonts",
-          "link": "https://github.com/ryangjchandler/laravel-bunny-fonts",
-          "publishedOn": "2025-09-15T08:00:00.000Z",
-          "wordCount": 2307,
-          "title": "ryangjchandler/laravel-bunny-fonts: 在 Laravel 项目中以编程方式管理 Bunny 字体。",
-          "imageUrl": "https://opengraph.githubassets.com/b33cb53dcdac75c1b477a8096c41601117f70036d45950bf1d741135cedf3cde/ryangjchandler/laravel-bunny-fonts"
-        },
-        {
-          "id": "https://github.com/stoplightio/elements",
-          "author": null,
-          "description": "Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown. - stoplightio/elements",
-          "link": "https://github.com/stoplightio/elements",
-          "publishedOn": "2025-09-15T00:00:00.000Z",
-          "wordCount": 3339,
-          "title": "stoplightio/elements: 使用可嵌入的 React 或 Web 组件构建漂亮的交互式 API 文档，由 OpenAPI 和 Markdown 提供支持。",
-          "imageUrl": "https://repository-images.githubusercontent.com/184680614/c1627980-b9a9-11eb-868c-4275e3da0a97"
-        },
-        {
-          "id": "钥匙圈、背包等) 上，或将其集成到其他支持蓝牙的设备中，例如笔记本电脑。](https://github.com/seemoo-lab/openhaystack",
-          "author": null,
-          "description": "",
-          "link": "https://raw.githubusercontent.com/guanguans/favorite-link/master/%E9%92%A5%E5%8C%99%E5%9C%88%E3%80%81%E8%83%8C%E5%8C%85%E7%AD%89)%20%E4%B8%8A%EF%BC%8C%E6%88%96%E5%B0%86%E5%85%B6%E9%9B%86%E6%88%90%E5%88%B0%E5%85%B6%E4%BB%96%E6%94%AF%E6%8C%81%E8%93%9D%E7%89%99%E7%9A%84%E8%AE%BE%E5%A4%87%E4%B8%AD%EF%BC%8C%E4%BE%8B%E5%A6%82%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91%E3%80%82](https://github.com/seemoo-lab/openhaystack",
-          "publishedOn": "2025-09-14T16:00:00.000Z",
-          "wordCount": null,
-          "title": "seemoo-lab/openhaystack: OpenHaystack 是一个通过苹果庞大的查找我的网络跟踪个人蓝牙设备的框架。使用它可以创建自己的跟踪标签，您可以将其附加到物理对象 (钥匙圈、背包等) 上，或将其集成到其他支持蓝牙的设备中，例如笔记本电脑。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/php-mcp/laravel",
-          "author": null,
-          "description": "An SDK building Laravel MCP servers. Contribute to php-mcp/laravel development by creating an account on GitHub.",
-          "link": "https://github.com/php-mcp/laravel",
-          "publishedOn": "2025-09-13T16:00:00.000Z",
-          "wordCount": 13324,
-          "title": "php-mcp/laravel: 构建 Laravel MCP 服务器的 SDK",
-          "imageUrl": "https://opengraph.githubassets.com/b22c21bae2d145d27de64287f17d0352d78daf27d35462297813619716f16105/php-mcp/laravel"
-        },
-        {
-          "id": "https://github.com/sheafui/components",
-          "author": null,
-          "description": "Open source Blade components with Alpine.js and Livewire support for Laravel applications. Install directly into your codebase using our CLI tool. - sheafui/components",
-          "link": "https://github.com/sheafui/components",
-          "publishedOn": "2025-09-13T08:00:00.000Z",
-          "wordCount": 2161,
-          "title": "sheafui/components: 一套为 Laravel 应用程序开发的开源用户界面组件，基于 Blade、Alpine.js 和 Livewire 构建。",
-          "imageUrl": "https://opengraph.githubassets.com/8a73ea9cf48057c2b1b5f974d87ddac75a8014f508d235f8fbf36eb3d6835ff0/sheafui/components"
-        },
-        {
-          "id": "https://houdaslassi.com/blog/race-conditions-in-laravel-prevention-guide",
-          "author": null,
-          "description": "Learn what race conditions are in Laravel applications and how to prevent them using atomic locks and Redis concurrency limiters with practical code examples.",
-          "link": "https://houdaslassi.com/blog/race-conditions-in-laravel-prevention-guide",
-          "publishedOn": "2025-09-13T00:00:00.000Z",
-          "wordCount": 1561,
-          "title": "本文探讨了 Laravel 应用中竞态条件的问题，并提供了两种预防方法：Laravel 原子锁和 Redis 并发限制器。",
-          "imageUrl": "https://houdaslassi.com/tech/laravel.png"
-        },
-        {
-          "id": "https://github.com/sheafui/cli",
-          "author": null,
-          "description": "Sheaf CLI – A powerful Artisan command-line tool for seamless installation and management of high-quality Sheaf components in Laravel. - sheafui/cli",
-          "link": "https://github.com/sheafui/cli",
-          "publishedOn": "2025-09-12T16:00:00.000Z",
-          "wordCount": 3261,
-          "title": "sheafui/cli: Sheaf CLI – Sheaf CLI– 强大的 Artisan 命令行工具，用于在 Laravel 中无缝安装和管理高质量的 Sheaf 组件。",
-          "imageUrl": "https://opengraph.githubassets.com/bb26931826482c6b2650c8a7bfd3619359a4f450c73fce849bea6f7247b5a684/sheafui/cli"
-        },
-        {
-          "id": "OAS) 查看器](https://github.com/plutov/oq",
-          "author": null,
-          "description": "",
-          "link": "https://raw.githubusercontent.com/guanguans/favorite-link/master/OAS)%20%E6%9F%A5%E7%9C%8B%E5%99%A8](https://github.com/plutov/oq",
-          "publishedOn": "2025-09-12T16:00:00.000Z",
-          "wordCount": null,
-          "title": "plutov/oq: 基于终端的 OpenAPI Spec (OAS) 查看器",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/zjkiza/sql-blade",
-          "author": null,
-          "description": "The package executes raw SQL queries with the flexibility to embed Blade extensions, enabling the dynamic creation of queries using Blade syntax. - zjkiza/sql-blade",
-          "link": "https://github.com/zjkiza/sql-blade",
-          "publishedOn": "2025-09-12T08:00:00.000Z",
-          "wordCount": 2213,
-          "title": "zjkiza/sql-blade: 该包执行位于单独文件中的原始 SQL 查询，并具有嵌入 Blade 扩展的灵活性，能够使用 Blade 语法动态创建查询。",
-          "imageUrl": "https://opengraph.githubassets.com/b006af4c97d555f6a573dda23c512a9b36906ae90c7454a43277e2903ade1d43/zjkiza/sql-blade"
-        },
-        {
-          "id": "https://github.com/shaojiankui/SmartPush",
-          "author": null,
-          "description": "SmartPush,一款iOS苹果远程推送测试程序,Mac OS下的APNS工具APP,iOS Push Notification Debug App - shaojiankui/SmartPush",
-          "link": "https://github.com/shaojiankui/SmartPush",
-          "publishedOn": "2025-09-12T08:00:00.000Z",
-          "wordCount": 2007,
-          "title": "shaojiankui/SmartPush: SmartPush, 一款 IOS 苹果推送测试程序，Mac OS 下的 apns 工具 APP",
-          "imageUrl": "https://opengraph.githubassets.com/d6a35fb06a8e2605bd141f6039f6b7e9d7d4de21057f79a5a54bf8b14316b19e/shaojiankui/SmartPush"
-        },
-        {
-          "id": "｀·ω·´) ﾉ✧](https://github.com/WJZ-P/NekoCrypt",
-          "author": null,
-          "description": "",
-          "link": "https://raw.githubusercontent.com/guanguans/favorite-link/master/%EF%BD%80%C2%B7%CF%89%C2%B7%C2%B4)%20%EF%BE%89%E2%9C%A7](https://github.com/WJZ-P/NekoCrypt",
-          "publishedOn": "2025-09-12T00:00:00.000Z",
-          "wordCount": null,
-          "title": "WJZ-P/NekoCrypt: 一款 Android 上的神奇又好用的全局消息加解密软件，包括文字、图片、文件加密。(｀·ω·´) ﾉ✧",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/riddleling/iOS-OCR-Server",
-          "author": null,
-          "description": "iOS OCR Server, using Apple's Vision Framework API. - riddleling/iOS-OCR-Server",
-          "link": "https://github.com/riddleling/iOS-OCR-Server",
-          "publishedOn": "2025-09-12T00:00:00.000Z",
-          "wordCount": 3570,
-          "title": "riddleling/iOS-OCR-Server:IOS OCR 服务器，使用 Apple 的 Vision Framework API。",
-          "imageUrl": "https://opengraph.githubassets.com/0b6541ee381a14a37940a936ebd859914642730f6df7de31db0f6634137a3e59/riddleling/iOS-OCR-Server"
-        },
-        {
-          "id": "https://github.com/ipfs/public-gateway-checker",
-          "author": null,
-          "description": "Checks which public gateways are online or not. Contribute to ipfs/public-gateway-checker development by creating an account on GitHub.",
-          "link": "https://github.com/ipfs/public-gateway-checker",
-          "publishedOn": "2025-09-11T16:00:00.000Z",
-          "wordCount": 1412,
-          "title": "ipfs/public-gateway-checker: 检查哪些公共网关是否联机",
-          "imageUrl": "https://opengraph.githubassets.com/4c5983078bcca8f54f918cd0f01f42af17a6fa35ca890e23e7d3c3115f0ac942/ipfs/public-gateway-checker"
-        },
-        {
-          "id": "https://github.com/fgrosse/go-coverage-report",
-          "author": null,
-          "description": "A CLI tool and GitHub Action to post Go code coverage reports as comment to your pull requests. - fgrosse/go-coverage-report",
-          "link": "https://github.com/fgrosse/go-coverage-report",
-          "publishedOn": "2025-09-11T16:00:00.000Z",
-          "wordCount": 4883,
-          "title": "fgrosse/go-coverage-report: 一个 CLI 工具和 GitHub 操作来发布 Go 代码覆盖率报告，作为对您的拉取请求的注释。",
-          "imageUrl": "https://opengraph.githubassets.com/6a3dee1b144d90a2b9b25b8c238a178fce1334263dbb1ca7e8435f90103cd605/fgrosse/go-coverage-report"
-        },
-        {
-          "id": "https://github.com/beacon-hq/beam",
-          "author": null,
-          "description": "Feature flags for the frontend powered by Laravel Pennant - beacon-hq/beam",
-          "link": "https://github.com/beacon-hq/beam",
-          "publishedOn": "2025-09-11T08:00:00.000Z",
-          "wordCount": 2288,
-          "title": "beacon-hq/beam: Beam 是一个用于在前端获取和使用 Laravel Pennant 功能标志的小型 TypeScript 库。它提供了一个极简的核心 SDK 和用于 React 和 Vue 的轻量级适配器。",
-          "imageUrl": "https://opengraph.githubassets.com/8e4b31f498aa2dbf13cbe3adcc607c0bf67c7e68662125124ff67e2af08153e8/beacon-hq/beam"
-        },
-        {
-          "id": "https://github.com/me-shaon/laravel-request-analytics",
-          "author": null,
-          "description": "Simple request data analytics package for Laravel projects - me-shaon/laravel-request-analytics",
-          "link": "https://github.com/me-shaon/laravel-request-analytics",
-          "publishedOn": "2025-09-11T00:00:00.000Z",
-          "wordCount": 10923,
-          "title": "me-shaon/laravel-request-analytics: Laravel 项目的简单请求数据分析包",
-          "imageUrl": "https://repository-images.githubusercontent.com/757924090/a2003aa2-b6d7-4636-8870-d03366db454e"
-        },
-        {
-          "id": "https://github.com/hosmelq/search-syntax-parser",
-          "author": null,
-          "description": "Parse search queries into structured data with field searches, boolean logic, ranges, lists, and adapters. - hosmelq/search-syntax-parser",
-          "link": "https://github.com/hosmelq/search-syntax-parser",
-          "publishedOn": "2025-09-10T16:00:00.000Z",
-          "wordCount": 5003,
-          "title": "hosmelq/search-syntax-parser: 使用字段搜索、布尔逻辑、范围、列表和适配器将搜索查询解析为结构化数据。",
-          "imageUrl": "https://opengraph.githubassets.com/9445cbf65632d1c1038278286906e3f44f61f7ee49da93553a74170f3069cb48/hosmelq/search-syntax-parser"
-        },
-        {
-          "id": "https://github.com/buresdv/Cork",
-          "author": null,
-          "description": "A fast GUI for Homebrew written in SwiftUI. Contribute to buresdv/Cork development by creating an account on GitHub.",
-          "link": "https://github.com/buresdv/Cork",
-          "publishedOn": "2025-09-10T16:00:00.000Z",
-          "wordCount": 6048,
-          "title": "buresdv/Cork：一个用 SwiftUI 编写的快速 Homebrew GUI",
-          "imageUrl": "https://opengraph.githubassets.com/4fe0852dcb17a8df140a7b372e3d7edb0ff0a8663f0ff3c002516009ef017c81/buresdv/Cork"
-        },
-        {
-          "id": "如个人资料、仪表板)。它确保了专注的工作流程，减少了服务器负载，防止滥用 (如通过隐身窗口绕过限制)，并提供了灵活的配置系统以微调会话限制。](https://github.com/slowestwind/tab-session-guard",
-          "author": null,
-          "description": "",
-          "link": "https://raw.githubusercontent.com/guanguans/favorite-link/master/%E5%A6%82%E4%B8%AA%E4%BA%BA%E8%B5%84%E6%96%99%E3%80%81%E4%BB%AA%E8%A1%A8%E6%9D%BF)%E3%80%82%E5%AE%83%E7%A1%AE%E4%BF%9D%E4%BA%86%E4%B8%93%E6%B3%A8%E7%9A%84%E5%B7%A5%E4%BD%9C%E6%B5%81%E7%A8%8B%EF%BC%8C%E5%87%8F%E5%B0%91%E4%BA%86%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%B4%9F%E8%BD%BD%EF%BC%8C%E9%98%B2%E6%AD%A2%E6%BB%A5%E7%94%A8%20(%E5%A6%82%E9%80%9A%E8%BF%87%E9%9A%90%E8%BA%AB%E7%AA%97%E5%8F%A3%E7%BB%95%E8%BF%87%E9%99%90%E5%88%B6)%EF%BC%8C%E5%B9%B6%E6%8F%90%E4%BE%9B%E4%BA%86%E7%81%B5%E6%B4%BB%E7%9A%84%E9%85%8D%E7%BD%AE%E7%B3%BB%E7%BB%9F%E4%BB%A5%E5%BE%AE%E8%B0%83%E4%BC%9A%E8%AF%9D%E9%99%90%E5%88%B6%E3%80%82](https://github.com/slowestwind/tab-session-guard",
-          "publishedOn": "2025-09-10T08:00:00.000Z",
-          "wordCount": null,
-          "title": "slowestwind/tab-session-guard: TabGuard 是一个 Laravel 包，帮助您控制和限制用户可以打开多少个标签页、会话或模块窗口 (如个人资料、仪表板)。它确保了专注的工作流程，减少了服务器负载，防止滥用 (如通过隐身窗口绕过限制)，并提供了灵活的配置系统以微调会话限制。",
-          "imageUrl": null
-        },
-        {
-          "id": "鼠标样式、符号显示) + 窗口自动切换状态 + 快捷键切换状态。](https://github.com/abgox/InputTip",
-          "author": null,
-          "description": "",
-          "link": "https://raw.githubusercontent.com/guanguans/favorite-link/master/%E9%BC%A0%E6%A0%87%E6%A0%B7%E5%BC%8F%E3%80%81%E7%AC%A6%E5%8F%B7%E6%98%BE%E7%A4%BA)%20+%20%E7%AA%97%E5%8F%A3%E8%87%AA%E5%8A%A8%E5%88%87%E6%8D%A2%E7%8A%B6%E6%80%81%20+%20%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%88%87%E6%8D%A2%E7%8A%B6%E6%80%81%E3%80%82](https://github.com/abgox/InputTip",
-          "publishedOn": "2025-09-10T08:00:00.000Z",
-          "wordCount": null,
-          "title": "abgox/InputTip: 一个输入法状态管理工具：实时提示 (鼠标样式、符号显示) + 窗口自动切换状态 + 快捷键切换状态。",
-          "imageUrl": null
-        },
-        {
-          "id": "seek) 可以按含义查找代码，而不仅仅是关键字。它是 grep 的直接替代品，能理解你在寻找什么--搜索 \"错误处理\"，即使没有出现这些确切的词，也能找到 try/catch 块、错误返回和异常处理代码。](https://github.com/BeaconBay/ck",
-          "author": null,
-          "description": "",
-          "link": "https://raw.githubusercontent.com/guanguans/favorite-link/master/seek)%20%E5%8F%AF%E4%BB%A5%E6%8C%89%E5%90%AB%E4%B9%89%E6%9F%A5%E6%89%BE%E4%BB%A3%E7%A0%81%EF%BC%8C%E8%80%8C%E4%B8%8D%E4%BB%85%E4%BB%85%E6%98%AF%E5%85%B3%E9%94%AE%E5%AD%97%E3%80%82%E5%AE%83%E6%98%AF%20grep%20%E7%9A%84%E7%9B%B4%E6%8E%A5%E6%9B%BF%E4%BB%A3%E5%93%81%EF%BC%8C%E8%83%BD%E7%90%86%E8%A7%A3%E4%BD%A0%E5%9C%A8%E5%AF%BB%E6%89%BE%E4%BB%80%E4%B9%88--%E6%90%9C%E7%B4%A2%20%22%E9%94%99%E8%AF%AF%E5%A4%84%E7%90%86%22%EF%BC%8C%E5%8D%B3%E4%BD%BF%E6%B2%A1%E6%9C%89%E5%87%BA%E7%8E%B0%E8%BF%99%E4%BA%9B%E7%A1%AE%E5%88%87%E7%9A%84%E8%AF%8D%EF%BC%8C%E4%B9%9F%E8%83%BD%E6%89%BE%E5%88%B0%20try/catch%20%E5%9D%97%E3%80%81%E9%94%99%E8%AF%AF%E8%BF%94%E5%9B%9E%E5%92%8C%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86%E4%BB%A3%E7%A0%81%E3%80%82](https://github.com/BeaconBay/ck",
-          "publishedOn": "2025-09-09T16:00:00.000Z",
-          "wordCount": null,
-          "title": "BeaconBay/ck: ck (seek) 可以按含义查找代码，而不仅仅是关键字。它是 grep 的直接替代品，能理解你在寻找什么--搜索 \"错误处理\"，即使没有出现这些确切的词，也能找到 try/catch 块、错误返回和异常处理代码。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/rodrigocfd/windigo",
-          "author": null,
-          "description": "Windows API and GUI in idiomatic Go. Contribute to rodrigocfd/windigo development by creating an account on GitHub.",
-          "link": "https://github.com/rodrigocfd/windigo",
-          "publishedOn": "2025-09-09T08:00:00.000Z",
-          "wordCount": 4662,
-          "title": "rodrigocfd/windigo: Windows API 和 Go 语言中的 GUI。",
-          "imageUrl": "https://opengraph.githubassets.com/922a2cc099136534e3dfaa06f3374ea2282a916c1b391d5a831009afd926e641/rodrigocfd/windigo"
-        },
-        {
-          "id": "https://github.com/bahdotsh/wrkflw",
-          "author": null,
-          "description": "Validate and Run GitHub Actions locally. Contribute to bahdotsh/wrkflw development by creating an account on GitHub.",
-          "link": "https://github.com/bahdotsh/wrkflw",
-          "publishedOn": "2025-09-09T00:00:00.000Z",
-          "wordCount": 13261,
-          "title": "bahdotsh/wrkflw: 在本地验证并运行 GitHub 操作。",
-          "imageUrl": "https://opengraph.githubassets.com/ba70ffdd9b4c738830ae7c90dbed80b9b3b331185409c9fe5cf245caeac643a6/bahdotsh/wrkflw"
-        },
-        {
-          "id": "https://github.com/idootop/open-xiaoai",
-          "author": null,
-          "description": "让小爱音箱「听见你的声音」，解锁无限可能。 . Contribute to idootop/open-xiaoai development by creating an account on GitHub.",
-          "link": "https://github.com/idootop/open-xiaoai",
-          "publishedOn": "2025-09-08T16:00:00.000Z",
-          "wordCount": 1802,
-          "title": "idootop/open-xiaoai: 让小爱音箱“听见你的声音”，解锁无限可能。",
-          "imageUrl": "https://repository-images.githubusercontent.com/961951939/897addbf-7eda-4588-a2bf-eb7125ca2e58"
-        },
-        {
-          "id": "https://github.com/datalab-to/surya",
-          "author": null,
-          "description": "OCR, layout analysis, reading order, table recognition in 90+ languages - datalab-to/surya",
-          "link": "https://github.com/datalab-to/surya",
-          "publishedOn": "2025-09-08T08:00:00.000Z",
-          "wordCount": 13053,
-          "title": "datalab-to/surya: OCR，版面分析，阅读顺序，90 多种语言的表格识别",
-          "imageUrl": "https://opengraph.githubassets.com/c09da79b15913dd84886170e4b835815a513767a146f04132c0c168565231991/datalab-to/surya"
-        },
-        {
-          "id": "https://github.com/enetx/surf",
-          "author": null,
-          "description": "SURF - Advanced Go HTTP client with Chrome/Firefox browser impersonation, HTTP/3 with QUIC fingerprinting, JA3/JA4 TLS emulation, and anti-bot bypass for web automation and scraping. - enetx/surf",
-          "link": "https://github.com/enetx/surf",
-          "publishedOn": "2025-09-08T00:00:00.000Z",
-          "wordCount": 15153,
-          "title": "enetx/surf: 高级 Go HTTP 客户端，具有 Chrome/Firefox 浏览器伪装、支持 HTTP/3 的 QUIC 指纹识别、JA3/JA4 TLS 模拟，以及用于网络自动化和抓取的反机器人绕过功能",
-          "imageUrl": "https://opengraph.githubassets.com/2f19d63fc4f22e6ad01b46427428b8d0c7218e9394cfc01f06da411c429482ca/enetx/surf"
-        },
-        {
-          "id": "https://github.com/ergebnis/php-package-template",
-          "author": null,
-          "description": ":octocat: + :ledger: Provides a GitHub repository template for a composer package with GitHub Actions workflows using standard PHP development tools. - GitHub - ergebnis/php-package-template: :octo...",
-          "link": "https://github.com/ergebnis/php-package-template",
-          "publishedOn": "2025-09-07T16:00:00.000Z",
-          "wordCount": 2234,
-          "title": "ergebnis/php-package-template: + 📒 提供一个用于 composer 包的 GitHub 仓库模板，包含使用标准 PHP 开发工具的 GitHub Actions 工作流。",
-          "imageUrl": "https://repository-images.githubusercontent.com/101747763/a3caf680-f204-11ea-9975-f760741d68d9"
-        },
-        {
-          "id": "https://github.com/modelcontextprotocol/php-sdk",
-          "author": null,
-          "description": "The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation. - modelcontextprotocol/php-sdk",
-          "link": "https://github.com/modelcontextprotocol/php-sdk",
-          "publishedOn": "2025-09-07T08:00:00.000Z",
-          "wordCount": 5264,
-          "title": "modelcontextprotocol/php-sdk: 用于模型上下文协议服务器和客户端的官方 PHP SDK。",
-          "imageUrl": "https://opengraph.githubassets.com/d8fa510eac316e236c861018c481868f6350d9de86a92db54bb003db11d64488/modelcontextprotocol/php-sdk"
-        },
-        {
-          "id": "AccessibilityService) 开发框架，Android 自动化脚本框架，快速开发复杂自动化任务、远程协助、监听等](https://github.com/ven-coder/Assists",
-          "author": null,
-          "description": "",
-          "link": "https://raw.githubusercontent.com/guanguans/favorite-link/master/AccessibilityService)%20%E5%BC%80%E5%8F%91%E6%A1%86%E6%9E%B6%EF%BC%8CAndroid%20%E8%87%AA%E5%8A%A8%E5%8C%96%E8%84%9A%E6%9C%AC%E6%A1%86%E6%9E%B6%EF%BC%8C%E5%BF%AB%E9%80%9F%E5%BC%80%E5%8F%91%E5%A4%8D%E6%9D%82%E8%87%AA%E5%8A%A8%E5%8C%96%E4%BB%BB%E5%8A%A1%E3%80%81%E8%BF%9C%E7%A8%8B%E5%8D%8F%E5%8A%A9%E3%80%81%E7%9B%91%E5%90%AC%E7%AD%89](https://github.com/ven-coder/Assists",
-          "publishedOn": "2025-09-07T00:00:00.000Z",
-          "wordCount": null,
-          "title": "ven-coder/Assists: 🔥Android 无障碍服务 (AccessibilityService) 开发框架，Android 自动化脚本框架，快速开发复杂自动化任务、远程协助、监听等",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/overtrue/laravel-text-guard",
-          "author": null,
-          "description": "A powerful string sanitization and normalization tool for Laravel that can be used as validation rules or standalone utility. / 可作 Rule 也可单用的字符串清洗/规范化工具 - overtrue/laravel-text-guard",
-          "link": "https://github.com/overtrue/laravel-text-guard",
-          "publishedOn": "2025-09-06T16:00:00.000Z",
-          "wordCount": 11213,
-          "title": "overtrue/laravel-text-guard: 一个用于 Laravel 的强大字符串清理和规范化工具，可用于验证规则或独立使用。",
-          "imageUrl": "https://opengraph.githubassets.com/53fc87c0ec3f611f66f952004d81b92a4777aae90d5e04792df7748562709043/overtrue/laravel-text-guard"
-        },
-        {
-          "id": "https://github.com/Adembc/lazyssh",
-          "author": null,
-          "description": "A terminal-based SSH manager inspired by lazydocker and k9s - Written in go - Adembc/lazyssh",
-          "link": "https://github.com/Adembc/lazyssh",
-          "publishedOn": "2025-09-06T08:00:00.000Z",
-          "wordCount": 5352,
-          "title": "Adembc/lazyssh: 一个基于终端的 SSH 管理器，灵感来自 lazydocker 和 k9s - 用 Go 编写",
-          "imageUrl": "https://opengraph.githubassets.com/8cff583774e6376e00aa177f9cb776d110b3fa7a8f85eb4ddc72b8eedc83b5aa/Adembc/lazyssh"
         }
       ]
     },
