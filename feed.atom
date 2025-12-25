@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-12-24T01:13:32.438Z</updated>
+    <updated>2025-12-25T02:09:27.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From 2025 Onwards, Software Engineering Shifts from Code-Centric to Runtime and Cost-Centric]]></title>
+        <id>https://jimmysong.io/blog/software-engineering-shift-runtime-cost-2025/</id>
+        <link href="https://jimmysong.io/blog/software-engineering-shift-runtime-cost-2025/"/>
+        <updated>2025-12-24T14:59:11.000Z</updated>
+        <summary type="html"><![CDATA[In 2025, software engineering shifts from code-centric to runtime and cost governance. AI and Agents move complexity to runtime, compute, and budget layers, reshaping engineering value.]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker Is Slowly Filling Up Your Home Lab Disk Space (And the Tool I Use to Fix It)]]></title>
+        <id>https://www.virtualizationhowto.com/?p=307920</id>
+        <link href="https://www.virtualizationhowto.com/2025/12/docker-is-slowly-filling-up-your-home-lab-disk-space-and-the-tool-i-use-to-fix-it/"/>
+        <updated>2025-12-24T13:40:08.000Z</updated>
+        <summary type="html"><![CDATA[Well, it is happening, there is another casualty of the AI boom and that is hard drives. Just in the last couple of days, news of hard drive price increases…
+The post Docker Is Slowly Filling Up Your Home Lab Disk Space (And the Tool I Use to Fix It) appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Cloud Native to AI Native: Why Kubernetes Is the Foundation for Next-Gen AI Agents]]></title>
+        <id>https://jimmysong.io/blog/ai-native-from-cloud-native/</id>
+        <link href="https://jimmysong.io/blog/ai-native-from-cloud-native/"/>
+        <updated>2025-12-24T12:25:52.000Z</updated>
+        <summary type="html"><![CDATA[Explores why AI Agents need Kubernetes infrastructure and how Agent orchestration, MCP services, and AI gateways enable production-ready AI architectures.]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Now Manage My DNS Server from Git (and It Changed Everything)]]></title>
         <id>https://www.virtualizationhowto.com/?p=307889</id>
@@ -7154,16 +7185,6 @@ Prognosis and persistence of smell and taste dysfunction in patients with covid-
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[运维&开发的终极利器？一个Hexhub全搞定！下单专业版再赠Zdir/OneNav授权]]></title>
-        <id>https://blog.xiaoz.org/?p=22439</id>
-        <link href="https://blog.xiaoz.org/archives/22439"/>
-        <updated>2025-09-26T02:22:57.000Z</updated>
-        <summary type="html"><![CDATA[HexHub 是一款专为程序员与运维人员打造的一站式 DevOps 利器。它不仅支持连接 SSH 服务器，还集成了 Docker 与常见数据库管理功能。这意味着，在开发过程中您无需在多个软件间频繁切换，仅凭 HexHub 即可同时搞定运维与数据库操作。Hexhub功能特点支持连接SSH支持跨平台：m]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LInux安装 Apache Solr]]></title>
         <id>https://blog.52itstyle.vip/archives/5627/</id>
         <link href="https://blog.52itstyle.vip/archives/5627/"/>
@@ -7199,23 +7220,6 @@ Prognosis and persistence of smell and taste dysfunction in patients with covid-
         <summary type="html"><![CDATA[The opinionated PHP code formatter. Contribute to lkrms/pretty-php development by creating an account on GitHub.]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[500万元从手心流走，它的价值如何体现]]></title>
-        <id>https://4311346.com/post/2025/0925-500w.html</id>
-        <link href="https://4311346.com/post/2025/0925-500w.html"/>
-        <updated>2025-09-25T15:45:51.000Z</updated>
-        <summary type="html"><![CDATA[时间进入到09月之后，似乎一直马不停蹄，至少到今天快月末了还没有到一段落的感觉。
-最近公司一个业务部门调整，涉及30多人的工作岗位或地点的调整。当员工和公司是对立面的时候，想要做好这个全盘的人员调整，我只能说在事先，我是想的太简单了。
-最后还剩下不到10个员工，公司开始按照律师意见执行相关的调动，这里面有合法也有违法，因为在职时间都是一年左右，就算全部2N支付经济补偿金离开，也不到10万元费用。
-但如何将这10万元花费的有价值，才是真真正正的给自己上了一课。
-试想过去10年，陆陆续续从自己这里签订协商解除协议的人也有上百人，经手的费用最少500万起，但从来没有像现在这样思考这笔钱花出去后的价值。
-公司支付了经济补偿也给了代通知金，把人请出去了，最多只能算做是花费，还能买到其它价值吗？ 或许这些价值，不再这些离开的人身上，而在于筛选出了，真正想要和公司一并发展，共同进步，不在乎一朝得失的优秀员工。
-站在公司端，站在老板身边，或许是这么想。这也就是为什么同样是花费10万元的补偿金，你的方案比其他HRD更有价值。
-但回想自己也曾拿到过一次性10万+的经济补偿，何尝又不想跟公司一起走下去呢~只是相比那些稀烂的人和事，即使没有补偿金，可能也终究会离开把。当然不排除自己那时候也会破罐子破摔，拿着每月花不完的工资，继续混下去~ 好在我没有，一切向前看。]]></summary>
-        <author>
-            <name>Andy烧麦 - 成熟，聪明，豁达的人什么也不问 过去，现在，将来…</name>
         </author>
     </entry>
     <entry>
