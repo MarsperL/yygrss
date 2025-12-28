@@ -59,6 +59,16 @@
       "siteUrl": "http://whyes.org/",
       "articles": [
         {
+          "id": "http://whyes.org/2025/2025-hcc-advances",
+          "author": null,
+          "description": "今年 ASCO 全体会议上的同场评论“From Insight to Impact: Driving Plenary Knowledge into Action This Monday”，令我深有共鸣，直译成中文是：将全体会议上获得的知识化...",
+          "link": "http://whyes.org/2025/2025-hcc-advances",
+          "publishedOn": "2025-12-28T11:32:58.000Z",
+          "wordCount": 308,
+          "title": "2025 年肝细胞癌临床研究进展",
+          "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
+        },
+        {
           "id": "http://whyes.org/2025/btc-idh1-fgfr2-her2",
           "author": null,
           "description": "前几天参加了一个学术会议，会中设置了一个投票环节，针对几个问题，收集现场参会医生的看法。其中一个问题是：对于有特点靶点变异的晚期胆道癌（BTC）患者，一线治疗首选靶向治疗还是按照常规使用化疗联合免疫治疗？ 现场收集到的投票结果有些超出我的预...",
@@ -1324,16 +1334,6 @@
           "wordCount": 534,
           "title": "一次500万连接EMQ集群的配置复盘",
           "imageUrl": null
-        },
-        {
-          "id": "https://nops.icu/archives/223/",
-          "author": "季兴",
-          "description": "今年4月采购Apple Mac Studio 在本地离线运行模型，实现了云故障诊断的本地化与安全闭环。此方案获得Apple官方认可，被选为典型案例，并由其出资拍摄宣传短片。影片将展示双方品牌Lo...",
-          "link": "https://nops.icu/archives/223/",
-          "publishedOn": "2025-09-30T04:07:00.000Z",
-          "wordCount": 530,
-          "title": "《商米 X mac studio》宣传片",
-          "imageUrl": null
         }
       ]
     },
@@ -2039,6 +2039,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=63715",
+          "author": "Collabnix Team",
+          "description": "Learn how to build a production-ready RAG (Retrieval-Augmented Generation) system for just $5/month using Cloudflare Workers, Vectorize, and edge computing. Save 85-95% on AI infrastructure costs.",
+          "link": "https://collabnix.com/how-to-build-a-production-rag-system-for-5-month-a-complete-guide-to-cost-effective-ai-search/",
+          "publishedOn": "2025-12-28T04:20:38.000Z",
+          "wordCount": 7744,
+          "title": "How to Build a Production RAG System for $5/Month: A Complete Guide to Cost-Effective AI Search",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=63618",
           "author": "Collabnix Team",
@@ -3268,16 +3278,6 @@
           "wordCount": null,
           "title": "How to Move From DevOps to DevLead In the Age of Automation",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=55163",
-          "author": "Tanvir Kour",
-          "description": "Artificial Intelligence (AI) has become a significant force in transforming various industries. One area where its impact is profound is Technology Assisted Review (TAR). This innovative approach enhances data analysis and document review processes, making them more efficient. By integrating intelligent algorithms, TAR has revolutionized how professionals handle large volumes of information. Understanding Technology Assisted […]",
-          "link": "https://collabnix.com/how-ai-is-driving-advances-in-technology-assisted-review/",
-          "publishedOn": "2025-09-29T09:52:59.000Z",
-          "wordCount": null,
-          "title": "How AI Is Driving Advances in Technology Assisted Review",
-          "imageUrl": null
         }
       ]
     },
@@ -3594,6 +3594,21 @@
       "feedUrl": "https://bluehe.cn/rss.xml",
       "siteUrl": "https://bluehe.cn/",
       "articles": [
+        {
+          "id": "https://bluehe.cn/archives/gist-rss",
+          "author": "寻鹤",
+          "description": "Tiny Tiny RSS、RSSAnt（蚁阅）、Folo、freshrs 以上都是我使用过的RSS阅读器，唯一喜欢还是Folo，但是由于网络原因，我常常打开不方便，很快就慢慢减少使用了，而是选择了其他的聚合普通上的文章推荐浏览。\n但是还是有个性化的订阅需...",
+          "link": "https://bluehe.cn/archives/gist-rss",
+          "publishedOn": "2025-12-28T04:42:00.000Z",
+          "wordCount": 543,
+          "title": "Gist：2025最佳Folo替代品",
+          "enclosure": {
+            "url": "https://bluehe.cn/usr/uploads/2025/12/bluehe_2025-12-28_19-12-54.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bluehe.cn/usr/uploads/2025/12/bluehe_2025-12-28_19-12-54.webp"
+        },
         {
           "id": "https://bluehe.cn/archives/2025-written-here",
           "author": "寻鹤",
@@ -4125,16 +4140,6 @@
           "wordCount": 1602,
           "title": "使用kubeadm部署一套高可用k8s集群1.34 for Ubuntu",
           "imageUrl": "https://s3.babudiu.com/iuxt/public/skeleton1.svg"
-        },
-        {
-          "id": "https://zahui.fan/posts/t3e151/",
-          "author": null,
-          "description": "<p>在 macOS 中运行命令行程序，如果你不想开一个终端窗口，并且希望实现开机自启动等等功能，可以使用 macOS 自带的服务管理。这里以 easytier 这个组网工具为例：</p>\n<p>直接执行的命令是：<code>/usr/local/bin/easytier-core -c /Users/iuxt/config/easytier.toml</code></p>\n<h2",
-          "link": "https://zahui.fan/posts/t3e151/",
-          "publishedOn": "2025-09-30T06:10:12.000Z",
-          "wordCount": 810,
-          "title": "macOS自定义后台运行程序",
-          "imageUrl": "https://s3.babudiu.com/iuxt/public/skeleton1.svg"
         }
       ]
     },
@@ -4263,16 +4268,6 @@
           "publishedOn": "2025-10-11T02:06:04.000Z",
           "wordCount": null,
           "title": "新用户专属福利：手把手教你领取200美元亚马逊云科技服务抵扣金",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=22413",
-          "author": "xiaoz",
-          "description": "为助力开发者与企业用户更低成本、更轻松地开启云端探索，亚马逊云科技正式推出新版本的 Free Tier 2.0，对免费套餐服务进行了一次值得关注的优化与升级。需要注意的是，此项全新福利目前仅在海外区域上线（北京与宁夏区域除外），正是您注册并启动亚马逊云科技海外区之旅的好时机。这篇文章将介绍：注册亚马",
-          "link": "https://blog.xiaoz.org/archives/22413",
-          "publishedOn": "2025-09-30T01:56:05.000Z",
-          "wordCount": null,
-          "title": "亚马逊云科技免费套餐升级2.0，新用户注册最高可获得 $200 美元抵扣金",
           "imageUrl": null
         }
       ]
@@ -4540,6 +4535,21 @@
       "siteUrl": "https://jia.je/",
       "articles": [
         {
+          "id": "https://jia.je/software/2025/12/25/my-ai-usage-2025/",
+          "author": null,
+          "description": "2025 年我是怎么使用 AI 的¶\n 前言¶\n 经常看我博客的读者应该能看出来，我研究的主要是计算机系统结构方向，特别是处理器的微架构，几乎没有涉及到 AI 的内容，我也确实不喜欢 AI 研究，仅关注但不参与。但今年，因为各种 AI 技术尤其是 LLM 的发展，我确实成为了很多 AI 技术的用户，可以说 2025 年是我正经大规模用 AI 的元年，所以在年末做一个简单的总结。\n  \n我不想在这里给大模型厂商打广告，所以相关的名字我都会按照某 PDF 的方法进行打码，有需要的朋友可以自行查看实际的内容。\n Vibe Coding¶\n 首先的一个冲击来自于 Vibe Coding。我写代码也有大概十五年了，一直都是坚持自己写代码，但今年从一些朋友那里了解到一些 Vibe Coding 的效果以后，也自己尝试了一下，确实能够感受到 Vibe Coding 对写代码的巨大冲击，我的心态也出现了一定的变化。Vibe Coding 并不复杂，其实就是用一些 Coding 客户端，配上 LLM 加一些 Tool Call，使得 LLM 可以自己编写、测试和运行代码。目前随着 LLM 能力的变强，Vibe Coding 逐渐成为了一个可以负担得起且效果不错的东西。结合实际的使用，以及受朋友们的一些启发，我目前已经用它进行了一些 Vibe Coding 尝试，例如：\n  \n写一些简单的 MCP 服务器，例如把 devdocs.io 的文档通过 MCP 暴露给 LLM，让它可以精确读取标准库的文档，避免幻觉，还有让 LLM 可以读取波形文件的 waveform-mcp；\n 写一个 API 路由器，可以在多个 API 提供商之间自动 Fallback，类似于本地版的 OpenRouter，但在这里主要是为了解决 Rate Limit 问题；\n 对已有代码的一些改进，比如实现 TODO，修复代码…",
+          "link": "https://jia.je/software/2025/12/25/my-ai-usage-2025/",
+          "publishedOn": "2025-12-25T00:00:00.000Z",
+          "wordCount": 444,
+          "title": "2025 年我是怎么使用 AI 的",
+          "enclosure": {
+            "url": "https://jia.je/assets/images/social/blog/posts/software/my-ai-usage-2025.png",
+            "type": "image/png",
+            "length": "49771"
+          },
+          "imageUrl": "https://jia.je/assets/images/social/blog/posts/software/my-ai-usage-2025.png"
+        },
+        {
           "id": "https://jia.je/hardware/2025/10/28/cbp-reverse-engineer/",
           "author": null,
           "description": "条件分支预测器逆向工程（以 Apple M1 Firestorm 为例）¶\n背景¶\n去年我完成了针对 Apple 和 Qualcomm 条件分支预测器（Conditional Branch Predictor）的逆向工程研究，相关论文已发表在 arXiv 上，并公开了源代码。考虑到许多读者对处理器逆向工程感兴趣，但可能因其复杂性而望而却步，本文将以 Apple M1 Firestorm 为例，详细介绍条件分支预测器的逆向工程方法，作为对原论文的补充说明。\n\n背景知识¶\n首先介绍一些背景知识。要逆向工程条件分支预测器，需要先了解其工作原理。条件分支预测器的基本思路是：\n\n条件分支的跳转行为（跳转或不跳转）通常是高度可预测的\n预测器的输入包括条件分支的地址，以及近期执行的若干条分支的历史记录；输出则是预测该条件分支是否跳转\n\n为了在硬件上实现这一算法，处理器会维护一个预测表，表中每一项包含一个 2 位饱和计数器，用于预测跳转方向。查表时，系统会对条件分支地址以及近期执行的分支历史进行哈希运算，使用哈希结果作为索引读取表项，然后根据计数器的值来预测分支的跳转方向。\n\n（图源：CMU ECE740 Computer Architecture: Branch Prediction）\n目前主流处理器普遍采用 TAGE 预测器，它在上述基础查表方法的基础上进行了重要改进：\n\n观察到不同分支的预测所需的历史长度各不相同：有些分支无需历史信息即可准确预测，有些依赖近期分支的跳转结果，而有些则需要更久远的历史信息；\n分支历史越长，可能的路径组合就越多，导致预测器训练过程变慢，训练期间的预测错误率较高，因此希望尽快收敛；\n为满足不同分支对历史长度的需求，TAGE 设计了多个预测表，每个表使用不同长度的分支历史。多个表同时进行预测，当多个表都提供预测结果时（仅在 tag 匹配时提供预测），选择使用…",
@@ -4606,6 +4616,106 @@
       "feedUrl": "https://www.lifengdi.com/feed",
       "siteUrl": "https://www.lifengdi.com",
       "articles": [
+        {
+          "id": "https://www.lifengdi.com/?p=4668",
+          "author": "李锋镝",
+          "description": "一、乐观锁核心原理 乐观锁的核心是“假设不会发生并发冲突，只在提交更新时检查数据是否被修改过”，而非像悲观锁（如SELECT ... FOR UPDATE）那样提前锁定数据。 核心逻辑：更新数据时，先验证数据的“版本/时间戳”是否和自己读取时一致——一致则更新，不一致则说明数据已被其他线程修改，放弃更新（或重试）。 适 […]",
+          "link": "https://www.lifengdi.com/hou-duan/4668",
+          "publishedOn": "2025-12-26T09:26:11.000Z",
+          "wordCount": 1308,
+          "title": "数据库更新如何实现乐观锁",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4667",
+          "author": "李锋镝",
+          "description": "在AI应用工程化落地中，“结构化输出”是绕不开的核心需求——无论是提取数据、生成报告还是自动化工作流，都需要AI输出可直接解析的结构化数据。但大模型的“自由发挥”常让人头疼：多余的解释文字、字段名大小写混乱、类型错误，这些问题让AI输出难以直接集成到业务系统中。 LangChain与Zod的组合，为解决这一痛点提供了完 […]",
+          "link": "https://www.lifengdi.com/ren-gong-zhi-neng/4667",
+          "publishedOn": "2025-12-25T09:07:35.000Z",
+          "wordCount": 1447,
+          "title": "LangChain + Zod 实战指南：构建类型安全的AI结构化输出系统",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4666",
+          "author": "李锋镝",
+          "description": "使用内存数据库（如H2）进行MyBatis功能测试，能实现轻量、高效、隔离的测试环境（无需部署真实数据库，测试后数据自动销毁）。 一、核心优势 轻量无依赖：无需安装/部署数据库，随用随建； 速度快：内存操作，测试执行效率远高于真实数据库； 数据隔离：每个测试用例可独立初始化数据，无跨用例污染； 无残留：测试结束后内存释 […]",
+          "link": "https://www.lifengdi.com/hou-duan/4666",
+          "publishedOn": "2025-12-24T09:51:12.000Z",
+          "wordCount": 1367,
+          "title": "使用内存数据库进行MyBatis单元测试",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4665",
+          "author": "李锋镝",
+          "description": "在高并发系统设计中，缓存是提升性能的“关键杠杆”——它能将数据库的磁盘IO转化为内存访问，让系统响应速度从毫秒级降至微秒级。但实际开发中，很多团队面临“缓存用不对”的困境：要么过度依赖Redis导致架构复杂，要么忽视本地缓存浪费性能，要么因缓存策略不当引发数据不一致、缓存穿透等问题。 本文将系统拆解工作中最常用的6种缓 […]",
+          "link": "https://www.lifengdi.com/hou-duan/4665",
+          "publishedOn": "2025-12-23T07:38:56.000Z",
+          "wordCount": 2075,
+          "title": "缓存架构实战指南：6大核心缓存技术深度解析与落地方案",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4664",
+          "author": "李锋镝",
+          "description": "在 AI Agent 生态高速发展的今天，MCP（Model Context Protocol）与 Agent Skill 已成为扩展 AI 能力的两大核心范式。但多数开发者在实际使用中容易混淆二者：明明想让 AI 访问外部数据库，却用了 Skill；想让 AI 遵循团队代码规范，却试图通过 MCP 实现。 二者看似都 […]",
+          "link": "https://www.lifengdi.com/ren-gong-zhi-neng/4664",
+          "publishedOn": "2025-12-22T06:51:02.000Z",
+          "wordCount": 2356,
+          "title": "AI Agent 扩展双雄：MCP 与 Agent Skill 深度拆解——从设计哲学到实战落地",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4662",
+          "author": "李锋镝",
+          "description": "本文将从核心概念拆解、环境准备、迁移部署全流程、Jenkins自动化配置、常见踩坑指南五个维度，详细分享迁移实战经验，帮助更多“跨界”开发者快速上手云原生部署。 一、核心概念精讲：云原生部署的“基础语法” 迁移前必须吃透核心概念，避免因术语混淆导致操作失误。以下是云原生部署（以阿里云为例）的关键概念解析，结合实战场景说 […]",
+          "link": "https://www.lifengdi.com/zhong-jian-jian/4662",
+          "publishedOn": "2025-12-19T03:53:10.000Z",
+          "wordCount": 1876,
+          "title": "Java开发的ACK+Jenkins一键部署迁移实战",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4661",
+          "author": "李锋镝",
+          "description": "在Java开发圈，“try...catch影响性能”的说法流传已久——有人在代码评审时强制要求移除循环内的try块，有人为了“性能”放弃异常处理的规范性，甚至有人将异常视为“洪水猛兽”。但在JVM经过十余年的迭代优化后，这种说法是否还成立？ 本文将从历史渊源、JVM底层机制、多场景性能测试、JVM优化技术、实战最佳实践 […]",
+          "link": "https://www.lifengdi.com/hou-duan/4661",
+          "publishedOn": "2025-12-18T03:26:13.000Z",
+          "wordCount": 1646,
+          "title": "try...catch性能深度剖析：从JVM原理到实战优化，打破技术迷思",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4659",
+          "author": "李锋镝",
+          "description": "HTTP3基于QUIC实现传输层革新，彻底解决HTTP1/HTTP2的TCP层瓶颈；QUIC是UDP上的可靠传输+加密+多路复用综合体，HTTP3则适配其特性优化应用层传输。以下从协议原理、核心细节、全面对比、部署与兼容等维度展开，深度解析并对比四代协议。 一、HTTP1（1.0/1.1） HTTP1是基于TCP的文本 […]",
+          "link": "https://www.lifengdi.com/zhong-jian-jian/4659",
+          "publishedOn": "2025-12-17T09:03:46.000Z",
+          "wordCount": 960,
+          "title": "HTTP3与QUIC详解",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4658",
+          "author": "李锋镝",
+          "description": "在AI应用爆发的时代，开发者对数据存储的需求正发生根本性转变——既需要SQLite的轻量嵌入式部署能力，又渴望向量数据库的语义搜索特性，同时还要规避传统数据库的复杂配置与资源消耗。OceanBase团队推出的seekdb，以“AI原生混合搜索”为核心定位，完美平衡了轻量易用与强大功能，成为连接传统数据库与AI应用的桥梁 […]",
+          "link": "https://www.lifengdi.com/ren-gong-zhi-neng/4658",
+          "publishedOn": "2025-12-17T02:31:44.000Z",
+          "wordCount": 1229,
+          "title": "AI原生数据库新标杆：seekdb深度解析，轻量架构与混合搜索的双重革命",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.lifengdi.com/?p=4652",
+          "author": "李锋镝",
+          "description": "最近突然想起来，之前圈里流行过一阵搞热力图的热潮，当时比较忙，就没参与，最近突然就想到了这个事情。 一开始就想着仿照github的样式做一个热力图，大概需求就是可以按照时间、文章类型显示对应的热力图。 完事之后发现比较空旷： 右侧的留白太多了，不好看。然后就简单的搞了一些统计放进去填充了一下。 统计代码分两部分（一开始 […]",
+          "link": "https://www.lifengdi.com/article/cha-jian/4652",
+          "publishedOn": "2025-12-16T08:45:21.000Z",
+          "wordCount": 833,
+          "title": "做了一个WordPress文章热力图插件",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
         {
           "id": "https://www.lifengdi.com/?p=4613",
           "author": "李锋镝",
@@ -4873,6 +4983,176 @@
       "feedUrl": "https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss",
       "siteUrl": "https://github.com/guanguans/favorite-link",
       "articles": [
+        {
+          "id": "https://github.com/steipete/CodexBar",
+          "author": null,
+          "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login. - steipete/CodexBar",
+          "link": "https://github.com/steipete/CodexBar",
+          "publishedOn": "2025-12-27T16:00:00.000Z",
+          "wordCount": 5009,
+          "title": "steipete/CodexBar: 无需登录即可显示 OpenAI Codex 和 Claude 代码的使用统计信息。",
+          "imageUrl": "https://opengraph.githubassets.com/6108b2f408b5bf2dd6f376b9d4a399834522e3563b9a30b84b6f3b4c3311c2e4/steipete/CodexBar"
+        },
+        {
+          "id": "https://github.com/nguyenphutrong/quotio",
+          "author": null,
+          "description": "Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart au...",
+          "link": "https://github.com/nguyenphutrong/quotio",
+          "publishedOn": "2025-12-27T08:00:00.000Z",
+          "wordCount": 3696,
+          "title": "nguyenphutrong/quotio: Quotio 是一个原生的 macOS 应用程序，用于管理 CLIProxyAPI - 一个本地代理服务器，为您的 AI 编码代理提供支持。它帮助您管理多个 AI 账户，跟踪配额，并在一个地方配置 CLI 工具。",
+          "imageUrl": "https://opengraph.githubassets.com/528b5bd4d45947ed01b93e60b0baaace5134a6dd6eb9e3ae7724fc03b445cdf5/nguyenphutrong/quotio"
+        },
+        {
+          "id": "https://github.com/nguyenphutrong/quotio",
+          "author": null,
+          "description": "Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart au...",
+          "link": "https://github.com/nguyenphutrong/quotio",
+          "publishedOn": "2025-12-27T00:00:00.000Z",
+          "wordCount": 3696,
+          "title": "nguyenphutrong/quotio: Quotio 是一个原生的 macOS 应用程序，用于管理 CLIProxyAPI - 为您的 AI 编码代理提供支持。它帮助您管理多个 AI 账户，跟踪配额，并在一个地方配置 CLI 工具。",
+          "imageUrl": "https://opengraph.githubassets.com/528b5bd4d45947ed01b93e60b0baaace5134a6dd6eb9e3ae7724fc03b445cdf5/nguyenphutrong/quotio"
+        },
+        {
+          "id": "https://github.com/KenDvD/SmartHostsTool-github",
+          "author": null,
+          "description": "「智能 Host 测速工具」是一款帮你优化网络访问的实用工具。它能自动获取域名的多个 IP 地址，测试各 IP 延迟并排序，一键将最优 IP 写入系统 Hosts 文件，还支持 GitHub 专属 IP 获取、自定义域名管理和可视化操作界面，让你轻松解决网络访问慢的问题。 - KenDvD/SmartHostsTool-github",
+          "link": "https://github.com/KenDvD/SmartHostsTool-github",
+          "publishedOn": "2025-12-26T16:00:00.000Z",
+          "wordCount": 9442,
+          "title": "KenDvD/SmartHostsTool-github: 它能自动获取域名的多个 IP 地址，测试各 IP 延迟并排序，一键将最优 IP 写入系统 Hosts 文件，还支持 GitHub 专属 IP 获取、自定义域名管理和可视化操作界面，让你轻松解决网络访问慢的问题。",
+          "imageUrl": "https://opengraph.githubassets.com/10d83b0baed4a4bf0742fe5613fc4613dba629da057c2578b7946104bea7c711/KenDvD/SmartHostsTool-github"
+        },
+        {
+          "id": "https://github.com/lbjlaq/Antigravity-Manager",
+          "author": null,
+          "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无...",
+          "link": "https://github.com/lbjlaq/Antigravity-Manager",
+          "publishedOn": "2025-12-26T16:00:00.000Z",
+          "wordCount": 5165,
+          "title": "lbjlaq/Antigravity-Manager: Antigravity Tools 是一个专为开发者和 AI 爱好者设计的全功能桌面应用。它将多账号管理、协议转换和智能请求调度完美结合，为您提供一个稳定、极速且成本低廉的本地 AI 中转站。",
+          "imageUrl": "https://opengraph.githubassets.com/d33b6894f7bbc2d507b5ad790ab56b0a5ea3c48737809b0676c8ccc087171ac0/lbjlaq/Antigravity-Manager"
+        },
+        {
+          "id": "和 Symfony 的 vardumper 的启发，这是一个最小的、开发人员友好的漂亮打印机和用于 GO 结构的调试转储程序。](https://github.com/goforj/godump",
+          "author": null,
+          "description": "",
+          "link": "https://raw.githubusercontent.com/guanguans/favorite-link/master/%E5%92%8C%20Symfony%20%E7%9A%84%20vardumper%20%E7%9A%84%E5%90%AF%E5%8F%91%EF%BC%8C%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E6%9C%80%E5%B0%8F%E7%9A%84%E3%80%81%E5%BC%80%E5%8F%91%E4%BA%BA%E5%91%98%E5%8F%8B%E5%A5%BD%E7%9A%84%E6%BC%82%E4%BA%AE%E6%89%93%E5%8D%B0%E6%9C%BA%E5%92%8C%E7%94%A8%E4%BA%8E%20GO%20%E7%BB%93%E6%9E%84%E7%9A%84%E8%B0%83%E8%AF%95%E8%BD%AC%E5%82%A8%E7%A8%8B%E5%BA%8F%E3%80%82](https://github.com/goforj/godump",
+          "publishedOn": "2025-12-26T08:00:00.000Z",
+          "wordCount": null,
+          "title": "goforj/godump: 受 Laravel 的 dump () 和 Symfony 的 vardumper 的启发，这是一个最小的、开发人员友好的漂亮打印机和用于 GO 结构的调试转储程序。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://github.com/goforj/collection",
+          "author": null,
+          "description": "A fluent, Laravel-inspired Collection library for Go - with chaining, higher-order functions, and expressive data manipulation. - goforj/collection",
+          "link": "https://github.com/goforj/collection",
+          "publishedOn": "2025-12-26T00:00:00.000Z",
+          "wordCount": 49681,
+          "title": "goforj/collection: 一个流畅的、受 Laravel 启发的集合库，用于链接、高阶函数和富有表现力的数据操作。",
+          "imageUrl": "https://opengraph.githubassets.com/74918a1e5ed5a9f0e11cb52951ea6e0949282d6e8e816c0aa1b7c94045bb516d/goforj/collection"
+        },
+        {
+          "id": "https://github.com/savinmikhail/AddNamedArgumentsRector",
+          "author": null,
+          "description": "Plugin to rector, that adds named arguments to your codebase - savinmikhail/AddNamedArgumentsRector",
+          "link": "https://github.com/savinmikhail/AddNamedArgumentsRector",
+          "publishedOn": "2025-12-25T16:00:00.000Z",
+          "wordCount": 2413,
+          "title": "savinmikhail/AddNamedArgumentsRector: AddNamedArgumentsRector 规则通过将函数、方法或构造函数调用转换为可能使用命名参数来增强您的代码。命名参数通过明确指定传递的参数名称来提高可读性并减少错误。Plugin to rector, that adds named arguments to your codebase",
+          "imageUrl": "https://opengraph.githubassets.com/ca7188dff8730ae7eb66c0c9441f801c0bf2cd93a89bacb5f77ec03c00208d62/savinmikhail/AddNamedArgumentsRector"
+        },
+        {
+          "id": "https://github.com/Hmily-LCG/FlowMouse",
+          "author": null,
+          "description": "一款追求极致流畅与隐私保护的 Chrome 鼠标手势扩展。通过自然的鼠标滑动，助您无缝操控浏览器，真正进入专注高效的“心流”状态。 - Hmily-LCG/FlowMouse",
+          "link": "https://github.com/Hmily-LCG/FlowMouse",
+          "publishedOn": "2025-12-25T16:00:00.000Z",
+          "wordCount": 1726,
+          "title": "Hmily-LCG/FlowMouse: 一款追求极致流畅与隐私保护的 Chrome 鼠标手势扩展。通过自然的鼠标滑动，助您无缝操控浏览器，真正进入专注高效的“心流”状态。",
+          "imageUrl": "https://opengraph.githubassets.com/c33dc5f92417a5ad274225979325e1266c9ebb16e34427c84e9e8b36e2b07d09/Hmily-LCG/FlowMouse"
+        },
+        {
+          "id": "https://github.com/OskarStark/doctor-rst",
+          "author": null,
+          "description": "Bring consistency to documentation. Contribute to OskarStark/doctor-rst development by creating an account on GitHub.",
+          "link": "https://github.com/OskarStark/doctor-rst",
+          "publishedOn": "2025-12-25T08:00:00.000Z",
+          "wordCount": 2173,
+          "title": "OskarStark/doctor-rst: 根据给定的规则检查并清理你的 rst 文档。",
+          "imageUrl": "https://opengraph.githubassets.com/293df56893b3898f191427df4b5d9c10fab41742d449df7628b4629e35013cad/OskarStark/doctor-rst"
+        },
+        {
+          "id": "https://github.com/lukeswitz/PathShield",
+          "author": null,
+          "description": "PathShield is an anti-tracking tool for M5StickC Plus v1/2 that uses BLE & WiFI scanning to detect and alert you to devices following you. - lukeswitz/PathShield",
+          "link": "https://github.com/lukeswitz/PathShield",
+          "publishedOn": "2025-12-24T16:00:00.000Z",
+          "wordCount": 7209,
+          "title": "lukeswitz/PathShield: PathShield 是 M5StickC Plus V1/2 的反跟踪工具，它使用 BLE WiFi 扫描来检测跟踪您的设备并向您发出警报。",
+          "imageUrl": "https://opengraph.githubassets.com/8511f5c2801d1be2fb31e6f0b5232ea587be5c5c8f336b1aa3598c3180c9cb15/lukeswitz/PathShield"
+        },
+        {
+          "id": "https://github.com/WCY-dt/MrRSS",
+          "author": null,
+          "description": "A modern, cross-platform, and free AI RSS reader. 一个现代化、跨平台且免费的 AI RSS 阅读器. - WCY-dt/MrRSS",
+          "link": "https://github.com/WCY-dt/MrRSS",
+          "publishedOn": "2025-12-24T08:00:00.000Z",
+          "wordCount": 5024,
+          "title": "WCY-dt/MrRSS: 一个现代化、跨平台且免费的 AI RSS 阅读器。",
+          "imageUrl": "https://repository-images.githubusercontent.com/798901284/6c889842-def6-47ac-980d-2bbd61867252"
+        },
+        {
+          "id": "https://github.com/paramientos/laravel-plugin-system",
+          "author": null,
+          "description": "An extensive Laravel plugin system that provides automatic registration of routes, controllers, services, views, and configurations for modular application development. - paramientos/laravel-plugin...",
+          "link": "https://github.com/paramientos/laravel-plugin-system",
+          "publishedOn": "2025-12-24T00:00:00.000Z",
+          "wordCount": 7009,
+          "title": "paramientos/laravel-plugin-system: 一个广泛的 Laravel 插件系统，为模块化应用程序开发提供路线、控制器、服务、视图和配置的自动注册。",
+          "imageUrl": "https://opengraph.githubassets.com/349973743652efde01db3d66c8075068dc44c5ab4833887ac493e22fc8df5fad/paramientos/laravel-plugin-system"
+        },
+        {
+          "id": "https://github.com/paramientos/presto",
+          "author": null,
+          "description": "Presto is a dependency manager for PHP and drop-in-replacement for Composer - paramientos/presto",
+          "link": "https://github.com/paramientos/presto",
+          "publishedOn": "2025-12-23T16:00:00.000Z",
+          "wordCount": 5062,
+          "title": "paramientos/presto: Presto 是 PHP 的依赖关系管理器，也是 Composer 的直接替代品。",
+          "imageUrl": "https://opengraph.githubassets.com/9de7848a041313fa4de491be1d9703f7e9c1ba469c310ab4105d15fd50eac892/paramientos/presto"
+        },
+        {
+          "id": "https://github.com/arshidkv12/zig-php",
+          "author": null,
+          "description": "PHP extension written in Zig. Contribute to arshidkv12/zig-php development by creating an account on GitHub.",
+          "link": "https://github.com/arshidkv12/zig-php",
+          "publishedOn": "2025-12-23T08:00:00.000Z",
+          "wordCount": 1433,
+          "title": "arshidkv12/zig-php: 用 Zig 编写的 PHP 扩展",
+          "imageUrl": "https://opengraph.githubassets.com/2b15ae76784984631ff65715ed18ce98786a95fea428c08991dcad0a0a0c2c4a/arshidkv12/zig-php"
+        },
+        {
+          "id": "https://github.com/laravel/ranger",
+          "author": null,
+          "description": "Ranger is a powerful introspection library for Laravel applications. - laravel/ranger",
+          "link": "https://github.com/laravel/ranger",
+          "publishedOn": "2025-12-23T00:00:00.000Z",
+          "wordCount": 2361,
+          "title": "laravel/ranger: Ranger 是 Laravel 应用程序的强大自检库。",
+          "imageUrl": "https://opengraph.githubassets.com/502aef1117516265036a00213365c7dd50fac934d4a0a63e53524d9eb63167b3/laravel/ranger"
+        },
+        {
+          "id": "https://github.com/MrPunyapal/rector-pest",
+          "author": null,
+          "description": "Contribute to MrPunyapal/rector-pest development by creating an account on GitHub.",
+          "link": "https://github.com/MrPunyapal/rector-pest",
+          "publishedOn": "2025-12-22T16:00:00.000Z",
+          "wordCount": 2544,
+          "title": "MrPunyapal/rector-pest: PestPHP 的 Rector 规则可提高代码质量并帮助版本升级。",
+          "imageUrl": "https://opengraph.githubassets.com/fa2511acee8aa25d76fe7c450b6aa6f5771c594405c438b1aba6130f920840ee/MrPunyapal/rector-pest"
+        },
         {
           "id": "https://github.com/bylinxx/MacCalendar",
           "author": null,
@@ -6902,96 +7182,6 @@
           "wordCount": 2817,
           "title": "staabm/secure_dotenv: 具有加密密钥/值存储的安全。env 处理程序",
           "imageUrl": "https://opengraph.githubassets.com/186a101f80d3b1df136f070b6ca5c81173307d9d9bc26b8d263a7062b48670ab/staabm/secure_dotenv"
-        },
-        {
-          "id": "https://github.com/putyy/res-downloader",
-          "author": null,
-          "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载! Contribute to putyy/res-downloader development by creating an account on GitHub.",
-          "link": "https://github.com/putyy/res-downloader",
-          "publishedOn": "2025-09-30T08:00:00.000Z",
-          "wordCount": 2859,
-          "title": "putyy/res-downloader: 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ 音乐等常见网络资源下载！",
-          "imageUrl": "https://opengraph.githubassets.com/fd549e04ec079cd29c80abdb9a583bd2919f60e95dfd29578bbebcf72f8dfbb5/putyy/res-downloader"
-        },
-        {
-          "id": "https://github.com/putyy/res-downloader",
-          "author": null,
-          "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载! Contribute to putyy/res-downloader development by creating an account on GitHub.",
-          "link": "https://github.com/putyy/res-downloader",
-          "publishedOn": "2025-09-30T00:00:00.000Z",
-          "wordCount": 2859,
-          "title": "putyy/res-downloader: 视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ 音乐等常见网络资源下载！",
-          "imageUrl": "https://opengraph.githubassets.com/fd549e04ec079cd29c80abdb9a583bd2919f60e95dfd29578bbebcf72f8dfbb5/putyy/res-downloader"
-        },
-        {
-          "id": "https://github.com/9001/copyparty",
-          "author": null,
-          "description": "Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps - 9001/copyparty",
-          "link": "https://github.com/9001/copyparty",
-          "publishedOn": "2025-09-29T16:00:00.000Z",
-          "wordCount": 63465,
-          "title": "9001/copyparty: 便携式文件服务器，具有加速的可恢复上传、去重、WebDAV、FTP、TFTP、零配置、媒体索引器、缩略图++，所有功能集成在一个文件中，无需依赖",
-          "imageUrl": "https://repository-images.githubusercontent.com/188700274/42754d5b-fa34-45dd-9030-6ff0c16036be"
-        },
-        {
-          "id": "https://github.com/github/copilot-cli",
-          "author": null,
-          "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.  - GitHub - github/copilot-cli: GitHub Copilot CLI brings the power of Copilot coding agent directly to your t...",
-          "link": "https://github.com/github/copilot-cli",
-          "publishedOn": "2025-09-27T16:00:00.000Z",
-          "wordCount": 2847,
-          "title": "github/copilot-cli: GitHub Copilot CLI 将 Copilot 编码代理的强大功能直接带到您的终端。",
-          "imageUrl": "https://opengraph.githubassets.com/76cae0369b4afcb6339ef3eea54cc89dc6c5965a2f8887439dfb182ecfde60fa/github/copilot-cli"
-        },
-        {
-          "id": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "author": null,
-          "description": "Chrome DevTools for coding agents. Contribute to ChromeDevTools/chrome-devtools-mcp development by creating an account on GitHub.",
-          "link": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "publishedOn": "2025-09-26T16:00:00.000Z",
-          "wordCount": 6569,
-          "title": "ChromeDevTools/chrome-devtools-mcp: 用于编码代理的 Chrome 开发工具",
-          "imageUrl": "https://opengraph.githubassets.com/d89aacbdaee495f3534e29bc6a87fc6a2477d8160389001fff879af03aa0d9d7/ChromeDevTools/chrome-devtools-mcp"
-        },
-        {
-          "id": "https://github.com/ZyperWave/ZyperWinOptimize",
-          "author": null,
-          "description": "ZyperWin++是一个轻便的Windows优化工具，适用于Win7-Win11最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和Office快速安装。 - ZyperWave/ZyperWinOptimize",
-          "link": "https://github.com/ZyperWave/ZyperWinOptimize",
-          "publishedOn": "2025-09-26T08:00:00.000Z",
-          "wordCount": 738,
-          "title": "ZyperWave/ZyperWinOptimize: ZyperWin++ 是一个轻便的 Windows 优化工具，适用于 Win7-Win11 最新版的优化，包括性能优化、服务项优化、垃圾清理等操作，还支持系统激活和 Office 快速安装。",
-          "imageUrl": "https://opengraph.githubassets.com/664b6157201016276b005343109895882fba47b0e2879b375d9bfdaabdfd5502/ZyperWave/ZyperWinOptimize"
-        },
-        {
-          "id": "使用 SwiftUI 开发)，以 1 FPS 的速率录制您的屏幕，每 15 分钟使用 AI 进行分析，并生成您的活动时间线及摘要。](https://github.com/JerryZLiu/Dayflow",
-          "author": null,
-          "description": "",
-          "link": "https://raw.githubusercontent.com/guanguans/favorite-link/master/%E4%BD%BF%E7%94%A8%20SwiftUI%20%E5%BC%80%E5%8F%91)%EF%BC%8C%E4%BB%A5%201%20FPS%20%E7%9A%84%E9%80%9F%E7%8E%87%E5%BD%95%E5%88%B6%E6%82%A8%E7%9A%84%E5%B1%8F%E5%B9%95%EF%BC%8C%E6%AF%8F%2015%20%E5%88%86%E9%92%9F%E4%BD%BF%E7%94%A8%20AI%20%E8%BF%9B%E8%A1%8C%E5%88%86%E6%9E%90%EF%BC%8C%E5%B9%B6%E7%94%9F%E6%88%90%E6%82%A8%E7%9A%84%E6%B4%BB%E5%8A%A8%E6%97%B6%E9%97%B4%E7%BA%BF%E5%8F%8A%E6%91%98%E8%A6%81%E3%80%82](https://github.com/JerryZLiu/Dayflow",
-          "publishedOn": "2025-09-26T00:00:00.000Z",
-          "wordCount": null,
-          "title": "JerryZLiu/Dayflow：Dayflow 是一款原生 macOS 应用程序 (使用 SwiftUI 开发)，以 1 FPS 的速率录制您的屏幕，每 15 分钟使用 AI 进行分析，并生成您的活动时间线及摘要。",
-          "imageUrl": null
-        },
-        {
-          "id": "表格、横幅、进度条等) 和工具。](https://github.com/ajaxray/AnsiKit",
-          "author": null,
-          "description": "",
-          "link": "https://raw.githubusercontent.com/guanguans/favorite-link/master/%E8%A1%A8%E6%A0%BC%E3%80%81%E6%A8%AA%E5%B9%85%E3%80%81%E8%BF%9B%E5%BA%A6%E6%9D%A1%E7%AD%89)%20%E5%92%8C%E5%B7%A5%E5%85%B7%E3%80%82](https://github.com/ajaxray/AnsiKit",
-          "publishedOn": "2025-09-25T16:00:00.000Z",
-          "wordCount": null,
-          "title": "ajaxray/AnsiKit: 小巧易记的 ANSI 转义助手，用于在 PHP 中构建终端 UI。可链式调用的样式/颜色/光标控制 API，配有一些实用组件 (表格、横幅、进度条等) 和工具。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/lkrms/pretty-php",
-          "author": null,
-          "description": "The opinionated PHP code formatter. Contribute to lkrms/pretty-php development by creating an account on GitHub.",
-          "link": "https://github.com/lkrms/pretty-php",
-          "publishedOn": "2025-09-25T16:00:00.000Z",
-          "wordCount": 3182,
-          "title": "lkrms/pretty-php: pretty-php 是一个快速、确定性、配置极少的 PHP 代码格式化工具，用 PHP 编写。",
-          "imageUrl": "https://opengraph.githubassets.com/772f91e20c2d7deb6a513151d4e5cfbf29683d440d259c5333cb6dc7f9eb1ba2/lkrms/pretty-php"
         }
       ]
     },
