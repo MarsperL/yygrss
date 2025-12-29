@@ -1287,16 +1287,6 @@
           "wordCount": null,
           "title": "AI 资源库更新：收录项目超 500 个，新增评分与展示优化",
           "imageUrl": null
-        },
-        {
-          "id": "https://jimmysong.io/blog/ai-native-era-beginning/",
-          "author": "Jimmy Song",
-          "description": "深入分析 AI 原生时代下云原生企业的转型路径，探讨生成式 AI 对行业的影响与未来趋势。",
-          "link": "https://jimmysong.io/blog/ai-native-era-beginning/",
-          "publishedOn": "2025-10-01T06:59:47.000Z",
-          "wordCount": null,
-          "title": "云原生企业转型：AI 原生时代的深度解析",
-          "imageUrl": null
         }
       ]
     },
@@ -1432,6 +1422,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=308071",
+          "author": "Brandon Lee",
+          "description": "There has been a lot of community projects that have sprung up around Docker UIs and dashboards. Most of us run Docker in the home lab and as your containers…\nThe post Why Arcane Might Be the Next Big Docker UI for the Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/12/why-arcane-might-be-the-next-big-docker-ui-for-the-home-lab/",
+          "publishedOn": "2025-12-29T13:25:12.000Z",
+          "wordCount": 11883,
+          "title": "Why Arcane Might Be the Next Big Docker UI for the Home Lab",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/12/docker-management-ui.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=308078",
           "author": "Brandon Lee",
@@ -3268,16 +3268,6 @@
           "wordCount": null,
           "title": "How Unified Systems Impact Modern Business Operations",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=55276",
-          "author": "Tanvir Kour",
-          "description": "Going from a DevOps Engineer to becoming a DevLead translates to a major shift in your professional life. It basically changes everything: from a job focused on using tools and performing tasks to taking a leading role focused on other people and planning. In the age of automation, however, coaching yourself to develop new skills […]",
-          "link": "https://collabnix.com/how-to-move-from-devops-to-devlead-in-the-age-of-automation/",
-          "publishedOn": "2025-10-01T07:51:58.000Z",
-          "wordCount": null,
-          "title": "How to Move From DevOps to DevLead In the Age of Automation",
-          "imageUrl": null
         }
       ]
     },
@@ -3867,16 +3857,6 @@
           "wordCount": 4539,
           "title": "Docker系列 WordPress系列 AutoSaleVPS插件",
           "imageUrl": "https://chevereto.hwb0307.com/images/2025/11/29/iShot_2025-11-29_18.25.14.gif"
-        },
-        {
-          "id": "https://blognas.hwb0307.com/?p=6475",
-          "author": "Bensz",
-          "description": "Bensz\n前沿快讯 第74期 Arc研究所发起虚拟细胞挑战赛等\n本博客由Faconhost大力赞助！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 前言 本文是前沿快讯的第74期。前沿快讯栏目主要收集一些个人感兴趣的近期发表的研究，关注领域包括肿瘤的分子生物学、临床研究、流行病学等，文献类型主要是期刊论文和综述。研究介绍在Google机翻摘要的基础上进行微调，可能不一定特别准确、专业，主要目的是方便自己和大家快速了解和回顾相关领域研究进展。如果你对某个研究的细节感兴趣，请自行寻找全文进一步了解。此外，研究根据子领域会进一步细分，不过交叉领域的研究不好分为某一类，所以这个分类主要用于初级索引，并不十分准确，不喜勿喷。最后，大家看到什么特别的研究，也可以在评论区向我推荐，我会酌情收录在后面的期刊中。如无意外，前沿快讯栏目会长期更新，周期为2周-1月 […]\nBensz",
-          "link": "https://blognas.hwb0307.com/medicine/6475",
-          "publishedOn": "2025-09-30T14:25:43.000Z",
-          "wordCount": 8931,
-          "title": "前沿快讯 第74期 Arc研究所发起虚拟细胞挑战赛等",
-          "imageUrl": "https://chevereto.hwb0307.com/images/2025/07/05/image-20250705170737633.png"
         }
       ]
     },
@@ -4276,7 +4256,18 @@
       "title": "Alliot's blog",
       "feedUrl": "https://www.iots.vip/atom.xml",
       "siteUrl": "https://www.iots.vip/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.iots.vip/post/android-root-hide-detection-2025",
+          "author": null,
+          "description": "<p>　　在云服务高度绑定、系统权限不断收紧、厂商深度定制愈发封闭的今天，解锁 Bootloader、Root、刷 Rom 这些曾经被视为 Android 精神内核的操作，正在逐渐从“折腾的乐趣”变成“高风险行为”。马上 2026 年了，你还在玩 Android 机吗？",
+          "link": "https://www.iots.vip/post/android-root-hide-detection-2025",
+          "publishedOn": "2025-12-28T11:00:00.000Z",
+          "wordCount": 1518,
+          "title": "2025年底的安卓搞机备忘录",
+          "imageUrl": "https://static.iots.vip/DSU-sideloader.webp"
+        }
+      ]
     },
     {
       "title": "弹霄博科",
