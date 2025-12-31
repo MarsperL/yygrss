@@ -274,16 +274,6 @@
           "wordCount": null,
           "title": "The killer feature of Web Components",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/10/why-i-hate-the-mvp-car/",
-          "author": null,
-          "description": "I have a love-hate relationship with “the MVP car”, that classic illustration that shows us the RIGHT and WRONG way to build a product. To be fair, I don’t think its creator Henrik Kniberg would want it called “the MVP car” at all. According to his post the whole point of the illustration is to replace “MVP” with something more descriptive like “Earliest Testable/Usable/Lovable Product”. I wholeheartedly agree with the notion and short-cycle iteration beats long-cycle “Bing Bang Delivery” as Kniberg refers to it.\nKniberg notes that sharing the car like a meme erases his original context and all we see is the car. Despite taking the time to get the context and being a lover of iteration, I think I have built up petty grievances over the years with the MVP car. The next thousand or so words …",
-          "link": "https://daverupert.com/2025/10/why-i-hate-the-mvp-car/",
-          "publishedOn": "2025-10-01T15:15:00.000Z",
-          "wordCount": null,
-          "title": "Why I hate the MVP car",
-          "imageUrl": null
         }
       ]
     },
@@ -848,6 +838,26 @@
       "feedUrl": "https://jimmysong.io/blog/index.xml",
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
+        {
+          "id": "https://jimmysong.io/blog/2025-annual-review/",
+          "author": "Jimmy Song",
+          "description": "A look back at the major changes in 2025: shifting from Cloud Native to AI Native infrastructure, AI tool ecosystem, and major website improvements.",
+          "link": "https://jimmysong.io/blog/2025-annual-review/",
+          "publishedOn": "2025-12-31T10:02:01.000Z",
+          "wordCount": 7077,
+          "title": "2025 Annual Review: The Transformation Journey from Cloud Native to AI Native",
+          "imageUrl": "https://assets.jimmysong.io/images/blog/2025-annual-review/banner.webp"
+        },
+        {
+          "id": "https://jimmysong.io/blog/manus-meta-acquisition-butterfly-effect/",
+          "author": "Jimmy Song",
+          "description": "Manus's acquisition by Meta sparked polarized opinions. This article explores the butterfly effect in AI applications and key lessons for entrepreneurs on growth strategies.",
+          "link": "https://jimmysong.io/blog/manus-meta-acquisition-butterfly-effect/",
+          "publishedOn": "2025-12-30T03:30:51.000Z",
+          "wordCount": null,
+          "title": "The Butterfly Effect After Manus Was Acquired by Meta",
+          "imageUrl": null
+        },
         {
           "id": "https://jimmysong.io/blog/beijing-open-source-plan-ai-infra-analysis/",
           "author": "Jimmy Song",
@@ -1422,6 +1432,26 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=308199",
+          "author": "Brandon Lee",
+          "description": "For years personally and professional, VMware was simply the default choice for production and home lab in my opinion. It was familiar, stable, and everyone was using it at their…\nThe post I Spent a Year Running Proxmox and VMware Side by Side in My Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/12/i-spent-a-year-running-proxmox-and-vmware-side-by-side-in-my-home-lab/",
+          "publishedOn": "2025-12-31T14:29:20.000Z",
+          "wordCount": 11977,
+          "title": "I Spent a Year Running Proxmox and VMware Side by Side in My Home Lab",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/12/running-Proxmox-and-VMware-in-a-home-lab.png"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=308157",
+          "author": "Brandon Lee",
+          "description": "One thing that I think makes a really good hypervisor is if it comes out of the box with reasonable and sensible defaults that allow you to hit the ground…\nThe post Proxmox Defaults I Leave Alone (And the Ones I Always Change) appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2025/12/proxmox-defaults-i-leave-alone-and-the-ones-i-always-change/",
+          "publishedOn": "2025-12-30T13:21:27.000Z",
+          "wordCount": null,
+          "title": "Proxmox Defaults I Leave Alone (And the Ones I Always Change)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=308071",
           "author": "Brandon Lee",
@@ -3401,6 +3431,16 @@
       "siteUrl": "https://yeshu.cloud/",
       "articles": [
         {
+          "id": "https://yeshu.cloud/posts/annual-summary-2025/",
+          "author": null,
+          "description": "大模型最大的幻觉，可能是让人类以为自己可以直接略过过程、直达结果。",
+          "link": "https://yeshu.cloud/posts/annual-summary-2025/",
+          "publishedOn": "2025-12-31T12:00:31.000Z",
+          "wordCount": 209,
+          "title": "小树的 2025 年终总结",
+          "imageUrl": "https://yeshu.cloud/images/android-chrome-192x192.png"
+        },
+        {
           "id": "https://yeshu.cloud/posts/newsletter-137/",
           "author": null,
           "description": "真正的突破，往往不是来自于对旧问题的更优解，而是来自于对新问题的勇敢定义。",
@@ -3417,6 +3457,16 @@
       "feedUrl": "https://www.skyue.com/feed/",
       "siteUrl": "https://www.skyue.com/",
       "articles": [
+        {
+          "id": "https://www.skyue.com/25123121.html",
+          "author": "拾月",
+          "description": "今天跨年，也是领证一周年的日子，全家出镜纪念。今天吃的：西溪别院的餐，不推荐。徐小蟹的蛋糕，推荐。",
+          "link": "https://www.skyue.com/25123121.html",
+          "publishedOn": "2025-12-31T13:01:00.000Z",
+          "wordCount": 538,
+          "title": "2025.12.31",
+          "imageUrl": ""
+        },
         {
           "id": "https://www.skyue.com/25121320.html",
           "author": "拾月",

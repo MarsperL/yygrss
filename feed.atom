@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-12-29T21:38:29.417Z</updated>
+    <updated>2025-12-31T21:38:49.331Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I Spent a Year Running Proxmox and VMware Side by Side in My Home Lab]]></title>
+        <id>https://www.virtualizationhowto.com/?p=308199</id>
+        <link href="https://www.virtualizationhowto.com/2025/12/i-spent-a-year-running-proxmox-and-vmware-side-by-side-in-my-home-lab/"/>
+        <updated>2025-12-31T14:29:20.000Z</updated>
+        <summary type="html"><![CDATA[For years personally and professional, VMware was simply the default choice for production and home lab in my opinion. It was familiar, stable, and everyone was using it at their…
+The post I Spent a Year Running Proxmox and VMware Side by Side in My Home Lab appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025.12.31]]></title>
+        <id>https://www.skyue.com/25123121.html</id>
+        <link href="https://www.skyue.com/25123121.html"/>
+        <updated>2025-12-31T13:01:00.000Z</updated>
+        <summary type="html"><![CDATA[今天跨年，也是领证一周年的日子，全家出镜纪念。今天吃的：西溪别院的餐，不推荐。徐小蟹的蛋糕，推荐。]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小树的 2025 年终总结]]></title>
+        <id>https://yeshu.cloud/posts/annual-summary-2025/</id>
+        <link href="https://yeshu.cloud/posts/annual-summary-2025/"/>
+        <updated>2025-12-31T12:00:31.000Z</updated>
+        <summary type="html"><![CDATA[大模型最大的幻觉，可能是让人类以为自己可以直接略过过程、直达结果。]]></summary>
+        <author>
+            <name>一颗小树</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 Annual Review: The Transformation Journey from Cloud Native to AI Native]]></title>
+        <id>https://jimmysong.io/blog/2025-annual-review/</id>
+        <link href="https://jimmysong.io/blog/2025-annual-review/"/>
+        <updated>2025-12-31T10:02:01.000Z</updated>
+        <summary type="html"><![CDATA[A look back at the major changes in 2025: shifting from Cloud Native to AI Native infrastructure, AI tool ecosystem, and major website improvements.]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxmox Defaults I Leave Alone (And the Ones I Always Change)]]></title>
+        <id>https://www.virtualizationhowto.com/?p=308157</id>
+        <link href="https://www.virtualizationhowto.com/2025/12/proxmox-defaults-i-leave-alone-and-the-ones-i-always-change/"/>
+        <updated>2025-12-30T13:21:27.000Z</updated>
+        <summary type="html"><![CDATA[One thing that I think makes a really good hypervisor is if it comes out of the box with reasonable and sensible defaults that allow you to hit the ground…
+The post Proxmox Defaults I Leave Alone (And the Ones I Always Change) appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Butterfly Effect After Manus Was Acquired by Meta]]></title>
+        <id>https://jimmysong.io/blog/manus-meta-acquisition-butterfly-effect/</id>
+        <link href="https://jimmysong.io/blog/manus-meta-acquisition-butterfly-effect/"/>
+        <updated>2025-12-30T03:30:51.000Z</updated>
+        <summary type="html"><![CDATA[Manus's acquisition by Meta sparked polarized opinions. This article explores the butterfly effect in AI applications and key lessons for entrepreneurs on growth strategies.]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Arcane Might Be the Next Big Docker UI for the Home Lab]]></title>
         <id>https://www.virtualizationhowto.com/?p=308071</id>
@@ -7149,17 +7211,6 @@ G85银昆高速，秦岭北侧的宝鸡市到秦岭南侧的汉中市
         <summary type="html"><![CDATA[🍁 Hide the bookmark bar, use Maple Bookmarks to surf smoothly.  隐藏书签栏，使用枫叶书签让你行云流水 - tw93/Maple]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why I hate the MVP car]]></title>
-        <id>https://daverupert.com/2025/10/why-i-hate-the-mvp-car/</id>
-        <link href="https://daverupert.com/2025/10/why-i-hate-the-mvp-car/"/>
-        <updated>2025-10-01T15:15:00.000Z</updated>
-        <summary type="html"><![CDATA[I have a love-hate relationship with “the MVP car”, that classic illustration that shows us the RIGHT and WRONG way to build a product. To be fair, I don’t think its creator Henrik Kniberg would want it called “the MVP car” at all. According to his post the whole point of the illustration is to replace “MVP” with something more descriptive like “Earliest Testable/Usable/Lovable Product”. I wholeheartedly agree with the notion and short-cycle iteration beats long-cycle “Bing Bang Delivery” as Kniberg refers to it.
-Kniberg notes that sharing the car like a meme erases his original context and all we see is the car. Despite taking the time to get the context and being a lover of iteration, I think I have built up petty grievances over the years with the MVP car. The next thousand or so words …]]></summary>
-        <author>
-            <name>daverupert.com</name>
         </author>
     </entry>
     <entry>
