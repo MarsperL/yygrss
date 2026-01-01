@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2025-12-31T21:38:49.331Z</updated>
+    <updated>2026-01-01T21:39:20.415Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A Look Back at My 2025 Home Lab and What Changed Along the Way]]></title>
+        <id>https://www.virtualizationhowto.com/?p=308223</id>
+        <link href="https://www.virtualizationhowto.com/2026/01/a-look-back-at-my-2025-home-lab-and-what-changed-along-the-way/"/>
+        <updated>2026-01-01T14:44:28.000Z</updated>
+        <summary type="html"><![CDATA[Man 2025 has been an exciting year for home labbing. I have been able to experiment with a lot of great software solutions and new hardware, including mini PCs and…
+The post A Look Back at My 2025 Home Lab and What Changed Along the Way appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TinkerTry's 2025 Home Tech Refresh]]></title>
+        <id>articles/tinkertry-2025-home-tech-refresh</id>
+        <link href="https://tinkertry.com/articles/tinkertry-2025-home-tech-refresh"/>
+        <updated>2025-12-31T22:34:00.000Z</updated>
+        <summary type="html"><![CDATA[This article summarizes my 2025, both professionally and personally. Please consider leaving a comment with feedback, or just to let me know you're interested in learning more about my installation and configuration of some of these tech items.
+With a ton of household-renovation-related work to focus on from 2022 to 2024, all but the most critical tech and home automation acquisitions had to be back-burnered. I needed to patiently wait for some spare time, and a budget. With many aging tech things starting to break in 2025, it turned out to be the year for some major overhauls, including some rip-and-replace and some net new.
+JANUARY
+Home Assistant Green
+My 2025 began with leaning in to using AI more and more when trying to solve thorny HVAC woes that were mostly related to a rather poor i…]]></summary>
+        <author>
+            <name>TinkerTry</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Spent a Year Running Proxmox and VMware Side by Side in My Home Lab]]></title>
         <id>https://www.virtualizationhowto.com/?p=308199</id>
@@ -38,6 +63,16 @@ The post I Spent a Year Running Proxmox and VMware Side by Side in My Home Lab a
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Running Docker Model Runner on Linux without GPU]]></title>
+        <id>https://collabnix.com/?p=64256</id>
+        <link href="https://collabnix.com/running-docker-model-runner-on-linux-without-gpu/"/>
+        <updated>2025-12-31T11:49:30.000Z</updated>
+        <summary type="html"><![CDATA[Don’t have a GPU? No problem! Docker Model Runner works perfectly fine on CPU, making it accessible for development, testing, and lightweight inference workloads. Why CPU-Only? Prerequisites Installation Steps 1. Install Docker Model Runner Plugin For Ubuntu/Debian: For RPM-based distributions (RHEL/Fedora/CentOS): 2. Verify Installation You should see output confirming the plugin version. 3. Run Your […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2025 Annual Review: The Transformation Journey from Cloud Native to AI Native]]></title>
         <id>https://jimmysong.io/blog/2025-annual-review/</id>
         <link href="https://jimmysong.io/blog/2025-annual-review/"/>
@@ -45,6 +80,16 @@ The post I Spent a Year Running Proxmox and VMware Side by Side in My Home Lab a
         <summary type="html"><![CDATA[A look back at the major changes in 2025: shifting from Cloud Native to AI Native infrastructure, AI tool ecosystem, and major website improvements.]]></summary>
         <author>
             <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simplifying Kubernetes Network Management with Cilium’s BGP Auto-Discovery Feature]]></title>
+        <id>https://collabnix.com/?p=63957</id>
+        <link href="https://collabnix.com/simplifying-kubernetes-network-management-with-ciliums-bgp-auto-discovery-feature/"/>
+        <updated>2025-12-31T06:56:03.000Z</updated>
+        <summary type="html"><![CDATA[Learn how Cilium's BGP Auto-Discovery feature eliminates manual peer configuration in large-scale Kubernetes deployments. Discover implementation steps, benefits, and real-world use cases.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
         </author>
     </entry>
     <entry>
@@ -56,6 +101,46 @@ The post I Spent a Year Running Proxmox and VMware Side by Side in My Home Lab a
 The post Proxmox Defaults I Leave Alone (And the Ones I Always Change) appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running n8n on Kubernetes: What Actually Works in Production]]></title>
+        <id>https://collabnix.com/?p=63894</id>
+        <link href="https://collabnix.com/running-n8n-on-kubernetes-what-actually-works-in-production/"/>
+        <updated>2025-12-30T11:16:49.000Z</updated>
+        <summary type="html"><![CDATA[Let me tell you about a problem I kept running into. Companies would set up n8n for workflow automation, everything worked great on their laptop, but the moment they tried scaling it in production, things got messy. Workflows would timeout, webhooks would fail, and nobody could figure out why some automation tasks took forever while […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is AI Scheduling for Field Teams on K8s?]]></title>
+        <id>https://collabnix.com/?p=63885</id>
+        <link href="https://collabnix.com/what-is-ai-scheduling-for-field-teams-on-k8s/"/>
+        <updated>2025-12-30T10:41:15.000Z</updated>
+        <summary type="html"><![CDATA[When people talk about K8s, they mean Kubernetes, which is the open source system that automates how containerized applications run across clusters of servers. It handles load balancing, scaling, and recovery so teams do not have to do it manually. When artificial intelligence is added into the mix, Kubernetes becomes a flexible environment for running […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running Tech Conferences at Scale: Why Cloud Infrastructure Still Depends on On-Site AV Execution]]></title>
+        <id>https://collabnix.com/?p=63882</id>
+        <link href="https://collabnix.com/running-tech-conferences-at-scale-why-cloud-infrastructure-still-depends-on-on-site-av-execution/"/>
+        <updated>2025-12-30T10:39:23.000Z</updated>
+        <summary type="html"><![CDATA[Running a tech conference today means juggling cloud platforms, remote workflows, and real-time apps. Still, when the doors open and thousands of people stream in, nothing replaces the humans steering cameras, soundboards, lights, and staging gear right there in the room. Cloud tools are powerful, but the actual show still happens in a physical space, […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI-First SaaS Starts with AI-Ready Data]]></title>
+        <id>https://collabnix.com/?p=63860</id>
+        <link href="https://collabnix.com/ai-first-saas-starts-with-ai-ready-data/"/>
+        <updated>2025-12-30T10:31:33.000Z</updated>
+        <summary type="html"><![CDATA[In recent years, the SaaS industry’s competitive advantage has been determined by product features, pricing models, and user experience. In response to this competition, SaaS companies are now focusing their resources on developing intelligence within their platforms; therefore, how well a SaaS platform can predict, personalize, automate, and optimize outcomes for users will continue to […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
         </author>
     </entry>
     <entry>
@@ -7137,50 +7222,6 @@ G85银昆高速，秦岭北侧的宝鸡市到秦岭南侧的汉中市
         <summary type="html"><![CDATA[今天上午去姨和小舅家，每次看到小舅都让我觉得命运之无常。]]></summary>
         <author>
             <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[粉黛花海游记]]></title>
-        <id>https://bluehe.cn/archives/nanning-flower-sea</id>
-        <link href="https://bluehe.cn/archives/nanning-flower-sea"/>
-        <updated>2025-10-03T16:38:00.000Z</updated>
-        <summary type="html"><![CDATA[9月14日，周末想找个地方散步，在小红书搜索了一下南宁周末好去处，看到南宁园博园粉黛花海已经开了，而且今天是教师节福利的最后一天，可以免门票，还可以凭借教师证件以半票的价格且五人入园。
-
-园博园的位置挺远，所以没有活动的时候人流量是很少的，我乘坐BRT公交车直达景区东门口，这辆公交车前面没有问题，后面居然直接停了，有人等不及直接下车步行前往，司机还把后盖给打开散热，又是打电话求助工程师，到后面空调...]]></summary>
-        <author>
-            <name>寻鹤</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NodePass 开源的隧道工具重新定义内网穿透]]></title>
-        <id>https://dusays.com/830/</id>
-        <link href="https://dusays.com/830/"/>
-        <updated>2025-10-03T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>NodePass 是一个开源网络隧道工具，其基于 Go 语言开发，目标是让两台机器之间的通信变得简单又安全。想象一下，您有一台内网 Web 服务器，想让远在千里之外同事访问，NodePass 就能搭一座隐形的桥，把数据安全送过去。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Ways a Learning Management System Transforms Employee Engagement and Retention]]></title>
-        <id>https://collabnix.com/?p=55585</id>
-        <link href="https://collabnix.com/10-ways-a-learning-management-system-transforms-employee-engagement-and-retention/"/>
-        <updated>2025-10-03T07:55:06.000Z</updated>
-        <summary type="html"><![CDATA[In today’s competitive business environment across American companies, maintaining employee engagement and retention is crucial. Companies constantly seek innovative tools to enhance these aspects, and one such tool is a Learning Management System (LMS). But how exactly does this technology create meaningful change in the workplace? By supporting Learning and Development (L&D), a learning management […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Unified Systems Impact Modern Business Operations]]></title>
-        <id>https://collabnix.com/?p=55520</id>
-        <link href="https://collabnix.com/how-unified-systems-impact-modern-business-operations/"/>
-        <updated>2025-10-02T18:14:18.000Z</updated>
-        <summary type="html"><![CDATA[You want to keep all your business data and operations in one place? Learn how unified management systems can help you achieve that.]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
         </author>
     </entry>
     <entry>
