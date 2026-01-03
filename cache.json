@@ -584,7 +584,18 @@
       "title": "Rss Feed - 苏洋博客",
       "feedUrl": "https://soulteary.com/feed/",
       "siteUrl": "https://soulteary.com/feed/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://soulteary.com/2026/01/03/split-dns-for-cross-platform-dual-machine-dev.html",
+          "author": "苏洋(soulteary)",
+          "description": "这篇文章记录一个很“朴素”的诉求：我希望把 macOS 当作主力输入设备，把 Ubuntu 设备当作移动工作站与服务承载机。两台设备通过雷电网桥或同一热点互联后，Mac 侧可以像在本机一样访问 Ubuntu 上的各种站点和服务，同时不牺牲 macOS 的日常网络体验。",
+          "link": "https://soulteary.com/2026/01/03/split-dns-for-cross-platform-dual-machine-dev.html",
+          "publishedOn": "2026-01-03T06:14:00.000Z",
+          "wordCount": 641,
+          "title": "用 Split DNS 提升跨系统双机开发体验",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "运维咖啡吧",
@@ -1433,6 +1444,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=308314",
+          "author": "Brandon Lee",
+          "description": "If you are stuck on another hypervisor at the moment and would like to get over to Proxmox VE Server as your virtualization platform, there is a way that you…\nThe post Run Proxmox Inside Docker: A Weekend Home Lab Project to Learn Clustering and HA appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/01/run-proxmox-inside-docker-a-weekend-home-lab-project-to-learn-clustering-and-ha/",
+          "publishedOn": "2026-01-03T13:38:23.000Z",
+          "wordCount": 11725,
+          "title": "Run Proxmox Inside Docker: A Weekend Home Lab Project to Learn Clustering and HA",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/run-proxmox-in-docker.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=308274",
           "author": "Brandon Lee",
           "description": "Over he past couple of years now we have been seeing a paradigm shift in how we think about our home lab environments. I think the Broadcom buyout of VMware…\nThe post Why Containers Will Matter More Than Hypervisors in the 2026 Home Lab appeared first on Virtualization Howto.",
@@ -2089,6 +2110,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=70264",
+          "author": "Collabnix Team",
+          "description": "Amid the constant hype and speculation about artificial intelligence, it can be difficult to separate future promises from present-day reality. The conversation is often dominated by futuristic scenarios, leaving business leaders to wonder what’s actually happening inside organizations today. A clearer picture is needed to make strategic decisions. Enter “The 2026 State of AI Agents […]",
+          "link": "https://collabnix.com/5-surprising-truths-from-the-2026-state-of-ai-agents-report/",
+          "publishedOn": "2026-01-03T06:55:14.000Z",
+          "wordCount": 6651,
+          "title": "5 Surprising Truths From the 2026 State of AI Agents Report",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=64256",
           "author": "Collabnix Team",
@@ -3864,6 +3895,16 @@
       "siteUrl": "https://blognas.hwb0307.com/",
       "articles": [
         {
+          "id": "https://blognas.hwb0307.com/other/6689",
+          "author": "Bensz",
+          "description": "Bensz\nClaude code和Claude skills的工程设计\n本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 我的Skills开发流程已经开源，欢迎小伙伴们点赞、收藏哈，谢谢！ 前言 因为在PackyCode的小群里有小伙伴比较好奇Skills这种产品形态，刚好最近几天我也了解并深入地实践了一下，颇有经验。这篇文章，我想聊聊：Skills 到底是什么？我平时怎么设计一个 Skill？如何基于一个 Skill 再往上搭一条”可重复跑”的 Pipeline（工作区级流程）？这篇文章会以我自己做的”系统文献综述”相关实践为例，分享我踩坑后总结出来的一套大致步骤和经验。另外，这个流程同样适用于 OpenAI Codex：现在 Codex 和 Claude Cod […]\nBensz",
+          "link": "https://blognas.hwb0307.com/skill/6689",
+          "publishedOn": "2026-01-03T13:40:43.000Z",
+          "wordCount": 4907,
+          "title": "Claude code和Claude skills的工程设计",
+          "imageUrl": "https://blognas.hwb0307.com/wp-content/uploads/zzmx-169-scaled.jpg"
+        },
+        {
           "id": "https://blognas.hwb0307.com/other/6674",
           "author": "Bensz",
           "description": "Bensz\nDocker系列 WordPress系列 m2w 2.6：博客管理的重要转折点\n本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 前言 前文回顾：Docker系列 WordPress系列 WordPress上传或更新Markdown的最佳实践-m2w 2 使用2.5版本的小伙伴，升级时记得改为2.6版本的 myblog.py。内容大体上是相似的，但有一丁点区别。还是直接换掉保险 (～￣▽￣)～ 有什么问题加tg群问哈 小伙伴们都还记得之前我们介绍过的 m2w 吗？就是那个可以将本地 Markdown 文件自动上传或更新到 WordPress 的神奇工具！时隔不久，m2w 迎来了 2.6 版本，这个版本可不是小修小补，而是带来了许多重要的改进和新特性。今天，就让我带大家一起看看这个 2.6 版本到底有什么值得我们关注的地方 […]\nBensz",
@@ -3900,6 +3941,16 @@
       "feedUrl": "https://4311346.com/index.xml",
       "siteUrl": "https://4311346.com/",
       "articles": [
+        {
+          "id": "https://4311346.com/post/2026/0103-change.html",
+          "author": null,
+          "description": "这是一篇库存文章，发布的时候，时间却已跨年了，也就做为2026年的第一篇文章把。回顾整个2025年，这一年码了7万9千字，共发布文章28篇，拥有660条评论，文章数量同比下降了42%，居然少了这么多，说明闲暇的时间越来越少，能真正静下来思考的时间，也越来越少。曾是一名重度的电脑使用者，然而这两年的使用量却越来越少，很多时候发现一天忙下来，电脑都没开过机。\n2026没什么大的目标，只希望身体能做一个大的调整，这个年龄再不注意，未来的麻烦都会很大。\n2025年末结束前的一周特别的忙，几个晚上都是加班到凌晨03点多才洗漱睡觉，早上07点又出门上班。每天靠的都是咖啡红牛东鹏等等而坚持…  真的好想要踏踏实实的睡上一整天，但随之而来的任务，又一件件的猝然而至。\n很多人认为这些事情没有意义，想都能想得到大概率是个不好的答案… 而身为总监却得去想办法去证明老板的决策是对的。但实际操作起来，更难受的事情，是一些人表里不如一的各种坑。\n难以重建被摧毁的信任\n金牛座通常被认为不是一个容易“记仇”的星座，不喜欢耗费能量在纠缠上，所以会选择默默退出这些交集，切断没必要的联系，用距离表达态度\n金牛座的“记仇”更像一种持久性的失望记录，而非主动谋划报复。会用沉默和距离保护自己的稳定生活，一旦认定关系无法修复，便会彻底退出。与其说记仇，不如说是难以重建被摧毁的信任。\n这是职场，不是电视剧包青天\n这是电视剧《理想之城》中，董事长赵显坤对着苏筱说的一段话。\n然后现实中，时常在我们身边抱怨的不公，其实时时、处处都在发生。面对不公，似乎抱怨就变成了唯一的应对策略。久而久之，抱怨声越来越多，反而让我们真的相信这些抱怨的内容就是真实的结果。\n我们深信职场的不公、深信社会的不平，从未想过要如何应对，也从未意识到其实不公的背后还有一种可以通过自己的努力去创造的相对公平，只得以最没有力量的抱怨来面对。\n一天往返武汉-长沙\n沃尔沃S60三年质保到期前的各项检查后的第一个周末就跑了一趟长沙，往返730公里，算得上是2025年的最后一次长途了。要吐槽的是支付宝在线免费办理的ETC，有时候并不是很灵敏，过高速收费口ETC专用车道，稍微快一点，就不识别~\n因为本身就很累，所以领航辅助驾驶几乎覆盖了大半的行程。做为一名老司机基本上全程犯困眼皮打架…事后想想真的是太危险了。\n万幸的是22点前安全返回武汉，再扛了三天，就是元旦假期，终于能好好休息。\n可是元旦却过得太快\n跨年夜的雨阻止了同学之间的烧烤聚餐，都是各回各家…次日武汉的商场里全是人，武商梦时代，停车到了负三层…汉阳永旺，停车到了6层，大把的时间花费在了进出停车场。同事的留言和电话，被迫在假期间营业加班…罗振宇的跨年演讲还不知道什么时候可以专门的回放下。\n2026年新年愿望\n改变… 期待2026年末~",
+          "link": "https://4311346.com/post/2026/0103-change.html",
+          "publishedOn": "2026-01-03T12:38:35.000Z",
+          "wordCount": null,
+          "title": "2026年，改变~",
+          "imageUrl": null
+        },
         {
           "id": "https://4311346.com/post/2025/1221-volovs-s60.html",
           "author": null,
