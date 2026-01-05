@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-01-03T21:37:47.879Z</updated>
+    <updated>2026-01-05T04:27:56.374Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI模型评测 性价比超绝的GLM-4.7]]></title>
+        <id>https://blognas.hwb0307.com/other/6914</id>
+        <link href="https://blognas.hwb0307.com/ai/6914"/>
+        <updated>2026-01-04T23:37:27.000Z</updated>
+        <summary type="html"><![CDATA[Bensz
+AI模型评测 性价比超绝的GLM-4.7
+本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 GLM-4.7 是智谱 AI 于 2025 年 12 月发布的开源大语言模型,在编码能力和推理性能上达到 GPT-5.1 和 Claude 4.5 Sonnet 水平 API 价格仅为竞品的 1/4 到 1/7,月费 $3 的入门计划引发开发者热议 特色功能 “Vibe Coding” 和 “Preserved Thinking” 显著提升了前端代码质量和多轮对话稳定性 在 SWE-bench Verified 基准测试中取得 73.8% 的成绩,开源模型中达到 SOTA 适合编码代理、多语言开发和成本敏感项目,但本地部署需要高端硬件 前言 […]
+Bensz]]></summary>
+        <author>
+            <name>Bensz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FunctionGemma: Building Offline AI Agents with Docker Model Runner]]></title>
+        <id>https://collabnix.com/?p=70352</id>
+        <link href="https://collabnix.com/functiongemma-building-offline-ai-agents-with-docker-model-runner/"/>
+        <updated>2026-01-04T08:11:54.000Z</updated>
+        <summary type="html"><![CDATA[Building Offline AI Agents with Docker Model Runner The AI industry is shifting from chatbots to agents. But here’s the problem: most function-calling models are either cloud-dependent or too large to run efficiently on edge devices. Google just solved this with FunctionGemma – a 270M parameter model specifically fine-tuned for translating natural language into executable […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA DGX Spark走在时代的前列线上]]></title>
+        <id>https://nops.icu/archives/231/</id>
+        <link href="https://nops.icu/archives/231/"/>
+        <updated>2026-01-04T02:34:00.000Z</updated>
+        <summary type="html"><![CDATA[3万人民币出头，可以买到支持cuda、原厂出品且合法的桌面AI工作站。测试Qwen3-Next-80B-A3B-Instruct-FP8 占满显存，基本是可以运行的最大尺寸模型，每秒生成422个...]]></summary>
+        <author>
+            <name>季兴</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running Parallel AI Agents on My Mac: Hands-On with Verdent's Standalone App]]></title>
+        <id>https://jimmysong.io/blog/verdent-standalone-app-parallel-agents/</id>
+        <link href="https://jimmysong.io/blog/verdent-standalone-app-parallel-agents/"/>
+        <updated>2026-01-04T02:25:48.000Z</updated>
+        <summary type="html"><![CDATA[A hands-on experience with Verdent's standalone Mac app, exploring how parallel AI agents, isolated workspaces, and task-oriented workflows change real-world development.]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OwlMail：兼容 MailDev 的工程化测试邮箱]]></title>
+        <id>https://soulteary.com/2026/01/04/maildev-compatible-test-mailbox-owlmail.html</id>
+        <link href="https://soulteary.com/2026/01/04/maildev-compatible-test-mailbox-owlmail.html"/>
+        <updated>2026-01-03T22:02:00.000Z</updated>
+        <summary type="html"><![CDATA[在开发与私有化部署环境里，用 OwlMail 把“发出去的邮件”拦下来，让它从一次性联调变成可验证的工程能力。]]></summary>
+        <author>
+            <name>苏洋(soulteary)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025：读了5本书，但几乎都忘了；开发了两个产品，但是一分钱没赚]]></title>
+        <id>https://panzhixiang.cn/2026/2025/</id>
+        <link href="https://panzhixiang.cn/2026/2025/"/>
+        <updated>2026-01-03T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="读书"><a href="#读书" class="headerlink" title="读书"></a>读书</h2><h2 id="今年竟然读了5本书。我之所以惊讶这个数字，是因为我完全没有印象，现在也完全想不起来这5本书的内容了。今年应该是从-2020-年以来读书最少的一年，而且效果也是最差的：竟然完全不记得书中的内容，也没有任何一本书让我印象深刻。"><a href="#今年竟然读了5本书。我之所以惊讶这个数字，是因为我完全没有印象，现在也完全想不起来这5本书的内容了。今年应该是从-2020-年以来读书最少的一年，而且效果也是最差的：竟然完全不记得书中的内容，也没有任何一本书让我印象深刻。" class="headerlink" title="今年竟然读了5本书。我之所以惊讶这个数字，是因为我完全没有印象，现在也完全想不起来这5本书的内容了。今年应该是从 2020 年以来读书最少的一年，而且效果也是最差的：竟然完全不记得书中的内容，也没有任何一本书让我印象深刻。"></a>今年竟然读了5本书。我之所以惊讶这个数字，是因为我完全没有印象，现在也完全想不起来这5本书的内容了。<br>今年应该是从 2020 年以来读书最少的一年，而且效果也是最差的：竟然完全不记得书中的内容，也没有任何一本书让我印象深刻。</h2><h2 id="独立开发"><a href="#独立开发" class="headerlink" title="独立开发"></a>独立开发</h2>]]></summary>
+        <author>
+            <name>潘智祥</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Claude code和Claude skills的工程设计]]></title>
         <id>https://blognas.hwb0307.com/other/6689</id>
@@ -7215,26 +7278,6 @@ G85银昆高速，秦岭北侧的宝鸡市到秦岭南侧的汉中市
         <summary type="html"><![CDATA[Store your data from all your accounts and devices in a single cohesive timeline on your own computer - timelinize/timelinize]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[呼兰的《草台班子》专场]]></title>
-        <id>https://www.skyue.com/25100716.html</id>
-        <link href="https://www.skyue.com/25100716.html"/>
-        <updated>2025-10-07T08:14:00.000Z</updated>
-        <summary type="html"><![CDATA[昨天中秋节，到金沙湖大剧院看了呼兰的《草台班子》专场。]]></summary>
-        <author>
-            <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[博客从Typecho迁移到Wordpress]]></title>
-        <id>https://www.skyue.com/25100715.html</id>
-        <link href="https://www.skyue.com/25100715.html"/>
-        <updated>2025-10-07T07:09:00.000Z</updated>
-        <summary type="html"><![CDATA[最近几天研究把博客从Typecho迁移到Wordpress，数据全部完成了迁移，也实现了Obsidian发布到Wordpress的Python脚本（对标此前实现的Typecho版本）。回头看，W...]]></summary>
-        <author>
-            <name>拾月</name>
         </author>
     </entry>
     <entry>
