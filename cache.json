@@ -34,16 +34,6 @@
           "wordCount": 855,
           "title": "RssWe--支持PWA的RSS和播客在线阅读器",
           "imageUrl": "https://yyg.js.cool/yyghub/img/512.png"
-        },
-        {
-          "id": "https://yyg.js.cool/yyg/2eca17c7/",
-          "author": null,
-          "description": "博客加入Gitalk评论后，需要访问相应页面，才在存放评论的仓库创建Issues。本文通过脚本自动访问文章页面完成Gitalk自动创建评论Issues。脚本自attson/hexo-gitalk-init: Hexo gitalk 极简初始化脚本基础上修改而来（是在windows本地运行）。\n这是一个用于 Hexo 博客的 Gitalk 评论系统自动初始化脚本。它能自动扫描所有文章，识别出尚未创建评论 Issue 的页面，并通过模拟浏览器访问来触发 Gitalk 自动完成 Issue",
-          "link": "https://yyg.js.cool/yyg/2eca17c7/",
-          "publishedOn": "2025-10-08T14:06:07.000Z",
-          "wordCount": 3137,
-          "title": "Gitalk自动创建评论Issues",
-          "imageUrl": "https://t.alcy.cc/fj"
         }
       ]
     },
@@ -1318,16 +1308,6 @@
           "wordCount": 779,
           "title": "智能体设计模式：Agentic Design Patterns 中文版电子书分享",
           "imageUrl": "https://assets.jimmysong.io/images/blog/agentic-design-patterns-intro/banner.webp"
-        },
-        {
-          "id": "https://jimmysong.io/blog/civilizational-differences-china-japan-films/",
-          "author": "Jimmy Song",
-          "description": "为什么中国历史上频繁发生内部运动与自我毁灭，而日本则不断发动对外战争？从《武训传》和《七武士》两部电影的时代对照，看中日文明的深层动能差异。",
-          "link": "https://jimmysong.io/blog/civilizational-differences-china-japan-films/",
-          "publishedOn": "2025-10-09T04:08:40.000Z",
-          "wordCount": null,
-          "title": "内斗与外侵：从《武训传》与《七武士》看中日文明的分野",
-          "imageUrl": null
         }
       ]
     },
@@ -1473,6 +1453,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=308416",
+          "author": "Brandon Lee",
+          "description": "If you have been following my recent experiments in the home lab, I recently tested a very cool project for running Proxmox VE Server inside a Docker container. The developer…\nThe post Run Proxmox Datacenter Manager in a Docker Container for Home Labs and Testing appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/01/run-proxmox-datacenter-manager-in-a-docker-container-for-home-labs-and-testing/",
+          "publishedOn": "2026-01-06T13:13:07.000Z",
+          "wordCount": 11335,
+          "title": "Run Proxmox Datacenter Manager in a Docker Container for Home Labs and Testing",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/run-proxmox-datacenter-manager-in-docker-2.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=308375",
           "author": "Brandon Lee",
@@ -2150,6 +2140,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=70404",
+          "author": "Tanvir Kour",
+          "description": "The world of software development continues to expand in both scale and complexity. Developers now work in environments where technology changes quickly, systems depend on one another, and decisions carry a wider impact across products and users. The expectations are higher: to code efficiently, plus to think strategically, collaborate effectively, and understand the broader context […]",
+          "link": "https://collabnix.com/the-changing-skillset-of-developers-in-the-new-tech-landscape/",
+          "publishedOn": "2026-01-06T12:32:12.000Z",
+          "wordCount": 7654,
+          "title": "The Changing Skillset of Developers in the New Tech Landscape",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=70390",
           "author": "Tanvir Kour",
@@ -3914,6 +3914,16 @@
       "feedUrl": "https://blognas.hwb0307.com/feed",
       "siteUrl": "https://blognas.hwb0307.com/",
       "articles": [
+        {
+          "id": "https://blognas.hwb0307.com/other/6923",
+          "author": "Bensz",
+          "description": "Bensz\nVibe Coding CLI评测： Claude Code vs. OpenAI Codex vs. Gemini CLI\n本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 基于 SWE-bench Verified 基准测试、社区反馈和个人深度使用体验,全面对比三大 CLI AI 编程助手 Claude Code 以 72.7% SWE-bench 得分位居榜首,响应速度最快、Agent Skills 开发体验最佳、全程母语对话支持;常见误解:工具本身免费,可用国产模型(如 MiniMax M2 仅占官方成本 8%)大幅降低使用成本 OpenAI Codex CLI 开源可定制(SWE-bench 69.1%),适合已有 OpenAI 生态用户;但 Agent Skills 开发体验较差,推理过程全程英文对非母语用户不友好 Gemini CLI 凭借 1M […]\nBensz",
+          "link": "https://blognas.hwb0307.com/other/6923",
+          "publishedOn": "2026-01-06T15:28:25.000Z",
+          "wordCount": 5313,
+          "title": "Vibe Coding CLI评测： Claude Code vs. OpenAI Codex vs. Gemini CLI",
+          "imageUrl": "https://blognas.hwb0307.com/wp-content/uploads/zzmx-169-scaled.jpg"
+        },
         {
           "id": "https://blognas.hwb0307.com/other/6914",
           "author": "Bensz",

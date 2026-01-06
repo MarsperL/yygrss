@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-01-05T21:41:20.743Z</updated>
+    <updated>2026-01-06T21:41:14.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vibe Coding CLI评测： Claude Code vs. OpenAI Codex vs. Gemini CLI]]></title>
+        <id>https://blognas.hwb0307.com/other/6923</id>
+        <link href="https://blognas.hwb0307.com/other/6923"/>
+        <updated>2026-01-06T15:28:25.000Z</updated>
+        <summary type="html"><![CDATA[Bensz
+Vibe Coding CLI评测： Claude Code vs. OpenAI Codex vs. Gemini CLI
+本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 基于 SWE-bench Verified 基准测试、社区反馈和个人深度使用体验,全面对比三大 CLI AI 编程助手 Claude Code 以 72.7% SWE-bench 得分位居榜首,响应速度最快、Agent Skills 开发体验最佳、全程母语对话支持;常见误解:工具本身免费,可用国产模型(如 MiniMax M2 仅占官方成本 8%)大幅降低使用成本 OpenAI Codex CLI 开源可定制(SWE-bench 69.1%),适合已有 OpenAI 生态用户;但 Agent Skills 开发体验较差,推理过程全程英文对非母语用户不友好 Gemini CLI 凭借 1M […]
+Bensz]]></summary>
+        <author>
+            <name>Bensz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run Proxmox Datacenter Manager in a Docker Container for Home Labs and Testing]]></title>
+        <id>https://www.virtualizationhowto.com/?p=308416</id>
+        <link href="https://www.virtualizationhowto.com/2026/01/run-proxmox-datacenter-manager-in-a-docker-container-for-home-labs-and-testing/"/>
+        <updated>2026-01-06T13:13:07.000Z</updated>
+        <summary type="html"><![CDATA[If you have been following my recent experiments in the home lab, I recently tested a very cool project for running Proxmox VE Server inside a Docker container. The developer…
+The post Run Proxmox Datacenter Manager in a Docker Container for Home Labs and Testing appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Changing Skillset of Developers in the New Tech Landscape]]></title>
+        <id>https://collabnix.com/?p=70404</id>
+        <link href="https://collabnix.com/the-changing-skillset-of-developers-in-the-new-tech-landscape/"/>
+        <updated>2026-01-06T12:32:12.000Z</updated>
+        <summary type="html"><![CDATA[The world of software development continues to expand in both scale and complexity. Developers now work in environments where technology changes quickly, systems depend on one another, and decisions carry a wider impact across products and users. The expectations are higher: to code efficiently, plus to think strategically, collaborate effectively, and understand the broader context […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Appointment Setting Solutions and Their Impact on Sales Teams]]></title>
         <id>https://collabnix.com/?p=70390</id>
@@ -7109,16 +7143,6 @@ The post Best Lightweight Linux Distros for Home Server appeared first on Virtua
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[内斗与外侵：从《武训传》与《七武士》看中日文明的分野]]></title>
-        <id>https://jimmysong.io/blog/civilizational-differences-china-japan-films/</id>
-        <link href="https://jimmysong.io/blog/civilizational-differences-china-japan-films/"/>
-        <updated>2025-10-09T04:08:40.000Z</updated>
-        <summary type="html"><![CDATA[为什么中国历史上频繁发生内部运动与自我毁灭，而日本则不断发动对外战争？从《武训传》和《七武士》两部电影的时代对照，看中日文明的深层动能差异。]]></summary>
-        <author>
-            <name>Jimmy Song</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[本博客近三个月来的访问数据观察]]></title>
         <id>https://jia.je/software/2025/10/09/blog-analytics-three-months/</id>
         <link href="https://jia.je/software/2025/10/09/blog-analytics-three-months/"/>
@@ -7257,17 +7281,6 @@ G85银昆高速，秦岭北侧的宝鸡市到秦岭南侧的汉中市
 242国道，连接华阴和洛南，穿越华山]]></summary>
         <author>
             <name>Andy烧麦 - 成熟，聪明，豁达的人什么也不问 过去，现在，将来…</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitalk自动创建评论Issues]]></title>
-        <id>https://yyg.js.cool/yyg/2eca17c7/</id>
-        <link href="https://yyg.js.cool/yyg/2eca17c7/"/>
-        <updated>2025-10-08T14:06:07.000Z</updated>
-        <summary type="html"><![CDATA[博客加入Gitalk评论后，需要访问相应页面，才在存放评论的仓库创建Issues。本文通过脚本自动访问文章页面完成Gitalk自动创建评论Issues。脚本自attson/hexo-gitalk-init: Hexo gitalk 极简初始化脚本基础上修改而来（是在windows本地运行）。
-这是一个用于 Hexo 博客的 Gitalk 评论系统自动初始化脚本。它能自动扫描所有文章，识别出尚未创建评论 Issue 的页面，并通过模拟浏览器访问来触发 Gitalk 自动完成 Issue]]></summary>
-        <author>
-            <name>云野阁</name>
         </author>
     </entry>
     <entry>
