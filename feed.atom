@@ -2,10 +2,155 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-01-07T21:40:46.067Z</updated>
+    <updated>2026-01-10T10:40:46.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenCode能否作为Claude Code和Codex的平替？]]></title>
+        <id>https://blognas.hwb0307.com/other/6925</id>
+        <link href="https://blognas.hwb0307.com/ai-application/6925"/>
+        <updated>2026-01-10T09:01:20.000Z</updated>
+        <summary type="html"><![CDATA[Bensz
+OpenCode能否作为Claude Code和Codex的平替？
+本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 OpenCode 是一个开源的 AI 编程代理，GitHub Stars 已超过 50k3 项目强调终端工作流（TUI）与 client/server 架构，同时保持 provider-agnostic（不绑定单一模型提供商）2 文档称其基于 AI SDK 与 Models.dev，可接入 75+ LLM providers，并支持运行本地模型5, 10, 11 2026 年 1 月，Anthropic 限制 OpenCode 等第三方工具使用 Claude API，引发开发社区强烈不满16, 17 适合成本敏感的个人开发者、需要本地/多模型选择的团队，以及希望降低供应商锁定风险的用户  […]
+Bensz]]></summary>
+        <author>
+            <name>Bensz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up Your First DTF Printer for High-Quality Transfers]]></title>
+        <id>https://collabnix.com/?p=70561</id>
+        <link href="https://collabnix.com/how-to-set-up-your-first-dtf-printer-for-high-quality-transfers/"/>
+        <updated>2026-01-09T16:17:58.000Z</updated>
+        <summary type="html"><![CDATA[Direct-to-film printing has gained popularity for its ability to produce vibrant, durable prints on a wide range of fabrics. Setting up a direct-to-film printer for the first time may seem challenging. However, following clear steps helps ensure consistent, high-quality transfers. This guide outlines the essential stages of preparation, installation, and maintenance to support reliable performance […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Financial Automation Tools for Banks and Investment Firms]]></title>
+        <id>https://collabnix.com/?p=70557</id>
+        <link href="https://collabnix.com/top-financial-automation-tools-for-banks-and-investment-firms/"/>
+        <updated>2026-01-09T15:54:57.000Z</updated>
+        <summary type="html"><![CDATA[In the current financial climate, banks and investment companies are under constant pressure to improve efficiency and reduce costs. This is where automation solutions become invaluable, offering tools that simplify workflows and enhance accuracy by reducing human error. How is such an improvement possible? Here are a few examples of the best finance automation tools […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interpolate contrast-color() to manipulate lightness]]></title>
+        <id>https://daverupert.com/2026/01/coercing-contrast-color/</id>
+        <link href="https://daverupert.com/2026/01/coercing-contrast-color/"/>
+        <updated>2026-01-09T15:35:00.000Z</updated>
+        <summary type="html"><![CDATA[In my first post on contrast-color() I demo’d using color-mix() to change a background-color on hover, but I will be honest… mixing black and white isn’t always what you want. It would be cool and helpful to coerce  contrast-color() to return either 1 or -1 so that we could adjust lightness in a color function on hover instead of only mixing white and black.
+Building on the inline CSS if() statements in my last post, we can use the same trick to interpolate the result of contrast-color() into a number.
+Disclaimer: All caveats from the previous post about browser support, caching quirks, and expected syntax changes still apply.
+See the Pen 
+  contrast-color() powered design system colors  by Dave Rupert (@davatron5000)
+  on CodePen.
+      
+
+Ahh… feel that? Now our states maintains its harmo…]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Weirdest Things I’ve Successfully Run in My Home Lab]]></title>
+        <id>https://www.virtualizationhowto.com/?p=308548</id>
+        <link href="https://www.virtualizationhowto.com/2026/01/the-weirdest-things-ive-successfully-run-in-my-home-lab/"/>
+        <updated>2026-01-09T13:58:24.000Z</updated>
+        <summary type="html"><![CDATA[I have self-hosted a lot of things over the years in my home lab. However, we all eventually reach a point where we run a few less than normal things…
+The post The Weirdest Things I’ve Successfully Run in My Home Lab appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kubernetes 1.34 + Cilium + kube-vip 高可用集群部署实战]]></title>
+        <id>https://zahui.fan/posts/786c9442/</id>
+        <link href="https://zahui.fan/posts/786c9442/"/>
+        <updated>2026-01-09T09:49:43.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>适用场景：</p>
+<ul>
+<li>裸机 &#x2F; 虚拟机环境</li>
+<li>无云厂商 LB</li>
+<li>追求 eBPF + 原生路由的高性能网络</li>
+</ul>
+</blockquote>
+<h2 id="一、环境介绍"><a href="#一、环境介绍" class="headerlink"]]></summary>
+        <author>
+            <name>杂烩饭</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using your design system colors with contrast-color()]]></title>
+        <id>https://daverupert.com/2026/01/contrast-color-with-custom-design-tokens/</id>
+        <link href="https://daverupert.com/2026/01/contrast-color-with-custom-design-tokens/"/>
+        <updated>2026-01-09T03:21:00.000Z</updated>
+        <summary type="html"><![CDATA[One predictable pain point with contrast-color() is that it only returns black and white named colors. From a design systems perspective, that’s not ideal because you want your colors. You want your harmonious brand and the colors you and your team spent thousands of man hours in meetings deciding on. Those colors.
+In fact, an earlier version of Safari had color-contrast() (confusing I know, naming is hard) which allowed you to pass in a list of best candidates to choose from. I beleive that proposal got mired in standards discussions, color contrast algorithms, and competing proposals; and contrast-color() is what survived which got simplified down to a binary result.
+In the future though, we can use contrast-color() and if() together to help pick the value we want. Alas, at the time of w…]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁在开车: 西游战车与心智模型]]></title>
+        <id>https://limboy.me/posts/who-is-driving</id>
+        <link href="https://limboy.me/posts/who-is-driving"/>
+        <updated>2026-01-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[看了不少 Ego、观察者相关的内容，想着能不能结合丹尼尔·卡尼曼在《思考，快与慢》一书中提到的「系统一」和「系统二」来构建一个心智模型。]]></summary>
+        <author>
+            <name>Limboy's Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Algorithmic hover states with contrast-color()]]></title>
+        <id>https://daverupert.com/2026/01/algorithmic-hover-states-with-contrast-color/</id>
+        <link href="https://daverupert.com/2026/01/algorithmic-hover-states-with-contrast-color/"/>
+        <updated>2026-01-08T16:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Firefox 146 added support for contrast-color() joining Safari 26 in the First Implementor’s Club. For those unfamiliar, contrast-color(<color>)  is a new CSS function that will take a <color> as input and returns either  white or black depending on which has the most contrast.
+The quintessential example is choosing a foreground text color  with the best contrast.
+
+button {
+	--button-bg: red;
+	background: var(--button-bg);
+	color: contrast-color(var(--button-bg)); 
+	/* @returns black (5.25:1 WCAG AA Pass) 
+			not white (3.99:1 WCAG AA Fail) */
+}
+
+
+If someone changes --button-bg to purple, the foreground color automatically resolves to the either white or black, whichever has more contrast. It avoids having to set an extra token for color and takes the guess work out of picking an accessible…]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beelink ME Pro NAS Review: Small Box, Huge Storage Power in 2026]]></title>
+        <id>https://www.virtualizationhowto.com/?p=308496</id>
+        <link href="https://www.virtualizationhowto.com/2026/01/beelink-me-pro-nas-review-small-box-huge-storage-power-in-2026/"/>
+        <updated>2026-01-08T13:13:45.000Z</updated>
+        <summary type="html"><![CDATA[I just received over the Beelink ME Pro from Beelink for review in the home lab. This I have to say is one that did catch my attention when I…
+The post Beelink ME Pro NAS Review: Small Box, Huge Storage Power in 2026 appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KEYNOTE-937：帕博利珠单抗不能预防肝癌术后复发 #GI26]]></title>
+        <id>http://whyes.org/2026/keynote-937-asco-gi-2026</id>
+        <link href="http://whyes.org/2026/keynote-937-asco-gi-2026"/>
+        <updated>2026-01-08T02:07:59.000Z</updated>
+        <summary type="html"><![CDATA[2025 年 7 月，默沙东公司通知研究者，KEYNOTE-937 研究没有达到主要研究终点，研究被终止并对患者进行了揭盲。在本周末的 ASCO GI 年会上，这项研究会公布主要研究结果。今天，研究的摘要在线发布。 KEYNOTE-937 ...]]></summary>
+        <author>
+            <name>whyes 的博客</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[使用腾讯云CLS收集TKE（k8s）业务日志]]></title>
         <id>https://zahui.fan/posts/t8hx7x/</id>
@@ -6913,46 +7058,6 @@ The post This Free Tool Gives Proxmox the Monitoring Dashboard It Always Needed 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2025年国庆节后的一周]]></title>
-        <id>https://4311346.com/post/2025/1012-one-week.html</id>
-        <link href="https://4311346.com/post/2025/1012-one-week.html"/>
-        <updated>2025-10-12T15:16:39.000Z</updated>
-        <summary type="html"><![CDATA[奶奶仙逝，享年九十二岁，算得上是人们口中的喜丧，福寿双全。从小就和奶奶生活在一个园区内，距离很近。小学时的其中几年暑假，每天白天都会被送往奶奶家被照顾。
-1981年爷爷就离世了，所以之后出生的我，至今就不知道爷爷是什么样，印象中的奶奶，一直是退休状态，每天在园区内赛晒晒太阳，打打牌，一直很安逸。
-奶奶这一辈子都在部级单位，一直都很幸福，身体特别好，也很少去医院。只是2023年小叔离世后，因为房子的事情和小叔的儿子关系比较紧张，也生了很多的气，但没办法解决。
-10月02日在雨夜驾车从南到北翻越秦岭后，立即返回武汉，也都未能见到奶奶最后一面。
-离别往往就是一瞬间的事，40岁开始，身边离世的人，就开始慢慢频繁了，最后就都是自己…
-通宵开车往返2000公里+离世守夜+上坟，基本又是三天没睡，过完中秋节就回公司上班了，处理了几件大事后，压力稍稍缓解了下，但还是一个字 累！
-节后的周末，就一天休，却在家里加班了一天。
-人在低谷时最不能亏待的就是自己
-走了~]]></summary>
-        <author>
-            <name>Andy烧麦 - 成熟，聪明，豁达的人什么也不问 过去，现在，将来…</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[智能体设计模式：Agentic Design Patterns 中文版电子书分享]]></title>
-        <id>https://jimmysong.io/blog/agentic-design-patterns-intro/</id>
-        <link href="https://jimmysong.io/blog/agentic-design-patterns-intro/"/>
-        <updated>2025-10-12T12:07:50.000Z</updated>
-        <summary type="html"><![CDATA[分享我翻译的《Agentic Design Patterns》，书中涵盖了全面的智能体设计模式，配有示例与图片，适合智能体爱好者学习；本文介绍阅读建议并提供 PDF 下载。]]></summary>
-        <author>
-            <name>Jimmy Song</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[于日常处 · 十月记]]></title>
-        <id>https://bluehe.cn/archives/251012-diary</id>
-        <link href="https://bluehe.cn/archives/251012-diary"/>
-        <updated>2025-10-12T10:22:00.000Z</updated>
-        <summary type="html"><![CDATA[聚餐
- 
-把最近五个月的生活叙述整理下，端午节也就是5月31日，同学一直约我出来，我之前婉拒了两次，俗话说事不过三，应邀见面，这是毕业后的为数不多的见面，我们关系很好，在大学图书馆一起学习，期末考试时，我很佩服她做笔记的能力，许多知识点我还在逐条背时，她已经汇总出来了，握住她的 “宝典” ppt，真的让我考试难度降低了一半，学起来也不吃力了。在校由于我们的导师是同一位，所以有很多的共同话题，但五月...]]></summary>
-        <author>
-            <name>寻鹤</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[久违的暑假｜沿海自驾DAY54 - 抚州]]></title>
         <id>https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day54-fuzhou-wenchangli.html</id>
         <link href="https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day54-fuzhou-wenchangli.html"/>
@@ -6983,17 +7088,6 @@ The post This Free Tool Gives Proxmox the Monitoring Dashboard It Always Needed 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[食草堂]]></title>
-        <id>https://dongjunke.cn/posts/2025/10/11/33842.html</id>
-        <link href="https://dongjunke.cn/posts/2025/10/11/33842.html"/>
-        <updated>2025-10-11T13:08:56.000Z</updated>
-        <summary type="html"><![CDATA[<p>食草堂是当代艺术家牛印合在1997年创立的手工皮具品牌。坐落在我老家鹿泉区的食草堂，与其说是一家食草堂的工厂店，不如是一座艺术园区，因为园区里还有很多工业遗迹，印象中这里最早是个锅炉厂，园区里还有一些艺术家本人策划的艺术展览和艺术馆。</p>
-<p>似乎艺术家对机车情有独钟]]></summary>
-        <author>
-            <name>东评西就</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[久违的暑假｜沿海自驾DAY53 - 赣州]]></title>
         <id>https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day53-ganzhou-bajing.html</id>
         <link href="https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day53-ganzhou-bajing.html"/>
@@ -7014,16 +7108,6 @@ The post This Free Tool Gives Proxmox the Monitoring Dashboard It Always Needed 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10 AI Services Transforming Businesses in 2025]]></title>
-        <id>https://collabnix.com/?p=56592</id>
-        <link href="https://collabnix.com/10-ai-services-transforming-businesses-in-2025/"/>
-        <updated>2025-10-11T05:35:50.000Z</updated>
-        <summary type="html"><![CDATA[You want to incorporate AI technology into your workflow? Learn about the best AI services available that can help you manage this process.]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2025年9月阅读书摘]]></title>
         <id>68e9c7a012ab346740f8fa42</id>
         <link href="https://www.domon.cn/2025-9yue-yue-du-shu-zhai/"/>
@@ -7034,16 +7118,6 @@ The post This Free Tool Gives Proxmox the Monitoring Dashboard It Always Needed 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[新用户专属福利：手把手教你领取200美元亚马逊云科技服务抵扣金]]></title>
-        <id>https://blog.xiaoz.org/?p=22469</id>
-        <link href="https://blog.xiaoz.org/archives/22469"/>
-        <updated>2025-10-11T02:06:04.000Z</updated>
-        <summary type="html"><![CDATA[亚马逊云科技是业界公认的全面、可靠且可扩展的云服务平台。现在，新用户可获得高达200美元服务抵扣金，用于免费体验其核心服务，还没 注册亚马逊云科技 的朋友千万别错过。这200美元由两部分组成：注册即得$100：完成注册，立获100美元抵扣金。任务再得$100：完成简单探索任务，额外再得100美元抵扣]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[vectorifyai/guzzle-rate-limiter: Guzzle 的速率限制中间件]]></title>
         <id>https://github.com/vectorifyai/guzzle-rate-limiter</id>
         <link href="https://github.com/vectorifyai/guzzle-rate-limiter"/>
@@ -7051,17 +7125,6 @@ The post This Free Tool Gives Proxmox the Monitoring Dashboard It Always Needed 
         <summary type="html"><![CDATA[Rate limiter middleware for Guzzle. Contribute to vectorifyai/guzzle-rate-limiter development by creating an account on GitHub.]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekend Home Lab Challenges to Level Up Your Skills]]></title>
-        <id>https://www.virtualizationhowto.com/?p=303705</id>
-        <link href="https://www.virtualizationhowto.com/2025/10/weekend-home-lab-challenges-to-level-up-your-skills/"/>
-        <updated>2025-10-10T12:41:51.000Z</updated>
-        <summary type="html"><![CDATA[Every accomplishment in the home lab starts with curiosity about various technologies. That to me, is the spark that motivates all of us. We want to try new things, break…
-The post Weekend Home Lab Challenges to Level Up Your Skills appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>

@@ -49,6 +49,16 @@
       "siteUrl": "http://whyes.org/",
       "articles": [
         {
+          "id": "http://whyes.org/2026/keynote-937-asco-gi-2026",
+          "author": null,
+          "description": "2025 年 7 月，默沙东公司通知研究者，KEYNOTE-937 研究没有达到主要研究终点，研究被终止并对患者进行了揭盲。在本周末的 ASCO GI 年会上，这项研究会公布主要研究结果。今天，研究的摘要在线发布。 KEYNOTE-937 ...",
+          "link": "http://whyes.org/2026/keynote-937-asco-gi-2026",
+          "publishedOn": "2026-01-08T02:07:59.000Z",
+          "wordCount": 146,
+          "title": "KEYNOTE-937：帕博利珠单抗不能预防肝癌术后复发 #GI26",
+          "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
+        },
+        {
           "id": "http://whyes.org/2025/2025-hcc-advances",
           "author": null,
           "description": "今年 ASCO 全体会议上的同场评论“From Insight to Impact: Driving Plenary Knowledge into Action This Monday”，令我深有共鸣，直译成中文是：将全体会议上获得的知识化...",
@@ -115,6 +125,36 @@
       "feedUrl": "https://daverupert.com/atom.xml",
       "siteUrl": "https://daverupert.com",
       "articles": [
+        {
+          "id": "https://daverupert.com/2026/01/coercing-contrast-color/",
+          "author": null,
+          "description": "In my first post on contrast-color() I demo’d using color-mix() to change a background-color on hover, but I will be honest… mixing black and white isn’t always what you want. It would be cool and helpful to coerce  contrast-color() to return either 1 or -1 so that we could adjust lightness in a color function on hover instead of only mixing white and black.\nBuilding on the inline CSS if() statements in my last post, we can use the same trick to interpolate the result of contrast-color() into a number.\nDisclaimer: All caveats from the previous post about browser support, caching quirks, and expected syntax changes still apply.\nSee the Pen \n  contrast-color() powered design system colors  by Dave Rupert (@davatron5000)\n  on CodePen.\n      \n\nAhh… feel that? Now our states maintains its harmo…",
+          "link": "https://daverupert.com/2026/01/coercing-contrast-color/",
+          "publishedOn": "2026-01-09T15:35:00.000Z",
+          "wordCount": 1101,
+          "title": "Interpolate contrast-color() to manipulate lightness",
+          "imageUrl": null
+        },
+        {
+          "id": "https://daverupert.com/2026/01/contrast-color-with-custom-design-tokens/",
+          "author": null,
+          "description": "One predictable pain point with contrast-color() is that it only returns black and white named colors. From a design systems perspective, that’s not ideal because you want your colors. You want your harmonious brand and the colors you and your team spent thousands of man hours in meetings deciding on. Those colors.\nIn fact, an earlier version of Safari had color-contrast() (confusing I know, naming is hard) which allowed you to pass in a list of best candidates to choose from. I beleive that proposal got mired in standards discussions, color contrast algorithms, and competing proposals; and contrast-color() is what survived which got simplified down to a binary result.\nIn the future though, we can use contrast-color() and if() together to help pick the value we want. Alas, at the time of w…",
+          "link": "https://daverupert.com/2026/01/contrast-color-with-custom-design-tokens/",
+          "publishedOn": "2026-01-09T03:21:00.000Z",
+          "wordCount": null,
+          "title": "Using your design system colors with contrast-color()",
+          "imageUrl": null
+        },
+        {
+          "id": "https://daverupert.com/2026/01/algorithmic-hover-states-with-contrast-color/",
+          "author": null,
+          "description": "Firefox 146 added support for contrast-color() joining Safari 26 in the First Implementor’s Club. For those unfamiliar, contrast-color(<color>)  is a new CSS function that will take a <color> as input and returns either  white or black depending on which has the most contrast.\nThe quintessential example is choosing a foreground text color  with the best contrast.\n\nbutton {\n\t--button-bg: red;\n\tbackground: var(--button-bg);\n\tcolor: contrast-color(var(--button-bg)); \n\t/* @returns black (5.25:1 WCAG AA Pass) \n\t\t\tnot white (3.99:1 WCAG AA Fail) */\n}\n\n\nIf someone changes --button-bg to purple, the foreground color automatically resolves to the either white or black, whichever has more contrast. It avoids having to set an extra token for color and takes the guess work out of picking an accessible…",
+          "link": "https://daverupert.com/2026/01/algorithmic-hover-states-with-contrast-color/",
+          "publishedOn": "2026-01-08T16:46:00.000Z",
+          "wordCount": null,
+          "title": "Algorithmic hover states with contrast-color()",
+          "imageUrl": null
+        },
         {
           "id": "https://daverupert.com/2026/01/twenty-twenty-five/",
           "author": null,
@@ -1308,16 +1348,6 @@
           "wordCount": 825,
           "title": "《机器学习系统教程：AI 工程原理与实践》中文翻译和电子书分享",
           "imageUrl": "https://assets.jimmysong.io/images/book/ml-systems/banner.webp"
-        },
-        {
-          "id": "https://jimmysong.io/blog/agentic-design-patterns-intro/",
-          "author": "Jimmy Song",
-          "description": "分享我翻译的《Agentic Design Patterns》，书中涵盖了全面的智能体设计模式，配有示例与图片，适合智能体爱好者学习；本文介绍阅读建议并提供 PDF 下载。",
-          "link": "https://jimmysong.io/blog/agentic-design-patterns-intro/",
-          "publishedOn": "2025-10-12T12:07:50.000Z",
-          "wordCount": 779,
-          "title": "智能体设计模式：Agentic Design Patterns 中文版电子书分享",
-          "imageUrl": "https://assets.jimmysong.io/images/blog/agentic-design-patterns-intro/banner.webp"
         }
       ]
     },
@@ -1463,6 +1493,26 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=308548",
+          "author": "Brandon Lee",
+          "description": "I have self-hosted a lot of things over the years in my home lab. However, we all eventually reach a point where we run a few less than normal things…\nThe post The Weirdest Things I’ve Successfully Run in My Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/01/the-weirdest-things-ive-successfully-run-in-my-home-lab/",
+          "publishedOn": "2026-01-09T13:58:24.000Z",
+          "wordCount": 11602,
+          "title": "The Weirdest Things I’ve Successfully Run in My Home Lab",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/Weird-home-lab-projects.png"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=308496",
+          "author": "Brandon Lee",
+          "description": "I just received over the Beelink ME Pro from Beelink for review in the home lab. This I have to say is one that did catch my attention when I…\nThe post Beelink ME Pro NAS Review: Small Box, Huge Storage Power in 2026 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/01/beelink-me-pro-nas-review-small-box-huge-storage-power-in-2026/",
+          "publishedOn": "2026-01-08T13:13:45.000Z",
+          "wordCount": null,
+          "title": "Beelink ME Pro NAS Review: Small Box, Huge Storage Power in 2026",
+          "imageUrl": null
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=308442",
           "author": "Brandon Lee",
@@ -2132,16 +2182,6 @@
           "wordCount": null,
           "title": "This Free Tool Gives Proxmox the Monitoring Dashboard It Always Needed",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=303705",
-          "author": "Brandon Lee",
-          "description": "Every accomplishment in the home lab starts with curiosity about various technologies. That to me, is the spark that motivates all of us. We want to try new things, break…\nThe post Weekend Home Lab Challenges to Level Up Your Skills appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/10/weekend-home-lab-challenges-to-level-up-your-skills/",
-          "publishedOn": "2025-10-10T12:41:51.000Z",
-          "wordCount": null,
-          "title": "Weekend Home Lab Challenges to Level Up Your Skills",
-          "imageUrl": null
         }
       ]
     },
@@ -2150,6 +2190,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=70561",
+          "author": "Tanvir Kour",
+          "description": "Direct-to-film printing has gained popularity for its ability to produce vibrant, durable prints on a wide range of fabrics. Setting up a direct-to-film printer for the first time may seem challenging. However, following clear steps helps ensure consistent, high-quality transfers. This guide outlines the essential stages of preparation, installation, and maintenance to support reliable performance […]",
+          "link": "https://collabnix.com/how-to-set-up-your-first-dtf-printer-for-high-quality-transfers/",
+          "publishedOn": "2026-01-09T16:17:58.000Z",
+          "wordCount": 5862,
+          "title": "How to Set Up Your First DTF Printer for High-Quality Transfers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=70557",
+          "author": "Tanvir Kour",
+          "description": "In the current financial climate, banks and investment companies are under constant pressure to improve efficiency and reduce costs. This is where automation solutions become invaluable, offering tools that simplify workflows and enhance accuracy by reducing human error. How is such an improvement possible? Here are a few examples of the best finance automation tools […]",
+          "link": "https://collabnix.com/top-financial-automation-tools-for-banks-and-investment-firms/",
+          "publishedOn": "2026-01-09T15:54:57.000Z",
+          "wordCount": null,
+          "title": "Top Financial Automation Tools for Banks and Investment Firms",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=70404",
           "author": "Tanvir Kour",
@@ -3379,16 +3439,6 @@
           "wordCount": null,
           "title": "Smart Parking Threats and How Zero Trust Helps",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=56592",
-          "author": "Tanvir Kour",
-          "description": "You want to incorporate AI technology into your workflow? Learn about the best AI services available that can help you manage this process.",
-          "link": "https://collabnix.com/10-ai-services-transforming-businesses-in-2025/",
-          "publishedOn": "2025-10-11T05:35:50.000Z",
-          "wordCount": null,
-          "title": "10 AI Services Transforming Businesses in 2025",
-          "imageUrl": null
         }
       ]
     },
@@ -3397,6 +3447,16 @@
       "feedUrl": "https://limboy.me/index.xml",
       "siteUrl": "https://limboy.me/",
       "articles": [
+        {
+          "id": "https://limboy.me/posts/who-is-driving",
+          "author": null,
+          "description": "看了不少 Ego、观察者相关的内容，想着能不能结合丹尼尔·卡尼曼在《思考，快与慢》一书中提到的「系统一」和「系统二」来构建一个心智模型。",
+          "link": "https://limboy.me/posts/who-is-driving",
+          "publishedOn": "2026-01-09T00:00:00.000Z",
+          "wordCount": 206,
+          "title": "谁在开车: 西游战车与心智模型",
+          "imageUrl": "https://limboy.me/_astro/p1.CvvVhW0E.jpg"
+        },
         {
           "id": "https://limboy.me/posts/the-mindset-of-the-answerer",
           "author": null,
@@ -3879,21 +3939,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bluehe.cn/usr/uploads/2025/10/img_20251019_160048473.webp"
-        },
-        {
-          "id": "https://bluehe.cn/archives/251012-diary",
-          "author": "寻鹤",
-          "description": "聚餐\n \n把最近五个月的生活叙述整理下，端午节也就是5月31日，同学一直约我出来，我之前婉拒了两次，俗话说事不过三，应邀见面，这是毕业后的为数不多的见面，我们关系很好，在大学图书馆一起学习，期末考试时，我很佩服她做笔记的能力，许多知识点我还在逐条背时，她已经汇总出来了，握住她的 “宝典” ppt，真的让我考试难度降低了一半，学起来也不吃力了。在校由于我们的导师是同一位，所以有很多的共同话题，但五月...",
-          "link": "https://bluehe.cn/archives/251012-diary",
-          "publishedOn": "2025-10-12T10:22:00.000Z",
-          "wordCount": 685,
-          "title": "于日常处 · 十月记",
-          "enclosure": {
-            "url": "https://bluehe.cn/usr/uploads/2025/10/CRnall_20250706_175813899.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bluehe.cn/usr/uploads/2025/10/CRnall_20250706_175813899.webp"
         }
       ]
     },
@@ -3901,24 +3946,23 @@
       "title": "东评西就",
       "feedUrl": "https://dongjunke.cn/atom.xml",
       "siteUrl": "https://dongjunke.cn/atom.xml",
-      "articles": [
-        {
-          "id": "https://dongjunke.cn/posts/2025/10/11/33842.html",
-          "author": null,
-          "description": "<p>食草堂是当代艺术家牛印合在1997年创立的手工皮具品牌。坐落在我老家鹿泉区的食草堂，与其说是一家食草堂的工厂店，不如是一座艺术园区，因为园区里还有很多工业遗迹，印象中这里最早是个锅炉厂，园区里还有一些艺术家本人策划的艺术展览和艺术馆。</p>\n<p>似乎艺术家对机车情有独钟",
-          "link": "https://dongjunke.cn/posts/2025/10/11/33842.html",
-          "publishedOn": "2025-10-11T13:08:56.000Z",
-          "wordCount": 436,
-          "title": "食草堂",
-          "imageUrl": "https://pic.587804.xyz/pic/20251011210414.webp"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Bensz",
       "feedUrl": "https://blognas.hwb0307.com/feed",
       "siteUrl": "https://blognas.hwb0307.com/",
       "articles": [
+        {
+          "id": "https://blognas.hwb0307.com/other/6925",
+          "author": "Bensz",
+          "description": "Bensz\nOpenCode能否作为Claude Code和Codex的平替？\n本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 OpenCode 是一个开源的 AI 编程代理，GitHub Stars 已超过 50k3 项目强调终端工作流（TUI）与 client/server 架构，同时保持 provider-agnostic（不绑定单一模型提供商）2 文档称其基于 AI SDK 与 Models.dev，可接入 75+ LLM providers，并支持运行本地模型5, 10, 11 2026 年 1 月，Anthropic 限制 OpenCode 等第三方工具使用 Claude API，引发开发社区强烈不满16, 17 适合成本敏感的个人开发者、需要本地/多模型选择的团队，以及希望降低供应商锁定风险的用户  […]\nBensz",
+          "link": "https://blognas.hwb0307.com/ai-application/6925",
+          "publishedOn": "2026-01-10T09:01:20.000Z",
+          "wordCount": 5068,
+          "title": "OpenCode能否作为Claude Code和Codex的平替？",
+          "imageUrl": "https://blognas.hwb0307.com/wp-content/uploads/zzmx-169-scaled.jpg"
+        },
         {
           "id": "https://blognas.hwb0307.com/other/6923",
           "author": "Bensz",
@@ -4044,16 +4088,6 @@
           "publishedOn": "2025-10-23T14:14:55.000Z",
           "wordCount": null,
           "title": "仙剑里的南诏国",
-          "imageUrl": null
-        },
-        {
-          "id": "https://4311346.com/post/2025/1012-one-week.html",
-          "author": null,
-          "description": "奶奶仙逝，享年九十二岁，算得上是人们口中的喜丧，福寿双全。从小就和奶奶生活在一个园区内，距离很近。小学时的其中几年暑假，每天白天都会被送往奶奶家被照顾。\n1981年爷爷就离世了，所以之后出生的我，至今就不知道爷爷是什么样，印象中的奶奶，一直是退休状态，每天在园区内赛晒晒太阳，打打牌，一直很安逸。\n奶奶这一辈子都在部级单位，一直都很幸福，身体特别好，也很少去医院。只是2023年小叔离世后，因为房子的事情和小叔的儿子关系比较紧张，也生了很多的气，但没办法解决。\n10月02日在雨夜驾车从南到北翻越秦岭后，立即返回武汉，也都未能见到奶奶最后一面。\n离别往往就是一瞬间的事，40岁开始，身边离世的人，就开始慢慢频繁了，最后就都是自己…\n通宵开车往返2000公里+离世守夜+上坟，基本又是三天没睡，过完中秋节就回公司上班了，处理了几件大事后，压力稍稍缓解了下，但还是一个字 累！\n节后的周末，就一天休，却在家里加班了一天。\n人在低谷时最不能亏待的就是自己\n走了~",
-          "link": "https://4311346.com/post/2025/1012-one-week.html",
-          "publishedOn": "2025-10-12T15:16:39.000Z",
-          "wordCount": null,
-          "title": "2025年国庆节后的一周",
           "imageUrl": null
         }
       ]
@@ -4192,6 +4226,16 @@
       "feedUrl": "https://zahui.fan/atom.xml",
       "siteUrl": "https://zahui.fan/atom.xml",
       "articles": [
+        {
+          "id": "https://zahui.fan/posts/786c9442/",
+          "author": null,
+          "description": "<blockquote>\n<p>适用场景：</p>\n<ul>\n<li>裸机 &#x2F; 虚拟机环境</li>\n<li>无云厂商 LB</li>\n<li>追求 eBPF + 原生路由的高性能网络</li>\n</ul>\n</blockquote>\n<h2 id=\"一、环境介绍\"><a href=\"#一、环境介绍\" class=\"headerlink\"",
+          "link": "https://zahui.fan/posts/786c9442/",
+          "publishedOn": "2026-01-09T09:49:43.000Z",
+          "wordCount": 1554,
+          "title": "Kubernetes 1.34 + Cilium + kube-vip 高可用集群部署实战",
+          "imageUrl": "https://s3.babudiu.com/iuxt/public/skeleton1.svg"
+        },
         {
           "id": "https://zahui.fan/posts/t8hx7x/",
           "author": null,
@@ -4359,16 +4403,6 @@
           "publishedOn": "2025-10-13T10:38:03.000Z",
           "wordCount": null,
           "title": "无需换卡，海外旅游轻松上网：eSIM-Home 多国流量包体验",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=22469",
-          "author": "xiaoz",
-          "description": "亚马逊云科技是业界公认的全面、可靠且可扩展的云服务平台。现在，新用户可获得高达200美元服务抵扣金，用于免费体验其核心服务，还没 注册亚马逊云科技 的朋友千万别错过。这200美元由两部分组成：注册即得$100：完成注册，立获100美元抵扣金。任务再得$100：完成简单探索任务，额外再得100美元抵扣",
-          "link": "https://blog.xiaoz.org/archives/22469",
-          "publishedOn": "2025-10-11T02:06:04.000Z",
-          "wordCount": null,
-          "title": "新用户专属福利：手把手教你领取200美元亚马逊云科技服务抵扣金",
           "imageUrl": null
         }
       ]
