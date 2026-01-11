@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-01-11T12:38:05.435Z</updated>
+    <updated>2026-01-11T21:38:25.220Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Focus rings with nested contrast-color()?]]></title>
+        <id>https://daverupert.com/2026/01/nested-contrast-color-focus-rings/</id>
+        <link href="https://daverupert.com/2026/01/nested-contrast-color-focus-rings/"/>
+        <updated>2026-01-11T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[As I was playing around with contrast-color(), I got a wild idea that you could use contrast-color() to invert its return value by nesting it: contrast-color(contrast-color(var(--some-color)). When would this be useful? Uh… Good question. I couldn’t come up with an example right away but after a bit I found one sitting right under my nose….
+
+Our focus-rings in Fluent use a 1px inset white highlight and a 2px offset black focus-ring. It’s a smidge chonkier than the Chromium default. The reason we do this is to guarantee contrast against the focused-element, in the above example, a blue button. Without the addition of the white stroke, the black outline wouldn’t “pop” with enough contrast to the blue background.
+To make this work, we have a --focus-inner-ring token and a --focus-outer-ring t…]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的2025：新阶段]]></title>
+        <id>https://www.skyue.com/26011121.html</id>
+        <link href="https://www.skyue.com/26011121.html"/>
+        <updated>2026-01-11T13:55:00.000Z</updated>
+        <summary type="html"><![CDATA[例行年度总结，总结维度和去年相同，顺序略有调整。文中的「今年」指2025年。今年在生活上有买房、装修、结婚、生娃几件事，工作上年底从字节离职加入新公司。生活和工作都进入了新的阶段，所以今年的关键...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From Spatial Data to AI Open Source: Technical Standards, Data Sovereignty, and the Global Divide]]></title>
         <id>https://jimmysong.io/blog/spatial-data-ai-open-source-standards-sovereignty/</id>

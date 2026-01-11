@@ -126,6 +126,16 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
+          "id": "https://daverupert.com/2026/01/nested-contrast-color-focus-rings/",
+          "author": null,
+          "description": "As I was playing around with contrast-color(), I got a wild idea that you could use contrast-color() to invert its return value by nesting it: contrast-color(contrast-color(var(--some-color)). When would this be useful? Uh… Good question. I couldn’t come up with an example right away but after a bit I found one sitting right under my nose….\n\nOur focus-rings in Fluent use a 1px inset white highlight and a 2px offset black focus-ring. It’s a smidge chonkier than the Chromium default. The reason we do this is to guarantee contrast against the focused-element, in the above example, a blue button. Without the addition of the white stroke, the black outline wouldn’t “pop” with enough contrast to the blue background.\nTo make this work, we have a --focus-inner-ring token and a --focus-outer-ring t…",
+          "link": "https://daverupert.com/2026/01/nested-contrast-color-focus-rings/",
+          "publishedOn": "2026-01-11T18:30:00.000Z",
+          "wordCount": 910,
+          "title": "Focus rings with nested contrast-color()?",
+          "imageUrl": null
+        },
+        {
           "id": "https://daverupert.com/2026/01/coercing-contrast-color/",
           "author": null,
           "description": "In my first post on contrast-color() I demo’d using color-mix() to change a background-color on hover, but I will be honest… mixing black and white isn’t always what you want. It would be cool and helpful to coerce  contrast-color() to return either 1 or -1 so that we could adjust lightness in a color function on hover instead of only mixing white and black.\nBuilding on the inline CSS if() statements in my last post, we can use the same trick to interpolate the result of contrast-color() into a number.\nDisclaimer: All caveats from the previous post about browser support, caching quirks, and expected syntax changes still apply.\nSee the Pen \n  contrast-color() powered design system colors  by Dave Rupert (@davatron5000)\n  on CodePen.\n      \n\nAhh… feel that? Now our states maintains its harmo…",
@@ -3638,6 +3648,16 @@
       "feedUrl": "https://www.skyue.com/feed/",
       "siteUrl": "https://www.skyue.com/",
       "articles": [
+        {
+          "id": "https://www.skyue.com/26011121.html",
+          "author": "拾月",
+          "description": "例行年度总结，总结维度和去年相同，顺序略有调整。文中的「今年」指2025年。今年在生活上有买房、装修、结婚、生娃几件事，工作上年底从字节离职加入新公司。生活和工作都进入了新的阶段，所以今年的关键...",
+          "link": "https://www.skyue.com/26011121.html",
+          "publishedOn": "2026-01-11T13:55:00.000Z",
+          "wordCount": 547,
+          "title": "我的2025：新阶段",
+          "imageUrl": ""
+        },
         {
           "id": "https://www.skyue.com/26010220.html",
           "author": "拾月",
