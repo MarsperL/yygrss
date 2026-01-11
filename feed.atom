@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-01-11T02:51:45.376Z</updated>
+    <updated>2026-01-11T12:22:59.764Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[From Spatial Data to AI Open Source: Technical Standards, Data Sovereignty, and the Global Divide]]></title>
+        <id>https://jimmysong.io/blog/spatial-data-ai-open-source-standards-sovereignty/</id>
+        <link href="https://jimmysong.io/blog/spatial-data-ai-open-source-standards-sovereignty/"/>
+        <updated>2026-01-11T03:29:28.000Z</updated>
+        <summary type="html"><![CDATA[How technical standards and data sovereignty shape AI open source paths and infrastructure competition in the global AI era.]]></summary>
+        <author>
+            <name>Jimmy Song</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「共」型人才：AI 时代的个体进化论]]></title>
+        <id>https://limboy.me/posts/gong-type-of-talent</id>
+        <link href="https://limboy.me/posts/gong-type-of-talent"/>
+        <updated>2026-01-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[当 AI 能够完美代劳记忆型事务、高效处理逻辑琐事时，一个焦虑也随之而来：作为个体，我们的核心竞争力究竟还剩什么？]]></summary>
+        <author>
+            <name>Limboy's Essays</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[竖图风景：从闲逛到成片]]></title>
         <id>https://bluehe.cn/archives/one-day-nanning-itinerary</id>
@@ -7006,17 +7026,6 @@ The post TrueNAS Connect Open Beta Just Dropped and its A Game-Changer for Home 
         <summary type="html"><![CDATA[A Download Manager that speeds up your downloads. Contribute to amir1376/ab-download-manager development by creating an account on GitHub.]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The killer feature of Web Components]]></title>
-        <id>https://daverupert.com/2025/10/custom-elements-manifest-killer-feature/</id>
-        <link href="https://daverupert.com/2025/10/custom-elements-manifest-killer-feature/"/>
-        <updated>2025-10-13T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[One unsung feature in the web components space that I don’t think gets enough attention is the Custom Elements Manifest initiative. I think it’s the killer feature of web components.
-Known as “CEM” to its friends, a CEM is a community standard JSON format that surfaces information about your component APIs. The analyzer scans your class-based component to build up a “manifest” of all the methods, events, slots, parts, tag name, and CSS variables you want to expose. It works on a single component or an entire system’s worth of components. If you want to surface more details to consumers (like accepted attributes or CSS custom properties), you can provide more context to the analyzer through JSDoc comments and/or TypeScript types – which is good code hygiene and a favor for your future self …]]></summary>
-        <author>
-            <name>daverupert.com</name>
         </author>
     </entry>
     <entry>

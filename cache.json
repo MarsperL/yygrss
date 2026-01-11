@@ -304,16 +304,6 @@
           "wordCount": 1764,
           "title": "Lots to shout about in Quiet UI",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/10/custom-elements-manifest-killer-feature/",
-          "author": null,
-          "description": "One unsung feature in the web components space that I don’t think gets enough attention is the Custom Elements Manifest initiative. I think it’s the killer feature of web components.\nKnown as “CEM” to its friends, a CEM is a community standard JSON format that surfaces information about your component APIs. The analyzer scans your class-based component to build up a “manifest” of all the methods, events, slots, parts, tag name, and CSS variables you want to expose. It works on a single component or an entire system’s worth of components. If you want to surface more details to consumers (like accepted attributes or CSS custom properties), you can provide more context to the analyzer through JSDoc comments and/or TypeScript types – which is good code hygiene and a favor for your future self …",
-          "link": "https://daverupert.com/2025/10/custom-elements-manifest-killer-feature/",
-          "publishedOn": "2025-10-13T15:30:00.000Z",
-          "wordCount": null,
-          "title": "The killer feature of Web Components",
-          "imageUrl": null
         }
       ]
     },
@@ -899,6 +889,16 @@
       "feedUrl": "https://jimmysong.io/blog/index.xml",
       "siteUrl": "https://jimmysong.io/blog/",
       "articles": [
+        {
+          "id": "https://jimmysong.io/blog/spatial-data-ai-open-source-standards-sovereignty/",
+          "author": "Jimmy Song",
+          "description": "How technical standards and data sovereignty shape AI open source paths and infrastructure competition in the global AI era.",
+          "link": "https://jimmysong.io/blog/spatial-data-ai-open-source-standards-sovereignty/",
+          "publishedOn": "2026-01-11T03:29:28.000Z",
+          "wordCount": 7637,
+          "title": "From Spatial Data to AI Open Source: Technical Standards, Data Sovereignty, and the Global Divide",
+          "imageUrl": "https://assets.jimmysong.io/images/blog/spatial-data-ai-open-source-standards-sovereignty/banner.webp"
+        },
         {
           "id": "https://jimmysong.io/blog/joining-dynamia/",
           "author": "Jimmy Song",
@@ -3447,6 +3447,16 @@
       "feedUrl": "https://limboy.me/index.xml",
       "siteUrl": "https://limboy.me/",
       "articles": [
+        {
+          "id": "https://limboy.me/posts/gong-type-of-talent",
+          "author": null,
+          "description": "当 AI 能够完美代劳记忆型事务、高效处理逻辑琐事时，一个焦虑也随之而来：作为个体，我们的核心竞争力究竟还剩什么？",
+          "link": "https://limboy.me/posts/gong-type-of-talent",
+          "publishedOn": "2026-01-11T00:00:00.000Z",
+          "wordCount": 383,
+          "title": "「共」型人才：AI 时代的个体进化论",
+          "imageUrl": "https://limboy.me/apple-touch-icon.png"
+        },
         {
           "id": "https://limboy.me/posts/who-is-driving",
           "author": null,
