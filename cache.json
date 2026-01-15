@@ -1494,6 +1494,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=308700",
+          "author": "Brandon Lee",
+          "description": "Man DevOps has certainly gotten exciting for me personally. There are just so many cool things that we can do in the home lab now with very cool solutions and…\nThe post The Top DevOps Skills in 2026 You Can Learn in a Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/01/the-top-devops-skills-in-2026-you-can-learn-in-a-home-lab/",
+          "publishedOn": "2026-01-15T13:28:02.000Z",
+          "wordCount": 11920,
+          "title": "The Top DevOps Skills in 2026 You Can Learn in a Home Lab",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/top-devops-skills-2026-home-lab.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=308642",
           "author": "Brandon Lee",
           "description": "Going into home lab testing and learning for 2026, I wanted to continue building on a project I started with my mini 10 inch rack while also making better use…\nThe post Inside My Mini Rack Proxmox and Kubernetes Home Lab for 2026 appeared first on Virtualization Howto.",
@@ -2171,16 +2181,6 @@
           "publishedOn": "2025-10-20T12:27:14.000Z",
           "wordCount": null,
           "title": "Minisforum MS-02 Ultra Has Insane Home Lab Potential with 256GB RAM, Triple PCIe, and 25Gb Networking",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=303869",
-          "author": "Brandon Lee",
-          "description": "What are we talking about? Keep a home lab safe??? Well, it is easy to get carried away when you run a home lab. The whole point of having one…\nThe post How I Keep My Home Lab Safe While Experimenting with New Tools appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/10/how-i-keep-my-home-lab-safe-while-experimenting-with-new-tools/",
-          "publishedOn": "2025-10-17T13:03:46.000Z",
-          "wordCount": null,
-          "title": "How I Keep My Home Lab Safe While Experimenting with New Tools",
           "imageUrl": null
         }
       ]
@@ -4549,16 +4549,6 @@
           "publishedOn": "2025-10-23T17:10:30.000Z",
           "wordCount": 3034,
           "title": "离线安装docker和包管理安装docker下containerd的启动相关",
-          "imageUrl": null
-        },
-        {
-          "id": "http://zhangguanzhang.github.io/2025/10/17/keepalived-locking-pid-file-invalid/",
-          "author": null,
-          "description": "<h2 id=\"由来\"><a href=\"#由来\" class=\"headerlink\" title=\"由来\"></a>由来</h2><p>现场部署业务后发现访问有问题，排查后发现业务网关访问 etcd 的 <a href=\"https://zhangguanzhang.gith",
-          "link": "http://zhangguanzhang.github.io/2025/10/17/keepalived-locking-pid-file-invalid/",
-          "publishedOn": "2025-10-17T18:10:30.000Z",
-          "wordCount": null,
-          "title": "keepalived Locking pid file error 22 - Invalid argument",
           "imageUrl": null
         }
       ]
