@@ -2,10 +2,121 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-01-11T21:38:25.220Z</updated>
+    <updated>2026-01-15T00:32:16.881Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Inside My Mini Rack Proxmox and Kubernetes Home Lab for 2026]]></title>
+        <id>https://www.virtualizationhowto.com/?p=308642</id>
+        <link href="https://www.virtualizationhowto.com/2026/01/inside-my-mini-rack-proxmox-and-kubernetes-home-lab-for-2026/"/>
+        <updated>2026-01-14T13:23:15.000Z</updated>
+        <summary type="html"><![CDATA[Going into home lab testing and learning for 2026, I wanted to continue building on a project I started with my mini 10 inch rack while also making better use…
+The post Inside My Mini Rack Proxmox and Kubernetes Home Lab for 2026 appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑白厨师]]></title>
+        <id>https://limboy.me/posts/culinary-class-wars</id>
+        <link href="https://limboy.me/posts/culinary-class-wars"/>
+        <updated>2026-01-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[这几天一口气刷完了 Netflix 出品的《黑白厨师》，感触颇深。没想到 Cooking 也能套上《鱿鱼游戏》的外壳：极简的规则，极端的赌注，有限的时间，封闭系统内的零和博弈。]]></summary>
+        <author>
+            <name>Limboy's Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MikroTik Switch Tips That Actually Matter in a Home Lab]]></title>
+        <id>https://www.virtualizationhowto.com/?p=308619</id>
+        <link href="https://www.virtualizationhowto.com/2026/01/mikrotik-switch-tips-that-actually-matter-in-a-home-lab/"/>
+        <updated>2026-01-13T13:19:44.000Z</updated>
+        <summary type="html"><![CDATA[When looking for cheap but robust network switches for the home lab, there is always one name that seems to make it on most lists and that is Mikrotik. They…
+The post MikroTik Switch Tips That Actually Matter in a Home Lab appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker系列 MetaMCP为Vibe Coding工具添加远程MCP支持]]></title>
+        <id>https://blognas.hwb0307.com/other/6938</id>
+        <link href="https://blognas.hwb0307.com/linux/docker/6938"/>
+        <updated>2026-01-13T10:58:20.000Z</updated>
+        <summary type="html"><![CDATA[Bensz
+Docker系列 MetaMCP为Vibe Coding工具添加远程MCP支持
+本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 MetaMCP 是一个强大的模型上下文协议（Model Context Protocol）聚合管理平台 适合多设备场景：统一部署 MCP 服务器，避免在每个设备上重复配置 经过 18 个同类方案对比，MetaMCP 在功能全面性和部署简易性方面脱颖而出 支持将多种 MCP 服务器统一管理，提供命名空间和端点功能 包含完整的 Docker 部署方案，预配置 11 种常用 MCP 服务器 集成 PostgreSQL 数据库和 SearXNG 搜索引擎 支持多客户端接入，提供 API Key 认证机制 前言 最近在折腾各种 AI 编程工具的时候，发现了一个很酷的项目——MetaMCP。它可以把 […]
+Bensz]]></summary>
+        <author>
+            <name>Bensz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Windows里通过VSCode使用Claude Code和Codex]]></title>
+        <id>https://blognas.hwb0307.com/other/6934</id>
+        <link href="https://blognas.hwb0307.com/ai/6934"/>
+        <updated>2026-01-13T09:22:35.000Z</updated>
+        <summary type="html"><![CDATA[Bensz
+在Windows里通过VSCode使用Claude Code和Codex
+本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 Windows 用户通过 WSL2 运行 Claude Code 和 Codex 的完整实践指南 涵盖 WSL2 安装、Ubuntu 配置、AI 编程代理安装及 VSCode 集成的全流程 提供常见问题排查方法，包括默认发行版选错导致的 “apk not found / libstdc++ required” 等典型报错 前言 之前在博客里分享了 Vibe Coding CLI评测： Claude Code vs. OpenAI Codex vs. Gemini CLI，不过那篇教程主要是在 macOS 环境下演示的。后来想了想，大多数小伙伴用的应该是 Windo […]
+Bensz]]></summary>
+        <author>
+            <name>Bensz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国家自然科学基金的LaTeX模板 第2期]]></title>
+        <id>https://blognas.hwb0307.com/other/6930</id>
+        <link href="https://blognas.hwb0307.com/skill/6930"/>
+        <updated>2026-01-13T08:11:04.000Z</updated>
+        <summary type="html"><![CDATA[Bensz
+国家自然科学基金的LaTeX模板 第2期
+本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 AI 原生范式转移：从”手工 LaTeX 模板”到”智能 Vibe Writing 平台”3 技能生态系统：多个专业 AI Skills 覆盖标书写作全流程 理论创新导向：防止方法学术语稀释科学问题主线的写作教练 像素级样式对齐：硬编码工具 + AI 规划 + 迭代优化闭环 混合架构设计：脚本可复现 + AI 可选，优雅降级保障 前言 最近知乎上有一个热门问题：「如何看待 2026 年国家自然科学基金改版？」作为深度参与了 LaTeX 模板开发的”技术博主”，看到这个问题时，我突然意识到——自己过去一年在 Chine […]
+Bensz]]></summary>
+        <author>
+            <name>Bensz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ET，福尔摩斯，马尔科维奇，爱迪生：四种思维训练法]]></title>
+        <id>https://limboy.me/posts/et-holmes-malkovich-edison</id>
+        <link href="https://limboy.me/posts/et-holmes-malkovich-edison"/>
+        <updated>2026-01-13T00:00:00.000Z</updated>
+        <author>
+            <name>Limboy's Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This New Traefik Dashboard Log Tool Changed How I Manage Traefik in Real Time]]></title>
+        <id>https://www.virtualizationhowto.com/?p=308587</id>
+        <link href="https://www.virtualizationhowto.com/2026/01/this-new-traefik-dashboard-log-tool-changed-how-i-manage-traefik-in-real-time/"/>
+        <updated>2026-01-12T13:18:44.000Z</updated>
+        <summary type="html"><![CDATA[Traefik is ultimately my favorite reverse proxy for the homelab. In my opinion it has unsurpassed capabilities as a reverse proxy both for Docker and Kubernetes. It is extremely powerful…
+The post This New Traefik Dashboard Log Tool Changed How I Manage Traefik in Real Time appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Updating Your WAF Strategy for the Age of Malicious AI Agents]]></title>
+        <id>https://collabnix.com/?p=70724</id>
+        <link href="https://collabnix.com/updating-your-waf-strategy-for-the-age-of-malicious-ai-agents/"/>
+        <updated>2026-01-12T13:17:36.000Z</updated>
+        <summary type="html"><![CDATA[“Automated attacks” used to mean crude scripts hammering login pages or scraping product catalogs. Generative AI has pushed automation toward something more adaptive and more capable of navigating the same multi-step flows your real users follow. When programmed well, these nefarious AI agents automatically vary tactics when blocked and scale those experiments across targets with […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年：收入下降20%，这一年我到底干了什么？]]></title>
+        <id>https://blog.xiaoz.org/?p=22666</id>
+        <link href="https://blog.xiaoz.org/archives/22666"/>
+        <updated>2026-01-12T04:09:55.000Z</updated>
+        <summary type="html"><![CDATA[大家好，我是xiaoz，一名近4年的自由职业者，目前主要从事软件开发工作。这篇文章将对我的2025年做一个简单的总结，内容主要包括：工作、学习、以及投资。这一年虽然整体收入下降20%，但却过得很充实，2026年不求突破，但求保持。关于工作新增项目：2025年新增了一些非商业的开源项目，主要包括：Zu]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Focus rings with nested contrast-color()?]]></title>
         <id>https://daverupert.com/2026/01/nested-contrast-color-focus-rings/</id>
@@ -135,24 +246,6 @@ The post The Weirdest Things I’ve Successfully Run in My Home Lab appeared fir
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kubernetes 1.34 + Cilium + kube-vip 高可用集群部署实战]]></title>
-        <id>https://zahui.fan/posts/786c9442/</id>
-        <link href="https://zahui.fan/posts/786c9442/"/>
-        <updated>2026-01-09T09:49:43.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>适用场景：</p>
-<ul>
-<li>裸机 &#x2F; 虚拟机环境</li>
-<li>无云厂商 LB</li>
-<li>追求 eBPF + 原生路由的高性能网络</li>
-</ul>
-</blockquote>
-<h2 id="一、环境介绍"><a href="#一、环境介绍" class="headerlink"]]></summary>
-        <author>
-            <name>杂烩饭</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Using your design system colors with contrast-color()]]></title>
         <id>https://daverupert.com/2026/01/contrast-color-with-custom-design-tokens/</id>
         <link href="https://daverupert.com/2026/01/contrast-color-with-custom-design-tokens/"/>
@@ -215,19 +308,6 @@ The post Beelink ME Pro NAS Review: Small Box, Huge Storage Power in 2026 appear
         <summary type="html"><![CDATA[2025 年 7 月，默沙东公司通知研究者，KEYNOTE-937 研究没有达到主要研究终点，研究被终止并对患者进行了揭盲。在本周末的 ASCO GI 年会上，这项研究会公布主要研究结果。今天，研究的摘要在线发布。 KEYNOTE-937 ...]]></summary>
         <author>
             <name>whyes 的博客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[使用腾讯云CLS收集TKE（k8s）业务日志]]></title>
-        <id>https://zahui.fan/posts/t8hx7x/</id>
-        <link href="https://zahui.fan/posts/t8hx7x/"/>
-        <updated>2026-01-07T13:23:56.000Z</updated>
-        <summary type="html"><![CDATA[<p>使用 CLS 来采集业务日志的好处有</p>
-<ol>
-<li>运维方便，不用费劲搭建 ELK 系统，传统的 <code>filebeat</code> -&gt; <code>kafka</code> -&gt; <code>logstash</code> -&gt; <code>ElasticSearch</code> 架构复杂</li>
-<li>费用便宜（和 ES、kafka]]></summary>
-        <author>
-            <name>杂烩饭</name>
         </author>
     </entry>
     <entry>
@@ -1765,17 +1845,6 @@ The post PatchMon Is the Linux Update GUI I’ve Been Wanting for My Home Lab ap
         <summary type="html"><![CDATA[Private, fast, and honest web browser. Contribute to imputnet/helium development by creating an account on GitHub.]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[容器调试工具之BusyBox]]></title>
-        <id>https://zahui.fan/posts/t79irt/</id>
-        <link href="https://zahui.fan/posts/t79irt/"/>
-        <updated>2025-12-14T13:57:28.000Z</updated>
-        <summary type="html"><![CDATA[<p>很早之前我在上学的时候给安卓手机刷机，root 后还可以安装了个号称 Linux 瑞士军刀的 App，不过没搞懂有什么用，不过记住了这个难忘的名字 – BusyBox</p>
-<h2 id="BusyBox-是什么"><a href="#BusyBox-是什么" class="headerlink" title="BusyBox 是什么"></a>BusyBox]]></summary>
-        <author>
-            <name>杂烩饭</name>
         </author>
     </entry>
     <entry>
@@ -3629,17 +3698,6 @@ The post Lazy Docker Is the Easiest Way to Manage Home Lab Containers From Your 
         <summary type="html"><![CDATA[Eliminates delay when activating caps lock on macOS OSX - gkpln3/CapsLockNoDelay]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无Docker环境进行容器镜像操作]]></title>
-        <id>https://zahui.fan/posts/t5tiax/</id>
-        <link href="https://zahui.fan/posts/t5tiax/"/>
-        <updated>2025-11-16T11:52:09.000Z</updated>
-        <summary type="html"><![CDATA[<p>找了有两个开源项目比较不错，都可以完成镜像的迁移。</p>
-<h2 id="crpy-的使用"><a href="#crpy-的使用" class="headerlink" title="crpy 的使用"></a>crpy 的使用</h2><p>crpy 使用 python 开发，有本地缓存，拉取和推送镜像速度比较快。使用体验比较接近 docker。<br>开源地址： <a]]></summary>
-        <author>
-            <name>杂烩饭</name>
         </author>
     </entry>
     <entry>
@@ -5721,17 +5779,6 @@ The post Zorin OS Is the Best Linux Distro for Windows Users (and Perfect for Ho
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[使用kubeadm部署一套高可用k8s集群1.34 for Ubuntu]]></title>
-        <id>https://zahui.fan/posts/t4ve3m/</id>
-        <link href="https://zahui.fan/posts/t4ve3m/"/>
-        <updated>2025-10-29T01:42:58.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>基于 ubuntu 使用 kubeadm 搭建集群， <a href="/posts/b86d9e9f/">centos部署文档</a>, 有疑问的地方可以看 <a]]></summary>
-        <author>
-            <name>杂烩饭</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[HelgeSverre/toon-php: johannschopplich/toon 的 PHP 移植 - 一种紧凑的数据格式，旨在减少向大型语言模型发送结构化数据时的令牌消耗。]]></title>
         <id>https://github.com/HelgeSverre/toon-php</id>
         <link href="https://github.com/HelgeSverre/toon-php"/>
@@ -6775,26 +6822,6 @@ The post How I Keep My Home Lab Safe While Experimenting with New Tools appeared
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[低成本拥有一张游惠宝长效卡，大陆港澳轻松漫游，支持实体SIM卡和eSIM]]></title>
-        <id>https://blog.xiaoz.org/?p=22523</id>
-        <link href="https://blog.xiaoz.org/archives/22523"/>
-        <updated>2025-10-17T04:31:39.000Z</updated>
-        <summary type="html"><![CDATA[游惠宝国际漫游长效卡是一款可在中国大陆漫游使用上网卡，在启动的时候自行选购香港电话号码，号码可用于接收短信使用，支持漫游中国大陆、中国香港、中国澳门、新加坡、马来西亚等22个国家地区的流量。适用场景游惠宝长效卡适用于以下任意一种场景：经常在中国大陆、港、澳、新加坡等多地出差的商务人士希望拥有一个香港]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[构建自己的反思系统]]></title>
-        <id>https://limboy.me/posts/review-system</id>
-        <link href="https://limboy.me/posts/review-system"/>
-        <updated>2025-10-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[未经审视的人生是不值得过的。]]></summary>
-        <author>
-            <name>Limboy's Essays</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[HMYDK/AIGitCommit: 此插件使用 AI 根据代码中的更改自动生成提交消息。]]></title>
         <id>https://github.com/HMYDK/AIGitCommit</id>
         <link href="https://github.com/HMYDK/AIGitCommit"/>
@@ -6812,36 +6839,6 @@ The post How I Keep My Home Lab Safe While Experimenting with New Tools appeared
         <summary type="html"><![CDATA[The App Store for your multi-account eco system. Contribute to Lakr233/Asspp development by creating an account on GitHub.]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Makes Revenue Recognition Solutions Vital for Finance Teams]]></title>
-        <id>https://collabnix.com/?p=56983</id>
-        <link href="https://collabnix.com/what-makes-revenue-recognition-solutions-vital-for-finance-teams/"/>
-        <updated>2025-10-16T21:32:38.000Z</updated>
-        <summary type="html"><![CDATA[An essential component of financial management is revenue recognition in business. And as businesses scale and transactions become more complex, it can be even more difficult for finance teams to accurately recognize revenue. This process guarantees that the financial statements portray true earnings and promote stakeholder confidence. With its crucial role in keeping financial integrity […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Upgrade Sales Skills With Micro Practice]]></title>
-        <id>https://collabnix.com/?p=56981</id>
-        <link href="https://collabnix.com/how-to-upgrade-sales-skills-with-micro-practice/"/>
-        <updated>2025-10-16T21:30:26.000Z</updated>
-        <summary type="html"><![CDATA[Salespeople are always looking for ways to sharpen their skills. Micro practice is a powerful technique to improve selling skills. Here, each of the different components of the sales process will be broken down so that everyone can work on a tiny segment of it at a time to improve. Understanding Micro Practice Micro practice […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can AI Agents Help OTT Providers Reduce Churn and Boost Retention Through Smarter Engagement Strategies]]></title>
-        <id>https://collabnix.com/?p=56969</id>
-        <link href="https://collabnix.com/can-ai-agents-help-ott-providers-reduce-churn-and-boost-retention-through-smarter-engagement-strategies/"/>
-        <updated>2025-10-16T21:28:17.000Z</updated>
-        <summary type="html"><![CDATA[Streaming platforms face constant pressure to keep subscribers engaged while competition grows. Many users cancel when they feel the content is not relevant or the experience is not smooth. AI agents help reduce churn and boost retention by predicting user behavior, personalizing recommendations, and improving customer support. These systems analyze viewing patterns, identify when someone […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
         </author>
     </entry>
     <entry>
@@ -6866,17 +6863,6 @@ The post How I Keep My Home Lab Safe While Experimenting with New Tools appeared
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best Terraform Modules for Home Labs in 2025]]></title>
-        <id>https://www.virtualizationhowto.com/?p=303843</id>
-        <link href="https://www.virtualizationhowto.com/2025/10/best-terraform-modules-for-home-labs-in-2025/"/>
-        <updated>2025-10-16T12:35:45.000Z</updated>
-        <summary type="html"><![CDATA[There is no question that Terraform is my favorite infrastructure as code tool in the home lab for standing up infrastructure. Ansible is my favorite for configuration management. With Terraform,…
-The post Best Terraform Modules for Home Labs in 2025 appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[久违的暑假｜沿海自驾DAY58 - 开化]]></title>
         <id>https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day58-quzhou-kaihua.html</id>
         <link href="https://blog.ops-coffee.com/r/2025-summer-coastal-road-trip-day58-quzhou-kaihua.html"/>
@@ -6887,50 +6873,6 @@ The post Best Terraform Modules for Home Labs in 2025 appeared first on Virtuali
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lots to shout about in Quiet UI]]></title>
-        <id>https://daverupert.com/2025/10/quiet-ui/</id>
-        <link href="https://daverupert.com/2025/10/quiet-ui/"/>
-        <updated>2025-10-16T05:08:00.000Z</updated>
-        <summary type="html"><![CDATA[As President of Web Components, it’s my duty to publicly comment on every Web Component library and framework that exists. Today I’m taking a look at Quiet UI, a new source-available web component library soft-launched by Cory LaViska, the creator of Shoelace WebAwesome. You might be asking “another UI library? But why?” and that’s a good question, I’ll let Cory tell you in his own words…
-I wanted to play with bleeding edge features that weren’t available in all browsers yet… I wanted to take everything I learned from developing components over the years and challenge some ideas, try new things, and bake in opinions that I’ve traditionally veered away from. It felt liberating.
-“Play” as a foundation is compelling to me. A lot of writing and ancient programming advice says “Write the thing,…]]></summary>
-        <author>
-            <name>daverupert.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Launch Templates for AI and Developer Platforms]]></title>
-        <id>https://collabnix.com/?p=56908</id>
-        <link href="https://collabnix.com/5-launch-templates-for-ai-and-developer-platforms/"/>
-        <updated>2025-10-15T22:00:27.000Z</updated>
-        <summary type="html"><![CDATA[Crafting for AI and developer platforms can feel overwhelming. Clear, structured templates simplify this process. This guide offers examples of essential options that cater to everyday communication needs. Each helps with real-world tasks, such as announcements and documentation. Implementing these practical resources helps save time while ensuring consistency across all channels. Whether you’re updating users […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smart Parking Threats and How Zero Trust Helps]]></title>
-        <id>https://collabnix.com/?p=56905</id>
-        <link href="https://collabnix.com/smart-parking-threats-and-how-zero-trust-helps/"/>
-        <updated>2025-10-15T21:46:23.000Z</updated>
-        <summary type="html"><![CDATA[Connected parking garages constitute an ideal convergence of cybersecurity weaknesses. These infrastructures merge surveillance equipment, transaction machines, mobile software, entry mechanisms, and network-linked detectors into an extensive vulnerability landscape that most entities have insufficiently protected. The ramifications surpass monetary damages or information compromises. When digital malfunctions undermine physical entry safeguards or monitoring infrastructures, the tangible […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何使用 PHP 脚本筛选去不图床已到期用户邮箱]]></title>
-        <id>https://dusays.com/832/</id>
-        <link href="https://dusays.com/832/"/>
-        <updated>2025-10-15T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>因为图床程序暂不支持套餐到期通知，需要杜老师定期统计到期的用户，再通过邮箱发通知。每次统计时操作较麻烦，为了方便统计用户，尝试用 PHP 编写一个页面，可以筛选去不图床到期用户邮箱。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[codezero-be/browser-locale: 从访问者的浏览器中获取最喜欢的区域设置。]]></title>
         <id>https://github.com/codezero-be/browser-locale</id>
         <link href="https://github.com/codezero-be/browser-locale"/>
@@ -6938,37 +6880,6 @@ I wanted to play with bleeding edge features that weren’t available in all bro
         <summary type="html"><![CDATA[⭐️ Get the most preferred locales from your visitor's browser. - codezero-be/browser-locale]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Built a Self-Healing Home Lab That Fixes Itself]]></title>
-        <id>https://www.virtualizationhowto.com/?p=303824</id>
-        <link href="https://www.virtualizationhowto.com/2025/10/how-i-built-a-self-healing-home-lab-that-fixes-itself/"/>
-        <updated>2025-10-15T12:24:51.000Z</updated>
-        <summary type="html"><![CDATA[We have exciting times to be able to run a home lab with all the automation, AI, and other tools available to us to use. In fact, I am more…
-The post How I Built a Self-Healing Home Lab That Fixes Itself appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[从自己造轮子NodePort白名单到参考 calico 规则]]></title>
-        <id>http://zhangguanzhang.github.io/2025/10/15/k8s-NodePort-filter/</id>
-        <link href="http://zhangguanzhang.github.io/2025/10/15/k8s-NodePort-filter/"/>
-        <updated>2025-10-15T10:10:30.000Z</updated>
-        <summary type="html"><![CDATA[<p>研究下 calico 如何实现 nodePort 白名单。</p>]]></summary>
-        <author>
-            <name>Zhangguanzhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[国内可漫游上网的CTExcel eSIM套餐：资费、开通与使用全指南]]></title>
-        <id>https://blog.xiaoz.org/?p=22504</id>
-        <link href="https://blog.xiaoz.org/archives/22504"/>
-        <updated>2025-10-15T09:17:03.000Z</updated>
-        <summary type="html"><![CDATA[CTExcel是中国电信面向海外公众客户推出的自主品牌移动通信服务，CTExcel推出的【中英共享】套餐，让你在中国和英国都能轻松的使用移动数据上网，非常适合海外留学、英国旅游、国内魔法上网等场景。这篇文章博主将介绍CTExcel套餐资费、开通和使用注意事项。适用场景英国、欧洲留学使用跨境电商英国、]]></summary>
-        <author>
-            <name>xiaoz</name>
         </author>
     </entry>
     <entry>
@@ -6998,17 +6909,6 @@ The post How I Built a Self-Healing Home Lab That Fixes Itself appeared first on
         <summary type="html"><![CDATA[Markdown Linter and Formatter written in Rust. Contribute to rvben/rumdl development by creating an account on GitHub.]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TrueNAS Connect Open Beta Just Dropped and its A Game-Changer for Home and Enterprise NAS]]></title>
-        <id>https://www.virtualizationhowto.com/?p=303779</id>
-        <link href="https://www.virtualizationhowto.com/2025/10/truenas-connect-open-beta-just-dropped-and-its-a-game-changer-for-home-and-enterprise-nas/"/>
-        <updated>2025-10-14T12:08:52.000Z</updated>
-        <summary type="html"><![CDATA[In case you haven’t seen the news, TrueNAS announced a new open beta of a new and exciting app called, TrueNAS Connect. It is a hosted, management interface that is…
-The post TrueNAS Connect Open Beta Just Dropped and its A Game-Changer for Home and Enterprise NAS appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>

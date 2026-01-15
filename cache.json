@@ -304,16 +304,6 @@
           "wordCount": 2618,
           "title": "Vibe Check №40",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/10/quiet-ui/",
-          "author": null,
-          "description": "As President of Web Components, it’s my duty to publicly comment on every Web Component library and framework that exists. Today I’m taking a look at Quiet UI, a new source-available web component library soft-launched by Cory LaViska, the creator of Shoelace WebAwesome. You might be asking “another UI library? But why?” and that’s a good question, I’ll let Cory tell you in his own words…\nI wanted to play with bleeding edge features that weren’t available in all browsers yet… I wanted to take everything I learned from developing components over the years and challenge some ideas, try new things, and bake in opinions that I’ve traditionally veered away from. It felt liberating.\n“Play” as a foundation is compelling to me. A lot of writing and ancient programming advice says “Write the thing,…",
-          "link": "https://daverupert.com/2025/10/quiet-ui/",
-          "publishedOn": "2025-10-16T05:08:00.000Z",
-          "wordCount": 1764,
-          "title": "Lots to shout about in Quiet UI",
-          "imageUrl": null
         }
       ]
     },
@@ -1504,6 +1494,36 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=308642",
+          "author": "Brandon Lee",
+          "description": "Going into home lab testing and learning for 2026, I wanted to continue building on a project I started with my mini 10 inch rack while also making better use…\nThe post Inside My Mini Rack Proxmox and Kubernetes Home Lab for 2026 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/01/inside-my-mini-rack-proxmox-and-kubernetes-home-lab-for-2026/",
+          "publishedOn": "2026-01-14T13:23:15.000Z",
+          "wordCount": 11974,
+          "title": "Inside My Mini Rack Proxmox and Kubernetes Home Lab for 2026",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/proxmox-kubernetes-mini-cluster-home-lab-in-2026-3.png"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=308619",
+          "author": "Brandon Lee",
+          "description": "When looking for cheap but robust network switches for the home lab, there is always one name that seems to make it on most lists and that is Mikrotik. They…\nThe post MikroTik Switch Tips That Actually Matter in a Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/01/mikrotik-switch-tips-that-actually-matter-in-a-home-lab/",
+          "publishedOn": "2026-01-13T13:19:44.000Z",
+          "wordCount": null,
+          "title": "MikroTik Switch Tips That Actually Matter in a Home Lab",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=308587",
+          "author": "Brandon Lee",
+          "description": "Traefik is ultimately my favorite reverse proxy for the homelab. In my opinion it has unsurpassed capabilities as a reverse proxy both for Docker and Kubernetes. It is extremely powerful…\nThe post This New Traefik Dashboard Log Tool Changed How I Manage Traefik in Real Time appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/01/this-new-traefik-dashboard-log-tool-changed-how-i-manage-traefik-in-real-time/",
+          "publishedOn": "2026-01-12T13:18:44.000Z",
+          "wordCount": null,
+          "title": "This New Traefik Dashboard Log Tool Changed How I Manage Traefik in Real Time",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=308355",
           "author": "Brandon Lee",
           "description": "For a long time, there was a website called LabGopher that was one of those quiet tools that many home lab builders relied on to find second hand used enterprise…\nThe post LabGopher Is Gone and RackRat Is the Alternative Homelab Builders Are Turning To appeared first on Virtualization Howto.",
@@ -2162,36 +2182,6 @@
           "wordCount": null,
           "title": "How I Keep My Home Lab Safe While Experimenting with New Tools",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=303843",
-          "author": "Brandon Lee",
-          "description": "There is no question that Terraform is my favorite infrastructure as code tool in the home lab for standing up infrastructure. Ansible is my favorite for configuration management. With Terraform,…\nThe post Best Terraform Modules for Home Labs in 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/10/best-terraform-modules-for-home-labs-in-2025/",
-          "publishedOn": "2025-10-16T12:35:45.000Z",
-          "wordCount": null,
-          "title": "Best Terraform Modules for Home Labs in 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=303824",
-          "author": "Brandon Lee",
-          "description": "We have exciting times to be able to run a home lab with all the automation, AI, and other tools available to us to use. In fact, I am more…\nThe post How I Built a Self-Healing Home Lab That Fixes Itself appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/10/how-i-built-a-self-healing-home-lab-that-fixes-itself/",
-          "publishedOn": "2025-10-15T12:24:51.000Z",
-          "wordCount": null,
-          "title": "How I Built a Self-Healing Home Lab That Fixes Itself",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=303779",
-          "author": "Brandon Lee",
-          "description": "In case you haven’t seen the news, TrueNAS announced a new open beta of a new and exciting app called, TrueNAS Connect. It is a hosted, management interface that is…\nThe post TrueNAS Connect Open Beta Just Dropped and its A Game-Changer for Home and Enterprise NAS appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/10/truenas-connect-open-beta-just-dropped-and-its-a-game-changer-for-home-and-enterprise-nas/",
-          "publishedOn": "2025-10-14T12:08:52.000Z",
-          "wordCount": null,
-          "title": "TrueNAS Connect Open Beta Just Dropped and its A Game-Changer for Home and Enterprise NAS",
-          "imageUrl": null
         }
       ]
     },
@@ -2200,6 +2190,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=70724",
+          "author": "Tanvir Kour",
+          "description": "“Automated attacks” used to mean crude scripts hammering login pages or scraping product catalogs. Generative AI has pushed automation toward something more adaptive and more capable of navigating the same multi-step flows your real users follow. When programmed well, these nefarious AI agents automatically vary tactics when blocked and scale those experiments across targets with […]",
+          "link": "https://collabnix.com/updating-your-waf-strategy-for-the-age-of-malicious-ai-agents/",
+          "publishedOn": "2026-01-12T13:17:36.000Z",
+          "wordCount": 7122,
+          "title": "Updating Your WAF Strategy for the Age of Malicious AI Agents",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=70561",
           "author": "Tanvir Kour",
@@ -3399,56 +3399,6 @@
           "wordCount": null,
           "title": "Your Guide to 10 Top Mobile Games to play in 2025",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=56983",
-          "author": "Tanvir Kour",
-          "description": "An essential component of financial management is revenue recognition in business. And as businesses scale and transactions become more complex, it can be even more difficult for finance teams to accurately recognize revenue. This process guarantees that the financial statements portray true earnings and promote stakeholder confidence. With its crucial role in keeping financial integrity […]",
-          "link": "https://collabnix.com/what-makes-revenue-recognition-solutions-vital-for-finance-teams/",
-          "publishedOn": "2025-10-16T21:32:38.000Z",
-          "wordCount": null,
-          "title": "What Makes Revenue Recognition Solutions Vital for Finance Teams",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=56981",
-          "author": "Tanvir Kour",
-          "description": "Salespeople are always looking for ways to sharpen their skills. Micro practice is a powerful technique to improve selling skills. Here, each of the different components of the sales process will be broken down so that everyone can work on a tiny segment of it at a time to improve. Understanding Micro Practice Micro practice […]",
-          "link": "https://collabnix.com/how-to-upgrade-sales-skills-with-micro-practice/",
-          "publishedOn": "2025-10-16T21:30:26.000Z",
-          "wordCount": null,
-          "title": "How to Upgrade Sales Skills With Micro Practice",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=56969",
-          "author": "Tanvir Kour",
-          "description": "Streaming platforms face constant pressure to keep subscribers engaged while competition grows. Many users cancel when they feel the content is not relevant or the experience is not smooth. AI agents help reduce churn and boost retention by predicting user behavior, personalizing recommendations, and improving customer support. These systems analyze viewing patterns, identify when someone […]",
-          "link": "https://collabnix.com/can-ai-agents-help-ott-providers-reduce-churn-and-boost-retention-through-smarter-engagement-strategies/",
-          "publishedOn": "2025-10-16T21:28:17.000Z",
-          "wordCount": null,
-          "title": "Can AI Agents Help OTT Providers Reduce Churn and Boost Retention Through Smarter Engagement Strategies",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=56908",
-          "author": "Tanvir Kour",
-          "description": "Crafting for AI and developer platforms can feel overwhelming. Clear, structured templates simplify this process. This guide offers examples of essential options that cater to everyday communication needs. Each helps with real-world tasks, such as announcements and documentation. Implementing these practical resources helps save time while ensuring consistency across all channels. Whether you’re updating users […]",
-          "link": "https://collabnix.com/5-launch-templates-for-ai-and-developer-platforms/",
-          "publishedOn": "2025-10-15T22:00:27.000Z",
-          "wordCount": null,
-          "title": "5 Launch Templates for AI and Developer Platforms",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=56905",
-          "author": "Tanvir Kour",
-          "description": "Connected parking garages constitute an ideal convergence of cybersecurity weaknesses. These infrastructures merge surveillance equipment, transaction machines, mobile software, entry mechanisms, and network-linked detectors into an extensive vulnerability landscape that most entities have insufficiently protected. The ramifications surpass monetary damages or information compromises. When digital malfunctions undermine physical entry safeguards or monitoring infrastructures, the tangible […]",
-          "link": "https://collabnix.com/smart-parking-threats-and-how-zero-trust-helps/",
-          "publishedOn": "2025-10-15T21:46:23.000Z",
-          "wordCount": null,
-          "title": "Smart Parking Threats and How Zero Trust Helps",
-          "imageUrl": null
         }
       ]
     },
@@ -3457,6 +3407,26 @@
       "feedUrl": "https://limboy.me/index.xml",
       "siteUrl": "https://limboy.me/",
       "articles": [
+        {
+          "id": "https://limboy.me/posts/culinary-class-wars",
+          "author": null,
+          "description": "这几天一口气刷完了 Netflix 出品的《黑白厨师》，感触颇深。没想到 Cooking 也能套上《鱿鱼游戏》的外壳：极简的规则，极端的赌注，有限的时间，封闭系统内的零和博弈。",
+          "link": "https://limboy.me/posts/culinary-class-wars",
+          "publishedOn": "2026-01-14T00:00:00.000Z",
+          "wordCount": 151,
+          "title": "黑白厨师",
+          "imageUrl": null
+        },
+        {
+          "id": "https://limboy.me/posts/et-holmes-malkovich-edison",
+          "author": null,
+          "description": "",
+          "link": "https://limboy.me/posts/et-holmes-malkovich-edison",
+          "publishedOn": "2026-01-13T00:00:00.000Z",
+          "wordCount": null,
+          "title": "ET，福尔摩斯，马尔科维奇，爱迪生：四种思维训练法",
+          "imageUrl": null
+        },
         {
           "id": "https://limboy.me/posts/gong-type-of-talent",
           "author": null,
@@ -3515,16 +3485,6 @@
           "publishedOn": "2025-10-27T00:00:00.000Z",
           "wordCount": 628,
           "title": "记一次与 Coding Agent 合作实现 Feature 的过程",
-          "imageUrl": null
-        },
-        {
-          "id": "https://limboy.me/posts/review-system",
-          "author": null,
-          "description": "未经审视的人生是不值得过的。",
-          "link": "https://limboy.me/posts/review-system",
-          "publishedOn": "2025-10-17T00:00:00.000Z",
-          "wordCount": 155,
-          "title": "构建自己的反思系统",
           "imageUrl": null
         }
       ]
@@ -3994,6 +3954,36 @@
       "siteUrl": "https://blognas.hwb0307.com/",
       "articles": [
         {
+          "id": "https://blognas.hwb0307.com/other/6938",
+          "author": "Bensz",
+          "description": "Bensz\nDocker系列 MetaMCP为Vibe Coding工具添加远程MCP支持\n本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 MetaMCP 是一个强大的模型上下文协议（Model Context Protocol）聚合管理平台 适合多设备场景：统一部署 MCP 服务器，避免在每个设备上重复配置 经过 18 个同类方案对比，MetaMCP 在功能全面性和部署简易性方面脱颖而出 支持将多种 MCP 服务器统一管理，提供命名空间和端点功能 包含完整的 Docker 部署方案，预配置 11 种常用 MCP 服务器 集成 PostgreSQL 数据库和 SearXNG 搜索引擎 支持多客户端接入，提供 API Key 认证机制 前言 最近在折腾各种 AI 编程工具的时候，发现了一个很酷的项目——MetaMCP。它可以把 […]\nBensz",
+          "link": "https://blognas.hwb0307.com/linux/docker/6938",
+          "publishedOn": "2026-01-13T10:58:20.000Z",
+          "wordCount": 5167,
+          "title": "Docker系列 MetaMCP为Vibe Coding工具添加远程MCP支持",
+          "imageUrl": "https://chevereto.hwb0307.com/images/2026/01/13/image-20260113182520589.png"
+        },
+        {
+          "id": "https://blognas.hwb0307.com/other/6934",
+          "author": "Bensz",
+          "description": "Bensz\n在Windows里通过VSCode使用Claude Code和Codex\n本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 Windows 用户通过 WSL2 运行 Claude Code 和 Codex 的完整实践指南 涵盖 WSL2 安装、Ubuntu 配置、AI 编程代理安装及 VSCode 集成的全流程 提供常见问题排查方法，包括默认发行版选错导致的 “apk not found / libstdc++ required” 等典型报错 前言 之前在博客里分享了 Vibe Coding CLI评测： Claude Code vs. OpenAI Codex vs. Gemini CLI，不过那篇教程主要是在 macOS 环境下演示的。后来想了想，大多数小伙伴用的应该是 Windo […]\nBensz",
+          "link": "https://blognas.hwb0307.com/ai/6934",
+          "publishedOn": "2026-01-13T09:22:35.000Z",
+          "wordCount": null,
+          "title": "在Windows里通过VSCode使用Claude Code和Codex",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blognas.hwb0307.com/other/6930",
+          "author": "Bensz",
+          "description": "Bensz\n国家自然科学基金的LaTeX模板 第2期\n本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 AI 原生范式转移：从”手工 LaTeX 模板”到”智能 Vibe Writing 平台”3 技能生态系统：多个专业 AI Skills 覆盖标书写作全流程 理论创新导向：防止方法学术语稀释科学问题主线的写作教练 像素级样式对齐：硬编码工具 + AI 规划 + 迭代优化闭环 混合架构设计：脚本可复现 + AI 可选，优雅降级保障 前言 最近知乎上有一个热门问题：「如何看待 2026 年国家自然科学基金改版？」作为深度参与了 LaTeX 模板开发的”技术博主”，看到这个问题时，我突然意识到——自己过去一年在 Chine […]\nBensz",
+          "link": "https://blognas.hwb0307.com/skill/6930",
+          "publishedOn": "2026-01-13T08:11:04.000Z",
+          "wordCount": null,
+          "title": "国家自然科学基金的LaTeX模板 第2期",
+          "imageUrl": null
+        },
+        {
           "id": "https://blognas.hwb0307.com/other/6925",
           "author": "Bensz",
           "description": "Bensz\nOpenCode能否作为Claude Code和Codex的平替？\n本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 OpenCode 是一个开源的 AI 编程代理，GitHub Stars 已超过 50k3 项目强调终端工作流（TUI）与 client/server 架构，同时保持 provider-agnostic（不绑定单一模型提供商）2 文档称其基于 AI SDK 与 Models.dev，可接入 75+ LLM providers，并支持运行本地模型5, 10, 11 2026 年 1 月，Anthropic 限制 OpenCode 等第三方工具使用 Claude API，引发开发社区强烈不满16, 17 适合成本敏感的个人开发者、需要本地/多模型选择的团队，以及希望降低供应商锁定风险的用户  […]\nBensz",
@@ -4213,16 +4203,6 @@
           "wordCount": 555,
           "title": "MinIO 社区版 Web 管理界面被删事件全解析",
           "imageUrl": "https://cdn.dusays.com/avatar.png"
-        },
-        {
-          "id": "https://dusays.com/832/",
-          "author": null,
-          "description": "<blockquote>\n<p>因为图床程序暂不支持套餐到期通知，需要杜老师定期统计到期的用户，再通过邮箱发通知。每次统计时操作较麻烦，为了方便统计用户，尝试用 PHP 编写一个页面，可以筛选去不图床到期用户邮箱。</p>\n</blockquote>",
-          "link": "https://dusays.com/832/",
-          "publishedOn": "2025-10-15T16:00:00.000Z",
-          "wordCount": null,
-          "title": "如何使用 PHP 脚本筛选去不图床已到期用户邮箱",
-          "imageUrl": null
         }
       ]
     },
@@ -4262,63 +4242,6 @@
       "articles": []
     },
     {
-      "title": "杂烩饭",
-      "feedUrl": "https://zahui.fan/atom.xml",
-      "siteUrl": "https://zahui.fan/atom.xml",
-      "articles": [
-        {
-          "id": "https://zahui.fan/posts/786c9442/",
-          "author": null,
-          "description": "<blockquote>\n<p>适用场景：</p>\n<ul>\n<li>裸机 &#x2F; 虚拟机环境</li>\n<li>无云厂商 LB</li>\n<li>追求 eBPF + 原生路由的高性能网络</li>\n</ul>\n</blockquote>\n<h2 id=\"一、环境介绍\"><a href=\"#一、环境介绍\" class=\"headerlink\"",
-          "link": "https://zahui.fan/posts/786c9442/",
-          "publishedOn": "2026-01-09T09:49:43.000Z",
-          "wordCount": 1554,
-          "title": "Kubernetes 1.34 + Cilium + kube-vip 高可用集群部署实战",
-          "imageUrl": "https://s3.babudiu.com/iuxt/public/skeleton1.svg"
-        },
-        {
-          "id": "https://zahui.fan/posts/t8hx7x/",
-          "author": null,
-          "description": "<p>使用 CLS 来采集业务日志的好处有</p>\n<ol>\n<li>运维方便，不用费劲搭建 ELK 系统，传统的 <code>filebeat</code> -&gt; <code>kafka</code> -&gt; <code>logstash</code> -&gt; <code>ElasticSearch</code> 架构复杂</li>\n<li>费用便宜（和 ES、kafka",
-          "link": "https://zahui.fan/posts/t8hx7x/",
-          "publishedOn": "2026-01-07T13:23:56.000Z",
-          "wordCount": 829,
-          "title": "使用腾讯云CLS收集TKE（k8s）业务日志",
-          "imageUrl": "https://s3.babudiu.com/iuxt/public/skeleton1.svg"
-        },
-        {
-          "id": "https://zahui.fan/posts/t79irt/",
-          "author": null,
-          "description": "<p>很早之前我在上学的时候给安卓手机刷机，root 后还可以安装了个号称 Linux 瑞士军刀的 App，不过没搞懂有什么用，不过记住了这个难忘的名字 – BusyBox</p>\n<h2 id=\"BusyBox-是什么\"><a href=\"#BusyBox-是什么\" class=\"headerlink\" title=\"BusyBox 是什么\"></a>BusyBox",
-          "link": "https://zahui.fan/posts/t79irt/",
-          "publishedOn": "2025-12-14T13:57:28.000Z",
-          "wordCount": 1507,
-          "title": "容器调试工具之BusyBox",
-          "imageUrl": "https://s3.babudiu.com/iuxt/public/skeleton1.svg"
-        },
-        {
-          "id": "https://zahui.fan/posts/t5tiax/",
-          "author": null,
-          "description": "<p>找了有两个开源项目比较不错，都可以完成镜像的迁移。</p>\n<h2 id=\"crpy-的使用\"><a href=\"#crpy-的使用\" class=\"headerlink\" title=\"crpy 的使用\"></a>crpy 的使用</h2><p>crpy 使用 python 开发，有本地缓存，拉取和推送镜像速度比较快。使用体验比较接近 docker。<br>开源地址： <a",
-          "link": "https://zahui.fan/posts/t5tiax/",
-          "publishedOn": "2025-11-16T11:52:09.000Z",
-          "wordCount": 1050,
-          "title": "无Docker环境进行容器镜像操作",
-          "imageUrl": "https://s3.babudiu.com/iuxt/public/Docker.svg"
-        },
-        {
-          "id": "https://zahui.fan/posts/t4ve3m/",
-          "author": null,
-          "description": "<blockquote>\n<p>基于 ubuntu 使用 kubeadm 搭建集群， <a href=\"/posts/b86d9e9f/\">centos部署文档</a>, 有疑问的地方可以看 <a",
-          "link": "https://zahui.fan/posts/t4ve3m/",
-          "publishedOn": "2025-10-29T01:42:58.000Z",
-          "wordCount": 1602,
-          "title": "使用kubeadm部署一套高可用k8s集群1.34 for Ubuntu",
-          "imageUrl": "https://s3.babudiu.com/iuxt/public/skeleton1.svg"
-        }
-      ]
-    },
-    {
       "title": "Lixx Blog - 李晓旭的博客",
       "feedUrl": "https://lixx.cn/rss.xml",
       "siteUrl": "http://blog.lixx.cn/",
@@ -4335,6 +4258,16 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=22666",
+          "author": "xiaoz",
+          "description": "大家好，我是xiaoz，一名近4年的自由职业者，目前主要从事软件开发工作。这篇文章将对我的2025年做一个简单的总结，内容主要包括：工作、学习、以及投资。这一年虽然整体收入下降20%，但却过得很充实，2026年不求突破，但求保持。关于工作新增项目：2025年新增了一些非商业的开源项目，主要包括：Zu",
+          "link": "https://blog.xiaoz.org/archives/22666",
+          "publishedOn": "2026-01-12T04:09:55.000Z",
+          "wordCount": 256,
+          "title": "2025年：收入下降20%，这一年我到底干了什么？",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=22663",
           "author": "xiaoz",
@@ -4413,26 +4346,6 @@
           "publishedOn": "2025-12-05T04:02:18.000Z",
           "wordCount": 302,
           "title": "开源一个色情图像（NSFW）识别方案，支持私有部署和HTTP调用",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=22523",
-          "author": "xiaoz",
-          "description": "游惠宝国际漫游长效卡是一款可在中国大陆漫游使用上网卡，在启动的时候自行选购香港电话号码，号码可用于接收短信使用，支持漫游中国大陆、中国香港、中国澳门、新加坡、马来西亚等22个国家地区的流量。适用场景游惠宝长效卡适用于以下任意一种场景：经常在中国大陆、港、澳、新加坡等多地出差的商务人士希望拥有一个香港",
-          "link": "https://blog.xiaoz.org/archives/22523",
-          "publishedOn": "2025-10-17T04:31:39.000Z",
-          "wordCount": 244,
-          "title": "低成本拥有一张游惠宝长效卡，大陆港澳轻松漫游，支持实体SIM卡和eSIM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=22504",
-          "author": "xiaoz",
-          "description": "CTExcel是中国电信面向海外公众客户推出的自主品牌移动通信服务，CTExcel推出的【中英共享】套餐，让你在中国和英国都能轻松的使用移动数据上网，非常适合海外留学、英国旅游、国内魔法上网等场景。这篇文章博主将介绍CTExcel套餐资费、开通和使用注意事项。适用场景英国、欧洲留学使用跨境电商英国、",
-          "link": "https://blog.xiaoz.org/archives/22504",
-          "publishedOn": "2025-10-15T09:17:03.000Z",
-          "wordCount": null,
-          "title": "国内可漫游上网的CTExcel eSIM套餐：资费、开通与使用全指南",
           "imageUrl": null
         }
       ]
@@ -4646,16 +4559,6 @@
           "publishedOn": "2025-10-17T18:10:30.000Z",
           "wordCount": null,
           "title": "keepalived Locking pid file error 22 - Invalid argument",
-          "imageUrl": null
-        },
-        {
-          "id": "http://zhangguanzhang.github.io/2025/10/15/k8s-NodePort-filter/",
-          "author": null,
-          "description": "<p>研究下 calico 如何实现 nodePort 白名单。</p>",
-          "link": "http://zhangguanzhang.github.io/2025/10/15/k8s-NodePort-filter/",
-          "publishedOn": "2025-10-15T10:10:30.000Z",
-          "wordCount": null,
-          "title": "从自己造轮子NodePort白名单到参考 calico 规则",
           "imageUrl": null
         }
       ]
