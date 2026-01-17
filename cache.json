@@ -918,16 +918,6 @@
           "wordCount": 523,
           "title": "什么？阿里云DNS提供cname权重啦？",
           "imageUrl": null
-        },
-        {
-          "id": "https://nops.icu/archives/225/",
-          "author": "季兴",
-          "description": "在我们的商业场景中，设备和云端需要低消耗、可靠的连接。最终我们使用了mqtt协议。初代方案CLB--HAproxy--内网CLB--EMQ集群，稳定维持几百万连接当前方案云推出各种负载均衡产品，...",
-          "link": "https://nops.icu/archives/225/",
-          "publishedOn": "2025-10-20T02:20:00.000Z",
-          "wordCount": 534,
-          "title": "一次500万连接EMQ集群的配置复盘",
-          "imageUrl": null
         }
       ]
     },
@@ -1026,6 +1016,26 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=308785",
+          "author": "Brandon Lee",
+          "description": "Sometimes, you wonder to yourself if you are a self-hoster, am I doing this right? What can I do to make my setup better? When you first start out, progress…\nThe post 9 Home Lab Signals That Tell You You’re Building the Right Way appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/01/9-home-lab-signals-that-tell-you-youre-building-the-right-way/",
+          "publishedOn": "2026-01-17T13:39:04.000Z",
+          "wordCount": 11281,
+          "title": "9 Home Lab Signals That Tell You You’re Building the Right Way",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/9-home-lab-signals.png"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=308729",
+          "author": "Brandon Lee",
+          "description": "There are many great home server operating systems out there like TrueNAS, Unraid, Yunohost, CasaOS, Cloudron, and others. All of these are great in their own right. However, there is…\nThe post I Tested Cosmos Server: Is This the Best Home Server OS Yet? appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/01/i-tested-cosmos-server-is-this-the-best-home-server-os-yet/",
+          "publishedOn": "2026-01-16T13:30:42.000Z",
+          "wordCount": null,
+          "title": "I Tested Cosmos Server: Is This the Best Home Server OS Yet?",
+          "imageUrl": null
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=308700",
           "author": "Brandon Lee",
@@ -2922,26 +2932,6 @@
           "wordCount": null,
           "title": "Cursor AI Deep Dive: Technical Architecture, Advanced Features & Best Practices (2025)",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=57198",
-          "author": "Collabnix Team",
-          "description": "AI-powered development tools are revolutionizing how developers write code, and Cursor AI has emerged as the leading AI-first code editor. Built as a fork of VS Code, Cursor combines familiar workflows with groundbreaking AI capabilities that can dramatically accelerate development. This comprehensive guide covers everything from setup to advanced techniques for maximizing productivity with Cursor. […]",
-          "link": "https://collabnix.com/cursor-ai-the-complete-developers-guide-to-ai-powered-coding-in-2025/",
-          "publishedOn": "2025-10-18T14:43:29.000Z",
-          "wordCount": null,
-          "title": "Cursor AI: The Complete Developer’s Guide to AI-Powered Coding in 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=57184",
-          "author": "Tanvir Kour",
-          "description": "Be it through attending events in the community or live-streaming their adventures online, the mobile gaming category is absolutely booming right now. On both iOS and Android devices, gamers are now exposed to an increasing number of innovative products, with today’s powerful smartphones now being able to handle console-quality titles and even virtual reality products. […]",
-          "link": "https://collabnix.com/your-guide-to-10-top-mobile-games-to-play-in-2025/",
-          "publishedOn": "2025-10-18T13:43:26.000Z",
-          "wordCount": null,
-          "title": "Your Guide to 10 Top Mobile Games to play in 2025",
-          "imageUrl": null
         }
       ]
     },
@@ -3056,66 +3046,6 @@
           "wordCount": 142,
           "title": "大梦一场",
           "imageUrl": "https://thiscute.world/posts/job-and-life/featured-image.jpeg"
-        },
-        {
-          "id": "https://thiscute.world/posts/linux-desktop-6-shutdown-troubleshooting/?utm_source=atom_feed",
-          "author": null,
-          "description": "<blockquote>\n<p><strong>AI 创作声明</strong>：本系列文章由笔者借助 ChatGPT, Kimi K2, 豆包和 Cursor 等 AI 工具创作，有很大篇幅的内容完全由 AI 在我的指导下生成。如有错误，还请指正。</p>\n</blockquote><h2 id=\"前言\" class=\"headerLink\">\n<a href=\"#%e5%89%8d%e8%a8%80\" class=\"header-mark\"></a>前言</h2><p>系统关机看似简单，但背后涉及了繁杂的资源清理和状态管理过程。当你点击关机按钮，系统却卡在那里不动，或者出现各种奇怪的错误信息时，理解关机流程和故障排查方法就显得尤为重要。</p>\n<p>除了关机，Linux 还提供了休眠和挂起两种重要的电源管理功能，它们可以让系统快速进入低功耗状态，同时保持工作状态，是日常使用中非常实用的功能。</p>",
-          "link": "https://thiscute.world/posts/linux-desktop-6-shutdown-troubleshooting/?utm_source=atom_feed",
-          "publishedOn": "2025-10-19T02:22:33.000Z",
-          "wordCount": 929,
-          "title": "Linux 桌面系统故障排查指南（六） - 系统关机与电源管理",
-          "imageUrl": "https://thiscute.world/posts/linux-desktop-6-shutdown-troubleshooting/featured-image.webp"
-        },
-        {
-          "id": "https://thiscute.world/posts/linux-desktop-5-network/?utm_source=atom_feed",
-          "author": null,
-          "description": "<blockquote>\n<p><strong>AI 创作声明</strong>：本系列文章由笔者借助 ChatGPT, Kimi K2, 豆包和 Cursor 等 AI 工具创作，有很大篇幅的内容完全由 AI 在我的指导下生成。如有错误，还请指正。</p>\n</blockquote><h2 id=\"前言\" class=\"headerLink\">\n<a href=\"#%e5%89%8d%e8%a8%80\" class=\"header-mark\"></a>前言</h2><p>网络连接是现代桌面的基础功能，涉及硬件驱动、固件加载、网络管理和 DNS 解析等多个环节。</p>\n<p>本文将从网卡驱动开始，经过内核网络栈，到达应用层，了解 Linux 网络系统的完整架构，包括如何配置网络连接，如何设置防火墙规则，以及如何诊断各种网络问题。</p>",
-          "link": "https://thiscute.world/posts/linux-desktop-5-network/?utm_source=atom_feed",
-          "publishedOn": "2025-10-19T02:21:33.000Z",
-          "wordCount": null,
-          "title": "Linux 桌面系统故障排查指南（五） - 网络",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thiscute.world/posts/linux-desktop-4-multimedia-input/?utm_source=atom_feed",
-          "author": null,
-          "description": "<blockquote>\n<p><strong>AI 创作声明</strong>：本系列文章由笔者借助 ChatGPT, Kimi K2, 豆包和 Cursor 等 AI 工具创作，有很大篇幅的内容完全由 AI 在我的指导下生成。如有错误，还请指正。</p>\n</blockquote><h2 id=\"前言\" class=\"headerLink\">\n<a href=\"#%e5%89%8d%e8%a8%80\" class=\"header-mark\"></a>前言</h2><p>Linux 桌面系统的多媒体处理和中文支持涉及多个子系统。音频延迟、字体渲染质量、输入法响应速度等问题看似简单，背后却涉及 PipeWire、fontconfig、fcitx5 等多个组件的协同工作。</p>",
-          "link": "https://thiscute.world/posts/linux-desktop-4-multimedia-input/?utm_source=atom_feed",
-          "publishedOn": "2025-10-19T02:20:33.000Z",
-          "wordCount": null,
-          "title": "Linux 桌面系统故障排查指南（四） - 多媒体处理与中文支持",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thiscute.world/posts/linux-desktop-3-session-graphics/?utm_source=atom_feed",
-          "author": null,
-          "description": "<blockquote>\n<p><strong>AI 创作声明</strong>：本系列文章由笔者借助 ChatGPT, Kimi K2, 豆包和 Cursor 等 AI 工具创作，有很大篇幅的内容完全由 AI 在我的指导下生成。如有错误，还请指正。</p>\n</blockquote><hr>\n<h2 id=\"前言\" class=\"headerLink\">\n<a href=\"#%e5%89%8d%e8%a8%80\" class=\"header-mark\"></a>前言</h2><p>Systemd 及各项系统服务启动后会进入登录页面，从这一刻开始的 Linux 桌面使用过程涉及会话管理、窗口合成、图形渲染和输入处理等多个组件。</p>",
-          "link": "https://thiscute.world/posts/linux-desktop-3-session-graphics/?utm_source=atom_feed",
-          "publishedOn": "2025-10-19T02:19:33.000Z",
-          "wordCount": null,
-          "title": "Linux 桌面系统故障排查指南（三） - 桌面会话与图形渲染",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thiscute.world/posts/linux-desktop-2-systemd-services/?utm_source=atom_feed",
-          "author": null,
-          "description": "<blockquote>\n<p><strong>AI 创作声明</strong>：本系列文章由笔者借助 ChatGPT, Kimi K2, 豆包和 Cursor 等 AI 工具创作，有很大篇幅的内容完全由 AI 在我的指导下生成。如有错误，还请指正。</p>\n</blockquote><h2 id=\"概述\" class=\"headerLink\">\n<a href=\"#%e6%a6%82%e8%bf%b0\" class=\"header-mark\"></a>概述</h2><p>本文是《Linux 桌面系统故障排查指南》系列的第二篇，专注于 systemd 生态系统与服务管理。在上一篇中，我们了解了系统启动与安全框架，现在让我们深入探讨 systemd 核心功能以及 systemd 生态系统中的各个专门化组件。</p>",
-          "link": "https://thiscute.world/posts/linux-desktop-2-systemd-services/?utm_source=atom_feed",
-          "publishedOn": "2025-10-19T02:18:33.000Z",
-          "wordCount": null,
-          "title": "Linux 桌面系统故障排查指南（二） - systemd 全家桶与服务管理",
-          "imageUrl": null
-        },
-        {
-          "id": "https://thiscute.world/posts/linux-desktop-1-boot-security/?utm_source=atom_feed",
-          "author": null,
-          "description": "<blockquote>\n<p><strong>AI 创作声明</strong>：本系列文章由笔者借助 ChatGPT, Kimi K2, 豆包和 Cursor 等 AI 工具创作，有很大篇幅的内容完全由 AI 在我的指导下生成。如有错误，还请指正。</p>\n</blockquote><h2 id=\"前言\" class=\"headerLink\">\n<a href=\"#%e5%89%8d%e8%a8%80\" class=\"header-mark\"></a>前言</h2><p>本文将简要介绍 Linux 桌面系统的启动机制，从 UEFI 引导到内核加载，从 initramfs 到 systemd\n服务启动，再到桌面环境加载。同时还会探讨系统的安全框架，了解 PAM、PolicyKit 等组件如何保护系统安全。</p>",
-          "link": "https://thiscute.world/posts/linux-desktop-1-boot-security/?utm_source=atom_feed",
-          "publishedOn": "2025-10-19T02:17:33.000Z",
-          "wordCount": null,
-          "title": "Linux 桌面系统故障排查指南（一） - 系统启动与安全框架",
-          "imageUrl": null
         }
       ]
     },
@@ -3132,16 +3062,6 @@
           "publishedOn": "2025-12-31T12:00:31.000Z",
           "wordCount": 209,
           "title": "小树的 2025 年终总结",
-          "imageUrl": "https://yeshu.cloud/images/android-chrome-192x192.png"
-        },
-        {
-          "id": "https://yeshu.cloud/posts/newsletter-137/",
-          "author": null,
-          "description": "真正的突破，往往不是来自于对旧问题的更优解，而是来自于对新问题的勇敢定义。",
-          "link": "https://yeshu.cloud/posts/newsletter-137/",
-          "publishedOn": "2025-10-19T13:19:39.000Z",
-          "wordCount": 235,
-          "title": "AI 下半场",
           "imageUrl": "https://yeshu.cloud/images/android-chrome-192x192.png"
         }
       ]
