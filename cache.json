@@ -87,36 +87,6 @@
           "wordCount": 218,
           "title": "晚期肝癌一线治疗：仑伐替尼+诺法利单抗 vs 仑伐替尼，患者生存未显著改善 #ESMO25",
           "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
-        },
-        {
-          "id": "http://whyes.org/2025/abc-hcc-atezo-bev-tace-bclc-b",
-          "author": null,
-          "description": "一直以来，中期肝癌（BCLC B 期）被认为存在较大的异质性，从 2-3 枚肿瘤，其中一枚直径超过 3cm，到弥漫性肝癌，只要不伴有肉眼癌栓或远处转移，都属于中期肝癌。虽然在西方的指南中，中期肝癌的标准治疗是经肝动脉化疗栓塞（TACE），但...",
-          "link": "http://whyes.org/2025/abc-hcc-atezo-bev-tace-bclc-b",
-          "publishedOn": "2025-10-20T15:39:25.000Z",
-          "wordCount": 180,
-          "title": "ABC-HCC研究：系统治疗取代TACE，成为中期肝癌的标准治疗？ #ESMO25",
-          "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
-        },
-        {
-          "id": "http://whyes.org/2025/triplet-hcc-ipilimumab-atezo-bev",
-          "author": null,
-          "description": "",
-          "link": "http://whyes.org/2025/triplet-hcc-ipilimumab-atezo-bev",
-          "publishedOn": "2025-10-20T15:35:31.000Z",
-          "wordCount": null,
-          "title": "TRIPLET-HCC：小剂量伊匹木单抗未能给晚期肝癌一线靶免治疗增效 #ESMO25",
-          "imageUrl": null
-        },
-        {
-          "id": "http://whyes.org/2025/imbrave-152-tiragolumab-atezo-bev",
-          "author": null,
-          "description": "",
-          "link": "http://whyes.org/2025/imbrave-152-tiragolumab-atezo-bev",
-          "publishedOn": "2025-10-20T15:33:25.000Z",
-          "wordCount": null,
-          "title": "IMbrave152：TIGIT抗体未能给晚期肝癌的一线治疗增效 #ESMO25",
-          "imageUrl": null
         }
       ]
     },
@@ -125,6 +95,16 @@
       "feedUrl": "https://daverupert.com/atom.xml",
       "siteUrl": "https://daverupert.com",
       "articles": [
+        {
+          "id": "https://daverupert.com/2026/01/my-2026-redesign/",
+          "author": null,
+          "description": "You might have noticed that I did a big design refresh on my entire site… unless you’re on RSS I guess. I’ll talk about aspects in detail, but at a high level there’s been three big changes:\nA monospace font\nNamed CSS grid lines\nJuicier multi-page view transitions\nBut my most favorite part is that today  (when you set html { --hue-rotate: 15 }), my light theme looks like a stick of butter. And that brings me joy.\nWhat didn’t change\nBefore I talk about what changed, here’s a quick list of the parts of my site that didn’t change:\nSame big “Dave” SVG on the homepage\nSame information architecture, no radical content changes.\nNo new assets, same visuals.\nSame hue-rotating background, although I did simplify the formula.\nSame inverse text-sizing for H1s\nSame support for art-directed posts\nWhy ch…",
+          "link": "https://daverupert.com/2026/01/my-2026-redesign/",
+          "publishedOn": "2026-01-18T14:29:00.000Z",
+          "wordCount": 1703,
+          "title": "The best version of my site so far...",
+          "imageUrl": null
+        },
         {
           "id": "https://daverupert.com/2026/01/nested-contrast-color-focus-rings/",
           "author": null,
@@ -1017,6 +997,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=308798",
+          "author": "Brandon Lee",
+          "description": "If you are deciding to run a production-grade Kubernetes cluster, Talos Linux Kubernetes makes a lot of sense, since it focuses on being immutable and security-focused. However, it forces you…\nThe post Why Ceph Won for Persistent Storage in My Talos Linux Kubernetes MiniLab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/01/why-ceph-won-for-persistent-storage-in-my-talos-linux-kubernetes-minilab/",
+          "publishedOn": "2026-01-19T13:16:31.000Z",
+          "wordCount": 12538,
+          "title": "Why Ceph Won for Persistent Storage in My Talos Linux Kubernetes MiniLab",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/Run-Ceph.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=308785",
           "author": "Brandon Lee",
           "description": "Sometimes, you wonder to yourself if you are a self-hoster, am I doing this right? What can I do to make my setup better? When you first start out, progress…\nThe post 9 Home Lab Signals That Tell You You’re Building the Right Way appeared first on Virtualization Howto.",
@@ -1705,26 +1695,6 @@
           "wordCount": 13155,
           "title": "Best Self-Hosted AI Tools You Can Actually Run in Your Home Lab",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/10/Best-self-hosted-AI-tools.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=303912",
-          "author": "Brandon Lee",
-          "description": "Have you ever sunk a weekend into fixing a Linux system that broke after you applied an update or lost track of configuration tweaks that you made? Maybe you forgot…\nThe post Why You Need an Immutable Home Lab Server OS appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/10/why-you-need-an-immutable-home-lab-server-os/",
-          "publishedOn": "2025-10-21T11:57:37.000Z",
-          "wordCount": null,
-          "title": "Why You Need an Immutable Home Lab Server OS",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=303928",
-          "author": "Brandon Lee",
-          "description": "I continue to get more and more excited about the mini PC space and what is possible in the small form factor of computing. I am still rocking two MS-01’s…\nThe post Minisforum MS-02 Ultra Has Insane Home Lab Potential with 256GB RAM, Triple PCIe, and 25Gb Networking appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/10/minisforum-ms-02-ultra-has-insane-home-lab-potential-with-256gb-ram-triple-pcie-and-25gb-networking/",
-          "publishedOn": "2025-10-20T12:27:14.000Z",
-          "wordCount": null,
-          "title": "Minisforum MS-02 Ultra Has Insane Home Lab Potential with 256GB RAM, Triple PCIe, and 25Gb Networking",
-          "imageUrl": null
         }
       ]
     },
@@ -1733,6 +1703,46 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=70966",
+          "author": "Tanvir Kour",
+          "description": "Smart homes used to be mostly about lighting, speakers, and security cameras, but heating and cooling have quickly become one of the most important parts of the connected‑home ecosystem. As homeowners look for ways to stay comfortable without wasting energy, smart HVAC systems are stepping into the spotlight. These technologies take what used to be […]",
+          "link": "https://collabnix.com/how-smart-hvac-systems-are-becoming-part-of-the-modern-smart-home-tech-stack/",
+          "publishedOn": "2026-01-19T12:54:08.000Z",
+          "wordCount": 5770,
+          "title": "How Smart HVAC Systems Are Becoming Part of the Modern Smart Home Tech Stack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=70899",
+          "author": "Ajeet Raina",
+          "description": "A hands-on guide to running the multi-model database with Docker, including the Surrealist GUI Introduction SurrealDB is a next-generation, multi-model database built in Rust that’s designed to simplify modern application development. Unlike traditional databases that force you to choose between relational, document, or graph models, SurrealDB combines document, graph, relational, time-series, geospatial, and key-value data […]",
+          "link": "https://collabnix.com/surrealdb-with-docker-compose-a-definitive-guide/",
+          "publishedOn": "2026-01-18T08:23:48.000Z",
+          "wordCount": null,
+          "title": "SurrealDB with Docker Compose:  A Definitive Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=70884",
+          "author": "Collabnix Team",
+          "description": "The definitive guide to running AI coding agents safely with container-based isolation",
+          "link": "https://collabnix.com/how-to-run-ai-coding-agents-safely-with-docker-sandboxes-a-definitive-guide-for-claude-and-gemini-users/",
+          "publishedOn": "2026-01-18T07:36:26.000Z",
+          "wordCount": null,
+          "title": "How to Run AI Coding Agents Safely with Docker Sandboxes: A Definitive Guide for Claude and Gemini Users",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=70888",
+          "author": "Tanvir Kour",
+          "description": "Embarking on a cross-border expedition or navigating remote regions requires more than just a sense of adventure; it demands a robust connectivity strategy. In today’s travel landscape, staying online is a technical necessity rather than a luxury. A reliable connection transforms your mobile device into a central safety hub, allowing for real-time GPS synchronization and […]",
+          "link": "https://collabnix.com/connectivity-architecture-for-the-modern-traveler-ensuring-seamless-data-on-the-road/",
+          "publishedOn": "2026-01-17T08:05:58.000Z",
+          "wordCount": null,
+          "title": "Connectivity Architecture for the Modern Traveler: Ensuring Seamless Data on the Road",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=70787",
           "author": "Tanvir Kour",
@@ -2872,66 +2882,6 @@
           "wordCount": 2769,
           "title": "Creating a Connected Workplace That Boosts Employee Engagement",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=57553",
-          "author": "Collabnix Team",
-          "description": "Exploring the Future of DevOps Pipelines Modern software development is shifting toward fully automated DevOps pipelines that handle the entire delivery process with minimal human involvement. These pipelines connect source control, CI/CD platforms, automated testing, security scanners, infrastructure-as-code, and container orchestration into a single continuous workflow. Automation removes repetitive manual tasks and reduces the risk […]",
-          "link": "https://collabnix.com/the-future-of-devops-pipelines/",
-          "publishedOn": "2025-10-21T14:09:19.000Z",
-          "wordCount": 2748,
-          "title": "The Future of DevOps Pipelines",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=57542",
-          "author": "Tanvir Kour",
-          "description": "A client intake workflow streamlines how businesses collect, organize, and manage essential information. When powered by AI, it becomes smarter—automating tasks like sorting responses or identifying priorities. By combining secure tools with integrations like CRM systems, workflows simplify operations while ensuring data privacy. This guide explains how to build a seamless system that’s efficient and […]",
-          "link": "https://collabnix.com/how-to-build-an-ai-client-intake-workflow/",
-          "publishedOn": "2025-10-21T11:23:53.000Z",
-          "wordCount": null,
-          "title": "How to Build an AI Client Intake Workflow",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=57524",
-          "author": "Collabnix Team",
-          "description": "Introduction: The AI Revolution You Haven’t Heard About While the world focuses on GPT-4, Claude, and Gemini as standalone models, a quiet revolution is happening in AI architecture: Multi-Agent Multi-LLM systems. These distributed AI systems are solving problems that single models cannot, achieving performance levels that seemed impossible just months ago. The Paradigm Shift Traditional […]",
-          "link": "https://collabnix.com/multi-agent-multi-llm-systems-the-future-of-ai-architecture-complete-guide-2025/",
-          "publishedOn": "2025-10-21T07:12:46.000Z",
-          "wordCount": null,
-          "title": "Multi-Agent Multi-LLM Systems: The Future of AI Architecture (Complete Guide 2025)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=57521",
-          "author": "Collabnix Team",
-          "description": "Discover the Key Cursor AI Benefits for 2025 Introduction: Why Developers Are Making the Switch Over 1 million developers have already made the switch to Cursor AI, including engineers at OpenAI, Perplexity, Samsung, Shopify, and Midjourney. The question isn’t whether AI will transform coding—it’s whether you’re ready to leverage it before your competition does. If […]",
-          "link": "https://collabnix.com/top-5-reasons-to-switch-to-cursor-ai-in-2025-the-complete-comparison-guide/",
-          "publishedOn": "2025-10-21T07:03:36.000Z",
-          "wordCount": null,
-          "title": "Discover Cursor AI Benefits for 2025 Success",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=57514",
-          "author": "Tanvir Kour",
-          "description": "Understanding AI Text Detection in 2025 I have tried more than a dozen AI detectors within the last six months, and I have to say something uncomfortable to you: YES, AI-generated text can be identified, but the process of identifying it is messy, inconsistent and, more often than not, erroneous. When you are writing essays […]",
-          "link": "https://collabnix.com/can-ai-text-be-detected-what-students-need-to-know-in-2025/",
-          "publishedOn": "2025-10-21T06:56:45.000Z",
-          "wordCount": null,
-          "title": "AI Text Detection: What Students Must Know in 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=57509",
-          "author": "Collabnix Team",
-          "description": "Exploring Cursor AI: Features and Best Practices Cursor AI has rapidly emerged as one of the most powerful AI-assisted development environments in 2025, serving billions of code completions daily to developers at Fortune 500 companies. Unlike traditional IDEs with bolt-on AI features, Cursor was architected from the ground up to integrate artificial intelligence into every […]",
-          "link": "https://collabnix.com/cursor-ai-deep-dive-technical-architecture-advanced-features-best-practices-2025/",
-          "publishedOn": "2025-10-21T06:48:06.000Z",
-          "wordCount": null,
-          "title": "Cursor AI Deep Dive: Technical Architecture, Advanced Features & Best Practices (2025)",
-          "imageUrl": null
         }
       ]
     },
@@ -3072,6 +3022,16 @@
       "siteUrl": "https://www.skyue.com/",
       "articles": [
         {
+          "id": "https://www.skyue.com/26011920.html",
+          "author": "拾月",
+          "description": "欢迎本博客的小公主：草莓。",
+          "link": "https://www.skyue.com/26011920.html",
+          "publishedOn": "2026-01-19T12:08:00.000Z",
+          "wordCount": 554,
+          "title": "草莓熟了",
+          "imageUrl": ""
+        },
+        {
           "id": "https://www.skyue.com/26011121.html",
           "author": "拾月",
           "description": "例行年度总结，总结维度和去年相同，顺序略有调整。文中的「今年」指2025年。今年在生活上有买房、装修、结婚、生娃几件事，工作上年底从字节离职加入新公司。生活和工作都进入了新的阶段，所以今年的关键...",
@@ -3209,16 +3169,6 @@
           "publishedOn": "2025-10-26T13:42:00.000Z",
           "wordCount": 546,
           "title": "大运河杭钢公园",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://www.skyue.com/25102113.html",
-          "author": "拾月",
-          "description": "周末两天到南京玩，纯citywalk。",
-          "link": "https://www.skyue.com/25102113.html",
-          "publishedOn": "2025-10-21T05:45:00.000Z",
-          "wordCount": 610,
-          "title": "南京两日游",
           "imageUrl": ""
         }
       ]
@@ -3416,6 +3366,16 @@
       "feedUrl": "https://blognas.hwb0307.com/feed",
       "siteUrl": "https://blognas.hwb0307.com/",
       "articles": [
+        {
+          "id": "https://blognas.hwb0307.com/other/6954",
+          "author": "Bensz",
+          "description": "Bensz\nVibe Coding的优势与局限\n本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 Vibe Coding 是由 Andrej Karpathy 提出的一种基于 AI 辅助的编程方式，通过自然语言与 AI 交互来生成代码 社区对 Vibe Coding 的评价呈现两极分化：支持者认为它极大提升了开发效率，批评者则担忧其会导致学习深度下降 研究显示，AI 生成的代码中近 90% 存在安全漏洞，且过度依赖 AI 会使开发者的实际效率降低 19% 专家普遍认为，挫折和深度思考是编程学习的必经之路，Vibe Coding 可能会削弱这一成长过程 平衡使用 AI 工具与坚持基础学习是未来开发者需要掌握的关键技能 前言 最近在使用 Vibe Coding 的过程中，我产生了一些复杂 […]\nBensz",
+          "link": "https://blognas.hwb0307.com/ai/6954",
+          "publishedOn": "2026-01-18T05:39:57.000Z",
+          "wordCount": 5247,
+          "title": "Vibe Coding的优势与局限",
+          "imageUrl": "https://blognas.hwb0307.com/wp-content/uploads/zzmx-169-scaled.jpg"
+        },
         {
           "id": "https://blognas.hwb0307.com/other/6938",
           "author": "Bensz",
@@ -3638,6 +3598,26 @@
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
         {
+          "id": "https://dusays.com/837/",
+          "author": null,
+          "description": "<blockquote>\n<p>Docker 重度使用者们，您了解过 Docker 日志吗？如何查找、减少以及管理日志，从而有效节省磁盘空间！今天分享一下如何处理 Docker 日志的问题。</p>\n</blockquote>",
+          "link": "https://dusays.com/837/",
+          "publishedOn": "2025-11-14T16:00:00.000Z",
+          "wordCount": 557,
+          "title": "Dockerd 日志太多？磁盘爆了？一篇教您搞定容器日志问题",
+          "imageUrl": "https://cdn.dusays.com/avatar.png"
+        },
+        {
+          "id": "https://dusays.com/836/",
+          "author": null,
+          "description": "<blockquote>\n<p>作为一名资深的数码爱好者，杜老师有个坚持多年的习惯：每年小米新品旗舰发布，必定第一时间入手尝鲜，再把手上的旧机挂出去二手转出。本以为这样能“以旧补新”降低成本，可算下来每年差价依然不菲，长期累积竟是一笔不小开支。期间杜老师也接触很多二手平台，但感觉不靠谱。直到杜老师接触了转转平台，才算真正找到了兼顾体验与性价比的二手换机方案。</p>\n</blockquote>",
+          "link": "https://dusays.com/836/",
+          "publishedOn": "2025-11-08T16:00:00.000Z",
+          "wordCount": null,
+          "title": "二手手机值得买吗？数码爱好者的省钱换机经验",
+          "imageUrl": null
+        },
+        {
           "id": "https://dusays.com/835/",
           "author": null,
           "description": "<blockquote>\n</blockquote>",
@@ -3655,16 +3635,6 @@
           "publishedOn": "2025-10-27T16:00:00.000Z",
           "wordCount": 547,
           "title": "一站式操作系统 ISO 下载平台",
-          "imageUrl": "https://cdn.dusays.com/avatar.png"
-        },
-        {
-          "id": "https://dusays.com/833/",
-          "author": null,
-          "description": "<blockquote>\n<p>开源项目一直是软件开发领域的重要组成部分，众多开发者依赖开源项目推动着技术快速发展。然而，近期 MinIO 社区版的一次更新却引发轩然大波，其删除 11 万行代码，原本功能完备的 Web 管理界面大幅精简，这举动不仅让用户措手不及，也引发了社区对于开源项目商业化的深度思考。</p>\n</blockquote>",
-          "link": "https://dusays.com/833/",
-          "publishedOn": "2025-10-21T16:00:00.000Z",
-          "wordCount": 555,
-          "title": "MinIO 社区版 Web 管理界面被删事件全解析",
           "imageUrl": "https://cdn.dusays.com/avatar.png"
         }
       ]
