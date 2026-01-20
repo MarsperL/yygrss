@@ -274,16 +274,6 @@
           "wordCount": 706,
           "title": "Random Mini Dungeons",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/10/vibe-check-40/",
-          "author": null,
-          "description": "Another hot Fall in Texas. No notable rain since June. Air-conditioning humming. Water bill up. Backyard is a dust bowl from the dogs tearing up all the grass.\nMy schedule is a constant loop of kid activities; school, cheer, baseball, guitar, birthday parties, randomized school holidays, etc. I call it “The Luge”. A family bobsled ride downhill with no meaningful breaks until Christmas. There’s been some real highlights like nights at the ballpark, singing through the K-Pop Demon Slayers album with a car full of girlie-pop tweenagers, and watching my son play his first rock show. But personally, there’s been an overwhelming cloud through it all.\nI’ve been grumpy, like super grumpy\nI’ve been in an incurably foul mood for the last month. I’m almost not sure this vibe-check is worth putting o…",
-          "link": "https://daverupert.com/2025/10/vibe-check-40/",
-          "publishedOn": "2025-10-23T02:49:00.000Z",
-          "wordCount": 2618,
-          "title": "Vibe Check №40",
-          "imageUrl": null
         }
       ]
     },
@@ -997,6 +987,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=308823",
+          "author": "Brandon Lee",
+          "description": "Most have been following my journey of testing and making changes in the home lab. Recently I have been spinning up a minilab running on Proxmox. For years, I have…\nThe post I Don’t Miss vCenter After Moving My Home Lab to Proxmox (Here’s Why) appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/01/i-dont-miss-vcenter-after-moving-my-home-lab-to-proxmox-heres-why/",
+          "publishedOn": "2026-01-20T13:27:11.000Z",
+          "wordCount": 12294,
+          "title": "I Don’t Miss vCenter After Moving My Home Lab to Proxmox (Here’s Why)",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/i-dont-miss-vcenter-after-moving-my-home-lab-to-proxmox.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=308798",
           "author": "Brandon Lee",
           "description": "If you are deciding to run a production-grade Kubernetes cluster, Talos Linux Kubernetes makes a lot of sense, since it focuses on being immutable and security-focused. However, it forces you…\nThe post Why Ceph Won for Persistent Storage in My Talos Linux Kubernetes MiniLab appeared first on Virtualization Howto.",
@@ -1685,16 +1685,6 @@
           "wordCount": 12808,
           "title": "Proxmox Cloud-Init Made Easy: Automating VM Provisioning Like the Cloud",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/10/proxmox-cloud-init-2.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=303910",
-          "author": "Brandon Lee",
-          "description": "There is no question that AI tools and self-hosted AI is becoming one of the most popular self-hosted applications in home labs at the end of 2025 and beyond. Artificial…\nThe post Best Self-Hosted AI Tools You Can Actually Run in Your Home Lab appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/10/best-self-hosted-ai-tools-you-can-actually-run-in-your-home-lab/",
-          "publishedOn": "2025-10-22T12:27:52.000Z",
-          "wordCount": 13155,
-          "title": "Best Self-Hosted AI Tools You Can Actually Run in Your Home Lab",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/10/Best-self-hosted-AI-tools.png"
         }
       ]
     },
@@ -1703,6 +1693,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=70991",
+          "author": "Ajeet Raina",
+          "description": "Discover what AI coding agents are, how they work, and the best tools available in 2026. Learn how autonomous coding assistants like Claude Code, Cursor, and GitHub Copilot are transforming software development.",
+          "link": "https://collabnix.com/the-best-ai-coding-agents-in-2026/",
+          "publishedOn": "2026-01-20T13:27:16.000Z",
+          "wordCount": 8050,
+          "title": "Best AI Coding Agents of 2026",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=70966",
           "author": "Tanvir Kour",
@@ -3597,6 +3597,26 @@
       "feedUrl": "https://dusays.com/atom.xml",
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
+        {
+          "id": "https://dusays.com/839/",
+          "author": null,
+          "description": "<blockquote>\n<p>在当今快节奏的工作中，高效的信息处理与内容创作工具越来越受到人们的青睐。腾讯推出的 ima，是一款以知识库为核心，面向学习与办公场景的 AI 智能工作台，致力于帮助用户提升信息获取效率并大幅提高内容创作的效率与质量。</p>\n</blockquote>",
+          "link": "https://dusays.com/839/",
+          "publishedOn": "2025-11-26T16:00:00.000Z",
+          "wordCount": 533,
+          "title": "ima 任务模式邀请码分享",
+          "imageUrl": "https://cdn.dusays.com/avatar.png"
+        },
+        {
+          "id": "https://dusays.com/838/",
+          "author": null,
+          "description": "<blockquote>\n<p>您是否曾经需要一个快捷的电子邮件地址？比如注册游戏或网站？这时 Temp Mail 就能派上用场了！它能为您提供一个可在短时间内使用的临时电子邮件地址。</p>\n</blockquote>",
+          "link": "https://dusays.com/838/",
+          "publishedOn": "2025-11-20T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Temp Mail 兼具隐私和便捷性的最佳临时电子邮件服务",
+          "imageUrl": null
+        },
         {
           "id": "https://dusays.com/837/",
           "author": null,
