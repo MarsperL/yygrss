@@ -77,16 +77,6 @@
           "wordCount": 199,
           "title": "有靶点变异的晚期胆道癌，一线治疗可以跳过化疗？",
           "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
-        },
-        {
-          "id": "http://whyes.org/2025/cs-1003-305-hcc-lenvatinib",
-          "author": null,
-          "description": "在 2022 年的 ESMO 年会，LEAP-002 研究公布了研究结果，仑伐替尼联合帕博利珠单抗用于晚期肝癌的一线治疗，与仑伐替尼相比，未能显著改善患者总生存期（OS）和无进展生存期（PFS）。这项研究结果在当时引发了广泛的讨论。在 LE...",
-          "link": "http://whyes.org/2025/cs-1003-305-hcc-lenvatinib",
-          "publishedOn": "2025-10-23T15:42:30.000Z",
-          "wordCount": 218,
-          "title": "晚期肝癌一线治疗：仑伐替尼+诺法利单抗 vs 仑伐替尼，患者生存未显著改善 #ESMO25",
-          "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
         }
       ]
     },
@@ -987,6 +977,26 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=308873",
+          "author": "Brandon Lee",
+          "description": "There is no question that my home lab has been shrinking, not in terms of processing and other power, but in terms of physical footprint this year. I have been…\nThe post The Smallest Home Lab That Still Feels Like a Real Datacenter appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/01/the-smallest-home-lab-that-still-feels-like-a-real-datacenter/",
+          "publishedOn": "2026-01-22T13:13:24.000Z",
+          "wordCount": 12369,
+          "title": "The Smallest Home Lab That Still Feels Like a Real Datacenter",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/small-home-lab-datacenter.png"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=308847",
+          "author": "Brandon Lee",
+          "description": "Well, as we all know, the GA release of Proxmox Datacenter Manager dropped around the first of December last year. This has been a great addition to the Proxmox ecosystem.…\nThe post I Ran Proxmox Datacenter Manager for a Month: What It’s Actually Good At appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/01/i-ran-proxmox-datacenter-manager-for-a-month-what-its-actually-good-at/",
+          "publishedOn": "2026-01-21T13:27:45.000Z",
+          "wordCount": null,
+          "title": "I Ran Proxmox Datacenter Manager for a Month: What It’s Actually Good At",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=308823",
           "author": "Brandon Lee",
           "description": "Most have been following my journey of testing and making changes in the home lab. Recently I have been spinning up a minilab running on Proxmox. For years, I have…\nThe post I Don’t Miss vCenter After Moving My Home Lab to Proxmox (Here’s Why) appeared first on Virtualization Howto.",
@@ -1665,26 +1675,6 @@
           "wordCount": 12718,
           "title": "LogForge is the Must-Have Self-Hosted Docker Dashboard for Logs and Alerts",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/10/LogForge.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=303914",
-          "author": "Brandon Lee",
-          "description": "If you want to take your home lab to a home lab 2.0, it’s all about automation. The more of your environment you can have self-manage, the more time you…\nThe post Top 10 Automation Scripts Every Home Lab Should Have in 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/10/top-10-automation-scripts-every-home-lab-should-have-in-2025/",
-          "publishedOn": "2025-10-24T12:46:53.000Z",
-          "wordCount": 12715,
-          "title": "Top 10 Automation Scripts Every Home Lab Should Have in 2025",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/10/10-Scripts-You-Need-2.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=303917",
-          "author": "Brandon Lee",
-          "description": "There are so many great tools that you can use to automate provisioning a virtual machine in your home lab when running on Proxmox. However, if you are using manual…\nThe post Proxmox Cloud-Init Made Easy: Automating VM Provisioning Like the Cloud appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/10/proxmox-cloud-init-made-easy-automating-vm-provisioning-like-the-cloud/",
-          "publishedOn": "2025-10-23T12:35:38.000Z",
-          "wordCount": 12808,
-          "title": "Proxmox Cloud-Init Made Easy: Automating VM Provisioning Like the Cloud",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/10/proxmox-cloud-init-2.png"
         }
       ]
     },
@@ -1693,6 +1683,36 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=71078",
+          "author": "Collabnix Team",
+          "description": "Learn how Claude Cowork transforms your desktop into an intelligent automation hub. This comprehensive guide covers features, use cases, setup, and best practices for Anthropic's revolutionary AI agent.",
+          "link": "https://collabnix.com/claude-cowork-the-complete-guide-to-anthropics-ai-desktop-agent-for-task-automation/",
+          "publishedOn": "2026-01-22T15:59:36.000Z",
+          "wordCount": 7385,
+          "title": "Claude Cowork: The Complete Guide to Anthropic’s AI Desktop Agent for Task Automation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=71075",
+          "author": "Tanvir Kour",
+          "description": "For businesses in competitive industries, standing out is no longer about who is louder; it is about precision. Industries like construction, retail, and finance demand more than generic marketing tactics. Instead, they require strategies tailored to specific audiences. This is where specialized marketing offers a solid advantage. By focusing on insights, data, and channels specific […]",
+          "link": "https://collabnix.com/7-benefits-of-specialized-marketing-in-competitive-industries/",
+          "publishedOn": "2026-01-22T15:54:39.000Z",
+          "wordCount": null,
+          "title": "7 Benefits of Specialized Marketing in Competitive Industries",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=71071",
+          "author": "Tanvir Kour",
+          "description": "The Indian stock market has been buzzing with activity, and investors are keeping a close watch on various investment opportunities. One of the major areas of focus recently has been the upcoming IPO, which has attracted significant attention from both retail and institutional investors. Initial Public Offerings (IPOs) provide companies with an opportunity to raise […]",
+          "link": "https://collabnix.com/key-insights-for-investors-on-the-most-anticipated-market-opportunities/",
+          "publishedOn": "2026-01-22T15:46:53.000Z",
+          "wordCount": null,
+          "title": "Key Insights for Investors on the Most Anticipated Market Opportunities",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=70991",
           "author": "Ajeet Raina",
@@ -2872,16 +2892,6 @@
           "wordCount": null,
           "title": "Inventory Management Tips that You Need to Know",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=56331",
-          "author": "Tanvir Kour",
-          "description": "How well a company does depends a lot on how engaged its workers are. Employees are more motivated and productive at work when they feel like they belong, are valued, and are supported. But in many companies, engagement goes down because the systems that teams use don’t work effectively together. It’s hard to gather information, […]",
-          "link": "https://collabnix.com/creating-a-connected-workplace-that-boosts-employee-engagement-2/",
-          "publishedOn": "2025-10-24T07:36:49.000Z",
-          "wordCount": 2769,
-          "title": "Creating a Connected Workplace That Boosts Employee Engagement",
-          "imageUrl": null
         }
       ]
     },
@@ -3532,16 +3542,6 @@
           "wordCount": null,
           "title": "两个月的肾结石排石之路",
           "imageUrl": null
-        },
-        {
-          "id": "https://4311346.com/post/2025/1022-nanzhao.html",
-          "author": null,
-          "description": "20年前由胡歌、刘亦菲、安以轩、刘品言、彭于晏等联袂主演的《仙剑奇侠传》中，李逍遥那一句“我要送你平平安安地回到南诏国，那才是你真正的故乡”第一次了解到了南诏国。后来金庸笔下的《天龙八部》和《射雕英雄传》更是让这里披上了侠骨柔情的神秘面纱。\n那么说走就走，出发云南…\n\n飞机落地丽江三义机场，故事也由丽江这座古城开始…\n﻿29年前的一场7.0级大地震，真正打开了丽江的知名度，此时的全国人民才通过CCTV了解到了丽江，这里是纳西族人的聚集地，有大研古镇、束河古镇、白沙古镇，而大家常说的丽江古城通常指的是大研古镇。\n如今这座古镇里却很少有本地居民，30年本地导游经验的纳西族女导游的家就曾在古城里，全家早已搬出去自建新房，古城里的院子出租价格特别的高。\n\n丽江古城和远处的玉龙雪山\n玉龙雪山是纳西人心中的神山，像一位披着白袍的守护者，伫立在丽江古城的背后，抬头便能见，低头却难忘。\n\n这座城随处都是咖啡店和酒吧，云南本地小粒咖啡没啥兴趣，酒吧听歌有点贵，40瓶风花雪月300ml啤酒加点小食敢收费2200元…  驻唱的小妹还是很会活跃气氛的。\n\n虽然到不了蒙自市，但过桥米线在古城里却随处都是。过桥米线分由米线、高汤 、拼盘三个主要部分组成，米线是它的基础、高汤是它的灵魂，而拼盘辅料则是这碗米线的生命。过桥米线的拼盘辅料主要由各种肉类和蔬菜组成，是构成过桥米线的基本元素。\n玉龙雪山\n次日前往世界上北半球纬度最低、海拔最高的玉龙雪山，远远的就能看到海拔5590.2米的扇子陡主峰。进山费100元/人，冰川大索道140元/人，大巴车60元/人，蓝月谷虽然免费但也得单独购买电瓶车票。时间关系牦牛坪索道65元/人，云杉坪索道60元/人就没去了。\n\n玉龙雪山冰川公园大索道比去年华山北峰索道要险得多，华山都是大石头，而玉龙雪山的岩石主要以石灰岩为主，这类岩石质地脆弱，容易破碎，难以承受较大重量，所以玉龙雪山至今从未被人类登顶过。\n\n玉龙雪山冰川大索道起点海拔3356米，冰川大索道终点海拔4506米，然后开始沿着人造木梯爬到海拔4680米的观景台。没有氧气和士力架会有点废命，当然在上山前，还喝了瓶西洋参灵芝饮，用于提升血红蛋白携氧能力，缓解缺氧导致的疲劳。感觉这玩意有点坑，当然安全下山，不太累才是最重要的。\n\n\n山水的感受就一个字，冷~ 单薄的九分裤+短袖T恤和防晒服，在海拔4680处，温度只有5°，虽然有太阳，但抵不住风大。\n\n下山一碗野生菌火锅，暖和暖和。\n\n\n\n山脚下纳西人家房子的屋顶，纳西人的下午茶，玉龙雪山前视乎很早以前就有飞机起降\n\n晚上的丽江城区，车水马龙，每天都会堵车\n束河古镇\n\n这里房价现在还比较便宜，都是出租或出售给外来人口做生意用的，均价10000/㎡ …\n\n但具体的还要看具体位置，必经古镇内，每个位置的价格差距都很大，哪些好的位置也是有价无市，因为没人会卖。\n\n愿余生花开四季，向阳而生，不畏将来，不念过往\n\n关于云南咖啡的历史\n\n纳西族，使用东巴文，也是一种象形文字\n\n纳西族-东巴木雕\n\n从丽江去到大理，走大丽高速195公里，途经剑湖。\n\n这里是金庸笔下《天龙八部》剑湖的原型。\n喜洲\n\n洱海北端，喜洲，风吹麦浪，乘坐了喜洲小火车…\n大理古城\n\n在大理，苍山和洱海是固定搭配， 永远分不开的一对。\n\n大理古城，背靠苍山，面朝洱海。\n\n蚕蛹和蜂蛹，据说都是蛋白质\n\n金蝎和竹虫，唉~ 还是不敢尝试\n\n蚂蚱和蜈蚣，蚂蚱试了下，挺香的。\n\n云南虫谷…了解下价格把~\n8-12世纪东南亚第一大古都 大理\n\n大理是唐、五代、两宋时期南诏、大长和、大天兴、大义宁、大理国、大中六第方政权王朝的都城，以500多年的建都史与西安、北京、洛阳、南京、开封等成为中华历史上享有盛名的古都都市，是同时连接茶马古道及西南，西北，海上三条丝绸之路的文化，宗教，经济贸易交流中心。\n\n明代洪武十五年（公元1382年），将原城改建为方形城，城四面建城门楼，四角建角楼，城内建“五华楼”。现大理古城基本保留了明代格局，残存部分城墙，南北城门均为公元1984年重建。\n\n大理古城，一水绕苍山，苍山抱古城。\n大理、吴哥、顺化、曼谷等城市是东南亚地区不同历史时期的大古都，尤其是大理 8-12世纪的南诏，大理国等中国地方政权王朝的都城，其规模宏大、文化发达、经济繁荣，是当时亚洲经济、文化、宗教交流的中心之一。\n\n这里接头的水果小吃五颜六色\n\n七彩云南\n\n马帮菜是茶马古道上形成的特色饮食体系，源于古代马帮风餐露宿的生存需求。\n\n其核心特征为\"食材信手拈来，可食用之材皆可成菜\"，善用山茅野菜、干巴、野生菌等自然食材，形成以\"干、鲜、野\"为主的烹饪体系。\n理想邦-圣托里尼风情的摄影天堂\n\n可惜，这天下午开始下雨了，那就提早返程把。\n\n卷烟，云南特产，带两条回家。",
-          "link": "https://4311346.com/post/2025/1022-nanzhao.html",
-          "publishedOn": "2025-10-23T14:14:55.000Z",
-          "wordCount": null,
-          "title": "仙剑里的南诏国",
-          "imageUrl": null
         }
       ]
     },
@@ -3597,6 +3597,26 @@
       "feedUrl": "https://dusays.com/atom.xml",
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
+        {
+          "id": "https://dusays.com/845/",
+          "author": null,
+          "description": "<blockquote>\n<p>杜老师在家用机上搭建了一个 Minecraft 游戏平台，配置为 16H32G 内存，500M 的带宽，预估支持 30 人同时在线。如果您喜欢玩我的世界，又感觉自己玩没有意思，欢迎加入我们平台，大家一起 play 一起 happy！</p>\n</blockquote>",
+          "link": "https://dusays.com/845/",
+          "publishedOn": "2026-01-01T16:00:00.000Z",
+          "wordCount": 527,
+          "title": "Minecraft 生存服务器来啦「1.21.8 版」",
+          "imageUrl": "https://cdn.dusays.com/avatar.png"
+        },
+        {
+          "id": "https://dusays.com/840/",
+          "author": null,
+          "description": "<blockquote>\n<p>在 Linux 系统中，软件的安装和管理通常依赖于软件包（Package），而 .deb 和 .rpm 是两种最主流的软件包格式。它们分别服务于不同的 Linux 发行版生态系统，不仅文件后缀不同，所使用的工具链、依赖管理方式、系统集成方式等方面也各有特点。本文将从多个角度对这两种格式进行深入解析。</p>\n</blockquote>",
+          "link": "https://dusays.com/840/",
+          "publishedOn": "2025-12-02T16:00:00.000Z",
+          "wordCount": 594,
+          "title": "DEB 和 RPM 有什么区别",
+          "imageUrl": "https://cdn.dusays.com/avatar.png"
+        },
         {
           "id": "https://dusays.com/839/",
           "author": null,
@@ -3992,16 +4012,6 @@
           "publishedOn": "2025-10-31T17:30:30.000Z",
           "wordCount": null,
           "title": "多线程执行skopeo copy panic的一次解决过程",
-          "imageUrl": null
-        },
-        {
-          "id": "http://zhangguanzhang.github.io/2025/10/23/docker-bin-containerd/",
-          "author": null,
-          "description": "<p>简单科普下 docker 启动时候和 contaienrd 相关</p>",
-          "link": "http://zhangguanzhang.github.io/2025/10/23/docker-bin-containerd/",
-          "publishedOn": "2025-10-23T17:10:30.000Z",
-          "wordCount": 3034,
-          "title": "离线安装docker和包管理安装docker下containerd的启动相关",
           "imageUrl": null
         }
       ]
