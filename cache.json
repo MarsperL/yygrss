@@ -977,6 +977,26 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=308942",
+          "author": "Brandon Lee",
+          "description": "I have been super geeking out on my home lab this week going all in on some nerd knobs of Proxmox clustering and Ceph storage between my cluster hosts. I…\nThe post I Built a Ceph Erasure-Coded NVMe Cluster in My Home Lab. Here’s What Actually Happened appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/01/i-built-a-ceph-erasure-coded-nvme-cluster-in-my-home-lab-heres-what-actually-happened/",
+          "publishedOn": "2026-01-24T14:59:37.000Z",
+          "wordCount": 11859,
+          "title": "I Built a Ceph Erasure-Coded NVMe Cluster in My Home Lab. Here’s What Actually Happened",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/ceph-erasure-coding-home-lab.png"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=308902",
+          "author": "Brandon Lee",
+          "description": "We have all been there with technologies that we are learning for the first time. We don’t know what we don’t know. When I first started building my home lab…\nThe post Proxmox Tips I Wish I Knew Before Building My First Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/01/proxmox-tips-i-wish-i-knew-before-building-my-first-home-lab/",
+          "publishedOn": "2026-01-23T14:39:49.000Z",
+          "wordCount": 12345,
+          "title": "Proxmox Tips I Wish I Knew Before Building My First Home Lab",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/proxox-tips-I-wish-I-had-known-when-building-my-first-home-lab.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=308873",
           "author": "Brandon Lee",
           "description": "There is no question that my home lab has been shrinking, not in terms of processing and other power, but in terms of physical footprint this year. I have been…\nThe post The Smallest Home Lab That Still Feels Like a Real Datacenter appeared first on Virtualization Howto.",
@@ -1683,6 +1703,36 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=71154",
+          "author": "Tanvir Kour",
+          "description": "In today’s fast-paced business world, effective communication is crucial. As email remains one of the primary forms of professional correspondence, knowing how to craft emails that not only capture attention but also prompt action is essential for success. Whether you’re reaching out to potential clients, engaging with partners, or following up on leads, your email […]",
+          "link": "https://collabnix.com/crafting-emails-that-spark-action-secrets-to-effective-business-communication/",
+          "publishedOn": "2026-01-24T03:40:07.000Z",
+          "wordCount": 8392,
+          "title": "Crafting Emails That Spark Action: Secrets to Effective Business Communication",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=71129",
+          "author": "Manish Lingadevaru",
+          "description": "This blog is authored by Manish L. in collaboration with Jalaj Krishna B.S. and Jeevitha S. from Raja Rajeshwari College of Engineering. The NVIDIA Jetson Nano is a small, powerful computer that brings the power of modern artificial intelligence (AI) to a compact, energy-efficient platform. It is an ideal device for developers, makers, and students, […]",
+          "link": "https://collabnix.com/getting-started-with-nvidia-jetson-nano-and-docker-generative-ai-supercomputer/",
+          "publishedOn": "2026-01-23T18:09:23.000Z",
+          "wordCount": null,
+          "title": "Getting Started with NVIDIA Jetson Nano and Docker – Generative AI Supercomputer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=71124",
+          "author": "Tanvir Kour",
+          "description": "Creating a high‑performance home office is now essential for anyone working remotely. It’s not just about picking a good desk or arranging a few accessories. A truly effective workspace blends infrastructure, layout, and acoustic comfort into a balanced environment that supports focus and well-being. With thoughtful planning, even small or awkward rooms can become productive, […]",
+          "link": "https://collabnix.com/designing-a-high%e2%80%91performance-home-office-infrastructure-space-planning-and-noise-control/",
+          "publishedOn": "2026-01-23T17:56:52.000Z",
+          "wordCount": null,
+          "title": "Designing a High‑Performance Home Office: Infrastructure, Space Planning, and Noise Control",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=71078",
           "author": "Collabnix Team",
@@ -2882,16 +2932,6 @@
           "wordCount": 2856,
           "title": "10 Must-Try Real Estate Marketing Postcards to Boost Your Client Reach",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=58020",
-          "author": "Tanvir Kour",
-          "description": "If you run a warehouse or if have a lot of products that you need to organize, then you will know how important it is to keep track of everything. With that said, you do need to make sure that you aren’t making your business inefficient without realizing it. This guide will help you implement […]",
-          "link": "https://collabnix.com/inventory-management-tips-that-you-need-to-know/",
-          "publishedOn": "2025-10-27T07:58:58.000Z",
-          "wordCount": null,
-          "title": "Inventory Management Tips that You Need to Know",
-          "imageUrl": null
         }
       ]
     },
@@ -2968,16 +3008,6 @@
           "publishedOn": "2025-11-01T00:00:00.000Z",
           "wordCount": 120,
           "title": "我的第一款 iOS App：PingMind",
-          "imageUrl": null
-        },
-        {
-          "id": "https://limboy.me/posts/collaborating-with-coding-agent-to-implement-a-feature",
-          "author": null,
-          "description": "在实现一个用 SwiftUI 构建的 iOS App 的过程中，我想让 Agent 帮我加一个 Feature：让 Calendar 可以滑动查看上一月/下一月。本以为是个简单的一个需求，过程的艰辛却远超我的预期。这也体现了纯 Vibe Coding 的一个局限：当 AI 撞墙时，即使指令给得再小、再清晰，它都很难独立完成任务。",
-          "link": "https://limboy.me/posts/collaborating-with-coding-agent-to-implement-a-feature",
-          "publishedOn": "2025-10-27T00:00:00.000Z",
-          "wordCount": 628,
-          "title": "记一次与 Coding Agent 合作实现 Feature 的过程",
           "imageUrl": null
         }
       ]
@@ -3160,26 +3190,6 @@
           "wordCount": 543,
           "title": "做饭",
           "imageUrl": ""
-        },
-        {
-          "id": "https://www.skyue.com/25102713.html",
-          "author": "拾月",
-          "description": "本文为装修系列第3篇。前情提要：装修日记（1）：各种准备工作装修日记（2）：硬装软装主要就是买东西，涉及家具、家电和装饰等。趁着双十一，我们买了：",
-          "link": "https://www.skyue.com/25102713.html",
-          "publishedOn": "2025-10-27T05:03:00.000Z",
-          "wordCount": 572,
-          "title": "装修日记（3）：软装",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://www.skyue.com/25102621.html",
-          "author": "拾月",
-          "description": "今天下午到杭钢公园玩，坐在咖啡馆写博客，临回家前拍了几张照片。",
-          "link": "https://www.skyue.com/25102621.html",
-          "publishedOn": "2025-10-26T13:42:00.000Z",
-          "wordCount": 546,
-          "title": "大运河杭钢公园",
-          "imageUrl": ""
         }
       ]
     },
@@ -3347,21 +3357,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bluehe.cn/usr/uploads/2025/11/CRnall_20251018_144842828.webp"
-        },
-        {
-          "id": "https://bluehe.cn/archives/huahui-garden",
-          "author": "寻鹤",
-          "description": "2025年10月19日，星期天，天气阴，出门时感觉有雨滴到头上，但也骑着电单车出门打卡公园，南宁花卉公园内的幽兰苑是一处仿江南传统园林风格建筑群，这是我此行的目的地。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n园内驻扎着许多摄影师，帮着许多人穿着古风衣服的女子拍照，也会碰到拍Vlog的，这就使得一些地方我都没有走进拍照的欲望。\n\n\n\n\n\n\n\n为什么叫花卉呢？因为从园区正门进来，就是一大片的花卉科普展示，还有花卉...",
-          "link": "https://bluehe.cn/archives/huahui-garden",
-          "publishedOn": "2025-10-25T12:17:00.000Z",
-          "wordCount": 573,
-          "title": "藏在花卉公园里",
-          "enclosure": {
-            "url": "https://bluehe.cn/usr/uploads/2025/10/img_20251019_160048473.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bluehe.cn/usr/uploads/2025/10/img_20251019_160048473.webp"
         }
       ]
     },
@@ -3376,6 +3371,26 @@
       "feedUrl": "https://blognas.hwb0307.com/feed",
       "siteUrl": "https://blognas.hwb0307.com/",
       "articles": [
+        {
+          "id": "https://blognas.hwb0307.com/other/6970",
+          "author": "Bensz",
+          "description": "Bensz\nAI入门系列 如何使用大语言模型？\n本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 Chatbot 是使用 LLM 最常见、最原始的方式，除了官方 App 和网站，像 LobeChat 这类基于 API 的第三方应用也是个不错的选择 国产 AI 大模型已崛起，文心一言、通义千问、智谱清言、Kimi、DeepSeek 等产品在访问便利性、价格优势、本土化适配方面具有独特价值 Chatbot 交互模式存在明显局限性：上下文窗口有限、无法执行复杂任务、缺乏与工作流和本地文件的深度集成 Vibe Coding 正成为下一代 LLM 产品形态，生态快速发展，是未来趋势——它是对人类用户友好的 Agent 形态，能与现代个人计算机良好协作。里程碑进展包括 Cursor（AI 原生编 […]\nBensz",
+          "link": "https://blognas.hwb0307.com/ai/6970",
+          "publishedOn": "2026-01-24T13:46:49.000Z",
+          "wordCount": 5543,
+          "title": "AI入门系列 如何使用大语言模型？",
+          "imageUrl": "https://blognas.hwb0307.com/wp-content/uploads/zzmx-169-scaled.jpg"
+        },
+        {
+          "id": "https://blognas.hwb0307.com/other/6965",
+          "author": "Bensz",
+          "description": "Bensz\nAI入门系列 介绍大语言模型\n本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 1940s-1980s 的奠基性工作为神经网络奠定基础：感知机开创连接主义、反向传播解决多层训练、CNN 提出局部连接、Hopfield 网络融合物理学思想 大语言模型发展经历了从统计模型到神经网络的演变，最终在 2017 年 Transformer 架构诞生后迎来爆发 GPT 系列模型的迭代史展现了语言模型从理解到生成的能力跃迁 2023-2024 年是多模态与智能体爆发期，Claude、GPT-4 等模型展现了强大推理能力 2025-2026 年，Vibe Coding、Agent Skills、Claude Cowork 等新范式正在重塑人机协作模式 MCP（Model Conte […]\nBensz",
+          "link": "https://blognas.hwb0307.com/ai/6965",
+          "publishedOn": "2026-01-24T05:40:56.000Z",
+          "wordCount": null,
+          "title": "AI入门系列 介绍大语言模型",
+          "imageUrl": null
+        },
         {
           "id": "https://blognas.hwb0307.com/other/6954",
           "author": "Bensz",
@@ -3731,6 +3746,16 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=22730",
+          "author": "xiaoz",
+          "description": "2017年，xiaoz在 GitHub 上开源了用 PHP 写的免费图床程序 ImgURL，2019年又推出了功能更强的付费版 ImgURL Pro。这八年多来，它陪不少朋友搭起了自己的图床服务，但随着需求变复杂、图片量暴涨，老架构渐渐力不从心。于是，我们在 2026 年 1 月彻底重写了整个系统—",
+          "link": "https://blog.xiaoz.org/archives/22730",
+          "publishedOn": "2026-01-23T05:28:27.000Z",
+          "wordCount": 295,
+          "title": "告别老旧图床！ImgURL Pro 全面重构，Zpic 正式发布，早鸟享半价优惠",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=22666",
           "author": "xiaoz",
@@ -4097,6 +4122,51 @@
       "feedUrl": "https://jia.je/feed.xml",
       "siteUrl": "https://jia.je/",
       "articles": [
+        {
+          "id": "https://jia.je/devops/2026/01/21/soft-raid-recovery/",
+          "author": null,
+          "description": "记一次软 RAID1 坏盘的恢复过程¶\n 背景¶\n 最近遇到一个运维场景，两个 SATA 盘组了一个 RAID1，Linux 的根系统也在上面，启动时能进内核，但是内核一直在报错 link is too slow to respond, please be patient 以及 COMRESET failed (errno=-16)。下面记录一下故障排查以及恢复的过程。\n  \n恢复过程¶\n 考虑到 Linux 系统也在 RAID1 上面，所以找了另一台机器，接上两个 SATA 盘，然后观察到，其中一个盘直接无法识别，另一个盘可以正常访问，但它分区表里只有一个分区，参与到了 md 组的 RAID1 当中。遇到盘坏了又是 RAID，第一反应是买一个新盘，然后重建 RAID。但是一通询价，发现最近硬盘价格涨的比较多，所以先尝试如何单盘启动。由于是 UEFI 启动，推测 ESP 在已经坏的那个盘上面，好的盘上并没有 ESP，但它唯一的分区已经占满了整个空间，所以第一步是对 RAID 分区缩容，这就需要：\n  \n首先用 fsck -f /dev/md0 && resize2fs /dev/md0 newsize 对根分区进行缩容\n 用 mdadm --grow --size=newsize /dev/md0 对 RAID 进行缩容\n 停止 RAID：mdadm --stop /dev/md0\n 重新分区，缩小 RAID 分区大小：cfdisk /dev/sda\n 重新启动 RAID，更新 device size：mdadm --assemble --update=devicesize /dev/md0 /dev/sda1\n  \n这些步骤完成以后，就可以在空余的空间里建 ESP 分区了：建分区，mkfs.vfat，挂载到 /mnt/boot/efi（假设 /dev/sda1 已经挂载到了 /mnt），接着 arch-chroot /mnt（或者手抄 Archlinux Wiki），进去 grub-install，修改 /etc/fstab，重新 update-grub。\n 这个过程中，踩了一些小坑，比如：\n  \n重启以后直接进 grub shell，没有菜单显示出来，后来发现是 UEFI 启动项里有之前的旧残留，导致 grub 没有能够正确加载 ESP 里面的 grub.cfg，如果在 grub shell 里手动 source 一下是正常的\n 如果不更新 device size，那么 assemble 的时候会说 does not have a valid v1.2 superblock 报错，实际上就是它记录了旧的分区大小，和新的分区大小不匹配，此时要强制修改它\n 最后买了个新盘，但是不够大：960GB vs 1TB，导致如果要重组 RAID1 还得再缩小一次已有的 RAID1 分区，之前缩小的时候只给 ESP 预留了足够的空间，但分区还不够小到能够在新盘里建一个相同大小的分区",
+          "link": "https://jia.je/devops/2026/01/21/soft-raid-recovery/",
+          "publishedOn": "2026-01-21T00:00:00.000Z",
+          "wordCount": 308,
+          "title": "记一次软 RAID1 坏盘的恢复过程",
+          "enclosure": {
+            "url": "https://jia.je/assets/images/social/devops/2026/01/21/soft-raid-recovery.png",
+            "type": "image/png",
+            "length": "55090"
+          },
+          "imageUrl": "https://jia.je/assets/images/social/devops/2026/01/21/soft-raid-recovery.png"
+        },
+        {
+          "id": "https://jia.je/hardware/2026/01/17/ibm-power9/",
+          "author": null,
+          "description": "IBM POWER9 微架构评测¶\n 背景¶\n 继 IBM POWER8 之后，也来评测一下后续的 IBM POWER9 微架构。IBM POWER9 有 SMT4 和 SMT8 两种版本，我只有 SMT4 版本的测试环境，下列所有评测都是针对 SMT4 版本进行测试。\n  \n官方信息¶\n IBM 关于 POWER9 微架构有如下公开信息：\n  \nIBM POWER9 processor core\n IBM Power9 Processor Architecture\n  \n下面分各个模块分别记录官方提供的信息，以及实测的结果。官方信息与实测结果一致的数据会加粗。\n Benchmark¶\n IBM POWER9 的性能测试结果见 SPEC。\n 前端¶\n L1 ICache¶\n 官方信息：32KB(SMT4)/64KB(split into 2 regions, SMT8)\n 为了测试 L1 ICache 容量，构造一个具有巨大指令 footprint 的循环，由大量的 nop 和最后的分支指令组成。观察在不同 footprint 大小下的 IPC：\n \n 测试环境是 SMT4 Core，所以只有 32KB 的容量。超出 L1 ICache 容量后，IPC 从 6 降低到了 4.7。\n 测试过程详见测试代码。\n 取指带宽¶\n 官方信息：32 bytes/cycle\n 为了测试实际的 Fetch 宽度，参考 如何测量真正的取指带宽（I-fetch width） - JamesAslan 构造了测试。\n 其原理是当 Fetch 要跨页的时候，由于两个相邻页可能映射到不同的物理地址，如果要支持单周期跨页取指，需要查询两次 ITLB，或者 ITLB 需要把相邻两个页的映射存在一起。这个场景一般比较少，处理器很少会针对这种特殊情况做优化，但也不是没有。经过测试，把循环放在两个页的边界上，…",
+          "link": "https://jia.je/hardware/2026/01/17/ibm-power9/",
+          "publishedOn": "2026-01-17T00:00:00.000Z",
+          "wordCount": 541,
+          "title": "IBM POWER9 微架构评测",
+          "enclosure": {
+            "url": "https://jia.je/assets/images/social/hardware/2026/01/17/ibm-power9.png",
+            "type": "image/png",
+            "length": "50226"
+          },
+          "imageUrl": "https://jia.je/assets/images/social/hardware/2026/01/17/ibm-power9.png"
+        },
+        {
+          "id": "https://jia.je/hardware/2026/01/15/ibm-power8/",
+          "author": null,
+          "description": "IBM POWER8 微架构评测¶\n 背景¶\n 之前评测了很多 AMD64 和 ARM64 指令集的处理器，这次也来评测一下 PPC64LE 指令集的 IBM POWER8 微架构。\n  \n官方信息¶\n IBM 关于 POWER8 微架构有如下公开信息：\n  \nIBM POWER8 processor core microarchitecture\n  \n下面分各个模块分别记录官方提供的信息，以及实测的结果。官方信息与实测结果一致的数据会加粗。\n Benchmark¶\n IBM POWER8 的性能测试结果见 SPEC。\n 前端¶\n L1 ICache¶\n 官方信息：32 KB, 8-way set associative\n 为了测试 L1 ICache 容量，构造一个具有巨大指令 footprint 的循环，由大量的 nop 和最后的分支指令组成。观察在不同 footprint 大小下的 IPC：\n \n 超出 L1 ICache 容量后，IPC 从 6 降低到了 2.4。其中 6 IPC 来自于，IBM POWER8 在 ST 模式下每周期可以发射 8 条指令，但其中分支指令最多两条，非分支指令最多六条，所以执行 NOP 指令的 IPC 只能达到 6。\n 测试过程详见测试代码。\n L1 ITLB (aka Instruction Effective to Real Address translation Table, IERAT)¶\n 官方信息：64-entry, fully associative\n 为了测试 L1 ITLB 的容量，构造 b 序列，每个 b 在一个单独的页（64KB 的页大小）中，观察 b 的性能：\n \n 可以看到明显的 64 pages 的拐点，对应了 64 entry 的 L1 ITLB。\n 测试过程详见测试代码。\n BTB (Branch Targ…",
+          "link": "https://jia.je/hardware/2026/01/15/ibm-power8/",
+          "publishedOn": "2026-01-15T00:00:00.000Z",
+          "wordCount": 986,
+          "title": "IBM POWER8 微架构评测",
+          "enclosure": {
+            "url": "https://jia.je/assets/images/social/hardware/2026/01/15/ibm-power8.png",
+            "type": "image/png",
+            "length": "50299"
+          },
+          "imageUrl": "https://jia.je/assets/images/social/hardware/2026/01/15/ibm-power8.png"
+        },
         {
           "id": "https://jia.je/software/2025/12/25/my-ai-usage-2025/",
           "author": null,
