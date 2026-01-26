@@ -86,6 +86,26 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
+          "id": "https://daverupert.com/2026/01/hitting-my-api-limits/",
+          "author": null,
+          "description": "I got a lot of ideas for side projects rattling around in the old tin can. As part of my “No new projects” initiative, I’m trying to jump on building prototypes so I can decide if I want to explore ideas more or call it quits. A handful of my ideas are riffs or twists on existing app categories:\nA tennis ranking app… but modern and performant\nA nearby historical marker app… but with CarPlay support\nA nearby real estate listing app… but with CarPlay support\nAll three of those have ended unceremoniously at the same dead end: no API access. USTA denied my application for tennis rankings. The aptly named Historical Marker Database site doesn’t have a public API. And you have to be an MLS® Realtor® or Broker to get access to the MLS® listings. Womp womp.\nScraping the data is always an option… b…",
+          "link": "https://daverupert.com/2026/01/hitting-my-api-limits/",
+          "publishedOn": "2026-01-26T06:27:00.000Z",
+          "wordCount": 1002,
+          "title": "I'm swearing off APIs entirely",
+          "imageUrl": null
+        },
+        {
+          "id": "https://daverupert.com/2026/01/waiting-for-the-power-to-go-out/",
+          "author": null,
+          "description": "It’s a secret to everyone! This post is for RSS subscribers only.\nRead more about RSS Club.\n\nIt’s expected to freeze this evening in Austin and we may even see snow, which is exciting and novel for us Texans. But as we’ve learned in 2021 and 2023, cold snaps can lead to disaster. In those years the ice dealt untold damages as foot-thick tree limbs fell from the canopy like enormous glass Cadillacs. The crackle, pop, followed by crystalline shatter in the cold dead air is a sound I won’t forget. With the falling trees came down power lines and the lights went out.\nIt got worse. The disconnected Texas power grid failed. As homes and empty office buildings required more heating in the “extreme” cold, the rolling blackouts began to shed load. Except… they didn’t roll. Homes next to facilities …",
+          "link": "https://daverupert.com/2026/01/waiting-for-the-power-to-go-out/",
+          "publishedOn": "2026-01-24T21:44:00.000Z",
+          "wordCount": null,
+          "title": "Waiting for the power to go out",
+          "imageUrl": null
+        },
+        {
           "id": "https://daverupert.com/2026/01/my-2026-redesign/",
           "author": null,
           "description": "You might have noticed that I did a big design refresh on my entire site… unless you’re on RSS I guess. I’ll talk about aspects in detail, but at a high level there’s been three big changes:\nA monospace font\nNamed CSS grid lines\nJuicier multi-page view transitions\nBut my most favorite part is that today  (when you set html { --hue-rotate: 15 }), my light theme looks like a stick of butter. And that brings me joy.\nWhat didn’t change\nBefore I talk about what changed, here’s a quick list of the parts of my site that didn’t change:\nSame big “Dave” SVG on the homepage\nSame information architecture, no radical content changes.\nNo new assets, same visuals.\nSame hue-rotating background, although I did simplify the formula.\nSame inverse text-sizing for H1s\nSame support for art-directed posts\nWhy ch…",
@@ -868,16 +888,6 @@
           "wordCount": 531,
           "title": "一座大山",
           "imageUrl": null
-        },
-        {
-          "id": "https://nops.icu/archives/227/",
-          "author": "季兴",
-          "description": "突然在阿里云控制台上看到，可以设置cname的权重，印象里只有mx记录有优先级！特意去查了DNS规范，确实没有实践是检验真理的唯一标准，开干按标准dns协议，cname记录是没有“权重”、“优先...",
-          "link": "https://nops.icu/archives/227/",
-          "publishedOn": "2025-10-29T03:10:00.000Z",
-          "wordCount": 523,
-          "title": "什么？阿里云DNS提供cname权重啦？",
-          "imageUrl": null
         }
       ]
     },
@@ -976,6 +986,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=308973",
+          "author": "Brandon Lee",
+          "description": "Since I have been playing around a LOT lately with Proxmox and software-defined storage, there was another configuration that I wanted to test in my Proxmox environment. That was LACP…\nThe post I Tried LACP in My Proxmox Home Lab and Here’s What Actually Happened appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/01/i-tried-lacp-in-my-proxmox-home-lab-and-heres-what-actually-happened/",
+          "publishedOn": "2026-01-26T13:08:12.000Z",
+          "wordCount": 11689,
+          "title": "I Tried LACP in My Proxmox Home Lab and Here’s What Actually Happened",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/proxmox-lacp-configuration.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=308942",
           "author": "Brandon Lee",
@@ -1675,26 +1695,6 @@
           "wordCount": 13097,
           "title": "Zorin OS Is the Best Linux Distro for Windows Users (and Perfect for Home Labs)",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/10/Zorin-OS-Best-Linux-Distro-for-Windows-users3.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=304190",
-          "author": "Brandon Lee",
-          "description": "GPUs are definitely no longer just for gamers or crypto miners. They are also now the essential hardware when it comes to AI, media encoding, and things like machine learning.…\nThe post How To Run GPU-Enabled Containers in Your Home Lab appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/10/how-to-run-gpu-enabled-containers-in-your-home-lab/",
-          "publishedOn": "2025-10-28T12:52:02.000Z",
-          "wordCount": 12930,
-          "title": "How To Run GPU-Enabled Containers in Your Home Lab",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/10/GPU-accelerated-containers.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=304181",
-          "author": "Brandon Lee",
-          "description": "Recently, you may have seen some automation I have been doing with AI to self-heal and correct things in the home lab. One of those workflows I have been using…\nThe post LogForge is the Must-Have Self-Hosted Docker Dashboard for Logs and Alerts appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/10/logforge-is-the-must-have-self-hosted-docker-dashboard-for-logs-and-alerts/",
-          "publishedOn": "2025-10-27T12:37:09.000Z",
-          "wordCount": 12718,
-          "title": "LogForge is the Must-Have Self-Hosted Docker Dashboard for Logs and Alerts",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/10/LogForge.png"
         }
       ]
     },
@@ -1703,6 +1703,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=71217",
+          "author": "Collabnix Team",
+          "description": "Master the AI Agent Learning Roadmap Today! A structured path to mastering AI agents in 2025 and beyond The AI landscape is rapidly evolving, and AI Agents have emerged as the next frontier beyond simple chatbots. Unlike traditional LLM applications that generate text responses, AI agents can reason, plan, use tools, and autonomously execute complex […]",
+          "link": "https://collabnix.com/the-complete-ai-agent-learning-roadmap-from-zero-to-building-production-ready-agents/",
+          "publishedOn": "2026-01-26T01:00:17.000Z",
+          "wordCount": 16600,
+          "title": "The Complete AI Agent Learning Roadmap: From Zero to Building Production-Ready Agents",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=71215",
+          "author": "Collabnix Team",
+          "description": "Exploring Clawdbot: Your Self-Hosted AI Assistant Building your own multi-channel AI assistant with local-first control The era of personal AI assistants has arrived, but most solutions require surrendering your data to cloud providers. Clawdbot challenges this paradigm by offering a self-hosted, open-source personal AI assistant that runs entirely on your infrastructure while seamlessly integrating with […]",
+          "link": "https://collabnix.com/what-is-clawdbot-and-why-is-it-getting-popular/",
+          "publishedOn": "2026-01-26T00:42:09.000Z",
+          "wordCount": null,
+          "title": "What is Clawdbot and why is it getting popular?",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=71154",
           "author": "Tanvir Kour",
@@ -2912,26 +2932,6 @@
           "wordCount": 4487,
           "title": "Claude Skills: The Complete Guide to Extending AI Capabilities (2025)",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=58168",
-          "author": "Tanvir Kour",
-          "description": "When testing trading algorithms, jumping straight into live markets is risky. AI trading sandboxes provide a controlled environment to explore strategies without real financial consequences. These spaces offer a glimpse into market behavior, helping traders experiment and refine their tools safely. So, what makes these environments so helpful, and what other advantages do they offer? […]",
-          "link": "https://collabnix.com/what-is-an-ai-trading-sandbox/",
-          "publishedOn": "2025-10-28T16:56:15.000Z",
-          "wordCount": 2492,
-          "title": "What Is an AI Trading Sandbox?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=58042",
-          "author": "Tanvir Kour",
-          "description": "The power of a well-designed postcard lies in its ability to grab attention in a world saturated with digital noise. For real estate agents, postcards remain a timeless tool for connecting with potential clients and fostering lasting relationships. They are tangible and personal and, when crafted thoughtfully, lead to practical results. Whether introducing a new […]",
-          "link": "https://collabnix.com/10-must-try-real-estate-marketing-postcards-to-boost-your-client-reach/",
-          "publishedOn": "2025-10-27T16:48:51.000Z",
-          "wordCount": 2856,
-          "title": "10 Must-Try Real Estate Marketing Postcards to Boost Your Client Reach",
-          "imageUrl": null
         }
       ]
     },
@@ -3509,6 +3509,16 @@
       "siteUrl": "https://4311346.com/",
       "articles": [
         {
+          "id": "https://4311346.com/post/2026/0125-accident.html",
+          "author": null,
+          "description": "2025年的01月过半，从武汉前往咸宁温泉，距离目的地酒店1公里处等红绿灯，后保险杠被跑腿大姐的电动自行车追尾。下车查看问题不大，也无人员受伤，大姐自己说她全责，骑车看手机去了… 但恳求让她先去送货，待会再来处理事故。\n第一想法是大姐想跑，要求拍摄了大姐的身份证信息及电动车车牌，同时打电话122及人保95518报案时，朱大姐说了句赶紧送完这一单，再回来处理，该怎么赔就怎么赔…然后大姐就骑电动自行车离开事故现场。\n毕竟已经拍了身份证及电动车车牌号，也不担心她肇事逃逸把。只是咸宁当地不管是122还是保险公司出险比起武汉都慢了很多。15分钟后，朱大姐骑车回到事故现场后，交警122还没赶到。\n\n随后交警定责，朱大姐骑电动车行驶在机动车道，并看手机导致追尾全责。仔细检查过车辆后保险杠，车漆没事，车衣在接缝处有挤压痕迹，几个针眼大的褶皱，问了下贴膜店家，更换整个后保险杠车衣1000元。但此时朱大姐开始耍无奈，说没钱，只愿意赔偿200元…然后开始哭泣，装穷…\n朱大姐1974年01月生，今年52岁，咸宁市咸安区浮山人，但面对这种无赖，计划启用保险公司代位追偿，但人保客服95518明确说明，仅车衣损坏无法启用代位追偿服务，除非产生车身损坏后，维修+车衣可以一起启用代位追偿。也就是说，仅是后加装的任何附件，是无法单独启用代位追偿的…而上一次发生在2024年的04月的沃尔沃的交通事故，对方保险公司一样赔偿了车衣。\n此时的122交警开始催促是否私了，不然就开具大姐全责的事故认定书了。交警也不断的告知大姐，责任认定书开具后，就是对方保险公司或法院找你赔偿了，这么耍无赖是没有用的… 其实自己也比较郁闷，因为车身并没有任何划痕与损伤，仅车衣接缝处0.5cm的挤压痕迹，贴膜店家更不建议单独去维修和更换，拿钱就行。\n最后在交警的协助下，大姐愿意赔偿700元私聊这起交通事故。大姐的支付宝花呗分4次150元+1次100元转账。\n\n返回武汉后去了贴膜店，小哥免费帮忙处理车衣上的黑色印记，已全部还原…\n自此~事故处理完毕。\n回想一个月前 VOLOV S60 第四年保险，从未出险的情况下，3881元的保险费用不低，当是因为长期存放地库，所以那一次对于车损险 1760.40元的费用还比较纠结… 所以有时候花钱，也都是买个平安。\n人生没有如果，来日并不方长，明天和意外，我们永远都不知道哪一个更先到来，所以，在不确定的日子里，好好珍惜每一个当下。",
+          "link": "https://4311346.com/post/2026/0125-accident.html",
+          "publishedOn": "2026-01-25T15:55:53.000Z",
+          "wordCount": null,
+          "title": "人保车险代位追偿不赔偿车衣破损",
+          "imageUrl": null
+        },
+        {
           "id": "https://4311346.com/post/2026/0103-change.html",
           "author": null,
           "description": "这是一篇库存文章，发布的时候，时间却已跨年了，也就做为2026年的第一篇文章把。回顾整个2025年，这一年码了7万9千字，共发布文章28篇，拥有660条评论，文章数量同比下降了42%，居然少了这么多，说明闲暇的时间越来越少，能真正静下来思考的时间，也越来越少。曾是一名重度的电脑使用者，然而这两年的使用量却越来越少，很多时候发现一天忙下来，电脑都没开过机。\n2026没什么大的目标，只希望身体能做一个大的调整，这个年龄再不注意，未来的麻烦都会很大。\n2025年末结束前的一周特别的忙，几个晚上都是加班到凌晨03点多才洗漱睡觉，早上07点又出门上班。每天靠的都是咖啡红牛东鹏等等而坚持…  真的好想要踏踏实实的睡上一整天，但随之而来的任务，又一件件的猝然而至。\n很多人认为这些事情没有意义，想都能想得到大概率是个不好的答案… 而身为总监却得去想办法去证明老板的决策是对的。但实际操作起来，更难受的事情，是一些人表里不如一的各种坑。\n难以重建被摧毁的信任\n金牛座通常被认为不是一个容易“记仇”的星座，不喜欢耗费能量在纠缠上，所以会选择默默退出这些交集，切断没必要的联系，用距离表达态度\n金牛座的“记仇”更像一种持久性的失望记录，而非主动谋划报复。会用沉默和距离保护自己的稳定生活，一旦认定关系无法修复，便会彻底退出。与其说记仇，不如说是难以重建被摧毁的信任。\n这是职场，不是电视剧包青天\n这是电视剧《理想之城》中，董事长赵显坤对着苏筱说的一段话。\n然后现实中，时常在我们身边抱怨的不公，其实时时、处处都在发生。面对不公，似乎抱怨就变成了唯一的应对策略。久而久之，抱怨声越来越多，反而让我们真的相信这些抱怨的内容就是真实的结果。\n我们深信职场的不公、深信社会的不平，从未想过要如何应对，也从未意识到其实不公的背后还有一种可以通过自己的努力去创造的相对公平，只得以最没有力量的抱怨来面对。\n一天往返武汉-长沙\n沃尔沃S60三年质保到期前的各项检查后的第一个周末就跑了一趟长沙，往返730公里，算得上是2025年的最后一次长途了。要吐槽的是支付宝在线免费办理的ETC，有时候并不是很灵敏，过高速收费口ETC专用车道，稍微快一点，就不识别~\n因为本身就很累，所以领航辅助驾驶几乎覆盖了大半的行程。做为一名老司机基本上全程犯困眼皮打架…事后想想真的是太危险了。\n万幸的是22点前安全返回武汉，再扛了三天，就是元旦假期，终于能好好休息。\n可是元旦却过得太快\n跨年夜的雨阻止了同学之间的烧烤聚餐，都是各回各家…次日武汉的商场里全是人，武商梦时代，停车到了负三层…汉阳永旺，停车到了6层，大把的时间花费在了进出停车场。同事的留言和电话，被迫在假期间营业加班…罗振宇的跨年演讲还不知道什么时候可以专门的回放下。\n2026年新年愿望\n改变… 期待2026年末~",
@@ -3680,16 +3690,6 @@
           "publishedOn": "2025-11-02T16:00:00.000Z",
           "wordCount": 477,
           "title": "脑力不足",
-          "imageUrl": "https://cdn.dusays.com/avatar.png"
-        },
-        {
-          "id": "https://dusays.com/834/",
-          "author": null,
-          "description": "<blockquote>\n<p>找到一个安全、便捷且资源丰富且下载速度较快的操作系统 ISO 文件下载平台显得尤为重要。很多小伙伴习惯使用 MSDN，但又不喜欢其登录机制，这里杜老师推荐 OS.click，一款专注于为用户提供实用、高效的系统下载服务的网站。</p>\n</blockquote>",
-          "link": "https://dusays.com/834/",
-          "publishedOn": "2025-10-27T16:00:00.000Z",
-          "wordCount": 547,
-          "title": "一站式操作系统 ISO 下载平台",
           "imageUrl": "https://cdn.dusays.com/avatar.png"
         }
       ]
@@ -3966,6 +3966,16 @@
       "feedUrl": "https://www.ssgeek.com/atom.xml",
       "siteUrl": "https://www.ssgeek.com/",
       "articles": [
+        {
+          "id": "https://www.ssgeek.com/blog/wo-de-2024-2025",
+          "author": null,
+          "description": "2024-2025年度总结",
+          "link": "https://www.ssgeek.com/blog/wo-de-2024-2025",
+          "publishedOn": "2026-01-25T00:00:00.000Z",
+          "wordCount": null,
+          "title": "我的2024-2025",
+          "imageUrl": null
+        },
         {
           "id": "https://www.ssgeek.com/blog/personal-pension-annual-yield-calculation",
           "author": null,
