@@ -997,6 +997,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=309032",
+          "author": "Brandon Lee",
+          "description": "I recently had a comment on a blog post that stopped me in my tracks. It was a comment from a reader that made me stop and think about the…\nThe post Are Home Labs Dead in 2026? The Comment That Forced Me to Rethink Everything appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/01/are-home-labs-dead-in-2026-the-comment-that-forced-me-to-rethink-everything/",
+          "publishedOn": "2026-01-28T13:20:09.000Z",
+          "wordCount": 11973,
+          "title": "Are Home Labs Dead in 2026? The Comment That Forced Me to Rethink Everything",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/Is-Home-Lab-dead-in-2026-2.png"
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=308997",
           "author": "Brandon Lee",
           "description": "Monitoring your home lab environment running Proxmox is something that all of us should do. Monitoring is not the most thrilling aspect of any home lab, but it is extremely…\nThe post Monitor Your Proxmox Home Lab Like a Boss: The Monitoring Stack I Actually Use appeared first on Virtualization Howto.",
@@ -2930,6 +2940,16 @@
       "feedUrl": "https://limboy.me/index.xml",
       "siteUrl": "https://limboy.me/",
       "articles": [
+        {
+          "id": "https://limboy.me/posts/my-notes-system",
+          "author": null,
+          "description": "在 AI 时代，还有必要记笔记吗？有，非常有。",
+          "link": "https://limboy.me/posts/my-notes-system",
+          "publishedOn": "2026-01-28T00:00:00.000Z",
+          "wordCount": null,
+          "title": "我的笔记系统",
+          "imageUrl": null
+        },
         {
           "id": "https://limboy.me/posts/culinary-class-wars",
           "author": null,
@@ -6979,56 +6999,6 @@
           "wordCount": 2169,
           "title": "idootop/MagicMirror: 即时 AI 换脸一键 AI 换脸，发现更美的你。",
           "imageUrl": "https://repository-images.githubusercontent.com/886749252/626c498d-8068-4fbc-8d7f-eebfe4ac4e52"
-        },
-        {
-          "id": "https://github.com/whatsdiff/whatsdiff",
-          "author": null,
-          "description": "CLI tool to see what has changed in your project's dependencies - whatsdiff/whatsdiff",
-          "link": "https://github.com/whatsdiff/whatsdiff",
-          "publishedOn": "2025-10-31T08:00:00.000Z",
-          "wordCount": 3450,
-          "title": "whatsdiff/whatsdiff: What's diff 是一款 CLI 工具，可以帮助你检查 composer 更新或 npm 更新后依赖项中发生了哪些变化。",
-          "imageUrl": "https://repository-images.githubusercontent.com/854155706/623e0874-fa5b-447e-ae47-b682f7fd0029"
-        },
-        {
-          "id": "BYOK)。](https://github.com/Macaify/MacaifyApp",
-          "author": null,
-          "description": "",
-          "link": "https://raw.githubusercontent.com/guanguans/favorite-link/master/BYOK)%E3%80%82](https://github.com/Macaify/MacaifyApp",
-          "publishedOn": "2025-10-30T16:00:00.000Z",
-          "wordCount": null,
-          "title": "Macaify/MacaifyApp: Macaify 是一款专注于保持您工作流的原生 macOS AI 应用：在任何应用中选择文本，按下快捷键，即可在原地完成翻译、重写、润色或摘要。它还提供完整的聊天模式和快速模型切换。使用内置账户模型或您自己的 API 密钥 (BYOK)。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/s1ntoneli/AppUpdater",
-          "author": null,
-          "description": "A simple app-updater for macOS, checks your GitHub releases for a binary asset and silently updates your app. - s1ntoneli/AppUpdater",
-          "link": "https://github.com/s1ntoneli/AppUpdater",
-          "publishedOn": "2025-10-30T08:00:00.000Z",
-          "wordCount": 4842,
-          "title": "s1ntoneli/AppUpdater: MacOS 的一个简单的应用程序更新程序，检查您的 GitHub 发布的二进制资产，并静默更新您的应用程序。",
-          "imageUrl": "https://opengraph.githubassets.com/f0da0334ce1317136f50ba245721fa7a0765421c73fc9702d0c4d0b3cbd8f979/s1ntoneli/AppUpdater"
-        },
-        {
-          "id": "FlowDown) 是一款为 Apple 平台精心打造的原生 AI 对话客户端，追求极致的速度与流畅体验，并始终将你的隐私放在首位。无论是在 iPhone、iPad 还是 Mac 上，浮望都能为你提供与 AI 模型交互的绝佳体验。](https://github.com/Lakr233/FlowDown",
-          "author": null,
-          "description": "",
-          "link": "https://raw.githubusercontent.com/guanguans/favorite-link/master/FlowDown)%20%E6%98%AF%E4%B8%80%E6%AC%BE%E4%B8%BA%20Apple%20%E5%B9%B3%E5%8F%B0%E7%B2%BE%E5%BF%83%E6%89%93%E9%80%A0%E7%9A%84%E5%8E%9F%E7%94%9F%20AI%20%E5%AF%B9%E8%AF%9D%E5%AE%A2%E6%88%B7%E7%AB%AF%EF%BC%8C%E8%BF%BD%E6%B1%82%E6%9E%81%E8%87%B4%E7%9A%84%E9%80%9F%E5%BA%A6%E4%B8%8E%E6%B5%81%E7%95%85%E4%BD%93%E9%AA%8C%EF%BC%8C%E5%B9%B6%E5%A7%8B%E7%BB%88%E5%B0%86%E4%BD%A0%E7%9A%84%E9%9A%90%E7%A7%81%E6%94%BE%E5%9C%A8%E9%A6%96%E4%BD%8D%E3%80%82%E6%97%A0%E8%AE%BA%E6%98%AF%E5%9C%A8%20iPhone%E3%80%81iPad%20%E8%BF%98%E6%98%AF%20Mac%20%E4%B8%8A%EF%BC%8C%E6%B5%AE%E6%9C%9B%E9%83%BD%E8%83%BD%E4%B8%BA%E4%BD%A0%E6%8F%90%E4%BE%9B%E4%B8%8E%20AI%20%E6%A8%A1%E5%9E%8B%E4%BA%A4%E4%BA%92%E7%9A%84%E7%BB%9D%E4%BD%B3%E4%BD%93%E9%AA%8C%E3%80%82](https://github.com/Lakr233/FlowDown",
-          "publishedOn": "2025-10-30T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Lakr233/FlowDown: 浮望 (FlowDown) 是一款为 Apple 平台精心打造的原生 AI 对话客户端，追求极致的速度与流畅体验，并始终将你的隐私放在首位。无论是在 iPhone、iPad 还是 Mac 上，浮望都能为你提供与 AI 模型交互的绝佳体验。",
-          "imageUrl": null
-        },
-        {
-          "id": "https://github.com/oiwn/tarts",
-          "author": null,
-          "description": "Screen savers and visual effects for your terminal! - oiwn/tarts",
-          "link": "https://github.com/oiwn/tarts",
-          "publishedOn": "2025-10-29T16:00:00.000Z",
-          "wordCount": 3004,
-          "title": "oiwn/tarts: 为您的终端提供屏幕保护程序和视觉效果！",
-          "imageUrl": "https://opengraph.githubassets.com/95c6108c82b5bfbbaeccbff37b37181f8a8211b99a0a2e515a86d9bba01e56c6/oiwn/tarts"
         }
       ]
     },

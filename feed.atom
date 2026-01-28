@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-01-28T01:57:02.101Z</updated>
+    <updated>2026-01-28T21:52:59.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Are Home Labs Dead in 2026? The Comment That Forced Me to Rethink Everything]]></title>
+        <id>https://www.virtualizationhowto.com/?p=309032</id>
+        <link href="https://www.virtualizationhowto.com/2026/01/are-home-labs-dead-in-2026-the-comment-that-forced-me-to-rethink-everything/"/>
+        <updated>2026-01-28T13:20:09.000Z</updated>
+        <summary type="html"><![CDATA[I recently had a comment on a blog post that stopped me in my tracks. It was a comment from a reader that made me stop and think about the…
+The post Are Home Labs Dead in 2026? The Comment That Forced Me to Rethink Everything appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的笔记系统]]></title>
+        <id>https://limboy.me/posts/my-notes-system</id>
+        <link href="https://limboy.me/posts/my-notes-system"/>
+        <updated>2026-01-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在 AI 时代，还有必要记笔记吗？有，非常有。]]></summary>
+        <author>
+            <name>Limboy's Essays</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Monitor Your Proxmox Home Lab Like a Boss: The Monitoring Stack I Actually Use]]></title>
         <id>https://www.virtualizationhowto.com/?p=308997</id>
@@ -6669,16 +6690,6 @@ The post Best Home Lab Tools You’re Crazy Not to Use in 2025 appeared first on
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[whatsdiff/whatsdiff: What's diff 是一款 CLI 工具，可以帮助你检查 composer 更新或 npm 更新后依赖项中发生了哪些变化。]]></title>
-        <id>https://github.com/whatsdiff/whatsdiff</id>
-        <link href="https://github.com/whatsdiff/whatsdiff"/>
-        <updated>2025-10-31T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[CLI tool to see what has changed in your project's dependencies - whatsdiff/whatsdiff]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[为什么在广东“混”了18年，还不会讲粤语？]]></title>
         <id>https://lawtee.com/article/speak-yueyu/</id>
         <link href="https://lawtee.com/article/speak-yueyu/"/>
@@ -6686,44 +6697,6 @@ The post Best Home Lab Tools You’re Crazy Not to Use in 2025 appeared first on
         <summary type="html"><![CDATA[昨天接小孩放学回家路上，女儿问了我一个灵魂问题，为什么我们家都在说普通话？是啊，老T全家人都来自湖南同一个县，但自从到了广东，都自觉说上了普通话，特别是老T自己，来广东18年，也整整说了18年普通话，总感觉哪里怪怪的。]]></summary>
         <author>
             <name>mail@hyruo.com (lawtee)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Macaify/MacaifyApp: Macaify 是一款专注于保持您工作流的原生 macOS AI 应用：在任何应用中选择文本，按下快捷键，即可在原地完成翻译、重写、润色或摘要。它还提供完整的聊天模式和快速模型切换。使用内置账户模型或您自己的 API 密钥 (BYOK)。]]></title>
-        <id>BYOK)。](https://github.com/Macaify/MacaifyApp</id>
-        <link href="https://raw.githubusercontent.com/guanguans/favorite-link/master/BYOK)%E3%80%82](https://github.com/Macaify/MacaifyApp"/>
-        <updated>2025-10-30T16:00:00.000Z</updated>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[s1ntoneli/AppUpdater: MacOS 的一个简单的应用程序更新程序，检查您的 GitHub 发布的二进制资产，并静默更新您的应用程序。]]></title>
-        <id>https://github.com/s1ntoneli/AppUpdater</id>
-        <link href="https://github.com/s1ntoneli/AppUpdater"/>
-        <updated>2025-10-30T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A simple app-updater for macOS, checks your GitHub releases for a binary asset and silently updates your app. - s1ntoneli/AppUpdater]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lakr233/FlowDown: 浮望 (FlowDown) 是一款为 Apple 平台精心打造的原生 AI 对话客户端，追求极致的速度与流畅体验，并始终将你的隐私放在首位。无论是在 iPhone、iPad 还是 Mac 上，浮望都能为你提供与 AI 模型交互的绝佳体验。]]></title>
-        <id>FlowDown) 是一款为 Apple 平台精心打造的原生 AI 对话客户端，追求极致的速度与流畅体验，并始终将你的隐私放在首位。无论是在 iPhone、iPad 还是 Mac 上，浮望都能为你提供与 AI 模型交互的绝佳体验。](https://github.com/Lakr233/FlowDown</id>
-        <link href="https://raw.githubusercontent.com/guanguans/favorite-link/master/FlowDown)%20%E6%98%AF%E4%B8%80%E6%AC%BE%E4%B8%BA%20Apple%20%E5%B9%B3%E5%8F%B0%E7%B2%BE%E5%BF%83%E6%89%93%E9%80%A0%E7%9A%84%E5%8E%9F%E7%94%9F%20AI%20%E5%AF%B9%E8%AF%9D%E5%AE%A2%E6%88%B7%E7%AB%AF%EF%BC%8C%E8%BF%BD%E6%B1%82%E6%9E%81%E8%87%B4%E7%9A%84%E9%80%9F%E5%BA%A6%E4%B8%8E%E6%B5%81%E7%95%85%E4%BD%93%E9%AA%8C%EF%BC%8C%E5%B9%B6%E5%A7%8B%E7%BB%88%E5%B0%86%E4%BD%A0%E7%9A%84%E9%9A%90%E7%A7%81%E6%94%BE%E5%9C%A8%E9%A6%96%E4%BD%8D%E3%80%82%E6%97%A0%E8%AE%BA%E6%98%AF%E5%9C%A8%20iPhone%E3%80%81iPad%20%E8%BF%98%E6%98%AF%20Mac%20%E4%B8%8A%EF%BC%8C%E6%B5%AE%E6%9C%9B%E9%83%BD%E8%83%BD%E4%B8%BA%E4%BD%A0%E6%8F%90%E4%BE%9B%E4%B8%8E%20AI%20%E6%A8%A1%E5%9E%8B%E4%BA%A4%E4%BA%92%E7%9A%84%E7%BB%9D%E4%BD%B3%E4%BD%93%E9%AA%8C%E3%80%82](https://github.com/Lakr233/FlowDown"/>
-        <updated>2025-10-30T00:00:00.000Z</updated>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[oiwn/tarts: 为您的终端提供屏幕保护程序和视觉效果！]]></title>
-        <id>https://github.com/oiwn/tarts</id>
-        <link href="https://github.com/oiwn/tarts"/>
-        <updated>2025-10-29T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Screen savers and visual effects for your terminal! - oiwn/tarts]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
