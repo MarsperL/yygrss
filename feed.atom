@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-01-27T02:03:04.332Z</updated>
+    <updated>2026-01-28T01:57:02.101Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Monitor Your Proxmox Home Lab Like a Boss: The Monitoring Stack I Actually Use]]></title>
+        <id>https://www.virtualizationhowto.com/?p=308997</id>
+        <link href="https://www.virtualizationhowto.com/2026/01/monitor-your-proxmox-home-lab-like-a-boss-the-monitoring-stack-i-actually-use/"/>
+        <updated>2026-01-27T13:27:26.000Z</updated>
+        <summary type="html"><![CDATA[Monitoring your home lab environment running Proxmox is something that all of us should do. Monitoring is not the most thrilling aspect of any home lab, but it is extremely…
+The post Monitor Your Proxmox Home Lab Like a Boss: The Monitoring Stack I Actually Use appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VIBE CODING最佳实践-20260127]]></title>
+        <id>https://nops.icu/archives/233/</id>
+        <link href="https://nops.icu/archives/233/"/>
+        <updated>2026-01-27T09:54:00.000Z</updated>
+        <summary type="html"><![CDATA[背景模型发展极其迅速，截止今天，此方法为目前能交付、前端好看、能完成稍复杂项目的0-1、重构、迭代。核心“快速实现脑中想法”，可以是原型图，可以是前端，更可以是完整POC整理了当前公司已购买资源...]]></summary>
+        <author>
+            <name>季兴</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Tried LACP in My Proxmox Home Lab and Here’s What Actually Happened]]></title>
         <id>https://www.virtualizationhowto.com/?p=308973</id>
@@ -623,6 +644,17 @@ The post I Tested Cosmos Server: Is This the Best Home Server OS Yet? appeared f
         <summary type="html"><![CDATA[中文博客琅琊榜，只收录精品独立博客. Contribute to qianguyihao/blog-list development by creating an account on GitHub.]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RouteOS IPv6 前缀替换]]></title>
+        <id>https://www.txisfine.cn/archives/1c129e28.html</id>
+        <link href="https://www.txisfine.cn/archives/1c129e28.html"/>
+        <updated>2026-01-15T15:44:44.000Z</updated>
+        <summary type="html"><![CDATA[<p>IPv6 在实践中多使用 GUA 地址。对于多运营商环境，我们一般不会为客户端分配多个运营商的 IPv6 地址，需要给用户分配一个相对固定的地址，并通过出口网关类设备来调度用户使用哪家运营商出网。</p>
+<p>在一些厂商中，这个功能被称为“前缀替换”，实际上这也是一种 N]]></summary>
+        <author>
+            <name>弹霄博科</name>
         </author>
     </entry>
     <entry>
@@ -1412,6 +1444,21 @@ Bensz]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[用 AI 给博客做一次「自动审稿」]]></title>
+        <id>https://www.txisfine.cn/archives/baa1c91e.html</id>
+        <link href="https://www.txisfine.cn/archives/baa1c91e.html"/>
+        <updated>2026-01-04T15:47:24.000Z</updated>
+        <summary type="html"><![CDATA[<p>写技术博客这件事，本身并不难，难的是<strong>写完之后的自我校对</strong>。</p>
+<p>尤其是当文章偏技术、偏流程时，很容易出现一些问题：</p>
+<ul>
+<li>描述不够准确，概念混用</li>
+<li>行文逻辑不够顺畅，段落之间衔接生硬</li>
+<]]></summary>
+        <author>
+            <name>弹霄博科</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[FunctionGemma: Building Offline AI Agents with Docker Model Runner]]></title>
         <id>https://collabnix.com/?p=70352</id>
         <link href="https://collabnix.com/functiongemma-building-offline-ai-agents-with-docker-model-runner/"/>
@@ -1595,6 +1642,18 @@ My year was mundane by most accounts. I worked, I family’d, and with the remai
     </entry>
     <entry>
         <title type="html"><![CDATA[Minecraft 生存服务器来啦「1.21.8 版」]]></title>
+        <id>https://dusays.com/archives/845/</id>
+        <link href="https://dusays.com/archives/845/"/>
+        <updated>2026-01-01T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>杜老师在家用机上搭建了一个 Minecraft 游戏平台，配置为 16H32G 内存，500M 的带宽，预估支持 30 人同时在线。如果您喜欢玩我的世界，又感觉自己玩没有意思，欢迎加入我们平台，大家一起 play 一起 happy！</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Minecraft 生存服务器来啦「1.21.8 版」]]></title>
         <id>https://dusays.com/845/</id>
         <link href="https://dusays.com/845/"/>
         <updated>2026-01-01T16:00:00.000Z</updated>
@@ -1669,6 +1728,18 @@ The post I Spent a Year Running Proxmox and VMware Side by Side in My Home Lab a
         <summary type="html"><![CDATA[今天跨年，也是领证一周年的日子，全家出镜纪念。今天吃的：西溪别院的餐，不推荐。徐小蟹的蛋糕，推荐。]]></summary>
         <author>
             <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深港游小记 2025]]></title>
+        <id>https://www.txisfine.cn/archives/86e1f2fa.html</id>
+        <link href="https://www.txisfine.cn/archives/86e1f2fa.html"/>
+        <updated>2025-12-31T12:38:16.000Z</updated>
+        <summary type="html"><![CDATA[<p>其实这趟香港之行，从年初就已经躺在我的计划表里了。结果在我的墨迹下，香港之行就这样从“下个月”变成了“今年一定要去”，最后由于还剩两个月签证过期，才落在了年末。</p>
+<p>直到 12 月中旬，我终于用一种非常“特种兵”的方式，把这件事给完成了。</p>
+<p>这篇更像是]]></summary>
+        <author>
+            <name>弹霄博科</name>
         </author>
     </entry>
     <entry>
@@ -2170,6 +2241,17 @@ The post Why Zoraxy Might Be the Best Reverse Proxy for Home Labs appeared first
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[解决在 VS Code 中 Github Copilot 无法在 SSH 远程环境中使用的问题]]></title>
+        <id>https://www.txisfine.cn/archives/43a67229.html</id>
+        <link href="https://www.txisfine.cn/archives/43a67229.html"/>
+        <updated>2025-12-24T14:45:13.000Z</updated>
+        <summary type="html"><![CDATA[<p>平时我们使用 VSCode 进行远程开发时，但远程开发过程中，GitHub 的 Copilot 似乎是失效的，它无法激活 MCP 扩展，会一直卡在运行中，直到超时。</p>
+<p><img src="https://static.txisfine.cn/upload/iSh]]></summary>
+        <author>
+            <name>弹霄博科</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Docker Is Slowly Filling Up Your Home Lab Disk Space (And the Tool I Use to Fix It)]]></title>
         <id>https://www.virtualizationhowto.com/?p=307920</id>
         <link href="https://www.virtualizationhowto.com/2025/12/docker-is-slowly-filling-up-your-home-lab-disk-space-and-the-tool-i-use-to-fix-it/"/>
@@ -2309,6 +2391,17 @@ The post I Now Manage My DNS Server from Git (and It Changed Everything) appeare
         <summary type="html"><![CDATA[完全免费&开源的离线小而美 macOS 菜单栏日历app，支持中国农历、节假日、放假安排、系统日程等 - bylinxx/MacCalendar]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RouteOS v7 BGP AS-PATH 拒绝过滤器不生效的问题排查]]></title>
+        <id>https://www.txisfine.cn/archives/a71e024e.html</id>
+        <link href="https://www.txisfine.cn/archives/a71e024e.html"/>
+        <updated>2025-12-22T14:34:25.000Z</updated>
+        <summary type="html"><![CDATA[<h3 id="问题回放"><a href="#问题回放" class="headerlink" title="问题回放"></a>问题回放</h3><p>我在 CCR 2004 和 CHR 之间运行了一个 eBGP 会话，ROS 版本均为 7.20.5</p>
+<p>以下是 C]]></summary>
+        <author>
+            <name>弹霄博科</name>
         </author>
     </entry>
     <entry>
@@ -3313,6 +3406,28 @@ The post Why Containers Will Be More Important Than Ever in the 2026 Home Lab ap
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[记一次 MikroTik IPSec 隧道丢包问题排查：FastTrack 导致的 IPSec 失效]]></title>
+        <id>https://www.txisfine.cn/archives/ae82fda5.html</id>
+        <link href="https://www.txisfine.cn/archives/ae82fda5.html"/>
+        <updated>2025-12-09T15:46:21.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="背景和拓扑"><a href="#背景和拓扑" class="headerlink" title="背景和拓扑"></a>背景和拓扑</h2><p>本次问题发生在一条跨公网建立的 IPSec VPN 隧道中，双方运营商均为相同运营商，设备分别为：</p>
+<ul>]]></summary>
+        <author>
+            <name>弹霄博科</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[优雅解决国内安装Ollama下载慢及卡顿的问题]]></title>
+        <id>https://www.txisfine.cn/archives/8efde3fe.html</id>
+        <link href="https://www.txisfine.cn/archives/8efde3fe.html"/>
+        <updated>2025-12-09T14:03:34.000Z</updated>
+        <summary type="html"><![CDATA[<p><img src="https://static.txisfine.cn/upload/8efde3fe.jpg/pk_watermark" alt="Ollama"></p>
+<p>Ollama 是一款功能完善的本地大型语言模型运行平台，能够让用户在本地环境中快速部署和运]]></summary>
+        <author>
+            <name>弹霄博科</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why Deq Might Be the Best Home Lab Dashboard in 2025]]></title>
         <id>https://www.virtualizationhowto.com/?p=307356</id>
         <link href="https://www.virtualizationhowto.com/2025/12/why-deq-might-be-the-best-home-lab-dashboard-in-2025/"/>
@@ -3603,6 +3718,18 @@ The post 12 Things I Wish I Knew Before Upgrading My Home Lab to 10 Gig appeared
         <summary type="html"><![CDATA[在AI聊天、智能问答类应用中，AI生成内容的呈现效果直接决定了用户的使用体验。纯文本的展示形式不仅会让代码块、表格等结构化内容变得杂乱难读，还会因缺乏交互能力降低用户操作效率。本文将从需求痛点出发，基于Vue3.5的组合式API，结合MarkdownIt解析引擎与Prism.js语法高亮工具，一步步构建一个集结构化渲染 […]]]></summary>
         <author>
             <name>李锋镝</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEB 和 RPM 有什么区别]]></title>
+        <id>https://dusays.com/archives/840/</id>
+        <link href="https://dusays.com/archives/840/"/>
+        <updated>2025-12-02T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>在 Linux 系统中，软件的安装和管理通常依赖于软件包（Package），而 .deb 和 .rpm 是两种最主流的软件包格式。它们分别服务于不同的 Linux 发行版生态系统，不仅文件后缀不同，所使用的工具链、依赖管理方式、系统集成方式等方面也各有特点。本文将从多个角度对这两种格式进行深入解析。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
         </author>
     </entry>
     <entry>
@@ -3984,6 +4111,18 @@ The post The Best Mini PCs for Home Labs in 2025 (Ranked by Real Performance) ap
     </entry>
     <entry>
         <title type="html"><![CDATA[ima 任务模式邀请码分享]]></title>
+        <id>https://dusays.com/archives/839/</id>
+        <link href="https://dusays.com/archives/839/"/>
+        <updated>2025-11-26T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>在当今快节奏的工作中，高效的信息处理与内容创作工具越来越受到人们的青睐。腾讯推出的 ima，是一款以知识库为核心，面向学习与办公场景的 AI 智能工作台，致力于帮助用户提升信息获取效率并大幅提高内容创作的效率与质量。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ima 任务模式邀请码分享]]></title>
         <id>https://dusays.com/839/</id>
         <link href="https://dusays.com/839/"/>
         <updated>2025-11-26T16:00:00.000Z</updated>
@@ -4324,6 +4463,18 @@ The post 15 Troubleshooting Commands Every Linux Home Lab Admin Should Know appe
         <summary type="html"><![CDATA[当谷歌 DeepMind 推出 Gemini 3 时，整个 AI 圈的反应不再是“惊艳”，而是“颠覆”——它能在极短时间内精准还原主流平台首页（含完整交互逻辑），生成可直接运行的游戏、拆解长视频细节，甚至用代码实现专业领域的 3D 交互动画。这种“从静态生成到动态交互”的跨越，让多模态 AI 真正从“展示工具”升级为“ […]]]></summary>
         <author>
             <name>李锋镝</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Temp Mail 兼具隐私和便捷性的最佳临时电子邮件服务]]></title>
+        <id>https://dusays.com/archives/838/</id>
+        <link href="https://dusays.com/archives/838/"/>
+        <updated>2025-11-20T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>您是否曾经需要一个快捷的电子邮件地址？比如注册游戏或网站？这时 Temp Mail 就能派上用场了！它能为您提供一个可在短时间内使用的临时电子邮件地址。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
         </author>
     </entry>
     <entry>
@@ -4960,6 +5111,18 @@ One feature both Stars and Fields have that might be controversial to puzzle pur
 If you’re a fan of daily puzzle games, put these in your routine. The playful aesthetic of Inkwell Games’ games always bring a smile. I’m excited to try their upcoming puzzle Snakes and roll it into my daily routine.]]></summary>
         <author>
             <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dockerd 日志太多？磁盘爆了？一篇教您搞定容器日志问题]]></title>
+        <id>https://dusays.com/archives/837/</id>
+        <link href="https://dusays.com/archives/837/"/>
+        <updated>2025-11-14T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>Docker 重度使用者们，您了解过 Docker 日志吗？如何查找、减少以及管理日志，从而有效节省磁盘空间！今天分享一下如何处理 Docker 日志的问题。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
         </author>
     </entry>
     <entry>
@@ -5604,6 +5767,18 @@ The post 15 Docker Containers That Make Your Home Lab Instantly Better appeared 
     </entry>
     <entry>
         <title type="html"><![CDATA[二手手机值得买吗？数码爱好者的省钱换机经验]]></title>
+        <id>https://dusays.com/archives/836/</id>
+        <link href="https://dusays.com/archives/836/"/>
+        <updated>2025-11-08T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>作为一名资深的数码爱好者，杜老师有个坚持多年的习惯：每年小米新品旗舰发布，必定第一时间入手尝鲜，再把手上的旧机挂出去二手转出。本以为这样能“以旧补新”降低成本，可算下来每年差价依然不菲，长期累积竟是一笔不小开支。期间杜老师也接触很多二手平台，但感觉不靠谱。直到杜老师接触了某转平台，才算真正找到了兼顾体验与性价比的二手换机方案。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[二手手机值得买吗？数码爱好者的省钱换机经验]]></title>
         <id>https://dusays.com/836/</id>
         <link href="https://dusays.com/836/"/>
         <updated>2025-11-08T16:00:00.000Z</updated>
@@ -6241,6 +6416,18 @@ The post See Everything on Your Home Lab Network with ntopng appeared first on V
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[最近总觉得脑子不够用？杜老师的脑力不足自救实录]]></title>
+        <id>https://dusays.com/archives/835/</id>
+        <link href="https://dusays.com/archives/835/"/>
+        <updated>2025-11-02T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>不知道有没有朋友和杜老师一样，最近这段时间总是被脑力不足的状态困扰。以前处理工作、规划生活都会游刃有余，现在却频繁陷入反应慢半拍、记不住事的窘境，连原本轻松日常都变得有些吃力。今天就来好好聊聊这种状态，也分享下杜老师为了改善它做的那些尝试。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[脑力不足]]></title>
         <id>https://dusays.com/835/</id>
         <link href="https://dusays.com/835/"/>
@@ -6511,17 +6698,6 @@ The post Best Home Lab Tools You’re Crazy Not to Use in 2025 appeared first on
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 Things You Should Be Monitoring on Your Home Lab Network (But Probably Aren’t)]]></title>
-        <id>https://www.virtualizationhowto.com/?p=304295</id>
-        <link href="https://www.virtualizationhowto.com/2025/10/5-things-you-should-be-monitoring-on-your-home-lab-network-but-probably-arent/"/>
-        <updated>2025-10-30T12:50:17.000Z</updated>
-        <summary type="html"><![CDATA[You may have spent tons of time optimizing and monitoring the performance of virtual machines, containers, and other infrastructure in your home lab. However, network visibility often gets ignored in…
-The post 5 Things You Should Be Monitoring on Your Home Lab Network (But Probably Aren’t) appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[s1ntoneli/AppUpdater: MacOS 的一个简单的应用程序更新程序，检查您的 GitHub 发布的二进制资产，并静默更新您的应用程序。]]></title>
         <id>https://github.com/s1ntoneli/AppUpdater</id>
         <link href="https://github.com/s1ntoneli/AppUpdater"/>
@@ -6548,16 +6724,6 @@ The post 5 Things You Should Be Monitoring on Your Home Lab Network (But Probabl
         <summary type="html"><![CDATA[Screen savers and visual effects for your terminal! - oiwn/tarts]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Skills: The Complete Guide to Extending AI Capabilities (2025)]]></title>
-        <id>https://collabnix.com/?p=58379</id>
-        <link href="https://collabnix.com/claude-skills-the-complete-guide-to-extending-ai-capabilities-2025/"/>
-        <updated>2025-10-29T14:01:41.000Z</updated>
-        <summary type="html"><![CDATA[What Are Claude Skills? A Game-Changer for AI Productivity Claude Skills represent a revolutionary approach to customizing and extending Claude’s capabilities through specialized knowledge modules. Think of Skills as expert plugins that transform Claude from a general-purpose AI assistant into a domain-specific powerhouse tailored to your exact needs. Released as part of Claude’s extended functionality, […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
         </author>
     </entry>
     <entry>
@@ -6649,16 +6815,6 @@ The post 5 Things You Should Be Monitoring on Your Home Lab Network (But Probabl
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[免费国密的SSL证书支持所有浏览器信任 —— 证签SSL]]></title>
-        <id>https://www.txisfine.cn/archives/53ca3119.html</id>
-        <link href="https://www.txisfine.cn/archives/53ca3119.html"/>
-        <updated>2025-10-22T15:47:57.000Z</updated>
-        <summary type="html"><![CDATA[<p>证签CerSign 是一家数字证书产品提供商，也是较为早的在国内提供免费国密SSL证书签发的厂商。早期的免费国密证书使用了他们自己的CA签发，大多时候只受到了零信浏览器信任。最近证签CA系统完成了升级改造，启用了G2根证书和新的证书链，其国密SSL证书原先仅零信浏览器信任，]]></summary>
-        <author>
-            <name>弹霄博科</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[好拼｜免费在线拼图工具上架谷歌商店啦]]></title>
         <id>https://blog.ops-coffee.com/s/free-online-collage-maker-tool-chrome-extension-plugin.html</id>
         <link href="https://blog.ops-coffee.com/s/free-online-collage-maker-tool-chrome-extension-plugin.html"/>
@@ -6666,16 +6822,6 @@ The post 5 Things You Should Be Monitoring on Your Home Lab Network (But Probabl
         <summary type="html"><![CDATA[本文介绍了「好拼」免费在线拼图工具的核心功能和最新更新，包括布局拼图和长图拼接，以及新增的Chrome插件，旨在为用户提供更简单、自然的创作体验。]]></summary>
         <author>
             <name>运维咖啡吧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[龙芯久久派 JTAG 刷 U-BOOT/PMON]]></title>
-        <id>https://www.txisfine.cn/archives/4a1d6780.html</id>
-        <link href="https://www.txisfine.cn/archives/4a1d6780.html"/>
-        <updated>2025-10-21T15:42:35.000Z</updated>
-        <summary type="html"><![CDATA[<p>特别感谢 @杜比 杜总的支持和帮助。以及 @RigoLigo <a href="https://www.bilibili.com/video/BV12QPme7Euk">https://www.bilibili.com/video/BV12QPme7Euk</a> 的视频。]]></summary>
-        <author>
-            <name>弹霄博科</name>
         </author>
     </entry>
     <entry>

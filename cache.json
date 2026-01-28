@@ -870,6 +870,16 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://nops.icu/archives/233/",
+          "author": "季兴",
+          "description": "背景模型发展极其迅速，截止今天，此方法为目前能交付、前端好看、能完成稍复杂项目的0-1、重构、迭代。核心“快速实现脑中想法”，可以是原型图，可以是前端，更可以是完整POC整理了当前公司已购买资源...",
+          "link": "https://nops.icu/archives/233/",
+          "publishedOn": "2026-01-27T09:54:00.000Z",
+          "wordCount": null,
+          "title": "VIBE CODING最佳实践-20260127",
+          "imageUrl": null
+        },
+        {
           "id": "https://nops.icu/archives/231/",
           "author": "季兴",
           "description": "3万人民币出头，可以买到支持cuda、原厂出品且合法的桌面AI工作站。测试Qwen3-Next-80B-A3B-Instruct-FP8 占满显存，基本是可以运行的最大尺寸模型，每秒生成422个...",
@@ -986,6 +996,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=308997",
+          "author": "Brandon Lee",
+          "description": "Monitoring your home lab environment running Proxmox is something that all of us should do. Monitoring is not the most thrilling aspect of any home lab, but it is extremely…\nThe post Monitor Your Proxmox Home Lab Like a Boss: The Monitoring Stack I Actually Use appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/01/monitor-your-proxmox-home-lab-like-a-boss-the-monitoring-stack-i-actually-use/",
+          "publishedOn": "2026-01-27T13:27:26.000Z",
+          "wordCount": null,
+          "title": "Monitor Your Proxmox Home Lab Like a Boss: The Monitoring Stack I Actually Use",
+          "imageUrl": null
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=308973",
           "author": "Brandon Lee",
@@ -1675,16 +1695,6 @@
           "wordCount": 12179,
           "title": "Best Home Lab Tools You’re Crazy Not to Use in 2025",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/10/Best-Tools.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=304295",
-          "author": "Brandon Lee",
-          "description": "You may have spent tons of time optimizing and monitoring the performance of virtual machines, containers, and other infrastructure in your home lab. However, network visibility often gets ignored in…\nThe post 5 Things You Should Be Monitoring on Your Home Lab Network (But Probably Aren’t) appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/10/5-things-you-should-be-monitoring-on-your-home-lab-network-but-probably-arent/",
-          "publishedOn": "2025-10-30T12:50:17.000Z",
-          "wordCount": 12150,
-          "title": "5 Things You Should Be Monitoring on Your Home Lab Network (But Probably Aren’t)",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/10/home-lab-network-monitor-2.png"
         }
       ]
     },
@@ -2912,16 +2922,6 @@
           "wordCount": null,
           "title": "Webhook-Driven AI Workflows with Claude and Kubernetes",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=58379",
-          "author": "Collabnix Team",
-          "description": "What Are Claude Skills? A Game-Changer for AI Productivity Claude Skills represent a revolutionary approach to customizing and extending Claude’s capabilities through specialized knowledge modules. Think of Skills as expert plugins that transform Claude from a general-purpose AI assistant into a domain-specific powerhouse tailored to your exact needs. Released as part of Claude’s extended functionality, […]",
-          "link": "https://collabnix.com/claude-skills-the-complete-guide-to-extending-ai-capabilities-2025/",
-          "publishedOn": "2025-10-29T14:01:41.000Z",
-          "wordCount": 4487,
-          "title": "Claude Skills: The Complete Guide to Extending AI Capabilities (2025)",
-          "imageUrl": null
         }
       ]
     },
@@ -3613,6 +3613,16 @@
       "siteUrl": "https://dusays.com/atom.xml",
       "articles": [
         {
+          "id": "https://dusays.com/archives/845/",
+          "author": null,
+          "description": "<blockquote>\n<p>杜老师在家用机上搭建了一个 Minecraft 游戏平台，配置为 16H32G 内存，500M 的带宽，预估支持 30 人同时在线。如果您喜欢玩我的世界，又感觉自己玩没有意思，欢迎加入我们平台，大家一起 play 一起 happy！</p>\n</blockquote>",
+          "link": "https://dusays.com/archives/845/",
+          "publishedOn": "2026-01-01T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Minecraft 生存服务器来啦「1.21.8 版」",
+          "imageUrl": null
+        },
+        {
           "id": "https://dusays.com/845/",
           "author": null,
           "description": "<blockquote>\n<p>杜老师在家用机上搭建了一个 Minecraft 游戏平台，配置为 16H32G 内存，500M 的带宽，预估支持 30 人同时在线。如果您喜欢玩我的世界，又感觉自己玩没有意思，欢迎加入我们平台，大家一起 play 一起 happy！</p>\n</blockquote>",
@@ -3621,6 +3631,16 @@
           "wordCount": 527,
           "title": "Minecraft 生存服务器来啦「1.21.8 版」",
           "imageUrl": "https://cdn.dusays.com/avatar.png"
+        },
+        {
+          "id": "https://dusays.com/archives/840/",
+          "author": null,
+          "description": "<blockquote>\n<p>在 Linux 系统中，软件的安装和管理通常依赖于软件包（Package），而 .deb 和 .rpm 是两种最主流的软件包格式。它们分别服务于不同的 Linux 发行版生态系统，不仅文件后缀不同，所使用的工具链、依赖管理方式、系统集成方式等方面也各有特点。本文将从多个角度对这两种格式进行深入解析。</p>\n</blockquote>",
+          "link": "https://dusays.com/archives/840/",
+          "publishedOn": "2025-12-02T16:00:00.000Z",
+          "wordCount": null,
+          "title": "DEB 和 RPM 有什么区别",
+          "imageUrl": null
         },
         {
           "id": "https://dusays.com/840/",
@@ -3633,6 +3653,16 @@
           "imageUrl": "https://cdn.dusays.com/avatar.png"
         },
         {
+          "id": "https://dusays.com/archives/839/",
+          "author": null,
+          "description": "<blockquote>\n<p>在当今快节奏的工作中，高效的信息处理与内容创作工具越来越受到人们的青睐。腾讯推出的 ima，是一款以知识库为核心，面向学习与办公场景的 AI 智能工作台，致力于帮助用户提升信息获取效率并大幅提高内容创作的效率与质量。</p>\n</blockquote>",
+          "link": "https://dusays.com/archives/839/",
+          "publishedOn": "2025-11-26T16:00:00.000Z",
+          "wordCount": null,
+          "title": "ima 任务模式邀请码分享",
+          "imageUrl": null
+        },
+        {
           "id": "https://dusays.com/839/",
           "author": null,
           "description": "<blockquote>\n<p>在当今快节奏的工作中，高效的信息处理与内容创作工具越来越受到人们的青睐。腾讯推出的 ima，是一款以知识库为核心，面向学习与办公场景的 AI 智能工作台，致力于帮助用户提升信息获取效率并大幅提高内容创作的效率与质量。</p>\n</blockquote>",
@@ -3643,6 +3673,16 @@
           "imageUrl": "https://cdn.dusays.com/avatar.png"
         },
         {
+          "id": "https://dusays.com/archives/838/",
+          "author": null,
+          "description": "<blockquote>\n<p>您是否曾经需要一个快捷的电子邮件地址？比如注册游戏或网站？这时 Temp Mail 就能派上用场了！它能为您提供一个可在短时间内使用的临时电子邮件地址。</p>\n</blockquote>",
+          "link": "https://dusays.com/archives/838/",
+          "publishedOn": "2025-11-20T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Temp Mail 兼具隐私和便捷性的最佳临时电子邮件服务",
+          "imageUrl": null
+        },
+        {
           "id": "https://dusays.com/838/",
           "author": null,
           "description": "<blockquote>\n<p>您是否曾经需要一个快捷的电子邮件地址？比如注册游戏或网站？这时 Temp Mail 就能派上用场了！它能为您提供一个可在短时间内使用的临时电子邮件地址。</p>\n</blockquote>",
@@ -3650,6 +3690,16 @@
           "publishedOn": "2025-11-20T16:00:00.000Z",
           "wordCount": null,
           "title": "Temp Mail 兼具隐私和便捷性的最佳临时电子邮件服务",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dusays.com/archives/837/",
+          "author": null,
+          "description": "<blockquote>\n<p>Docker 重度使用者们，您了解过 Docker 日志吗？如何查找、减少以及管理日志，从而有效节省磁盘空间！今天分享一下如何处理 Docker 日志的问题。</p>\n</blockquote>",
+          "link": "https://dusays.com/archives/837/",
+          "publishedOn": "2025-11-14T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Dockerd 日志太多？磁盘爆了？一篇教您搞定容器日志问题",
           "imageUrl": null
         },
         {
@@ -3663,6 +3713,16 @@
           "imageUrl": "https://cdn.dusays.com/avatar.png"
         },
         {
+          "id": "https://dusays.com/archives/836/",
+          "author": null,
+          "description": "<blockquote>\n<p>作为一名资深的数码爱好者，杜老师有个坚持多年的习惯：每年小米新品旗舰发布，必定第一时间入手尝鲜，再把手上的旧机挂出去二手转出。本以为这样能“以旧补新”降低成本，可算下来每年差价依然不菲，长期累积竟是一笔不小开支。期间杜老师也接触很多二手平台，但感觉不靠谱。直到杜老师接触了某转平台，才算真正找到了兼顾体验与性价比的二手换机方案。</p>\n</blockquote>",
+          "link": "https://dusays.com/archives/836/",
+          "publishedOn": "2025-11-08T16:00:00.000Z",
+          "wordCount": null,
+          "title": "二手手机值得买吗？数码爱好者的省钱换机经验",
+          "imageUrl": null
+        },
+        {
           "id": "https://dusays.com/836/",
           "author": null,
           "description": "<blockquote>\n<p>作为一名资深的数码爱好者，杜老师有个坚持多年的习惯：每年小米新品旗舰发布，必定第一时间入手尝鲜，再把手上的旧机挂出去二手转出。本以为这样能“以旧补新”降低成本，可算下来每年差价依然不菲，长期累积竟是一笔不小开支。期间杜老师也接触很多二手平台，但感觉不靠谱。直到杜老师接触了转转平台，才算真正找到了兼顾体验与性价比的二手换机方案。</p>\n</blockquote>",
@@ -3670,6 +3730,16 @@
           "publishedOn": "2025-11-08T16:00:00.000Z",
           "wordCount": null,
           "title": "二手手机值得买吗？数码爱好者的省钱换机经验",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dusays.com/archives/835/",
+          "author": null,
+          "description": "<blockquote>\n<p>不知道有没有朋友和杜老师一样，最近这段时间总是被脑力不足的状态困扰。以前处理工作、规划生活都会游刃有余，现在却频繁陷入反应慢半拍、记不住事的窘境，连原本轻松日常都变得有些吃力。今天就来好好聊聊这种状态，也分享下杜老师为了改善它做的那些尝试。</p>\n</blockquote>",
+          "link": "https://dusays.com/archives/835/",
+          "publishedOn": "2025-11-02T16:00:00.000Z",
+          "wordCount": null,
+          "title": "最近总觉得脑子不够用？杜老师的脑力不足自救实录",
           "imageUrl": null
         },
         {
@@ -3861,6 +3931,76 @@
       "siteUrl": "https://www.txisfine.cn/atom.xml",
       "articles": [
         {
+          "id": "https://www.txisfine.cn/archives/1c129e28.html",
+          "author": null,
+          "description": "<p>IPv6 在实践中多使用 GUA 地址。对于多运营商环境，我们一般不会为客户端分配多个运营商的 IPv6 地址，需要给用户分配一个相对固定的地址，并通过出口网关类设备来调度用户使用哪家运营商出网。</p>\n<p>在一些厂商中，这个功能被称为“前缀替换”，实际上这也是一种 N",
+          "link": "https://www.txisfine.cn/archives/1c129e28.html",
+          "publishedOn": "2026-01-15T15:44:44.000Z",
+          "wordCount": null,
+          "title": "RouteOS IPv6 前缀替换",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.txisfine.cn/archives/baa1c91e.html",
+          "author": null,
+          "description": "<p>写技术博客这件事，本身并不难，难的是<strong>写完之后的自我校对</strong>。</p>\n<p>尤其是当文章偏技术、偏流程时，很容易出现一些问题：</p>\n<ul>\n<li>描述不够准确，概念混用</li>\n<li>行文逻辑不够顺畅，段落之间衔接生硬</li>\n<",
+          "link": "https://www.txisfine.cn/archives/baa1c91e.html",
+          "publishedOn": "2026-01-04T15:47:24.000Z",
+          "wordCount": null,
+          "title": "用 AI 给博客做一次「自动审稿」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.txisfine.cn/archives/86e1f2fa.html",
+          "author": null,
+          "description": "<p>其实这趟香港之行，从年初就已经躺在我的计划表里了。结果在我的墨迹下，香港之行就这样从“下个月”变成了“今年一定要去”，最后由于还剩两个月签证过期，才落在了年末。</p>\n<p>直到 12 月中旬，我终于用一种非常“特种兵”的方式，把这件事给完成了。</p>\n<p>这篇更像是",
+          "link": "https://www.txisfine.cn/archives/86e1f2fa.html",
+          "publishedOn": "2025-12-31T12:38:16.000Z",
+          "wordCount": null,
+          "title": "深港游小记 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.txisfine.cn/archives/43a67229.html",
+          "author": null,
+          "description": "<p>平时我们使用 VSCode 进行远程开发时，但远程开发过程中，GitHub 的 Copilot 似乎是失效的，它无法激活 MCP 扩展，会一直卡在运行中，直到超时。</p>\n<p><img src=\"https://static.txisfine.cn/upload/iSh",
+          "link": "https://www.txisfine.cn/archives/43a67229.html",
+          "publishedOn": "2025-12-24T14:45:13.000Z",
+          "wordCount": null,
+          "title": "解决在 VS Code 中 Github Copilot 无法在 SSH 远程环境中使用的问题",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.txisfine.cn/archives/a71e024e.html",
+          "author": null,
+          "description": "<h3 id=\"问题回放\"><a href=\"#问题回放\" class=\"headerlink\" title=\"问题回放\"></a>问题回放</h3><p>我在 CCR 2004 和 CHR 之间运行了一个 eBGP 会话，ROS 版本均为 7.20.5</p>\n<p>以下是 C",
+          "link": "https://www.txisfine.cn/archives/a71e024e.html",
+          "publishedOn": "2025-12-22T14:34:25.000Z",
+          "wordCount": null,
+          "title": "RouteOS v7 BGP AS-PATH 拒绝过滤器不生效的问题排查",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.txisfine.cn/archives/ae82fda5.html",
+          "author": null,
+          "description": "<h2 id=\"背景和拓扑\"><a href=\"#背景和拓扑\" class=\"headerlink\" title=\"背景和拓扑\"></a>背景和拓扑</h2><p>本次问题发生在一条跨公网建立的 IPSec VPN 隧道中，双方运营商均为相同运营商，设备分别为：</p>\n<ul>",
+          "link": "https://www.txisfine.cn/archives/ae82fda5.html",
+          "publishedOn": "2025-12-09T15:46:21.000Z",
+          "wordCount": null,
+          "title": "记一次 MikroTik IPSec 隧道丢包问题排查：FastTrack 导致的 IPSec 失效",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.txisfine.cn/archives/8efde3fe.html",
+          "author": null,
+          "description": "<p><img src=\"https://static.txisfine.cn/upload/8efde3fe.jpg/pk_watermark\" alt=\"Ollama\"></p>\n<p>Ollama 是一款功能完善的本地大型语言模型运行平台，能够让用户在本地环境中快速部署和运",
+          "link": "https://www.txisfine.cn/archives/8efde3fe.html",
+          "publishedOn": "2025-12-09T14:03:34.000Z",
+          "wordCount": null,
+          "title": "优雅解决国内安装Ollama下载慢及卡顿的问题",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.txisfine.cn/archives/c867415b.html",
           "author": null,
           "description": "<p>在某些场景下，我们会使用 Nginx 反向代理将内部业务系统发布到公网。通常一台 Nginx 服务器会代理并承载多个网站，这也使其成为互联网扫描器和恶意请求的重点目标。</p>\n<p>互联网上的一些扫描器会采集和映射 IP 资产情报，包括域名与 IP 的关联关系、所属机构和",
@@ -3869,26 +4009,6 @@
           "wordCount": 619,
           "title": "NGINX纯IP访问防护",
           "imageUrl": "https://static.txisfine.cn/upload/7e1fa63.png/pk_img"
-        },
-        {
-          "id": "https://www.txisfine.cn/archives/53ca3119.html",
-          "author": null,
-          "description": "<p>证签CerSign 是一家数字证书产品提供商，也是较为早的在国内提供免费国密SSL证书签发的厂商。早期的免费国密证书使用了他们自己的CA签发，大多时候只受到了零信浏览器信任。最近证签CA系统完成了升级改造，启用了G2根证书和新的证书链，其国密SSL证书原先仅零信浏览器信任，",
-          "link": "https://www.txisfine.cn/archives/53ca3119.html",
-          "publishedOn": "2025-10-22T15:47:57.000Z",
-          "wordCount": 719,
-          "title": "免费国密的SSL证书支持所有浏览器信任 —— 证签SSL",
-          "imageUrl": "https://static.txisfine.cn/upload/53ca3119.png/pk_img"
-        },
-        {
-          "id": "https://www.txisfine.cn/archives/4a1d6780.html",
-          "author": null,
-          "description": "<p>特别感谢 @杜比 杜总的支持和帮助。以及 @RigoLigo <a href=\"https://www.bilibili.com/video/BV12QPme7Euk\">https://www.bilibili.com/video/BV12QPme7Euk</a> 的视频。",
-          "link": "https://www.txisfine.cn/archives/4a1d6780.html",
-          "publishedOn": "2025-10-21T15:42:35.000Z",
-          "wordCount": 868,
-          "title": "龙芯久久派 JTAG 刷 U-BOOT/PMON",
-          "imageUrl": "https://static.txisfine.cn/upload/20240619002552.png/pk_img"
         }
       ]
     },
