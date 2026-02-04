@@ -86,6 +86,16 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
+          "id": "https://daverupert.com/2026/02/futurescapes/",
+          "author": null,
+          "description": "There’s a lot that’s not going well; politics, tech bubbles, the economy, and so on. I spend most of my day reading angry tweets and blog posts. There’s a lot to be upset about, so that’s understandable. But in the interest of fostering better discourse, I’d like to offer a challenge that I think the world desperately needs right now: It’s cheap and easy to complain and say “[Thing] is bad”, but it’s also free to share what you think would be better.\nIf complaining worked, we would have won the culture war already. We’d have a reformed Elon and the White House wouldn’t be committing crimes against humanity. But that’s not the world we live in. The one we live in is much worse. If you hate the here and now, write about what would be a better future. Write about what’s good and why more of t…",
+          "link": "https://daverupert.com/2026/02/futurescapes/",
+          "publishedOn": "2026-02-04T15:45:00.000Z",
+          "wordCount": null,
+          "title": "Write about the future you want",
+          "imageUrl": null
+        },
+        {
           "id": "https://daverupert.com/2026/01/hitting-my-api-limits/",
           "author": null,
           "description": "I got a lot of ideas for side projects rattling around in the old tin can. As part of my “No new projects” initiative, I’m trying to jump on building prototypes so I can decide if I want to explore ideas more or call it quits. A handful of my ideas are riffs or twists on existing app categories:\nA tennis ranking app… but modern and performant\nA nearby historical marker app… but with CarPlay support\nA nearby real estate listing app… but with CarPlay support\nAll three of those have ended unceremoniously at the same dead end: no API access. USTA denied my application for tennis rankings. The aptly named Historical Marker Database site doesn’t have a public API. And you have to be an MLS® Realtor® or Broker to get access to the MLS® listings. Womp womp.\nScraping the data is always an option… b…",
@@ -997,6 +1007,36 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=309192",
+          "author": "Brandon Lee",
+          "description": "If you are working with more than a single Proxmox VE Server host, you are probably already thinking in terms of cluster management. Storage is also probably clustered. Your networking…\nThe post ClusterShell for Proxmox VE is How I Manage Every Host in My Home Lab at Once appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/02/clustershell-for-proxmox-ve-is-how-i-manage-every-host-in-my-home-lab-at-once/",
+          "publishedOn": "2026-02-04T13:11:39.000Z",
+          "wordCount": null,
+          "title": "ClusterShell for Proxmox VE is How I Manage Every Host in My Home Lab at Once",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=309148",
+          "author": "Brandon Lee",
+          "description": "As you all know if you have been keeping up with my home lab adventures as of late, I have been heavily diving into Proxmox VE Server and Ceph software-defined…\nThe post I Bought a 10 Gig Switch to Fix My Proxmox Ceph Cluster and It Changed Everything appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/02/i-bought-a-10-gig-switch-to-fix-my-proxmox-ceph-cluster-and-it-changed-everything/",
+          "publishedOn": "2026-02-03T13:13:36.000Z",
+          "wordCount": null,
+          "title": "I Bought a 10 Gig Switch to Fix My Proxmox Ceph Cluster and It Changed Everything",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=309110",
+          "author": "Brandon Lee",
+          "description": "If you are running a Proxmox VE Server environment, you will want to set up backups as soon as possible. Proxmox Backup Server is the obvious choice for this since…\nThe post Why Your NAS Is the Perfect Proxmox Backup Server appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/02/why-your-nas-is-the-perfect-proxmox-backup-server/",
+          "publishedOn": "2026-02-02T13:20:38.000Z",
+          "wordCount": null,
+          "title": "Why Your NAS Is the Perfect Proxmox Backup Server",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=309084",
           "author": "Brandon Lee",
           "description": "Proxmox has definitely become one of the most popular platforms for home labs, arguably THE most popular. That momentum doesn’t look to be slowing down in 2026. In fact, I…\nThe post Best Automation Projects You Can Build for Proxmox in a Home Lab in 2026 appeared first on Virtualization Howto.",
@@ -1675,36 +1715,6 @@
           "wordCount": 10781,
           "title": "Meet ProxMenux Monitor: The New Way to Monitor Proxmox Servers",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/meet-proxmenux-monitor.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=306331",
-          "author": "Brandon Lee",
-          "description": "There is definitely a checklist of things that I think are good to mention when it comes to backing up things in the home lab. We all know about “backups”…\nThe post 10 Things You Should Back Up in Your Home Lab (But Probably Don’t) appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/11/10-things-you-should-back-up-in-your-home-lab-but-probably-dont/",
-          "publishedOn": "2025-11-06T13:20:14.000Z",
-          "wordCount": 11279,
-          "title": "10 Things You Should Back Up in Your Home Lab (But Probably Don’t)",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/10-things-to-backup-in-your-home-lab.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=305328",
-          "author": "Brandon Lee",
-          "description": "One of the strengths I think to the home lab community is that we all try to squeeze as much as we can out of our gear. Many of us…\nThe post 5 Signs It’s Time to Upgrade Your Home Lab Hardware appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/11/5-signs-its-time-to-upgrade-your-home-lab-hardware/",
-          "publishedOn": "2025-11-05T12:53:26.000Z",
-          "wordCount": 10341,
-          "title": "5 Signs It’s Time to Upgrade Your Home Lab Hardware",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/5-signs-its-time-to-upgrade-your-home-lab.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=304903",
-          "author": "Brandon Lee",
-          "description": "Since I have switched to mainly running home lab services to Docker, I have been trying different tools to monitor Docker in a way that I want it to be…\nThe post Why I Switched to Zabbix for Monitoring My Docker Containers appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/11/why-i-switched-to-zabbix-for-monitoring-my-docker-containers/",
-          "publishedOn": "2025-11-04T13:22:27.000Z",
-          "wordCount": 16037,
-          "title": "Why I Switched to Zabbix for Monitoring My Docker Containers",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/Monitor-Docker-like-a-boss-with-zabbix-2.png"
         }
       ]
     },
@@ -2742,26 +2752,6 @@
           "wordCount": null,
           "title": "LLM-Powered Code Review: Automated PR Analysis for DevOps Teams",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/agentic-ai-workflows-from-concept-to-deployment-with-docker/",
-          "author": "Collabnix Team",
-          "description": "Learn to build, containerize, and deploy agentic AI workflows using Docker. Complete guide with code examples, best practices, and troubleshooting tips.",
-          "link": "https://collabnix.com/agentic-ai-workflows-from-concept-to-deployment-with-docker/",
-          "publishedOn": "2025-11-07T04:00:42.000Z",
-          "wordCount": 3302,
-          "title": "Agentic AI Workflows: From Concept to Deployment with Docker",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/claude-desktop-extensions-building-custom-mcp-servers-guide/",
-          "author": "Collabnix Team",
-          "description": "Learn to build custom MCP servers for Claude Desktop. Complete guide with Python examples, Docker integration, security best practices, and troubleshooting tips.",
-          "link": "https://collabnix.com/claude-desktop-extensions-building-custom-mcp-servers-guide/",
-          "publishedOn": "2025-11-07T03:57:54.000Z",
-          "wordCount": null,
-          "title": "Claude Desktop Extensions: Building Custom MCP Servers Guide",
-          "imageUrl": null
         }
       ]
     },
@@ -2770,6 +2760,26 @@
       "feedUrl": "https://limboy.me/index.xml",
       "siteUrl": "https://limboy.me/",
       "articles": [
+        {
+          "id": "https://limboy.me/posts/chrome-extension-vibe-coding-container",
+          "author": null,
+          "description": "",
+          "link": "https://limboy.me/posts/chrome-extension-vibe-coding-container",
+          "publishedOn": "2026-02-04T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Chrome Extension 是 Vibe Coding 的绝佳载体",
+          "imageUrl": null
+        },
+        {
+          "id": "https://limboy.me/posts/bad-habit-good-subject",
+          "author": null,
+          "description": "",
+          "link": "https://limboy.me/posts/bad-habit-good-subject",
+          "publishedOn": "2026-02-03T00:00:00.000Z",
+          "wordCount": null,
+          "title": "坏习惯是道好题目",
+          "imageUrl": null
+        },
         {
           "id": "https://limboy.me/posts/breathe",
           "author": null,
@@ -2896,16 +2906,6 @@
           "wordCount": 674,
           "title": "我的 2025 - 步履不停",
           "imageUrl": "https://thiscute.world/posts/2025-summary/featured-image.jpg"
-        },
-        {
-          "id": "https://thiscute.world/posts/job-and-life/?utm_source=atom_feed",
-          "author": null,
-          "description": "<meting-js server=\"netease\" type=\"song\" id=\"176048\" theme=\"#448aff\"></meting-js>\n<h2 id=\"如今\" class=\"headerLink\">\n<a href=\"#%e5%a6%82%e4%bb%8a\" class=\"header-mark\"></a>如今</h2><p>回到乡下老家，我把二楼大客厅布置成了办公室，置办了张大号升降桌，配上两台大显示器，宽带也升级到了千兆。</p>\n<p>今年大部分时间，我就在这里上班。</p>\n<p>上班累了，一抬头，落地窗外就是一片稻田。离家 50 米是村活动广场，我偶尔去玩玩滑板；天热了，\n每天中午就去山里水潭练习游泳；下午下班后，常沿着进山路跑上一两个小时，或者骑行；晚上，就刷点动漫，或者研究点技术。每隔一两个月，我会去一线城市参加些感兴趣的技术会议，感受下氛围，或者干脆找个地方旅游上班，顺道联络联络老朋友老同学。</p>",
-          "link": "https://thiscute.world/posts/job-and-life/?utm_source=atom_feed",
-          "publishedOn": "2025-11-04T14:38:53.000Z",
-          "wordCount": 142,
-          "title": "大梦一场",
-          "imageUrl": "https://thiscute.world/posts/job-and-life/featured-image.jpeg"
         }
       ]
     },

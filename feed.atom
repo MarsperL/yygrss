@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-02-04T15:36:14.330Z</updated>
+    <updated>2026-02-04T21:52:49.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Write about the future you want]]></title>
+        <id>https://daverupert.com/2026/02/futurescapes/</id>
+        <link href="https://daverupert.com/2026/02/futurescapes/"/>
+        <updated>2026-02-04T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s a lot that’s not going well; politics, tech bubbles, the economy, and so on. I spend most of my day reading angry tweets and blog posts. There’s a lot to be upset about, so that’s understandable. But in the interest of fostering better discourse, I’d like to offer a challenge that I think the world desperately needs right now: It’s cheap and easy to complain and say “[Thing] is bad”, but it’s also free to share what you think would be better.
+If complaining worked, we would have won the culture war already. We’d have a reformed Elon and the White House wouldn’t be committing crimes against humanity. But that’s not the world we live in. The one we live in is much worse. If you hate the here and now, write about what would be a better future. Write about what’s good and why more of t…]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ClusterShell for Proxmox VE is How I Manage Every Host in My Home Lab at Once]]></title>
+        <id>https://www.virtualizationhowto.com/?p=309192</id>
+        <link href="https://www.virtualizationhowto.com/2026/02/clustershell-for-proxmox-ve-is-how-i-manage-every-host-in-my-home-lab-at-once/"/>
+        <updated>2026-02-04T13:11:39.000Z</updated>
+        <summary type="html"><![CDATA[If you are working with more than a single Proxmox VE Server host, you are probably already thinking in terms of cluster management. Storage is also probably clustered. Your networking…
+The post ClusterShell for Proxmox VE is How I Manage Every Host in My Home Lab at Once appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How Financial Strategy Consulting Helps Businesses Optimize Resources]]></title>
         <id>https://collabnix.com/?p=71648</id>
@@ -27,6 +49,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Chrome Extension 是 Vibe Coding 的绝佳载体]]></title>
+        <id>https://limboy.me/posts/chrome-extension-vibe-coding-container</id>
+        <link href="https://limboy.me/posts/chrome-extension-vibe-coding-container"/>
+        <updated>2026-02-04T00:00:00.000Z</updated>
+        <author>
+            <name>Limboy's Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Bought a 10 Gig Switch to Fix My Proxmox Ceph Cluster and It Changed Everything]]></title>
+        <id>https://www.virtualizationhowto.com/?p=309148</id>
+        <link href="https://www.virtualizationhowto.com/2026/02/i-bought-a-10-gig-switch-to-fix-my-proxmox-ceph-cluster-and-it-changed-everything/"/>
+        <updated>2026-02-03T13:13:36.000Z</updated>
+        <summary type="html"><![CDATA[As you all know if you have been keeping up with my home lab adventures as of late, I have been heavily diving into Proxmox VE Server and Ceph software-defined…
+The post I Bought a 10 Gig Switch to Fix My Proxmox Ceph Cluster and It Changed Everything appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Algorithmic Trading Explained: From Strategy Design to Automated Trading Systems]]></title>
         <id>https://collabnix.com/?p=71619</id>
         <link href="https://collabnix.com/algorithmic-trading-explained-from-strategy-design-to-automated-trading-systems/"/>
@@ -34,6 +76,26 @@
         <summary type="html"><![CDATA[The global financial markets have undergone a total metamorphosis, shifting from the adrenaline-fueled physical pits to the silent, sub-millisecond precision of the server rack. Today, a majority of global trading volume is executed algorithmically, while passive strategies account for a substantial and growing share of assets under management, leaving a shrinking, but still meaningful role […]]]></summary>
         <author>
             <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[坏习惯是道好题目]]></title>
+        <id>https://limboy.me/posts/bad-habit-good-subject</id>
+        <link href="https://limboy.me/posts/bad-habit-good-subject"/>
+        <updated>2026-02-03T00:00:00.000Z</updated>
+        <author>
+            <name>Limboy's Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Your NAS Is the Perfect Proxmox Backup Server]]></title>
+        <id>https://www.virtualizationhowto.com/?p=309110</id>
+        <link href="https://www.virtualizationhowto.com/2026/02/why-your-nas-is-the-perfect-proxmox-backup-server/"/>
+        <updated>2026-02-02T13:20:38.000Z</updated>
+        <summary type="html"><![CDATA[If you are running a Proxmox VE Server environment, you will want to set up backups as soon as possible. Proxmox Backup Server is the obvious choice for this since…
+The post Why Your NAS Is the Perfect Proxmox Backup Server appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
@@ -6134,26 +6196,6 @@ The post Meet ProxMenux Monitor: The New Way to Monitor Proxmox Servers appeared
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Agentic AI Workflows: From Concept to Deployment with Docker]]></title>
-        <id>https://collabnix.com/agentic-ai-workflows-from-concept-to-deployment-with-docker/</id>
-        <link href="https://collabnix.com/agentic-ai-workflows-from-concept-to-deployment-with-docker/"/>
-        <updated>2025-11-07T04:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Learn to build, containerize, and deploy agentic AI workflows using Docker. Complete guide with code examples, best practices, and troubleshooting tips.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Desktop Extensions: Building Custom MCP Servers Guide]]></title>
-        <id>https://collabnix.com/claude-desktop-extensions-building-custom-mcp-servers-guide/</id>
-        <link href="https://collabnix.com/claude-desktop-extensions-building-custom-mcp-servers-guide/"/>
-        <updated>2025-11-07T03:57:54.000Z</updated>
-        <summary type="html"><![CDATA[Learn to build custom MCP servers for Claude Desktop. Complete guide with Python examples, Docker integration, security best practices, and troubleshooting tips.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[adnanh/webhook: Webhook 是一个轻量级的传入 Webhook 服务器，用于运行 shell 命令。]]></title>
         <id>https://github.com/adnanh/webhook</id>
         <link href="https://github.com/adnanh/webhook"/>
@@ -6184,17 +6226,6 @@ The post Meet ProxMenux Monitor: The New Way to Monitor Proxmox Servers appeared
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10 Things You Should Back Up in Your Home Lab (But Probably Don’t)]]></title>
-        <id>https://www.virtualizationhowto.com/?p=306331</id>
-        <link href="https://www.virtualizationhowto.com/2025/11/10-things-you-should-back-up-in-your-home-lab-but-probably-dont/"/>
-        <updated>2025-11-06T13:20:14.000Z</updated>
-        <summary type="html"><![CDATA[There is definitely a checklist of things that I think are good to mention when it comes to backing up things in the home lab. We all know about “backups”…
-The post 10 Things You Should Back Up in Your Home Lab (But Probably Don’t) appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[github-2013/intellij-awesome-console-x: 这是 JetBrains 集成开发环境的一个插件，它终于能让控制台和终端中的链接至少棒上 200%！]]></title>
         <id>https://github.com/github-2013/intellij-awesome-console-x</id>
         <link href="https://github.com/github-2013/intellij-awesome-console-x"/>
@@ -6221,17 +6252,6 @@ The post 10 Things You Should Back Up in Your Home Lab (But Probably Don’t) ap
         <summary type="html"><![CDATA[他常说，政府还会拆掉我们周围更多的房子，只是时间早晚的问题，不过他从不操心将来。在“拆那儿”住了四十多年，他早已明白，凡事没有永远。]]></summary>
         <author>
             <name>User</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Signs It’s Time to Upgrade Your Home Lab Hardware]]></title>
-        <id>https://www.virtualizationhowto.com/?p=305328</id>
-        <link href="https://www.virtualizationhowto.com/2025/11/5-signs-its-time-to-upgrade-your-home-lab-hardware/"/>
-        <updated>2025-11-05T12:53:26.000Z</updated>
-        <summary type="html"><![CDATA[One of the strengths I think to the home lab community is that we all try to squeeze as much as we can out of our gear. Many of us…
-The post 5 Signs It’s Time to Upgrade Your Home Lab Hardware appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
@@ -6272,32 +6292,6 @@ The post 5 Signs It’s Time to Upgrade Your Home Lab Hardware appeared first on
         <summary type="html"><![CDATA[微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 - 666ghj/BettaFish]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大梦一场]]></title>
-        <id>https://thiscute.world/posts/job-and-life/?utm_source=atom_feed</id>
-        <link href="https://thiscute.world/posts/job-and-life/?utm_source=atom_feed"/>
-        <updated>2025-11-04T14:38:53.000Z</updated>
-        <summary type="html"><![CDATA[<meting-js server="netease" type="song" id="176048" theme="#448aff"></meting-js>
-<h2 id="如今" class="headerLink">
-<a href="#%e5%a6%82%e4%bb%8a" class="header-mark"></a>如今</h2><p>回到乡下老家，我把二楼大客厅布置成了办公室，置办了张大号升降桌，配上两台大显示器，宽带也升级到了千兆。</p>
-<p>今年大部分时间，我就在这里上班。</p>
-<p>上班累了，一抬头，落地窗外就是一片稻田。离家 50 米是村活动广场，我偶尔去玩玩滑板；天热了，
-每天中午就去山里水潭练习游泳；下午下班后，常沿着进山路跑上一两个小时，或者骑行；晚上，就刷点动漫，或者研究点技术。每隔一两个月，我会去一线城市参加些感兴趣的技术会议，感受下氛围，或者干脆找个地方旅游上班，顺道联络联络老朋友老同学。</p>]]></summary>
-        <author>
-            <name>This Cute World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why I Switched to Zabbix for Monitoring My Docker Containers]]></title>
-        <id>https://www.virtualizationhowto.com/?p=304903</id>
-        <link href="https://www.virtualizationhowto.com/2025/11/why-i-switched-to-zabbix-for-monitoring-my-docker-containers/"/>
-        <updated>2025-11-04T13:22:27.000Z</updated>
-        <summary type="html"><![CDATA[Since I have switched to mainly running home lab services to Docker, I have been trying different tools to monitor Docker in a way that I want it to be…
-The post Why I Switched to Zabbix for Monitoring My Docker Containers appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
