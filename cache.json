@@ -1714,6 +1714,36 @@
       "siteUrl": "https://collabnix.com",
       "articles": [
         {
+          "id": "https://collabnix.com/?p=71648",
+          "author": "Tanvir Kour",
+          "description": "Organizations that seek the help of financial strategy consulting invest in better resource utilization. Most companies ask for a consultation to spend money at the right place to gain maximum return. Consultants offer an independent view on an organization that allows them to see where change is necessary. Having their wisdom typically leads to increased […]",
+          "link": "https://collabnix.com/how-financial-strategy-consulting-helps-businesses-optimize-resources/",
+          "publishedOn": "2026-02-04T07:19:20.000Z",
+          "wordCount": null,
+          "title": "How Financial Strategy Consulting Helps Businesses Optimize Resources",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=71642",
+          "author": "Tanvir Kour",
+          "description": "Businesses looking to keep supply and demand in balance need accurate forecasting of demand. Unfortunately, traditional methods of forecasting generally fail because markets tend to change almost instantly. The answer to forecasting errors for demand planning in the supply chain is now more intelligent than ever, with artificial intelligence now being the main driver for […]",
+          "link": "https://collabnix.com/how-ai-driven-demand-planning-reduces-forecasting-errors/",
+          "publishedOn": "2026-02-04T07:10:29.000Z",
+          "wordCount": null,
+          "title": "How AI-Driven Demand Planning Reduces Forecasting Errors",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=71619",
+          "author": "Tanvir Kour",
+          "description": "The global financial markets have undergone a total metamorphosis, shifting from the adrenaline-fueled physical pits to the silent, sub-millisecond precision of the server rack. Today, a majority of global trading volume is executed algorithmically, while passive strategies account for a substantial and growing share of assets under management, leaving a shrinking, but still meaningful role […]",
+          "link": "https://collabnix.com/algorithmic-trading-explained-from-strategy-design-to-automated-trading-systems/",
+          "publishedOn": "2026-02-03T04:23:12.000Z",
+          "wordCount": null,
+          "title": "Algorithmic Trading Explained: From Strategy Design to Automated Trading Systems",
+          "imageUrl": null
+        },
+        {
           "id": "https://collabnix.com/?p=71520",
           "author": "Collabnix Team",
           "description": "The internet just witnessed something unprecedented: a social media platform where humans can only watch. Moltbook, the world’s first AI-only social network, has taken the tech world by storm with over 150,000 AI agents and 1 million human observers in just days. Here’s everything you need to know about this groundbreaking platform. TL;DR: Moltbook at […]",
@@ -2732,96 +2762,6 @@
           "wordCount": null,
           "title": "Claude Desktop Extensions: Building Custom MCP Servers Guide",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/building-distributed-training-systems-on-kubernetes-a-complete-guide/",
-          "author": "Collabnix Team",
-          "description": "Learn how to build scalable distributed training systems on Kubernetes with PyTorch and TensorFlow. Includes YAML configs, code examples, and best practices.",
-          "link": "https://collabnix.com/building-distributed-training-systems-on-kubernetes-a-complete-guide/",
-          "publishedOn": "2025-11-05T06:38:43.000Z",
-          "wordCount": null,
-          "title": "Building Distributed Training Systems on Kubernetes: A Complete Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/building-enterprise-rag-systems-security-and-compliance-guide/",
-          "author": "Collabnix Team",
-          "description": "Master enterprise RAG system security with practical examples for authentication, data governance, and compliance. Includes Kubernetes configs and Python code.",
-          "link": "https://collabnix.com/building-enterprise-rag-systems-security-and-compliance-guide/",
-          "publishedOn": "2025-11-05T06:35:56.000Z",
-          "wordCount": null,
-          "title": "Building Enterprise RAG Systems: Security and Compliance Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/llm-model-versioning-best-practices-and-tools-for-production-mlops/",
-          "author": "Collabnix Team",
-          "description": "Master LLM model versioning with practical examples, DVC, MLflow, and Kubernetes integration. Complete guide for production AI/ML deployments.",
-          "link": "https://collabnix.com/llm-model-versioning-best-practices-and-tools-for-production-mlops/",
-          "publishedOn": "2025-11-05T06:31:43.000Z",
-          "wordCount": null,
-          "title": "LLM Model Versioning: Best Practices and Tools for Production MLOps",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/from-prototype-to-production-scaling-llm-applications-in-kubernetes/",
-          "author": "Collabnix Team",
-          "description": "Learn to scale LLM applications from prototype to production with Kubernetes, vLLM, and best practices for GPU resource management and cost optimization.",
-          "link": "https://collabnix.com/from-prototype-to-production-scaling-llm-applications-in-kubernetes/",
-          "publishedOn": "2025-11-05T06:29:02.000Z",
-          "wordCount": null,
-          "title": "From Prototype to Production: Scaling LLM Applications in Kubernetes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/kubernetes-autoscaling-for-llm-inference-complete-guide-2024/",
-          "author": "Collabnix Team",
-          "description": "Master Kubernetes autoscaling for LLM inference workloads. Learn HPA, KEDA, VPA configuration with practical examples for efficient GPU utilization.",
-          "link": "https://collabnix.com/kubernetes-autoscaling-for-llm-inference-complete-guide-2024/",
-          "publishedOn": "2025-11-04T15:39:08.000Z",
-          "wordCount": 3232,
-          "title": "Kubernetes Autoscaling for LLM Inference: Complete Guide (2024)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/ai-model-governance-on-kubernetes-a-complete-implementation-guide/",
-          "author": "Collabnix Team",
-          "description": "Learn how to implement AI model governance on Kubernetes with practical examples, YAML configurations, and best practices for MLOps teams.",
-          "link": "https://collabnix.com/ai-model-governance-on-kubernetes-a-complete-implementation-guide/",
-          "publishedOn": "2025-11-04T15:35:59.000Z",
-          "wordCount": null,
-          "title": "AI Model Governance on Kubernetes: A Complete Implementation Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=59159",
-          "author": "Tanvir Kour",
-          "description": "For​‍​‌‍​‍‌​‍​‌‍​‍‌ a long time, my habit was to break down the music I listened to by focusing on one particular aspect like the drum grooves, the subtle guitar lines, or the synth swells that are usually under the singer’s voice. However, every time I attempted to remove vocals by means of old-fashioned methods, I would […]",
-          "link": "https://collabnix.com/%f0%9f%8e%b5-hunting-for-the-cleanest-instrumentals-my-real-journey-through-todays-ai-vocal-removers/",
-          "publishedOn": "2025-11-04T15:32:09.000Z",
-          "wordCount": null,
-          "title": "🎵 Hunting for the Cleanest Instrumentals: My Real Journey Through Today’s AI Vocal Removers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/distributed-training-on-kubernetes-best-practices-implementation/",
-          "author": "Collabnix Team",
-          "description": "Master distributed training on Kubernetes with production-ready configurations, PyTorch/TensorFlow examples, and expert troubleshooting tips for ML workloads.",
-          "link": "https://collabnix.com/distributed-training-on-kubernetes-best-practices-implementation/",
-          "publishedOn": "2025-11-04T15:31:26.000Z",
-          "wordCount": null,
-          "title": "Distributed Training on Kubernetes: Best Practices & Implementation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/running-multiple-ollama-models-on-kubernetes-complete-guide/",
-          "author": "Collabnix Team",
-          "description": "Learn how to deploy and manage multiple Ollama LLM models on Kubernetes with practical YAML configs, scaling strategies, and production best practices.",
-          "link": "https://collabnix.com/running-multiple-ollama-models-on-kubernetes-complete-guide/",
-          "publishedOn": "2025-11-04T15:28:28.000Z",
-          "wordCount": null,
-          "title": "Running Multiple Ollama Models on Kubernetes: Complete Guide",
-          "imageUrl": null
         }
       ]
     },
@@ -3472,16 +3412,6 @@
           "wordCount": 283,
           "title": "最后的万元电自小牛NXTUltra2025款",
           "imageUrl": null
-        },
-        {
-          "id": "https://4311346.com/post/2025/1102-nephrolith.html",
-          "author": null,
-          "description": "轻伤不下火线、重伤不进医院… 吃了2天的洛芬待因缓释片止疼药坚持上班，还是没能抗住肾结石发作所带来的腰疼。\n回顾就医的过程，对于一个长期996的人来说，挺艰辛的… 那一刻真有放弃工作的打算，这么疼还要坚守岗位真的好难。\n就医之路，以下所涉及的医院均为中国人民解放军中部战区总医院\n2025年09月07日，就因为肾结石腰疼发作在深夜去了一次医院急诊，做了彩超检查后，疼痛有所好转，此时折腾回家已凌晨02点。\n2025年09月15日再次出现腰疼，去医院泌尿外科做了第2次彩超和尿检，医生认为问题不大，开具了盐酸坦索罗辛缓释胶囊和枸橼酸氢钾钠颗粒。医生要求半个月后再去医院做复查。\n2025年09月28日，按时去医院泌尿外科做复查，第3次彩超，医生看到结果后，认为没有任何问题，说之前所产生疼痛的结石已经排出去了。此时自己深知排肾结石没有那么容易，但毕竟此时不疼不痒也没啥感觉，也就没有在意。\n随后，2025年10月自驾雨夜从南到北翻越秦岭，赶回来参加奶奶的葬礼，再接着又去了一趟仙剑里的南诏国，一直都没怎么休息好。随后返回公司上班，一天进进出出几十趟办公室…\n2025年10月20日，下午再次腰疼扛到下班后去医院急诊，医生看了一个月前的病情后，安排了打针，间苯三酚注射液+左氧氟沙星氯化钠注射液，打完后并未缓解，医生开了洛芬待因缓释片，口服止疼。\n2025年10月28日，上午+中午全程公司会议，接着下午干了两件重要的事情后，外加一天前前后后跑了好几个地方办事非常的累，下午16点左右开始，再一次开始肾结石发作，坚持到下班回家，吃了洛芬待因缓释片后，睡着了。\n2025年10月29日，中午开始，可能是前一天的药效过了，又继续开始腰疼，但事情太多，坚持到加班结束，回家再次洛芬待因缓释片救命，但一晚上也未怎么缓解。\n2025年10月30日，请年假前往医院，这次挂了专家号，专家上来就是计算机体层成像平扫CT，看到结石已经到了输尿管下段，专家也不建议再打针，给开了磷霉素氨丁三醇散、盐酸坦索罗辛缓释胶囊（计量大于09月15日）、肾石通丸。但对于持续的腰疼，专家医生建议忍着，只要不是疼到地上打滚，就不要来打针或吃止疼药…\n折腾回家已是下午17点，腰疼持续… 值得欣慰的是CT检察报告说明结石已在输尿管末端，让自己有了些许信心。于是到家后，调高了热水器的温度，洗了一个热水澡，并用热水猛地冲刷输尿管末端大致位置后，在用暖宝宝持续加热，利用热胀冷缩的原理加速排石。\n没想到当日晚再没吃任何药品的情况下3个小时后，排出了两颗半个绿豆大的肾结石…\n\n\n随后所有症状消失\n\n这个万圣节值得庆祝\n\n过去的几次肾结石发作\n20210512-憋足了尿，出来一个更大的肾结石\n20220721-伤钱伤人伤心的事太多\n20240101-2024年初的各种修理\n主要药品与功效\n1. 洛芬待因缓释片\n属于镇痛药，由布洛芬及磷酸可待因两种药物组成，通过不同的作用机制协同达到镇痛的作用，用于短期治疗急性中度疼痛且不能单独使用其他种类镇痛药物的情况。\n2. 盐酸坦索罗辛缓释胶囊\n为α1肾上腺受体阻断剂，对尿道、膀胱颈部及前列腺平滑肌具有高选择性的阻断作用，可使前列腺平滑肌松弛，尿道压迫降低，改善排尿障碍。\n3. 枸橼酸氢钾钠颗粒\n主要用于溶解尿酸结石，需严格遵医嘱使用。它通过调节尿液酸碱度，促进尿酸结石溶解并预防复发，但存在明确的禁忌症和慎用人群，需结合病情及医生评估后使用。\n4. 间苯三酚注射液\n适应症为消化系统和胆道功能障碍引起的急性痉挛性疼痛。\n5. 左氧氟沙星氯化钠注射液\n用于敏感细菌所引起的下列中、重度感染。\n6.磷霉素氨丁三醇散\n用于治疗敏感细菌引起的急性单纯性下尿路感染和预防外科手术中尿路感染及经尿路诊断手法引起的感染。",
-          "link": "https://4311346.com/post/2025/1102-nephrolith.html",
-          "publishedOn": "2025-11-01T16:21:51.000Z",
-          "wordCount": null,
-          "title": "两个月的肾结石排石之路",
-          "imageUrl": null
         }
       ]
     },
@@ -4032,16 +3962,6 @@
           "publishedOn": "2025-11-12T10:30:30.000Z",
           "wordCount": null,
           "title": "docker 下，重启 pod sandbox 造成 dns 异常的梳理",
-          "imageUrl": null
-        },
-        {
-          "id": "http://zhangguanzhang.github.io/2025/11/06/docker-GetImageBlob-no-such/",
-          "author": null,
-          "description": "<p>docker open &#x2F;var&#x2F;lib&#x2F;docker&#x2F;tmp&#x2F;GetImageBlobXXX: no such file or directory. 解决 </p>",
-          "link": "http://zhangguanzhang.github.io/2025/11/06/docker-GetImageBlob-no-such/",
-          "publishedOn": "2025-11-06T10:30:30.000Z",
-          "wordCount": null,
-          "title": "docker open /var/lib/docker/tmp/GetImageBlobXXX: no such file 的正确处理方式",
           "imageUrl": null
         }
       ]
