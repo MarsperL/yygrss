@@ -1007,6 +1007,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=309216",
+          "author": "Brandon Lee",
+          "description": "If you are running a Proxmox cluster, and likely you are if you are running more than one host, there are certain tasks that you quietly hope you don’t have…\nThe post Proxmox Cluster Operations Every Home Labber Hopes They Never Need (Until They Do) appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/02/proxmox-cluster-operations-every-home-labber-hopes-they-never-need-until-they-do/",
+          "publishedOn": "2026-02-05T13:43:32.000Z",
+          "wordCount": null,
+          "title": "Proxmox Cluster Operations Every Home Labber Hopes They Never Need (Until They Do)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=309192",
           "author": "Brandon Lee",
           "description": "If you are working with more than a single Proxmox VE Server host, you are probably already thinking in terms of cluster management. Storage is also probably clustered. Your networking…\nThe post ClusterShell for Proxmox VE is How I Manage Every Host in My Home Lab at Once appeared first on Virtualization Howto.",
@@ -1705,16 +1715,6 @@
           "wordCount": 7943,
           "title": "Smokeping is the Simple Way to Monitor Pings in Your Home Lab",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/SmokePing-2.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=306402",
-          "author": "Brandon Lee",
-          "description": "So I had to do a double take when I looked at the ProxMenuX repo and saw that with the latest release there is a new tool that is included…\nThe post Meet ProxMenux Monitor: The New Way to Monitor Proxmox Servers appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/11/meet-proxmenux-monitor-the-new-way-to-monitor-proxmox-servers/",
-          "publishedOn": "2025-11-07T13:37:47.000Z",
-          "wordCount": 10781,
-          "title": "Meet ProxMenux Monitor: The New Way to Monitor Proxmox Servers",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/meet-proxmenux-monitor.png"
         }
       ]
     },
@@ -1723,6 +1723,36 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=71693",
+          "author": "Tanvir Kour",
+          "description": "Explore the engineering behind SuperCool. This deep dive covers intent parsing, agent orchestration, and the system architecture that powers the autonomous AI execution layer.",
+          "link": "https://collabnix.com/supercool-technical-deep-dive-architecture-of-autonomous-creation/",
+          "publishedOn": "2026-02-05T18:55:35.000Z",
+          "wordCount": null,
+          "title": "SuperCool Technical Deep Dive: Architecture of Autonomous Creation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=71676",
+          "author": "Collabnix Team",
+          "description": "Learn everything about OpenClaw — the open-source AI personal assistant with 149K+ GitHub stars. This guide covers installation, Docker setup, skills, security best practices, and how OpenClaw compares to other AI agents.",
+          "link": "https://collabnix.com/openclaw-the-complete-guide-to-the-open-source-ai-personal-assistant/",
+          "publishedOn": "2026-02-05T07:55:55.000Z",
+          "wordCount": null,
+          "title": "OpenClaw: The Complete Guide to the Open-Source AI Personal Assistant",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=71672",
+          "author": "Collabnix Team",
+          "description": "Think of it this way — if Claude Code is your new hire with incredible raw talent, Skills are the onboarding playbook that turns them into a domain expert on day one. The developer tooling landscape shifted dramatically in 2025. We went from “AI that writes code snippets” to “AI that understands your entire codebase, […]",
+          "link": "https://collabnix.com/claude-code-and-skills-turning-ai-from-a-chatbot-into-your-personal-developer-team/",
+          "publishedOn": "2026-02-05T07:33:54.000Z",
+          "wordCount": null,
+          "title": "Claude Code and Skills: Turning AI from a Chatbot into Your Personal Developer Team",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=71648",
           "author": "Tanvir Kour",
@@ -2712,46 +2742,6 @@
           "wordCount": null,
           "title": "Agentic AI Development with Claude: A Practical DevOps Tutorial",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/ollama-performance-tuning-gpu-optimization-techniques-for-production/",
-          "author": "Collabnix Team",
-          "description": "Master Ollama GPU optimization with advanced techniques for VRAM management, Flash Attention, multi-GPU setups, and Kubernetes deployments. Boost LLM performance 2-3x.",
-          "link": "https://collabnix.com/ollama-performance-tuning-gpu-optimization-techniques-for-production/",
-          "publishedOn": "2025-11-08T04:03:15.000Z",
-          "wordCount": 2862,
-          "title": "Ollama Performance Tuning: GPU Optimization Techniques for Production",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/a-b-testing-llm-models-infrastructure-and-deployment-strategies/",
-          "author": "Collabnix Team",
-          "description": "Learn how to implement A/B testing for LLM models using Kubernetes, Istio, and modern MLOps practices. Includes code examples and production strategies.",
-          "link": "https://collabnix.com/a-b-testing-llm-models-infrastructure-and-deployment-strategies/",
-          "publishedOn": "2025-11-08T04:00:13.000Z",
-          "wordCount": null,
-          "title": "A/B Testing LLM Models: Infrastructure and Deployment Strategies",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/claude-code-agentic-coding-from-your-terminal-complete-guide/",
-          "author": "Collabnix Team",
-          "description": "Master Claude Code for agentic AI-powered coding in your terminal. Learn installation, configuration, advanced workflows, and best practices for DevOps teams.",
-          "link": "https://collabnix.com/claude-code-agentic-coding-from-your-terminal-complete-guide/",
-          "publishedOn": "2025-11-08T03:55:34.000Z",
-          "wordCount": null,
-          "title": "Claude Code: Agentic Coding from Your Terminal – Complete Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/llm-powered-code-review-automated-pr-analysis-for-devops-teams/",
-          "author": "Collabnix Team",
-          "description": "Build a production-ready LLM-powered code review system with GitHub Actions. Automate PR analysis, catch bugs, and improve code quality with AI.",
-          "link": "https://collabnix.com/llm-powered-code-review-automated-pr-analysis-for-devops-teams/",
-          "publishedOn": "2025-11-08T03:52:39.000Z",
-          "wordCount": null,
-          "title": "LLM-Powered Code Review: Automated PR Analysis for DevOps Teams",
-          "imageUrl": null
         }
       ]
     },
@@ -3216,6 +3206,16 @@
       "feedUrl": "https://blognas.hwb0307.com/feed",
       "siteUrl": "https://blognas.hwb0307.com/",
       "articles": [
+        {
+          "id": "https://blognas.hwb0307.com/other/6990",
+          "author": "Bensz",
+          "description": "Bensz\n开源项目与平台应用之争：OpenAI Prism vs. ChineseResearchLaTeX\n本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 OpenAI Prism 是基于 GPT-5.2 的免费 AI 原生科研协作平台，于 2026 年 1 月发布1 OpenAI 除 ChatGPT 外，在消费级产品领域屡屡受挫，GPTs/GPT Store 发布不到 6 个月就宣告失败2, 3 ChineseResearchLaTeX 早在 2025 年 11 月就开始探索 Vibe Coding 驱动的科研写作辅助，比 Prism 更早拥抱 AI 原生理念4 开源方案在平台自由度、模型选择、成本控制和数据隐私方面具有显著优势 科研工作者应根据自身需求，在云端便捷性与本地数据安全之间做出理性选择 前言 这几天，OpenAI 发布了一款名 […]\nBensz",
+          "link": "https://blognas.hwb0307.com/other/6990",
+          "publishedOn": "2026-02-02T13:24:29.000Z",
+          "wordCount": null,
+          "title": "开源项目与平台应用之争：OpenAI Prism vs. ChineseResearchLaTeX",
+          "imageUrl": null
+        },
         {
           "id": "https://blognas.hwb0307.com/other/6985",
           "author": "Bensz",
@@ -3877,16 +3877,6 @@
           "wordCount": 265,
           "title": "2025：读了5本书，但几乎都忘了；开发了两个产品，但是一分钱没赚",
           "imageUrl": "https://blog.panzhixiang.cn/images/langcapture-langdingpage.png"
-        },
-        {
-          "id": "https://panzhixiang.cn/2025/kimi-k2-thinking-optimized/",
-          "author": null,
-          "description": "<p>大家估计看过很过大模型的评测。基本上都是设想几个编程场景，然后用几个不同的模型进行对比。</p>\n<p>但在真实的工作场景中，我们面对的更多是一个已经存在、可能庞大复杂的代码库。要在这样的代码库中理解架构、找到关键信息、做出正确修改，这才是真正的挑战。</p>\n<p>这次，我让kimi k2 thinking 面对了一个<strong>地狱级</strong>考验：在拥有 <strong>8 万行代码、500 多个文件</strong>的 MkSaaS 模板库中，开发一个”纳瓦尔语录”网站。</p>",
-          "link": "https://panzhixiang.cn/2025/kimi-k2-thinking-optimized/",
-          "publishedOn": "2025-11-07T16:00:00.000Z",
-          "wordCount": 260,
-          "title": "8 万行代码，kimi k2 thinking 能 hold 住吗？",
-          "imageUrl": "https://blog.panzhixiang.cn/images/mksaas-code-lines.png"
         }
       ]
     },
