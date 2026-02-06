@@ -1007,6 +1007,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=309253",
+          "author": "Brandon Lee",
+          "description": "There is a good chance that if you are running Proxmox VE Server in your home lab today, you feel pretty good about your backup solution. Most are running Proxmox…\nThe post This Proxmox Backup Gap Can Wipe Out Your Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/02/this-proxmox-backup-gap-can-wipe-out-your-home-lab/",
+          "publishedOn": "2026-02-06T13:04:34.000Z",
+          "wordCount": null,
+          "title": "This Proxmox Backup Gap Can Wipe Out Your Home Lab",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=309216",
           "author": "Brandon Lee",
           "description": "If you are running a Proxmox cluster, and likely you are if you are running more than one host, there are certain tasks that you quietly hope you don’t have…\nThe post Proxmox Cluster Operations Every Home Labber Hopes They Never Need (Until They Do) appeared first on Virtualization Howto.",
@@ -1705,16 +1715,6 @@
           "wordCount": 10761,
           "title": "15 Docker Containers That Make Your Home Lab Instantly Better",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/15-docker-containers-that-instantly-improve-your-home-lab.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=306435",
-          "author": "Brandon Lee",
-          "description": "Network latency can absolutely kill your performance. If you have noticed y our virtual machines lagging, or your Docker containers struggling to pull images down. Or, if you have felt…\nThe post Smokeping is the Simple Way to Monitor Pings in Your Home Lab appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/11/smokeping-is-the-simple-way-to-monitor-pings-in-your-home-lab/",
-          "publishedOn": "2025-11-08T14:13:59.000Z",
-          "wordCount": 7943,
-          "title": "Smokeping is the Simple Way to Monitor Pings in Your Home Lab",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/SmokePing-2.png"
         }
       ]
     },
@@ -2702,46 +2702,6 @@
           "wordCount": null,
           "title": "Understanding Embeddings: The Math Behind AI Vector Databases",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/local-development-environment-for-ai-applications-complete-guide/",
-          "author": "Collabnix Team",
-          "description": "Build a production-ready local development environment for AI applications using Docker, Kubernetes, and GPU support. Includes code examples and best practices.",
-          "link": "https://collabnix.com/local-development-environment-for-ai-applications-complete-guide/",
-          "publishedOn": "2025-11-09T04:07:34.000Z",
-          "wordCount": null,
-          "title": "Local Development Environment for AI Applications: Complete Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/vector-embeddings-with-sentence-transformers-and-docker-complete-guide/",
-          "author": "Collabnix Team",
-          "description": "Learn to deploy vector embeddings using Sentence Transformers in Docker. Includes practical examples, YAML configs, and production-ready containerization.",
-          "link": "https://collabnix.com/vector-embeddings-with-sentence-transformers-and-docker-complete-guide/",
-          "publishedOn": "2025-11-09T04:04:44.000Z",
-          "wordCount": null,
-          "title": "Vector Embeddings with Sentence Transformers and Docker: Complete Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/kubernetes-statefulsets-for-ai-ml-storage-complete-guide-2024/",
-          "author": "Collabnix Team",
-          "description": "Master Kubernetes StatefulSets for AI/ML storage with practical examples, YAML configs, and best practices for distributed training workloads.",
-          "link": "https://collabnix.com/kubernetes-statefulsets-for-ai-ml-storage-complete-guide-2024/",
-          "publishedOn": "2025-11-09T04:01:56.000Z",
-          "wordCount": null,
-          "title": "Kubernetes StatefulSets for AI/ML Storage: Complete Guide 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/agentic-ai-development-with-claude-a-practical-devops-tutorial/",
-          "author": "Collabnix Team",
-          "description": "Learn to build autonomous AI agents with Claude API. Includes Python code, Docker deployment, Kubernetes manifests, and production-ready examples for DevOps teams.",
-          "link": "https://collabnix.com/agentic-ai-development-with-claude-a-practical-devops-tutorial/",
-          "publishedOn": "2025-11-09T03:59:15.000Z",
-          "wordCount": null,
-          "title": "Agentic AI Development with Claude: A Practical DevOps Tutorial",
-          "imageUrl": null
         }
       ]
     },
@@ -3177,21 +3137,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bluehe.cn/usr/uploads/2025/11/img_20251026_144414224.webp"
-        },
-        {
-          "id": "https://bluehe.cn/archives/shishan-vertical",
-          "author": "寻鹤",
-          "description": "不是楼阁而是亭桥，为何称竹影桥？因狮山公园是以竹文化打造主题的园林，有许多珍贵的竹子品种，故因此而得名。\n[fotos]\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n[/fotos]...",
-          "link": "https://bluehe.cn/archives/shishan-vertical",
-          "publishedOn": "2025-11-08T14:04:00.000Z",
-          "wordCount": 562,
-          "title": "狮山公园竖图抢先版",
-          "enclosure": {
-            "url": "https://bluehe.cn/usr/uploads/2025/11/img_20251026_170208040.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bluehe.cn/usr/uploads/2025/11/img_20251026_170208040.webp"
         }
       ]
     },
@@ -3566,26 +3511,6 @@
           "wordCount": 557,
           "title": "Dockerd 日志太多？磁盘爆了？一篇教您搞定容器日志问题",
           "imageUrl": "https://cdn.dusays.com/avatar.png"
-        },
-        {
-          "id": "https://dusays.com/archives/836/",
-          "author": null,
-          "description": "<blockquote>\n<p>作为一名资深的数码爱好者，杜老师有个坚持多年的习惯：每年小米新品旗舰发布，必定第一时间入手尝鲜，再把手上的旧机挂出去二手转出。本以为这样能“以旧补新”降低成本，可算下来每年差价依然不菲，长期累积竟是一笔不小开支。期间杜老师也接触很多二手平台，但感觉不靠谱。直到杜老师接触了某转平台，才算真正找到了兼顾体验与性价比的二手换机方案。</p>\n</blockquote>",
-          "link": "https://dusays.com/archives/836/",
-          "publishedOn": "2025-11-08T16:00:00.000Z",
-          "wordCount": null,
-          "title": "二手手机值得买吗？数码爱好者的省钱换机经验",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dusays.com/836/",
-          "author": null,
-          "description": "<blockquote>\n<p>作为一名资深的数码爱好者，杜老师有个坚持多年的习惯：每年小米新品旗舰发布，必定第一时间入手尝鲜，再把手上的旧机挂出去二手转出。本以为这样能“以旧补新”降低成本，可算下来每年差价依然不菲，长期累积竟是一笔不小开支。期间杜老师也接触很多二手平台，但感觉不靠谱。直到杜老师接触了转转平台，才算真正找到了兼顾体验与性价比的二手换机方案。</p>\n</blockquote>",
-          "link": "https://dusays.com/836/",
-          "publishedOn": "2025-11-08T16:00:00.000Z",
-          "wordCount": null,
-          "title": "二手手机值得买吗？数码爱好者的省钱换机经验",
-          "imageUrl": null
         }
       ]
     },
