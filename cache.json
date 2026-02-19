@@ -67,16 +67,6 @@
           "wordCount": 308,
           "title": "2025 年肝细胞癌临床研究进展",
           "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
-        },
-        {
-          "id": "http://whyes.org/2025/btc-idh1-fgfr2-her2",
-          "author": null,
-          "description": "前几天参加了一个学术会议，会中设置了一个投票环节，针对几个问题，收集现场参会医生的看法。其中一个问题是：对于有特点靶点变异的晚期胆道癌（BTC）患者，一线治疗首选靶向治疗还是按照常规使用化疗联合免疫治疗？ 现场收集到的投票结果有些超出我的预...",
-          "link": "http://whyes.org/2025/btc-idh1-fgfr2-her2",
-          "publishedOn": "2025-11-15T10:23:03.000Z",
-          "wordCount": 199,
-          "title": "有靶点变异的晚期胆道癌，一线治疗可以跳过化疗？",
-          "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
         }
       ]
     },
@@ -85,6 +75,16 @@
       "feedUrl": "https://daverupert.com/atom.xml",
       "siteUrl": "https://daverupert.com",
       "articles": [
+        {
+          "id": "https://daverupert.com/2026/02/magic-words/",
+          "author": null,
+          "description": "Skills are the newest hype commodity in the world of agentic AI. Skills are text files that optionally get stapled onto the context window by the agent. You can have skills like “frontend design” or “design tokens” and if the LLM “thinks” it needs more context about that topic, it can import the contents of those files into the context to help generate a response.\nGenerally speaking, skills do an okay job at providing on-demand context. Assuming the AI model is always 12-to-18 months behind in its training data, a skill could potentially backfill any recent framework updates. A skill could potentially undo some training data biases. A skill could potentially apply some of your sensibilities to the output. I’ve seen some impressive results with design guidance skills… but I’ve also seen ton…",
+          "link": "https://daverupert.com/2026/02/magic-words/",
+          "publishedOn": "2026-02-09T16:03:00.000Z",
+          "wordCount": null,
+          "title": "Magic Words",
+          "imageUrl": null
+        },
         {
           "id": "https://daverupert.com/2026/02/futurescapes/",
           "author": null,
@@ -203,96 +203,6 @@
           "publishedOn": "2025-11-23T18:20:00.000Z",
           "wordCount": 770,
           "title": "Grid Paper",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/11/inkwell-games/",
-          "author": null,
-          "description": "Inkwell Games bills itself as “Daily puzzles worth thinking about” and that’s a great tagline. Right now they offer two daily puzzles: Stars and Fields. Both are enjoyable but I rank Stars as a bit above Fields but as I get better at understanding the patterns of Fields it’s growing on me each day.\nLike the NYT, the puzzles grow in difficulty over the week and don’t feel bad if you miss a day because they’ll let you play any of other the puzzles from that week. I highly recommend Stars as a starter, it’s like Minesweeper meets Sudoku where each row, column, and box has two stars. It seems impossible at first, but over time you get a rhythm for cracking this cryptic.\nOne feature both Stars and Fields have that might be controversial to puzzle purists is a “Check” button. In practice this acts sort of like a “Guess” button where you’re at a dead end and have a guess, but don’t know for sure. It happens a lot in Fields where you’re staring at a grid of numbers with no clear move. Inkwell even wrote a blog post trying to de-stigmatize looking ahead which I appreciate immensely. The purist part of your brain feels guilty guessing at first, but in some ways it teaches you to trust your gut and intuition over time. I used to always need guesses in Stars and Fields but I’ve finished dozens on both now with zero guesses. That’s improvement and the wrinkles in my brain tingle with progress.\nIf you’re a fan of daily puzzle games, put these in your routine. The playful aesthetic of Inkwell Games’ games always bring a smile. I’m excited to try their upcoming puzzle Snakes and roll it into my daily routine.",
-          "link": "https://daverupert.com/2025/11/inkwell-games/",
-          "publishedOn": "2025-11-14T16:14:00.000Z",
-          "wordCount": 788,
-          "title": "Inkwell Games",
-          "imageUrl": "https://cdn.daverupert.com/posts/2025/inkwell.jpg"
-        },
-        {
-          "id": "https://daverupert.com/2025/11/clues-by-sam/",
-          "author": null,
-          "description": "Clues By Sam is a daily puzzle game where you get to uncover a criminal conspiracy by following the clues… made by Sam… err… Johannes. It’s a little if-this-then-that logic puzzle where Pam implicates Bob as a criminal and because Bob is a plumber and there’s one innocent plumber then Sally is innocent. It starts simple but overtime but often the clues will feel like they lead to a dead end… but there’s always a way to solve the puzzle. It has a sudoku-like quality to it. Like the NYT crossword the difficulty scales up over the week and is a good way to burn 10 minutes.\nClues by Sam is great. It’s the first game in my daily puzzle routine. It makes me feel like the world’s greatest detective sometimes. Other times it makes me realize I’m not detail-oriented enough to be an investigator. The whole puzzle is a dopamine rush and a pang of sadness hits when I finish the puzzle for there are no more Clues By Sam left to solve that day. I think that’s a good sign of a good game; players wanting to come back. But lucky for me, Clues By Sam is now offering a puzzle pack of 50 puzzles. A nice way to hook people when they’re already addicted.",
-          "link": "https://daverupert.com/2025/11/clues-by-sam/",
-          "publishedOn": "2025-11-14T15:37:00.000Z",
-          "wordCount": null,
-          "title": "Clues by Sam",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/11/la-rinconada-peru/",
-          "author": null,
-          "description": "Above the clouds in the Peruvian Andes there is a town named La Rinconada. It holds the title of being the highest year-round settlement in the world. At one point swelling to 30,000 people, the population has dwindled some now near 12,000. The weather is cold and the oxygen is thin. It’s incredible what humans are able to tolerate to survive. Existing there is dangerous, but that’s where the problems start.\nA brief disclaimer before going further...\nI want to be careful to not confuse poverty problems with systemic problems. Despite the gold in the hills, La Rinconada is a poor town. One documentary suggests people end up here because that’s the only option left for them. When talking about people in poverty, it’s easy to fall into a trap of drive-by poverty tourism and say “What a mess! …",
-          "link": "https://daverupert.com/2025/11/la-rinconada-peru/",
-          "publishedOn": "2025-11-13T16:35:00.000Z",
-          "wordCount": 1134,
-          "title": "La Rinconada, Peru",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/11/golden-candlesticks/",
-          "author": null,
-          "description": "In high school I had the weird, cyclical circumstance of reading Arthur Miller’s The Crucible at least once a year at every grade level. Like Groundhog’s day but set in fictionalized 17th century Salem. While I appreciated the easy grade at the time due to uncoordinated curriculum, reading and acting out The Crucible half a dozen times in those formative years means it left an imprint on my subconscious.\nThere’s a scene in Act 2 when famous demonologist and witch hunter Reverend John Hale visits protagonist John Proctor. He’s there to shake him down about his poor church attendance and also insinuate his wife is a witch. Proctor defends himself (and his wife) and during his defense makes a big deal about the golden candlesticks in the small, clapboard church (that Proctor put the roof on).…",
-          "link": "https://daverupert.com/2025/11/golden-candlesticks/",
-          "publishedOn": "2025-11-13T13:57:00.000Z",
-          "wordCount": null,
-          "title": "Golden candlesticks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/11/precious-plastic/",
-          "author": null,
-          "description": "The same people behind Project Kamp also run a project called Precious Plastic which is an open source plastic recycling platform. As most are well aware, plastic is a major problem polluting our land, our beaches, our rivers, our oceans, and our balls. While Ocean Cleanup is progressing nicely,  only 10% of the world’s plastic is recycled. That’s appallingly low for something we know is a huge issue. That’s the problem Precious Plastic is trying to solve.\n\nHow does Precious Plastic work? Like Project Kamp, they make open source research modules available to help you start a business recycling plastic. They offer guides on building your own machines , creating objects, running a business, and operating a space. There’s even a small marketplace where you can buy injection molds and a library of products for inspiration.  It’s almost like a startup in a box but instead of burning GPUs in Iowa to fancy-autocomplete some text, you’re melting garbage into table tops, cups, bowls, phone cases, and other knickknacks. Or you can specialize in making the raw materials (plastic chips, slabs, etc) that others can use to make their dream products. Nice.\n\nThe coolest part about Precious Plastic is that it’s a distributed open model that empowers local communities to solve their own plastic problems. My favorite example of this model is this young woman in Indonesia who recycled over 70 tons of plastic in two years while making $200k/yr.\n\nInspiring. Anyways, setting up a Precious Plastic facility like this is on my tech-exit vision board short list.",
-          "link": "https://daverupert.com/2025/11/precious-plastic/",
-          "publishedOn": "2025-11-13T05:00:00.000Z",
-          "wordCount": null,
-          "title": "Precious Plastic",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/11/project-kamp/",
-          "author": null,
-          "description": "I’m a sucker for off-grid DIY content. And a double-sucker for commune documentaries. And this post is about a project that scratches both those itches.\n\nProject Kamp is a sustainable living community in the hills of central Portugal. The unique thing about this cooperative living situation is that they’re sharing the process of reclaiming the land and growing an environmentally friendly community via their YouTube channel and open source modules. As with any project, there are ups and downs but week after week they make progress on tackling their list of problems challenges (which they address every 8th video) while maintaining their core values.\nWhen it comes to making decisions on how to grow or what projects to tackle, Project Kamp prioritizes environmental sustainability above nearly all other factors. That work manifests in installing solar panels, water management, repairing old buildings, waste management for dozens of people using outhouses, converting abandoned trailers into housing using recycled materials, and a lot of chopping down mimosa trees (an invasive species that starves out native oaks). It’s encouraging to watch a group of like-minded folks working to build the kind of world they want to live in.\nAt the time of writing, they’re on Episode #165 and while you don’t have to watch them all (it’s a lot of chopping mimosa trees), I do recommend going back in time a bit to watch the land evolve over time. I dropped in at Season 2 but the quality goes up in Season 3 and can recommend either as a starting point. From the outside looking in, Project Kamp seems like a bunch of sweet people trying hard to build something that lasts. If I was twenty years younger with no kids and still had a back, I’d probably consider applying to stay there.",
-          "link": "https://daverupert.com/2025/11/project-kamp/",
-          "publishedOn": "2025-11-13T04:42:00.000Z",
-          "wordCount": null,
-          "title": "Project Kamp",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/11/rust-storytelling/",
-          "author": null,
-          "description": "Although I technically own the game and played it once a decade ago; I had a horrible time playing Rust. Other players called me the N-word several times, I died almost instantly, my frame rates were trash, and after three hours I put it down and never played it again. Despite that first-run experience, I’ve spent a lot of time watching Rust videos in the last month.\nRust is like a hyper-realistic version of Minecraft but way more violent. You start naked on a beach with a rock and have to farm resources, craft tools, make clothes, and build shelter. That’s where the similarities to Minecraft stop. In Rust you’re on a single island with up to 200 other people in a player-vs-player Battle Royale-like situation. Over time alliances grow into clans, shelters expand into fortified bases, and t…",
-          "link": "https://daverupert.com/2025/11/rust-storytelling/",
-          "publishedOn": "2025-11-12T16:16:00.000Z",
-          "wordCount": 1227,
-          "title": "The built-in storytelling of Rust",
-          "imageUrl": "https://cdn.daverupert.com/posts/2025/rust.jpg"
-        },
-        {
-          "id": "https://daverupert.com/2025/11/ariathome/",
-          "author": null,
-          "description": "Ari Miller is a New York based beat maker who started streaming from his bedroom in 2020. He grew his following by engaging with other popular streamers but where I learned about him was his from viral street performances where he dawns a 55-lbs mobile production studio. He puts on his backpack and walks around New York city with a keyboard, a BOSS RC-505 MKII Loop Station, a microphone, and a computer to run it all through Ableton.\nThe beats Ari makes are incredible and his production skills are going to win him a Grammy some day. It’s all off the dome live in front of people while walking down the street. Ari doesn’t stop at beats. He takes it to the next level and invites strangers to hop on the mic and he tailors the beat to their personal style and preferences. It’s improv. It’s art. It’s music. It’s communion. There’s something pure about the creativity happening.\nWhat I think I like best about ARIatHOME is this: Seeing creative people expressing their gifts gives me hope. I know I’m watching six hour livestreams edited down to a 15 minute supercut, but Ari seems to have no trouble finding people who have talent and can rap. It might be becuase New York is the birthplace of hip-hop, but the city isn’t short of people willing to step up to the mic and drop some bars right there in the middle of the street.\nI also love that ARIatHOME reinforces the mythos that New York is a city full of characters. On every block Ari seems to find someone with more personality than I’ve ever seen in my whole life. Bombastic people with big attitudes, next-level fashion, and outrageous rhymes. It’s like everyone in New York City has that main character energy and Ari seems to be able to draw it out and put it on full display.\nThe world needs less apartment tours and more of this.",
-          "link": "https://daverupert.com/2025/11/ariathome/",
-          "publishedOn": "2025-11-12T15:12:00.000Z",
-          "wordCount": null,
-          "title": "ARIatHOME",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2025/11/random-mini-dungeons/",
-          "author": null,
-          "description": "I stumbled onto Odd Artworks’ Random Mini Dungeon video series via the algorithm. He rolls against a dice table to generate a theme and requirements and starts drawing an isomorphic dungeon on a single sheet of paper. It’s almost like a Solo-RPG meets Inktober mashup activity.\nThe process is straight forward: roll dice, spend an hour to an afternoon drawing the dungeon, scan it, add three layers of gray tones for shading, add color, then add glowing effects. All wrapped up in a “Draw and Talk” format, it makes for a nice predictable ASMR formula. He then collects all the dungeons and goblins he draws and puts them in a stapled zine.\nThe cartoony style is adorable and reminds me a bit of Kyle Ferrin from Leder Games’s style, who I’m fond of because I got to play DnD with Kyle once. Generating dungeons this way could be a great way to create one-shot mini-dungeons for your campaign (doubly-so if you run a campaign for kids). As a bonus you could surprise players at the end with a little artwork to remember the campaign.\nAnyways, I think it’s great and adds positive vibes into the world. You can buy Odd Artwork’s zines his website: https://www.oddartworks.com/",
-          "link": "https://daverupert.com/2025/11/random-mini-dungeons/",
-          "publishedOn": "2025-11-11T15:46:00.000Z",
-          "wordCount": 706,
-          "title": "Random Mini Dungeons",
           "imageUrl": null
         }
       ]
@@ -595,6 +505,16 @@
       "feedUrl": "https://soulteary.com/feed/",
       "siteUrl": "https://soulteary.com/feed/",
       "articles": [
+        {
+          "id": "https://soulteary.com/2026/02/18/use-docker-to-natively-deploy-github-actions-runner-by-fleet.html",
+          "author": "苏洋(soulteary)",
+          "description": "最近把我折腾 GitHub self-hosted runner 的一些经验，整理成了一个开源小工具 Runner Fleet（千帆）。它的目标很简单，把 Runner 当作服务来管，而不是当作一堆目录来管。我希望它能少点手工、少点踩坑，把 1～5 台机器上自托管 Runner 的部署、扩容、维护，收敛成一套可复用的流程。前期小规模好上手，后面要提高并发度、提升利用率、扩大吞吐，也不至于失控。",
+          "link": "https://soulteary.com/2026/02/18/use-docker-to-natively-deploy-github-actions-runner-by-fleet.html",
+          "publishedOn": "2026-02-18T10:20:00.000Z",
+          "wordCount": null,
+          "title": "用 Docker 私有化部署 GitHub Actions Runner（Runner Fleet）",
+          "imageUrl": null
+        },
         {
           "id": "https://soulteary.com/2026/01/04/maildev-compatible-test-mailbox-owlmail.html",
           "author": "苏洋(soulteary)",
@@ -1006,6 +926,106 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=309601",
+          "author": "Brandon Lee",
+          "description": "As many are shifting to Proxmox for both home lab and even production workloads and operations, there are several “day-to-day” operational activities that you probably want to know how to…\nThe post How I Patch My Proxmox Cluster Without Taking Anything Offline appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/02/how-i-patch-my-proxmox-cluster-without-taking-anything-offline/",
+          "publishedOn": "2026-02-19T13:54:18.000Z",
+          "wordCount": null,
+          "title": "How I Patch My Proxmox Cluster Without Taking Anything Offline",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=309570",
+          "author": "Brandon Lee",
+          "description": "If you have ever setup a production virtualization environment, including, VMware, Hyper-V, Proxmox, and others, when it comes to networking and storage efficiency, jumbo frames always come into the conversation.…\nThe post Jumbo Frames Broke My Proxmox Cluster and Here’s Why appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/02/jumbo-frames-broke-my-proxmox-cluster-and-heres-why/",
+          "publishedOn": "2026-02-18T13:13:40.000Z",
+          "wordCount": null,
+          "title": "Jumbo Frames Broke My Proxmox Cluster and Here’s Why",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=309523",
+          "author": "Brandon Lee",
+          "description": "One of the thing that a LOT of VMware vSphere admins feel like they are missing is the vCenter-like experience when they move over to Proxmox. This is where they…\nThe post Is This the vCenter Experience Proxmox Has Been Missing? Meet ProxCenter appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/02/is-this-the-vcenter-experience-proxmox-has-been-missing-meet-proxcenter/",
+          "publishedOn": "2026-02-17T13:21:35.000Z",
+          "wordCount": null,
+          "title": "Is This the vCenter Experience Proxmox Has Been Missing? Meet ProxCenter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=309498",
+          "author": "Brandon Lee",
+          "description": "Over the last few weeks I have been deeply involved in a Proxmox home lab project that is designed to reshape my home lab as I know it as I…\nThe post I Built a 5-Node Proxmox and Ceph Home Lab with 17TB and Dual 10Gb LACP appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/02/i-built-a-5-node-proxmox-and-ceph-home-lab-with-17tb-and-dual-10gb-lacp/",
+          "publishedOn": "2026-02-16T13:51:07.000Z",
+          "wordCount": null,
+          "title": "I Built a 5-Node Proxmox and Ceph Home Lab with 17TB and Dual 10Gb LACP",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=309379",
+          "author": "Brandon Lee",
+          "description": "Many in their home lab environments are running single Docker hosts for their Docker workloads and this is just fine when it comes to simplicity and ease of getting services…\nThe post How I Made a Single Docker Host Highly Available Using Proxmox in My Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/02/how-i-made-a-single-docker-host-highly-available-using-proxmox-in-my-home-lab/",
+          "publishedOn": "2026-02-14T14:17:29.000Z",
+          "wordCount": null,
+          "title": "How I Made a Single Docker Host Highly Available Using Proxmox in My Home Lab",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=309438",
+          "author": "Brandon Lee",
+          "description": "As you know if you have read my blog posts over the course of the past several months, I have been writing a lot about home lab documentation. Keeping things…\nThe post I’m Documenting My Entire Home Lab as Code with RackPeek appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/02/im-documenting-my-entire-home-lab-as-code-with-rackpeek/",
+          "publishedOn": "2026-02-13T13:41:06.000Z",
+          "wordCount": null,
+          "title": "I’m Documenting My Entire Home Lab as Code with RackPeek",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=309411",
+          "author": "Brandon Lee",
+          "description": "If you are running Proxmox in your home lab in 2026, you already know something. The hypervisor is one of the best out there and arguably I think it is…\nThe post 5 Proxmox Management Tools I Use in My Home Lab in 2026 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/02/5-proxmox-management-tools-i-use-in-my-home-lab-in-2026/",
+          "publishedOn": "2026-02-12T13:18:12.000Z",
+          "wordCount": null,
+          "title": "5 Proxmox Management Tools I Use in My Home Lab in 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=309383",
+          "author": "Brandon Lee",
+          "description": "Building your first home lab is an exciting adventure and an extremely addictive and rewarding hobby, that not only is fun, but also teaches you skills that you can apply…\nThe post What I’d Do (and Avoid) If I Were Building a Home Lab in 2026 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/02/what-id-do-and-avoid-if-i-were-building-a-home-lab-in-2026/",
+          "publishedOn": "2026-02-11T13:35:44.000Z",
+          "wordCount": null,
+          "title": "What I’d Do (and Avoid) If I Were Building a Home Lab in 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=309352",
+          "author": "Brandon Lee",
+          "description": "Recently in my home lab, I had a project that I was a little worried to execute on, but I decided to take the plunge and do it any way.…\nThe post Moving a Proxmox OS Drive Without Breaking Anything in Your Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/02/moving-a-proxmox-os-drive-without-breaking-anything-in-your-home-lab/",
+          "publishedOn": "2026-02-10T13:19:16.000Z",
+          "wordCount": null,
+          "title": "Moving a Proxmox OS Drive Without Breaking Anything in Your Home Lab",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=309290",
+          "author": "Brandon Lee",
+          "description": "When you start out with Proxmox, it usually begins with a single cluster that feels clean and manageable, with the expected handful of nodes. You have shared storage, the familiar…\nThe post Managing Multiple Proxmox Clusters Gets Messy When You Want Smarter Placement appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/02/managing-multiple-proxmox-clusters-gets-messy-when-you-want-smarter-placement/",
+          "publishedOn": "2026-02-09T13:15:30.000Z",
+          "wordCount": null,
+          "title": "Managing Multiple Proxmox Clusters Gets Messy When You Want Smarter Placement",
+          "imageUrl": null
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=309253",
           "author": "Brandon Lee",
@@ -1615,106 +1635,6 @@
           "wordCount": 12062,
           "title": "Complete Guide to Proxmox Containers in 2025: Docker VMs, LXC, and New OCI Support",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/Proxmox-Containers-in-2025.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=306825",
-          "author": "Brandon Lee",
-          "description": "Running your own self-hosted environment usually means you are going to be running Linux servers at some point (or you should be). Linux provides one of the most robust and…\nThe post 15 Troubleshooting Commands Every Linux Home Lab Admin Should Know appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/11/15-troubleshooting-commands-every-linux-home-lab-admin-should-know/",
-          "publishedOn": "2025-11-21T13:06:56.000Z",
-          "wordCount": 12041,
-          "title": "15 Troubleshooting Commands Every Linux Home Lab Admin Should Know",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/Best-Linux-troubleshooting-commands.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=306873",
-          "author": "Brandon Lee",
-          "description": "Here we are late in 2025, with the news that Proxmox VE 9.1 has been released as news from the Proxmox official blog has announced. This release has a lot…\nThe post Proxmox VE 9.1 Launches with OCI Image Support, vTPM Snapshots, and Big SDN Upgrades appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/11/proxmox-ve-9-1-launches-with-oci-image-support-vtpm-snapshots-and-big-sdn-upgrades/",
-          "publishedOn": "2025-11-20T13:11:40.000Z",
-          "wordCount": 11195,
-          "title": "Proxmox VE 9.1 Launches with OCI Image Support, vTPM Snapshots, and Big SDN Upgrades",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/Proxmox-VE-9.1-Released.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=306693",
-          "author": "Brandon Lee",
-          "description": "I have been on a kick lately of trying out various Linux distros. The Linux distro ecosystem has had some really great introductions over the past couple of years. Just…\nThe post Cachy Linux is the Fast New Linux Distro Your Home Lab Will Love appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/11/cachy-linux-is-the-fast-new-linux-distro-your-home-lab-will-love/",
-          "publishedOn": "2025-11-19T13:36:33.000Z",
-          "wordCount": 10033,
-          "title": "Cachy Linux is the Fast New Linux Distro Your Home Lab Will Love",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/cachyos.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=306757",
-          "author": "Brandon Lee",
-          "description": "Running a home lab in 2025 is one of the most exciting and fun things you can build. It also develops skills that others simply don’t build without one. Networking…\nThe post 10 Linux Networking Commands Every Home Lab Admin Should Know in 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/11/10-linux-networking-commands-every-home-lab-admin-should-know-in-2025/",
-          "publishedOn": "2025-11-18T14:37:26.000Z",
-          "wordCount": 10854,
-          "title": "10 Linux Networking Commands Every Home Lab Admin Should Know in 2025",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/10-Linux-Networking-commands.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=306701",
-          "author": "Brandon Lee",
-          "description": "When you start out in the home lab managing containers, this always starts out fairly simple when you have one or two containers. You might even introduce a reverse proxy…\nThe post Lazy Docker Is the Easiest Way to Manage Home Lab Containers From Your Terminal appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/11/lazy-docker-is-the-easiest-way-to-manage-home-lab-containers-from-your-terminal/",
-          "publishedOn": "2025-11-17T13:12:18.000Z",
-          "wordCount": 16150,
-          "title": "Lazy Docker Is the Easiest Way to Manage Home Lab Containers From Your Terminal",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/Lazy-Docker-Is-the-Easiest-Way-to-Manage-Home-Lab-Containers-From-Your-Terminal.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=306656",
-          "author": "Brandon Lee",
-          "description": "Home lab tech is growing, morphing, and evolving rapidly like everything else in the industry. We have more automation, containerized apps, and more potential in our mini PCs than ever…\nThe post 10 Best Terminal Tools for Home Labs in 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/11/10-best-terminal-tools-for-home-labs-in-2025/",
-          "publishedOn": "2025-11-14T13:11:00.000Z",
-          "wordCount": 10511,
-          "title": "10 Best Terminal Tools for Home Labs in 2025",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/10-Best-terminal-tools.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=306603",
-          "author": "Brandon Lee",
-          "description": "I recently in compiling my latest list of Proxmox tools that you need to know about for the home lab, stumbled on a new community-developed tool called PVETUI. It is…\nThe post This New Tool Lets You Manage Proxmox Entirely from Your Terminal appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/11/this-new-tool-lets-you-manage-proxmox-entirely-from-your-terminal/",
-          "publishedOn": "2025-11-13T13:36:47.000Z",
-          "wordCount": 11360,
-          "title": "This New Tool Lets You Manage Proxmox Entirely from Your Terminal",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/PVETUI-2-1.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=306544",
-          "author": "Brandon Lee",
-          "description": "There are many great operating systems out there for home lab, including Ubuntu Server, Fedora, Debian, and others. But there is one that you may not have tried as of…\nThe post NixOS is the Best Home Lab OS You Haven’t Tried Yet appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/11/nixos-is-the-best-home-lab-os-you-havent-tried-yet/",
-          "publishedOn": "2025-11-12T13:32:50.000Z",
-          "wordCount": 11611,
-          "title": "NixOS is the Best Home Lab OS You Haven’t Tried Yet",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/NixOS-best-home-lab-os-you-havent-heard-of.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=306462",
-          "author": "Brandon Lee",
-          "description": "Proxmox is definitely the de facto standard for open-source virtualization in the home lab. It is a crazy good virtualization platform that you can run for free, with clustering, and…\nThe post 15 Best Proxmox Tools and Scripts That Make Your Home Lab Easier appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/11/15-best-proxmox-tools-and-scripts-that-make-your-home-lab-easier/",
-          "publishedOn": "2025-11-11T13:21:34.000Z",
-          "wordCount": 10078,
-          "title": "15 Best Proxmox Tools and Scripts That Make Your Home Lab Easier",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/15-proxmox-tools.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=306365",
-          "author": "Brandon Lee",
-          "description": "There are certain docker containers that make a lot of sense to run in a home lab that just make life easier, better, and more efficient in the lab environment.…\nThe post 15 Docker Containers That Make Your Home Lab Instantly Better appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/11/15-docker-containers-that-make-your-home-lab-instantly-better/",
-          "publishedOn": "2025-11-10T13:15:54.000Z",
-          "wordCount": 10761,
-          "title": "15 Docker Containers That Make Your Home Lab Instantly Better",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/15-docker-containers-that-instantly-improve-your-home-lab.png"
         }
       ]
     },
@@ -1723,6 +1643,416 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=72300",
+          "author": "Collabnix Team",
+          "description": "Announced at the India AI Impact Summit 2026, The ePlane Company's digital twin of the e200x marks a turning point for indigenous aerospace engineering.",
+          "link": "https://collabnix.com/indias-first-electric-air-taxi-just-got-a-digital-soul-and-it-runs-on-nvidia-omniverse/",
+          "publishedOn": "2026-02-19T18:37:53.000Z",
+          "wordCount": null,
+          "title": "India’s First Electric Air Taxi Just Got a Digital Soul And It Runs on NVIDIA Omniverse: India AI Impact Summit 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=72273",
+          "author": "Tanvir Kour",
+          "description": "Compare five Salesforce customization service firms and see how different partners approach CRM personalization, integrations, workflow design, and enterprise-scale customization.",
+          "link": "https://collabnix.com/top-salesforce-customization-service-firms-for-advanced-crm-personalization/",
+          "publishedOn": "2026-02-19T18:13:37.000Z",
+          "wordCount": null,
+          "title": "Top Salesforce Customization Service Firms for Advanced CRM Personalization",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=72258",
+          "author": "Tanvir Kour",
+          "description": "Many times, companies need to move from a legacy system to a new solution in order to grow. Since downtime is one of the biggest challenges related to data migration, the process is not easy. Interruptions, however minimal, can affect productivity and even the user experience. With proper planning and a strategic migration process, it […]",
+          "link": "https://collabnix.com/tips-to-migrate-data-from-old-architecture-with-minimal-downtime/",
+          "publishedOn": "2026-02-19T11:36:47.000Z",
+          "wordCount": null,
+          "title": "Tips to Migrate Data From Old Architecture With Minimal Downtime",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=72251",
+          "author": "Tanvir Kour",
+          "description": "As many industries are showing an increased rate of blockchain technology adoption, scalability has become a major challenge. This is because, as blockchain networks grow, they often face performance bottlenecks, high transaction costs, and slower confirmation times. To overcome these challenges, developers must adopt strategies that allow blockchain solutions to scale efficiently while maintaining security […]",
+          "link": "https://collabnix.com/7-best-practices-to-build-scalable-blockchain-solutions/",
+          "publishedOn": "2026-02-19T09:43:58.000Z",
+          "wordCount": null,
+          "title": "7 Best Practices to Build Scalable Blockchain Solutions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=72229",
+          "author": "Collabnix Team",
+          "description": "Ollama just dropped one of its most significant updates yet – native support for subagents and web search when using Claude Code. The best part? Zero configuration overhead. No MCP servers to set up, no API keys to manage, no Docker Compose files to orchestrate. Just one command, and you’re running parallel AI agents with […]",
+          "link": "https://collabnix.com/ollama-now-supports-subagents-and-web-search-in-claude-code-no-mcp-servers-or-api-keys-required/",
+          "publishedOn": "2026-02-17T08:15:51.000Z",
+          "wordCount": null,
+          "title": "Ollama Now Supports Subagents and Web Search in Claude Code – No MCP Servers or API Keys Required",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=72216",
+          "author": "Collabnix Team",
+          "description": "Discover PersonaPlex-7B-v1 NVIDIA Speech Model If you’ve ever used a voice assistant and felt that awkward pause — where you speak, wait, the AI thinks, and then responds — you already know the biggest pain point in conversational AI. Traditional voice pipelines stitch together three separate models: Speech-to-Text (STT), a Large Language Model (LLM), and […]",
+          "link": "https://collabnix.com/nvidia-personaplex-7b-v1-the-full-duplex-speech-model-that-talks-like-a-human/",
+          "publishedOn": "2026-02-16T06:30:28.000Z",
+          "wordCount": null,
+          "title": "PersonaPlex-7B-v1 NVIDIA: Human-Like Speech Model",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=72194",
+          "author": "Collabnix Team",
+          "description": "AI-powered Zabbix chat assistant for enhanced monitoring Ever wished your monitoring team could just ask Zabbix a question in plain English instead of clicking through dashboards? Imagine a chat interface where your NOC engineer types “Show me all critical triggers on production servers” and gets an instant, formatted answer — powered by Claude and connected […]",
+          "link": "https://collabnix.com/building-a-secure-ai-powered-zabbix-chat-assistant-with-openwebui-claude-and-sso-based-access-control/",
+          "publishedOn": "2026-02-15T15:04:14.000Z",
+          "wordCount": null,
+          "title": "Building a Secure AI-Powered Zabbix Chat Assistant with OpenWebUI, Claude, and SSO-Based Access Control",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/understanding-retrieval-augmented-generation-how-rag-works-explained-2/",
+          "author": "Collabnix Team",
+          "description": "Explore how Retrieval Augmented Generation is revolutionizing AI by enhancing text generation with real-time data retrieval, offering applications precision, accuracy, and relevance.",
+          "link": "https://collabnix.com/understanding-retrieval-augmented-generation-how-rag-works-explained-2/",
+          "publishedOn": "2026-02-15T14:44:58.000Z",
+          "wordCount": null,
+          "title": "Understanding Retrieval Augmented Generation: How RAG Works Explained",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/understanding-retrieval-augmented-generation-how-rag-works-explained/",
+          "author": "Collabnix Team",
+          "description": "Explore how Retrieval Augmented Generation is revolutionizing AI by enhancing text generation with real-time data retrieval, offering applications precision, accuracy, and relevance.",
+          "link": "https://collabnix.com/understanding-retrieval-augmented-generation-how-rag-works-explained/",
+          "publishedOn": "2026-02-15T14:44:31.000Z",
+          "wordCount": null,
+          "title": "Understanding Retrieval Augmented Generation: How RAG Works Explained",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/understanding-ai-agents-and-chatbots-key-differences-and-why-they-matter/",
+          "author": "Collabnix Team",
+          "description": "Discover the fundamental differences between AI agents and chatbots, their capabilities, and why selecting the right tool matters for your business's efficiency.",
+          "link": "https://collabnix.com/understanding-ai-agents-and-chatbots-key-differences-and-why-they-matter/",
+          "publishedOn": "2026-02-15T03:27:32.000Z",
+          "wordCount": null,
+          "title": "Understanding AI Agents and Chatbots: Key Differences and Why They Matter",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/deploying-ai-models-on-kubernetes-using-kserve-2/",
+          "author": "Collabnix Team",
+          "description": "Deploy AI models on Kubernetes using KServe for scalable, manageable solutions. Learn how to handle deployment intricacies and optimize model serving efficiently with this comprehensive guide.",
+          "link": "https://collabnix.com/deploying-ai-models-on-kubernetes-using-kserve-2/",
+          "publishedOn": "2026-02-14T13:29:10.000Z",
+          "wordCount": null,
+          "title": "Deploying AI Models on Kubernetes Using KServe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/deploying-ai-models-on-kubernetes-using-kserve/",
+          "author": "Collabnix Team",
+          "description": "Deploy AI models on Kubernetes using KServe for scalable, manageable solutions. Learn how to handle deployment intricacies and optimize model serving efficiently with this comprehensive guide.",
+          "link": "https://collabnix.com/deploying-ai-models-on-kubernetes-using-kserve/",
+          "publishedOn": "2026-02-14T13:28:46.000Z",
+          "wordCount": null,
+          "title": "Deploying AI Models on Kubernetes Using KServe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/openai-api-vs-claude-api-vs-gemini-api-developer-comparison-guide-2025/",
+          "author": "Collabnix Team",
+          "description": "Explore a comprehensive developer guide comparing OpenAI, Claude, and Gemini APIs. Discover how these AI platforms differ in functionality, deployment, and integration.",
+          "link": "https://collabnix.com/openai-api-vs-claude-api-vs-gemini-api-developer-comparison-guide-2025/",
+          "publishedOn": "2026-02-14T03:14:03.000Z",
+          "wordCount": null,
+          "title": "OpenAI API vs Claude API vs Gemini API: Developer Comparison Guide 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/understanding-ai-embeddings-a-deep-dive-into-vector-search-for-beginners/",
+          "author": "Collabnix Team",
+          "description": "Explore how AI embeddings and vector search transform traditional search functionalities into powerful, meaning-based retrieval systems, enabling more nuanced and context-aware user interactions.",
+          "link": "https://collabnix.com/understanding-ai-embeddings-a-deep-dive-into-vector-search-for-beginners/",
+          "publishedOn": "2026-02-14T02:19:17.000Z",
+          "wordCount": null,
+          "title": "Understanding AI Embeddings: A Deep Dive into Vector Search for Beginners",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=72112",
+          "author": "Tanvir Kour",
+          "description": "The moment someone says, “Has anyone seen the spare key?” The room changes. It sounds small, almost mundane, until you realize what it actually means: a piece of your workplace security is missing, and nobody knows where it went. A lost key is not just an inconvenience. It is an unanswered question hanging over your […]",
+          "link": "https://collabnix.com/risk-mitigation-why-lost-keys-are-a-liability-you-cant-afford-at-the-office/",
+          "publishedOn": "2026-02-13T16:51:06.000Z",
+          "wordCount": null,
+          "title": "Risk Mitigation: Why “Lost Keys” Are a Liability You Can’t Afford at the Office",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/understanding-openclaw-the-open-source-ai-agent-framework/",
+          "author": "Collabnix Team",
+          "description": "Explore the essentials of OpenClaw, an open-source AI agent framework, and understand how it stands out in building intelligent systems.",
+          "link": "https://collabnix.com/understanding-openclaw-the-open-source-ai-agent-framework/",
+          "publishedOn": "2026-02-13T13:44:52.000Z",
+          "wordCount": null,
+          "title": "Understanding OpenClaw: The Open Source AI Agent Framework",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=72104",
+          "author": "Collabnix Team",
+          "description": "The Evolution Beyond DevOps In the fast-paced world of software development and IT operations, traditional DevOps has long been heralded as the key to bridging the gap between development and operations teams. By fostering collaboration and automating workflows, DevOps has significantly improved deployment speeds and application reliability. However, as enterprise needs evolve, many organizations are […]",
+          "link": "https://collabnix.com/how-platform-engineering-is-replacing-traditional-devops-models/",
+          "publishedOn": "2026-02-13T10:56:50.000Z",
+          "wordCount": null,
+          "title": "How Platform Engineering Is Replacing Traditional DevOps Models",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=72096",
+          "author": "Ajeet Raina",
+          "description": "If there’s one AI event you absolutely cannot afford to miss this year, it’s NVIDIA GTC 2026. Happening March 16–19 in San Jose, CA (and virtually!), GTC has firmly established itself as what Jensen Huang himself calls the “Super Bowl of AI.” As someone who lives and breathes at the intersection of containers, DevOps, and […]",
+          "link": "https://collabnix.com/top-5-reasons-why-im-attending-nvidia-gtc-2026-and-why-you-should-too/",
+          "publishedOn": "2026-02-13T06:17:09.000Z",
+          "wordCount": null,
+          "title": "Top 5 Reasons Why I’m Attending NVIDIA GTC 2026 (And Why You Should Too!)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/running-llms-locally-with-ollama-a-complete-setup-guide/",
+          "author": "Collabnix Team",
+          "description": "Learn how to run Large Language Models locally with Ollama, enhancing data privacy and reducing latency for your applications.",
+          "link": "https://collabnix.com/running-llms-locally-with-ollama-a-complete-setup-guide/",
+          "publishedOn": "2026-02-13T03:28:27.000Z",
+          "wordCount": null,
+          "title": "Running LLMs Locally with Ollama: A Complete Setup Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/building-stateful-ai-workflows-with-langgraph/",
+          "author": "Collabnix Team",
+          "description": "Learn how to leverage LangGraph to craft stateful AI agent workflows, crucial for handling sophisticated interactions in cloud-native environments.",
+          "link": "https://collabnix.com/building-stateful-ai-workflows-with-langgraph/",
+          "publishedOn": "2026-02-12T13:52:42.000Z",
+          "wordCount": null,
+          "title": "Building Stateful AI Workflows with LangGraph",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/fine-tuning-language-models-with-lora-a-comprehensive-guide/",
+          "author": "Collabnix Team",
+          "description": "Learn how to fine-tune large language models with Low-Rank Adaptation (LoRA) using Python and Docker. This guide covers setting up the environment, choosing the right model, and preparing for fine-tuning.",
+          "link": "https://collabnix.com/fine-tuning-language-models-with-lora-a-comprehensive-guide/",
+          "publishedOn": "2026-02-12T03:27:57.000Z",
+          "wordCount": null,
+          "title": "Fine-Tuning Language Models with LoRA: A Comprehensive Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/best-ai-agent-frameworks-in-2025-an-in-depth-comparison/",
+          "author": "Collabnix Team",
+          "description": "Explore the best AI agent frameworks in 2025: LangChain vs CrewAI vs AutoGen vs OpenClaw. Dive deep into each framework's strengths and use cases.",
+          "link": "https://collabnix.com/best-ai-agent-frameworks-in-2025-an-in-depth-comparison/",
+          "publishedOn": "2026-02-11T13:58:05.000Z",
+          "wordCount": null,
+          "title": "Best AI Agent Frameworks in 2025: An In-Depth Comparison",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=72011",
+          "author": "Tanvir Kour",
+          "description": "The idea of building software from natural language has existed for years, but in practice, most tools have focused on assisting parts of the process rather than owning the entire workflow. Code generation, UI suggestions, and component scaffolding have improved productivity, but the responsibility for planning, assembly, and delivery has largely remained with the user. […]",
+          "link": "https://collabnix.com/famous-ai-a-conceptual-look-at-how-it-turns-prompts-into-working-applications/",
+          "publishedOn": "2026-02-11T10:32:16.000Z",
+          "wordCount": null,
+          "title": "Famous.ai: A Conceptual Look at How It Turns Prompts Into Working Applications",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=72008",
+          "author": "Tanvir Kour",
+          "description": "Free Learning Management Systems (LMSs) are instrumental in the continuous digitalization of the education sector. Schools, universities, and independent educators can use these systems to meet various learning requirements. The affordability of the institution attracts buyers with a low budget. What is the specific use of these platforms in education? A variety of features promote […]",
+          "link": "https://collabnix.com/common-use-cases-for-free-lms-systems-in-education/",
+          "publishedOn": "2026-02-11T08:49:01.000Z",
+          "wordCount": null,
+          "title": "Common Use Cases for Free LMS Systems in Education",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/openclaw-architecture-deep-dive-how-it-works-under-the-hood/",
+          "author": "Collabnix Team",
+          "description": "Explore OpenClaw, an emerging AI agent framework. This deep dive unveils its architecture, offering insights into building flexible AI-driven solutions.",
+          "link": "https://collabnix.com/openclaw-architecture-deep-dive-how-it-works-under-the-hood/",
+          "publishedOn": "2026-02-11T03:31:49.000Z",
+          "wordCount": null,
+          "title": "OpenClaw Architecture Deep Dive: How It Works Under the Hood",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/comprehensive-guide-to-kubernetes-operators-beginners-insight-2/",
+          "author": "Collabnix Team",
+          "description": "Explore the world of Kubernetes Operators, learn how they automate complex tasks, and see why they are essential for managing cloud-native applications.",
+          "link": "https://collabnix.com/comprehensive-guide-to-kubernetes-operators-beginners-insight-2/",
+          "publishedOn": "2026-02-11T00:17:31.000Z",
+          "wordCount": null,
+          "title": "Comprehensive Guide to Kubernetes Operators: Beginner’s Insight",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/comprehensive-guide-to-kubernetes-operators-beginners-insight/",
+          "author": "Collabnix Team",
+          "description": "Explore the world of Kubernetes Operators, learn how they automate complex tasks, and see why they are essential for managing cloud-native applications.",
+          "link": "https://collabnix.com/comprehensive-guide-to-kubernetes-operators-beginners-insight/",
+          "publishedOn": "2026-02-11T00:17:11.000Z",
+          "wordCount": null,
+          "title": "Comprehensive Guide to Kubernetes Operators: Beginner’s Insight",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=71926",
+          "author": "Tanvir Kour",
+          "description": "What if your iPhone dies quickly or won’t charge, leaving you unable to make calls, send messages, or use apps? This can happen because of numerous reasons, but simple solutions like Dr.Fone can fix it seamlessly, as well as other issues, such as iOS update fails. Therefore, this guide explains how Dr.Fone iOS system repair […]",
+          "link": "https://collabnix.com/iphone-not-charging-or-losing-battery-fast-easy-fixes/",
+          "publishedOn": "2026-02-10T18:28:40.000Z",
+          "wordCount": null,
+          "title": "iPhone Not Charging or Losing Battery Fast? Easy Fixes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=71907",
+          "author": "Tanvir Kour",
+          "description": "A​‍​‌‍​‍‌ device that continually restarts on its own or one that freezes can get so frustrating that it might even seem fully broken. A boot loop is when a device keeps restarting itself over and over again and the home screen never shows up. When it is a system freeze, the screen and the control […]",
+          "link": "https://collabnix.com/fixing-boot-loops-and-frozen-systems-advanced-recovery-mode-techniques/",
+          "publishedOn": "2026-02-10T18:22:27.000Z",
+          "wordCount": null,
+          "title": "Fixing Boot Loops and Frozen Systems: Advanced Recovery Mode Techniques",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=71895",
+          "author": "Manish Lingadevaru",
+          "description": "Self-Host Perplexica AI: Easy Docker & Ollama Guide This guide offers a step-by-step walkthrough of how you can deploy your own personal AI assistant, Perplexica, using two powerful, modern technologies: Docker Desktop and the Ollama model. The objective is to demystify the process of setting up a sophisticated AI application in a local, controlled environment. […]",
+          "link": "https://collabnix.com/self-host-perplexica-ai-the-ultimate-docker-and-ollama-setup/",
+          "publishedOn": "2026-02-10T16:26:40.000Z",
+          "wordCount": null,
+          "title": "Self-Host Perplexica AI: The Ultimate Docker and Ollama Setup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/harnessing-the-power-of-ollama-a-comprehensive-guide-2/",
+          "author": "Collabnix Team",
+          "description": "Explore the capabilities of Ollama in AI model deployment, from installation to feature exploration, with a focus on Docker container benefits.",
+          "link": "https://collabnix.com/harnessing-the-power-of-ollama-a-comprehensive-guide-2/",
+          "publishedOn": "2026-02-10T14:57:42.000Z",
+          "wordCount": null,
+          "title": "Ollama Guide: Harnessing Its Full Potential",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/harnessing-the-power-of-ollama-a-comprehensive-guide/",
+          "author": "Collabnix Team",
+          "description": "Explore the capabilities of Ollama in AI model deployment, from installation to feature exploration, with a focus on Docker container benefits.",
+          "link": "https://collabnix.com/harnessing-the-power-of-ollama-a-comprehensive-guide/",
+          "publishedOn": "2026-02-10T14:57:21.000Z",
+          "wordCount": null,
+          "title": "Harnessing the Power of Ollama: A Comprehensive Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/an-in-depth-guide-to-software-agents/",
+          "author": "Collabnix Team",
+          "description": "Explore the multifaceted world of software agents—autonomous programs vital for automation and monitoring in modern tech environments.",
+          "link": "https://collabnix.com/an-in-depth-guide-to-software-agents/",
+          "publishedOn": "2026-02-10T08:46:37.000Z",
+          "wordCount": null,
+          "title": "An In-Depth Guide to Software Agents",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/enhancing-memory-in-ai-agents-integrating-short-term-and-long-term-context/",
+          "author": "Collabnix Team",
+          "description": "Explore how to effectively add both short-term and long-term memory to AI agents to enhance their contextual capabilities and operational efficiency.",
+          "link": "https://collabnix.com/enhancing-memory-in-ai-agents-integrating-short-term-and-long-term-context/",
+          "publishedOn": "2026-02-10T03:39:20.000Z",
+          "wordCount": null,
+          "title": "Enhancing Memory in AI Agents: Integrating Short-Term and Long-Term Context",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/building-an-ai-coding-agent-harness-the-power-of-machine-learning-for-code-automation/",
+          "author": "Collabnix Team",
+          "description": "Learn how to build an AI coding agent that automates the writing and testing of code using machine learning. This guide covers setting up the environment and installing the necessary libraries.",
+          "link": "https://collabnix.com/building-an-ai-coding-agent-harness-the-power-of-machine-learning-for-code-automation/",
+          "publishedOn": "2026-02-10T02:32:16.000Z",
+          "wordCount": null,
+          "title": "Building an AI Coding Agent: Harness the Power of Machine Learning for Code Automation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=71840",
+          "author": "Tanvir Kour",
+          "description": "Due to the rapid increase in the number of services and environments in use, as well as accelerating release cycles, reliability is one of the main challenges for today’s dev teams. In the context of continuous deployment, “reliability” is the extent to which your team delivers changes safely and consistently, without increasing failure rates or […]",
+          "link": "https://collabnix.com/improving-the-reliability-of-your-continuous-deployment-pipeline-in-2026/",
+          "publishedOn": "2026-02-09T14:54:38.000Z",
+          "wordCount": null,
+          "title": "Improving the Reliability of Your Continuous Deployment Pipeline in 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=71838",
+          "author": "Tanvir Kour",
+          "description": "Application security has changed dramatically over the past decade. Modern software is not built as a single application with a few updates each year. Today’s apps are cloud-native with plenty of APIs and microservices, and deployed continuously. As such, new DevOps security approaches like dynamic testing and runtime protection have become core components of a […]",
+          "link": "https://collabnix.com/why-modern-appsec-still-starts-with-sast/",
+          "publishedOn": "2026-02-09T14:51:52.000Z",
+          "wordCount": null,
+          "title": "Modern Application Security: Why SAST Matters",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/understanding-agentic-ai-how-autonomous-ai-agents-operate/",
+          "author": "Collabnix Team",
+          "description": "Discover how Agentic AI develops autonomous agents capable of independent decision-making informed by advanced AI techniques.",
+          "link": "https://collabnix.com/understanding-agentic-ai-how-autonomous-ai-agents-operate/",
+          "publishedOn": "2026-02-09T14:09:39.000Z",
+          "wordCount": null,
+          "title": "Understanding Agentic AI: How Autonomous AI Agents Operate",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/understanding-agentic-ai-concepts-challenges-and-applications/",
+          "author": "Collabnix Team",
+          "description": "Explore the world of agentic AI, where autonomous agents make independent decisions, transforming industries like healthcare and transportation.",
+          "link": "https://collabnix.com/understanding-agentic-ai-concepts-challenges-and-applications/",
+          "publishedOn": "2026-02-09T09:39:48.000Z",
+          "wordCount": null,
+          "title": "Understanding Agentic AI: Concepts, Challenges, and Applications",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=71738",
+          "author": "Collabnix Team",
+          "description": "The Importance of Sandboxing for AI Agents AI agents are getting really good at their jobs. That’s the problem. A year ago, most of us were copy-pasting code suggestions from a chatbot. Now we’re handing agents the keys to our terminals, our file systems, our package managers, our cloud credentials — and telling them to […]",
+          "link": "https://collabnix.com/why-ai-agents-need-sandboxing/",
+          "publishedOn": "2026-02-08T04:00:41.000Z",
+          "wordCount": null,
+          "title": "Why AI Agents Need Sandboxing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=71733",
+          "author": "Tanvir Kour",
+          "description": "Looking for Klaviyo alternatives for e-commerce brands? Discover the best marketing platforms by comparing features and pricing for stores now",
+          "link": "https://collabnix.com/top-9-klaviyo-alternatives-for-e-commerce-brands/",
+          "publishedOn": "2026-02-07T15:45:02.000Z",
+          "wordCount": null,
+          "title": "Top 9 Klaviyo Alternatives for E-commerce Brands",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=71693",
           "author": "Tanvir Kour",
@@ -2442,266 +2772,6 @@
           "wordCount": null,
           "title": "Why Quick Play Mobile Games Are Defining Modern Downtime",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=61120",
-          "author": "Collabnix Team",
-          "description": "Unlock Claude's full potential with modular, reusable Skills that extend capabilities across document creation, data analysis, frontend design, and more",
-          "link": "https://collabnix.com/claude-skills-transform-claude-from-a-general-purpose-ai-into-a-specialized-expert/",
-          "publishedOn": "2025-11-22T06:37:50.000Z",
-          "wordCount": null,
-          "title": "Claude Skills: Transform Claude from a General-Purpose AI into a Specialized Expert",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=60988",
-          "author": "Collabnix Team",
-          "description": "Discover how AI transforms CI/CD pipelines with predictive testing, intelligent deployments, and self-optimizing automation to boost DevOps efficiency and reliability.",
-          "link": "https://collabnix.com/ai-in-ci-cd-pipelines-automating-testing-and-deployment-with-machine-learning/",
-          "publishedOn": "2025-11-20T09:15:56.000Z",
-          "wordCount": 6590,
-          "title": "AI in CI/CD Pipelines: Automating Testing and Deployment with Machine Learning",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=60978",
-          "author": "Tanvir Kour",
-          "description": "Engineering groups today encounter a distinct obstacle: they’re concurrently constructing technology and determining how to operate with swiftly developing instruments. While organizations sprint to embrace fresh solutions, the reality for developers is considerably messier. Achievement isn’t about selecting the most attractive instruments; it’s about grasping how technology modifies the manner individuals genuinely operate. Numerous organizations […]",
-          "link": "https://collabnix.com/transforming-employee-experience-with-ai-digital-transformation-what-engineering-teams-need-to-know/",
-          "publishedOn": "2025-11-20T05:40:59.000Z",
-          "wordCount": null,
-          "title": "Transforming Employee Experience with AI Digital Transformation: What Engineering Teams Need to Know",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=60967",
-          "author": "Collabnix Team",
-          "description": "As devs, we typically think about other people’s data – processing it, encrypting it, validating it. But what about our own data, our own privacy? We talk about privacy by design all the time, but the truth is that many developers still don’t apply those same principles in either their work or personal digital lives. […]",
-          "link": "https://collabnix.com/the-developers-guide-to-online-privacy-without-going-off-the-grid/",
-          "publishedOn": "2025-11-20T03:28:28.000Z",
-          "wordCount": null,
-          "title": "The Developer’s Guide to Online Privacy (Without Going Off the Grid)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=60902",
-          "author": "Collabnix Team",
-          "description": "Discover Google Gemini 3 - the most intelligent AI model with state-of-the-art reasoning, generative UI, and agentic capabilities. Complete guide with Python, Node.js, and Docker examples.",
-          "link": "https://collabnix.com/google-gemini-3-complete-developer-guide-with-code-examples/",
-          "publishedOn": "2025-11-19T12:20:19.000Z",
-          "wordCount": 10811,
-          "title": "Google Gemini 3: Complete Developer Guide with Code Examples",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=60896",
-          "author": "Tanvir Kour",
-          "description": "The software development landscape is experiencing a seismic shift. Within the last 24 hours, Google dropped what might be their most significant developer tool since Firebase or Google Cloud Platform: Google Antigravity, an agentic development platform powered by their newly released Gemini 3 model. As someone who’s spent years in the DevOps trenches and watched […]",
-          "link": "https://collabnix.com/first-impressions-google-antigravity-the-search-giant-enters-the-agentic-ide-arena/",
-          "publishedOn": "2025-11-19T12:03:21.000Z",
-          "wordCount": null,
-          "title": "First Impressions: Google Antigravity – The Search Giant Enters the Agentic IDE Arena",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=60888",
-          "author": "Collabnix Team",
-          "description": "Maximize Efficiency with ChatGPT Everyday Tasks Introduction: Why ChatGPT is Transforming Daily Workflows With over 326 million global searches, ChatGPT has become the go-to AI assistant for millions of users worldwide. Whether you’re a developer, content creator, business professional, or student, ChatGPT can automate repetitive tasks, boost creativity, and save hours of manual work. In […]",
-          "link": "https://collabnix.com/how-to-use-chatgpt-for-everyday-tasks-a-complete-guide-with-code-examples/",
-          "publishedOn": "2025-11-19T08:20:17.000Z",
-          "wordCount": null,
-          "title": "ChatGPT for Everyday Tasks: A Complete Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=60759",
-          "author": "Collabnix Team",
-          "description": "In the rapidly evolving landscape of cloud-native infrastructure, Kagent emerges as the first open-source agentic AI framework purpose-built for Kubernetes environments. Developed by Solo.io and contributed to the Cloud Native Computing Foundation (CNCF), Kagent represents a paradigm shift from traditional automation to autonomous, reasoning-capable systems that can independently diagnose, troubleshoot, and resolve complex operational challenges […]",
-          "link": "https://collabnix.com/what-is-kagent-and-why-should-devops-engineers-care/",
-          "publishedOn": "2025-11-17T19:32:53.000Z",
-          "wordCount": 4690,
-          "title": "What is Kagent and Why Should DevOps Engineers Care?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=60725",
-          "author": "Tanvir Kour",
-          "description": "Understanding Serverless Architecture and Its Limits The Serverless vs Kubernetes debate isn’t about which technology is superior—it’s about finding the right tool for your specific problem. As applications mature and scale, many teams face a critical question: when does it make sense to migrate from serverless functions to a Kubernetes-based architecture? Let’s cut through the […]",
-          "link": "https://collabnix.com/when-should-you-switch-from-serverless-to-kubernetes-a-practical-guide/",
-          "publishedOn": "2025-11-17T04:18:14.000Z",
-          "wordCount": 2870,
-          "title": "When to Switch from Serverless Architecture to Kubernetes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=60658",
-          "author": "Collabnix Team",
-          "description": "Optimizing AI Workloads on Kubernetes in 2025 If you’ve been keeping an eye on the cloud-native world, you’ve probably noticed how AI is shaking things up big time. As we roll into late 2025, one of the hottest trends in Kubernetes is its tight integration with AI workloads. We’re talking about everything from training massive […]",
-          "link": "https://collabnix.com/running-ai-workloads-on-kubernetes-in-2025/",
-          "publishedOn": "2025-11-16T10:05:13.000Z",
-          "wordCount": 2662,
-          "title": "Running AI Workloads on Kubernetes in 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=60614",
-          "author": "Tanvir Kour",
-          "description": "Today, efficiency and portability are inextricably linked. No matter if you’re a scholar or gamer, or online nomad, the use of a portable monitor makes multitasking simpler and efficient. The sleek and lightweight monitors are compatible with tablets, laptops, or even phones, often via one USB-C cable. One question that many people ignore is what […]",
-          "link": "https://collabnix.com/how-much-power-does-a-usb-c-portable-monitor-actually-consume/",
-          "publishedOn": "2025-11-16T06:51:50.000Z",
-          "wordCount": 2938,
-          "title": "How Much Power Does a USB-C Portable Monitor Actually Consume?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=60618",
-          "author": "Collabnix Team",
-          "description": "Comprehensive Kubeflow Tutorial for ML Pipelines Kubeflow is no longer “nice-to-have” — it’s the MLOps engine powering 90% of production AI on Kubernetes. But most tutorials stop at “Hello World.”We don’t. In 45 minutes, you’ll: Step 1: Set Up Local Kubernetes + Kubeflow Verify: Access UI at http://localhost:8080 via port-forward: Step 2: Write the ML […]",
-          "link": "https://collabnix.com/hands-on-kubeflow-tutorial-deploy-your-first-ml-pipeline-on-kubernetes/",
-          "publishedOn": "2025-11-16T06:50:53.000Z",
-          "wordCount": 2330,
-          "title": "Hands-On Kubeflow Tutorial: Deploy Your First ML Pipeline on Kubernetes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=60609",
-          "author": "Tanvir Kour",
-          "description": "Energy costs are like a Netflix subscription, but without the “cancel” button: they’re just always there, and the bigger the business, the more expensive the plan. In recent years, electricity prices have been rising faster than inflation, and geopolitical instability has only intensified this trend. For enterprises, this is one of the most serious items […]",
-          "link": "https://collabnix.com/energy-management-software-development-costs-explained-for-enterprises/",
-          "publishedOn": "2025-11-16T06:09:31.000Z",
-          "wordCount": null,
-          "title": "Energy Management Software Development Costs Explained for Enterprises",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=60314",
-          "author": "Tanvir Kour",
-          "description": "Discover how custom cloud-native EHR software helps healthcare providers modernize infrastructure, enhance scalability, and improve patient care.",
-          "link": "https://collabnix.com/transforming-healthcare-infrastructure-with-cloud-native-ehr-solutions-why-custom-development-matters/",
-          "publishedOn": "2025-11-13T17:15:27.000Z",
-          "wordCount": 2623,
-          "title": "Transforming healthcare infrastructure with cloud-native EHR solutions: Why custom development matters",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=60246",
-          "author": "Tanvir Kour",
-          "description": "Tackling financial planning is never an easy task. And for many individuals, turning to the same common sets of information has often been the norm. That means many financial plans don’t account for the nuances of an individual’s life or projected changes, like an early retirement or plans to buy a second home. Fortunately, AI […]",
-          "link": "https://collabnix.com/the-role-of-ai-in-personalized-financial-wellness-platforms/",
-          "publishedOn": "2025-11-13T04:17:42.000Z",
-          "wordCount": null,
-          "title": "The Role of AI in Personalized Financial Wellness Platforms",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=60012",
-          "author": "Tanvir Kour",
-          "description": "Introduction: The Future of No-Code App Development Has Arrived Imagine transforming your app idea into a fully functional, production-ready application in under 5 minutes—without writing a single line of code. That’s not a promise for tomorrow; it’s what Emergent.sh delivers today with its AI-powered agentic vibe-coding platform. While traditional development demands months of work and […]",
-          "link": "https://collabnix.com/vibe-coding-with-emergent/",
-          "publishedOn": "2025-11-11T18:20:04.000Z",
-          "wordCount": 3623,
-          "title": "Vibe Coding with Emergent",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/claude-vs-gpt-4-a-technical-comparison-for-devops-engineers/",
-          "author": "Collabnix Team",
-          "description": "Deep technical comparison of Claude and GPT-4 for developers. Includes API benchmarks, code examples, pricing analysis, and integration patterns.",
-          "link": "https://collabnix.com/claude-vs-gpt-4-a-technical-comparison-for-devops-engineers/",
-          "publishedOn": "2025-11-11T04:09:02.000Z",
-          "wordCount": null,
-          "title": "Claude vs GPT-4: A Technical Comparison for DevOps Engineers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/kubernetes-operators-for-ml-complete-crd-implementation-guide/",
-          "author": "Collabnix Team",
-          "description": "Master Kubernetes Operators for ML workloads. Complete guide to Custom Resource Definitions, controller implementation, and best practices with code examples.",
-          "link": "https://collabnix.com/kubernetes-operators-for-ml-complete-crd-implementation-guide/",
-          "publishedOn": "2025-11-11T04:06:00.000Z",
-          "wordCount": null,
-          "title": "Kubernetes Operators for ML: Complete CRD Implementation Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/multi-agent-orchestration-patterns-and-best-practices-for-2024/",
-          "author": "Collabnix Team",
-          "description": "Master multi-agent orchestration with proven patterns, code examples, and best practices. Learn orchestration frameworks, deployment strategies, and troubleshooting.",
-          "link": "https://collabnix.com/multi-agent-orchestration-patterns-and-best-practices-for-2024/",
-          "publishedOn": "2025-11-11T04:03:06.000Z",
-          "wordCount": null,
-          "title": "Multi-Agent Orchestration: Patterns and Best Practices for 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/fine-tuning-open-source-llms-complete-infrastructure-guide-2024/",
-          "author": "Collabnix Team",
-          "description": "Master LLM fine-tuning infrastructure with Kubernetes, GPU optimization, and distributed training. Includes YAML configs, troubleshooting, and cost optimization.",
-          "link": "https://collabnix.com/fine-tuning-open-source-llms-complete-infrastructure-guide-2024/",
-          "publishedOn": "2025-11-11T04:00:20.000Z",
-          "wordCount": null,
-          "title": "Fine-Tuning Open Source LLMs: Complete Infrastructure Guide 2024",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/building-llm-evaluation-pipelines-on-kubernetes-a-complete-guide/",
-          "author": "Collabnix Team",
-          "description": "Learn to build production-grade LLM evaluation pipelines on Kubernetes with practical YAML configs, code examples, and best practices for scalable AI/ML workflows.",
-          "link": "https://collabnix.com/building-llm-evaluation-pipelines-on-kubernetes-a-complete-guide/",
-          "publishedOn": "2025-11-10T04:13:06.000Z",
-          "wordCount": 3094,
-          "title": "Building LLM Evaluation Pipelines on Kubernetes: A Complete Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/claude-and-autonomous-agents-practical-implementation-guide/",
-          "author": "Collabnix Team",
-          "description": "Learn to build production-ready autonomous agents with Claude AI. Complete guide with code examples, Kubernetes deployment, and best practices for DevOps.",
-          "link": "https://collabnix.com/claude-and-autonomous-agents-practical-implementation-guide/",
-          "publishedOn": "2025-11-10T04:10:16.000Z",
-          "wordCount": null,
-          "title": "Claude and Autonomous Agents: Practical Implementation Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/ollama-api-integration-building-production-ready-llm-applications/",
-          "author": "Collabnix Team",
-          "description": "Learn to build production-ready LLM applications with Ollama API. Complete guide with Python examples, Kubernetes deployment, and performance optimization tips.",
-          "link": "https://collabnix.com/ollama-api-integration-building-production-ready-llm-applications/",
-          "publishedOn": "2025-11-10T04:07:16.000Z",
-          "wordCount": null,
-          "title": "Ollama API Integration: Building Production-Ready LLM Applications",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/autoscaling-ai-workloads-hpa-and-keda-for-ml-applications/",
-          "author": "Collabnix Team",
-          "description": "Master autoscaling for AI/ML workloads on Kubernetes using HPA and KEDA. Complete guide with YAML configs, code examples, and production best practices.",
-          "link": "https://collabnix.com/autoscaling-ai-workloads-hpa-and-keda-for-ml-applications/",
-          "publishedOn": "2025-11-10T04:04:27.000Z",
-          "wordCount": null,
-          "title": "Autoscaling AI Workloads: HPA and KEDA for ML Applications",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=59586",
-          "author": "Tanvir Kour",
-          "description": "iPad Pro 13 is constructed on the powerful M3 chip, which is designed to provide exceptional processing speed when performing multitasks, writing as well and researching. This model has a Liquid Retina XDR display that has a sharp display and the correct colour, thus making it ideal when reading a textbook, developing projects or during […]",
-          "link": "https://collabnix.com/how-the-ipad-pro-13-makes-studying-smarter-and-simpler/",
-          "publishedOn": "2025-11-09T11:49:31.000Z",
-          "wordCount": 2502,
-          "title": "How the iPad Pro 13 Makes Studying Smarter and Simpler?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=59581",
-          "author": "Tanvir Kour",
-          "description": "If you have built a retrieval pipeline or a recommendation feature lately, you have already touched embeddings. They are the trick that turns messy real-world inputs such as text, images, audio, logs, or user actions into points in a mathematical space where similar things are literally near each other. Once your data lives as vectors, […]",
-          "link": "https://collabnix.com/understanding-embeddings-the-math-behind-ai-vector-databases/",
-          "publishedOn": "2025-11-09T11:30:37.000Z",
-          "wordCount": null,
-          "title": "Understanding Embeddings: The Math Behind AI Vector Databases",
-          "imageUrl": null
         }
       ]
     },
@@ -2882,6 +2952,16 @@
       "siteUrl": "https://www.skyue.com/",
       "articles": [
         {
+          "id": "https://www.skyue.com/26021720.html",
+          "author": "拾月",
+          "description": "今天大年初一，先祝各位朋友新年快乐！这是草莓诞生记的第三篇文章。",
+          "link": "https://www.skyue.com/26021720.html",
+          "publishedOn": "2026-02-17T12:04:00.000Z",
+          "wordCount": null,
+          "title": "草莓满月仪式和生产纪实短片",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.skyue.com/26020120.html",
           "author": "拾月",
           "description": "上篇草莓熟了评论区收到非常多朋友的祝福，感谢大家！这周五给小草莓拍了人生第一套写真，并录了一段祝福视频。（感觉本博客尽早变成晒娃博客）",
@@ -2980,26 +3060,6 @@
           "wordCount": 557,
           "title": "微言小义（2025.10）",
           "imageUrl": ""
-        },
-        {
-          "id": "https://www.skyue.com/25111921.html",
-          "author": "拾月",
-          "description": "上上周末拍了孕妇照，今天收到精修图，好看！",
-          "link": "https://www.skyue.com/25111921.html",
-          "publishedOn": "2025-11-19T13:56:00.000Z",
-          "wordCount": 532,
-          "title": "孕妇照",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://www.skyue.com/25111616.html",
-          "author": "拾月",
-          "description": "周末天气很好，继续探索杭州。昨天和朋友一起到湘湖花海，今天下午到遇见答案咖啡馆，此刻就在咖啡馆更新这篇文章。",
-          "link": "https://www.skyue.com/25111616.html",
-          "publishedOn": "2025-11-16T08:11:00.000Z",
-          "wordCount": 561,
-          "title": "湘湖花海、遇见答案咖啡馆",
-          "imageUrl": ""
         }
       ]
     },
@@ -3008,6 +3068,51 @@
       "feedUrl": "https://bluehe.cn/rss.xml",
       "siteUrl": "https://bluehe.cn/",
       "articles": [
+        {
+          "id": "https://bluehe.cn/archives/utopia-cafe",
+          "author": "寻鹤",
+          "description": "1月25日，天气阴沉沉的，还有些毛毛雨，这样的天气只能跟同学在咖啡店休息会，这家店就叫Utopia Cafe(乌托邦咖啡)，我点的是热摩卡，老板拉花很好看，疑是i人，我在店内外不断的拍照，这也是我第一次面对这种探店风格，得脸皮厚一些，不然真不敢四处走来走去...",
+          "link": "https://bluehe.cn/archives/utopia-cafe",
+          "publishedOn": "2026-02-08T05:27:00.000Z",
+          "wordCount": null,
+          "title": "乌托邦咖啡",
+          "enclosure": {
+            "url": "https://bluehe.cn/usr/uploads/2026/02/CRnall_20260125_143723459.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bluehe.cn/usr/uploads/2026/02/CRnall_20260125_143723459.webp"
+        },
+        {
+          "id": "https://bluehe.cn/archives/lingguishan-bald-cypress",
+          "author": "寻鹤",
+          "description": "2026年1月11日，黎同学问我要不要一起去灵龟山转转，就此我们四个人自驾前往，28km左右，我们居住在北边，而灵龟山在东南方向，而且在那边邕江把两地隔开，仅有一座桥连通使得有些堵。\n\n因为山体形似巨龟，称为灵龟山，这里就是南宁其中之一的滨江主题公园，秋冬...",
+          "link": "https://bluehe.cn/archives/lingguishan-bald-cypress",
+          "publishedOn": "2026-02-08T05:26:00.000Z",
+          "wordCount": null,
+          "title": "南宁视角：灵龟山的落羽杉红了",
+          "enclosure": {
+            "url": "https://bluehe.cn/usr/uploads/2026/01/Bluehe.cn_20260111_142316078.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bluehe.cn/usr/uploads/2026/01/Bluehe.cn_20260111_142316078.webp"
+        },
+        {
+          "id": "https://bluehe.cn/archives/ai-qianwen",
+          "author": "寻鹤",
+          "description": "2月6日，早上上班发现群里在开始宣传千问送25元免单卡的跳转链接，这不就直接在手机上安装好千问APP，登录送了一张，点了0.01一杯霸王茶姬，当时的网络很流畅。\n根据提示去下单，首先是绑定淘宝闪送，支付的时候开启支付宝A付服务，这里会优先开启定位，推荐附近...",
+          "link": "https://bluehe.cn/archives/ai-qianwen",
+          "publishedOn": "2026-02-08T03:38:00.000Z",
+          "wordCount": null,
+          "title": "千问ai的生态服务融合",
+          "enclosure": {
+            "url": "https://bluehe.cn/usr/uploads/2026/01/qianwen.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bluehe.cn/usr/uploads/2026/01/qianwen.webp"
+        },
         {
           "id": "https://bluehe.cn/archives/one-day-nanning-itinerary",
           "author": "寻鹤",
@@ -3107,36 +3212,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bluehe.cn/usr/uploads/2025/11/img_20251116_125101346.webp"
-        },
-        {
-          "id": "https://bluehe.cn/archives/jin-chahua-park",
-          "author": "寻鹤",
-          "description": "2025年11月9日，我在抖音发布图文，询问了大家公园推荐，小赵同学留言：山茶花公园，实际公园命名则为：南宁市金茶花公园，我也觉得名字绕口，也曾叫过山茶花，念叨起来较为顺口，这也是南宁免费公园园之一。\n\n地址位于广西南宁市青秀区葛村路3-5号，每年12月至次年4月为茶花盛花期，春节期间常举办大型茶花展，是最佳游览期​。此时的茶花只有叶子，还没花开，我匆匆掠过了，网上的景点评价是小而精致。\n\n\n\n空...",
-          "link": "https://bluehe.cn/archives/jin-chahua-park",
-          "publishedOn": "2025-11-21T14:11:00.000Z",
-          "wordCount": 568,
-          "title": "南宁视角：金茶花低语",
-          "enclosure": {
-            "url": "https://bluehe.cn/usr/uploads/2025/11/img_20251109_172535015.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bluehe.cn/usr/uploads/2025/11/img_20251109_172535015.webp"
-        },
-        {
-          "id": "https://bluehe.cn/archives/nanning-shishan-horizontal",
-          "author": "寻鹤",
-          "description": "2025年10月18日，作为城市漫步者的一天，我来到南宁狮山公园，这也是我们小学的必选郊游地点。为什么说必选？因为其他的公园很远，烧烤也没有场地，而狮山公园正好满足条件，次次都来这儿烧烤。\n我在敲着这篇文章的时候，还问起了母亲，母亲印象深刻：“你当时带回来的烧烤nongnong的（糊了）”。因为我当时不会烧烤，而且火很大，烧着烤着就糊了，当时被嘲笑了一番。\n\n腾讯地图上显示是南宁兴宁区公园人气榜第...",
-          "link": "https://bluehe.cn/archives/nanning-shishan-horizontal",
-          "publishedOn": "2025-11-15T13:37:00.000Z",
-          "wordCount": 581,
-          "title": "南宁视角：横着读懂狮山",
-          "enclosure": {
-            "url": "https://bluehe.cn/usr/uploads/2025/11/img_20251026_144414224.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bluehe.cn/usr/uploads/2025/11/img_20251026_144414224.webp"
         }
       ]
     },
@@ -3151,6 +3226,46 @@
       "feedUrl": "https://blognas.hwb0307.com/feed",
       "siteUrl": "https://blognas.hwb0307.com/",
       "articles": [
+        {
+          "id": "https://blognas.hwb0307.com/other/7035",
+          "author": "Bensz",
+          "description": "Bensz\nAI入门系列 Vibe Coding实战\n本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 Vibe Coding 的核心是”用自然语言描述需求,让 AI 帮你实现”,本文通过 7 个实战案例展示其强大能力 游戏开发、智能推荐、文档写作、文献综述、PPT 制作、数据分析、深度调研——这些看似复杂的任务,在 Vibe Coding 模式下都变得触手可及 每个案例都包含完整的 Prompt 模板和关键技巧,你可以直接复制使用或根据需求修改 实战中最重要的不是技术细节,而是学会”如何向 AI 清晰表达你的意图”——这才是 Vibe Coding 的精髓 前言 前面的章节,我向大家介绍了 Vibe Coding 工具的配置，相信大家已经迫 […]\nBensz",
+          "link": "https://blognas.hwb0307.com/ai/7035",
+          "publishedOn": "2026-02-18T12:13:27.000Z",
+          "wordCount": null,
+          "title": "AI入门系列 Vibe Coding实战",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blognas.hwb0307.com/other/7028",
+          "author": "Bensz",
+          "description": "Bensz\nAI入门系列 一种实用的Prompt工程： Agent Skill\n本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 我的 skills 仓库： 以及我在 ChineseResearchLaTeX 里维护的 skills（更偏科研写作/LaTeX 工程化）： 还是那句话：开发和调试真不容易，如果这些东西对你有用，欢迎点个 Star 支持一下哈哈 (～￣▽￣)～ 概览 Prompt 工程从 “一句话问答” 演化到 “可复用工作流”：CoT、ReAct、工具调用、结构化输出一路把边界推到今天 Agent Skill 本质上是把 Prompt + 规则 + 脚本 + 模板 “打包成工程资产”，从玄学走向可维护、可复现 MCP 更像连接层（把外部工具/资源接进来），Skill 更像流程层（告诉 AI 什么时候、按什么 […]\nBensz",
+          "link": "https://blognas.hwb0307.com/ai/7028",
+          "publishedOn": "2026-02-16T08:53:26.000Z",
+          "wordCount": null,
+          "title": "AI入门系列 一种实用的Prompt工程： Agent Skill",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blognas.hwb0307.com/other/7008",
+          "author": "Bensz",
+          "description": "Bensz\nAI入门系列 如何获得vibe coding相关的AI算力\n本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 优惠活动 Packy Code的cc分组临时8折（折后1.2），持续到2026年2月18号12:00。 充值折扣码：NEWYEAR2026 概览 国内用户获取 Vibe Coding AI 算力的完整指南，涵盖 Claude、Codex、多模型聚合和国产模型四大主流方向 Claude Code 首选 PackyCode API，支持多源配置（aws-q/aws/cc），通过 CC-Switch 实现一键切换 多模型需求推荐 OhMyGPT，聚合 100+ 模型（GPT/Claude/Gemini/DeepSeek），邀请奖励 20 美元抵扣额度 Codex 推荐两种拼车方案：有 ChatGPT […]\nBensz",
+          "link": "https://blognas.hwb0307.com/ai/7008",
+          "publishedOn": "2026-02-13T11:56:40.000Z",
+          "wordCount": null,
+          "title": "AI入门系列 如何获得vibe coding相关的AI算力",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blognas.hwb0307.com/other/7003",
+          "author": "Bensz",
+          "description": "Bensz\nAI入门系列 配置vibe coding工具： VSCode+Claude Code+Codex\n本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 系统介绍 Vibe Coding 开发环境的完整配置流程，涵盖 NPM、VSCode、Claude Code 和 OpenAI Codex 四大核心工具 深入解析 NPM 为何成为终端 Vibe Coding 工具的首选包管理平台，包括其跨平台一致性、依赖管理能力和生态系统优势 详细说明 VSCode 作为 Vibe Coding IDE 的独特价值，包括丰富的插件生态、快速更新的 AI 编程插件、现代化界面和源代码管理器 提供通过 NPM 安装 Claude Code 和 Codex CLI 的完整步骤，以及在 VSCode 中安装相应插件的详细指南 前言 在之前的文章 Vibe Co […]\nBensz",
+          "link": "https://blognas.hwb0307.com/ai/7003",
+          "publishedOn": "2026-02-09T02:34:21.000Z",
+          "wordCount": null,
+          "title": "AI入门系列 配置vibe coding工具： VSCode+Claude Code+Codex",
+          "imageUrl": null
+        },
         {
           "id": "https://blognas.hwb0307.com/other/6994",
           "author": "Bensz",
@@ -3357,16 +3472,6 @@
           "wordCount": null,
           "title": "奋斗就是，每一天都很难",
           "imageUrl": null
-        },
-        {
-          "id": "https://4311346.com/post/2025/1115-nxtultra.html",
-          "author": null,
-          "description": "“双绝大师\"或未来很少再能听到这个词汇，这也是电自行业发展的过程中时代的产物。因为2025年09月01日起任何电动车工场都不再生产 GB 17761—2018 标准的电动自行车。而在终端市场2025年12月01日前要完成现有车辆的上牌，而湖北武汉的实际情况是2025年11月10日之前，就需要提交上牌资料。\n在这个国家强制的要求下，小牛电动在07月17日发布了双绝大师，NXT Ultra 和 FXT Ultra , 真正等到小牛门店有货已经是10月份的事情了。上一次NXPRO电自版没下手，这次的 NXTUltra2025大师版 还真不想错过。\n2025年10月23日（周一）晚上20点，天猫双11活动启动，配上双11满5000减100的券，最终拿下这台NXTUltra2025大师版，当然~提货的小牛门店，并没有因为长坐而让我加399元。\n早在2024年09月16日，第一次入了小牛电动车的坑，至今刚满1年，那台2024款小牛NXT玩家版的行驶里程也最终定格在6900公里，当然自己也从来没想到它这么快就被这台新车所取代。\n2024款NXT玩家版升级NXTUltra2025大师版\n升级后的几点主要差异\n主要差别项目\n2024 NXT Play\n2025 NXT Ultra\n\n\n\n\n车架\n2.0mm\n2.5mm\n\n\n电机\n1500w\n3000w，据说4000w\n\n\nABS\n无\n赛福双通道\n\n\n电池\n铅酸72V35A\n新能安48V30A*2\n\n\n弹射模式\n无\n有\n\n\n续航\n90km\n120km\n\n\n极速\n60km/h\n85km/h\n\n\n轮胎\n半热熔，幼神 908012/908012\n半热熔，正新 908012/1107012\n\n\n音响\n无\n有\n\n\n充电器\n5A\n15A\n\n\n胎压监测\n无\n有胎压和温度\n\n\n毫米波雷达\n无\n有\n\n\n后靠背\n有\n无-减配，但商家送了一个\n\n\n导航\n蓝牙，方向导航\nWIFI，全屏导航\n\n\n\n2024款的NXT玩家版这次升级NXTUltra势在必行，未来是否能有时速85KM/每小时速度的电动车真的很难说。\n配置上，基本上全方位升级，外观NXT系列从6000多元的玩家版到38888元赛道版基本一致。\n骑行感受\n提速是真的快，C档路口起步，基本没人比我快，也确实超过了 2023款的沃尔沃S60智远运动版。\n路上骑车基本上可以秒杀各种外卖和闪送。毕竟是两块新能安锂电，续航官方宣传用小米的营销方式来说420公里仅需充1次电。\n但实际是肯定单次充电是能刚刚超过100公里的，这续航多少还是会有点焦虑，虽然电池大了25A，续航和铅酸电池的玩家版差不太多，但谁要它是Ultra呢？充电快也能安抚下续航焦虑。\n可惜的是，1个月前给 NXT玩家版才换上的，米其林CITYsays轮胎，后轮尺寸问题，就没有把它转过来。\n大师之上 唯有大师\n附：NXTUltra2025大师版-官网介绍\n\n2025年10月21日，提车\n\n15A充电器，充电时间大大减少\n\n小牛NXTultra新的征程",
-          "link": "https://4311346.com/post/2025/1115-nxtultra.html",
-          "publishedOn": "2025-11-14T18:12:16.000Z",
-          "wordCount": 283,
-          "title": "最后的万元电自小牛NXTUltra2025款",
-          "imageUrl": null
         }
       ]
     },
@@ -3481,46 +3586,6 @@
           "wordCount": 533,
           "title": "ima 任务模式邀请码分享",
           "imageUrl": "https://cdn.dusays.com/avatar.png"
-        },
-        {
-          "id": "https://dusays.com/archives/838/",
-          "author": null,
-          "description": "<blockquote>\n<p>您是否曾经需要一个快捷的电子邮件地址？比如注册游戏或网站？这时 Temp Mail 就能派上用场了！它能为您提供一个可在短时间内使用的临时电子邮件地址。</p>\n</blockquote>",
-          "link": "https://dusays.com/archives/838/",
-          "publishedOn": "2025-11-20T16:00:00.000Z",
-          "wordCount": null,
-          "title": "Temp Mail 兼具隐私和便捷性的最佳临时电子邮件服务",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dusays.com/838/",
-          "author": null,
-          "description": "<blockquote>\n<p>您是否曾经需要一个快捷的电子邮件地址？比如注册游戏或网站？这时 Temp Mail 就能派上用场了！它能为您提供一个可在短时间内使用的临时电子邮件地址。</p>\n</blockquote>",
-          "link": "https://dusays.com/838/",
-          "publishedOn": "2025-11-20T16:00:00.000Z",
-          "wordCount": null,
-          "title": "Temp Mail 兼具隐私和便捷性的最佳临时电子邮件服务",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dusays.com/archives/837/",
-          "author": null,
-          "description": "<blockquote>\n<p>Docker 重度使用者们，您了解过 Docker 日志吗？如何查找、减少以及管理日志，从而有效节省磁盘空间！今天分享一下如何处理 Docker 日志的问题。</p>\n</blockquote>",
-          "link": "https://dusays.com/archives/837/",
-          "publishedOn": "2025-11-14T16:00:00.000Z",
-          "wordCount": null,
-          "title": "Dockerd 日志太多？磁盘爆了？一篇教您搞定容器日志问题",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dusays.com/837/",
-          "author": null,
-          "description": "<blockquote>\n<p>Docker 重度使用者们，您了解过 Docker 日志吗？如何查找、减少以及管理日志，从而有效节省磁盘空间！今天分享一下如何处理 Docker 日志的问题。</p>\n</blockquote>",
-          "link": "https://dusays.com/837/",
-          "publishedOn": "2025-11-14T16:00:00.000Z",
-          "wordCount": 557,
-          "title": "Dockerd 日志太多？磁盘爆了？一篇教您搞定容器日志问题",
-          "imageUrl": "https://cdn.dusays.com/avatar.png"
         }
       ]
     },
@@ -3540,18 +3605,7 @@
       "title": "牧尘的NAS小站",
       "feedUrl": "https://www.dreamlyn.cn/atom.xml",
       "siteUrl": "https://www.dreamlyn.cn/atom.xml",
-      "articles": [
-        {
-          "id": "https://www.dreamlyn.cn/2.html",
-          "author": null,
-          "description": "手把手在 Windows 平台用 MinGW 与 CMake 从源码编译安装 OpenCV，并在 Go 语言中集成 GoCV 的完整流程，含常见坑与排错建议。",
-          "link": "https://www.dreamlyn.cn/2.html",
-          "publishedOn": "2025-11-13T05:05:16.347Z",
-          "wordCount": 819,
-          "title": "Windows 下 OpenCV 编译与 GoCV 安装实战",
-          "imageUrl": "https://img.dreamlyn.cn:8443/i/2024/02/22/115030.webp"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Pandalab",
@@ -3576,6 +3630,16 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=22762",
+          "author": "xiaoz",
+          "description": "传1000张产品图要手动点1000次？网页版传图慢、易中断，批量处理更是噩梦。现在，Zpic Client来了——扫描文件夹自动上传、智能去重、结果导出CSV，企业级批量传图终于不用熬通宵了。官网下载地址：https://client.zpic.pro/功能特点跨平台： 支持 macOS、Windo",
+          "link": "https://blog.xiaoz.org/archives/22762",
+          "publishedOn": "2026-02-10T06:20:11.000Z",
+          "wordCount": null,
+          "title": "Zpic Client 发布：专为ImgURL和图链打造的高效图床客户端",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=22730",
           "author": "xiaoz",
@@ -3681,8 +3745,18 @@
     {
       "title": "Alliot's blog",
       "feedUrl": "https://www.iots.vip/atom.xml",
-      "siteUrl": "https://www.iots.vip/atom.xml",
+      "siteUrl": "https://www.iots.vip/",
       "articles": [
+        {
+          "id": "https://www.iots.vip/post/docker-proxy-mechanism",
+          "author": null,
+          "description": "<p>　　Docker 中的代理配置存在多个作用层级, 不同配置方式影响的范围完全不同。本文基于官方文档，对各层代理机制梳理说明, 以便区分。",
+          "link": "https://www.iots.vip/post/docker-proxy-mechanism",
+          "publishedOn": "2026-02-08T02:55:55.000Z",
+          "wordCount": null,
+          "title": "Docker 代理配置机制与作用域",
+          "imageUrl": null
+        },
         {
           "id": "https://www.iots.vip/post/android-root-hide-detection-2025",
           "author": null,
@@ -3700,6 +3774,16 @@
       "feedUrl": "https://www.txisfine.cn/atom.xml",
       "siteUrl": "https://www.txisfine.cn/atom.xml",
       "articles": [
+        {
+          "id": "https://www.txisfine.cn/archives/fa560251.html",
+          "author": null,
+          "description": "<p>书接前文<a href=\"/archives/8efde3fe.html\">优雅解决国内安装 Ollama 下载慢及卡顿的问题</a>，我们在安装 Ollama 之后，还需要下载模型才能开始 AI 的学习和使用。有些模型并没有上架 Ollama 官方库，需要我们从 Hugging Face 或者 ModelScope 上面下载。AI 的模型动辄十几个 GB 或者几十个 GB，由于网络环境的原因，从这些站点拉取模型往往非常缓慢。</p>\n<p>那么我们如何减小因为网络带来的阻碍呢？</p>\n<p><a href=\"https://cnb.cool/\">CNB.cool</a> 是腾讯云为开发者提供的下一代开发平台，基于 Docker 生态，把环境、缓存、插件一并纳入声明式管理，用更聪明的方式重新定义软件构建。它既是 Git 仓库，也是高性能开发和构建环境（支持 GPU）。 同时，CNB.cool 的仓库原生支持 Docker Model，玩法非常丰富。</p>",
+          "link": "https://www.txisfine.cn/archives/fa560251.html",
+          "publishedOn": "2026-02-07T17:17:02.000Z",
+          "wordCount": null,
+          "title": "优雅解决国内 AI 大模型下载缓慢问题",
+          "imageUrl": null
+        },
         {
           "id": "https://www.txisfine.cn/archives/fd5a7788.html",
           "author": null,
@@ -3837,6 +3921,16 @@
       "siteUrl": "https://www.ssgeek.com/",
       "articles": [
         {
+          "id": "https://www.ssgeek.com/blog/nas-public-access",
+          "author": null,
+          "description": "自己动手实现NAS公网访问，让家里的NAS设备在外网也能访问，既方便又安全",
+          "link": "https://www.ssgeek.com/blog/nas-public-access",
+          "publishedOn": "2026-02-08T00:00:00.000Z",
+          "wordCount": null,
+          "title": "自己动手实现NAS公网访问",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.ssgeek.com/blog/wo-de-2024-2025",
           "author": null,
           "description": "2024-2025年度总结",
@@ -3887,16 +3981,6 @@
           "publishedOn": "2025-12-18T14:37:30.000Z",
           "wordCount": null,
           "title": "[持续更新] - 为什么不应该为了实现需求而调用命令",
-          "imageUrl": null
-        },
-        {
-          "id": "http://zhangguanzhang.github.io/2025/11/12/docker-sandbox-dns/",
-          "author": null,
-          "description": "<p>docker 下，重启 pod sandbox 造成 dns 异常的梳理</p>",
-          "link": "http://zhangguanzhang.github.io/2025/11/12/docker-sandbox-dns/",
-          "publishedOn": "2025-11-12T10:30:30.000Z",
-          "wordCount": null,
-          "title": "docker 下，重启 pod sandbox 造成 dns 异常的梳理",
           "imageUrl": null
         }
       ]
