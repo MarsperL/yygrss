@@ -76,6 +76,26 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
+          "id": "https://daverupert.com/2026/02/smaller-and-dumber/",
+          "author": null,
+          "description": "If I can make it smaller, I should.\nIf I can make it dumber, I should.\nSmaller, dumber things have more applications, go more places, and require less maintenance.",
+          "link": "https://daverupert.com/2026/02/smaller-and-dumber/",
+          "publishedOn": "2026-02-23T05:33:00.000Z",
+          "wordCount": null,
+          "title": "Smaller and dumber",
+          "imageUrl": null
+        },
+        {
+          "id": "https://daverupert.com/2026/02/computers-were-a-mistake-for-me/",
+          "author": null,
+          "description": "I had a small, intrusive realization the other day that computers and the internet are probably bad for me. I mean that beyond the general advice to touch grass. From an ADHD and generalized anxiety perspective, computers and the internet have become an endless supply of poison pills for my brain; feeds full of constant dopamine hits with doom at every turn.\nThis is hard to accept because a lot of my work, hobbies, education, entertainment, news, communities, and curiosities are all on the internet. I love the internet, it’s a big part of who I am today, but I understand how its incentive structures harm me. I’m not planning to unplug and go off-grid yet, but it did inspire me to come up with a “priority of constituencies” for my idle hands and downtime:\nInstruments over pads of paper over laptop over tablet over phone.",
+          "link": "https://daverupert.com/2026/02/computers-were-a-mistake-for-me/",
+          "publishedOn": "2026-02-23T03:13:00.000Z",
+          "wordCount": null,
+          "title": "Priority of idle hands",
+          "imageUrl": null
+        },
+        {
           "id": "https://daverupert.com/2026/02/magic-words/",
           "author": null,
           "description": "Skills are the newest hype commodity in the world of agentic AI. Skills are text files that optionally get stapled onto the context window by the agent. You can have skills like “frontend design” or “design tokens” and if the LLM “thinks” it needs more context about that topic, it can import the contents of those files into the context to help generate a response.\nGenerally speaking, skills do an okay job at providing on-demand context. Assuming the AI model is always 12-to-18 months behind in its training data, a skill could potentially backfill any recent framework updates. A skill could potentially undo some training data biases. A skill could potentially apply some of your sensibilities to the output. I’ve seen some impressive results with design guidance skills… but I’ve also seen ton…",
@@ -907,6 +927,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=309700",
+          "author": "Brandon Lee",
+          "description": "One of the things that I really missed about going away from enterprise grade servers is the out of band management they have by default. Dell has iDRAC, Supermicro has…\nThe post This Made My Mini PC Home Lab Feel Enterprise Grade: Intel vPro with AMT appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/02/this-made-my-mini-pc-home-lab-feel-enterprise-grade-intel-vpro-with-amt/",
+          "publishedOn": "2026-02-23T13:28:36.000Z",
+          "wordCount": null,
+          "title": "This Made My Mini PC Home Lab Feel Enterprise Grade: Intel vPro with AMT",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=309678",
           "author": "Brandon Lee",
           "description": "Proxmox is my choice of home lab hypervisor moving forward. It has so many capabilities and features. It can definitely support a healthy list of project based learning and experimenting…\nThe post 5 Proxmox Maintenance Tasks Most Home Labs Ignore appeared first on Virtualization Howto.",
@@ -1615,16 +1645,6 @@
           "wordCount": 11762,
           "title": "What’s Up Docker Keeps Your Home Lab Containers Updated Automatically",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/Whats-Up-Docker-2.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=306960",
-          "author": "Brandon Lee",
-          "description": "Many in the home lab these days are running Proxmox, XCP-ng, or “maybe” back to the now free “again” VMware ESXi. However, another really cool hypervisor that you may not…\nThe post IncusOS Is the New Minimal Hypervisor OS Changing Home Labs in 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/11/incusos-is-the-new-minimal-hypervisor-os-changing-home-labs-in-2025/",
-          "publishedOn": "2025-11-25T13:40:37.000Z",
-          "wordCount": 12711,
-          "title": "IncusOS Is the New Minimal Hypervisor OS Changing Home Labs in 2025",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/Meet-IncusOS.png"
         }
       ]
     },
@@ -2972,6 +2992,16 @@
       "siteUrl": "https://www.skyue.com/",
       "articles": [
         {
+          "id": "https://www.skyue.com/26022316.html",
+          "author": "拾月",
+          "description": "1月初的微言小义中，我提到从字节离职。这篇文章详细聊聊这事。",
+          "link": "https://www.skyue.com/26022316.html",
+          "publishedOn": "2026-02-23T08:19:00.000Z",
+          "wordCount": null,
+          "title": "回阿里",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.skyue.com/26022122.html",
           "author": "拾月",
           "description": "草莓已经满月，从月子中心回家也有几天了。我最近的三篇博文——草莓出生、第一次写真和满月——全是她的照片和影像，定格她出生以来各个瞬间。而今天这篇，我想静下心来写一段文字，讲讲从南瓜怀孕到月子结束...",
@@ -3770,6 +3800,16 @@
       "siteUrl": "https://www.txisfine.cn/",
       "articles": [
         {
+          "id": "https://www.txisfine.cn/archives/3f5a9065.html",
+          "author": null,
+          "description": "从 2014 年开始，我的博客一直跑在 Hexo 上。Hexo 给我的感觉一直是：能用，但用得不爽。 最初文章不多，生成速度尚可，主题随便改改也能接受。但随着内容体量上来，问题逐渐暴露： hexo generate 速度慢的出奇 插件依赖复杂，Node版本是真的不敢动 主题想魔改就得学模板语法，维护成本高 10年积累的各种魔改，补丁，脚本，这个站点的源码仓库早就成了“屎山”。每次想重构，都不敢动。...",
+          "link": "https://www.txisfine.cn/archives/3f5a9065.html",
+          "publishedOn": "2026-02-23T08:42:17.000Z",
+          "wordCount": 308,
+          "title": "博客从 Hexo 迁移到了 Astro",
+          "imageUrl": "https://static.txisfine.cn/upload/d7ece4ad.png/pk_img"
+        },
+        {
           "id": "https://www.txisfine.cn/archives/fa560251.html",
           "author": null,
           "description": "<p>书接前文<a href=\"/archives/8efde3fe.html\">优雅解决国内安装 Ollama 下载慢及卡顿的问题</a>，我们在安装 Ollama 之后，还需要下载模型才能开始 AI 的学习和使用。有些模型并没有上架 Ollama 官方库，需要我们从 Hugging Face 或者 ModelScope 上面下载。AI 的模型动辄十几个 GB 或者几十个 GB，由于网络环境的原因，从这些站点拉取模型往往非常缓慢。</p>\n<p>那么我们如何减小因为网络带来的阻碍呢？</p>\n<p><a href=\"https://cnb.cool/\">CNB.cool</a> 是腾讯云为开发者提供的下一代开发平台，基于 Docker 生态，把环境、缓存、插件一并纳入声明式管理，用更聪明的方式重新定义软件构建。它既是 Git 仓库，也是高性能开发和构建环境（支持 GPU）。 同时，CNB.cool 的仓库原生支持 Docker Model，玩法非常丰富。</p>",
@@ -4014,6 +4054,16 @@
       "feedUrl": "https://tinkertry.com/feed",
       "siteUrl": "https://tinkertry.com",
       "articles": [
+        {
+          "id": "articles/planning-for-heat-pump-comfort",
+          "author": null,
+          "description": "Introduction\n[This article is currently in draft form, revisions will be frequent these first few days, in preparation for Matt Ferrell's new YouTube video coming out on Feb 24 2026. More photos and links coming soon.]\nClick/tap here to view Matt's last videos.\nMy wife and I took on the task of converting from gas to electric for our just-purchased \"forever home\" back in 2022. It was a 32-year-old, 1,856 sq. ft. house in need of a new roof, some remodeling, and major energy-efficiency upgrades including new windows. The massive supply chain and labor shortages at that time made the HVAC portion a much bigger challenge than it should have been. The impediments were plentiful on our mission to have net-zero annual energy costs for our daily living and transportation needs, but by winter #4 h…",
+          "link": "https://tinkertry.com/articles/planning-for-heat-pump-comfort",
+          "publishedOn": "2026-02-23T03:33:00.000Z",
+          "wordCount": 12556,
+          "title": "After 4 New England Winters Living With Just Heat Pumps: Insights That'll Help You and Your Contractor Plan for Comfort",
+          "imageUrl": "https://tinkertry.com/content/articles/1181-planning-for-heat-pump-comfort/OLDfeatured.jpg"
+        },
         {
           "id": "articles/tinkertry-2025-home-tech-refresh",
           "author": null,

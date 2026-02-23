@@ -2,10 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-02-22T21:45:41.281Z</updated>
+    <updated>2026-02-23T22:07:43.316Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[This Made My Mini PC Home Lab Feel Enterprise Grade: Intel vPro with AMT]]></title>
+        <id>https://www.virtualizationhowto.com/?p=309700</id>
+        <link href="https://www.virtualizationhowto.com/2026/02/this-made-my-mini-pc-home-lab-feel-enterprise-grade-intel-vpro-with-amt/"/>
+        <updated>2026-02-23T13:28:36.000Z</updated>
+        <summary type="html"><![CDATA[One of the things that I really missed about going away from enterprise grade servers is the out of band management they have by default. Dell has iDRAC, Supermicro has…
+The post This Made My Mini PC Home Lab Feel Enterprise Grade: Intel vPro with AMT appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[博客从 Hexo 迁移到了 Astro]]></title>
+        <id>https://www.txisfine.cn/archives/3f5a9065.html</id>
+        <link href="https://www.txisfine.cn/archives/3f5a9065.html"/>
+        <updated>2026-02-23T08:42:17.000Z</updated>
+        <summary type="html"><![CDATA[从 2014 年开始，我的博客一直跑在 Hexo 上。Hexo 给我的感觉一直是：能用，但用得不爽。 最初文章不多，生成速度尚可，主题随便改改也能接受。但随着内容体量上来，问题逐渐暴露： hexo generate 速度慢的出奇 插件依赖复杂，Node版本是真的不敢动 主题想魔改就得学模板语法，维护成本高 10年积累的各种魔改，补丁，脚本，这个站点的源码仓库早就成了“屎山”。每次想重构，都不敢动。...]]></summary>
+        <author>
+            <name>弹霄博科</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[回阿里]]></title>
+        <id>https://www.skyue.com/26022316.html</id>
+        <link href="https://www.skyue.com/26022316.html"/>
+        <updated>2026-02-23T08:19:00.000Z</updated>
+        <summary type="html"><![CDATA[1月初的微言小义中，我提到从字节离职。这篇文章详细聊聊这事。]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smaller and dumber]]></title>
+        <id>https://daverupert.com/2026/02/smaller-and-dumber/</id>
+        <link href="https://daverupert.com/2026/02/smaller-and-dumber/"/>
+        <updated>2026-02-23T05:33:00.000Z</updated>
+        <summary type="html"><![CDATA[If I can make it smaller, I should.
+If I can make it dumber, I should.
+Smaller, dumber things have more applications, go more places, and require less maintenance.]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After 4 New England Winters Living With Just Heat Pumps: Insights That'll Help You and Your Contractor Plan for Comfort]]></title>
+        <id>articles/planning-for-heat-pump-comfort</id>
+        <link href="https://tinkertry.com/articles/planning-for-heat-pump-comfort"/>
+        <updated>2026-02-23T03:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Introduction
+[This article is currently in draft form, revisions will be frequent these first few days, in preparation for Matt Ferrell's new YouTube video coming out on Feb 24 2026. More photos and links coming soon.]
+Click/tap here to view Matt's last videos.
+My wife and I took on the task of converting from gas to electric for our just-purchased "forever home" back in 2022. It was a 32-year-old, 1,856 sq. ft. house in need of a new roof, some remodeling, and major energy-efficiency upgrades including new windows. The massive supply chain and labor shortages at that time made the HVAC portion a much bigger challenge than it should have been. The impediments were plentiful on our mission to have net-zero annual energy costs for our daily living and transportation needs, but by winter #4 h…]]></summary>
+        <author>
+            <name>TinkerTry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Priority of idle hands]]></title>
+        <id>https://daverupert.com/2026/02/computers-were-a-mistake-for-me/</id>
+        <link href="https://daverupert.com/2026/02/computers-were-a-mistake-for-me/"/>
+        <updated>2026-02-23T03:13:00.000Z</updated>
+        <summary type="html"><![CDATA[I had a small, intrusive realization the other day that computers and the internet are probably bad for me. I mean that beyond the general advice to touch grass. From an ADHD and generalized anxiety perspective, computers and the internet have become an endless supply of poison pills for my brain; feeds full of constant dopamine hits with doom at every turn.
+This is hard to accept because a lot of my work, hobbies, education, entertainment, news, communities, and curiosities are all on the internet. I love the internet, it’s a big part of who I am today, but I understand how its incentive structures harm me. I’m not planning to unplug and go off-grid yet, but it did inspire me to come up with a “priority of constituencies” for my idle hands and downtime:
+Instruments over pads of paper over laptop over tablet over phone.]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Content Teams AI Translate First And Optimise Later]]></title>
         <id>https://collabnix.com/?p=72452</id>
@@ -5286,17 +5354,6 @@ The post What’s Up Docker Keeps Your Home Lab Containers Updated Automatically
         <summary type="html"><![CDATA[Go library for parsing and applying patches created by Git  - GitHub - bluekeyes/go-gitdiff: Go library for parsing and applying patches created by Git]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IncusOS Is the New Minimal Hypervisor OS Changing Home Labs in 2025]]></title>
-        <id>https://www.virtualizationhowto.com/?p=306960</id>
-        <link href="https://www.virtualizationhowto.com/2025/11/incusos-is-the-new-minimal-hypervisor-os-changing-home-labs-in-2025/"/>
-        <updated>2025-11-25T13:40:37.000Z</updated>
-        <summary type="html"><![CDATA[Many in the home lab these days are running Proxmox, XCP-ng, or “maybe” back to the now free “again” VMware ESXi. However, another really cool hypervisor that you may not…
-The post IncusOS Is the New Minimal Hypervisor OS Changing Home Labs in 2025 appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
