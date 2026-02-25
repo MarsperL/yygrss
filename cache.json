@@ -6,6 +6,16 @@
       "siteUrl": "https://yyg.js.cool/",
       "articles": [
         {
+          "id": "https://yyg.js.cool/yyg/40a44ab2/",
+          "author": null,
+          "description": "前言\n最近想着整理一下一些平台的密码，避免到时候找不到密码手忙脚乱的，就收罗了几个软件。\n经过了一番折腾，最终确定了 KeePassXC + 坚果云的WebDAV + Keepass2Android ，作为日常密码的多端管理。\n折腾过程\n经过了一番筛选，最终确定了从桌面端的 KeePass 和",
+          "link": "https://yyg.js.cool/yyg/40a44ab2/",
+          "publishedOn": "2026-01-25T12:28:00.000Z",
+          "wordCount": null,
+          "title": "个人密码管理方案",
+          "imageUrl": null
+        },
+        {
           "id": "https://yyg.js.cool/yyg/9131dcdb/",
           "author": null,
           "description": "谁曾想大学期间”灵机一动“而诞生的”专注时钟“自用项目，现在已经使用三年多了。\n虽说还有许多待完善的地方，不过日常使用也足够了。一直以来，都是我用来当作电脑的屏保显示时间。\n看看是否有同样需求的朋友，就写了这篇简略的介绍。\n”专注时钟“，主要是用来极简的显示桌面时间，拥有多种主题，也支持番茄时钟。\n可通过设置常亮，保持时钟恒定显示不熄屏。\n有网页端和windows桌面端，也可使用GitHub pages进行部署。\n网页端：专注时钟\nwindows桌面端：<a",
@@ -937,6 +947,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=309780",
+          "author": "Brandon Lee",
+          "description": "If you are getting into running Proxmox and backing up your Proxmox environment using Proxmox Backup Server, which is a great way to back up your Proxmox environment. It has…\nThe post Proxmox Backup Server Settings I Wish I Knew Earlier appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/02/proxmox-backup-server-settings-i-wish-i-knew-earlier/",
+          "publishedOn": "2026-02-25T14:05:58.000Z",
+          "wordCount": null,
+          "title": "Proxmox Backup Server Settings I Wish I Knew Earlier",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=309756",
           "author": "Brandon Lee",
           "description": "I am constantly on the lookout for projects that have that really “cool” factor to them. In the realm of Proxmox, there has been an explosion of open-source projects that…\nThe post A Small Change to My Proxmox Web UI Made It Feel More Modern appeared first on Virtualization Howto.",
@@ -1645,16 +1665,6 @@
           "wordCount": 12105,
           "title": "Increase Usable RAM In Your Home Lab Without Buying More Memory",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/increase-usable-RAM-in-your-home-lab.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=307046",
-          "author": "Brandon Lee",
-          "description": "About two and a half years ago I transitioned my home lab over to mini PCs. And, I have to say I haven’t looked back since the. They have fully…\nThe post The Best Mini PCs for Home Labs in 2025 (Ranked by Real Performance) appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/11/the-best-mini-pcs-for-home-labs-in-2025-ranked-by-real-performance/",
-          "publishedOn": "2025-11-27T14:27:53.000Z",
-          "wordCount": 11103,
-          "title": "The Best Mini PCs for Home Labs in 2025 (Ranked by Real Performance)",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/Best-Mini-PC-for-Home-Lab-in-2025.png"
         }
       ]
     },
@@ -1663,6 +1673,56 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=72653",
+          "author": "Tanvir Kour",
+          "description": "Starting any business from scratch means building systems while trying to generate revenue at the same time. In healthcare, that pressure feels heavier. Licensing, hiring, documentation, and compliance all sit on your desk immediately. A home care franchise changes that dynamic. You’re still responsible for performance, but you’re not inventing policies from nothing. The operational […]",
+          "link": "https://collabnix.com/from-startup-to-stability-the-benefits-of-owning-a-home-care-franchise/",
+          "publishedOn": "2026-02-25T15:28:50.000Z",
+          "wordCount": null,
+          "title": "From Startup to Stability: The Benefits of Owning a Home Care Franchise",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=72647",
+          "author": "Tanvir Kour",
+          "description": "Serious gold hunters know the difference between a random beep and a repeatable signal. But in heavily mineralized ground, even some premium gold detectors can struggle to tell small gold pieces apart from hot rocks and buried trash. Engineering breakthroughs in signal processing, artificial intelligence, and ground-noise filtering are changing that experience fast. Modern gold […]",
+          "link": "https://collabnix.com/engineering-high-performance-gold-detection-systems-signal-processing-ai-and-ground-noise-filtering/",
+          "publishedOn": "2026-02-25T15:19:26.000Z",
+          "wordCount": null,
+          "title": "Engineering High-Performance Gold Detection Systems: Signal Processing, AI, and Ground Noise Filtering",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=72641",
+          "author": "Tanvir Kour",
+          "description": "Strong teams don’t happen by accident. They’re built through consistent communication, clear expectations, trust, and a workplace culture where employees feel valued. For leaders, the challenge is that team-building is no longer limited to in-person conversations or annual reviews. Many organizations now operate across hybrid schedules, multiple locations, and fast-changing priorities. This is where engagement […]",
+          "link": "https://collabnix.com/how-engagement-software-helps-leaders-build-stronger-teams/",
+          "publishedOn": "2026-02-25T15:10:27.000Z",
+          "wordCount": null,
+          "title": "How Engagement Software Helps Leaders Build Stronger Teams",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=72635",
+          "author": "Tanvir Kour",
+          "description": "Choosing a restaurant POS platform is a decision that affects every part of your business from order accuracy and staff efficiency to reporting clarity and guest experience. With the rise of cloud-based solutions, operators now have more powerful, flexible options than ever before. However, the ease of cloud technology also means there’s a wider range […]",
+          "link": "https://collabnix.com/cloud-restaurant-pos-buyers-guide-what-to-look-for-before-you-choose/",
+          "publishedOn": "2026-02-25T15:06:54.000Z",
+          "wordCount": null,
+          "title": "Cloud Restaurant POS Buyer’s Guide: What To Look For Before You Choose",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=72622",
+          "author": "Tanvir Kour",
+          "description": "Organizations have come to depend on reliable internet access. With the right example of increased digital activity, the demand for reliable, high-speed connections only expands. DIA Ethernet affords the reliability and quality needed for peak usage times. Here is an article detailing why Ethernet DIA provides connectivity stability during peak demand times. Understanding Ethernet Dedicated […]",
+          "link": "https://collabnix.com/how-ethernet-dia-supports-reliable-connectivity-under-heavy-demand/",
+          "publishedOn": "2026-02-25T07:19:23.000Z",
+          "wordCount": null,
+          "title": "How Ethernet DIA Supports Reliable Connectivity Under Heavy Demand",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=72452",
           "author": "Tanvir Kour",
@@ -2811,16 +2871,6 @@
           "publishedOn": "2025-12-07T07:24:26.000Z",
           "wordCount": null,
           "title": "NVIDIA Jetson AGX Thor: Top 5 Use Cases with Tutorials",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=61434",
-          "author": "Tanvir Kour",
-          "description": "Managing multiple Google Ads accounts demands precision and extreme caution. You need consistent data, isolated risk, and fast iteration. Manager Accounts give you full visibility and control, but as scale increases, every weak process gets exposed. Our playbook focuses on what is really important: shared measurement, cross-account guardrails, automation that never surprises you, and workflows […]",
-          "link": "https://collabnix.com/effective-management-of-multiple-google-ads-accounts/",
-          "publishedOn": "2025-11-27T17:10:17.000Z",
-          "wordCount": 6725,
-          "title": "Effective Management of Multiple Google Ads Accounts",
           "imageUrl": null
         }
       ]
