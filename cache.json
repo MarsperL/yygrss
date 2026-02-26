@@ -34,16 +34,6 @@
           "wordCount": 578,
           "title": "”新面“之缘",
           "imageUrl": "https://api.mmp.cc/api/pcwallpaper?category=cool&type=jpg"
-        },
-        {
-          "id": "https://yyg.js.cool/yyg/fd7b65ac/",
-          "author": null,
-          "description": "前言\nRssWe 的诞生，源于我对rssTea的真实体验。在订阅播客时，时常遇到音频无法加载或显示的窘境；并且，随着订阅源日益增多，列表变得杂乱无章，难以快速定位。当文章列表过长时，想返回顶部或直接查看特定播客内容也变得异常繁琐。\n想着解决这些不便，我决定自己动手解决。RssWe 由此诞生。\nRssWe是一个无需服务器的RSS和播客阅读器，支持PWA，使用GitHub Actions运行。\n一个高效、轻量的RSS/Atom",
-          "link": "https://yyg.js.cool/yyg/fd7b65ac/",
-          "publishedOn": "2025-11-29T05:31:50.000Z",
-          "wordCount": 855,
-          "title": "RssWe--支持PWA的RSS和播客在线阅读器",
-          "imageUrl": "https://yyg.js.cool/yyghub/img/512.png"
         }
       ]
     },
@@ -947,6 +937,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=309813",
+          "author": "Brandon Lee",
+          "description": "I have been through quite a transition with my home lab moving into 2026. Not just hardware. There has been a lot of changes on the hardware front, but in…\nThe post The Tools That Quietly Run My Home Lab Every Day in 2026 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/02/the-tools-that-quietly-run-my-home-lab-every-day-in-2026/",
+          "publishedOn": "2026-02-26T13:33:21.000Z",
+          "wordCount": null,
+          "title": "The Tools That Quietly Run My Home Lab Every Day in 2026",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=309780",
           "author": "Brandon Lee",
           "description": "If you are getting into running Proxmox and backing up your Proxmox environment using Proxmox Backup Server, which is a great way to back up your Proxmox environment. It has…\nThe post Proxmox Backup Server Settings I Wish I Knew Earlier appeared first on Virtualization Howto.",
@@ -1655,16 +1655,6 @@
           "wordCount": 12131,
           "title": "2025 Home Lab Network Upgrades Every Home Lab Needs",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/Home-Lab-Network-Upgrade-Guide-2025.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=307080",
-          "author": "Brandon Lee",
-          "description": "If you are like me you are doing double takes when it comes to RAM prices. It seems like over the past few weeks it has crept up on me…\nThe post Increase Usable RAM In Your Home Lab Without Buying More Memory appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/11/increase-usable-ram-in-your-home-lab-without-buying-more-memory/",
-          "publishedOn": "2025-11-28T14:08:28.000Z",
-          "wordCount": 12105,
-          "title": "Increase Usable RAM In Your Home Lab Without Buying More Memory",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/increase-usable-RAM-in-your-home-lab.png"
         }
       ]
     },
@@ -1673,6 +1663,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=72692",
+          "author": "Tanvir Kour",
+          "description": "The average cost to hire an app developer in 2026 ranges from $25–50/hour in outsourcing markets to $100–200+ per hour for senior developers in North America. Global rates for experienced developers typically fall between $50–100 per hour — and that spread means a lot depending on region, seniority, platform, and how technically complex your […]",
+          "link": "https://collabnix.com/average-cost-to-hire-an-app-developer-in-2026-full-pricing-guide/",
+          "publishedOn": "2026-02-26T14:24:35.000Z",
+          "wordCount": null,
+          "title": "Average Cost to Hire an App Developer in 2026: Full Pricing Guide",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=72653",
           "author": "Tanvir Kour",
@@ -3948,16 +3948,6 @@
           "wordCount": null,
           "title": "优雅解决国内安装Ollama下载慢及卡顿的问题",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.txisfine.cn/archives/c867415b.html",
-          "author": null,
-          "description": "<p>在某些场景下，我们会使用 Nginx 反向代理将内部业务系统发布到公网。通常一台 Nginx 服务器会代理并承载多个网站，这也使其成为互联网扫描器和恶意请求的重点目标。</p>\n<p>互联网上的一些扫描器会采集和映射 IP 资产情报，包括域名与 IP 的关联关系、所属机构和",
-          "link": "https://www.txisfine.cn/archives/c867415b.html",
-          "publishedOn": "2025-11-28T13:39:59.000Z",
-          "wordCount": 619,
-          "title": "NGINX纯IP访问防护",
-          "imageUrl": "https://static.txisfine.cn/upload/7e1fa63.png/pk_img"
         }
       ]
     },
