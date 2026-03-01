@@ -6,6 +6,56 @@
       "siteUrl": "https://yyg.js.cool/",
       "articles": [
         {
+          "id": "https://yyg.js.cool/yyg/1f59513d/",
+          "author": null,
+          "description": "生活\n今年游玩的景点中体验较好的是去爬了嵩山、看了万岁山武侠城。\n登封汽车客运总站旁小店里的炒刀削，很是不错。 登封人民也很热情，找民宿时，遇到的老板都很热心，也都很耐心的解答住宿需求。登封发展节奏舒缓，有种年代剧中城市的滤镜。\n万岁山中有很多游玩项目，数量多的可以玩几天。夜晚的色彩缤纷、打铁花也十分惊艳。就是人太多，不太好移动。有时还有音乐节，很热闹。\n<a href=\"#读书\" class=\"headerlink\"",
+          "link": "https://yyg.js.cool/yyg/1f59513d/",
+          "publishedOn": "2026-02-21T07:02:29.000Z",
+          "wordCount": null,
+          "title": "2025年度总结",
+          "imageUrl": null
+        },
+        {
+          "id": "https://yyg.js.cool/yyg/b70ff682/",
+          "author": null,
+          "description": "Vectras VM是一个基于 QEMU 的 Android 虚拟机应用，可在手机实现安装Liunx和Windows虚拟机。支持img、qcow2、ISO等格式的镜像文件。\n本文主要介绍通过ISO镜像方式安装Rocky Linux 8.10、Debian",
+          "link": "https://yyg.js.cool/yyg/b70ff682/",
+          "publishedOn": "2026-02-14T09:49:13.000Z",
+          "wordCount": null,
+          "title": "手机使用Vectras VM安装Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://yyg.js.cool/yyg/138e817c/",
+          "author": null,
+          "description": "Termux安装配置\n文件访问授权\n\n\n1\n\ntermux-setup-storage\n\n\n更换镜像源\n<figure",
+          "link": "https://yyg.js.cool/yyg/138e817c/",
+          "publishedOn": "2026-02-09T06:05:13.000Z",
+          "wordCount": null,
+          "title": "Termux安装Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://yyg.js.cool/yyg/f72e5a8d/",
+          "author": null,
+          "description": "<a href=\"#初探\" class=\"headerlink\"",
+          "link": "https://yyg.js.cool/yyg/f72e5a8d/",
+          "publishedOn": "2026-01-28T11:29:13.000Z",
+          "wordCount": null,
+          "title": "旧手机搭建博客的一次尝试",
+          "imageUrl": null
+        },
+        {
+          "id": "https://yyg.js.cool/yyg/384455e1/",
+          "author": null,
+          "description": "前言\n如今，许多旧手机的存储容量甚至已经比肩电脑硬盘。如果只是让它们闲置吃灰，或者拿去换把剪刀，未免太可惜了。\n我的上部手机跟我度过了整个大学时光，也承载着许多回忆。换了新手机后就放在桌面当个数字时钟，还有不小的闲置存储空间。\n之前看了不少博主用旧手机当NAS、网盘、私人影视库的视频，于是就有了搭建私人影视库的想法，让它迎来第二春。\n折腾过程\n实现过程其实很简单，在手机上安装Emby",
+          "link": "https://yyg.js.cool/yyg/384455e1/",
+          "publishedOn": "2026-01-27T08:15:13.000Z",
+          "wordCount": null,
+          "title": "旧手机的新生--私人影视库",
+          "imageUrl": null
+        },
+        {
           "id": "https://yyg.js.cool/yyg/40a44ab2/",
           "author": null,
           "description": "前言\n最近想着整理一下一些平台的密码，避免到时候找不到密码手忙脚乱的，就收罗了几个软件。\n经过了一番折腾，最终确定了 KeePassXC + 坚果云的WebDAV + Keepass2Android ，作为日常密码的多端管理。\n折腾过程\n经过了一番筛选，最终确定了从桌面端的 KeePass 和",
@@ -1655,16 +1705,6 @@
           "wordCount": 12833,
           "title": "Logward Is the Lightweight Syslog Server Every Home Lab Needs in 2025",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/12/LogWard.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=307117",
-          "author": "Brandon Lee",
-          "description": "Networking like everything else has evolved quite a bit over the past few years, not really in terms of new technologies, but in terms of new hardware, and pricing of…\nThe post 2025 Home Lab Network Upgrades Every Home Lab Needs appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/12/2025-home-lab-network-upgrades-every-home-lab-needs/",
-          "publishedOn": "2025-12-01T12:34:33.000Z",
-          "wordCount": 12131,
-          "title": "2025 Home Lab Network Upgrades Every Home Lab Needs",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/11/Home-Lab-Network-Upgrade-Guide-2025.png"
         }
       ]
     },
@@ -1673,6 +1713,36 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/how-to-self-host-llms-with-vllm-performance-and-cost-comparison/",
+          "author": "Collabnix Team",
+          "description": "Discover how to efficiently self-host large language models using vLLM to enhance performance and cut costs, while gaining greater control over your deployments.",
+          "link": "https://collabnix.com/how-to-self-host-llms-with-vllm-performance-and-cost-comparison/",
+          "publishedOn": "2026-03-01T13:24:16.000Z",
+          "wordCount": null,
+          "title": "How to Self-Host LLMs with vLLM: Performance and Cost Comparison",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=72777",
+          "author": "Tanvir Kour",
+          "description": "As of February 2026, the best AI video generator for most creators and teams is Magic Hour — especially if you care about production-ready workflows, image-to-video pipelines, and creative control. After two weeks of hands-on testing across marketing teams, indie creators, and startup operators, I evaluated the top platforms based on output quality, speed, editing […]",
+          "link": "https://collabnix.com/best-ai-video-generators-in-2026-tested-ranked-for-creators-and-builders/",
+          "publishedOn": "2026-03-01T07:15:46.000Z",
+          "wordCount": null,
+          "title": "Best AI Video Generators in 2026 (Tested & Ranked for Creators and Builders)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/understanding-the-shift-from-kubernetes-ingress-to-gateway-api-and-how-to-migrate/",
+          "author": "Collabnix Team",
+          "description": "Explore the shift from Kubernetes Ingress API to Gateway API, understand their differences, and learn how to migrate effectively.",
+          "link": "https://collabnix.com/understanding-the-shift-from-kubernetes-ingress-to-gateway-api-and-how-to-migrate/",
+          "publishedOn": "2026-03-01T03:27:52.000Z",
+          "wordCount": null,
+          "title": "Understanding the Shift from Kubernetes Ingress to Gateway API and How to Migrate",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=72753",
           "author": "Tanvir Kour",

@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-02-28T21:41:37.113Z</updated>
+    <updated>2026-03-01T21:43:30.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Self-Host LLMs with vLLM: Performance and Cost Comparison]]></title>
+        <id>https://collabnix.com/how-to-self-host-llms-with-vllm-performance-and-cost-comparison/</id>
+        <link href="https://collabnix.com/how-to-self-host-llms-with-vllm-performance-and-cost-comparison/"/>
+        <updated>2026-03-01T13:24:16.000Z</updated>
+        <summary type="html"><![CDATA[Discover how to efficiently self-host large language models using vLLM to enhance performance and cut costs, while gaining greater control over your deployments.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best AI Video Generators in 2026 (Tested & Ranked for Creators and Builders)]]></title>
+        <id>https://collabnix.com/?p=72777</id>
+        <link href="https://collabnix.com/best-ai-video-generators-in-2026-tested-ranked-for-creators-and-builders/"/>
+        <updated>2026-03-01T07:15:46.000Z</updated>
+        <summary type="html"><![CDATA[As of February 2026, the best AI video generator for most creators and teams is Magic Hour — especially if you care about production-ready workflows, image-to-video pipelines, and creative control. After two weeks of hands-on testing across marketing teams, indie creators, and startup operators, I evaluated the top platforms based on output quality, speed, editing […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the Shift from Kubernetes Ingress to Gateway API and How to Migrate]]></title>
+        <id>https://collabnix.com/understanding-the-shift-from-kubernetes-ingress-to-gateway-api-and-how-to-migrate/</id>
+        <link href="https://collabnix.com/understanding-the-shift-from-kubernetes-ingress-to-gateway-api-and-how-to-migrate/"/>
+        <updated>2026-03-01T03:27:52.000Z</updated>
+        <summary type="html"><![CDATA[Explore the shift from Kubernetes Ingress API to Gateway API, understand their differences, and learn how to migrate effectively.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[城市散步志：年前]]></title>
         <id>https://bluehe.cn/archives/urban-walks-2026-01</id>
@@ -366,6 +396,20 @@ The post 5 Proxmox Maintenance Tasks Most Home Labs Ignore appeared first on Vir
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2025年度总结]]></title>
+        <id>https://yyg.js.cool/yyg/1f59513d/</id>
+        <link href="https://yyg.js.cool/yyg/1f59513d/"/>
+        <updated>2026-02-21T07:02:29.000Z</updated>
+        <summary type="html"><![CDATA[生活
+今年游玩的景点中体验较好的是去爬了嵩山、看了万岁山武侠城。
+登封汽车客运总站旁小店里的炒刀削，很是不错。 登封人民也很热情，找民宿时，遇到的老板都很热心，也都很耐心的解答住宿需求。登封发展节奏舒缓，有种年代剧中城市的滤镜。
+万岁山中有很多游玩项目，数量多的可以玩几天。夜晚的色彩缤纷、打铁花也十分惊艳。就是人太多，不太好移动。有时还有音乐节，很热闹。
+<a href="#读书" class="headerlink"]]></summary>
+        <author>
+            <name>云野阁</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[WordPressPilot – Deploy an AI Agent Team to Automate Your WordPress Publishing]]></title>
         <id>https://collabnix.com/?p=72360</id>
         <link href="https://collabnix.com/wordpresspilot-deploy-an-ai-agent-team-to-automate-your-wordpress-publishing/"/>
@@ -635,6 +679,17 @@ The post How I Made a Single Docker Host Highly Available Using Proxmox in My Ho
         <summary type="html"><![CDATA[Deploy AI models on Kubernetes using KServe for scalable, manageable solutions. Learn how to handle deployment intricacies and optimize model serving efficiently with this comprehensive guide.]]></summary>
         <author>
             <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手机使用Vectras VM安装Linux]]></title>
+        <id>https://yyg.js.cool/yyg/b70ff682/</id>
+        <link href="https://yyg.js.cool/yyg/b70ff682/"/>
+        <updated>2026-02-14T09:49:13.000Z</updated>
+        <summary type="html"><![CDATA[Vectras VM是一个基于 QEMU 的 Android 虚拟机应用，可在手机实现安装Liunx和Windows虚拟机。支持img、qcow2、ISO等格式的镜像文件。
+本文主要介绍通过ISO镜像方式安装Rocky Linux 8.10、Debian]]></summary>
+        <author>
+            <name>云野阁</name>
         </author>
     </entry>
     <entry>
@@ -994,6 +1049,26 @@ The post Managing Multiple Proxmox Clusters Gets Messy When You Want Smarter Pla
         <summary type="html"><![CDATA[Explore the world of agentic AI, where autonomous agents make independent decisions, transforming industries like healthcare and transportation.]]></summary>
         <author>
             <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Termux安装Python]]></title>
+        <id>https://yyg.js.cool/yyg/138e817c/</id>
+        <link href="https://yyg.js.cool/yyg/138e817c/"/>
+        <updated>2026-02-09T06:05:13.000Z</updated>
+        <summary type="html"><![CDATA[Termux安装配置
+文件访问授权
+
+
+1
+
+termux-setup-storage
+
+
+更换镜像源
+<figure]]></summary>
+        <author>
+            <name>云野阁</name>
         </author>
     </entry>
     <entry>
@@ -1419,6 +1494,16 @@ The post Are Home Labs Dead in 2026? The Comment That Forced Me to Rethink Every
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[旧手机搭建博客的一次尝试]]></title>
+        <id>https://yyg.js.cool/yyg/f72e5a8d/</id>
+        <link href="https://yyg.js.cool/yyg/f72e5a8d/"/>
+        <updated>2026-01-28T11:29:13.000Z</updated>
+        <summary type="html"><![CDATA[<a href="#初探" class="headerlink"]]></summary>
+        <author>
+            <name>云野阁</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[我的笔记系统]]></title>
         <id>https://limboy.me/posts/my-notes-system</id>
         <link href="https://limboy.me/posts/my-notes-system"/>
@@ -1447,6 +1532,21 @@ The post Monitor Your Proxmox Home Lab Like a Boss: The Monitoring Stack I Actua
         <summary type="html"><![CDATA[背景模型发展极其迅速，截止今天，此方法为目前能交付、前端好看、能完成稍复杂项目的0-1、重构、迭代。核心“快速实现脑中想法”，可以是原型图，可以是前端，更可以是完整POC整理了当前公司已购买资源...]]></summary>
         <author>
             <name>季兴</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[旧手机的新生--私人影视库]]></title>
+        <id>https://yyg.js.cool/yyg/384455e1/</id>
+        <link href="https://yyg.js.cool/yyg/384455e1/"/>
+        <updated>2026-01-27T08:15:13.000Z</updated>
+        <summary type="html"><![CDATA[前言
+如今，许多旧手机的存储容量甚至已经比肩电脑硬盘。如果只是让它们闲置吃灰，或者拿去换把剪刀，未免太可惜了。
+我的上部手机跟我度过了整个大学时光，也承载着许多回忆。换了新手机后就放在桌面当个数字时钟，还有不小的闲置存储空间。
+之前看了不少博主用旧手机当NAS、网盘、私人影视库的视频，于是就有了搭建私人影视库的想法，让它迎来第二春。
+折腾过程
+实现过程其实很简单，在手机上安装Emby]]></summary>
+        <author>
+            <name>云野阁</name>
         </author>
     </entry>
     <entry>
@@ -5248,17 +5348,6 @@ The post Logward Is the Lightweight Syslog Server Every Home Lab Needs in 2025 a
         <summary type="html"><![CDATA[Visualize Go scheduler events at runtime. Contribute to Kailun2047/go-slowmo development by creating an account on GitHub.]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 Home Lab Network Upgrades Every Home Lab Needs]]></title>
-        <id>https://www.virtualizationhowto.com/?p=307117</id>
-        <link href="https://www.virtualizationhowto.com/2025/12/2025-home-lab-network-upgrades-every-home-lab-needs/"/>
-        <updated>2025-12-01T12:34:33.000Z</updated>
-        <summary type="html"><![CDATA[Networking like everything else has evolved quite a bit over the past few years, not really in terms of new technologies, but in terms of new hardware, and pricing of…
-The post 2025 Home Lab Network Upgrades Every Home Lab Needs appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
