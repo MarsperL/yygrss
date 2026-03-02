@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-03-01T21:43:30.230Z</updated>
+    <updated>2026-03-02T21:56:15.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 Home Lab VLAN Mistakes That Will Break Your Network in 2026]]></title>
+        <id>https://www.virtualizationhowto.com/?p=309890</id>
+        <link href="https://www.virtualizationhowto.com/2026/03/5-home-lab-vlan-mistakes-that-will-break-your-network-in-2026/"/>
+        <updated>2026-03-02T14:34:07.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to home lab networks, introducing VLANs is absolutely one of those critical moves that will take your home lab to the next level and it is a…
+The post 5 Home Lab VLAN Mistakes That Will Break Your Network in 2026 appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Prompt Engineering: Techniques for ChatGPT, Claude, and Gemini]]></title>
+        <id>https://collabnix.com/mastering-prompt-engineering-techniques-for-chatgpt-claude-and-gemini-2/</id>
+        <link href="https://collabnix.com/mastering-prompt-engineering-techniques-for-chatgpt-claude-and-gemini-2/"/>
+        <updated>2026-03-02T13:43:44.000Z</updated>
+        <summary type="html"><![CDATA[Explore prompt engineering for ChatGPT, Claude, and Gemini, unlocking the full potential of conversational AI with expert-crafted interactions.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Prompt Engineering: Techniques for ChatGPT, Claude, and Gemini]]></title>
+        <id>https://collabnix.com/mastering-prompt-engineering-techniques-for-chatgpt-claude-and-gemini/</id>
+        <link href="https://collabnix.com/mastering-prompt-engineering-techniques-for-chatgpt-claude-and-gemini/"/>
+        <updated>2026-03-02T13:43:20.000Z</updated>
+        <summary type="html"><![CDATA[Explore prompt engineering for ChatGPT, Claude, and Gemini, unlocking the full potential of conversational AI with expert-crafted interactions.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[x86 to Arm Migration via Arm MCP Server, Docker MCP Toolkit, VS Code and GitHub Co-Pilot]]></title>
+        <id>https://collabnix.com/?p=72823</id>
+        <link href="https://collabnix.com/x86-to-arm-migration-via-arm-mcp-server-docker-mcp-toolkit-vs-code-and-github-co-pilot/"/>
+        <updated>2026-03-02T10:57:35.000Z</updated>
+        <summary type="html"><![CDATA[Migrating workloads from x86 to Arm64 is no longer optional – it’s a cost-saving imperative. With AWS Graviton, Azure Cobalt, and Google Cloud Axion going mainstream, organizations are seeing 20–40% cost savings and better performance. But actually migrating legacy applications? That’s where things get painful. The Problem Consider a C++ matrix multiplication benchmark built with […]]]></summary>
+        <author>
+            <name>Ajeet Raina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harnessing Claude Code for DevOps Automation: A Comprehensive Guide]]></title>
+        <id>https://collabnix.com/harnessing-claude-code-for-devops-automation-a-comprehensive-guide/</id>
+        <link href="https://collabnix.com/harnessing-claude-code-for-devops-automation-a-comprehensive-guide/"/>
+        <updated>2026-03-02T03:16:02.000Z</updated>
+        <summary type="html"><![CDATA[Discover how Claude Code revolutionizes DevOps automation with agentic codebase management, multi-file editing, and command execution directly in your terminal.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[34306/vphone-aio: 1 个脚本运行 vphone (iOS 26.1)，已越狱并安装了完整的引导程序]]></title>
+        <id>iOS 26.1)，已越狱并安装了完整的引导程序](https://github.com/34306/vphone-aio</id>
+        <link href="https://raw.githubusercontent.com/guanguans/favorite-link/master/iOS%2026.1)%EF%BC%8C%E5%B7%B2%E8%B6%8A%E7%8B%B1%E5%B9%B6%E5%AE%89%E8%A3%85%E4%BA%86%E5%AE%8C%E6%95%B4%E7%9A%84%E5%BC%95%E5%AF%BC%E7%A8%8B%E5%BA%8F](https://github.com/34306/vphone-aio"/>
+        <updated>2026-03-01T16:00:00.000Z</updated>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Self-Host LLMs with vLLM: Performance and Cost Comparison]]></title>
         <id>https://collabnix.com/how-to-self-host-llms-with-vllm-performance-and-cost-comparison/</id>
@@ -14,6 +74,16 @@
         <summary type="html"><![CDATA[Discover how to efficiently self-host large language models using vLLM to enhance performance and cut costs, while gaining greater control over your deployments.]]></summary>
         <author>
             <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adembc/lazyssh: Lazyssh 是一个基于终端的交互式 SSH 管理器，灵感来自于 lazydocker 和 k9s 等工具——但旨在直接从终端管理您的服务器集群。]]></title>
+        <id>https://github.com/Adembc/lazyssh</id>
+        <link href="https://github.com/Adembc/lazyssh"/>
+        <updated>2026-03-01T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A terminal-based SSH manager inspired by lazydocker and k9s - Written in go - Adembc/lazyssh]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -37,6 +107,15 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sjj1024/PakePlus-Android: 轻松将任意网站/HTML/Vue/React 等项目构建为轻量级 (小于 5M) 多端桌面应用和手机应用仅需几分钟。]]></title>
+        <id>小于 5M) 多端桌面应用和手机应用仅需几分钟。](https://github.com/Sjj1024/PakePlus-Android</id>
+        <link href="https://raw.githubusercontent.com/guanguans/favorite-link/master/%E5%B0%8F%E4%BA%8E%205M)%20%E5%A4%9A%E7%AB%AF%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8%E5%92%8C%E6%89%8B%E6%9C%BA%E5%BA%94%E7%94%A8%E4%BB%85%E9%9C%80%E5%87%A0%E5%88%86%E9%92%9F%E3%80%82](https://github.com/Sjj1024/PakePlus-Android"/>
+        <updated>2026-03-01T00:00:00.000Z</updated>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[城市散步志：年前]]></title>
         <id>https://bluehe.cn/archives/urban-walks-2026-01</id>
         <link href="https://bluehe.cn/archives/urban-walks-2026-01"/>
@@ -48,6 +127,26 @@
 观察了店里，除了我们都是女性，她们都是点了吃...]]></summary>
         <author>
             <name>云心怀鹤</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mantou132/Spotify-Lyrics: 桌面 Spotify 网络播放器即时同步歌词]]></title>
+        <id>https://github.com/mantou132/Spotify-Lyrics</id>
+        <link href="https://github.com/mantou132/Spotify-Lyrics"/>
+        <updated>2026-02-28T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🎉 Desktop Spotify Web Player Instant Synchronised Lyrics - mantou132/Spotify-Lyrics]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MrPunyapal/pest-annotator-plugin: 一个 Pest PHP 插件，注释覆盖输出，包含类级别的细节、类型覆盖、圈复杂度、基线差异和灵活的导出格式。]]></title>
+        <id>https://github.com/MrPunyapal/pest-annotator-plugin</id>
+        <link href="https://github.com/MrPunyapal/pest-annotator-plugin"/>
+        <updated>2026-02-28T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Contribute to MrPunyapal/pest-annotator-plugin development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -93,6 +192,16 @@ The post I Tested ProxPatch in My 5-Node Proxmox Cluster. Here’s What Happened
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[grinev/opencode-telegram-bot: OpenCode Telegram 机器人客户端用于 OpenCode CLI：在您的手机上运行和监控 AI 编码任务，同时一切在您的机器上本地运行。]]></title>
+        <id>https://github.com/grinev/opencode-telegram-bot</id>
+        <link href="https://github.com/grinev/opencode-telegram-bot"/>
+        <updated>2026-02-26T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenCode mobile client via Telegram: run and monitor AI coding tasks from your phone while everything runs locally on your machine. - grinev/opencode-telegram-bot]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Average Cost to Hire an App Developer in 2026: Full Pricing Guide]]></title>
         <id>https://collabnix.com/?p=72692</id>
         <link href="https://collabnix.com/average-cost-to-hire-an-app-developer-in-2026-full-pricing-guide/"/>
@@ -111,6 +220,26 @@ The post I Tested ProxPatch in My 5-Node Proxmox Cluster. Here’s What Happened
 The post The Tools That Quietly Run My Home Lab Every Day in 2026 appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[matheusml/zsh-ai: 将自然语言即时转换为 shell 命令。无需依赖项，无需复杂设置——只需输入所需内容，即可获得所需命令。]]></title>
+        <id>https://github.com/matheusml/zsh-ai</id>
+        <link href="https://github.com/matheusml/zsh-ai"/>
+        <updated>2026-02-26T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Transform natural language into shell commands instantly. No dependencies, no complex setup - just type what you want and get the command you need. - matheusml/zsh-ai]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cosZone/MoePeek: 一款轻量级 macOS 划词翻译工具，纯 Swift 6 开发，设备端 Apple 翻译保护隐私，安装体积仅 5MB，后台运行内存稳定约 50MB]]></title>
+        <id>https://github.com/cosZone/MoePeek</id>
+        <link href="https://github.com/cosZone/MoePeek"/>
+        <updated>2026-02-25T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A lightweight macOS selection translator built with pure Swift 6, featuring on-device Apple Translate for privacy, only 5MB install size and stable ~50MB memory usage. 一款轻量级 macOS 划词翻译工具，纯 Swift 6 ...]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -165,6 +294,16 @@ The post Proxmox Backup Server Settings I Wish I Knew Earlier appeared first on 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[quoid/userscripts: 适用于 Safari 的开源用户脚本编辑器]]></title>
+        <id>https://github.com/quoid/userscripts#installation</id>
+        <link href="https://github.com/quoid/userscripts#installation"/>
+        <updated>2026-02-25T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An open-source userscript manager for Safari. Contribute to quoid/userscripts development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How Ethernet DIA Supports Reliable Connectivity Under Heavy Demand]]></title>
         <id>https://collabnix.com/?p=72622</id>
         <link href="https://collabnix.com/how-ethernet-dia-supports-reliable-connectivity-under-heavy-demand/"/>
@@ -172,6 +311,16 @@ The post Proxmox Backup Server Settings I Wish I Knew Earlier appeared first on 
         <summary type="html"><![CDATA[Organizations have come to depend on reliable internet access. With the right example of increased digital activity, the demand for reliable, high-speed connections only expands. DIA Ethernet affords the reliability and quality needed for peak usage times. Here is an article detailing why Ethernet DIA provides connectivity stability during peak demand times. Understanding Ethernet Dedicated […]]]></summary>
         <author>
             <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[saif0200/notchprompt: 用于演示和录音的 macOS 本地凹槽式提词器。]]></title>
+        <id>https://github.com/saif0200/notchprompt</id>
+        <link href="https://github.com/saif0200/notchprompt"/>
+        <updated>2026-02-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Contribute to saif0200/notchprompt development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -651,6 +800,16 @@ Bensz]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[php-testo/testo: Testo 是一个可扩展的测试框架，建立在轻量级核心和中间件系统之上。它让您完全控制测试环境，同时保持您已经熟悉的 PHP 语法。]]></title>
+        <id>https://github.com/php-testo/testo</id>
+        <link href="https://github.com/php-testo/testo"/>
+        <updated>2026-02-14T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Testing Framework. Contribute to php-testo/testo development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How I Made a Single Docker Host Highly Available Using Proxmox in My Home Lab]]></title>
         <id>https://www.virtualizationhowto.com/?p=309379</id>
         <link href="https://www.virtualizationhowto.com/2026/02/how-i-made-a-single-docker-host-highly-available-using-proxmox-in-my-home-lab/"/>
@@ -693,6 +852,16 @@ The post How I Made a Single Docker Host Highly Available Using Proxmox in My Ho
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[sudo-project/sudo: Sudo 是一个旨在允许系统管理员向用户授予有限根权限并记录根活动的程序。基本理念是尽可能少地授予权限，但仍然允许人们完成他们的工作。]]></title>
+        <id>https://github.com/sudo-project/sudo</id>
+        <link href="https://github.com/sudo-project/sudo"/>
+        <updated>2026-02-14T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Utility to execute a command as another user. Contribute to sudo-project/sudo development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OpenAI API vs Claude API vs Gemini API: Developer Comparison Guide 2025]]></title>
         <id>https://collabnix.com/openai-api-vs-claude-api-vs-gemini-api-developer-comparison-guide-2025/</id>
         <link href="https://collabnix.com/openai-api-vs-claude-api-vs-gemini-api-developer-comparison-guide-2025/"/>
@@ -720,6 +889,16 @@ The post How I Made a Single Docker Host Highly Available Using Proxmox in My Ho
         <summary type="html"><![CDATA[The moment someone says, “Has anyone seen the spare key?” The room changes. It sounds small, almost mundane, until you realize what it actually means: a piece of your workplace security is missing, and nobody knows where it went. A lost key is not just an inconvenience. It is an unanswered question hanging over your […]]]></summary>
         <author>
             <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dlvhdr/diffnav: 基于 Delta 的 Git Diff 分页程序，但带有文件树，类似于 GitHub。]]></title>
+        <id>https://github.com/dlvhdr/diffnav</id>
+        <link href="https://github.com/dlvhdr/diffnav"/>
+        <updated>2026-02-13T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A git diff pager based on delta but with a file tree, à la GitHub. - dlvhdr/diffnav]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -767,6 +946,16 @@ Bensz]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[f/textream: 一款免费的 macOS 提词器，具有实时单词跟踪、经典自动滚动和语音激活滚动功能。]]></title>
+        <id>https://github.com/f/textream</id>
+        <link href="https://github.com/f/textream"/>
+        <updated>2026-02-13T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With ext...]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Top 5 Reasons Why I’m Attending NVIDIA GTC 2026 (And Why You Should Too!)]]></title>
         <id>https://collabnix.com/?p=72096</id>
         <link href="https://collabnix.com/top-5-reasons-why-im-attending-nvidia-gtc-2026-and-why-you-should-too/"/>
@@ -784,6 +973,16 @@ Bensz]]></summary>
         <summary type="html"><![CDATA[Learn how to run Large Language Models locally with Ollama, enhancing data privacy and reducing latency for your applications.]]></summary>
         <author>
             <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[medvio/move-to-screen: 使用 ⌃⌥ + 方向键在显示器之间移动窗口。]]></title>
+        <id>https://github.com/medvio/move-to-screen</id>
+        <link href="https://github.com/medvio/move-to-screen"/>
+        <updated>2026-02-12T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Contribute to medvio/move-to-screen development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -808,6 +1007,16 @@ The post 5 Proxmox Management Tools I Use in My Home Lab in 2026 appeared first 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[github/gh-aw：使用自然语言 Markdown 编写智能体工作流，并在 GitHub Actions 中运行它们。]]></title>
+        <id>https://github.com/github/gh-aw</id>
+        <link href="https://github.com/github/gh-aw"/>
+        <updated>2026-02-12T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GitHub Agentic Workflows. Contribute to github/gh-aw development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fine-Tuning Language Models with LoRA: A Comprehensive Guide]]></title>
         <id>https://collabnix.com/fine-tuning-language-models-with-lora-a-comprehensive-guide/</id>
         <link href="https://collabnix.com/fine-tuning-language-models-with-lora-a-comprehensive-guide/"/>
@@ -815,6 +1024,16 @@ The post 5 Proxmox Management Tools I Use in My Home Lab in 2026 appeared first 
         <summary type="html"><![CDATA[Learn how to fine-tune large language models with Low-Rank Adaptation (LoRA) using Python and Docker. This guide covers setting up the environment, choosing the right model, and preparing for fine-tuning.]]></summary>
         <author>
             <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sipeed/picoclaw: 🦐 PicoClaw 是一款超轻量级的个人人工智能助理，其灵感来源于纳米机器人，通过自引导过程用 Go 语言从头开始重构，由人工智能代理本身驱动整个架构迁移和代码优化。]]></title>
+        <id>https://github.com/sipeed/picoclaw</id>
+        <link href="https://github.com/sipeed/picoclaw"/>
+        <updated>2026-02-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity - sipeed/picoclaw]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -859,6 +1078,16 @@ The post What I’d Do (and Avoid) If I Were Building a Home Lab in 2026 appeare
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[spatie/laravel-openapi-cli: 将任何 OpenAPI 规范转化为专用的 Laravel artisan 命令。每个端点都有自己的命令，并为路径参数、查询参数和请求体提供类型化选项。]]></title>
+        <id>https://github.com/spatie/laravel-openapi-cli</id>
+        <link href="https://github.com/spatie/laravel-openapi-cli"/>
+        <updated>2026-02-11T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Create a Laravel command for your OpenAPI specs. Contribute to spatie/laravel-openapi-cli development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OpenClaw Architecture Deep Dive: How It Works Under the Hood]]></title>
         <id>https://collabnix.com/openclaw-architecture-deep-dive-how-it-works-under-the-hood/</id>
         <link href="https://collabnix.com/openclaw-architecture-deep-dive-how-it-works-under-the-hood/"/>
@@ -889,6 +1118,16 @@ The post What I’d Do (and Avoid) If I Were Building a Home Lab in 2026 appeare
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[spatie/laravel-screenshot: 在 Laravel 应用程序中对网页进行截屏]]></title>
+        <id>https://github.com/spatie/laravel-screenshot</id>
+        <link href="https://github.com/spatie/laravel-screenshot"/>
+        <updated>2026-02-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Take screenshots of web pages. Contribute to spatie/laravel-screenshot development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[iPhone Not Charging or Losing Battery Fast? Easy Fixes]]></title>
         <id>https://collabnix.com/?p=71926</id>
         <link href="https://collabnix.com/iphone-not-charging-or-losing-battery-fast-easy-fixes/"/>
@@ -916,6 +1155,15 @@ The post What I’d Do (and Avoid) If I Were Building a Home Lab in 2026 appeare
         <summary type="html"><![CDATA[Self-Host Perplexica AI: Easy Docker & Ollama Guide This guide offers a step-by-step walkthrough of how you can deploy your own personal AI assistant, Perplexica, using two powerful, modern technologies: Docker Desktop and the Ollama model. The objective is to demystify the process of setting up a sophisticated AI application in a local, controlled environment. […]]]></summary>
         <author>
             <name>Manish Lingadevaru</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rebornix/Agmente: Agmente 是一个用于编码代理的 iOS 客户端。它连接到使用 ACP (代理客户端协议) 或 Codex 应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。]]></title>
+        <id>代理客户端协议) 或 Codex 应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。](https://github.com/rebornix/Agmente</id>
+        <link href="https://raw.githubusercontent.com/guanguans/favorite-link/master/%E4%BB%A3%E7%90%86%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%8D%8F%E8%AE%AE)%20%E6%88%96%20Codex%20%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%8D%8F%E8%AE%AE%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8C%E5%B9%B6%E5%9C%A8%E8%AE%BE%E5%A4%87%E4%B8%8A%E6%98%BE%E7%A4%BA%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%E3%80%81%E7%BB%93%E6%9E%9C%E5%92%8C%E5%AF%B9%E8%AF%9D%E5%8E%86%E5%8F%B2%E3%80%82](https://github.com/rebornix/Agmente"/>
+        <updated>2026-02-10T16:00:00.000Z</updated>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -957,6 +1205,16 @@ The post Moving a Proxmox OS Drive Without Breaking Anything in Your Home Lab ap
         <summary type="html"><![CDATA[Explore the multifaceted world of software agents—autonomous programs vital for automation and monitoring in modern tech environments.]]></summary>
         <author>
             <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[rectorphp/mockstan: 将您的 PHPUnit 模拟置于严格的静态分析之下。]]></title>
+        <id>https://github.com/rectorphp/mockstan</id>
+        <link href="https://github.com/rectorphp/mockstan"/>
+        <updated>2026-02-10T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Keep your PHPUnit mocks under strict eye of static analysis - rectorphp/mockstan]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -1170,6 +1428,16 @@ Bensz]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[sbarex/SourceCodeSyntaxHighlight: 该应用程序为 macOS 10.15 Catalina 及更高版本提供了快速查看扩展，用于预览源文件。内部使用 Highlight 渲染带有语法高亮的源代码。]]></title>
+        <id>https://github.com/sbarex/SourceCodeSyntaxHighlight</id>
+        <link href="https://github.com/sbarex/SourceCodeSyntaxHighlight"/>
+        <updated>2026-02-07T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Quick Look extension for highlight source code files on macOS 10.15 and later. - sbarex/SourceCodeSyntaxHighlight]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Top 9 Klaviyo Alternatives for E-commerce Brands]]></title>
         <id>https://collabnix.com/?p=71733</id>
         <link href="https://collabnix.com/top-9-klaviyo-alternatives-for-e-commerce-brands/"/>
@@ -1177,6 +1445,16 @@ Bensz]]></summary>
         <summary type="html"><![CDATA[Looking for Klaviyo alternatives for e-commerce brands? Discover the best marketing platforms by comparing features and pricing for stores now]]></summary>
         <author>
             <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sbarex/QLMarkdown: QLMarkdown 是一个 macOS 快速查看扩展，用于预览 Markdown 文件。]]></title>
+        <id>https://github.com/sbarex/QLMarkdown</id>
+        <link href="https://github.com/sbarex/QLMarkdown"/>
+        <updated>2026-02-07T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[macOS Quick Look extension for Markdown files. Contribute to sbarex/QLMarkdown development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -1193,6 +1471,34 @@ Bensz]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[sbarex/MediaInfo: MacOS Finder 扩展，用于在上下文菜单上显示有关媒体文件 (图像、视频和音频)、PDF 和 Office 文件的信息。]]></title>
+        <id>图像、视频和音频)、PDF 和 Office 文件的信息。](https://github.com/sbarex/MediaInfo</id>
+        <link href="https://raw.githubusercontent.com/guanguans/favorite-link/master/%E5%9B%BE%E5%83%8F%E3%80%81%E8%A7%86%E9%A2%91%E5%92%8C%E9%9F%B3%E9%A2%91)%E3%80%81PDF%20%E5%92%8C%20Office%20%E6%96%87%E4%BB%B6%E7%9A%84%E4%BF%A1%E6%81%AF%E3%80%82](https://github.com/sbarex/MediaInfo"/>
+        <updated>2026-02-07T00:00:00.000Z</updated>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[saeedvir/PaL-Server-Info: PHP 和 Laravel (PaL) 服务器信息和 Laravel 要求检查器 + PHP 和 Mysql 基准测试 + 在单个文件中扫描 PHP 配置]]></title>
+        <id>PaL) 服务器信息和 Laravel 要求检查器 + PHP 和 Mysql 基准测试 + 在单个文件中扫描 PHP 配置](https://github.com/saeedvir/PaL-Server-Info</id>
+        <link href="https://raw.githubusercontent.com/guanguans/favorite-link/master/PaL)%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E4%BF%A1%E6%81%AF%E5%92%8C%20Laravel%20%E8%A6%81%E6%B1%82%E6%A3%80%E6%9F%A5%E5%99%A8%20+%20PHP%20%E5%92%8C%20Mysql%20%E5%9F%BA%E5%87%86%E6%B5%8B%E8%AF%95%20+%20%E5%9C%A8%E5%8D%95%E4%B8%AA%E6%96%87%E4%BB%B6%E4%B8%AD%E6%89%AB%E6%8F%8F%20PHP%20%E9%85%8D%E7%BD%AE](https://github.com/saeedvir/PaL-Server-Info"/>
+        <updated>2026-02-06T16:00:00.000Z</updated>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TestFlowLabs/doctest：一个 PHP 文档测试工具，它可以从 Markdown 文件中提取代码块，在隔离的进程中执行这些代码块，并验证其输出。]]></title>
+        <id>https://github.com/TestFlowLabs/doctest</id>
+        <link href="https://github.com/TestFlowLabs/doctest"/>
+        <updated>2026-02-06T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A PHP documentation testing tool that extracts code blocks from Markdown files, executes them in isolated processes, and verifies their output. - TestFlowLabs/doctest]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[This Proxmox Backup Gap Can Wipe Out Your Home Lab]]></title>
         <id>https://www.virtualizationhowto.com/?p=309253</id>
         <link href="https://www.virtualizationhowto.com/2026/02/this-proxmox-backup-gap-can-wipe-out-your-home-lab/"/>
@@ -1201,6 +1507,26 @@ Bensz]]></summary>
 The post This Proxmox Backup Gap Can Wipe Out Your Home Lab appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jarv/newsgoat: NewsGoat 是一个基于终端的 RSS 阅读器]]></title>
+        <id>https://github.com/jarv/newsgoat</id>
+        <link href="https://github.com/jarv/newsgoat"/>
+        <updated>2026-02-06T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NewsGoat is a terminal-based RSS reader. Contribute to jarv/newsgoat development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[steipete/Peekaboo: Peekaboo 是一个 MacOS CLI 可选的 MCP 服务器，它使 AI 代理能够捕获应用程序或整个系统的屏幕截图，并通过本地或远程 AI 模型进行可选的可视化问题回答。]]></title>
+        <id>https://github.com/steipete/Peekaboo</id>
+        <link href="https://github.com/steipete/Peekaboo"/>
+        <updated>2026-02-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remot...]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -1214,6 +1540,26 @@ The post This Proxmox Backup Gap Can Wipe Out Your Home Lab appeared first on Vi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[wzh4869/AppPorts: 一款 macOS 工具，无缝迁移应用到外部存储并自动建立链接，释放宝贵的本地空间]]></title>
+        <id>https://github.com/wzh4869/AppPorts</id>
+        <link href="https://github.com/wzh4869/AppPorts"/>
+        <updated>2026-02-05T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[📦 A macOS utility to seamlessly migrate applications to external storage and reclaim local disk space.【一款 macOS 工具，无缝迁移应用到外部存储并自动建立链接，释放宝贵的本地空间】 - wzh4869/AppPorts]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[laravel/ai: Laravel AI SDK 提供了一个统一的、富有表现力的 API，用于与 OpenAI、Anthropic、Gemini 等 AI 提供商进行交互。]]></title>
+        <id>https://github.com/laravel/ai</id>
+        <link href="https://github.com/laravel/ai"/>
+        <updated>2026-02-05T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Laravel AI SDK provides a unified, expressive API for interacting with AI providers such as OpenAI, Anthropic, Gemini, and more. - laravel/ai]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Proxmox Cluster Operations Every Home Labber Hopes They Never Need (Until They Do)]]></title>
         <id>https://www.virtualizationhowto.com/?p=309216</id>
         <link href="https://www.virtualizationhowto.com/2026/02/proxmox-cluster-operations-every-home-labber-hopes-they-never-need-until-they-do/"/>
@@ -1222,6 +1568,26 @@ The post This Proxmox Backup Gap Can Wipe Out Your Home Lab appeared first on Vi
 The post Proxmox Cluster Operations Every Home Labber Hopes They Never Need (Until They Do) appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[smughead/Loupe: 用于 AI-Agent 工作流的 MacOS 辅助功能检查器。]]></title>
+        <id>https://github.com/smughead/Loupe</id>
+        <link href="https://github.com/smughead/Loupe"/>
+        <updated>2026-02-05T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[macOS accessibility inspector for AI-agent workflows. Hover, annotate, copy structured output. - smughead/Loupe]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[elementary/terminal: 为初级操作系统设计的终端仿真器]]></title>
+        <id>https://github.com/elementary/terminal</id>
+        <link href="https://github.com/elementary/terminal"/>
+        <updated>2026-02-05T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Terminal emulator designed for elementary OS. Contribute to elementary/terminal development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -1245,6 +1611,36 @@ The post Proxmox Cluster Operations Every Home Labber Hopes They Never Need (Unt
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[worksome/graphlint：GraphQL 静态分析工具]]></title>
+        <id>https://github.com/worksome/graphlint</id>
+        <link href="https://github.com/worksome/graphlint"/>
+        <updated>2026-02-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A static analysis tool for GraphQL. Contribute to worksome/graphlint development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AliRezaBeigy/paqetNG: 一个现代的 Android 应用程序，用于 paqet，这是一种使用原始套接字和 KCP 的包级代理。使用 hev-socks5-tunnel 构建，支持本地 TUN/SOCKS5 隧道。]]></title>
+        <id>https://github.com/AliRezaBeigy/paqetNG</id>
+        <link href="https://github.com/AliRezaBeigy/paqetNG"/>
+        <updated>2026-02-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Android client for paqet — Root Required — Ferries Packets Across Forbidden Boundaries. - AliRezaBeigy/paqetNG]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FantasticFiasco/action-update-license-year: 拉取请求中的 GitHub 操作会更新许可证文件中的版权年份。]]></title>
+        <id>https://github.com/FantasticFiasco/action-update-license-year</id>
+        <link href="https://github.com/FantasticFiasco/action-update-license-year"/>
+        <updated>2026-02-04T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[GitHub Action that in a pull request updates the copyright year(s) in your license file. - FantasticFiasco/action-update-license-year]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Write about the future you want]]></title>
         <id>https://daverupert.com/2026/02/futurescapes/</id>
         <link href="https://daverupert.com/2026/02/futurescapes/"/>
@@ -1264,6 +1660,16 @@ If complaining worked, we would have won the culture war already. We’d have a 
 The post ClusterShell for Proxmox VE is How I Manage Every Host in My Home Lab at Once appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VortexOne404/slipstream-client-android: Slipstream 客户端是一个轻量级和模块化的 Android 客户端：]]></title>
+        <id>https://github.com/VortexOne404/slipstream-client-android</id>
+        <link href="https://github.com/VortexOne404/slipstream-client-android"/>
+        <updated>2026-02-04T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Slipstream Client for android. Contribute to VortexOne404/slipstream-client-android development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -1293,6 +1699,26 @@ The post ClusterShell for Proxmox VE is How I Manage Every Host in My Home Lab a
         <updated>2026-02-04T00:00:00.000Z</updated>
         <author>
             <name>Limboy's Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lucasgelfond/zerobrew: 即插即用，速度提升 5 至 20 倍，实验性的 Homebrew 替代品。]]></title>
+        <id>https://github.com/lucasgelfond/zerobrew</id>
+        <link href="https://github.com/lucasgelfond/zerobrew"/>
+        <updated>2026-02-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A 5-20x faster experimental Homebrew alternative. Contribute to lucasgelfond/zerobrew development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[bim-g/hitilafu: PHP 应用程序的一个漂亮的错误页面。]]></title>
+        <id>https://github.com/bim-g/hitilafu</id>
+        <link href="https://github.com/bim-g/hitilafu"/>
+        <updated>2026-02-03T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A beautiful error page for PHP applications. Contribute to bim-g/hitilafu development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -1326,6 +1752,16 @@ The post I Bought a 10 Gig Switch to Fix My Proxmox Ceph Cluster and It Changed 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[steipete/Trimmy: Trimmy ✂️ - “粘贴一次，运行一次”：这个工具可以将多行的 shell 脚本片段压缩成一个简洁的形式，以便执行。]]></title>
+        <id>https://github.com/steipete/Trimmy</id>
+        <link href="https://github.com/steipete/Trimmy"/>
+        <updated>2026-02-02T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA["Paste once, run once." — Trimmy flattens those multi-line shell snippets you copy so they actually paste and run. - steipete/Trimmy]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[开源项目与平台应用之争：OpenAI Prism vs. ChineseResearchLaTeX]]></title>
         <id>https://blognas.hwb0307.com/other/6990</id>
         <link href="https://blognas.hwb0307.com/other/6990"/>
@@ -1350,6 +1786,16 @@ The post Why Your NAS Is the Perfect Proxmox Backup Server appeared first on Vir
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[asheshgoplani/agent-deck: AI 编码代理的终端会话管理器。]]></title>
+        <id>https://github.com/asheshgoplani/agent-deck</id>
+        <link href="https://github.com/asheshgoplani/agent-deck"/>
+        <updated>2026-02-01T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more. - asheshgoplani/agent-deck]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[草莓第一次写真]]></title>
         <id>https://www.skyue.com/26020120.html</id>
         <link href="https://www.skyue.com/26020120.html"/>
@@ -1367,6 +1813,16 @@ The post Why Your NAS Is the Perfect Proxmox Backup Server appeared first on Vir
         <summary type="html"><![CDATA[The convergence of large language models and software security is rewriting the rules of vulnerability detection. Here's what practitioners need to know in 2025.]]></summary>
         <author>
             <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sebastianbergmann/file-filter: 用于过滤文件的库，从 phpunit/phpunit 中提取。]]></title>
+        <id>https://github.com/sebastianbergmann/file-filter</id>
+        <link href="https://github.com/sebastianbergmann/file-filter"/>
+        <updated>2026-02-01T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Library for filtering files. Contribute to sebastianbergmann/file-filter development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -1399,12 +1855,72 @@ The post Why Your NAS Is the Perfect Proxmox Backup Server appeared first on Vir
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[syi0808/screenize: 开源 MacOS 屏幕录制应用程序，具有自动缩放、光标效果和时间轴编辑功能—Screen Studio 替代方案。]]></title>
+        <id>https://github.com/syi0808/screenize</id>
+        <link href="https://github.com/syi0808/screenize"/>
+        <updated>2026-02-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Open-source macOS screen recording app with auto-zoom, cursor effects, and timeline editing — Screen Studio alternative. - syi0808/screenize]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[automazeio/vibeproxy: 原生 MacOS 菜单栏应用程序使用您的 Claude Code ChatGPT 订阅与 AI 编码工具 - 无需 API 密钥]]></title>
+        <id>https://github.com/automazeio/vibeproxy</id>
+        <link href="https://github.com/automazeio/vibeproxy"/>
+        <updated>2026-01-31T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Native macOS menu bar app to use your Claude Code & ChatGPT subscriptions with AI coding tools - no API keys needed - automazeio/vibeproxy]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[openclaw/openclaw: OpenClaw 是一款个人 AI 助手，用户可以在自己的设备上运行它。该助手支持在用户已使用的多个频道上提供回答，包括 WhatsApp、Telegram、Slack、Discord、Google Chat、Signal、iMessage、Microsoft Teams 和 WebChat，还支持 BlueBubbles、Matrix、Zalo 及 Zalo Personal 等扩展频道。它能够在 macOS、iOS 和 Android 系统上实现语音交互，并能渲染用户可控制的实时画布界面。]]></title>
+        <id>https://github.com/openclaw/openclaw</id>
+        <link href="https://github.com/openclaw/openclaw"/>
+        <updated>2026-01-31T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - GitHub - openclaw/openclaw: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[devcbh/laravel-ai-provider: 具有多个提供程序驱动程序的 Laravel AI 包装包。]]></title>
+        <id>https://github.com/devcbh/laravel-ai-provider</id>
+        <link href="https://github.com/devcbh/laravel-ai-provider"/>
+        <updated>2026-01-31T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A Laravel AI wrapper package with multiple provider drivers. - devcbh/laravel-ai-provider]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[harris21/laravel-fuse: Laravel 队列作业的断路器]]></title>
+        <id>https://github.com/harris21/laravel-fuse</id>
+        <link href="https://github.com/harris21/laravel-fuse"/>
+        <updated>2026-01-31T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Circuit breaker for Laravel queue jobs. Contribute to harris21/laravel-fuse development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[冷水澡是一座小金矿]]></title>
         <id>https://limboy.me/posts/taking-cold-showers-is-a-hidden-treasure</id>
         <link href="https://limboy.me/posts/taking-cold-showers-is-a-hidden-treasure"/>
         <updated>2026-01-31T00:00:00.000Z</updated>
         <author>
             <name>Limboy's Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[loilo/Fuse: PHP 的模糊搜索库]]></title>
+        <id>https://github.com/loilo/Fuse</id>
+        <link href="https://github.com/loilo/Fuse"/>
+        <updated>2026-01-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🔍 Fuzzy search for PHP, ported from Fuse.js. Contribute to loilo/Fuse development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -5227,26 +5743,6 @@ The post 12 Things I Wish I Knew Before Upgrading My Home Lab to 10 Gig appeared
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[edgafner/GBrowser: 在你的 IDE 中嵌入一个网页浏览器窗口。消除在浏览器和 IDE 之间切换的麻烦。]]></title>
-        <id>https://github.com/edgafner/GBrowser</id>
-        <link href="https://github.com/edgafner/GBrowser"/>
-        <updated>2025-12-03T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A Browser embedded in your IDE . Contribute to edgafner/GBrowser development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[作为日记本的博客]]></title>
-        <id>https://www.skyue.com/25120313.html</id>
-        <link href="https://www.skyue.com/25120313.html"/>
-        <updated>2025-12-03T05:27:00.000Z</updated>
-        <summary type="html"><![CDATA[想聊这个话题，得从最近几条评论说起。]]></summary>
-        <author>
-            <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[打造AI应用的高颜值答案展示：基于Vue3.5+MarkdownIt构建专业级富文本渲染组件]]></title>
         <id>https://www.lifengdi.com/?p=4613</id>
         <link href="https://www.lifengdi.com/ren-gong-zhi-neng/4613"/>
@@ -5254,60 +5750,6 @@ The post 12 Things I Wish I Knew Before Upgrading My Home Lab to 10 Gig appeared
         <summary type="html"><![CDATA[在AI聊天、智能问答类应用中，AI生成内容的呈现效果直接决定了用户的使用体验。纯文本的展示形式不仅会让代码块、表格等结构化内容变得杂乱难读，还会因缺乏交互能力降低用户操作效率。本文将从需求痛点出发，基于Vue3.5的组合式API，结合MarkdownIt解析引擎与Prism.js语法高亮工具，一步步构建一个集结构化渲染 […]]]></summary>
         <author>
             <name>李锋镝</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEB 和 RPM 有什么区别]]></title>
-        <id>https://dusays.com/archives/840/</id>
-        <link href="https://dusays.com/archives/840/"/>
-        <updated>2025-12-02T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>在 Linux 系统中，软件的安装和管理通常依赖于软件包（Package），而 .deb 和 .rpm 是两种最主流的软件包格式。它们分别服务于不同的 Linux 发行版生态系统，不仅文件后缀不同，所使用的工具链、依赖管理方式、系统集成方式等方面也各有特点。本文将从多个角度对这两种格式进行深入解析。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEB 和 RPM 有什么区别]]></title>
-        <id>https://dusays.com/840/</id>
-        <link href="https://dusays.com/840/"/>
-        <updated>2025-12-02T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>在 Linux 系统中，软件的安装和管理通常依赖于软件包（Package），而 .deb 和 .rpm 是两种最主流的软件包格式。它们分别服务于不同的 Linux 发行版生态系统，不仅文件后缀不同，所使用的工具链、依赖管理方式、系统集成方式等方面也各有特点。本文将从多个角度对这两种格式进行深入解析。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epistates/treemd: (TUI/CLI) Markdown 导航器，具有基于树的结构导航。]]></title>
-        <id>TUI/CLI) Markdown 导航器，具有基于树的结构导航。](https://github.com/Epistates/treemd</id>
-        <link href="https://raw.githubusercontent.com/guanguans/favorite-link/master/TUI/CLI)%20Markdown%20%E5%AF%BC%E8%88%AA%E5%99%A8%EF%BC%8C%E5%85%B7%E6%9C%89%E5%9F%BA%E4%BA%8E%E6%A0%91%E7%9A%84%E7%BB%93%E6%9E%84%E5%AF%BC%E8%88%AA%E3%80%82](https://github.com/Epistates/treemd"/>
-        <updated>2025-12-02T16:00:00.000Z</updated>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logward Is the Lightweight Syslog Server Every Home Lab Needs in 2025]]></title>
-        <id>https://www.virtualizationhowto.com/?p=307152</id>
-        <link href="https://www.virtualizationhowto.com/2025/12/logward-is-the-lightweight-syslog-server-every-home-lab-needs-in-2025/"/>
-        <updated>2025-12-02T13:14:52.000Z</updated>
-        <summary type="html"><![CDATA[I am constantly on the lookout for great tools that help to do things easier in the home lab environment and production than what I am doing currently. In doing…
-The post Logward Is the Lightweight Syslog Server Every Home Lab Needs in 2025 appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[joanhey/ngx-php-runtime: Symfony PHP-NGX-PHP 的运行时]]></title>
-        <id>https://github.com/joanhey/ngx-php-runtime</id>
-        <link href="https://github.com/joanhey/ngx-php-runtime"/>
-        <updated>2025-12-02T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Symfony php-runtime for ngx-php. Contribute to joanhey/ngx-php-runtime development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -5331,26 +5773,6 @@ The post Logward Is the Lightweight Syslog Server Every Home Lab Needs in 2025 a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DaoCloud/public-image-mirror: 很多镜像都在国外。比如 gcr。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。]]></title>
-        <id>https://github.com/DaoCloud/public-image-mirror</id>
-        <link href="https://github.com/DaoCloud/public-image-mirror"/>
-        <updated>2025-12-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。 - DaoCloud/public-image-mirror]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kailun2047/go-slowmo: 在运行时可视化 Go 调度器事件。]]></title>
-        <id>https://github.com/Kailun2047/go-slowmo</id>
-        <link href="https://github.com/Kailun2047/go-slowmo"/>
-        <updated>2025-12-01T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Visualize Go scheduler events at runtime. Contribute to Kailun2047/go-slowmo development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[企业级自动化 Agent 架构深析：Prompt 演进驱动的智能工作流落地]]></title>
         <id>https://www.lifengdi.com/?p=4607</id>
         <link href="https://www.lifengdi.com/ren-gong-zhi-neng/4607"/>
@@ -5358,16 +5780,6 @@ The post Logward Is the Lightweight Syslog Server Every Home Lab Needs in 2025 a
         <summary type="html"><![CDATA[在企业运维、开发协作等复杂场景中，AI 正从“单步工具调用”向“全流程自动化”演进。一个成熟的企业级 Agent 不仅要能执行孤立任务，更要像资深工程师一样，具备“分析问题→收集证据→决策修复→总结复盘”的闭环能力。而这一切的核心，正是基于 Prompt 动态演进的架构设计——通过 MCP 协议标准化交互，让 Prom […]]]></summary>
         <author>
             <name>李锋镝</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[alecthomas/chroma: Chroma takes source code and other structured text and converts it into syntax highlighted HTML, ANSI-coloured text, etc.]]></title>
-        <id>https://github.com/alecthomas/chroma</id>
-        <link href="https://github.com/alecthomas/chroma"/>
-        <updated>2025-12-01T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A general purpose syntax highlighter in pure Go . Contribute to alecthomas/chroma development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -5391,66 +5803,6 @@ The post Logward Is the Lightweight Syslog Server Every Home Lab Needs in 2025 a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[jaywcjlove/deskmark: 在桌面上添加文本和图标水印，以便在录制视频时轻松使用。]]></title>
-        <id>https://github.com/jaywcjlove/deskmark</id>
-        <link href="https://github.com/jaywcjlove/deskmark"/>
-        <updated>2025-12-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Add text and icon watermarks to your desktop for easy use when recording videos. - jaywcjlove/deskmark]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[lvzhaobo/qoder-rules: Qoder 规则 - 规范编码设计模式]]></title>
-        <id>https://github.com/lvzhaobo/qoder-rules</id>
-        <link href="https://github.com/lvzhaobo/qoder-rules"/>
-        <updated>2025-11-30T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Contribute to lvzhaobo/qoder-rules development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[addyosmani/gemini-cli-tips: Gemini CLI 提示和技巧]]></title>
-        <id>https://github.com/addyosmani/gemini-cli-tips</id>
-        <link href="https://github.com/addyosmani/gemini-cli-tips"/>
-        <updated>2025-11-30T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Gemini CLI Tips and Tricks. Contribute to addyosmani/gemini-cli-tips development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kunkundi/crossdesk: 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。]]></title>
-        <id>https://github.com/kunkundi/crossdesk</id>
-        <link href="https://github.com/kunkundi/crossdesk"/>
-        <updated>2025-11-30T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A lightweight, cross-platform remote desktop software with support for Web Client access | 一款支持 Web 客户端访问的轻量级跨平台远程桌面软件。 - kunkundi/crossdesk]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[antonmedv/gitmal: Gitmal 是一个用于 Git 仓库的静态页面生成器。Gitmal 可以使用文件、提交、代码高亮和 Markdown 渲染生成静态 HTML 页面。]]></title>
-        <id>https://github.com/antonmedv/gitmal</id>
-        <link href="https://github.com/antonmedv/gitmal"/>
-        <updated>2025-11-30T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A static page generator for repos. Contribute to antonmedv/gitmal development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hipages/php-fpm_exporter: 这是一个用于 PHP-FPM 的 Prometheus 导出器。这个导出器会直接连接到 PHP-FPM，并通过 HTTP 协议导出指标数据。]]></title>
-        <id>https://github.com/hipages/php-fpm_exporter</id>
-        <link href="https://github.com/hipages/php-fpm_exporter"/>
-        <updated>2025-11-29T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A prometheus exporter for PHP-FPM. Contribute to hipages/php-fpm_exporter development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gemini CLI 深度实战：用 Gemini 3 Pro 打造终端级开发环境（2025 全场景指南）]]></title>
         <id>https://www.lifengdi.com/?p=4604</id>
         <link href="https://www.lifengdi.com/ren-gong-zhi-neng/4604"/>
@@ -5458,16 +5810,6 @@ The post Logward Is the Lightweight Syslog Server Every Home Lab Needs in 2025 a
         <summary type="html"><![CDATA[Gemini 3 Pro 的发布不仅刷新了多模态模型的性能上限，更通过 Gemini CLI 把这种能力直接搬进了终端。从此，终端不再只是执行命令的窗口，而是集“代码生成、多模态开发、项目文档自动化、云端故障排查”于一体的全能开发环境。借助 Agentic Coding 特性，它能理解复杂工程需求，调用外部工具，甚至独 […]]]></summary>
         <author>
             <name>李锋镝</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[phptg/bot-api: 与 Telegram Bot API 交互的 PHP 库]]></title>
-        <id>https://github.com/phptg/bot-api</id>
-        <link href="https://github.com/phptg/bot-api"/>
-        <updated>2025-11-28T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[PHP library to interact with Telegram Bot API. Contribute to phptg/bot-api development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -5491,16 +5833,6 @@ The post Logward Is the Lightweight Syslog Server Every Home Lab Needs in 2025 a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[binwiederhier/ntfy-android: 适用于 NTFY.SH 的 Android 应用程序]]></title>
-        <id>https://github.com/binwiederhier/ntfy-android</id>
-        <link href="https://github.com/binwiederhier/ntfy-android"/>
-        <updated>2025-11-27T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Android app for ntfy.sh. Contribute to binwiederhier/ntfy-android development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[提示词工程进阶指南：8大核心技巧，让AI精准读懂你的需求（2025实战版）]]></title>
         <id>https://www.lifengdi.com/?p=4601</id>
         <link href="https://www.lifengdi.com/ren-gong-zhi-neng/4601"/>
@@ -5518,16 +5850,6 @@ The post Logward Is the Lightweight Syslog Server Every Home Lab Needs in 2025 a
         <summary type="html"><![CDATA[你是否刷到过这样的创意视频：李清照身着宋装娓娓道来南渡历程，曹操以豪迈语气讲述官渡之战，搭配贴合场景的古风插画与背景音乐，让枯燥的历史变得生动鲜活？借助 Coze（扣子）的可视化工作流，无需专业剪辑、设计技能，就能自动化完成从文案创作到视频输出的全流程，让历史人物“复活”在屏幕上。 本文将从原理拆解、分步实操、参数优化 […]]]></summary>
         <author>
             <name>李锋镝</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MadAppGang/dingo: Go 的一种元语言，它引入了结果类型、错误传播以及模式匹配功能，同时确保与 100% 的 Go 生态系统兼容。]]></title>
-        <id>https://github.com/MadAppGang/dingo</id>
-        <link href="https://github.com/MadAppGang/dingo"/>
-        <updated>2025-11-26T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility - GitHub - MadAppGang/dingo: A meta-language for Go th...]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -5551,16 +5873,6 @@ The post Logward Is the Lightweight Syslog Server Every Home Lab Needs in 2025 a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[bluekeyes/go-gitdiff: 一个用于解析和应用由、和生成的补丁的 Go 库。它还可以解析和应用由标准 GNU 工具生成的统一差异。]]></title>
-        <id>https://github.com/bluekeyes/go-gitdiff</id>
-        <link href="https://github.com/bluekeyes/go-gitdiff"/>
-        <updated>2025-11-25T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Go library for parsing and applying patches created by Git  - GitHub - bluekeyes/go-gitdiff: Go library for parsing and applying patches created by Git]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gemini 3 前端开发革命：从原型到 3D 应用，一句话搞定全栈开发（2025 实测）]]></title>
         <id>https://www.lifengdi.com/?p=4594</id>
         <link href="https://www.lifengdi.com/ren-gong-zhi-neng/4594"/>
@@ -5568,16 +5880,6 @@ The post Logward Is the Lightweight Syslog Server Every Home Lab Needs in 2025 a
         <summary type="html"><![CDATA[Google 发布的 Gemini 3 彻底颠覆了前端开发的传统模式——无需复杂编码，只需一句自然语言描述，就能生成高保真产品原型、企业级网站、3D 动画应用甚至完整游戏。这种“所想即所得”的开发体验，让前端开发从“代码堆砌”转向“创意落地”，但也引发了“前端已死”的热议。 本文结合实测体验，深度拆解 Gemini 3 […]]]></summary>
         <author>
             <name>李锋镝</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Owloops/updo: Updo 是一个用于监控网站正常运行时间和性能的命令行工具。它提供有关网站状态、响应时间、SSL 证书到期等实时指标，并带有警报通知。]]></title>
-        <id>https://github.com/Owloops/updo</id>
-        <link href="https://github.com/Owloops/updo"/>
-        <updated>2025-11-25T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Uptime monitoring CLI tool with alerting and advanced settings - Owloops/updo]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -5591,26 +5893,6 @@ The post Logward Is the Lightweight Syslog Server Every Home Lab Needs in 2025 a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[sobolevn/git-secret: 是一个 Bash 工具，它将私有数据存储在 Git 仓库中。使用被允许用户的公钥加密文件，允许您信任的用户使用 PGP 和他们的私钥访问加密数据。]]></title>
-        <id>https://github.com/sobolevn/git-secret</id>
-        <link href="https://github.com/sobolevn/git-secret"/>
-        <updated>2025-11-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[:busts_in_silhouette: A bash-tool to store your private data inside a git repository. - sobolevn/git-secret]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[arpxspace/smartcommit: smartcommit 是一款智能的、基于 AI 的 CLI 工具，帮助您轻松编写语义化的 Conventional Commits 消息。它会分析您的暂存更改，通过提问澄清问题来理解代码背后的“原因”，并为您生成结构化的提交消息。]]></title>
-        <id>https://github.com/arpxspace/smartcommit</id>
-        <link href="https://github.com/arpxspace/smartcommit"/>
-        <updated>2025-11-24T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Enforce the habit of self-documenting code through better commit messages. - arpxspace/smartcommit]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[零成本玩转 Gemini 3 Pro：普通人的全场景免费使用指南（2025 最新）]]></title>
         <id>https://www.lifengdi.com/?p=4590</id>
         <link href="https://www.lifengdi.com/ren-gong-zhi-neng/4590"/>
@@ -5621,55 +5903,6 @@ The post Logward Is the Lightweight Syslog Server Every Home Lab Needs in 2025 a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[difyz9/ytb2bili: 一个功能完整的视频自动化处理系统，支持从 YouTube 等平台下载视频，自动生成字幕、翻译内容、生成元数据，并定时上传到 Bilibili。]]></title>
-        <id>https://github.com/difyz9/ytb2bili</id>
-        <link href="https://github.com/difyz9/ytb2bili"/>
-        <updated>2025-11-23T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[一个功能完整的视频自动化处理系统，支持从 YouTube 等平台下载视频，自动生成字幕、翻译内容、生成元数据，并定时上传到 Bilibili。 - difyz9/ytb2bili]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[janhq/jan: Jan 是 ChatGPT 的开源替代方案，可在您的计算机上 100% 脱机运行。]]></title>
-        <id>https://github.com/janhq/jan</id>
-        <link href="https://github.com/janhq/jan"/>
-        <updated>2025-11-23T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. - janhq/jan]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[authgear/authgear-server: Authgear：Auth0/Clerk/Firebase Auth 的开源替代品]]></title>
-        <id>https://github.com/authgear/authgear-server</id>
-        <link href="https://github.com/authgear/authgear-server"/>
-        <updated>2025-11-22T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Open source alternative to Auth0 / Firebase Auth. Contribute to authgear/authgear-server development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iazaran/smart-cache: Laravel SmartCache-优化大数据缓存]]></title>
-        <id>https://github.com/iazaran/smart-cache</id>
-        <link href="https://github.com/iazaran/smart-cache"/>
-        <updated>2025-11-22T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Laravel SmartCache - Optimize Caching for Large Data - iazaran/smart-cache]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valkyrie00/bold-brew: 粗体 Brew 是 Project Bluefin 和 Aurora (下一代 Linux 桌面系统，全球服务数万用户) 中管理 Homebrew 的官方终端 UI。]]></title>
-        <id>下一代 Linux 桌面系统，全球服务数万用户) 中管理 Homebrew 的官方终端 UI。](https://github.com/Valkyrie00/bold-brew</id>
-        <link href="https://raw.githubusercontent.com/guanguans/favorite-link/master/%E4%B8%8B%E4%B8%80%E4%BB%A3%20Linux%20%E6%A1%8C%E9%9D%A2%E7%B3%BB%E7%BB%9F%EF%BC%8C%E5%85%A8%E7%90%83%E6%9C%8D%E5%8A%A1%E6%95%B0%E4%B8%87%E7%94%A8%E6%88%B7)%20%E4%B8%AD%E7%AE%A1%E7%90%86%20Homebrew%20%E7%9A%84%E5%AE%98%E6%96%B9%E7%BB%88%E7%AB%AF%20UI%E3%80%82](https://github.com/Valkyrie00/bold-brew"/>
-        <updated>2025-11-21T16:00:00.000Z</updated>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Gemini 3 深度解析：从像素级复刻到 AGI 雏形，多模态 AI 如何重构开发与创作？]]></title>
         <id>https://www.lifengdi.com/?p=4588</id>
         <link href="https://www.lifengdi.com/ren-gong-zhi-neng/4588"/>
@@ -5677,93 +5910,6 @@ The post Logward Is the Lightweight Syslog Server Every Home Lab Needs in 2025 a
         <summary type="html"><![CDATA[当谷歌 DeepMind 推出 Gemini 3 时，整个 AI 圈的反应不再是“惊艳”，而是“颠覆”——它能在极短时间内精准还原主流平台首页（含完整交互逻辑），生成可直接运行的游戏、拆解长视频细节，甚至用代码实现专业领域的 3D 交互动画。这种“从静态生成到动态交互”的跨越，让多模态 AI 真正从“展示工具”升级为“ […]]]></summary>
         <author>
             <name>李锋镝</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[block/goose: 一个开源、可扩展的人工智能代理，超越代码建议 - 安装、执行、编辑和测试任何大型语言模型]]></title>
-        <id>https://github.com/block/goose</id>
-        <link href="https://github.com/block/goose"/>
-        <updated>2025-11-20T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM - block/goose]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[runxiyu/furgit: Furgit 是一个用纯 Go (和一点点可选的 Go 汇编) 编写的快速 Git 库。]]></title>
-        <id>和一点点可选的 Go 汇编) 编写的快速 Git 库。](https://github.com/runxiyu/furgit</id>
-        <link href="https://raw.githubusercontent.com/guanguans/favorite-link/master/%E5%92%8C%E4%B8%80%E7%82%B9%E7%82%B9%E5%8F%AF%E9%80%89%E7%9A%84%20Go%20%E6%B1%87%E7%BC%96)%20%E7%BC%96%E5%86%99%E7%9A%84%E5%BF%AB%E9%80%9F%20Git%20%E5%BA%93%E3%80%82](https://github.com/runxiyu/furgit"/>
-        <updated>2025-11-20T08:00:00.000Z</updated>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blaspsoft/forerunner: 使用 Laravel 熟悉的迁移语法为 LLM 定义结构化输出模式]]></title>
-        <id>https://github.com/Blaspsoft/forerunner</id>
-        <link href="https://github.com/Blaspsoft/forerunner"/>
-        <updated>2025-11-20T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[🏗️✨ Define structured output schemas for LLMs using Laravel's familiar migration syntax - Blaspsoft/forerunner]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[platers/obsidian-linter: 一个黑曜石插件，格式和风格你的笔记，重点是可配置性和可扩展性。]]></title>
-        <id>https://github.com/platers/obsidian-linter</id>
-        <link href="https://github.com/platers/obsidian-linter"/>
-        <updated>2025-11-19T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[An Obsidian plugin that formats and styles your notes with a focus on configurability and extensibility. - platers/obsidian-linter]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gabe565/CastSponsorSkip: 跳过所有本地 Google Cast 设备上的 YouTube 赞助 (有时是广告)。]]></title>
-        <id>有时是广告)。](https://github.com/gabe565/CastSponsorSkip</id>
-        <link href="https://raw.githubusercontent.com/guanguans/favorite-link/master/%E6%9C%89%E6%97%B6%E6%98%AF%E5%B9%BF%E5%91%8A)%E3%80%82](https://github.com/gabe565/CastSponsorSkip"/>
-        <updated>2025-11-19T08:00:00.000Z</updated>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ggkevinnnn/LaunchNow: MacOS Tahoe 的替代启动台。]]></title>
-        <id>https://github.com/ggkevinnnn/LaunchNow</id>
-        <link href="https://github.com/ggkevinnnn/LaunchNow"/>
-        <updated>2025-11-19T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Alternative Launchpad for MacOS Tahoe. . Contribute to ggkevinnnn/LaunchNow development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[requestly/requestly: Requestly 是本地 API 客户端 (如 Postman) 和 HTTP 拦截器 (如 Charles Proxy) 与 API 测试和模拟的强大组合。Requestly 可作为 Chrome 浏览器扩展直接在浏览器中使用，也可作为桌面应用程序安装。]]></title>
-        <id>如 Postman) 和 HTTP 拦截器 (如 Charles Proxy) 与 API 测试和模拟的强大组合。Requestly 可作为 Chrome 浏览器扩展直接在浏览器中使用，也可作为桌面应用程序安装。](https://github.com/requestly/requestly</id>
-        <link href="https://raw.githubusercontent.com/guanguans/favorite-link/master/%E5%A6%82%20Postman)%20%E5%92%8C%20HTTP%20%E6%8B%A6%E6%88%AA%E5%99%A8%20(%E5%A6%82%20Charles%20Proxy)%20%E4%B8%8E%20API%20%E6%B5%8B%E8%AF%95%E5%92%8C%E6%A8%A1%E6%8B%9F%E7%9A%84%E5%BC%BA%E5%A4%A7%E7%BB%84%E5%90%88%E3%80%82Requestly%20%E5%8F%AF%E4%BD%9C%E4%B8%BA%20Chrome%20%E6%B5%8F%E8%A7%88%E5%99%A8%E6%89%A9%E5%B1%95%E7%9B%B4%E6%8E%A5%E5%9C%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%AD%E4%BD%BF%E7%94%A8%EF%BC%8C%E4%B9%9F%E5%8F%AF%E4%BD%9C%E4%B8%BA%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%AE%89%E8%A3%85%E3%80%82](https://github.com/requestly/requestly"/>
-        <updated>2025-11-18T16:00:00.000Z</updated>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sanmai/sliding-window-counter: 一个轻量级、高效的 PHP 库，用于跟踪基于时间的事件和检测异常，而无需数据库或日志的开销。]]></title>
-        <id>https://github.com/sanmai/sliding-window-counter</id>
-        <link href="https://github.com/sanmai/sliding-window-counter"/>
-        <updated>2025-11-18T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Short-lived cache-backed time series with anomaly detection - sanmai/sliding-window-counter]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sanmai/di-container: 一个简单的 PSR-11 依赖注入容器，具有自动构造函数依赖解析功能。]]></title>
-        <id>https://github.com/sanmai/di-container</id>
-        <link href="https://github.com/sanmai/di-container"/>
-        <updated>2025-11-18T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[dependency injection container with automatic constructor dependency resolution; when less is more - sanmai/di-container]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -5787,56 +5933,6 @@ The post Logward Is the Lightweight Syslog Server Every Home Lab Needs in 2025 a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[sanmai/phpstan-rules: PHPStan 规则集，主要用于执行函数式编程模式和降低复杂性。这些规则专门针对 LLM 容易产生的代码类型而定制。]]></title>
-        <id>https://github.com/sanmai/phpstan-rules</id>
-        <link href="https://github.com/sanmai/phpstan-rules"/>
-        <updated>2025-11-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Contribute to sanmai/phpstan-rules development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sanmai/sdk-common: API SDK 中的通用类]]></title>
-        <id>https://github.com/sanmai/sdk-common</id>
-        <link href="https://github.com/sanmai/sdk-common"/>
-        <updated>2025-11-17T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Common classes for API SDKs. Contribute to sanmai/sdk-common development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[coderabbitai/git-worktree-runner: 基于 BASH 的 Git 工作树管理器，集成了编辑器和 AI 工具。]]></title>
-        <id>https://github.com/coderabbitai/git-worktree-runner</id>
-        <link href="https://github.com/coderabbitai/git-worktree-runner"/>
-        <updated>2025-11-17T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bash-based Git worktree manager with editor and AI tool integration. Automates per-branch worktree creation, configuration copying, dependency installation, and workspace setup for efficient parall...]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[sanmai/callable-reflection: 获取任何 PHP 可调用的 ReflectionFunctionAbstract-闭包，函数，方法，可调用，一级可调用任何工作！]]></title>
-        <id>https://github.com/sanmai/callable-reflection</id>
-        <link href="https://github.com/sanmai/callable-reflection"/>
-        <updated>2025-11-17T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Get ReflectionFunctionAbstract for any PHP callable - closures, functions, methods, invokables, first-class callables; anything works! - sanmai/callable-reflection]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JustSteveKing/result: PHP 8.4+ 的一个微小的、与框架无关的结果类型，它使错误处理变得明确、可组合和可测试。]]></title>
-        <id>https://github.com/JustSteveKing/result</id>
-        <link href="https://github.com/JustSteveKing/result"/>
-        <updated>2025-11-17T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A tiny, framework-agnostic Result type for PHP 8.4+ that makes error handling explicit, composable, and testable. - JustSteveKing/result]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[1小时搭建私有化AI知识库：DeepSeek + Ollama + AnythingLLM 实战指南（从部署到优化）]]></title>
         <id>https://www.lifengdi.com/?p=4580</id>
         <link href="https://www.lifengdi.com/ren-gong-zhi-neng/4580"/>
@@ -5854,135 +5950,6 @@ The post Logward Is the Lightweight Syslog Server Every Home Lab Needs in 2025 a
         <summary type="html"><![CDATA[PostgreSQL简介 PostgreSQL 是一款开源企业级关系型数据库，核心定位是“功能全面、稳定可靠、高度可扩展”，兼具开源自由与商业数据库的企业级能力，被广泛用于金融、电商、政务等核心业务场景。以下从核心维度深度解析： 一、核心定位与发展背景 起源：1986年源于加州大学伯克利分校的 POSTGRES 项目， […]]]></summary>
         <author>
             <name>李锋镝</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vinzent03/obsidian-git: 将 Git 版本控制与 Obsidian.MD 中的自动提交和同步以及其他高级功能集成在一起]]></title>
-        <id>https://github.com/Vinzent03/obsidian-git</id>
-        <link href="https://github.com/Vinzent03/obsidian-git"/>
-        <updated>2025-11-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Integrate Git version control with automatic commit-and-sync and other advanced features in Obsidian.md - Vinzent03/obsidian-git]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JustSteveKing/mit: 实现 PSR-14 的轻量级、类型安全的事件发射器。]]></title>
-        <id>https://github.com/JustSteveKing/mit</id>
-        <link href="https://github.com/JustSteveKing/mit"/>
-        <updated>2025-11-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A lightweight, type-safe event emitter implementing PSR-14. - JustSteveKing/mit]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[logancyang/obsidian-copilot: Obsidian 的 Copilot 是您保险库中的 AI 助手，具有基于聊天的保险库搜索、网页和 YouTube 支持、强大的上下文处理能力，以及在 Obsidian 高度可定制的工作区内不断扩展的自主能力 - 同时确保您的数据掌握在您手中。]]></title>
-        <id>https://github.com/logancyang/obsidian-copilot</id>
-        <link href="https://github.com/logancyang/obsidian-copilot"/>
-        <updated>2025-11-16T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[THE Copilot in Obsidian. Contribute to logancyang/obsidian-copilot development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gkpln3/CapsLockNoDelay: 消除在 MacOS OSX 上激活 Caps Lock 时的延迟]]></title>
-        <id>https://github.com/gkpln3/CapsLockNoDelay</id>
-        <link href="https://github.com/gkpln3/CapsLockNoDelay"/>
-        <updated>2025-11-16T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Eliminates delay when activating caps lock on macOS OSX - gkpln3/CapsLockNoDelay]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ash-jc-allen/email-utilities: 可用于与电子邮件地址交互的小型 Laravel 包]]></title>
-        <id>https://github.com/ash-jc-allen/email-utilities</id>
-        <link href="https://github.com/ash-jc-allen/email-utilities"/>
-        <updated>2025-11-16T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A small Laravel package that can be used for interacting with email addresses - ash-jc-allen/email-utilities]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fbarrento/data-factory: 现代的 PEST 测试数据工厂。编写更清晰、更易维护的 PHP 测试，使用表达式工厂。]]></title>
-        <id>https://github.com/fbarrento/data-factory</id>
-        <link href="https://github.com/fbarrento/data-factory"/>
-        <updated>2025-11-16T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Generate data from Data Objects Laravel Factories Style - fbarrento/data-factory]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[houdaslassi/vantage: 一个跟踪和监控您的队列作业的 Laravel 包。自动记录作业执行历史、失败、重试，并提供一个简单的网页界面以查看所有内容。]]></title>
-        <id>https://github.com/houdaslassi/vantage</id>
-        <link href="https://github.com/houdaslassi/vantage"/>
-        <updated>2025-11-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Vantage : Advanced Queue Monitoring & Insights package - houdaslassi/vantage]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kavishdevar/librepods: LibrePods 解锁了 Apple 的独占 AirPods 功能，使其在非 Apple 设备上可用。获取噪声控制模式、自适应透明度、耳朵检测、助听器、定制透明模式、电池状态等功能 - 所有您为之付费的高级功能，但 Apple 将其锁定在他们的生态系统中。]]></title>
-        <id>https://github.com/kavishdevar/librepods</id>
-        <link href="https://github.com/kavishdevar/librepods"/>
-        <updated>2025-11-16T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AirPods liberated from Apple's ecosystem. Contribute to kavishdevar/librepods development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tarunkorat/laravel-asset-cleaner: 从 Laravel 应用程序中安全地检测和删除未使用的 CSS、JS、SCSS 和其他资产]]></title>
-        <id>https://github.com/tarunkorat/laravel-asset-cleaner</id>
-        <link href="https://github.com/tarunkorat/laravel-asset-cleaner"/>
-        <updated>2025-11-15T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Safely detect and remove unused CSS, JS, SCSS and other assets from Laravel applications - tarunkorat/laravel-asset-cleaner]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[swoole/build-static-php: 构建静态 PHP CLI 运行时和 PHP-FPM]]></title>
-        <id>https://github.com/swoole/build-static-php</id>
-        <link href="https://github.com/swoole/build-static-php"/>
-        <updated>2025-11-15T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[build static php cli runtime  and php-fpm. Contribute to swoole/build-static-php development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tw93/Mole: 像鼹鼠一样深入挖掘来清理你的 Mac]]></title>
-        <id>https://github.com/tw93/Mole</id>
-        <link href="https://github.com/tw93/Mole"/>
-        <updated>2025-11-15T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[🐹 Dig deep like a mole to optimize you Mac. 像鼹鼠一样深入挖掘来优化你的 Mac - tw93/Mole]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[coduo/php-matcher: 将数据结构 (如 JSON/plaintext/XML) 与可读模式进行匹配的最简单方法。]]></title>
-        <id>如 JSON/plaintext/XML) 与可读模式进行匹配的最简单方法。](https://github.com/coduo/php-matcher</id>
-        <link href="https://raw.githubusercontent.com/guanguans/favorite-link/master/%E5%A6%82%20JSON/plaintext/XML)%20%E4%B8%8E%E5%8F%AF%E8%AF%BB%E6%A8%A1%E5%BC%8F%E8%BF%9B%E8%A1%8C%E5%8C%B9%E9%85%8D%E7%9A%84%E6%9C%80%E7%AE%80%E5%8D%95%E6%96%B9%E6%B3%95%E3%80%82](https://github.com/coduo/php-matcher"/>
-        <updated>2025-11-15T00:00:00.000Z</updated>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[coduo/php-to-string: 将任何 PHP 值转换为字符串]]></title>
-        <id>https://github.com/coduo/php-to-string</id>
-        <link href="https://github.com/coduo/php-to-string"/>
-        <updated>2025-11-14T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Cast any php value into a string . Contribute to coduo/php-to-string development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -6006,16 +5973,6 @@ The post Logward Is the Lightweight Syslog Server Every Home Lab Needs in 2025 a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BasilLangevin/laravel-data-json-schemas: 将 Spatie 数据对象转换为带有内置验证的 JSON 模式]]></title>
-        <id>https://github.com/BasilLangevin/laravel-data-json-schemas</id>
-        <link href="https://github.com/BasilLangevin/laravel-data-json-schemas"/>
-        <updated>2025-11-13T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Transforms Spatie Data objects into JSON Schemas with built-in validation - BasilLangevin/laravel-data-json-schemas]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AI投资或将把美国拖入另一场反恐战争的泥潭]]></title>
         <id>https://lawtee.com/article/ai-as-us-second-war-on-terror/</id>
         <link href="https://lawtee.com/article/ai-as-us-second-war-on-terror/"/>
@@ -6036,16 +5993,6 @@ The post Logward Is the Lightweight Syslog Server Every Home Lab Needs in 2025 a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[xolvionl/laravel-data-openapi-generator: 使用 Spatie 数据对象时，从 Laravel 生成 OpenAPI 规范。]]></title>
-        <id>https://github.com/xolvionl/laravel-data-openapi-generator</id>
-        <link href="https://github.com/xolvionl/laravel-data-openapi-generator"/>
-        <updated>2025-11-13T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Generate OpenAPI specification from Laravel when using Spatie Data objects. - xolvionl/laravel-data-openapi-generator]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LangChain 1.0 智能体实战：MCP 协议赋能工具标准化调用（从开发到落地）]]></title>
         <id>https://www.lifengdi.com/?p=4574</id>
         <link href="https://www.lifengdi.com/ren-gong-zhi-neng/4574"/>
@@ -6053,36 +6000,6 @@ The post Logward Is the Lightweight Syslog Server Every Home Lab Needs in 2025 a
         <summary type="html"><![CDATA[在智能体（Agent）开发中，工具调用的标准化是提升开发效率、降低生态碎片化的关键。模型上下文协议（Model Context Protocol, MCP）作为连接大语言模型与外部工具的通用标准，完美解决了不同工具接入方式各异、跨平台复用困难的痛点。而 LangChain 1.0 通过 langchain-mcp-ad […]]]></summary>
         <author>
             <name>李锋镝</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pk-fr/yakpro-po: Php 代码混淆器]]></title>
-        <id>https://github.com/pk-fr/yakpro-po</id>
-        <link href="https://github.com/pk-fr/yakpro-po"/>
-        <updated>2025-11-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[YAK Pro - Php Obfuscator. Contribute to pk-fr/yakpro-po development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[waydabber/BetterDisplay: 在您的 Mac 上解锁显示器！灵活的 HiDPI 缩放，XDR/HDR 额外亮度，虚拟屏幕，DDC 控制，额外调暗，PIP/流媒体，EDID 覆盖等更多功能！]]></title>
-        <id>https://github.com/waydabber/BetterDisplay</id>
-        <link href="https://github.com/waydabber/BetterDisplay"/>
-        <updated>2025-11-12T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more! - waydabber/BetterDisplay]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[laravel/mcp: 为您的 Laravel 应用程序快速构建 MCP 服务器。]]></title>
-        <id>https://github.com/laravel/mcp</id>
-        <link href="https://github.com/laravel/mcp"/>
-        <updated>2025-11-12T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Rapidly build MCP servers for your Laravel applications. - laravel/mcp]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -6106,26 +6023,6 @@ The post Logward Is the Lightweight Syslog Server Every Home Lab Needs in 2025 a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[caseyamcl/guzzle_retry_middleware: 这是一个 Guzzle v6/7+ 中间件库，能够在 HTTP 服务器响应错误状态码时自动重试请求。它还可以配置为在请求超时时进行重试。]]></title>
-        <id>https://github.com/caseyamcl/guzzle_retry_middleware</id>
-        <link href="https://github.com/caseyamcl/guzzle_retry_middleware"/>
-        <updated>2025-11-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Middleware for Guzzle v6/7+ that automatically retries HTTP requests on 429, 503 responses. - caseyamcl/guzzle_retry_middleware]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[github-2013/intellij-awesome-console-x: 使用此插件，控制台和终端中的所有文件和链接都将突出显示并可以单击。源代码文件将在 IDE 中打开，其他链接将使用此类型的默认查看器/浏览器。]]></title>
-        <id>https://github.com/github-2013/intellij-awesome-console-x</id>
-        <link href="https://github.com/github-2013/intellij-awesome-console-x"/>
-        <updated>2025-11-12T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[IntelliJ IDEA plugin: awesome console finally makes links in your console at least 200% more awesome! - github-2013/intellij-awesome-console-x]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[私有部署｜基于Ansible的运维自动化作业平台]]></title>
         <id>https://blog.ops-coffee.com/s/ansible-job-platform-modern-it-automation.html</id>
         <link href="https://blog.ops-coffee.com/s/ansible-job-platform-modern-it-automation.html"/>
@@ -6146,16 +6043,6 @@ The post Logward Is the Lightweight Syslog Server Every Home Lab Needs in 2025 a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[wooserv/laravel-objectid: 这是一个优雅且高效的 ObjectId 生成器，专为 Laravel 模型设计，支持自动 ID 分配、包含迁移宏以及提供辅助函数。]]></title>
-        <id>https://github.com/wooserv/laravel-objectid</id>
-        <link href="https://github.com/wooserv/laravel-objectid"/>
-        <updated>2025-11-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Elegant ObjectId generator for Laravel models with migration macro & helper. - wooserv/laravel-objectid]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[0.01% 的概率超时问题]]></title>
         <id>https://www.kawabangga.com/?p=7066</id>
         <link href="https://www.kawabangga.com/posts/7066"/>
@@ -6164,16 +6051,6 @@ The post Logward Is the Lightweight Syslog Server Every Home Lab Needs in 2025 a
 Continue reading...]]></summary>
         <author>
             <name>laixintao</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PallavAg/Apple-Intelligence-Chat: 您使用新的基础模型框架和液态玻璃用户界面在 iOS 26+ 上与苹果智能聊天。]]></title>
-        <id>https://github.com/PallavAg/Apple-Intelligence-Chat</id>
-        <link href="https://github.com/PallavAg/Apple-Intelligence-Chat"/>
-        <updated>2025-11-11T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Chat with Apple Intelligence using the Foundation Models Framework - PallavAg/Apple-Intelligence-Chat]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -6187,66 +6064,6 @@ Continue reading...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[tanu360/apple-intelligence-api: 一个 SwiftUI 应用，它运行一个与 OpenAI 兼容的 API 服务器，使用 Apple 的设备端基础模型，将基础模型、确定性模型和创造性模型统一到一个端点下供本地使用。]]></title>
-        <id>https://github.com/tanu360/apple-intelligence-api</id>
-        <link href="https://github.com/tanu360/apple-intelligence-api"/>
-        <updated>2025-11-11T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Apple On-Device OpenAI API. Contribute to tanu360/apple-intelligence-api development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[theJayTea/WritingTools: 世界上最聪明的全系统语法助手，苹果智能写作工具的更好版本。]]></title>
-        <id>https://github.com/theJayTea/WritingTools</id>
-        <link href="https://github.com/theJayTea/WritingTools"/>
-        <updated>2025-11-10T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The world's smartest system-wide grammar assistant; a better version of the Apple Intelligence Writing Tools. Works on Windows, Linux, & macOS, with the free Gemini API, local LLMs, & m...]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RoversX/LaunchNext: 将您的 Launchpad 带回 MacOS26+，高度可定制，功能强大，免费。]]></title>
-        <id>https://github.com/RoversX/LaunchNext</id>
-        <link href="https://github.com/RoversX/LaunchNext"/>
-        <updated>2025-11-10T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Bring your Launchpad back in MacOS26+ ,highly customizable, powerful, free. - RoversX/LaunchNext]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rajivm1991/DroidDock: 时尚的 MacOS 桌面应用程序，用于通过 ADB 浏览 Android 设备文件]]></title>
-        <id>https://github.com/rajivm1991/DroidDock</id>
-        <link href="https://github.com/rajivm1991/DroidDock"/>
-        <updated>2025-11-10T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A sleek macOS desktop application for browsing Android device files via ADB - rajivm1991/DroidDock]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rational-stars/GitHub-Freshness: GitHub Freshness 是一个油猴脚本，通过颜色高亮的方式，帮助你快速判断一个 GitHub 仓库是否在更新]]></title>
-        <id>https://github.com/rational-stars/GitHub-Freshness</id>
-        <link href="https://github.com/rational-stars/GitHub-Freshness"/>
-        <updated>2025-11-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GitHub Freshness 在线文档. Contribute to rational-stars/GitHub-Freshness development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[P3GLEG/Whaler: 将 Docker 映像转换为 Docker 文件的程序]]></title>
-        <id>https://github.com/P3GLEG/Whaler</id>
-        <link href="https://github.com/P3GLEG/Whaler"/>
-        <updated>2025-11-09T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Program to reverse Docker images into Dockerfiles. Contribute to P3GLEG/Whaler development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[为什么我们很少接到民调电话？]]></title>
         <id>https://lawtee.com/article/opinion-poll/</id>
         <link href="https://lawtee.com/article/opinion-poll/"/>
@@ -6254,115 +6071,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[最近我妈接到了一个自称“全省平安建设满意度调查”的电话，前两次都没接，直到第三次才拿起。她还打电话问我是不是诈骗。作为一名法律工作者，老T对这个事情倒是知情，自己前几年在带小孩去医院检查时，也曾被“调查”过，但毫无疑问，这种民意调查，在国内似乎还是个“稀罕事”，相比经常看到国外新闻中各种民调数据，可以说感知确实不那么深，如果不是自己和家人这两次被“调查”经历，还真不知道国内有这种“民调”。]]></summary>
         <author>
             <name>mail@hyruo.com (lawtee)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BookerLiu/GeekDesk: 🔥 小巧、美观的桌面快速启动工具]]></title>
-        <id>https://github.com/BookerLiu/GeekDesk</id>
-        <link href="https://github.com/BookerLiu/GeekDesk"/>
-        <updated>2025-11-08T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[🔥小巧、美观的桌面快速启动工具     Small, beautiful desktop quickstart management tool with integrated Everything search - BookerLiu/GeekDesk]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[samber/do: ⚙️ 基于 Go 1.18+ 泛型的依赖注入工具包。]]></title>
-        <id>https://github.com/samber/do</id>
-        <link href="https://github.com/samber/do"/>
-        <updated>2025-11-08T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[⚙️  A dependency injection toolkit based on Go 1.18+ Generics. - samber/do]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SSHGuard/sshguard: 保护主机免受针对 SSH 和其他服务的暴力攻击]]></title>
-        <id>https://github.com/SSHGuard/sshguard</id>
-        <link href="https://github.com/SSHGuard/sshguard"/>
-        <updated>2025-11-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Protect hosts from brute-force attacks against SSH and other services - SSHGuard/sshguard]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[samber/ro: Go 的反应式编程范例：用于事件驱动应用程序的声明式和可组合 API]]></title>
-        <id>https://github.com/samber/ro</id>
-        <link href="https://github.com/samber/ro"/>
-        <updated>2025-11-07T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[🏎️ Reactive Programming paradigm for Go: declarative and composable API for event-driven applications - samber/ro]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MM2-0/Kvaesitso: 专注于搜索的 Android 启动器]]></title>
-        <id>https://github.com/MM2-0/Kvaesitso</id>
-        <link href="https://github.com/MM2-0/Kvaesitso"/>
-        <updated>2025-11-07T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A search-focused Android launcher. Contribute to MM2-0/Kvaesitso development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[nelmio/alice: 依赖于 FakerPHP/Faker，Alice 允许您创建大量的固定数据/假数据，以便在开发或测试您的项目时使用。它为您提供了一些基本工具，使生成具有约束的复杂数据变得非常简单，且易于阅读和编辑，以便您团队中的每个人都可以根据需要调整固定数据。]]></title>
-        <id>https://github.com/nelmio/alice</id>
-        <link href="https://github.com/nelmio/alice"/>
-        <updated>2025-11-07T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Expressive fixtures generator. Contribute to nelmio/alice development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[adnanh/webhook: Webhook 是一个轻量级的传入 Webhook 服务器，用于运行 shell 命令。]]></title>
-        <id>https://github.com/adnanh/webhook</id>
-        <link href="https://github.com/adnanh/webhook"/>
-        <updated>2025-11-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[webhook is a lightweight incoming webhook server to run shell commands - adnanh/webhook]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[theofidry/AliceDataFixtures: Nelmio Alice 扩展，用于持久化加载的 fixture。]]></title>
-        <id>https://github.com/theofidry/AliceDataFixtures</id>
-        <link href="https://github.com/theofidry/AliceDataFixtures"/>
-        <updated>2025-11-06T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nelmio Alice extension to persist the loaded fixtures. - theofidry/AliceDataFixtures]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rlxone/Equinox: 为 MacOS 创建动态壁纸。]]></title>
-        <id>https://github.com/rlxone/Equinox</id>
-        <link href="https://github.com/rlxone/Equinox"/>
-        <updated>2025-11-06T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[🌇 🌃  Create dynamic wallpapers for macOS. Contribute to rlxone/Equinox development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[github-2013/intellij-awesome-console-x: 这是 JetBrains 集成开发环境的一个插件，它终于能让控制台和终端中的链接至少棒上 200%！]]></title>
-        <id>https://github.com/github-2013/intellij-awesome-console-x</id>
-        <link href="https://github.com/github-2013/intellij-awesome-console-x"/>
-        <updated>2025-11-06T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[IntelliJ IDEA plugin: awesome console finally makes links in your console at least 200% more awesome! - github-2013/intellij-awesome-console-x]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winnie0408/LocalMusicHelper: 将您保存在网易云音乐、QQ 音乐等在线音乐平台的歌单数据，转换成本项目支持的本地音乐播放器 (如 Salt Player、APlayer、Poweramp 等) 可识别的歌单格式，完成歌单的导入操作，方便您快速从在线音乐平台迁移歌单到本地音乐播放器。]]></title>
-        <id>如 Salt Player、APlayer、Poweramp 等) 可识别的歌单格式，完成歌单的导入操作，方便您快速从在线音乐平台迁移歌单到本地音乐播放器。](https://github.com/Winnie0408/LocalMusicHelper</id>
-        <link href="https://raw.githubusercontent.com/guanguans/favorite-link/master/%E5%A6%82%20Salt%20Player%E3%80%81APlayer%E3%80%81Poweramp%20%E7%AD%89)%20%E5%8F%AF%E8%AF%86%E5%88%AB%E7%9A%84%E6%AD%8C%E5%8D%95%E6%A0%BC%E5%BC%8F%EF%BC%8C%E5%AE%8C%E6%88%90%E6%AD%8C%E5%8D%95%E7%9A%84%E5%AF%BC%E5%85%A5%E6%93%8D%E4%BD%9C%EF%BC%8C%E6%96%B9%E4%BE%BF%E6%82%A8%E5%BF%AB%E9%80%9F%E4%BB%8E%E5%9C%A8%E7%BA%BF%E9%9F%B3%E4%B9%90%E5%B9%B3%E5%8F%B0%E8%BF%81%E7%A7%BB%E6%AD%8C%E5%8D%95%E5%88%B0%E6%9C%AC%E5%9C%B0%E9%9F%B3%E4%B9%90%E6%92%AD%E6%94%BE%E5%99%A8%E3%80%82](https://github.com/Winnie0408/LocalMusicHelper"/>
-        <updated>2025-11-05T16:00:00.000Z</updated>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -6406,35 +6114,6 @@ Continue reading...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[666ghj/BettaFish: “微舆”是一个从 0 实现的创新型多智能体舆情分析系统，帮助大家破除信息茧房，还原舆情原貌，预测未来走向，辅助决策。用户只需像聊天一样提出分析需求，智能体开始全自动分析国内外 30+ 主流社媒与数百万条大众评论。]]></title>
-        <id>https://github.com/666ghj/BettaFish</id>
-        <link href="https://github.com/666ghj/BettaFish"/>
-        <updated>2025-11-04T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。 - 666ghj/BettaFish]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[beikeshop/beikeshop: 免费的开源和易于使用的 Laravel 电子商务平台，基于 Laravel。]]></title>
-        <id>https://github.com/beikeshop/beikeshop</id>
-        <link href="https://github.com/beikeshop/beikeshop"/>
-        <updated>2025-11-04T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[🔥🔥🔥 Free open source and easy-to-use laravel eCommerce platform, Base on the Laravel . It supports multiple languages and currencies, integrates ChatGPT OpenAI. The platform features customizable v...]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[azjezz/php-syntax-analyzer: 分析 PHP 包以评估在 PHP 中保留关键字的影响。]]></title>
-        <id>https://github.com/azjezz/php-syntax-analyzer</id>
-        <link href="https://github.com/azjezz/php-syntax-analyzer"/>
-        <updated>2025-11-04T00:00:00.000Z</updated>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[10月说说：第一篇10万+公众号文章]]></title>
         <id>https://lawtee.com/article/talk-about-2025-oct/</id>
         <link href="https://lawtee.com/article/talk-about-2025-oct/"/>
@@ -6445,26 +6124,6 @@ Continue reading...]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ahpxex/Aictionary: 一个桌面词典：快速、简洁，并且真的让你学会英语]]></title>
-        <id>https://github.com/ahpxex/Aictionary</id>
-        <link href="https://github.com/ahpxex/Aictionary"/>
-        <updated>2025-11-03T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[一个桌面词典：快速、简洁，并且真的让你学会英语. Contribute to ahpxex/Aictionary development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[php-internal/promise: 改进的 React Promise 软件包]]></title>
-        <id>https://github.com/php-internal/promise</id>
-        <link href="https://github.com/php-internal/promise"/>
-        <updated>2025-11-03T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Improved React Promise package. Contribute to php-internal/promise development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[无需登录简洁好用｜推荐几个免费在线图片处理工具]]></title>
         <id>https://blog.ops-coffee.com/s/free-online-image-processing-tools-simple-yet-professional.html</id>
         <link href="https://blog.ops-coffee.com/s/free-online-image-processing-tools-simple-yet-professional.html"/>
@@ -6472,85 +6131,6 @@ Continue reading...]]></summary>
         <summary type="html"><![CDATA[探索一系列完全免费的在线图片处理工具，包括拼图、压缩、裁剪、头像制作、去水印等功能，无需登录，安全隐私，体验友好，满足各种图片处理需求。]]></summary>
         <author>
             <name>运维咖啡吧</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rxliuli/apps.apple.com: 提取自 https://apps.apple.com/。使用 Chrome 扩展程序 Save All Resources 保存。]]></title>
-        <id>https://github.com/rxliuli/apps.apple.com</id>
-        <link href="https://github.com/rxliuli/apps.apple.com"/>
-        <updated>2025-11-03T00:00:00.000Z</updated>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dprint/dprint: 用 Rust 编写的可插拔和可配置的代码格式化平台。]]></title>
-        <id>https://github.com/dprint/dprint</id>
-        <link href="https://github.com/dprint/dprint"/>
-        <updated>2025-11-02T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Pluggable and configurable code formatting platform written in Rust. - dprint/dprint]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ImageOptim/ImageOptim: 适用于 Mac 的 GUI 图像优化器]]></title>
-        <id>https://github.com/ImageOptim/ImageOptim</id>
-        <link href="https://github.com/ImageOptim/ImageOptim"/>
-        <updated>2025-11-02T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[GUI image optimizer for Mac. Contribute to ImageOptim/ImageOptim development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[psliwa/image-optimizer: 该库是一款方便易用的图像文件优化工具。它使用 optipng、pngquant、jpegoptim、svgo 和其他一些库，因此在使用它之前，应在服务器上安装适当的库。]]></title>
-        <id>https://github.com/psliwa/image-optimizer</id>
-        <link href="https://github.com/psliwa/image-optimizer"/>
-        <updated>2025-11-02T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Image optimization / compression library. This library is able to optimize png, jpg and gif files in very easy and handy way. It uses optipng, pngquant, pngcrush, pngout, gifsicle, jpegoptim and jp...]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tarunkorat/laravel-migration-squasher: 将旧的 Laravel 迁移压缩到单个模式文件中]]></title>
-        <id>https://github.com/tarunkorat/laravel-migration-squasher</id>
-        <link href="https://github.com/tarunkorat/laravel-migration-squasher"/>
-        <updated>2025-11-02T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Squash old Laravel migrations into a single schema file - tarunkorat/laravel-migration-squasher]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[segmentio/golines: Golines 是一个 Go 代码格式化工具，它能够缩短过长的代码行，并且还能完成 gofmt 所做的所有格式化修复工作。]]></title>
-        <id>https://github.com/segmentio/golines</id>
-        <link href="https://github.com/segmentio/golines"/>
-        <updated>2025-11-01T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A golang formatter that fixes long lines. Contribute to segmentio/golines development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[open-domains/register: 个人网站、开源项目等的免费子域。]]></title>
-        <id>https://github.com/open-domains/register</id>
-        <link href="https://github.com/open-domains/register"/>
-        <updated>2025-11-01T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Free subdomains for personal sites, open-source projects, and more. - open-domains/register]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[idootop/MagicMirror: 即时 AI 换脸一键 AI 换脸，发现更美的你。]]></title>
-        <id>https://github.com/idootop/MagicMirror</id>
-        <link href="https://github.com/idootop/MagicMirror"/>
-        <updated>2025-10-31T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[🪞 Instant AI Face Swap 一键 AI 换脸，发现更美的你. Contribute to idootop/MagicMirror development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
