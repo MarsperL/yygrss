@@ -977,6 +977,56 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=310017",
+          "author": "Brandon Lee",
+          "description": "There is always a set of tools that most of us become familiar with and rely on when it comes to different types of operating systems or platforms. I am…\nThe post 7 Tools I Always Install on Every New Home Lab Linux Server appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/03/7-tools-i-always-install-on-every-new-home-lab-linux-server/",
+          "publishedOn": "2026-03-07T12:54:55.000Z",
+          "wordCount": null,
+          "title": "7 Tools I Always Install on Every New Home Lab Linux Server",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=309996",
+          "author": "Brandon Lee",
+          "description": "Docker is one of the most popular tools not only in the home lab, but in production environments that lets you run services quickly and easily. If you are like…\nThe post 5 Docker Features Most Home Labbers Are Not Using (But Should Be) appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/03/5-docker-features-most-home-labbers-are-not-using-but-should-be/",
+          "publishedOn": "2026-03-06T13:18:09.000Z",
+          "wordCount": null,
+          "title": "5 Docker Features Most Home Labbers Are Not Using (But Should Be)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=309972",
+          "author": "Brandon Lee",
+          "description": "One of the tradeoffs of running a dense mini rack full of compact systems is heat. When you stack multiple high performance mini PCs into a small enclosed rack, even…\nThe post How I Fixed Heat Buildup in My 10-Inch Mini Rack with a Simple Cooling Mod appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/03/how-i-fixed-heat-buildup-in-my-10-inch-mini-rack-with-a-simple-cooling-mod/",
+          "publishedOn": "2026-03-05T13:23:25.000Z",
+          "wordCount": null,
+          "title": "How I Fixed Heat Buildup in My 10-Inch Mini Rack with a Simple Cooling Mod",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=309923",
+          "author": "Brandon Lee",
+          "description": "I have been following a really great project called PegaProx for the last few months and it is rapidly evolving into one of the goto tools for Proxmox management with…\nThe post PegaProx Now Adds Built-In ESXi Migration and Proxmox Backup Monitoring appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/03/pegaprox-now-adds-built-in-esxi-migration-and-proxmox-backup-monitoring/",
+          "publishedOn": "2026-03-04T12:59:53.000Z",
+          "wordCount": null,
+          "title": "PegaProx Now Adds Built-In ESXi Migration and Proxmox Backup Monitoring",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=309908",
+          "author": "Brandon Lee",
+          "description": "I have been on a documentation kick lately, especially since there seem to be so many great tools landing on the documentation side of things for Proxmox powered home labs.…\nThe post PVE Note Buddy Is a Smarter Way to Use Proxmox Notes in Your Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/03/pve-note-buddy-is-a-smarter-way-to-use-proxmox-notes-in-your-home-lab/",
+          "publishedOn": "2026-03-03T12:43:31.000Z",
+          "wordCount": null,
+          "title": "PVE Note Buddy Is a Smarter Way to Use Proxmox Notes in Your Home Lab",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=309890",
           "author": "Brandon Lee",
           "description": "When it comes to home lab networks, introducing VLANs is absolutely one of those critical moves that will take your home lab to the next level and it is a…\nThe post 5 Home Lab VLAN Mistakes That Will Break Your Network in 2026 appeared first on Virtualization Howto.",
@@ -1675,36 +1725,6 @@
           "wordCount": null,
           "title": "Has RAM Pricing Just Made Used Enterprise Servers the Better Home Lab Deal?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=307302",
-          "author": "Brandon Lee",
-          "description": "If you have been following Promxox for the past couple of years now, there is one tool that piqued I think the attention of all of us and that is…\nThe post Proxmox Datacenter Manager Just Went GA and It Changes Everything appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/12/proxmox-datacenter-manager-just-went-ga-and-it-changes-everything/",
-          "publishedOn": "2025-12-05T13:49:32.000Z",
-          "wordCount": 11887,
-          "title": "Proxmox Datacenter Manager Just Went GA and It Changes Everything",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/12/proxmox-datacenter-manager-1.0-GA-released.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=307221",
-          "author": "Brandon Lee",
-          "description": "We are always looking out for great little mini PCs for the home lab that have the capabilities we expect and great features to self-host workloads. Beelink sent over a…\nThe post Beelink SER9 Max Review: Major Platform Upgrades and Real 10 Gig Networking appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/12/beelink-ser9-max-review-major-platform-upgrades-and-real-10-gig-networking/",
-          "publishedOn": "2025-12-04T13:43:40.000Z",
-          "wordCount": 12423,
-          "title": "Beelink SER9 Max Review: Major Platform Upgrades and Real 10 Gig Networking",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/12/beelink-ser9-max-3.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=307185",
-          "author": "Brandon Lee",
-          "description": "One of the best upgrades that I have undergone in my home lab is the move to 10 GbE networking. Without a doubt, that was one of the best performance…\nThe post 12 Things I Wish I Knew Before Upgrading My Home Lab to 10 Gig appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/12/12-things-i-wish-i-knew-before-upgrading-my-home-lab-to-10-gig/",
-          "publishedOn": "2025-12-03T13:40:32.000Z",
-          "wordCount": 11693,
-          "title": "12 Things I Wish I Knew Before Upgrading My Home Lab to 10 Gig",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/12/12-things-to-know-before-you-upgrade-your-home-lab-to-10-gig.png"
         }
       ]
     },
@@ -1713,6 +1733,66 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=73102",
+          "author": "Tanvir Kour",
+          "description": "What happens when your best prompt engineer leaves the company and takes their “magic” strings with them? Most DevOps teams struggle with this exact void, facing a chaotic reality where AI instructions are scattered across Slack threads and private Notion pages. Moving from ad-hoc experimentation to a reliable production environment needs a shift of mindset. […]",
+          "link": "https://collabnix.com/how-to-build-a-promptops-playbook-for-teams/",
+          "publishedOn": "2026-03-07T03:55:01.000Z",
+          "wordCount": null,
+          "title": "How to Build a PromptOps Playbook for Teams",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=73098",
+          "author": "Tanvir Kour",
+          "description": "IT departments are under increasing pressure to safeguard sensitive information. As cyber security threats rise, password protection has become pivotal to the digital economy. Using enterprise password management tools can help you avoid unnecessarily exposing sensitive information. Implementing these systems allows organizations to remain protected and efficient while reducing friction for employees as they go […]",
+          "link": "https://collabnix.com/why-it-departments-need-enterprise-password-management-tools/",
+          "publishedOn": "2026-03-07T03:49:16.000Z",
+          "wordCount": null,
+          "title": "Why IT Departments Need Enterprise Password Management Tools",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=73095",
+          "author": "Tanvir Kour",
+          "description": "Small businesses do not need flashy AI projects to get real value. They need quick wins that remove friction from work they already repeat. The best use cases are the ones tied to daily volume, customer messages, quotes, invoices, and internal questions. Start with one workflow, set a baseline, and put a human approval step […]",
+          "link": "https://collabnix.com/small-business-ai-playbook-5-use-cases-that-pay-off-fast/",
+          "publishedOn": "2026-03-07T03:40:15.000Z",
+          "wordCount": null,
+          "title": "Small Business AI Playbook: 5 Use Cases That Pay Off Fast",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/building-a-multimodal-ai-app-understanding-images-and-text/",
+          "author": "Collabnix Team",
+          "description": "Learn how to build a multimodal AI application that can understand and process both images and text for improved digital interactions.",
+          "link": "https://collabnix.com/building-a-multimodal-ai-app-understanding-images-and-text/",
+          "publishedOn": "2026-03-04T03:11:50.000Z",
+          "wordCount": null,
+          "title": "Building a Multimodal AI App: Understanding Images and Text",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=72860",
+          "author": "Tanvir Kour",
+          "description": "Video games did not become a testing ground for artificial intelligence by accident. They offer controlled environments where rules are clear, feedback is instant, and outcomes are measurable. Developers can observe how systems react to player behavior in real time, then adjust logic without waiting months for results. That speed makes games an ideal space […]",
+          "link": "https://collabnix.com/how-video-games-became-one-of-ais-biggest-testing-grounds/",
+          "publishedOn": "2026-03-03T09:24:46.000Z",
+          "wordCount": null,
+          "title": "How Video Games Became One of AI’s Biggest Testing Grounds",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/extracting-structured-json-from-large-language-models-a-deep-dive-into-openai-claude-and-gemini/",
+          "author": "Collabnix Team",
+          "description": "Learn how to extract structured JSON output from LLMs like OpenAI's GPT-3.5, ensuring accurate, programmatically useful data for various applications.",
+          "link": "https://collabnix.com/extracting-structured-json-from-large-language-models-a-deep-dive-into-openai-claude-and-gemini/",
+          "publishedOn": "2026-03-03T03:20:08.000Z",
+          "wordCount": null,
+          "title": "Extracting Structured JSON from Large Language Models: A Deep Dive into OpenAI, Claude, and Gemini",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/mastering-prompt-engineering-techniques-for-chatgpt-claude-and-gemini-2/",
           "author": "Collabnix Team",
@@ -2992,36 +3072,6 @@
           "wordCount": null,
           "title": "How DevOps Teams Can Reduce Cloud Spend Using Modern FinOps Tools",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=62105",
-          "author": "Collabnix Team",
-          "description": "Learn how to build robust, scalable, and secure CI/CD pipelines for Kubernetes. This comprehensive guide covers 8 essential best practices along with the top tools that DevOps teams use to streamline container deployments, implement GitOps workflows, and achieve continuous delivery at scale.",
-          "link": "https://collabnix.com/kubernetes-ci-cd-pipelines-8-best-practices-and-tools/",
-          "publishedOn": "2025-12-07T19:15:41.000Z",
-          "wordCount": 8565,
-          "title": "Kubernetes CI/CD Pipelines – 8 Best Practices and Tools",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=62102",
-          "author": "Collabnix Team",
-          "description": "The debate between Meta’s Llama and OpenAI’s GPT models has become central to the AI landscape. Both represent significant achievements in large language models, but they serve different needs and philosophies. This article breaks down the key differences, strengths, and provides practical code examples to help you choose the right model for your projects. The […]",
-          "link": "https://collabnix.com/llama-vs-gpt-a-comprehensive-comparison-for-developers/",
-          "publishedOn": "2025-12-07T19:09:57.000Z",
-          "wordCount": null,
-          "title": "Llama vs GPT: A Comprehensive Comparison for Developers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=63237",
-          "author": "Collabnix Team",
-          "description": "The NVIDIA Jetson Thor represents a paradigm shift in edge computing for physical AI. Powered by the 2560 Blackwell-based CUDA cores, GPU architecture and featuring 128GB of LPDDR5X memory, Thor delivers an astounding 2,070 FP4 TFLOPS of AI compute—that’s 7.5x more AI performance and 3.5x better energy efficiency compared to Jetson AGX Orin. Key Specifications […]",
-          "link": "https://collabnix.com/nvidia-jetson-agx-thor-top-5-use-cases-with-tutorials/",
-          "publishedOn": "2025-12-07T07:24:26.000Z",
-          "wordCount": null,
-          "title": "NVIDIA Jetson AGX Thor: Top 5 Use Cases with Tutorials",
-          "imageUrl": null
         }
       ]
     },
@@ -3761,6 +3811,16 @@
           "wordCount": 527,
           "title": "Minecraft 生存服务器来啦「1.21.8 版」",
           "imageUrl": "https://cdn.dusays.com/avatar.png"
+        },
+        {
+          "id": "https://dusays.com/archives/841/",
+          "author": null,
+          "description": "<blockquote>\n<p>对于运维人员和开发者而言，一款高效、安全、易用的远程连接管理工具是日常工作的刚需。Nexus Terminal（星枢终端）作为一款现代化的Web SSH&#x2F;RDP&#x2F;VNC客户端，凭借高颜值界面、丰富功能和强大的安全机制，成为远程管理的优质选择。更重要的是，通过Docker可以快速部署这款工具，充分利用容器化的便捷性和环境隔离特性，让远程服务器管理效率大幅提升。本文将详细分享基于Docker部署Nexus Terminal的完整步骤，以及工具的基础使用方法，新手也能轻松上手。</p>\n</blockquote>",
+          "link": "https://dusays.com/archives/841/",
+          "publishedOn": "2025-12-08T16:00:00.000Z",
+          "wordCount": null,
+          "title": "快速部署 Nexus Terminal 打造高颜值远程管理终端",
+          "imageUrl": null
         }
       ]
     },
@@ -3792,7 +3852,18 @@
       "title": "Lixx Blog - 李晓旭的博客",
       "feedUrl": "https://lixx.cn/rss.xml",
       "siteUrl": "http://blog.lixx.cn/",
-      "articles": []
+      "articles": [
+        {
+          "id": "/archives/1772688419975",
+          "author": null,
+          "description": "核心方案：基于市场温度的动态定投系统 该方案通过 “场外增量控制” 与 “场内全权委托” 相结合，实现低成本积累筹码与高位风险对冲的闭环。 1. 核心数学模型 每月定投的总金额为M，根据当前市场温度T<",
+          "link": "http://blog.lixx.cn/archives/1772688419975",
+          "publishedOn": "2026-03-05T05:28:09.000Z",
+          "wordCount": null,
+          "title": "投资白皮书",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Home on 阳明的博客",
@@ -3805,6 +3876,26 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=22813",
+          "author": "xiaoz",
+          "description": "如果说其它大模型服务商注册送的代金券是打发叫花子的话，那白山智算就是直接往你手里塞金条。现在起至2026年3月15日注册白山智算即送450元大模型API代金券，可用于调用最新的MiniMax 2.5、GLM-5等热门模型，时间有限，xiaoz先领为敬。关于白山智算白山智算是白山云科技旗下的智能算力服",
+          "link": "https://blog.xiaoz.org/archives/22813",
+          "publishedOn": "2026-03-06T09:08:51.000Z",
+          "wordCount": null,
+          "title": "速领：白山智算注册即送450元大模型API代金券，手慢无",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaoz.org/?p=22781",
+          "author": "xiaoz",
+          "description": "说到海外CDN，那就不得不提CloudFlare，CloudFlare不仅提供免费套餐，且限制宽松，不限流量，还提供防护，已成为了大多数站长的海外CDN首选，那既然CloudFlare都如此良心了，为啥还要选择其它海外CDN？这就不得不提CloudFlare免费版套餐让博主非常不爽的几个问题：强制D",
+          "link": "https://blog.xiaoz.org/archives/22781",
+          "publishedOn": "2026-03-05T03:41:00.000Z",
+          "wordCount": null,
+          "title": "无需备案！用 Bunny CDN 加速出海项目（附入门指南）",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=22762",
           "author": "xiaoz",
@@ -3893,26 +3984,6 @@
           "publishedOn": "2025-12-12T07:24:58.000Z",
           "wordCount": 251,
           "title": "游惠宝长效卡12月福利，大陆港澳轻松漫游上网，支持收短信",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=22574",
-          "author": "xiaoz",
-          "description": "Umami是xiaoz使用长达3年多的一款WEB统计软件，该软件免费开源，也是目前比较流行的自建WEB统计方案。但现在xiaoz要放弃自建Umami，转投Cloudflare Web Analytics怀抱，具体见下文所述。为什么不再自建Umami？在使用Umami 三年多的时间以来，博主经历过2次",
-          "link": "https://blog.xiaoz.org/archives/22574",
-          "publishedOn": "2025-12-07T11:47:23.000Z",
-          "wordCount": 291,
-          "title": "折腾三年 Umami 后，我换成了 Cloudflare Web Analytics",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=22562",
-          "author": "xiaoz",
-          "description": "各位好，我是ImgURL图床作者 xiaoz，一直以来，ImgURL图床使用雅虎Open NSFW方案来识别用户上传的色情图像，不过雅虎在2019年已将Open NSFW项目归档，且不再更新，Open NSFW项目已经有些过时，且识别准确度一般，最近正好在重构ImgURL，因此急需替代方案。市面上找",
-          "link": "https://blog.xiaoz.org/archives/22562",
-          "publishedOn": "2025-12-05T04:02:18.000Z",
-          "wordCount": 302,
-          "title": "开源一个色情图像（NSFW）识别方案，支持私有部署和HTTP调用",
           "imageUrl": null
         }
       ]
@@ -4193,6 +4264,16 @@
       "feedUrl": "https://tinkertry.com/feed",
       "siteUrl": "https://tinkertry.com",
       "articles": [
+        {
+          "id": "articles/heat-pump-comparison-feat-still-tbd-and-tinkertry",
+          "author": null,
+          "description": "I'm was so glad when Matt asked me to squeeze in a recording comparing his (geothermal) ground source heat pump with my air source heat pumps. This was an informal conversation, and I had little idea what Matt was going to ask me, or what portions would be used. It turns out we both had a lot to say, and he kept pretty much all of it. I really hope you learn some new things you might not have thought about before.\nYour thoughts, stories, and feedback are always appreciated here. Feel free to drop a comment below, no login required.\nVideo\n\n\nSee also\n\nOverhead, there's one 200-amp electrical service line and one fiber-optic line. Underground, there's one 1\" municipal water service line. That's it. No gas lines, no oil tanks. Photo taken January 27 2026, with the deepest snow accumulation sin…",
+          "link": "https://tinkertry.com/articles/heat-pump-comparison-feat-still-tbd-and-tinkertry",
+          "publishedOn": "2026-03-04T07:55:00.000Z",
+          "wordCount": 9362,
+          "title": "Heat Pump Comparison & Paul Braren Interview",
+          "imageUrl": "https://tinkertry.com/content/articles/1183-heat-pump-comparison-feat-still-tbd-and-tinkertry/featured.jpg"
+        },
         {
           "id": "articles/geothermal-vs-air-source-heat-pumps-feat-undecided-and-tinkertry",
           "author": null,
