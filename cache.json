@@ -977,6 +977,26 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=310092",
+          "author": "Brandon Lee",
+          "description": "Many users when they first switch over to Proxmox, they have a tough time with the networking side of things or understanding what tasks are best to do when they…\nThe post 7 Network Settings I Always Configure on a New Proxmox Server appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/03/7-network-settings-i-always-configure-on-a-new-proxmox-server/",
+          "publishedOn": "2026-03-10T12:38:08.000Z",
+          "wordCount": null,
+          "title": "7 Network Settings I Always Configure on a New Proxmox Server",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=310048",
+          "author": "Brandon Lee",
+          "description": "A lot of questions on types of hardware come up when ones are building a home lab server or home lab cluster that are definitely worth asking. Recently I had…\nThe post Consumer vs Enterprise SSDs in the Home Lab: I Benchmarked Both in Ceph appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/03/consumer-vs-enterprise-ssds-in-the-home-lab-i-benchmarked-both-in-ceph/",
+          "publishedOn": "2026-03-09T12:22:29.000Z",
+          "wordCount": null,
+          "title": "Consumer vs Enterprise SSDs in the Home Lab: I Benchmarked Both in Ceph",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=310017",
           "author": "Brandon Lee",
           "description": "There is always a set of tools that most of us become familiar with and rely on when it comes to different types of operating systems or platforms. I am…\nThe post 7 Tools I Always Install on Every New Home Lab Linux Server appeared first on Virtualization Howto.",
@@ -1695,36 +1715,6 @@
           "wordCount": 11723,
           "title": "Do You Really Need Wi-Fi 7 in Your Home Lab in 2025?",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/12/Wi-Fi-7-upgrade.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=307424",
-          "author": "Brandon Lee",
-          "description": "I think we are seeing a paradigm shift in hardware landscape with the surging price of consumer RAM. This is not only going to affect the obvious, RAM upgrades, but…\nThe post Why Containers Will Be More Important Than Ever in the 2026 Home Lab appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/12/why-containers-will-be-more-important-than-ever-in-the-2026-home-lab/",
-          "publishedOn": "2025-12-10T13:26:00.000Z",
-          "wordCount": 11646,
-          "title": "Why Containers Will Be More Important Than Ever in the 2026 Home Lab",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/12/home-lab-containers-2026.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=307356",
-          "author": "Brandon Lee",
-          "description": "Most of us have tried many of the home lab dashboards that are out there. I know I have been through the common list of them available. And there are…\nThe post Why Deq Might Be the Best Home Lab Dashboard in 2025 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/12/why-deq-might-be-the-best-home-lab-dashboard-in-2025/",
-          "publishedOn": "2025-12-09T13:07:54.000Z",
-          "wordCount": 12335,
-          "title": "Why Deq Might Be the Best Home Lab Dashboard in 2025",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/12/deq-home-lab-dashboard-4.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=307291",
-          "author": "Brandon Lee",
-          "description": "Wow if you have been watching the pricing on RAM in the past few months, we have seen prices skyrocket. This isn’t a good development for those of us running…\nThe post Has RAM Pricing Just Made Used Enterprise Servers the Better Home Lab Deal? appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/12/has-ram-pricing-just-made-used-enterprise-servers-the-better-home-lab-deal/",
-          "publishedOn": "2025-12-08T13:11:43.000Z",
-          "wordCount": null,
-          "title": "Has RAM Pricing Just Made Used Enterprise Servers the Better Home Lab Deal?",
-          "imageUrl": null
         }
       ]
     },
@@ -1733,6 +1723,46 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/kubeflow-vs-argo-workflows-choosing-the-best-ml-pipeline-tool-for-kubernetes/",
+          "author": "Collabnix Team",
+          "description": "Exploring the choice between Kubeflow and Argo Workflows for ML pipelines on Kubernetes, delving into their capabilities to assist in making an informed decision.",
+          "link": "https://collabnix.com/kubeflow-vs-argo-workflows-choosing-the-best-ml-pipeline-tool-for-kubernetes/",
+          "publishedOn": "2026-03-10T03:11:24.000Z",
+          "wordCount": null,
+          "title": "Kubeflow vs Argo Workflows: Choosing the Best ML Pipeline Tool for Kubernetes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=73119",
+          "author": "Manish Lingadevaru",
+          "description": "Create Your Own n8n Private Assistant Today In a world where digital assistants handle our most sensitive information, privacy is paramount. We all dream of an AI that can flawlessly summarize our emails, manage our calendar, and handle other complex tasks—but what if you could have all that power with complete control over your data? […]",
+          "link": "https://collabnix.com/building-your-own-private-assistant-using-n8n-docker-and-apple-mac-mini/",
+          "publishedOn": "2026-03-09T07:27:25.000Z",
+          "wordCount": null,
+          "title": "Build Your n8n Private Assistant on Mac Mini",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/small-language-models-vs-large-language-models-when-smaller-is-better/",
+          "author": "Collabnix Team",
+          "description": "Explore when small language models outperform their large counterparts in AI applications, focusing on efficiency and real-world deployment.",
+          "link": "https://collabnix.com/small-language-models-vs-large-language-models-when-smaller-is-better/",
+          "publishedOn": "2026-03-09T03:20:02.000Z",
+          "wordCount": null,
+          "title": "Small Language Models vs Large Language Models: When Smaller is Better",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/ai-agents-in-2025-market-trends-frameworks-and-predictions/",
+          "author": "Collabnix Team",
+          "description": "Discover the advancements and predictions for AI agents in 2025, exploring market trends and development frameworks transforming industries.",
+          "link": "https://collabnix.com/ai-agents-in-2025-market-trends-frameworks-and-predictions/",
+          "publishedOn": "2026-03-08T12:47:57.000Z",
+          "wordCount": null,
+          "title": "AI Agents in 2025: Market Trends, Frameworks, and Predictions",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=73102",
           "author": "Tanvir Kour",
@@ -2962,116 +2992,6 @@
           "wordCount": null,
           "title": "Why Kubernetes Runs Better on GPUs?",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=62398",
-          "author": "Tanvir Kour",
-          "description": "In today’s digital environment, healthcare providers recognize the importance of a robust online presence. Effective medical search engine optimization (SEO) strategies are crucial in achieving this goal. Among various tactics, patient education content stands out as a key component. Well-crafted educational materials boost visibility and build trust with audiences. Understanding Medical SEO Medical SEO involves […]",
-          "link": "https://collabnix.com/the-role-of-patient-education-content-in-effective-medical-seo-strategies/",
-          "publishedOn": "2025-12-11T09:10:30.000Z",
-          "wordCount": null,
-          "title": "The Role of Patient Education Content in Effective Medical SEO Strategies",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=62380",
-          "author": "Tanvir Kour",
-          "description": "Technical screencasts and demo videos have quietly become core infrastructure for many engineering teams. A clean recording of a deployment walkthrough or cluster debugging session often saves more time than a long internal document. Once teams start producing these videos regularly, a familiar problem appears: huge files, manual editing, slow uploads, and no reproducible pipeline. […]",
-          "link": "https://collabnix.com/microservices-for-video-screencasts-on-kubernetes/",
-          "publishedOn": "2025-12-11T08:45:41.000Z",
-          "wordCount": null,
-          "title": "Microservices For Video Screencasts On Kubernetes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=62329",
-          "author": "Collabnix Team",
-          "description": "Understanding GPU Scheduling in Kubernetes As artificial intelligence and machine learning workloads continue to dominate enterprise computing, Kubernetes has emerged as the de facto platform for orchestrating GPU-accelerated applications. With ‘Kubernetes AI’ experiencing a 300% increase in search volume in 2025 and 48% of organizations now running AI/ML workloads on Kubernetes, understanding GPU scheduling and […]",
-          "link": "https://collabnix.com/gpu-scheduling-resource-management-in-kubernetes/",
-          "publishedOn": "2025-12-10T06:48:11.000Z",
-          "wordCount": 11509,
-          "title": "GPU Scheduling in Kubernetes: A Complete Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=62316",
-          "author": "Collabnix Team",
-          "description": "MCP Linux Foundation: A New Era for Agentic AI In a move that marks a pivotal moment for the AI industry, Anthropic has donated the Model Context Protocol (MCP) to the Linux Foundation, establishing it as a founding project of the newly created Agentic AI Foundation (AAIF). This announcement, made on December 9, 2025, brings […]",
-          "link": "https://collabnix.com/mcp-joins-the-linux-foundation-a-historic-milestone-for-agentic-ai/",
-          "publishedOn": "2025-12-10T06:21:12.000Z",
-          "wordCount": null,
-          "title": "MCP Linux Foundation: A Historic Milestone for AI",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=62281",
-          "author": "Collabnix Team",
-          "description": "A dependable web hosting service is a requirement for every business with an internet presence in this digital age. A website’s hosting platform impacts speed, security, and the overall experience. Finding the right provider can be difficult, but knowing what to look for can make it a lot easier. Reliability and Uptime Reliable web hosting […]",
-          "link": "https://collabnix.com/what-a-good-web-hosting-service-should-always-include/",
-          "publishedOn": "2025-12-09T17:11:15.000Z",
-          "wordCount": 6983,
-          "title": "What a Good Web Hosting Service Should Always Include",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=62278",
-          "author": "Collabnix Team",
-          "description": "Strategic financial management is the process that helps an organization make informed decisions about allocating resources. Effective planning facilitates growth and helps organizations anticipate challenges and achieve long-term goals. A framework like this encourages steady progress in the right direction by balancing short-term requirements with long-term objectives. Defining Strategic Financial Management Strategic financial management goes […]",
-          "link": "https://collabnix.com/strategic-financial-management-a-smarter-approach/",
-          "publishedOn": "2025-12-09T17:06:45.000Z",
-          "wordCount": null,
-          "title": "Strategic Financial Management: A Smarter Approach",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=62273",
-          "author": "Collabnix Team",
-          "description": "Nowadays, most organizations look for better ways in which they can simplify their training process. Having an external learning management system is a viable option for addressing such instructional requirements. This digital tool allows the company to administer educational content, track learner progress, and ensure consistent delivery. By examining how some common problems are solved […]",
-          "link": "https://collabnix.com/what-an-external-learning-management-system-fixes/",
-          "publishedOn": "2025-12-09T16:59:40.000Z",
-          "wordCount": null,
-          "title": "What an External Learning Management System Fixes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=62271",
-          "author": "Collabnix Team",
-          "description": "The need is clear for companies to minimize support costs without compromising customer service. For organizations seeking to enhance efficiency and reliability in their help desk operations, outsourced help desk providers offer a viable solution. Companies will be able to focus on their core functions by retaining on-site responsibilities, which in turn will enhance profitability […]",
-          "link": "https://collabnix.com/the-roi-behind-choosing-outsourced-help-desk-providers/",
-          "publishedOn": "2025-12-09T16:57:26.000Z",
-          "wordCount": null,
-          "title": "The ROI Behind Choosing Outsourced Help Desk Providers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=62263",
-          "author": "Tanvir Kour",
-          "description": "Enterprise websites are built to support heavy usage. They have a number of regions, strict security, many owners, and many changes that all fight for the same surface area. When the scale increases, pages become slower, messages get lost, and vital information resides in disconnected documents. A site that ought to facilitate decision-making introduces friction. […]",
-          "link": "https://collabnix.com/enterprise-web-design-scaling-for-large-organizations/",
-          "publishedOn": "2025-12-09T16:32:42.000Z",
-          "wordCount": null,
-          "title": "Enterprise Web Design: Scaling for Large Organizations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=62256",
-          "author": "Collabnix Team",
-          "description": "The era of intelligent Kubernetes management has arrived. Gone are the days of manually sifting through logs, guessing at resource allocations, or scrambling during incidents. Today’s AI-powered tools are transforming how we troubleshoot, optimize costs, and build self-healing infrastructure. This deep dive explores five game-changing tools that every Kubernetes practitioner should know: K8sGPT, CAST AI, […]",
-          "link": "https://collabnix.com/ai-tools-for-kubernetes-operations-your-complete-guide-to-smarter-clusters/",
-          "publishedOn": "2025-12-09T11:29:48.000Z",
-          "wordCount": null,
-          "title": "AI Tools for Kubernetes Operations: Your Complete Guide to Smarter Clusters",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=62184",
-          "author": "Collabnix Team",
-          "description": "If you work in DevOps, you’ll already know that cloud spending can creep up month after month. Teams move fast, new environments get spun up, and workloads scale long after traffic goes back down. Before long, the bill surprises everyone. Cloud waste is a real problem, and most teams underestimate how much of their spend […]",
-          "link": "https://collabnix.com/how-devops-teams-can-reduce-cloud-spend-using-modern-finops-tools/",
-          "publishedOn": "2025-12-08T18:20:54.000Z",
-          "wordCount": null,
-          "title": "How DevOps Teams Can Reduce Cloud Spend Using Modern FinOps Tools",
-          "imageUrl": null
         }
       ]
     },
@@ -3811,16 +3731,6 @@
           "wordCount": 527,
           "title": "Minecraft 生存服务器来啦「1.21.8 版」",
           "imageUrl": "https://cdn.dusays.com/avatar.png"
-        },
-        {
-          "id": "https://dusays.com/archives/841/",
-          "author": null,
-          "description": "<blockquote>\n<p>对于运维人员和开发者而言，一款高效、安全、易用的远程连接管理工具是日常工作的刚需。Nexus Terminal（星枢终端）作为一款现代化的Web SSH&#x2F;RDP&#x2F;VNC客户端，凭借高颜值界面、丰富功能和强大的安全机制，成为远程管理的优质选择。更重要的是，通过Docker可以快速部署这款工具，充分利用容器化的便捷性和环境隔离特性，让远程服务器管理效率大幅提升。本文将详细分享基于Docker部署Nexus Terminal的完整步骤，以及工具的基础使用方法，新手也能轻松上手。</p>\n</blockquote>",
-          "link": "https://dusays.com/archives/841/",
-          "publishedOn": "2025-12-08T16:00:00.000Z",
-          "wordCount": null,
-          "title": "快速部署 Nexus Terminal 打造高颜值远程管理终端",
-          "imageUrl": null
         }
       ]
     },
@@ -4021,6 +3931,36 @@
       "siteUrl": "https://www.txisfine.cn/",
       "articles": [
         {
+          "id": "https://www.txisfine.cn/archives/4f0ba6d6.html",
+          "author": null,
+          "description": "网上关于在 VPS 上部署 CHR 的教程已经很多，有些一键脚本甚至能直接安装已激活的版本。在 AS209574 网络中，我们大量采用 MikroTik 作为路由器，云端节点也都购买了正版 CHR 授权。不过每次部署总会遇到些意想不到的情况，这里简单做个记录备忘。 获取镜像 从 MikroTik 官网下载 CHR raw 格式镜像。在 VPS 上可以直接下载： 或者使用以下命令直接下载解压后的镜像...",
+          "link": "https://www.txisfine.cn/archives/4f0ba6d6.html",
+          "publishedOn": "2026-03-08T13:46:43.000Z",
+          "wordCount": null,
+          "title": "如何在VPS上安装CHR",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.txisfine.cn/archives/28da4a45.html",
+          "author": null,
+          "description": "RouterOS v7 中 routing filter（路由过滤器） 的工作方式、语法结构、匹配属性、可执行动作、社区匹配、ASPATH 正则、RPKI 与选择规则与 RouterOS v6 中存在较大的差异，本文整理通过 ChatGPT 5.4 Thinking 模型对这部分内容进行了整理。[1][2] 注意：该内容由人工智能（ChatGPT 5.4 Thinking 模型）进行生成。 Rou...",
+          "link": "https://www.txisfine.cn/archives/28da4a45.html",
+          "publishedOn": "2026-03-08T12:44:26.000Z",
+          "wordCount": null,
+          "title": "RouterOS v7 路由过滤器学习笔记",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.txisfine.cn/archives/4b5dfb2a.html",
+          "author": null,
+          "description": "最近在做多 ISP 分流，这次没有使用静态的路由表，采用了基于 BGP/ASN 的方式进行流量分配。这里记录一下常用的 ASN 列表，方便后面查询。 国内运营商 名称 ASN 中国电信 (ChinaTelecom) 4134 中国联通 (ChinaUnicom) 4837, 9929 中国移动 (ChinaMobile) 9808 中国教育网 (ChinaEdu) 4538, 7497, 2391...",
+          "link": "https://www.txisfine.cn/archives/4b5dfb2a.html",
+          "publishedOn": "2026-03-07T17:53:02.000Z",
+          "wordCount": null,
+          "title": "BGP 常用 ASN 列表记录备忘",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.txisfine.cn/archives/3f5a9065.html",
           "author": null,
           "description": "从 2014 年开始，我的博客一直跑在 Hexo 上。Hexo 给我的感觉一直是：能用，但用得不爽。 最初文章不多，生成速度尚可，主题随便改改也能接受。但随着内容体量上来，问题逐渐暴露： hexo generate 速度慢的出奇 插件依赖复杂，Node版本是真的不敢动 主题想魔改就得学模板语法，维护成本高 10年积累的各种魔改，补丁，脚本，这个站点的源码仓库早就成了“屎山”。每次想重构，都不敢动。...",
@@ -4099,26 +4039,6 @@
           "wordCount": null,
           "title": "RouteOS v7 BGP AS-PATH 拒绝过滤器不生效的问题排查",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.txisfine.cn/archives/ae82fda5.html",
-          "author": null,
-          "description": "<h2 id=\"背景和拓扑\"><a href=\"#背景和拓扑\" class=\"headerlink\" title=\"背景和拓扑\"></a>背景和拓扑</h2><p>本次问题发生在一条跨公网建立的 IPSec VPN 隧道中，双方运营商均为相同运营商，设备分别为：</p>\n<ul>",
-          "link": "https://www.txisfine.cn/archives/ae82fda5.html",
-          "publishedOn": "2025-12-09T15:46:21.000Z",
-          "wordCount": null,
-          "title": "记一次 MikroTik IPSec 隧道丢包问题排查：FastTrack 导致的 IPSec 失效",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.txisfine.cn/archives/8efde3fe.html",
-          "author": null,
-          "description": "<p><img src=\"https://static.txisfine.cn/upload/8efde3fe.jpg/pk_watermark\" alt=\"Ollama\"></p>\n<p>Ollama 是一款功能完善的本地大型语言模型运行平台，能够让用户在本地环境中快速部署和运",
-          "link": "https://www.txisfine.cn/archives/8efde3fe.html",
-          "publishedOn": "2025-12-09T14:03:34.000Z",
-          "wordCount": null,
-          "title": "优雅解决国内安装Ollama下载慢及卡顿的问题",
-          "imageUrl": null
         }
       ]
     },
@@ -4194,16 +4114,6 @@
           "publishedOn": "2026-01-06T00:00:00.000Z",
           "wordCount": null,
           "title": "个人养老金年化收益计算",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.ssgeek.com/blog/apple-container-practice",
-          "author": null,
-          "description": "Apple Container 是苹果公司推出的容器化技术，专门为 macOS 平台设计",
-          "link": "https://www.ssgeek.com/blog/apple-container-practice",
-          "publishedOn": "2025-12-09T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Apple Container实践",
           "imageUrl": null
         }
       ]
