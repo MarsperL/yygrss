@@ -74,16 +74,6 @@
           "wordCount": 581,
           "title": "\"朝花夕拾\"--专注时钟",
           "imageUrl": "https://yyg.js.cool/focusclock/time/img/iconmonstr-time.png"
-        },
-        {
-          "id": "https://yyg.js.cool/yyg/3f2b07b/",
-          "author": null,
-          "description": "偶然间在购物平台上看到了”玉米面条“，很好奇味道如何，就下单买了。\n今天下午终于到了。迫不及待的想尝尝味道如何。\n与”麦面“大都是由面粉直接制成生面条不同，”玉米面条“是由玉米处理熟化过的。\n看了有关玉米面条美食视频后，发现处理过程和麦面大同小异。就简单炒个面尝尝。\n\n口感上来说更像是”土豆粉、米粉“的爽滑、Q弹，可能是蛋白质含量相对较低的原因。\n再配上一瓶茉莉青提味的强爽8度，好不惬意。\n<a href=\"#碎碎念\" class=\"headerlink\"",
-          "link": "https://yyg.js.cool/yyg/3f2b07b/",
-          "publishedOn": "2025-12-18T18:37:43.000Z",
-          "wordCount": 578,
-          "title": "”新面“之缘",
-          "imageUrl": "https://api.mmp.cc/api/pcwallpaper?category=cool&type=jpg"
         }
       ]
     },
@@ -977,6 +967,36 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=310275",
+          "author": "Brandon Lee",
+          "description": "Like most hypervisors, some of the best features of Proxmox are not the obvious ones when you first start using it. Some features and capabilities are buried deep inside and…\nThe post 7 hidden Proxmox features buried in the admin guide Your Home Lab Needs appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/03/7-hidden-proxmox-features-buried-in-the-admin-guide-your-home-lab-needs/",
+          "publishedOn": "2026-03-18T12:23:10.000Z",
+          "wordCount": null,
+          "title": "7 hidden Proxmox features buried in the admin guide Your Home Lab Needs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=310251",
+          "author": "Brandon Lee",
+          "description": "If you have run Linux servers for any length of time, there is a good chance you have been bitten by network interface renaming at some point. It usually happens…\nThe post The Proxmox 9 Feature That Finally Fixes NIC Renaming Problems appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/03/the-proxmox-9-feature-that-finally-fixes-nic-renaming-problems/",
+          "publishedOn": "2026-03-17T12:37:00.000Z",
+          "wordCount": null,
+          "title": "The Proxmox 9 Feature That Finally Fixes NIC Renaming Problems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=310215",
+          "author": "Brandon Lee",
+          "description": "One of the great things I have found about moving over to Proxmox is all of the tools that you have access to when you do. There are tons of…\nThe post How I Manage My Proxmox Cluster From My Phone (4 Mobile Tools I Use) appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/03/how-i-manage-my-proxmox-cluster-from-my-phone-4-mobile-tools-i-use/",
+          "publishedOn": "2026-03-16T12:15:41.000Z",
+          "wordCount": null,
+          "title": "How I Manage My Proxmox Cluster From My Phone (4 Mobile Tools I Use)",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=310195",
           "author": "Brandon Lee",
           "description": "I have been on a crusade in my home lab to see how far I can take my mini PC cluster. I have been having so much fun with my…\nThe post I Added an eGPU to My Proxmox Mini PC Home Lab Using OCuLink (Here’s What Happened) appeared first on Virtualization Howto.",
@@ -1695,36 +1715,6 @@
           "wordCount": 11741,
           "title": "LoggiFly Is the Docker Log Alerting Tool I Didn’t Know I Needed",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/12/LoggiFly-Is-the-Docker-Log-Alerting-Tool-I-Didnt-Know-I-Needed-2.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=307743",
-          "author": "Brandon Lee",
-          "description": "When it comes to improving and “upgrading” your home lab, most of us starting thinking about the hardware side of things. More memory (haha, rolling eyes at prices), faster storage,…\nThe post 10 Small Changes That Made My Home Lab Far More Reliable appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/12/10-small-changes-that-made-my-home-lab-far-more-reliable/",
-          "publishedOn": "2025-12-18T13:29:33.000Z",
-          "wordCount": 12240,
-          "title": "10 Small Changes That Made My Home Lab Far More Reliable",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/12/10-small-home-lab-changes-that-made-my-setup-more-reliable.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=307687",
-          "author": "Brandon Lee",
-          "description": "When I build a brand new Proxmox host or cluster, I don’t start with deploying everything and the kitchen sink. I focus on getting a small set of home lab…\nThe post 9 Home Lab Services I Would Deploy First on a Fresh Proxmox Install appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/12/9-home-lab-services-i-would-deploy-first-on-a-fresh-proxmox-install/",
-          "publishedOn": "2025-12-17T13:18:29.000Z",
-          "wordCount": 11925,
-          "title": "9 Home Lab Services I Would Deploy First on a Fresh Proxmox Install",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/12/9-home-lab-services.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=307626",
-          "author": "Brandon Lee",
-          "description": "Having redundant DNS servers in a home lab is a great idea and helps to shore up one of the single points of failure that we can have in the…\nThe post Stop Using Pi-Hole Sync Tools and Use Technitium DNS Clustering Instead appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/12/stop-using-pi-hole-sync-tools-and-use-technitium-dns-clustering-instead/",
-          "publishedOn": "2025-12-16T13:15:27.000Z",
-          "wordCount": 12263,
-          "title": "Stop Using Pi-Hole Sync Tools and Use Technitium DNS Clustering Instead",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/12/technitium-dns-clustering.png"
         }
       ]
     },
@@ -1733,6 +1723,36 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=73178",
+          "author": "Tanvir Kour",
+          "description": "Artificial intelligence in games rarely looks like a thinking machine plotting its next move. Most of the time, it works quietly in the background, shaping how worlds react, enemies behave, and systems stay balanced. Instead of flashy self-awareness, game AI focuses on patterns, rules, and fast decision trees designed to respond within milliseconds. This behind-the-scenes […]",
+          "link": "https://collabnix.com/games-ai-what-artificial-intelligence-actually-does-behind-the-screen/",
+          "publishedOn": "2026-03-18T12:34:41.000Z",
+          "wordCount": null,
+          "title": "Games & AI: What Artificial Intelligence Actually Does Behind the Screen",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/ai-coding-assistants-compared-github-copilot-vs-claude-code-vs-cursor-vs-windsurf/",
+          "author": "Collabnix Team",
+          "description": "Explore the capabilities of AI coding assistants like GitHub Copilot and Claude Code. Understand key features and differences to choose the right tool for enhancing your development workflow.",
+          "link": "https://collabnix.com/ai-coding-assistants-compared-github-copilot-vs-claude-code-vs-cursor-vs-windsurf/",
+          "publishedOn": "2026-03-17T03:18:56.000Z",
+          "wordCount": null,
+          "title": "AI Coding Assistants Compared: GitHub Copilot vs Claude Code vs Cursor vs Windsurf",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/mastering-large-language-model-inference-at-scale-on-kubernetes/",
+          "author": "Collabnix Team",
+          "description": "Deploy Large Language Models (LLMs) efficiently at scale on Kubernetes using Docker. Learn step-by-step containerization and registry deployment practices.",
+          "link": "https://collabnix.com/mastering-large-language-model-inference-at-scale-on-kubernetes/",
+          "publishedOn": "2026-03-16T03:42:58.000Z",
+          "wordCount": null,
+          "title": "Mastering Large Language Model Inference at Scale on Kubernetes",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/claude-code-pricing-and-limits-how-it-stacks-up-against-copilot-pro/",
           "author": "Collabnix Team",
@@ -2992,26 +3012,6 @@
           "wordCount": 8310,
           "title": "The Merge of Tech and Teaching: Why the Future of Education Is Hybrid",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=63042",
-          "author": "Tanvir Kour",
-          "description": "Television habits have changed dramatically in the last decade. Homes now rely on bigger screens, sharper images, and smarter features that transform everyday viewing. LED technology leads this change with upgrades that improve picture quality and overall comfort. Many buyers explore new models with advanced lighting and high-performance processors. This shift has made modern TVs […]",
-          "link": "https://collabnix.com/the-led-tv-trends-changing-how-everyone-watches-today/",
-          "publishedOn": "2025-12-18T08:57:32.000Z",
-          "wordCount": 7123,
-          "title": "The LED TV Trends Changing How Everyone Watches Today",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=62976",
-          "author": "Collabnix Team",
-          "description": "Learn how to migrate from NGINX Ingress Controller to Kubernetes Gateway API before March 2026 deadline. Step-by-step guide with ingress2gateway tool, code examples, and best practices.",
-          "link": "https://collabnix.com/complete-guide-migrating-from-nginx-ingress-to-kubernetes-gateway-api-in-2025/",
-          "publishedOn": "2025-12-17T05:12:57.000Z",
-          "wordCount": 16215,
-          "title": "Complete Guide: Migrating from NGINX Ingress to Kubernetes Gateway API in 2025",
-          "imageUrl": null
         }
       ]
     },
@@ -3422,21 +3422,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bluehe.cn/usr/uploads/2025/12/CRnall_20251122_164337930.webp)"
-        },
-        {
-          "id": "https://bluehe.cn/archives/qxs-chrys-photo",
-          "author": "寻鹤",
-          "description": "12月14日，这是今年第三次来到青秀山了，受同学邀约，四人同行，两男两女一同骑着小电驴抵达青秀山东门，此时道路已经挤满了小车，而我们在两车之间，灵活的抵达停车点。\n入口处是三角梅，因为前几天下雨降温，这天可是难得的好天气，找了块草坪便坐着晒晒太阳，而我的同学已躺在草坪上。各式各样的菊花在丘石花园等待着我们寻觅。菊花展现场汇集数万盆精品菊花，色彩涵盖黄、粉、红、白、绿、紫等多个色系，可爱的“乒乓菊”...",
-          "link": "https://bluehe.cn/archives/qxs-chrys-photo",
-          "publishedOn": "2025-12-18T15:32:00.000Z",
-          "wordCount": 499,
-          "title": "当城市开始变暖：逛青秀山菊展",
-          "enclosure": {
-            "url": "https://bluehe.cn/usr/uploads/2025/12/CRnall_20251214_162149990.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bluehe.cn/usr/uploads/2025/12/CRnall_20251214_162149990.webp"
         }
       ]
     },
@@ -3925,16 +3910,6 @@
           "wordCount": 286,
           "title": "实战指南：注册亚马逊云科技账号与创建 Amazon RDS 数据库",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=22641",
-          "author": "xiaoz",
-          "description": "KiteSIM 提供独享虚拟号码与原生IP流量卡，支持WhatsApp等平台可靠验证，覆盖200+国家，兼顾隐私、稳定与全球兼容性，适用于社媒运营、跨境电商等场景。KiteSIM适用场景社交媒体运营：在 WhatsApp、Telegram、Facebook、Instagram、TikTok 等平台账",
-          "link": "https://blog.xiaoz.org/archives/22641",
-          "publishedOn": "2025-12-17T09:29:34.000Z",
-          "wordCount": 275,
-          "title": "跨境电商首选KiteSIM ：全球多国号码接收短信 + 多地 eSIM 漫游上网",
-          "imageUrl": null
         }
       ]
     },
@@ -4157,12 +4132,6 @@
           "imageUrl": null
         }
       ]
-    },
-    {
-      "title": "张戈博客",
-      "feedUrl": "https://zhangge.net/feed",
-      "siteUrl": "https://zhang.ge",
-      "articles": []
     },
     {
       "title": "Zhangguanzhang",
