@@ -2,10 +2,95 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-03-25T21:59:28.927Z</updated>
+    <updated>2026-03-27T21:55:56.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Typecho优化： Mysql添加索引提高查询速度]]></title>
+        <id>https://bluehe.cn/archives/mysql-typecho</id>
+        <link href="https://bluehe.cn/archives/mysql-typecho"/>
+        <updated>2026-03-27T14:50:00.000Z</updated>
+        <summary type="html"><![CDATA[我使用的数据库是mysql5.7版本，typecho创建后可以通过以下sql语句执行达到提高查询效果，执行前需快照或者备份数据库以防重要数据丢失！还有nginx与php都可以继续优化，目前我的站点除了CDN字体加载有延迟完，几乎秒开。
+
+1、内容表添加复合...]]></summary>
+        <author>
+            <name>云心怀鹤</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Home Lab Upgrades Under $100 That Actually Made a Huge Difference]]></title>
+        <id>https://www.virtualizationhowto.com/?p=310514</id>
+        <link href="https://www.virtualizationhowto.com/2026/03/7-home-lab-upgrades-under-100-that-actually-made-a-huge-difference/"/>
+        <updated>2026-03-27T12:31:09.000Z</updated>
+        <summary type="html"><![CDATA[I get it. Man things are expensive these days. At least currently, the days of simple “and cheap” upgrades like adding RAM or upgrading a hard drive are over for…
+The post 7 Home Lab Upgrades Under $100 That Actually Made a Huge Difference appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大模型网关Bifrost 路由规则：实现负载均衡与故障转移]]></title>
+        <id>https://blog.xiaoz.org/?p=22857</id>
+        <link href="https://blog.xiaoz.org/archives/22857"/>
+        <updated>2026-03-27T02:57:29.000Z</updated>
+        <summary type="html"><![CDATA[上一篇文章介绍了高可用 LLM 网关 Bifrost 的安装与基本使用，还未部署的朋友可参考《从零搭建高可用 LLM 网关：Bifrost 部署与上手指南》。若要构建稳定可靠的 LLM 网关，Bifrost 的路由规则至关重要。借助其强大且灵活的配置，您可以轻松实现模型的负载均衡与故障转移。Bifr]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Stopped Deploying Containers Manually. This Changed My Home Lab]]></title>
+        <id>https://www.virtualizationhowto.com/?p=310478</id>
+        <link href="https://www.virtualizationhowto.com/2026/03/i-stopped-deploying-containers-manually-this-changed-my-home-lab/"/>
+        <updated>2026-03-26T12:32:24.000Z</updated>
+        <summary type="html"><![CDATA[For a LONG time, my home lab has looked like what I imagine most other people’s labs look like. I had a mix of Docker Compose files and a few…
+The post I Stopped Deploying Containers Manually. This Changed My Home Lab appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从零搭建高可用 LLM 网关：Bifrost 部署与上手指南]]></title>
+        <id>https://blog.xiaoz.org/?p=22835</id>
+        <link href="https://blog.xiaoz.org/archives/22835"/>
+        <updated>2026-03-26T03:10:59.000Z</updated>
+        <summary type="html"><![CDATA[做 AI 应用，最头疼的就是对接各家五花八门的 API，还要操心谁挂了、谁慢了。Bifrost 就是为了解决这个麻烦而生的——一个用 Go 写的超轻量开源网关。它能把 OpenAI、Claude、Gemini 等所有模型统一成一个标准接口给你用，不仅速度快，还自带自动故障转移和负载均衡。Bifros]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SDRAM 在不同访存模式下的带宽分析与实验]]></title>
+        <id>https://jia.je/hardware/2026/03/26/sdram-bandwidth/</id>
+        <link href="https://jia.je/hardware/2026/03/26/sdram-bandwidth/"/>
+        <updated>2026-03-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SDRAM 在不同访存模式下的带宽分析与实验¶
+ 背景¶
+ 最近在和 @CircuitCoder 交流 SDRAM（通常简写为 DRAM，或更进一步简写为 DDR）的各种性能指标，于是想到利用现有的 DRAMSim3 和 Ramulator2 做一些模拟测试，看看各种访存模式下可以实现峰值带宽的多少比例，再结合时序验证理论与模拟结果是否吻合。实验相关代码已开源至 jiegec/dram-bench。
+  
+SDRAM 背景¶
+ 首先简单回顾 SDRAM 的背景，我的知识库中有更详细的介绍，这里仅提炼几个便于理解后续内容的要点，完整的 SDRAM 介绍请移步知识库：
+  
+SDRAM 由多级层次组成：
+ Channel：对应内存控制器的通道数量，通常每个 Channel 对应 64 位的数据总线
+ Rank：每个 Channel 内可能有多个 Rank，这些 Rank 共享总线
+ Bank Group：在 DDR4 引入，每个 Rank 有多个 Bank Group
+ Bank：每个 Bank Group 有多个 Bank
+ Row：每个 Bank 内部同时只有一个 Row 被激活
+ Column：激活的 Row 内，每个 Column 对应保存数据的 Cell
+  
+ 如何读写 SDRAM 中的数据：
+ 首先根据数据的地址找到对应的 Channel/Rank/Bank Group/Bank/Row/Column，如：
+ Row 地址等于地址的 [33:18] 位，共 65536 个 Row
+ Rank 地址等于地址的 [17:17] 位，共 2 个 Rank
+ Bank 地址等于地址的 [16:15] 位，每个 Bank Group 内有 4 个 Bank
+ Bank Group 地址等于地址的 [14:13] 位，共 4 个 Bank Group
+ Column 地址等于…]]></summary>
+        <author>
+            <name>杰哥的{运维，编程，调板子}小笔记</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI App Development: A Practical Guide for 2026]]></title>
         <id>https://collabnix.com/?p=73222</id>
@@ -5128,27 +5213,6 @@ The post Why Arcane Might Be the Next Big Docker UI for the Home Lab appeared fi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gist：2025最佳Folo替代品]]></title>
-        <id>https://bluehe.cn/archives/gist-rss</id>
-        <link href="https://bluehe.cn/archives/gist-rss"/>
-        <updated>2025-12-28T04:42:00.000Z</updated>
-        <summary type="html"><![CDATA[Tiny Tiny RSS、RSSAnt（蚁阅）、Folo、freshrs 以上都是我使用过的RSS阅读器，唯一喜欢还是Folo，但是由于网络原因，我常常打开不方便，很快就慢慢减少使用了，而是选择了其他的聚合普通上的文章推荐浏览。
-但是还是有个性化的订阅需...]]></summary>
-        <author>
-            <name>寻鹤</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Build a Production RAG System for $5/Month: A Complete Guide to Cost-Effective AI Search]]></title>
-        <id>https://collabnix.com/?p=63715</id>
-        <link href="https://collabnix.com/how-to-build-a-production-rag-system-for-5-month-a-complete-guide-to-cost-effective-ai-search/"/>
-        <updated>2025-12-28T04:20:38.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to build a production-ready RAG (Retrieval-Augmented Generation) system for just $5/month using Cloudflare Workers, Vectorize, and edge computing. Save 85-95% on AI infrastructure costs.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[angristan/MacThrottle: 一个轻量级的 macOS 菜单栏应用程序，可以监控热压力并在您的 Mac 被限制时提醒您。无需管理员权限。]]></title>
         <id>https://github.com/angristan/MacThrottle</id>
         <link href="https://github.com/angristan/MacThrottle"/>
@@ -5176,17 +5240,6 @@ The post Why Arcane Might Be the Next Big Docker UI for the Home Lab appeared fi
         <summary type="html"><![CDATA[Show usage stats for OpenAI Codex and Claude Code, without having to login. - steipete/CodexBar]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Took Docker Container Monitoring to the Next Level With These 3 Tools]]></title>
-        <id>https://www.virtualizationhowto.com/?p=308078</id>
-        <link href="https://www.virtualizationhowto.com/2025/12/i-took-docker-container-monitoring-to-the-next-level-with-these-3-tools/"/>
-        <updated>2025-12-27T14:28:46.000Z</updated>
-        <summary type="html"><![CDATA[I feel like the pieces of Docker monitoring with recent tools brought online in the home lab has finally started to fall into place. For a long time in my…
-The post I Took Docker Container Monitoring to the Next Level With These 3 Tools appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
@@ -5220,19 +5273,6 @@ The post I Took Docker Container Monitoring to the Next Level With These 3 Tools
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[我的 2025 - 步履不停]]></title>
-        <id>https://thiscute.world/posts/2025-summary/?utm_source=atom_feed</id>
-        <link href="https://thiscute.world/posts/2025-summary/?utm_source=atom_feed"/>
-        <updated>2025-12-26T17:01:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>今年不论是生活上还是工作上都变化颇多。</p>
-<h2 id="2025-年-highlights" class="headerLink">
-<a href="#2025-%e5%b9%b4-highlights" class="header-mark"></a>2025 年 Highlights</h2><h3 id="工作" class="headerLink">
-<a href="#%e5%b7%a5%e4%bd%9c" class="header-mark"></a>工作</h3><p>如同我 11 月份写的 <a href="https://thiscute.world/posts/job-and-life/" target="_blank" rel="noopener noreferrer">大梦一场</a>，我在今年 1 月份辞职后 gap 了几个月，在 5 月入职了新公司。新工作薪水大涨，而且是远程，很自由，我大部分时间都在老家上班，业余生活相比往年也丰富了很多。</p>]]></summary>
-        <author>
-            <name>This Cute World</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[KenDvD/SmartHostsTool-github: 它能自动获取域名的多个 IP 地址，测试各 IP 延迟并排序，一键将最优 IP 写入系统 Hosts 文件，还支持 GitHub 专属 IP 获取、自定义域名管理和可视化操作界面，让你轻松解决网络访问慢的问题。]]></title>
         <id>https://github.com/KenDvD/SmartHostsTool-github</id>
         <link href="https://github.com/KenDvD/SmartHostsTool-github"/>
@@ -5250,17 +5290,6 @@ The post I Took Docker Container Monitoring to the Next Level With These 3 Tools
         <summary type="html"><![CDATA[Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无...]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Things I Stopped Self-Hosting (And Why Cloud or Managed Won)]]></title>
-        <id>https://www.virtualizationhowto.com/?p=307962</id>
-        <link href="https://www.virtualizationhowto.com/2025/12/things-i-stopped-self-hosting-and-why-cloud-or-managed-won/"/>
-        <updated>2025-12-26T14:07:29.000Z</updated>
-        <summary type="html"><![CDATA[For a long while, especially when I first started with a home lab and self-hosting services, my answer to everything was to self-host it. This mindset I think can serve…
-The post Things I Stopped Self-Hosting (And Why Cloud or Managed Won) appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
@@ -5340,26 +5369,6 @@ The post Things I Stopped Self-Hosting (And Why Cloud or Managed Won) appeared f
         <summary type="html"><![CDATA[Bring consistency to documentation. Contribute to OskarStark/doctor-rst development by creating an account on GitHub.]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2025 年我是怎么使用 AI 的]]></title>
-        <id>https://jia.je/software/2025/12/25/my-ai-usage-2025/</id>
-        <link href="https://jia.je/software/2025/12/25/my-ai-usage-2025/"/>
-        <updated>2025-12-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[2025 年我是怎么使用 AI 的¶
- 前言¶
- 经常看我博客的读者应该能看出来，我研究的主要是计算机系统结构方向，特别是处理器的微架构，几乎没有涉及到 AI 的内容，我也确实不喜欢 AI 研究，仅关注但不参与。但今年，因为各种 AI 技术尤其是 LLM 的发展，我确实成为了很多 AI 技术的用户，可以说 2025 年是我正经大规模用 AI 的元年，所以在年末做一个简单的总结。
-  
-我不想在这里给大模型厂商打广告，所以相关的名字我都会按照某 PDF 的方法进行打码，有需要的朋友可以自行查看实际的内容。
- Vibe Coding¶
- 首先的一个冲击来自于 Vibe Coding。我写代码也有大概十五年了，一直都是坚持自己写代码，但今年从一些朋友那里了解到一些 Vibe Coding 的效果以后，也自己尝试了一下，确实能够感受到 Vibe Coding 对写代码的巨大冲击，我的心态也出现了一定的变化。Vibe Coding 并不复杂，其实就是用一些 Coding 客户端，配上 LLM 加一些 Tool Call，使得 LLM 可以自己编写、测试和运行代码。目前随着 LLM 能力的变强，Vibe Coding 逐渐成为了一个可以负担得起且效果不错的东西。结合实际的使用，以及受朋友们的一些启发，我目前已经用它进行了一些 Vibe Coding 尝试，例如：
-  
-写一些简单的 MCP 服务器，例如把 devdocs.io 的文档通过 MCP 暴露给 LLM，让它可以精确读取标准库的文档，避免幻觉，还有让 LLM 可以读取波形文件的 waveform-mcp；
- 写一个 API 路由器，可以在多个 API 提供商之间自动 Fallback，类似于本地版的 OpenRouter，但在这里主要是为了解决 Rate Limit 问题；
- 对已有代码的一些改进，比如实现 TODO，修复代码…]]></summary>
-        <author>
-            <name>杰哥的{运维，编程，调板子}小笔记</name>
         </author>
     </entry>
     <entry>
@@ -5470,16 +5479,6 @@ The post Things I Stopped Self-Hosting (And Why Cloud or Managed Won) appeared f
         <summary type="html"><![CDATA[PHP Application Server in Rust. Contribute to el7cosmos/pasir development by creating an account on GitHub.]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Centos7用Docker私有化部署SeaTable]]></title>
-        <id>https://wandouduoduo.github.io/articles/f8d7c94e.html</id>
-        <link href="https://wandouduoduo.github.io/articles/f8d7c94e.html"/>
-        <updated>2025-12-22T07:53:01.000Z</updated>
-        <summary type="html"><![CDATA[<p>hello，大家好。关于SeaTable的介绍这里就不在赘述了，有哪些优缺点，可以自行搜索了解。这里只讲干货，直接上实操，直接用docker私有化部署SeaTable最新版6.0，用于替代运维中的cmdb或作为运维的底层数据仓库。所有的资产信息、应用信息、人员信息、监控数据等等都通过它来存储，并且它原生就支持API和webhook，并根据表结构动态自动更新接口，和所有的第三方系统或软件打通，没有任何卡点。可以实时同步更新，让数据保持一致性且可以顺畅流动起来，大大降低了维护数据的压力和成本。</p>]]></summary>
-        <author>
-            <name>运维随笔</name>
         </author>
     </entry>
     <entry>

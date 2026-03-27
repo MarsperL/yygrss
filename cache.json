@@ -957,6 +957,26 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=310514",
+          "author": "Brandon Lee",
+          "description": "I get it. Man things are expensive these days. At least currently, the days of simple “and cheap” upgrades like adding RAM or upgrading a hard drive are over for…\nThe post 7 Home Lab Upgrades Under $100 That Actually Made a Huge Difference appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/03/7-home-lab-upgrades-under-100-that-actually-made-a-huge-difference/",
+          "publishedOn": "2026-03-27T12:31:09.000Z",
+          "wordCount": null,
+          "title": "7 Home Lab Upgrades Under $100 That Actually Made a Huge Difference",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=310478",
+          "author": "Brandon Lee",
+          "description": "For a LONG time, my home lab has looked like what I imagine most other people’s labs look like. I had a mix of Docker Compose files and a few…\nThe post I Stopped Deploying Containers Manually. This Changed My Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/03/i-stopped-deploying-containers-manually-this-changed-my-home-lab/",
+          "publishedOn": "2026-03-26T12:32:24.000Z",
+          "wordCount": null,
+          "title": "I Stopped Deploying Containers Manually. This Changed My Home Lab",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=310450",
           "author": "Brandon Lee",
           "description": "If you have spent any amount of time working with Proxmox, you are probably super familiar with the web interface. The default web interface is clean and gives you good…\nThe post Manage Proxmox Like Kubernetes? This CLI Tool Makes It Possible appeared first on Virtualization Howto.",
@@ -1685,26 +1705,6 @@
           "wordCount": 11883,
           "title": "Why Arcane Might Be the Next Big Docker UI for the Home Lab",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/12/docker-management-ui.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=308078",
-          "author": "Brandon Lee",
-          "description": "I feel like the pieces of Docker monitoring with recent tools brought online in the home lab has finally started to fall into place. For a long time in my…\nThe post I Took Docker Container Monitoring to the Next Level With These 3 Tools appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/12/i-took-docker-container-monitoring-to-the-next-level-with-these-3-tools/",
-          "publishedOn": "2025-12-27T14:28:46.000Z",
-          "wordCount": 11532,
-          "title": "I Took Docker Container Monitoring to the Next Level With These 3 Tools",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/12/docker-container-monitoring-three-tools.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=307962",
-          "author": "Brandon Lee",
-          "description": "For a long while, especially when I first started with a home lab and self-hosting services, my answer to everything was to self-host it. This mindset I think can serve…\nThe post Things I Stopped Self-Hosting (And Why Cloud or Managed Won) appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2025/12/things-i-stopped-self-hosting-and-why-cloud-or-managed-won/",
-          "publishedOn": "2025-12-26T14:07:29.000Z",
-          "wordCount": 11735,
-          "title": "Things I Stopped Self-Hosting (And Why Cloud or Managed Won)",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2025/12/dont-self-host-these-services.png"
         }
       ]
     },
@@ -3042,16 +3042,6 @@
           "wordCount": null,
           "title": "AI-First SaaS Starts with AI-Ready Data",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=63715",
-          "author": "Collabnix Team",
-          "description": "Learn how to build a production-ready RAG (Retrieval-Augmented Generation) system for just $5/month using Cloudflare Workers, Vectorize, and edge computing. Save 85-95% on AI infrastructure costs.",
-          "link": "https://collabnix.com/how-to-build-a-production-rag-system-for-5-month-a-complete-guide-to-cost-effective-ai-search/",
-          "publishedOn": "2025-12-28T04:20:38.000Z",
-          "wordCount": 7744,
-          "title": "How to Build a Production RAG System for $5/Month: A Complete Guide to Cost-Effective AI Search",
-          "imageUrl": null
         }
       ]
     },
@@ -3196,18 +3186,7 @@
       "title": "This Cute World",
       "feedUrl": "https://thiscute.world/index.xml",
       "siteUrl": "https://thiscute.world/",
-      "articles": [
-        {
-          "id": "https://thiscute.world/posts/2025-summary/?utm_source=atom_feed",
-          "author": null,
-          "description": "<p>今年不论是生活上还是工作上都变化颇多。</p>\n<h2 id=\"2025-年-highlights\" class=\"headerLink\">\n<a href=\"#2025-%e5%b9%b4-highlights\" class=\"header-mark\"></a>2025 年 Highlights</h2><h3 id=\"工作\" class=\"headerLink\">\n<a href=\"#%e5%b7%a5%e4%bd%9c\" class=\"header-mark\"></a>工作</h3><p>如同我 11 月份写的 <a href=\"https://thiscute.world/posts/job-and-life/\" target=\"_blank\" rel=\"noopener noreferrer\">大梦一场</a>，我在今年 1 月份辞职后 gap 了几个月，在 5 月入职了新公司。新工作薪水大涨，而且是远程，很自由，我大部分时间都在老家上班，业余生活相比往年也丰富了很多。</p>",
-          "link": "https://thiscute.world/posts/2025-summary/?utm_source=atom_feed",
-          "publishedOn": "2025-12-26T17:01:00.000Z",
-          "wordCount": 674,
-          "title": "我的 2025 - 步履不停",
-          "imageUrl": "https://thiscute.world/posts/2025-summary/featured-image.jpg"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "一颗小树",
@@ -3339,6 +3318,21 @@
       "siteUrl": "https://bluehe.cn/",
       "articles": [
         {
+          "id": "https://bluehe.cn/archives/mysql-typecho",
+          "author": "云心怀鹤",
+          "description": "我使用的数据库是mysql5.7版本，typecho创建后可以通过以下sql语句执行达到提高查询效果，执行前需快照或者备份数据库以防重要数据丢失！还有nginx与php都可以继续优化，目前我的站点除了CDN字体加载有延迟完，几乎秒开。\n\n1、内容表添加复合...",
+          "link": "https://bluehe.cn/archives/mysql-typecho",
+          "publishedOn": "2026-03-27T14:50:00.000Z",
+          "wordCount": null,
+          "title": "Typecho优化： Mysql添加索引提高查询速度",
+          "enclosure": {
+            "url": "https://bluehe.cn/usr/uploads/2026/03/屏幕截图2026-03-27.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bluehe.cn/usr/uploads/2026/03/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE2026-03-27.webp"
+        },
+        {
           "id": "https://bluehe.cn/archives/shengshi-xiudian-guangxi",
           "author": "云心怀鹤",
           "description": "2026年3月21日，星期六中午2点17分抵达，一直到闭馆还没有游览完成，三点时有公益的讲解，讲解得很详细，已到闭馆时间都还没有讲解完成，试图用短暂的时间去理解历时21年完成的盛世修典，是绝对不可能的。\n\n展览是全称是：盛世修典 “中国历代绘画大系”成果展...",
@@ -3452,21 +3446,6 @@
           "wordCount": 508,
           "title": "竖图风景：从闲逛到成片",
           "imageUrl": null
-        },
-        {
-          "id": "https://bluehe.cn/archives/gist-rss",
-          "author": "寻鹤",
-          "description": "Tiny Tiny RSS、RSSAnt（蚁阅）、Folo、freshrs 以上都是我使用过的RSS阅读器，唯一喜欢还是Folo，但是由于网络原因，我常常打开不方便，很快就慢慢减少使用了，而是选择了其他的聚合普通上的文章推荐浏览。\n但是还是有个性化的订阅需...",
-          "link": "https://bluehe.cn/archives/gist-rss",
-          "publishedOn": "2025-12-28T04:42:00.000Z",
-          "wordCount": 543,
-          "title": "Gist：2025最佳Folo替代品",
-          "enclosure": {
-            "url": "https://bluehe.cn/usr/uploads/2025/12/bluehe_2025-12-28_19-12-54.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bluehe.cn/usr/uploads/2025/12/bluehe_2025-12-28_19-12-54.webp"
         }
       ]
     },
@@ -3836,6 +3815,26 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=22857",
+          "author": "xiaoz",
+          "description": "上一篇文章介绍了高可用 LLM 网关 Bifrost 的安装与基本使用，还未部署的朋友可参考《从零搭建高可用 LLM 网关：Bifrost 部署与上手指南》。若要构建稳定可靠的 LLM 网关，Bifrost 的路由规则至关重要。借助其强大且灵活的配置，您可以轻松实现模型的负载均衡与故障转移。Bifr",
+          "link": "https://blog.xiaoz.org/archives/22857",
+          "publishedOn": "2026-03-27T02:57:29.000Z",
+          "wordCount": null,
+          "title": "大模型网关Bifrost 路由规则：实现负载均衡与故障转移",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaoz.org/?p=22835",
+          "author": "xiaoz",
+          "description": "做 AI 应用，最头疼的就是对接各家五花八门的 API，还要操心谁挂了、谁慢了。Bifrost 就是为了解决这个麻烦而生的——一个用 Go 写的超轻量开源网关。它能把 OpenAI、Claude、Gemini 等所有模型统一成一个标准接口给你用，不仅速度快，还自带自动故障转移和负载均衡。Bifros",
+          "link": "https://blog.xiaoz.org/archives/22835",
+          "publishedOn": "2026-03-26T03:10:59.000Z",
+          "wordCount": null,
+          "title": "从零搭建高可用 LLM 网关：Bifrost 部署与上手指南",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=22823",
           "author": "xiaoz",
@@ -4236,6 +4235,21 @@
       "siteUrl": "https://jia.je/",
       "articles": [
         {
+          "id": "https://jia.je/hardware/2026/03/26/sdram-bandwidth/",
+          "author": null,
+          "description": "SDRAM 在不同访存模式下的带宽分析与实验¶\n 背景¶\n 最近在和 @CircuitCoder 交流 SDRAM（通常简写为 DRAM，或更进一步简写为 DDR）的各种性能指标，于是想到利用现有的 DRAMSim3 和 Ramulator2 做一些模拟测试，看看各种访存模式下可以实现峰值带宽的多少比例，再结合时序验证理论与模拟结果是否吻合。实验相关代码已开源至 jiegec/dram-bench。\n  \nSDRAM 背景¶\n 首先简单回顾 SDRAM 的背景，我的知识库中有更详细的介绍，这里仅提炼几个便于理解后续内容的要点，完整的 SDRAM 介绍请移步知识库：\n  \nSDRAM 由多级层次组成：\n Channel：对应内存控制器的通道数量，通常每个 Channel 对应 64 位的数据总线\n Rank：每个 Channel 内可能有多个 Rank，这些 Rank 共享总线\n Bank Group：在 DDR4 引入，每个 Rank 有多个 Bank Group\n Bank：每个 Bank Group 有多个 Bank\n Row：每个 Bank 内部同时只有一个 Row 被激活\n Column：激活的 Row 内，每个 Column 对应保存数据的 Cell\n  \n 如何读写 SDRAM 中的数据：\n 首先根据数据的地址找到对应的 Channel/Rank/Bank Group/Bank/Row/Column，如：\n Row 地址等于地址的 [33:18] 位，共 65536 个 Row\n Rank 地址等于地址的 [17:17] 位，共 2 个 Rank\n Bank 地址等于地址的 [16:15] 位，每个 Bank Group 内有 4 个 Bank\n Bank Group 地址等于地址的 [14:13] 位，共 4 个 Bank Group\n Column 地址等于…",
+          "link": "https://jia.je/hardware/2026/03/26/sdram-bandwidth/",
+          "publishedOn": "2026-03-26T00:00:00.000Z",
+          "wordCount": null,
+          "title": "SDRAM 在不同访存模式下的带宽分析与实验",
+          "enclosure": {
+            "url": "https://jia.je/assets/images/social/hardware/2026/03/26/sdram-bandwidth.png",
+            "type": "image/png",
+            "length": "51197"
+          },
+          "imageUrl": "https://jia.je/assets/images/social/hardware/2026/03/26/sdram-bandwidth.png"
+        },
+        {
           "id": "https://jia.je/devops/2026/03/05/nginx-sse-buffering/",
           "author": null,
           "description": "Nginx 反代导致 SSE 延迟变高的问题与解决方法¶\n 背景¶\n 最近有同学遇到这么一个问题：在 Nginx 反代后面搭了一个使用 SSE（Server Sent Events）机制的服务端，但客户端观察到请求延迟比较高，数据批量到达，而不是一行一行地出现。经过排查，发现是 Nginx 的 buffering 机制导致的。本文通过实验复现该问题，并探索了几种解决方法。\n  \n问题复现¶\n 为了复现这个问题，我 Vibe Coding 了一个测试服务端 server.py，监听 8080 端口，在 /events 路径下每秒发送一条 SSE 消息，共发送 5 次：\n \n#!/usr/bin/env python3 \"\"\"SSE server that sends 5 messages, one every second.\"\"\"  import time from http.server import HTTPServer, BaseHTTPRequestHandler   class SSEHandler(BaseHTTPRequestHandler):  def do_GET(self):  if self.path == \"/events\":  self.send_response(200)  self.send_header(\"Content-Type\", \"text/event-stream\")  self.end_headers()   for i in range(5):  message = f\"data: Message {i + 1} at {time.time()}\\n\\n\"  self.wfile.write(message.encode(\"utf-8\"))  self.wfile.flush()  time.sleep(1)   self.wfil…",
@@ -4294,21 +4308,6 @@
             "length": "50299"
           },
           "imageUrl": "https://jia.je/assets/images/social/hardware/2026/01/15/ibm-power8.png"
-        },
-        {
-          "id": "https://jia.je/software/2025/12/25/my-ai-usage-2025/",
-          "author": null,
-          "description": "2025 年我是怎么使用 AI 的¶\n 前言¶\n 经常看我博客的读者应该能看出来，我研究的主要是计算机系统结构方向，特别是处理器的微架构，几乎没有涉及到 AI 的内容，我也确实不喜欢 AI 研究，仅关注但不参与。但今年，因为各种 AI 技术尤其是 LLM 的发展，我确实成为了很多 AI 技术的用户，可以说 2025 年是我正经大规模用 AI 的元年，所以在年末做一个简单的总结。\n  \n我不想在这里给大模型厂商打广告，所以相关的名字我都会按照某 PDF 的方法进行打码，有需要的朋友可以自行查看实际的内容。\n Vibe Coding¶\n 首先的一个冲击来自于 Vibe Coding。我写代码也有大概十五年了，一直都是坚持自己写代码，但今年从一些朋友那里了解到一些 Vibe Coding 的效果以后，也自己尝试了一下，确实能够感受到 Vibe Coding 对写代码的巨大冲击，我的心态也出现了一定的变化。Vibe Coding 并不复杂，其实就是用一些 Coding 客户端，配上 LLM 加一些 Tool Call，使得 LLM 可以自己编写、测试和运行代码。目前随着 LLM 能力的变强，Vibe Coding 逐渐成为了一个可以负担得起且效果不错的东西。结合实际的使用，以及受朋友们的一些启发，我目前已经用它进行了一些 Vibe Coding 尝试，例如：\n  \n写一些简单的 MCP 服务器，例如把 devdocs.io 的文档通过 MCP 暴露给 LLM，让它可以精确读取标准库的文档，避免幻觉，还有让 LLM 可以读取波形文件的 waveform-mcp；\n 写一个 API 路由器，可以在多个 API 提供商之间自动 Fallback，类似于本地版的 OpenRouter，但在这里主要是为了解决 Rate Limit 问题；\n 对已有代码的一些改进，比如实现 TODO，修复代码…",
-          "link": "https://jia.je/software/2025/12/25/my-ai-usage-2025/",
-          "publishedOn": "2025-12-25T00:00:00.000Z",
-          "wordCount": 444,
-          "title": "2025 年我是怎么使用 AI 的",
-          "enclosure": {
-            "url": "https://jia.je/assets/images/social/blog/posts/software/my-ai-usage-2025.png",
-            "type": "image/png",
-            "length": "49771"
-          },
-          "imageUrl": "https://jia.je/assets/images/social/blog/posts/software/my-ai-usage-2025.png"
         }
       ]
     },
@@ -4322,18 +4321,7 @@
       "title": "运维随笔",
       "feedUrl": "https://wandouduoduo.github.io/atom.xml",
       "siteUrl": "/atom.xml",
-      "articles": [
-        {
-          "id": "https://wandouduoduo.github.io/articles/f8d7c94e.html",
-          "author": null,
-          "description": "<p>hello，大家好。关于SeaTable的介绍这里就不在赘述了，有哪些优缺点，可以自行搜索了解。这里只讲干货，直接上实操，直接用docker私有化部署SeaTable最新版6.0，用于替代运维中的cmdb或作为运维的底层数据仓库。所有的资产信息、应用信息、人员信息、监控数据等等都通过它来存储，并且它原生就支持API和webhook，并根据表结构动态自动更新接口，和所有的第三方系统或软件打通，没有任何卡点。可以实时同步更新，让数据保持一致性且可以顺畅流动起来，大大降低了维护数据的压力和成本。</p>",
-          "link": "https://wandouduoduo.github.io/articles/f8d7c94e.html",
-          "publishedOn": "2025-12-22T07:53:01.000Z",
-          "wordCount": 1333,
-          "title": "Centos7用Docker私有化部署SeaTable",
-          "imageUrl": "https://cdn.jsdelivr.net/gh/wandouduoduo/wandouduoduo.github.io@master/articles/f8d7c94e/Centos7%E7%94%A8Docker%E7%A7%81%E6%9C%89%E5%8C%96%E9%83%A8%E7%BD%B2SeaTable%5C3.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "为个人日志",
