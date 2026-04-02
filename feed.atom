@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-04-01T22:02:37.312Z</updated>
+    <updated>2026-04-02T21:58:24.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I Built My Own S3 Storage in My Home Lab (And It Actually Works)]]></title>
+        <id>https://www.virtualizationhowto.com/?p=310672</id>
+        <link href="https://www.virtualizationhowto.com/2026/04/i-built-my-own-s3-storage-in-my-home-lab-and-it-actually-works/"/>
+        <updated>2026-04-02T12:47:42.000Z</updated>
+        <summary type="html"><![CDATA[Lately, I have started to introduce more tooling into the home lab that utilizes S3 storage. I have already had some of this in the home lab. When I stood…
+The post I Built My Own S3 Storage in My Home Lab (And It Actually Works) appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The ClickHouse Learning Curve Is Real, But It’s Optional with MooseStack]]></title>
+        <id>https://collabnix.com/?p=73266</id>
+        <link href="https://collabnix.com/the-clickhouse-learning-curve-is-real-but-its-optional-with-moosestack/"/>
+        <updated>2026-04-02T07:22:32.000Z</updated>
+        <summary type="html"><![CDATA[After struggling as a DevOps engineer with pipelines, orchestration, and scaling, I came across a simpler way to build data systems with clickhouse. Understanding the ClickHouse Learning Curve In my new role as DevOps Engineer at startup, after a month, my manager called me into a quick sync and said, “We need to set up […]]]></summary>
+        <author>
+            <name>Satyam Soni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developing Full-Stack Apps with Claude Code: A Step-by-Step Guide]]></title>
+        <id>https://collabnix.com/developing-full-stack-apps-with-claude-code-a-step-by-step-guide/</id>
+        <link href="https://collabnix.com/developing-full-stack-apps-with-claude-code-a-step-by-step-guide/"/>
+        <updated>2026-04-02T03:31:32.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build a full-stack application using Claude Code. This step-by-step tutorial guides you through installation, setup, and leveraging advanced coding capabilities.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building an AI Agent for Web Search and Summarization: A Step-by-Step Guide]]></title>
+        <id>https://collabnix.com/building-an-ai-agent-for-web-search-and-summarization-a-step-by-step-guide/</id>
+        <link href="https://collabnix.com/building-an-ai-agent-for-web-search-and-summarization-a-step-by-step-guide/"/>
+        <updated>2026-04-01T18:39:40.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build an AI agent capable of web searching and summarization by utilizing Python, NLP libraries, and Docker for scalable solutions.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Your Home Lab Feels Slow (And What I Found)]]></title>
         <id>https://www.virtualizationhowto.com/?p=310637</id>
@@ -4912,53 +4953,12 @@ The post Run Proxmox Inside Docker: A Weekend Home Lab Project to Learn Clusteri
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 Surprising Truths From the 2026 State of AI Agents Report]]></title>
-        <id>https://collabnix.com/?p=70264</id>
-        <link href="https://collabnix.com/5-surprising-truths-from-the-2026-state-of-ai-agents-report/"/>
-        <updated>2026-01-03T06:55:14.000Z</updated>
-        <summary type="html"><![CDATA[Amid the constant hype and speculation about artificial intelligence, it can be difficult to separate future promises from present-day reality. The conversation is often dominated by futuristic scenarios, leaving business leaders to wonder what’s actually happening inside organizations today. A clearer picture is needed to make strategic decisions. Enter “The 2026 State of AI Agents […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[用 Split DNS 提升跨系统双机开发体验]]></title>
-        <id>https://soulteary.com/2026/01/03/split-dns-for-cross-platform-dual-machine-dev.html</id>
-        <link href="https://soulteary.com/2026/01/03/split-dns-for-cross-platform-dual-machine-dev.html"/>
-        <updated>2026-01-03T06:14:00.000Z</updated>
-        <summary type="html"><![CDATA[这篇文章记录一个很“朴素”的诉求：我希望把 macOS 当作主力输入设备，把 Ubuntu 设备当作移动工作站与服务承载机。两台设备通过雷电网桥或同一热点互联后，Mac 侧可以像在本机一样访问 Ubuntu 上的各种站点和服务，同时不牺牲 macOS 的日常网络体验。]]></summary>
-        <author>
-            <name>苏洋(soulteary)</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Enigama/git-remarks: git-remarks 是一个用于管理个人笔记 (想法、疑虑、待办事项、决策) 的工具，这些笔记附加在 Git 提交上。]]></title>
         <id>想法、疑虑、待办事项、决策) 的工具，这些笔记附加在 Git 提交上。](https://github.com/Enigama/git-remarks</id>
         <link href="https://raw.githubusercontent.com/guanguans/favorite-link/master/%E6%83%B3%E6%B3%95%E3%80%81%E7%96%91%E8%99%91%E3%80%81%E5%BE%85%E5%8A%9E%E4%BA%8B%E9%A1%B9%E3%80%81%E5%86%B3%E7%AD%96)%20%E7%9A%84%E5%B7%A5%E5%85%B7%EF%BC%8C%E8%BF%99%E4%BA%9B%E7%AC%94%E8%AE%B0%E9%99%84%E5%8A%A0%E5%9C%A8%20Git%20%E6%8F%90%E4%BA%A4%E4%B8%8A%E3%80%82](https://github.com/Enigama/git-remarks"/>
         <updated>2026-01-02T16:00:00.000Z</updated>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Containers Will Matter More Than Hypervisors in the 2026 Home Lab]]></title>
-        <id>https://www.virtualizationhowto.com/?p=308274</id>
-        <link href="https://www.virtualizationhowto.com/2026/01/why-containers-will-matter-more-than-hypervisors-in-the-2026-home-lab/"/>
-        <updated>2026-01-02T14:23:10.000Z</updated>
-        <summary type="html"><![CDATA[Over he past couple of years now we have been seeing a paradigm shift in how we think about our home lab environments. I think the Broadcom buyout of VMware…
-The post Why Containers Will Matter More Than Hypervisors in the 2026 Home Lab appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[微言小义（2025.11-2025.12）]]></title>
-        <id>https://www.skyue.com/26010220.html</id>
-        <link href="https://www.skyue.com/26010220.html"/>
-        <updated>2026-01-02T12:07:00.000Z</updated>
-        <summary type="html"><![CDATA[2025年11月和12月的微言小义，包括微博、朋友圈和X上的内容汇总。]]></summary>
-        <author>
-            <name>拾月</name>
         </author>
     </entry>
     <entry>

@@ -534,16 +534,6 @@
           "wordCount": 1142,
           "title": "OwlMail：兼容 MailDev 的工程化测试邮箱",
           "imageUrl": null
-        },
-        {
-          "id": "https://soulteary.com/2026/01/03/split-dns-for-cross-platform-dual-machine-dev.html",
-          "author": "苏洋(soulteary)",
-          "description": "这篇文章记录一个很“朴素”的诉求：我希望把 macOS 当作主力输入设备，把 Ubuntu 设备当作移动工作站与服务承载机。两台设备通过雷电网桥或同一热点互联后，Mac 侧可以像在本机一样访问 Ubuntu 上的各种站点和服务，同时不牺牲 macOS 的日常网络体验。",
-          "link": "https://soulteary.com/2026/01/03/split-dns-for-cross-platform-dual-machine-dev.html",
-          "publishedOn": "2026-01-03T06:14:00.000Z",
-          "wordCount": 641,
-          "title": "用 Split DNS 提升跨系统双机开发体验",
-          "imageUrl": null
         }
       ]
     },
@@ -936,6 +926,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=310672",
+          "author": "Brandon Lee",
+          "description": "Lately, I have started to introduce more tooling into the home lab that utilizes S3 storage. I have already had some of this in the home lab. When I stood…\nThe post I Built My Own S3 Storage in My Home Lab (And It Actually Works) appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/04/i-built-my-own-s3-storage-in-my-home-lab-and-it-actually-works/",
+          "publishedOn": "2026-04-02T12:47:42.000Z",
+          "wordCount": null,
+          "title": "I Built My Own S3 Storage in My Home Lab (And It Actually Works)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=310637",
           "author": "Brandon Lee",
@@ -1675,16 +1675,6 @@
           "wordCount": 11725,
           "title": "Run Proxmox Inside Docker: A Weekend Home Lab Project to Learn Clustering and HA",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/run-proxmox-in-docker.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=308274",
-          "author": "Brandon Lee",
-          "description": "Over he past couple of years now we have been seeing a paradigm shift in how we think about our home lab environments. I think the Broadcom buyout of VMware…\nThe post Why Containers Will Matter More Than Hypervisors in the 2026 Home Lab appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/01/why-containers-will-matter-more-than-hypervisors-in-the-2026-home-lab/",
-          "publishedOn": "2026-01-02T14:23:10.000Z",
-          "wordCount": 12209,
-          "title": "Why Containers Will Matter More Than Hypervisors in the 2026 Home Lab",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/why-containers-will-matter-more-than-hypervisors-in-2026.png"
         }
       ]
     },
@@ -1693,6 +1683,36 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=73266",
+          "author": "Satyam Soni",
+          "description": "After struggling as a DevOps engineer with pipelines, orchestration, and scaling, I came across a simpler way to build data systems with clickhouse. Understanding the ClickHouse Learning Curve In my new role as DevOps Engineer at startup, after a month, my manager called me into a quick sync and said, “We need to set up […]",
+          "link": "https://collabnix.com/the-clickhouse-learning-curve-is-real-but-its-optional-with-moosestack/",
+          "publishedOn": "2026-04-02T07:22:32.000Z",
+          "wordCount": null,
+          "title": "The ClickHouse Learning Curve Is Real, But It’s Optional with MooseStack",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/developing-full-stack-apps-with-claude-code-a-step-by-step-guide/",
+          "author": "Collabnix Team",
+          "description": "Learn how to build a full-stack application using Claude Code. This step-by-step tutorial guides you through installation, setup, and leveraging advanced coding capabilities.",
+          "link": "https://collabnix.com/developing-full-stack-apps-with-claude-code-a-step-by-step-guide/",
+          "publishedOn": "2026-04-02T03:31:32.000Z",
+          "wordCount": null,
+          "title": "Developing Full-Stack Apps with Claude Code: A Step-by-Step Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/building-an-ai-agent-for-web-search-and-summarization-a-step-by-step-guide/",
+          "author": "Collabnix Team",
+          "description": "Learn how to build an AI agent capable of web searching and summarization by utilizing Python, NLP libraries, and Docker for scalable solutions.",
+          "link": "https://collabnix.com/building-an-ai-agent-for-web-search-and-summarization-a-step-by-step-guide/",
+          "publishedOn": "2026-04-01T18:39:40.000Z",
+          "wordCount": null,
+          "title": "Building an AI Agent for Web Search and Summarization: A Step-by-Step Guide",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=73259",
           "author": "Tanvir Kour",
@@ -2982,16 +3002,6 @@
           "wordCount": 5799,
           "title": "FunctionGemma: Building Offline AI Agents with Docker Model Runner",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=70264",
-          "author": "Collabnix Team",
-          "description": "Amid the constant hype and speculation about artificial intelligence, it can be difficult to separate future promises from present-day reality. The conversation is often dominated by futuristic scenarios, leaving business leaders to wonder what’s actually happening inside organizations today. A clearer picture is needed to make strategic decisions. Enter “The 2026 State of AI Agents […]",
-          "link": "https://collabnix.com/5-surprising-truths-from-the-2026-state-of-ai-agents-report/",
-          "publishedOn": "2026-01-03T06:55:14.000Z",
-          "wordCount": 6651,
-          "title": "5 Surprising Truths From the 2026 State of AI Agents Report",
-          "imageUrl": null
         }
       ]
     },
@@ -3217,16 +3227,6 @@
           "publishedOn": "2026-01-11T13:55:00.000Z",
           "wordCount": 547,
           "title": "我的2025：新阶段",
-          "imageUrl": ""
-        },
-        {
-          "id": "https://www.skyue.com/26010220.html",
-          "author": "拾月",
-          "description": "2025年11月和12月的微言小义，包括微博、朋友圈和X上的内容汇总。",
-          "link": "https://www.skyue.com/26010220.html",
-          "publishedOn": "2026-01-02T12:07:00.000Z",
-          "wordCount": 614,
-          "title": "微言小义（2025.11-2025.12）",
           "imageUrl": ""
         }
       ]
