@@ -927,6 +927,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=310785",
+          "author": "Brandon Lee",
+          "description": "This weekend I went down an absolute rabbit hole that I think most home labbers eventually hit when they start getting more and more into Kubernetes and that is backups.…\nThe post I Thought My Kubernetes Backups Worked in My Home Lab but I Was Wrong appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/04/i-thought-my-kubernetes-backups-worked-in-my-home-lab-but-i-was-wrong/",
+          "publishedOn": "2026-04-06T12:58:53.000Z",
+          "wordCount": null,
+          "title": "I Thought My Kubernetes Backups Worked in My Home Lab but I Was Wrong",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=310755",
           "author": "Brandon Lee",
           "description": "One of the assumptions that I think many make when moving to Kubernetes is that when you migrate, it is “all or nothing” from Docker. I probably thought that too…\nThe post I Still Run These Docker Containers Every Day in 2026 (After Moving to Kubernetes) appeared first on Virtualization Howto.",
@@ -1665,26 +1675,6 @@
           "wordCount": 12030,
           "title": "I Bought a 10 Inch Home Lab Rack for 2026 and It Surprised Me",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/10-inch-rack-for-home-lab.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=308416",
-          "author": "Brandon Lee",
-          "description": "If you have been following my recent experiments in the home lab, I recently tested a very cool project for running Proxmox VE Server inside a Docker container. The developer…\nThe post Run Proxmox Datacenter Manager in a Docker Container for Home Labs and Testing appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/01/run-proxmox-datacenter-manager-in-a-docker-container-for-home-labs-and-testing/",
-          "publishedOn": "2026-01-06T13:13:07.000Z",
-          "wordCount": 11335,
-          "title": "Run Proxmox Datacenter Manager in a Docker Container for Home Labs and Testing",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/run-proxmox-datacenter-manager-in-docker-2.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=308375",
-          "author": "Brandon Lee",
-          "description": "I have tried a whole lot of different Docker “dashboards” and consoles over the past few years. We have seen this area explode with many different options available out there…\nThe post Why Dockhand Is One of the Best Docker Management Tools for Secure Operations appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/01/why-dockhand-is-one-of-the-best-docker-management-tools-for-secure-operations/",
-          "publishedOn": "2026-01-05T13:14:23.000Z",
-          "wordCount": 11582,
-          "title": "Why Dockhand Is One of the Best Docker Management Tools for Secure Operations",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/docker-management-tool-security.png"
         }
       ]
     },
@@ -1693,6 +1683,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=73305",
+          "author": "Ajeet Raina",
+          "description": "As traders of bitcoin and other cryptocurrencies know very well, cyber attacks and social engineering scams run rampant in this space. That’s why new and experienced crypto users alike often wonder about the best solutions for storing digital assets securely. While cloud-hosted “hot wallets” offer convenience and instant access, they also introduce exposure to online […]",
+          "link": "https://collabnix.com/why-cold-wallets-are-considered-the-safest-way-to-store-crypto/",
+          "publishedOn": "2026-04-06T18:20:12.000Z",
+          "wordCount": null,
+          "title": "Why Cold Wallets Are Considered the Safest Way to Store Crypto",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=73299",
+          "author": "Collabnix Team",
+          "description": "How to Use AI Effectively: A Practical Guide AI is everywhere but wielding it effectively is a skill most people are still learning. Here’s how to go from AI-curious to AI-confident without losing your judgment, your privacy, or your edge. The question used to be: should I use AI? In 2026, that question is largely […]",
+          "link": "https://collabnix.com/how-to-use-ai-the-right-way-a-practical-guide-for-2026/",
+          "publishedOn": "2026-04-06T08:13:58.000Z",
+          "wordCount": null,
+          "title": "How to Use AI the Right Way: A Practical Guide for 2026",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/mastering-claude-code-10-essential-practices-for-developers/",
           "author": "Collabnix Team",
@@ -3002,26 +3012,6 @@
           "wordCount": null,
           "title": "Top Financial Automation Tools for Banks and Investment Firms",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=70404",
-          "author": "Tanvir Kour",
-          "description": "The world of software development continues to expand in both scale and complexity. Developers now work in environments where technology changes quickly, systems depend on one another, and decisions carry a wider impact across products and users. The expectations are higher: to code efficiently, plus to think strategically, collaborate effectively, and understand the broader context […]",
-          "link": "https://collabnix.com/the-changing-skillset-of-developers-in-the-new-tech-landscape/",
-          "publishedOn": "2026-01-06T12:32:12.000Z",
-          "wordCount": 7654,
-          "title": "The Changing Skillset of Developers in the New Tech Landscape",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=70390",
-          "author": "Tanvir Kour",
-          "description": "Appointment setting solutions are increasingly becoming a significant part of any sales team to enhance productivity and achieve higher conversion rates. These tools make the communication smooth between the representatives and the prospective clients. Such systems automate scheduling, reminders, and follow-ups, allowing sales professionals to focus on real conversations. In this post, we delve into […]",
-          "link": "https://collabnix.com/appointment-setting-solutions-and-their-impact-on-sales-teams/",
-          "publishedOn": "2026-01-05T13:45:27.000Z",
-          "wordCount": 5800,
-          "title": "Appointment Setting Solutions and Their Impact on Sales Teams",
-          "imageUrl": null
         }
       ]
     },
@@ -3139,16 +3129,6 @@
           "wordCount": 206,
           "title": "谁在开车: 西游战车与心智模型",
           "imageUrl": "https://limboy.me/_astro/p1.CvvVhW0E.jpg"
-        },
-        {
-          "id": "https://limboy.me/posts/the-mindset-of-the-answerer",
-          "author": null,
-          "description": "我们不应该问“人生的意义是什么”，而应该意识到，“我们才是那个被生活提问的人”。",
-          "link": "https://limboy.me/posts/the-mindset-of-the-answerer",
-          "publishedOn": "2026-01-07T00:00:00.000Z",
-          "wordCount": 139,
-          "title": "答题者心态",
-          "imageUrl": null
         }
       ]
     },
@@ -3548,16 +3528,6 @@
           "wordCount": 5068,
           "title": "OpenCode能否作为Claude Code和Codex的平替？",
           "imageUrl": "https://blognas.hwb0307.com/wp-content/uploads/zzmx-169-scaled.jpg"
-        },
-        {
-          "id": "https://blognas.hwb0307.com/other/6923",
-          "author": "Bensz",
-          "description": "Bensz\nVibe Coding CLI评测： Claude Code vs. OpenAI Codex vs. Gemini CLI\n本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 基于 SWE-bench Verified 基准测试、社区反馈和个人深度使用体验,全面对比三大 CLI AI 编程助手 Claude Code 以 72.7% SWE-bench 得分位居榜首,响应速度最快、Agent Skills 开发体验最佳、全程母语对话支持;常见误解:工具本身免费,可用国产模型(如 MiniMax M2 仅占官方成本 8%)大幅降低使用成本 OpenAI Codex CLI 开源可定制(SWE-bench 69.1%),适合已有 OpenAI 生态用户;但 Agent Skills 开发体验较差,推理过程全程英文对非母语用户不友好 Gemini CLI 凭借 1M […]\nBensz",
-          "link": "https://blognas.hwb0307.com/other/6923",
-          "publishedOn": "2026-01-06T15:28:25.000Z",
-          "wordCount": 5313,
-          "title": "Vibe Coding CLI评测： Claude Code vs. OpenAI Codex vs. Gemini CLI",
-          "imageUrl": "https://blognas.hwb0307.com/wp-content/uploads/zzmx-169-scaled.jpg"
         }
       ]
     },
@@ -3566,6 +3536,16 @@
       "feedUrl": "https://4311346.com/index.xml",
       "siteUrl": "https://4311346.com/",
       "articles": [
+        {
+          "id": "https://4311346.com/post/2026/0407-qingming.html",
+          "author": null,
+          "description": "清明节烧的不单单是纸，焚烧炉里的火光大多是跳动的思念，是在世人的亏欠，更是未报的恩情……更是是那句\"子欲孝而亲不待“的终生遗憾。\n\n子欲孝而亲不待\n这句话出自《孔子家语·卷二·致思第八》，是孔子在路途中听到一位名叫皋鱼的老人哭诉时发出的感慨。皋鱼说，他一生有“三失”：少时游学，未能奉养父母（一失）；志向高远，未能为君尽忠（二失）；与朋友交情深厚，却忽略了家中至亲（三失）。当他醒悟过来时，父母已经去世，无法再尽孝。于是他说：\n“树欲静而风不止，子欲养而亲不待。”\n这短短十四个字，讲透了人生的两大无奈：\n客观的无奈：就像树想静止，风却不停吹——世事不随人愿。你想尽孝时，父母可能已经不在，或者你正被生活、工作、家庭所困，无法抽身。\n主观的遗憾：时间不可逆，生命不可追。父母衰老的速度，往往快过我们成功的速度。当我们终于有了能力、有了时间，回头却发现，他们早已等不到那一天。\n清明节的所有习俗中，无论是烧纸、扫墓、献花，还是和家人聚在一起吃饭、回忆。其本质上都是在处理 “子欲养而亲不待” 这份未完成的爱与愧疚。\n\n清明时节雨纷纷\n清明前后，中国南方暖湿气流活跃，而北方冷空气仍有余力，两者交汇常带来连绵细雨，即“纷纷”的春雨。这符合中国长江流域的气候特征。我们都以为是自然界的气候规律，但在老一辈人们的心里，那不是雨，是相隔两地的思念之泪。\n有人感性地说那是亲人虽远去，却想借着雨丝摸摸亲人的脸，也有人说那是上天在为每一个来不及说出口的道歉而哭泣。清明时节的雨更像是一种洗礼，洗去了人们满身的尘嚣与浮躁，让我们在泥泞的小路上不得不放慢脚步。它用行动告诉我们慢一点，再慢一点，去看看那些曾经爱过你，如今却躺在土里的那些人。\n漫天的细雨是天地间最盛大的告白，它提醒世上的生者，有些爱从未消失，有些遗憾只能借着雨声，在那座小土丘前静默的诉说着…\n“子欲养而亲不待”是清明的内核——因为失去，所以祭奠。\n“清明时节雨纷纷”是清明的氛围——因为祭奠，所以愁绪如雨。\n经常上坟的人更懂得敬畏\n每年坚持回乡祭祖的人，无论在外面受了多少委屈，只要跪在那座墓碑前，清理掉周围顽固的枯草，描红那斑驳的碑文，他的心就会瞬间沉静下来，因为他知道这土里埋着他的来处。经常上坟的人更懂得敬畏，看着那一座矮矮的坟头，他就会明白，无论活着的时候是达官显贵还是普通百姓，最终的归宿都是这方寸之地。\n有了这份敬畏，人就不容易狂妄，不容易在欲望中迷失。\n不上坟的人，甚至忘记先辈的人，随着时间的推移，对祖辈的记忆会越来越模糊，人一旦断了根，就像断了线的风筝，随波逐流，哪怕飞得再高，心也是空的。\n经常上坟的人和不上坟的人气场是不一样的\n烧那点纸，逝去的人真能收到吗？\n烧纸的意义不在于寄钱，而在于一次灵魂的对话。成年人的世界里有太多的委屈和苦衷无法对枕边人说，唯独在那座孤坟前，我们可以卸下所有的伪装，你一边拨弄着火堆，一边絮絮叨叨…………那一刻升腾的烟雾就像是连接思念与过往的纽带。烧掉的是纸，是冥币，排解的却是心中积压已久的亏欠。\n亏欠他们一顿好饭，亏欠他们一件新衣，亏欠他们还没见到的孙辈，这种亏欠感是一个人良知的底色。相信一个懂得对逝者心存亏欠的人，在现实生活中常常会更懂得去感恩，更懂去得珍惜眼前的亲情。\n\n死亡并不是生命的终点，被遗忘才是\n在这种仪式感中长大的孩子会明白死亡并不是生命的终点，被遗忘才是，孩子们会懂得长幼有序，会明白生命的接力，会更早的理解责任两个字的分量。这种对先辈的尊重会潜移默化地转变为对长辈们的孝顺，因为孩子亲眼看到了父母是如何祭奠祖辈的，这就是最好的言传身教。\n人生没有如果，只有后果和结果\n每一个站在坟前泣不成声的人，心里大概都藏着一个如果，如果那天我回家吃那顿饭就好了。如果那天我不跟他顶嘴就好了。如果我能早点带他去体检就好了。\n我们借着清明节的名义去那个安静的地方坐一坐，在那满山的青翠里去抚平那些刻骨铭心的遗憾，这种遗憾也会提醒我们，既然已经错过了那座坟里的人，就千万别再错过还在堂前坐着的人。\n我们是他们生命的延续\n如果你有时间，请一定回去走走，去那座荒芜的坟头坐坐，哪怕就只是拔一颗坟头草，添一锹土……请不要觉得清明节上坟烧纸是封建迷信，终究是自己灵魂的归宿而已。\n珍惜当下，善待每一个还在身边的亲人\n近几年离世的人, 奶奶  \\ 大伯 \\ 岳父 \\ 小叔",
+          "link": "https://4311346.com/post/2026/0407-qingming.html",
+          "publishedOn": "2026-04-06T16:52:01.000Z",
+          "wordCount": null,
+          "title": "清明节上坟烧纸是不是封建迷信",
+          "imageUrl": null
+        },
         {
           "id": "https://4311346.com/post/2026/0314-lianhua.html",
           "author": null,
@@ -3971,16 +3951,6 @@
           "publishedOn": "2026-01-25T00:00:00.000Z",
           "wordCount": null,
           "title": "我的2024-2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.ssgeek.com/blog/personal-pension-annual-yield-calculation",
-          "author": null,
-          "description": "个人养老金年化收益计算小工具",
-          "link": "https://www.ssgeek.com/blog/personal-pension-annual-yield-calculation",
-          "publishedOn": "2026-01-06T00:00:00.000Z",
-          "wordCount": null,
-          "title": "个人养老金年化收益计算",
           "imageUrl": null
         }
       ]
