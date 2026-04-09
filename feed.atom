@@ -2,10 +2,164 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-04-06T21:56:56.879Z</updated>
+    <updated>2026-04-09T22:03:26.994Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I Added This to My Docker Compose and It Changed Everything]]></title>
+        <id>https://www.virtualizationhowto.com/?p=310861</id>
+        <link href="https://www.virtualizationhowto.com/2026/04/i-added-this-to-my-docker-compose-and-it-changed-everything/"/>
+        <updated>2026-04-09T12:01:15.000Z</updated>
+        <summary type="html"><![CDATA[All of us use Docker compose extensively in our home labs to run containers and self-host services. I love it. It is THE way to deploy your containers when you…
+The post I Added This to My Docker Compose and It Changed Everything appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欧拉22.04容器内sudo 被 killed]]></title>
+        <id>http://zhangguanzhang.github.io/2026/04/09/openeuler-sudo-killed/</id>
+        <link href="http://zhangguanzhang.github.io/2026/04/09/openeuler-sudo-killed/"/>
+        <updated>2026-04-09T09:10:30.000Z</updated>
+        <summary type="html"><![CDATA[<p>记录下一次欧拉容器内sudo无法使用的排查过程。</p>]]></summary>
+        <author>
+            <name>Zhangguanzhang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Cloud Native Developers Should Attend Drone Expo 2026]]></title>
+        <id>https://collabnix.com/?p=73311</id>
+        <link href="https://collabnix.com/why-cloud-native-developers-should-care-about-drone-expo-2026-in-bengaluru/"/>
+        <updated>2026-04-09T06:33:52.000Z</updated>
+        <summary type="html"><![CDATA[If you work in DevOps, cloud‑native, or open‑source infrastructure, drones might seem far from your day‑to‑day Kubernetes clusters and CI pipelines. But in 2026, modern drones look a lot like distributed systems with rotors: they run open‑source stacks, talk to ROS 2, stream telemetry to the cloud, and depend on the same observability, security, and […]]]></summary>
+        <author>
+            <name>Simran Agarwal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[两台Spark“并联”真比一台好吗？]]></title>
+        <id>https://nops.icu/archives/236/</id>
+        <link href="https://nops.icu/archives/236/"/>
+        <updated>2026-04-09T02:55:00.000Z</updated>
+        <summary type="html"><![CDATA[结论联机优势，跑大尺寸模型，对单个请求延迟有高要求。否则单机部署更灵活。测试项单机双机实际提升并发 3 路10.63 tok/s15.07 tok/s+42%长文本3.76 tok/s6.10 ...]]></summary>
+        <author>
+            <name>季兴</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[farzaa/clicky: 它是一个人工智能老师，就像你的伙伴一样陪伴在你的鼠标旁边。它可以看到你的屏幕、和你交流，甚至还能指点东西。有点像真的老师就在你身边。]]></title>
+        <id>https://github.com/farzaa/clicky</id>
+        <link href="https://github.com/farzaa/clicky"/>
+        <updated>2026-04-08T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Contribute to farzaa/clicky development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 Operating Systems I Wouldn’t Run My Home Lab Without in 2026]]></title>
+        <id>https://www.virtualizationhowto.com/?p=310840</id>
+        <link href="https://www.virtualizationhowto.com/2026/04/5-operating-systems-i-wouldnt-run-my-home-lab-without-in-2026/"/>
+        <updated>2026-04-08T12:17:54.000Z</updated>
+        <summary type="html"><![CDATA[Outside of Proxmox or your hypervisor of choice, in the modern 2026 home lab, the operating systems you choose matter more than just about anything else. The OS’s you run…
+The post 5 Operating Systems I Wouldn’t Run My Home Lab Without in 2026 appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sebastianbergmann/git-state: 用于描述 Git 签出状态的库。]]></title>
+        <id>https://github.com/sebastianbergmann/git-state</id>
+        <link href="https://github.com/sebastianbergmann/git-state"/>
+        <updated>2026-04-08T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Library for describing the state of a Git checkout. - sebastianbergmann/git-state]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[safishamsi/graphify: AI 编码助手技能（Claude Code、Codex、OpenCode、OpenClaw、Factory Droid、Trae）。将任何代码、文档、论文或图片文件夹转换为可查询的知识图谱]]></title>
+        <id>https://github.com/safishamsi/graphify</id>
+        <link href="https://github.com/safishamsi/graphify"/>
+        <updated>2026-04-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph - safi...]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[拆解 Claude Code：一个"停不下来"的 AI Agent 是怎么炼成的]]></title>
+        <id>https://panzhixiang.cn/2026/claude-code-agent-loop/</id>
+        <link href="https://panzhixiang.cn/2026/claude-code-agent-loop/"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[深入分析 Claude Code 的 Agent Loop 设计原理，从架构、提示词、工具设计和容错系统四个层面解读它如何实现持续工作的能力]]></summary>
+        <author>
+            <name>潘智祥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[glanceway/glanceway-sources: 轻量级 macOS 菜单栏应用，聚合 Hacker News、GitHub、Reddit、RSS 订阅、股票行情、加密货币、开发者工具等信息源。]]></title>
+        <id>https://github.com/glanceway/glanceway-sources</id>
+        <link href="https://github.com/glanceway/glanceway-sources"/>
+        <updated>2026-04-07T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Contribute to glanceway/glanceway-sources development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inverted themes with light-dark()]]></title>
+        <id>https://daverupert.com/2026/04/inverted-light-dark/</id>
+        <link href="https://daverupert.com/2026/04/inverted-light-dark/"/>
+        <updated>2026-04-07T15:31:00.000Z</updated>
+        <summary type="html"><![CDATA[We rolled out adaptive light-dark() support on our design system themes and it’s been a delightful upgrade. Creating light and dark variable sets isn’t difficult, but delivery has trade-offs. Most apps that do this probably ship both sets of token values in a single stylesheet. That’s fine until you have multiple kilobytes of duplicate definitions. To get around the performance problems we built two separate stylesheets –which is also not great– but my coworker Zacky found a good trick with <link disabled> to make it tolerable. Ultimately, we wanted to offer a single stylesheet for our human (and agent) friends to control theming.
+Having light-dark() makes it trivial to support dual color modes in a single stylesheet and doesn’t add too much weight (0.5kb gzip for ~500 variables). It also …]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 Ceph Commands I Use in My Proxmox Home Lab]]></title>
+        <id>https://www.virtualizationhowto.com/?p=310810</id>
+        <link href="https://www.virtualizationhowto.com/2026/04/10-ceph-commands-i-use-in-my-proxmox-home-lab/"/>
+        <updated>2026-04-07T12:30:14.000Z</updated>
+        <summary type="html"><![CDATA[I have been running Ceph in my Proxmox powered home lab now since the beginning of this year and it is an amazing storage solution. It provides the backend storage…
+The post 10 Ceph Commands I Use in My Proxmox Home Lab appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lifedever/TaskTick: macOS 原生定时任务管理应用 无需 crontab，无需 launchd，交给 TaskTick。]]></title>
+        <id>https://github.com/lifedever/TaskTick</id>
+        <link href="https://github.com/lifedever/TaskTick"/>
+        <updated>2026-04-07T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A native macOS app for managing scheduled tasks. Built with SwiftUI + SwiftData. Menu bar resident, cron expressions, script execution, and more. - lifedever/TaskTick]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5分钟拥有自己的“小龙虾”：PicoClaw Docker 部署教程]]></title>
+        <id>https://blog.xiaoz.org/?p=22928</id>
+        <link href="https://blog.xiaoz.org/archives/22928"/>
+        <updated>2026-04-07T00:43:04.000Z</updated>
+        <summary type="html"><![CDATA[最近OpenClaw很火，想必大家都想部署一个自己的小龙虾，但OpenClaw部署复杂，资源占用高。不过现在这些都不是问题，网上已经有很多OpenClaw开源替代品（如果您不确定哪个小龙虾适合您，可以访问我们的龙虾对比网站：ClawPulse），比如今天要介绍的PicoClaw，目前xiaoz已经使]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marvinngg/ambient-voice: macOS 系统的本地环境声音输入与会议转录功能 — 采用了 Apple 语音分析器、Vision 光学字符识别以及 FluidAudio 话筒声源分离技术，完全在本地设备上处理。]]></title>
+        <id>https://github.com/Marvinngg/ambient-voice</id>
+        <link href="https://github.com/Marvinngg/ambient-voice"/>
+        <updated>2026-04-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[macOS native ambient voice input & meeting transcription — Apple   SpeechAnalyzer + Vision OCR + FluidAudio speaker diarization, fully   on-device. - Marvinngg/ambient-voice]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Why Cold Wallets Are Considered the Safest Way to Store Crypto]]></title>
         <id>https://collabnix.com/?p=73305</id>
@@ -60,6 +214,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Liubsyy/M3U8Quicker: M3U8 下载器，支持多线程下载、断点续传、边下边播]]></title>
+        <id>https://github.com/Liubsyy/M3U8Quicker</id>
+        <link href="https://github.com/Liubsyy/M3U8Quicker"/>
+        <updated>2026-04-06T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[跨平台M3U8下载器，支持多线程下载、断点续传、边下边播、AES解密、浏览器自动识别地址. Contribute to Liubsyy/M3U8Quicker development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I Thought My Kubernetes Backups Worked in My Home Lab but I Was Wrong]]></title>
         <id>https://www.virtualizationhowto.com/?p=310785</id>
         <link href="https://www.virtualizationhowto.com/2026/04/i-thought-my-kubernetes-backups-worked-in-my-home-lab-but-i-was-wrong/"/>
@@ -78,6 +242,66 @@ The post I Thought My Kubernetes Backups Worked in My Home Lab but I Was Wrong a
         <summary type="html"><![CDATA[How to Use AI Effectively: A Practical Guide AI is everywhere but wielding it effectively is a skill most people are still learning. Here’s how to go from AI-curious to AI-confident without losing your judgment, your privacy, or your edge. The question used to be: should I use AI? In 2026, that question is largely […]]]></summary>
         <author>
             <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mahonzhan/awesome-coding-plan: 各厂家 Coding Plan 实际价值对比]]></title>
+        <id>https://github.com/mahonzhan/awesome-coding-plan</id>
+        <link href="https://github.com/mahonzhan/awesome-coding-plan"/>
+        <updated>2026-04-06T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[各厂家 Coding Plan 实际价值对比. Contribute to mahonzhan/awesome-coding-plan development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[borawong/AiMaMi: 为 OpenAI Codex 打造的桌面伴侣。]]></title>
+        <id>https://github.com/borawong/AiMaMi</id>
+        <link href="https://github.com/borawong/AiMaMi"/>
+        <updated>2026-04-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[为OpenAI Codex打造的桌面伴侣。. Contribute to borawong/AiMaMi development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cat3399/blbl: 一个使用原生 Android 开发的哔哩哔哩安卓客户端，支持触摸、遥控，以及安卓 5]]></title>
+        <id>https://github.com/cat3399/blbl</id>
+        <link href="https://github.com/cat3399/blbl"/>
+        <updated>2026-04-05T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[一个使用原生Android开发的哔哩哔哩安卓客户端，支持触摸、遥控，以及安卓5. Contribute to cat3399/blbl development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turbo1123/roubao: 首款无需电脑的开源 AI 手机自动化助手]]></title>
+        <id>https://github.com/Turbo1123/roubao</id>
+        <link href="https://github.com/Turbo1123/roubao"/>
+        <updated>2026-04-05T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Android Automation Tool Based on Vision-Language Models - Turbo1123/roubao]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XueshiQiao/AnyDrag: 按住修饰键，拖动窗口任意位置即可移动窗口，无需拖拽标题栏。]]></title>
+        <id>https://github.com/XueshiQiao/AnyDrag</id>
+        <link href="https://github.com/XueshiQiao/AnyDrag"/>
+        <updated>2026-04-05T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Modifier+drag to move any window smoothly on macOS, exactly like native speed - XueshiQiao/AnyDrag]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DimensionDev/Flare: 在一个应用中浏览 Mastodon、Bluesky、X、Misskey、Nostr 和 RSS。一个时间线，所有账户，跨平台同步发布。]]></title>
+        <id>https://github.com/DimensionDev/Flare</id>
+        <link href="https://github.com/DimensionDev/Flare"/>
+        <updated>2026-04-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Browse Mastodon, Bluesky, X, Misskey, Nostr and RSS all in one app. One timeline, all your accounts, cross-post everywhere. - DimensionDev/Flare]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -109,6 +333,26 @@ The Maker Movement harnessed that creative attention energy and built an entire 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[94xy/xykt: 基于 Apple VisionKit 的 macOS 抠图]]></title>
+        <id>https://github.com/94xy/xykt</id>
+        <link href="https://github.com/94xy/xykt"/>
+        <updated>2026-04-04T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[基于Apple VisionKit 的 macOS 抠图. Contribute to 94xy/xykt development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ryangjchandler/blade-parser.rs: 一个用 Rust 编写的 Laravel Blade 模板解析器。]]></title>
+        <id>https://github.com/ryangjchandler/blade-parser.rs</id>
+        <link href="https://github.com/ryangjchandler/blade-parser.rs"/>
+        <updated>2026-04-04T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A parser for Laravel Blade templates written in Rust. - ryangjchandler/blade-parser.rs]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I Still Run These Docker Containers Every Day in 2026 (After Moving to Kubernetes)]]></title>
         <id>https://www.virtualizationhowto.com/?p=310755</id>
         <link href="https://www.virtualizationhowto.com/2026/04/i-still-run-these-docker-containers-every-day-in-2026-after-moving-to-kubernetes/"/>
@@ -117,6 +361,26 @@ The Maker Movement harnessed that creative attention energy and built an entire 
 The post I Still Run These Docker Containers Every Day in 2026 (After Moving to Kubernetes) appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pixelspark/sushitrain: 使用 Syncthing 在 iOS 设备上安全同步文件]]></title>
+        <id>https://github.com/pixelspark/sushitrain</id>
+        <link href="https://github.com/pixelspark/sushitrain"/>
+        <updated>2026-04-04T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Securely synchronize files with your devices on iOS using Syncthing - pixelspark/sushitrain]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[leemysw/token-share: Token-Share：一个原生 macOS 菜单栏 LLM API 网关 —— 在本地翻译并流式传输 OpenAI 聊天补全、OpenAI 响应和 Anthropic 消息协议之间的数据。]]></title>
+        <id>https://github.com/leemysw/token-share</id>
+        <link href="https://github.com/leemysw/token-share"/>
+        <updated>2026-04-04T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Token-Share: A native macOS menu bar LLM API gateway — translate and stream between OpenAI Chat Completions, OpenAI Responses, and Anthropic Messages protocols locally. - leemysw/token-share]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -130,6 +394,26 @@ The post I Still Run These Docker Containers Every Day in 2026 (After Moving to 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[tforschbach/CodexRemote: 使用你的 iPhone 作为 Mac 上本地 Codex 运行时的遥控器。]]></title>
+        <id>https://github.com/tforschbach/CodexRemote</id>
+        <link href="https://github.com/tforschbach/CodexRemote"/>
+        <updated>2026-04-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Contribute to tforschbach/CodexRemote development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[jigar-dhulla/laravel-http-to-curl: Laravel HTTP 请求到 Curl 命令]]></title>
+        <id>https://github.com/jigar-dhulla/laravel-http-to-curl</id>
+        <link href="https://github.com/jigar-dhulla/laravel-http-to-curl"/>
+        <updated>2026-04-03T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Laravel HTTP Request to Curl Command. Contribute to jigar-dhulla/laravel-http-to-curl development by creating an account on GitHub.]]></summary>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I Replaced Docker with Kubernetes in My Home Lab and It Wasn’t What I Expected]]></title>
         <id>https://www.virtualizationhowto.com/?p=310723</id>
         <link href="https://www.virtualizationhowto.com/2026/04/i-replaced-docker-with-kubernetes-in-my-home-lab-and-it-wasnt-what-i-expected/"/>
@@ -138,6 +422,15 @@ The post I Still Run These Docker Containers Every Day in 2026 (After Moving to 
 The post I Replaced Docker with Kubernetes in My Home Lab and It Wasn’t What I Expected appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[protonemedia/laravel-xss-protection: Laravel 中间件可保护您的应用免受跨站脚本攻击 (XSS)。它通过使用 voku/anti-xss 包来清理请求输入，并且也可以清理 Blade 的 echo 语句。]]></title>
+        <id>XSS)。它通过使用 voku/anti-xss 包来清理请求输入，并且也可以清理 Blade 的 echo 语句。](https://github.com/protonemedia/laravel-xss-protection</id>
+        <link href="https://raw.githubusercontent.com/guanguans/favorite-link/master/XSS)%E3%80%82%E5%AE%83%E9%80%9A%E8%BF%87%E4%BD%BF%E7%94%A8%20voku/anti-xss%20%E5%8C%85%E6%9D%A5%E6%B8%85%E7%90%86%E8%AF%B7%E6%B1%82%E8%BE%93%E5%85%A5%EF%BC%8C%E5%B9%B6%E4%B8%94%E4%B9%9F%E5%8F%AF%E4%BB%A5%E6%B8%85%E7%90%86%20Blade%20%E7%9A%84%20echo%20%E8%AF%AD%E5%8F%A5%E3%80%82](https://github.com/protonemedia/laravel-xss-protection"/>
+        <updated>2026-04-03T08:00:00.000Z</updated>
+        <author>
+            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>
@@ -5063,183 +5356,6 @@ The post LabGopher Is Gone and RackRat Is the Alternative Homelab Builders Are T
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenCode能否作为Claude Code和Codex的平替？]]></title>
-        <id>https://blognas.hwb0307.com/other/6925</id>
-        <link href="https://blognas.hwb0307.com/ai-application/6925"/>
-        <updated>2026-01-10T09:01:20.000Z</updated>
-        <summary type="html"><![CDATA[Bensz
-OpenCode能否作为Claude Code和Codex的平替？
-本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 OpenCode 是一个开源的 AI 编程代理，GitHub Stars 已超过 50k3 项目强调终端工作流（TUI）与 client/server 架构，同时保持 provider-agnostic（不绑定单一模型提供商）2 文档称其基于 AI SDK 与 Models.dev，可接入 75+ LLM providers，并支持运行本地模型5, 10, 11 2026 年 1 月，Anthropic 限制 OpenCode 等第三方工具使用 Claude API，引发开发社区强烈不满16, 17 适合成本敏感的个人开发者、需要本地/多模型选择的团队，以及希望降低供应商锁定风险的用户  […]
-Bensz]]></summary>
-        <author>
-            <name>Bensz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bwaidelich/dcb-eventstore: 根据规范实现动态一致性边界的事件存储的接口和类型。]]></title>
-        <id>https://github.com/bwaidelich/dcb-eventstore</id>
-        <link href="https://github.com/bwaidelich/dcb-eventstore"/>
-        <updated>2026-01-10T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Implementation of the Dynamic Consistency Boundary pattern described by Sara Pellegrini - bwaidelich/dcb-eventstore]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[wickenico/WailBrew: WailBrew 是一种现代且直观的方式来管理 macOS 上的 Homebrew！它提供了一个干净的图形界面，使得软件包管理对每个人都变得可访问。]]></title>
-        <id>https://github.com/wickenico/WailBrew</id>
-        <link href="https://github.com/wickenico/WailBrew"/>
-        <updated>2026-01-10T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Minimalistic Homebrew GUI made with Go, Wails and React. - wickenico/WailBrew]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up Your First DTF Printer for High-Quality Transfers]]></title>
-        <id>https://collabnix.com/?p=70561</id>
-        <link href="https://collabnix.com/how-to-set-up-your-first-dtf-printer-for-high-quality-transfers/"/>
-        <updated>2026-01-09T16:17:58.000Z</updated>
-        <summary type="html"><![CDATA[Direct-to-film printing has gained popularity for its ability to produce vibrant, durable prints on a wide range of fabrics. Setting up a direct-to-film printer for the first time may seem challenging. However, following clear steps helps ensure consistent, high-quality transfers. This guide outlines the essential stages of preparation, installation, and maintenance to support reliable performance […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paymenter/Paymenter: Paymenter 是一个为托管公司量身定制的开源计费平台。它简化了托管服务的管理，为提供商和客户提供无缝的体验。]]></title>
-        <id>https://github.com/Paymenter/Paymenter</id>
-        <link href="https://github.com/Paymenter/Paymenter"/>
-        <updated>2026-01-09T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Free and open-source webshop solution for hostings - Paymenter/Paymenter]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top Financial Automation Tools for Banks and Investment Firms]]></title>
-        <id>https://collabnix.com/?p=70557</id>
-        <link href="https://collabnix.com/top-financial-automation-tools-for-banks-and-investment-firms/"/>
-        <updated>2026-01-09T15:54:57.000Z</updated>
-        <summary type="html"><![CDATA[In the current financial climate, banks and investment companies are under constant pressure to improve efficiency and reduce costs. This is where automation solutions become invaluable, offering tools that simplify workflows and enhance accuracy by reducing human error. How is such an improvement possible? Here are a few examples of the best finance automation tools […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Interpolate contrast-color() to manipulate lightness]]></title>
-        <id>https://daverupert.com/2026/01/coercing-contrast-color/</id>
-        <link href="https://daverupert.com/2026/01/coercing-contrast-color/"/>
-        <updated>2026-01-09T15:35:00.000Z</updated>
-        <summary type="html"><![CDATA[In my first post on contrast-color() I demo’d using color-mix() to change a background-color on hover, but I will be honest… mixing black and white isn’t always what you want. It would be cool and helpful to coerce  contrast-color() to return either 1 or -1 so that we could adjust lightness in a color function on hover instead of only mixing white and black.
-Building on the inline CSS if() statements in my last post, we can use the same trick to interpolate the result of contrast-color() into a number.
-Disclaimer: All caveats from the previous post about browser support, caching quirks, and expected syntax changes still apply.
-See the Pen 
-  contrast-color() powered design system colors  by Dave Rupert (@davatron5000)
-  on CodePen.
-      
-
-Ahh… feel that? Now our states maintains its harmo…]]></summary>
-        <author>
-            <name>daverupert.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Weirdest Things I’ve Successfully Run in My Home Lab]]></title>
-        <id>https://www.virtualizationhowto.com/?p=308548</id>
-        <link href="https://www.virtualizationhowto.com/2026/01/the-weirdest-things-ive-successfully-run-in-my-home-lab/"/>
-        <updated>2026-01-09T13:58:24.000Z</updated>
-        <summary type="html"><![CDATA[I have self-hosted a lot of things over the years in my home lab. However, we all eventually reach a point where we run a few less than normal things…
-The post The Weirdest Things I’ve Successfully Run in My Home Lab appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fission-AI/OpenSpec: 人工智能编码助手功能强大，但当需求存在于聊天记录中时却难以预测。OpenSpec 增加了一个轻量级的规范工作流程，可在实施前锁定意图，为您提供确定的、可审查的输出。]]></title>
-        <id>https://github.com/Fission-AI/OpenSpec</id>
-        <link href="https://github.com/Fission-AI/OpenSpec"/>
-        <updated>2026-01-09T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Spec-driven development (SDD) for AI coding assistants. - Fission-AI/OpenSpec]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Using your design system colors with contrast-color()]]></title>
-        <id>https://daverupert.com/2026/01/contrast-color-with-custom-design-tokens/</id>
-        <link href="https://daverupert.com/2026/01/contrast-color-with-custom-design-tokens/"/>
-        <updated>2026-01-09T03:21:00.000Z</updated>
-        <summary type="html"><![CDATA[One predictable pain point with contrast-color() is that it only returns black and white named colors. From a design systems perspective, that’s not ideal because you want your colors. You want your harmonious brand and the colors you and your team spent thousands of man hours in meetings deciding on. Those colors.
-In fact, an earlier version of Safari had color-contrast() (confusing I know, naming is hard) which allowed you to pass in a list of best candidates to choose from. I beleive that proposal got mired in standards discussions, color contrast algorithms, and competing proposals; and contrast-color() is what survived which got simplified down to a binary result.
-In the future though, we can use contrast-color() and if() together to help pick the value we want. Alas, at the time of w…]]></summary>
-        <author>
-            <name>daverupert.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[谁在开车: 西游战车与心智模型]]></title>
-        <id>https://limboy.me/posts/who-is-driving</id>
-        <link href="https://limboy.me/posts/who-is-driving"/>
-        <updated>2026-01-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[看了不少 Ego、观察者相关的内容，想着能不能结合丹尼尔·卡尼曼在《思考，快与慢》一书中提到的「系统一」和「系统二」来构建一个心智模型。]]></summary>
-        <author>
-            <name>Limboy's Essays</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[crate-ci/typos: 源代码拼写检查器]]></title>
-        <id>https://github.com/crate-ci/typos</id>
-        <link href="https://github.com/crate-ci/typos"/>
-        <updated>2026-01-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Source code spell checker. Contribute to crate-ci/typos development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algorithmic hover states with contrast-color()]]></title>
-        <id>https://daverupert.com/2026/01/algorithmic-hover-states-with-contrast-color/</id>
-        <link href="https://daverupert.com/2026/01/algorithmic-hover-states-with-contrast-color/"/>
-        <updated>2026-01-08T16:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Firefox 146 added support for contrast-color() joining Safari 26 in the First Implementor’s Club. For those unfamiliar, contrast-color(<color>)  is a new CSS function that will take a <color> as input and returns either  white or black depending on which has the most contrast.
-The quintessential example is choosing a foreground text color  with the best contrast.
-
-button {
-	--button-bg: red;
-	background: var(--button-bg);
-	color: contrast-color(var(--button-bg)); 
-	/* @returns black (5.25:1 WCAG AA Pass) 
-			not white (3.99:1 WCAG AA Fail) */
-}
-
-
-If someone changes --button-bg to purple, the foreground color automatically resolves to the either white or black, whichever has more contrast. It avoids having to set an extra token for color and takes the guess work out of picking an accessible…]]></summary>
-        <author>
-            <name>daverupert.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[kepano/obsidian-skills: Claude 技能用于与 Obsidian 一起使用]]></title>
-        <id>https://github.com/kepano/obsidian-skills</id>
-        <link href="https://github.com/kepano/obsidian-skills"/>
-        <updated>2026-01-08T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Agent skills for Obsidian. Contribute to kepano/obsidian-skills development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beelink ME Pro NAS Review: Small Box, Huge Storage Power in 2026]]></title>
-        <id>https://www.virtualizationhowto.com/?p=308496</id>
-        <link href="https://www.virtualizationhowto.com/2026/01/beelink-me-pro-nas-review-small-box-huge-storage-power-in-2026/"/>
-        <updated>2026-01-08T13:13:45.000Z</updated>
-        <summary type="html"><![CDATA[I just received over the Beelink ME Pro from Beelink for review in the home lab. This I have to say is one that did catch my attention when I…
-The post Beelink ME Pro NAS Review: Small Box, Huge Storage Power in 2026 appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[精通Linux根目录：核心文件夹深度解析与实战指南]]></title>
         <id>https://www.lifengdi.com/?p=4674</id>
         <link href="https://www.lifengdi.com/hou-duan/4674"/>
@@ -5247,97 +5363,6 @@ The post Beelink ME Pro NAS Review: Small Box, Huge Storage Power in 2026 appear
         <summary type="html"><![CDATA[在Linux系统中，文件系统的层次结构严格遵循Filesystem Hierarchy Standard（FHS）规范，根目录 / 作为整个文件系统的"基石"，承载着系统运行、软件部署和数据存储的核心功能。每个子目录都有明确的职责划分，理解其背后的设计逻辑和实际用途，是运维工程师高效管理系统、开发者 […]]]></summary>
         <author>
             <name>李锋镝</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[antonmedv/wiki: 一个由 PHP 和 SQLite 驱动的极简主义单文件维基引擎。旨在简单、快速且易于部署。]]></title>
-        <id>https://github.com/antonmedv/wiki</id>
-        <link href="https://github.com/antonmedv/wiki"/>
-        <updated>2026-01-08T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Single PHP file Wiki engine. Contribute to antonmedv/wiki development by creating an account on GitHub.]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KEYNOTE-937：帕博利珠单抗不能预防肝癌术后复发 #GI26]]></title>
-        <id>http://whyes.org/2026/keynote-937-asco-gi-2026</id>
-        <link href="http://whyes.org/2026/keynote-937-asco-gi-2026"/>
-        <updated>2026-01-08T02:07:59.000Z</updated>
-        <summary type="html"><![CDATA[2025 年 7 月，默沙东公司通知研究者，KEYNOTE-937 研究没有达到主要研究终点，研究被终止并对患者进行了揭盲。在本周末的 ASCO GI 年会上，这项研究会公布主要研究结果。今天，研究的摘要在线发布。 KEYNOTE-937 ...]]></summary>
-        <author>
-            <name>whyes 的博客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rectorphp/monitor: 在一个地方监控所有项目和包的代码质量，确保一致性并消除不同 PHP 版本之间的冲突。]]></title>
-        <id>https://github.com/rectorphp/monitor</id>
-        <link href="https://github.com/rectorphp/monitor"/>
-        <updated>2026-01-07T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In a need of dozens repository upgrade? Stay up to date with monitoring of all projects in one place - rectorphp/monitor]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Bought a 10 Inch Home Lab Rack for 2026 and It Surprised Me]]></title>
-        <id>https://www.virtualizationhowto.com/?p=308442</id>
-        <link href="https://www.virtualizationhowto.com/2026/01/i-bought-a-10-inch-home-lab-rack-for-2026-and-it-surprised-me/"/>
-        <updated>2026-01-07T13:12:46.000Z</updated>
-        <summary type="html"><![CDATA[If you have spent any time in home lab communities this past year in 2025, you will have noticed a trend that seems to be sweeping the home lab community,…
-The post I Bought a 10 Inch Home Lab Rack for 2026 and It Surprised Me appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[破译Stripe面试密码：从“做题家”到“技术合伙人”的思维跃迁]]></title>
-        <id>https://blog.xiaoz.org/?p=22663</id>
-        <link href="https://blog.xiaoz.org/archives/22663"/>
-        <updated>2026-01-07T10:46:01.000Z</updated>
-        <summary type="html"><![CDATA[在硅谷的工程师圈子里，Stripe的面试一直有个略带敬畏的别称——“面试界的爱马仕”。这不仅因为它的Offer含金量十足，更因为它建立了一套几乎完全独立于FAANG（现在叫MAMAA）体系之外的考核标准。我听过太多优秀的工程师，甚至是刷了上千道LeetCode题目的“做题家”，在Stripe的第一轮]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rectorphp/argtyper: 分析真正的方法参数类型，并将其添加为类型声明]]></title>
-        <id>https://github.com/rectorphp/argtyper</id>
-        <link href="https://github.com/rectorphp/argtyper"/>
-        <updated>2026-01-07T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[[WIP] Analyze real method argument types, and add them as type declarations - rectorphp/argtyper]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEKOparapa/AiNiee: 一款专注于 Ai 翻译的工具，一键自动翻译 RPG SLG 游戏，Epub TXT 小说，PDF Word MD 文档，Srt Vtt Lrc 字幕等等复杂长文本。]]></title>
-        <id>https://github.com/NEKOparapa/AiNiee</id>
-        <link href="https://github.com/NEKOparapa/AiNiee"/>
-        <updated>2026-01-06T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，PDF Word MD文档，Srt Vtt Lrc字幕等等复杂长文本。 - NEKOparapa/AiNiee]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[guanguans/rector-rules: 一套 rector/rector 规则。]]></title>
-        <id>https://github.com/guanguans/rector-rules</id>
-        <link href="https://github.com/guanguans/rector-rules"/>
-        <updated>2026-01-05T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[A set of additional rules for rector/rector. - 一套针对 `rector/rector` 的附加规则。 - guanguans/rector-rules]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[code-yeongyu/oh-my-opencode: 致力于引发一场软件革命，创造一个 AI 生成的代码与人类代码无法区分、却能实现更多的世界。]]></title>
-        <id>https://github.com/code-yeongyu/oh-my-opencode</id>
-        <link href="https://github.com/code-yeongyu/oh-my-opencode"/>
-        <updated>2026-01-04T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. - code-yeongyu/oh-my-opencode]]></summary>
-        <author>
-            <name>❤️ 每天收集喜欢的开源项目</name>
         </author>
     </entry>
     <entry>

@@ -77,24 +77,23 @@
       "title": "whyes 的博客",
       "feedUrl": "http://whyes.org/feed.xml",
       "siteUrl": "http://whyes.org/",
-      "articles": [
-        {
-          "id": "http://whyes.org/2026/keynote-937-asco-gi-2026",
-          "author": null,
-          "description": "2025 年 7 月，默沙东公司通知研究者，KEYNOTE-937 研究没有达到主要研究终点，研究被终止并对患者进行了揭盲。在本周末的 ASCO GI 年会上，这项研究会公布主要研究结果。今天，研究的摘要在线发布。 KEYNOTE-937 ...",
-          "link": "http://whyes.org/2026/keynote-937-asco-gi-2026",
-          "publishedOn": "2026-01-08T02:07:59.000Z",
-          "wordCount": 146,
-          "title": "KEYNOTE-937：帕博利珠单抗不能预防肝癌术后复发 #GI26",
-          "imageUrl": "https://i.typlog.com/whyes/8431633559_928745.jpg?x-oss-process=style/ss"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "daverupert.com",
       "feedUrl": "https://daverupert.com/atom.xml",
       "siteUrl": "https://daverupert.com",
       "articles": [
+        {
+          "id": "https://daverupert.com/2026/04/inverted-light-dark/",
+          "author": null,
+          "description": "We rolled out adaptive light-dark() support on our design system themes and it’s been a delightful upgrade. Creating light and dark variable sets isn’t difficult, but delivery has trade-offs. Most apps that do this probably ship both sets of token values in a single stylesheet. That’s fine until you have multiple kilobytes of duplicate definitions. To get around the performance problems we built two separate stylesheets –which is also not great– but my coworker Zacky found a good trick with <link disabled> to make it tolerable. Ultimately, we wanted to offer a single stylesheet for our human (and agent) friends to control theming.\nHaving light-dark() makes it trivial to support dual color modes in a single stylesheet and doesn’t add too much weight (0.5kb gzip for ~500 variables). It also …",
+          "link": "https://daverupert.com/2026/04/inverted-light-dark/",
+          "publishedOn": "2026-04-07T15:31:00.000Z",
+          "wordCount": null,
+          "title": "Inverted themes with light-dark()",
+          "imageUrl": null
+        },
         {
           "id": "https://daverupert.com/2026/04/ozempic-dreams/",
           "author": null,
@@ -203,36 +202,6 @@
           "publishedOn": "2026-01-11T18:30:00.000Z",
           "wordCount": 910,
           "title": "Focus rings with nested contrast-color()?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2026/01/coercing-contrast-color/",
-          "author": null,
-          "description": "In my first post on contrast-color() I demo’d using color-mix() to change a background-color on hover, but I will be honest… mixing black and white isn’t always what you want. It would be cool and helpful to coerce  contrast-color() to return either 1 or -1 so that we could adjust lightness in a color function on hover instead of only mixing white and black.\nBuilding on the inline CSS if() statements in my last post, we can use the same trick to interpolate the result of contrast-color() into a number.\nDisclaimer: All caveats from the previous post about browser support, caching quirks, and expected syntax changes still apply.\nSee the Pen \n  contrast-color() powered design system colors  by Dave Rupert (@davatron5000)\n  on CodePen.\n      \n\nAhh… feel that? Now our states maintains its harmo…",
-          "link": "https://daverupert.com/2026/01/coercing-contrast-color/",
-          "publishedOn": "2026-01-09T15:35:00.000Z",
-          "wordCount": 1101,
-          "title": "Interpolate contrast-color() to manipulate lightness",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2026/01/contrast-color-with-custom-design-tokens/",
-          "author": null,
-          "description": "One predictable pain point with contrast-color() is that it only returns black and white named colors. From a design systems perspective, that’s not ideal because you want your colors. You want your harmonious brand and the colors you and your team spent thousands of man hours in meetings deciding on. Those colors.\nIn fact, an earlier version of Safari had color-contrast() (confusing I know, naming is hard) which allowed you to pass in a list of best candidates to choose from. I beleive that proposal got mired in standards discussions, color contrast algorithms, and competing proposals; and contrast-color() is what survived which got simplified down to a binary result.\nIn the future though, we can use contrast-color() and if() together to help pick the value we want. Alas, at the time of w…",
-          "link": "https://daverupert.com/2026/01/contrast-color-with-custom-design-tokens/",
-          "publishedOn": "2026-01-09T03:21:00.000Z",
-          "wordCount": null,
-          "title": "Using your design system colors with contrast-color()",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2026/01/algorithmic-hover-states-with-contrast-color/",
-          "author": null,
-          "description": "Firefox 146 added support for contrast-color() joining Safari 26 in the First Implementor’s Club. For those unfamiliar, contrast-color(<color>)  is a new CSS function that will take a <color> as input and returns either  white or black depending on which has the most contrast.\nThe quintessential example is choosing a foreground text color  with the best contrast.\n\nbutton {\n\t--button-bg: red;\n\tbackground: var(--button-bg);\n\tcolor: contrast-color(var(--button-bg)); \n\t/* @returns black (5.25:1 WCAG AA Pass) \n\t\t\tnot white (3.99:1 WCAG AA Fail) */\n}\n\n\nIf someone changes --button-bg to purple, the foreground color automatically resolves to the either white or black, whichever has more contrast. It avoids having to set an extra token for color and takes the guess work out of picking an accessible…",
-          "link": "https://daverupert.com/2026/01/algorithmic-hover-states-with-contrast-color/",
-          "publishedOn": "2026-01-08T16:46:00.000Z",
-          "wordCount": null,
-          "title": "Algorithmic hover states with contrast-color()",
           "imageUrl": null
         }
       ]
@@ -810,6 +779,16 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://nops.icu/archives/236/",
+          "author": "季兴",
+          "description": "结论联机优势，跑大尺寸模型，对单个请求延迟有高要求。否则单机部署更灵活。测试项单机双机实际提升并发 3 路10.63 tok/s15.07 tok/s+42%长文本3.76 tok/s6.10 ...",
+          "link": "https://nops.icu/archives/236/",
+          "publishedOn": "2026-04-09T02:55:00.000Z",
+          "wordCount": null,
+          "title": "两台Spark“并联”真比一台好吗？",
+          "imageUrl": null
+        },
+        {
           "id": "https://nops.icu/archives/234/",
           "author": "季兴",
           "description": "最近趁着国补更新了 Apple Watch，本想体验全方位的健康监测，却发现“血压监测”和“睡眠呼吸暂停检测”在健康 App 中提示 “在你所在地区不可用”。这其实是苹果基于地理围栏（Geo-f...",
@@ -926,6 +905,36 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=310861",
+          "author": "Brandon Lee",
+          "description": "All of us use Docker compose extensively in our home labs to run containers and self-host services. I love it. It is THE way to deploy your containers when you…\nThe post I Added This to My Docker Compose and It Changed Everything appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/04/i-added-this-to-my-docker-compose-and-it-changed-everything/",
+          "publishedOn": "2026-04-09T12:01:15.000Z",
+          "wordCount": 12183,
+          "title": "I Added This to My Docker Compose and It Changed Everything",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/04/docker-compose-gitops-2.png"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=310840",
+          "author": "Brandon Lee",
+          "description": "Outside of Proxmox or your hypervisor of choice, in the modern 2026 home lab, the operating systems you choose matter more than just about anything else. The OS’s you run…\nThe post 5 Operating Systems I Wouldn’t Run My Home Lab Without in 2026 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/04/5-operating-systems-i-wouldnt-run-my-home-lab-without-in-2026/",
+          "publishedOn": "2026-04-08T12:17:54.000Z",
+          "wordCount": 11883,
+          "title": "5 Operating Systems I Wouldn’t Run My Home Lab Without in 2026",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/04/home-lab-operating-systems.png"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=310810",
+          "author": "Brandon Lee",
+          "description": "I have been running Ceph in my Proxmox powered home lab now since the beginning of this year and it is an amazing storage solution. It provides the backend storage…\nThe post 10 Ceph Commands I Use in My Proxmox Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/04/10-ceph-commands-i-use-in-my-proxmox-home-lab/",
+          "publishedOn": "2026-04-07T12:30:14.000Z",
+          "wordCount": 12210,
+          "title": "10 Ceph Commands I Use in My Proxmox Home Lab",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/04/proxmox-ceph-commands-home-lab.png"
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=310785",
           "author": "Brandon Lee",
@@ -1645,36 +1654,6 @@
           "wordCount": 11245,
           "title": "LabGopher Is Gone and RackRat Is the Alternative Homelab Builders Are Turning To",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/RackRat-used-enterprise-gear-3.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=308548",
-          "author": "Brandon Lee",
-          "description": "I have self-hosted a lot of things over the years in my home lab. However, we all eventually reach a point where we run a few less than normal things…\nThe post The Weirdest Things I’ve Successfully Run in My Home Lab appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/01/the-weirdest-things-ive-successfully-run-in-my-home-lab/",
-          "publishedOn": "2026-01-09T13:58:24.000Z",
-          "wordCount": 11602,
-          "title": "The Weirdest Things I’ve Successfully Run in My Home Lab",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/Weird-home-lab-projects.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=308496",
-          "author": "Brandon Lee",
-          "description": "I just received over the Beelink ME Pro from Beelink for review in the home lab. This I have to say is one that did catch my attention when I…\nThe post Beelink ME Pro NAS Review: Small Box, Huge Storage Power in 2026 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/01/beelink-me-pro-nas-review-small-box-huge-storage-power-in-2026/",
-          "publishedOn": "2026-01-08T13:13:45.000Z",
-          "wordCount": null,
-          "title": "Beelink ME Pro NAS Review: Small Box, Huge Storage Power in 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=308442",
-          "author": "Brandon Lee",
-          "description": "If you have spent any time in home lab communities this past year in 2025, you will have noticed a trend that seems to be sweeping the home lab community,…\nThe post I Bought a 10 Inch Home Lab Rack for 2026 and It Surprised Me appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/01/i-bought-a-10-inch-home-lab-rack-for-2026-and-it-surprised-me/",
-          "publishedOn": "2026-01-07T13:12:46.000Z",
-          "wordCount": 12030,
-          "title": "I Bought a 10 Inch Home Lab Rack for 2026 and It Surprised Me",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/10-inch-rack-for-home-lab.png"
         }
       ]
     },
@@ -1683,6 +1662,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=73311",
+          "author": "Simran Agarwal",
+          "description": "If you work in DevOps, cloud‑native, or open‑source infrastructure, drones might seem far from your day‑to‑day Kubernetes clusters and CI pipelines. But in 2026, modern drones look a lot like distributed systems with rotors: they run open‑source stacks, talk to ROS 2, stream telemetry to the cloud, and depend on the same observability, security, and […]",
+          "link": "https://collabnix.com/why-cloud-native-developers-should-care-about-drone-expo-2026-in-bengaluru/",
+          "publishedOn": "2026-04-09T06:33:52.000Z",
+          "wordCount": null,
+          "title": "Why Cloud Native Developers Should Attend Drone Expo 2026",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=73305",
           "author": "Ajeet Raina",
@@ -2992,26 +2981,6 @@
           "wordCount": 7122,
           "title": "Updating Your WAF Strategy for the Age of Malicious AI Agents",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=70561",
-          "author": "Tanvir Kour",
-          "description": "Direct-to-film printing has gained popularity for its ability to produce vibrant, durable prints on a wide range of fabrics. Setting up a direct-to-film printer for the first time may seem challenging. However, following clear steps helps ensure consistent, high-quality transfers. This guide outlines the essential stages of preparation, installation, and maintenance to support reliable performance […]",
-          "link": "https://collabnix.com/how-to-set-up-your-first-dtf-printer-for-high-quality-transfers/",
-          "publishedOn": "2026-01-09T16:17:58.000Z",
-          "wordCount": 5862,
-          "title": "How to Set Up Your First DTF Printer for High-Quality Transfers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=70557",
-          "author": "Tanvir Kour",
-          "description": "In the current financial climate, banks and investment companies are under constant pressure to improve efficiency and reduce costs. This is where automation solutions become invaluable, offering tools that simplify workflows and enhance accuracy by reducing human error. How is such an improvement possible? Here are a few examples of the best finance automation tools […]",
-          "link": "https://collabnix.com/top-financial-automation-tools-for-banks-and-investment-firms/",
-          "publishedOn": "2026-01-09T15:54:57.000Z",
-          "wordCount": null,
-          "title": "Top Financial Automation Tools for Banks and Investment Firms",
-          "imageUrl": null
         }
       ]
     },
@@ -3119,16 +3088,6 @@
           "wordCount": 383,
           "title": "「共」型人才：AI 时代的个体进化论",
           "imageUrl": "https://limboy.me/apple-touch-icon.png"
-        },
-        {
-          "id": "https://limboy.me/posts/who-is-driving",
-          "author": null,
-          "description": "看了不少 Ego、观察者相关的内容，想着能不能结合丹尼尔·卡尼曼在《思考，快与慢》一书中提到的「系统一」和「系统二」来构建一个心智模型。",
-          "link": "https://limboy.me/posts/who-is-driving",
-          "publishedOn": "2026-01-09T00:00:00.000Z",
-          "wordCount": 206,
-          "title": "谁在开车: 西游战车与心智模型",
-          "imageUrl": "https://limboy.me/_astro/p1.CvvVhW0E.jpg"
         }
       ]
     },
@@ -3518,16 +3477,6 @@
           "wordCount": null,
           "title": "国家自然科学基金的LaTeX模板 第2期",
           "imageUrl": null
-        },
-        {
-          "id": "https://blognas.hwb0307.com/other/6925",
-          "author": "Bensz",
-          "description": "Bensz\nOpenCode能否作为Claude Code和Codex的平替？\n本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 OpenCode 是一个开源的 AI 编程代理，GitHub Stars 已超过 50k3 项目强调终端工作流（TUI）与 client/server 架构，同时保持 provider-agnostic（不绑定单一模型提供商）2 文档称其基于 AI SDK 与 Models.dev，可接入 75+ LLM providers，并支持运行本地模型5, 10, 11 2026 年 1 月，Anthropic 限制 OpenCode 等第三方工具使用 Claude API，引发开发社区强烈不满16, 17 适合成本敏感的个人开发者、需要本地/多模型选择的团队，以及希望降低供应商锁定风险的用户  […]\nBensz",
-          "link": "https://blognas.hwb0307.com/ai-application/6925",
-          "publishedOn": "2026-01-10T09:01:20.000Z",
-          "wordCount": 5068,
-          "title": "OpenCode能否作为Claude Code和Codex的平替？",
-          "imageUrl": "https://blognas.hwb0307.com/wp-content/uploads/zzmx-169-scaled.jpg"
         }
       ]
     },
@@ -3695,6 +3644,16 @@
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
         {
+          "id": "https://blog.xiaoz.org/?p=22928",
+          "author": "xiaoz",
+          "description": "最近OpenClaw很火，想必大家都想部署一个自己的小龙虾，但OpenClaw部署复杂，资源占用高。不过现在这些都不是问题，网上已经有很多OpenClaw开源替代品（如果您不确定哪个小龙虾适合您，可以访问我们的龙虾对比网站：ClawPulse），比如今天要介绍的PicoClaw，目前xiaoz已经使",
+          "link": "https://blog.xiaoz.org/archives/22928",
+          "publishedOn": "2026-04-07T00:43:04.000Z",
+          "wordCount": 298,
+          "title": "5分钟拥有自己的“小龙虾”：PicoClaw Docker 部署教程",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.xiaoz.org/?p=22916",
           "author": "xiaoz",
           "description": "市面上多数跨平台 AI 客户端基于 Electron 开发，虽成熟但性能平平、资源占用高。最近xiaoz发现一款新的开源跨平台 AI 对话客户端 AQBot，采用 Rust + Tauri 构建，不仅资源占用极低，界面也十分友好。Github开源地址：https://github.com/AQBot",
@@ -3803,16 +3762,6 @@
           "wordCount": 256,
           "title": "2025年：收入下降20%，这一年我到底干了什么？",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=22663",
-          "author": "xiaoz",
-          "description": "在硅谷的工程师圈子里，Stripe的面试一直有个略带敬畏的别称——“面试界的爱马仕”。这不仅因为它的Offer含金量十足，更因为它建立了一套几乎完全独立于FAANG（现在叫MAMAA）体系之外的考核标准。我听过太多优秀的工程师，甚至是刷了上千道LeetCode题目的“做题家”，在Stripe的第一轮",
-          "link": "https://blog.xiaoz.org/archives/22663",
-          "publishedOn": "2026-01-07T10:46:01.000Z",
-          "wordCount": 306,
-          "title": "破译Stripe面试密码：从“做题家”到“技术合伙人”的思维跃迁",
-          "imageUrl": null
         }
       ]
     },
@@ -3920,7 +3869,18 @@
       "title": "潘智祥",
       "feedUrl": "https://panzhixiang.cn/atom.xml",
       "siteUrl": "https://panzhixiang.cn/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://panzhixiang.cn/2026/claude-code-agent-loop/",
+          "author": null,
+          "description": "深入分析 Claude Code 的 Agent Loop 设计原理，从架构、提示词、工具设计和容错系统四个层面解读它如何实现持续工作的能力",
+          "link": "https://panzhixiang.cn/2026/claude-code-agent-loop/",
+          "publishedOn": "2026-04-07T16:00:00.000Z",
+          "wordCount": 710,
+          "title": "拆解 Claude Code：一个\"停不下来\"的 AI Agent 是怎么炼成的",
+          "imageUrl": "https://blog.panzhixiang.cn/images/cover.jpg"
+        }
+      ]
     },
     {
       "title": "青牛踏雪 - Kubernetes|Docker|Istio|Envoy|Hugo|Golang",
@@ -3960,6 +3920,16 @@
       "feedUrl": "https://zhangguanzhang.github.io/atom.xml",
       "siteUrl": "http://zhangguanzhang.github.io/atom.xml",
       "articles": [
+        {
+          "id": "http://zhangguanzhang.github.io/2026/04/09/openeuler-sudo-killed/",
+          "author": null,
+          "description": "<p>记录下一次欧拉容器内sudo无法使用的排查过程。</p>",
+          "link": "http://zhangguanzhang.github.io/2026/04/09/openeuler-sudo-killed/",
+          "publishedOn": "2026-04-09T09:10:30.000Z",
+          "wordCount": null,
+          "title": "欧拉22.04容器内sudo 被 killed",
+          "imageUrl": null
+        },
         {
           "id": "http://zhangguanzhang.github.io/2026/02/23/android-https-capture/",
           "author": null,
@@ -4052,7 +4022,7 @@
     {
       "title": "Kovacs",
       "feedUrl": "https://mritd.com/atom.xml",
-      "siteUrl": "https://mritd.com/atom.xml",
+      "siteUrl": "https://mritd.com/",
       "articles": []
     },
     {
@@ -4315,6 +4285,206 @@
       "feedUrl": "https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss",
       "siteUrl": "https://github.com/guanguans/favorite-link",
       "articles": [
+        {
+          "id": "https://github.com/farzaa/clicky",
+          "author": null,
+          "description": "Contribute to farzaa/clicky development by creating an account on GitHub.",
+          "link": "https://github.com/farzaa/clicky",
+          "publishedOn": "2026-04-08T16:00:00.000Z",
+          "wordCount": 3621,
+          "title": "farzaa/clicky: 它是一个人工智能老师，就像你的伙伴一样陪伴在你的鼠标旁边。它可以看到你的屏幕、和你交流，甚至还能指点东西。有点像真的老师就在你身边。",
+          "imageUrl": "https://opengraph.githubassets.com/a739c4a06209de5cea5e2586db7374ab045edd38481f905a444c7885d8bf30b4/farzaa/clicky"
+        },
+        {
+          "id": "https://github.com/sebastianbergmann/git-state",
+          "author": null,
+          "description": "Library for describing the state of a Git checkout. - sebastianbergmann/git-state",
+          "link": "https://github.com/sebastianbergmann/git-state",
+          "publishedOn": "2026-04-08T08:00:00.000Z",
+          "wordCount": 1371,
+          "title": "sebastianbergmann/git-state: 用于描述 Git 签出状态的库。",
+          "imageUrl": "https://opengraph.githubassets.com/585feced3443118f719b53f18b82351a73faacd23add3ed18d1976b84ddd7a6b/sebastianbergmann/git-state"
+        },
+        {
+          "id": "https://github.com/safishamsi/graphify",
+          "author": null,
+          "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph - safi...",
+          "link": "https://github.com/safishamsi/graphify",
+          "publishedOn": "2026-04-08T00:00:00.000Z",
+          "wordCount": 7218,
+          "title": "safishamsi/graphify: AI 编码助手技能（Claude Code、Codex、OpenCode、OpenClaw、Factory Droid、Trae）。将任何代码、文档、论文或图片文件夹转换为可查询的知识图谱",
+          "imageUrl": "https://opengraph.githubassets.com/8c9023de01b2e5b60f602be8d2c260f40a5abd84842ab954052e6399de932677/safishamsi/graphify"
+        },
+        {
+          "id": "https://github.com/glanceway/glanceway-sources",
+          "author": null,
+          "description": "Contribute to glanceway/glanceway-sources development by creating an account on GitHub.",
+          "link": "https://github.com/glanceway/glanceway-sources",
+          "publishedOn": "2026-04-07T16:00:00.000Z",
+          "wordCount": 3134,
+          "title": "glanceway/glanceway-sources: 轻量级 macOS 菜单栏应用，聚合 Hacker News、GitHub、Reddit、RSS 订阅、股票行情、加密货币、开发者工具等信息源。",
+          "imageUrl": "https://opengraph.githubassets.com/4342d5301a84ecd709185cd6aa4971316572e150c53c9865a91abc68232e8b23/glanceway/glanceway-sources"
+        },
+        {
+          "id": "https://github.com/lifedever/TaskTick",
+          "author": null,
+          "description": "A native macOS app for managing scheduled tasks. Built with SwiftUI + SwiftData. Menu bar resident, cron expressions, script execution, and more. - lifedever/TaskTick",
+          "link": "https://github.com/lifedever/TaskTick",
+          "publishedOn": "2026-04-07T08:00:00.000Z",
+          "wordCount": 2426,
+          "title": "lifedever/TaskTick: macOS 原生定时任务管理应用 无需 crontab，无需 launchd，交给 TaskTick。",
+          "imageUrl": "https://opengraph.githubassets.com/173068769f4e81e54c4c69dd9dbf8befca17604408aa3dd5aaf55b4fca8f9246/lifedever/TaskTick"
+        },
+        {
+          "id": "https://github.com/Marvinngg/ambient-voice",
+          "author": null,
+          "description": "macOS native ambient voice input & meeting transcription — Apple   SpeechAnalyzer + Vision OCR + FluidAudio speaker diarization, fully   on-device. - Marvinngg/ambient-voice",
+          "link": "https://github.com/Marvinngg/ambient-voice",
+          "publishedOn": "2026-04-07T00:00:00.000Z",
+          "wordCount": 2602,
+          "title": "Marvinngg/ambient-voice: macOS 系统的本地环境声音输入与会议转录功能 — 采用了 Apple 语音分析器、Vision 光学字符识别以及 FluidAudio 话筒声源分离技术，完全在本地设备上处理。",
+          "imageUrl": "https://opengraph.githubassets.com/f2a744d618904d4beb7017fd64c345cb33cac5c3fb5c46ef4933a75b995a110b/Marvinngg/ambient-voice"
+        },
+        {
+          "id": "https://github.com/Liubsyy/M3U8Quicker",
+          "author": null,
+          "description": "跨平台M3U8下载器，支持多线程下载、断点续传、边下边播、AES解密、浏览器自动识别地址. Contribute to Liubsyy/M3U8Quicker development by creating an account on GitHub.",
+          "link": "https://github.com/Liubsyy/M3U8Quicker",
+          "publishedOn": "2026-04-06T16:00:00.000Z",
+          "wordCount": 3194,
+          "title": "Liubsyy/M3U8Quicker: M3U8 下载器，支持多线程下载、断点续传、边下边播",
+          "imageUrl": "https://opengraph.githubassets.com/30ce3feb8eadd6198068b76b907f07a13ad6bd269d51840109e839984c548d53/Liubsyy/M3U8Quicker"
+        },
+        {
+          "id": "https://github.com/mahonzhan/awesome-coding-plan",
+          "author": null,
+          "description": "各厂家 Coding Plan 实际价值对比. Contribute to mahonzhan/awesome-coding-plan development by creating an account on GitHub.",
+          "link": "https://github.com/mahonzhan/awesome-coding-plan",
+          "publishedOn": "2026-04-06T08:00:00.000Z",
+          "wordCount": 1980,
+          "title": "mahonzhan/awesome-coding-plan: 各厂家 Coding Plan 实际价值对比",
+          "imageUrl": "https://opengraph.githubassets.com/bf31bda1953973c131a51f7ac1f2f5ebaa6fd594e6dc9a7811e9f9bb4c7f3bd1/mahonzhan/awesome-coding-plan"
+        },
+        {
+          "id": "https://github.com/borawong/AiMaMi",
+          "author": null,
+          "description": "为OpenAI Codex打造的桌面伴侣。. Contribute to borawong/AiMaMi development by creating an account on GitHub.",
+          "link": "https://github.com/borawong/AiMaMi",
+          "publishedOn": "2026-04-06T00:00:00.000Z",
+          "wordCount": 2109,
+          "title": "borawong/AiMaMi: 为 OpenAI Codex 打造的桌面伴侣。",
+          "imageUrl": "https://opengraph.githubassets.com/e1e7ad771a284a84de6b0140887a1dd2a5f8ac3fa65f24399bd1886b59f5035f/borawong/AiMaMi"
+        },
+        {
+          "id": "https://github.com/cat3399/blbl",
+          "author": null,
+          "description": "一个使用原生Android开发的哔哩哔哩安卓客户端，支持触摸、遥控，以及安卓5. Contribute to cat3399/blbl development by creating an account on GitHub.",
+          "link": "https://github.com/cat3399/blbl",
+          "publishedOn": "2026-04-05T16:00:00.000Z",
+          "wordCount": 1862,
+          "title": "cat3399/blbl: 一个使用原生 Android 开发的哔哩哔哩安卓客户端，支持触摸、遥控，以及安卓 5",
+          "imageUrl": "https://opengraph.githubassets.com/948e6623720609198d364e4ff49e80942f8911d24a27dfae6326c5df3460b2fc/cat3399/blbl"
+        },
+        {
+          "id": "https://github.com/Turbo1123/roubao",
+          "author": null,
+          "description": "Android Automation Tool Based on Vision-Language Models - Turbo1123/roubao",
+          "link": "https://github.com/Turbo1123/roubao",
+          "publishedOn": "2026-04-05T16:00:00.000Z",
+          "wordCount": 8147,
+          "title": "Turbo1123/roubao: 首款无需电脑的开源 AI 手机自动化助手",
+          "imageUrl": "https://opengraph.githubassets.com/a26c627779e9e1aa666fc4bd72be43e0d379142f0c88f03a3df511d0d1dd2b78/Turbo1123/roubao"
+        },
+        {
+          "id": "https://github.com/XueshiQiao/AnyDrag",
+          "author": null,
+          "description": "Modifier+drag to move any window smoothly on macOS, exactly like native speed - XueshiQiao/AnyDrag",
+          "link": "https://github.com/XueshiQiao/AnyDrag",
+          "publishedOn": "2026-04-05T08:00:00.000Z",
+          "wordCount": 2045,
+          "title": "XueshiQiao/AnyDrag: 按住修饰键，拖动窗口任意位置即可移动窗口，无需拖拽标题栏。",
+          "imageUrl": "https://opengraph.githubassets.com/78f2c525e23cc114e75ffb9ff1ead04c29a5c4446ccf3de384449e0620492647/XueshiQiao/AnyDrag"
+        },
+        {
+          "id": "https://github.com/DimensionDev/Flare",
+          "author": null,
+          "description": "Browse Mastodon, Bluesky, X, Misskey, Nostr and RSS all in one app. One timeline, all your accounts, cross-post everywhere. - DimensionDev/Flare",
+          "link": "https://github.com/DimensionDev/Flare",
+          "publishedOn": "2026-04-05T00:00:00.000Z",
+          "wordCount": 2994,
+          "title": "DimensionDev/Flare: 在一个应用中浏览 Mastodon、Bluesky、X、Misskey、Nostr 和 RSS。一个时间线，所有账户，跨平台同步发布。",
+          "imageUrl": "https://opengraph.githubassets.com/21654a022d931013328903ee292f4df6b2cdff2a9677de474a04cd5cfd77197c/DimensionDev/Flare"
+        },
+        {
+          "id": "https://github.com/94xy/xykt",
+          "author": null,
+          "description": "基于Apple VisionKit 的 macOS 抠图. Contribute to 94xy/xykt development by creating an account on GitHub.",
+          "link": "https://github.com/94xy/xykt",
+          "publishedOn": "2026-04-04T16:00:00.000Z",
+          "wordCount": 2950,
+          "title": "94xy/xykt: 基于 Apple VisionKit 的 macOS 抠图",
+          "imageUrl": "https://opengraph.githubassets.com/08973965f4422b060997c86aed8d995cce724d2e46b80c72ce66ab1a3ad8bab3/94xy/xykt"
+        },
+        {
+          "id": "https://github.com/ryangjchandler/blade-parser.rs",
+          "author": null,
+          "description": "A parser for Laravel Blade templates written in Rust. - ryangjchandler/blade-parser.rs",
+          "link": "https://github.com/ryangjchandler/blade-parser.rs",
+          "publishedOn": "2026-04-04T16:00:00.000Z",
+          "wordCount": 1915,
+          "title": "ryangjchandler/blade-parser.rs: 一个用 Rust 编写的 Laravel Blade 模板解析器。",
+          "imageUrl": "https://opengraph.githubassets.com/ed91f7731f910e4161d55580f1414dd0f088b54255973ae6a7e7fe28ad801dd8/ryangjchandler/blade-parser.rs"
+        },
+        {
+          "id": "https://github.com/pixelspark/sushitrain",
+          "author": null,
+          "description": "Securely synchronize files with your devices on iOS using Syncthing - pixelspark/sushitrain",
+          "link": "https://github.com/pixelspark/sushitrain",
+          "publishedOn": "2026-04-04T08:00:00.000Z",
+          "wordCount": 6580,
+          "title": "pixelspark/sushitrain: 使用 Syncthing 在 iOS 设备上安全同步文件",
+          "imageUrl": "https://repository-images.githubusercontent.com/834468745/d4b7e8df-5902-489b-8a6f-a4d769f8d90a"
+        },
+        {
+          "id": "https://github.com/leemysw/token-share",
+          "author": null,
+          "description": "Token-Share: A native macOS menu bar LLM API gateway — translate and stream between OpenAI Chat Completions, OpenAI Responses, and Anthropic Messages protocols locally. - leemysw/token-share",
+          "link": "https://github.com/leemysw/token-share",
+          "publishedOn": "2026-04-04T08:00:00.000Z",
+          "wordCount": 1635,
+          "title": "leemysw/token-share: Token-Share：一个原生 macOS 菜单栏 LLM API 网关 —— 在本地翻译并流式传输 OpenAI 聊天补全、OpenAI 响应和 Anthropic 消息协议之间的数据。",
+          "imageUrl": "https://opengraph.githubassets.com/d78f6532e8856510730bf53a4e072efd5ce3583dc79a3b88bfab3a3b617fd920/leemysw/token-share"
+        },
+        {
+          "id": "https://github.com/tforschbach/CodexRemote",
+          "author": null,
+          "description": "Contribute to tforschbach/CodexRemote development by creating an account on GitHub.",
+          "link": "https://github.com/tforschbach/CodexRemote",
+          "publishedOn": "2026-04-04T00:00:00.000Z",
+          "wordCount": 4905,
+          "title": "tforschbach/CodexRemote: 使用你的 iPhone 作为 Mac 上本地 Codex 运行时的遥控器。",
+          "imageUrl": "https://opengraph.githubassets.com/9f5b5765da2130673372fa5789414f430a9c1267ebfc297c750292a60cd49dfc/tforschbach/CodexRemote"
+        },
+        {
+          "id": "https://github.com/jigar-dhulla/laravel-http-to-curl",
+          "author": null,
+          "description": "Laravel HTTP Request to Curl Command. Contribute to jigar-dhulla/laravel-http-to-curl development by creating an account on GitHub.",
+          "link": "https://github.com/jigar-dhulla/laravel-http-to-curl",
+          "publishedOn": "2026-04-03T16:00:00.000Z",
+          "wordCount": 2984,
+          "title": "jigar-dhulla/laravel-http-to-curl: Laravel HTTP 请求到 Curl 命令",
+          "imageUrl": "https://opengraph.githubassets.com/d9af37674b9071fff978808c59aa831733741b3ef06662a13a802aaa6e4d2eb9/jigar-dhulla/laravel-http-to-curl"
+        },
+        {
+          "id": "XSS)。它通过使用 voku/anti-xss 包来清理请求输入，并且也可以清理 Blade 的 echo 语句。](https://github.com/protonemedia/laravel-xss-protection",
+          "author": null,
+          "description": "",
+          "link": "https://raw.githubusercontent.com/guanguans/favorite-link/master/XSS)%E3%80%82%E5%AE%83%E9%80%9A%E8%BF%87%E4%BD%BF%E7%94%A8%20voku/anti-xss%20%E5%8C%85%E6%9D%A5%E6%B8%85%E7%90%86%E8%AF%B7%E6%B1%82%E8%BE%93%E5%85%A5%EF%BC%8C%E5%B9%B6%E4%B8%94%E4%B9%9F%E5%8F%AF%E4%BB%A5%E6%B8%85%E7%90%86%20Blade%20%E7%9A%84%20echo%20%E8%AF%AD%E5%8F%A5%E3%80%82](https://github.com/protonemedia/laravel-xss-protection",
+          "publishedOn": "2026-04-03T08:00:00.000Z",
+          "wordCount": null,
+          "title": "protonemedia/laravel-xss-protection: Laravel 中间件可保护您的应用免受跨站脚本攻击 (XSS)。它通过使用 voku/anti-xss 包来清理请求输入，并且也可以清理 Blade 的 echo 语句。",
+          "imageUrl": null
+        },
         {
           "id": "ELS)——带有审计的策略强制 Shell。](https://github.com/canyonroad/agentsh",
           "author": null,
@@ -5834,126 +6004,6 @@
           "wordCount": 3115,
           "title": "tuupola/server-timing-middleware: 此中间件实现了 Server-Timing 头，可以用于在 Chrome DevTools 上显示服务器端的时间信息。",
           "imageUrl": "https://opengraph.githubassets.com/a9f3548c576a3053653dd93cb1edb42106b8970d201a8951c169eea529e641c6/tuupola/server-timing-middleware"
-        },
-        {
-          "id": "https://github.com/bwaidelich/dcb-eventstore",
-          "author": null,
-          "description": "Implementation of the Dynamic Consistency Boundary pattern described by Sara Pellegrini - bwaidelich/dcb-eventstore",
-          "link": "https://github.com/bwaidelich/dcb-eventstore",
-          "publishedOn": "2026-01-10T08:00:00.000Z",
-          "wordCount": 4680,
-          "title": "bwaidelich/dcb-eventstore: 根据规范实现动态一致性边界的事件存储的接口和类型。",
-          "imageUrl": "https://opengraph.githubassets.com/bdba0310115a206e9c093a262fba211cf8d1a686950d47b2a99443f0a51bdbf0/bwaidelich/dcb-eventstore"
-        },
-        {
-          "id": "https://github.com/wickenico/WailBrew",
-          "author": null,
-          "description": "Minimalistic Homebrew GUI made with Go, Wails and React. - wickenico/WailBrew",
-          "link": "https://github.com/wickenico/WailBrew",
-          "publishedOn": "2026-01-10T00:00:00.000Z",
-          "wordCount": 3026,
-          "title": "wickenico/WailBrew: WailBrew 是一种现代且直观的方式来管理 macOS 上的 Homebrew！它提供了一个干净的图形界面，使得软件包管理对每个人都变得可访问。",
-          "imageUrl": "https://opengraph.githubassets.com/a7a7fbade4e8b950cd4a466dcb3fb0b3ecbc7143e989b7b3099cac0b7096fd74/wickenico/WailBrew"
-        },
-        {
-          "id": "https://github.com/Paymenter/Paymenter",
-          "author": null,
-          "description": "Free and open-source webshop solution for hostings - Paymenter/Paymenter",
-          "link": "https://github.com/Paymenter/Paymenter",
-          "publishedOn": "2026-01-09T16:00:00.000Z",
-          "wordCount": 2422,
-          "title": "Paymenter/Paymenter: Paymenter 是一个为托管公司量身定制的开源计费平台。它简化了托管服务的管理，为提供商和客户提供无缝的体验。",
-          "imageUrl": "https://repository-images.githubusercontent.com/547094968/7abdd3e6-c457-44ab-9d42-5e4d6db58ff8"
-        },
-        {
-          "id": "https://github.com/Fission-AI/OpenSpec",
-          "author": null,
-          "description": "Spec-driven development (SDD) for AI coding assistants. - Fission-AI/OpenSpec",
-          "link": "https://github.com/Fission-AI/OpenSpec",
-          "publishedOn": "2026-01-09T08:00:00.000Z",
-          "wordCount": 3666,
-          "title": "Fission-AI/OpenSpec: 人工智能编码助手功能强大，但当需求存在于聊天记录中时却难以预测。OpenSpec 增加了一个轻量级的规范工作流程，可在实施前锁定意图，为您提供确定的、可审查的输出。",
-          "imageUrl": "https://opengraph.githubassets.com/beeb70ed788b7c678183fc2ed99fb2f8ced47601d3266c65aa248c00bbe2f30a/Fission-AI/OpenSpec"
-        },
-        {
-          "id": "https://github.com/crate-ci/typos",
-          "author": null,
-          "description": "Source code spell checker. Contribute to crate-ci/typos development by creating an account on GitHub.",
-          "link": "https://github.com/crate-ci/typos",
-          "publishedOn": "2026-01-09T00:00:00.000Z",
-          "wordCount": 3311,
-          "title": "crate-ci/typos: 源代码拼写检查器",
-          "imageUrl": "https://opengraph.githubassets.com/11c7e3a675b6edd23642c1efb040205ad210abd30bab30111feecffc407d897b/crate-ci/typos"
-        },
-        {
-          "id": "https://github.com/kepano/obsidian-skills",
-          "author": null,
-          "description": "Agent skills for Obsidian. Contribute to kepano/obsidian-skills development by creating an account on GitHub.",
-          "link": "https://github.com/kepano/obsidian-skills",
-          "publishedOn": "2026-01-08T16:00:00.000Z",
-          "wordCount": 1503,
-          "title": "kepano/obsidian-skills: Claude 技能用于与 Obsidian 一起使用",
-          "imageUrl": "https://opengraph.githubassets.com/5c92d33e22adfced5fc73ae5856794cb355817c247f4163f8cbd7f69dc5dcce9/kepano/obsidian-skills"
-        },
-        {
-          "id": "https://github.com/antonmedv/wiki",
-          "author": null,
-          "description": "Single PHP file Wiki engine. Contribute to antonmedv/wiki development by creating an account on GitHub.",
-          "link": "https://github.com/antonmedv/wiki",
-          "publishedOn": "2026-01-08T08:00:00.000Z",
-          "wordCount": 1696,
-          "title": "antonmedv/wiki: 一个由 PHP 和 SQLite 驱动的极简主义单文件维基引擎。旨在简单、快速且易于部署。",
-          "imageUrl": "https://opengraph.githubassets.com/a44559f83afceaf7e2a3907d27514cd602e997f3cf56b3069de40495f131aa86/antonmedv/wiki"
-        },
-        {
-          "id": "https://github.com/rectorphp/monitor",
-          "author": null,
-          "description": "In a need of dozens repository upgrade? Stay up to date with monitoring of all projects in one place - rectorphp/monitor",
-          "link": "https://github.com/rectorphp/monitor",
-          "publishedOn": "2026-01-07T16:00:00.000Z",
-          "wordCount": 1878,
-          "title": "rectorphp/monitor: 在一个地方监控所有项目和包的代码质量，确保一致性并消除不同 PHP 版本之间的冲突。",
-          "imageUrl": "https://opengraph.githubassets.com/a999724df25d4e45d82c388dbe77b1d50adf7495e486657671d3d1377ea07f06/rectorphp/monitor"
-        },
-        {
-          "id": "https://github.com/rectorphp/argtyper",
-          "author": null,
-          "description": "[WIP] Analyze real method argument types, and add them as type declarations - rectorphp/argtyper",
-          "link": "https://github.com/rectorphp/argtyper",
-          "publishedOn": "2026-01-07T08:00:00.000Z",
-          "wordCount": 1847,
-          "title": "rectorphp/argtyper: 分析真正的方法参数类型，并将其添加为类型声明",
-          "imageUrl": "https://opengraph.githubassets.com/24f14c7e7f0f15fb46cd2b1d9ed0f5d65e1835a7413b6e8e417ef6ac1b22ee8d/rectorphp/argtyper"
-        },
-        {
-          "id": "https://github.com/NEKOparapa/AiNiee",
-          "author": null,
-          "description": "一款专注于Ai翻译的工具，一键自动翻译RPG SLG游戏，Epub TXT小说，PDF Word MD文档，Srt Vtt Lrc字幕等等复杂长文本。 - NEKOparapa/AiNiee",
-          "link": "https://github.com/NEKOparapa/AiNiee",
-          "publishedOn": "2026-01-06T16:00:00.000Z",
-          "wordCount": 2378,
-          "title": "NEKOparapa/AiNiee: 一款专注于 Ai 翻译的工具，一键自动翻译 RPG SLG 游戏，Epub TXT 小说，PDF Word MD 文档，Srt Vtt Lrc 字幕等等复杂长文本。",
-          "imageUrl": "https://opengraph.githubassets.com/b9c4d45ff5a32b396e2dfff53c62d69a9dc5e18cd1c5502379d445a35aa44f95/NEKOparapa/AiNiee"
-        },
-        {
-          "id": "https://github.com/guanguans/rector-rules",
-          "author": null,
-          "description": "A set of additional rules for rector/rector. - 一套针对 `rector/rector` 的附加规则。 - guanguans/rector-rules",
-          "link": "https://github.com/guanguans/rector-rules",
-          "publishedOn": "2026-01-05T16:00:00.000Z",
-          "wordCount": 3339,
-          "title": "guanguans/rector-rules: 一套 rector/rector 规则。",
-          "imageUrl": "https://opengraph.githubassets.com/c8abf90459b793cba15ff937959e493c2b5b508628bcffd852ce288f77e2cd3c/guanguans/rector-rules"
-        },
-        {
-          "id": "https://github.com/code-yeongyu/oh-my-opencode",
-          "author": null,
-          "description": "The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you. - code-yeongyu/oh-my-opencode",
-          "link": "https://github.com/code-yeongyu/oh-my-opencode",
-          "publishedOn": "2026-01-04T16:00:00.000Z",
-          "wordCount": 7656,
-          "title": "code-yeongyu/oh-my-opencode: 致力于引发一场软件革命，创造一个 AI 生成的代码与人类代码无法区分、却能实现更多的世界。",
-          "imageUrl": "https://repository-images.githubusercontent.com/1108837393/513cc740-aafa-4a23-9679-159e2dace92c"
         }
       ]
     },
