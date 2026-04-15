@@ -96,6 +96,26 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
+          "id": "https://daverupert.com/2026/04/claude-no/",
+          "author": null,
+          "description": "The number of screenshots of Claude conversations is going up in my life and it’s beginning to have an impact on my general mood. Most of the time it’s well-intended; coworkers working through a problem with a chatbot before bothering me or someone exploring unconventional ideas before bringing it to a broader audience. Both of those situations seem considerate. A tool for thought, as it were.\nIt’s probably good practice to do your own research before you rope in another person on a cognitive task. But a small thread in the reliability of these tools-for-thought begins to unwind due to the well-documented sycophantic nature of engagement-thirsty language models. One of my favorite studies is Anthropic’s own study (2023), when asked to review an argument with I wrote this [...], the LLM gav…",
+          "link": "https://daverupert.com/2026/04/claude-no/",
+          "publishedOn": "2026-04-15T15:17:00.000Z",
+          "wordCount": null,
+          "title": "I don't want a screenshot of your Claude conversation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://daverupert.com/2026/04/more-talk-less-grok/",
+          "author": null,
+          "description": "When you make speed and “moving fast” the biggest priority on a project or in an organization, the first thing to breakdown is talking to each other. Talking takes time. Consensus is expensive and slow. In a pressurized environment there’s no time to schedule calls, get input from subject matter experts, or resolve key differences of opinion. ASAP makes a big assumption that all relevant parties are already in the room.\nNot everything needs to be a conversation. I’m a firm believer in “get the user something to see if there’s interest”. I’d agree that over-thinking a problem and under-thinking a problem both have pitfalls. But dozens of ways exist to get feedback from users on in-progress work without overcommitting to a particular design. By prioritizing speed over talking, cross-org coll…",
+          "link": "https://daverupert.com/2026/04/more-talk-less-grok/",
+          "publishedOn": "2026-04-13T15:10:00.000Z",
+          "wordCount": null,
+          "title": "When moving fast, talking is the first thing to break",
+          "imageUrl": null
+        },
+        {
           "id": "https://daverupert.com/2026/04/inverted-light-dark/",
           "author": null,
           "description": "We rolled out adaptive light-dark() support on our design system themes and it’s been a delightful upgrade. Creating light and dark variable sets isn’t difficult, but delivery has trade-offs. Most apps that do this probably ship both sets of token values in a single stylesheet. That’s fine until you have multiple kilobytes of duplicate definitions. To get around the performance problems we built two separate stylesheets –which is also not great– but my coworker Zacky found a good trick with <link disabled> to make it tolerable. Ultimately, we wanted to offer a single stylesheet for our human (and agent) friends to control theming.\nHaving light-dark() makes it trivial to support dual color modes in a single stylesheet and doesn’t add too much weight (0.5kb gzip for ~500 variables). It also …",
@@ -907,6 +927,36 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=311074",
+          "author": "Brandon Lee",
+          "description": "So at the first of the year when I built out my new Proxmox mini lab, I went all in on Ceph. Like most of us, I wanted to have…\nThe post I’m Now Running Ceph and iSCSI in My Proxmox Home Lab. Here’s Why appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/04/im-now-running-ceph-and-iscsi-in-my-proxmox-home-lab-heres-why/",
+          "publishedOn": "2026-04-15T12:20:06.000Z",
+          "wordCount": null,
+          "title": "I’m Now Running Ceph and iSCSI in My Proxmox Home Lab. Here’s Why",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=311055",
+          "author": "Brandon Lee",
+          "description": "When it comes to keeping problems headed off in the home lab, it often comes down to the small things. Most problems are not random. They build up slowly and…\nThe post My Daily Home Lab Checklist That Prevents Most Problems appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/04/my-daily-home-lab-checklist-that-prevents-most-problems/",
+          "publishedOn": "2026-04-14T12:28:06.000Z",
+          "wordCount": null,
+          "title": "My Daily Home Lab Checklist That Prevents Most Problems",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=310996",
+          "author": "Brandon Lee",
+          "description": "If you have spent any time in the home lab space, you have probably heard of BorgBackup. It is one of those tools that has an almost legendary reputation among…\nThe post I Tried borg-ui in My Home Lab and It Made Backups Way Easier appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/04/i-tried-borg-ui-in-my-home-lab-and-it-made-backups-way-easier/",
+          "publishedOn": "2026-04-13T12:14:34.000Z",
+          "wordCount": null,
+          "title": "I Tried borg-ui in My Home Lab and It Made Backups Way Easier",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=310960",
           "author": "Brandon Lee",
           "description": "I have written a lot about Docker in the home lab as well as Kubernetes. Both are awesome tools and arguably the enterprise standard. Docker is simple and VERY widely…\nThe post I Built a Podman Server in My Home Lab This Weekend and This Surprised Me appeared first on Virtualization Howto.",
@@ -1625,36 +1675,6 @@
           "wordCount": null,
           "title": "I Tested Cosmos Server: Is This the Best Home Server OS Yet?",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=308700",
-          "author": "Brandon Lee",
-          "description": "Man DevOps has certainly gotten exciting for me personally. There are just so many cool things that we can do in the home lab now with very cool solutions and…\nThe post The Top DevOps Skills in 2026 You Can Learn in a Home Lab appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/01/the-top-devops-skills-in-2026-you-can-learn-in-a-home-lab/",
-          "publishedOn": "2026-01-15T13:28:02.000Z",
-          "wordCount": 11920,
-          "title": "The Top DevOps Skills in 2026 You Can Learn in a Home Lab",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/top-devops-skills-2026-home-lab.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=308642",
-          "author": "Brandon Lee",
-          "description": "Going into home lab testing and learning for 2026, I wanted to continue building on a project I started with my mini 10 inch rack while also making better use…\nThe post Inside My Mini Rack Proxmox and Kubernetes Home Lab for 2026 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/01/inside-my-mini-rack-proxmox-and-kubernetes-home-lab-for-2026/",
-          "publishedOn": "2026-01-14T13:23:15.000Z",
-          "wordCount": 11974,
-          "title": "Inside My Mini Rack Proxmox and Kubernetes Home Lab for 2026",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/proxmox-kubernetes-mini-cluster-home-lab-in-2026-3.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=308619",
-          "author": "Brandon Lee",
-          "description": "When looking for cheap but robust network switches for the home lab, there is always one name that seems to make it on most lists and that is Mikrotik. They…\nThe post MikroTik Switch Tips That Actually Matter in a Home Lab appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/01/mikrotik-switch-tips-that-actually-matter-in-a-home-lab/",
-          "publishedOn": "2026-01-13T13:19:44.000Z",
-          "wordCount": null,
-          "title": "MikroTik Switch Tips That Actually Matter in a Home Lab",
-          "imageUrl": null
         }
       ]
     },
@@ -1663,6 +1683,56 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/mastering-rag-chatbot-development-with-langchain-and-chromadb/",
+          "author": "Collabnix Team",
+          "description": "Learn how to build a powerful RAG chatbot using LangChain and ChromaDB with this in-depth Python tutorial. Discover the intricacies of integrating sophisticated AI models with scalable vector databases to create a responsive and intelligent chatbot.",
+          "link": "https://collabnix.com/mastering-rag-chatbot-development-with-langchain-and-chromadb/",
+          "publishedOn": "2026-04-15T07:51:04.000Z",
+          "wordCount": null,
+          "title": "Mastering RAG Chatbot Development with LangChain and ChromaDB",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/develop-ai-agents-using-function-calling-with-openai-and-claude/",
+          "author": "Collabnix Team",
+          "description": "Learn how to effectively use function calling to build AI agents with OpenAI and Claude, ensuring scalable and efficient applications.",
+          "link": "https://collabnix.com/develop-ai-agents-using-function-calling-with-openai-and-claude/",
+          "publishedOn": "2026-04-15T03:53:23.000Z",
+          "wordCount": null,
+          "title": "Develop AI Agents Using Function Calling with OpenAI and Claude",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=73340",
+          "author": "Ajeet Raina",
+          "description": "I’ve been running AI coding agents for a while now. Claude Code on my MacBook, pointed at a project directory, autonomously editing files, running tests, pushing commits. It’s genuinely useful — the kind of useful that makes you wonder how you shipped code without it. But a few months ago I started asking myself a […]",
+          "link": "https://collabnix.com/how-autonomous-ai-agents-become-secure-by-design-with-docker-sandboxes/",
+          "publishedOn": "2026-04-15T03:10:57.000Z",
+          "wordCount": null,
+          "title": "How Autonomous AI Agents Become Secure by Design With Docker Sandboxes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=73336",
+          "author": "Tanvir Kour",
+          "description": "What You’ll Learn As enterprises adopt AI agents, not just standalone generative AI tools, the security problem shifts with them. Unlike traditional GenAI systems that primarily generate responses, AI agents can call tools, access internal data, and take actions across cloud and SaaS environments. This shift is giving rise to a new category: AI agent […]",
+          "link": "https://collabnix.com/why-ai-agent-orchestration-security-is-the-new-cloud-attack-surface/",
+          "publishedOn": "2026-04-14T17:14:14.000Z",
+          "wordCount": null,
+          "title": "Why AI Agent Orchestration Security Is the New Cloud Attack Surface",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=73333",
+          "author": "Tanvir Kour",
+          "description": "What are the best external storage and data management solutions for Apple devices? Check out SSD and HDD recommendations and performance insights in this guide.",
+          "link": "https://collabnix.com/external-storage-solutions-and-data-management-for-apple-devices/",
+          "publishedOn": "2026-04-14T16:02:19.000Z",
+          "wordCount": null,
+          "title": "External Storage Solutions and Data Management for Apple Devices",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=73329",
           "author": "Tanvir Kour",
@@ -2982,16 +3052,6 @@
           "wordCount": null,
           "title": "Connectivity Architecture for the Modern Traveler: Ensuring Seamless Data on the Road",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=70787",
-          "author": "Tanvir Kour",
-          "description": "Leading a field team for AI and IoT system integrations means every technician comes prepared with the right edge devices, gear, and applications for successful rollouts. When machine learning (ML) work moves out of labs, data centers, and offices and into the field, resilience takes on a whole new meaning. Supplies must be built tough […]",
-          "link": "https://collabnix.com/11-items-every-edge-ml-team-should-pack-for-field-work/",
-          "publishedOn": "2026-01-15T11:36:37.000Z",
-          "wordCount": 5709,
-          "title": "11 Items Every Edge ML Team Should Pack for Field Work",
-          "imageUrl": null
         }
       ]
     },
@@ -3068,16 +3128,6 @@
           "publishedOn": "2026-01-28T00:00:00.000Z",
           "wordCount": null,
           "title": "我的笔记系统",
-          "imageUrl": null
-        },
-        {
-          "id": "https://limboy.me/posts/culinary-class-wars",
-          "author": null,
-          "description": "这几天一口气刷完了 Netflix 出品的《黑白厨师》，感触颇深。没想到 Cooking 也能套上《鱿鱼游戏》的外壳：极简的规则，极端的赌注，有限的时间，封闭系统内的零和博弈。",
-          "link": "https://limboy.me/posts/culinary-class-wars",
-          "publishedOn": "2026-01-14T00:00:00.000Z",
-          "wordCount": 151,
-          "title": "黑白厨师",
           "imageUrl": null
         }
       ]
@@ -3443,16 +3493,6 @@
           "wordCount": 5247,
           "title": "Vibe Coding的优势与局限",
           "imageUrl": "https://blognas.hwb0307.com/wp-content/uploads/zzmx-169-scaled.jpg"
-        },
-        {
-          "id": "https://blognas.hwb0307.com/other/6938",
-          "author": "Bensz",
-          "description": "Bensz\nDocker系列 MetaMCP为Vibe Coding工具添加远程MCP支持\n本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 MetaMCP 是一个强大的模型上下文协议（Model Context Protocol）聚合管理平台 适合多设备场景：统一部署 MCP 服务器，避免在每个设备上重复配置 经过 18 个同类方案对比，MetaMCP 在功能全面性和部署简易性方面脱颖而出 支持将多种 MCP 服务器统一管理，提供命名空间和端点功能 包含完整的 Docker 部署方案，预配置 11 种常用 MCP 服务器 集成 PostgreSQL 数据库和 SearXNG 搜索引擎 支持多客户端接入，提供 API Key 认证机制 前言 最近在折腾各种 AI 编程工具的时候，发现了一个很酷的项目——MetaMCP。它可以把 […]\nBensz",
-          "link": "https://blognas.hwb0307.com/linux/docker/6938",
-          "publishedOn": "2026-01-13T10:58:20.000Z",
-          "wordCount": 5167,
-          "title": "Docker系列 MetaMCP为Vibe Coding工具添加远程MCP支持",
-          "imageUrl": "https://chevereto.hwb0307.com/images/2026/01/13/image-20260113182520589.png"
         }
       ]
     },
@@ -3593,7 +3633,48 @@
       "title": "牧尘的NAS小站",
       "feedUrl": "https://www.dreamlyn.cn/atom.xml",
       "siteUrl": "https://www.dreamlyn.cn/atom.xml",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.dreamlyn.cn/2436918477.html",
+          "author": null,
+          "description": "<blockquote>\n<p><strong>本周，谷歌官方推出了一款苹果手机 App，为手机提供离线使用的 Gemma 4 模型。不需要上网，手机也能使用大模型了。</strong></p>\n</blockquote>\n<!-- 这是一张图片，ocr 内容为： -->\n<im",
+          "link": "https://www.dreamlyn.cn/2436918477.html",
+          "publishedOn": "2026-04-10T06:02:00.000Z",
+          "wordCount": null,
+          "title": "大模型到底在干嘛",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.dreamlyn.cn/1051968573.html",
+          "author": null,
+          "description": "<h3 id=\"在ClaudeCode中输入提示词后发生了什么\"><a href=\"#在ClaudeCode中输入提示词后发生了什么\" class=\"headerlink\" title=\"在ClaudeCode中输入提示词后发生了什么\"></a>在ClaudeCode中输入提示词",
+          "link": "https://www.dreamlyn.cn/1051968573.html",
+          "publishedOn": "2026-04-03T05:02:00.000Z",
+          "wordCount": null,
+          "title": "Claude 内部提示词手册公开（精选10条）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.dreamlyn.cn/3000095216.html",
+          "author": null,
+          "description": "<h1 id=\"微信已开放龙虾接口\"><a href=\"#微信已开放龙虾接口\" class=\"headerlink\" title=\"微信已开放龙虾接口\"></a>微信已开放龙虾接口</h1><p>微信官方本周发布了龙虾接口，意味着我们可以通过微信来操控龙虾了。</p>\n<p>很多",
+          "link": "https://www.dreamlyn.cn/3000095216.html",
+          "publishedOn": "2026-03-27T05:16:00.000Z",
+          "wordCount": null,
+          "title": "AI现阶段常见新词汇出现背景（二）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.dreamlyn.cn/2436918478.html",
+          "author": null,
+          "description": "<h1 id=\"全球AI使用现状\"><a href=\"#全球AI使用现状\" class=\"headerlink\" title=\"全球AI使用现状\"></a>全球AI使用现状</h1><p>世界总人口现在是81亿，如果画成一个<a href=\"https://www.reddit.",
+          "link": "https://www.dreamlyn.cn/2436918478.html",
+          "publishedOn": "2026-03-20T05:10:00.000Z",
+          "wordCount": null,
+          "title": "AI现阶段常见新词汇出现背景（一）",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Pandalab",
@@ -3764,6 +3845,16 @@
       "siteUrl": "https://www.txisfine.cn/",
       "articles": [
         {
+          "id": "https://www.txisfine.cn/archives/f29df958.html",
+          "author": null,
+          "description": "差生文具多，最近买了一个挺有意思的小设备，上海信测的 OTDR 云盒。 家里从运营商扩容箱里拉了一根光缆，也就不到 100m 吧，运营商测光是 11dBm，过光缆（入户侧）测光变成了 25dBm，光缆双端都是热熔的没啥问题啊，到底是哪里折了？ 于是这个赛博 OTDR 就来了，一个巴掌大的盒子，配合手机 App，不仅具备 OTDR 功能，还可以做光功率测试、打红光源、光万用表、损耗测试、光猫资源清查...",
+          "link": "https://www.txisfine.cn/archives/f29df958.html",
+          "publishedOn": "2026-04-14T17:57:15.000Z",
+          "wordCount": null,
+          "title": "搞了一台赛博 OTDR —— 上海信测 OTDR云盒",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.txisfine.cn/archives/4f0ba6d6.html",
           "author": null,
           "description": "网上关于在 VPS 上部署 CHR 的教程已经很多，有些一键脚本甚至能直接安装已激活的版本。在 AS209574 网络中，我们大量采用 MikroTik 作为路由器，云端节点也都购买了正版 CHR 授权。不过每次部署总会遇到些意想不到的情况，这里简单做个记录备忘。 获取镜像 从 MikroTik 官网下载 CHR raw 格式镜像。在 VPS 上可以直接下载： 或者使用以下命令直接下载解压后的镜像...",
@@ -3822,16 +3913,6 @@
           "wordCount": null,
           "title": "BGP 跨 RIR 查询 AS-SET",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.txisfine.cn/archives/1c129e28.html",
-          "author": null,
-          "description": "<p>IPv6 在实践中多使用 GUA 地址。对于多运营商环境，我们一般不会为客户端分配多个运营商的 IPv6 地址，需要给用户分配一个相对固定的地址，并通过出口网关类设备来调度用户使用哪家运营商出网。</p>\n<p>在一些厂商中，这个功能被称为“前缀替换”，实际上这也是一种 N",
-          "link": "https://www.txisfine.cn/archives/1c129e28.html",
-          "publishedOn": "2026-01-15T15:44:44.000Z",
-          "wordCount": null,
-          "title": "RouteOS IPv6 前缀替换",
-          "imageUrl": null
         }
       ]
     },
@@ -3846,6 +3927,16 @@
       "feedUrl": "https://panzhixiang.cn/atom.xml",
       "siteUrl": "https://panzhixiang.cn/atom.xml",
       "articles": [
+        {
+          "id": "https://panzhixiang.cn/2026/claude-code-context-compression/",
+          "author": null,
+          "description": "源码揭示 Claude Code 的 6 层渐进式压缩架构，从工具截断、大结果落盘、并行预算、微压缩到全量摘要，解读它如何在 200K 上下文窗口中持续工作而不会\"爆掉\"",
+          "link": "https://panzhixiang.cn/2026/claude-code-context-compression/",
+          "publishedOn": "2026-04-12T16:00:00.000Z",
+          "wordCount": 1216,
+          "title": "拆解 Claude Code：它是怎么在 200K 上下文里\"永远不会聊爆\"的",
+          "imageUrl": "https://blog.panzhixiang.cn/assets/compression-pipeline.svg"
+        },
         {
           "id": "https://panzhixiang.cn/2026/claude-code-agent-loop/",
           "author": null,
@@ -4019,6 +4110,21 @@
       "siteUrl": "https://jia.je/",
       "articles": [
         {
+          "id": "https://jia.je/misc/2026/04/12/ai-era-cs-education/",
+          "author": null,
+          "description": "AI 时代的本科 CS 教育随想¶\n 背景¶\n 前几天参加了系里的关于 AI 时代的 CS 教育的研究生论坛，在论坛上我分享了一些小的思考，也在论坛上得到了许多不同的想法，于是把一些想法记录下来，过一段时间再回来看看，到底 CS 教育应该怎么办。\n  \n叠甲¶\n 本文仅代表本人观点，不代表本系或本校的观点，请勿扩大解读！请不要让我上 AI 三大顶会（机、量、新），谢谢！但欢迎大家参与到这个讨论当中，因为目前谁也不知道未来应该怎么做。\n 现状¶\n 为了让读者了解背景，首先要知道前 AI 时代的 CS 教育大概是怎样的：本科的时候先上编程课，教大家各种编程语言，然后逐渐深入到各个领域，课上讲授知识点，课下通过工程训练来夯实，由于计算机是工科，这里面通过不断的工程实践来获取经验，是很重要的一个部分。这一部分学习过程很辛苦，但是确实很有效果，可以说几乎每一位系友都是这么锻炼过来的。\n 下面这一段，如果你还在读本科，请不要点开，点开了也请忘掉，按照老师的要求去做：\n 但是，现在 AI 时代来临，很多事情都发生了变化。首先，AI 编程能力很强，大一同学辛辛苦苦学完一年，然后发现自己写的代码还不如 AI 写得好写得快，内心的挫败感和对这种古法编程的学习方法的质疑是无与伦比的。这对课程的教学产生了很大的冲击，因为人很难克制自己的懒惰，面对巨大的诱惑，其实很难静下心去学习这些已经由 AI 掌握的基础课程。论坛上有同学做了个比喻，计算器被发明了以后，人类没有失去心算的能力，因为你为了去用好计算器，还是要知道这些基础知识，从小学起，然后到某一个年级告诉你可以用计算器，然后各种考试还可以出计算器没法解决的题目。但是，AI 的能力边界太大了，它能解决从简单到困难的各种问题，只是有一定的概率解决出来是错的。其次，即使是前几年我们还会觉得，专业核心课的大作业还很难由 AI 完成，似乎还能通过大作业的难度…",
+          "link": "https://jia.je/misc/2026/04/12/ai-era-cs-education/",
+          "publishedOn": "2026-04-12T00:00:00.000Z",
+          "wordCount": 343,
+          "title": "AI 时代的本科 CS 教育随想",
+          "enclosure": {
+            "url": "https://jia.je/assets/images/social/misc/2026/04/12/ai-era-cs-education.png",
+            "type": "image/png",
+            "length": "51616"
+          },
+          "imageUrl": "https://jia.je/assets/images/social/misc/2026/04/12/ai-era-cs-education.png"
+        },
+        {
           "id": "https://jia.je/hardware/2026/03/26/sdram-bandwidth/",
           "author": null,
           "description": "SDRAM 在不同访存模式下的带宽分析与实验¶\n 背景¶\n 最近在和 @CircuitCoder 交流 SDRAM（通常简写为 DRAM，或更进一步简写为 DDR）的各种性能指标，于是想到利用现有的 DRAMSim3 和 Ramulator2 做一些模拟测试，看看各种访存模式下可以实现峰值带宽的多少比例，再结合时序验证理论与模拟结果是否吻合。实验相关代码已开源至 jiegec/dram-bench。\n  \nSDRAM 背景¶\n 首先简单回顾 SDRAM 的背景，我的知识库中有更详细的介绍，这里仅提炼几个便于理解后续内容的要点，完整的 SDRAM 介绍请移步知识库：\n  \nSDRAM 由多级层次组成：\n Channel：对应内存控制器的通道数量，通常每个 Channel 对应 64 位的数据总线\n Rank：每个 Channel 内可能有多个 Rank，这些 Rank 共享总线\n Bank Group：在 DDR4 引入，每个 Rank 有多个 Bank Group\n Bank：每个 Bank Group 有多个 Bank\n Row：每个 Bank 内部同时只有一个 Row 被激活\n Column：激活的 Row 内，每个 Column 对应保存数据的 Cell\n  \n 如何读写 SDRAM 中的数据：\n 首先根据数据的地址找到对应的 Channel/Rank/Bank Group/Bank/Row/Column，如：\n Row 地址等于地址的 [33:18] 位，共 65536 个 Row\n Rank 地址等于地址的 [17:17] 位，共 2 个 Rank\n Bank 地址等于地址的 [16:15] 位，每个 Bank Group 内有 4 个 Bank\n Bank Group 地址等于地址的 [14:13] 位，共 4 个 Bank Group\n Column 地址等于…",
@@ -4077,21 +4183,6 @@
             "length": "50226"
           },
           "imageUrl": "https://jia.je/assets/images/social/hardware/2026/01/17/ibm-power9.png"
-        },
-        {
-          "id": "https://jia.je/hardware/2026/01/15/ibm-power8/",
-          "author": null,
-          "description": "IBM POWER8 微架构评测¶\n 背景¶\n 之前评测了很多 AMD64 和 ARM64 指令集的处理器，这次也来评测一下 PPC64LE 指令集的 IBM POWER8 微架构。\n  \n官方信息¶\n IBM 关于 POWER8 微架构有如下公开信息：\n  \nIBM POWER8 processor core microarchitecture\n  \n下面分各个模块分别记录官方提供的信息，以及实测的结果。官方信息与实测结果一致的数据会加粗。\n Benchmark¶\n IBM POWER8 的性能测试结果见 SPEC。\n 前端¶\n L1 ICache¶\n 官方信息：32 KB, 8-way set associative\n 为了测试 L1 ICache 容量，构造一个具有巨大指令 footprint 的循环，由大量的 nop 和最后的分支指令组成。观察在不同 footprint 大小下的 IPC：\n \n 超出 L1 ICache 容量后，IPC 从 6 降低到了 2.4。其中 6 IPC 来自于，IBM POWER8 在 ST 模式下每周期可以发射 8 条指令，但其中分支指令最多两条，非分支指令最多六条，所以执行 NOP 指令的 IPC 只能达到 6。\n 测试过程详见测试代码。\n L1 ITLB (aka Instruction Effective to Real Address translation Table, IERAT)¶\n 官方信息：64-entry, fully associative\n 为了测试 L1 ITLB 的容量，构造 b 序列，每个 b 在一个单独的页（64KB 的页大小）中，观察 b 的性能：\n \n 可以看到明显的 64 pages 的拐点，对应了 64 entry 的 L1 ITLB。\n 测试过程详见测试代码。\n BTB (Branch Targ…",
-          "link": "https://jia.je/hardware/2026/01/15/ibm-power8/",
-          "publishedOn": "2026-01-15T00:00:00.000Z",
-          "wordCount": 986,
-          "title": "IBM POWER8 微架构评测",
-          "enclosure": {
-            "url": "https://jia.je/assets/images/social/hardware/2026/01/15/ibm-power8.png",
-            "type": "image/png",
-            "length": "50299"
-          },
-          "imageUrl": "https://jia.je/assets/images/social/hardware/2026/01/15/ibm-power8.png"
         }
       ]
     },
