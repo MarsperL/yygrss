@@ -927,6 +927,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=311100",
+          "author": "Brandon Lee",
+          "description": "When it comes to Proxmox replication in the home lab or production for that matter, if you want to have replication you needed ZFS. That was just how the solution…\nThe post I Thought ZFS Was Required for Proxmox Replication in My Home Lab but I Was Wrong appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/04/i-thought-zfs-was-required-for-proxmox-replication-in-my-home-lab-but-i-was-wrong/",
+          "publishedOn": "2026-04-16T11:44:56.000Z",
+          "wordCount": null,
+          "title": "I Thought ZFS Was Required for Proxmox Replication in My Home Lab but I Was Wrong",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=311074",
           "author": "Brandon Lee",
           "description": "So at the first of the year when I built out my new Proxmox mini lab, I went all in on Ceph. Like most of us, I wanted to have…\nThe post I’m Now Running Ceph and iSCSI in My Proxmox Home Lab. Here’s Why appeared first on Virtualization Howto.",
@@ -1665,16 +1675,6 @@
           "wordCount": 11281,
           "title": "9 Home Lab Signals That Tell You You’re Building the Right Way",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/9-home-lab-signals.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=308729",
-          "author": "Brandon Lee",
-          "description": "There are many great home server operating systems out there like TrueNAS, Unraid, Yunohost, CasaOS, Cloudron, and others. All of these are great in their own right. However, there is…\nThe post I Tested Cosmos Server: Is This the Best Home Server OS Yet? appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/01/i-tested-cosmos-server-is-this-the-best-home-server-os-yet/",
-          "publishedOn": "2026-01-16T13:30:42.000Z",
-          "wordCount": null,
-          "title": "I Tested Cosmos Server: Is This the Best Home Server OS Yet?",
-          "imageUrl": null
         }
       ]
     },
@@ -1683,6 +1683,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/quick-start-guide-to-setting-up-a-local-kubernetes-cluster-with-kind/",
+          "author": "Collabnix Team",
+          "description": "Learn to set up a local Kubernetes cluster using Kind with this comprehensive guide. Perfect for developers looking to emulate production environments locally.",
+          "link": "https://collabnix.com/quick-start-guide-to-setting-up-a-local-kubernetes-cluster-with-kind/",
+          "publishedOn": "2026-04-16T03:52:44.000Z",
+          "wordCount": null,
+          "title": "Quick Start Guide to Setting Up a Local Kubernetes Cluster with Kind",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/mastering-rag-chatbot-development-with-langchain-and-chromadb/",
           "author": "Collabnix Team",
@@ -3041,16 +3051,6 @@
           "publishedOn": "2026-01-18T07:36:26.000Z",
           "wordCount": null,
           "title": "How to Run AI Coding Agents Safely with Docker Sandboxes: A Definitive Guide for Claude and Gemini Users",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=70888",
-          "author": "Tanvir Kour",
-          "description": "Embarking on a cross-border expedition or navigating remote regions requires more than just a sense of adventure; it demands a robust connectivity strategy. In today’s travel landscape, staying online is a technical necessity rather than a luxury. A reliable connection transforms your mobile device into a central safety hub, allowing for real-time GPS synchronization and […]",
-          "link": "https://collabnix.com/connectivity-architecture-for-the-modern-traveler-ensuring-seamless-data-on-the-road/",
-          "publishedOn": "2026-01-17T08:05:58.000Z",
-          "wordCount": null,
-          "title": "Connectivity Architecture for the Modern Traveler: Ensuring Seamless Data on the Road",
           "imageUrl": null
         }
       ]
