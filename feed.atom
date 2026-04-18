@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-04-17T22:04:53.043Z</updated>
+    <updated>2026-04-18T21:56:10.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Biggest Docker Mistakes I Still See in Home Labs (And How I Fix Them)]]></title>
+        <id>https://www.virtualizationhowto.com/?p=311164</id>
+        <link href="https://www.virtualizationhowto.com/2026/04/the-biggest-docker-mistakes-i-still-see-in-home-labs-and-how-i-fix-them/"/>
+        <updated>2026-04-18T12:10:17.000Z</updated>
+        <summary type="html"><![CDATA[Docker is a super powerful tool that you can use in your home lab. I think for me personally, a turning point was when I started running mostly containerized services.…
+The post The Biggest Docker Mistakes I Still See in Home Labs (And How I Fix Them) appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Importance of Residential Proxies in Modern Internet Use]]></title>
         <id>https://collabnix.com/?p=73359</id>
@@ -5137,29 +5148,6 @@ The post Why Ceph Won for Persistent Storage in My Talos Linux Kubernetes MiniLa
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The best version of my site so far...]]></title>
-        <id>https://daverupert.com/2026/01/my-2026-redesign/</id>
-        <link href="https://daverupert.com/2026/01/my-2026-redesign/"/>
-        <updated>2026-01-18T14:29:00.000Z</updated>
-        <summary type="html"><![CDATA[You might have noticed that I did a big design refresh on my entire site… unless you’re on RSS I guess. I’ll talk about aspects in detail, but at a high level there’s been three big changes:
-A monospace font
-Named CSS grid lines
-Juicier multi-page view transitions
-But my most favorite part is that today  (when you set html { --hue-rotate: 15 }), my light theme looks like a stick of butter. And that brings me joy.
-What didn’t change
-Before I talk about what changed, here’s a quick list of the parts of my site that didn’t change:
-Same big “Dave” SVG on the homepage
-Same information architecture, no radical content changes.
-No new assets, same visuals.
-Same hue-rotating background, although I did simplify the formula.
-Same inverse text-sizing for H1s
-Same support for art-directed posts
-Why ch…]]></summary>
-        <author>
-            <name>daverupert.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[guanguans/phpstan-rules: PHPStan 的一组附加规则。]]></title>
         <id>https://github.com/guanguans/phpstan-rules</id>
         <link href="https://github.com/guanguans/phpstan-rules"/>
@@ -5187,39 +5175,6 @@ Why ch…]]></summary>
         <summary type="html"><![CDATA[A modern, enterprise-ready state machine implementation for Laravel Eloquent models. - HPWebdeveloper/laravel-stateflow]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBM POWER9 微架构评测]]></title>
-        <id>https://jia.je/hardware/2026/01/17/ibm-power9/</id>
-        <link href="https://jia.je/hardware/2026/01/17/ibm-power9/"/>
-        <updated>2026-01-17T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[IBM POWER9 微架构评测¶
- 背景¶
- 继 IBM POWER8 之后，也来评测一下后续的 IBM POWER9 微架构。IBM POWER9 有 SMT4 和 SMT8 两种版本，我只有 SMT4 版本的测试环境，下列所有评测都是针对 SMT4 版本进行测试。
-  
-官方信息¶
- IBM 关于 POWER9 微架构有如下公开信息：
-  
-IBM POWER9 processor core
- IBM Power9 Processor Architecture
-  
-下面分各个模块分别记录官方提供的信息，以及实测的结果。官方信息与实测结果一致的数据会加粗。
- Benchmark¶
- IBM POWER9 的性能测试结果见 SPEC。
- 前端¶
- L1 ICache¶
- 官方信息：32KB(SMT4)/64KB(split into 2 regions, SMT8)
- 为了测试 L1 ICache 容量，构造一个具有巨大指令 footprint 的循环，由大量的 nop 和最后的分支指令组成。观察在不同 footprint 大小下的 IPC：
- 
- 测试环境是 SMT4 Core，所以只有 32KB 的容量。超出 L1 ICache 容量后，IPC 从 6 降低到了 4.7。
- 测试过程详见测试代码。
- 取指带宽¶
- 官方信息：32 bytes/cycle
- 为了测试实际的 Fetch 宽度，参考 如何测量真正的取指带宽（I-fetch width） - JamesAslan 构造了测试。
- 其原理是当 Fetch 要跨页的时候，由于两个相邻页可能映射到不同的物理地址，如果要支持单周期跨页取指，需要查询两次 ITLB，或者 ITLB 需要把相邻两个页的映射存在一起。这个场景一般比较少，处理器很少会针对这种特殊情况做优化，但也不是没有。经过测试，把循环放在两个页的边界上，…]]></summary>
-        <author>
-            <name>杰哥的{运维，编程，调板子}小笔记</name>
         </author>
     </entry>
     <entry>

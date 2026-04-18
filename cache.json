@@ -214,16 +214,6 @@
           "wordCount": null,
           "title": "Waiting for the power to go out",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2026/01/my-2026-redesign/",
-          "author": null,
-          "description": "You might have noticed that I did a big design refresh on my entire site… unless you’re on RSS I guess. I’ll talk about aspects in detail, but at a high level there’s been three big changes:\nA monospace font\nNamed CSS grid lines\nJuicier multi-page view transitions\nBut my most favorite part is that today  (when you set html { --hue-rotate: 15 }), my light theme looks like a stick of butter. And that brings me joy.\nWhat didn’t change\nBefore I talk about what changed, here’s a quick list of the parts of my site that didn’t change:\nSame big “Dave” SVG on the homepage\nSame information architecture, no radical content changes.\nNo new assets, same visuals.\nSame hue-rotating background, although I did simplify the formula.\nSame inverse text-sizing for H1s\nSame support for art-directed posts\nWhy ch…",
-          "link": "https://daverupert.com/2026/01/my-2026-redesign/",
-          "publishedOn": "2026-01-18T14:29:00.000Z",
-          "wordCount": 1703,
-          "title": "The best version of my site so far...",
-          "imageUrl": null
         }
       ]
     },
@@ -926,6 +916,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=311164",
+          "author": "Brandon Lee",
+          "description": "Docker is a super powerful tool that you can use in your home lab. I think for me personally, a turning point was when I started running mostly containerized services.…\nThe post The Biggest Docker Mistakes I Still See in Home Labs (And How I Fix Them) appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/04/the-biggest-docker-mistakes-i-still-see-in-home-labs-and-how-i-fix-them/",
+          "publishedOn": "2026-04-18T12:10:17.000Z",
+          "wordCount": null,
+          "title": "The Biggest Docker Mistakes I Still See in Home Labs (And How I Fix Them)",
+          "imageUrl": null
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=311126",
           "author": "Brandon Lee",
@@ -4168,21 +4168,6 @@
             "length": "55090"
           },
           "imageUrl": "https://jia.je/assets/images/social/devops/2026/01/21/soft-raid-recovery.png"
-        },
-        {
-          "id": "https://jia.je/hardware/2026/01/17/ibm-power9/",
-          "author": null,
-          "description": "IBM POWER9 微架构评测¶\n 背景¶\n 继 IBM POWER8 之后，也来评测一下后续的 IBM POWER9 微架构。IBM POWER9 有 SMT4 和 SMT8 两种版本，我只有 SMT4 版本的测试环境，下列所有评测都是针对 SMT4 版本进行测试。\n  \n官方信息¶\n IBM 关于 POWER9 微架构有如下公开信息：\n  \nIBM POWER9 processor core\n IBM Power9 Processor Architecture\n  \n下面分各个模块分别记录官方提供的信息，以及实测的结果。官方信息与实测结果一致的数据会加粗。\n Benchmark¶\n IBM POWER9 的性能测试结果见 SPEC。\n 前端¶\n L1 ICache¶\n 官方信息：32KB(SMT4)/64KB(split into 2 regions, SMT8)\n 为了测试 L1 ICache 容量，构造一个具有巨大指令 footprint 的循环，由大量的 nop 和最后的分支指令组成。观察在不同 footprint 大小下的 IPC：\n \n 测试环境是 SMT4 Core，所以只有 32KB 的容量。超出 L1 ICache 容量后，IPC 从 6 降低到了 4.7。\n 测试过程详见测试代码。\n 取指带宽¶\n 官方信息：32 bytes/cycle\n 为了测试实际的 Fetch 宽度，参考 如何测量真正的取指带宽（I-fetch width） - JamesAslan 构造了测试。\n 其原理是当 Fetch 要跨页的时候，由于两个相邻页可能映射到不同的物理地址，如果要支持单周期跨页取指，需要查询两次 ITLB，或者 ITLB 需要把相邻两个页的映射存在一起。这个场景一般比较少，处理器很少会针对这种特殊情况做优化，但也不是没有。经过测试，把循环放在两个页的边界上，…",
-          "link": "https://jia.je/hardware/2026/01/17/ibm-power9/",
-          "publishedOn": "2026-01-17T00:00:00.000Z",
-          "wordCount": 541,
-          "title": "IBM POWER9 微架构评测",
-          "enclosure": {
-            "url": "https://jia.je/assets/images/social/hardware/2026/01/17/ibm-power9.png",
-            "type": "image/png",
-            "length": "50226"
-          },
-          "imageUrl": "https://jia.je/assets/images/social/hardware/2026/01/17/ibm-power9.png"
         }
       ]
     },
