@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-04-22T22:09:05.167Z</updated>
+    <updated>2026-04-23T22:05:54.300Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I Tried Tainer for Proxmox and It Feels Like Portainer for VMs]]></title>
+        <id>https://www.virtualizationhowto.com/?p=311260</id>
+        <link href="https://www.virtualizationhowto.com/2026/04/i-tried-tainer-for-proxmox-and-it-feels-like-portainer-for-vms/"/>
+        <updated>2026-04-23T12:21:37.000Z</updated>
+        <summary type="html"><![CDATA[I am constantly surprised by the number of new tools that are getting cranked out for Proxmox. It is hard to keep up sometimes with the growth and expansion of…
+The post I Tried Tainer for Proxmox and It Feels Like Portainer for VMs appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Proxmox 9.1.8 Finally Rebalances HA Workloads Automatically]]></title>
         <id>https://www.virtualizationhowto.com/?p=311277</id>
@@ -5016,60 +5027,6 @@ Bensz]]></summary>
         <updated>2026-01-24T08:00:00.000Z</updated>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI入门系列 介绍大语言模型]]></title>
-        <id>https://blognas.hwb0307.com/other/6965</id>
-        <link href="https://blognas.hwb0307.com/ai/6965"/>
-        <updated>2026-01-24T05:40:56.000Z</updated>
-        <summary type="html"><![CDATA[Bensz
-AI入门系列 介绍大语言模型
-本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 1940s-1980s 的奠基性工作为神经网络奠定基础：感知机开创连接主义、反向传播解决多层训练、CNN 提出局部连接、Hopfield 网络融合物理学思想 大语言模型发展经历了从统计模型到神经网络的演变，最终在 2017 年 Transformer 架构诞生后迎来爆发 GPT 系列模型的迭代史展现了语言模型从理解到生成的能力跃迁 2023-2024 年是多模态与智能体爆发期，Claude、GPT-4 等模型展现了强大推理能力 2025-2026 年，Vibe Coding、Agent Skills、Claude Cowork 等新范式正在重塑人机协作模式 MCP（Model Conte […]
-Bensz]]></summary>
-        <author>
-            <name>Bensz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crafting Emails That Spark Action: Secrets to Effective Business Communication]]></title>
-        <id>https://collabnix.com/?p=71154</id>
-        <link href="https://collabnix.com/crafting-emails-that-spark-action-secrets-to-effective-business-communication/"/>
-        <updated>2026-01-24T03:40:07.000Z</updated>
-        <summary type="html"><![CDATA[In today’s fast-paced business world, effective communication is crucial. As email remains one of the primary forms of professional correspondence, knowing how to craft emails that not only capture attention but also prompt action is essential for success. Whether you’re reaching out to potential clients, engaging with partners, or following up on leads, your email […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started with NVIDIA Jetson Nano and Docker – Generative AI Supercomputer]]></title>
-        <id>https://collabnix.com/?p=71129</id>
-        <link href="https://collabnix.com/getting-started-with-nvidia-jetson-nano-and-docker-generative-ai-supercomputer/"/>
-        <updated>2026-01-23T18:09:23.000Z</updated>
-        <summary type="html"><![CDATA[This blog is authored by Manish L. in collaboration with Jalaj Krishna B.S. and Jeevitha S. from Raja Rajeshwari College of Engineering. The NVIDIA Jetson Nano is a small, powerful computer that brings the power of modern artificial intelligence (AI) to a compact, energy-efficient platform. It is an ideal device for developers, makers, and students, […]]]></summary>
-        <author>
-            <name>Manish Lingadevaru</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Designing a High‑Performance Home Office: Infrastructure, Space Planning, and Noise Control]]></title>
-        <id>https://collabnix.com/?p=71124</id>
-        <link href="https://collabnix.com/designing-a-high%e2%80%91performance-home-office-infrastructure-space-planning-and-noise-control/"/>
-        <updated>2026-01-23T17:56:52.000Z</updated>
-        <summary type="html"><![CDATA[Creating a high‑performance home office is now essential for anyone working remotely. It’s not just about picking a good desk or arranging a few accessories. A truly effective workspace blends infrastructure, layout, and acoustic comfort into a balanced environment that supports focus and well-being. With thoughtful planning, even small or awkward rooms can become productive, […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proxmox Tips I Wish I Knew Before Building My First Home Lab]]></title>
-        <id>https://www.virtualizationhowto.com/?p=308902</id>
-        <link href="https://www.virtualizationhowto.com/2026/01/proxmox-tips-i-wish-i-knew-before-building-my-first-home-lab/"/>
-        <updated>2026-01-23T14:39:49.000Z</updated>
-        <summary type="html"><![CDATA[We have all been there with technologies that we are learning for the first time. We don’t know what we don’t know. When I first started building my home lab…
-The post Proxmox Tips I Wish I Knew Before Building My First Home Lab appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>

@@ -927,6 +927,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=311260",
+          "author": "Brandon Lee",
+          "description": "I am constantly surprised by the number of new tools that are getting cranked out for Proxmox. It is hard to keep up sometimes with the growth and expansion of…\nThe post I Tried Tainer for Proxmox and It Feels Like Portainer for VMs appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/04/i-tried-tainer-for-proxmox-and-it-feels-like-portainer-for-vms/",
+          "publishedOn": "2026-04-23T12:21:37.000Z",
+          "wordCount": null,
+          "title": "I Tried Tainer for Proxmox and It Feels Like Portainer for VMs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=311277",
           "author": "Brandon Lee",
           "description": "For those migrating to Proxmox from “another hypervisor”, there are always the discussions around what features may be missing or work different from what they are coming from. If you…\nThe post Proxmox 9.1.8 Finally Rebalances HA Workloads Automatically appeared first on Virtualization Howto.",
@@ -1665,16 +1675,6 @@
           "wordCount": 11859,
           "title": "I Built a Ceph Erasure-Coded NVMe Cluster in My Home Lab. Here’s What Actually Happened",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/ceph-erasure-coding-home-lab.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=308902",
-          "author": "Brandon Lee",
-          "description": "We have all been there with technologies that we are learning for the first time. We don’t know what we don’t know. When I first started building my home lab…\nThe post Proxmox Tips I Wish I Knew Before Building My First Home Lab appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/01/proxmox-tips-i-wish-i-knew-before-building-my-first-home-lab/",
-          "publishedOn": "2026-01-23T14:39:49.000Z",
-          "wordCount": 12345,
-          "title": "Proxmox Tips I Wish I Knew Before Building My First Home Lab",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/proxox-tips-I-wish-I-had-known-when-building-my-first-home-lab.png"
         }
       ]
     },
@@ -3052,36 +3052,6 @@
           "wordCount": null,
           "title": "What is Clawdbot and why is it getting popular?",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=71154",
-          "author": "Tanvir Kour",
-          "description": "In today’s fast-paced business world, effective communication is crucial. As email remains one of the primary forms of professional correspondence, knowing how to craft emails that not only capture attention but also prompt action is essential for success. Whether you’re reaching out to potential clients, engaging with partners, or following up on leads, your email […]",
-          "link": "https://collabnix.com/crafting-emails-that-spark-action-secrets-to-effective-business-communication/",
-          "publishedOn": "2026-01-24T03:40:07.000Z",
-          "wordCount": 8392,
-          "title": "Crafting Emails That Spark Action: Secrets to Effective Business Communication",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=71129",
-          "author": "Manish Lingadevaru",
-          "description": "This blog is authored by Manish L. in collaboration with Jalaj Krishna B.S. and Jeevitha S. from Raja Rajeshwari College of Engineering. The NVIDIA Jetson Nano is a small, powerful computer that brings the power of modern artificial intelligence (AI) to a compact, energy-efficient platform. It is an ideal device for developers, makers, and students, […]",
-          "link": "https://collabnix.com/getting-started-with-nvidia-jetson-nano-and-docker-generative-ai-supercomputer/",
-          "publishedOn": "2026-01-23T18:09:23.000Z",
-          "wordCount": null,
-          "title": "Getting Started with NVIDIA Jetson Nano and Docker – Generative AI Supercomputer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=71124",
-          "author": "Tanvir Kour",
-          "description": "Creating a high‑performance home office is now essential for anyone working remotely. It’s not just about picking a good desk or arranging a few accessories. A truly effective workspace blends infrastructure, layout, and acoustic comfort into a balanced environment that supports focus and well-being. With thoughtful planning, even small or awkward rooms can become productive, […]",
-          "link": "https://collabnix.com/designing-a-high%e2%80%91performance-home-office-infrastructure-space-planning-and-noise-control/",
-          "publishedOn": "2026-01-23T17:56:52.000Z",
-          "wordCount": null,
-          "title": "Designing a High‑Performance Home Office: Infrastructure, Space Planning, and Noise Control",
-          "imageUrl": null
         }
       ]
     },
@@ -3508,16 +3478,6 @@
           "wordCount": 5543,
           "title": "AI入门系列 如何使用大语言模型？",
           "imageUrl": "https://blognas.hwb0307.com/wp-content/uploads/zzmx-169-scaled.jpg"
-        },
-        {
-          "id": "https://blognas.hwb0307.com/other/6965",
-          "author": "Bensz",
-          "description": "Bensz\nAI入门系列 介绍大语言模型\n本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 1940s-1980s 的奠基性工作为神经网络奠定基础：感知机开创连接主义、反向传播解决多层训练、CNN 提出局部连接、Hopfield 网络融合物理学思想 大语言模型发展经历了从统计模型到神经网络的演变，最终在 2017 年 Transformer 架构诞生后迎来爆发 GPT 系列模型的迭代史展现了语言模型从理解到生成的能力跃迁 2023-2024 年是多模态与智能体爆发期，Claude、GPT-4 等模型展现了强大推理能力 2025-2026 年，Vibe Coding、Agent Skills、Claude Cowork 等新范式正在重塑人机协作模式 MCP（Model Conte […]\nBensz",
-          "link": "https://blognas.hwb0307.com/ai/6965",
-          "publishedOn": "2026-01-24T05:40:56.000Z",
-          "wordCount": null,
-          "title": "AI入门系列 介绍大语言模型",
-          "imageUrl": null
         }
       ]
     },
