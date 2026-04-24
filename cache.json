@@ -214,16 +214,6 @@
           "wordCount": 1002,
           "title": "I'm swearing off APIs entirely",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2026/01/waiting-for-the-power-to-go-out/",
-          "author": null,
-          "description": "It’s a secret to everyone! This post is for RSS subscribers only.\nRead more about RSS Club.\n\nIt’s expected to freeze this evening in Austin and we may even see snow, which is exciting and novel for us Texans. But as we’ve learned in 2021 and 2023, cold snaps can lead to disaster. In those years the ice dealt untold damages as foot-thick tree limbs fell from the canopy like enormous glass Cadillacs. The crackle, pop, followed by crystalline shatter in the cold dead air is a sound I won’t forget. With the falling trees came down power lines and the lights went out.\nIt got worse. The disconnected Texas power grid failed. As homes and empty office buildings required more heating in the “extreme” cold, the rolling blackouts began to shed load. Except… they didn’t roll. Homes next to facilities …",
-          "link": "https://daverupert.com/2026/01/waiting-for-the-power-to-go-out/",
-          "publishedOn": "2026-01-24T21:44:00.000Z",
-          "wordCount": null,
-          "title": "Waiting for the power to go out",
-          "imageUrl": null
         }
       ]
     },
@@ -926,6 +916,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=311343",
+          "author": "Brandon Lee",
+          "description": "If you have ever worked at rebuilding your home lab from scratch or even part of it, you know how painful this can be. This could possibly turn into a…\nThe post I Can Rebuild My Home Lab From Scratch in Hours and These 5 Habits Made It Possible appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/04/i-can-rebuild-my-home-lab-from-scratch-in-hours-and-these-5-habits-made-it-possible/",
+          "publishedOn": "2026-04-24T12:11:02.000Z",
+          "wordCount": null,
+          "title": "I Can Rebuild My Home Lab From Scratch in Hours and These 5 Habits Made It Possible",
+          "imageUrl": null
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=311260",
           "author": "Brandon Lee",
@@ -1665,16 +1665,6 @@
           "wordCount": 11689,
           "title": "I Tried LACP in My Proxmox Home Lab and Here’s What Actually Happened",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/proxmox-lacp-configuration.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=308942",
-          "author": "Brandon Lee",
-          "description": "I have been super geeking out on my home lab this week going all in on some nerd knobs of Proxmox clustering and Ceph storage between my cluster hosts. I…\nThe post I Built a Ceph Erasure-Coded NVMe Cluster in My Home Lab. Here’s What Actually Happened appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/01/i-built-a-ceph-erasure-coded-nvme-cluster-in-my-home-lab-heres-what-actually-happened/",
-          "publishedOn": "2026-01-24T14:59:37.000Z",
-          "wordCount": 11859,
-          "title": "I Built a Ceph Erasure-Coded NVMe Cluster in My Home Lab. Here’s What Actually Happened",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/ceph-erasure-coding-home-lab.png"
         }
       ]
     },
@@ -1683,6 +1673,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=73401",
+          "author": "Tanvir Kour",
+          "description": "Are you feeling confused about how to manage your money and thinking about a better way to handle your debts? You’re not alone, and many people go through the same phase at some point in life. The good thing is that there are simple, helpful solutions available to make things easier. Before choosing any debt […]",
+          "link": "https://collabnix.com/what-you-should-know-before-choosing-a-debt-relief-solution/",
+          "publishedOn": "2026-04-24T10:13:29.000Z",
+          "wordCount": null,
+          "title": "What You Should Know Before Choosing A Debt Relief Solution",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=73395",
+          "author": "Tanvir Kour",
+          "description": "What happens when your best prompt engineer leaves the company and takes their “magic” strings with them? Most DevOps teams struggle with this exact void, facing a chaotic reality where AI instructions are scattered across Slack threads and private Notion pages. Moving from ad-hoc experimentation to a reliable production environment needs a shift of […]",
+          "link": "https://collabnix.com/how-to-build-a-promptops-playbook-for-teams-2/",
+          "publishedOn": "2026-04-24T04:09:15.000Z",
+          "wordCount": null,
+          "title": "How to Build a PromptOps Playbook for Teams",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/how-to-build-a-customer-support-ai-agent-with-rag/",
           "author": "Collabnix Team",
@@ -3468,16 +3478,6 @@
           "wordCount": null,
           "title": "Vibe Coding CLI评测：MoltBot的优劣",
           "imageUrl": null
-        },
-        {
-          "id": "https://blognas.hwb0307.com/other/6970",
-          "author": "Bensz",
-          "description": "Bensz\nAI入门系列 如何使用大语言模型？\n本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 Chatbot 是使用 LLM 最常见、最原始的方式，除了官方 App 和网站，像 LobeChat 这类基于 API 的第三方应用也是个不错的选择 国产 AI 大模型已崛起，文心一言、通义千问、智谱清言、Kimi、DeepSeek 等产品在访问便利性、价格优势、本土化适配方面具有独特价值 Chatbot 交互模式存在明显局限性：上下文窗口有限、无法执行复杂任务、缺乏与工作流和本地文件的深度集成 Vibe Coding 正成为下一代 LLM 产品形态，生态快速发展，是未来趋势——它是对人类用户友好的 Agent 形态，能与现代个人计算机良好协作。里程碑进展包括 Cursor（AI 原生编 […]\nBensz",
-          "link": "https://blognas.hwb0307.com/ai/6970",
-          "publishedOn": "2026-01-24T13:46:49.000Z",
-          "wordCount": 5543,
-          "title": "AI入门系列 如何使用大语言模型？",
-          "imageUrl": "https://blognas.hwb0307.com/wp-content/uploads/zzmx-169-scaled.jpg"
         }
       ]
     },
@@ -3953,16 +3953,6 @@
           "publishedOn": "2026-02-08T00:00:00.000Z",
           "wordCount": null,
           "title": "自己动手实现NAS公网访问",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.ssgeek.com/blog/wo-de-2024-2025",
-          "author": null,
-          "description": "2024-2025年度总结",
-          "link": "https://www.ssgeek.com/blog/wo-de-2024-2025",
-          "publishedOn": "2026-01-25T00:00:00.000Z",
-          "wordCount": null,
-          "title": "我的2024-2025",
           "imageUrl": null
         }
       ]
