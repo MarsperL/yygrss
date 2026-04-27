@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-04-25T21:58:44.550Z</updated>
+    <updated>2026-04-27T22:13:18.473Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I Use Packer to Automate Ubuntu Server 26.04 on Proxmox and It Saves Me Hours]]></title>
+        <id>https://www.virtualizationhowto.com/?p=311420</id>
+        <link href="https://www.virtualizationhowto.com/2026/04/i-use-packer-to-automate-ubuntu-server-26-04-on-proxmox-and-it-saves-me-hours/"/>
+        <updated>2026-04-27T12:17:45.000Z</updated>
+        <summary type="html"><![CDATA[I am a huge fan of automation in the home lab and have long had pipelines running that automate deployments of virtual machines in my VMware vSphere and now Proxmox…
+The post I Use Packer to Automate Ubuntu Server 26.04 on Proxmox and It Saves Me Hours appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agents Are the New Pods: Running AI Agents on Kubernetes with the Sandbox CRD]]></title>
+        <id>https://collabnix.com/?p=73415</id>
+        <link href="https://collabnix.com/agents-are-the-new-pods-running-ai-agents-on-kubernetes-with-the-sandbox-crd/"/>
+        <updated>2026-04-26T01:31:31.000Z</updated>
+        <summary type="html"><![CDATA[Exploring AI Agents on Kubernetes for Enhanced Performance I’ve been spending a lot of time lately watching people try to deploy AI agents the same way they deploy microservices. They reach for a Deployment, slap on an HPA, maybe wire up a Service, and then wonder why everything feels slightly off. The agent crashes mid-task […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NemoClaw vs OpenClaw: A Hands-On Walkthrough of the Same Agent in Two Very Different Boxes]]></title>
+        <id>https://collabnix.com/?p=73406</id>
+        <link href="https://collabnix.com/nemoclaw-vs-openclaw-a-hands-on-walkthrough-of-the-same-agent-in-two-very-different-boxes/"/>
+        <updated>2026-04-26T00:46:54.000Z</updated>
+        <summary type="html"><![CDATA[Nemoclaw vs Openclaw: A Detailed Comparison Guide I installed both, ran the same agent through each, and watched what they actually let through. Here’s the practical breakdown for developers. If you’ve been anywhere near the agentic AI space in the last six months, you’ve heard of OpenClaw. It went from a side project to 321,000+ […]]]></summary>
+        <author>
+            <name>Ajeet Raina</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Replaced My Monitoring Stack and This Just Works in My Home Lab]]></title>
         <id>https://www.virtualizationhowto.com/?p=311369</id>
@@ -552,6 +583,16 @@ The post I Built a Podman Server in My Home Lab This Weekend and This Surprised 
 The post I Almost Gave Up on Proxmox iSCSI Storage in My Home Lab Then This Worked appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LangGraph创建可控agent]]></title>
+        <id>https://nops.icu/archives/239/</id>
+        <link href="https://nops.icu/archives/239/"/>
+        <updated>2026-04-10T10:33:00.000Z</updated>
+        <summary type="html"><![CDATA[近期做了一系列langgraph视频，在个人视频号]]></summary>
+        <author>
+            <name>季兴</name>
         </author>
     </entry>
     <entry>
@@ -4865,63 +4906,6 @@ The post Are Home Labs Dead in 2026? The Comment That Forced Me to Rethink Every
         <summary type="html"><![CDATA[<a href="#初探" class="headerlink"]]></summary>
         <author>
             <name>云野阁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我的笔记系统]]></title>
-        <id>https://limboy.me/posts/my-notes-system</id>
-        <link href="https://limboy.me/posts/my-notes-system"/>
-        <updated>2026-01-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[在 AI 时代，还有必要记笔记吗？有，非常有。]]></summary>
-        <author>
-            <name>Limboy's Essays</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monitor Your Proxmox Home Lab Like a Boss: The Monitoring Stack I Actually Use]]></title>
-        <id>https://www.virtualizationhowto.com/?p=308997</id>
-        <link href="https://www.virtualizationhowto.com/2026/01/monitor-your-proxmox-home-lab-like-a-boss-the-monitoring-stack-i-actually-use/"/>
-        <updated>2026-01-27T13:27:26.000Z</updated>
-        <summary type="html"><![CDATA[Monitoring your home lab environment running Proxmox is something that all of us should do. Monitoring is not the most thrilling aspect of any home lab, but it is extremely…
-The post Monitor Your Proxmox Home Lab Like a Boss: The Monitoring Stack I Actually Use appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VIBE CODING最佳实践-20260127]]></title>
-        <id>https://nops.icu/archives/233/</id>
-        <link href="https://nops.icu/archives/233/"/>
-        <updated>2026-01-27T09:54:00.000Z</updated>
-        <summary type="html"><![CDATA[背景模型发展极其迅速，截止今天，此方法为目前能交付、前端好看、能完成稍复杂项目的0-1、重构、迭代。核心“快速实现脑中想法”，可以是原型图，可以是前端，更可以是完整POC整理了当前公司已购买资源...]]></summary>
-        <author>
-            <name>季兴</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[旧手机的新生--私人影视库]]></title>
-        <id>https://yyg.js.cool/yyg/384455e1/</id>
-        <link href="https://yyg.js.cool/yyg/384455e1/"/>
-        <updated>2026-01-27T08:15:13.000Z</updated>
-        <summary type="html"><![CDATA[前言
-如今，许多旧手机的存储容量甚至已经比肩电脑硬盘。如果只是让它们闲置吃灰，或者拿去换把剪刀，未免太可惜了。
-我的上部手机跟我度过了整个大学时光，也承载着许多回忆。换了新手机后就放在桌面当个数字时钟，还有不小的闲置存储空间。
-之前看了不少博主用旧手机当NAS、网盘、私人影视库的视频，于是就有了搭建私人影视库的想法，让它迎来第二春。
-折腾过程
-实现过程其实很简单，在手机上安装Emby]]></summary>
-        <author>
-            <name>云野阁</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Tried LACP in My Proxmox Home Lab and Here’s What Actually Happened]]></title>
-        <id>https://www.virtualizationhowto.com/?p=308973</id>
-        <link href="https://www.virtualizationhowto.com/2026/01/i-tried-lacp-in-my-proxmox-home-lab-and-heres-what-actually-happened/"/>
-        <updated>2026-01-26T13:08:12.000Z</updated>
-        <summary type="html"><![CDATA[Since I have been playing around a LOT lately with Proxmox and software-defined storage, there was another configuration that I wanted to test in my Proxmox environment. That was LACP…
-The post I Tried LACP in My Proxmox Home Lab and Here’s What Actually Happened appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>

@@ -44,16 +44,6 @@
           "wordCount": null,
           "title": "旧手机搭建博客的一次尝试",
           "imageUrl": null
-        },
-        {
-          "id": "https://yyg.js.cool/yyg/384455e1/",
-          "author": null,
-          "description": "前言\n如今，许多旧手机的存储容量甚至已经比肩电脑硬盘。如果只是让它们闲置吃灰，或者拿去换把剪刀，未免太可惜了。\n我的上部手机跟我度过了整个大学时光，也承载着许多回忆。换了新手机后就放在桌面当个数字时钟，还有不小的闲置存储空间。\n之前看了不少博主用旧手机当NAS、网盘、私人影视库的视频，于是就有了搭建私人影视库的想法，让它迎来第二春。\n折腾过程\n实现过程其实很简单，在手机上安装Emby",
-          "link": "https://yyg.js.cool/yyg/384455e1/",
-          "publishedOn": "2026-01-27T08:15:13.000Z",
-          "wordCount": null,
-          "title": "旧手机的新生--私人影视库",
-          "imageUrl": null
         }
       ]
     },
@@ -770,6 +760,16 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://nops.icu/archives/239/",
+          "author": "季兴",
+          "description": "近期做了一系列langgraph视频，在个人视频号",
+          "link": "https://nops.icu/archives/239/",
+          "publishedOn": "2026-04-10T10:33:00.000Z",
+          "wordCount": null,
+          "title": "LangGraph创建可控agent",
+          "imageUrl": null
+        },
+        {
           "id": "https://nops.icu/archives/236/",
           "author": "季兴",
           "description": "结论联机优势，跑大尺寸模型，对单个请求延迟有高要求。否则单机部署更灵活。测试项单机双机实际提升并发 3 路10.63 tok/s15.07 tok/s+42%长文本3.76 tok/s6.10 ...",
@@ -787,16 +787,6 @@
           "publishedOn": "2026-02-24T10:30:00.000Z",
           "wordCount": null,
           "title": "国行Apple Watch S11开通血压检测",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nops.icu/archives/233/",
-          "author": "季兴",
-          "description": "背景模型发展极其迅速，截止今天，此方法为目前能交付、前端好看、能完成稍复杂项目的0-1、重构、迭代。核心“快速实现脑中想法”，可以是原型图，可以是前端，更可以是完整POC整理了当前公司已购买资源...",
-          "link": "https://nops.icu/archives/233/",
-          "publishedOn": "2026-01-27T09:54:00.000Z",
-          "wordCount": null,
-          "title": "VIBE CODING最佳实践-20260127",
           "imageUrl": null
         }
       ]
@@ -896,6 +886,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=311420",
+          "author": "Brandon Lee",
+          "description": "I am a huge fan of automation in the home lab and have long had pipelines running that automate deployments of virtual machines in my VMware vSphere and now Proxmox…\nThe post I Use Packer to Automate Ubuntu Server 26.04 on Proxmox and It Saves Me Hours appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/04/i-use-packer-to-automate-ubuntu-server-26-04-on-proxmox-and-it-saves-me-hours/",
+          "publishedOn": "2026-04-27T12:17:45.000Z",
+          "wordCount": null,
+          "title": "I Use Packer to Automate Ubuntu Server 26.04 on Proxmox and It Saves Me Hours",
+          "imageUrl": null
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=311369",
           "author": "Brandon Lee",
@@ -1635,26 +1635,6 @@
           "wordCount": 11973,
           "title": "Are Home Labs Dead in 2026? The Comment That Forced Me to Rethink Everything",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/Is-Home-Lab-dead-in-2026-2.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=308997",
-          "author": "Brandon Lee",
-          "description": "Monitoring your home lab environment running Proxmox is something that all of us should do. Monitoring is not the most thrilling aspect of any home lab, but it is extremely…\nThe post Monitor Your Proxmox Home Lab Like a Boss: The Monitoring Stack I Actually Use appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/01/monitor-your-proxmox-home-lab-like-a-boss-the-monitoring-stack-i-actually-use/",
-          "publishedOn": "2026-01-27T13:27:26.000Z",
-          "wordCount": null,
-          "title": "Monitor Your Proxmox Home Lab Like a Boss: The Monitoring Stack I Actually Use",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=308973",
-          "author": "Brandon Lee",
-          "description": "Since I have been playing around a LOT lately with Proxmox and software-defined storage, there was another configuration that I wanted to test in my Proxmox environment. That was LACP…\nThe post I Tried LACP in My Proxmox Home Lab and Here’s What Actually Happened appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/01/i-tried-lacp-in-my-proxmox-home-lab-and-heres-what-actually-happened/",
-          "publishedOn": "2026-01-26T13:08:12.000Z",
-          "wordCount": 11689,
-          "title": "I Tried LACP in My Proxmox Home Lab and Here’s What Actually Happened",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/01/proxmox-lacp-configuration.png"
         }
       ]
     },
@@ -1663,6 +1643,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=73415",
+          "author": "Collabnix Team",
+          "description": "Exploring AI Agents on Kubernetes for Enhanced Performance I’ve been spending a lot of time lately watching people try to deploy AI agents the same way they deploy microservices. They reach for a Deployment, slap on an HPA, maybe wire up a Service, and then wonder why everything feels slightly off. The agent crashes mid-task […]",
+          "link": "https://collabnix.com/agents-are-the-new-pods-running-ai-agents-on-kubernetes-with-the-sandbox-crd/",
+          "publishedOn": "2026-04-26T01:31:31.000Z",
+          "wordCount": null,
+          "title": "Agents Are the New Pods: Running AI Agents on Kubernetes with the Sandbox CRD",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=73406",
+          "author": "Ajeet Raina",
+          "description": "Nemoclaw vs Openclaw: A Detailed Comparison Guide I installed both, ran the same agent through each, and watched what they actually let through. Here’s the practical breakdown for developers. If you’ve been anywhere near the agentic AI space in the last six months, you’ve heard of OpenClaw. It went from a side project to 321,000+ […]",
+          "link": "https://collabnix.com/nemoclaw-vs-openclaw-a-hands-on-walkthrough-of-the-same-agent-in-two-very-different-boxes/",
+          "publishedOn": "2026-04-26T00:46:54.000Z",
+          "wordCount": null,
+          "title": "NemoClaw vs OpenClaw: A Hands-On Walkthrough of the Same Agent in Two Very Different Boxes",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=73401",
           "author": "Tanvir Kour",
@@ -3098,16 +3098,6 @@
           "publishedOn": "2026-01-29T00:00:00.000Z",
           "wordCount": null,
           "title": "Coding Agent 时代，App 的核心竞争力是什么？",
-          "imageUrl": null
-        },
-        {
-          "id": "https://limboy.me/posts/my-notes-system",
-          "author": null,
-          "description": "在 AI 时代，还有必要记笔记吗？有，非常有。",
-          "link": "https://limboy.me/posts/my-notes-system",
-          "publishedOn": "2026-01-28T00:00:00.000Z",
-          "wordCount": null,
-          "title": "我的笔记系统",
           "imageUrl": null
         }
       ]
