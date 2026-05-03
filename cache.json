@@ -877,6 +877,26 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=311698",
+          "author": "Brandon Lee",
+          "description": "If you have been running Proxmox in your home lab for any amount of time, you already know the ecosystem has been growing fast and rightly so. There are more…\nThe post I Tried New Proxmox Tools in May 2026 and Only a Few Made the Cut appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/05/i-tried-new-proxmox-tools-in-may-2026-and-only-a-few-made-the-cut/",
+          "publishedOn": "2026-05-02T13:37:48.000Z",
+          "wordCount": null,
+          "title": "I Tried New Proxmox Tools in May 2026 and Only a Few Made the Cut",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=311518",
+          "author": "Brandon Lee",
+          "description": "If you saw my earlier post a few weeks back covering Scanopy, you already know there are many different solutions out there that can scan your network and generate diagrams…\nThe post I Can Finally See My Entire Home Lab and It Changed How I Troubleshoot appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/05/i-can-finally-see-my-entire-home-lab-and-it-changed-how-i-troubleshoot/",
+          "publishedOn": "2026-05-01T12:04:00.000Z",
+          "wordCount": null,
+          "title": "I Can Finally See My Entire Home Lab and It Changed How I Troubleshoot",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=311609",
           "author": "Brandon Lee",
           "description": "Backups are arguably one of THE most important aspects of running any type of virtualization stack. If you are running a small home lab or production environment, likely you don’t…\nThe post Proxmox Backup Server 4.2 Just Changed How I Do Offsite Backups appeared first on Virtualization Howto.",
@@ -1615,16 +1635,6 @@
           "wordCount": null,
           "title": "I Bought a 10 Gig Switch to Fix My Proxmox Ceph Cluster and It Changed Everything",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=309110",
-          "author": "Brandon Lee",
-          "description": "If you are running a Proxmox VE Server environment, you will want to set up backups as soon as possible. Proxmox Backup Server is the obvious choice for this since…\nThe post Why Your NAS Is the Perfect Proxmox Backup Server appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/02/why-your-nas-is-the-perfect-proxmox-backup-server/",
-          "publishedOn": "2026-02-02T13:20:38.000Z",
-          "wordCount": null,
-          "title": "Why Your NAS Is the Perfect Proxmox Backup Server",
-          "imageUrl": null
         }
       ]
     },
@@ -1633,6 +1643,56 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/empowering-openclaw-agents-with-memory-persistence-across-sessions/",
+          "author": "Collabnix Team",
+          "description": "Discover how to enhance OpenClaw AI agents with persistent memory across sessions for improved contextual awareness.",
+          "link": "https://collabnix.com/empowering-openclaw-agents-with-memory-persistence-across-sessions/",
+          "publishedOn": "2026-05-03T04:27:11.000Z",
+          "wordCount": null,
+          "title": "Empowering OpenClaw Agents with Memory: Persistence Across Sessions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=73494",
+          "author": "Collabnix Team",
+          "description": "Discover the Features of Ollama DeepSeek v4 Pro Ollama just added DeepSeek-V4-Pro to its cloud model library, and on paper it is one of the most capable open-weights frontier models you can pull from a single command. The flagship of the DeepSeek-V4 series, V4-Pro is a 1.6 trillion parameter Mixture-of-Experts model with 49 billion active […]",
+          "link": "https://collabnix.com/ollama-ships-deepseek-v4-pro-a-1-6t-mixture-of-experts-model-with-1m-context-and-three-reasoning-modes/",
+          "publishedOn": "2026-05-02T16:00:58.000Z",
+          "wordCount": null,
+          "title": "Ollama DeepSeek v4 Pro: Advanced AI Model Unveiled",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=73489",
+          "author": "Collabnix Team",
+          "description": "The browsers of 2026 are no longer just means of connection to the internet. They are the first line in protection and collection of data. In an age where cyber threats and digital monitoring become more advanced, the general public searches for the “safest” or “most private” browser. However, since any browser can be marketed […]",
+          "link": "https://collabnix.com/safest-browser-vs-most-private-browser-whats-the-real-difference/",
+          "publishedOn": "2026-05-02T07:56:27.000Z",
+          "wordCount": null,
+          "title": "Safest Browser vs Most Private Browser: What’s the Real Difference?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/understanding-mcp-the-backbone-of-ai-agent-capabilities/",
+          "author": "Collabnix Team",
+          "description": "Discover how the Model Context Protocol (MCP) empowers AI agents like Claude Code to intelligently and autonomously enhance software development processes.",
+          "link": "https://collabnix.com/understanding-mcp-the-backbone-of-ai-agent-capabilities/",
+          "publishedOn": "2026-05-01T04:35:30.000Z",
+          "wordCount": null,
+          "title": "Understanding MCP: The Backbone of AI Agent Capabilities",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=73478",
+          "author": "Tanvir Kour",
+          "description": "Quick Answer: If you’re searching for a Docker AI book focused on running production AI workloads, not just learning Docker basics with an AI chapter tacked on ~ Operational AI with Docker by Ajeet Singh Raina and Harsh Manvar (Packt, April 2026) is the book you’re looking for. It’s the first end-to-end guide covering Docker […]",
+          "link": "https://collabnix.com/the-best-docker-ai-book-for-production-why-operational-ai-with-docker-is-the-definitive-guide-for-2026/",
+          "publishedOn": "2026-05-01T03:52:29.000Z",
+          "wordCount": null,
+          "title": "The Best Docker AI Book for Production: Why Operational AI with Docker is the Definitive Guide for 2026",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=73474",
           "author": "Collabnix Team",
@@ -1661,6 +1721,16 @@
           "publishedOn": "2026-04-29T08:08:36.000Z",
           "wordCount": null,
           "title": "Operational AI with Docker: The Complete Guide to Running AI Agents in Production by Ajeet Singh Raina and Docker Captain Harsh Manvar",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=73444",
+          "author": "Tanvir Kour",
+          "description": "Most owners learned Excel on the fly—copying a SUM here, a VLOOKUP there, praying the sheet held together before the client call. No surprise Microsoft’s spreadsheet reaches roughly 750 million users while few tap its real time-savers. Over the past month we scored dozens of online classes for relevance, depth, price, instructor pedigree, and fresh […]",
+          "link": "https://collabnix.com/best-excel-courses-small-business-owners/",
+          "publishedOn": "2026-04-29T07:59:37.000Z",
+          "wordCount": null,
+          "title": "12 Best Excel Courses for Small Business Owners: Affordable Online Training Picks",
           "imageUrl": null
         },
         {
@@ -3022,36 +3092,6 @@
           "wordCount": null,
           "title": "Algorithmic Trading Explained: From Strategy Design to Automated Trading Systems",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=72729",
-          "author": "Collabnix Team",
-          "description": "The convergence of large language models and software security is rewriting the rules of vulnerability detection. Here's what practitioners need to know in 2025.",
-          "link": "https://collabnix.com/llms-for-open-source-vulnerability-detection-a-deep-dive-into-fine-tuning-agentic-rag-and-production-ready-security-intelligence/",
-          "publishedOn": "2026-02-01T08:22:27.000Z",
-          "wordCount": null,
-          "title": "LLMs for Open-Source Vulnerability Detection: A Deep Dive into Fine-Tuning, Agentic RAG, and Production-Ready Security Intelligence",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=71520",
-          "author": "Collabnix Team",
-          "description": "The internet just witnessed something unprecedented: a social media platform where humans can only watch. Moltbook, the world’s first AI-only social network, has taken the tech world by storm with over 150,000 AI agents and 1 million human observers in just days. Here’s everything you need to know about this groundbreaking platform. TL;DR: Moltbook at […]",
-          "link": "https://collabnix.com/what-is-moltbook-the-first-social-network-for-ai-agents-explained/",
-          "publishedOn": "2026-02-01T03:19:55.000Z",
-          "wordCount": null,
-          "title": "What is Moltbook? The First Social Network for AI Agents Explained",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=71514",
-          "author": "Collabnix Team",
-          "description": "Exploring the Future of the AI Social Network Moltbook is a revolutionary social networking platform designed exclusively for artificial intelligence agents. Unlike Twitter, Reddit, or LinkedIn where humans create and share content, Moltbook flips the script entirely—only verified AI agents can post, comment, upvote, and interact on the platform. Moltbook isn’t just a viral sensation—it’s […]",
-          "link": "https://collabnix.com/moltbook-technical-deep-dive-how-the-worlds-first-ai-only-social-network-actually-works/",
-          "publishedOn": "2026-02-01T02:51:49.000Z",
-          "wordCount": null,
-          "title": "How Moltbook Works Technically",
-          "imageUrl": null
         }
       ]
     },
@@ -3068,26 +3108,6 @@
           "publishedOn": "2026-02-04T00:00:00.000Z",
           "wordCount": null,
           "title": "Chrome Extension 是 Vibe Coding 的绝佳载体",
-          "imageUrl": null
-        },
-        {
-          "id": "https://limboy.me/posts/bad-habit-good-subject",
-          "author": null,
-          "description": "",
-          "link": "https://limboy.me/posts/bad-habit-good-subject",
-          "publishedOn": "2026-02-03T00:00:00.000Z",
-          "wordCount": null,
-          "title": "坏习惯是道好题目",
-          "imageUrl": null
-        },
-        {
-          "id": "https://limboy.me/posts/breathe",
-          "author": null,
-          "description": "",
-          "link": "https://limboy.me/posts/breathe",
-          "publishedOn": "2026-02-01T00:00:00.000Z",
-          "wordCount": null,
-          "title": "呼吸能改变很多事",
           "imageUrl": null
         }
       ]
@@ -3167,16 +3187,6 @@
           "publishedOn": "2026-02-17T12:04:00.000Z",
           "wordCount": null,
           "title": "草莓满月仪式和生产纪实短片",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.skyue.com/26020120.html",
-          "author": "拾月",
-          "description": "上篇草莓熟了评论区收到非常多朋友的祝福，感谢大家！这周五给小草莓拍了人生第一套写真，并录了一段祝福视频。（感觉本博客尽早变成晒娃博客）",
-          "link": "https://www.skyue.com/26020120.html",
-          "publishedOn": "2026-02-01T12:49:00.000Z",
-          "wordCount": null,
-          "title": "草莓第一次写真",
           "imageUrl": null
         }
       ]
@@ -3339,12 +3349,6 @@
       ]
     },
     {
-      "title": "东评西就",
-      "feedUrl": "https://dongjunke.cn/atom.xml",
-      "siteUrl": "https://dongjunke.cn/atom.xml",
-      "articles": []
-    },
-    {
       "title": "Bensz",
       "feedUrl": "https://blognas.hwb0307.com/feed",
       "siteUrl": "https://blognas.hwb0307.com/",
@@ -3407,16 +3411,6 @@
           "publishedOn": "2026-02-07T05:38:50.000Z",
           "wordCount": null,
           "title": "AI入门系列 Mac：AI时代不容忽视的设备",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blognas.hwb0307.com/other/6990",
-          "author": "Bensz",
-          "description": "Bensz\n开源项目与平台应用之争：OpenAI Prism vs. ChineseResearchLaTeX\n本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 OpenAI Prism 是基于 GPT-5.2 的免费 AI 原生科研协作平台，于 2026 年 1 月发布1 OpenAI 除 ChatGPT 外，在消费级产品领域屡屡受挫，GPTs/GPT Store 发布不到 6 个月就宣告失败2, 3 ChineseResearchLaTeX 早在 2025 年 11 月就开始探索 Vibe Coding 驱动的科研写作辅助，比 Prism 更早拥抱 AI 原生理念4 开源方案在平台自由度、模型选择、成本控制和数据隐私方面具有显著优势 科研工作者应根据自身需求，在云端便捷性与本地数据安全之间做出理性选择 前言 这几天，OpenAI 发布了一款名 […]\nBensz",
-          "link": "https://blognas.hwb0307.com/other/6990",
-          "publishedOn": "2026-02-02T13:24:29.000Z",
-          "wordCount": null,
-          "title": "开源项目与平台应用之争：OpenAI Prism vs. ChineseResearchLaTeX",
           "imageUrl": null
         }
       ]
@@ -3842,6 +3836,16 @@
       "feedUrl": "https://panzhixiang.cn/atom.xml",
       "siteUrl": "https://panzhixiang.cn/atom.xml",
       "articles": [
+        {
+          "id": "https://panzhixiang.cn/2026/pi-agent-extension-design/",
+          "author": null,
+          "description": "分析 Pi Agent 的扩展系统设计，探讨其在简洁与可定制性之间的平衡，以及 70+ 官方扩展示例背后的设计哲学。",
+          "link": "https://panzhixiang.cn/2026/pi-agent-extension-design/",
+          "publishedOn": "2026-05-01T16:00:00.000Z",
+          "wordCount": null,
+          "title": "这个开源 Agent 框架的核心设计，可能是目前最「聪明」的取舍",
+          "imageUrl": null
+        },
         {
           "id": "https://panzhixiang.cn/2026/claude-code-context-compression/",
           "author": null,
