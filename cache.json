@@ -66,6 +66,26 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
+          "id": "https://daverupert.com/2026/05/vibe-check-42/",
+          "author": null,
+          "description": "Forgive me, Reader. It’s been five months since my last vibe check. That’s a lot of ground to cover and it’s not possible to get into everything that happened. Like in real life conversations, instead of telling you how I’m doing, I’ll tell you what I’ve been doing these past few months.\nA trip to Seattle\nAn underwhelming, low-res photo I took on my Kodak Charmera\n\nIn March I went to Redmond, WA for “Meetup Week” at work. This was my second visit to the mothership in two years of working at Microsoft. Ideally, I’d go up more… but not too much… so this is fine. We’re a high-functioning remote team even though nearly everyone on the team has been RTO’d.\nSpeaking of my team, the people I get to work with are super great. Talented, friendly people I’m lucky to work with. We’re a scrappy bunch …",
+          "link": "https://daverupert.com/2026/05/vibe-check-42/",
+          "publishedOn": "2026-05-05T13:41:00.000Z",
+          "wordCount": null,
+          "title": "Vibe Check №42",
+          "imageUrl": null
+        },
+        {
+          "id": "https://daverupert.com/2026/05/small-language-models-in-the-browser/",
+          "author": null,
+          "description": "I have complex feelings about Generative AI but one area I find myself weirdly bullish on is small language models (SLMs) in the browser which are available in Chrome and Edge behind an experimental flag.\nI know, I know.\nI know.\nAI in the browser reeks of a product manager trying to hit a KPI to shoehorn AI into everything. I understand if you read the phrase “AI in the browser” and involuntarily threw up on your keyboard, said “Fuck this”, and then closed this tab. I will not hold that against you. For the rest of you, hear me out…\nThere’s an “Always bet on the Web” quality to the idea of browser-based models that I appreciate. There’s a self-hosted vibe to it. I shouldn’t have to pay a billionaire each month to summarize an email or generate a picture of myself with ultra-white teeth, do…",
+          "link": "https://daverupert.com/2026/05/small-language-models-in-the-browser/",
+          "publishedOn": "2026-05-04T00:33:00.000Z",
+          "wordCount": null,
+          "title": "The duality of language models in the browser",
+          "imageUrl": null
+        },
+        {
           "id": "https://daverupert.com/2026/04/if-i-could-watt-10-000-florps/",
           "author": null,
           "description": "The use of AI is leading to burnout among its greatest advocates as they hit the limit of their meta-cognitive abilities:\n“I end each day exhausted—not from the work itself, but from the managing of the work. Six worktrees open, four half-written features, two ‘quick fixes’ that spawned rabbit holes, and a growing sense that I’m losing the plot entirely.”\nAs someone with ADHD, this sounds painfully familiar. I’ve been spinning up workloads like that my whole life chasing the dopamine dragon. And as my fellow neuro-spicy siblings all know, there’s the thinnest of lines between “Oh wow I’m going so fast!” having fun being optimally stimulated and “Oh shit fuck no ow help cry ow” collapsing on the floor in desperation. It all reminds me of an old business book…\nThe Goal by Eliyahu M Goldratt …",
@@ -163,16 +183,6 @@
           "publishedOn": "2026-02-09T16:03:00.000Z",
           "wordCount": null,
           "title": "Magic Words",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2026/02/futurescapes/",
-          "author": null,
-          "description": "There’s a lot that’s not going well; politics, tech bubbles, the economy, and so on. I spend most of my day reading angry tweets and blog posts. There’s a lot to be upset about, so that’s understandable. But in the interest of fostering better discourse, I’d like to offer a challenge that I think the world desperately needs right now: It’s cheap and easy to complain and say “[Thing] is bad”, but it’s also free to share what you think would be better.\nIf complaining worked, we would have won the culture war already. We’d have a reformed Elon and the White House wouldn’t be committing crimes against humanity. But that’s not the world we live in. The one we live in is much worse. If you hate the here and now, write about what would be a better future. Write about what’s good and why more of t…",
-          "link": "https://daverupert.com/2026/02/futurescapes/",
-          "publishedOn": "2026-02-04T15:45:00.000Z",
-          "wordCount": null,
-          "title": "Write about the future you want",
           "imageUrl": null
         }
       ]
@@ -876,6 +886,26 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=311632",
+          "author": "Brandon Lee",
+          "description": "I first wrote about Patchmon in its v1 form back at the end of 2025. It immediately stood out to me as something that filled a real gap in the…\nThe post PatchMon V2 Finally Lets You Patch Your Servers From One Dashboard appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/05/patchmon-v2-finally-lets-you-patch-your-servers-from-one-dashboard/",
+          "publishedOn": "2026-05-05T12:12:22.000Z",
+          "wordCount": null,
+          "title": "PatchMon V2 Finally Lets You Patch Your Servers From One Dashboard",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=311551",
+          "author": "Brandon Lee",
+          "description": "When you are taking advantage of a Proxmox cluster with Live Migration, there is a chance that you have seen instances of when you are trying to migrate a VM…\nThe post VM Migration in Proxmox Kept Breaking Until I Fixed This CPU Setting appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/05/vm-migration-in-proxmox-kept-breaking-until-i-fixed-this-cpu-setting/",
+          "publishedOn": "2026-05-04T13:30:02.000Z",
+          "wordCount": null,
+          "title": "VM Migration in Proxmox Kept Breaking Until I Fixed This CPU Setting",
+          "imageUrl": null
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=311698",
           "author": "Brandon Lee",
@@ -1615,26 +1645,6 @@
           "wordCount": null,
           "title": "Proxmox Cluster Operations Every Home Labber Hopes They Never Need (Until They Do)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=309192",
-          "author": "Brandon Lee",
-          "description": "If you are working with more than a single Proxmox VE Server host, you are probably already thinking in terms of cluster management. Storage is also probably clustered. Your networking…\nThe post ClusterShell for Proxmox VE is How I Manage Every Host in My Home Lab at Once appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/02/clustershell-for-proxmox-ve-is-how-i-manage-every-host-in-my-home-lab-at-once/",
-          "publishedOn": "2026-02-04T13:11:39.000Z",
-          "wordCount": null,
-          "title": "ClusterShell for Proxmox VE is How I Manage Every Host in My Home Lab at Once",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=309148",
-          "author": "Brandon Lee",
-          "description": "As you all know if you have been keeping up with my home lab adventures as of late, I have been heavily diving into Proxmox VE Server and Ceph software-defined…\nThe post I Bought a 10 Gig Switch to Fix My Proxmox Ceph Cluster and It Changed Everything appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/02/i-bought-a-10-gig-switch-to-fix-my-proxmox-ceph-cluster-and-it-changed-everything/",
-          "publishedOn": "2026-02-03T13:13:36.000Z",
-          "wordCount": null,
-          "title": "I Bought a 10 Gig Switch to Fix My Proxmox Ceph Cluster and It Changed Everything",
-          "imageUrl": null
         }
       ]
     },
@@ -1643,6 +1653,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/choosing-between-rag-and-fine-tuning-for-your-ai-applications/",
+          "author": "Collabnix Team",
+          "description": "Explore the strengths and weaknesses of Retrieval-Augmented Generation versus fine-tuning to optimize AI applications effectively.",
+          "link": "https://collabnix.com/choosing-between-rag-and-fine-tuning-for-your-ai-applications/",
+          "publishedOn": "2026-05-05T03:56:04.000Z",
+          "wordCount": null,
+          "title": "Choosing Between RAG and Fine-Tuning for Your AI Applications",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/upcoming-innovations-in-openclaw-the-future-of-the-ai-agent-framework/",
+          "author": "Collabnix Team",
+          "description": "Explore OpenClaw's roadmap and community efforts, focusing on future advancements and collaborative innovation in AI agent development.",
+          "link": "https://collabnix.com/upcoming-innovations-in-openclaw-the-future-of-the-ai-agent-framework/",
+          "publishedOn": "2026-05-04T04:16:07.000Z",
+          "wordCount": null,
+          "title": "Upcoming Innovations in OpenClaw: The Future of the AI Agent Framework",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/empowering-openclaw-agents-with-memory-persistence-across-sessions/",
           "author": "Collabnix Team",
@@ -3042,56 +3072,6 @@
           "wordCount": null,
           "title": "SuperCool Technical Deep Dive: Architecture of Autonomous Creation",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=71676",
-          "author": "Collabnix Team",
-          "description": "Learn everything about OpenClaw — the open-source AI personal assistant with 149K+ GitHub stars. This guide covers installation, Docker setup, skills, security best practices, and how OpenClaw compares to other AI agents.",
-          "link": "https://collabnix.com/openclaw-the-complete-guide-to-the-open-source-ai-personal-assistant/",
-          "publishedOn": "2026-02-05T07:55:55.000Z",
-          "wordCount": null,
-          "title": "OpenClaw: The Complete Guide to the Open-Source AI Personal Assistant",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=71672",
-          "author": "Collabnix Team",
-          "description": "Think of it this way — if Claude Code is your new hire with incredible raw talent, Skills are the onboarding playbook that turns them into a domain expert on day one. The developer tooling landscape shifted dramatically in 2025. We went from “AI that writes code snippets” to “AI that understands your entire codebase, […]",
-          "link": "https://collabnix.com/claude-code-and-skills-turning-ai-from-a-chatbot-into-your-personal-developer-team/",
-          "publishedOn": "2026-02-05T07:33:54.000Z",
-          "wordCount": null,
-          "title": "Claude Code and Skills: Turning AI from a Chatbot into Your Personal Developer Team",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=71648",
-          "author": "Tanvir Kour",
-          "description": "Organizations that seek the help of financial strategy consulting invest in better resource utilization. Most companies ask for a consultation to spend money at the right place to gain maximum return. Consultants offer an independent view on an organization that allows them to see where change is necessary. Having their wisdom typically leads to increased […]",
-          "link": "https://collabnix.com/how-financial-strategy-consulting-helps-businesses-optimize-resources/",
-          "publishedOn": "2026-02-04T07:19:20.000Z",
-          "wordCount": null,
-          "title": "How Financial Strategy Consulting Helps Businesses Optimize Resources",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=71642",
-          "author": "Tanvir Kour",
-          "description": "Businesses looking to keep supply and demand in balance need accurate forecasting of demand. Unfortunately, traditional methods of forecasting generally fail because markets tend to change almost instantly. The answer to forecasting errors for demand planning in the supply chain is now more intelligent than ever, with artificial intelligence now being the main driver for […]",
-          "link": "https://collabnix.com/how-ai-driven-demand-planning-reduces-forecasting-errors/",
-          "publishedOn": "2026-02-04T07:10:29.000Z",
-          "wordCount": null,
-          "title": "How AI-Driven Demand Planning Reduces Forecasting Errors",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=71619",
-          "author": "Tanvir Kour",
-          "description": "The global financial markets have undergone a total metamorphosis, shifting from the adrenaline-fueled physical pits to the silent, sub-millisecond precision of the server rack. Today, a majority of global trading volume is executed algorithmically, while passive strategies account for a substantial and growing share of assets under management, leaving a shrinking, but still meaningful role […]",
-          "link": "https://collabnix.com/algorithmic-trading-explained-from-strategy-design-to-automated-trading-systems/",
-          "publishedOn": "2026-02-03T04:23:12.000Z",
-          "wordCount": null,
-          "title": "Algorithmic Trading Explained: From Strategy Design to Automated Trading Systems",
-          "imageUrl": null
         }
       ]
     },
@@ -3099,18 +3079,7 @@
       "title": "Limboy's Essays",
       "feedUrl": "https://limboy.me/index.xml",
       "siteUrl": "https://limboy.me/",
-      "articles": [
-        {
-          "id": "https://limboy.me/posts/chrome-extension-vibe-coding-container",
-          "author": null,
-          "description": "",
-          "link": "https://limboy.me/posts/chrome-extension-vibe-coding-container",
-          "publishedOn": "2026-02-04T00:00:00.000Z",
-          "wordCount": null,
-          "title": "Chrome Extension 是 Vibe Coding 的绝佳载体",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "This Cute World",

@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-05-03T14:54:23.090Z</updated>
+    <updated>2026-05-05T22:30:04.040Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Vibe Check №42]]></title>
+        <id>https://daverupert.com/2026/05/vibe-check-42/</id>
+        <link href="https://daverupert.com/2026/05/vibe-check-42/"/>
+        <updated>2026-05-05T13:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Forgive me, Reader. It’s been five months since my last vibe check. That’s a lot of ground to cover and it’s not possible to get into everything that happened. Like in real life conversations, instead of telling you how I’m doing, I’ll tell you what I’ve been doing these past few months.
+A trip to Seattle
+An underwhelming, low-res photo I took on my Kodak Charmera
+
+In March I went to Redmond, WA for “Meetup Week” at work. This was my second visit to the mothership in two years of working at Microsoft. Ideally, I’d go up more… but not too much… so this is fine. We’re a high-functioning remote team even though nearly everyone on the team has been RTO’d.
+Speaking of my team, the people I get to work with are super great. Talented, friendly people I’m lucky to work with. We’re a scrappy bunch …]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PatchMon V2 Finally Lets You Patch Your Servers From One Dashboard]]></title>
+        <id>https://www.virtualizationhowto.com/?p=311632</id>
+        <link href="https://www.virtualizationhowto.com/2026/05/patchmon-v2-finally-lets-you-patch-your-servers-from-one-dashboard/"/>
+        <updated>2026-05-05T12:12:22.000Z</updated>
+        <summary type="html"><![CDATA[I first wrote about Patchmon in its v1 form back at the end of 2025. It immediately stood out to me as something that filled a real gap in the…
+The post PatchMon V2 Finally Lets You Patch Your Servers From One Dashboard appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Choosing Between RAG and Fine-Tuning for Your AI Applications]]></title>
+        <id>https://collabnix.com/choosing-between-rag-and-fine-tuning-for-your-ai-applications/</id>
+        <link href="https://collabnix.com/choosing-between-rag-and-fine-tuning-for-your-ai-applications/"/>
+        <updated>2026-05-05T03:56:04.000Z</updated>
+        <summary type="html"><![CDATA[Explore the strengths and weaknesses of Retrieval-Augmented Generation versus fine-tuning to optimize AI applications effectively.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VM Migration in Proxmox Kept Breaking Until I Fixed This CPU Setting]]></title>
+        <id>https://www.virtualizationhowto.com/?p=311551</id>
+        <link href="https://www.virtualizationhowto.com/2026/05/vm-migration-in-proxmox-kept-breaking-until-i-fixed-this-cpu-setting/"/>
+        <updated>2026-05-04T13:30:02.000Z</updated>
+        <summary type="html"><![CDATA[When you are taking advantage of a Proxmox cluster with Live Migration, there is a chance that you have seen instances of when you are trying to migrate a VM…
+The post VM Migration in Proxmox Kept Breaking Until I Fixed This CPU Setting appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upcoming Innovations in OpenClaw: The Future of the AI Agent Framework]]></title>
+        <id>https://collabnix.com/upcoming-innovations-in-openclaw-the-future-of-the-ai-agent-framework/</id>
+        <link href="https://collabnix.com/upcoming-innovations-in-openclaw-the-future-of-the-ai-agent-framework/"/>
+        <updated>2026-05-04T04:16:07.000Z</updated>
+        <summary type="html"><![CDATA[Explore OpenClaw's roadmap and community efforts, focusing on future advancements and collaborative innovation in AI agent development.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The duality of language models in the browser]]></title>
+        <id>https://daverupert.com/2026/05/small-language-models-in-the-browser/</id>
+        <link href="https://daverupert.com/2026/05/small-language-models-in-the-browser/"/>
+        <updated>2026-05-04T00:33:00.000Z</updated>
+        <summary type="html"><![CDATA[I have complex feelings about Generative AI but one area I find myself weirdly bullish on is small language models (SLMs) in the browser which are available in Chrome and Edge behind an experimental flag.
+I know, I know.
+I know.
+AI in the browser reeks of a product manager trying to hit a KPI to shoehorn AI into everything. I understand if you read the phrase “AI in the browser” and involuntarily threw up on your keyboard, said “Fuck this”, and then closed this tab. I will not hold that against you. For the rest of you, hear me out…
+There’s an “Always bet on the Web” quality to the idea of browser-based models that I appreciate. There’s a self-hosted vibe to it. I shouldn’t have to pay a billionaire each month to summarize an email or generate a picture of myself with ultra-white teeth, do…]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Empowering OpenClaw Agents with Memory: Persistence Across Sessions]]></title>
         <id>https://collabnix.com/empowering-openclaw-agents-with-memory-persistence-across-sessions/</id>
@@ -4635,16 +4706,6 @@ The post Proxmox Cluster Operations Every Home Labber Hopes They Never Need (Unt
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenClaw: The Complete Guide to the Open-Source AI Personal Assistant]]></title>
-        <id>https://collabnix.com/?p=71676</id>
-        <link href="https://collabnix.com/openclaw-the-complete-guide-to-the-open-source-ai-personal-assistant/"/>
-        <updated>2026-02-05T07:55:55.000Z</updated>
-        <summary type="html"><![CDATA[Learn everything about OpenClaw — the open-source AI personal assistant with 149K+ GitHub stars. This guide covers installation, Docker setup, skills, security best practices, and how OpenClaw compares to other AI agents.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Apollo配置中心中的protalDB的作用是什么]]></title>
         <id>https://www.lifengdi.com/?p=4689</id>
         <link href="https://www.lifengdi.com/zhong-jian-jian/4689"/>
@@ -4652,16 +4713,6 @@ The post Proxmox Cluster Operations Every Home Labber Hopes They Never Need (Unt
         <summary type="html"><![CDATA[portalDB的是Apollo Portal（配置管理门户）的专属关系型数据库，是支撑Portal前端所有管理操作的核心数据底座——所有通过Portal页面进行的配置管理、权限控制、项目组织等操作的元数据、权限数据、操作日志，都会持久化存储在portalDB中。 同时要注意，Apollo的portalDB和负责存储具 […]]]></summary>
         <author>
             <name>李锋镝</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code and Skills: Turning AI from a Chatbot into Your Personal Developer Team]]></title>
-        <id>https://collabnix.com/?p=71672</id>
-        <link href="https://collabnix.com/claude-code-and-skills-turning-ai-from-a-chatbot-into-your-personal-developer-team/"/>
-        <updated>2026-02-05T07:33:54.000Z</updated>
-        <summary type="html"><![CDATA[Think of it this way — if Claude Code is your new hire with incredible raw talent, Skills are the onboarding playbook that turns them into a domain expert on day one. The developer tooling landscape shifted dramatically in 2025. We went from “AI that writes code snippets” to “AI that understands your entire codebase, […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
         </author>
     </entry>
     <entry>
@@ -4695,28 +4746,6 @@ The post Proxmox Cluster Operations Every Home Labber Hopes They Never Need (Unt
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Write about the future you want]]></title>
-        <id>https://daverupert.com/2026/02/futurescapes/</id>
-        <link href="https://daverupert.com/2026/02/futurescapes/"/>
-        <updated>2026-02-04T15:45:00.000Z</updated>
-        <summary type="html"><![CDATA[There’s a lot that’s not going well; politics, tech bubbles, the economy, and so on. I spend most of my day reading angry tweets and blog posts. There’s a lot to be upset about, so that’s understandable. But in the interest of fostering better discourse, I’d like to offer a challenge that I think the world desperately needs right now: It’s cheap and easy to complain and say “[Thing] is bad”, but it’s also free to share what you think would be better.
-If complaining worked, we would have won the culture war already. We’d have a reformed Elon and the White House wouldn’t be committing crimes against humanity. But that’s not the world we live in. The one we live in is much worse. If you hate the here and now, write about what would be a better future. Write about what’s good and why more of t…]]></summary>
-        <author>
-            <name>daverupert.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ClusterShell for Proxmox VE is How I Manage Every Host in My Home Lab at Once]]></title>
-        <id>https://www.virtualizationhowto.com/?p=309192</id>
-        <link href="https://www.virtualizationhowto.com/2026/02/clustershell-for-proxmox-ve-is-how-i-manage-every-host-in-my-home-lab-at-once/"/>
-        <updated>2026-02-04T13:11:39.000Z</updated>
-        <summary type="html"><![CDATA[If you are working with more than a single Proxmox VE Server host, you are probably already thinking in terms of cluster management. Storage is also probably clustered. Your networking…
-The post ClusterShell for Proxmox VE is How I Manage Every Host in My Home Lab at Once appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[org.apache.ibatis.plugin.Interceptor类详细介绍及使用]]></title>
         <id>https://www.lifengdi.com/?p=4688</id>
         <link href="https://www.lifengdi.com/hou-duan/4688"/>
@@ -4737,35 +4766,6 @@ The post ClusterShell for Proxmox VE is How I Manage Every Host in My Home Lab a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How Financial Strategy Consulting Helps Businesses Optimize Resources]]></title>
-        <id>https://collabnix.com/?p=71648</id>
-        <link href="https://collabnix.com/how-financial-strategy-consulting-helps-businesses-optimize-resources/"/>
-        <updated>2026-02-04T07:19:20.000Z</updated>
-        <summary type="html"><![CDATA[Organizations that seek the help of financial strategy consulting invest in better resource utilization. Most companies ask for a consultation to spend money at the right place to gain maximum return. Consultants offer an independent view on an organization that allows them to see where change is necessary. Having their wisdom typically leads to increased […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI-Driven Demand Planning Reduces Forecasting Errors]]></title>
-        <id>https://collabnix.com/?p=71642</id>
-        <link href="https://collabnix.com/how-ai-driven-demand-planning-reduces-forecasting-errors/"/>
-        <updated>2026-02-04T07:10:29.000Z</updated>
-        <summary type="html"><![CDATA[Businesses looking to keep supply and demand in balance need accurate forecasting of demand. Unfortunately, traditional methods of forecasting generally fail because markets tend to change almost instantly. The answer to forecasting errors for demand planning in the supply chain is now more intelligent than ever, with artificial intelligence now being the main driver for […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome Extension 是 Vibe Coding 的绝佳载体]]></title>
-        <id>https://limboy.me/posts/chrome-extension-vibe-coding-container</id>
-        <link href="https://limboy.me/posts/chrome-extension-vibe-coding-container"/>
-        <updated>2026-02-04T00:00:00.000Z</updated>
-        <author>
-            <name>Limboy's Essays</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[lucasgelfond/zerobrew: 即插即用，速度提升 5 至 20 倍，实验性的 Homebrew 替代品。]]></title>
         <id>https://github.com/lucasgelfond/zerobrew</id>
         <link href="https://github.com/lucasgelfond/zerobrew"/>
@@ -4783,27 +4783,6 @@ The post ClusterShell for Proxmox VE is How I Manage Every Host in My Home Lab a
         <summary type="html"><![CDATA[A beautiful error page for PHP applications. Contribute to bim-g/hitilafu development by creating an account on GitHub.]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Bought a 10 Gig Switch to Fix My Proxmox Ceph Cluster and It Changed Everything]]></title>
-        <id>https://www.virtualizationhowto.com/?p=309148</id>
-        <link href="https://www.virtualizationhowto.com/2026/02/i-bought-a-10-gig-switch-to-fix-my-proxmox-ceph-cluster-and-it-changed-everything/"/>
-        <updated>2026-02-03T13:13:36.000Z</updated>
-        <summary type="html"><![CDATA[As you all know if you have been keeping up with my home lab adventures as of late, I have been heavily diving into Proxmox VE Server and Ceph software-defined…
-The post I Bought a 10 Gig Switch to Fix My Proxmox Ceph Cluster and It Changed Everything appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algorithmic Trading Explained: From Strategy Design to Automated Trading Systems]]></title>
-        <id>https://collabnix.com/?p=71619</id>
-        <link href="https://collabnix.com/algorithmic-trading-explained-from-strategy-design-to-automated-trading-systems/"/>
-        <updated>2026-02-03T04:23:12.000Z</updated>
-        <summary type="html"><![CDATA[The global financial markets have undergone a total metamorphosis, shifting from the adrenaline-fueled physical pits to the silent, sub-millisecond precision of the server rack. Today, a majority of global trading volume is executed algorithmically, while passive strategies account for a substantial and growing share of assets under management, leaving a shrinking, but still meaningful role […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
         </author>
     </entry>
     <entry>
