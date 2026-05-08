@@ -2,10 +2,102 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-05-05T22:30:04.040Z</updated>
+    <updated>2026-05-08T22:29:53.993Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why Proxmox Wasn’t Reclaiming Storage Until I Fixed This Setting]]></title>
+        <id>https://www.virtualizationhowto.com/?p=311713</id>
+        <link href="https://www.virtualizationhowto.com/2026/05/why-proxmox-wasnt-reclaiming-storage-until-i-fixed-this-setting/"/>
+        <updated>2026-05-08T12:06:48.000Z</updated>
+        <summary type="html"><![CDATA[Maybe you have been in this situation where you know you are deleting data inside your virtual machines running in Proxmox. You see the disk usage drop inside the guest…
+The post Why Proxmox Wasn’t Reclaiming Storage Until I Fixed This Setting appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shipping Better Meetups: How Tech Events Are Getting an “Event OS” Upgrade]]></title>
+        <id>https://collabnix.com/?p=73544</id>
+        <link href="https://collabnix.com/shipping-better-meetups-how-tech-events-are-getting-an-event-os-upgrade/"/>
+        <updated>2026-05-08T10:31:33.000Z</updated>
+        <summary type="html"><![CDATA[Transforming Tech Events with an Event OS Upgrade Most engineering teams have sophisticated tooling for their code, but when it comes to tech meetups or conferences, the stack often drops back to spreadsheets, chat threads, and manually stitched tools. For organizers, that fragmentation shows up as familiar pain points: juggling venues, sponsors, speakers, and attendees […]]]></summary>
+        <author>
+            <name>Simran Agarwal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breaking Down the Cost of Running AI in Production: A Comprehensive Guide]]></title>
+        <id>https://collabnix.com/breaking-down-the-cost-of-running-ai-in-production-a-comprehensive-guide/</id>
+        <link href="https://collabnix.com/breaking-down-the-cost-of-running-ai-in-production-a-comprehensive-guide/"/>
+        <updated>2026-05-08T03:59:04.000Z</updated>
+        <summary type="html"><![CDATA[Explore the real-world costs of running AI models in production, from data management to infrastructure choices, in this comprehensive guide.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么要写作]]></title>
+        <id>https://limboy.me/posts/why-write</id>
+        <link href="https://limboy.me/posts/why-write"/>
+        <updated>2026-05-08T00:00:00.000Z</updated>
+        <author>
+            <name>Limboy's Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxmox Networking Mistakes That Quietly Break Your Home Lab]]></title>
+        <id>https://www.virtualizationhowto.com/?p=311499</id>
+        <link href="https://www.virtualizationhowto.com/2026/05/proxmox-networking-mistakes-that-quietly-break-your-home-lab/"/>
+        <updated>2026-05-07T12:01:39.000Z</updated>
+        <summary type="html"><![CDATA[On the surface of things, I really like Proxmox networking. It is straightforward and based around Linux bridges which are powerful in their own right. You get the default Linux…
+The post Proxmox Networking Mistakes That Quietly Break Your Home Lab appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Containerizing AI Agent Workflows with OpenClaw and Docker]]></title>
+        <id>https://collabnix.com/containerizing-ai-agent-workflows-with-openclaw-and-docker/</id>
+        <link href="https://collabnix.com/containerizing-ai-agent-workflows-with-openclaw-and-docker/"/>
+        <updated>2026-05-07T04:12:10.000Z</updated>
+        <summary type="html"><![CDATA[Unlock the potential of AI agent workflows with OpenClaw and Docker, exploring how containerization simplifies deployment and management of AI applications.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OneNav重构版ZMark公测：早鸟福利已开启]]></title>
+        <id>https://blog.xiaoz.org/?p=22963</id>
+        <link href="https://blog.xiaoz.org/archives/22963"/>
+        <updated>2026-05-07T02:35:38.000Z</updated>
+        <summary type="html"><![CDATA[OneNav书签管理从2020年开源至今，已经差不多6年了，期间陆续有用户给xiaoz提建议希望OneNav支持多用户，但由于OneNav的框架非常古老，维护和修改越来越困难，所以OneNav目前依然不支持多用户。但好消息是OneNav重构版ZMark已经开始公测，依然是xiaoz开发，还是熟悉的配]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Tried This New Open Source Kubernetes Dashboard and It’s Surprisingly Good]]></title>
+        <id>https://www.virtualizationhowto.com/?p=311548</id>
+        <link href="https://www.virtualizationhowto.com/2026/05/i-tried-this-new-open-source-kubernetes-dashboard-and-its-surprisingly-good/"/>
+        <updated>2026-05-06T12:54:54.000Z</updated>
+        <summary type="html"><![CDATA[I have been through a lot of the Kubernetes dashboards in my home lab and now that I am running my home lab “production” workloads on Kubernetes, I am keenly…
+The post I Tried This New Open Source Kubernetes Dashboard and It’s Surprisingly Good appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Custom AI Agent with OpenClaw in 30 Minutes]]></title>
+        <id>https://collabnix.com/building-a-custom-ai-agent-with-openclaw-in-30-minutes/</id>
+        <link href="https://collabnix.com/building-a-custom-ai-agent-with-openclaw-in-30-minutes/"/>
+        <updated>2026-05-06T04:13:17.000Z</updated>
+        <summary type="html"><![CDATA[Discover how to efficiently build a custom AI agent using the OpenClaw framework in just 30 minutes, understanding the essentials for successful agent development.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vibe Check №42]]></title>
         <id>https://daverupert.com/2026/05/vibe-check-42/</id>
@@ -4458,91 +4550,6 @@ Bensz]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[乌托邦咖啡]]></title>
-        <id>https://bluehe.cn/archives/utopia-cafe</id>
-        <link href="https://bluehe.cn/archives/utopia-cafe"/>
-        <updated>2026-02-08T05:27:00.000Z</updated>
-        <summary type="html"><![CDATA[1月25日，天气阴沉沉的，还有些毛毛雨，这样的天气只能跟同学在咖啡店休息会，这家店就叫Utopia Cafe(乌托邦咖啡)，我点的是热摩卡，老板拉花很好看，疑是i人，我在店内外不断的拍照，这也是我第一次面对这种探店风格，得脸皮厚一些，不然真不敢四处走来走去...]]></summary>
-        <author>
-            <name>寻鹤</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[南宁视角：灵龟山的落羽杉红了]]></title>
-        <id>https://bluehe.cn/archives/lingguishan-bald-cypress</id>
-        <link href="https://bluehe.cn/archives/lingguishan-bald-cypress"/>
-        <updated>2026-02-08T05:26:00.000Z</updated>
-        <summary type="html"><![CDATA[2026年1月11日，黎同学问我要不要一起去灵龟山转转，就此我们四个人自驾前往，28km左右，我们居住在北边，而灵龟山在东南方向，而且在那边邕江把两地隔开，仅有一座桥连通使得有些堵。
-
-因为山体形似巨龟，称为灵龟山，这里就是南宁其中之一的滨江主题公园，秋冬...]]></summary>
-        <author>
-            <name>寻鹤</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why AI Agents Need Sandboxing]]></title>
-        <id>https://collabnix.com/?p=71738</id>
-        <link href="https://collabnix.com/why-ai-agents-need-sandboxing/"/>
-        <updated>2026-02-08T04:00:41.000Z</updated>
-        <summary type="html"><![CDATA[The Importance of Sandboxing for AI Agents AI agents are getting really good at their jobs. That’s the problem. A year ago, most of us were copy-pasting code suggestions from a chatbot. Now we’re handing agents the keys to our terminals, our file systems, our package managers, our cloud credentials — and telling them to […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[千问ai的生态服务融合]]></title>
-        <id>https://bluehe.cn/archives/ai-qianwen</id>
-        <link href="https://bluehe.cn/archives/ai-qianwen"/>
-        <updated>2026-02-08T03:38:00.000Z</updated>
-        <summary type="html"><![CDATA[2月6日，早上上班发现群里在开始宣传千问送25元免单卡的跳转链接，这不就直接在手机上安装好千问APP，登录送了一张，点了0.01一杯霸王茶姬，当时的网络很流畅。
-根据提示去下单，首先是绑定淘宝闪送，支付的时候开启支付宝A付服务，这里会优先开启定位，推荐附近...]]></summary>
-        <author>
-            <name>寻鹤</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker 代理配置机制与作用域]]></title>
-        <id>https://www.iots.vip/post/docker-proxy-mechanism</id>
-        <link href="https://www.iots.vip/post/docker-proxy-mechanism"/>
-        <updated>2026-02-08T02:55:55.000Z</updated>
-        <summary type="html"><![CDATA[<p>　　Docker 中的代理配置存在多个作用层级, 不同配置方式影响的范围完全不同。本文基于官方文档，对各层代理机制梳理说明, 以便区分。]]></summary>
-        <author>
-            <name>Alliot's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[自己动手实现NAS公网访问]]></title>
-        <id>https://www.ssgeek.com/blog/nas-public-access</id>
-        <link href="https://www.ssgeek.com/blog/nas-public-access"/>
-        <updated>2026-02-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[自己动手实现NAS公网访问，让家里的NAS设备在外网也能访问，既方便又安全]]></summary>
-        <author>
-            <name>山山仙人博客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[优雅解决国内 AI 大模型下载缓慢问题]]></title>
-        <id>https://www.txisfine.cn/archives/fa560251.html</id>
-        <link href="https://www.txisfine.cn/archives/fa560251.html"/>
-        <updated>2026-02-07T17:17:02.000Z</updated>
-        <summary type="html"><![CDATA[<p>书接前文<a href="/archives/8efde3fe.html">优雅解决国内安装 Ollama 下载慢及卡顿的问题</a>，我们在安装 Ollama 之后，还需要下载模型才能开始 AI 的学习和使用。有些模型并没有上架 Ollama 官方库，需要我们从 Hugging Face 或者 ModelScope 上面下载。AI 的模型动辄十几个 GB 或者几十个 GB，由于网络环境的原因，从这些站点拉取模型往往非常缓慢。</p>
-<p>那么我们如何减小因为网络带来的阻碍呢？</p>
-<p><a href="https://cnb.cool/">CNB.cool</a> 是腾讯云为开发者提供的下一代开发平台，基于 Docker 生态，把环境、缓存、插件一并纳入声明式管理，用更聪明的方式重新定义软件构建。它既是 Git 仓库，也是高性能开发和构建环境（支持 GPU）。 同时，CNB.cool 的仓库原生支持 Docker Model，玩法非常丰富。</p>]]></summary>
-        <author>
-            <name>弹霄博科</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BGP 跨 RIR 查询 AS-SET]]></title>
-        <id>https://www.txisfine.cn/archives/fd5a7788.html</id>
-        <link href="https://www.txisfine.cn/archives/fd5a7788.html"/>
-        <updated>2026-02-07T16:35:48.000Z</updated>
-        <summary type="html"><![CDATA[<p>我们在中国香港的网络服务商使用 AS-SET 自动生成前缀过滤器，这是当前主流且相对安全的做法：<br>上游会根据客户提供的 AS-SET，从 IRR 数据库中解析可接受的 route &#x2F; route6，从而自动生成 BGP import policy。</p>]]></summary>
-        <author>
-            <name>弹霄博科</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[sbarex/SourceCodeSyntaxHighlight: 该应用程序为 macOS 10.15 Catalina 及更高版本提供了快速查看扩展，用于预览源文件。内部使用 Highlight 渲染带有语法高亮的源代码。]]></title>
         <id>https://github.com/sbarex/SourceCodeSyntaxHighlight</id>
         <link href="https://github.com/sbarex/SourceCodeSyntaxHighlight"/>
@@ -4553,16 +4560,6 @@ Bensz]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Top 9 Klaviyo Alternatives for E-commerce Brands]]></title>
-        <id>https://collabnix.com/?p=71733</id>
-        <link href="https://collabnix.com/top-9-klaviyo-alternatives-for-e-commerce-brands/"/>
-        <updated>2026-02-07T15:45:02.000Z</updated>
-        <summary type="html"><![CDATA[Looking for Klaviyo alternatives for e-commerce brands? Discover the best marketing platforms by comparing features and pricing for stores now]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[sbarex/QLMarkdown: QLMarkdown 是一个 macOS 快速查看扩展，用于预览 Markdown 文件。]]></title>
         <id>https://github.com/sbarex/QLMarkdown</id>
         <link href="https://github.com/sbarex/QLMarkdown"/>
@@ -4570,19 +4567,6 @@ Bensz]]></summary>
         <summary type="html"><![CDATA[macOS Quick Look extension for Markdown files. Contribute to sbarex/QLMarkdown development by creating an account on GitHub.]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI入门系列 Mac：AI时代不容忽视的设备]]></title>
-        <id>https://blognas.hwb0307.com/other/6994</id>
-        <link href="https://blognas.hwb0307.com/ai/6994"/>
-        <updated>2026-02-07T05:38:50.000Z</updated>
-        <summary type="html"><![CDATA[Bensz
-AI入门系列 Mac：AI时代不容忽视的设备
-本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 Vibe Coding 时代来临，Mac 作为开发者首选设备的地位愈发巩固 macOS 全球桌面操作系统市场份额达 14.59%，开发者使用率约三分之一 Mac 的 Unix 原生环境为 AI 编程工具提供近乎完美的兼容性 Apple Silicon 的统一内存架构和神经引擎为 AI 工作负载提供硬件级加速 续航与便携、触控板体验、屏幕素质、界面美学等日常体验优势显著提升开发效率 生态系统连续互通与隐私安全机制为本地 AI 计算提供理想环境 Mac mini M4 以 4,499 元起售价成为性价比之王，16GB 内存起步适配 AI 需求 2026 年春将推出搭载 A18 Pro 芯片的 […]
-Bensz]]></summary>
-        <author>
-            <name>Bensz</name>
         </author>
     </entry>
     <entry>
@@ -4614,17 +4598,6 @@ Bensz]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[This Proxmox Backup Gap Can Wipe Out Your Home Lab]]></title>
-        <id>https://www.virtualizationhowto.com/?p=309253</id>
-        <link href="https://www.virtualizationhowto.com/2026/02/this-proxmox-backup-gap-can-wipe-out-your-home-lab/"/>
-        <updated>2026-02-06T13:04:34.000Z</updated>
-        <summary type="html"><![CDATA[There is a good chance that if you are running Proxmox VE Server in your home lab today, you feel pretty good about your backup solution. Most are running Proxmox…
-The post This Proxmox Backup Gap Can Wipe Out Your Home Lab appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[jarv/newsgoat: NewsGoat 是一个基于终端的 RSS 阅读器]]></title>
         <id>https://github.com/jarv/newsgoat</id>
         <link href="https://github.com/jarv/newsgoat"/>
@@ -4645,16 +4618,6 @@ The post This Proxmox Backup Gap Can Wipe Out Your Home Lab appeared first on Vi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SuperCool Technical Deep Dive: Architecture of Autonomous Creation]]></title>
-        <id>https://collabnix.com/?p=71693</id>
-        <link href="https://collabnix.com/supercool-technical-deep-dive-architecture-of-autonomous-creation/"/>
-        <updated>2026-02-05T18:55:35.000Z</updated>
-        <summary type="html"><![CDATA[Explore the engineering behind SuperCool. This deep dive covers intent parsing, agent orchestration, and the system architecture that powers the autonomous AI execution layer.]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[wzh4869/AppPorts: 一款 macOS 工具，无缝迁移应用到外部存储并自动建立链接，释放宝贵的本地空间]]></title>
         <id>https://github.com/wzh4869/AppPorts</id>
         <link href="https://github.com/wzh4869/AppPorts"/>
@@ -4672,17 +4635,6 @@ The post This Proxmox Backup Gap Can Wipe Out Your Home Lab appeared first on Vi
         <summary type="html"><![CDATA[The Laravel AI SDK provides a unified, expressive API for interacting with AI providers such as OpenAI, Anthropic, Gemini, and more. - laravel/ai]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proxmox Cluster Operations Every Home Labber Hopes They Never Need (Until They Do)]]></title>
-        <id>https://www.virtualizationhowto.com/?p=309216</id>
-        <link href="https://www.virtualizationhowto.com/2026/02/proxmox-cluster-operations-every-home-labber-hopes-they-never-need-until-they-do/"/>
-        <updated>2026-02-05T13:43:32.000Z</updated>
-        <summary type="html"><![CDATA[If you are running a Proxmox cluster, and likely you are if you are running more than one host, there are certain tasks that you quietly hope you don’t have…
-The post Proxmox Cluster Operations Every Home Labber Hopes They Never Need (Until They Do) appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
