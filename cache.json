@@ -24,16 +24,6 @@
           "wordCount": null,
           "title": "手机使用Vectras VM安装Linux",
           "imageUrl": null
-        },
-        {
-          "id": "https://yyg.js.cool/yyg/138e817c/",
-          "author": null,
-          "description": "Termux安装配置\n文件访问授权\n\n\n1\n\ntermux-setup-storage\n\n\n更换镜像源\n<figure",
-          "link": "https://yyg.js.cool/yyg/138e817c/",
-          "publishedOn": "2026-02-09T06:05:13.000Z",
-          "wordCount": null,
-          "title": "Termux安装Python",
-          "imageUrl": null
         }
       ]
     },
@@ -173,16 +163,6 @@
           "publishedOn": "2026-02-23T03:13:00.000Z",
           "wordCount": null,
           "title": "Priority of idle hands",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2026/02/magic-words/",
-          "author": null,
-          "description": "Skills are the newest hype commodity in the world of agentic AI. Skills are text files that optionally get stapled onto the context window by the agent. You can have skills like “frontend design” or “design tokens” and if the LLM “thinks” it needs more context about that topic, it can import the contents of those files into the context to help generate a response.\nGenerally speaking, skills do an okay job at providing on-demand context. Assuming the AI model is always 12-to-18 months behind in its training data, a skill could potentially backfill any recent framework updates. A skill could potentially undo some training data biases. A skill could potentially apply some of your sensibilities to the output. I’ve seen some impressive results with design guidance skills… but I’ve also seen ton…",
-          "link": "https://daverupert.com/2026/02/magic-words/",
-          "publishedOn": "2026-02-09T16:03:00.000Z",
-          "wordCount": null,
-          "title": "Magic Words",
           "imageUrl": null
         }
       ]
@@ -886,6 +866,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=311788",
+          "author": "Brandon Lee",
+          "description": "If you are anything like me, your Proxmox environment probably started simple and then slowly evolved over time. Maybe it began with a single node running a few VMs. Then…\nThe post 5 Proxmox Optimizations Worth Doing This Weekend appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/05/5-proxmox-optimizations-worth-doing-this-weekend/",
+          "publishedOn": "2026-05-09T10:57:29.000Z",
+          "wordCount": null,
+          "title": "5 Proxmox Optimizations Worth Doing This Weekend",
+          "imageUrl": null
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=311713",
           "author": "Brandon Lee",
@@ -1645,16 +1635,6 @@
           "wordCount": null,
           "title": "Moving a Proxmox OS Drive Without Breaking Anything in Your Home Lab",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=309290",
-          "author": "Brandon Lee",
-          "description": "When you start out with Proxmox, it usually begins with a single cluster that feels clean and manageable, with the expected handful of nodes. You have shared storage, the familiar…\nThe post Managing Multiple Proxmox Clusters Gets Messy When You Want Smarter Placement appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/02/managing-multiple-proxmox-clusters-gets-messy-when-you-want-smarter-placement/",
-          "publishedOn": "2026-02-09T13:15:30.000Z",
-          "wordCount": null,
-          "title": "Managing Multiple Proxmox Clusters Gets Messy When You Want Smarter Placement",
-          "imageUrl": null
         }
       ]
     },
@@ -1663,6 +1643,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=73553",
+          "author": "Tanvir Kour",
+          "description": "Artificial intelligence is eating the enterprise, transforming the way new products are built with automated workflows.  Enterprises are now slugging it out on an entirely new battleground, amid fierce competition to hire a dwindling AI engineering talent pool. As per a recent GitHub report, AI project contributions were up 59% in 2025 compared to 2024, […]",
+          "link": "https://collabnix.com/the-future-of-hiring-ai-engineers-in-a-talent-constrained-market/",
+          "publishedOn": "2026-05-10T11:38:47.000Z",
+          "wordCount": null,
+          "title": "The Future of Hiring AI Engineers in a Talent-Constrained Market",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/what-is-claude-code-how-to-install-and-use-it-2025-guide/",
+          "author": "Collabnix Team",
+          "description": "Discover Claude Code, Anthropic's innovative AI coding assistant for terminal-based development, offering comprehensive multi-file editing, git operations, and codebase understanding.",
+          "link": "https://collabnix.com/what-is-claude-code-how-to-install-and-use-it-2025-guide/",
+          "publishedOn": "2026-05-10T04:31:00.000Z",
+          "wordCount": null,
+          "title": "What is Claude Code? How to Install and Use It [2025 Guide]",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=73544",
           "author": "Simran Agarwal",
@@ -3022,76 +3022,6 @@
           "wordCount": null,
           "title": "Harnessing the Power of Ollama: A Comprehensive Guide",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/an-in-depth-guide-to-software-agents/",
-          "author": "Collabnix Team",
-          "description": "Explore the multifaceted world of software agents—autonomous programs vital for automation and monitoring in modern tech environments.",
-          "link": "https://collabnix.com/an-in-depth-guide-to-software-agents/",
-          "publishedOn": "2026-02-10T08:46:37.000Z",
-          "wordCount": null,
-          "title": "An In-Depth Guide to Software Agents",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/enhancing-memory-in-ai-agents-integrating-short-term-and-long-term-context/",
-          "author": "Collabnix Team",
-          "description": "Explore how to effectively add both short-term and long-term memory to AI agents to enhance their contextual capabilities and operational efficiency.",
-          "link": "https://collabnix.com/enhancing-memory-in-ai-agents-integrating-short-term-and-long-term-context/",
-          "publishedOn": "2026-02-10T03:39:20.000Z",
-          "wordCount": null,
-          "title": "Enhancing Memory in AI Agents: Integrating Short-Term and Long-Term Context",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/building-an-ai-coding-agent-harness-the-power-of-machine-learning-for-code-automation/",
-          "author": "Collabnix Team",
-          "description": "Learn how to build an AI coding agent that automates the writing and testing of code using machine learning. This guide covers setting up the environment and installing the necessary libraries.",
-          "link": "https://collabnix.com/building-an-ai-coding-agent-harness-the-power-of-machine-learning-for-code-automation/",
-          "publishedOn": "2026-02-10T02:32:16.000Z",
-          "wordCount": null,
-          "title": "Building an AI Coding Agent: Harness the Power of Machine Learning for Code Automation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=71840",
-          "author": "Tanvir Kour",
-          "description": "Due to the rapid increase in the number of services and environments in use, as well as accelerating release cycles, reliability is one of the main challenges for today’s dev teams. In the context of continuous deployment, “reliability” is the extent to which your team delivers changes safely and consistently, without increasing failure rates or […]",
-          "link": "https://collabnix.com/improving-the-reliability-of-your-continuous-deployment-pipeline-in-2026/",
-          "publishedOn": "2026-02-09T14:54:38.000Z",
-          "wordCount": null,
-          "title": "Improving the Reliability of Your Continuous Deployment Pipeline in 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=71838",
-          "author": "Tanvir Kour",
-          "description": "Application security has changed dramatically over the past decade. Modern software is not built as a single application with a few updates each year. Today’s apps are cloud-native with plenty of APIs and microservices, and deployed continuously. As such, new DevOps security approaches like dynamic testing and runtime protection have become core components of a […]",
-          "link": "https://collabnix.com/why-modern-appsec-still-starts-with-sast/",
-          "publishedOn": "2026-02-09T14:51:52.000Z",
-          "wordCount": null,
-          "title": "Modern Application Security: Why SAST Matters",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/understanding-agentic-ai-how-autonomous-ai-agents-operate/",
-          "author": "Collabnix Team",
-          "description": "Discover how Agentic AI develops autonomous agents capable of independent decision-making informed by advanced AI techniques.",
-          "link": "https://collabnix.com/understanding-agentic-ai-how-autonomous-ai-agents-operate/",
-          "publishedOn": "2026-02-09T14:09:39.000Z",
-          "wordCount": null,
-          "title": "Understanding Agentic AI: How Autonomous AI Agents Operate",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/understanding-agentic-ai-concepts-challenges-and-applications/",
-          "author": "Collabnix Team",
-          "description": "Explore the world of agentic AI, where autonomous agents make independent decisions, transforming industries like healthcare and transportation.",
-          "link": "https://collabnix.com/understanding-agentic-ai-concepts-challenges-and-applications/",
-          "publishedOn": "2026-02-09T09:39:48.000Z",
-          "wordCount": null,
-          "title": "Understanding Agentic AI: Concepts, Challenges, and Applications",
-          "imageUrl": null
         }
       ]
     },
@@ -3129,6 +3059,16 @@
       "feedUrl": "https://www.skyue.com/feed/",
       "siteUrl": "https://www.skyue.com/",
       "articles": [
+        {
+          "id": "https://www.skyue.com/26051016.html",
+          "author": "拾月",
+          "description": "博客快一个月没更新了，养娃后琐碎的事比较多，每天苦哈哈的，博客真排不上号。今天得空，写一篇。在草莓 100 天的时候，南瓜和岳父、岳母带着草莓回了高平，我随后跟上，在高平度过五一假期，天天带娃。",
+          "link": "https://www.skyue.com/26051016.html",
+          "publishedOn": "2026-05-10T08:46:00.000Z",
+          "wordCount": null,
+          "title": "草莓百日宴",
+          "imageUrl": null
+        },
         {
           "id": "https://www.skyue.com/26041216.html",
           "author": "拾月",
@@ -3196,6 +3136,21 @@
       "feedUrl": "https://bluehe.cn/rss.xml",
       "siteUrl": "https://bluehe.cn/",
       "articles": [
+        {
+          "id": "https://bluehe.cn/archives/chuanxi-selfdrive-route",
+          "author": "云心怀鹤",
+          "description": "五一的出行，我们又相聚在一块，出发规划好的行程，4月30日晚直接从南宁自驾前往四姑娘山，高德行程1380km，预计15小时45分钟。总结很多，写了都是回忆，注本文99张图片，需慢欣赏。\nG351\n\n一直开到雅安高速出口方向，这里隧道出口直接堵了，我们还以为...",
+          "link": "https://bluehe.cn/archives/chuanxi-selfdrive-route",
+          "publishedOn": "2026-05-10T14:13:00.000Z",
+          "wordCount": null,
+          "title": "五一去川西：逛了四姑娘山双桥沟",
+          "enclosure": {
+            "url": "https://bluehe.cn/usr/uploads/2026/05/P20260502-112050.webp",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://bluehe.cn/usr/uploads/2026/05/P20260502-112050.webp"
+        },
         {
           "id": "https://bluehe.cn/archives/guangxi-sanyuesan",
           "author": "云心怀鹤",
@@ -3347,16 +3302,6 @@
           "wordCount": null,
           "title": "AI入门系列 如何获得vibe coding相关的AI算力",
           "imageUrl": null
-        },
-        {
-          "id": "https://blognas.hwb0307.com/other/7003",
-          "author": "Bensz",
-          "description": "Bensz\nAI入门系列 配置vibe coding工具： VSCode+Claude Code+Codex\n本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 系统介绍 Vibe Coding 开发环境的完整配置流程，涵盖 NPM、VSCode、Claude Code 和 OpenAI Codex 四大核心工具 深入解析 NPM 为何成为终端 Vibe Coding 工具的首选包管理平台，包括其跨平台一致性、依赖管理能力和生态系统优势 详细说明 VSCode 作为 Vibe Coding IDE 的独特价值，包括丰富的插件生态、快速更新的 AI 编程插件、现代化界面和源代码管理器 提供通过 NPM 安装 Claude Code 和 Codex CLI 的完整步骤，以及在 VSCode 中安装相应插件的详细指南 前言 在之前的文章 Vibe Co […]\nBensz",
-          "link": "https://blognas.hwb0307.com/ai/7003",
-          "publishedOn": "2026-02-09T02:34:21.000Z",
-          "wordCount": null,
-          "title": "AI入门系列 配置vibe coding工具： VSCode+Claude Code+Codex",
-          "imageUrl": null
         }
       ]
     },
@@ -3423,44 +3368,34 @@
       "siteUrl": "https://www.domon.cn/",
       "articles": [
         {
-          "id": "690b541e12ab346740f8fa68",
-          "author": "User",
-          "description": "他常说，政府还会拆掉我们周围更多的房子，只是时间早晚的问题，不过他从不操心将来。在“拆那儿”住了四十多年，他早已明白，凡事没有永远。",
-          "link": "https://www.domon.cn/2025-10yue-yue-du-shu-zhai/",
-          "publishedOn": "2025-11-05T13:46:08.000Z",
-          "wordCount": 213,
-          "title": "2025年10月阅读书摘",
-          "imageUrl": "https://images.unsplash.com/photo-1598960087461-556c5a1f864a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDc4fHxib29rcyUyMHxlbnwwfHx8fDE3NjIzNTAzNDl8MA&ixlib=rb-4.1.0&q=80&w=2000"
+          "id": "69f9ba9b014a770001866a58",
+          "author": "Domon",
+          "description": "亲爱的威廉，对于人们心中那种想要自我扩张，想要发现新鲜事物，想要四处走走、见见世面的欲望，我曾经考虑得很多很多；后来，对于他们的逆来顺受，循规蹈矩，对周围任何事情都漠不关心的本能，我又作了种种思索。",
+          "link": "https://www.domon.cn/2026-4yue-yue-du-shu-zhai/",
+          "publishedOn": "2026-05-01T10:07:00.000Z",
+          "wordCount": null,
+          "title": "2026年4月阅读书摘",
+          "imageUrl": null
         },
         {
-          "id": "68ea5add12ab346740f8fa5d",
+          "id": "69d32641014a770001866a36",
           "author": "Domon",
-          "description": "很久没有在 blog 里发「文章」了，借口当然很多，但最主要的还是少了表达欲，那种喷涌而出的感觉。每次打开 Obsidian，",
-          "link": "https://www.domon.cn/diu-shi-de-biao-da-yu/",
-          "publishedOn": "2025-10-12T01:32:09.000Z",
-          "wordCount": 158,
-          "title": "丢失的表达欲",
-          "imageUrl": "https://images.unsplash.com/photo-1526398977052-654221a252b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDl8fHRhbGt8ZW58MHx8fHwxNzYwMTg5MTYwfDA&ixlib=rb-4.1.0&q=80&w=2000"
+          "description": "时代就在身边，很多时候，我们对此会毫无感知，觉得一切都是理所当然。",
+          "link": "https://www.domon.cn/2026-3yue-yue-du-shu-zhai/",
+          "publishedOn": "2026-04-06T03:22:24.000Z",
+          "wordCount": null,
+          "title": "2026年3月阅读书摘",
+          "imageUrl": null
         },
         {
-          "id": "68e9c7a012ab346740f8fa42",
+          "id": "69a5807c014a770001866a14",
           "author": "Domon",
-          "description": "人们所说的未来，其实就是明天。",
-          "link": "https://www.domon.cn/2025-9yue-yue-du-shu-zhai/",
-          "publishedOn": "2025-10-11T03:03:39.000Z",
-          "wordCount": 165,
-          "title": "2025年9月阅读书摘",
-          "imageUrl": "https://images.unsplash.com/photo-1523865236457-3ae3358a4eaa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDIzfHxib29rcyUyMHxlbnwwfHx8fDE3NjAxNTE5MjR8MA&ixlib=rb-4.1.0&q=80&w=2000"
-        },
-        {
-          "id": "68bd796e12ab346740f8fa20",
-          "author": "Domon",
-          "description": "保持内心平静不是无视焦虑泛滥这个现实。相反，平静是在给予我们适应这个瞬息万变的世界所需的韧性、能量以及耐力。",
-          "link": "https://www.domon.cn/2025-8yue-yue-du-shu-zhai/",
-          "publishedOn": "2025-09-07T12:26:24.000Z",
-          "wordCount": 163,
-          "title": "2025年8月阅读书摘",
-          "imageUrl": "https://images.unsplash.com/photo-1610116306796-6fea9f4fae38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGJvb2tzfGVufDB8fHx8MTc1NzE4NzQ2Mnww&ixlib=rb-4.1.0&q=80&w=2000"
+          "description": "当旧的生活变得陈腐时，热情洋溢的生活能使人焕然一新。充满激情地生活，是热爱生活的唯一途径。",
+          "link": "https://www.domon.cn/2026-2yue-yue-du-shu-zhai/",
+          "publishedOn": "2026-03-02T12:23:43.000Z",
+          "wordCount": null,
+          "title": "2026年2月阅读书摘",
+          "imageUrl": null
         }
       ]
     },
@@ -3575,6 +3510,16 @@
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
         {
+          "id": "https://blog.xiaoz.org/?p=22974",
+          "author": "xiaoz",
+          "description": "ZMark是一款简洁、易用的书签管理程序，由OneNav重构而来，ZMark可帮您将浏览器书签集中式管理，从而解决跨设备、跨平台、跨浏览器的同步与访问难题，一处部署、随处访问，同时她还支持搭配浏览器扩展（插件）一起使用，让管理更高效。ZMark特点轻量级： 使用Bun + Hono.js + SQL",
+          "link": "https://blog.xiaoz.org/archives/22974",
+          "publishedOn": "2026-05-09T06:21:37.000Z",
+          "wordCount": null,
+          "title": "自托管书签神器 ZMark 限量送兑换码了！先到先得",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.xiaoz.org/?p=22963",
           "author": "xiaoz",
           "description": "OneNav书签管理从2020年开源至今，已经差不多6年了，期间陆续有用户给xiaoz提建议希望OneNav支持多用户，但由于OneNav的框架非常古老，维护和修改越来越困难，所以OneNav目前依然不支持多用户。但好消息是OneNav重构版ZMark已经开始公测，依然是xiaoz开发，还是熟悉的配",
@@ -3672,16 +3617,6 @@
           "publishedOn": "2026-03-05T03:41:00.000Z",
           "wordCount": null,
           "title": "无需备案！用 Bunny CDN 加速出海项目（附入门指南）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=22762",
-          "author": "xiaoz",
-          "description": "传1000张产品图要手动点1000次？网页版传图慢、易中断，批量处理更是噩梦。现在，Zpic Client来了——扫描文件夹自动上传、智能去重、结果导出CSV，企业级批量传图终于不用熬通宵了。官网下载地址：https://client.zpic.pro/功能特点跨平台： 支持 macOS、Windo",
-          "link": "https://blog.xiaoz.org/archives/22762",
-          "publishedOn": "2026-02-10T06:20:11.000Z",
-          "wordCount": null,
-          "title": "Zpic Client 发布：专为ImgURL和图链打造的高效图床客户端",
           "imageUrl": null
         }
       ]
@@ -3931,6 +3866,21 @@
       "feedUrl": "https://jia.je/feed.xml",
       "siteUrl": "https://jia.je/",
       "articles": [
+        {
+          "id": "https://jia.je/devops/2026/05/07/ring-dependency/",
+          "author": null,
+          "description": "记一次循环依赖导致的运维小事故¶\n 背景¶\n 每次没有 UPS 或 UPS 容量不够用的倒闸对于运维来说都是一次鸡飞狗跳。这次很不幸，鸡飞狗跳终于轮到了我，还好花了一个半小时还是解决了。在这里做个简单的复盘。\n  \n现象与排查¶\n 首先介绍一下现象：停电恢复之后，服务器开起来，但是无法从互联网连接内网的网关（即主网关）。还好，之前考虑到网关的重要性，做了备份，走内网的备用网关顺利进入了内网，然后发现主网关即使 IP 地址是对的，也连不上互联网。虽然通过 keepalived 的配置，主网关和备用网关会通过虚拟 IP 给内网机器提供一个高可用的默认网关，但由于 keepalived 只是检测了机器是否开机，并没有判断能否正常访问互联网，所以 keepalived 总会选择优先级更高的主网关，导致虚拟 IP 指向主网关，因而内网的机器都连不上互联网，还得继续尝试修复主网关。\n 主网关运行在 ESXi 的虚拟机里，于是进入 ESXi 管理网页，看看它的网络情况。这个虚拟机的网络用的并不是 ESXi 的普通网络，而是通过 vCSA 配置的基于 DS 的 LACP。看了几个不同的 ESXi，发现问题都集中在 LACP 上。而 ESXi 是没法配置 DS 的，所以就先去看了 vCSA。连上 vCSA 以后一看，所有的 ESXi 都掉线了。原来，之前为了方便配置，vCSA 都是通过域名连接 ESXi 的，而域名就需要有 DNS 服务器解析，然而主网关连不上互联网，也就连不上配置好的互联网的 DNS 服务器，于是 vCSA 无法配置 ESXi，然后 ESXi 的部分虚拟机就会断网，正好主网关又在被断网的虚拟机里面。这就形成了一个循环依赖。\n 既然找到了问题，那就需要打破循环依赖：把主网关在 keepalived 里的优先级调低，让备用网关上位。结果这时候发现一个小的问题：备用网关的 NAT 忽然不工作了。排查了一下，发现是因为 net.ipv4.ip_forward = 1 写在了 /etc/sysctl.conf 文件里，而 Debian 升级 Trixie 以后，这个文件已经不会被应用了，而要把内容写到 /etc/sysctl.d/*.conf 里面去，通过 /usr/lib/systemd/systemd-sysctl --cat-config 来确认是否持久化成功。由于主网关一直工作得很好，备用网关很久都没有做 NAT 了，导致这个问题一直没有被发现。\n 修好以后，vCSA 就能找回 ESXi 了，然后通过 vCSA 再重新配置一下 ESXi 的 DS LACP 网卡，然后一切就恢复了。\n 反思¶\n 虽然事故解决了，但这个过程中暴露了很多问题：\n  \n首先就是循环依赖：ESXi 的 DS LACP 依赖 vCSA，vCSA 依赖 DNS，DNS 依赖主网关，主网关通过 DS LACP 访问互联网。如果没有准备好备用网关，且备用网关恰好没有用 DS LACP 因此不受影响，那么修复起来就更麻烦了。解决循环依赖的办法也很简单，对于一些重要的虚拟机（如网关），它所依赖的功能越简单越好。\n 备用网关的 NAT 功能在升级 Debian 版本后，因为没有仔细阅读 sysctl 的变化而失效了，升级后缺少对功能的检查。\n keepalived 只判断机器是否在线，但没有判断机器是否可以正常连接互联网、承担起网关的职能。\n ESXi + vCSA 这类闭源软件，修复起来还是比较痛苦的，很多内部的工作原理并不清楚，可调试性也比较差，以后还是会谨慎选择。",
+          "link": "https://jia.je/devops/2026/05/07/ring-dependency/",
+          "publishedOn": "2026-05-07T00:00:00.000Z",
+          "wordCount": null,
+          "title": "记一次循环依赖导致的运维小事故",
+          "enclosure": {
+            "url": "https://jia.je/assets/images/social/devops/2026/05/07/ring-dependency.png",
+            "type": "image/png",
+            "length": "52187"
+          },
+          "imageUrl": "https://jia.je/assets/images/social/devops/2026/05/07/ring-dependency.png"
+        },
         {
           "id": "https://jia.je/misc/2026/04/12/ai-era-cs-education/",
           "author": null,
