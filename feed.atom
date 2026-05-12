@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-05-10T22:08:30.553Z</updated>
+    <updated>2026-05-12T22:39:21.831Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[This Lightweight Proxmox Tool Makes CLI Management Faster]]></title>
+        <id>https://www.virtualizationhowto.com/?p=311825</id>
+        <link href="https://www.virtualizationhowto.com/2026/05/this-lightweight-proxmox-tool-makes-cli-management-faster/"/>
+        <updated>2026-05-12T12:00:48.000Z</updated>
+        <summary type="html"><![CDATA[One of the things I have noticed recently in the Proxmox ecosystem is that many tools are becoming much larger and more complex. That is not necessarily a bad thing.…
+The post This Lightweight Proxmox Tool Makes CLI Management Faster appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seamless Integration of OpenClaw AI Agents with External APIs and Tools]]></title>
+        <id>https://collabnix.com/seamless-integration-of-openclaw-ai-agents-with-external-apis-and-tools/</id>
+        <link href="https://collabnix.com/seamless-integration-of-openclaw-ai-agents-with-external-apis-and-tools/"/>
+        <updated>2026-05-12T04:14:01.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to connect OpenClaw AI agents with external APIs and tools, enhancing their real-world applications and interactions.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[正念冥想全解惑：从原始出厂设置到大脑物理重塑]]></title>
+        <id>https://limboy.me/posts/mindfulness-meditation</id>
+        <link href="https://limboy.me/posts/mindfulness-meditation"/>
+        <updated>2026-05-12T00:00:00.000Z</updated>
+        <author>
+            <name>Limboy's Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Storage Mistakes That Quietly Hurt Your Proxmox Performance]]></title>
+        <id>https://www.virtualizationhowto.com/?p=311805</id>
+        <link href="https://www.virtualizationhowto.com/2026/05/the-storage-mistakes-that-quietly-hurt-your-proxmox-performance/"/>
+        <updated>2026-05-11T12:02:55.000Z</updated>
+        <summary type="html"><![CDATA[One of the things I have learned after running Proxmox clusters full time in the home lab is that storage problems can be more difficult to spot than something like…
+The post The Storage Mistakes That Quietly Hurt Your Proxmox Performance appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI in Enterprise 2025: Adoption Stats, Use Cases, and ROI Data]]></title>
+        <id>https://collabnix.com/ai-in-enterprise-2025-adoption-stats-use-cases-and-roi-data/</id>
+        <link href="https://collabnix.com/ai-in-enterprise-2025-adoption-stats-use-cases-and-roi-data/"/>
+        <updated>2026-05-11T04:42:39.000Z</updated>
+        <summary type="html"><![CDATA[Explore the transformative role of AI in enterprises by 2025 with insights into adoption statistics, use cases, and ROI assessment.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[五一去川西：逛了四姑娘山双桥沟]]></title>
         <id>https://bluehe.cn/archives/chuanxi-selfdrive-route</id>
@@ -4333,16 +4384,6 @@ The post 5 Proxmox Management Tools I Use in My Home Lab in 2026 appeared first 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fine-Tuning Language Models with LoRA: A Comprehensive Guide]]></title>
-        <id>https://collabnix.com/fine-tuning-language-models-with-lora-a-comprehensive-guide/</id>
-        <link href="https://collabnix.com/fine-tuning-language-models-with-lora-a-comprehensive-guide/"/>
-        <updated>2026-02-12T03:27:57.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to fine-tune large language models with Low-Rank Adaptation (LoRA) using Python and Docker. This guide covers setting up the environment, choosing the right model, and preparing for fine-tuning.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[sipeed/picoclaw: 🦐 PicoClaw 是一款超轻量级的个人人工智能助理，其灵感来源于纳米机器人，通过自引导过程用 Go 语言从头开始重构，由人工智能代理本身驱动整个架构迁移和代码优化。]]></title>
         <id>https://github.com/sipeed/picoclaw</id>
         <link href="https://github.com/sipeed/picoclaw"/>
@@ -4350,47 +4391,6 @@ The post 5 Proxmox Management Tools I Use in My Home Lab in 2026 appeared first 
         <summary type="html"><![CDATA[Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity - sipeed/picoclaw]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best AI Agent Frameworks in 2025: An In-Depth Comparison]]></title>
-        <id>https://collabnix.com/best-ai-agent-frameworks-in-2025-an-in-depth-comparison/</id>
-        <link href="https://collabnix.com/best-ai-agent-frameworks-in-2025-an-in-depth-comparison/"/>
-        <updated>2026-02-11T13:58:05.000Z</updated>
-        <summary type="html"><![CDATA[Explore the best AI agent frameworks in 2025: LangChain vs CrewAI vs AutoGen vs OpenClaw. Dive deep into each framework's strengths and use cases.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What I’d Do (and Avoid) If I Were Building a Home Lab in 2026]]></title>
-        <id>https://www.virtualizationhowto.com/?p=309383</id>
-        <link href="https://www.virtualizationhowto.com/2026/02/what-id-do-and-avoid-if-i-were-building-a-home-lab-in-2026/"/>
-        <updated>2026-02-11T13:35:44.000Z</updated>
-        <summary type="html"><![CDATA[Building your first home lab is an exciting adventure and an extremely addictive and rewarding hobby, that not only is fun, but also teaches you skills that you can apply…
-The post What I’d Do (and Avoid) If I Were Building a Home Lab in 2026 appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Famous.ai: A Conceptual Look at How It Turns Prompts Into Working Applications]]></title>
-        <id>https://collabnix.com/?p=72011</id>
-        <link href="https://collabnix.com/famous-ai-a-conceptual-look-at-how-it-turns-prompts-into-working-applications/"/>
-        <updated>2026-02-11T10:32:16.000Z</updated>
-        <summary type="html"><![CDATA[The idea of building software from natural language has existed for years, but in practice, most tools have focused on assisting parts of the process rather than owning the entire workflow. Code generation, UI suggestions, and component scaffolding have improved productivity, but the responsibility for planning, assembly, and delivery has largely remained with the user. […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Common Use Cases for Free LMS Systems in Education]]></title>
-        <id>https://collabnix.com/?p=72008</id>
-        <link href="https://collabnix.com/common-use-cases-for-free-lms-systems-in-education/"/>
-        <updated>2026-02-11T08:49:01.000Z</updated>
-        <summary type="html"><![CDATA[Free Learning Management Systems (LMSs) are instrumental in the continuous digitalization of the education sector. Schools, universities, and independent educators can use these systems to meet various learning requirements. The affordability of the institution attracts buyers with a low budget. What is the specific use of these platforms in education? A variety of features promote […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
         </author>
     </entry>
     <entry>
@@ -4404,16 +4404,6 @@ The post What I’d Do (and Avoid) If I Were Building a Home Lab in 2026 appeare
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenClaw Architecture Deep Dive: How It Works Under the Hood]]></title>
-        <id>https://collabnix.com/openclaw-architecture-deep-dive-how-it-works-under-the-hood/</id>
-        <link href="https://collabnix.com/openclaw-architecture-deep-dive-how-it-works-under-the-hood/"/>
-        <updated>2026-02-11T03:31:49.000Z</updated>
-        <summary type="html"><![CDATA[Explore OpenClaw, an emerging AI agent framework. This deep dive unveils its architecture, offering insights into building flexible AI-driven solutions.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Claude Code全维度实战指南：从入门到精通，解锁AI编程新范式]]></title>
         <id>https://www.lifengdi.com/?p=4690</id>
         <link href="https://www.lifengdi.com/ren-gong-zhi-neng/4690"/>
@@ -4421,26 +4411,6 @@ The post What I’d Do (and Avoid) If I Were Building a Home Lab in 2026 appeare
         <summary type="html"><![CDATA[在AI编程工具百花齐放的当下，Claude Code凭借其强悍的代码能力、灵活的终端交互模式以及深度的开发流程融合能力，成为了开发者提升效率的核心利器。它远不止是一个简单的AI写代码工具，更是重构了人机协作编程的新方式，从基础的代码编写、错误修复，到复杂的项目管理、自动化工作流搭建，都能提供全方位的支持。 本文将从基础 […]]]></summary>
         <author>
             <name>李锋镝</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comprehensive Guide to Kubernetes Operators: Beginner’s Insight]]></title>
-        <id>https://collabnix.com/comprehensive-guide-to-kubernetes-operators-beginners-insight-2/</id>
-        <link href="https://collabnix.com/comprehensive-guide-to-kubernetes-operators-beginners-insight-2/"/>
-        <updated>2026-02-11T00:17:31.000Z</updated>
-        <summary type="html"><![CDATA[Explore the world of Kubernetes Operators, learn how they automate complex tasks, and see why they are essential for managing cloud-native applications.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comprehensive Guide to Kubernetes Operators: Beginner’s Insight]]></title>
-        <id>https://collabnix.com/comprehensive-guide-to-kubernetes-operators-beginners-insight/</id>
-        <link href="https://collabnix.com/comprehensive-guide-to-kubernetes-operators-beginners-insight/"/>
-        <updated>2026-02-11T00:17:11.000Z</updated>
-        <summary type="html"><![CDATA[Explore the world of Kubernetes Operators, learn how they automate complex tasks, and see why they are essential for managing cloud-native applications.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
         </author>
     </entry>
     <entry>
@@ -4454,73 +4424,12 @@ The post What I’d Do (and Avoid) If I Were Building a Home Lab in 2026 appeare
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iPhone Not Charging or Losing Battery Fast? Easy Fixes]]></title>
-        <id>https://collabnix.com/?p=71926</id>
-        <link href="https://collabnix.com/iphone-not-charging-or-losing-battery-fast-easy-fixes/"/>
-        <updated>2026-02-10T18:28:40.000Z</updated>
-        <summary type="html"><![CDATA[What if your iPhone dies quickly or won’t charge, leaving you unable to make calls, send messages, or use apps? This can happen because of numerous reasons, but simple solutions like Dr.Fone can fix it seamlessly, as well as other issues, such as iOS update fails. Therefore, this guide explains how Dr.Fone iOS system repair […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fixing Boot Loops and Frozen Systems: Advanced Recovery Mode Techniques]]></title>
-        <id>https://collabnix.com/?p=71907</id>
-        <link href="https://collabnix.com/fixing-boot-loops-and-frozen-systems-advanced-recovery-mode-techniques/"/>
-        <updated>2026-02-10T18:22:27.000Z</updated>
-        <summary type="html"><![CDATA[A​‍​‌‍​‍‌ device that continually restarts on its own or one that freezes can get so frustrating that it might even seem fully broken. A boot loop is when a device keeps restarting itself over and over again and the home screen never shows up. When it is a system freeze, the screen and the control […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Self-Host Perplexica AI: The Ultimate Docker and Ollama Setup]]></title>
-        <id>https://collabnix.com/?p=71895</id>
-        <link href="https://collabnix.com/self-host-perplexica-ai-the-ultimate-docker-and-ollama-setup/"/>
-        <updated>2026-02-10T16:26:40.000Z</updated>
-        <summary type="html"><![CDATA[Self-Host Perplexica AI: Easy Docker & Ollama Guide This guide offers a step-by-step walkthrough of how you can deploy your own personal AI assistant, Perplexica, using two powerful, modern technologies: Docker Desktop and the Ollama model. The objective is to demystify the process of setting up a sophisticated AI application in a local, controlled environment. […]]]></summary>
-        <author>
-            <name>Manish Lingadevaru</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[rebornix/Agmente: Agmente 是一个用于编码代理的 iOS 客户端。它连接到使用 ACP (代理客户端协议) 或 Codex 应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。]]></title>
         <id>代理客户端协议) 或 Codex 应用服务器协议的服务器，并在设备上显示工具调用、结果和对话历史。](https://github.com/rebornix/Agmente</id>
         <link href="https://raw.githubusercontent.com/guanguans/favorite-link/master/%E4%BB%A3%E7%90%86%E5%AE%A2%E6%88%B7%E7%AB%AF%E5%8D%8F%E8%AE%AE)%20%E6%88%96%20Codex%20%E5%BA%94%E7%94%A8%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%8D%8F%E8%AE%AE%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%8C%E5%B9%B6%E5%9C%A8%E8%AE%BE%E5%A4%87%E4%B8%8A%E6%98%BE%E7%A4%BA%E5%B7%A5%E5%85%B7%E8%B0%83%E7%94%A8%E3%80%81%E7%BB%93%E6%9E%9C%E5%92%8C%E5%AF%B9%E8%AF%9D%E5%8E%86%E5%8F%B2%E3%80%82](https://github.com/rebornix/Agmente"/>
         <updated>2026-02-10T16:00:00.000Z</updated>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ollama Guide: Harnessing Its Full Potential]]></title>
-        <id>https://collabnix.com/harnessing-the-power-of-ollama-a-comprehensive-guide-2/</id>
-        <link href="https://collabnix.com/harnessing-the-power-of-ollama-a-comprehensive-guide-2/"/>
-        <updated>2026-02-10T14:57:42.000Z</updated>
-        <summary type="html"><![CDATA[Explore the capabilities of Ollama in AI model deployment, from installation to feature exploration, with a focus on Docker container benefits.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harnessing the Power of Ollama: A Comprehensive Guide]]></title>
-        <id>https://collabnix.com/harnessing-the-power-of-ollama-a-comprehensive-guide/</id>
-        <link href="https://collabnix.com/harnessing-the-power-of-ollama-a-comprehensive-guide/"/>
-        <updated>2026-02-10T14:57:21.000Z</updated>
-        <summary type="html"><![CDATA[Explore the capabilities of Ollama in AI model deployment, from installation to feature exploration, with a focus on Docker container benefits.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moving a Proxmox OS Drive Without Breaking Anything in Your Home Lab]]></title>
-        <id>https://www.virtualizationhowto.com/?p=309352</id>
-        <link href="https://www.virtualizationhowto.com/2026/02/moving-a-proxmox-os-drive-without-breaking-anything-in-your-home-lab/"/>
-        <updated>2026-02-10T13:19:16.000Z</updated>
-        <summary type="html"><![CDATA[Recently in my home lab, I had a project that I was a little worried to execute on, but I decided to take the plunge and do it any way.…
-The post Moving a Proxmox OS Drive Without Breaking Anything in Your Home Lab appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>

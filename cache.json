@@ -867,6 +867,26 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=311825",
+          "author": "Brandon Lee",
+          "description": "One of the things I have noticed recently in the Proxmox ecosystem is that many tools are becoming much larger and more complex. That is not necessarily a bad thing.…\nThe post This Lightweight Proxmox Tool Makes CLI Management Faster appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/05/this-lightweight-proxmox-tool-makes-cli-management-faster/",
+          "publishedOn": "2026-05-12T12:00:48.000Z",
+          "wordCount": null,
+          "title": "This Lightweight Proxmox Tool Makes CLI Management Faster",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=311805",
+          "author": "Brandon Lee",
+          "description": "One of the things I have learned after running Proxmox clusters full time in the home lab is that storage problems can be more difficult to spot than something like…\nThe post The Storage Mistakes That Quietly Hurt Your Proxmox Performance appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/05/the-storage-mistakes-that-quietly-hurt-your-proxmox-performance/",
+          "publishedOn": "2026-05-11T12:02:55.000Z",
+          "wordCount": null,
+          "title": "The Storage Mistakes That Quietly Hurt Your Proxmox Performance",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=311788",
           "author": "Brandon Lee",
           "description": "If you are anything like me, your Proxmox environment probably started simple and then slowly evolved over time. Maybe it began with a single node running a few VMs. Then…\nThe post 5 Proxmox Optimizations Worth Doing This Weekend appeared first on Virtualization Howto.",
@@ -1615,26 +1635,6 @@
           "wordCount": null,
           "title": "5 Proxmox Management Tools I Use in My Home Lab in 2026",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=309383",
-          "author": "Brandon Lee",
-          "description": "Building your first home lab is an exciting adventure and an extremely addictive and rewarding hobby, that not only is fun, but also teaches you skills that you can apply…\nThe post What I’d Do (and Avoid) If I Were Building a Home Lab in 2026 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/02/what-id-do-and-avoid-if-i-were-building-a-home-lab-in-2026/",
-          "publishedOn": "2026-02-11T13:35:44.000Z",
-          "wordCount": null,
-          "title": "What I’d Do (and Avoid) If I Were Building a Home Lab in 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=309352",
-          "author": "Brandon Lee",
-          "description": "Recently in my home lab, I had a project that I was a little worried to execute on, but I decided to take the plunge and do it any way.…\nThe post Moving a Proxmox OS Drive Without Breaking Anything in Your Home Lab appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/02/moving-a-proxmox-os-drive-without-breaking-anything-in-your-home-lab/",
-          "publishedOn": "2026-02-10T13:19:16.000Z",
-          "wordCount": null,
-          "title": "Moving a Proxmox OS Drive Without Breaking Anything in Your Home Lab",
-          "imageUrl": null
         }
       ]
     },
@@ -1643,6 +1643,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/seamless-integration-of-openclaw-ai-agents-with-external-apis-and-tools/",
+          "author": "Collabnix Team",
+          "description": "Learn how to connect OpenClaw AI agents with external APIs and tools, enhancing their real-world applications and interactions.",
+          "link": "https://collabnix.com/seamless-integration-of-openclaw-ai-agents-with-external-apis-and-tools/",
+          "publishedOn": "2026-05-12T04:14:01.000Z",
+          "wordCount": null,
+          "title": "Seamless Integration of OpenClaw AI Agents with External APIs and Tools",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/ai-in-enterprise-2025-adoption-stats-use-cases-and-roi-data/",
+          "author": "Collabnix Team",
+          "description": "Explore the transformative role of AI in enterprises by 2025 with insights into adoption statistics, use cases, and ROI assessment.",
+          "link": "https://collabnix.com/ai-in-enterprise-2025-adoption-stats-use-cases-and-roi-data/",
+          "publishedOn": "2026-05-11T04:42:39.000Z",
+          "wordCount": null,
+          "title": "AI in Enterprise 2025: Adoption Stats, Use Cases, and ROI Data",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=73553",
           "author": "Tanvir Kour",
@@ -2902,126 +2922,6 @@
           "wordCount": null,
           "title": "Building Stateful AI Workflows with LangGraph",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/fine-tuning-language-models-with-lora-a-comprehensive-guide/",
-          "author": "Collabnix Team",
-          "description": "Learn how to fine-tune large language models with Low-Rank Adaptation (LoRA) using Python and Docker. This guide covers setting up the environment, choosing the right model, and preparing for fine-tuning.",
-          "link": "https://collabnix.com/fine-tuning-language-models-with-lora-a-comprehensive-guide/",
-          "publishedOn": "2026-02-12T03:27:57.000Z",
-          "wordCount": null,
-          "title": "Fine-Tuning Language Models with LoRA: A Comprehensive Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/best-ai-agent-frameworks-in-2025-an-in-depth-comparison/",
-          "author": "Collabnix Team",
-          "description": "Explore the best AI agent frameworks in 2025: LangChain vs CrewAI vs AutoGen vs OpenClaw. Dive deep into each framework's strengths and use cases.",
-          "link": "https://collabnix.com/best-ai-agent-frameworks-in-2025-an-in-depth-comparison/",
-          "publishedOn": "2026-02-11T13:58:05.000Z",
-          "wordCount": null,
-          "title": "Best AI Agent Frameworks in 2025: An In-Depth Comparison",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=72011",
-          "author": "Tanvir Kour",
-          "description": "The idea of building software from natural language has existed for years, but in practice, most tools have focused on assisting parts of the process rather than owning the entire workflow. Code generation, UI suggestions, and component scaffolding have improved productivity, but the responsibility for planning, assembly, and delivery has largely remained with the user. […]",
-          "link": "https://collabnix.com/famous-ai-a-conceptual-look-at-how-it-turns-prompts-into-working-applications/",
-          "publishedOn": "2026-02-11T10:32:16.000Z",
-          "wordCount": null,
-          "title": "Famous.ai: A Conceptual Look at How It Turns Prompts Into Working Applications",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=72008",
-          "author": "Tanvir Kour",
-          "description": "Free Learning Management Systems (LMSs) are instrumental in the continuous digitalization of the education sector. Schools, universities, and independent educators can use these systems to meet various learning requirements. The affordability of the institution attracts buyers with a low budget. What is the specific use of these platforms in education? A variety of features promote […]",
-          "link": "https://collabnix.com/common-use-cases-for-free-lms-systems-in-education/",
-          "publishedOn": "2026-02-11T08:49:01.000Z",
-          "wordCount": null,
-          "title": "Common Use Cases for Free LMS Systems in Education",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/openclaw-architecture-deep-dive-how-it-works-under-the-hood/",
-          "author": "Collabnix Team",
-          "description": "Explore OpenClaw, an emerging AI agent framework. This deep dive unveils its architecture, offering insights into building flexible AI-driven solutions.",
-          "link": "https://collabnix.com/openclaw-architecture-deep-dive-how-it-works-under-the-hood/",
-          "publishedOn": "2026-02-11T03:31:49.000Z",
-          "wordCount": null,
-          "title": "OpenClaw Architecture Deep Dive: How It Works Under the Hood",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/comprehensive-guide-to-kubernetes-operators-beginners-insight-2/",
-          "author": "Collabnix Team",
-          "description": "Explore the world of Kubernetes Operators, learn how they automate complex tasks, and see why they are essential for managing cloud-native applications.",
-          "link": "https://collabnix.com/comprehensive-guide-to-kubernetes-operators-beginners-insight-2/",
-          "publishedOn": "2026-02-11T00:17:31.000Z",
-          "wordCount": null,
-          "title": "Comprehensive Guide to Kubernetes Operators: Beginner’s Insight",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/comprehensive-guide-to-kubernetes-operators-beginners-insight/",
-          "author": "Collabnix Team",
-          "description": "Explore the world of Kubernetes Operators, learn how they automate complex tasks, and see why they are essential for managing cloud-native applications.",
-          "link": "https://collabnix.com/comprehensive-guide-to-kubernetes-operators-beginners-insight/",
-          "publishedOn": "2026-02-11T00:17:11.000Z",
-          "wordCount": null,
-          "title": "Comprehensive Guide to Kubernetes Operators: Beginner’s Insight",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=71926",
-          "author": "Tanvir Kour",
-          "description": "What if your iPhone dies quickly or won’t charge, leaving you unable to make calls, send messages, or use apps? This can happen because of numerous reasons, but simple solutions like Dr.Fone can fix it seamlessly, as well as other issues, such as iOS update fails. Therefore, this guide explains how Dr.Fone iOS system repair […]",
-          "link": "https://collabnix.com/iphone-not-charging-or-losing-battery-fast-easy-fixes/",
-          "publishedOn": "2026-02-10T18:28:40.000Z",
-          "wordCount": null,
-          "title": "iPhone Not Charging or Losing Battery Fast? Easy Fixes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=71907",
-          "author": "Tanvir Kour",
-          "description": "A​‍​‌‍​‍‌ device that continually restarts on its own or one that freezes can get so frustrating that it might even seem fully broken. A boot loop is when a device keeps restarting itself over and over again and the home screen never shows up. When it is a system freeze, the screen and the control […]",
-          "link": "https://collabnix.com/fixing-boot-loops-and-frozen-systems-advanced-recovery-mode-techniques/",
-          "publishedOn": "2026-02-10T18:22:27.000Z",
-          "wordCount": null,
-          "title": "Fixing Boot Loops and Frozen Systems: Advanced Recovery Mode Techniques",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=71895",
-          "author": "Manish Lingadevaru",
-          "description": "Self-Host Perplexica AI: Easy Docker & Ollama Guide This guide offers a step-by-step walkthrough of how you can deploy your own personal AI assistant, Perplexica, using two powerful, modern technologies: Docker Desktop and the Ollama model. The objective is to demystify the process of setting up a sophisticated AI application in a local, controlled environment. […]",
-          "link": "https://collabnix.com/self-host-perplexica-ai-the-ultimate-docker-and-ollama-setup/",
-          "publishedOn": "2026-02-10T16:26:40.000Z",
-          "wordCount": null,
-          "title": "Self-Host Perplexica AI: The Ultimate Docker and Ollama Setup",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/harnessing-the-power-of-ollama-a-comprehensive-guide-2/",
-          "author": "Collabnix Team",
-          "description": "Explore the capabilities of Ollama in AI model deployment, from installation to feature exploration, with a focus on Docker container benefits.",
-          "link": "https://collabnix.com/harnessing-the-power-of-ollama-a-comprehensive-guide-2/",
-          "publishedOn": "2026-02-10T14:57:42.000Z",
-          "wordCount": null,
-          "title": "Ollama Guide: Harnessing Its Full Potential",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/harnessing-the-power-of-ollama-a-comprehensive-guide/",
-          "author": "Collabnix Team",
-          "description": "Explore the capabilities of Ollama in AI model deployment, from installation to feature exploration, with a focus on Docker container benefits.",
-          "link": "https://collabnix.com/harnessing-the-power-of-ollama-a-comprehensive-guide/",
-          "publishedOn": "2026-02-10T14:57:21.000Z",
-          "wordCount": null,
-          "title": "Harnessing the Power of Ollama: A Comprehensive Guide",
-          "imageUrl": null
         }
       ]
     },
@@ -3030,6 +2930,16 @@
       "feedUrl": "https://limboy.me/index.xml",
       "siteUrl": "https://limboy.me/",
       "articles": [
+        {
+          "id": "https://limboy.me/posts/mindfulness-meditation",
+          "author": null,
+          "description": "",
+          "link": "https://limboy.me/posts/mindfulness-meditation",
+          "publishedOn": "2026-05-12T00:00:00.000Z",
+          "wordCount": null,
+          "title": "正念冥想全解惑：从原始出厂设置到大脑物理重塑",
+          "imageUrl": null
+        },
         {
           "id": "https://limboy.me/posts/why-write",
           "author": null,
