@@ -14,16 +14,6 @@
           "wordCount": null,
           "title": "2025年度总结",
           "imageUrl": null
-        },
-        {
-          "id": "https://yyg.js.cool/yyg/b70ff682/",
-          "author": null,
-          "description": "Vectras VM是一个基于 QEMU 的 Android 虚拟机应用，可在手机实现安装Liunx和Windows虚拟机。支持img、qcow2、ISO等格式的镜像文件。\n本文主要介绍通过ISO镜像方式安装Rocky Linux 8.10、Debian",
-          "link": "https://yyg.js.cool/yyg/b70ff682/",
-          "publishedOn": "2026-02-14T09:49:13.000Z",
-          "wordCount": null,
-          "title": "手机使用Vectras VM安装Linux",
-          "imageUrl": null
         }
       ]
     },
@@ -867,6 +857,36 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=311937",
+          "author": "Brandon Lee",
+          "description": "From the beginning of 2026, I have written a lot about my journey of moving away from VMware which you can read about here: I Spent a Year Running Proxmox…\nThe post What I Learned After Migrating Fully Away From VMware appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/05/what-i-learned-after-migrating-fully-away-from-vmware/",
+          "publishedOn": "2026-05-15T12:26:14.000Z",
+          "wordCount": null,
+          "title": "What I Learned After Migrating Fully Away From VMware",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=311853",
+          "author": "Brandon Lee",
+          "description": "One of the things I never paid much attention to when I first started using Proxmox was the console option used for accessing my virtual machines. Like most people, I…\nThe post I Changed My Default Proxmox Console and It Improved Everything appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/05/i-changed-my-default-proxmox-console-and-it-improved-everything/",
+          "publishedOn": "2026-05-14T12:38:18.000Z",
+          "wordCount": null,
+          "title": "I Changed My Default Proxmox Console and It Improved Everything",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=311900",
+          "author": "Brandon Lee",
+          "description": "One of the interesting trends that is happening across all industries is the rise of AI and AI-integrated tooling. I think most of us have experimented with running local LLMs…\nThe post I Built a Local AI Coding Agent Home Lab Setup With OpenCode and Ollama appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/05/i-built-a-local-ai-coding-agent-home-lab-setup-with-opencode-and-ollama/",
+          "publishedOn": "2026-05-13T11:42:01.000Z",
+          "wordCount": null,
+          "title": "I Built a Local AI Coding Agent Home Lab Setup With OpenCode and Ollama",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=311825",
           "author": "Brandon Lee",
           "description": "One of the things I have noticed recently in the Proxmox ecosystem is that many tools are becoming much larger and more complex. That is not necessarily a bad thing.…\nThe post This Lightweight Proxmox Tool Makes CLI Management Faster appeared first on Virtualization Howto.",
@@ -1605,36 +1625,6 @@
           "wordCount": null,
           "title": "I Built a 5-Node Proxmox and Ceph Home Lab with 17TB and Dual 10Gb LACP",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=309379",
-          "author": "Brandon Lee",
-          "description": "Many in their home lab environments are running single Docker hosts for their Docker workloads and this is just fine when it comes to simplicity and ease of getting services…\nThe post How I Made a Single Docker Host Highly Available Using Proxmox in My Home Lab appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/02/how-i-made-a-single-docker-host-highly-available-using-proxmox-in-my-home-lab/",
-          "publishedOn": "2026-02-14T14:17:29.000Z",
-          "wordCount": null,
-          "title": "How I Made a Single Docker Host Highly Available Using Proxmox in My Home Lab",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=309438",
-          "author": "Brandon Lee",
-          "description": "As you know if you have read my blog posts over the course of the past several months, I have been writing a lot about home lab documentation. Keeping things…\nThe post I’m Documenting My Entire Home Lab as Code with RackPeek appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/02/im-documenting-my-entire-home-lab-as-code-with-rackpeek/",
-          "publishedOn": "2026-02-13T13:41:06.000Z",
-          "wordCount": null,
-          "title": "I’m Documenting My Entire Home Lab as Code with RackPeek",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=309411",
-          "author": "Brandon Lee",
-          "description": "If you are running Proxmox in your home lab in 2026, you already know something. The hypervisor is one of the best out there and arguably I think it is…\nThe post 5 Proxmox Management Tools I Use in My Home Lab in 2026 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/02/5-proxmox-management-tools-i-use-in-my-home-lab-in-2026/",
-          "publishedOn": "2026-02-12T13:18:12.000Z",
-          "wordCount": null,
-          "title": "5 Proxmox Management Tools I Use in My Home Lab in 2026",
-          "imageUrl": null
         }
       ]
     },
@@ -1643,6 +1633,46 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/building-a-rag-powered-agent-with-openclaw-step-by-step-tutorial/",
+          "author": "Collabnix Team",
+          "description": "Learn how to build a powerful RAG-powered agent using the innovative OpenClaw framework. This comprehensive tutorial guides you through setting up a retrieval and generation system for AI development.",
+          "link": "https://collabnix.com/building-a-rag-powered-agent-with-openclaw-step-by-step-tutorial/",
+          "publishedOn": "2026-05-15T04:33:27.000Z",
+          "wordCount": null,
+          "title": "Building a RAG-Powered Agent with OpenClaw: Step-by-Step Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/integrating-openclaw-with-local-llms-using-ollama-and-lm-studio/",
+          "author": "Collabnix Team",
+          "description": "Learn how to effectively integrate OpenClaw with local LLMs like Ollama and LM Studio to build intelligent, efficient AI agent systems.",
+          "link": "https://collabnix.com/integrating-openclaw-with-local-llms-using-ollama-and-lm-studio/",
+          "publishedOn": "2026-05-14T04:27:21.000Z",
+          "wordCount": null,
+          "title": "Integrating OpenClaw with Local LLMs Using Ollama and LM Studio",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=73620",
+          "author": "Tanvir Kour",
+          "description": "There is a version of compliance that most organizations are still running – something changes in a system, someone writes it down, and the documentation gets filed – when an auditor asks what happened and why, someone spends two weeks pulling threads across spreadsheets, email chains, and systems. It works until it doesn’t – until […]",
+          "link": "https://collabnix.com/infrastructure-as-auditable-record-building-systems-that-prove-their-own-compliance/",
+          "publishedOn": "2026-05-13T15:22:32.000Z",
+          "wordCount": null,
+          "title": "Infrastructure as Auditable Record: Building Systems That Prove Their Own Compliance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/lovable-dev-a-comprehensive-review-of-the-ai-powered-development-platform/",
+          "author": "Collabnix Team",
+          "description": "Explore how Lovable.dev revolutionizes web app development with AI-driven code generation, integrating modern technologies like Vite, React, and Supabase.",
+          "link": "https://collabnix.com/lovable-dev-a-comprehensive-review-of-the-ai-powered-development-platform/",
+          "publishedOn": "2026-05-13T04:28:12.000Z",
+          "wordCount": null,
+          "title": "Lovable.dev: A Comprehensive Review of the AI-Powered Development Platform",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/seamless-integration-of-openclaw-ai-agents-with-external-apis-and-tools/",
           "author": "Collabnix Team",
@@ -2812,116 +2842,6 @@
           "wordCount": null,
           "title": "Understanding Retrieval Augmented Generation: How RAG Works Explained",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/understanding-ai-agents-and-chatbots-key-differences-and-why-they-matter/",
-          "author": "Collabnix Team",
-          "description": "Discover the fundamental differences between AI agents and chatbots, their capabilities, and why selecting the right tool matters for your business's efficiency.",
-          "link": "https://collabnix.com/understanding-ai-agents-and-chatbots-key-differences-and-why-they-matter/",
-          "publishedOn": "2026-02-15T03:27:32.000Z",
-          "wordCount": null,
-          "title": "Understanding AI Agents and Chatbots: Key Differences and Why They Matter",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/deploying-ai-models-on-kubernetes-using-kserve-2/",
-          "author": "Collabnix Team",
-          "description": "Deploy AI models on Kubernetes using KServe for scalable, manageable solutions. Learn how to handle deployment intricacies and optimize model serving efficiently with this comprehensive guide.",
-          "link": "https://collabnix.com/deploying-ai-models-on-kubernetes-using-kserve-2/",
-          "publishedOn": "2026-02-14T13:29:10.000Z",
-          "wordCount": null,
-          "title": "Deploying AI Models on Kubernetes Using KServe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/deploying-ai-models-on-kubernetes-using-kserve/",
-          "author": "Collabnix Team",
-          "description": "Deploy AI models on Kubernetes using KServe for scalable, manageable solutions. Learn how to handle deployment intricacies and optimize model serving efficiently with this comprehensive guide.",
-          "link": "https://collabnix.com/deploying-ai-models-on-kubernetes-using-kserve/",
-          "publishedOn": "2026-02-14T13:28:46.000Z",
-          "wordCount": null,
-          "title": "Deploying AI Models on Kubernetes Using KServe",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/openai-api-vs-claude-api-vs-gemini-api-developer-comparison-guide-2025/",
-          "author": "Collabnix Team",
-          "description": "Explore a comprehensive developer guide comparing OpenAI, Claude, and Gemini APIs. Discover how these AI platforms differ in functionality, deployment, and integration.",
-          "link": "https://collabnix.com/openai-api-vs-claude-api-vs-gemini-api-developer-comparison-guide-2025/",
-          "publishedOn": "2026-02-14T03:14:03.000Z",
-          "wordCount": null,
-          "title": "OpenAI API vs Claude API vs Gemini API: Developer Comparison Guide 2025",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/understanding-ai-embeddings-a-deep-dive-into-vector-search-for-beginners/",
-          "author": "Collabnix Team",
-          "description": "Explore how AI embeddings and vector search transform traditional search functionalities into powerful, meaning-based retrieval systems, enabling more nuanced and context-aware user interactions.",
-          "link": "https://collabnix.com/understanding-ai-embeddings-a-deep-dive-into-vector-search-for-beginners/",
-          "publishedOn": "2026-02-14T02:19:17.000Z",
-          "wordCount": null,
-          "title": "Understanding AI Embeddings: A Deep Dive into Vector Search for Beginners",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=72112",
-          "author": "Tanvir Kour",
-          "description": "The moment someone says, “Has anyone seen the spare key?” The room changes. It sounds small, almost mundane, until you realize what it actually means: a piece of your workplace security is missing, and nobody knows where it went. A lost key is not just an inconvenience. It is an unanswered question hanging over your […]",
-          "link": "https://collabnix.com/risk-mitigation-why-lost-keys-are-a-liability-you-cant-afford-at-the-office/",
-          "publishedOn": "2026-02-13T16:51:06.000Z",
-          "wordCount": null,
-          "title": "Risk Mitigation: Why “Lost Keys” Are a Liability You Can’t Afford at the Office",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/understanding-openclaw-the-open-source-ai-agent-framework/",
-          "author": "Collabnix Team",
-          "description": "Explore the essentials of OpenClaw, an open-source AI agent framework, and understand how it stands out in building intelligent systems.",
-          "link": "https://collabnix.com/understanding-openclaw-the-open-source-ai-agent-framework/",
-          "publishedOn": "2026-02-13T13:44:52.000Z",
-          "wordCount": null,
-          "title": "Understanding OpenClaw: The Open Source AI Agent Framework",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=72104",
-          "author": "Collabnix Team",
-          "description": "The Evolution Beyond DevOps In the fast-paced world of software development and IT operations, traditional DevOps has long been heralded as the key to bridging the gap between development and operations teams. By fostering collaboration and automating workflows, DevOps has significantly improved deployment speeds and application reliability. However, as enterprise needs evolve, many organizations are […]",
-          "link": "https://collabnix.com/how-platform-engineering-is-replacing-traditional-devops-models/",
-          "publishedOn": "2026-02-13T10:56:50.000Z",
-          "wordCount": null,
-          "title": "How Platform Engineering Is Replacing Traditional DevOps Models",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=72096",
-          "author": "Ajeet Raina",
-          "description": "If there’s one AI event you absolutely cannot afford to miss this year, it’s NVIDIA GTC 2026. Happening March 16–19 in San Jose, CA (and virtually!), GTC has firmly established itself as what Jensen Huang himself calls the “Super Bowl of AI.” As someone who lives and breathes at the intersection of containers, DevOps, and […]",
-          "link": "https://collabnix.com/top-5-reasons-why-im-attending-nvidia-gtc-2026-and-why-you-should-too/",
-          "publishedOn": "2026-02-13T06:17:09.000Z",
-          "wordCount": null,
-          "title": "Top 5 Reasons Why I’m Attending NVIDIA GTC 2026 (And Why You Should Too!)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/running-llms-locally-with-ollama-a-complete-setup-guide/",
-          "author": "Collabnix Team",
-          "description": "Learn how to run Large Language Models locally with Ollama, enhancing data privacy and reducing latency for your applications.",
-          "link": "https://collabnix.com/running-llms-locally-with-ollama-a-complete-setup-guide/",
-          "publishedOn": "2026-02-13T03:28:27.000Z",
-          "wordCount": null,
-          "title": "Running LLMs Locally with Ollama: A Complete Setup Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/building-stateful-ai-workflows-with-langgraph/",
-          "author": "Collabnix Team",
-          "description": "Learn how to leverage LangGraph to craft stateful AI agent workflows, crucial for handling sophisticated interactions in cloud-native environments.",
-          "link": "https://collabnix.com/building-stateful-ai-workflows-with-langgraph/",
-          "publishedOn": "2026-02-12T13:52:42.000Z",
-          "wordCount": null,
-          "title": "Building Stateful AI Workflows with LangGraph",
-          "imageUrl": null
         }
       ]
     },
@@ -2930,6 +2850,16 @@
       "feedUrl": "https://limboy.me/index.xml",
       "siteUrl": "https://limboy.me/",
       "articles": [
+        {
+          "id": "https://limboy.me/posts/why-write-weekly",
+          "author": null,
+          "description": "",
+          "link": "https://limboy.me/posts/why-write-weekly",
+          "publishedOn": "2026-05-13T00:00:00.000Z",
+          "wordCount": null,
+          "title": "为什么要写周记",
+          "imageUrl": null
+        },
         {
           "id": "https://limboy.me/posts/mindfulness-meditation",
           "author": null,
@@ -2969,6 +2899,26 @@
       "feedUrl": "https://www.skyue.com/feed/",
       "siteUrl": "https://www.skyue.com/",
       "articles": [
+        {
+          "id": "https://www.skyue.com/26051522.html",
+          "author": "拾月",
+          "description": "晚上花了点时间把博客图床从又拍云迁移到了Cloudflare R2，共3458个文件（图片为主），约2.3G。用Gemini调研了方案，最终选择了rclone工具，配置又拍云的ftp参数 + C...",
+          "link": "https://www.skyue.com/26051522.html",
+          "publishedOn": "2026-05-15T14:51:00.000Z",
+          "wordCount": null,
+          "title": "图床从又拍云迁移到Cloudflare R2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.skyue.com/26051423.html",
+          "author": "拾月",
+          "description": "缘起入职阿里后使用钉钉，我的钉钉经常无故卡死，虽然其它同事也偶尔遇到，但我的频率显著高于他们。研发排查后，发现是我使用的输入法在新Mac系统适配存在问题，让我升级到最新版。但，我一直用的清歌输入...",
+          "link": "https://www.skyue.com/26051423.html",
+          "publishedOn": "2026-05-14T15:04:00.000Z",
+          "wordCount": null,
+          "title": "Rime鼠须管五笔输入法的快捷词库管理方案",
+          "imageUrl": null
+        },
         {
           "id": "https://www.skyue.com/26051016.html",
           "author": "拾月",
@@ -3202,16 +3152,6 @@
           "wordCount": null,
           "title": "AI入门系列 一种实用的Prompt工程： Agent Skill",
           "imageUrl": null
-        },
-        {
-          "id": "https://blognas.hwb0307.com/other/7008",
-          "author": "Bensz",
-          "description": "Bensz\nAI入门系列 如何获得vibe coding相关的AI算力\n本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 优惠活动 Packy Code的cc分组临时8折（折后1.2），持续到2026年2月18号12:00。 充值折扣码：NEWYEAR2026 概览 国内用户获取 Vibe Coding AI 算力的完整指南，涵盖 Claude、Codex、多模型聚合和国产模型四大主流方向 Claude Code 首选 PackyCode API，支持多源配置（aws-q/aws/cc），通过 CC-Switch 实现一键切换 多模型需求推荐 OhMyGPT，聚合 100+ 模型（GPT/Claude/Gemini/DeepSeek），邀请奖励 20 美元抵扣额度 Codex 推荐两种拼车方案：有 ChatGPT […]\nBensz",
-          "link": "https://blognas.hwb0307.com/ai/7008",
-          "publishedOn": "2026-02-13T11:56:40.000Z",
-          "wordCount": null,
-          "title": "AI入门系列 如何获得vibe coding相关的AI算力",
-          "imageUrl": null
         }
       ]
     },
@@ -3220,6 +3160,16 @@
       "feedUrl": "https://4311346.com/index.xml",
       "siteUrl": "https://4311346.com/",
       "articles": [
+        {
+          "id": "https://4311346.com/post/2026/0513-leancloud.html",
+          "author": null,
+          "description": "虽然这是一篇延误了1年多才发出来的文章，一直存放于 Typora 的 Belate 文件夹中，再次打开的时候，发现内容已过时。貌似已经用不上了… 因为在2026年初，LeanCloud 以公开发文将停止对外提供服务。\n随后 Waline 也更新了教程，指导客户在 Vercel 上建立数据库，不知道自己什么时候有时间，将 LeanCloud 上的评论数据转移到 Vercel 的 Neon 中。\n对于挑战，还是有些齐待的。\n半个多月了，冒个泡吧~\n— 以下为原文—已过期—\n虽然采用的纯静态的HUGO博客，在1.5年前（2021年的08月22日）启用Waline评论系统至今，博友们3703条评论数据是对我一直更新博客最大的动力。\n但在几年前采用HUGO时，并没有对HUGO的Jane模板做过较多的调整与优化。导致不同的客户，在访问时是会显示两种页面，也因此有很长一段时间内，暂停了杜老师自建国内不蒜子统计平台的文章访问统计。\nHUGO的文章链接路径\n举个例子，前不久更新的文章 《遇见小面服务员感冒了能继续上班吗？》\nHUGO默认文章链接为：\nhttps://4311346.com/post/2024/0813-xiaonoodles/\n搜索引擎收录的链接为:\nhttps://4311346.com/post/2024/0813-xiaonoodles\nWaline评论系统的数据建立在 LeanCloud 中，细看 Comment 表中，url 目录，就是此评论对应的页面(杜老师自建国内不蒜子统计平台同理)，对于机器来说，以上两个链接就是两个页面，所以评论和计数，都是分别计算的… 这谁受得了？\n\n为了统一链接，那么必须再次将Hugo静态博客的链接进行统一。对 HUGO 官方文档（URL management）研究了一会，找到了相关的解决方法。\n最终统一链接为HTML后缀\nhttps://4311346.com/post/2024/0813-xiaonoodles.html\n批量更新Waline对应的页面地址\n更改单个的数据较为简单，双击url目录就可以实现。但要批量实现，就得多操作两个步骤。\nLeanCloud中找到对应的 Comment 评论内容数据表，选择批量操作；选择修改 contains substring 包含子字符串,文章页对应链接部分任意相关信息。为了数据库安全期间，LeanCloud必须让你点击测试条件，看下需要操作的数据是否正确。\n\n更新对象，同样选择url字段，选择 set ，设置新的字符串，为你的新地址；\n\n当然此时，你也可以选择试运行，再次比对和确认数据是否正确。\n最后点击，连续运行，直到你的所有数据进行调整覆盖新的数据。\n\n最后，百度站长资源搜索平台中，按链接对比，提供网站改版数据。\n\n至此，有关Waline对应页面的LeanCloud库中的字段批量修改就已完成。\n长期主义，复利思维",
+          "link": "https://4311346.com/post/2026/0513-leancloud.html",
+          "publishedOn": "2026-05-13T15:32:17.000Z",
+          "wordCount": null,
+          "title": "通过LeanCloud批量修改Waline对应页面评论",
+          "imageUrl": null
+        },
         {
           "id": "https://4311346.com/post/2026/0421-lazboy.html",
           "author": null,
