@@ -857,6 +857,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=311976",
+          "author": "Brandon Lee",
+          "description": "It has been quite a year already in my home lab when it comes to infrastructure and the decisions I have made so far. This year I have made some…\nThe post The Best Infrastructure Decisions I Made This Year appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/05/the-best-infrastructure-decisions-i-made-this-year/",
+          "publishedOn": "2026-05-16T12:38:41.000Z",
+          "wordCount": null,
+          "title": "The Best Infrastructure Decisions I Made This Year",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=311937",
           "author": "Brandon Lee",
           "description": "From the beginning of 2026, I have written a lot about my journey of moving away from VMware which you can read about here: I Spent a Year Running Proxmox…\nThe post What I Learned After Migrating Fully Away From VMware appeared first on Virtualization Howto.",
@@ -1615,16 +1625,6 @@
           "wordCount": null,
           "title": "Is This the vCenter Experience Proxmox Has Been Missing? Meet ProxCenter",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=309498",
-          "author": "Brandon Lee",
-          "description": "Over the last few weeks I have been deeply involved in a Proxmox home lab project that is designed to reshape my home lab as I know it as I…\nThe post I Built a 5-Node Proxmox and Ceph Home Lab with 17TB and Dual 10Gb LACP appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/02/i-built-a-5-node-proxmox-and-ceph-home-lab-with-17tb-and-dual-10gb-lacp/",
-          "publishedOn": "2026-02-16T13:51:07.000Z",
-          "wordCount": null,
-          "title": "I Built a 5-Node Proxmox and Ceph Home Lab with 17TB and Dual 10Gb LACP",
-          "imageUrl": null
         }
       ]
     },
@@ -1633,6 +1633,26 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/building-a-customer-service-bot-with-openclaw-a-deep-dive-into-ai-agent-frameworks/",
+          "author": "Collabnix Team",
+          "description": "Learn how to build a customer service bot using OpenClaw AI framework, exploring AI agent development, setup, and API interactions.",
+          "link": "https://collabnix.com/building-a-customer-service-bot-with-openclaw-a-deep-dive-into-ai-agent-frameworks/",
+          "publishedOn": "2026-05-17T04:37:15.000Z",
+          "wordCount": null,
+          "title": "Building a Customer Service Bot with OpenClaw: A Deep Dive into AI Agent Frameworks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/top-10-real-world-use-cases-for-openclaw-ai-agents-in-2025/",
+          "author": "Collabnix Team",
+          "description": "Explore how OpenClaw AI agents are poised to revolutionize industries in 2025 with groundbreaking use cases and adaptable open-source capabilities.",
+          "link": "https://collabnix.com/top-10-real-world-use-cases-for-openclaw-ai-agents-in-2025/",
+          "publishedOn": "2026-05-16T04:08:17.000Z",
+          "wordCount": null,
+          "title": "Top 10 Real-World Use Cases for OpenClaw AI Agents in 2025",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/building-a-rag-powered-agent-with-openclaw-step-by-step-tutorial/",
           "author": "Collabnix Team",
@@ -2792,56 +2812,6 @@
           "wordCount": null,
           "title": "7 Best Practices to Build Scalable Blockchain Solutions",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=72229",
-          "author": "Collabnix Team",
-          "description": "Ollama just dropped one of its most significant updates yet – native support for subagents and web search when using Claude Code. The best part? Zero configuration overhead. No MCP servers to set up, no API keys to manage, no Docker Compose files to orchestrate. Just one command, and you’re running parallel AI agents with […]",
-          "link": "https://collabnix.com/ollama-now-supports-subagents-and-web-search-in-claude-code-no-mcp-servers-or-api-keys-required/",
-          "publishedOn": "2026-02-17T08:15:51.000Z",
-          "wordCount": null,
-          "title": "Ollama Now Supports Subagents and Web Search in Claude Code – No MCP Servers or API Keys Required",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=72216",
-          "author": "Collabnix Team",
-          "description": "Discover PersonaPlex-7B-v1 NVIDIA Speech Model If you’ve ever used a voice assistant and felt that awkward pause — where you speak, wait, the AI thinks, and then responds — you already know the biggest pain point in conversational AI. Traditional voice pipelines stitch together three separate models: Speech-to-Text (STT), a Large Language Model (LLM), and […]",
-          "link": "https://collabnix.com/nvidia-personaplex-7b-v1-the-full-duplex-speech-model-that-talks-like-a-human/",
-          "publishedOn": "2026-02-16T06:30:28.000Z",
-          "wordCount": null,
-          "title": "PersonaPlex-7B-v1 NVIDIA: Human-Like Speech Model",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=72194",
-          "author": "Collabnix Team",
-          "description": "AI-powered Zabbix chat assistant for enhanced monitoring Ever wished your monitoring team could just ask Zabbix a question in plain English instead of clicking through dashboards? Imagine a chat interface where your NOC engineer types “Show me all critical triggers on production servers” and gets an instant, formatted answer — powered by Claude and connected […]",
-          "link": "https://collabnix.com/building-a-secure-ai-powered-zabbix-chat-assistant-with-openwebui-claude-and-sso-based-access-control/",
-          "publishedOn": "2026-02-15T15:04:14.000Z",
-          "wordCount": null,
-          "title": "Building a Secure AI-Powered Zabbix Chat Assistant with OpenWebUI, Claude, and SSO-Based Access Control",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/understanding-retrieval-augmented-generation-how-rag-works-explained-2/",
-          "author": "Collabnix Team",
-          "description": "Explore how Retrieval Augmented Generation is revolutionizing AI by enhancing text generation with real-time data retrieval, offering applications precision, accuracy, and relevance.",
-          "link": "https://collabnix.com/understanding-retrieval-augmented-generation-how-rag-works-explained-2/",
-          "publishedOn": "2026-02-15T14:44:58.000Z",
-          "wordCount": null,
-          "title": "Understanding Retrieval Augmented Generation: How RAG Works Explained",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/understanding-retrieval-augmented-generation-how-rag-works-explained/",
-          "author": "Collabnix Team",
-          "description": "Explore how Retrieval Augmented Generation is revolutionizing AI by enhancing text generation with real-time data retrieval, offering applications precision, accuracy, and relevance.",
-          "link": "https://collabnix.com/understanding-retrieval-augmented-generation-how-rag-works-explained/",
-          "publishedOn": "2026-02-15T14:44:31.000Z",
-          "wordCount": null,
-          "title": "Understanding Retrieval Augmented Generation: How RAG Works Explained",
-          "imageUrl": null
         }
       ]
     },
@@ -2895,10 +2865,20 @@
       "articles": []
     },
     {
-      "title": "拾月",
+      "title": "拾月的博客",
       "feedUrl": "https://www.skyue.com/feed/",
       "siteUrl": "https://www.skyue.com/",
       "articles": [
+        {
+          "id": "https://www.skyue.com/26051712.html",
+          "author": "拾月",
+          "description": "继周五迁移图床，周六又把博客翻新了，主要干了两件事：Typecho升级到1.3，同步把php环境升级到8.2移植Hexo的Warmpaper主题到Typecho记录几个主要问题。CommentT...",
+          "link": "https://www.skyue.com/26051712.html",
+          "publishedOn": "2026-05-17T04:22:00.000Z",
+          "wordCount": null,
+          "title": "Typecho升级到1.3，使用Warmpaper主题",
+          "imageUrl": null
+        },
         {
           "id": "https://www.skyue.com/26051522.html",
           "author": "拾月",
@@ -3142,16 +3122,6 @@
           "wordCount": null,
           "title": "AI入门系列 Vibe Coding实战",
           "imageUrl": null
-        },
-        {
-          "id": "https://blognas.hwb0307.com/other/7028",
-          "author": "Bensz",
-          "description": "Bensz\nAI入门系列 一种实用的Prompt工程： Agent Skill\n本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 我的 skills 仓库： 以及我在 ChineseResearchLaTeX 里维护的 skills（更偏科研写作/LaTeX 工程化）： 还是那句话：开发和调试真不容易，如果这些东西对你有用，欢迎点个 Star 支持一下哈哈 (～￣▽￣)～ 概览 Prompt 工程从 “一句话问答” 演化到 “可复用工作流”：CoT、ReAct、工具调用、结构化输出一路把边界推到今天 Agent Skill 本质上是把 Prompt + 规则 + 脚本 + 模板 “打包成工程资产”，从玄学走向可维护、可复现 MCP 更像连接层（把外部工具/资源接进来），Skill 更像流程层（告诉 AI 什么时候、按什么 […]\nBensz",
-          "link": "https://blognas.hwb0307.com/ai/7028",
-          "publishedOn": "2026-02-16T08:53:26.000Z",
-          "wordCount": null,
-          "title": "AI入门系列 一种实用的Prompt工程： Agent Skill",
-          "imageUrl": null
         }
       ]
     },
@@ -3369,6 +3339,16 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=22985",
+          "author": "xiaoz",
+          "description": "最近，xiaoz 在开发一个 HTTP 邮件发送服务。项目本身不复杂，图个省事，打算部署到 Cloudflare Workers 上。虽然中间遇到了一点小问题，但在 AI 的帮助下很快解决了。由于是第一次用 wrangler 命令部署，不太熟悉，踩了些坑，顺手用这篇文章记录一下。什么是wrangle",
+          "link": "https://blog.xiaoz.org/archives/22985",
+          "publishedOn": "2026-05-17T11:21:23.000Z",
+          "wordCount": null,
+          "title": "Cloudflare Workers项目部署和wrangler命令使用",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=22974",
           "author": "xiaoz",

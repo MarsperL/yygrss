@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-05-15T22:15:42.325Z</updated>
+    <updated>2026-05-17T22:12:25.462Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Workers项目部署和wrangler命令使用]]></title>
+        <id>https://blog.xiaoz.org/?p=22985</id>
+        <link href="https://blog.xiaoz.org/archives/22985"/>
+        <updated>2026-05-17T11:21:23.000Z</updated>
+        <summary type="html"><![CDATA[最近，xiaoz 在开发一个 HTTP 邮件发送服务。项目本身不复杂，图个省事，打算部署到 Cloudflare Workers 上。虽然中间遇到了一点小问题，但在 AI 的帮助下很快解决了。由于是第一次用 wrangler 命令部署，不太熟悉，踩了些坑，顺手用这篇文章记录一下。什么是wrangle]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Customer Service Bot with OpenClaw: A Deep Dive into AI Agent Frameworks]]></title>
+        <id>https://collabnix.com/building-a-customer-service-bot-with-openclaw-a-deep-dive-into-ai-agent-frameworks/</id>
+        <link href="https://collabnix.com/building-a-customer-service-bot-with-openclaw-a-deep-dive-into-ai-agent-frameworks/"/>
+        <updated>2026-05-17T04:37:15.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build a customer service bot using OpenClaw AI framework, exploring AI agent development, setup, and API interactions.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typecho升级到1.3，使用Warmpaper主题]]></title>
+        <id>https://www.skyue.com/26051712.html</id>
+        <link href="https://www.skyue.com/26051712.html"/>
+        <updated>2026-05-17T04:22:00.000Z</updated>
+        <summary type="html"><![CDATA[继周五迁移图床，周六又把博客翻新了，主要干了两件事：Typecho升级到1.3，同步把php环境升级到8.2移植Hexo的Warmpaper主题到Typecho记录几个主要问题。CommentT...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Best Infrastructure Decisions I Made This Year]]></title>
+        <id>https://www.virtualizationhowto.com/?p=311976</id>
+        <link href="https://www.virtualizationhowto.com/2026/05/the-best-infrastructure-decisions-i-made-this-year/"/>
+        <updated>2026-05-16T12:38:41.000Z</updated>
+        <summary type="html"><![CDATA[It has been quite a year already in my home lab when it comes to infrastructure and the decisions I have made so far. This year I have made some…
+The post The Best Infrastructure Decisions I Made This Year appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 10 Real-World Use Cases for OpenClaw AI Agents in 2025]]></title>
+        <id>https://collabnix.com/top-10-real-world-use-cases-for-openclaw-ai-agents-in-2025/</id>
+        <link href="https://collabnix.com/top-10-real-world-use-cases-for-openclaw-ai-agents-in-2025/"/>
+        <updated>2026-05-16T04:08:17.000Z</updated>
+        <summary type="html"><![CDATA[Explore how OpenClaw AI agents are poised to revolutionize industries in 2025 with groundbreaking use cases and adaptable open-source capabilities.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[图床从又拍云迁移到Cloudflare R2]]></title>
         <id>https://www.skyue.com/26051522.html</id>
@@ -4222,80 +4273,6 @@ The post Is This the vCenter Experience Proxmox Has Been Missing? Meet ProxCente
         <summary type="html"><![CDATA[今天大年初一，先祝各位朋友新年快乐！这是草莓诞生记的第三篇文章。]]></summary>
         <author>
             <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ollama Now Supports Subagents and Web Search in Claude Code – No MCP Servers or API Keys Required]]></title>
-        <id>https://collabnix.com/?p=72229</id>
-        <link href="https://collabnix.com/ollama-now-supports-subagents-and-web-search-in-claude-code-no-mcp-servers-or-api-keys-required/"/>
-        <updated>2026-02-17T08:15:51.000Z</updated>
-        <summary type="html"><![CDATA[Ollama just dropped one of its most significant updates yet – native support for subagents and web search when using Claude Code. The best part? Zero configuration overhead. No MCP servers to set up, no API keys to manage, no Docker Compose files to orchestrate. Just one command, and you’re running parallel AI agents with […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Built a 5-Node Proxmox and Ceph Home Lab with 17TB and Dual 10Gb LACP]]></title>
-        <id>https://www.virtualizationhowto.com/?p=309498</id>
-        <link href="https://www.virtualizationhowto.com/2026/02/i-built-a-5-node-proxmox-and-ceph-home-lab-with-17tb-and-dual-10gb-lacp/"/>
-        <updated>2026-02-16T13:51:07.000Z</updated>
-        <summary type="html"><![CDATA[Over the last few weeks I have been deeply involved in a Proxmox home lab project that is designed to reshape my home lab as I know it as I…
-The post I Built a 5-Node Proxmox and Ceph Home Lab with 17TB and Dual 10Gb LACP appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI入门系列 一种实用的Prompt工程： Agent Skill]]></title>
-        <id>https://blognas.hwb0307.com/other/7028</id>
-        <link href="https://blognas.hwb0307.com/ai/7028"/>
-        <updated>2026-02-16T08:53:26.000Z</updated>
-        <summary type="html"><![CDATA[Bensz
-AI入门系列 一种实用的Prompt工程： Agent Skill
-本博客由AI模型商OhMyGPT强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 我的 skills 仓库： 以及我在 ChineseResearchLaTeX 里维护的 skills（更偏科研写作/LaTeX 工程化）： 还是那句话：开发和调试真不容易，如果这些东西对你有用，欢迎点个 Star 支持一下哈哈 (～￣▽￣)～ 概览 Prompt 工程从 “一句话问答” 演化到 “可复用工作流”：CoT、ReAct、工具调用、结构化输出一路把边界推到今天 Agent Skill 本质上是把 Prompt + 规则 + 脚本 + 模板 “打包成工程资产”，从玄学走向可维护、可复现 MCP 更像连接层（把外部工具/资源接进来），Skill 更像流程层（告诉 AI 什么时候、按什么 […]
-Bensz]]></summary>
-        <author>
-            <name>Bensz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PersonaPlex-7B-v1 NVIDIA: Human-Like Speech Model]]></title>
-        <id>https://collabnix.com/?p=72216</id>
-        <link href="https://collabnix.com/nvidia-personaplex-7b-v1-the-full-duplex-speech-model-that-talks-like-a-human/"/>
-        <updated>2026-02-16T06:30:28.000Z</updated>
-        <summary type="html"><![CDATA[Discover PersonaPlex-7B-v1 NVIDIA Speech Model If you’ve ever used a voice assistant and felt that awkward pause — where you speak, wait, the AI thinks, and then responds — you already know the biggest pain point in conversational AI. Traditional voice pipelines stitch together three separate models: Speech-to-Text (STT), a Large Language Model (LLM), and […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Secure AI-Powered Zabbix Chat Assistant with OpenWebUI, Claude, and SSO-Based Access Control]]></title>
-        <id>https://collabnix.com/?p=72194</id>
-        <link href="https://collabnix.com/building-a-secure-ai-powered-zabbix-chat-assistant-with-openwebui-claude-and-sso-based-access-control/"/>
-        <updated>2026-02-15T15:04:14.000Z</updated>
-        <summary type="html"><![CDATA[AI-powered Zabbix chat assistant for enhanced monitoring Ever wished your monitoring team could just ask Zabbix a question in plain English instead of clicking through dashboards? Imagine a chat interface where your NOC engineer types “Show me all critical triggers on production servers” and gets an instant, formatted answer — powered by Claude and connected […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Retrieval Augmented Generation: How RAG Works Explained]]></title>
-        <id>https://collabnix.com/understanding-retrieval-augmented-generation-how-rag-works-explained-2/</id>
-        <link href="https://collabnix.com/understanding-retrieval-augmented-generation-how-rag-works-explained-2/"/>
-        <updated>2026-02-15T14:44:58.000Z</updated>
-        <summary type="html"><![CDATA[Explore how Retrieval Augmented Generation is revolutionizing AI by enhancing text generation with real-time data retrieval, offering applications precision, accuracy, and relevance.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding Retrieval Augmented Generation: How RAG Works Explained]]></title>
-        <id>https://collabnix.com/understanding-retrieval-augmented-generation-how-rag-works-explained/</id>
-        <link href="https://collabnix.com/understanding-retrieval-augmented-generation-how-rag-works-explained/"/>
-        <updated>2026-02-15T14:44:31.000Z</updated>
-        <summary type="html"><![CDATA[Explore how Retrieval Augmented Generation is revolutionizing AI by enhancing text generation with real-time data retrieval, offering applications precision, accuracy, and relevance.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
         </author>
     </entry>
     <entry>
