@@ -454,18 +454,7 @@
       "title": "Rss Feed - 苏洋博客",
       "feedUrl": "https://soulteary.com/feed/",
       "siteUrl": "https://soulteary.com/feed/",
-      "articles": [
-        {
-          "id": "https://soulteary.com/2026/02/18/use-docker-to-natively-deploy-github-actions-runner-by-fleet.html",
-          "author": "苏洋(soulteary)",
-          "description": "最近把我折腾 GitHub self-hosted runner 的一些经验，整理成了一个开源小工具 Runner Fleet（千帆）。它的目标很简单，把 Runner 当作服务来管，而不是当作一堆目录来管。我希望它能少点手工、少点踩坑，把 1～5 台机器上自托管 Runner 的部署、扩容、维护，收敛成一套可复用的流程。前期小规模好上手，后面要提高并发度、提升利用率、扩大吞吐，也不至于失控。",
-          "link": "https://soulteary.com/2026/02/18/use-docker-to-natively-deploy-github-actions-runner-by-fleet.html",
-          "publishedOn": "2026-02-18T10:20:00.000Z",
-          "wordCount": null,
-          "title": "用 Docker 私有化部署 GitHub Actions Runner（Runner Fleet）",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "运维咖啡吧",
@@ -856,6 +845,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=311997",
+          "author": "Brandon Lee",
+          "description": "Getting a Docker host up and running is a great thing to do in your home lab environment. It allows you to start running containers and testing out things much…\nThe post The First 5 Things I Change on Every Docker Host appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/05/the-first-5-things-i-change-on-every-docker-host/",
+          "publishedOn": "2026-05-18T12:10:28.000Z",
+          "wordCount": null,
+          "title": "The First 5 Things I Change on Every Docker Host",
+          "imageUrl": null
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=311976",
           "author": "Brandon Lee",
@@ -1615,16 +1614,6 @@
           "wordCount": null,
           "title": "Jumbo Frames Broke My Proxmox Cluster and Here’s Why",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=309523",
-          "author": "Brandon Lee",
-          "description": "One of the thing that a LOT of VMware vSphere admins feel like they are missing is the vCenter-like experience when they move over to Proxmox. This is where they…\nThe post Is This the vCenter Experience Proxmox Has Been Missing? Meet ProxCenter appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/02/is-this-the-vcenter-experience-proxmox-has-been-missing-meet-proxcenter/",
-          "publishedOn": "2026-02-17T13:21:35.000Z",
-          "wordCount": null,
-          "title": "Is This the vCenter Experience Proxmox Has Been Missing? Meet ProxCenter",
-          "imageUrl": null
         }
       ]
     },
@@ -1633,6 +1622,16 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/openclaw-security-best-practices-guardrails-and-safe-agent-design/",
+          "author": "Collabnix Team",
+          "description": "Discover how to secure AI agents using OpenClaw with best practices in access control, encryption, and safe agent design.",
+          "link": "https://collabnix.com/openclaw-security-best-practices-guardrails-and-safe-agent-design/",
+          "publishedOn": "2026-05-18T04:49:20.000Z",
+          "wordCount": null,
+          "title": "OpenClaw Security Best Practices: Guardrails and Safe Agent Design",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/building-a-customer-service-bot-with-openclaw-a-deep-dive-into-ai-agent-frameworks/",
           "author": "Collabnix Team",
@@ -2958,16 +2957,6 @@
           "wordCount": null,
           "title": "第一次当爸爸",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.skyue.com/26021720.html",
-          "author": "拾月",
-          "description": "今天大年初一，先祝各位朋友新年快乐！这是草莓诞生记的第三篇文章。",
-          "link": "https://www.skyue.com/26021720.html",
-          "publishedOn": "2026-02-17T12:04:00.000Z",
-          "wordCount": null,
-          "title": "草莓满月仪式和生产纪实短片",
-          "imageUrl": null
         }
       ]
     },
@@ -3130,6 +3119,16 @@
       "feedUrl": "https://4311346.com/index.xml",
       "siteUrl": "https://4311346.com/",
       "articles": [
+        {
+          "id": "https://4311346.com/post/2026/0519-crayfish.html",
+          "author": null,
+          "description": "从小出生在武汉这座浮在水上的城市，长江与汉水再此交汇，全市166个湖泊则如繁星般散落在这片土地上，为这座钢铁都市注入了温润的灵气。\n而武汉市所在的湖北省却一直有着“千湖之省”的美誉，全省有755个湖泊被列入保护名录，总面积达2706.85平方公里，共同编织出中国最密集的淡水湖网。\n关于小龙虾\n小龙虾原名叫克氏原螯虾，它们的老家远在墨西哥北部和美国东南部。1920年代，小龙虾最先是被作为牛蛙饲料引入日本，随后又传入中国的江苏南京一带。由于小龙虾的适应性强、繁殖快、在中国又缺少天敌，一度在田间打洞，破坏堤坝和庄稼，所以在上世纪80年代，小龙虾一直被当作“害虫”和“省外来入侵物种”。\n湖北中南部是由古云梦泽演化而来的江汉平原，同样是北纬30°，这里河网密布、地势低洼，常年积水，所以形成了大片只种能种下一季稻的湖田和冬闲田。这种天然的水环境，正好迎合了小龙虾的生存习性。小龙虾在这里生长快、繁殖周期短。丰沛的水资源也为湖北人大规模养殖提供了基础保障。\n\n最终这个“外来入侵者” 在湖北潜江，通过农民们的智慧与创新，成功“驯服”了小龙虾，意外获得了远超种粮的经济效益，开创了“一稻一虾”模式，并不断升级。\n武汉吃小龙虾\n小龙虾在成为全国美食前，首先征服的是武汉人的味蕾。上世纪90年代末期武汉街头开始出现以“虾球”形式食用小龙虾的做法。之后，湖北潜江的“油焖大虾”做法传入武汉，就陆续开始占领了武汉个大宵夜大排档，小龙虾正式成为武汉人夏天宵夜的心头好。\n\n再到2000年之后，巴厘龙虾、靓靓蒸虾、肥肥虾庄等几个大厂的相继创立，开始推动武汉本地的小龙虾热潮。武汉市外来人口从2015年的每年200万增长至2017年的每年400万人，配套2015年至2017年新媒体等推广渠道的爆发，让全国都感受到了武汉小龙虾的火爆。\n最后就是2021年，在武汉疫情后，经济强势复苏，不少大企业在武汉设立了第二总部，配套武汉政府及人才的留汉政策，持续形成了一波人才的回流潮，让更多的武汉人在夏天离不开小龙虾。\n越来越贵的小龙虾\n需求不断上升，小龙虾的价格，也水涨船高，记忆中从100元内/盘，到现在的188元/盘，个头略大的甚至到228-258元/盘，一家人没个千把块很难吃饱。\n2020年武汉疫情之后，每年都会在吃虾季带家人干一次小龙虾。2026年也毫不例外，带上家人酣畅淋漓的吃一顿小龙虾。\n\n满口鲜香的蒜蓉小龙虾是最爱，在这里生蒜的刺激感消失了，反而像细腻的酱料一样包裹着小龙虾身，连平时不爱吃蒜的人都能接受。相比麻辣或油焖，蒜蓉口味更温和，适合不太能吃辣的人，也是带长辈或孩子吃小龙虾的首选。\n\n唇齿留香的油焖大虾，通常由十几种香料组成，那股混合了八角、桂皮、草果的复合香气是典型的湖北潜江风味。油焖大虾的“香”是复合型的，它不是单纯的辣，而是一种醇厚的酱香，闻着就让人食欲大开。肥肥虾庄的油焖大虾碗底有几根黄瓜条就是神来之笔，吸饱了汤汁，脆爽又解腻，而仅有的几颗蒜瓣焖得软糯如泥，比肉还好吃。油焖大虾适合‘重口味’爱好者，是下酒又下饭的神器，也是最经典、最浓烈的市井风味。\n\n清蒸，是对一只好虾的最高礼赞，回甘无穷，原汁原味。虽然主打本味，但肥肥虾庄的蘸料是点睛之笔，酱油加姜末醋，微微带甜，不仅没盖住虾的鲜，反而把鲜味吊出来了。清蒸最能检验虾肉的弹性，肉质紧实、Q弹爽滑、入口弹牙、鲜嫩多汁。\n\n配上这1910年创立的老万城冰镇酸梅汤，先甜后酸，有回甘，真的是大饱口福，解辣解腻效果一流。\n蒜蓉是“浓妆淡抹”，油焖是“烈火烹油”，清蒸是“素颜朝天”\n剥开每一只虾头，满满的虾黄不管是否吸足了汤汁，一口嗦下去，那种浓稠鲜辣的感觉太满足了…\n\n没有小龙虾的武汉夏天是不完整的，从第一口油焖的麻辣开场，到最后一口凉面的清爽收尾，好像只有嘬完这口虾，才算是真正过了个夏天。\n关于博客中小龙虾的记忆\n2025年，黄陂区七颗莓生态园，小龙虾管饱\n2024年，虎泉，虾皇、光谷靓靓蒸虾\n2022年，肥肥虾庄成为武汉每年夏天的打卡地\n2021年，武汉并不只有热干面和周黑鸭",
+          "link": "https://4311346.com/post/2026/0519-crayfish.html",
+          "publishedOn": "2026-05-18T16:03:22.000Z",
+          "wordCount": null,
+          "title": "武汉小龙虾是什么时候火遍全国的？",
+          "imageUrl": null
+        },
         {
           "id": "https://4311346.com/post/2026/0513-leancloud.html",
           "author": null,
@@ -3582,8 +3581,18 @@
     {
       "title": "Zhangguanzhang",
       "feedUrl": "https://zhangguanzhang.github.io/atom.xml",
-      "siteUrl": "http://zhangguanzhang.github.io/atom.xml",
+      "siteUrl": "http://zhangguanzhang.github.io/",
       "articles": [
+        {
+          "id": "http://zhangguanzhang.github.io/2026/05/13/loongarch64/",
+          "author": null,
+          "description": "<p>记录下工作上龙芯适配相关。</p>",
+          "link": "http://zhangguanzhang.github.io/2026/05/13/loongarch64/",
+          "publishedOn": "2026-05-13T11:10:30.000Z",
+          "wordCount": null,
+          "title": "龙芯折腾适配笔记",
+          "imageUrl": null
+        },
         {
           "id": "http://zhangguanzhang.github.io/2026/04/09/openeuler-sudo-killed/",
           "author": null,
@@ -3592,6 +3601,16 @@
           "publishedOn": "2026-04-09T09:10:30.000Z",
           "wordCount": null,
           "title": "欧拉22.04容器内sudo 被 killed",
+          "imageUrl": null
+        },
+        {
+          "id": "http://zhangguanzhang.github.io/2026/04/06/k8s-vm-im-timeout/",
+          "author": null,
+          "description": "<p>记录下一次虚拟机上K8S IM 服务高峰期 timeout 排查过程。</p>",
+          "link": "http://zhangguanzhang.github.io/2026/04/06/k8s-vm-im-timeout/",
+          "publishedOn": "2026-04-06T09:10:30.000Z",
+          "wordCount": null,
+          "title": "K8S IM 服务高峰期频繁 tcp timeout",
           "imageUrl": null
         },
         {
