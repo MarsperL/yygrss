@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-05-27T22:54:53.505Z</updated>
+    <updated>2026-05-29T22:48:02.372Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Stargate（星空之门）：不用改业务代码，给内部服务加一道登录门]]></title>
+        <id>https://soulteary.com/2026/05/30/stargate-lightweight-forward-auth-gateway-for-internal-services.html</id>
+        <link href="https://soulteary.com/2026/05/30/stargate-lightweight-forward-auth-gateway-for-internal-services.html"/>
+        <updated>2026-05-29T17:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Stargate（星空之门）是一个轻量化 Forward Auth 鉴权网关，适合 Traefik、Nginx、HomeLab 和内部工具场景。它能将登录、会话与访问控制前移到反向代理入口，让服务无需改造代码，也能快速获得统一认证能力，并可逐步扩展白名单、验证码、TOTP 与监控能力。]]></summary>
+        <author>
+            <name>苏洋(soulteary)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Traefik 阿里云使用方案：自动证书与服务接入]]></title>
+        <id>https://soulteary.com/2026/05/29/traefik-alibaba-cloud-auto-tls-and-service-routing.html</id>
+        <link href="https://soulteary.com/2026/05/29/traefik-alibaba-cloud-auto-tls-and-service-routing.html"/>
+        <updated>2026-05-29T15:14:00.000Z</updated>
+        <summary type="html"><![CDATA[本文介绍在阿里云环境中使用 Traefik 3 实现 HTTPS 服务接入与 SSL 证书自动管理的实践方案。通过 AliDNS DNS Challenge、Docker Provider 和 Let's Encrypt，实现证书自动申请、自动续签与动态路由配置。同时结合 RAM 最小权限设计，降低密钥风险，提高服务安全性与可维护性。文章包含完整部署步骤、Traefik 配置示例、服务接入方式及运维经验，适用于个人开发者和团队构建统一的 HTTPS 服务入口。]]></summary>
+        <author>
+            <name>苏洋(soulteary)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxmox Datacenter Manager 1.1 Quietly Added Its Best Feature Yet]]></title>
+        <id>https://www.virtualizationhowto.com/?p=312312</id>
+        <link href="https://www.virtualizationhowto.com/2026/05/proxmox-datacenter-manager-1-1-quietly-added-its-best-feature-yet/"/>
+        <updated>2026-05-29T12:40:09.000Z</updated>
+        <summary type="html"><![CDATA[Anyone running Proxmox in their home lab right now or wanting to go with it in production is no doubt monitoring the Proxmox Datacenter Manager solution from Proxmox. This is…
+The post Proxmox Datacenter Manager 1.1 Quietly Added Its Best Feature Yet appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Docker Books to Read in 2026]]></title>
+        <id>https://collabnix.com/?p=73847</id>
+        <link href="https://collabnix.com/top-docker-books-recommended-by-experts-in-2026/"/>
+        <updated>2026-05-29T04:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Top Picks for Best Docker Books 2026 In 2026, Docker is no longer just a container runtime, it’s the substrate for modern application delivery, the foundation underneath Kubernetes, and increasingly, the operational layer for AI agents in production. Choosing the right book to learn it is harder than it used to be, because the field […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于 Cloudflare Workers 的轻量级 SMTP 发信网关：ZSend]]></title>
+        <id>https://blog.xiaoz.org/?p=23001</id>
+        <link href="https://blog.xiaoz.org/archives/23001"/>
+        <updated>2026-05-29T00:46:49.000Z</updated>
+        <summary type="html"><![CDATA[ZSend 是一个部署在 Cloudflare Workers 上的邮件发送网关，提供 Web 管理后台、多 SMTP 账号管理和统一的 HTTP 发信 API，由xiaoz开发，已经在Github开源。开源地址：https://github.com/helloxz/zsendZSend解决了哪些问]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[纯Vibe零代码：一个纯前端证件照修改器的设计与实现]]></title>
+        <id>https://www.txisfine.cn/archives/a78020a0.html</id>
+        <link href="https://www.txisfine.cn/archives/a78020a0.html"/>
+        <updated>2026-05-28T22:15:58.000Z</updated>
+        <summary type="html"><![CDATA[这篇文章记录的是「证件照修改器」的设计与实现过程。 线上版本已经发布：https://idphoto.hex.ac.cn/。纯 Vibe 零代码，欢迎体验。 它的核心原则很简单：图片只在用户浏览器中处理，不上传服务器；应用支持离线使用。 为什么做成纯前端 PWA 证件照工具天然涉及个人照片，隐私敏感度很高。如果后端参与处理，哪怕服务端不保存图片，用户仍然需要信任传输链路、服务器实现和日志策略。对一...]]></summary>
+        <author>
+            <name>弹霄博科</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I thought my Technitium DNS cluster was fixed. These settings were the real problem]]></title>
+        <id>https://www.virtualizationhowto.com/?p=312285</id>
+        <link href="https://www.virtualizationhowto.com/2026/05/i-thought-my-technitium-dns-cluster-was-fixed-these-settings-were-the-real-problem/"/>
+        <updated>2026-05-28T12:22:37.000Z</updated>
+        <summary type="html"><![CDATA[When you run a home lab long enough, you eventually hit one of those troubleshooting sessions that turns into a full-on detective story. You start out convinced the issue is…
+The post I thought my Technitium DNS cluster was fixed. These settings were the real problem appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4 Trusted Real Estate Software Development Companies Supporting Enterprise Real Estate Innovation]]></title>
         <id>https://collabnix.com/?p=73841</id>
@@ -4000,46 +4072,12 @@ The post 5 Home Lab VLAN Mistakes That Will Break Your Network in 2026 appeared 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Best AI Video Generators in 2026 (Tested & Ranked for Creators and Builders)]]></title>
-        <id>https://collabnix.com/?p=72777</id>
-        <link href="https://collabnix.com/best-ai-video-generators-in-2026-tested-ranked-for-creators-and-builders/"/>
-        <updated>2026-03-01T07:15:46.000Z</updated>
-        <summary type="html"><![CDATA[As of February 2026, the best AI video generator for most creators and teams is Magic Hour — especially if you care about production-ready workflows, image-to-video pipelines, and creative control. After two weeks of hands-on testing across marketing teams, indie creators, and startup operators, I evaluated the top platforms based on output quality, speed, editing […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Shift from Kubernetes Ingress to Gateway API and How to Migrate]]></title>
-        <id>https://collabnix.com/understanding-the-shift-from-kubernetes-ingress-to-gateway-api-and-how-to-migrate/</id>
-        <link href="https://collabnix.com/understanding-the-shift-from-kubernetes-ingress-to-gateway-api-and-how-to-migrate/"/>
-        <updated>2026-03-01T03:27:52.000Z</updated>
-        <summary type="html"><![CDATA[Explore the shift from Kubernetes Ingress API to Gateway API, understand their differences, and learn how to migrate effectively.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sjj1024/PakePlus-Android: 轻松将任意网站/HTML/Vue/React 等项目构建为轻量级 (小于 5M) 多端桌面应用和手机应用仅需几分钟。]]></title>
         <id>小于 5M) 多端桌面应用和手机应用仅需几分钟。](https://github.com/Sjj1024/PakePlus-Android</id>
         <link href="https://raw.githubusercontent.com/guanguans/favorite-link/master/%E5%B0%8F%E4%BA%8E%205M)%20%E5%A4%9A%E7%AB%AF%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8%E5%92%8C%E6%89%8B%E6%9C%BA%E5%BA%94%E7%94%A8%E4%BB%85%E9%9C%80%E5%87%A0%E5%88%86%E9%92%9F%E3%80%82](https://github.com/Sjj1024/PakePlus-Android"/>
         <updated>2026-03-01T00:00:00.000Z</updated>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[城市散步志：年前]]></title>
-        <id>https://bluehe.cn/archives/urban-walks-2026-01</id>
-        <link href="https://bluehe.cn/archives/urban-walks-2026-01"/>
-        <updated>2026-02-28T17:50:00.000Z</updated>
-        <summary type="html"><![CDATA[书接上文，1月25日，在咖啡店待了一会后，人越来越多，我们就转场换一家，这家就一般般了，饮品很淡，对不上这个价格，这才发现这家是主打美团宣传的，刷好评还送小蛋糕，而不是像我们直接扫码点单，比美团贵一些。
-
-
-
-观察了店里，除了我们都是女性，她们都是点了吃...]]></summary>
-        <author>
-            <name>云心怀鹤</name>
         </author>
     </entry>
     <entry>
@@ -4060,48 +4098,6 @@ The post 5 Home Lab VLAN Mistakes That Will Break Your Network in 2026 appeared 
         <summary type="html"><![CDATA[Contribute to MrPunyapal/pest-annotator-plugin development by creating an account on GitHub.]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Home Lab Hardware Projects Most People Keep Putting Off]]></title>
-        <id>https://www.virtualizationhowto.com/?p=309870</id>
-        <link href="https://www.virtualizationhowto.com/2026/02/5-home-lab-hardware-projects-most-people-keep-putting-off/"/>
-        <updated>2026-02-28T13:56:51.000Z</updated>
-        <summary type="html"><![CDATA[When thinking about projects in the home lab, most of what I know my mind goes to is software projects and cool solutions that I want to implement that adds…
-The post 5 Home Lab Hardware Projects Most People Keep Putting Off appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secure VM Data Backup and Recovery with NAKIVO]]></title>
-        <id>https://collabnix.com/?p=72753</id>
-        <link href="https://collabnix.com/secure-vm-data-backup-and-recovery-with-nakivo/"/>
-        <updated>2026-02-27T17:51:22.000Z</updated>
-        <summary type="html"><![CDATA[Discover how secure VM data recovery can minimize data loss and downtime. Explore data protection, backup and recovery best practices with NAKIVO.]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top AI/GPU Virtual Sessions for Developers at NVIDIA GTC 2026]]></title>
-        <id>https://collabnix.com/?p=72740</id>
-        <link href="https://collabnix.com/top-ai-gpu-virtual-sessions-for-developers-at-nvidia-gtc-2026/"/>
-        <updated>2026-02-27T16:53:09.000Z</updated>
-        <summary type="html"><![CDATA[Top AI GPU Sessions at NVIDIA GTC 2026 NVIDIA GTC 2026 is right around the corner ~ March 16–19, and if you can’t make it to San Jose in person, the good news is that some of the most impactful sessions are available virtually. From Jensen Huang’s keynote (where he’s teased unveiling chips the “world […]]]></summary>
-        <author>
-            <name>Ajeet Raina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Tested ProxPatch in My 5-Node Proxmox Cluster. Here’s What Happened]]></title>
-        <id>https://www.virtualizationhowto.com/?p=309806</id>
-        <link href="https://www.virtualizationhowto.com/2026/02/i-tested-proxpatch-in-my-5-node-proxmox-cluster-heres-what-happened/"/>
-        <updated>2026-02-27T13:14:05.000Z</updated>
-        <summary type="html"><![CDATA[If you have been following along with what I have been up to in the home lab, you know that I recently built a 5-node Proxmox VE cluster running Ceph…
-The post I Tested ProxPatch in My 5-Node Proxmox Cluster. Here’s What Happened appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
