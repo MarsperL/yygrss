@@ -435,6 +435,26 @@
       "siteUrl": "https://soulteary.com/feed/",
       "articles": [
         {
+          "id": "https://soulteary.com/2026/05/30/herald-lightweight-otp-and-verification-code-delivery-service.html",
+          "author": "苏洋(soulteary)",
+          "description": "Herald（鸦使）是一个轻量的 OTP 和验证码服务，适合 HomeLab、小团队内部工具和测试环境。它负责创建验证挑战、生成验证码，通过邮件、短信、钉钉等通道把验证码送出去，并完成校验、过期、限流与审计。它可以接在 Stargate 和 Warden 后面作为认证链路里的“送信人”，也可以独立运行，给内部后台、脚本和平台提供统一的验证码能力，并支持 Docker 部署与后续扩展真实发送通道。",
+          "link": "https://soulteary.com/2026/05/30/herald-lightweight-otp-and-verification-code-delivery-service.html",
+          "publishedOn": "2026-05-29T20:43:00.000Z",
+          "wordCount": null,
+          "title": "Herald（鸦使）：把验证码和通知，送到该送的人手里",
+          "imageUrl": null
+        },
+        {
+          "id": "https://soulteary.com/2026/05/30/warden-maintainable-access-roster-from-shared-password.html",
+          "author": "苏洋(soulteary)",
+          "description": "Warden（守望者）是一个轻量的准入名单数据服务，适合 HomeLab、小团队内部工具和测试环境。它维护可被机器稳定查询的用户名册，记录邮箱、手机号、用户 ID、状态、角色和权限范围，可接在 Stargate 后面完成从共享口令到认人的过渡，也可独立为内部网关和脚本提供统一查询能力，并支持 Docker 部署与后续扩展 Redis、远程数据源和监控。",
+          "link": "https://soulteary.com/2026/05/30/warden-maintainable-access-roster-from-shared-password.html",
+          "publishedOn": "2026-05-29T18:28:00.000Z",
+          "wordCount": null,
+          "title": "Warden（守望者）：从共享口令，到一份可维护的准入名册",
+          "imageUrl": null
+        },
+        {
           "id": "https://soulteary.com/2026/05/30/stargate-lightweight-forward-auth-gateway-for-internal-services.html",
           "author": "苏洋(soulteary)",
           "description": "Stargate（星空之门）是一个轻量化 Forward Auth 鉴权网关，适合 Traefik、Nginx、HomeLab 和内部工具场景。它能将登录、会话与访问控制前移到反向代理入口，让服务无需改造代码，也能快速获得统一认证能力，并可逐步扩展白名单、验证码、TOTP 与监控能力。",
@@ -845,6 +865,16 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=312335",
+          "author": "Brandon Lee",
+          "description": "The article I wrote on Termius seemed to strike a chord with many who use various tools across the home lab. There were many comments for Termius, but also comments…\nThe post I Did Not Expect to Like This Self-Hosted Termius Alternative This Much appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/05/i-did-not-expect-to-like-this-self-hosted-termius-alternative-this-much/",
+          "publishedOn": "2026-05-30T12:56:18.000Z",
+          "wordCount": null,
+          "title": "I Did Not Expect to Like This Self-Hosted Termius Alternative This Much",
+          "imageUrl": null
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=312312",
           "author": "Brandon Lee",
@@ -2731,26 +2761,6 @@
           "wordCount": 4949,
           "title": "x86 to Arm Migration via Arm MCP Server, Docker MCP Toolkit, VS Code and GitHub Co-Pilot",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/harnessing-claude-code-for-devops-automation-a-comprehensive-guide/",
-          "author": "Collabnix Team",
-          "description": "Discover how Claude Code revolutionizes DevOps automation with agentic codebase management, multi-file editing, and command execution directly in your terminal.",
-          "link": "https://collabnix.com/harnessing-claude-code-for-devops-automation-a-comprehensive-guide/",
-          "publishedOn": "2026-03-02T03:16:02.000Z",
-          "wordCount": null,
-          "title": "Harnessing Claude Code for DevOps Automation: A Comprehensive Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/how-to-self-host-llms-with-vllm-performance-and-cost-comparison/",
-          "author": "Collabnix Team",
-          "description": "Discover how to efficiently self-host large language models using vLLM to enhance performance and cut costs, while gaining greater control over your deployments.",
-          "link": "https://collabnix.com/how-to-self-host-llms-with-vllm-performance-and-cost-comparison/",
-          "publishedOn": "2026-03-01T13:24:16.000Z",
-          "wordCount": null,
-          "title": "How to Self-Host LLMs with vLLM: Performance and Cost Comparison",
-          "imageUrl": null
         }
       ]
     },
@@ -2795,7 +2805,18 @@
       "title": "This Cute World",
       "feedUrl": "https://thiscute.world/index.xml",
       "siteUrl": "https://thiscute.world/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://thiscute.world/posts/the-worlds-i-see/?utm_source=atom_feed",
+          "author": null,
+          "description": "<h2 id=\"ai-与纺织女工\" class=\"headerLink\">\n<a href=\"#ai-%e4%b8%8e%e7%ba%ba%e7%bb%87%e5%a5%b3%e5%b7%a5\" class=\"header-mark\"></a>AI 与纺织女工</h2><p>2026 年 2 月 1 6日，除夕夜。</p>\n<p>0 点 11 分，窗外鞭炮声还没停，我在本地跑起了 Qwen3.5-397B-A17B 的 2bits 量化版，尝试发了一张经典的 NixOS 天线宝宝 meme 图给它分析，它分析地相当到位！我激动万分，跑去跟很多朋友分享，「也是在本地用上多模态 LLM 了」。</p>",
+          "link": "https://thiscute.world/posts/the-worlds-i-see/?utm_source=atom_feed",
+          "publishedOn": "2026-05-01T12:33:30.000Z",
+          "wordCount": null,
+          "title": "我看见的世界",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "一颗小树",

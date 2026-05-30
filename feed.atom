@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-05-29T22:48:02.372Z</updated>
+    <updated>2026-05-30T22:30:14.534Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I Did Not Expect to Like This Self-Hosted Termius Alternative This Much]]></title>
+        <id>https://www.virtualizationhowto.com/?p=312335</id>
+        <link href="https://www.virtualizationhowto.com/2026/05/i-did-not-expect-to-like-this-self-hosted-termius-alternative-this-much/"/>
+        <updated>2026-05-30T12:56:18.000Z</updated>
+        <summary type="html"><![CDATA[The article I wrote on Termius seemed to strike a chord with many who use various tools across the home lab. There were many comments for Termius, but also comments…
+The post I Did Not Expect to Like This Self-Hosted Termius Alternative This Much appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Herald（鸦使）：把验证码和通知，送到该送的人手里]]></title>
+        <id>https://soulteary.com/2026/05/30/herald-lightweight-otp-and-verification-code-delivery-service.html</id>
+        <link href="https://soulteary.com/2026/05/30/herald-lightweight-otp-and-verification-code-delivery-service.html"/>
+        <updated>2026-05-29T20:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Herald（鸦使）是一个轻量的 OTP 和验证码服务，适合 HomeLab、小团队内部工具和测试环境。它负责创建验证挑战、生成验证码，通过邮件、短信、钉钉等通道把验证码送出去，并完成校验、过期、限流与审计。它可以接在 Stargate 和 Warden 后面作为认证链路里的“送信人”，也可以独立运行，给内部后台、脚本和平台提供统一的验证码能力，并支持 Docker 部署与后续扩展真实发送通道。]]></summary>
+        <author>
+            <name>苏洋(soulteary)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warden（守望者）：从共享口令，到一份可维护的准入名册]]></title>
+        <id>https://soulteary.com/2026/05/30/warden-maintainable-access-roster-from-shared-password.html</id>
+        <link href="https://soulteary.com/2026/05/30/warden-maintainable-access-roster-from-shared-password.html"/>
+        <updated>2026-05-29T18:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Warden（守望者）是一个轻量的准入名单数据服务，适合 HomeLab、小团队内部工具和测试环境。它维护可被机器稳定查询的用户名册，记录邮箱、手机号、用户 ID、状态、角色和权限范围，可接在 Stargate 后面完成从共享口令到认人的过渡，也可独立为内部网关和脚本提供统一查询能力，并支持 Docker 部署与后续扩展 Redis、远程数据源和监控。]]></summary>
+        <author>
+            <name>苏洋(soulteary)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Stargate（星空之门）：不用改业务代码，给内部服务加一道登录门]]></title>
         <id>https://soulteary.com/2026/05/30/stargate-lightweight-forward-auth-gateway-for-internal-services.html</id>
@@ -988,6 +1019,18 @@ The post I Tried New Proxmox Tools in May 2026 and Only a Few Made the Cut appea
         <summary type="html"><![CDATA[分析 Pi Agent 的扩展系统设计，探讨其在简洁与可定制性之间的平衡，以及 70+ 官方扩展示例背后的设计哲学。]]></summary>
         <author>
             <name>潘智祥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我看见的世界]]></title>
+        <id>https://thiscute.world/posts/the-worlds-i-see/?utm_source=atom_feed</id>
+        <link href="https://thiscute.world/posts/the-worlds-i-see/?utm_source=atom_feed"/>
+        <updated>2026-05-01T12:33:30.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="ai-与纺织女工" class="headerLink">
+<a href="#ai-%e4%b8%8e%e7%ba%ba%e7%bb%87%e5%a5%b3%e5%b7%a5" class="header-mark"></a>AI 与纺织女工</h2><p>2026 年 2 月 1 6日，除夕夜。</p>
+<p>0 点 11 分，窗外鞭炮声还没停，我在本地跑起了 Qwen3.5-397B-A17B 的 2bits 量化版，尝试发了一张经典的 NixOS 天线宝宝 meme 图给它分析，它分析地相当到位！我激动万分，跑去跟很多朋友分享，「也是在本地用上多模态 LLM 了」。</p>]]></summary>
+        <author>
+            <name>This Cute World</name>
         </author>
     </entry>
     <entry>
@@ -4033,32 +4076,12 @@ The post 5 Home Lab VLAN Mistakes That Will Break Your Network in 2026 appeared 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Harnessing Claude Code for DevOps Automation: A Comprehensive Guide]]></title>
-        <id>https://collabnix.com/harnessing-claude-code-for-devops-automation-a-comprehensive-guide/</id>
-        <link href="https://collabnix.com/harnessing-claude-code-for-devops-automation-a-comprehensive-guide/"/>
-        <updated>2026-03-02T03:16:02.000Z</updated>
-        <summary type="html"><![CDATA[Discover how Claude Code revolutionizes DevOps automation with agentic codebase management, multi-file editing, and command execution directly in your terminal.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[34306/vphone-aio: 1 个脚本运行 vphone (iOS 26.1)，已越狱并安装了完整的引导程序]]></title>
         <id>iOS 26.1)，已越狱并安装了完整的引导程序](https://github.com/34306/vphone-aio</id>
         <link href="https://raw.githubusercontent.com/guanguans/favorite-link/master/iOS%2026.1)%EF%BC%8C%E5%B7%B2%E8%B6%8A%E7%8B%B1%E5%B9%B6%E5%AE%89%E8%A3%85%E4%BA%86%E5%AE%8C%E6%95%B4%E7%9A%84%E5%BC%95%E5%AF%BC%E7%A8%8B%E5%BA%8F](https://github.com/34306/vphone-aio"/>
         <updated>2026-03-01T16:00:00.000Z</updated>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Self-Host LLMs with vLLM: Performance and Cost Comparison]]></title>
-        <id>https://collabnix.com/how-to-self-host-llms-with-vllm-performance-and-cost-comparison/</id>
-        <link href="https://collabnix.com/how-to-self-host-llms-with-vllm-performance-and-cost-comparison/"/>
-        <updated>2026-03-01T13:24:16.000Z</updated>
-        <summary type="html"><![CDATA[Discover how to efficiently self-host large language models using vLLM to enhance performance and cut costs, while gaining greater control over your deployments.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
         </author>
     </entry>
     <entry>
