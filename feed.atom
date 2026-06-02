@@ -2,10 +2,108 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-05-30T22:30:14.534Z</updated>
+    <updated>2026-06-02T23:13:35.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I Tried WolfStack and It Might Be the Simplest Way to Run a Home Lab]]></title>
+        <id>https://www.virtualizationhowto.com/?p=312372</id>
+        <link href="https://www.virtualizationhowto.com/2026/06/i-tried-wolfstack-and-it-might-be-the-simplest-way-to-run-a-home-lab/"/>
+        <updated>2026-06-02T12:20:33.000Z</updated>
+        <summary type="html"><![CDATA[I am always looking at what I think might be the simplest way for ones to get into running a home lab. There are definitely simple ways to do it.…
+The post I Tried WolfStack and It Might Be the Simplest Way to Run a Home Lab appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FluxDown：一款界面精美、功能强大的现代下载工具，支持浏览器扩展]]></title>
+        <id>https://blog.xiaoz.org/?p=23026</id>
+        <link href="https://blog.xiaoz.org/archives/23026"/>
+        <updated>2026-06-02T08:36:25.000Z</updated>
+        <summary type="html"><![CDATA[FluxDown 是一款基于 Rust 语言打造、免费且无广告的现代化下载管理器，支持 HTTP、FTP、BitTorrent 磁力链接，还支持 HLS/DASH 流媒体资源；凭借智能多线程分段、断点续传和令牌桶限速等底层优化，配合可无缝拦截浏览器下载的扩展，在提供高达 10 倍下载速度的同时，依然]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Worked Great Until My Home Lab Got Bigger (And Why I Moved On)]]></title>
+        <id>https://www.virtualizationhowto.com/?p=312212</id>
+        <link href="https://www.virtualizationhowto.com/2026/06/what-worked-great-until-my-home-lab-got-bigger-and-why-i-moved-on/"/>
+        <updated>2026-06-01T12:09:08.000Z</updated>
+        <summary type="html"><![CDATA[Like everything else in a home lab, change is inevitable. There are certain tools that served me well at a certain point or size of my home lab that I…
+The post What Worked Great Until My Home Lab Got Bigger (And Why I Moved On) appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to convert visual images into video AI animation without a production team]]></title>
+        <id>https://collabnix.com/?p=73873</id>
+        <link href="https://collabnix.com/how-to-convert-visual-images-into-video-ai-animation-without-a-production-team/"/>
+        <updated>2026-06-01T09:40:30.000Z</updated>
+        <summary type="html"><![CDATA[Static Images Are Leaving Engagement on the Table If you’ve been publishing still images for your brand, product, or creative projects while your competitors are pushing video, you already know the gap is real. Video content consistently outperforms static imagery across nearly every major platform — higher reach on Instagram and TikTok, better click-through rates […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我把 Claude Code 的「大脑」移植到了 Pi Agent 里]]></title>
+        <id>https://panzhixiang.cn/2026/pi-custom-extensions-blog/</id>
+        <link href="https://panzhixiang.cn/2026/pi-custom-extensions-blog/"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[不是换个 Prompt 就行。危险操作的三层防御、Plan 模式的零代码实现，以及两个只有真正做过才知道的坑。]]></summary>
+        <author>
+            <name>潘智祥</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[科研造假风盛行背后的冷知识]]></title>
+        <id>https://blognas.hwb0307.com/other/7075</id>
+        <link href="https://blognas.hwb0307.com/other/7075"/>
+        <updated>2026-05-31T12:09:01.000Z</updated>
+        <summary type="html"><![CDATA[Bensz
+科研造假风盛行背后的冷知识
+本博客由科研AI Agent实验室BenszResearch强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 2026年4月至5月，B站博主“耿同学讲故事”连续举报多名顶尖学者论文造假，短时间内引发高校免职、倒查论文、提交原始数据等连锁反应 我不想只停留在“谁造假了”的层面，而是想借这个事件讨论一个更抽象的问题：为什么在某些系统里，不够严谨但更容易生产、复制、扩散的策略反而会胜出 软件工程里的“Worse is Better”可以帮助我们理解科研生态：当评价体系奖励论文数量、影响因子和热点包装时，系统会自然筛选出更适合生产论文的人，而不一定是更接近真理的人 Goodhart定律和进化论里的“适者生存”共同解释了这一机制：环境不负责筛选完美，只负责筛选适应 AI时代会进 […]
+Bensz]]></summary>
+        <author>
+            <name>Bensz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI入门系列 关于科研AI写作边界的讨论]]></title>
+        <id>https://blognas.hwb0307.com/other/7070</id>
+        <link href="https://blognas.hwb0307.com/ai/7070"/>
+        <updated>2026-05-31T09:05:26.000Z</updated>
+        <summary type="html"><![CDATA[Bensz
+AI入门系列 关于科研AI写作边界的讨论
+本博客由科研AI Agent实验室BenszResearch强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 科研 AI 写作的核心边界可以概括为一句话：形式可以交给 AI，问题必须留给自己 科研写作里大量篇幅都在完成“形式合规”的工作，这部分不一定创造新思想，却承担着展示细节、降低误解和通过基本质量门槛的作用 国自然标书和 SCI 论文是两个最典型的场景：前者适合让 AI 补齐规范性章节，后者适合在原始数据和图表注释清楚后生成可继续打磨的第 1 稿 AI 在格式、排版、引用清单、投稿 checklist 和多版本一致性检查上杠杆很高，但所有事实、数字、引用和学术判断都必须由人最终核对 真正值得警惕的不是”AI 帮你写了多少字”，而是你有没有能力判断这些字是否准确、是 […]
+Bensz]]></summary>
+        <author>
+            <name>Bensz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenCode, Ollama and  Docker Sandbox: An Isolated Agent Running a Local Model]]></title>
+        <id>https://collabnix.com/?p=73862</id>
+        <link href="https://collabnix.com/opencode-ollama-in-a-docker-sandbox-an-isolated-agent-running-a-local-model/"/>
+        <updated>2026-05-31T05:04:45.000Z</updated>
+        <summary type="html"><![CDATA[AI coding agents are great right up until you stop and think about what they can actually reach. OpenCode, Claude Code, Codex, the whole crop of them, they all want a filesystem, a shell, and a network connection so they can do real work. On your laptop that means the same agent that just refactored […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自建私有音乐服务Songloft：Docker安装 + 小爱音箱播放]]></title>
+        <id>https://blog.xiaoz.org/?p=23007</id>
+        <link href="https://blog.xiaoz.org/archives/23007"/>
+        <updated>2026-05-31T03:04:37.000Z</updated>
+        <summary type="html"><![CDATA[Songloft是一款面向个人用户的自托管音乐服务器，类似于群晖的Audio Station，直接对标Navidrome，非常适合NAS用户部署。Songloft其独特之处在于：官方提供了全平台客户端和MIoT插件，因此可以支持通过小爱音箱来播放音乐。Songloft特点本地音乐管理：扫描目录，自动]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Did Not Expect to Like This Self-Hosted Termius Alternative This Much]]></title>
         <id>https://www.virtualizationhowto.com/?p=312335</id>
@@ -3880,16 +3978,6 @@ The post How I Fixed Heat Buildup in My 10-Inch Mini Rack with a Simple Cooling 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[无需备案！用 Bunny CDN 加速出海项目（附入门指南）]]></title>
-        <id>https://blog.xiaoz.org/?p=22781</id>
-        <link href="https://blog.xiaoz.org/archives/22781"/>
-        <updated>2026-03-05T03:41:00.000Z</updated>
-        <summary type="html"><![CDATA[说到海外CDN，那就不得不提CloudFlare，CloudFlare不仅提供免费套餐，且限制宽松，不限流量，还提供防护，已成为了大多数站长的海外CDN首选，那既然CloudFlare都如此良心了，为啥还要选择其它海外CDN？这就不得不提CloudFlare免费版套餐让博主非常不爽的几个问题：强制D]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nginx 反代导致 SSE 延迟变高的问题与解决方法]]></title>
         <id>https://jia.je/devops/2026/03/05/nginx-sse-buffering/</id>
         <link href="https://jia.je/devops/2026/03/05/nginx-sse-buffering/"/>
@@ -3917,50 +4005,12 @@ The post How I Fixed Heat Buildup in My 10-Inch Mini Rack with a Simple Cooling 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PegaProx Now Adds Built-In ESXi Migration and Proxmox Backup Monitoring]]></title>
-        <id>https://www.virtualizationhowto.com/?p=309923</id>
-        <link href="https://www.virtualizationhowto.com/2026/03/pegaprox-now-adds-built-in-esxi-migration-and-proxmox-backup-monitoring/"/>
-        <updated>2026-03-04T12:59:53.000Z</updated>
-        <summary type="html"><![CDATA[I have been following a really great project called PegaProx for the last few months and it is rapidly evolving into one of the goto tools for Proxmox management with…
-The post PegaProx Now Adds Built-In ESXi Migration and Proxmox Backup Monitoring appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Lakr233/vphone-cli: 通过苹果的 Virtualization.framework，以及 PCC 研究虚拟机基础设施，启动一个虚拟的 iPhone (iOS 26)。]]></title>
         <id>iOS 26)。](https://github.com/Lakr233/vphone-cli</id>
         <link href="https://raw.githubusercontent.com/guanguans/favorite-link/master/iOS%2026)%E3%80%82](https://github.com/Lakr233/vphone-cli"/>
         <updated>2026-03-04T08:00:00.000Z</updated>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heat Pump Comparison & Paul Braren Interview]]></title>
-        <id>articles/heat-pump-comparison-feat-still-tbd-and-tinkertry</id>
-        <link href="https://tinkertry.com/articles/heat-pump-comparison-feat-still-tbd-and-tinkertry"/>
-        <updated>2026-03-04T07:55:00.000Z</updated>
-        <summary type="html"><![CDATA[I'm was so glad when Matt asked me to squeeze in a recording comparing his (geothermal) ground source heat pump with my air source heat pumps. This was an informal conversation, and I had little idea what Matt was going to ask me, or what portions would be used. It turns out we both had a lot to say, and he kept pretty much all of it. I really hope you learn some new things you might not have thought about before.
-Your thoughts, stories, and feedback are always appreciated here. Feel free to drop a comment below, no login required.
-Video
-
-
-See also
-
-Overhead, there's one 200-amp electrical service line and one fiber-optic line. Underground, there's one 1" municipal water service line. That's it. No gas lines, no oil tanks. Photo taken January 27 2026, with the deepest snow accumulation sin…]]></summary>
-        <author>
-            <name>TinkerTry</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Multimodal AI App: Understanding Images and Text]]></title>
-        <id>https://collabnix.com/building-a-multimodal-ai-app-understanding-images-and-text/</id>
-        <link href="https://collabnix.com/building-a-multimodal-ai-app-understanding-images-and-text/"/>
-        <updated>2026-03-04T03:11:50.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to build a multimodal AI application that can understand and process both images and text for improved digital interactions.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
         </author>
     </entry>
     <entry>
@@ -3984,37 +4034,6 @@ Overhead, there's one 200-amp electrical service line and one fiber-optic line. 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[PVE Note Buddy Is a Smarter Way to Use Proxmox Notes in Your Home Lab]]></title>
-        <id>https://www.virtualizationhowto.com/?p=309908</id>
-        <link href="https://www.virtualizationhowto.com/2026/03/pve-note-buddy-is-a-smarter-way-to-use-proxmox-notes-in-your-home-lab/"/>
-        <updated>2026-03-03T12:43:31.000Z</updated>
-        <summary type="html"><![CDATA[I have been on a documentation kick lately, especially since there seem to be so many great tools landing on the documentation side of things for Proxmox powered home labs.…
-The post PVE Note Buddy Is a Smarter Way to Use Proxmox Notes in Your Home Lab appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Video Games Became One of AI’s Biggest Testing Grounds]]></title>
-        <id>https://collabnix.com/?p=72860</id>
-        <link href="https://collabnix.com/how-video-games-became-one-of-ais-biggest-testing-grounds/"/>
-        <updated>2026-03-03T09:24:46.000Z</updated>
-        <summary type="html"><![CDATA[Video games did not become a testing ground for artificial intelligence by accident. They offer controlled environments where rules are clear, feedback is instant, and outcomes are measurable. Developers can observe how systems react to player behavior in real time, then adjust logic without waiting months for results. That speed makes games an ideal space […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Extracting Structured JSON from Large Language Models: A Deep Dive into OpenAI, Claude, and Gemini]]></title>
-        <id>https://collabnix.com/extracting-structured-json-from-large-language-models-a-deep-dive-into-openai-claude-and-gemini/</id>
-        <link href="https://collabnix.com/extracting-structured-json-from-large-language-models-a-deep-dive-into-openai-claude-and-gemini/"/>
-        <updated>2026-03-03T03:20:08.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to extract structured JSON output from LLMs like OpenAI's GPT-3.5, ensuring accurate, programmatically useful data for various applications.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ddlmanus/MacOptimizer: MacOptimizer 是一款专为 macOS 设计的系统优化工具，具有现代化的 SwiftUI 界面和八个核心功能模块]]></title>
         <id>https://github.com/ddlmanus/MacOptimizer</id>
         <link href="https://github.com/ddlmanus/MacOptimizer"/>
@@ -4022,57 +4041,6 @@ The post PVE Note Buddy Is a Smarter Way to Use Proxmox Notes in Your Home Lab a
         <summary type="html"><![CDATA[MacOptimizer is a system optimization tool designed specifically for macOS, featuring a modern SwiftUI interface with eight core functional modules: - ddlmanus/MacOptimizer]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Home Lab VLAN Mistakes That Will Break Your Network in 2026]]></title>
-        <id>https://www.virtualizationhowto.com/?p=309890</id>
-        <link href="https://www.virtualizationhowto.com/2026/03/5-home-lab-vlan-mistakes-that-will-break-your-network-in-2026/"/>
-        <updated>2026-03-02T14:34:07.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to home lab networks, introducing VLANs is absolutely one of those critical moves that will take your home lab to the next level and it is a…
-The post 5 Home Lab VLAN Mistakes That Will Break Your Network in 2026 appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Prompt Engineering: Techniques for ChatGPT, Claude, and Gemini]]></title>
-        <id>https://collabnix.com/mastering-prompt-engineering-techniques-for-chatgpt-claude-and-gemini-2/</id>
-        <link href="https://collabnix.com/mastering-prompt-engineering-techniques-for-chatgpt-claude-and-gemini-2/"/>
-        <updated>2026-03-02T13:43:44.000Z</updated>
-        <summary type="html"><![CDATA[Explore prompt engineering for ChatGPT, Claude, and Gemini, unlocking the full potential of conversational AI with expert-crafted interactions.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mastering Prompt Engineering: Techniques for ChatGPT, Claude, and Gemini]]></title>
-        <id>https://collabnix.com/mastering-prompt-engineering-techniques-for-chatgpt-claude-and-gemini/</id>
-        <link href="https://collabnix.com/mastering-prompt-engineering-techniques-for-chatgpt-claude-and-gemini/"/>
-        <updated>2026-03-02T13:43:20.000Z</updated>
-        <summary type="html"><![CDATA[Explore prompt engineering for ChatGPT, Claude, and Gemini, unlocking the full potential of conversational AI with expert-crafted interactions.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年2月阅读书摘]]></title>
-        <id>69a5807c014a770001866a14</id>
-        <link href="https://www.domon.cn/2026-2yue-yue-du-shu-zhai/"/>
-        <updated>2026-03-02T12:23:43.000Z</updated>
-        <summary type="html"><![CDATA[当旧的生活变得陈腐时，热情洋溢的生活能使人焕然一新。充满激情地生活，是热爱生活的唯一途径。]]></summary>
-        <author>
-            <name>Domon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[x86 to Arm Migration via Arm MCP Server, Docker MCP Toolkit, VS Code and GitHub Co-Pilot]]></title>
-        <id>https://collabnix.com/?p=72823</id>
-        <link href="https://collabnix.com/x86-to-arm-migration-via-arm-mcp-server-docker-mcp-toolkit-vs-code-and-github-co-pilot/"/>
-        <updated>2026-03-02T10:57:35.000Z</updated>
-        <summary type="html"><![CDATA[Migrating workloads from x86 to Arm64 is no longer optional – it’s a cost-saving imperative. With AWS Graviton, Azure Cobalt, and Google Cloud Axion going mainstream, organizations are seeing 20–40% cost savings and better performance. But actually migrating legacy applications? That’s where things get painful. The Problem Consider a C++ matrix multiplication benchmark built with […]]]></summary>
-        <author>
-            <name>Ajeet Raina</name>
         </author>
     </entry>
     <entry>
