@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-06-02T23:13:35.627Z</updated>
+    <updated>2026-06-04T22:51:51.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I Found a Proxmox Mod That Adds Features I Wish Were Built In]]></title>
+        <id>https://www.virtualizationhowto.com/?p=312490</id>
+        <link href="https://www.virtualizationhowto.com/2026/06/i-found-a-proxmox-mod-that-adds-features-i-wish-were-built-in/"/>
+        <updated>2026-06-04T11:58:38.000Z</updated>
+        <summary type="html"><![CDATA[Every now and then, I run across a home lab project that has features that I wish were built into the default Proxmox interface. And, you can tell these tools…
+The post I Found a Proxmox Mod That Adds Features I Wish Were Built In appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kakapo：使用 Wails v3、Go 和 Echo 构建一个本地翻译工作台]]></title>
+        <id>https://soulteary.com/2026/06/03/kakapo-a-local-translation-workbench-built-with-wails-v3-go-and-echo.html</id>
+        <link href="https://soulteary.com/2026/06/03/kakapo-a-local-translation-workbench-built-with-wails-v3-go-and-echo.html"/>
+        <updated>2026-06-03T15:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Kakapo 是一个基于 Wails v3、Go 和 Echo 构建的本地桌面翻译工作台，它把多个 OpenAI 兼容模型（Kimi、DeepSeek、OpenAI 等）收拢到同一个界面里，支持多模型并行翻译、结果比较、回译、系统朗读和本地历史记录。普通配置保存在 settings.json，API Key 使用 macOS Keychain 保存，历史记录保存在 history.json。本文记录这个项目的实现过程，以及 Wails v3、Go、Echo、系统 WebView、Keychain 和 OpenAI 兼容接口这套技术栈在桌面工具场景下的实践与取舍。]]></summary>
+        <author>
+            <name>苏洋(soulteary)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Tried Proxmox Automated Installs and Am Never Going Back]]></title>
+        <id>https://www.virtualizationhowto.com/?p=312435</id>
+        <link href="https://www.virtualizationhowto.com/2026/06/i-tried-proxmox-automated-installs-and-am-never-going-back/"/>
+        <updated>2026-06-03T12:13:53.000Z</updated>
+        <summary type="html"><![CDATA[I absolutely think the “star of the show” with the new Proxmox Datacenter 1.1 release is the new automated installation feature that will allow you to create answer files for…
+The post I Tried Proxmox Automated Installs and Am Never Going Back appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenCode上手指南：我的AI编程方案]]></title>
+        <id>https://blog.xiaoz.org/?p=23034</id>
+        <link href="https://blog.xiaoz.org/archives/23034"/>
+        <updated>2026-06-03T03:28:50.000Z</updated>
+        <summary type="html"><![CDATA[之前，xiaoz 一直使用 VS Code + GitHub Copilot 作为 AI 编程方案，但由于 Copilot 额度越来越不够用，不得不寻找替代品。大约半年前，我开始接触并使用 OpenCode，如今它已成为我的主力 AI 编程工具。起初有些不习惯，但现在越用越顺手，于是写下这篇文章，分]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Tried WolfStack and It Might Be the Simplest Way to Run a Home Lab]]></title>
         <id>https://www.virtualizationhowto.com/?p=312372</id>
@@ -3896,36 +3938,6 @@ The post 7 Tools I Always Install on Every New Home Lab Linux Server appeared fi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Build a PromptOps Playbook for Teams]]></title>
-        <id>https://collabnix.com/?p=73102</id>
-        <link href="https://collabnix.com/how-to-build-a-promptops-playbook-for-teams/"/>
-        <updated>2026-03-07T03:55:01.000Z</updated>
-        <summary type="html"><![CDATA[What happens when your best prompt engineer leaves the company and takes their “magic” strings with them? Most DevOps teams struggle with this exact void, facing a chaotic reality where AI instructions are scattered across Slack threads and private Notion pages. Moving from ad-hoc experimentation to a reliable production environment needs a shift of mindset. […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why IT Departments Need Enterprise Password Management Tools]]></title>
-        <id>https://collabnix.com/?p=73098</id>
-        <link href="https://collabnix.com/why-it-departments-need-enterprise-password-management-tools/"/>
-        <updated>2026-03-07T03:49:16.000Z</updated>
-        <summary type="html"><![CDATA[IT departments are under increasing pressure to safeguard sensitive information. As cyber security threats rise, password protection has become pivotal to the digital economy. Using enterprise password management tools can help you avoid unnecessarily exposing sensitive information. Implementing these systems allows organizations to remain protected and efficient while reducing friction for employees as they go […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Small Business AI Playbook: 5 Use Cases That Pay Off Fast]]></title>
-        <id>https://collabnix.com/?p=73095</id>
-        <link href="https://collabnix.com/small-business-ai-playbook-5-use-cases-that-pay-off-fast/"/>
-        <updated>2026-03-07T03:40:15.000Z</updated>
-        <summary type="html"><![CDATA[Small businesses do not need flashy AI projects to get real value. They need quick wins that remove friction from work they already repeat. The best use cases are the ones tied to daily volume, customer messages, quotes, invoices, and internal questions. Start with one workflow, set a baseline, and put a human approval step […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[sourcetoad/rule-helper-for-laravel: 通过提供内置规则的辅助方法，添加帮助程序以使构建 Laravel 规则数组更容易。]]></title>
         <id>https://github.com/sourcetoad/rule-helper-for-laravel</id>
         <link href="https://github.com/sourcetoad/rule-helper-for-laravel"/>
@@ -3933,38 +3945,6 @@ The post 7 Tools I Always Install on Every New Home Lab Linux Server appeared fi
         <summary type="html"><![CDATA[Rule Helper. Contribute to sourcetoad/rule-helper-for-laravel development by creating an account on GitHub.]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Docker Features Most Home Labbers Are Not Using (But Should Be)]]></title>
-        <id>https://www.virtualizationhowto.com/?p=309996</id>
-        <link href="https://www.virtualizationhowto.com/2026/03/5-docker-features-most-home-labbers-are-not-using-but-should-be/"/>
-        <updated>2026-03-06T13:18:09.000Z</updated>
-        <summary type="html"><![CDATA[Docker is one of the most popular tools not only in the home lab, but in production environments that lets you run services quickly and easily. If you are like…
-The post 5 Docker Features Most Home Labbers Are Not Using (But Should Be) appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[速领：白山智算注册即送450元大模型API代金券，手慢无]]></title>
-        <id>https://blog.xiaoz.org/?p=22813</id>
-        <link href="https://blog.xiaoz.org/archives/22813"/>
-        <updated>2026-03-06T09:08:51.000Z</updated>
-        <summary type="html"><![CDATA[如果说其它大模型服务商注册送的代金券是打发叫花子的话，那白山智算就是直接往你手里塞金条。现在起至2026年3月15日注册白山智算即送450元大模型API代金券，可用于调用最新的MiniMax 2.5、GLM-5等热门模型，时间有限，xiaoz先领为敬。关于白山智算白山智算是白山云科技旗下的智能算力服]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Fixed Heat Buildup in My 10-Inch Mini Rack with a Simple Cooling Mod]]></title>
-        <id>https://www.virtualizationhowto.com/?p=309972</id>
-        <link href="https://www.virtualizationhowto.com/2026/03/how-i-fixed-heat-buildup-in-my-10-inch-mini-rack-with-a-simple-cooling-mod/"/>
-        <updated>2026-03-05T13:23:25.000Z</updated>
-        <summary type="html"><![CDATA[One of the tradeoffs of running a dense mini rack full of compact systems is heat. When you stack multiple high performance mini PCs into a small enclosed rack, even…
-The post How I Fixed Heat Buildup in My 10-Inch Mini Rack with a Simple Cooling Mod appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>

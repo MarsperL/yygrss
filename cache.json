@@ -435,6 +435,16 @@
       "siteUrl": "https://soulteary.com/feed/",
       "articles": [
         {
+          "id": "https://soulteary.com/2026/06/03/kakapo-a-local-translation-workbench-built-with-wails-v3-go-and-echo.html",
+          "author": "苏洋(soulteary)",
+          "description": "Kakapo 是一个基于 Wails v3、Go 和 Echo 构建的本地桌面翻译工作台，它把多个 OpenAI 兼容模型（Kimi、DeepSeek、OpenAI 等）收拢到同一个界面里，支持多模型并行翻译、结果比较、回译、系统朗读和本地历史记录。普通配置保存在 settings.json，API Key 使用 macOS Keychain 保存，历史记录保存在 history.json。本文记录这个项目的实现过程，以及 Wails v3、Go、Echo、系统 WebView、Keychain 和 OpenAI 兼容接口这套技术栈在桌面工具场景下的实践与取舍。",
+          "link": "https://soulteary.com/2026/06/03/kakapo-a-local-translation-workbench-built-with-wails-v3-go-and-echo.html",
+          "publishedOn": "2026-06-03T15:10:00.000Z",
+          "wordCount": null,
+          "title": "Kakapo：使用 Wails v3、Go 和 Echo 构建一个本地翻译工作台",
+          "imageUrl": null
+        },
+        {
           "id": "https://soulteary.com/2026/05/30/herald-lightweight-otp-and-verification-code-delivery-service.html",
           "author": "苏洋(soulteary)",
           "description": "Herald（鸦使）是一个轻量的 OTP 和验证码服务，适合 HomeLab、小团队内部工具和测试环境。它负责创建验证挑战、生成验证码，通过邮件、短信、钉钉等通道把验证码送出去，并完成校验、过期、限流与审计。它可以接在 Stargate 和 Warden 后面作为认证链路里的“送信人”，也可以独立运行，给内部后台、脚本和平台提供统一的验证码能力，并支持 Docker 部署与后续扩展真实发送通道。",
@@ -865,6 +875,26 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=312490",
+          "author": "Brandon Lee",
+          "description": "Every now and then, I run across a home lab project that has features that I wish were built into the default Proxmox interface. And, you can tell these tools…\nThe post I Found a Proxmox Mod That Adds Features I Wish Were Built In appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/06/i-found-a-proxmox-mod-that-adds-features-i-wish-were-built-in/",
+          "publishedOn": "2026-06-04T11:58:38.000Z",
+          "wordCount": null,
+          "title": "I Found a Proxmox Mod That Adds Features I Wish Were Built In",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=312435",
+          "author": "Brandon Lee",
+          "description": "I absolutely think the “star of the show” with the new Proxmox Datacenter 1.1 release is the new automated installation feature that will allow you to create answer files for…\nThe post I Tried Proxmox Automated Installs and Am Never Going Back appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/06/i-tried-proxmox-automated-installs-and-am-never-going-back/",
+          "publishedOn": "2026-06-03T12:13:53.000Z",
+          "wordCount": null,
+          "title": "I Tried Proxmox Automated Installs and Am Never Going Back",
+          "imageUrl": null
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=312372",
           "author": "Brandon Lee",
@@ -1613,26 +1643,6 @@
           "publishedOn": "2026-03-07T12:54:55.000Z",
           "wordCount": null,
           "title": "7 Tools I Always Install on Every New Home Lab Linux Server",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=309996",
-          "author": "Brandon Lee",
-          "description": "Docker is one of the most popular tools not only in the home lab, but in production environments that lets you run services quickly and easily. If you are like…\nThe post 5 Docker Features Most Home Labbers Are Not Using (But Should Be) appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/03/5-docker-features-most-home-labbers-are-not-using-but-should-be/",
-          "publishedOn": "2026-03-06T13:18:09.000Z",
-          "wordCount": null,
-          "title": "5 Docker Features Most Home Labbers Are Not Using (But Should Be)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=309972",
-          "author": "Brandon Lee",
-          "description": "One of the tradeoffs of running a dense mini rack full of compact systems is heat. When you stack multiple high performance mini PCs into a small enclosed rack, even…\nThe post How I Fixed Heat Buildup in My 10-Inch Mini Rack with a Simple Cooling Mod appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/03/how-i-fixed-heat-buildup-in-my-10-inch-mini-rack-with-a-simple-cooling-mod/",
-          "publishedOn": "2026-03-05T13:23:25.000Z",
-          "wordCount": null,
-          "title": "How I Fixed Heat Buildup in My 10-Inch Mini Rack with a Simple Cooling Mod",
           "imageUrl": null
         }
       ]
@@ -2681,36 +2691,6 @@
           "wordCount": null,
           "title": "AI Agents in 2025: Market Trends, Frameworks, and Predictions",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=73102",
-          "author": "Tanvir Kour",
-          "description": "What happens when your best prompt engineer leaves the company and takes their “magic” strings with them? Most DevOps teams struggle with this exact void, facing a chaotic reality where AI instructions are scattered across Slack threads and private Notion pages. Moving from ad-hoc experimentation to a reliable production environment needs a shift of mindset. […]",
-          "link": "https://collabnix.com/how-to-build-a-promptops-playbook-for-teams/",
-          "publishedOn": "2026-03-07T03:55:01.000Z",
-          "wordCount": null,
-          "title": "How to Build a PromptOps Playbook for Teams",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=73098",
-          "author": "Tanvir Kour",
-          "description": "IT departments are under increasing pressure to safeguard sensitive information. As cyber security threats rise, password protection has become pivotal to the digital economy. Using enterprise password management tools can help you avoid unnecessarily exposing sensitive information. Implementing these systems allows organizations to remain protected and efficient while reducing friction for employees as they go […]",
-          "link": "https://collabnix.com/why-it-departments-need-enterprise-password-management-tools/",
-          "publishedOn": "2026-03-07T03:49:16.000Z",
-          "wordCount": null,
-          "title": "Why IT Departments Need Enterprise Password Management Tools",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=73095",
-          "author": "Tanvir Kour",
-          "description": "Small businesses do not need flashy AI projects to get real value. They need quick wins that remove friction from work they already repeat. The best use cases are the ones tied to daily volume, customer messages, quotes, invoices, and internal questions. Start with one workflow, set a baseline, and put a human approval step […]",
-          "link": "https://collabnix.com/small-business-ai-playbook-5-use-cases-that-pay-off-fast/",
-          "publishedOn": "2026-03-07T03:40:15.000Z",
-          "wordCount": null,
-          "title": "Small Business AI Playbook: 5 Use Cases That Pay Off Fast",
-          "imageUrl": null
         }
       ]
     },
@@ -3219,6 +3199,16 @@
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
         {
+          "id": "https://blog.xiaoz.org/?p=23034",
+          "author": "xiaoz",
+          "description": "之前，xiaoz 一直使用 VS Code + GitHub Copilot 作为 AI 编程方案，但由于 Copilot 额度越来越不够用，不得不寻找替代品。大约半年前，我开始接触并使用 OpenCode，如今它已成为我的主力 AI 编程工具。起初有些不习惯，但现在越用越顺手，于是写下这篇文章，分",
+          "link": "https://blog.xiaoz.org/archives/23034",
+          "publishedOn": "2026-06-03T03:28:50.000Z",
+          "wordCount": null,
+          "title": "OpenCode上手指南：我的AI编程方案",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.xiaoz.org/?p=23026",
           "author": "xiaoz",
           "description": "FluxDown 是一款基于 Rust 语言打造、免费且无广告的现代化下载管理器，支持 HTTP、FTP、BitTorrent 磁力链接，还支持 HLS/DASH 流媒体资源；凭借智能多线程分段、断点续传和令牌桶限速等底层优化，配合可无缝拦截浏览器下载的扩展，在提供高达 10 倍下载速度的同时，依然",
@@ -3356,16 +3346,6 @@
           "publishedOn": "2026-03-13T07:02:27.000Z",
           "wordCount": null,
           "title": "告别 OpenClaw 选择困难：ClawPulse 上线，多维度对比开源 AI 智能体",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=22813",
-          "author": "xiaoz",
-          "description": "如果说其它大模型服务商注册送的代金券是打发叫花子的话，那白山智算就是直接往你手里塞金条。现在起至2026年3月15日注册白山智算即送450元大模型API代金券，可用于调用最新的MiniMax 2.5、GLM-5等热门模型，时间有限，xiaoz先领为敬。关于白山智算白山智算是白山云科技旗下的智能算力服",
-          "link": "https://blog.xiaoz.org/archives/22813",
-          "publishedOn": "2026-03-06T09:08:51.000Z",
-          "wordCount": null,
-          "title": "速领：白山智算注册即送450元大模型API代金券，手慢无",
           "imageUrl": null
         }
       ]
