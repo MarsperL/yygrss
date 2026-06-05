@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-06-04T22:51:51.660Z</updated>
+    <updated>2026-06-05T22:40:00.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I Finally Found a Docker Backup Tool That Fits a Home Lab]]></title>
+        <id>https://www.virtualizationhowto.com/?p=312519</id>
+        <link href="https://www.virtualizationhowto.com/2026/06/i-finally-found-a-docker-backup-tool-that-fits-a-home-lab/"/>
+        <updated>2026-06-05T12:06:00.000Z</updated>
+        <summary type="html"><![CDATA[There are all kinds of backup solutions out there that do some really amazing things. However, when it comes to Docker, the options start to shrink down. So, when I…
+The post I Finally Found a Docker Backup Tool That Fits a Home Lab appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Found a Proxmox Mod That Adds Features I Wish Were Built In]]></title>
         <id>https://www.virtualizationhowto.com/?p=312490</id>
@@ -3914,27 +3925,6 @@ The post Consumer vs Enterprise SSDs in the Home Lab: I Benchmarked Both in Ceph
         <summary type="html"><![CDATA[Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 - Wei-Shaw/sub2api]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BGP 常用 ASN 列表记录备忘]]></title>
-        <id>https://www.txisfine.cn/archives/4b5dfb2a.html</id>
-        <link href="https://www.txisfine.cn/archives/4b5dfb2a.html"/>
-        <updated>2026-03-07T17:53:02.000Z</updated>
-        <summary type="html"><![CDATA[最近在做多 ISP 分流，这次没有使用静态的路由表，采用了基于 BGP/ASN 的方式进行流量分配。这里记录一下常用的 ASN 列表，方便后面查询。 国内运营商 名称 ASN 中国电信 (ChinaTelecom) 4134 中国联通 (ChinaUnicom) 4837, 9929 中国移动 (ChinaMobile) 9808 中国教育网 (ChinaEdu) 4538, 7497, 2391...]]></summary>
-        <author>
-            <name>弹霄博科</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Tools I Always Install on Every New Home Lab Linux Server]]></title>
-        <id>https://www.virtualizationhowto.com/?p=310017</id>
-        <link href="https://www.virtualizationhowto.com/2026/03/7-tools-i-always-install-on-every-new-home-lab-linux-server/"/>
-        <updated>2026-03-07T12:54:55.000Z</updated>
-        <summary type="html"><![CDATA[There is always a set of tools that most of us become familiar with and rely on when it comes to different types of operating systems or platforms. I am…
-The post 7 Tools I Always Install on Every New Home Lab Linux Server appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>

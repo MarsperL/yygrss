@@ -876,6 +876,16 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=312519",
+          "author": "Brandon Lee",
+          "description": "There are all kinds of backup solutions out there that do some really amazing things. However, when it comes to Docker, the options start to shrink down. So, when I…\nThe post I Finally Found a Docker Backup Tool That Fits a Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/06/i-finally-found-a-docker-backup-tool-that-fits-a-home-lab/",
+          "publishedOn": "2026-06-05T12:06:00.000Z",
+          "wordCount": null,
+          "title": "I Finally Found a Docker Backup Tool That Fits a Home Lab",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=312490",
           "author": "Brandon Lee",
           "description": "Every now and then, I run across a home lab project that has features that I wish were built into the default Proxmox interface. And, you can tell these tools…\nThe post I Found a Proxmox Mod That Adds Features I Wish Were Built In appeared first on Virtualization Howto.",
@@ -1633,16 +1643,6 @@
           "publishedOn": "2026-03-09T12:22:29.000Z",
           "wordCount": null,
           "title": "Consumer vs Enterprise SSDs in the Home Lab: I Benchmarked Both in Ceph",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=310017",
-          "author": "Brandon Lee",
-          "description": "There is always a set of tools that most of us become familiar with and rely on when it comes to different types of operating systems or platforms. I am…\nThe post 7 Tools I Always Install on Every New Home Lab Linux Server appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/03/7-tools-i-always-install-on-every-new-home-lab-linux-server/",
-          "publishedOn": "2026-03-07T12:54:55.000Z",
-          "wordCount": null,
-          "title": "7 Tools I Always Install on Every New Home Lab Linux Server",
           "imageUrl": null
         }
       ]
@@ -3399,16 +3399,6 @@
           "publishedOn": "2026-03-08T12:44:26.000Z",
           "wordCount": null,
           "title": "RouterOS v7 路由过滤器学习笔记",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.txisfine.cn/archives/4b5dfb2a.html",
-          "author": null,
-          "description": "最近在做多 ISP 分流，这次没有使用静态的路由表，采用了基于 BGP/ASN 的方式进行流量分配。这里记录一下常用的 ASN 列表，方便后面查询。 国内运营商 名称 ASN 中国电信 (ChinaTelecom) 4134 中国联通 (ChinaUnicom) 4837, 9929 中国移动 (ChinaMobile) 9808 中国教育网 (ChinaEdu) 4538, 7497, 2391...",
-          "link": "https://www.txisfine.cn/archives/4b5dfb2a.html",
-          "publishedOn": "2026-03-07T17:53:02.000Z",
-          "wordCount": null,
-          "title": "BGP 常用 ASN 列表记录备忘",
           "imageUrl": null
         }
       ]
