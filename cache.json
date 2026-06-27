@@ -4,7 +4,18 @@
       "title": "云野阁",
       "feedUrl": "https://yyg.js.cool/rss2.xml",
       "siteUrl": "https://yyg.js.cool/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://yyg.js.cool/yyg/fc7449c0/",
+          "author": null,
+          "description": "初见时只觉是过客，未料竟成了邻居\n上周偶然间发现有两只斑鸠时不时在窗边停留，不曾想今天巢都筑好了😂\n现在雌斑鸠在巢里孵蛋，窗边也多了几分热闹，有时还会叫几声，看来是中意这里\n万物有灵，这也是一份难得的缘分，那便顺其自然啦\n<img src=\"/yyg/fc7449c0/1.jpg\" class=\"\"",
+          "link": "https://yyg.js.cool/yyg/fc7449c0/",
+          "publishedOn": "2026-06-15T10:18:00.000Z",
+          "wordCount": null,
+          "title": "窗外的“邻居”",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Hi, DIYgod",
@@ -17,6 +28,16 @@
       "feedUrl": "http://whyes.org/feed.xml",
       "siteUrl": "http://whyes.org/",
       "articles": [
+        {
+          "id": "http://whyes.org/2026/emerald-3-hcc",
+          "author": null,
+          "description": "",
+          "link": "http://whyes.org/2026/emerald-3-hcc",
+          "publishedOn": "2026-06-14T12:16:51.000Z",
+          "wordCount": null,
+          "title": "EMERALD-3 ：TACE+STRIDE+仑伐替尼 vs TACE，PFS 显著改善，但是……",
+          "imageUrl": null
+        },
         {
           "id": "http://whyes.org/2026/asco-2026",
           "author": null,
@@ -44,6 +65,36 @@
       "feedUrl": "https://daverupert.com/atom.xml",
       "siteUrl": "https://daverupert.com",
       "articles": [
+        {
+          "id": "https://daverupert.com/2026/06/curated-public-domain-images/",
+          "author": null,
+          "description": "Xavier de Maistre in an armchair, displaying his “book of discoveries” (Veyssier, 1860)\nEvery so often I like to include a public domain image in a blog post. I’m fond of the woodblock and lithographic illustrations of the late 1800s. I try to avoid indiscriminately (un-)splashing every post but the real reason for the infrequency isn’t radical self-control, it’s because dumpster diving for public domain images can be a chore.\nYou can –of course– use Google or Bing to find public domain images but the volume, duplicates, and weighing the veracity of copyright attribution is overwhelming. The Library of Congress has Free to Use and Reuse sets, but their collections are nebulous noun buckets filled with a federally-mandated amount of Americana. On top of that, searching library sites is neve…",
+          "link": "https://daverupert.com/2026/06/curated-public-domain-images/",
+          "publishedOn": "2026-06-24T12:05:00.000Z",
+          "wordCount": null,
+          "title": "Finding curated public domain images",
+          "imageUrl": null
+        },
+        {
+          "id": "https://daverupert.com/2026/06/fix-for-host-has-slot/",
+          "author": null,
+          "description": "Named slots are one of web components’ biggest superpowers ✨. Imagine a Button component with an optional icon; in Web Components we don’t need a separate Button and IconButton, a single Button component with <slot name=\"icon\"> will do. Or a card component with a handful of predefined slots for image, title, description, price, metadata, etc. Not 100 different cards… one card.\nSlots are a wonderful way to declaratively compose UI, but one shadow styling challenge that has vexed my team over the years is how to contextually hide a <slot> when there’s no slotted content.\nThe problem… ghost gaps\nThe most idiomatic way to check if a particular slot is in-use is to use :host(:has([slot=\"foo\"])). But… In a weird twist to how web component browser-compat bugs tend to go, :host(:has([slot])) works…",
+          "link": "https://daverupert.com/2026/06/fix-for-host-has-slot/",
+          "publishedOn": "2026-06-19T04:57:00.000Z",
+          "wordCount": null,
+          "title": "A workaround for hiding empty slots in Chromium",
+          "imageUrl": null
+        },
+        {
+          "id": "https://daverupert.com/2026/06/spoons-by-sam/",
+          "author": null,
+          "description": "I play Clues by Sam nearly every single day. I wrote about it before, but solving a little crime puzzle adds a micro-thrill to my day. A little blast of logic, misdirection, and wordplay. It’s a frequent topic of conversation in the ShopTalkShow Discord where people share their solves like Wordle scores.\nL'anarchiste (1892) by Félix Vallotton. Public Domain.\n \nIt might have been Josh who first pointed it out, but as a group we’ve realized that Clues by Sam is an uncanny proxy for measuring your emotional well-being that day. If you’re a regular puzzler, I think it’s safe to say you should be able to solve a non-weekend edition of Clues by Sam without any mistakes (green days). But there are off-days (yellow days) where I make obvious errors tracking the four or five clues you need to solve the puzzle. And there are worse days (orange days) where even with hints, I have no idea what I’m doing and begin to doubt my understanding of English.\nBorrowing the metaphor of Spoon Theory from the disabled community, Clues by Sam helps me take inventory of what’s left in my kitchen drawers. My performance on Clues by Sam often alerts me to events happening in my subconscious. It’s become a barometer for my cognitive bandwidth; like Person, Man, Woman, Camera, TV but with Xena, Kyle, Paula, Vince, and Chloe.  Faceplanting on an easy puzzle is a clue for me that I have some unarticulated anxieties occupying my mind.\nIt’s not rocket science that cognitive tasks are more difficult when you’re distracted, but the reliability to which this daily puzzler causes me to dig into my personal well-being is shocking. I’m beginning to see obvious mistakes –like the common “crimocent” mix-up– less as a failure and more as an opportunity to pause and assess what else might be going on in my life.",
+          "link": "https://daverupert.com/2026/06/spoons-by-sam/",
+          "publishedOn": "2026-06-18T11:50:00.000Z",
+          "wordCount": null,
+          "title": "Spoons by Sam",
+          "imageUrl": null
+        },
         {
           "id": "https://daverupert.com/2026/05/vibe-check-42/",
           "author": null,
@@ -122,16 +173,6 @@
           "publishedOn": "2026-04-04T17:00:00.000Z",
           "wordCount": null,
           "title": "Before I go: People like it when other people make things",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2026/03/people-are-not-friction/",
-          "author": null,
-          "description": "The Gell-Mann Amnesia Effect of AI is a pretty well documented phenomenon:\nThe Gell-Mann amnesia effect is a cognitive bias describing the tendency of individuals to critically assess media reports in a domain they are knowledgeable about, yet continue to trust reporting in other areas despite recognizing similar potential inaccuracies.\nSummarizing, AI sounds like a incredible genius synthesizing the world’s knowledge right up until you ask it about the thing you know about, then it’s an idiot. Even knowing about this phenomenon and having experienced it countless times, LLMs have an intoxicating quality to them.\nIf there’s one thing LLMs do well, it’s delivering an enormous blast of dopamine if they do a good job on the first try. That “if” does a lot of heavy lifting, but when it happens…",
-          "link": "https://daverupert.com/2026/03/people-are-not-friction/",
-          "publishedOn": "2026-03-20T15:54:00.000Z",
-          "wordCount": null,
-          "title": "People are not friction",
           "imageUrl": null
         }
       ]
@@ -434,6 +475,16 @@
       "feedUrl": "https://soulteary.com/feed/",
       "siteUrl": "https://soulteary.com/feed/",
       "articles": [
+        {
+          "id": "https://soulteary.com/2026/06/14/rebuild-macos-dev-machine-from-scratch-reproducible-environment-setup.html",
+          "author": "苏洋(soulteary)",
+          "description": "趁着周末老设备磁盘告急，顺手做了一次完整的 macOS 迁移与开发环境重建，并把整个过程整理成一套可复用、可迁移、可重建的初始化方案。本文按照“从零恢复一台开发机”的顺序，依次展开：Xcode CLI 与系统基础工具链、Homebrew 包管理器、Oh My Zsh 与自动补全插件、基于 gpg-agent 统一托管 SSH/GPG 的 Git 签名体系，以及 Go（GVM）、Python（Miniforge）、Node.js（nvm）、Bun 四类多语言运行时的版本管理与隔离，每一步都给出可执行命令、真实日志输出和验证方式，最后补充新设备到手后的系统层面初始化清单。",
+          "link": "https://soulteary.com/2026/06/14/rebuild-macos-dev-machine-from-scratch-reproducible-environment-setup.html",
+          "publishedOn": "2026-06-14T12:36:00.000Z",
+          "wordCount": null,
+          "title": "从零重建 macOS 开发机：可复现的环境初始化流程",
+          "imageUrl": null
+        },
         {
           "id": "https://soulteary.com/2026/06/09/migrate-minio-examples-to-otterio-usage-deployment-and-verification.html",
           "author": "苏洋(soulteary)",
@@ -779,6 +830,16 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://nops.icu/archives/242/",
+          "author": "季兴",
+          "description": "本文记录了在 8 卡 NVIDIA L20 服务器上部署 DeepSeek-V4-Flash 的完整过程。前半部分是可直接复制到新机器的部署步骤，后半部分是部署过程中遇到的踩坑记录与根因分析（v...",
+          "link": "https://nops.icu/archives/242/",
+          "publishedOn": "2026-06-03T01:42:00.000Z",
+          "wordCount": null,
+          "title": "L20部署deepseek-v4-flash",
+          "imageUrl": null
+        },
+        {
           "id": "https://nops.icu/archives/240/",
           "author": "季兴",
           "description": "近期我们上线了LiteLLM，社区活跃，star最高。主要解决，1简化接入 2计费限流。天有不测风云，上线后被外部脱裤！使用https://www.sysdig.com/blog/cve-202...",
@@ -905,6 +966,106 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=313141",
+          "author": "Brandon Lee",
+          "description": "If you spend much time at all watching Proxmox content, you will hear about a lot of the big features, especially with the new releases in versions like Proxmox VE…\nThe post 9 Proxmox Features That Quietly Improved How I Manage My Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/06/9-proxmox-features-that-quietly-improved-how-i-manage-my-home-lab/",
+          "publishedOn": "2026-06-27T12:44:00.000Z",
+          "wordCount": null,
+          "title": "9 Proxmox Features That Quietly Improved How I Manage My Home Lab",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=313118",
+          "author": "Brandon Lee",
+          "description": "I am all about project-based learning and also all about Linux! If you’re anything like me, the weekend is when you are able to get some of your best home…\nThe post 9 Linux Management Tools Worth Deploying in Your Home Lab This Weekend appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/06/9-linux-management-tools-worth-deploying-in-your-home-lab-this-weekend/",
+          "publishedOn": "2026-06-26T12:17:22.000Z",
+          "wordCount": null,
+          "title": "9 Linux Management Tools Worth Deploying in Your Home Lab This Weekend",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=313096",
+          "author": "Brandon Lee",
+          "description": "The home lab world has changed dramatically over the last few years and it continues to change. Not long ago, most of us were building traditional virtualization stacks, a handful…\nThe post The Biggest Home Lab Trend I’m Watching for 2027 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/06/the-biggest-home-lab-trend-im-watching-for-2027/",
+          "publishedOn": "2026-06-25T12:23:53.000Z",
+          "wordCount": null,
+          "title": "The Biggest Home Lab Trend I’m Watching for 2027",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=313063",
+          "author": "Brandon Lee",
+          "description": "There is just something so cool about containerized technologies and there are a lot of great options for running them out there, including Docker (as we all know). But another…\nThe post Why Quadlets Finally Made Podman Click for Me in the Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/06/why-quadlets-finally-made-podman-click-for-me-in-the-home-lab/",
+          "publishedOn": "2026-06-24T13:28:01.000Z",
+          "wordCount": null,
+          "title": "Why Quadlets Finally Made Podman Click for Me in the Home Lab",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=313038",
+          "author": "Brandon Lee",
+          "description": "I wanted to post an update after using Flatcar for some months now and what has changed in terms of workflows and actual benefits or negatives from moving to Immutable…\nThe post What Actually Changed After I Moved My Home Lab to Immutable Linux appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/06/what-actually-changed-after-i-moved-my-home-lab-to-immutable-linux/",
+          "publishedOn": "2026-06-23T12:14:16.000Z",
+          "wordCount": null,
+          "title": "What Actually Changed After I Moved My Home Lab to Immutable Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=312990",
+          "author": "Brandon Lee",
+          "description": "Docker Compose is still one of my favorite ways to run applications in the home lab. It is simple, it makes sense, it is human-readable, and it is quick to…\nThe post Sencho Might Be the Docker Compose Management Tool Home Labs Have Been Waiting For appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/06/sencho-might-be-the-docker-compose-management-tool-home-labs-have-been-waiting-for/",
+          "publishedOn": "2026-06-22T12:43:15.000Z",
+          "wordCount": null,
+          "title": "Sencho Might Be the Docker Compose Management Tool Home Labs Have Been Waiting For",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=312944",
+          "author": "Brandon Lee",
+          "description": "DNS is one of my favorite services that I like to manage and play around with in the home lab and it is arguably one of the most critical. When…\nThe post 5 DNS Servers Every Home Lab Should Know About (2026 Guide) appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/06/5-dns-servers-every-home-lab-should-know-about-2026-guide/",
+          "publishedOn": "2026-06-20T12:09:19.000Z",
+          "wordCount": null,
+          "title": "5 DNS Servers Every Home Lab Should Know About (2026 Guide)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=312909",
+          "author": "Brandon Lee",
+          "description": "I have been talking a lot lately about how I centralize the configuration of my Linux servers in git and other content around infrastructure as code and making sure you…\nThe post 10 Linux Tweaks I Make on Every New Home Lab Server appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/06/10-linux-tweaks-i-make-on-every-new-home-lab-server/",
+          "publishedOn": "2026-06-19T11:20:04.000Z",
+          "wordCount": null,
+          "title": "10 Linux Tweaks I Make on Every New Home Lab Server",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=312887",
+          "author": "Brandon Lee",
+          "description": "Not long ago, i was troubleshooting an issue in the home lab related to an app that was straightforward. One of my services had suddenly stopped and become unavailable. The…\nThe post Most Home Lab Outages Start With These Hidden Dependencies appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/06/most-home-lab-outages-start-with-these-hidden-dependencies/",
+          "publishedOn": "2026-06-18T11:53:27.000Z",
+          "wordCount": null,
+          "title": "Most Home Lab Outages Start With These Hidden Dependencies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=312860",
+          "author": "Brandon Lee",
+          "description": "One of the biggest changes I have made in my home lab over the past few years has nothing to do with Proxmox, Kubernetes, Docker, networking, or storage. Instead, it…\nThe post These Git Repositories Changed How I Manage My Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/06/these-git-repositories-changed-how-i-manage-my-home-lab/",
+          "publishedOn": "2026-06-17T12:41:54.000Z",
+          "wordCount": null,
+          "title": "These Git Repositories Changed How I Manage My Home Lab",
+          "imageUrl": null
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=312694",
           "author": "Brandon Lee",
@@ -1543,136 +1704,6 @@
           "publishedOn": "2026-03-30T12:49:23.000Z",
           "wordCount": null,
           "title": "10 Home Lab Tools That Made My Setup Feel Like a Real Datacenter",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=310542",
-          "author": "Brandon Lee",
-          "description": "Storage is one of the absolutely critical aspects of any home lab and computing environment in general. And, unfortunately, storage issues can creep in without even having any signs of…\nThe post Your Drives Might Be Failing. Check These Free Tools appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/03/your-drives-might-be-failing-check-these-free-tools/",
-          "publishedOn": "2026-03-28T12:24:15.000Z",
-          "wordCount": null,
-          "title": "Your Drives Might Be Failing. Check These Free Tools",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=310514",
-          "author": "Brandon Lee",
-          "description": "I get it. Man things are expensive these days. At least currently, the days of simple “and cheap” upgrades like adding RAM or upgrading a hard drive are over for…\nThe post 7 Home Lab Upgrades Under $100 That Actually Made a Huge Difference appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/03/7-home-lab-upgrades-under-100-that-actually-made-a-huge-difference/",
-          "publishedOn": "2026-03-27T12:31:09.000Z",
-          "wordCount": null,
-          "title": "7 Home Lab Upgrades Under $100 That Actually Made a Huge Difference",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=310478",
-          "author": "Brandon Lee",
-          "description": "For a LONG time, my home lab has looked like what I imagine most other people’s labs look like. I had a mix of Docker Compose files and a few…\nThe post I Stopped Deploying Containers Manually. This Changed My Home Lab appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/03/i-stopped-deploying-containers-manually-this-changed-my-home-lab/",
-          "publishedOn": "2026-03-26T12:32:24.000Z",
-          "wordCount": null,
-          "title": "I Stopped Deploying Containers Manually. This Changed My Home Lab",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=310450",
-          "author": "Brandon Lee",
-          "description": "If you have spent any amount of time working with Proxmox, you are probably super familiar with the web interface. The default web interface is clean and gives you good…\nThe post Manage Proxmox Like Kubernetes? This CLI Tool Makes It Possible appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/03/manage-proxmox-like-kubernetes-this-cli-tool-makes-it-possible/",
-          "publishedOn": "2026-03-25T12:42:08.000Z",
-          "wordCount": null,
-          "title": "Manage Proxmox Like Kubernetes? This CLI Tool Makes It Possible",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=310409",
-          "author": "Brandon Lee",
-          "description": "If you have spent any time at all in building out your home lab, one of the first things you try to decide how to do is remotely access your…\nThe post I Changed How I Access My Home Lab and This Fixed Everything appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/03/i-changed-how-i-access-my-home-lab-and-this-fixed-everything/",
-          "publishedOn": "2026-03-24T12:18:21.000Z",
-          "wordCount": null,
-          "title": "I Changed How I Access My Home Lab and This Fixed Everything",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=310395",
-          "author": "Brandon Lee",
-          "description": "If you have been running containers in your home lab or small production environment, there is a good chance you have tried or are currently using Docker Swarm. Swarm has…\nThe post Is Docker Swarm Still Safe in 2026? appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/03/is-docker-swarm-still-safe-in-2026/",
-          "publishedOn": "2026-03-23T12:22:16.000Z",
-          "wordCount": null,
-          "title": "Is Docker Swarm Still Safe in 2026?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=310363",
-          "author": "Brandon Lee",
-          "description": "One of the best projects that you can build in the home lab in my opinion for learning and just overall fun is a Proxmox cluster (or any other hypervisor…\nThe post 5 Mistakes I Made Building My Proxmox Cluster (So You Don’t Have To) appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/03/5-mistakes-i-made-building-my-proxmox-cluster-so-you-dont-have-to/",
-          "publishedOn": "2026-03-21T12:40:38.000Z",
-          "wordCount": null,
-          "title": "5 Mistakes I Made Building My Proxmox Cluster (So You Don’t Have To)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=310338",
-          "author": "Brandon Lee",
-          "description": "For a lot of us, the weekend is really when the home lab comes alive. It is often the perfect time to try something new, break something safely, and learn…\nThe post 6 Home Lab Experiments Worth Trying This Weekend appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/03/6-home-lab-experiments-worth-trying-this-weekend/",
-          "publishedOn": "2026-03-20T12:28:57.000Z",
-          "wordCount": 11364,
-          "title": "6 Home Lab Experiments Worth Trying This Weekend",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/03/6-weekend-home-lab-experiments.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=310309",
-          "author": "Brandon Lee",
-          "description": "If you are like me and have a long history with VMware environments, there is a good chance RVTools was one of your go-to utilities. It gives you the instant…\nThe post This Free Tool Feels Like RVTools for Proxmox (And It’s CLI-Based) appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/03/this-free-tool-feels-like-rvtools-for-proxmox-and-its-cli-based/",
-          "publishedOn": "2026-03-19T12:45:58.000Z",
-          "wordCount": 11372,
-          "title": "This Free Tool Feels Like RVTools for Proxmox (And It’s CLI-Based)",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/03/RVTools-for-Proxmox.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=310275",
-          "author": "Brandon Lee",
-          "description": "Like most hypervisors, some of the best features of Proxmox are not the obvious ones when you first start using it. Some features and capabilities are buried deep inside and…\nThe post 7 hidden Proxmox features buried in the admin guide Your Home Lab Needs appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/03/7-hidden-proxmox-features-buried-in-the-admin-guide-your-home-lab-needs/",
-          "publishedOn": "2026-03-18T12:23:10.000Z",
-          "wordCount": null,
-          "title": "7 hidden Proxmox features buried in the admin guide Your Home Lab Needs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=310251",
-          "author": "Brandon Lee",
-          "description": "If you have run Linux servers for any length of time, there is a good chance you have been bitten by network interface renaming at some point. It usually happens…\nThe post The Proxmox 9 Feature That Finally Fixes NIC Renaming Problems appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/03/the-proxmox-9-feature-that-finally-fixes-nic-renaming-problems/",
-          "publishedOn": "2026-03-17T12:37:00.000Z",
-          "wordCount": null,
-          "title": "The Proxmox 9 Feature That Finally Fixes NIC Renaming Problems",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=310215",
-          "author": "Brandon Lee",
-          "description": "One of the great things I have found about moving over to Proxmox is all of the tools that you have access to when you do. There are tons of…\nThe post How I Manage My Proxmox Cluster From My Phone (4 Mobile Tools I Use) appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/03/how-i-manage-my-proxmox-cluster-from-my-phone-4-mobile-tools-i-use/",
-          "publishedOn": "2026-03-16T12:15:41.000Z",
-          "wordCount": null,
-          "title": "How I Manage My Proxmox Cluster From My Phone (4 Mobile Tools I Use)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=310195",
-          "author": "Brandon Lee",
-          "description": "I have been on a crusade in my home lab to see how far I can take my mini PC cluster. I have been having so much fun with my…\nThe post I Added an eGPU to My Proxmox Mini PC Home Lab Using OCuLink (Here’s What Happened) appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/03/i-added-an-egpu-to-my-proxmox-mini-pc-home-lab-using-oculink-heres-what-happened/",
-          "publishedOn": "2026-03-14T12:43:33.000Z",
-          "wordCount": null,
-          "title": "I Added an eGPU to My Proxmox Mini PC Home Lab Using OCuLink (Here’s What Happened)",
           "imageUrl": null
         }
       ]
@@ -2660,6 +2691,16 @@
       "siteUrl": "https://limboy.me/",
       "articles": [
         {
+          "id": "https://limboy.me/posts/pinned-inside-dingtalk",
+          "author": null,
+          "description": "",
+          "link": "https://limboy.me/posts/pinned-inside-dingtalk",
+          "publishedOn": "2026-06-13T00:00:00.000Z",
+          "wordCount": null,
+          "title": "读《置身钉内》后的一些感受",
+          "imageUrl": null
+        },
+        {
           "id": "https://limboy.me/posts/the-changes-claude-code-brought-me",
           "author": null,
           "description": "",
@@ -2740,6 +2781,46 @@
       "siteUrl": "https://www.skyue.com/",
       "articles": [
         {
+          "id": "https://www.skyue.com/26062116.html",
+          "author": "拾月",
+          "description": "Typecho Newsletter插件继Typecho发布和中文日期处理两款Obsidian插件之后，我的第三个vibe coding项目落地了——一款Typecho Newsletter插件...",
+          "link": "https://www.skyue.com/26062116.html",
+          "publishedOn": "2026-06-21T08:41:00.000Z",
+          "wordCount": null,
+          "title": "端午节第三弹：Typecho Newsletter插件；及Claude Code + DeepSeek的使用体验",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.skyue.com/26062020.html",
+          "author": "拾月",
+          "description": "我每天在Obsidian中新建一篇标题为YYYY-MM-DD的笔记记日记，任何笔记中提及日期我都主动关联相应的笔记，但提及日期往往使用自然语言，我现在的处理方式如下图所示：笔记中大量日期引用",
+          "link": "https://www.skyue.com/26062020.html",
+          "publishedOn": "2026-06-20T12:48:00.000Z",
+          "wordCount": null,
+          "title": "Natural Language Dates - Chinese：终于能在Obsidian中处理中文日期了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.skyue.com/26062014.html",
+          "author": "拾月",
+          "description": "又vibe coding了。这次开发了一款Obsidian插件，实现一键发送笔记到Typecho博客。插件已经上架Obsidian插件市场。插件市场下载：Typecho Publisher - ...",
+          "link": "https://www.skyue.com/26062014.html",
+          "publishedOn": "2026-06-20T06:51:00.000Z",
+          "wordCount": null,
+          "title": "Obsidian笔记如何一键发布到Typecho？试试我开发的这款插件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.skyue.com/26061321.html",
+          "author": "拾月",
+          "description": "上周末连着周一，到宜兴玩了三天，超级休闲。行程如下：周六到宜兴，先逛陶二厂、蜀山古南街和东坡书院，然后开车到知春卢仝山房坐了一会。晚上住希尔顿欢朋酒店(宜兴人民中路店)，附近逛吃。周日到窑湖小镇...",
+          "link": "https://www.skyue.com/26061321.html",
+          "publishedOn": "2026-06-13T13:27:00.000Z",
+          "wordCount": null,
+          "title": "宜兴三日游",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.skyue.com/26060714.html",
           "author": "拾月",
           "description": "本文为装修系列第4篇，前序文章：装修日记（1）：各种准备工作装修日记（2）：硬装装修日记（3）：软装去年装修收尾时，部分家电因担心贬值而未买。我们计划今年七月搬入，所以趁着近期的618大促买了几...",
@@ -2808,26 +2889,6 @@
           "wordCount": null,
           "title": "春天",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.skyue.com/26032220.html",
-          "author": "拾月",
-          "description": "找育儿嫂的经历本周因更换育儿嫂，生活陷入了一场精疲力竭的「拉锯战」。周一上午，月子中心的月嫂正式下户，我们通过中介找了一位育儿嫂接手工作，并特意安排育儿嫂提前一天到岗交接。然而育儿嫂的带娃能力让...",
-          "link": "https://www.skyue.com/26032220.html",
-          "publishedOn": "2026-03-22T12:40:00.000Z",
-          "wordCount": null,
-          "title": "一周换了三个育儿嫂",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.skyue.com/26032116.html",
-          "author": "拾月",
-          "description": "2023 年写过了一篇《ChatGPT对电商平台的影响》，我在其中提到：但如果ChatGPT 能进化为全能的私人助理，并能使用工具解决问题，那么它可能成为用户和电商平台之间的代理人。届时，Cha...",
-          "link": "https://www.skyue.com/26032116.html",
-          "publishedOn": "2026-03-21T08:22:00.000Z",
-          "wordCount": null,
-          "title": "通用Agent能搞定购物吗？",
-          "imageUrl": null
         }
       ]
     },
@@ -2895,51 +2956,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bluehe.cn/usr/uploads/2026/04/CRnall_20260220_103555292.webp"
-        },
-        {
-          "id": "https://bluehe.cn/archives/mysql-typecho",
-          "author": "云心怀鹤",
-          "description": "我使用的数据库是mysql5.7版本，typecho创建后可以通过以下sql语句执行达到提高查询效果，执行前需快照或者备份数据库以防重要数据丢失！还有nginx与php都可以继续优化，目前我的站点除了CDN字体加载有延迟完，几乎秒开。\n\n1、内容表添加复合...",
-          "link": "https://bluehe.cn/archives/mysql-typecho",
-          "publishedOn": "2026-03-27T14:50:00.000Z",
-          "wordCount": null,
-          "title": "Typecho优化： Mysql添加索引提高查询速度",
-          "enclosure": {
-            "url": "https://bluehe.cn/usr/uploads/2026/03/屏幕截图2026-03-27.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bluehe.cn/usr/uploads/2026/03/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE2026-03-27.webp"
-        },
-        {
-          "id": "https://bluehe.cn/archives/shengshi-xiudian-guangxi",
-          "author": "云心怀鹤",
-          "description": "2026年3月21日，星期六中午2点17分抵达，一直到闭馆还没有游览完成，三点时有公益的讲解，讲解得很详细，已到闭馆时间都还没有讲解完成，试图用短暂的时间去理解历时21年完成的盛世修典，是绝对不可能的。\n\n展览是全称是：盛世修典 “中国历代绘画大系”成果展...",
-          "link": "https://bluehe.cn/archives/shengshi-xiudian-guangxi",
-          "publishedOn": "2026-03-23T14:50:00.000Z",
-          "wordCount": null,
-          "title": "盛世修典：广西美术馆特展",
-          "enclosure": {
-            "url": "https://bluehe.cn/usr/uploads/2026/03/CRnall_20260321_150247709.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bluehe.cn/usr/uploads/2026/03/CRnall_20260321_150247709.webp"
-        },
-        {
-          "id": "https://bluehe.cn/archives/qingxiushan-fenglingmu-guide",
-          "author": "云心怀鹤",
-          "description": "3月1号，南宁又到了路上随处可见黄花的季节，一夜之间黄花风铃木就开花了，我也忍不住前往青秀山一逛，因为那里是一大片一大片的开着，视觉更加强烈。\n\n成人票20，学生10，入园就看到了灯展的装饰物，不过我们已经看了两年了，早已不感兴趣。\n\n\n我们是中午才到了，...",
-          "link": "https://bluehe.cn/archives/qingxiushan-fenglingmu-guide",
-          "publishedOn": "2026-03-15T02:47:00.000Z",
-          "wordCount": null,
-          "title": "青秀山黄花风铃木：属于南宁绿城三月独有的浪漫",
-          "enclosure": {
-            "url": "https://bluehe.cn/usr/uploads/2026/03/P20260301-132418.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bluehe.cn/usr/uploads/2026/03/P20260301-132418.webp"
         }
       ]
     },
@@ -3044,16 +3060,6 @@
           "wordCount": null,
           "title": "清明节上坟烧纸是不是封建迷信",
           "imageUrl": null
-        },
-        {
-          "id": "https://4311346.com/post/2026/0314-lianhua.html",
-          "author": null,
-          "description": "在中部地区的武汉，能看到金顶白墙的东南亚风的禅意秘境很难得，在汤逊湖边的树影下格外静谧，虽然部分区域仍在修缮，但2026年春节后又难得的再次开放。\n莲华寺，原名莲花庵，始建于清朝康熙三十二年（1693年），距今已有300多年历史，在2000年由释圆悟法师主持重建并更名为莲华寺。\n寺院依《妙法莲华经》立意，规划“一轴两线三域”格局，核心建筑包括十方普照塔、普光明殿等，兼具宗教活动与文化交流功能。武汉江夏区的莲华寺目前仍在申报国家4A级景区，部分区域仍因施工未完全开放。\n\n莲华寺，地处汤逊湖南岸，占地272亩。\n\n莲华寺，比很多景区强的是，大门进来并不需要走很远。\n\n莲华寺北侧是汤逊湖风景无敌，可惜这南侧中家湾村庄的红房子有点杂乱。\n\n换个方向把~\n\n普光明殿，穹顶刻满了经文\n\n以虔诚之心，敬来日方长。",
-          "link": "https://4311346.com/post/2026/0314-lianhua.html",
-          "publishedOn": "2026-03-14T14:16:03.000Z",
-          "wordCount": null,
-          "title": "江夏莲华寺 以虔诚之心 敬来日方长",
-          "imageUrl": null
         }
       ]
     },
@@ -3126,26 +3132,6 @@
           "wordCount": null,
           "title": "Claude 内部提示词手册公开（精选10条）",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.dreamlyn.cn/3000095216.html",
-          "author": null,
-          "description": "<h1 id=\"微信已开放龙虾接口\"><a href=\"#微信已开放龙虾接口\" class=\"headerlink\" title=\"微信已开放龙虾接口\"></a>微信已开放龙虾接口</h1><p>微信官方本周发布了龙虾接口，意味着我们可以通过微信来操控龙虾了。</p>\n<p>很多",
-          "link": "https://www.dreamlyn.cn/3000095216.html",
-          "publishedOn": "2026-03-27T05:16:00.000Z",
-          "wordCount": null,
-          "title": "AI现阶段常见新词汇出现背景（二）",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.dreamlyn.cn/2436918478.html",
-          "author": null,
-          "description": "<h1 id=\"全球AI使用现状\"><a href=\"#全球AI使用现状\" class=\"headerlink\" title=\"全球AI使用现状\"></a>全球AI使用现状</h1><p>世界总人口现在是81亿，如果画成一个<a href=\"https://www.reddit.",
-          "link": "https://www.dreamlyn.cn/2436918478.html",
-          "publishedOn": "2026-03-20T05:10:00.000Z",
-          "wordCount": null,
-          "title": "AI现阶段常见新词汇出现背景（一）",
-          "imageUrl": null
         }
       ]
     },
@@ -3179,10 +3165,60 @@
       "articles": []
     },
     {
-      "title": "小z博客",
+      "title": "xiaoz博客",
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=23140",
+          "author": "xiaoz",
+          "description": "xiaoz先后用过不少笔记软件，市面上叫得上号的基本都用过，比如：印象笔记、有道笔记、为知笔记、Obsidian、Joplin、Notion、思源笔记、UpNote、TriliumNext...，有的不好看，有的太臃肿，有的同步困难，有的太过复杂，总之没找到一款完全合适的，于是就诞生了自己开发一款笔",
+          "link": "https://blog.xiaoz.org/archives/23140",
+          "publishedOn": "2026-06-26T07:16:51.000Z",
+          "wordCount": null,
+          "title": "小而美的ZNote笔记软件 —— 支持Docker私有部署和WEB访问",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaoz.org/?p=23118",
+          "author": "xiaoz",
+          "description": "xiaoz博客在2019年的时候开始使用自行开发的主题Msimple，这个主题已经使用超过7年，是时候换上新的UI了。最近在AI辅助下将Msimple重写，功能和Msimple几乎保持一致，但UI更加细致，新主题命名为Ztheme。该主题适合个人博客使用，已经在Github开源，有需要的朋友可以安装",
+          "link": "https://blog.xiaoz.org/archives/23118",
+          "publishedOn": "2026-06-22T03:29:09.000Z",
+          "wordCount": null,
+          "title": "xiaoz博客主题重写完成：Ztheme 已开源，附使用说明",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaoz.org/?p=23085",
+          "author": "xiaoz",
+          "description": "最近，百度飞桨平台发布了全新的PP-OCRv6识别模型。它在保持极致轻量的同时，实现了精度与速度的跨越式提升。xiaoz亲测部署后，发现识别效果确实不错，于是将其封装成了一套在线HTTP API调用方案，现正式开源分享给大家。Zocr开源地址：https://github.com/helloxz/z",
+          "link": "https://blog.xiaoz.org/archives/23085",
+          "publishedOn": "2026-06-18T01:56:10.000Z",
+          "wordCount": null,
+          "title": "Zocr：一款开箱即用的轻量OCR API，支持Docker一键部署",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaoz.org/?p=23063",
+          "author": "xiaoz",
+          "description": "在用上 Zot 之前，xiaoz 一直用 Nexus 3 搭建容器镜像仓库。但这个重量级工具内存占用高，上手复杂，出了问题也不好排查。现在，xiaoz 已经彻底告别 Nexus 3，投入 Zot 的怀抱了。注意：这篇文章具有一定专业性，推荐开发者或运维人员阅读，不建议新手小白尝试！！！什么是Zot？",
+          "link": "https://blog.xiaoz.org/archives/23063",
+          "publishedOn": "2026-06-16T06:58:28.000Z",
+          "wordCount": null,
+          "title": "使用Zot搭建私有容器镜像仓库，搞定Docker镜像加速",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaoz.org/?p=23066",
+          "author": "xiaoz",
+          "description": "ZMark是由xiaoz开发的浏览器书签管理工具，它主要解决了跨设备、跨平台、跨浏览器的书签同步与访问难题，做到一处部署、随处访问。同时，它还支持搭配浏览器扩展（插件）使用，让管理更高效。ZMark官网地址：https://www.zmark.app/主要特点轻量级： 使用Bun + Hono.js",
+          "link": "https://blog.xiaoz.org/archives/23066",
+          "publishedOn": "2026-06-15T07:39:10.000Z",
+          "wordCount": null,
+          "title": "ZMark书签管理器618限时折扣，买一送一",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=23055",
           "author": "xiaoz",
@@ -3302,36 +3338,6 @@
           "wordCount": null,
           "title": "经典重生：轻量级跨平台下载神器 Motrix Next",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=22874",
-          "author": "xiaoz",
-          "description": "最近xiaoz在V站发现一款开源免费的SSH客户端：Netcatty。使用了一段时间，个人觉得很不错，现在推荐给大家。它不仅拥有现代化的界面、灵活的分屏工作和内置 SFTP 文件管理，还集成了 AI Agent。只需自然语言对话，它就能帮你执行命令、诊断服务。告别死记硬背，让运维变得像聊天一样简单优",
-          "link": "https://blog.xiaoz.org/archives/22874",
-          "publishedOn": "2026-03-30T04:23:40.000Z",
-          "wordCount": null,
-          "title": "终于找到了！颜值与实力并存的开源 SSH 客户端：Netcatty",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=22857",
-          "author": "xiaoz",
-          "description": "上一篇文章介绍了高可用 LLM 网关 Bifrost 的安装与基本使用，还未部署的朋友可参考《从零搭建高可用 LLM 网关：Bifrost 部署与上手指南》。若要构建稳定可靠的 LLM 网关，Bifrost 的路由规则至关重要。借助其强大且灵活的配置，您可以轻松实现模型的负载均衡与故障转移。Bifr",
-          "link": "https://blog.xiaoz.org/archives/22857",
-          "publishedOn": "2026-03-27T02:57:29.000Z",
-          "wordCount": null,
-          "title": "大模型网关Bifrost 路由规则：实现负载均衡与故障转移",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=22835",
-          "author": "xiaoz",
-          "description": "做 AI 应用，最头疼的就是对接各家五花八门的 API，还要操心谁挂了、谁慢了。Bifrost 就是为了解决这个麻烦而生的——一个用 Go 写的超轻量开源网关。它能把 OpenAI、Claude、Gemini 等所有模型统一成一个标准接口给你用，不仅速度快，还自带自动故障转移和负载均衡。Bifros",
-          "link": "https://blog.xiaoz.org/archives/22835",
-          "publishedOn": "2026-03-26T03:10:59.000Z",
-          "wordCount": null,
-          "title": "从零搭建高可用 LLM 网关：Bifrost 部署与上手指南",
-          "imageUrl": null
         }
       ]
     },
@@ -3438,6 +3444,16 @@
       "feedUrl": "https://zhangguanzhang.github.io/atom.xml",
       "siteUrl": "http://zhangguanzhang.github.io/",
       "articles": [
+        {
+          "id": "http://zhangguanzhang.github.io/2026/06/16/proxmox-csi/",
+          "author": null,
+          "description": "<p>记录下 proxmox CSI 部署和使用。</p>",
+          "link": "http://zhangguanzhang.github.io/2026/06/16/proxmox-csi/",
+          "publishedOn": "2026-06-16T16:10:30.000Z",
+          "wordCount": null,
+          "title": "proxmox CSI 使用",
+          "imageUrl": null
+        },
         {
           "id": "http://zhangguanzhang.github.io/2026/05/13/loongarch64/",
           "author": null,
