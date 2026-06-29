@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-06-27T22:35:08.891Z</updated>
+    <updated>2026-06-29T22:34:48.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Home Lab Services I Never Stop Monitoring (And Why They Matter)]]></title>
+        <id>https://www.virtualizationhowto.com/?p=313192</id>
+        <link href="https://www.virtualizationhowto.com/2026/06/the-home-lab-services-i-never-stop-monitoring-and-why-they-matter/"/>
+        <updated>2026-06-29T11:48:36.000Z</updated>
+        <summary type="html"><![CDATA[One of the core monitoring components of my home lab is uptime monitoring. In other words, are my apps, services, web resources, etc up and running? Is anything down? I…
+The post The Home Lab Services I Never Stop Monitoring (And Why They Matter) appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[从2022年建站至今，一次莫名其妙的CC攻击]]></title>
+        <id>https://bluehe.cn/archives/2026-CC</id>
+        <link href="https://bluehe.cn/archives/2026-CC"/>
+        <updated>2026-06-29T10:28:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年6月12日（星期五）下午7:40分，收到了腾讯云流量包用量耗尽的通知，我感到奇怪，每个月的流量顶多不超过50G，怎么会一下子耗尽。
+
+刚准备吃饭的我懵了，这不对劲，马上登录服务器看情况，果然还在刷，一下子就超了，我只能把服务器关机了，腾讯云里面还...]]></summary>
+        <author>
+            <name>云心怀鹤</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building an AI Agent from Scratch with Python: A Comprehensive Guide]]></title>
+        <id>https://collabnix.com/building-an-ai-agent-from-scratch-with-python-a-comprehensive-guide/</id>
+        <link href="https://collabnix.com/building-an-ai-agent-from-scratch-with-python-a-comprehensive-guide/"/>
+        <updated>2026-06-29T05:09:39.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build an AI agent from scratch with Python in this detailed, step-by-step guide. From setting up environments to implementing functional neural networks, this comprehensive tutorial covers it all.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[时隔两天，开源笔记软件ZNote又双叒叕更新了，前来汇报]]></title>
+        <id>https://blog.xiaoz.org/?p=23157</id>
+        <link href="https://blog.xiaoz.org/archives/23157"/>
+        <updated>2026-06-29T01:34:03.000Z</updated>
+        <summary type="html"><![CDATA[各位好，我是xiaoz，距离上次发布ZNote 0.1.0版本，已经过去两天，这2天我一刻也没闲着，现在已经更新到0.3.1版本了，给各位老板汇报下ZNote笔记软件最近更新情况。ZNote官网：https://znote.xphub.dev/ZNote近期更新由于近期更新内容实在是太多了，所以无法]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[vibe coding上瘾，真上瘾]]></title>
+        <id>https://www.skyue.com/26062821.html</id>
+        <link href="https://www.skyue.com/26062821.html"/>
+        <updated>2026-06-28T13:12:00.000Z</updated>
+        <summary type="html"><![CDATA[周末两天继续Vibe Coding，在做几样东西：围绕钉钉的个人助理系统：自动维护待办清单和项目的OnePage，自动生成日报和周报Obsidian发布到微信公众号的插件。微信API中转服务：微...]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running Qwen3.6-35B-A3B (FP8) on NVIDIA DGX Spark GB10: A Complete Technical Tutorial]]></title>
+        <id>https://collabnix.com/?p=74914</id>
+        <link href="https://collabnix.com/running-qwen3-6-35b-a3b-fp8-on-nvidia-dgx-spark-gb10-a-complete-technical-tutorial/"/>
+        <updated>2026-06-28T08:19:25.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to run Qwen3.6-35B-A3B (FP8) on the NVIDIA DGX Spark GB10 Grace Blackwell supercomputer using vLLM. Step-by-step guide covering single and dual-node setup, agentic tool calling, FP8 quantization, performance benchmarks, and optimization tips — based on the most-searched thread on the NVIDIA Developer Forums with 28,000+ views.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering OpenClaw Multi-Agent Workflows: Coordinating Multiple AI Agents]]></title>
+        <id>https://collabnix.com/mastering-openclaw-multi-agent-workflows-coordinating-multiple-ai-agents/</id>
+        <link href="https://collabnix.com/mastering-openclaw-multi-agent-workflows-coordinating-multiple-ai-agents/"/>
+        <updated>2026-06-28T04:59:10.000Z</updated>
+        <summary type="html"><![CDATA[Explore the orchestration of multiple AI agents using OpenClaw, an open-source framework designed for dynamic agent coordination.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9 Proxmox Features That Quietly Improved How I Manage My Home Lab]]></title>
         <id>https://www.virtualizationhowto.com/?p=313141</id>
@@ -15,6 +88,16 @@
 The post 9 Proxmox Features That Quietly Improved How I Manage My Home Lab appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Reasons to Buy NVIDIA DGX Spark]]></title>
+        <id>https://collabnix.com/?p=74902</id>
+        <link href="https://collabnix.com/top-5-reasons-to-buy-nvidia-dgx-spark/"/>
+        <updated>2026-06-27T03:00:36.000Z</updated>
+        <summary type="html"><![CDATA[The AI computing landscape is evolving at an unprecedented pace, and NVIDIA has once again redefined what’s possible at the desktop level with the NVIDIA DGX Spark. Powered by the cutting-edge GB10 Grace Blackwell Superchip, DGX Spark is the world’s smallest AI supercomputer – a palm-sized powerhouse that brings data center-class AI performance directly to […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
         </author>
     </entry>
     <entry>
@@ -29,6 +112,16 @@ The post 9 Linux Management Tools Worth Deploying in Your Home Lab This Weekend 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[What Brand Ambassadors Do and Why They Matter]]></title>
+        <id>https://collabnix.com/?p=74898</id>
+        <link href="https://collabnix.com/what-brand-ambassadors-do-and-why-they-matter/"/>
+        <updated>2026-06-26T12:01:32.000Z</updated>
+        <summary type="html"><![CDATA[Brand ambassadors give a company a face in live moments where decisions happen fast and trust forms in seconds. The job mixes clear speech, product fluency, and careful listening so each exchange feels safe and useful. That combination matters more than most teams realize at first. For health and wellness teams, that human contact supports […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[小而美的ZNote笔记软件 —— 支持Docker私有部署和WEB访问]]></title>
         <id>https://blog.xiaoz.org/?p=23140</id>
         <link href="https://blog.xiaoz.org/archives/23140"/>
@@ -36,6 +129,16 @@ The post 9 Linux Management Tools Worth Deploying in Your Home Lab This Weekend 
         <summary type="html"><![CDATA[xiaoz先后用过不少笔记软件，市面上叫得上号的基本都用过，比如：印象笔记、有道笔记、为知笔记、Obsidian、Joplin、Notion、思源笔记、UpNote、TriliumNext...，有的不好看，有的太臃肿，有的同步困难，有的太过复杂，总之没找到一款完全合适的，于是就诞生了自己开发一款笔]]></summary>
         <author>
             <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Run GPU Workloads on Kubernetes with NVIDIA: A Step-by-Step Guide]]></title>
+        <id>https://collabnix.com/how-to-run-gpu-workloads-on-kubernetes-with-nvidia-a-step-by-step-guide/</id>
+        <link href="https://collabnix.com/how-to-run-gpu-workloads-on-kubernetes-with-nvidia-a-step-by-step-guide/"/>
+        <updated>2026-06-26T04:49:17.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to leverage NVIDIA GPUs to run high-performance workloads on Kubernetes clusters.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
         </author>
     </entry>
     <entry>
@@ -47,6 +150,26 @@ The post 9 Linux Management Tools Worth Deploying in Your Home Lab This Weekend 
 The post The Biggest Home Lab Trend I’m Watching for 2027 appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw Security Best Practices: Guardrails and Safe Agent Design]]></title>
+        <id>https://collabnix.com/openclaw-security-best-practices-guardrails-and-safe-agent-design-3/</id>
+        <link href="https://collabnix.com/openclaw-security-best-practices-guardrails-and-safe-agent-design-3/"/>
+        <updated>2026-06-25T04:41:47.000Z</updated>
+        <summary type="html"><![CDATA[Explore robust security strategies for OpenClaw, including guardrails for safe AI agent design and best practices for secure development environments.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw Security Best Practices: Guardrails and Safe Agent Design]]></title>
+        <id>https://collabnix.com/openclaw-security-best-practices-guardrails-and-safe-agent-design-2/</id>
+        <link href="https://collabnix.com/openclaw-security-best-practices-guardrails-and-safe-agent-design-2/"/>
+        <updated>2026-06-25T04:41:25.000Z</updated>
+        <summary type="html"><![CDATA[Explore robust security strategies for OpenClaw, including guardrails for safe AI agent design and best practices for secure development environments.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
         </author>
     </entry>
     <entry>
@@ -73,6 +196,26 @@ You can –of course– use Google or Bing to find public domain images but the 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Building a RAG-Powered Agent with OpenClaw: Step-by-Step Tutorial]]></title>
+        <id>https://collabnix.com/building-a-rag-powered-agent-with-openclaw-step-by-step-tutorial-3/</id>
+        <link href="https://collabnix.com/building-a-rag-powered-agent-with-openclaw-step-by-step-tutorial-3/"/>
+        <updated>2026-06-24T04:46:48.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to use OpenClaw to build a RAG-powered AI agent that intelligently retrieves and generates context-rich responses.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a RAG-Powered Agent with OpenClaw: Step-by-Step Tutorial]]></title>
+        <id>https://collabnix.com/building-a-rag-powered-agent-with-openclaw-step-by-step-tutorial-2/</id>
+        <link href="https://collabnix.com/building-a-rag-powered-agent-with-openclaw-step-by-step-tutorial-2/"/>
+        <updated>2026-06-24T04:46:28.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to use OpenClaw to build a RAG-powered AI agent that intelligently retrieves and generates context-rich responses.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What Actually Changed After I Moved My Home Lab to Immutable Linux]]></title>
         <id>https://www.virtualizationhowto.com/?p=313038</id>
         <link href="https://www.virtualizationhowto.com/2026/06/what-actually-changed-after-i-moved-my-home-lab-to-immutable-linux/"/>
@@ -95,6 +238,16 @@ The post Sencho Might Be the Docker Compose Management Tool Home Labs Have Been 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Ultimate Open Source LLM Showdown: Llama 3 vs Mistral vs Gemma]]></title>
+        <id>https://collabnix.com/the-ultimate-open-source-llm-showdown-llama-3-vs-mistral-vs-gemma/</id>
+        <link href="https://collabnix.com/the-ultimate-open-source-llm-showdown-llama-3-vs-mistral-vs-gemma/"/>
+        <updated>2026-06-22T05:39:58.000Z</updated>
+        <summary type="html"><![CDATA[Compare the best open-source LLMs in 2025: Llama 3, Mistral, and Gemma. Dive into their architectures, use cases, and how to deploy them effectively.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[xiaoz博客主题重写完成：Ztheme 已开源，附使用说明]]></title>
         <id>https://blog.xiaoz.org/?p=23118</id>
         <link href="https://blog.xiaoz.org/archives/23118"/>
@@ -112,6 +265,66 @@ The post Sencho Might Be the Docker Compose Management Tool Home Labs Have Been 
         <summary type="html"><![CDATA[Typecho Newsletter插件继Typecho发布和中文日期处理两款Obsidian插件之后，我的第三个vibe coding项目落地了——一款Typecho Newsletter插件...]]></summary>
         <author>
             <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploying NVIDIA NIM Containers on DGX Spark with Minikube: A Complete Guide for AI Researchers]]></title>
+        <id>https://collabnix.com/deploying-nvidia-nim-containers-on-dgx-spark-with-minikube-a-complete-guide-for-ai-researchers/</id>
+        <link href="https://collabnix.com/deploying-nvidia-nim-containers-on-dgx-spark-with-minikube-a-complete-guide-for-ai-researchers/"/>
+        <updated>2026-06-21T05:36:33.000Z</updated>
+        <summary type="html"><![CDATA[Minikube is a popular choice for local Kubernetes development, and multiple NVIDIA forum users have documented their setups for running NVIDIA NIM containers on DGX Spark with Minikube. This guide distills those experiences into a practical step-by-step tutorial that also shows how to deploy SLM/DSLM workloads for research and production use. Why Minikube on DGX […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Connect Two NVIDIA DGX Spark Nodes as Kubernetes GPU Workers for Distributed AI Inference]]></title>
+        <id>https://collabnix.com/how-to-connect-two-nvidia-dgx-spark-nodes-as-kubernetes-gpu-workers-for-distributed-ai-inference/</id>
+        <link href="https://collabnix.com/how-to-connect-two-nvidia-dgx-spark-nodes-as-kubernetes-gpu-workers-for-distributed-ai-inference/"/>
+        <updated>2026-06-21T05:35:41.000Z</updated>
+        <summary type="html"><![CDATA[A hot topic in the NVIDIA DGX Spark community is how to connect two Spark nodes for distributed GPU workloads. This guide shows you how to set up two DGX Spark systems as GPU worker nodes using Kubernetes, so your inference and training jobs can span both machines. Architecture Overview Node 1 (Spark A) acts […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running vLLM on NVIDIA DGX Spark with Docker: Zero-Compilation Guide for CUDA 13]]></title>
+        <id>https://collabnix.com/running-vllm-on-nvidia-dgx-spark-with-docker-zero-compilation-guide-for-cuda-13/</id>
+        <link href="https://collabnix.com/running-vllm-on-nvidia-dgx-spark-with-docker-zero-compilation-guide-for-cuda-13/"/>
+        <updated>2026-06-21T05:34:51.000Z</updated>
+        <summary type="html"><![CDATA[Users on the NVIDIA Developer Forums regularly report that getting pre-built vLLM Docker images running on DGX Spark was tricky in the early days due to CUDA 13 compatibility issues. This guide shows you exactly how to run the official NVIDIA vLLM Docker images on DGX Spark with zero compilation required. Why vLLM on DGX […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting Up a K3s Kubernetes Cluster on NVIDIA DGX Spark with Full GPU Support]]></title>
+        <id>https://collabnix.com/setting-up-a-k3s-kubernetes-cluster-on-nvidia-dgx-spark-with-full-gpu-support/</id>
+        <link href="https://collabnix.com/setting-up-a-k3s-kubernetes-cluster-on-nvidia-dgx-spark-with-full-gpu-support/"/>
+        <updated>2026-06-21T05:34:07.000Z</updated>
+        <summary type="html"><![CDATA[A frequently shared topic on the NVIDIA DGX Spark forum is how to set up a proper local Kubernetes cluster with GPU passthrough. This guide walks you through setting up K3s on your DGX Spark GB10 so you can serve LLMs like Qwen3 or Llama using vLLM. Prerequisites NVIDIA DGX Spark with DGX OS (Ubuntu-based) […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker Compose vs Kubernetes on NVIDIA DGX Spark: Which Setup Should You Choose for NIM Microservices?]]></title>
+        <id>https://collabnix.com/docker-compose-vs-kubernetes-on-nvidia-dgx-spark-which-setup-should-you-choose-for-nim-microservices/</id>
+        <link href="https://collabnix.com/docker-compose-vs-kubernetes-on-nvidia-dgx-spark-which-setup-should-you-choose-for-nim-microservices/"/>
+        <updated>2026-06-21T05:32:29.000Z</updated>
+        <summary type="html"><![CDATA[One of the most common questions on the NVIDIA Developer Forums is: Should you use Docker Compose or Kubernetes to run NIM microservices on your DGX Spark? This guide cuts through the confusion and gives you practical steps for both setups so you can decide which fits your workload. Why This Decision Matters The NVIDIA […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debugging at Lightning Speed: Harnessing the Power of Claude Code]]></title>
+        <id>https://collabnix.com/debugging-at-lightning-speed-harnessing-the-power-of-claude-code/</id>
+        <link href="https://collabnix.com/debugging-at-lightning-speed-harnessing-the-power-of-claude-code/"/>
+        <updated>2026-06-21T05:24:58.000Z</updated>
+        <summary type="html"><![CDATA[Harness the full potential of Claude Code to identify and fix bugs faster than ever before. Learn how to set up, utilize advanced features, and seamlessly integrate this AI tool into your development workflow.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
         </author>
     </entry>
     <entry>
@@ -146,6 +359,36 @@ The post 5 DNS Servers Every Home Lab Should Know About (2026 Guide) appeared fi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Decoding RAG: Understanding Retrieval-Augmented Generation]]></title>
+        <id>https://collabnix.com/decoding-rag-understanding-retrieval-augmented-generation-2/</id>
+        <link href="https://collabnix.com/decoding-rag-understanding-retrieval-augmented-generation-2/"/>
+        <updated>2026-06-20T04:49:13.000Z</updated>
+        <summary type="html"><![CDATA[Explore how Retrieval-Augmented Generation (RAG) integrates information retrieval and language generation for contextually enriched AI applications.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decoding RAG: Understanding Retrieval-Augmented Generation]]></title>
+        <id>https://collabnix.com/decoding-rag-understanding-retrieval-augmented-generation/</id>
+        <link href="https://collabnix.com/decoding-rag-understanding-retrieval-augmented-generation/"/>
+        <updated>2026-06-20T04:48:50.000Z</updated>
+        <summary type="html"><![CDATA[Explore how Retrieval-Augmented Generation (RAG) integrates information retrieval and language generation for contextually enriched AI applications.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running AI Coding Agents Safely: A Hands-On Guide to Docker Sandboxes (sbx)]]></title>
+        <id>https://collabnix.com/?p=74647</id>
+        <link href="https://collabnix.com/running-ai-coding-agents-safely-a-hands-on-guide-to-docker-sandboxes-sbx/"/>
+        <updated>2026-06-20T03:13:36.000Z</updated>
+        <summary type="html"><![CDATA[AI coding agents are incredible and terrifying in equal measure. When a developer asks Claude Code, OpenAI Codex, or Gemini CLI to fix a bug or add a feature, they often don’t think twice about what else the agent can access. The answer: everything. Your SSH keys, your AWS credentials, your entire home directory, even […]]]></summary>
+        <author>
+            <name>Ajeet Raina</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[10 Linux Tweaks I Make on Every New Home Lab Server]]></title>
         <id>https://www.virtualizationhowto.com/?p=312909</id>
         <link href="https://www.virtualizationhowto.com/2026/06/10-linux-tweaks-i-make-on-every-new-home-lab-server/"/>
@@ -154,6 +397,16 @@ The post 5 DNS Servers Every Home Lab Should Know About (2026 Guide) appeared fi
 The post 10 Linux Tweaks I Make on Every New Home Lab Server appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up a Local Kubernetes Cluster with Kind: Quick Start Guide]]></title>
+        <id>https://collabnix.com/how-to-set-up-a-local-kubernetes-cluster-with-kind-quick-start-guide/</id>
+        <link href="https://collabnix.com/how-to-set-up-a-local-kubernetes-cluster-with-kind-quick-start-guide/"/>
+        <updated>2026-06-19T05:33:36.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to set up a local Kubernetes cluster with Kind, offering a quick, efficient way to run Kubernetes using Docker containers.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
         </author>
     </entry>
     <entry>
@@ -196,6 +449,26 @@ It’s not rocket science that cognitive tasks are more difficult when you’re 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Getting Started with Ollama: Run LLMs Locally with Python, Docker & REST API]]></title>
+        <id>https://collabnix.com/?p=74632</id>
+        <link href="https://collabnix.com/getting-started-with-ollama-run-llms-locally-with-python-docker-rest-api/"/>
+        <updated>2026-06-18T05:36:16.000Z</updated>
+        <summary type="html"><![CDATA[Ollama is the fastest-growing tool for running large language models (LLMs) locally. Whether you’re using Python, Docker, or the REST API, this hands-on guide covers the most popular Ollama use cases with real, runnable code. 1. Install Ollama macOS / Linux Windows 2. Pull and Run Your First Model 3. Ollama REST API Ollama exposes […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Real-Time Debugging and Monitoring of OpenClaw AI Agents]]></title>
+        <id>https://collabnix.com/real-time-debugging-and-monitoring-of-openclaw-ai-agents/</id>
+        <link href="https://collabnix.com/real-time-debugging-and-monitoring-of-openclaw-ai-agents/"/>
+        <updated>2026-06-18T05:12:51.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to debug and monitor OpenClaw AI agents in real time with detailed step-by-step guidance, suitable for tackling common AI framework challenges.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Zocr：一款开箱即用的轻量OCR API，支持Docker一键部署]]></title>
         <id>https://blog.xiaoz.org/?p=23085</id>
         <link href="https://blog.xiaoz.org/archives/23085"/>
@@ -217,6 +490,16 @@ The post These Git Repositories Changed How I Manage My Home Lab appeared first 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NVIDIA DGX Spark + Kubernetes: Run GPU Workloads on the GB10 Grace Blackwell Superchip]]></title>
+        <id>https://collabnix.com/?p=74627</id>
+        <link href="https://collabnix.com/nvidia-dgx-spark-kubernetes-run-gpu-workloads-on-the-gb10-grace-blackwell-superchip/"/>
+        <updated>2026-06-17T11:58:29.000Z</updated>
+        <summary type="html"><![CDATA[The NVIDIA DGX Spark puts a 1 PFLOP (FP4) Grace Blackwell GB10 superchip and 128 GB of unified memory on your desk, enough to run models up to 200B parameters locally. But the moment you try to schedule that GPU through Kubernetes, you hit a wall that doesn’t exist on a normal discrete GPU: the […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[proxmox CSI 使用]]></title>
         <id>http://zhangguanzhang.github.io/2026/06/16/proxmox-csi/</id>
         <link href="http://zhangguanzhang.github.io/2026/06/16/proxmox-csi/"/>
@@ -227,6 +510,16 @@ The post These Git Repositories Changed How I Manage My Home Lab appeared first 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TechCarpio: Your Trusted Source for Technology Insights and Digital Innovation]]></title>
+        <id>https://collabnix.com/?p=74466</id>
+        <link href="https://collabnix.com/techcarpio-your-trusted-source-for-technology-insights-and-digital-innovation/"/>
+        <updated>2026-06-16T13:30:42.000Z</updated>
+        <summary type="html"><![CDATA[In today’s fast-moving digital world, staying informed about the latest technology trends has become more important than ever. Whether you’re a tech enthusiast, business owner, student, or professional, having access to reliable information can help you make smarter decisions. This is where TechCarpio comes in. TechCarpio is emerging as a valuable platform for readers who […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[使用Zot搭建私有容器镜像仓库，搞定Docker镜像加速]]></title>
         <id>https://blog.xiaoz.org/?p=23063</id>
         <link href="https://blog.xiaoz.org/archives/23063"/>
@@ -234,6 +527,16 @@ The post These Git Repositories Changed How I Manage My Home Lab appeared first 
         <summary type="html"><![CDATA[在用上 Zot 之前，xiaoz 一直用 Nexus 3 搭建容器镜像仓库。但这个重量级工具内存占用高，上手复杂，出了问题也不好排查。现在，xiaoz 已经彻底告别 Nexus 3，投入 Zot 的怀抱了。注意：这篇文章具有一定专业性，推荐开发者或运维人员阅读，不建议新手小白尝试！！！什么是Zot？]]></summary>
         <author>
             <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started with NVIDIA DGX Spark: Your Personal AI Supercomputer – A Complete Tutorial Guide]]></title>
+        <id>https://collabnix.com/?p=74329</id>
+        <link href="https://collabnix.com/getting-started-with-nvidia-dgx-spark-your-personal-ai-supercomputer-a-complete-tutorial-guide/"/>
+        <updated>2026-06-15T11:00:47.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIA DGX Spark is the world’s first desktop AI supercomputer powered by the NVIDIA GB10 Grace Blackwell Superchip. With 1 petaFLOP of FP4 AI compute, 128GB of coherent unified memory, and the complete NVIDIA AI software stack, DGX Spark lets developers, researchers, and data scientists run frontier-scale models locally ~ no cloud required. This tutorial […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
         </author>
     </entry>
     <entry>
@@ -251,6 +554,16 @@ The post These Git Repositories Changed How I Manage My Home Lab appeared first 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Deploying an LLM API-Backed Microservice with Docker and CI/CD]]></title>
+        <id>https://collabnix.com/?p=74251</id>
+        <link href="https://collabnix.com/deploying-an-llm-api-backed-microservice-with-docker-and-ci-cd/"/>
+        <updated>2026-06-15T08:48:46.000Z</updated>
+        <summary type="html"><![CDATA[Most teams integrating language model capabilities into their stack eventually hit the same wall: the initial prototype works, but moving it into a shared, reliable, observable service is a different problem entirely. Dropping an OpenAI call into a Flask app is straightforward. Getting that call into a container, behind proper retries and rate limiting, with […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ZMark书签管理器618限时折扣，买一送一]]></title>
         <id>https://blog.xiaoz.org/?p=23066</id>
         <link href="https://blog.xiaoz.org/archives/23066"/>
@@ -258,6 +571,16 @@ The post These Git Repositories Changed How I Manage My Home Lab appeared first 
         <summary type="html"><![CDATA[ZMark是由xiaoz开发的浏览器书签管理工具，它主要解决了跨设备、跨平台、跨浏览器的书签同步与访问难题，做到一处部署、随处访问。同时，它还支持搭配浏览器扩展（插件）使用，让管理更高效。ZMark官网地址：https://www.zmark.app/主要特点轻量级： 使用Bun + Hono.js]]></summary>
         <author>
             <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhancing AI Agents with Dynamic Memory: A Guide to Short-Term and Long-Term Context]]></title>
+        <id>https://collabnix.com/enhancing-ai-agents-with-dynamic-memory-a-guide-to-short-term-and-long-term-context/</id>
+        <link href="https://collabnix.com/enhancing-ai-agents-with-dynamic-memory-a-guide-to-short-term-and-long-term-context/"/>
+        <updated>2026-06-15T05:34:41.000Z</updated>
+        <summary type="html"><![CDATA[Explore how to incorporate short-term and long-term memory in AI agents to enhance context-awareness and continuity, improving user interactions and AI functionalities.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
         </author>
     </entry>
     <entry>
@@ -280,6 +603,26 @@ The post These Git Repositories Changed How I Manage My Home Lab appeared first 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Comprehensive Guide to Kubernetes Autoscaling: HPA, VPA, vs KEDA]]></title>
+        <id>https://collabnix.com/comprehensive-guide-to-kubernetes-autoscaling-hpa-vpa-vs-keda/</id>
+        <link href="https://collabnix.com/comprehensive-guide-to-kubernetes-autoscaling-hpa-vpa-vs-keda/"/>
+        <updated>2026-06-14T05:15:08.000Z</updated>
+        <summary type="html"><![CDATA[Dive deep into Kubernetes autoscaling with HPA, VPA, and KEDA. Learn how these strategies optimize workloads through dynamic scaling in a cloud-native ecosystem.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Is Claude Fable 5 Unavailable? The US Export Directive, Explained]]></title>
+        <id>https://collabnix.com/?p=74028</id>
+        <link href="https://collabnix.com/why-is-claude-fable-5-unavailable-the-us-export-directive-explained/"/>
+        <updated>2026-06-14T04:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Last updated: June 14, 2026 · ~7 min read Quick answer: Claude Fable 5 (and its sibling, Mythos 5) is unavailable because on June 12, 2026, the US government issued an export-control directive ordering Anthropic to block access for any foreign national, anywhere in the world. Since Anthropic can’t verify citizenship in real time, it […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[宜兴三日游]]></title>
         <id>https://www.skyue.com/26061321.html</id>
         <link href="https://www.skyue.com/26061321.html"/>
@@ -290,12 +633,52 @@ The post These Git Repositories Changed How I Manage My Home Lab appeared first 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Top KYC and AML Identity Verification Platforms for High-Volume Onboarding in 2026]]></title>
+        <id>https://collabnix.com/?p=73909</id>
+        <link href="https://collabnix.com/top-kyc-and-aml-identity-verification-platforms-for-high-volume-onboarding-in-2026/"/>
+        <updated>2026-06-13T05:27:09.000Z</updated>
+        <summary type="html"><![CDATA[Regulated industries are under growing pressure to automate identity verification without creating delays during onboarding. Manual reviews, disconnected compliance tools, and inconsistent verification processes can increase fraud exposure, create compliance gaps, and drive abandonment among legitimate users.  As onboarding volumes continue to rise, organizations are increasingly evaluating regulated identity verification platforms that can support both […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Self-Host Large Language Models (LLMs) with vLLM: Performance and Cost Comparison]]></title>
+        <id>https://collabnix.com/how-to-self-host-large-language-models-llms-with-vllm-performance-and-cost-comparison/</id>
+        <link href="https://collabnix.com/how-to-self-host-large-language-models-llms-with-vllm-performance-and-cost-comparison/"/>
+        <updated>2026-06-13T04:57:40.000Z</updated>
+        <summary type="html"><![CDATA[Explore how to reduce costs and boost performance by self-hosting LLMs with vLLM. Master the setup and deployment for powerful AI capabilities.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[读《置身钉内》后的一些感受]]></title>
         <id>https://limboy.me/posts/pinned-inside-dingtalk</id>
         <link href="https://limboy.me/posts/pinned-inside-dingtalk"/>
         <updated>2026-06-13T00:00:00.000Z</updated>
         <author>
             <name>Limboy's Essays</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best AI Tools for Developers in 2025: The Ultimate List]]></title>
+        <id>https://collabnix.com/best-ai-tools-for-developers-in-2025-the-ultimate-list/</id>
+        <link href="https://collabnix.com/best-ai-tools-for-developers-in-2025-the-ultimate-list/"/>
+        <updated>2026-06-12T22:34:21.000Z</updated>
+        <summary type="html"><![CDATA[Explore the cutting-edge AI tools transforming software development by 2025, diving into how they enhance productivity, streamline processes, and integrate into workflows.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding the World of AI Agents: A Beginner’s Guide [2025]]]></title>
+        <id>https://collabnix.com/understanding-the-world-of-ai-agents-a-beginners-guide-2025/</id>
+        <link href="https://collabnix.com/understanding-the-world-of-ai-agents-a-beginners-guide-2025/"/>
+        <updated>2026-06-12T14:01:36.000Z</updated>
+        <summary type="html"><![CDATA[Explore the fascinating world of AI agents, autonomous entities reshaping industries through intelligent decision-making.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
         </author>
     </entry>
     <entry>
@@ -526,6 +909,16 @@ The post I Found a Proxmox Mod That Adds Features I Wish Were Built In appeared 
 The post I Tried Proxmox Automated Installs and Am Never Going Back appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building AI Agents on DGX Spark with Kubernetes: A Complete Tutorial]]></title>
+        <id>https://collabnix.com/?p=74639</id>
+        <link href="https://collabnix.com/building-ai-agents-on-dgx-spark-with-kubernetes-a-complete-tutorial/"/>
+        <updated>2026-06-03T06:51:56.000Z</updated>
+        <summary type="html"><![CDATA[The NVIDIA DGX Spark is a compact, personal AI supercomputer powered by the GB10 Grace Blackwell Superchip. With 128GB of unified memory, it can run multiple large language models (LLMs) and vision language models (VLMs) in parallel, making it an ideal platform for building fully local, private, and always-on agentic AI workflows. When you add […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
         </author>
     </entry>
     <entry>
@@ -3013,16 +3406,6 @@ The post Why Your Home Lab Feels Slow (And What I Found) appeared first on Virtu
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Netherlands Residential Proxies: Advantages of Dutch IP Networks]]></title>
-        <id>https://collabnix.com/?p=73259</id>
-        <link href="https://collabnix.com/netherlands-residential-proxies-advantages-of-dutch-ip-networks/"/>
-        <updated>2026-03-31T17:46:12.000Z</updated>
-        <summary type="html"><![CDATA[Scraping, market research, and geo-testing are frequently used in the Netherlands due to the many European platforms that serve Dutch users with their own pricing, content, and access policies. You need a configuration that will give you an actual Dutch view without frequent blocks if your work requires what people actually see in the Netherlands, […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[osaurus-ai/osaurus: 拥有你的 AI。原生 macOS AI 代理管理工具——支持任何模型，持久记忆，自主执行，密码身份认证。采用 Swift 开发。完全离线。开源。]]></title>
         <id>https://github.com/osaurus-ai/osaurus</id>
         <link href="https://github.com/osaurus-ai/osaurus"/>
@@ -3030,17 +3413,6 @@ The post Why Your Home Lab Feels Slow (And What I Found) appeared first on Virtu
         <summary type="html"><![CDATA[Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source. - osaurus-ai/osaurus]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proxmox Finally Has a Real RVTools-Style Report (This Is What Was Missing)]]></title>
-        <id>https://www.virtualizationhowto.com/?p=310598</id>
-        <link href="https://www.virtualizationhowto.com/2026/03/proxmox-finally-has-a-real-rvtools-style-report-this-is-what-was-missing/"/>
-        <updated>2026-03-31T12:45:18.000Z</updated>
-        <summary type="html"><![CDATA[If you seem to remember that I wrote about a similar topic, you are correct! I had previously written about a particular tool in the cv4pve toolkit that reminded me…
-The post Proxmox Finally Has a Real RVTools-Style Report (This Is What Was Missing) appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
@@ -3064,16 +3436,6 @@ The post Proxmox Finally Has a Real RVTools-Style Report (This Is What Was Missi
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[经典重生：轻量级跨平台下载神器 Motrix Next]]></title>
-        <id>https://blog.xiaoz.org/?p=22902</id>
-        <link href="https://blog.xiaoz.org/archives/22902"/>
-        <updated>2026-03-31T01:27:20.000Z</updated>
-        <summary type="html"><![CDATA[如果您关注下载工具，一定听过经典的 Motrix，虽然Motrix在2023年后已经停更，但网友最近推出的精神续作「Motrix Next」已完美接力——它不仅更加轻量，安装包仅约 20MB，内存占用也显著降低。Motrix Next官网：https://motrix-next.pages.dev/]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[electrikmilk/cherri: Siri 快捷指令编程语言 🍒]]></title>
         <id>https://github.com/electrikmilk/cherri</id>
         <link href="https://github.com/electrikmilk/cherri"/>
@@ -3081,17 +3443,6 @@ The post Proxmox Finally Has a Real RVTools-Style Report (This Is What Was Missi
         <summary type="html"><![CDATA[Siri Shortcuts Programming Language 🍒. Contribute to electrikmilk/cherri development by creating an account on GitHub.]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Home Lab Tools That Made My Setup Feel Like a Real Datacenter]]></title>
-        <id>https://www.virtualizationhowto.com/?p=310569</id>
-        <link href="https://www.virtualizationhowto.com/2026/03/10-home-lab-tools-that-made-my-setup-feel-like-a-real-datacenter/"/>
-        <updated>2026-03-30T12:49:23.000Z</updated>
-        <summary type="html"><![CDATA[There comes a point where when you use the right tools and architect things the right way, your home lab can absolutely start feeling like an enterprise-grade environment. When this…
-The post 10 Home Lab Tools That Made My Setup Feel Like a Real Datacenter appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
@@ -3122,26 +3473,6 @@ The post 10 Home Lab Tools That Made My Setup Feel Like a Real Datacenter appear
         <summary type="html"><![CDATA[企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信. Contribute to WecomTeam/wecom-cli development by creating an account on GitHub.]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Top 7 AgTech Software Development Firms]]></title>
-        <id>https://collabnix.com/?p=73251</id>
-        <link href="https://collabnix.com/top-7-agtech-software-development-firms/"/>
-        <updated>2026-03-29T10:17:08.000Z</updated>
-        <summary type="html"><![CDATA[You want to modernize your agricultural processes? Learn about the 7 best software development companies that can offer you advanced AI and IoT farming solutions.]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Human and Automated Data Annotation Compared]]></title>
-        <id>https://collabnix.com/?p=73248</id>
-        <link href="https://collabnix.com/human-and-automated-data-annotation-compared/"/>
-        <updated>2026-03-29T10:07:49.000Z</updated>
-        <summary type="html"><![CDATA[Learn when to rely on human expertise and when to scale with automation using advanced data annotation tools built for AI teams.]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
         </author>
     </entry>
     <entry>
@@ -3315,26 +3646,6 @@ SDRAM 由多级层次组成：
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI App Development: A Practical Guide for 2026]]></title>
-        <id>https://collabnix.com/?p=73222</id>
-        <link href="https://collabnix.com/ai-app-development-a-practical-guide-for-2026/"/>
-        <updated>2026-03-25T18:44:52.000Z</updated>
-        <summary type="html"><![CDATA[A lot of companies talk about “building an AI app” as if that were one decision. It is not. The real work is choosing one business problem, one user flow, one delivery model, and one release plan that your team can support after launch. In 2026, most production AI apps are no longer just chat […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6 Benefits of Understanding Debt Consolidation for Financial Planning]]></title>
-        <id>https://collabnix.com/?p=73218</id>
-        <link href="https://collabnix.com/6-benefits-of-understanding-debt-consolidation-for-financial-planning/"/>
-        <updated>2026-03-25T18:34:43.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever looked at your monthly bills and asked yourself how people manage different payments while still planning their finances properly? Many people reach a point where they want a simpler way to organize their financial commitments. Learning about options such as debt consolidation can help people understand how payments can be structured in […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[visualdiffer/visualdiffer: 旨在直观比较文件夹和文件的 macOS 应用程序]]></title>
         <id>https://github.com/visualdiffer/visualdiffer</id>
         <link href="https://github.com/visualdiffer/visualdiffer"/>
@@ -3390,16 +3701,6 @@ SDRAM 由多级层次组成：
         <updated>2026-03-24T16:00:00.000Z</updated>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Reliable Communication Is the Lifeline of Every Crisis Response Strategy]]></title>
-        <id>https://collabnix.com/?p=73211</id>
-        <link href="https://collabnix.com/why-reliable-communication-is-the-lifeline-of-every-crisis-response-strategy/"/>
-        <updated>2026-03-24T06:23:02.000Z</updated>
-        <summary type="html"><![CDATA[When Communication Breaks, Everything Else Follows Picture this for a moment. A severe storm hits a region without warning. Power lines are down. Roads are blocked. Teams are trying to coordinate rescue efforts, but phones aren’t connecting and internet access is unreliable. Suddenly, something simple becomes incredibly complicated. Communication. In moments like these, every second […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
         </author>
     </entry>
     <entry>
@@ -3472,26 +3773,6 @@ SDRAM 由多级层次组成：
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How eSIM is Revolutionizing Mobile Connectivity in Canada]]></title>
-        <id>https://collabnix.com/?p=73207</id>
-        <link href="https://collabnix.com/how-esim-is-revolutionizing-mobile-connectivity-in-canada/"/>
-        <updated>2026-03-22T06:01:08.000Z</updated>
-        <summary type="html"><![CDATA[eSIM technology is revolutionizing mobile connectivity in Canada. It offers an efficient and flexible way to manage mobile services. With eSIM, Canadians enjoy greater convenience and enhanced security. This innovative technology is transforming the way mobile communication is experienced across the country. As adoption of eSIM for Canada grows, mobile communication becomes increasingly seamless and […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Choosing the Right Framework: OpenClaw, LangChain, or CrewAI?]]></title>
-        <id>https://collabnix.com/choosing-the-right-framework-openclaw-langchain-or-crewai/</id>
-        <link href="https://collabnix.com/choosing-the-right-framework-openclaw-langchain-or-crewai/"/>
-        <updated>2026-03-22T03:25:42.000Z</updated>
-        <summary type="html"><![CDATA[Explore the nuanced differences between OpenClaw, LangChain, and CrewAI to choose the best AI agent framework for your needs. This in-depth guide navigates key considerations and practical insights.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[tw93/Kaku: 🎃 一个为 AI 编程打造的快速即用型终端。]]></title>
         <id>https://github.com/tw93/Kaku</id>
         <link href="https://github.com/tw93/Kaku"/>
@@ -3512,16 +3793,6 @@ SDRAM 由多级层次组成：
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Claw Wars: OpenClaw vs NanoClaw vs NemoClaw]]></title>
-        <id>https://collabnix.com/?p=73199</id>
-        <link href="https://collabnix.com/the-claw-wars-openclaw-vs-nanoclaw-vs-nemoclaw/"/>
-        <updated>2026-03-21T14:06:04.000Z</updated>
-        <summary type="html"><![CDATA[Three frameworks, three philosophies, one burning question — which one actually belongs on your machine?]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[blitzdotdev/blitz-mac: 原生 macOS 应用程序，利用 AI 代理构建、测试和发布 iOS 应用]]></title>
         <id>https://github.com/blitzdotdev/blitz-mac</id>
         <link href="https://github.com/blitzdotdev/blitz-mac"/>
@@ -3529,36 +3800,6 @@ SDRAM 由多级层次组成：
         <summary type="html"><![CDATA[Native macOS App Store Connect tool with MCP. Submit iOS apps to App Store with AI agents  - blitzdotdev/blitz-mac]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Agents Explained: A Comprehensive Beginner’s Guide [2025]]]></title>
-        <id>https://collabnix.com/ai-agents-explained-a-comprehensive-beginners-guide-2025/</id>
-        <link href="https://collabnix.com/ai-agents-explained-a-comprehensive-beginners-guide-2025/"/>
-        <updated>2026-03-21T03:07:25.000Z</updated>
-        <summary type="html"><![CDATA[Explore the transformative role of AI Agents in everyday life and various industries. Discover their architecture, applications, and the basic setup of an AI project.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA Olaf Robot: Exploring Its AI Architecture]]></title>
-        <id>https://collabnix.com/?p=73186</id>
-        <link href="https://collabnix.com/powered-by-ai-a-deep-dive-into-the-architecture-of-the-nvidia-disney-olaf-robot/"/>
-        <updated>2026-03-20T04:06:16.000Z</updated>
-        <summary type="html"><![CDATA[Exploring the NVIDIA Olaf Robot’s Innovative Design The NVIDIA Disney Olaf robot overcomes traditional limits in autonomous, human-scale robotics—like real-time perception and adaptation—by integrating advanced AI, deep learning, and sensor fusion. Designed for dynamic commercial and industrial settings, this robot closes the gap between fixed-task machines and flexible, intelligent automation. This paper will detail the […]]]></summary>
-        <author>
-            <name>Manish Lingadevaru</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Agent Security: Guardrails and Preventing Prompt Injection]]></title>
-        <id>https://collabnix.com/ai-agent-security-guardrails-and-preventing-prompt-injection/</id>
-        <link href="https://collabnix.com/ai-agent-security-guardrails-and-preventing-prompt-injection/"/>
-        <updated>2026-03-20T03:15:54.000Z</updated>
-        <summary type="html"><![CDATA[Enhance the security of AI agents by implementing guardrails to prevent prompt injection attacks. Learn best practices and real-world solutions.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
         </author>
     </entry>
     <entry>
@@ -3592,26 +3833,6 @@ SDRAM 由多级层次组成：
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Debug Code with Claude Code: Fixing Bugs 10x Faster]]></title>
-        <id>https://collabnix.com/how-to-debug-code-with-claude-code-fixing-bugs-10x-faster-2/</id>
-        <link href="https://collabnix.com/how-to-debug-code-with-claude-code-fixing-bugs-10x-faster-2/"/>
-        <updated>2026-03-19T03:26:47.000Z</updated>
-        <summary type="html"><![CDATA[Enhance your debugging prowess with Claude Code: Discover how this AI-driven tool helps you fix bugs 10x faster directly from your terminal.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Debug Code with Claude Code: Fixing Bugs 10x Faster]]></title>
-        <id>https://collabnix.com/how-to-debug-code-with-claude-code-fixing-bugs-10x-faster/</id>
-        <link href="https://collabnix.com/how-to-debug-code-with-claude-code-fixing-bugs-10x-faster/"/>
-        <updated>2026-03-19T03:26:19.000Z</updated>
-        <summary type="html"><![CDATA[Enhance your debugging prowess with Claude Code: Discover how this AI-driven tool helps you fix bugs 10x faster directly from your terminal.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AnInsomniacy/motrix-next: 一个功能齐全的下载管理器]]></title>
         <id>https://github.com/AnInsomniacy/motrix-next</id>
         <link href="https://github.com/AnInsomniacy/motrix-next"/>
@@ -3629,16 +3850,6 @@ SDRAM 由多级层次组成：
         <summary type="html"><![CDATA[Remote Control for Codex. Contribute to Emanuele-web04/remodex development by creating an account on GitHub.]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Games & AI: What Artificial Intelligence Actually Does Behind the Screen]]></title>
-        <id>https://collabnix.com/?p=73178</id>
-        <link href="https://collabnix.com/games-ai-what-artificial-intelligence-actually-does-behind-the-screen/"/>
-        <updated>2026-03-18T12:34:41.000Z</updated>
-        <summary type="html"><![CDATA[Artificial intelligence in games rarely looks like a thinking machine plotting its next move. Most of the time, it works quietly in the background, shaping how worlds react, enemies behave, and systems stay balanced. Instead of flashy self-awareness, game AI focuses on patterns, rules, and fast decision trees designed to respond within milliseconds. This behind-the-scenes […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
         </author>
     </entry>
     <entry>
@@ -3703,16 +3914,6 @@ Solar Roof vs Solar Panels: Which is Worth It? - TinkerTry's hom…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI Coding Assistants Compared: GitHub Copilot vs Claude Code vs Cursor vs Windsurf]]></title>
-        <id>https://collabnix.com/ai-coding-assistants-compared-github-copilot-vs-claude-code-vs-cursor-vs-windsurf/</id>
-        <link href="https://collabnix.com/ai-coding-assistants-compared-github-copilot-vs-claude-code-vs-cursor-vs-windsurf/"/>
-        <updated>2026-03-17T03:18:56.000Z</updated>
-        <summary type="html"><![CDATA[Explore the capabilities of AI coding assistants like GitHub Copilot and Claude Code. Understand key features and differences to choose the right tool for enhancing your development workflow.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[jiulingyun/openclaw-cn: 中文社区版 OpenClaw，同原版保持定期更新，已内置钉钉、企业微信、飞书、QQ 以及国内网络环境优化。你的专属个人 AI 助手。支持所有操作系统和平台。🦞]]></title>
         <id>https://github.com/jiulingyun/openclaw-cn</id>
         <link href="https://github.com/jiulingyun/openclaw-cn"/>
@@ -3723,16 +3924,6 @@ Solar Roof vs Solar Panels: Which is Worth It? - TinkerTry's hom…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering Large Language Model Inference at Scale on Kubernetes]]></title>
-        <id>https://collabnix.com/mastering-large-language-model-inference-at-scale-on-kubernetes/</id>
-        <link href="https://collabnix.com/mastering-large-language-model-inference-at-scale-on-kubernetes/"/>
-        <updated>2026-03-16T03:42:58.000Z</updated>
-        <summary type="html"><![CDATA[Deploy Large Language Models (LLMs) efficiently at scale on Kubernetes using Docker. Learn step-by-step containerization and registry deployment practices.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RightCapitalHQ/php-ast-viewer: PHP AST 查看器是一款用于查看 PHP 代码抽象语法树的工具。通过可视化代码结构，帮助开发者更深入地理解代码，从而提升代码质量和维护效率。]]></title>
         <id>https://github.com/RightCapitalHQ/php-ast-viewer</id>
         <link href="https://github.com/RightCapitalHQ/php-ast-viewer"/>
@@ -3740,16 +3931,6 @@ Solar Roof vs Solar Panels: Which is Worth It? - TinkerTry's hom…]]></summary>
         <summary type="html"><![CDATA[The PHP AST Viewer is a tool for viewing the Abstract Syntax Tree of PHP code. By visualizing the structure, it helps developers gain a deeper understanding of the code, thus improving code quality...]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claude Code Pricing and Limits: How It Stacks Up Against Copilot Pro]]></title>
-        <id>https://collabnix.com/claude-code-pricing-and-limits-how-it-stacks-up-against-copilot-pro/</id>
-        <link href="https://collabnix.com/claude-code-pricing-and-limits-how-it-stacks-up-against-copilot-pro/"/>
-        <updated>2026-03-15T13:42:08.000Z</updated>
-        <summary type="html"><![CDATA[Explore how Claude Code's innovative AI-powered coding assistant compares to GitHub Copilot Pro, from pricing to features.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
         </author>
     </entry>
     <entry>
