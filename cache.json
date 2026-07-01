@@ -967,6 +967,26 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=313253",
+          "author": "Brandon Lee",
+          "description": "I am always on the lookout for new and interesting tools that allow us to manage our Proxmox servers and clusters more efficiently and overall, a little easier. I stumbled…\nThe post I Found a New Way to Manage Proxmox Without Opening the Web UI appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/07/i-found-a-new-way-to-manage-proxmox-without-opening-the-web-ui/",
+          "publishedOn": "2026-07-01T12:04:42.000Z",
+          "wordCount": null,
+          "title": "I Found a New Way to Manage Proxmox Without Opening the Web UI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=313223",
+          "author": "Brandon Lee",
+          "description": "If you are like me, for the longest time, I just assumed that Docker was very smart in the way it recovers unhealthy containers. And, to be fair, there is…\nThe post I Thought Docker Would Restart Unhealthy Containers. I Was Missing One Tool. appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/06/i-thought-docker-would-restart-unhealthy-containers-i-was-missing-one-tool/",
+          "publishedOn": "2026-06-30T11:52:06.000Z",
+          "wordCount": null,
+          "title": "I Thought Docker Would Restart Unhealthy Containers. I Was Missing One Tool.",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=313192",
           "author": "Brandon Lee",
           "description": "One of the core monitoring components of my home lab is uptime monitoring. In other words, are my apps, services, web resources, etc up and running? Is anything down? I…\nThe post The Home Lab Services I Never Stop Monitoring (And Why They Matter) appeared first on Virtualization Howto.",
@@ -1675,26 +1695,6 @@
           "wordCount": 11872,
           "title": "I Replaced Docker with Kubernetes in My Home Lab and It Wasn’t What I Expected",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/04/docker-vs-kubernetes-home-lab.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=310672",
-          "author": "Brandon Lee",
-          "description": "Lately, I have started to introduce more tooling into the home lab that utilizes S3 storage. I have already had some of this in the home lab. When I stood…\nThe post I Built My Own S3 Storage in My Home Lab (And It Actually Works) appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/04/i-built-my-own-s3-storage-in-my-home-lab-and-it-actually-works/",
-          "publishedOn": "2026-04-02T12:47:42.000Z",
-          "wordCount": null,
-          "title": "I Built My Own S3 Storage in My Home Lab (And It Actually Works)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=310637",
-          "author": "Brandon Lee",
-          "description": "Have you ever had those frustrating moments when running a home lab and you know that everything looks like it is “technically” working, but things just “feel” slow? It is…\nThe post Why Your Home Lab Feels Slow (And What I Found) appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/04/why-your-home-lab-feels-slow-and-what-i-found/",
-          "publishedOn": "2026-04-01T12:30:57.000Z",
-          "wordCount": null,
-          "title": "Why Your Home Lab Feels Slow (And What I Found)",
-          "imageUrl": null
         }
       ]
     },
@@ -1703,6 +1703,86 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=74953",
+          "author": "Collabnix Team",
+          "description": "Agentic AI is not another shiny object for GTM teams. If you treat it like a chatbot, you get chatbot results. If you embed it into workflows that influence pipeline, coverage, and revenue, then you see lift where it matters. According to BCG, companies embedding agentic AI into core workflows are already seeing measurable gains, […]",
+          "link": "https://collabnix.com/12-agentic-use-cases-for-b2b-go-to-market/",
+          "publishedOn": "2026-07-01T12:48:10.000Z",
+          "wordCount": null,
+          "title": "12 Agentic Use Cases for B2B Go To Market",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=74951",
+          "author": "Ajeet Raina",
+          "description": "⏱ Reading time: ~13 min | 🗓 Updated: June 2026 What if your AI coding assistant could search your GitHub issues, update your Linear board, query your database, browse documentation, and run code in a sandboxed environment — all within a single session, without you copy-pasting between tools? That’s exactly what the Model Context Protocol […]",
+          "link": "https://collabnix.com/claude-code-mcp-connect-your-ai-to-any-tool-with-model-context-protocol/",
+          "publishedOn": "2026-06-30T11:57:07.000Z",
+          "wordCount": null,
+          "title": "Claude Code + MCP: Connect Your AI to Any Tool with Model Context Protocol",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=74949",
+          "author": "Ajeet Raina",
+          "description": "⏱ Reading time: ~13 min | 🗓 Updated: June 2026 Every Claude Code user knows you can just type tasks in plain English. But power users know that CLAUDE.md — Claude Code’s project memory file — combined with custom slash commands and a well-tuned settings.json can transform Claude from a capable assistant into a domain […]",
+          "link": "https://collabnix.com/claude-md-mastery-custom-commands-configuration-for-claude-code-power-users/",
+          "publishedOn": "2026-06-30T11:52:17.000Z",
+          "wordCount": null,
+          "title": "CLAUDE.md Mastery: Custom Commands & Configuration for Claude Code Power Users",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=74947",
+          "author": "Ajeet Raina",
+          "description": "⏱ Reading time: ~12 min | 🗓 Updated: June 2026 One of the most powerful — and least understood — features of Claude Code is its multi-agent architecture. While most developers use Claude Code as a single AI session working through tasks sequentially, the platform supports spawning multiple subagents that work in parallel, each with […]",
+          "link": "https://collabnix.com/claude-code-multi-agent-subagents-run-parallel-ai-tasks-like-a-pro/",
+          "publishedOn": "2026-06-30T11:48:41.000Z",
+          "wordCount": null,
+          "title": "Claude Code Multi-Agent & Subagents: Run Parallel AI Tasks Like a Pro",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=74945",
+          "author": "Ajeet Raina",
+          "description": "⏱ Reading time: ~14 min | 🗓 Updated: June 2026 The AI coding tool war of 2026 is real — and the three frontrunners are Claude Code, Cursor, and GitHub Copilot. Each has passionate advocates, and each genuinely excels in different scenarios. But which one belongs in your development workflow? Google Trends data for Q2 […]",
+          "link": "https://collabnix.com/claude-code-vs-cursor-vs-github-copilot-the-ultimate-ai-coding-tool-comparison-2026/",
+          "publishedOn": "2026-06-30T11:45:00.000Z",
+          "wordCount": null,
+          "title": "Claude Code vs Cursor vs GitHub Copilot: The Ultimate AI Coding Tool Comparison 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=74943",
+          "author": "Ajeet Raina",
+          "description": "⏱ Reading time: ~13 min | 🗓 Updated: June 2026 If you’ve been using Claude Code for more than a few days, you’ve likely noticed a pattern: Claude finishes a task, you check the output, verify it manually, run a linter, run your test suite, and then move on. Now imagine all of that happening […]",
+          "link": "https://collabnix.com/mastering-claude-code-hooks-automate-your-dev-workflow-in-2026/",
+          "publishedOn": "2026-06-30T11:41:29.000Z",
+          "wordCount": null,
+          "title": "Mastering Claude Code Hooks: Automate Your Dev Workflow in 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=74940",
+          "author": "Collabnix Team",
+          "description": "The question “ChatGPT or Claude?” has become one of the most searched comparisons in AI in 2026. According to Google Trends, “ChatGPT vs Claude” saw breakout interest driven by rising queries like “chatgpt 5.5 vs claude opus 4.7,” “claude mythos” (+2,700%), and “chatgpt codex pricing.” Both ChatGPT (by OpenAI) and Claude (by Anthropic) have rapidly […]",
+          "link": "https://collabnix.com/chatgpt-vs-claude-the-complete-technical-comparison-for-developers-in-2026/",
+          "publishedOn": "2026-06-30T11:31:49.000Z",
+          "wordCount": null,
+          "title": "ChatGPT vs Claude: The Complete Technical Comparison for Developers in 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=74936",
+          "author": "Collabnix Team",
+          "description": "Claude Code has rapidly emerged as one of the most powerful AI-powered coding assistants available to developers today. Launched by Anthropic in early 2025, it peaked in search interest around April 1, 2025, and has maintained consistent global traction — particularly in China, Singapore, South Korea, Taiwan, and Israel. Related trending searches include “Claude Code […]",
+          "link": "https://collabnix.com/claude-code-the-complete-guide-and-best-practices-for-ai-powered-development-in-2026/",
+          "publishedOn": "2026-06-30T11:00:06.000Z",
+          "wordCount": null,
+          "title": "Claude Code: The Complete Guide and Best Practices for AI-Powered Development in 2026",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/building-an-ai-agent-from-scratch-with-python-a-comprehensive-guide/",
           "author": "Collabnix Team",
@@ -2802,46 +2882,6 @@
           "wordCount": null,
           "title": "Mastering Claude Code: 10 Essential Practices for Developers",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/getting-started-with-openclaw-installation-and-first-ai-agent-tutorial/",
-          "author": "Collabnix Team",
-          "description": "Explore the installation and basic agent creation with OpenClaw, the open-source AI framework designed to simplify AI agent development.",
-          "link": "https://collabnix.com/getting-started-with-openclaw-installation-and-first-ai-agent-tutorial/",
-          "publishedOn": "2026-04-03T03:33:17.000Z",
-          "wordCount": 8905,
-          "title": "Getting Started with OpenClaw: Installation and First AI Agent Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=73266",
-          "author": "Satyam Soni",
-          "description": "After struggling as a DevOps engineer with pipelines, orchestration, and scaling, I came across a simpler way to build data systems with clickhouse. Understanding the ClickHouse Learning Curve In my new role as DevOps Engineer at startup, after a month, my manager called me into a quick sync and said, “We need to set up […]",
-          "link": "https://collabnix.com/the-clickhouse-learning-curve-is-real-but-its-optional-with-moosestack/",
-          "publishedOn": "2026-04-02T07:22:32.000Z",
-          "wordCount": null,
-          "title": "The ClickHouse Learning Curve Is Real, But It’s Optional with MooseStack",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/developing-full-stack-apps-with-claude-code-a-step-by-step-guide/",
-          "author": "Collabnix Team",
-          "description": "Learn how to build a full-stack application using Claude Code. This step-by-step tutorial guides you through installation, setup, and leveraging advanced coding capabilities.",
-          "link": "https://collabnix.com/developing-full-stack-apps-with-claude-code-a-step-by-step-guide/",
-          "publishedOn": "2026-04-02T03:31:32.000Z",
-          "wordCount": null,
-          "title": "Developing Full-Stack Apps with Claude Code: A Step-by-Step Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/building-an-ai-agent-for-web-search-and-summarization-a-step-by-step-guide/",
-          "author": "Collabnix Team",
-          "description": "Learn how to build an AI agent capable of web searching and summarization by utilizing Python, NLP libraries, and Docker for scalable solutions.",
-          "link": "https://collabnix.com/building-an-ai-agent-for-web-search-and-summarization-a-step-by-step-guide/",
-          "publishedOn": "2026-04-01T18:39:40.000Z",
-          "wordCount": null,
-          "title": "Building an AI Agent for Web Search and Summarization: A Step-by-Step Guide",
-          "imageUrl": null
         }
       ]
     },
@@ -3307,16 +3347,6 @@
           "wordCount": null,
           "title": "大模型到底在干嘛",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.dreamlyn.cn/1051968573.html",
-          "author": null,
-          "description": "<h3 id=\"在ClaudeCode中输入提示词后发生了什么\"><a href=\"#在ClaudeCode中输入提示词后发生了什么\" class=\"headerlink\" title=\"在ClaudeCode中输入提示词后发生了什么\"></a>在ClaudeCode中输入提示词",
-          "link": "https://www.dreamlyn.cn/1051968573.html",
-          "publishedOn": "2026-04-03T05:02:00.000Z",
-          "wordCount": null,
-          "title": "Claude 内部提示词手册公开（精选10条）",
-          "imageUrl": null
         }
       ]
     },
@@ -3354,6 +3384,16 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=23169",
+          "author": "xiaoz",
+          "description": "各位老板好，我是xiaoz，距离上次ZNote更新已经过去3天，这次我把ZNote的安卓APP给造出来了，现在双手奉上，需要的朋友可自取哦。注意：安卓APP需要搭配ZNote服务端一起使用！如果您还不了解ZNote，可以先看下往期回顾：小而美的ZNote笔记软件 —— 支持Docker私有部署和WE",
+          "link": "https://blog.xiaoz.org/archives/23169",
+          "publishedOn": "2026-07-01T07:51:58.000Z",
+          "wordCount": null,
+          "title": "ZNote私有笔记安卓版APP来了",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=23157",
           "author": "xiaoz",
@@ -3513,16 +3553,6 @@
           "wordCount": 298,
           "title": "5分钟拥有自己的“小龙虾”：PicoClaw Docker 部署教程",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=22916",
-          "author": "xiaoz",
-          "description": "市面上多数跨平台 AI 客户端基于 Electron 开发，虽成熟但性能平平、资源占用高。最近xiaoz发现一款新的开源跨平台 AI 对话客户端 AQBot，采用 Rust + Tauri 构建，不仅资源占用极低，界面也十分友好。Github开源地址：https://github.com/AQBot",
-          "link": "https://blog.xiaoz.org/archives/22916",
-          "publishedOn": "2026-04-03T02:25:40.000Z",
-          "wordCount": 287,
-          "title": "试试这款轻量级跨平台AI对话客户端AQBot",
-          "imageUrl": null
         }
       ]
     },
@@ -3537,6 +3567,16 @@
       "feedUrl": "https://www.txisfine.cn/atom.xml",
       "siteUrl": "https://www.txisfine.cn/",
       "articles": [
+        {
+          "id": "https://www.txisfine.cn/archives/e1f7707a.html",
+          "author": null,
+          "description": "今天刚结束低压电工作业的实操考试，趁热把流程记一下，希望对后面要考的同学有点用。 关于培训 低压电工作业属于特种作业，证书由应急管理局颁发，全称「低压电工作业证」，俗称从业证。 按应急管理局特种作业考试要求，得先参加培训并通过考试，才能取证。培训机构要选有特种作业安全技术培训资质的，名单在北京市应急管理局官网上能查到： 培训一共 4 天，每天刷身份证 + 人脸识别，培训记录是后面报考的必要条件。 ...",
+          "link": "https://www.txisfine.cn/archives/e1f7707a.html",
+          "publishedOn": "2026-06-29T21:51:05.000Z",
+          "wordCount": null,
+          "title": "北京市低压电工证考试小记",
+          "imageUrl": null
+        },
         {
           "id": "https://www.txisfine.cn/archives/a78020a0.html",
           "author": null,
