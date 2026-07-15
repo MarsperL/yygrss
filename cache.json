@@ -71,16 +71,6 @@
           "wordCount": null,
           "title": "ASCO 2026 肝癌、胆道癌摘要选读",
           "imageUrl": null
-        },
-        {
-          "id": "http://whyes.org/2026/cnlc-guideline-hcc-2026",
-          "author": null,
-          "description": "",
-          "link": "http://whyes.org/2026/cnlc-guideline-hcc-2026",
-          "publishedOn": "2026-04-11T13:11:26.000Z",
-          "wordCount": null,
-          "title": "卫健委《原发性肝癌诊疗指南（2026年版）》更新要点",
-          "imageUrl": null
         }
       ]
     },
@@ -147,36 +137,6 @@
           "publishedOn": "2026-04-21T19:36:00.000Z",
           "wordCount": null,
           "title": "10,000-watt GPU meet 40-watt lump of meat",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2026/04/claude-no/",
-          "author": null,
-          "description": "The number of screenshots of Claude conversations is going up in my life and it’s beginning to have an impact on my general mood. Most of the time it’s well-intended; coworkers working through a problem with a chatbot before bothering me or someone exploring unconventional ideas before bringing it to a broader audience. Both of those situations seem considerate. A tool for thought, as it were.\nIt’s probably good practice to do your own research before you rope in another person on a cognitive task. But a small thread in the reliability of these tools-for-thought begins to unwind due to the well-documented sycophantic nature of engagement-thirsty language models. One of my favorite studies is Anthropic’s own study (2023), when asked to review an argument with I wrote this [...], the LLM gav…",
-          "link": "https://daverupert.com/2026/04/claude-no/",
-          "publishedOn": "2026-04-15T15:17:00.000Z",
-          "wordCount": null,
-          "title": "I don't want a screenshot of your Claude conversation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2026/04/more-talk-less-grok/",
-          "author": null,
-          "description": "When you make speed and “moving fast” the biggest priority on a project or in an organization, the first thing to breakdown is talking to each other. Talking takes time. Consensus is expensive and slow. In a pressurized environment there’s no time to schedule calls, get input from subject matter experts, or resolve key differences of opinion. ASAP makes a big assumption that all relevant parties are already in the room.\nNot everything needs to be a conversation. I’m a firm believer in “get the user something to see if there’s interest”. I’d agree that over-thinking a problem and under-thinking a problem both have pitfalls. But dozens of ways exist to get feedback from users on in-progress work without overcommitting to a particular design. By prioritizing speed over talking, cross-org coll…",
-          "link": "https://daverupert.com/2026/04/more-talk-less-grok/",
-          "publishedOn": "2026-04-13T15:10:00.000Z",
-          "wordCount": null,
-          "title": "When moving fast, talking is the first thing to break",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2026/04/inverted-light-dark/",
-          "author": null,
-          "description": "We rolled out adaptive light-dark() support on our design system themes and it’s been a delightful upgrade. Creating light and dark variable sets isn’t difficult, but delivery has trade-offs. Most apps that do this probably ship both sets of token values in a single stylesheet. That’s fine until you have multiple kilobytes of duplicate definitions. To get around the performance problems we built two separate stylesheets –which is also not great– but my coworker Zacky found a good trick with <link disabled> to make it tolerable. Ultimately, we wanted to offer a single stylesheet for our human (and agent) friends to control theming.\nHaving light-dark() makes it trivial to support dual color modes in a single stylesheet and doesn’t add too much weight (0.5kb gzip for ~500 variables). It also …",
-          "link": "https://daverupert.com/2026/04/inverted-light-dark/",
-          "publishedOn": "2026-04-07T15:31:00.000Z",
-          "wordCount": null,
-          "title": "Inverted themes with light-dark()",
           "imageUrl": null
         }
       ]
@@ -834,6 +794,16 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://nops.icu/archives/243/",
+          "author": "季兴",
+          "description": "最近深度使用 Claude Code，体验是真不错，但有个痛点：任务一跑十几分钟，人不可能干等着。起身倒杯水、回个消息，回来发现它早就停在\"是否允许执行 Bash\"上干等我了，白白空转半天。先是...",
+          "link": "https://nops.icu/archives/243/",
+          "publishedOn": "2026-07-14T07:27:00.000Z",
+          "wordCount": null,
+          "title": "吃灰iPhone 6再就业：给Claude Code做个红绿灯看板",
+          "imageUrl": null
+        },
+        {
           "id": "https://nops.icu/archives/242/",
           "author": "季兴",
           "description": "本文记录了在 8 卡 NVIDIA L20 服务器上部署 DeepSeek-V4-Flash 的完整过程。前半部分是可直接复制到新机器的部署步骤，后半部分是部署过程中遇到的踩坑记录与根因分析（v...",
@@ -851,26 +821,6 @@
           "publishedOn": "2026-05-22T08:54:00.000Z",
           "wordCount": null,
           "title": "AI网关LiteLLM那些事儿",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nops.icu/archives/239/",
-          "author": "季兴",
-          "description": "近期做了一系列langgraph视频，在个人视频号",
-          "link": "https://nops.icu/archives/239/",
-          "publishedOn": "2026-04-10T10:33:00.000Z",
-          "wordCount": null,
-          "title": "LangGraph创建可控agent",
-          "imageUrl": null
-        },
-        {
-          "id": "https://nops.icu/archives/236/",
-          "author": "季兴",
-          "description": "结论联机优势，跑大尺寸模型，对单个请求延迟有高要求。否则单机部署更灵活。测试项单机双机实际提升并发 3 路10.63 tok/s15.07 tok/s+42%长文本3.76 tok/s6.10 ...",
-          "link": "https://nops.icu/archives/236/",
-          "publishedOn": "2026-04-09T02:55:00.000Z",
-          "wordCount": null,
-          "title": "两台Spark“并联”真比一台好吗？",
           "imageUrl": null
         }
       ]
@@ -970,36 +920,6 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
-        {
-          "id": "https://www.virtualizationhowto.com/?p=313389",
-          "author": "Brandon Lee",
-          "description": "One of the things that sometimes gets overlooked with home labbing is that good defaults matter more than we might give them credit for. When I started building out lab…\nThe post The Home Lab Defaults I Never Skip appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/07/the-home-lab-defaults-i-never-skip/",
-          "publishedOn": "2026-07-04T12:34:47.000Z",
-          "wordCount": null,
-          "title": "The Home Lab Defaults I Never Skip",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=313349",
-          "author": "Brandon Lee",
-          "description": "There are definitely some home lab problems that are easier to diagnose. If you have a service you know about that crashes, a container that exits for some reason or…\nThe post The Weirdest Home Lab Network Problems I’ve Actually Run Into appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/07/the-weirdest-home-lab-network-problems-ive-actually-run-into/",
-          "publishedOn": "2026-07-03T12:06:43.000Z",
-          "wordCount": null,
-          "title": "The Weirdest Home Lab Network Problems I’ve Actually Run Into",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=313299",
-          "author": "Brandon Lee",
-          "description": "If you’ve followed my home lab journey over the past several years, you’ve probably noticed something interesting. My current production environment actually looks much less impressive than it used to.…\nThe post The More I Learn, the Simpler My Home Lab Becomes appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/07/the-more-i-learn-the-simpler-my-home-lab-becomes/",
-          "publishedOn": "2026-07-02T12:13:46.000Z",
-          "wordCount": null,
-          "title": "The More I Learn, the Simpler My Home Lab Becomes",
-          "imageUrl": null
-        },
         {
           "id": "https://www.virtualizationhowto.com/?p=313253",
           "author": "Brandon Lee",
@@ -1699,6 +1619,36 @@
           "wordCount": 12210,
           "title": "10 Ceph Commands I Use in My Proxmox Home Lab",
           "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/04/proxmox-ceph-commands-home-lab.png"
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=310785",
+          "author": "Brandon Lee",
+          "description": "This weekend I went down an absolute rabbit hole that I think most home labbers eventually hit when they start getting more and more into Kubernetes and that is backups.…\nThe post I Thought My Kubernetes Backups Worked in My Home Lab but I Was Wrong appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/04/i-thought-my-kubernetes-backups-worked-in-my-home-lab-but-i-was-wrong/",
+          "publishedOn": "2026-04-06T12:58:53.000Z",
+          "wordCount": null,
+          "title": "I Thought My Kubernetes Backups Worked in My Home Lab but I Was Wrong",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=310755",
+          "author": "Brandon Lee",
+          "description": "One of the assumptions that I think many make when moving to Kubernetes is that when you migrate, it is “all or nothing” from Docker. I probably thought that too…\nThe post I Still Run These Docker Containers Every Day in 2026 (After Moving to Kubernetes) appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/04/i-still-run-these-docker-containers-every-day-in-2026-after-moving-to-kubernetes/",
+          "publishedOn": "2026-04-04T13:13:45.000Z",
+          "wordCount": null,
+          "title": "I Still Run These Docker Containers Every Day in 2026 (After Moving to Kubernetes)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=310723",
+          "author": "Brandon Lee",
+          "description": "It has taken me quite a long time to get my home lab where it is today. You struggle, you learn, you struggle, and then you learn more. This is…\nThe post I Replaced Docker with Kubernetes in My Home Lab and It Wasn’t What I Expected appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/04/i-replaced-docker-with-kubernetes-in-my-home-lab-and-it-wasnt-what-i-expected/",
+          "publishedOn": "2026-04-03T13:20:34.000Z",
+          "wordCount": 11872,
+          "title": "I Replaced Docker with Kubernetes in My Home Lab and It Wasn’t What I Expected",
+          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/04/docker-vs-kubernetes-home-lab.png"
         }
       ]
     },
@@ -1707,6 +1657,146 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/kubeflow-vs-argo-workflows-choosing-the-best-ml-pipeline-tool-for-kubernetes-2/",
+          "author": "Collabnix Team",
+          "description": "Explore the strengths of Kubeflow and Argo Workflows as you decide the best tool for managing machine learning pipelines on Kubernetes.",
+          "link": "https://collabnix.com/kubeflow-vs-argo-workflows-choosing-the-best-ml-pipeline-tool-for-kubernetes-2/",
+          "publishedOn": "2026-07-15T03:43:48.000Z",
+          "wordCount": null,
+          "title": "Kubeflow vs Argo Workflows: Choosing the Best ML Pipeline Tool for Kubernetes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/small-language-models-vs-large-language-models-when-smaller-is-better-2/",
+          "author": "Collabnix Team",
+          "description": "Explore scenarios where smaller language models like GPT-2 outperform larger counterparts, providing efficiency in resource-constrained environments.",
+          "link": "https://collabnix.com/small-language-models-vs-large-language-models-when-smaller-is-better-2/",
+          "publishedOn": "2026-07-14T03:43:53.000Z",
+          "wordCount": null,
+          "title": "Small Language Models vs Large Language Models: When Smaller is Better",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/mastering-openclaw-extending-your-ai-agents-with-plugins-and-extensions/",
+          "author": "Collabnix Team",
+          "description": "Discover how to extend your AI agents with OpenClaw, leveraging plugins and extensions for flexibility and innovation in AI solutions.",
+          "link": "https://collabnix.com/mastering-openclaw-extending-your-ai-agents-with-plugins-and-extensions/",
+          "publishedOn": "2026-07-13T04:08:25.000Z",
+          "wordCount": null,
+          "title": "Mastering OpenClaw: Extending Your AI Agents with Plugins and Extensions",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/what-is-openclaw-the-open-source-ai-agent-framework-explained/",
+          "author": "Collabnix Team",
+          "description": "Explore OpenClaw, an open-source AI agent framework, and understand the broader context of AI agent development through comparisons with leading frameworks.",
+          "link": "https://collabnix.com/what-is-openclaw-the-open-source-ai-agent-framework-explained/",
+          "publishedOn": "2026-07-12T04:06:40.000Z",
+          "wordCount": null,
+          "title": "What is OpenClaw? The Open Source AI Agent Framework Explained",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=75234",
+          "author": "Ajeet Raina",
+          "description": "GLM-5.2 has become one of the most searched models on the Ollama library, and for good reason. Built by Z.ai, it’s positioned as their flagship model for what they call “long-horizon tasks”: large, multi-step engineering work that unfolds over hours rather than minutes. In this tutorial, we’ll walk through what makes GLM-5.2 different, and how […]",
+          "link": "https://collabnix.com/getting-started-with-glm-5-2-on-ollama-a-complete-tutorial/",
+          "publishedOn": "2026-07-11T15:28:55.000Z",
+          "wordCount": null,
+          "title": "Getting Started with GLM-5.2 on Ollama: A Complete Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/lovable-dev-deep-dive-an-honest-review-of-the-ai-powered-development-platform/",
+          "author": "Collabnix Team",
+          "description": "Explore Lovable.dev, an AI-powered platform revolutionizing full-stack web app development. Understand its features, technologies, and how it simplifies the creation process.",
+          "link": "https://collabnix.com/lovable-dev-deep-dive-an-honest-review-of-the-ai-powered-development-platform/",
+          "publishedOn": "2026-07-11T03:51:05.000Z",
+          "wordCount": null,
+          "title": "Lovable.dev Deep Dive: An Honest Review of the AI-Powered Development Platform",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/rag-vs-fine-tuning-decision-making-for-your-ai-application/",
+          "author": "Collabnix Team",
+          "description": "Explore the choice between fine-tuning and RAG for AI applications, focusing on customer support systems. Learn about their setups, advantages, and best-use scenarios.",
+          "link": "https://collabnix.com/rag-vs-fine-tuning-decision-making-for-your-ai-application/",
+          "publishedOn": "2026-07-10T04:31:32.000Z",
+          "wordCount": null,
+          "title": "RAG vs Fine-Tuning: Decision-Making for Your AI Application",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/openclaw-architecture-deep-dive-how-it-works-under-the-hood-2/",
+          "author": "Collabnix Team",
+          "description": "Explore the architecture of OpenClaw, a new open-source AI agent framework, and its foundational concepts in AI development.",
+          "link": "https://collabnix.com/openclaw-architecture-deep-dive-how-it-works-under-the-hood-2/",
+          "publishedOn": "2026-07-09T04:28:47.000Z",
+          "wordCount": null,
+          "title": "OpenClaw Architecture Deep Dive: How It Works Under the Hood",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/how-ai-agents-like-claude-code-leverage-model-context-protocol-mcp/",
+          "author": "Collabnix Team",
+          "description": "Explore how Model Context Protocol (MCP) empowers AI coding tools like Claude Code to enhance productivity and accuracy by providing context-aware code understanding and edits.",
+          "link": "https://collabnix.com/how-ai-agents-like-claude-code-leverage-model-context-protocol-mcp/",
+          "publishedOn": "2026-07-08T03:53:31.000Z",
+          "wordCount": null,
+          "title": "How AI Agents Like Claude Code Leverage Model Context Protocol (MCP)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/enhancing-ai-agent-security-implementing-guardrails-against-prompt-injection-2/",
+          "author": "Collabnix Team",
+          "description": "Explore how to enhance AI agent security with guardrails against prompt injection attacks, ensuring robust and secure AI deployments.",
+          "link": "https://collabnix.com/enhancing-ai-agent-security-implementing-guardrails-against-prompt-injection-2/",
+          "publishedOn": "2026-07-07T04:31:24.000Z",
+          "wordCount": null,
+          "title": "Enhancing AI Agent Security: Implementing Guardrails Against Prompt Injection",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=75105",
+          "author": "Collabnix Team",
+          "description": "Gateway API’s Inference Extension was one of the standout topics at recent KubeCon events, tackling a very specific pain point: generic HTTP load balancing algorithms are a poor fit for LLM traffic, where request cost varies wildly and a single long-running generation can pin a backend for seconds. This tutorial sets up the Inference Extension […]",
+          "link": "https://collabnix.com/gateway-api-inference-extension-smart-llm-traffic-routing-on-kubernetes/",
+          "publishedOn": "2026-07-06T07:54:54.000Z",
+          "wordCount": null,
+          "title": "Gateway API Inference Extension: Smart LLM Traffic Routing on Kubernetes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=75102",
+          "author": "Collabnix Team",
+          "description": "Serving large language models efficiently is one of the dominant themes at recent KubeCon and CloudNativeCon events, and the NVIDIA GPU Operator has become the de-facto way to make GPUs first-class, schedulable resources inside Kubernetes. This tutorial walks through installing the operator and deploying a real LLM inference workload on top of it. What the […]",
+          "link": "https://collabnix.com/deploying-llm-inference-on-kubernetes-with-the-nvidia-gpu-operator-a-step-by-step-tutorial/",
+          "publishedOn": "2026-07-06T07:49:54.000Z",
+          "wordCount": null,
+          "title": "Deploying LLM Inference on Kubernetes with the NVIDIA GPU Operator: A Step-by-Step Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=75099",
+          "author": "Collabnix Team",
+          "description": "The Model Context Protocol (MCP) has quickly become one of the most talked-about topics at recent CNCF and KubeCon hallway tracks. It gives AI assistants a standard way to call tools and read live data, and Kubernetes is a perfect target: instead of copy-pasting kubectl output into a chat window, you can let an AI […]",
+          "link": "https://collabnix.com/mcp-kubernetes-a-step-by-step-tutorial-on-connecting-ai-agents-to-your-cluster/",
+          "publishedOn": "2026-07-06T07:45:24.000Z",
+          "wordCount": null,
+          "title": "MCP + Kubernetes: A Step-by-Step Tutorial on Connecting AI Agents to Your Cluster",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/state-of-ai-agents-in-2025-market-trends-frameworks-and-predictions/",
+          "author": "Collabnix Team",
+          "description": "Explore the state of AI agents in 2025, covering the latest market trends, powerful frameworks, and future predictions shaping this transformative technology.",
+          "link": "https://collabnix.com/state-of-ai-agents-in-2025-market-trends-frameworks-and-predictions/",
+          "publishedOn": "2026-07-06T04:49:33.000Z",
+          "wordCount": null,
+          "title": "State of AI Agents in 2025: Market Trends, Frameworks, and Predictions",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/?p=75095",
           "author": "Collabnix Team",
@@ -2906,116 +2996,6 @@
           "wordCount": null,
           "title": "Importance of Residential Proxies in Modern Internet Use",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/openclaw-vs-autogen-comparing-open-source-ai-agent-frameworks-2/",
-          "author": "Collabnix Team",
-          "description": "Explore a comparative analysis of OpenClaw and AutoGen, two open-source AI agent frameworks, to understand their features, capabilities, and use cases.",
-          "link": "https://collabnix.com/openclaw-vs-autogen-comparing-open-source-ai-agent-frameworks-2/",
-          "publishedOn": "2026-04-17T03:51:25.000Z",
-          "wordCount": null,
-          "title": "OpenClaw vs AutoGen: Comparing Open Source AI Agent Frameworks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/openclaw-vs-autogen-comparing-open-source-ai-agent-frameworks/",
-          "author": "Collabnix Team",
-          "description": "Explore a comparative analysis of OpenClaw and AutoGen, two open-source AI agent frameworks, to understand their features, capabilities, and use cases.",
-          "link": "https://collabnix.com/openclaw-vs-autogen-comparing-open-source-ai-agent-frameworks/",
-          "publishedOn": "2026-04-17T03:50:53.000Z",
-          "wordCount": null,
-          "title": "OpenClaw vs AutoGen: Comparing Open Source AI Agent Frameworks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/quick-start-guide-to-setting-up-a-local-kubernetes-cluster-with-kind/",
-          "author": "Collabnix Team",
-          "description": "Learn to set up a local Kubernetes cluster using Kind with this comprehensive guide. Perfect for developers looking to emulate production environments locally.",
-          "link": "https://collabnix.com/quick-start-guide-to-setting-up-a-local-kubernetes-cluster-with-kind/",
-          "publishedOn": "2026-04-16T03:52:44.000Z",
-          "wordCount": null,
-          "title": "Quick Start Guide to Setting Up a Local Kubernetes Cluster with Kind",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/mastering-rag-chatbot-development-with-langchain-and-chromadb/",
-          "author": "Collabnix Team",
-          "description": "Learn how to build a powerful RAG chatbot using LangChain and ChromaDB with this in-depth Python tutorial. Discover the intricacies of integrating sophisticated AI models with scalable vector databases to create a responsive and intelligent chatbot.",
-          "link": "https://collabnix.com/mastering-rag-chatbot-development-with-langchain-and-chromadb/",
-          "publishedOn": "2026-04-15T07:51:04.000Z",
-          "wordCount": null,
-          "title": "Mastering RAG Chatbot Development with LangChain and ChromaDB",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/develop-ai-agents-using-function-calling-with-openai-and-claude/",
-          "author": "Collabnix Team",
-          "description": "Learn how to effectively use function calling to build AI agents with OpenAI and Claude, ensuring scalable and efficient applications.",
-          "link": "https://collabnix.com/develop-ai-agents-using-function-calling-with-openai-and-claude/",
-          "publishedOn": "2026-04-15T03:53:23.000Z",
-          "wordCount": null,
-          "title": "Develop AI Agents Using Function Calling with OpenAI and Claude",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=73340",
-          "author": "Ajeet Raina",
-          "description": "I’ve been running AI coding agents for a while now. Claude Code on my MacBook, pointed at a project directory, autonomously editing files, running tests, pushing commits. It’s genuinely useful — the kind of useful that makes you wonder how you shipped code without it. But a few months ago I started asking myself a […]",
-          "link": "https://collabnix.com/how-autonomous-ai-agents-become-secure-by-design-with-docker-sandboxes/",
-          "publishedOn": "2026-04-15T03:10:57.000Z",
-          "wordCount": null,
-          "title": "How Autonomous AI Agents Become Secure by Design With Docker Sandboxes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=73336",
-          "author": "Tanvir Kour",
-          "description": "What You’ll Learn As enterprises adopt AI agents, not just standalone generative AI tools, the security problem shifts with them. Unlike traditional GenAI systems that primarily generate responses, AI agents can call tools, access internal data, and take actions across cloud and SaaS environments. This shift is giving rise to a new category: AI agent […]",
-          "link": "https://collabnix.com/why-ai-agent-orchestration-security-is-the-new-cloud-attack-surface/",
-          "publishedOn": "2026-04-14T17:14:14.000Z",
-          "wordCount": null,
-          "title": "Why AI Agent Orchestration Security Is the New Cloud Attack Surface",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=73333",
-          "author": "Tanvir Kour",
-          "description": "What are the best external storage and data management solutions for Apple devices? Check out SSD and HDD recommendations and performance insights in this guide.",
-          "link": "https://collabnix.com/external-storage-solutions-and-data-management-for-apple-devices/",
-          "publishedOn": "2026-04-14T16:02:19.000Z",
-          "wordCount": null,
-          "title": "External Storage Solutions and Data Management for Apple Devices",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=73329",
-          "author": "Tanvir Kour",
-          "description": "Dealing with third-party risk is no longer confined to annual reviews, vendor questionnaires, and procurement checklists. Most organizations now depend on a wider, ever-evolving network of SaaS providers, microservices (AI-powered and otherwise), cloud platforms, contractors, APIs, managed service providers, and partner-connected systems. Each relationship can add new internet-facing assets, inherited dependencies, and indirect paths […]",
-          "link": "https://collabnix.com/why-attack-surface-management-is-becoming-essential-for-managing-third-party-risk/",
-          "publishedOn": "2026-04-12T14:54:52.000Z",
-          "wordCount": null,
-          "title": "Why Attack Surface Management Is Becoming Essential for Managing Third-Party Risk",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=73322",
-          "author": "Tanvir Kour",
-          "description": "Artificial Intelligence, or AI, has become a popular tool for creating presentations. People prefer it because it saves time and makes the process easier. AI can help you brainstorm ideas, create slides, suggest images, and even write your script. When using an AI presentation generator, you do not have to start from scratch. Instead, you […]",
-          "link": "https://collabnix.com/15-mistakes-to-avoid-when-using-ai-for-presentations/",
-          "publishedOn": "2026-04-10T05:40:42.000Z",
-          "wordCount": null,
-          "title": "15 Mistakes to Avoid When Using AI for Presentations",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=73311",
-          "author": "Simran Agarwal",
-          "description": "If you work in DevOps, cloud‑native, or open‑source infrastructure, drones might seem far from your day‑to‑day Kubernetes clusters and CI pipelines. But in 2026, modern drones look a lot like distributed systems with rotors: they run open‑source stacks, talk to ROS 2, stream telemetry to the cloud, and depend on the same observability, security, and […]",
-          "link": "https://collabnix.com/why-cloud-native-developers-should-care-about-drone-expo-2026-in-bengaluru/",
-          "publishedOn": "2026-04-09T06:33:52.000Z",
-          "wordCount": null,
-          "title": "Why Cloud Native Developers Should Attend Drone Expo 2026",
-          "imageUrl": null
         }
       ]
     },
@@ -3114,6 +3094,16 @@
       "feedUrl": "https://www.skyue.com/feed/",
       "siteUrl": "https://www.skyue.com/",
       "articles": [
+        {
+          "id": "https://www.skyue.com/26071218.html",
+          "author": "拾月",
+          "description": "在《装修日记（4）》中预告过7月搬家，本周五正式搬入未名府新家，周末收拾了两天。从上周末开始，就在紫樾府陆陆续续打包行李，在这里住了一年，东西还真不少。找蓝犀牛搬家，约了最大的厢货。",
+          "link": "https://www.skyue.com/26071218.html",
+          "publishedOn": "2026-07-12T10:36:00.000Z",
+          "wordCount": null,
+          "title": "搬家",
+          "imageUrl": null
+        },
         {
           "id": "https://www.skyue.com/26062821.html",
           "author": "拾月",
@@ -3223,16 +3213,6 @@
           "wordCount": null,
           "title": "草莓百日宴",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.skyue.com/26041216.html",
-          "author": "拾月",
-          "description": "上一篇我分享了「一周换三个育儿嫂」的混乱经历，而这段经历的结局，是第三个育儿嫂也于3月29日悻然离场。",
-          "link": "https://www.skyue.com/26041216.html",
-          "publishedOn": "2026-04-12T08:39:00.000Z",
-          "wordCount": null,
-          "title": "春天",
-          "imageUrl": null
         }
       ]
     },
@@ -3243,7 +3223,7 @@
       "articles": [
         {
           "id": "https://bluehe.cn/archives/2026-diary",
-          "author": "云心怀鹤",
+          "author": "寻鹤",
           "description": "畅游阁\n抖音刷到畅游阁终于开放了，这不周末就出去看了，可以乘坐电梯直达顶层，电梯很迷小较小，阁楼外视野开阔，可以看到很多爱好者在邕江玩桨板，但是最近频繁上热搜，路过来来往往的船，部分人游出安全水域，接近航道，很危险。\n\n\n\n聚餐\n这家南宁连锁的烧烤店，很好...",
           "link": "https://bluehe.cn/archives/2026-diary",
           "publishedOn": "2026-07-04T11:32:00.000Z",
@@ -3258,7 +3238,7 @@
         },
         {
           "id": "https://bluehe.cn/archives/snapshot_backup",
-          "author": "云心怀鹤",
+          "author": "寻鹤",
           "description": "我在使用的是腾讯云轻量应用服务器，免费快照额度只有2个，每一次都是手动删除旧快照再创建新快照实在太麻烦，问了客服也没有直接设置的功能，但好在提供了API接口来实现。\n所以当前使用了1Panel面板的计划任务和腾讯云API来实现：自动识别并删除旧的自动快照，...",
           "link": "https://bluehe.cn/archives/snapshot_backup",
           "publishedOn": "2026-07-04T06:10:00.000Z",
@@ -3330,21 +3310,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bluehe.cn/usr/uploads/2026/04/CRnall_20260418_163026273.webp"
-        },
-        {
-          "id": "https://bluehe.cn/archives/spring-festival-2026",
-          "author": "云心怀鹤",
-          "description": "自从忙起来后，更新速度直线下降，希望能在五一前，把库存都清空了。\n\n调休后我于2月15日就回到了镇上，父亲来接我，先带去我拜神的地方换一把锁，功德箱这里不久前被人砸开了，这几年都很流行修缮，以前就是在树木后面，没有明显的特点，现在砍掉空地，铺上上水泥，干净...",
-          "link": "https://bluehe.cn/archives/spring-festival-2026",
-          "publishedOn": "2026-04-12T14:25:00.000Z",
-          "wordCount": null,
-          "title": "2026 春节叙事",
-          "enclosure": {
-            "url": "https://bluehe.cn/usr/uploads/2026/04/CRnall_20260220_103555292.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bluehe.cn/usr/uploads/2026/04/CRnall_20260220_103555292.webp"
         }
       ]
     },
@@ -3353,6 +3318,16 @@
       "feedUrl": "https://blognas.hwb0307.com/feed",
       "siteUrl": "https://blognas.hwb0307.com/",
       "articles": [
+        {
+          "id": "https://blognas.hwb0307.com/other/7085",
+          "author": "Bensz",
+          "description": "Bensz\nGPT-5.6系列模型的社区反馈、基准表现和使用建议\n本博客由科研AI Agent实验室BenszResearch强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 这次升级最实用的变化，不是多了一个“最强模型”，而是终于有了三档可选：Sol 攻坚、Terra 干日常活、Luna 跑可验证的批量任务。 Sol 在终端、代理式编码、网页浏览和电脑操作上确有亮点；但代码基准之间的排序并不一致，暂时还不能简单喊“全面领先”。 Terra 的 API 单价只有 Sol 一半，几项代理测试却咬得很紧。对多数开发者，它可能比旗舰更值得先上手。 105 万 token 是能塞进去的容量，不等于每个细节都能稳定找回；单次输入跨过 27.2 万 token，还会踩到价格台阶。 首发三日的结论很朴素：别急着全切 Sol Ultra。按任务难度 […]\nBensz",
+          "link": "https://blognas.hwb0307.com/other/7085",
+          "publishedOn": "2026-07-12T11:42:26.000Z",
+          "wordCount": null,
+          "title": "GPT-5.6系列模型的社区反馈、基准表现和使用建议",
+          "imageUrl": null
+        },
         {
           "id": "https://blognas.hwb0307.com/other/7075",
           "author": "Bensz",
@@ -3449,16 +3424,6 @@
           "wordCount": null,
           "title": "乐至宝单椅木马",
           "imageUrl": null
-        },
-        {
-          "id": "https://4311346.com/post/2026/0413-bppv.html",
-          "author": null,
-          "description": "04月09日（周四）武汉暴雨，中午吃过午餐后在会议室和同事掰扯了几十分钟后回到办公室，座在沙发上准备给同事交代3个事项，第1条说了一半之后开始一阵晕眩（不是头疼）。还没给同事交代完第3项，就忍不住冲到楼梯间开始呕吐。\n当日午餐瞬间全部吐完，至少吐了5-6次之后，实在是再吐不出来啥了，但只要进到办公室深处，就犯恶心… 看来是真的不想上班。\n随后请假去了医院看急症，血压正常、血液正常、脑CT等一切正常，但还是持续的连续性晕眩。\n医生给开了点防晕眩的药物后，回家休息~如果3天后还晕眩不止，再去耳鼻喉科看… 说是有耳石症的怀疑\n次日居然还能保持平衡，以70km+的时速骑小牛上下班…\n当然~ 今日已基本没在有晕眩的感觉了… 不知道是否是恢复了。\n回忆事发过程\n\n活了40年了从来没有这么的晕眩过… 这次算是体验到了，估计出海跑船一年几十万的活以后是干不了…\n我也不相信自己会得什么耳石症… 听说恢复期很长，而且超级难受，还容易复发。\n虽然次日至今都没再有晕眩的感觉，但自己认为大概率可能是颈椎相关疾病，这半年来倒头睡沙发的次数越来越多，虽然平躺在沙发上也是比较舒服的，但不排除有时候在沙发贵妃位上坐着睡着了，然后慢慢的竖着滑下，导致颈部受力特别严重，几次醒来后，扭头都受限。\n– 关于 耳石症 – 希望不是自己\n耳石症在医学上称为良性阵发性位置性眩晕（BPPV），是最常见的眩晕病因。它本质上不是“耳结石”或耳朵里有石头，而是内耳中负责人体平衡的微小碳酸钙结晶（耳石）脱落，掉入了敏感的半规管中。\n当自己转头、翻身或抬头时，这些脱落的耳石会像玻璃珠一样滚动，刺激平衡神经，从而引发剧烈的短暂眩晕。\n\n\n\n\n不知道后续会怎么样~\n但在这次莫名其妙的晕眩+呕吐之前，保命要紧，早已下单 乐至宝单人沙发…\n武汉乐至宝45天-60天的送货周期，有点要命！！！",
-          "link": "https://4311346.com/post/2026/0413-bppv.html",
-          "publishedOn": "2026-04-12T17:18:03.000Z",
-          "wordCount": null,
-          "title": "莫名其妙的晕眩+呕吐，难道是耳石症？",
-          "imageUrl": null
         }
       ]
     },
@@ -3468,26 +3433,6 @@
       "siteUrl": "https://www.domon.cn/",
       "articles": [
         {
-          "id": "6a486cc7014a770001866a90",
-          "author": "Domon",
-          "description": "任何新奇的信息——出乎意料的新闻故事，或者猫咪做出不可思议行为的短视频——都会引发多巴胺分泌。这在短期内可能让你感觉良好，但随着时间的推移，你可能会沉迷于此，并因此降低智商。",
-          "link": "https://www.domon.cn/2026-6yue-yue-du-shu-zhai/",
-          "publishedOn": "2026-07-04T02:17:23.000Z",
-          "wordCount": null,
-          "title": "2026年6月阅读书摘",
-          "imageUrl": null
-        },
-        {
-          "id": "6a486b07014a770001866a75",
-          "author": "Domon",
-          "description": "选择简单模式，人生会越来越困难；选择困难模式，人生会越来越简单。",
-          "link": "https://www.domon.cn/2026-5yue-yue-du-shu-zhai/",
-          "publishedOn": "2026-07-04T02:12:28.000Z",
-          "wordCount": null,
-          "title": "2026年5月阅读书摘",
-          "imageUrl": null
-        },
-        {
           "id": "69f9ba9b014a770001866a58",
           "author": "Domon",
           "description": "亲爱的威廉，对于人们心中那种想要自我扩张，想要发现新鲜事物，想要四处走走、见见世面的欲望，我曾经考虑得很多很多；后来，对于他们的逆来顺受，循规蹈矩，对周围任何事情都漠不关心的本能，我又作了种种思索。",
@@ -3496,6 +3441,16 @@
           "wordCount": null,
           "title": "2026年4月阅读书摘",
           "imageUrl": null
+        },
+        {
+          "id": "69d32641014a770001866a36",
+          "author": "Domon",
+          "description": "时代就在身边，很多时候，我们对此会毫无感知，觉得一切都是理所当然。",
+          "link": "https://www.domon.cn/2026-3yue-yue-du-shu-zhai/",
+          "publishedOn": "2026-04-06T03:22:24.000Z",
+          "wordCount": null,
+          "title": "2026年3月阅读书摘",
+          "imageUrl": null
         }
       ]
     },
@@ -3503,7 +3458,108 @@
       "title": "杜老师说",
       "feedUrl": "https://dusays.com/atom.xml",
       "siteUrl": "https://dusays.com/",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://dusays.com/archives/872/",
+          "author": null,
+          "description": "<blockquote>\n<p>杜老师前几个月有一次出差正好赶上下雨，从酒店门口走到网约车上短短 5 分钟，整个包都湿透了。后来杜老师专门整理了一份”雨天出差必备”，今天就跟大家分享一下。</p>\n</blockquote>",
+          "link": "https://dusays.com/archives/872/",
+          "publishedOn": "2026-06-12T16:00:00.000Z",
+          "wordCount": null,
+          "title": "雨天出差的 3 件必备",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dusays.com/archives/871/",
+          "author": null,
+          "description": "<blockquote>\n<p>杜老师以前桌面零食是随手放，吃的时候一通翻。后来摸索出一套”零食分区”的方法，整整一年没再为找零食浪费时间。今天杜老师就把自己用了 1 年的 2 个分区分享给大家。</p>\n</blockquote>",
+          "link": "https://dusays.com/archives/871/",
+          "publishedOn": "2026-06-06T16:00:00.000Z",
+          "wordCount": null,
+          "title": "桌面零食收纳的 2 个分区",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dusays.com/archives/870/",
+          "author": null,
+          "description": "<blockquote>\n<p>杜老师前几年经常需要给同事、客户做演示，踩过几次坑后，摸索出一套”演示前一晚”的检查清单。今天杜老师就把自己用了 2 年的 2 个清单分享给大家。</p>\n</blockquote>",
+          "link": "https://dusays.com/archives/870/",
+          "publishedOn": "2026-05-31T16:00:00.000Z",
+          "wordCount": null,
+          "title": "演示前一晚的 2 个检查清单",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dusays.com/archives/869/",
+          "author": null,
+          "description": "<blockquote>\n<p>杜老师参加过几次技术培训，最早一次听 PPT 是死盯屏幕，结果一节课下来什么都没记住。后来杜老师摸索出一套”听完 PPT”的方法，今天跟大家分享一下。</p>\n</blockquote>",
+          "link": "https://dusays.com/archives/869/",
+          "publishedOn": "2026-05-25T16:00:00.000Z",
+          "wordCount": null,
+          "title": "培训讲师的 PPT 怎么\"听完\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dusays.com/archives/868/",
+          "author": null,
+          "description": "<blockquote>\n<p>杜老师经常出差，住过几十家酒店。酒店插座这件事看着不起眼，但用不好挺耽误事的。今天杜老师就把自己这两年总结出来的 3 个用法分享给大家。</p>\n</blockquote>",
+          "link": "https://dusays.com/archives/868/",
+          "publishedOn": "2026-05-19T16:00:00.000Z",
+          "wordCount": null,
+          "title": "出差住酒店插座的 3 个用法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dusays.com/archives/867/",
+          "author": null,
+          "description": "<blockquote>\n<p>杜老师参加过几次技术培训，最早一次是全抄命令，抄完基本记不住。后来改成”只记关键字”，反而效果好得多。今天杜老师就把这个方法分享给大家。</p>\n</blockquote>",
+          "link": "https://dusays.com/archives/867/",
+          "publishedOn": "2026-05-13T16:00:00.000Z",
+          "wordCount": null,
+          "title": "培训笔记只记关键字的 3 个好处",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dusays.com/archives/866/",
+          "author": null,
+          "description": "<blockquote>\n<p>杜老师最近养成了一个习惯：下班通勤的最后 10 分钟，不再骑完，而是推着车走完。听起来挺奇怪，但这几个月下来，杜老师自己感觉整个人的状态明显好了。今天就跟大家讲讲这个事。</p>\n</blockquote>",
+          "link": "https://dusays.com/archives/866/",
+          "publishedOn": "2026-05-07T16:00:00.000Z",
+          "wordCount": null,
+          "title": "通勤最后 10 分钟的\"减速\"技巧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dusays.com/archives/865/",
+          "author": null,
+          "description": "<blockquote>\n<p>杜老师跟伴侣经常一起吃外卖，磨合了一年多，慢慢形成了一些小默契。今天杜老师就把自己觉得特别管用的 2 个分享给大家。</p>\n</blockquote>",
+          "link": "https://dusays.com/archives/865/",
+          "publishedOn": "2026-05-01T16:00:00.000Z",
+          "wordCount": null,
+          "title": "两人吃外卖的 2 个小默契",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dusays.com/archives/864/",
+          "author": null,
+          "description": "<blockquote>\n<p>杜老师以前深夜吃夜宵的频率挺高的，泡面、辣条、肉干样样都来。最近一段时间杜老师调整了一下，发现只要方法对，节制夜宵并不是什么难事。今天杜老师就把自己用过的 3 个技巧分享给大家。</p>\n</blockquote>",
+          "link": "https://dusays.com/archives/864/",
+          "publishedOn": "2026-04-25T16:00:00.000Z",
+          "wordCount": null,
+          "title": "深夜吃夜宵的 3 个节制技巧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dusays.com/archives/863/",
+          "author": null,
+          "description": "<blockquote>\n<p>杜老师家里有一只橘白相间的猫，平时最爱跳上书桌”监工”。一开始杜老师挺困扰的，后来摸索出一套应对方案，今天就跟大家分享一下。</p>\n</blockquote>",
+          "link": "https://dusays.com/archives/863/",
+          "publishedOn": "2026-04-19T16:00:00.000Z",
+          "wordCount": null,
+          "title": "橘猫经常跳上书桌的 3 个应对",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "Linux运维笔记",
@@ -3521,18 +3577,7 @@
       "title": "牧尘的NAS小站",
       "feedUrl": "https://www.dreamlyn.cn/atom.xml",
       "siteUrl": "https://www.dreamlyn.cn/atom.xml",
-      "articles": [
-        {
-          "id": "https://www.dreamlyn.cn/2436918477.html",
-          "author": null,
-          "description": "<blockquote>\n<p><strong>本周，谷歌官方推出了一款苹果手机 App，为手机提供离线使用的 Gemma 4 模型。不需要上网，手机也能使用大模型了。</strong></p>\n</blockquote>\n<!-- 这是一张图片，ocr 内容为： -->\n<im",
-          "link": "https://www.dreamlyn.cn/2436918477.html",
-          "publishedOn": "2026-04-10T06:02:00.000Z",
-          "wordCount": null,
-          "title": "大模型到底在干嘛",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Pandalab",
@@ -3568,6 +3613,36 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=23207",
+          "author": "xiaoz",
+          "description": "Starryblu是WoTransfer Pte. Ltd.旗下的一款全球支付App，与熊猫速汇同属一个产品生态——不同的是，熊猫速汇专注国际汇款，而Starryblu更侧重全球账户管理与多币种支付。通过一个账户，用户可以管理多种货币、完成换汇与跨境转账，并支持申请虚拟卡或实体借记卡，满足海外消费、",
+          "link": "https://blog.xiaoz.org/archives/23207",
+          "publishedOn": "2026-07-10T03:36:43.000Z",
+          "wordCount": null,
+          "title": "全球多币种账户 + 海外实体借记卡，Starryblu开户教程与注意事项",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaoz.org/?p=23187",
+          "author": "xiaoz",
+          "description": "不知道大家有有没有遇到这样一个问题，就是在看海外动作电影的时候没有字幕，效果大打折扣，不过最近xiaoz发现一款宝藏开源软件Caption-Trans，它可以使用 AI 大模型翻译视频字幕，特别为日语优化（作者介绍），至于具体场景，你就自己想象吧。两年前市面上已有类似工具，不过多数需要付费订阅。Ca",
+          "link": "https://blog.xiaoz.org/archives/23187",
+          "publishedOn": "2026-07-09T01:55:39.000Z",
+          "wordCount": null,
+          "title": "JP动作电影无字幕？Caption-Trans + AI 大模型帮你实现字幕自由",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaoz.org/?p=23176",
+          "author": "xiaoz",
+          "description": "各位老板好，我是xiaoz，几天又过去了，这几天我一刻没闲着，每天都在疯狂迭代ZNote私有笔记，现在给老板汇报下最新支持的AI 检索问答功能。ZNote开源地址：https://github.com/helloxz/znote什么是 AI 检索问答？简单来说，和传统AI对话不同的是，ZNote的A",
+          "link": "https://blog.xiaoz.org/archives/23176",
+          "publishedOn": "2026-07-06T07:09:21.000Z",
+          "wordCount": null,
+          "title": "ZNote私有笔记已支持 AI 检索问答，可轻松搭建自己的智能知识库",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=23169",
           "author": "xiaoz",
@@ -3742,6 +3817,16 @@
       "siteUrl": "https://www.txisfine.cn/",
       "articles": [
         {
+          "id": "https://www.txisfine.cn/archives/1dbed3d0.html",
+          "author": null,
+          "description": "缘由 我接到中国电信的通报，说我的网站存在安全问题，需要立即处理。我第一反应是网站可能被攻击或者被植入了异常内容。随后我向运营商索要了更详细的信息。 通过运营商反馈的问题域名。让我有些疑惑。这个域名和网站内容并没有解析、部署在电信的服务器上，而是使用腾讯云的 EdgeOne 和 COS 托管的静态内容。讲道理应该是腾讯云找我处理，但是现在反而是运营商先联系了我。 不过，既然已经发现问题，最重要的还...",
+          "link": "https://www.txisfine.cn/archives/1dbed3d0.html",
+          "publishedOn": "2026-07-11T22:00:55.000Z",
+          "wordCount": null,
+          "title": "记一次网络安全通报处理以及后续整改",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.txisfine.cn/archives/e1f7707a.html",
           "author": null,
           "description": "今天刚结束低压电工作业的实操考试，趁热把流程记一下，希望对后面要考的同学有点用。 关于培训 低压电工作业属于特种作业，证书由应急管理局颁发，全称「低压电工作业证」，俗称从业证。 按应急管理局特种作业考试要求，得先参加培训并通过考试，才能取证。培训机构要选有特种作业安全技术培训资质的，名单在北京市应急管理局官网上能查到： 培训一共 4 天，每天刷身份证 + 人脸识别，培训记录是后面报考的必要条件。 ...",
@@ -3759,16 +3844,6 @@
           "publishedOn": "2026-05-28T22:15:58.000Z",
           "wordCount": null,
           "title": "纯Vibe零代码：一个纯前端证件照修改器的设计与实现",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.txisfine.cn/archives/f29df958.html",
-          "author": null,
-          "description": "差生文具多，最近买了一个挺有意思的小设备，上海信测的 OTDR 云盒。 家里从运营商扩容箱里拉了一根光缆，也就不到 100m 吧，运营商测光是 11dBm，过光缆（入户侧）测光变成了 25dBm，光缆双端都是热熔的没啥问题啊，到底是哪里折了？ 于是这个赛博 OTDR 就来了，一个巴掌大的盒子，配合手机 App，不仅具备 OTDR 功能，还可以做光功率测试、打红光源、光万用表、损耗测试、光猫资源清查...",
-          "link": "https://www.txisfine.cn/archives/f29df958.html",
-          "publishedOn": "2026-04-14T17:57:15.000Z",
-          "wordCount": null,
-          "title": "搞了一台赛博 OTDR —— 上海信测 OTDR云盒",
           "imageUrl": null
         }
       ]
@@ -3862,16 +3937,6 @@
           "wordCount": null,
           "title": "龙芯折腾适配笔记",
           "imageUrl": null
-        },
-        {
-          "id": "http://zhangguanzhang.github.io/2026/04/09/openeuler-sudo-killed/",
-          "author": null,
-          "description": "<p>记录下一次欧拉容器内sudo无法使用的排查过程。</p>",
-          "link": "http://zhangguanzhang.github.io/2026/04/09/openeuler-sudo-killed/",
-          "publishedOn": "2026-04-09T09:10:30.000Z",
-          "wordCount": null,
-          "title": "欧拉22.04容器内sudo 被 killed",
-          "imageUrl": null
         }
       ]
     },
@@ -3906,6 +3971,16 @@
           "publishedOn": "2026-05-18T22:27:00.000Z",
           "wordCount": null,
           "title": "Free EV Load Manager for Eligible Connecticut Homeowners",
+          "imageUrl": null
+        },
+        {
+          "id": "articles/hgg674",
+          "author": null,
+          "description": "Always fun to catch up with Jim! Here's his podcast announcement with extensive show notes:\n\n\nPosted on Sat March 14, 2026 by Jim Collison\nThanks for listening!\nSUBSCRIBE\nShownotes Links\nGeothermal vs Air Source Heat Pump: Which is Worth It? – Featured on Undecided with Matt Ferrell (Feb 24, 2026). Side-by-side comparison of Matt’s geothermal system and Paul’s air source heat pumps across two all-electric homes.\nHeat Pump Comparison & Paul Braren Interview – Featured on Still TBD Podcast (Mar 4, 2026). Extended interview diving deeper into the real-world tradeoffs between ground source and air source heat pumps in cold climates.\n\nTinkerTry’s 2025 Home Tech Refresh\nInsights That’ll Help You and Your Contractor Plan for Comfort\nSolar Roof vs Solar Panels: Which is Worth It? - TinkerTry's hom…",
+          "link": "https://tinkertry.com/articles/hgg674",
+          "publishedOn": "2026-03-17T22:41:00.000Z",
+          "wordCount": null,
+          "title": "Upgrading an Older Home: Heat Pumps, Air Sealing and Smart Energy with Paul Braren",
           "imageUrl": null
         }
       ]
@@ -3946,6 +4021,126 @@
       "siteUrl": "https://jia.je/",
       "articles": [
         {
+          "id": "https://jia.je/hardware/2026/07/07/ampere-skylark/",
+          "author": null,
+          "description": "Ampere Skylark 微架构评测¶\n 背景¶\n Ampere eMAG 采用的是 Ampere Skylark 微架构，虽然是 2018 年的处理器了，但也顺带评测一下。其前身是 AppliedMicro 的 X-Gene 3 微架构，用在 Ampere eMAG 芯片上，用的是 TSMC 16nm FinFET+ 工艺。\n  \n官方信息¶\n 只找到了 X-Gene 2，即 Skylark 更早一代的信息：AppliedMicro X-Gene2\n 前端¶\n 取指带宽¶\n 为了测试实际的 Fetch 宽度，参考 如何测量真正的取指带宽（I-fetch width） - JamesAslan 构造了测试，实验结果如下：\n \n 可见取指带宽是每周期四条指令，并且很多时候并不能打满。\n 测试过程详见测试代码。\n L1 ICache¶\n 为了测试 L1 ICache 容量，构造一个具有巨大指令 footprint 的循环，由大量的 nop 和最后的分支指令组成。观察在不同 footprint 大小下的 IPC：\n \n 可以看到 footprint 在 32 KB 之前时可以达到 4 IPC，这对应了 32KB 的 L1 ICache。\n 测试过程详见测试代码。\n BTB¶\n 构造大量的无条件分支指令（B 指令），BTB 需要记录这些指令的目的地址，那么如果分支数量超过了 BTB 的容量，性能会出现明显下降。当把大量 B 指令紧密放置，也就是每 4 字节一条 B 指令时：\n \n 可见 Skylark 的 BTB 对分支紧密放置的情况支持不是很好，在 1024 个分支之内的 CPI 达到了 3.5，这一点在较早的处理器上比较常见，比如 Neoverse N1 的 BTB，不过稍微新一些的处理器，随着设计的改进，类似的情况比较少见了。之后到 8192 个分支，CPI 达到了 5。…",
+          "link": "https://jia.je/hardware/2026/07/07/ampere-skylark/",
+          "publishedOn": "2026-07-07T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Ampere Skylark 微架构评测",
+          "enclosure": {
+            "url": "https://jia.je/assets/images/social/hardware/2026/07/07/ampere-skylark.png",
+            "type": "image/png",
+            "length": "50599"
+          },
+          "imageUrl": "https://jia.je/assets/images/social/hardware/2026/07/07/ampere-skylark.png"
+        },
+        {
+          "id": "https://jia.je/hardware/2026/07/06/apple-m2/",
+          "author": null,
+          "description": "Apple M2 (Avalanche & Blizzard) 微架构评测¶\n 背景¶\n 之前分析过 M1 和 M4，趁着机会，也评测一下 M2 的微架构，给出一个从 M1 到 M2 再到 M4 的发展脉络。\n  \n官方信息¶\n 苹果发布了 Apple Silicon CPU Optimization Guide，包括了一些 M2 的微架构信息。\n 现有评测¶\n 网上已经有针对 Apple M2 微架构的评测和分析，建议阅读：\n  \n我们找到了 Windows 电脑续航差的原因！苹果 M2 深度分析\n 不为人知的角落，Apple M2 的小小努力（其一）\n Apple M2 Blizzard 微架构评测 (上)：阳春白雪\n Apple M2 Blizzard 微架构评测 (中)：阳春白雪\n  \n下面分各个模块分别记录官方提供的信息，以及实测的结果。读者可以对照已有的第三方评测理解。官方信息与实测结果一致的数据会加粗。\n Benchmark¶\n Apple M2 Avalanche/Blizzard 的性能测试结果见 SPEC。\n 前端¶\n 取指带宽¶\n Avalanche¶\n 为了测试实际的 Fetch 宽度，参考 如何测量真正的取指带宽（I-fetch width） - JamesAslan 构造了测试，实验结果如下：\n \n 可以看到每 16 条指令会多一个周期，因此 Avalanche 的前端取指宽度确实是 16 条指令，与 Apple M1 Firestorm 和 Apple M4 P-Core 都相同。\n Blizzard¶\n 用相同的方式测试 Blizzard，结果如下：\n \n 可以看到每 8 条指令会多一个周期，意味着 Blizzard 的前端取指宽度为 8 条指令，和 Apple M1 Icestorm 相同，不过表现在图像上不太一样。\n 测试过程详见测试代码…",
+          "link": "https://jia.je/hardware/2026/07/06/apple-m2/",
+          "publishedOn": "2026-07-06T00:00:00.000Z",
+          "wordCount": null,
+          "title": "Apple M2 (Avalanche &amp; Blizzard) 微架构评测",
+          "enclosure": {
+            "url": "https://jia.je/assets/images/social/hardware/2026/07/06/apple-m2.png",
+            "type": "image/png",
+            "length": "59546"
+          },
+          "imageUrl": "https://jia.je/assets/images/social/hardware/2026/07/06/apple-m2.png"
+        },
+        {
+          "id": "https://jia.je/hardware/2026/06/13/arm-neoverse-v3/",
+          "author": null,
+          "description": "ARM Neoverse V3 (代号 Poseidon) 微架构评测¶\n 背景¶\n 使用 ARM Neoverse V3 核心的 AWS Graviton 5 最近上线了，相比之前的 Neoverse V2 应该有一些改进，所以测试一下这个微架构在各个方面的表现。\n  \n官方信息¶\n ARM 关于 Neoverse V3 微架构有如下公开信息：\n  \nArm® Neoverse V3 Core Technical Reference Manual\n Arm Neoverse V3 Software Optimization Guide\n  \nNeoverse V3 与 Cortex X4 高度相似，这里也列出 Cortex X4 的相关信息：\n  \nArm Unveils 2023 Mobile CPU Core Designs: Cortex-X4, A720, and A520 - the Armv9.2 Family\n Arm Cortex-X4 advances frontiers of CPU performance\n Arm® Cortex‑X4 Core Technical Reference Manual\n  \n下面分模块记录官方信息和实测结果。官方信息与实测结果一致的数据会加粗。\n 现有评测¶\n 网上已经有 Neoverse V3 微架构的评测和分析，建议阅读：\n  \n最强 Arm 处理器 AWS Graviton5 架构剖析\n Neoverse V3 微架构\n  \n下面分各个模块分别记录官方提供的信息，以及实测的结果。读者可以对照已有的第三方评测理解。官方信息与实测结果一致的数据会加粗。\n Benchmark¶\n Neoverse V3 (AWS Graviton 5) 的性能测试结果见 SPEC。\n 前端¶\n L1 ICache¶\n 官方信息：64K…",
+          "link": "https://jia.je/hardware/2026/06/13/arm-neoverse-v3/",
+          "publishedOn": "2026-06-13T00:00:00.000Z",
+          "wordCount": null,
+          "title": "ARM Neoverse V3 (代号 Poseidon) 微架构评测",
+          "enclosure": {
+            "url": "https://jia.je/assets/images/social/hardware/2026/06/13/arm-neoverse-v3.png",
+            "type": "image/png",
+            "length": "64351"
+          },
+          "imageUrl": "https://jia.je/assets/images/social/hardware/2026/06/13/arm-neoverse-v3.png"
+        },
+        {
+          "id": "https://jia.je/software/2026/05/29/spec-cpu-2026-workload-analysis-fp-rate-en/",
+          "author": null,
+          "description": "SPEC CPU 2026 Workload Analysis (FP Rate)¶\n 中文版本\n Background¶\n Following the INT Rate article, this article continues with the workload analysis of SPEC FP 2026 Rate.\n  \nThe test environment is the same as the previous INT Rate article and won't be repeated here.\n Recommended reading: Evaluating SPEC CPU2026 and SPEC CPU2026: Characterization, Representativeness, and Cross-Suite Comparison\n SPEC FP 2026 Rate Analysis¶\n 709.cactus_r¶\n Cactus is a computational framework, used here to solve the Einstein equations in vacuum. Command:\n \ncactus ShiftedGaugeWave.par \n \nMeasured runtime is 103.4s, reftime is 858s, corresponding to 8.30 points. Performance under different compilers and flags:\n   \n Compiler + Flags Time (s) Score Improvement over GCC 14 -O3 (%) \n   \n GCC 14 -O3 103.4 8.30 0 \n  GCC …",
+          "link": "https://jia.je/software/2026/05/29/spec-cpu-2026-workload-analysis-fp-rate-en/",
+          "publishedOn": "2026-05-29T00:00:00.000Z",
+          "wordCount": null,
+          "title": "SPEC CPU 2026 Workload Analysis (FP Rate)",
+          "enclosure": {
+            "url": "https://jia.je/assets/images/social/software/2026/05/29/spec-cpu-2026-workload-analysis-fp-rate-en.png",
+            "type": "image/png",
+            "length": "55947"
+          },
+          "imageUrl": "https://jia.je/assets/images/social/software/2026/05/29/spec-cpu-2026-workload-analysis-fp-rate-en.png"
+        },
+        {
+          "id": "https://jia.je/software/2026/05/29/spec-cpu-2026-workload-analysis-fp-rate/",
+          "author": null,
+          "description": "SPEC CPU 2026 负载特性分析（FP Rate 篇）¶\n 本文同步发布到本人的知乎。\n English version\n 背景¶\n 继 INT Rate 篇 后，本文继续分析 SPEC FP 2026 Rate 的负载特性。\n  \n测试环境与先前的 INT Rate 篇 相同，这里不再赘述。\n 推荐阅读：Evaluating SPEC CPU2026 和 SPEC CPU2026: Characterization, Representativeness, and Cross-Suite Comparison\n SPEC FP 2026 Rate 分析¶\n 709.cactus_r¶\n Cactus 是一个计算框架，这里用它来求解真空中的爱因斯坦方程。命令参数如下：\n \ncactus ShiftedGaugeWave.par \n \n实测数据显示，运行时间为 103.4s，reftime 是 858s，对应 8.30 分。不同编译器和编译选项对 709.cactus_r 的优化情况如下：\n   \n 编译器 + 选项 时间 (s) 分数 相比 GCC 14 -O3 性能提升 (%) \n   \n GCC 14 -O3 103.4 8.30 0 \n  GCC 14 -O3 -march=native 83.9 10.23 23 \n  GCC 14 -O3 -ffast-math 101.2 8.48 2 \n  GCC 14 -O3 -ljemalloc 100.7 8.52 3 \n  LLVM 22 -O3 94.6 9.07 9 \n  LLVM 22 -O3 -march=native 90.5 9.48 14 \n  \n 可见 -march=native 能提供巨大的性能提升，LLVM 22 在 -O3 下比 GCC 14 快，不过 GCC 14 的 -O3 -marc…",
+          "link": "https://jia.je/software/2026/05/29/spec-cpu-2026-workload-analysis-fp-rate/",
+          "publishedOn": "2026-05-29T00:00:00.000Z",
+          "wordCount": null,
+          "title": "SPEC CPU 2026 负载特性分析（FP Rate 篇）",
+          "enclosure": {
+            "url": "https://jia.je/assets/images/social/software/2026/05/29/spec-cpu-2026-workload-analysis-fp-rate.png",
+            "type": "image/png",
+            "length": "58413"
+          },
+          "imageUrl": "https://jia.je/assets/images/social/software/2026/05/29/spec-cpu-2026-workload-analysis-fp-rate.png"
+        },
+        {
+          "id": "https://jia.je/software/2026/05/22/spec-cpu-2026-workload-analysis-int-rate-en/",
+          "author": null,
+          "description": "SPEC CPU 2026 Workload Analysis (INT Rate)¶\n 中文版本\n Background¶\n I've been running some benchmarks with SPEC CPU 2026 recently, and plan to do in-depth workload analysis combined with the test results. This article focuses on SPEC INT 2026 Rate workload characteristics. For SPEC FP 2026 Rate analysis, see the FP Rate article.\n  \nTest environment: CPU is Intel i9-14900K P-Core @ 5.7 GHz, Linux distribution is Debian Trixie, compiler is GCC 14.2.0, default compilation flags are -O3. This CPU can actually boost up to 6.0 GHz, but occasionally fails to boost under single-core workloads for unknown reasons (degradation protection?), specifically manifesting as the CPU core being forced down to 4.7 GHz after running for a while. So I opted for the more reliably achievable 5.7 GHz. Only one physic…",
+          "link": "https://jia.je/software/2026/05/22/spec-cpu-2026-workload-analysis-int-rate-en/",
+          "publishedOn": "2026-05-22T00:00:00.000Z",
+          "wordCount": null,
+          "title": "SPEC CPU 2026 Workload Analysis (INT Rate)",
+          "enclosure": {
+            "url": "https://jia.je/assets/images/social/software/2026/05/22/spec-cpu-2026-workload-analysis-int-rate-en.png",
+            "type": "image/png",
+            "length": "56013"
+          },
+          "imageUrl": "https://jia.je/assets/images/social/software/2026/05/22/spec-cpu-2026-workload-analysis-int-rate-en.png"
+        },
+        {
+          "id": "https://jia.je/software/2026/05/22/spec-cpu-2026-workload-analysis-int-rate/",
+          "author": null,
+          "description": "SPEC CPU 2026 负载特性分析（INT Rate 篇）¶\n 本文同步发布到本人的知乎。\n English version\n 背景¶\n 最近用 SPEC CPU 2026 跑了一些基准测试，打算结合测试结果做一些深入的负载特性分析。本篇主要是分析 SPEC INT 2026 Rate 的负载特性，SPEC FP 2026 Rate 的分析请看 FP Rate 篇。\n  \n本文测试环境：CPU 为 Intel i9-14900K P-Core @ 5.7 GHz，Linux 发行版为 Debian Trixie，编译器是 GCC 14.2.0，默认编译选项是 -O3。其实这颗 CPU 最快能 Boost 到 6.0 GHz，但时不时因为未知原因（防缩缸？）在单核负载下也 Boost 不上去，具体表现为每跑一段时间后 CPU 核心就会强制降频到 4.7 GHz。故退而求其次，选择在更容易稳定达到的 5.7 GHz 频率来跑。能稳定跑到 6.0 GHz 的只有那一个物理 P 核，其他 P 核也都能上 5.7 GHz，降频了换一个核心即可。6.0 GHz 下的性能可以参考之前的测试结果：INT 和 FP，基本上，从 5.7 GHz 到 6.0 GHz，性能可以按频率线性放缩。本文可能针对同一个负载给出多个不同的运行时间，这可能是因为多次运行导致的性能波动，也可能是因为部分数字包含了 perf record 的开销，不过误差都很小，可以放心对比。本文所用的脚本已开源到 jiegec/spec2026。\n 推荐阅读：Evaluating SPEC CPU2026 和 SPEC CPU2026: Characterization, Representativeness, and Cross-Suite Comparison\n SPEC INT 2026 Rate 分析¶\n 706…",
+          "link": "https://jia.je/software/2026/05/22/spec-cpu-2026-workload-analysis-int-rate/",
+          "publishedOn": "2026-05-22T00:00:00.000Z",
+          "wordCount": null,
+          "title": "SPEC CPU 2026 负载特性分析（INT Rate 篇）",
+          "enclosure": {
+            "url": "https://jia.je/assets/images/social/software/2026/05/22/spec-cpu-2026-workload-analysis-int-rate.png",
+            "type": "image/png",
+            "length": "58767"
+          },
+          "imageUrl": "https://jia.je/assets/images/social/software/2026/05/22/spec-cpu-2026-workload-analysis-int-rate.png"
+        },
+        {
+          "id": "https://jia.je/software/2026/05/21/spec-cpu-2026-other-isa/",
+          "author": null,
+          "description": "SPEC CPU 2026 在其他指令集上的编译¶\n SPEC CPU 2026 官方只附带了 aarch64/ppc64le/riscv64/x86_64 指令集的预编译 tools，如果要在其他指令集上使用，就需要首先编译 tools，过程如下：\n \ncd /mnt && tar xvf install_archives/tools-src.tar wget -O config.guess 'https://git.savannah.gnu.org/gitweb/?p=config.git;a=blob_plain;f=config.guess;hb=HEAD' wget -O config.sub 'https://git.savannah.gnu.org/gitweb/?p=config.git;a=blob_plain;f=config.sub;hb=HEAD' cp config.* /mnt/tools/src/make-4.2.1/config/ # build tools mkdir -p /mnt/config cd /mnt && echo 'y' | SKIPTOOLSINTRO=1 FORCE_UNSAFE_CONFIGURE=1 MAKEFLAGS=-j16 ./tools/src/buildtools mkdir -p /mnt/config cd /mnt && . ./shrc && packagetools linux-loong64 \n \n例如下面是在 LoongArch 上编译 SPEC CPU 2026 的 Dockerfile，假设 SPEC CPU 2026 已经解压到 /mnt：\n \nRUN cd /mnt && tar xvf install_archives/tools-src.tar RUN wget -O config.guess 'https://git.savannah.gnu.org/gitweb/?p=config.git;a=blob_plain;f=config.guess;hb=HEAD' RUN wget -O config.sub 'https://git.savannah.gnu.org/gitweb/?p=config.git;a=blob_plain;f=config.sub;hb=HEAD' RUN cp config.* /mnt/tools/src/make-4.2.1/config/ # build tools RUN mkdir -p /mnt/config RUN cd /mnt && echo 'y' | SKIPTOOLSINTRO=1 FORCE_UNSAFE_CONFIGURE=1 MAKEFLAGS=-j16 ./tools/src/buildtools RUN mkdir -p /mnt/config RUN cd /mnt && . ./shrc && packagetools linux-loong64 RUN /mnt/install.sh -f \n \n参考官方文档：Building the SPEC CPU®2026 Toolset。",
+          "link": "https://jia.je/software/2026/05/21/spec-cpu-2026-other-isa/",
+          "publishedOn": "2026-05-21T00:00:00.000Z",
+          "wordCount": null,
+          "title": "SPEC CPU 2026 在其他指令集上的编译",
+          "enclosure": {
+            "url": "https://jia.je/assets/images/social/software/2026/05/21/spec-cpu-2026-other-isa.png",
+            "type": "image/png",
+            "length": "54617"
+          },
+          "imageUrl": "https://jia.je/assets/images/social/software/2026/05/21/spec-cpu-2026-other-isa.png"
+        },
+        {
           "id": "https://jia.je/devops/2026/05/07/ring-dependency/",
           "author": null,
           "description": "记一次循环依赖导致的运维小事故¶\n 背景¶\n 每次没有 UPS 或 UPS 容量不够用的倒闸对于运维来说都是一次鸡飞狗跳。这次很不幸，鸡飞狗跳终于轮到了我，还好花了一个半小时还是解决了。在这里做个简单的复盘。\n  \n现象与排查¶\n 首先介绍一下现象：停电恢复之后，服务器开起来，但是无法从互联网连接内网的网关（即主网关）。还好，之前考虑到网关的重要性，做了备份，走内网的备用网关顺利进入了内网，然后发现主网关即使 IP 地址是对的，也连不上互联网。虽然通过 keepalived 的配置，主网关和备用网关会通过虚拟 IP 给内网机器提供一个高可用的默认网关，但由于 keepalived 只是检测了机器是否开机，并没有判断能否正常访问互联网，所以 keepalived 总会选择优先级更高的主网关，导致虚拟 IP 指向主网关，因而内网的机器都连不上互联网，还得继续尝试修复主网关。\n 主网关运行在 ESXi 的虚拟机里，于是进入 ESXi 管理网页，看看它的网络情况。这个虚拟机的网络用的并不是 ESXi 的普通网络，而是通过 vCSA 配置的基于 DS 的 LACP。看了几个不同的 ESXi，发现问题都集中在 LACP 上。而 ESXi 是没法配置 DS 的，所以就先去看了 vCSA。连上 vCSA 以后一看，所有的 ESXi 都掉线了。原来，之前为了方便配置，vCSA 都是通过域名连接 ESXi 的，而域名就需要有 DNS 服务器解析，然而主网关连不上互联网，也就连不上配置好的互联网的 DNS 服务器，于是 vCSA 无法配置 ESXi，然后 ESXi 的部分虚拟机就会断网，正好主网关又在被断网的虚拟机里面。这就形成了一个循环依赖。\n 既然找到了问题，那就需要打破循环依赖：把主网关在 keepalived 里的优先级调低，让备用网关上位。结果这时候发现一个小的问题：备用网关的 NAT 忽然不工作了。排查了一下，发现是因为 net.ipv4.ip_forward = 1 写在了 /etc/sysctl.conf 文件里，而 Debian 升级 Trixie 以后，这个文件已经不会被应用了，而要把内容写到 /etc/sysctl.d/*.conf 里面去，通过 /usr/lib/systemd/systemd-sysctl --cat-config 来确认是否持久化成功。由于主网关一直工作得很好，备用网关很久都没有做 NAT 了，导致这个问题一直没有被发现。\n 修好以后，vCSA 就能找回 ESXi 了，然后通过 vCSA 再重新配置一下 ESXi 的 DS LACP 网卡，然后一切就恢复了。\n 反思¶\n 虽然事故解决了，但这个过程中暴露了很多问题：\n  \n首先就是循环依赖：ESXi 的 DS LACP 依赖 vCSA，vCSA 依赖 DNS，DNS 依赖主网关，主网关通过 DS LACP 访问互联网。如果没有准备好备用网关，且备用网关恰好没有用 DS LACP 因此不受影响，那么修复起来就更麻烦了。解决循环依赖的办法也很简单，对于一些重要的虚拟机（如网关），它所依赖的功能越简单越好。\n 备用网关的 NAT 功能在升级 Debian 版本后，因为没有仔细阅读 sysctl 的变化而失效了，升级后缺少对功能的检查。\n keepalived 只判断机器是否在线，但没有判断机器是否可以正常连接互联网、承担起网关的职能。\n ESXi + vCSA 这类闭源软件，修复起来还是比较痛苦的，很多内部的工作原理并不清楚，可调试性也比较差，以后还是会谨慎选择。",
@@ -3959,51 +4154,6 @@
             "length": "52187"
           },
           "imageUrl": "https://jia.je/assets/images/social/devops/2026/05/07/ring-dependency.png"
-        },
-        {
-          "id": "https://jia.je/misc/2026/04/12/ai-era-cs-education/",
-          "author": null,
-          "description": "AI 时代的本科 CS 教育随想¶\n 背景¶\n 前几天参加了系里的关于 AI 时代的 CS 教育的研究生论坛，在论坛上我分享了一些小的思考，也在论坛上得到了许多不同的想法，于是把一些想法记录下来，过一段时间再回来看看，到底 CS 教育应该怎么办。\n  \n叠甲¶\n 本文仅代表本人观点，不代表本系或本校的观点，请勿扩大解读！请不要让我上 AI 三大顶会（机、量、新），谢谢！但欢迎大家参与到这个讨论当中，因为目前谁也不知道未来应该怎么做。\n 现状¶\n 为了让读者了解背景，首先要知道前 AI 时代的 CS 教育大概是怎样的：本科的时候先上编程课，教大家各种编程语言，然后逐渐深入到各个领域，课上讲授知识点，课下通过工程训练来夯实，由于计算机是工科，这里面通过不断的工程实践来获取经验，是很重要的一个部分。这一部分学习过程很辛苦，但是确实很有效果，可以说几乎每一位系友都是这么锻炼过来的。\n 下面这一段，如果你还在读本科，请不要点开，点开了也请忘掉，按照老师的要求去做：\n 但是，现在 AI 时代来临，很多事情都发生了变化。首先，AI 编程能力很强，大一同学辛辛苦苦学完一年，然后发现自己写的代码还不如 AI 写得好写得快，内心的挫败感和对这种古法编程的学习方法的质疑是无与伦比的。这对课程的教学产生了很大的冲击，因为人很难克制自己的懒惰，面对巨大的诱惑，其实很难静下心去学习这些已经由 AI 掌握的基础课程。论坛上有同学做了个比喻，计算器被发明了以后，人类没有失去心算的能力，因为你为了去用好计算器，还是要知道这些基础知识，从小学起，然后到某一个年级告诉你可以用计算器，然后各种考试还可以出计算器没法解决的题目。但是，AI 的能力边界太大了，它能解决从简单到困难的各种问题，只是有一定的概率解决出来是错的。其次，即使是前几年我们还会觉得，专业核心课的大作业还很难由 AI 完成，似乎还能通过大作业的难度…",
-          "link": "https://jia.je/misc/2026/04/12/ai-era-cs-education/",
-          "publishedOn": "2026-04-12T00:00:00.000Z",
-          "wordCount": 343,
-          "title": "AI 时代的本科 CS 教育随想",
-          "enclosure": {
-            "url": "https://jia.je/assets/images/social/misc/2026/04/12/ai-era-cs-education.png",
-            "type": "image/png",
-            "length": "51616"
-          },
-          "imageUrl": "https://jia.je/assets/images/social/misc/2026/04/12/ai-era-cs-education.png"
-        },
-        {
-          "id": "https://jia.je/hardware/2026/03/26/sdram-bandwidth/",
-          "author": null,
-          "description": "SDRAM 在不同访存模式下的带宽分析与实验¶\n 背景¶\n 最近在和 @CircuitCoder 交流 SDRAM（通常简写为 DRAM，或更进一步简写为 DDR）的各种性能指标，于是想到利用现有的 DRAMSim3 和 Ramulator2 做一些模拟测试，看看各种访存模式下可以实现峰值带宽的多少比例，再结合时序验证理论与模拟结果是否吻合。实验相关代码已开源至 jiegec/dram-bench。\n  \nSDRAM 背景¶\n 首先简单回顾 SDRAM 的背景，我的知识库中有更详细的介绍，这里仅提炼几个便于理解后续内容的要点，完整的 SDRAM 介绍请移步知识库：\n  \nSDRAM 由多级层次组成：\n Channel：对应内存控制器的通道数量，通常每个 Channel 对应 64 位的数据总线\n Rank：每个 Channel 内可能有多个 Rank，这些 Rank 共享总线\n Bank Group：在 DDR4 引入，每个 Rank 有多个 Bank Group\n Bank：每个 Bank Group 有多个 Bank\n Row：每个 Bank 内部同时只有一个 Row 被激活\n Column：激活的 Row 内，每个 Column 对应保存数据的 Cell\n  \n 如何读写 SDRAM 中的数据：\n 首先根据数据的地址找到对应的 Channel/Rank/Bank Group/Bank/Row/Column，如：\n Row 地址等于地址的 [33:18] 位，共 65536 个 Row\n Rank 地址等于地址的 [17:17] 位，共 2 个 Rank\n Bank 地址等于地址的 [16:15] 位，每个 Bank Group 内有 4 个 Bank\n Bank Group 地址等于地址的 [14:13] 位，共 4 个 Bank Group\n Column 地址等于…",
-          "link": "https://jia.je/hardware/2026/03/26/sdram-bandwidth/",
-          "publishedOn": "2026-03-26T00:00:00.000Z",
-          "wordCount": null,
-          "title": "SDRAM 在不同访存模式下的带宽分析与实验",
-          "enclosure": {
-            "url": "https://jia.je/assets/images/social/hardware/2026/03/26/sdram-bandwidth.png",
-            "type": "image/png",
-            "length": "51197"
-          },
-          "imageUrl": "https://jia.je/assets/images/social/hardware/2026/03/26/sdram-bandwidth.png"
-        },
-        {
-          "id": "https://jia.je/devops/2026/03/05/nginx-sse-buffering/",
-          "author": null,
-          "description": "Nginx 反代导致 SSE 延迟变高的问题与解决方法¶\n 背景¶\n 最近有同学遇到这么一个问题：在 Nginx 反代后面搭了一个使用 SSE（Server Sent Events）机制的服务端，但客户端观察到请求延迟比较高，数据批量到达，而不是一行一行地出现。经过排查，发现是 Nginx 的 buffering 机制导致的。本文通过实验复现该问题，并探索了几种解决方法。\n  \n问题复现¶\n 为了复现这个问题，我 Vibe Coding 了一个测试服务端 server.py，监听 8080 端口，在 /events 路径下每秒发送一条 SSE 消息，共发送 5 次：\n \n#!/usr/bin/env python3 \"\"\"SSE server that sends 5 messages, one every second.\"\"\"  import time from http.server import HTTPServer, BaseHTTPRequestHandler   class SSEHandler(BaseHTTPRequestHandler):  def do_GET(self):  if self.path == \"/events\":  self.send_response(200)  self.send_header(\"Content-Type\", \"text/event-stream\")  self.end_headers()   for i in range(5):  message = f\"data: Message {i + 1} at {time.time()}\\n\\n\"  self.wfile.write(message.encode(\"utf-8\"))  self.wfile.flush()  time.sleep(1)   self.wfil…",
-          "link": "https://jia.je/devops/2026/03/05/nginx-sse-buffering/",
-          "publishedOn": "2026-03-05T00:00:00.000Z",
-          "wordCount": 576,
-          "title": "Nginx 反代导致 SSE 延迟变高的问题与解决方法",
-          "enclosure": {
-            "url": "https://jia.je/assets/images/social/devops/2026/03/05/nginx-sse-buffering.png",
-            "type": "image/png",
-            "length": "66830"
-          },
-          "imageUrl": "https://jia.je/assets/images/social/devops/2026/03/05/nginx-sse-buffering.png"
         }
       ]
     },

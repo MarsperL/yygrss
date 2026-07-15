@@ -2,10 +2,290 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-07-05T22:28:56.000Z</updated>
+    <updated>2026-07-15T22:27:38.289Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kubeflow vs Argo Workflows: Choosing the Best ML Pipeline Tool for Kubernetes]]></title>
+        <id>https://collabnix.com/kubeflow-vs-argo-workflows-choosing-the-best-ml-pipeline-tool-for-kubernetes-2/</id>
+        <link href="https://collabnix.com/kubeflow-vs-argo-workflows-choosing-the-best-ml-pipeline-tool-for-kubernetes-2/"/>
+        <updated>2026-07-15T03:43:48.000Z</updated>
+        <summary type="html"><![CDATA[Explore the strengths of Kubeflow and Argo Workflows as you decide the best tool for managing machine learning pipelines on Kubernetes.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[吃灰iPhone 6再就业：给Claude Code做个红绿灯看板]]></title>
+        <id>https://nops.icu/archives/243/</id>
+        <link href="https://nops.icu/archives/243/"/>
+        <updated>2026-07-14T07:27:00.000Z</updated>
+        <summary type="html"><![CDATA[最近深度使用 Claude Code，体验是真不错，但有个痛点：任务一跑十几分钟，人不可能干等着。起身倒杯水、回个消息，回来发现它早就停在"是否允许执行 Bash"上干等我了，白白空转半天。先是...]]></summary>
+        <author>
+            <name>季兴</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Small Language Models vs Large Language Models: When Smaller is Better]]></title>
+        <id>https://collabnix.com/small-language-models-vs-large-language-models-when-smaller-is-better-2/</id>
+        <link href="https://collabnix.com/small-language-models-vs-large-language-models-when-smaller-is-better-2/"/>
+        <updated>2026-07-14T03:43:53.000Z</updated>
+        <summary type="html"><![CDATA[Explore scenarios where smaller language models like GPT-2 outperform larger counterparts, providing efficiency in resource-constrained environments.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering OpenClaw: Extending Your AI Agents with Plugins and Extensions]]></title>
+        <id>https://collabnix.com/mastering-openclaw-extending-your-ai-agents-with-plugins-and-extensions/</id>
+        <link href="https://collabnix.com/mastering-openclaw-extending-your-ai-agents-with-plugins-and-extensions/"/>
+        <updated>2026-07-13T04:08:25.000Z</updated>
+        <summary type="html"><![CDATA[Discover how to extend your AI agents with OpenClaw, leveraging plugins and extensions for flexibility and innovation in AI solutions.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-5.6系列模型的社区反馈、基准表现和使用建议]]></title>
+        <id>https://blognas.hwb0307.com/other/7085</id>
+        <link href="https://blognas.hwb0307.com/other/7085"/>
+        <updated>2026-07-12T11:42:26.000Z</updated>
+        <summary type="html"><![CDATA[Bensz
+GPT-5.6系列模型的社区反馈、基准表现和使用建议
+本博客由科研AI Agent实验室BenszResearch强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 这次升级最实用的变化，不是多了一个“最强模型”，而是终于有了三档可选：Sol 攻坚、Terra 干日常活、Luna 跑可验证的批量任务。 Sol 在终端、代理式编码、网页浏览和电脑操作上确有亮点；但代码基准之间的排序并不一致，暂时还不能简单喊“全面领先”。 Terra 的 API 单价只有 Sol 一半，几项代理测试却咬得很紧。对多数开发者，它可能比旗舰更值得先上手。 105 万 token 是能塞进去的容量，不等于每个细节都能稳定找回；单次输入跨过 27.2 万 token，还会踩到价格台阶。 首发三日的结论很朴素：别急着全切 Sol Ultra。按任务难度 […]
+Bensz]]></summary>
+        <author>
+            <name>Bensz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[搬家]]></title>
+        <id>https://www.skyue.com/26071218.html</id>
+        <link href="https://www.skyue.com/26071218.html"/>
+        <updated>2026-07-12T10:36:00.000Z</updated>
+        <summary type="html"><![CDATA[在《装修日记（4）》中预告过7月搬家，本周五正式搬入未名府新家，周末收拾了两天。从上周末开始，就在紫樾府陆陆续续打包行李，在这里住了一年，东西还真不少。找蓝犀牛搬家，约了最大的厢货。]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is OpenClaw? The Open Source AI Agent Framework Explained]]></title>
+        <id>https://collabnix.com/what-is-openclaw-the-open-source-ai-agent-framework-explained/</id>
+        <link href="https://collabnix.com/what-is-openclaw-the-open-source-ai-agent-framework-explained/"/>
+        <updated>2026-07-12T04:06:40.000Z</updated>
+        <summary type="html"><![CDATA[Explore OpenClaw, an open-source AI agent framework, and understand the broader context of AI agent development through comparisons with leading frameworks.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[记一次网络安全通报处理以及后续整改]]></title>
+        <id>https://www.txisfine.cn/archives/1dbed3d0.html</id>
+        <link href="https://www.txisfine.cn/archives/1dbed3d0.html"/>
+        <updated>2026-07-11T22:00:55.000Z</updated>
+        <summary type="html"><![CDATA[缘由 我接到中国电信的通报，说我的网站存在安全问题，需要立即处理。我第一反应是网站可能被攻击或者被植入了异常内容。随后我向运营商索要了更详细的信息。 通过运营商反馈的问题域名。让我有些疑惑。这个域名和网站内容并没有解析、部署在电信的服务器上，而是使用腾讯云的 EdgeOne 和 COS 托管的静态内容。讲道理应该是腾讯云找我处理，但是现在反而是运营商先联系了我。 不过，既然已经发现问题，最重要的还...]]></summary>
+        <author>
+            <name>弹霄博科</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Getting Started with GLM-5.2 on Ollama: A Complete Tutorial]]></title>
+        <id>https://collabnix.com/?p=75234</id>
+        <link href="https://collabnix.com/getting-started-with-glm-5-2-on-ollama-a-complete-tutorial/"/>
+        <updated>2026-07-11T15:28:55.000Z</updated>
+        <summary type="html"><![CDATA[GLM-5.2 has become one of the most searched models on the Ollama library, and for good reason. Built by Z.ai, it’s positioned as their flagship model for what they call “long-horizon tasks”: large, multi-step engineering work that unfolds over hours rather than minutes. In this tutorial, we’ll walk through what makes GLM-5.2 different, and how […]]]></summary>
+        <author>
+            <name>Ajeet Raina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lovable.dev Deep Dive: An Honest Review of the AI-Powered Development Platform]]></title>
+        <id>https://collabnix.com/lovable-dev-deep-dive-an-honest-review-of-the-ai-powered-development-platform/</id>
+        <link href="https://collabnix.com/lovable-dev-deep-dive-an-honest-review-of-the-ai-powered-development-platform/"/>
+        <updated>2026-07-11T03:51:05.000Z</updated>
+        <summary type="html"><![CDATA[Explore Lovable.dev, an AI-powered platform revolutionizing full-stack web app development. Understand its features, technologies, and how it simplifies the creation process.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAG vs Fine-Tuning: Decision-Making for Your AI Application]]></title>
+        <id>https://collabnix.com/rag-vs-fine-tuning-decision-making-for-your-ai-application/</id>
+        <link href="https://collabnix.com/rag-vs-fine-tuning-decision-making-for-your-ai-application/"/>
+        <updated>2026-07-10T04:31:32.000Z</updated>
+        <summary type="html"><![CDATA[Explore the choice between fine-tuning and RAG for AI applications, focusing on customer support systems. Learn about their setups, advantages, and best-use scenarios.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全球多币种账户 + 海外实体借记卡，Starryblu开户教程与注意事项]]></title>
+        <id>https://blog.xiaoz.org/?p=23207</id>
+        <link href="https://blog.xiaoz.org/archives/23207"/>
+        <updated>2026-07-10T03:36:43.000Z</updated>
+        <summary type="html"><![CDATA[Starryblu是WoTransfer Pte. Ltd.旗下的一款全球支付App，与熊猫速汇同属一个产品生态——不同的是，熊猫速汇专注国际汇款，而Starryblu更侧重全球账户管理与多币种支付。通过一个账户，用户可以管理多种货币、完成换汇与跨境转账，并支持申请虚拟卡或实体借记卡，满足海外消费、]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw Architecture Deep Dive: How It Works Under the Hood]]></title>
+        <id>https://collabnix.com/openclaw-architecture-deep-dive-how-it-works-under-the-hood-2/</id>
+        <link href="https://collabnix.com/openclaw-architecture-deep-dive-how-it-works-under-the-hood-2/"/>
+        <updated>2026-07-09T04:28:47.000Z</updated>
+        <summary type="html"><![CDATA[Explore the architecture of OpenClaw, a new open-source AI agent framework, and its foundational concepts in AI development.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JP动作电影无字幕？Caption-Trans + AI 大模型帮你实现字幕自由]]></title>
+        <id>https://blog.xiaoz.org/?p=23187</id>
+        <link href="https://blog.xiaoz.org/archives/23187"/>
+        <updated>2026-07-09T01:55:39.000Z</updated>
+        <summary type="html"><![CDATA[不知道大家有有没有遇到这样一个问题，就是在看海外动作电影的时候没有字幕，效果大打折扣，不过最近xiaoz发现一款宝藏开源软件Caption-Trans，它可以使用 AI 大模型翻译视频字幕，特别为日语优化（作者介绍），至于具体场景，你就自己想象吧。两年前市面上已有类似工具，不过多数需要付费订阅。Ca]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How AI Agents Like Claude Code Leverage Model Context Protocol (MCP)]]></title>
+        <id>https://collabnix.com/how-ai-agents-like-claude-code-leverage-model-context-protocol-mcp/</id>
+        <link href="https://collabnix.com/how-ai-agents-like-claude-code-leverage-model-context-protocol-mcp/"/>
+        <updated>2026-07-08T03:53:31.000Z</updated>
+        <summary type="html"><![CDATA[Explore how Model Context Protocol (MCP) empowers AI coding tools like Claude Code to enhance productivity and accuracy by providing context-aware code understanding and edits.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhancing AI Agent Security: Implementing Guardrails Against Prompt Injection]]></title>
+        <id>https://collabnix.com/enhancing-ai-agent-security-implementing-guardrails-against-prompt-injection-2/</id>
+        <link href="https://collabnix.com/enhancing-ai-agent-security-implementing-guardrails-against-prompt-injection-2/"/>
+        <updated>2026-07-07T04:31:24.000Z</updated>
+        <summary type="html"><![CDATA[Explore how to enhance AI agent security with guardrails against prompt injection attacks, ensuring robust and secure AI deployments.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ampere Skylark 微架构评测]]></title>
+        <id>https://jia.je/hardware/2026/07/07/ampere-skylark/</id>
+        <link href="https://jia.je/hardware/2026/07/07/ampere-skylark/"/>
+        <updated>2026-07-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ampere Skylark 微架构评测¶
+ 背景¶
+ Ampere eMAG 采用的是 Ampere Skylark 微架构，虽然是 2018 年的处理器了，但也顺带评测一下。其前身是 AppliedMicro 的 X-Gene 3 微架构，用在 Ampere eMAG 芯片上，用的是 TSMC 16nm FinFET+ 工艺。
+  
+官方信息¶
+ 只找到了 X-Gene 2，即 Skylark 更早一代的信息：AppliedMicro X-Gene2
+ 前端¶
+ 取指带宽¶
+ 为了测试实际的 Fetch 宽度，参考 如何测量真正的取指带宽（I-fetch width） - JamesAslan 构造了测试，实验结果如下：
+ 
+ 可见取指带宽是每周期四条指令，并且很多时候并不能打满。
+ 测试过程详见测试代码。
+ L1 ICache¶
+ 为了测试 L1 ICache 容量，构造一个具有巨大指令 footprint 的循环，由大量的 nop 和最后的分支指令组成。观察在不同 footprint 大小下的 IPC：
+ 
+ 可以看到 footprint 在 32 KB 之前时可以达到 4 IPC，这对应了 32KB 的 L1 ICache。
+ 测试过程详见测试代码。
+ BTB¶
+ 构造大量的无条件分支指令（B 指令），BTB 需要记录这些指令的目的地址，那么如果分支数量超过了 BTB 的容量，性能会出现明显下降。当把大量 B 指令紧密放置，也就是每 4 字节一条 B 指令时：
+ 
+ 可见 Skylark 的 BTB 对分支紧密放置的情况支持不是很好，在 1024 个分支之内的 CPI 达到了 3.5，这一点在较早的处理器上比较常见，比如 Neoverse N1 的 BTB，不过稍微新一些的处理器，随着设计的改进，类似的情况比较少见了。之后到 8192 个分支，CPI 达到了 5。…]]></summary>
+        <author>
+            <name>杰哥的{运维，编程，调板子}小笔记</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gateway API Inference Extension: Smart LLM Traffic Routing on Kubernetes]]></title>
+        <id>https://collabnix.com/?p=75105</id>
+        <link href="https://collabnix.com/gateway-api-inference-extension-smart-llm-traffic-routing-on-kubernetes/"/>
+        <updated>2026-07-06T07:54:54.000Z</updated>
+        <summary type="html"><![CDATA[Gateway API’s Inference Extension was one of the standout topics at recent KubeCon events, tackling a very specific pain point: generic HTTP load balancing algorithms are a poor fit for LLM traffic, where request cost varies wildly and a single long-running generation can pin a backend for seconds. This tutorial sets up the Inference Extension […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deploying LLM Inference on Kubernetes with the NVIDIA GPU Operator: A Step-by-Step Tutorial]]></title>
+        <id>https://collabnix.com/?p=75102</id>
+        <link href="https://collabnix.com/deploying-llm-inference-on-kubernetes-with-the-nvidia-gpu-operator-a-step-by-step-tutorial/"/>
+        <updated>2026-07-06T07:49:54.000Z</updated>
+        <summary type="html"><![CDATA[Serving large language models efficiently is one of the dominant themes at recent KubeCon and CloudNativeCon events, and the NVIDIA GPU Operator has become the de-facto way to make GPUs first-class, schedulable resources inside Kubernetes. This tutorial walks through installing the operator and deploying a real LLM inference workload on top of it. What the […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MCP + Kubernetes: A Step-by-Step Tutorial on Connecting AI Agents to Your Cluster]]></title>
+        <id>https://collabnix.com/?p=75099</id>
+        <link href="https://collabnix.com/mcp-kubernetes-a-step-by-step-tutorial-on-connecting-ai-agents-to-your-cluster/"/>
+        <updated>2026-07-06T07:45:24.000Z</updated>
+        <summary type="html"><![CDATA[The Model Context Protocol (MCP) has quickly become one of the most talked-about topics at recent CNCF and KubeCon hallway tracks. It gives AI assistants a standard way to call tools and read live data, and Kubernetes is a perfect target: instead of copy-pasting kubectl output into a chat window, you can let an AI […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZNote私有笔记已支持 AI 检索问答，可轻松搭建自己的智能知识库]]></title>
+        <id>https://blog.xiaoz.org/?p=23176</id>
+        <link href="https://blog.xiaoz.org/archives/23176"/>
+        <updated>2026-07-06T07:09:21.000Z</updated>
+        <summary type="html"><![CDATA[各位老板好，我是xiaoz，几天又过去了，这几天我一刻没闲着，每天都在疯狂迭代ZNote私有笔记，现在给老板汇报下最新支持的AI 检索问答功能。ZNote开源地址：https://github.com/helloxz/znote什么是 AI 检索问答？简单来说，和传统AI对话不同的是，ZNote的A]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State of AI Agents in 2025: Market Trends, Frameworks, and Predictions]]></title>
+        <id>https://collabnix.com/state-of-ai-agents-in-2025-market-trends-frameworks-and-predictions/</id>
+        <link href="https://collabnix.com/state-of-ai-agents-in-2025-market-trends-frameworks-and-predictions/"/>
+        <updated>2026-07-06T04:49:33.000Z</updated>
+        <summary type="html"><![CDATA[Explore the state of AI agents in 2025, covering the latest market trends, powerful frameworks, and future predictions shaping this transformative technology.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple M2 (Avalanche &amp; Blizzard) 微架构评测]]></title>
+        <id>https://jia.je/hardware/2026/07/06/apple-m2/</id>
+        <link href="https://jia.je/hardware/2026/07/06/apple-m2/"/>
+        <updated>2026-07-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Apple M2 (Avalanche & Blizzard) 微架构评测¶
+ 背景¶
+ 之前分析过 M1 和 M4，趁着机会，也评测一下 M2 的微架构，给出一个从 M1 到 M2 再到 M4 的发展脉络。
+  
+官方信息¶
+ 苹果发布了 Apple Silicon CPU Optimization Guide，包括了一些 M2 的微架构信息。
+ 现有评测¶
+ 网上已经有针对 Apple M2 微架构的评测和分析，建议阅读：
+  
+我们找到了 Windows 电脑续航差的原因！苹果 M2 深度分析
+ 不为人知的角落，Apple M2 的小小努力（其一）
+ Apple M2 Blizzard 微架构评测 (上)：阳春白雪
+ Apple M2 Blizzard 微架构评测 (中)：阳春白雪
+  
+下面分各个模块分别记录官方提供的信息，以及实测的结果。读者可以对照已有的第三方评测理解。官方信息与实测结果一致的数据会加粗。
+ Benchmark¶
+ Apple M2 Avalanche/Blizzard 的性能测试结果见 SPEC。
+ 前端¶
+ 取指带宽¶
+ Avalanche¶
+ 为了测试实际的 Fetch 宽度，参考 如何测量真正的取指带宽（I-fetch width） - JamesAslan 构造了测试，实验结果如下：
+ 
+ 可以看到每 16 条指令会多一个周期，因此 Avalanche 的前端取指宽度确实是 16 条指令，与 Apple M1 Firestorm 和 Apple M4 P-Core 都相同。
+ Blizzard¶
+ 用相同的方式测试 Blizzard，结果如下：
+ 
+ 可以看到每 8 条指令会多一个周期，意味着 Blizzard 的前端取指宽度为 8 条指令，和 Apple M1 Icestorm 相同，不过表现在图像上不太一样。
+ 测试过程详见测试代码…]]></summary>
+        <author>
+            <name>杰哥的{运维，编程，调板子}小笔记</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[只要快递还在路上，这日子就有盼头]]></title>
         <id>https://4311346.com/post/2026/0705-niu.html</id>
@@ -144,17 +424,6 @@ NXTUltra后轮爆胎
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Home Lab Defaults I Never Skip]]></title>
-        <id>https://www.virtualizationhowto.com/?p=313389</id>
-        <link href="https://www.virtualizationhowto.com/2026/07/the-home-lab-defaults-i-never-skip/"/>
-        <updated>2026-07-04T12:34:47.000Z</updated>
-        <summary type="html"><![CDATA[One of the things that sometimes gets overlooked with home labbing is that good defaults matter more than we might give them credit for. When I started building out lab…
-The post The Home Lab Defaults I Never Skip appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[于日常处 · 七月记]]></title>
         <id>https://bluehe.cn/archives/2026-diary</id>
         <link href="https://bluehe.cn/archives/2026-diary"/>
@@ -167,7 +436,7 @@ The post The Home Lab Defaults I Never Skip appeared first on Virtualization How
 聚餐
 这家南宁连锁的烧烤店，很好...]]></summary>
         <author>
-            <name>云心怀鹤</name>
+            <name>寻鹤</name>
         </author>
     </entry>
     <entry>
@@ -188,7 +457,7 @@ The post The Home Lab Defaults I Never Skip appeared first on Virtualization How
         <summary type="html"><![CDATA[我在使用的是腾讯云轻量应用服务器，免费快照额度只有2个，每一次都是手动删除旧快照再创建新快照实在太麻烦，问了客服也没有直接设置的功能，但好在提供了API接口来实现。
 所以当前使用了1Panel面板的计划任务和腾讯云API来实现：自动识别并删除旧的自动快照，...]]></summary>
         <author>
-            <name>云心怀鹤</name>
+            <name>寻鹤</name>
         </author>
     </entry>
     <entry>
@@ -199,26 +468,6 @@ The post The Home Lab Defaults I Never Skip appeared first on Virtualization How
         <summary type="html"><![CDATA[Explore Kubernetes Operators, the bridge to automating complex applications in Kubernetes, highlighting their architecture and utility.]]></summary>
         <author>
             <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年6月阅读书摘]]></title>
-        <id>6a486cc7014a770001866a90</id>
-        <link href="https://www.domon.cn/2026-6yue-yue-du-shu-zhai/"/>
-        <updated>2026-07-04T02:17:23.000Z</updated>
-        <summary type="html"><![CDATA[任何新奇的信息——出乎意料的新闻故事，或者猫咪做出不可思议行为的短视频——都会引发多巴胺分泌。这在短期内可能让你感觉良好，但随着时间的推移，你可能会沉迷于此，并因此降低智商。]]></summary>
-        <author>
-            <name>Domon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026年5月阅读书摘]]></title>
-        <id>6a486b07014a770001866a75</id>
-        <link href="https://www.domon.cn/2026-5yue-yue-du-shu-zhai/"/>
-        <updated>2026-07-04T02:12:28.000Z</updated>
-        <summary type="html"><![CDATA[选择简单模式，人生会越来越困难；选择困难模式，人生会越来越简单。]]></summary>
-        <author>
-            <name>Domon</name>
         </author>
     </entry>
     <entry>
@@ -241,17 +490,6 @@ The post The Home Lab Defaults I Never Skip appeared first on Virtualization How
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Weirdest Home Lab Network Problems I’ve Actually Run Into]]></title>
-        <id>https://www.virtualizationhowto.com/?p=313349</id>
-        <link href="https://www.virtualizationhowto.com/2026/07/the-weirdest-home-lab-network-problems-ive-actually-run-into/"/>
-        <updated>2026-07-03T12:06:43.000Z</updated>
-        <summary type="html"><![CDATA[There are definitely some home lab problems that are easier to diagnose. If you have a service you know about that crashes, a container that exits for some reason or…
-The post The Weirdest Home Lab Network Problems I’ve Actually Run Into appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Building Stateful AI Agent Workflows with LangGraph]]></title>
         <id>https://collabnix.com/building-stateful-ai-agent-workflows-with-langgraph/</id>
         <link href="https://collabnix.com/building-stateful-ai-agent-workflows-with-langgraph/"/>
@@ -269,17 +507,6 @@ The post The Weirdest Home Lab Network Problems I’ve Actually Run Into appeare
         <summary type="html"><![CDATA[FedRAMP automation platforms promise faster authorizations, lighter evidence workloads, and cleaner continuous-monitoring cycles. This guide compares six leading options and highlights where each one best fits. 1. Vanta: your all-rounder for cloud-native SaaS teams that need FedRAMP plus everything else Vanta is built for teams that want compliance to behave like the rest of their […]]]></summary>
         <author>
             <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The More I Learn, the Simpler My Home Lab Becomes]]></title>
-        <id>https://www.virtualizationhowto.com/?p=313299</id>
-        <link href="https://www.virtualizationhowto.com/2026/07/the-more-i-learn-the-simpler-my-home-lab-becomes/"/>
-        <updated>2026-07-02T12:13:46.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve followed my home lab journey over the past several years, you’ve probably noticed something interesting. My current production environment actually looks much less impressive than it used to.…
-The post The More I Learn, the Simpler My Home Lab Becomes appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
@@ -1120,6 +1347,44 @@ The post These Git Repositories Changed How I Manage My Home Lab appeared first 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ARM Neoverse V3 (代号 Poseidon) 微架构评测]]></title>
+        <id>https://jia.je/hardware/2026/06/13/arm-neoverse-v3/</id>
+        <link href="https://jia.je/hardware/2026/06/13/arm-neoverse-v3/"/>
+        <updated>2026-06-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ARM Neoverse V3 (代号 Poseidon) 微架构评测¶
+ 背景¶
+ 使用 ARM Neoverse V3 核心的 AWS Graviton 5 最近上线了，相比之前的 Neoverse V2 应该有一些改进，所以测试一下这个微架构在各个方面的表现。
+  
+官方信息¶
+ ARM 关于 Neoverse V3 微架构有如下公开信息：
+  
+Arm® Neoverse V3 Core Technical Reference Manual
+ Arm Neoverse V3 Software Optimization Guide
+  
+Neoverse V3 与 Cortex X4 高度相似，这里也列出 Cortex X4 的相关信息：
+  
+Arm Unveils 2023 Mobile CPU Core Designs: Cortex-X4, A720, and A520 - the Armv9.2 Family
+ Arm Cortex-X4 advances frontiers of CPU performance
+ Arm® Cortex‑X4 Core Technical Reference Manual
+  
+下面分模块记录官方信息和实测结果。官方信息与实测结果一致的数据会加粗。
+ 现有评测¶
+ 网上已经有 Neoverse V3 微架构的评测和分析，建议阅读：
+  
+最强 Arm 处理器 AWS Graviton5 架构剖析
+ Neoverse V3 微架构
+  
+下面分各个模块分别记录官方提供的信息，以及实测的结果。读者可以对照已有的第三方评测理解。官方信息与实测结果一致的数据会加粗。
+ Benchmark¶
+ Neoverse V3 (AWS Graviton 5) 的性能测试结果见 SPEC。
+ 前端¶
+ L1 ICache¶
+ 官方信息：64K…]]></summary>
+        <author>
+            <name>杰哥的{运维，编程，调板子}小笔记</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Best AI Tools for Developers in 2025: The Ultimate List]]></title>
         <id>https://collabnix.com/best-ai-tools-for-developers-in-2025-the-ultimate-list/</id>
         <link href="https://collabnix.com/best-ai-tools-for-developers-in-2025-the-ultimate-list/"/>
@@ -1127,6 +1392,18 @@ The post These Git Repositories Changed How I Manage My Home Lab appeared first 
         <summary type="html"><![CDATA[Explore the cutting-edge AI tools transforming software development by 2025, diving into how they enhance productivity, streamline processes, and integrate into workflows.]]></summary>
         <author>
             <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雨天出差的 3 件必备]]></title>
+        <id>https://dusays.com/archives/872/</id>
+        <link href="https://dusays.com/archives/872/"/>
+        <updated>2026-06-12T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>杜老师前几个月有一次出差正好赶上下雨，从酒店门口走到网约车上短短 5 分钟，整个包都湿透了。后来杜老师专门整理了一份”雨天出差必备”，今天就跟大家分享一下。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
         </author>
     </entry>
     <entry>
@@ -1279,6 +1556,18 @@ The post I Tried MicroCloud and It Might Be Canonical’s Most Interesting Home 
         <summary type="html"><![CDATA[本文为装修系列第4篇，前序文章：装修日记（1）：各种准备工作装修日记（2）：硬装装修日记（3）：软装去年装修收尾时，部分家电因担心贬值而未买。我们计划今年七月搬入，所以趁着近期的618大促买了几...]]></summary>
         <author>
             <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[桌面零食收纳的 2 个分区]]></title>
+        <id>https://dusays.com/archives/871/</id>
+        <link href="https://dusays.com/archives/871/"/>
+        <updated>2026-06-06T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>杜老师以前桌面零食是随手放，吃的时候一通翻。后来摸索出一套”零食分区”的方法，整整一年没再为找零食浪费时间。今天杜老师就把自己用了 1 年的 2 个分区分享给大家。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
         </author>
     </entry>
     <entry>
@@ -1466,6 +1755,18 @@ The post What Worked Great Until My Home Lab Got Bigger (And Why I Moved On) app
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[演示前一晚的 2 个检查清单]]></title>
+        <id>https://dusays.com/archives/870/</id>
+        <link href="https://dusays.com/archives/870/"/>
+        <updated>2026-05-31T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>杜老师前几年经常需要给同事、客户做演示，踩过几次坑后，摸索出一套”演示前一晚”的检查清单。今天杜老师就把自己用了 2 年的 2 个清单分享给大家。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[我把 Claude Code 的「大脑」移植到了 Pi Agent 里]]></title>
         <id>https://panzhixiang.cn/2026/pi-custom-extensions-blog/</id>
         <link href="https://panzhixiang.cn/2026/pi-custom-extensions-blog/"/>
@@ -1604,6 +1905,69 @@ The post Proxmox Datacenter Manager 1.1 Quietly Added Its Best Feature Yet appea
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SPEC CPU 2026 Workload Analysis (FP Rate)]]></title>
+        <id>https://jia.je/software/2026/05/29/spec-cpu-2026-workload-analysis-fp-rate-en/</id>
+        <link href="https://jia.je/software/2026/05/29/spec-cpu-2026-workload-analysis-fp-rate-en/"/>
+        <updated>2026-05-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SPEC CPU 2026 Workload Analysis (FP Rate)¶
+ 中文版本
+ Background¶
+ Following the INT Rate article, this article continues with the workload analysis of SPEC FP 2026 Rate.
+  
+The test environment is the same as the previous INT Rate article and won't be repeated here.
+ Recommended reading: Evaluating SPEC CPU2026 and SPEC CPU2026: Characterization, Representativeness, and Cross-Suite Comparison
+ SPEC FP 2026 Rate Analysis¶
+ 709.cactus_r¶
+ Cactus is a computational framework, used here to solve the Einstein equations in vacuum. Command:
+ 
+cactus ShiftedGaugeWave.par 
+ 
+Measured runtime is 103.4s, reftime is 858s, corresponding to 8.30 points. Performance under different compilers and flags:
+   
+ Compiler + Flags Time (s) Score Improvement over GCC 14 -O3 (%) 
+   
+ GCC 14 -O3 103.4 8.30 0 
+  GCC …]]></summary>
+        <author>
+            <name>杰哥的{运维，编程，调板子}小笔记</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPEC CPU 2026 负载特性分析（FP Rate 篇）]]></title>
+        <id>https://jia.je/software/2026/05/29/spec-cpu-2026-workload-analysis-fp-rate/</id>
+        <link href="https://jia.je/software/2026/05/29/spec-cpu-2026-workload-analysis-fp-rate/"/>
+        <updated>2026-05-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SPEC CPU 2026 负载特性分析（FP Rate 篇）¶
+ 本文同步发布到本人的知乎。
+ English version
+ 背景¶
+ 继 INT Rate 篇 后，本文继续分析 SPEC FP 2026 Rate 的负载特性。
+  
+测试环境与先前的 INT Rate 篇 相同，这里不再赘述。
+ 推荐阅读：Evaluating SPEC CPU2026 和 SPEC CPU2026: Characterization, Representativeness, and Cross-Suite Comparison
+ SPEC FP 2026 Rate 分析¶
+ 709.cactus_r¶
+ Cactus 是一个计算框架，这里用它来求解真空中的爱因斯坦方程。命令参数如下：
+ 
+cactus ShiftedGaugeWave.par 
+ 
+实测数据显示，运行时间为 103.4s，reftime 是 858s，对应 8.30 分。不同编译器和编译选项对 709.cactus_r 的优化情况如下：
+   
+ 编译器 + 选项 时间 (s) 分数 相比 GCC 14 -O3 性能提升 (%) 
+   
+ GCC 14 -O3 103.4 8.30 0 
+  GCC 14 -O3 -march=native 83.9 10.23 23 
+  GCC 14 -O3 -ffast-math 101.2 8.48 2 
+  GCC 14 -O3 -ljemalloc 100.7 8.52 3 
+  LLVM 22 -O3 94.6 9.07 9 
+  LLVM 22 -O3 -march=native 90.5 9.48 14 
+  
+ 可见 -march=native 能提供巨大的性能提升，LLVM 22 在 -O3 下比 GCC 14 快，不过 GCC 14 的 -O3 -marc…]]></summary>
+        <author>
+            <name>杰哥的{运维，编程，调板子}小笔记</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[纯Vibe零代码：一个纯前端证件照修改器的设计与实现]]></title>
         <id>https://www.txisfine.cn/archives/a78020a0.html</id>
         <link href="https://www.txisfine.cn/archives/a78020a0.html"/>
@@ -1736,6 +2100,18 @@ The post Docker on Windows Server Finally Felt Easier After I Tried VisualDock S
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[培训讲师的 PPT 怎么"听完"]]></title>
+        <id>https://dusays.com/archives/869/</id>
+        <link href="https://dusays.com/archives/869/"/>
+        <updated>2026-05-25T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>杜老师参加过几次技术培训，最早一次听 PPT 是死盯屏幕，结果一节课下来什么都没记住。后来杜老师摸索出一套”听完 PPT”的方法，今天跟大家分享一下。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Home Lab Alerts I Refuse to Live Without]]></title>
         <id>https://www.virtualizationhowto.com/?p=312139</id>
         <link href="https://www.virtualizationhowto.com/2026/05/the-home-lab-alerts-i-refuse-to-live-without/"/>
@@ -1851,6 +2227,40 @@ The post Proxmox VE 9.2 Is Here: 7 New Features That Actually Matter appeared fi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SPEC CPU 2026 Workload Analysis (INT Rate)]]></title>
+        <id>https://jia.je/software/2026/05/22/spec-cpu-2026-workload-analysis-int-rate-en/</id>
+        <link href="https://jia.je/software/2026/05/22/spec-cpu-2026-workload-analysis-int-rate-en/"/>
+        <updated>2026-05-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SPEC CPU 2026 Workload Analysis (INT Rate)¶
+ 中文版本
+ Background¶
+ I've been running some benchmarks with SPEC CPU 2026 recently, and plan to do in-depth workload analysis combined with the test results. This article focuses on SPEC INT 2026 Rate workload characteristics. For SPEC FP 2026 Rate analysis, see the FP Rate article.
+  
+Test environment: CPU is Intel i9-14900K P-Core @ 5.7 GHz, Linux distribution is Debian Trixie, compiler is GCC 14.2.0, default compilation flags are -O3. This CPU can actually boost up to 6.0 GHz, but occasionally fails to boost under single-core workloads for unknown reasons (degradation protection?), specifically manifesting as the CPU core being forced down to 4.7 GHz after running for a while. So I opted for the more reliably achievable 5.7 GHz. Only one physic…]]></summary>
+        <author>
+            <name>杰哥的{运维，编程，调板子}小笔记</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPEC CPU 2026 负载特性分析（INT Rate 篇）]]></title>
+        <id>https://jia.je/software/2026/05/22/spec-cpu-2026-workload-analysis-int-rate/</id>
+        <link href="https://jia.je/software/2026/05/22/spec-cpu-2026-workload-analysis-int-rate/"/>
+        <updated>2026-05-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SPEC CPU 2026 负载特性分析（INT Rate 篇）¶
+ 本文同步发布到本人的知乎。
+ English version
+ 背景¶
+ 最近用 SPEC CPU 2026 跑了一些基准测试，打算结合测试结果做一些深入的负载特性分析。本篇主要是分析 SPEC INT 2026 Rate 的负载特性，SPEC FP 2026 Rate 的分析请看 FP Rate 篇。
+  
+本文测试环境：CPU 为 Intel i9-14900K P-Core @ 5.7 GHz，Linux 发行版为 Debian Trixie，编译器是 GCC 14.2.0，默认编译选项是 -O3。其实这颗 CPU 最快能 Boost 到 6.0 GHz，但时不时因为未知原因（防缩缸？）在单核负载下也 Boost 不上去，具体表现为每跑一段时间后 CPU 核心就会强制降频到 4.7 GHz。故退而求其次，选择在更容易稳定达到的 5.7 GHz 频率来跑。能稳定跑到 6.0 GHz 的只有那一个物理 P 核，其他 P 核也都能上 5.7 GHz，降频了换一个核心即可。6.0 GHz 下的性能可以参考之前的测试结果：INT 和 FP，基本上，从 5.7 GHz 到 6.0 GHz，性能可以按频率线性放缩。本文可能针对同一个负载给出多个不同的运行时间，这可能是因为多次运行导致的性能波动，也可能是因为部分数字包含了 perf record 的开销，不过误差都很小，可以放心对比。本文所用的脚本已开源到 jiegec/spec2026。
+ 推荐阅读：Evaluating SPEC CPU2026 和 SPEC CPU2026: Characterization, Representativeness, and Cross-Suite Comparison
+ SPEC INT 2026 Rate 分析¶
+ 706…]]></summary>
+        <author>
+            <name>杰哥的{运维，编程，调板子}小笔记</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why I Run Some Things in Docker, Some in VMs, and Some in Kubernetes]]></title>
         <id>https://www.virtualizationhowto.com/?p=312060</id>
         <link href="https://www.virtualizationhowto.com/2026/05/why-i-run-some-things-in-docker-some-in-vms-and-some-in-kubernetes/"/>
@@ -1859,6 +2269,25 @@ The post Proxmox VE 9.2 Is Here: 7 New Features That Actually Matter appeared fi
 The post Why I Run Some Things in Docker, Some in VMs, and Some in Kubernetes appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPEC CPU 2026 在其他指令集上的编译]]></title>
+        <id>https://jia.je/software/2026/05/21/spec-cpu-2026-other-isa/</id>
+        <link href="https://jia.je/software/2026/05/21/spec-cpu-2026-other-isa/"/>
+        <updated>2026-05-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SPEC CPU 2026 在其他指令集上的编译¶
+ SPEC CPU 2026 官方只附带了 aarch64/ppc64le/riscv64/x86_64 指令集的预编译 tools，如果要在其他指令集上使用，就需要首先编译 tools，过程如下：
+ 
+cd /mnt && tar xvf install_archives/tools-src.tar wget -O config.guess 'https://git.savannah.gnu.org/gitweb/?p=config.git;a=blob_plain;f=config.guess;hb=HEAD' wget -O config.sub 'https://git.savannah.gnu.org/gitweb/?p=config.git;a=blob_plain;f=config.sub;hb=HEAD' cp config.* /mnt/tools/src/make-4.2.1/config/ # build tools mkdir -p /mnt/config cd /mnt && echo 'y' | SKIPTOOLSINTRO=1 FORCE_UNSAFE_CONFIGURE=1 MAKEFLAGS=-j16 ./tools/src/buildtools mkdir -p /mnt/config cd /mnt && . ./shrc && packagetools linux-loong64 
+ 
+例如下面是在 LoongArch 上编译 SPEC CPU 2026 的 Dockerfile，假设 SPEC CPU 2026 已经解压到 /mnt：
+ 
+RUN cd /mnt && tar xvf install_archives/tools-src.tar RUN wget -O config.guess 'https://git.savannah.gnu.org/gitweb/?p=config.git;a=blob_plain;f=config.guess;hb=HEAD' RUN wget -O config.sub 'https://git.savannah.gnu.org/gitweb/?p=config.git;a=blob_plain;f=config.sub;hb=HEAD' RUN cp config.* /mnt/tools/src/make-4.2.1/config/ # build tools RUN mkdir -p /mnt/config RUN cd /mnt && echo 'y' | SKIPTOOLSINTRO=1 FORCE_UNSAFE_CONFIGURE=1 MAKEFLAGS=-j16 ./tools/src/buildtools RUN mkdir -p /mnt/config RUN cd /mnt && . ./shrc && packagetools linux-loong64 RUN /mnt/install.sh -f 
+ 
+参考官方文档：Building the SPEC CPU®2026 Toolset。]]></summary>
+        <author>
+            <name>杰哥的{运维，编程，调板子}小笔记</name>
         </author>
     </entry>
     <entry>
@@ -1880,6 +2309,18 @@ The post The Proxmox VM Disk Settings I Change on Every New VM appeared first on
         <summary type="html"><![CDATA[Explore best practices for deploying OpenClaw AI agents in production, focusing on open-source framework integration, containerization, and adaptable deployment strategies.]]></summary>
         <author>
             <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[出差住酒店插座的 3 个用法]]></title>
+        <id>https://dusays.com/archives/868/</id>
+        <link href="https://dusays.com/archives/868/"/>
+        <updated>2026-05-19T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>杜老师经常出差，住过几十家酒店。酒店插座这件事看着不起眼，但用不好挺耽误事的。今天杜老师就把自己这两年总结出来的 3 个用法分享给大家。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
         </author>
     </entry>
     <entry>
@@ -2090,6 +2531,18 @@ The post I Changed My Default Proxmox Console and It Improved Everything appeare
         <summary type="html"><![CDATA[Learn how to effectively integrate OpenClaw with local LLMs like Ollama and LM Studio to build intelligent, efficient AI agent systems.]]></summary>
         <author>
             <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[培训笔记只记关键字的 3 个好处]]></title>
+        <id>https://dusays.com/archives/867/</id>
+        <link href="https://dusays.com/archives/867/"/>
+        <updated>2026-05-13T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>杜老师参加过几次技术培训，最早一次是全抄命令，抄完基本记不住。后来改成”只记关键字”，反而效果好得多。今天杜老师就把这个方法分享给大家。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
         </author>
     </entry>
     <entry>
@@ -2338,6 +2791,18 @@ The post Why Proxmox Wasn’t Reclaiming Storage Until I Fixed This Setting appe
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[通勤最后 10 分钟的"减速"技巧]]></title>
+        <id>https://dusays.com/archives/866/</id>
+        <link href="https://dusays.com/archives/866/"/>
+        <updated>2026-05-07T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>杜老师最近养成了一个习惯：下班通勤的最后 10 分钟，不再骑完，而是推着车走完。听起来挺奇怪，但这几个月下来，杜老师自己感觉整个人的状态明显好了。今天就跟大家讲讲这个事。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Proxmox Networking Mistakes That Quietly Break Your Home Lab]]></title>
         <id>https://www.virtualizationhowto.com/?p=311499</id>
         <link href="https://www.virtualizationhowto.com/2026/05/proxmox-networking-mistakes-that-quietly-break-your-home-lab/"/>
@@ -2527,6 +2992,18 @@ The post I Tried New Proxmox Tools in May 2026 and Only a Few Made the Cut appea
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[两人吃外卖的 2 个小默契]]></title>
+        <id>https://dusays.com/archives/865/</id>
+        <link href="https://dusays.com/archives/865/"/>
+        <updated>2026-05-01T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>杜老师跟伴侣经常一起吃外卖，磨合了一年多，慢慢形成了一些小默契。今天杜老师就把自己觉得特别管用的 2 个分享给大家。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[这个开源 Agent 框架的核心设计，可能是目前最「聪明」的取舍]]></title>
         <id>https://panzhixiang.cn/2026/pi-agent-extension-design/</id>
         <link href="https://panzhixiang.cn/2026/pi-agent-extension-design/"/>
@@ -2711,6 +3188,18 @@ The post I Use Packer to Automate Ubuntu Server 26.04 on Proxmox and It Saves Me
         <summary type="html"><![CDATA[Nemoclaw vs Openclaw: A Detailed Comparison Guide I installed both, ran the same agent through each, and watched what they actually let through. Here’s the practical breakdown for developers. If you’ve been anywhere near the agentic AI space in the last six months, you’ve heard of OpenClaw. It went from a side project to 321,000+ […]]]></summary>
         <author>
             <name>Ajeet Raina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[深夜吃夜宵的 3 个节制技巧]]></title>
+        <id>https://dusays.com/archives/864/</id>
+        <link href="https://dusays.com/archives/864/"/>
+        <updated>2026-04-25T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>杜老师以前深夜吃夜宵的频率挺高的，泡面、辣条、肉干样样都来。最近一段时间杜老师调整了一下，发现只要方法对，节制夜宵并不是什么难事。今天杜老师就把自己用过的 3 个技巧分享给大家。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
         </author>
     </entry>
     <entry>
@@ -2912,6 +3401,18 @@ The post I Installed Flatcar Linux on Proxmox and It’s Not Like a Normal Linux
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[橘猫经常跳上书桌的 3 个应对]]></title>
+        <id>https://dusays.com/archives/863/</id>
+        <link href="https://dusays.com/archives/863/"/>
+        <updated>2026-04-19T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>杜老师家里有一只橘白相间的猫，平时最爱跳上书桌”监工”。一开始杜老师挺困扰的，后来摸索出一套应对方案，今天就跟大家分享一下。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Running GitHub Copilot CLI on Open Models with Ollama]]></title>
         <id>https://collabnix.com/?p=73368</id>
         <link href="https://collabnix.com/running-github-copilot-cli-on-open-models-with-ollama/"/>
@@ -2984,26 +3485,6 @@ The post I Thought I Had the Best Docker OS in My Home Lab Until I Tried This ap
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OpenClaw vs AutoGen: Comparing Open Source AI Agent Frameworks]]></title>
-        <id>https://collabnix.com/openclaw-vs-autogen-comparing-open-source-ai-agent-frameworks-2/</id>
-        <link href="https://collabnix.com/openclaw-vs-autogen-comparing-open-source-ai-agent-frameworks-2/"/>
-        <updated>2026-04-17T03:51:25.000Z</updated>
-        <summary type="html"><![CDATA[Explore a comparative analysis of OpenClaw and AutoGen, two open-source AI agent frameworks, to understand their features, capabilities, and use cases.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClaw vs AutoGen: Comparing Open Source AI Agent Frameworks]]></title>
-        <id>https://collabnix.com/openclaw-vs-autogen-comparing-open-source-ai-agent-frameworks/</id>
-        <link href="https://collabnix.com/openclaw-vs-autogen-comparing-open-source-ai-agent-frameworks/"/>
-        <updated>2026-04-17T03:50:53.000Z</updated>
-        <summary type="html"><![CDATA[Explore a comparative analysis of OpenClaw and AutoGen, two open-source AI agent frameworks, to understand their features, capabilities, and use cases.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I Thought ZFS Was Required for Proxmox Replication in My Home Lab but I Was Wrong]]></title>
         <id>https://www.virtualizationhowto.com/?p=311100</id>
         <link href="https://www.virtualizationhowto.com/2026/04/i-thought-zfs-was-required-for-proxmox-replication-in-my-home-lab-but-i-was-wrong/"/>
@@ -3012,27 +3493,6 @@ The post I Thought I Had the Best Docker OS in My Home Lab Until I Tried This ap
 The post I Thought ZFS Was Required for Proxmox Replication in My Home Lab but I Was Wrong appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quick Start Guide to Setting Up a Local Kubernetes Cluster with Kind]]></title>
-        <id>https://collabnix.com/quick-start-guide-to-setting-up-a-local-kubernetes-cluster-with-kind/</id>
-        <link href="https://collabnix.com/quick-start-guide-to-setting-up-a-local-kubernetes-cluster-with-kind/"/>
-        <updated>2026-04-16T03:52:44.000Z</updated>
-        <summary type="html"><![CDATA[Learn to set up a local Kubernetes cluster using Kind with this comprehensive guide. Perfect for developers looking to emulate production environments locally.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I don't want a screenshot of your Claude conversation]]></title>
-        <id>https://daverupert.com/2026/04/claude-no/</id>
-        <link href="https://daverupert.com/2026/04/claude-no/"/>
-        <updated>2026-04-15T15:17:00.000Z</updated>
-        <summary type="html"><![CDATA[The number of screenshots of Claude conversations is going up in my life and it’s beginning to have an impact on my general mood. Most of the time it’s well-intended; coworkers working through a problem with a chatbot before bothering me or someone exploring unconventional ideas before bringing it to a broader audience. Both of those situations seem considerate. A tool for thought, as it were.
-It’s probably good practice to do your own research before you rope in another person on a cognitive task. But a small thread in the reliability of these tools-for-thought begins to unwind due to the well-documented sycophantic nature of engagement-thirsty language models. One of my favorite studies is Anthropic’s own study (2023), when asked to review an argument with I wrote this [...], the LLM gav…]]></summary>
-        <author>
-            <name>daverupert.com</name>
         </author>
     </entry>
     <entry>
@@ -3047,66 +3507,6 @@ The post I’m Now Running Ceph and iSCSI in My Proxmox Home Lab. Here’s Why a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mastering RAG Chatbot Development with LangChain and ChromaDB]]></title>
-        <id>https://collabnix.com/mastering-rag-chatbot-development-with-langchain-and-chromadb/</id>
-        <link href="https://collabnix.com/mastering-rag-chatbot-development-with-langchain-and-chromadb/"/>
-        <updated>2026-04-15T07:51:04.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to build a powerful RAG chatbot using LangChain and ChromaDB with this in-depth Python tutorial. Discover the intricacies of integrating sophisticated AI models with scalable vector databases to create a responsive and intelligent chatbot.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Develop AI Agents Using Function Calling with OpenAI and Claude]]></title>
-        <id>https://collabnix.com/develop-ai-agents-using-function-calling-with-openai-and-claude/</id>
-        <link href="https://collabnix.com/develop-ai-agents-using-function-calling-with-openai-and-claude/"/>
-        <updated>2026-04-15T03:53:23.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to effectively use function calling to build AI agents with OpenAI and Claude, ensuring scalable and efficient applications.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Autonomous AI Agents Become Secure by Design With Docker Sandboxes]]></title>
-        <id>https://collabnix.com/?p=73340</id>
-        <link href="https://collabnix.com/how-autonomous-ai-agents-become-secure-by-design-with-docker-sandboxes/"/>
-        <updated>2026-04-15T03:10:57.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been running AI coding agents for a while now. Claude Code on my MacBook, pointed at a project directory, autonomously editing files, running tests, pushing commits. It’s genuinely useful — the kind of useful that makes you wonder how you shipped code without it. But a few months ago I started asking myself a […]]]></summary>
-        <author>
-            <name>Ajeet Raina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[搞了一台赛博 OTDR —— 上海信测 OTDR云盒]]></title>
-        <id>https://www.txisfine.cn/archives/f29df958.html</id>
-        <link href="https://www.txisfine.cn/archives/f29df958.html"/>
-        <updated>2026-04-14T17:57:15.000Z</updated>
-        <summary type="html"><![CDATA[差生文具多，最近买了一个挺有意思的小设备，上海信测的 OTDR 云盒。 家里从运营商扩容箱里拉了一根光缆，也就不到 100m 吧，运营商测光是 11dBm，过光缆（入户侧）测光变成了 25dBm，光缆双端都是热熔的没啥问题啊，到底是哪里折了？ 于是这个赛博 OTDR 就来了，一个巴掌大的盒子，配合手机 App，不仅具备 OTDR 功能，还可以做光功率测试、打红光源、光万用表、损耗测试、光猫资源清查...]]></summary>
-        <author>
-            <name>弹霄博科</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why AI Agent Orchestration Security Is the New Cloud Attack Surface]]></title>
-        <id>https://collabnix.com/?p=73336</id>
-        <link href="https://collabnix.com/why-ai-agent-orchestration-security-is-the-new-cloud-attack-surface/"/>
-        <updated>2026-04-14T17:14:14.000Z</updated>
-        <summary type="html"><![CDATA[What You’ll Learn As enterprises adopt AI agents, not just standalone generative AI tools, the security problem shifts with them. Unlike traditional GenAI systems that primarily generate responses, AI agents can call tools, access internal data, and take actions across cloud and SaaS environments. This shift is giving rise to a new category: AI agent […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[External Storage Solutions and Data Management for Apple Devices]]></title>
-        <id>https://collabnix.com/?p=73333</id>
-        <link href="https://collabnix.com/external-storage-solutions-and-data-management-for-apple-devices/"/>
-        <updated>2026-04-14T16:02:19.000Z</updated>
-        <summary type="html"><![CDATA[What are the best external storage and data management solutions for Apple devices? Check out SSD and HDD recommendations and performance insights in this guide.]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[My Daily Home Lab Checklist That Prevents Most Problems]]></title>
         <id>https://www.virtualizationhowto.com/?p=311055</id>
         <link href="https://www.virtualizationhowto.com/2026/04/my-daily-home-lab-checklist-that-prevents-most-problems/"/>
@@ -3115,17 +3515,6 @@ The post I’m Now Running Ceph and iSCSI in My Proxmox Home Lab. Here’s Why a
 The post My Daily Home Lab Checklist That Prevents Most Problems appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When moving fast, talking is the first thing to break]]></title>
-        <id>https://daverupert.com/2026/04/more-talk-less-grok/</id>
-        <link href="https://daverupert.com/2026/04/more-talk-less-grok/"/>
-        <updated>2026-04-13T15:10:00.000Z</updated>
-        <summary type="html"><![CDATA[When you make speed and “moving fast” the biggest priority on a project or in an organization, the first thing to breakdown is talking to each other. Talking takes time. Consensus is expensive and slow. In a pressurized environment there’s no time to schedule calls, get input from subject matter experts, or resolve key differences of opinion. ASAP makes a big assumption that all relevant parties are already in the room.
-Not everything needs to be a conversation. I’m a firm believer in “get the user something to see if there’s interest”. I’d agree that over-thinking a problem and under-thinking a problem both have pitfalls. But dozens of ways exist to get feedback from users on in-progress work without overcommitting to a particular design. By prioritizing speed over talking, cross-org coll…]]></summary>
-        <author>
-            <name>daverupert.com</name>
         </author>
     </entry>
     <entry>
@@ -3140,36 +3529,6 @@ The post I Tried borg-ui in My Home Lab and It Made Backups Way Easier appeared 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[莫名其妙的晕眩+呕吐，难道是耳石症？]]></title>
-        <id>https://4311346.com/post/2026/0413-bppv.html</id>
-        <link href="https://4311346.com/post/2026/0413-bppv.html"/>
-        <updated>2026-04-12T17:18:03.000Z</updated>
-        <summary type="html"><![CDATA[04月09日（周四）武汉暴雨，中午吃过午餐后在会议室和同事掰扯了几十分钟后回到办公室，座在沙发上准备给同事交代3个事项，第1条说了一半之后开始一阵晕眩（不是头疼）。还没给同事交代完第3项，就忍不住冲到楼梯间开始呕吐。
-当日午餐瞬间全部吐完，至少吐了5-6次之后，实在是再吐不出来啥了，但只要进到办公室深处，就犯恶心… 看来是真的不想上班。
-随后请假去了医院看急症，血压正常、血液正常、脑CT等一切正常，但还是持续的连续性晕眩。
-医生给开了点防晕眩的药物后，回家休息~如果3天后还晕眩不止，再去耳鼻喉科看… 说是有耳石症的怀疑
-次日居然还能保持平衡，以70km+的时速骑小牛上下班…
-当然~ 今日已基本没在有晕眩的感觉了… 不知道是否是恢复了。
-回忆事发过程
-
-活了40年了从来没有这么的晕眩过… 这次算是体验到了，估计出海跑船一年几十万的活以后是干不了…
-我也不相信自己会得什么耳石症… 听说恢复期很长，而且超级难受，还容易复发。
-虽然次日至今都没再有晕眩的感觉，但自己认为大概率可能是颈椎相关疾病，这半年来倒头睡沙发的次数越来越多，虽然平躺在沙发上也是比较舒服的，但不排除有时候在沙发贵妃位上坐着睡着了，然后慢慢的竖着滑下，导致颈部受力特别严重，几次醒来后，扭头都受限。
-– 关于 耳石症 – 希望不是自己
-耳石症在医学上称为良性阵发性位置性眩晕（BPPV），是最常见的眩晕病因。它本质上不是“耳结石”或耳朵里有石头，而是内耳中负责人体平衡的微小碳酸钙结晶（耳石）脱落，掉入了敏感的半规管中。
-当自己转头、翻身或抬头时，这些脱落的耳石会像玻璃珠一样滚动，刺激平衡神经，从而引发剧烈的短暂眩晕。
-
-
-
-
-不知道后续会怎么样~
-但在这次莫名其妙的晕眩+呕吐之前，保命要紧，早已下单 乐至宝单人沙发…
-武汉乐至宝45天-60天的送货周期，有点要命！！！]]></summary>
-        <author>
-            <name>Andy烧麦 - 成熟，聪明，豁达的人什么也不问 过去，现在，将来…</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[拆解 Claude Code：它是怎么在 200K 上下文里"永远不会聊爆"的]]></title>
         <id>https://panzhixiang.cn/2026/claude-code-context-compression/</id>
         <link href="https://panzhixiang.cn/2026/claude-code-context-compression/"/>
@@ -3177,66 +3536,6 @@ The post I Tried borg-ui in My Home Lab and It Made Backups Way Easier appeared 
         <summary type="html"><![CDATA[源码揭示 Claude Code 的 6 层渐进式压缩架构，从工具截断、大结果落盘、并行预算、微压缩到全量摘要，解读它如何在 200K 上下文窗口中持续工作而不会"爆掉"]]></summary>
         <author>
             <name>潘智祥</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Attack Surface Management Is Becoming Essential for Managing Third-Party Risk]]></title>
-        <id>https://collabnix.com/?p=73329</id>
-        <link href="https://collabnix.com/why-attack-surface-management-is-becoming-essential-for-managing-third-party-risk/"/>
-        <updated>2026-04-12T14:54:52.000Z</updated>
-        <summary type="html"><![CDATA[Dealing with third-party risk is no longer confined to annual reviews, vendor questionnaires, and procurement checklists. Most organizations now depend on a wider, ever-evolving network of SaaS providers, microservices (AI-powered and otherwise), cloud platforms, contractors, APIs, managed service providers, and partner-connected systems. Each relationship can add new internet-facing assets, inherited dependencies, and indirect paths […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2026 春节叙事]]></title>
-        <id>https://bluehe.cn/archives/spring-festival-2026</id>
-        <link href="https://bluehe.cn/archives/spring-festival-2026"/>
-        <updated>2026-04-12T14:25:00.000Z</updated>
-        <summary type="html"><![CDATA[自从忙起来后，更新速度直线下降，希望能在五一前，把库存都清空了。
-
-调休后我于2月15日就回到了镇上，父亲来接我，先带去我拜神的地方换一把锁，功德箱这里不久前被人砸开了，这几年都很流行修缮，以前就是在树木后面，没有明显的特点，现在砍掉空地，铺上上水泥，干净...]]></summary>
-        <author>
-            <name>云心怀鹤</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[春天]]></title>
-        <id>https://www.skyue.com/26041216.html</id>
-        <link href="https://www.skyue.com/26041216.html"/>
-        <updated>2026-04-12T08:39:00.000Z</updated>
-        <summary type="html"><![CDATA[上一篇我分享了「一周换三个育儿嫂」的混乱经历，而这段经历的结局，是第三个育儿嫂也于3月29日悻然离场。]]></summary>
-        <author>
-            <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 时代的本科 CS 教育随想]]></title>
-        <id>https://jia.je/misc/2026/04/12/ai-era-cs-education/</id>
-        <link href="https://jia.je/misc/2026/04/12/ai-era-cs-education/"/>
-        <updated>2026-04-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AI 时代的本科 CS 教育随想¶
- 背景¶
- 前几天参加了系里的关于 AI 时代的 CS 教育的研究生论坛，在论坛上我分享了一些小的思考，也在论坛上得到了许多不同的想法，于是把一些想法记录下来，过一段时间再回来看看，到底 CS 教育应该怎么办。
-  
-叠甲¶
- 本文仅代表本人观点，不代表本系或本校的观点，请勿扩大解读！请不要让我上 AI 三大顶会（机、量、新），谢谢！但欢迎大家参与到这个讨论当中，因为目前谁也不知道未来应该怎么做。
- 现状¶
- 为了让读者了解背景，首先要知道前 AI 时代的 CS 教育大概是怎样的：本科的时候先上编程课，教大家各种编程语言，然后逐渐深入到各个领域，课上讲授知识点，课下通过工程训练来夯实，由于计算机是工科，这里面通过不断的工程实践来获取经验，是很重要的一个部分。这一部分学习过程很辛苦，但是确实很有效果，可以说几乎每一位系友都是这么锻炼过来的。
- 下面这一段，如果你还在读本科，请不要点开，点开了也请忘掉，按照老师的要求去做：
- 但是，现在 AI 时代来临，很多事情都发生了变化。首先，AI 编程能力很强，大一同学辛辛苦苦学完一年，然后发现自己写的代码还不如 AI 写得好写得快，内心的挫败感和对这种古法编程的学习方法的质疑是无与伦比的。这对课程的教学产生了很大的冲击，因为人很难克制自己的懒惰，面对巨大的诱惑，其实很难静下心去学习这些已经由 AI 掌握的基础课程。论坛上有同学做了个比喻，计算器被发明了以后，人类没有失去心算的能力，因为你为了去用好计算器，还是要知道这些基础知识，从小学起，然后到某一个年级告诉你可以用计算器，然后各种考试还可以出计算器没法解决的题目。但是，AI 的能力边界太大了，它能解决从简单到困难的各种问题，只是有一定的概率解决出来是错的。其次，即使是前几年我们还会觉得，专业核心课的大作业还很难由 AI 完成，似乎还能通过大作业的难度…]]></summary>
-        <author>
-            <name>杰哥的{运维，编程，调板子}小笔记</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[卫健委《原发性肝癌诊疗指南（2026年版）》更新要点]]></title>
-        <id>http://whyes.org/2026/cnlc-guideline-hcc-2026</id>
-        <link href="http://whyes.org/2026/cnlc-guideline-hcc-2026"/>
-        <updated>2026-04-11T13:11:26.000Z</updated>
-        <author>
-            <name>whyes 的博客</name>
         </author>
     </entry>
     <entry>
@@ -3262,40 +3561,6 @@ The post I Almost Gave Up on Proxmox iSCSI Storage in My Home Lab Then This Work
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LangGraph创建可控agent]]></title>
-        <id>https://nops.icu/archives/239/</id>
-        <link href="https://nops.icu/archives/239/"/>
-        <updated>2026-04-10T10:33:00.000Z</updated>
-        <summary type="html"><![CDATA[近期做了一系列langgraph视频，在个人视频号]]></summary>
-        <author>
-            <name>季兴</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大模型到底在干嘛]]></title>
-        <id>https://www.dreamlyn.cn/2436918477.html</id>
-        <link href="https://www.dreamlyn.cn/2436918477.html"/>
-        <updated>2026-04-10T06:02:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p><strong>本周，谷歌官方推出了一款苹果手机 App，为手机提供离线使用的 Gemma 4 模型。不需要上网，手机也能使用大模型了。</strong></p>
-</blockquote>
-<!-- 这是一张图片，ocr 内容为： -->
-<im]]></summary>
-        <author>
-            <name>牧尘的NAS小站</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[15 Mistakes to Avoid When Using AI for Presentations]]></title>
-        <id>https://collabnix.com/?p=73322</id>
-        <link href="https://collabnix.com/15-mistakes-to-avoid-when-using-ai-for-presentations/"/>
-        <updated>2026-04-10T05:40:42.000Z</updated>
-        <summary type="html"><![CDATA[Artificial Intelligence, or AI, has become a popular tool for creating presentations. People prefer it because it saves time and makes the process easier. AI can help you brainstorm ideas, create slides, suggest images, and even write your script. When using an AI presentation generator, you do not have to start from scratch. Instead, you […]]]></summary>
-        <author>
-            <name>Tanvir Kour</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I Added This to My Docker Compose and It Changed Everything]]></title>
         <id>https://www.virtualizationhowto.com/?p=310861</id>
         <link href="https://www.virtualizationhowto.com/2026/04/i-added-this-to-my-docker-compose-and-it-changed-everything/"/>
@@ -3304,36 +3569,6 @@ The post I Almost Gave Up on Proxmox iSCSI Storage in My Home Lab Then This Work
 The post I Added This to My Docker Compose and It Changed Everything appeared first on Virtualization Howto.]]></summary>
         <author>
             <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欧拉22.04容器内sudo 被 killed]]></title>
-        <id>http://zhangguanzhang.github.io/2026/04/09/openeuler-sudo-killed/</id>
-        <link href="http://zhangguanzhang.github.io/2026/04/09/openeuler-sudo-killed/"/>
-        <updated>2026-04-09T09:10:30.000Z</updated>
-        <summary type="html"><![CDATA[<p>记录下一次欧拉容器内sudo无法使用的排查过程。</p>]]></summary>
-        <author>
-            <name>Zhangguanzhang</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Cloud Native Developers Should Attend Drone Expo 2026]]></title>
-        <id>https://collabnix.com/?p=73311</id>
-        <link href="https://collabnix.com/why-cloud-native-developers-should-care-about-drone-expo-2026-in-bengaluru/"/>
-        <updated>2026-04-09T06:33:52.000Z</updated>
-        <summary type="html"><![CDATA[If you work in DevOps, cloud‑native, or open‑source infrastructure, drones might seem far from your day‑to‑day Kubernetes clusters and CI pipelines. But in 2026, modern drones look a lot like distributed systems with rotors: they run open‑source stacks, talk to ROS 2, stream telemetry to the cloud, and depend on the same observability, security, and […]]]></summary>
-        <author>
-            <name>Simran Agarwal</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[两台Spark“并联”真比一台好吗？]]></title>
-        <id>https://nops.icu/archives/236/</id>
-        <link href="https://nops.icu/archives/236/"/>
-        <updated>2026-04-09T02:55:00.000Z</updated>
-        <summary type="html"><![CDATA[结论联机优势，跑大尺寸模型，对单个请求延迟有高要求。否则单机部署更灵活。测试项单机双机实际提升并发 3 路10.63 tok/s15.07 tok/s+42%长文本3.76 tok/s6.10 ...]]></summary>
-        <author>
-            <name>季兴</name>
         </author>
     </entry>
     <entry>
@@ -3398,17 +3633,6 @@ The post 5 Operating Systems I Wouldn’t Run My Home Lab Without in 2026 appear
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Inverted themes with light-dark()]]></title>
-        <id>https://daverupert.com/2026/04/inverted-light-dark/</id>
-        <link href="https://daverupert.com/2026/04/inverted-light-dark/"/>
-        <updated>2026-04-07T15:31:00.000Z</updated>
-        <summary type="html"><![CDATA[We rolled out adaptive light-dark() support on our design system themes and it’s been a delightful upgrade. Creating light and dark variable sets isn’t difficult, but delivery has trade-offs. Most apps that do this probably ship both sets of token values in a single stylesheet. That’s fine until you have multiple kilobytes of duplicate definitions. To get around the performance problems we built two separate stylesheets –which is also not great– but my coworker Zacky found a good trick with <link disabled> to make it tolerable. Ultimately, we wanted to offer a single stylesheet for our human (and agent) friends to control theming.
-Having light-dark() makes it trivial to support dual color modes in a single stylesheet and doesn’t add too much weight (0.5kb gzip for ~500 variables). It also …]]></summary>
-        <author>
-            <name>daverupert.com</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[10 Ceph Commands I Use in My Proxmox Home Lab]]></title>
         <id>https://www.virtualizationhowto.com/?p=310810</id>
         <link href="https://www.virtualizationhowto.com/2026/04/10-ceph-commands-i-use-in-my-proxmox-home-lab/"/>
@@ -3450,6 +3674,17 @@ The post 10 Ceph Commands I Use in My Proxmox Home Lab appeared first on Virtual
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[I Thought My Kubernetes Backups Worked in My Home Lab but I Was Wrong]]></title>
+        <id>https://www.virtualizationhowto.com/?p=310785</id>
+        <link href="https://www.virtualizationhowto.com/2026/04/i-thought-my-kubernetes-backups-worked-in-my-home-lab-but-i-was-wrong/"/>
+        <updated>2026-04-06T12:58:53.000Z</updated>
+        <summary type="html"><![CDATA[This weekend I went down an absolute rabbit hole that I think most home labbers eventually hit when they start getting more and more into Kubernetes and that is backups.…
+The post I Thought My Kubernetes Backups Worked in My Home Lab but I Was Wrong appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[mahonzhan/awesome-coding-plan: 各厂家 Coding Plan 实际价值对比]]></title>
         <id>https://github.com/mahonzhan/awesome-coding-plan</id>
         <link href="https://github.com/mahonzhan/awesome-coding-plan"/>
@@ -3457,6 +3692,16 @@ The post 10 Ceph Commands I Use in My Proxmox Home Lab appeared first on Virtual
         <summary type="html"><![CDATA[各厂家 Coding Plan 实际价值对比. Contribute to mahonzhan/awesome-coding-plan development by creating an account on GitHub.]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年3月阅读书摘]]></title>
+        <id>69d32641014a770001866a36</id>
+        <link href="https://www.domon.cn/2026-3yue-yue-du-shu-zhai/"/>
+        <updated>2026-04-06T03:22:24.000Z</updated>
+        <summary type="html"><![CDATA[时代就在身边，很多时候，我们对此会毫无感知，觉得一切都是理所当然。]]></summary>
+        <author>
+            <name>Domon</name>
         </author>
     </entry>
     <entry>
@@ -3530,6 +3775,17 @@ The post 10 Ceph Commands I Use in My Proxmox Home Lab appeared first on Virtual
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[I Still Run These Docker Containers Every Day in 2026 (After Moving to Kubernetes)]]></title>
+        <id>https://www.virtualizationhowto.com/?p=310755</id>
+        <link href="https://www.virtualizationhowto.com/2026/04/i-still-run-these-docker-containers-every-day-in-2026-after-moving-to-kubernetes/"/>
+        <updated>2026-04-04T13:13:45.000Z</updated>
+        <summary type="html"><![CDATA[One of the assumptions that I think many make when moving to Kubernetes is that when you migrate, it is “all or nothing” from Docker. I probably thought that too…
+The post I Still Run These Docker Containers Every Day in 2026 (After Moving to Kubernetes) appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[pixelspark/sushitrain: 使用 Syncthing 在 iOS 设备上安全同步文件]]></title>
         <id>https://github.com/pixelspark/sushitrain</id>
         <link href="https://github.com/pixelspark/sushitrain"/>
@@ -3567,6 +3823,17 @@ The post 10 Ceph Commands I Use in My Proxmox Home Lab appeared first on Virtual
         <summary type="html"><![CDATA[Laravel HTTP Request to Curl Command. Contribute to jigar-dhulla/laravel-http-to-curl development by creating an account on GitHub.]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Replaced Docker with Kubernetes in My Home Lab and It Wasn’t What I Expected]]></title>
+        <id>https://www.virtualizationhowto.com/?p=310723</id>
+        <link href="https://www.virtualizationhowto.com/2026/04/i-replaced-docker-with-kubernetes-in-my-home-lab-and-it-wasnt-what-i-expected/"/>
+        <updated>2026-04-03T13:20:34.000Z</updated>
+        <summary type="html"><![CDATA[It has taken me quite a long time to get my home lab where it is today. You struggle, you learn, you struggle, and then you learn more. This is…
+The post I Replaced Docker with Kubernetes in My Home Lab and It Wasn’t What I Expected appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
@@ -3804,37 +4071,6 @@ The post 10 Ceph Commands I Use in My Proxmox Home Lab appeared first on Virtual
         <summary type="html"><![CDATA[Fast PHP language server with deep type intelligence. Generics, Laravel, PHPStan annotations. Ready in an instant. - AJenbo/phpantom_lsp]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SDRAM 在不同访存模式下的带宽分析与实验]]></title>
-        <id>https://jia.je/hardware/2026/03/26/sdram-bandwidth/</id>
-        <link href="https://jia.je/hardware/2026/03/26/sdram-bandwidth/"/>
-        <updated>2026-03-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[SDRAM 在不同访存模式下的带宽分析与实验¶
- 背景¶
- 最近在和 @CircuitCoder 交流 SDRAM（通常简写为 DRAM，或更进一步简写为 DDR）的各种性能指标，于是想到利用现有的 DRAMSim3 和 Ramulator2 做一些模拟测试，看看各种访存模式下可以实现峰值带宽的多少比例，再结合时序验证理论与模拟结果是否吻合。实验相关代码已开源至 jiegec/dram-bench。
-  
-SDRAM 背景¶
- 首先简单回顾 SDRAM 的背景，我的知识库中有更详细的介绍，这里仅提炼几个便于理解后续内容的要点，完整的 SDRAM 介绍请移步知识库：
-  
-SDRAM 由多级层次组成：
- Channel：对应内存控制器的通道数量，通常每个 Channel 对应 64 位的数据总线
- Rank：每个 Channel 内可能有多个 Rank，这些 Rank 共享总线
- Bank Group：在 DDR4 引入，每个 Rank 有多个 Bank Group
- Bank：每个 Bank Group 有多个 Bank
- Row：每个 Bank 内部同时只有一个 Row 被激活
- Column：激活的 Row 内，每个 Column 对应保存数据的 Cell
-  
- 如何读写 SDRAM 中的数据：
- 首先根据数据的地址找到对应的 Channel/Rank/Bank Group/Bank/Row/Column，如：
- Row 地址等于地址的 [33:18] 位，共 65536 个 Row
- Rank 地址等于地址的 [17:17] 位，共 2 个 Rank
- Bank 地址等于地址的 [16:15] 位，每个 Bank Group 内有 4 个 Bank
- Bank Group 地址等于地址的 [14:13] 位，共 4 个 Bank Group
- Column 地址等于…]]></summary>
-        <author>
-            <name>杰哥的{运维，编程，调板子}小笔记</name>
         </author>
     </entry>
     <entry>
@@ -4084,6 +4320,28 @@ SDRAM 由多级层次组成：
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Upgrading an Older Home: Heat Pumps, Air Sealing and Smart Energy with Paul Braren]]></title>
+        <id>articles/hgg674</id>
+        <link href="https://tinkertry.com/articles/hgg674"/>
+        <updated>2026-03-17T22:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Always fun to catch up with Jim! Here's his podcast announcement with extensive show notes:
+
+
+Posted on Sat March 14, 2026 by Jim Collison
+Thanks for listening!
+SUBSCRIBE
+Shownotes Links
+Geothermal vs Air Source Heat Pump: Which is Worth It? – Featured on Undecided with Matt Ferrell (Feb 24, 2026). Side-by-side comparison of Matt’s geothermal system and Paul’s air source heat pumps across two all-electric homes.
+Heat Pump Comparison & Paul Braren Interview – Featured on Still TBD Podcast (Mar 4, 2026). Extended interview diving deeper into the real-world tradeoffs between ground source and air source heat pumps in cold climates.
+
+TinkerTry’s 2025 Home Tech Refresh
+Insights That’ll Help You and Your Contractor Plan for Comfort
+Solar Roof vs Solar Panels: Which is Worth It? - TinkerTry's hom…]]></summary>
+        <author>
+            <name>TinkerTry</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[webadderall/Recordly: 一个免费的开源 Screen Studio 替代品，为你的屏幕录制添加自动缩放、光标动画等功能。]]></title>
         <id>https://github.com/webadderall/Recordly</id>
         <link href="https://github.com/webadderall/Recordly"/>
@@ -4320,23 +4578,6 @@ SDRAM 由多级层次组成：
         <summary type="html"><![CDATA[核心方案：基于市场温度的动态定投系统 该方案通过 “场外增量控制” 与 “场内全权委托” 相结合，实现低成本积累筹码与高位风险对冲的闭环。 1. 核心数学模型 每月定投的总金额为M，根据当前市场温度T<]]></summary>
         <author>
             <name>Lixx Blog - 李晓旭的博客</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nginx 反代导致 SSE 延迟变高的问题与解决方法]]></title>
-        <id>https://jia.je/devops/2026/03/05/nginx-sse-buffering/</id>
-        <link href="https://jia.je/devops/2026/03/05/nginx-sse-buffering/"/>
-        <updated>2026-03-05T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nginx 反代导致 SSE 延迟变高的问题与解决方法¶
- 背景¶
- 最近有同学遇到这么一个问题：在 Nginx 反代后面搭了一个使用 SSE（Server Sent Events）机制的服务端，但客户端观察到请求延迟比较高，数据批量到达，而不是一行一行地出现。经过排查，发现是 Nginx 的 buffering 机制导致的。本文通过实验复现该问题，并探索了几种解决方法。
-  
-问题复现¶
- 为了复现这个问题，我 Vibe Coding 了一个测试服务端 server.py，监听 8080 端口，在 /events 路径下每秒发送一条 SSE 消息，共发送 5 次：
- 
-#!/usr/bin/env python3 """SSE server that sends 5 messages, one every second."""  import time from http.server import HTTPServer, BaseHTTPRequestHandler   class SSEHandler(BaseHTTPRequestHandler):  def do_GET(self):  if self.path == "/events":  self.send_response(200)  self.send_header("Content-Type", "text/event-stream")  self.end_headers()   for i in range(5):  message = f"data: Message {i + 1} at {time.time()}\n\n"  self.wfile.write(message.encode("utf-8"))  self.wfile.flush()  time.sleep(1)   self.wfil…]]></summary>
-        <author>
-            <name>杰哥的{运维，编程，调板子}小笔记</name>
         </author>
     </entry>
     <entry>
