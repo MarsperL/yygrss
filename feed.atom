@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-07-15T22:27:38.289Z</updated>
+    <updated>2026-07-16T22:27:48.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[This New Open Source Tool Completely Changed How I Manage My Home Lab]]></title>
+        <id>https://www.virtualizationhowto.com/?p=313724</id>
+        <link href="https://www.virtualizationhowto.com/2026/07/this-new-open-source-tool-completely-changed-how-i-manage-my-home-lab/"/>
+        <updated>2026-07-16T12:52:28.000Z</updated>
+        <summary type="html"><![CDATA[There are so many new tools out there for home lab related activities. So, I have to pick and choose what I decide to test out in my home lab.…
+The post This New Open Source Tool Completely Changed How I Manage My Home Lab appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[招商银行万事达借记卡申请与消费实测]]></title>
+        <id>https://blog.xiaoz.org/?p=23241</id>
+        <link href="https://blog.xiaoz.org/archives/23241"/>
+        <updated>2026-07-16T06:43:13.000Z</updated>
+        <summary type="html"><![CDATA[最近在刷X的时候了解到招商银行推出了万事达借记卡，xiaoz作为一个集卡爱好者自然不会错过，这篇文章将记录和分享申请整个过程和消费实测，有需要的朋友可以参考。招行万事达借记卡有什么特别的优势吗？招行万事达借记卡其实并没有明显的优势，如果你已经有VISA、MasterCard外币卡，那么此卡可有可无，]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Favorite MCP Servers for the Home Lab in 2026]]></title>
+        <id>https://www.virtualizationhowto.com/?p=313697</id>
+        <link href="https://www.virtualizationhowto.com/2026/07/my-favorite-mcp-servers-for-the-home-lab-in-2026/"/>
+        <updated>2026-07-15T12:04:33.000Z</updated>
+        <summary type="html"><![CDATA[AI continues to advance at blazing speeds. One of the biggest developments over the past year has been the introduction of Model Context Protocol, or MCP. MCP servers provide a…
+The post My Favorite MCP Servers for the Home Lab in 2026 appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kubeflow vs Argo Workflows: Choosing the Best ML Pipeline Tool for Kubernetes]]></title>
         <id>https://collabnix.com/kubeflow-vs-argo-workflows-choosing-the-best-ml-pipeline-tool-for-kubernetes-2/</id>
@@ -14,6 +46,17 @@
         <summary type="html"><![CDATA[Explore the strengths of Kubeflow and Argo Workflows as you decide the best tool for managing machine learning pipelines on Kubernetes.]]></summary>
         <author>
             <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Proxmox LXC Commands That Changed How I Manage My Home Lab Containers]]></title>
+        <id>https://www.virtualizationhowto.com/?p=313660</id>
+        <link href="https://www.virtualizationhowto.com/2026/07/7-proxmox-lxc-commands-that-changed-how-i-manage-my-home-lab-containers/"/>
+        <updated>2026-07-14T12:11:08.000Z</updated>
+        <summary type="html"><![CDATA[Proxmox has a lot of really great features that make it ideal to run your virtualization stack in the home lab. You can take advantage of either virtual machines or…
+The post 7 Proxmox LXC Commands That Changed How I Manage My Home Lab Containers appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
@@ -34,6 +77,17 @@
         <summary type="html"><![CDATA[Explore scenarios where smaller language models like GPT-2 outperform larger counterparts, providing efficiency in resource-constrained environments.]]></summary>
         <author>
             <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Free Backup Tool Just Added Docker Volume Backups]]></title>
+        <id>https://www.virtualizationhowto.com/?p=313610</id>
+        <link href="https://www.virtualizationhowto.com/2026/07/this-free-backup-tool-just-added-docker-volume-backups/"/>
+        <updated>2026-07-13T12:16:03.000Z</updated>
+        <summary type="html"><![CDATA[I have tried out a lot of different volume backups over the years and there are many great tools out there. However, there was a database backup tool that recently…
+The post This Free Backup Tool Just Added Docker Volume Backups appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
@@ -100,6 +154,17 @@ Bensz]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[I Connected AI to My Proxmox Cluster Using MCP and It Was Better Than I Expected]]></title>
+        <id>https://www.virtualizationhowto.com/?p=313583</id>
+        <link href="https://www.virtualizationhowto.com/2026/07/i-connected-ai-to-my-proxmox-cluster-using-mcp-and-it-was-better-than-i-expected/"/>
+        <updated>2026-07-11T12:25:24.000Z</updated>
+        <summary type="html"><![CDATA[AI is showing up literally everywhere and massively changing how things are carried out and being done. I am looking at ways that AI can benefit my home lab and…
+The post I Connected AI to My Proxmox Cluster Using MCP and It Was Better Than I Expected appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lovable.dev Deep Dive: An Honest Review of the AI-Powered Development Platform]]></title>
         <id>https://collabnix.com/lovable-dev-deep-dive-an-honest-review-of-the-ai-powered-development-platform/</id>
         <link href="https://collabnix.com/lovable-dev-deep-dive-an-honest-review-of-the-ai-powered-development-platform/"/>
@@ -107,6 +172,17 @@ Bensz]]></summary>
         <summary type="html"><![CDATA[Explore Lovable.dev, an AI-powered platform revolutionizing full-stack web app development. Understand its features, technologies, and how it simplifies the creation process.]]></summary>
         <author>
             <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Open Source Infrastructure Projects I’m Watching Closely Right Now]]></title>
+        <id>https://www.virtualizationhowto.com/?p=313560</id>
+        <link href="https://www.virtualizationhowto.com/2026/07/7-open-source-infrastructure-projects-im-watching-closely-right-now/"/>
+        <updated>2026-07-10T12:34:43.000Z</updated>
+        <summary type="html"><![CDATA[One of the exciting things that I love about running a home lab is discovering new community projects before they become mainstream. Every so often there are projects that appear…
+The post 7 Open Source Infrastructure Projects I’m Watching Closely Right Now appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
@@ -130,6 +206,17 @@ Bensz]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The NixOS Tweaks I Wish I’d Started Using Sooner in my Home Lab]]></title>
+        <id>https://www.virtualizationhowto.com/?p=313538</id>
+        <link href="https://www.virtualizationhowto.com/2026/07/the-nixos-tweaks-i-wish-id-started-using-sooner-in-my-home-lab/"/>
+        <updated>2026-07-09T11:52:28.000Z</updated>
+        <summary type="html"><![CDATA[I have been moving heavily into immutable server operating systems especially for hosting my containerized home lab resources. Flatcar has been my OS of choice lately for container hosts. But…
+The post The NixOS Tweaks I Wish I’d Started Using Sooner in my Home Lab appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OpenClaw Architecture Deep Dive: How It Works Under the Hood]]></title>
         <id>https://collabnix.com/openclaw-architecture-deep-dive-how-it-works-under-the-hood-2/</id>
         <link href="https://collabnix.com/openclaw-architecture-deep-dive-how-it-works-under-the-hood-2/"/>
@@ -150,6 +237,17 @@ Bensz]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why I Stopped Treating Docker Containers Like Tiny Virtual Machines]]></title>
+        <id>https://www.virtualizationhowto.com/?p=313514</id>
+        <link href="https://www.virtualizationhowto.com/2026/07/why-i-stopped-treating-docker-containers-like-tiny-virtual-machines/"/>
+        <updated>2026-07-08T12:10:57.000Z</updated>
+        <summary type="html"><![CDATA[I think everyone goes through this shift as they transition their home labs from virtual machines over to containers. You tend to approach containers exactly the same way as you…
+The post Why I Stopped Treating Docker Containers Like Tiny Virtual Machines appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How AI Agents Like Claude Code Leverage Model Context Protocol (MCP)]]></title>
         <id>https://collabnix.com/how-ai-agents-like-claude-code-leverage-model-context-protocol-mcp/</id>
         <link href="https://collabnix.com/how-ai-agents-like-claude-code-leverage-model-context-protocol-mcp/"/>
@@ -157,6 +255,17 @@ Bensz]]></summary>
         <summary type="html"><![CDATA[Explore how Model Context Protocol (MCP) empowers AI coding tools like Claude Code to enhance productivity and accuracy by providing context-aware code understanding and edits.]]></summary>
         <author>
             <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Home Lab Projects That Taught Me the Most]]></title>
+        <id>https://www.virtualizationhowto.com/?p=313482</id>
+        <link href="https://www.virtualizationhowto.com/2026/07/the-home-lab-projects-that-taught-me-the-most/"/>
+        <updated>2026-07-07T12:02:14.000Z</updated>
+        <summary type="html"><![CDATA[There are some home lab projects that teach you a few things, and are great to incorporate. However, there are some projects that looking back on my journey, really taught…
+The post The Home Lab Projects That Taught Me the Most appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
@@ -197,6 +306,17 @@ Bensz]]></summary>
  可见 Skylark 的 BTB 对分支紧密放置的情况支持不是很好，在 1024 个分支之内的 CPI 达到了 3.5，这一点在较早的处理器上比较常见，比如 Neoverse N1 的 BTB，不过稍微新一些的处理器，随着设计的改进，类似的情况比较少见了。之后到 8192 个分支，CPI 达到了 5。…]]></summary>
         <author>
             <name>杰哥的{运维，编程，调板子}小笔记</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Tried This New Proxmox Inventory and Auditing Tool and I Was Impressed]]></title>
+        <id>https://www.virtualizationhowto.com/?p=313418</id>
+        <link href="https://www.virtualizationhowto.com/2026/07/i-tried-this-new-proxmox-inventory-and-auditing-tool-and-i-was-impressed/"/>
+        <updated>2026-07-06T12:22:40.000Z</updated>
+        <summary type="html"><![CDATA[I see so many tools listed and presented that are said to solve a problem in the Proxmox realm. I have tried many different tools over the past couple of…
+The post I Tried This New Proxmox Inventory and Auditing Tool and I Was Impressed appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
@@ -3474,61 +3594,6 @@ The post The Biggest Docker Mistakes I Still See in Home Labs (And How I Fix The
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Thought I Had the Best Docker OS in My Home Lab Until I Tried This]]></title>
-        <id>https://www.virtualizationhowto.com/?p=311126</id>
-        <link href="https://www.virtualizationhowto.com/2026/04/i-thought-i-had-the-best-docker-os-in-my-home-lab-until-i-tried-this/"/>
-        <updated>2026-04-17T12:22:00.000Z</updated>
-        <summary type="html"><![CDATA[For a long while now, I have felt like I have my Docker hosts dialed in. I have used a wide range of operating systems over the years, including Ubuntu,…
-The post I Thought I Had the Best Docker OS in My Home Lab Until I Tried This appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Thought ZFS Was Required for Proxmox Replication in My Home Lab but I Was Wrong]]></title>
-        <id>https://www.virtualizationhowto.com/?p=311100</id>
-        <link href="https://www.virtualizationhowto.com/2026/04/i-thought-zfs-was-required-for-proxmox-replication-in-my-home-lab-but-i-was-wrong/"/>
-        <updated>2026-04-16T11:44:56.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to Proxmox replication in the home lab or production for that matter, if you want to have replication you needed ZFS. That was just how the solution…
-The post I Thought ZFS Was Required for Proxmox Replication in My Home Lab but I Was Wrong appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I’m Now Running Ceph and iSCSI in My Proxmox Home Lab. Here’s Why]]></title>
-        <id>https://www.virtualizationhowto.com/?p=311074</id>
-        <link href="https://www.virtualizationhowto.com/2026/04/im-now-running-ceph-and-iscsi-in-my-proxmox-home-lab-heres-why/"/>
-        <updated>2026-04-15T12:20:06.000Z</updated>
-        <summary type="html"><![CDATA[So at the first of the year when I built out my new Proxmox mini lab, I went all in on Ceph. Like most of us, I wanted to have…
-The post I’m Now Running Ceph and iSCSI in My Proxmox Home Lab. Here’s Why appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Daily Home Lab Checklist That Prevents Most Problems]]></title>
-        <id>https://www.virtualizationhowto.com/?p=311055</id>
-        <link href="https://www.virtualizationhowto.com/2026/04/my-daily-home-lab-checklist-that-prevents-most-problems/"/>
-        <updated>2026-04-14T12:28:06.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to keeping problems headed off in the home lab, it often comes down to the small things. Most problems are not random. They build up slowly and…
-The post My Daily Home Lab Checklist That Prevents Most Problems appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Tried borg-ui in My Home Lab and It Made Backups Way Easier]]></title>
-        <id>https://www.virtualizationhowto.com/?p=310996</id>
-        <link href="https://www.virtualizationhowto.com/2026/04/i-tried-borg-ui-in-my-home-lab-and-it-made-backups-way-easier/"/>
-        <updated>2026-04-13T12:14:34.000Z</updated>
-        <summary type="html"><![CDATA[If you have spent any time in the home lab space, you have probably heard of BorgBackup. It is one of those tools that has an almost legendary reputation among…
-The post I Tried borg-ui in My Home Lab and It Made Backups Way Easier appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[拆解 Claude Code：它是怎么在 200K 上下文里"永远不会聊爆"的]]></title>
         <id>https://panzhixiang.cn/2026/claude-code-context-compression/</id>
         <link href="https://panzhixiang.cn/2026/claude-code-context-compression/"/>
@@ -3539,39 +3604,6 @@ The post I Tried borg-ui in My Home Lab and It Made Backups Way Easier appeared 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Built a Podman Server in My Home Lab This Weekend and This Surprised Me]]></title>
-        <id>https://www.virtualizationhowto.com/?p=310960</id>
-        <link href="https://www.virtualizationhowto.com/2026/04/i-built-a-podman-server-in-my-home-lab-this-weekend-and-this-surprised-me/"/>
-        <updated>2026-04-11T12:29:08.000Z</updated>
-        <summary type="html"><![CDATA[I have written a lot about Docker in the home lab as well as Kubernetes. Both are awesome tools and arguably the enterprise standard. Docker is simple and VERY widely…
-The post I Built a Podman Server in My Home Lab This Weekend and This Surprised Me appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Almost Gave Up on Proxmox iSCSI Storage in My Home Lab Then This Worked]]></title>
-        <id>https://www.virtualizationhowto.com/?p=310904</id>
-        <link href="https://www.virtualizationhowto.com/2026/04/i-almost-gave-up-on-proxmox-iscsi-storage-in-my-home-lab-then-this-worked/"/>
-        <updated>2026-04-10T12:34:35.000Z</updated>
-        <summary type="html"><![CDATA[Many organizations are looking at moving from VMware over to a different hypervisor. For many, they have settled on Proxmox as their target. However, if you have been running with…
-The post I Almost Gave Up on Proxmox iSCSI Storage in My Home Lab Then This Worked appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Added This to My Docker Compose and It Changed Everything]]></title>
-        <id>https://www.virtualizationhowto.com/?p=310861</id>
-        <link href="https://www.virtualizationhowto.com/2026/04/i-added-this-to-my-docker-compose-and-it-changed-everything/"/>
-        <updated>2026-04-09T12:01:15.000Z</updated>
-        <summary type="html"><![CDATA[All of us use Docker compose extensively in our home labs to run containers and self-host services. I love it. It is THE way to deploy your containers when you…
-The post I Added This to My Docker Compose and It Changed Everything appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[farzaa/clicky: 它是一个人工智能老师，就像你的伙伴一样陪伴在你的鼠标旁边。它可以看到你的屏幕、和你交流，甚至还能指点东西。有点像真的老师就在你身边。]]></title>
         <id>https://github.com/farzaa/clicky</id>
         <link href="https://github.com/farzaa/clicky"/>
@@ -3579,17 +3611,6 @@ The post I Added This to My Docker Compose and It Changed Everything appeared fi
         <summary type="html"><![CDATA[Contribute to farzaa/clicky development by creating an account on GitHub.]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 Operating Systems I Wouldn’t Run My Home Lab Without in 2026]]></title>
-        <id>https://www.virtualizationhowto.com/?p=310840</id>
-        <link href="https://www.virtualizationhowto.com/2026/04/5-operating-systems-i-wouldnt-run-my-home-lab-without-in-2026/"/>
-        <updated>2026-04-08T12:17:54.000Z</updated>
-        <summary type="html"><![CDATA[Outside of Proxmox or your hypervisor of choice, in the modern 2026 home lab, the operating systems you choose matter more than just about anything else. The OS’s you run…
-The post 5 Operating Systems I Wouldn’t Run My Home Lab Without in 2026 appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
@@ -3633,17 +3654,6 @@ The post 5 Operating Systems I Wouldn’t Run My Home Lab Without in 2026 appear
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10 Ceph Commands I Use in My Proxmox Home Lab]]></title>
-        <id>https://www.virtualizationhowto.com/?p=310810</id>
-        <link href="https://www.virtualizationhowto.com/2026/04/10-ceph-commands-i-use-in-my-proxmox-home-lab/"/>
-        <updated>2026-04-07T12:30:14.000Z</updated>
-        <summary type="html"><![CDATA[I have been running Ceph in my Proxmox powered home lab now since the beginning of this year and it is an amazing storage solution. It provides the backend storage…
-The post 10 Ceph Commands I Use in My Proxmox Home Lab appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[lifedever/TaskTick: macOS 原生定时任务管理应用 无需 crontab，无需 launchd，交给 TaskTick。]]></title>
         <id>https://github.com/lifedever/TaskTick</id>
         <link href="https://github.com/lifedever/TaskTick"/>
@@ -3671,17 +3681,6 @@ The post 10 Ceph Commands I Use in My Proxmox Home Lab appeared first on Virtual
         <summary type="html"><![CDATA[跨平台M3U8下载器，支持多线程下载、断点续传、边下边播、AES解密、浏览器自动识别地址. Contribute to Liubsyy/M3U8Quicker development by creating an account on GitHub.]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Thought My Kubernetes Backups Worked in My Home Lab but I Was Wrong]]></title>
-        <id>https://www.virtualizationhowto.com/?p=310785</id>
-        <link href="https://www.virtualizationhowto.com/2026/04/i-thought-my-kubernetes-backups-worked-in-my-home-lab-but-i-was-wrong/"/>
-        <updated>2026-04-06T12:58:53.000Z</updated>
-        <summary type="html"><![CDATA[This weekend I went down an absolute rabbit hole that I think most home labbers eventually hit when they start getting more and more into Kubernetes and that is backups.…
-The post I Thought My Kubernetes Backups Worked in My Home Lab but I Was Wrong appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
@@ -3775,17 +3774,6 @@ The post I Thought My Kubernetes Backups Worked in My Home Lab but I Was Wrong a
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I Still Run These Docker Containers Every Day in 2026 (After Moving to Kubernetes)]]></title>
-        <id>https://www.virtualizationhowto.com/?p=310755</id>
-        <link href="https://www.virtualizationhowto.com/2026/04/i-still-run-these-docker-containers-every-day-in-2026-after-moving-to-kubernetes/"/>
-        <updated>2026-04-04T13:13:45.000Z</updated>
-        <summary type="html"><![CDATA[One of the assumptions that I think many make when moving to Kubernetes is that when you migrate, it is “all or nothing” from Docker. I probably thought that too…
-The post I Still Run These Docker Containers Every Day in 2026 (After Moving to Kubernetes) appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[pixelspark/sushitrain: 使用 Syncthing 在 iOS 设备上安全同步文件]]></title>
         <id>https://github.com/pixelspark/sushitrain</id>
         <link href="https://github.com/pixelspark/sushitrain"/>
@@ -3823,17 +3811,6 @@ The post I Still Run These Docker Containers Every Day in 2026 (After Moving to 
         <summary type="html"><![CDATA[Laravel HTTP Request to Curl Command. Contribute to jigar-dhulla/laravel-http-to-curl development by creating an account on GitHub.]]></summary>
         <author>
             <name>❤️ 每天收集喜欢的开源项目</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Replaced Docker with Kubernetes in My Home Lab and It Wasn’t What I Expected]]></title>
-        <id>https://www.virtualizationhowto.com/?p=310723</id>
-        <link href="https://www.virtualizationhowto.com/2026/04/i-replaced-docker-with-kubernetes-in-my-home-lab-and-it-wasnt-what-i-expected/"/>
-        <updated>2026-04-03T13:20:34.000Z</updated>
-        <summary type="html"><![CDATA[It has taken me quite a long time to get my home lab where it is today. You struggle, you learn, you struggle, and then you learn more. This is…
-The post I Replaced Docker with Kubernetes in My Home Lab and It Wasn’t What I Expected appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>

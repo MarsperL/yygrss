@@ -921,6 +921,106 @@
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
         {
+          "id": "https://www.virtualizationhowto.com/?p=313724",
+          "author": "Brandon Lee",
+          "description": "There are so many new tools out there for home lab related activities. So, I have to pick and choose what I decide to test out in my home lab.…\nThe post This New Open Source Tool Completely Changed How I Manage My Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/07/this-new-open-source-tool-completely-changed-how-i-manage-my-home-lab/",
+          "publishedOn": "2026-07-16T12:52:28.000Z",
+          "wordCount": null,
+          "title": "This New Open Source Tool Completely Changed How I Manage My Home Lab",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=313697",
+          "author": "Brandon Lee",
+          "description": "AI continues to advance at blazing speeds. One of the biggest developments over the past year has been the introduction of Model Context Protocol, or MCP. MCP servers provide a…\nThe post My Favorite MCP Servers for the Home Lab in 2026 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/07/my-favorite-mcp-servers-for-the-home-lab-in-2026/",
+          "publishedOn": "2026-07-15T12:04:33.000Z",
+          "wordCount": null,
+          "title": "My Favorite MCP Servers for the Home Lab in 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=313660",
+          "author": "Brandon Lee",
+          "description": "Proxmox has a lot of really great features that make it ideal to run your virtualization stack in the home lab. You can take advantage of either virtual machines or…\nThe post 7 Proxmox LXC Commands That Changed How I Manage My Home Lab Containers appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/07/7-proxmox-lxc-commands-that-changed-how-i-manage-my-home-lab-containers/",
+          "publishedOn": "2026-07-14T12:11:08.000Z",
+          "wordCount": null,
+          "title": "7 Proxmox LXC Commands That Changed How I Manage My Home Lab Containers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=313610",
+          "author": "Brandon Lee",
+          "description": "I have tried out a lot of different volume backups over the years and there are many great tools out there. However, there was a database backup tool that recently…\nThe post This Free Backup Tool Just Added Docker Volume Backups appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/07/this-free-backup-tool-just-added-docker-volume-backups/",
+          "publishedOn": "2026-07-13T12:16:03.000Z",
+          "wordCount": null,
+          "title": "This Free Backup Tool Just Added Docker Volume Backups",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=313583",
+          "author": "Brandon Lee",
+          "description": "AI is showing up literally everywhere and massively changing how things are carried out and being done. I am looking at ways that AI can benefit my home lab and…\nThe post I Connected AI to My Proxmox Cluster Using MCP and It Was Better Than I Expected appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/07/i-connected-ai-to-my-proxmox-cluster-using-mcp-and-it-was-better-than-i-expected/",
+          "publishedOn": "2026-07-11T12:25:24.000Z",
+          "wordCount": null,
+          "title": "I Connected AI to My Proxmox Cluster Using MCP and It Was Better Than I Expected",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=313560",
+          "author": "Brandon Lee",
+          "description": "One of the exciting things that I love about running a home lab is discovering new community projects before they become mainstream. Every so often there are projects that appear…\nThe post 7 Open Source Infrastructure Projects I’m Watching Closely Right Now appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/07/7-open-source-infrastructure-projects-im-watching-closely-right-now/",
+          "publishedOn": "2026-07-10T12:34:43.000Z",
+          "wordCount": null,
+          "title": "7 Open Source Infrastructure Projects I’m Watching Closely Right Now",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=313538",
+          "author": "Brandon Lee",
+          "description": "I have been moving heavily into immutable server operating systems especially for hosting my containerized home lab resources. Flatcar has been my OS of choice lately for container hosts. But…\nThe post The NixOS Tweaks I Wish I’d Started Using Sooner in my Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/07/the-nixos-tweaks-i-wish-id-started-using-sooner-in-my-home-lab/",
+          "publishedOn": "2026-07-09T11:52:28.000Z",
+          "wordCount": null,
+          "title": "The NixOS Tweaks I Wish I’d Started Using Sooner in my Home Lab",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=313514",
+          "author": "Brandon Lee",
+          "description": "I think everyone goes through this shift as they transition their home labs from virtual machines over to containers. You tend to approach containers exactly the same way as you…\nThe post Why I Stopped Treating Docker Containers Like Tiny Virtual Machines appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/07/why-i-stopped-treating-docker-containers-like-tiny-virtual-machines/",
+          "publishedOn": "2026-07-08T12:10:57.000Z",
+          "wordCount": null,
+          "title": "Why I Stopped Treating Docker Containers Like Tiny Virtual Machines",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=313482",
+          "author": "Brandon Lee",
+          "description": "There are some home lab projects that teach you a few things, and are great to incorporate. However, there are some projects that looking back on my journey, really taught…\nThe post The Home Lab Projects That Taught Me the Most appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/07/the-home-lab-projects-that-taught-me-the-most/",
+          "publishedOn": "2026-07-07T12:02:14.000Z",
+          "wordCount": null,
+          "title": "The Home Lab Projects That Taught Me the Most",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=313418",
+          "author": "Brandon Lee",
+          "description": "I see so many tools listed and presented that are said to solve a problem in the Proxmox realm. I have tried many different tools over the past couple of…\nThe post I Tried This New Proxmox Inventory and Auditing Tool and I Was Impressed appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/07/i-tried-this-new-proxmox-inventory-and-auditing-tool-and-i-was-impressed/",
+          "publishedOn": "2026-07-06T12:22:40.000Z",
+          "wordCount": null,
+          "title": "I Tried This New Proxmox Inventory and Auditing Tool and I Was Impressed",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.virtualizationhowto.com/?p=313253",
           "author": "Brandon Lee",
           "description": "I am always on the lookout for new and interesting tools that allow us to manage our Proxmox servers and clusters more efficiently and overall, a little easier. I stumbled…\nThe post I Found a New Way to Manage Proxmox Without Opening the Web UI appeared first on Virtualization Howto.",
@@ -1519,136 +1619,6 @@
           "wordCount": null,
           "title": "The Biggest Docker Mistakes I Still See in Home Labs (And How I Fix Them)",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=311126",
-          "author": "Brandon Lee",
-          "description": "For a long while now, I have felt like I have my Docker hosts dialed in. I have used a wide range of operating systems over the years, including Ubuntu,…\nThe post I Thought I Had the Best Docker OS in My Home Lab Until I Tried This appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/04/i-thought-i-had-the-best-docker-os-in-my-home-lab-until-i-tried-this/",
-          "publishedOn": "2026-04-17T12:22:00.000Z",
-          "wordCount": null,
-          "title": "I Thought I Had the Best Docker OS in My Home Lab Until I Tried This",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=311100",
-          "author": "Brandon Lee",
-          "description": "When it comes to Proxmox replication in the home lab or production for that matter, if you want to have replication you needed ZFS. That was just how the solution…\nThe post I Thought ZFS Was Required for Proxmox Replication in My Home Lab but I Was Wrong appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/04/i-thought-zfs-was-required-for-proxmox-replication-in-my-home-lab-but-i-was-wrong/",
-          "publishedOn": "2026-04-16T11:44:56.000Z",
-          "wordCount": null,
-          "title": "I Thought ZFS Was Required for Proxmox Replication in My Home Lab but I Was Wrong",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=311074",
-          "author": "Brandon Lee",
-          "description": "So at the first of the year when I built out my new Proxmox mini lab, I went all in on Ceph. Like most of us, I wanted to have…\nThe post I’m Now Running Ceph and iSCSI in My Proxmox Home Lab. Here’s Why appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/04/im-now-running-ceph-and-iscsi-in-my-proxmox-home-lab-heres-why/",
-          "publishedOn": "2026-04-15T12:20:06.000Z",
-          "wordCount": null,
-          "title": "I’m Now Running Ceph and iSCSI in My Proxmox Home Lab. Here’s Why",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=311055",
-          "author": "Brandon Lee",
-          "description": "When it comes to keeping problems headed off in the home lab, it often comes down to the small things. Most problems are not random. They build up slowly and…\nThe post My Daily Home Lab Checklist That Prevents Most Problems appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/04/my-daily-home-lab-checklist-that-prevents-most-problems/",
-          "publishedOn": "2026-04-14T12:28:06.000Z",
-          "wordCount": null,
-          "title": "My Daily Home Lab Checklist That Prevents Most Problems",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=310996",
-          "author": "Brandon Lee",
-          "description": "If you have spent any time in the home lab space, you have probably heard of BorgBackup. It is one of those tools that has an almost legendary reputation among…\nThe post I Tried borg-ui in My Home Lab and It Made Backups Way Easier appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/04/i-tried-borg-ui-in-my-home-lab-and-it-made-backups-way-easier/",
-          "publishedOn": "2026-04-13T12:14:34.000Z",
-          "wordCount": null,
-          "title": "I Tried borg-ui in My Home Lab and It Made Backups Way Easier",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=310960",
-          "author": "Brandon Lee",
-          "description": "I have written a lot about Docker in the home lab as well as Kubernetes. Both are awesome tools and arguably the enterprise standard. Docker is simple and VERY widely…\nThe post I Built a Podman Server in My Home Lab This Weekend and This Surprised Me appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/04/i-built-a-podman-server-in-my-home-lab-this-weekend-and-this-surprised-me/",
-          "publishedOn": "2026-04-11T12:29:08.000Z",
-          "wordCount": null,
-          "title": "I Built a Podman Server in My Home Lab This Weekend and This Surprised Me",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=310904",
-          "author": "Brandon Lee",
-          "description": "Many organizations are looking at moving from VMware over to a different hypervisor. For many, they have settled on Proxmox as their target. However, if you have been running with…\nThe post I Almost Gave Up on Proxmox iSCSI Storage in My Home Lab Then This Worked appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/04/i-almost-gave-up-on-proxmox-iscsi-storage-in-my-home-lab-then-this-worked/",
-          "publishedOn": "2026-04-10T12:34:35.000Z",
-          "wordCount": null,
-          "title": "I Almost Gave Up on Proxmox iSCSI Storage in My Home Lab Then This Worked",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=310861",
-          "author": "Brandon Lee",
-          "description": "All of us use Docker compose extensively in our home labs to run containers and self-host services. I love it. It is THE way to deploy your containers when you…\nThe post I Added This to My Docker Compose and It Changed Everything appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/04/i-added-this-to-my-docker-compose-and-it-changed-everything/",
-          "publishedOn": "2026-04-09T12:01:15.000Z",
-          "wordCount": 12183,
-          "title": "I Added This to My Docker Compose and It Changed Everything",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/04/docker-compose-gitops-2.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=310840",
-          "author": "Brandon Lee",
-          "description": "Outside of Proxmox or your hypervisor of choice, in the modern 2026 home lab, the operating systems you choose matter more than just about anything else. The OS’s you run…\nThe post 5 Operating Systems I Wouldn’t Run My Home Lab Without in 2026 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/04/5-operating-systems-i-wouldnt-run-my-home-lab-without-in-2026/",
-          "publishedOn": "2026-04-08T12:17:54.000Z",
-          "wordCount": 11883,
-          "title": "5 Operating Systems I Wouldn’t Run My Home Lab Without in 2026",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/04/home-lab-operating-systems.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=310810",
-          "author": "Brandon Lee",
-          "description": "I have been running Ceph in my Proxmox powered home lab now since the beginning of this year and it is an amazing storage solution. It provides the backend storage…\nThe post 10 Ceph Commands I Use in My Proxmox Home Lab appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/04/10-ceph-commands-i-use-in-my-proxmox-home-lab/",
-          "publishedOn": "2026-04-07T12:30:14.000Z",
-          "wordCount": 12210,
-          "title": "10 Ceph Commands I Use in My Proxmox Home Lab",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/04/proxmox-ceph-commands-home-lab.png"
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=310785",
-          "author": "Brandon Lee",
-          "description": "This weekend I went down an absolute rabbit hole that I think most home labbers eventually hit when they start getting more and more into Kubernetes and that is backups.…\nThe post I Thought My Kubernetes Backups Worked in My Home Lab but I Was Wrong appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/04/i-thought-my-kubernetes-backups-worked-in-my-home-lab-but-i-was-wrong/",
-          "publishedOn": "2026-04-06T12:58:53.000Z",
-          "wordCount": null,
-          "title": "I Thought My Kubernetes Backups Worked in My Home Lab but I Was Wrong",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=310755",
-          "author": "Brandon Lee",
-          "description": "One of the assumptions that I think many make when moving to Kubernetes is that when you migrate, it is “all or nothing” from Docker. I probably thought that too…\nThe post I Still Run These Docker Containers Every Day in 2026 (After Moving to Kubernetes) appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/04/i-still-run-these-docker-containers-every-day-in-2026-after-moving-to-kubernetes/",
-          "publishedOn": "2026-04-04T13:13:45.000Z",
-          "wordCount": null,
-          "title": "I Still Run These Docker Containers Every Day in 2026 (After Moving to Kubernetes)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=310723",
-          "author": "Brandon Lee",
-          "description": "It has taken me quite a long time to get my home lab where it is today. You struggle, you learn, you struggle, and then you learn more. This is…\nThe post I Replaced Docker with Kubernetes in My Home Lab and It Wasn’t What I Expected appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/04/i-replaced-docker-with-kubernetes-in-my-home-lab-and-it-wasnt-what-i-expected/",
-          "publishedOn": "2026-04-03T13:20:34.000Z",
-          "wordCount": 11872,
-          "title": "I Replaced Docker with Kubernetes in My Home Lab and It Wasn’t What I Expected",
-          "imageUrl": "https://www.virtualizationhowto.com/wp-content/uploads/2026/04/docker-vs-kubernetes-home-lab.png"
         }
       ]
     },
@@ -3613,6 +3583,16 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=23241",
+          "author": "xiaoz",
+          "description": "最近在刷X的时候了解到招商银行推出了万事达借记卡，xiaoz作为一个集卡爱好者自然不会错过，这篇文章将记录和分享申请整个过程和消费实测，有需要的朋友可以参考。招行万事达借记卡有什么特别的优势吗？招行万事达借记卡其实并没有明显的优势，如果你已经有VISA、MasterCard外币卡，那么此卡可有可无，",
+          "link": "https://blog.xiaoz.org/archives/23241",
+          "publishedOn": "2026-07-16T06:43:13.000Z",
+          "wordCount": null,
+          "title": "招商银行万事达借记卡申请与消费实测",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=23207",
           "author": "xiaoz",
