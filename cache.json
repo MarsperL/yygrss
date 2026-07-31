@@ -80,6 +80,26 @@
       "siteUrl": "https://daverupert.com",
       "articles": [
         {
+          "id": "https://daverupert.com/2026/07/number-chart-go-up/",
+          "author": null,
+          "description": "I’ve had the pleasure in my career of sitting in tons of different board rooms talking with executives and getting a rundown on different charts and graphs they care most deeply about. As expected, “number chart go up” is always the desired outcome. Number chart go up is good because it makes other number charts go up, specifically stock ticker number.\nOne common refrain I’d hear everywhere I went whether they dealt in pizzas, coffee, coupons, computers, or software licenses went something like this (paraphrasing), “On average customers use our product once per month and if we can double that number then we’d have no more problems.” An over-simplification of course, but they’re desperate to move the number from one… to two.\nIt doesn’t take a business degree to figure that out that doubling…",
+          "link": "https://daverupert.com/2026/07/number-chart-go-up/",
+          "publishedOn": "2026-07-28T15:29:00.000Z",
+          "wordCount": null,
+          "title": "Before I go: Double your business with companies you like",
+          "imageUrl": null
+        },
+        {
+          "id": "https://daverupert.com/2026/07/codepen-2/",
+          "author": null,
+          "description": "CodePen v2 is now released! Because I co-host a podcast with Chris I’ve had an up-close perspective at this monumental effort over the last five years. I know how much work has gone into this release and I applaud the team for hitting the finish line.\nAt the crux of the new experience is the new and improved editor. When you first launch into the v2.0 editor, your first response will probably be “Who moved my cheese!?” New is always uncomfortable, but there’s a fix for getting back to the old familiar UI…\nHit ⌘ + U or CTRL + U to hide the new pen sidebar\nInstall the Classic Block Template to remove ~14 lines of HTML (Optional)\nOkay, now hit ⌘ + U or CTRL + U again, because what’s in the sidebar are all the new features and favorite parts I want to talk about.\nAn entire file system\n\nThe fir…",
+          "link": "https://daverupert.com/2026/07/codepen-2/",
+          "publishedOn": "2026-07-27T04:50:00.000Z",
+          "wordCount": null,
+          "title": "The new yet familiar CodePen&nbsp;2.0",
+          "imageUrl": null
+        },
+        {
           "id": "https://daverupert.com/2026/06/curated-public-domain-images/",
           "author": null,
           "description": "Xavier de Maistre in an armchair, displaying his “book of discoveries” (Veyssier, 1860)\nEvery so often I like to include a public domain image in a blog post. I’m fond of the woodblock and lithographic illustrations of the late 1800s. I try to avoid indiscriminately (un-)splashing every post but the real reason for the infrequency isn’t radical self-control, it’s because dumpster diving for public domain images can be a chore.\nYou can –of course– use Google or Bing to find public domain images but the volume, duplicates, and weighing the veracity of copyright attribution is overwhelming. The Library of Congress has Free to Use and Reuse sets, but their collections are nebulous noun buckets filled with a federally-mandated amount of Americana. On top of that, searching library sites is neve…",
@@ -127,16 +147,6 @@
           "publishedOn": "2026-05-04T00:33:00.000Z",
           "wordCount": null,
           "title": "The duality of language models in the browser",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2026/04/if-i-could-watt-10-000-florps/",
-          "author": null,
-          "description": "The use of AI is leading to burnout among its greatest advocates as they hit the limit of their meta-cognitive abilities:\n“I end each day exhausted—not from the work itself, but from the managing of the work. Six worktrees open, four half-written features, two ‘quick fixes’ that spawned rabbit holes, and a growing sense that I’m losing the plot entirely.”\nAs someone with ADHD, this sounds painfully familiar. I’ve been spinning up workloads like that my whole life chasing the dopamine dragon. And as my fellow neuro-spicy siblings all know, there’s the thinnest of lines between “Oh wow I’m going so fast!” having fun being optimally stimulated and “Oh shit fuck no ow help cry ow” collapsing on the floor in desperation. It all reminds me of an old business book…\nThe Goal by Eliyahu M Goldratt …",
-          "link": "https://daverupert.com/2026/04/if-i-could-watt-10-000-florps/",
-          "publishedOn": "2026-04-21T19:36:00.000Z",
-          "wordCount": null,
-          "title": "10,000-watt GPU meet 40-watt lump of meat",
           "imageUrl": null
         }
       ]
@@ -794,6 +804,16 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://nops.icu/archives/245/",
+          "author": "季兴",
+          "description": "上篇写了LiteLLM，网关是有了，但用起来是个黑盒，谁在调、一次agent任务烧了多少token、中间转了几手，全靠猜。决定上Langfuse，开源的LLM可观测平台，给调用链留个底。本以为d...",
+          "link": "https://nops.icu/archives/245/",
+          "publishedOn": "2026-07-28T06:46:00.000Z",
+          "wordCount": null,
+          "title": "agent可观测--Langfuse阿里云自托管",
+          "imageUrl": null
+        },
+        {
           "id": "https://nops.icu/archives/243/",
           "author": "季兴",
           "description": "最近深度使用 Claude Code，体验是真不错，但有个痛点：任务一跑十几分钟，人不可能干等着。起身倒杯水、回个消息，回来发现它早就停在\"是否允许执行 Bash\"上干等我了，白白空转半天。先是...",
@@ -920,6 +940,106 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=314135",
+          "author": "Brandon Lee",
+          "description": "There are myriads of Docker containers spread across many docker registries on the Internet. Most of these are on popular registries like Docker Hub, but others are found on other…\nThe post The 9 Checks I Make Before Trusting Any Docker Image appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/07/the-9-checks-i-make-before-trusting-any-docker-image/",
+          "publishedOn": "2026-07-31T11:25:28.000Z",
+          "wordCount": null,
+          "title": "The 9 Checks I Make Before Trusting Any Docker Image",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=314172",
+          "author": "Brandon Lee",
+          "description": "For the past several months now, I have shifted my home lab to immutable Linux distros like Flatcar which has changed how I think about installing software and things like…\nThe post The systemd Services and Timers I Use in My Immutable Linux Home Lab appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/07/the-systemd-services-and-timers-i-use-in-my-immutable-linux-home-lab/",
+          "publishedOn": "2026-07-30T12:29:54.000Z",
+          "wordCount": null,
+          "title": "The systemd Services and Timers I Use in My Immutable Linux Home Lab",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=314088",
+          "author": "Brandon Lee",
+          "description": "I have been reflecting on how far things have come in my home lab and ironically, I feel like I am more organized now more than ever before, even though…\nThe post How I Organize My Entire Home Lab So I Can Actually Find Anything appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/07/how-i-organize-my-entire-home-lab-so-i-can-actually-find-anything/",
+          "publishedOn": "2026-07-29T12:17:14.000Z",
+          "wordCount": null,
+          "title": "How I Organize My Entire Home Lab So I Can Actually Find Anything",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=314113",
+          "author": "Brandon Lee",
+          "description": "Reverse proxies are one of the most critical pieces of infrastructure once you stand up a home lab and start learning containers and hosting things in those containers. You quickly…\nThe post The Reverse Proxy Mistakes I Still See in Home Labs (And How I Avoid Them) appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/07/the-reverse-proxy-mistakes-i-still-see-in-home-labs-and-how-i-avoid-them/",
+          "publishedOn": "2026-07-28T11:45:14.000Z",
+          "wordCount": null,
+          "title": "The Reverse Proxy Mistakes I Still See in Home Labs (And How I Avoid Them)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=314074",
+          "author": "Brandon Lee",
+          "description": "I am all about monitoring things in my home lab and with DNS being so important, if there is one service to monitor, this is it. DNS is at the…\nThe post I Thought My DNS Was Fine Until I Started Monitoring This appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/07/i-thought-my-dns-was-fine-until-i-started-monitoring-this/",
+          "publishedOn": "2026-07-27T12:13:27.000Z",
+          "wordCount": null,
+          "title": "I Thought My DNS Was Fine Until I Started Monitoring This",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=313866",
+          "author": "Brandon Lee",
+          "description": "I have spent a lot of time experimenting with AI agents in my home lab over the past year. I have connected them to services through MCP servers as you…\nThe post These Downloadable AI Skills Made My Home Lab Agents Much More Useful appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/07/these-downloadable-ai-skills-made-my-home-lab-agents-much-more-useful/",
+          "publishedOn": "2026-07-25T12:35:57.000Z",
+          "wordCount": null,
+          "title": "These Downloadable AI Skills Made My Home Lab Agents Much More Useful",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=314014",
+          "author": "Brandon Lee",
+          "description": "One of the biggest frustrations with running docker containers in the home lab is not usually the “big” complex problems. It usually comes down to the small tasks that slowly…\nThe post This Lightweight Docker Tool Solves One of My Biggest Home Lab Annoyances appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/07/this-lightweight-docker-tool-solves-one-of-my-biggest-home-lab-annoyances/",
+          "publishedOn": "2026-07-24T12:19:23.000Z",
+          "wordCount": null,
+          "title": "This Lightweight Docker Tool Solves One of My Biggest Home Lab Annoyances",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=313972",
+          "author": "Brandon Lee",
+          "description": "Every once in a while I come across an open source project that immediately makes me stop what I’m doing and spin up a test container in the home lab.…\nThe post This Free Docker Dashboard Shows Your Entire Stack in 3D appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/07/this-free-docker-dashboard-shows-your-entire-stack-in-3d/",
+          "publishedOn": "2026-07-23T11:50:05.000Z",
+          "wordCount": null,
+          "title": "This Free Docker Dashboard Shows Your Entire Stack in 3D",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=313937",
+          "author": "Brandon Lee",
+          "description": "Cleanup tasks are usually not something that we get overly excited about. However, one thing that I do get excited about is making my lab run better and having fewer…\nThe post 9 Proxmox Cleanup Tasks You Probably Forgot appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/07/9-proxmox-cleanup-tasks-you-probably-forgot/",
+          "publishedOn": "2026-07-22T12:34:18.000Z",
+          "wordCount": null,
+          "title": "9 Proxmox Cleanup Tasks You Probably Forgot",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=313890",
+          "author": "Brandon Lee",
+          "description": "One of the coolest things you can do with Proxmox is spin up LXC Containers (Linux Containers). These are used heavily by those who are self-hosting services in their home…\nThe post The Proxmox LXC Settings I Never Skip Before Deployment appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/07/the-proxmox-lxc-settings-i-never-skip-before-deployment/",
+          "publishedOn": "2026-07-21T12:05:28.000Z",
+          "wordCount": null,
+          "title": "The Proxmox LXC Settings I Never Skip Before Deployment",
+          "imageUrl": null
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=313724",
           "author": "Brandon Lee",
@@ -1489,136 +1609,6 @@
           "wordCount": null,
           "title": "VM Migration in Proxmox Kept Breaking Until I Fixed This CPU Setting",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=311698",
-          "author": "Brandon Lee",
-          "description": "If you have been running Proxmox in your home lab for any amount of time, you already know the ecosystem has been growing fast and rightly so. There are more…\nThe post I Tried New Proxmox Tools in May 2026 and Only a Few Made the Cut appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/05/i-tried-new-proxmox-tools-in-may-2026-and-only-a-few-made-the-cut/",
-          "publishedOn": "2026-05-02T13:37:48.000Z",
-          "wordCount": null,
-          "title": "I Tried New Proxmox Tools in May 2026 and Only a Few Made the Cut",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=311518",
-          "author": "Brandon Lee",
-          "description": "If you saw my earlier post a few weeks back covering Scanopy, you already know there are many different solutions out there that can scan your network and generate diagrams…\nThe post I Can Finally See My Entire Home Lab and It Changed How I Troubleshoot appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/05/i-can-finally-see-my-entire-home-lab-and-it-changed-how-i-troubleshoot/",
-          "publishedOn": "2026-05-01T12:04:00.000Z",
-          "wordCount": null,
-          "title": "I Can Finally See My Entire Home Lab and It Changed How I Troubleshoot",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=311609",
-          "author": "Brandon Lee",
-          "description": "Backups are arguably one of THE most important aspects of running any type of virtualization stack. If you are running a small home lab or production environment, likely you don’t…\nThe post Proxmox Backup Server 4.2 Just Changed How I Do Offsite Backups appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/04/proxmox-backup-server-4-2-just-changed-how-i-do-offsite-backups/",
-          "publishedOn": "2026-04-30T11:49:58.000Z",
-          "wordCount": null,
-          "title": "Proxmox Backup Server 4.2 Just Changed How I Do Offsite Backups",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=311472",
-          "author": "Brandon Lee",
-          "description": "If you have been running Traefik or you have thought about running Traefik, you probably fall into one of two schools of thought. You probably either love Traefik due to…\nThe post I Tried Traefik Manager in My Home Lab and It Makes Traefik Much Easier appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/04/i-tried-traefik-manager-in-my-home-lab-and-it-makes-traefik-much-easier/",
-          "publishedOn": "2026-04-29T12:29:28.000Z",
-          "wordCount": null,
-          "title": "I Tried Traefik Manager in My Home Lab and It Makes Traefik Much Easier",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=311439",
-          "author": "Brandon Lee",
-          "description": "Out of all the really great features that Proxmox offers for home labbers and production environments, one of the most underutilized features is Proxmox SDN. You have probably seen the…\nThe post Is Proxmox SDN Worth It for a Home Lab? appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/04/is-proxmox-sdn-worth-it-for-a-home-lab/",
-          "publishedOn": "2026-04-28T12:39:20.000Z",
-          "wordCount": null,
-          "title": "Is Proxmox SDN Worth It for a Home Lab?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=311420",
-          "author": "Brandon Lee",
-          "description": "I am a huge fan of automation in the home lab and have long had pipelines running that automate deployments of virtual machines in my VMware vSphere and now Proxmox…\nThe post I Use Packer to Automate Ubuntu Server 26.04 on Proxmox and It Saves Me Hours appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/04/i-use-packer-to-automate-ubuntu-server-26-04-on-proxmox-and-it-saves-me-hours/",
-          "publishedOn": "2026-04-27T12:17:45.000Z",
-          "wordCount": null,
-          "title": "I Use Packer to Automate Ubuntu Server 26.04 on Proxmox and It Saves Me Hours",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=311369",
-          "author": "Brandon Lee",
-          "description": "I am always on the lookout for new and better tools for monitoring in the home lab environment to keep an eye on self-hosted apps and services. There are a…\nThe post I Replaced My Monitoring Stack and This Just Works in My Home Lab appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/04/i-replaced-my-monitoring-stack-and-this-just-works-in-my-home-lab/",
-          "publishedOn": "2026-04-25T12:11:21.000Z",
-          "wordCount": null,
-          "title": "I Replaced My Monitoring Stack and This Just Works in My Home Lab",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=311343",
-          "author": "Brandon Lee",
-          "description": "If you have ever worked at rebuilding your home lab from scratch or even part of it, you know how painful this can be. This could possibly turn into a…\nThe post I Can Rebuild My Home Lab From Scratch in Hours and These 5 Habits Made It Possible appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/04/i-can-rebuild-my-home-lab-from-scratch-in-hours-and-these-5-habits-made-it-possible/",
-          "publishedOn": "2026-04-24T12:11:02.000Z",
-          "wordCount": null,
-          "title": "I Can Rebuild My Home Lab From Scratch in Hours and These 5 Habits Made It Possible",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=311260",
-          "author": "Brandon Lee",
-          "description": "I am constantly surprised by the number of new tools that are getting cranked out for Proxmox. It is hard to keep up sometimes with the growth and expansion of…\nThe post I Tried Tainer for Proxmox and It Feels Like Portainer for VMs appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/04/i-tried-tainer-for-proxmox-and-it-feels-like-portainer-for-vms/",
-          "publishedOn": "2026-04-23T12:21:37.000Z",
-          "wordCount": null,
-          "title": "I Tried Tainer for Proxmox and It Feels Like Portainer for VMs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=311277",
-          "author": "Brandon Lee",
-          "description": "For those migrating to Proxmox from “another hypervisor”, there are always the discussions around what features may be missing or work different from what they are coming from. If you…\nThe post Proxmox 9.1.8 Finally Rebalances HA Workloads Automatically appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/04/proxmox-9-1-8-finally-rebalances-ha-workloads-automatically/",
-          "publishedOn": "2026-04-22T12:41:48.000Z",
-          "wordCount": null,
-          "title": "Proxmox 9.1.8 Finally Rebalances HA Workloads Automatically",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=311229",
-          "author": "Brandon Lee",
-          "description": "I have been having a blast trying out container-specific operating systems. As of recently I have tried out a couple including Lightwhale and Flatcar. Both have been very good in…\nThe post I Deployed My Own Flatcar Linux Update Server and Here’s What Actually Happened appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/04/i-deployed-my-own-flatcar-linux-update-server-and-heres-what-actually-happened/",
-          "publishedOn": "2026-04-21T12:09:22.000Z",
-          "wordCount": null,
-          "title": "I Deployed My Own Flatcar Linux Update Server and Here’s What Actually Happened",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=311196",
-          "author": "Brandon Lee",
-          "description": "There are many great Linux operating systems that I have used in the home lab for running containers. You may have seen my recent post on Lightwhale in my home…\nThe post I Installed Flatcar Linux on Proxmox and It’s Not Like a Normal Linux VM appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/04/i-installed-flatcar-linux-on-proxmox-and-its-not-like-a-normal-linux-vm/",
-          "publishedOn": "2026-04-20T12:36:07.000Z",
-          "wordCount": null,
-          "title": "I Installed Flatcar Linux on Proxmox and It’s Not Like a Normal Linux VM",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=311164",
-          "author": "Brandon Lee",
-          "description": "Docker is a super powerful tool that you can use in your home lab. I think for me personally, a turning point was when I started running mostly containerized services.…\nThe post The Biggest Docker Mistakes I Still See in Home Labs (And How I Fix Them) appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/04/the-biggest-docker-mistakes-i-still-see-in-home-labs-and-how-i-fix-them/",
-          "publishedOn": "2026-04-18T12:10:17.000Z",
-          "wordCount": null,
-          "title": "The Biggest Docker Mistakes I Still See in Home Labs (And How I Fix Them)",
-          "imageUrl": null
         }
       ]
     },
@@ -1627,6 +1617,226 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/?p=75346",
+          "author": "Collabnix Team",
+          "description": "Docker has quietly transformed from “the container company” into the security and runtime layer for agentic AI development. If you’ve checked docs.docker.com lately, you’ve probably noticed the homepage no longer leads with Swarm or Compose tutorials, it leads with questions like “Can I run my AI agent in a sandbox?” and “What are Docker Hardened […]",
+          "link": "https://collabnix.com/whats-new-in-docker-in-2026-sandboxes-hardened-images-and-the-ai-native-container-platform/",
+          "publishedOn": "2026-07-31T04:10:40.000Z",
+          "wordCount": null,
+          "title": "What’s New in Docker in 2026: Sandboxes, Hardened Images, and the AI-Native Container Platform",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=75342",
+          "author": "Tanvir Kour",
+          "description": "Restaurant work asks a lot from people in very little time. New hires absorb recipes, sanitation rules, guest standards, and service steps while shifts keep moving. Training needs structure, pace, and visible follow-through. A learning management platform gives managers a single place to assign lessons, track progress, and address weak spots early. The right choice […]",
+          "link": "https://collabnix.com/choosing-the-best-lms-for-restaurants-to-improve-team-performance/",
+          "publishedOn": "2026-07-27T15:41:40.000Z",
+          "wordCount": null,
+          "title": "Choosing the Best LMS for Restaurants to Improve Team Performance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/building-an-ai-coding-agent-automating-code-writing-and-testing/",
+          "author": "Collabnix Team",
+          "description": "Discover how to create an AI coding agent to automate writing and testing code, transforming your development workflow.",
+          "link": "https://collabnix.com/building-an-ai-coding-agent-automating-code-writing-and-testing/",
+          "publishedOn": "2026-07-25T03:46:57.000Z",
+          "wordCount": null,
+          "title": "Building an AI Coding Agent: Automating Code Writing and Testing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/claude-code-vs-cursor-vs-github-copilot-best-ai-coding-assistant-in-2025-3/",
+          "author": "Collabnix Team",
+          "description": "Explore the leading AI coding assistants of 2025, comparing Claude Code, Cursor, and GitHub Copilot for optimal software development workflows.",
+          "link": "https://collabnix.com/claude-code-vs-cursor-vs-github-copilot-best-ai-coding-assistant-in-2025-3/",
+          "publishedOn": "2026-07-24T03:53:12.000Z",
+          "wordCount": null,
+          "title": "Claude Code vs Cursor vs GitHub Copilot: Best AI Coding Assistant in 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/claude-code-vs-cursor-vs-github-copilot-best-ai-coding-assistant-in-2025-2/",
+          "author": "Collabnix Team",
+          "description": "Explore the leading AI coding assistants of 2025, comparing Claude Code, Cursor, and GitHub Copilot for optimal software development workflows.",
+          "link": "https://collabnix.com/claude-code-vs-cursor-vs-github-copilot-best-ai-coding-assistant-in-2025-2/",
+          "publishedOn": "2026-07-24T03:52:48.000Z",
+          "wordCount": null,
+          "title": "Claude Code vs Cursor vs GitHub Copilot: Best AI Coding Assistant in 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/getting-started-with-openclaw-installation-and-your-first-ai-agent-2/",
+          "author": "Collabnix Team",
+          "description": "Discover the world of OpenClaw, a promising open-source AI framework, and learn how to set it up and start building your first AI agent.",
+          "link": "https://collabnix.com/getting-started-with-openclaw-installation-and-your-first-ai-agent-2/",
+          "publishedOn": "2026-07-23T03:53:32.000Z",
+          "wordCount": null,
+          "title": "Getting Started with OpenClaw: Installation and Your First AI Agent",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/getting-started-with-openclaw-installation-and-your-first-ai-agent/",
+          "author": "Collabnix Team",
+          "description": "Discover the world of OpenClaw, a promising open-source AI framework, and learn how to set it up and start building your first AI agent.",
+          "link": "https://collabnix.com/getting-started-with-openclaw-installation-and-your-first-ai-agent/",
+          "publishedOn": "2026-07-23T03:53:10.000Z",
+          "wordCount": null,
+          "title": "Getting Started with OpenClaw: Installation and Your First AI Agent",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=75330",
+          "author": "Collabnix Team",
+          "description": "AI Models Comparison 2026: Key Insights and Analysis Eighteen months ago, “which AI model is best” had a short answer. In mid-2026, it doesn’t. The frontier has splintered into a dozen credible contenders spanning American labs, Chinese open-weight challengers, and specialized players optimizing for cost, speed, or agentic reasoning rather than raw benchmark bragging rights. […]",
+          "link": "https://collabnix.com/ai-models-comparison-2026-a-deep-dive-comparative-study/",
+          "publishedOn": "2026-07-22T16:51:17.000Z",
+          "wordCount": null,
+          "title": "AI Models Comparison 2026: A Deep-Dive Comparative Study",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=75321",
+          "author": "Tanvir Kour",
+          "description": "Understanding Vibe Coding and Its Impact on Developers The smell of coffee hangs in the air. A developer stares at a blinking cursor. The screen remains empty. Writer’s block hits coders too. The blank page feels intimidating. But something shifts. A new conversation begins. The developer types a simple request. The AI responds instantly. Code […]",
+          "link": "https://collabnix.com/vibe-coding-explained-how-ai-is-changing-the-developer-experience/",
+          "publishedOn": "2026-07-22T14:58:37.000Z",
+          "wordCount": null,
+          "title": "Vibe Coding Explained: How AI Is Changing the Developer Experience",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/building-a-customer-support-ai-agent-with-rag-a-step-by-step-guide/",
+          "author": "Collabnix Team",
+          "description": "Learn how to build a customer support AI agent using Retrieval-Augmented Generation (RAG) to enhance response accuracy and user satisfaction.",
+          "link": "https://collabnix.com/building-a-customer-support-ai-agent-with-rag-a-step-by-step-guide/",
+          "publishedOn": "2026-07-22T03:56:46.000Z",
+          "wordCount": null,
+          "title": "Building a Customer Support AI Agent with RAG: A Step-by-Step Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=75314",
+          "author": "Collabnix Team",
+          "description": "Ollama has become one of the most popular ways to run large language models locally, and its official Python library makes it simple to integrate local LLMs directly into your Python applications. In this guide, you’ll learn how to install, configure, and use the Ollama Python library to generate text, build chat applications, stream responses, […]",
+          "link": "https://collabnix.com/ollama-python-library-a-complete-guide-to-running-llms-locally-with-python/",
+          "publishedOn": "2026-07-21T19:23:17.000Z",
+          "wordCount": null,
+          "title": "Ollama Python Library: A Complete Guide to Running LLMs Locally with Python",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/deploy-ai-models-efficiently-on-kubernetes-using-kserve/",
+          "author": "Collabnix Team",
+          "description": "Learn to deploy AI models efficiently on Kubernetes using KServe, a serverless inferencing solution for scalable machine learning model management.",
+          "link": "https://collabnix.com/deploy-ai-models-efficiently-on-kubernetes-using-kserve/",
+          "publishedOn": "2026-07-21T03:54:46.000Z",
+          "wordCount": null,
+          "title": "Deploy AI Models Efficiently on Kubernetes Using KServe",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=75294",
+          "author": "Tanvir Kour",
+          "description": "Every AI model is only as good as the data it learns from, and a growing share of that data is scraped from the open web—product catalogs, reviews, forums, news, search results, images. But the web has grown hostile to automated collection at exactly the moment AI teams need it most.  Sites throttle, block, and […]",
+          "link": "https://collabnix.com/feeding-the-machine-why-ai-data-pipelines-live-or-die-on-residential-proxies/",
+          "publishedOn": "2026-07-20T10:06:22.000Z",
+          "wordCount": null,
+          "title": "Feeding the Machine: Why AI Data Pipelines Live or Die on Residential Proxies",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=75284",
+          "author": "Collabnix Team",
+          "description": "What Is Kimi K3? Kimi K3 is the newest flagship large language model from the Chinese AI lab Moonshot AI, and it has quickly become one of the most talked-about open-weight releases of 2026. The model scales to roughly 2.8 trillion total parameters, making it the largest open-weight model released to date, while still activating […]",
+          "link": "https://collabnix.com/getting-started-with-kimi-k3-a-practical-guide-to-moonshot-ais-flagship-model/",
+          "publishedOn": "2026-07-20T06:44:53.000Z",
+          "wordCount": null,
+          "title": "Getting Started with Kimi K3: A Practical Guide to Moonshot AI’s Flagship Model",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/deploying-llm-inference-at-scale-on-kubernetes-a-comprehensive-guide/",
+          "author": "Collabnix Team",
+          "description": "Deploy Large Language Model inference at scale on Kubernetes with this in-depth guide, tailored for seamless scalability and maximum efficiency.",
+          "link": "https://collabnix.com/deploying-llm-inference-at-scale-on-kubernetes-a-comprehensive-guide/",
+          "publishedOn": "2026-07-20T04:13:43.000Z",
+          "wordCount": null,
+          "title": "Deploying LLM Inference at Scale on Kubernetes: A Comprehensive Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/istio-vs-linkerd-vs-cilium-best-kubernetes-service-mesh-in-2025-2/",
+          "author": "Collabnix Team",
+          "description": "Explore Istio, Linkerd, and Cilium, three leading Kubernetes service meshes in 2025, analyzing their architectures, features, and practical applications.",
+          "link": "https://collabnix.com/istio-vs-linkerd-vs-cilium-best-kubernetes-service-mesh-in-2025-2/",
+          "publishedOn": "2026-07-19T04:03:42.000Z",
+          "wordCount": null,
+          "title": "Istio vs Linkerd vs Cilium: Best Kubernetes Service Mesh in 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/istio-vs-linkerd-vs-cilium-best-kubernetes-service-mesh-in-2025/",
+          "author": "Collabnix Team",
+          "description": "Explore Istio, Linkerd, and Cilium, three leading Kubernetes service meshes in 2025, analyzing their architectures, features, and practical applications.",
+          "link": "https://collabnix.com/istio-vs-linkerd-vs-cilium-best-kubernetes-service-mesh-in-2025/",
+          "publishedOn": "2026-07-19T04:03:15.000Z",
+          "wordCount": null,
+          "title": "Istio vs Linkerd vs Cilium: Best Kubernetes Service Mesh in 2025",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/claude-code-pricing-limits-and-how-it-compares-to-copilot-pro-2/",
+          "author": "Collabnix Team",
+          "description": "Discover how Claude Code, an AI coding assistant by Anthropic, compares to GitHub Copilot Pro in terms of pricing, features, and real-world performance. Learn about its unique capabilities and decide which tool best suits your development needs.",
+          "link": "https://collabnix.com/claude-code-pricing-limits-and-how-it-compares-to-copilot-pro-2/",
+          "publishedOn": "2026-07-18T03:41:43.000Z",
+          "wordCount": null,
+          "title": "Claude Code Pricing, Limits, and How It Compares to Copilot Pro",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/claude-code-pricing-limits-and-how-it-compares-to-copilot-pro/",
+          "author": "Collabnix Team",
+          "description": "Discover how Claude Code, an AI coding assistant by Anthropic, compares to GitHub Copilot Pro in terms of pricing, features, and real-world performance. Learn about its unique capabilities and decide which tool best suits your development needs.",
+          "link": "https://collabnix.com/claude-code-pricing-limits-and-how-it-compares-to-copilot-pro/",
+          "publishedOn": "2026-07-18T03:41:21.000Z",
+          "wordCount": null,
+          "title": "Claude Code Pricing, Limits, and How It Compares to Copilot Pro",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=75255",
+          "author": "Ajeet Raina",
+          "description": "Speed Up Your Local Coding Agent: Running Gemma 4 with Multi-Token Prediction in Ollama Ollama 0.31 introduced a major performance upgrade for Apple Silicon users: multi-token prediction (MTP) for Gemma 4. In practice, this means a coding agent backed by Gemma 4 can generate code noticeably faster without any change in output quality. This tutorial […]",
+          "link": "https://collabnix.com/run-gemma-4-up-to-90-faster-with-multi-token-prediction-a-step-by-step-ollama-tutorial/",
+          "publishedOn": "2026-07-17T11:13:47.000Z",
+          "wordCount": null,
+          "title": "Run Gemma 4 up to 90% Faster with Multi-Token Prediction: A Step-by-Step Ollama Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=75251",
+          "author": "Collabnix Team",
+          "description": "Understanding the Context Layer for Enterprise AI Most of the conversation about implementing enterprise AI centers around model strength and optimization. It’s exciting to talk about powerful AI models and innovative capabilities, but they only play a limited role in ensuring that AI systems succeed in a production setting.  Organizations that move beyond pilots are […]",
+          "link": "https://collabnix.com/building-the-context-layer-for-enterprise-ai/",
+          "publishedOn": "2026-07-16T04:16:44.000Z",
+          "wordCount": null,
+          "title": "Building the Context Layer for Enterprise AI",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/building-a-customer-service-bot-with-openclaw-a-deep-dive-into-ai-agent-frameworks-2/",
+          "author": "Collabnix Team",
+          "description": "Explore how to build a customer service bot using OpenClaw, an open-source AI framework, delving into AI agent development and best practices.",
+          "link": "https://collabnix.com/building-a-customer-service-bot-with-openclaw-a-deep-dive-into-ai-agent-frameworks-2/",
+          "publishedOn": "2026-07-16T03:47:02.000Z",
+          "wordCount": null,
+          "title": "Building a Customer Service Bot with OpenClaw: A Deep Dive into AI Agent Frameworks",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/kubeflow-vs-argo-workflows-choosing-the-best-ml-pipeline-tool-for-kubernetes-2/",
           "author": "Collabnix Team",
@@ -2736,236 +2946,6 @@
           "wordCount": null,
           "title": "Upcoming Innovations in OpenClaw: The Future of the AI Agent Framework",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/empowering-openclaw-agents-with-memory-persistence-across-sessions/",
-          "author": "Collabnix Team",
-          "description": "Discover how to enhance OpenClaw AI agents with persistent memory across sessions for improved contextual awareness.",
-          "link": "https://collabnix.com/empowering-openclaw-agents-with-memory-persistence-across-sessions/",
-          "publishedOn": "2026-05-03T04:27:11.000Z",
-          "wordCount": null,
-          "title": "Empowering OpenClaw Agents with Memory: Persistence Across Sessions",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=73494",
-          "author": "Collabnix Team",
-          "description": "Discover the Features of Ollama DeepSeek v4 Pro Ollama just added DeepSeek-V4-Pro to its cloud model library, and on paper it is one of the most capable open-weights frontier models you can pull from a single command. The flagship of the DeepSeek-V4 series, V4-Pro is a 1.6 trillion parameter Mixture-of-Experts model with 49 billion active […]",
-          "link": "https://collabnix.com/ollama-ships-deepseek-v4-pro-a-1-6t-mixture-of-experts-model-with-1m-context-and-three-reasoning-modes/",
-          "publishedOn": "2026-05-02T16:00:58.000Z",
-          "wordCount": null,
-          "title": "Ollama DeepSeek v4 Pro: Advanced AI Model Unveiled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=73489",
-          "author": "Collabnix Team",
-          "description": "The browsers of 2026 are no longer just means of connection to the internet. They are the first line in protection and collection of data. In an age where cyber threats and digital monitoring become more advanced, the general public searches for the “safest” or “most private” browser. However, since any browser can be marketed […]",
-          "link": "https://collabnix.com/safest-browser-vs-most-private-browser-whats-the-real-difference/",
-          "publishedOn": "2026-05-02T07:56:27.000Z",
-          "wordCount": null,
-          "title": "Safest Browser vs Most Private Browser: What’s the Real Difference?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/understanding-mcp-the-backbone-of-ai-agent-capabilities/",
-          "author": "Collabnix Team",
-          "description": "Discover how the Model Context Protocol (MCP) empowers AI agents like Claude Code to intelligently and autonomously enhance software development processes.",
-          "link": "https://collabnix.com/understanding-mcp-the-backbone-of-ai-agent-capabilities/",
-          "publishedOn": "2026-05-01T04:35:30.000Z",
-          "wordCount": null,
-          "title": "Understanding MCP: The Backbone of AI Agent Capabilities",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=73478",
-          "author": "Tanvir Kour",
-          "description": "Quick Answer: If you’re searching for a Docker AI book focused on running production AI workloads, not just learning Docker basics with an AI chapter tacked on ~ Operational AI with Docker by Ajeet Singh Raina and Harsh Manvar (Packt, April 2026) is the book you’re looking for. It’s the first end-to-end guide covering Docker […]",
-          "link": "https://collabnix.com/the-best-docker-ai-book-for-production-why-operational-ai-with-docker-is-the-definitive-guide-for-2026/",
-          "publishedOn": "2026-05-01T03:52:29.000Z",
-          "wordCount": null,
-          "title": "The Best Docker AI Book for Production: Why Operational AI with Docker is the Definitive Guide for 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=73474",
-          "author": "Collabnix Team",
-          "description": "See what makes a QA company thorough enough to catch bugs that dev teams miss. Testing methodologies, best practices, and techniques.",
-          "link": "https://collabnix.com/what-makes-a-qa-company-thorough-enough-to-catch-bugs-dev-teams-miss/",
-          "publishedOn": "2026-04-29T12:25:05.000Z",
-          "wordCount": null,
-          "title": "What Makes a QA Company Thorough Enough to Catch Bugs Dev Teams Miss?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=73467",
-          "author": "Collabnix Team",
-          "description": "Testing with AI is reshaping QA into autonomous systems using AI testing tools and agentic AI for faster, smarter, and scalable software testing.",
-          "link": "https://collabnix.com/ai-testing-tools-in-the-age-of-agentic-ai-from-reactive-qa-to-autonomous-testing-systems/",
-          "publishedOn": "2026-04-29T12:14:43.000Z",
-          "wordCount": null,
-          "title": "AI Testing Tools in the Age of Agentic AI: From Reactive QA to Autonomous Testing Systems",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=73460",
-          "author": "Ajeet Raina",
-          "description": "For the past two years, the most common question I’ve received at every Collabnix Meetup — and we run a lot of them, with three to four hundred DevOps engineers and developers showing up each time — has been the same: “Ajeet, where do I start with Docker and AI?” Until today, my honest answer […]",
-          "link": "https://collabnix.com/operational-ai-with-docker-the-complete-guide-to-running-ai-agents-in-production-by-ajeet-singh-raina-and-docker-captain-harsh-manvar/",
-          "publishedOn": "2026-04-29T08:08:36.000Z",
-          "wordCount": null,
-          "title": "Operational AI with Docker: The Complete Guide to Running AI Agents in Production by Ajeet Singh Raina and Docker Captain Harsh Manvar",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=73444",
-          "author": "Tanvir Kour",
-          "description": "Most owners learned Excel on the fly—copying a SUM here, a VLOOKUP there, praying the sheet held together before the client call. No surprise Microsoft’s spreadsheet reaches roughly 750 million users while few tap its real time-savers. Over the past month we scored dozens of online classes for relevance, depth, price, instructor pedigree, and fresh […]",
-          "link": "https://collabnix.com/best-excel-courses-small-business-owners/",
-          "publishedOn": "2026-04-29T07:59:37.000Z",
-          "wordCount": null,
-          "title": "12 Best Excel Courses for Small Business Owners: Affordable Online Training Picks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=73444",
-          "author": "Tanvir Kour",
-          "description": "Most owners learned Excel on the fly—copying a SUM here, a VLOOKUP there, praying the sheet held together before the client call. No surprise Microsoft’s spreadsheet reaches roughly 750 million users while few tap its real time-savers. Over the past month we scored dozens of online classes for relevance, depth, price, instructor pedigree, and fresh […]",
-          "link": "https://collabnix.com/https-collabnix-com-best-excel-courses-small-business-owners/",
-          "publishedOn": "2026-04-29T07:59:37.000Z",
-          "wordCount": null,
-          "title": "12 Best Excel Courses for Small Business Owners: Affordable Online Training Picks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=73426",
-          "author": "Tanvir Kour",
-          "description": "Ollama crossed 52 million monthly downloads in Q1 2026. That number is not a vanity metric — it is a tectonic shift. Two years ago, “running an LLM on your laptop” was a weekend project for people who genuinely enjoyed compiling things from source. Today it is a single command, and roughly 42% of developers […]",
-          "link": "https://collabnix.com/what-everyone-is-actually-searching-about-ollama-in-2026/",
-          "publishedOn": "2026-04-29T07:04:18.000Z",
-          "wordCount": null,
-          "title": "What Everyone Is Actually Searching About Ollama in 2026",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=73415",
-          "author": "Collabnix Team",
-          "description": "Exploring AI Agents on Kubernetes for Enhanced Performance I’ve been spending a lot of time lately watching people try to deploy AI agents the same way they deploy microservices. They reach for a Deployment, slap on an HPA, maybe wire up a Service, and then wonder why everything feels slightly off. The agent crashes mid-task […]",
-          "link": "https://collabnix.com/agents-are-the-new-pods-running-ai-agents-on-kubernetes-with-the-sandbox-crd/",
-          "publishedOn": "2026-04-26T01:31:31.000Z",
-          "wordCount": null,
-          "title": "Agents Are the New Pods: Running AI Agents on Kubernetes with the Sandbox CRD",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=73406",
-          "author": "Ajeet Raina",
-          "description": "Nemoclaw vs Openclaw: A Detailed Comparison Guide I installed both, ran the same agent through each, and watched what they actually let through. Here’s the practical breakdown for developers. If you’ve been anywhere near the agentic AI space in the last six months, you’ve heard of OpenClaw. It went from a side project to 321,000+ […]",
-          "link": "https://collabnix.com/nemoclaw-vs-openclaw-a-hands-on-walkthrough-of-the-same-agent-in-two-very-different-boxes/",
-          "publishedOn": "2026-04-26T00:46:54.000Z",
-          "wordCount": null,
-          "title": "NemoClaw vs OpenClaw: A Hands-On Walkthrough of the Same Agent in Two Very Different Boxes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=73401",
-          "author": "Tanvir Kour",
-          "description": "Are you feeling confused about how to manage your money and thinking about a better way to handle your debts? You’re not alone, and many people go through the same phase at some point in life. The good thing is that there are simple, helpful solutions available to make things easier. Before choosing any debt […]",
-          "link": "https://collabnix.com/what-you-should-know-before-choosing-a-debt-relief-solution/",
-          "publishedOn": "2026-04-24T10:13:29.000Z",
-          "wordCount": null,
-          "title": "What You Should Know Before Choosing A Debt Relief Solution",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=73395",
-          "author": "Tanvir Kour",
-          "description": "What happens when your best prompt engineer leaves the company and takes their “magic” strings with them? Most DevOps teams struggle with this exact void, facing a chaotic reality where AI instructions are scattered across Slack threads and private Notion pages. Moving from ad-hoc experimentation to a reliable production environment needs a shift of […]",
-          "link": "https://collabnix.com/how-to-build-a-promptops-playbook-for-teams-2/",
-          "publishedOn": "2026-04-24T04:09:15.000Z",
-          "wordCount": null,
-          "title": "How to Build a PromptOps Playbook for Teams",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/how-to-build-a-customer-support-ai-agent-with-rag/",
-          "author": "Collabnix Team",
-          "description": "Learn how to build a sophisticated customer support AI agent using Retrieval-Augmented Generation (RAG) to deliver precise and contextually relevant responses.",
-          "link": "https://collabnix.com/how-to-build-a-customer-support-ai-agent-with-rag/",
-          "publishedOn": "2026-04-22T03:47:17.000Z",
-          "wordCount": null,
-          "title": "How to Build a Customer Support AI Agent with RAG",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/how-to-set-up-gitops-with-argocd-and-kubernetes-a-complete-tutorial/",
-          "author": "Collabnix Team",
-          "description": "Learn how to streamline your Kubernetes deployments with GitOps using ArgoCD in this comprehensive tutorial. Understand the prerequisites, setup processes, and initial configurations needed to automate your application deployments.",
-          "link": "https://collabnix.com/how-to-set-up-gitops-with-argocd-and-kubernetes-a-complete-tutorial/",
-          "publishedOn": "2026-04-21T03:50:58.000Z",
-          "wordCount": null,
-          "title": "How to Set Up GitOps with ArgoCD and Kubernetes: A Complete Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/mastering-real-time-debugging-and-monitoring-for-openclaw-ai-agents/",
-          "author": "Collabnix Team",
-          "description": "Learn how to effectively debug and monitor OpenClaw AI agents in real-time. Explore tools, setups, and best practices to enhance your AI deployment.",
-          "link": "https://collabnix.com/mastering-real-time-debugging-and-monitoring-for-openclaw-ai-agents/",
-          "publishedOn": "2026-04-20T03:57:14.000Z",
-          "wordCount": null,
-          "title": "Mastering Real-Time Debugging and Monitoring for OpenClaw AI Agents",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=73368",
-          "author": "Collabnix Team",
-          "description": "GitHub Copilot CLI is GitHub’s AI coding agent for the terminal — it reads your codebase, edits files, runs commands, and generally behaves like a junior pair-programmer that never gets tired. Out of the box it ships wired up to GitHub’s hosted models, but what most developers haven’t realised yet is that you can point […]",
-          "link": "https://collabnix.com/running-github-copilot-cli-on-open-models-with-ollama/",
-          "publishedOn": "2026-04-19T06:01:24.000Z",
-          "wordCount": null,
-          "title": "Running GitHub Copilot CLI on Open Models with Ollama",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/openclaw-vs-semantic-kernel-choosing-the-right-ai-framework/",
-          "author": "Collabnix Team",
-          "description": "Explore the distinctions and strengths of OpenClaw versus Semantic Kernel, focusing on their suitability for AI applications.",
-          "link": "https://collabnix.com/openclaw-vs-semantic-kernel-choosing-the-right-ai-framework/",
-          "publishedOn": "2026-04-19T03:54:45.000Z",
-          "wordCount": null,
-          "title": "OpenClaw vs Semantic Kernel: Choosing the Right AI Framework",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/building-a-multi-agent-system-architecture-and-code-guide-2/",
-          "author": "Collabnix Team",
-          "description": "Explore Multi-Agent Systems with an in-depth guide, including architecture and step-by-step code tutorials for distributed AI solutions.",
-          "link": "https://collabnix.com/building-a-multi-agent-system-architecture-and-code-guide-2/",
-          "publishedOn": "2026-04-18T03:35:42.000Z",
-          "wordCount": null,
-          "title": "Building a Multi-Agent System: Architecture and Code Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/building-a-multi-agent-system-architecture-and-code-guide/",
-          "author": "Collabnix Team",
-          "description": "Explore Multi-Agent Systems with an in-depth guide, including architecture and step-by-step code tutorials for distributed AI solutions.",
-          "link": "https://collabnix.com/building-a-multi-agent-system-architecture-and-code-guide/",
-          "publishedOn": "2026-04-18T03:35:22.000Z",
-          "wordCount": null,
-          "title": "Building a Multi-Agent System: Architecture and Code Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=73359",
-          "author": "Tanvir Kour",
-          "description": "In the current virtual platform landscape, residential proxies are critically important to maintain smooth, stable, steady and unhindered Internet traffic, thanks to the increasing sophistication, hyper-targeting and strict controls on websites. Even as these platforms evolve, they no longer give the same treatment to all visitors. Rather, they scrutinise location, device type, browsing habits and […]",
-          "link": "https://collabnix.com/importance-of-residential-proxies-in-modern-internet-use/",
-          "publishedOn": "2026-04-17T13:07:33.000Z",
-          "wordCount": null,
-          "title": "Importance of Residential Proxies in Modern Internet Use",
-          "imageUrl": null
         }
       ]
     },
@@ -3040,18 +3020,7 @@
       "title": "This Cute World",
       "feedUrl": "https://thiscute.world/index.xml",
       "siteUrl": "https://thiscute.world/",
-      "articles": [
-        {
-          "id": "https://thiscute.world/posts/the-worlds-i-see/?utm_source=atom_feed",
-          "author": null,
-          "description": "<h2 id=\"ai-与纺织女工\" class=\"headerLink\">\n<a href=\"#ai-%e4%b8%8e%e7%ba%ba%e7%bb%87%e5%a5%b3%e5%b7%a5\" class=\"header-mark\"></a>AI 与纺织女工</h2><p>2026 年 2 月 1 6日，除夕夜。</p>\n<p>0 点 11 分，窗外鞭炮声还没停，我在本地跑起了 Qwen3.5-397B-A17B 的 2bits 量化版，尝试发了一张经典的 NixOS 天线宝宝 meme 图给它分析，它分析地相当到位！我激动万分，跑去跟很多朋友分享，「也是在本地用上多模态 LLM 了」。</p>",
-          "link": "https://thiscute.world/posts/the-worlds-i-see/?utm_source=atom_feed",
-          "publishedOn": "2026-05-01T12:33:30.000Z",
-          "wordCount": null,
-          "title": "我看见的世界",
-          "imageUrl": null
-        }
-      ]
+      "articles": []
     },
     {
       "title": "一颗小树",
@@ -3265,21 +3234,6 @@
             "type": "image/jpeg"
           },
           "imageUrl": "https://bluehe.cn/usr/uploads/2026/05/P20260502-112050.webp"
-        },
-        {
-          "id": "https://bluehe.cn/archives/guangxi-sanyuesan",
-          "author": "云心怀鹤",
-          "description": "2026年4月18日，三月三活动还是跟以往一样，一直宣传民歌湖，但是我还没去过。\n\n抵达时，电动车已经停满了，过马路也需要交警管控，沿湖的道路已经堵满。\n\n虽然有着南宁民歌湖的演出表，但实际情况很乱很复杂，许多活动地点不能如期进行，各个区域各个商家自行安排...",
-          "link": "https://bluehe.cn/archives/guangxi-sanyuesan",
-          "publishedOn": "2026-04-20T04:00:00.000Z",
-          "wordCount": null,
-          "title": "广西三月三假期是如何打开的？",
-          "enclosure": {
-            "url": "https://bluehe.cn/usr/uploads/2026/04/CRnall_20260418_163026273.webp",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "imageUrl": "https://bluehe.cn/usr/uploads/2026/04/CRnall_20260418_163026273.webp"
         }
       ]
     },
@@ -3403,23 +3357,23 @@
       "siteUrl": "https://www.domon.cn/",
       "articles": [
         {
-          "id": "69f9ba9b014a770001866a58",
+          "id": "6a486cc7014a770001866a90",
           "author": "Domon",
-          "description": "亲爱的威廉，对于人们心中那种想要自我扩张，想要发现新鲜事物，想要四处走走、见见世面的欲望，我曾经考虑得很多很多；后来，对于他们的逆来顺受，循规蹈矩，对周围任何事情都漠不关心的本能，我又作了种种思索。",
-          "link": "https://www.domon.cn/2026-4yue-yue-du-shu-zhai/",
-          "publishedOn": "2026-05-01T10:07:00.000Z",
+          "description": "任何新奇的信息——出乎意料的新闻故事，或者猫咪做出不可思议行为的短视频——都会引发多巴胺分泌。这在短期内可能让你感觉良好，但随着时间的推移，你可能会沉迷于此，并因此降低智商。",
+          "link": "https://www.domon.cn/2026-6yue-yue-du-shu-zhai/",
+          "publishedOn": "2026-07-04T02:17:23.000Z",
           "wordCount": null,
-          "title": "2026年4月阅读书摘",
+          "title": "2026年6月阅读书摘",
           "imageUrl": null
         },
         {
-          "id": "69d32641014a770001866a36",
+          "id": "6a486b07014a770001866a75",
           "author": "Domon",
-          "description": "时代就在身边，很多时候，我们对此会毫无感知，觉得一切都是理所当然。",
-          "link": "https://www.domon.cn/2026-3yue-yue-du-shu-zhai/",
-          "publishedOn": "2026-04-06T03:22:24.000Z",
+          "description": "选择简单模式，人生会越来越困难；选择困难模式，人生会越来越简单。",
+          "link": "https://www.domon.cn/2026-5yue-yue-du-shu-zhai/",
+          "publishedOn": "2026-07-04T02:12:28.000Z",
           "wordCount": null,
-          "title": "2026年3月阅读书摘",
+          "title": "2026年5月阅读书摘",
           "imageUrl": null
         }
       ]
@@ -3429,6 +3383,56 @@
       "feedUrl": "https://dusays.com/atom.xml",
       "siteUrl": "https://dusays.com/",
       "articles": [
+        {
+          "id": "https://dusays.com/archives/877/",
+          "author": null,
+          "description": "<blockquote>\n<p>杜老师以前周末经常过得很”散”，一晃就是一天。后来杜老师摸索出 3 种周末过法，今天跟大家分享一下。</p>\n</blockquote>",
+          "link": "https://dusays.com/archives/877/",
+          "publishedOn": "2026-07-12T16:00:00.000Z",
+          "wordCount": null,
+          "title": "周末的 3 种过法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dusays.com/archives/876/",
+          "author": null,
+          "description": "<blockquote>\n<p>杜老师居家办公一年多，最大的感受是”分心比想象中容易得多”。今天杜老师就把自己用了一年多、一直稳定在用的 5 个减少分心的动作分享给大家。</p>\n</blockquote>",
+          "link": "https://dusays.com/archives/876/",
+          "publishedOn": "2026-07-06T16:00:00.000Z",
+          "wordCount": null,
+          "title": "居家办公 5 个减少分心的动作",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dusays.com/archives/875/",
+          "author": null,
+          "description": "<blockquote>\n<p>杜老师家里有一只橘白相间的猫，平时最爱跳上书桌”监工”。前几年给猫拍的照片都是糊的，后来摸索出 3 个小技巧，今天跟大家分享一下。</p>\n</blockquote>",
+          "link": "https://dusays.com/archives/875/",
+          "publishedOn": "2026-06-30T16:00:00.000Z",
+          "wordCount": null,
+          "title": "给猫拍照的 3 个小技巧",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dusays.com/archives/874/",
+          "author": null,
+          "description": "<blockquote>\n<p>杜老师每天通勤时间不短，前几年路上都是听音乐，最近一年开始听播客。今天杜老师就聊聊自己的 2 个选择思路，给同样通勤路上需要消磨时间的您一个参考。</p>\n</blockquote>",
+          "link": "https://dusays.com/archives/874/",
+          "publishedOn": "2026-06-24T16:00:00.000Z",
+          "wordCount": null,
+          "title": "通勤路上听播客 vs 听音乐的 2 个选择",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dusays.com/archives/873/",
+          "author": null,
+          "description": "<blockquote>\n<p>杜老师参加培训时，经常碰到投影仪连不上的情况。早期杜老师是干瞪眼，现在能 30 秒内搞定。今天杜老师就把自己的 3 个排查步骤分享给大家。</p>\n</blockquote>",
+          "link": "https://dusays.com/archives/873/",
+          "publishedOn": "2026-06-18T16:00:00.000Z",
+          "wordCount": null,
+          "title": "会议室投影仪连不上的 3 个排查",
+          "imageUrl": null
+        },
         {
           "id": "https://dusays.com/archives/872/",
           "author": null,
@@ -3498,36 +3502,6 @@
           "wordCount": null,
           "title": "通勤最后 10 分钟的\"减速\"技巧",
           "imageUrl": null
-        },
-        {
-          "id": "https://dusays.com/archives/865/",
-          "author": null,
-          "description": "<blockquote>\n<p>杜老师跟伴侣经常一起吃外卖，磨合了一年多，慢慢形成了一些小默契。今天杜老师就把自己觉得特别管用的 2 个分享给大家。</p>\n</blockquote>",
-          "link": "https://dusays.com/archives/865/",
-          "publishedOn": "2026-05-01T16:00:00.000Z",
-          "wordCount": null,
-          "title": "两人吃外卖的 2 个小默契",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dusays.com/archives/864/",
-          "author": null,
-          "description": "<blockquote>\n<p>杜老师以前深夜吃夜宵的频率挺高的，泡面、辣条、肉干样样都来。最近一段时间杜老师调整了一下，发现只要方法对，节制夜宵并不是什么难事。今天杜老师就把自己用过的 3 个技巧分享给大家。</p>\n</blockquote>",
-          "link": "https://dusays.com/archives/864/",
-          "publishedOn": "2026-04-25T16:00:00.000Z",
-          "wordCount": null,
-          "title": "深夜吃夜宵的 3 个节制技巧",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dusays.com/archives/863/",
-          "author": null,
-          "description": "<blockquote>\n<p>杜老师家里有一只橘白相间的猫，平时最爱跳上书桌”监工”。一开始杜老师挺困扰的，后来摸索出一套应对方案，今天就跟大家分享一下。</p>\n</blockquote>",
-          "link": "https://dusays.com/archives/863/",
-          "publishedOn": "2026-04-19T16:00:00.000Z",
-          "wordCount": null,
-          "title": "橘猫经常跳上书桌的 3 个应对",
-          "imageUrl": null
         }
       ]
     },
@@ -3583,6 +3557,26 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=23286",
+          "author": "xiaoz",
+          "description": "现在很多海外券商都收紧了注册，导致国内用户开户门槛陡增，不过近期博主实测了美国第一证券（Firstrade）还能通过国内真实资料开户（不需要海外居住地址），这篇文章分享下开户、入金、购买美股的全流程，供各位参考。关于FirstradeFirstrade（美国第一证券）是1985年成立的老牌美国券商，",
+          "link": "https://blog.xiaoz.org/archives/23286",
+          "publishedOn": "2026-07-30T03:25:29.000Z",
+          "wordCount": null,
+          "title": "美国第一证券开户 + WISE入金 + 购买美股全流程分享",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaoz.org/?p=23266",
+          "author": "xiaoz",
+          "description": "Termark 是由指针漂移科技工作室打造的新一代跨平台 SSH 客户端。与传统工具不同，它内置的 AI 助手不仅能进行日常对话，更能切实协助完成运维任务，显著提升工作效率。Termark可靠吗？技术成熟如果你了解开源堡垒机 Next Terminal，那对 Termark 的开发者应该不会陌生——",
+          "link": "https://blog.xiaoz.org/archives/23266",
+          "publishedOn": "2026-07-28T07:56:58.000Z",
+          "wordCount": null,
+          "title": "还在用老式 SSH 工具？Termark 新一代跨平台智能SSH客户端了解一下",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=23241",
           "author": "xiaoz",
@@ -3944,6 +3938,16 @@
       "siteUrl": "https://tinkertry.com",
       "articles": [
         {
+          "id": "articles/rivian-r2-video",
+          "author": null,
+          "description": "Quick Take\nClick/tap here to sign-up for a Rivian Demo Drive\nI finally got to test drive the new Rivian R2! Here's what the demo drive was like, some close-up details other reviews have overlooked, and my 10-item wishlist that could tempt even more Tesla drivers to make the switch.\nRivian likely has a hit on their hands with the new R2 EV. This is by far the most significant new EV launch this year, and strong sales & delivery numbers will be great for Rivian, and for the overall health of the US EV industry. My test drive experience was quite good. You can sign up for a test drive near you by making a reservation a day or two in advance here.\nVideo\nFeaturing chapter ⏱️ links:\n00:00 - Intro at the Rivian store in The Westchester (Mall), White Plains NY\n00:39 - R2 close-up details others ha…",
+          "link": "https://tinkertry.com/articles/rivian-r2-video",
+          "publishedOn": "2026-07-19T18:44:00.000Z",
+          "wordCount": 10682,
+          "title": "Rivian R2 Test Drive: 10 Ideas to Tempt Even More Tesla Drivers",
+          "imageUrl": "https://tinkertry.com/content/articles/1186-rivian-r2-video/featured.jpg"
+        },
+        {
           "id": "articles/stepwise-webinar",
           "author": null,
           "description": "Quick Take\nClick/Tap to view Press Release\nThis Innovative Energy Solutions (IES) funded pilot is happening right here in Connecticut, and was approved by the Public Utilities Regulatory Authority. They will provide 100 Stepwise Tap load management devices - hardware and installation included - at no cost to qualifying homeowners in Eversource and United Illuminating territory who want to upgrade from Level 1 to Level 2 EV charging. There are no income requirements.\nTo help Connecticut EV owners get their questions answered, the EV Club of Connecticut and PACE are co-presenting this live webinar featuring Stepwise co-founder and CEO Jane Chen along with Chief Marketing and Strategy Officer Holly Lichtenfeld. It's free and open to the public.\nDisclosure: This is not a sponsored post or vide…",
@@ -3951,16 +3955,6 @@
           "publishedOn": "2026-05-18T22:27:00.000Z",
           "wordCount": null,
           "title": "Free EV Load Manager for Eligible Connecticut Homeowners",
-          "imageUrl": null
-        },
-        {
-          "id": "articles/hgg674",
-          "author": null,
-          "description": "Always fun to catch up with Jim! Here's his podcast announcement with extensive show notes:\n\n\nPosted on Sat March 14, 2026 by Jim Collison\nThanks for listening!\nSUBSCRIBE\nShownotes Links\nGeothermal vs Air Source Heat Pump: Which is Worth It? – Featured on Undecided with Matt Ferrell (Feb 24, 2026). Side-by-side comparison of Matt’s geothermal system and Paul’s air source heat pumps across two all-electric homes.\nHeat Pump Comparison & Paul Braren Interview – Featured on Still TBD Podcast (Mar 4, 2026). Extended interview diving deeper into the real-world tradeoffs between ground source and air source heat pumps in cold climates.\n\nTinkerTry’s 2025 Home Tech Refresh\nInsights That’ll Help You and Your Contractor Plan for Comfort\nSolar Roof vs Solar Panels: Which is Worth It? - TinkerTry's hom…",
-          "link": "https://tinkertry.com/articles/hgg674",
-          "publishedOn": "2026-03-17T22:41:00.000Z",
-          "wordCount": null,
-          "title": "Upgrading an Older Home: Heat Pumps, Air Sealing and Smart Energy with Paul Braren",
           "imageUrl": null
         }
       ]
