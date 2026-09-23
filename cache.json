@@ -122,36 +122,6 @@
           "wordCount": null,
           "title": "The new yet familiar CodePen&nbsp;2.0",
           "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2026/06/curated-public-domain-images/",
-          "author": null,
-          "description": "Xavier de Maistre in an armchair, displaying his “book of discoveries” (Veyssier, 1860)\nEvery so often I like to include a public domain image in a blog post. I’m fond of the woodblock and lithographic illustrations of the late 1800s. I try to avoid indiscriminately (un-)splashing every post but the real reason for the infrequency isn’t radical self-control, it’s because dumpster diving for public domain images can be a chore.\nYou can –of course– use Google or Bing to find public domain images but the volume, duplicates, and weighing the veracity of copyright attribution is overwhelming. The Library of Congress has Free to Use and Reuse sets, but their collections are nebulous noun buckets filled with a federally-mandated amount of Americana. On top of that, searching library sites is neve…",
-          "link": "https://daverupert.com/2026/06/curated-public-domain-images/",
-          "publishedOn": "2026-06-24T12:05:00.000Z",
-          "wordCount": null,
-          "title": "Finding curated public domain images",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2026/06/fix-for-host-has-slot/",
-          "author": null,
-          "description": "Named slots are one of web components’ biggest superpowers ✨. Imagine a Button component with an optional icon; in Web Components we don’t need a separate Button and IconButton, a single Button component with <slot name=\"icon\"> will do. Or a card component with a handful of predefined slots for image, title, description, price, metadata, etc. Not 100 different cards… one card.\nSlots are a wonderful way to declaratively compose UI, but one shadow styling challenge that has vexed my team over the years is how to contextually hide a <slot> when there’s no slotted content.\nThe problem… ghost gaps\nThe most idiomatic way to check if a particular slot is in-use is to use :host(:has([slot=\"foo\"])). But… In a weird twist to how web component browser-compat bugs tend to go, :host(:has([slot])) works…",
-          "link": "https://daverupert.com/2026/06/fix-for-host-has-slot/",
-          "publishedOn": "2026-06-19T04:57:00.000Z",
-          "wordCount": null,
-          "title": "A workaround for hiding empty slots in Chromium",
-          "imageUrl": null
-        },
-        {
-          "id": "https://daverupert.com/2026/06/spoons-by-sam/",
-          "author": null,
-          "description": "I play Clues by Sam nearly every single day. I wrote about it before, but solving a little crime puzzle adds a micro-thrill to my day. A little blast of logic, misdirection, and wordplay. It’s a frequent topic of conversation in the ShopTalkShow Discord where people share their solves like Wordle scores.\nL'anarchiste (1892) by Félix Vallotton. Public Domain.\n \nIt might have been Josh who first pointed it out, but as a group we’ve realized that Clues by Sam is an uncanny proxy for measuring your emotional well-being that day. If you’re a regular puzzler, I think it’s safe to say you should be able to solve a non-weekend edition of Clues by Sam without any mistakes (green days). But there are off-days (yellow days) where I make obvious errors tracking the four or five clues you need to solve the puzzle. And there are worse days (orange days) where even with hints, I have no idea what I’m doing and begin to doubt my understanding of English.\nBorrowing the metaphor of Spoon Theory from the disabled community, Clues by Sam helps me take inventory of what’s left in my kitchen drawers. My performance on Clues by Sam often alerts me to events happening in my subconscious. It’s become a barometer for my cognitive bandwidth; like Person, Man, Woman, Camera, TV but with Xena, Kyle, Paula, Vince, and Chloe.  Faceplanting on an easy puzzle is a clue for me that I have some unarticulated anxieties occupying my mind.\nIt’s not rocket science that cognitive tasks are more difficult when you’re distracted, but the reliability to which this daily puzzler causes me to dig into my personal well-being is shocking. I’m beginning to see obvious mistakes –like the common “crimocent” mix-up– less as a failure and more as an opportunity to pause and assess what else might be going on in my life.",
-          "link": "https://daverupert.com/2026/06/spoons-by-sam/",
-          "publishedOn": "2026-06-18T11:50:00.000Z",
-          "wordCount": null,
-          "title": "Spoons by Sam",
-          "imageUrl": null
         }
       ]
     },
@@ -858,6 +828,16 @@
       "siteUrl": "/",
       "articles": [
         {
+          "id": "https://nops.icu/archives/255/",
+          "author": "季兴",
+          "description": "0.擦好防晒，岛上的紫外线都很强1.装备顺序，穿一条贴身泳裤，毕竟公用浮潜装备2.配重铅块，每块1kg，为4块在腰带左右两侧，1块绑在气瓶，为什么5kg未知3.检查气瓶，新的气瓶上面有胶套，小拧...",
+          "link": "https://nops.icu/archives/255/",
+          "publishedOn": "2026-09-21T05:41:00.000Z",
+          "wordCount": null,
+          "title": "潜水员OW培训纪要",
+          "imageUrl": null
+        },
+        {
           "id": "https://nops.icu/archives/254/",
           "author": "季兴",
           "description": "合适的才是最好的，基于AIOpslab项目，考察模型在解决物理世界问题的能力，直接看效果",
@@ -1004,6 +984,86 @@
       "feedUrl": "https://www.virtualizationhowto.com/feed/",
       "siteUrl": "https://www.virtualizationhowto.com/",
       "articles": [
+        {
+          "id": "https://www.virtualizationhowto.com/?p=315936",
+          "author": "Brandon Lee",
+          "description": "If there has been one name that has been synoymous with “container management”, that name has been Portainer. I have used it for years now and have always thought of…\nThe post Portainer 3.0 Changes Direction. What Does It Mean for Docker Home Labs? appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/09/portainer-3-0-changes-direction-what-does-it-mean-for-docker-home-labs/",
+          "publishedOn": "2026-09-23T12:25:23.000Z",
+          "wordCount": null,
+          "title": "Portainer 3.0 Changes Direction. What Does It Mean for Docker Home Labs?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=315872",
+          "author": "Brandon Lee",
+          "description": "So, in case you haven’t heard yet, TrueNAS has released their official plugin for Proxmox. It means they now have a sanctioned, official plugin that they develop and support for…\nThe post I Installed the New TrueNAS Proxmox Plugin in My Home Lab. Here’s the Setup appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/09/i-installed-the-new-truenas-proxmox-plugin-in-my-home-lab-heres-the-setup/",
+          "publishedOn": "2026-09-22T12:58:58.000Z",
+          "wordCount": null,
+          "title": "I Installed the New TrueNAS Proxmox Plugin in My Home Lab. Here’s the Setup",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=315854",
+          "author": "Brandon Lee",
+          "description": "If you haven’t heard about Pangolin, I wrote up a full walkthrough with the solution back in September of last year. You can read that post here: Why Pangolin is…\nThe post Pangolin 1.23 Just Made High Availability Clustering Self-Service for Home Labs appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/09/pangolin-1-23-just-made-high-availability-clustering-self-service-for-home-labs/",
+          "publishedOn": "2026-09-21T11:56:30.000Z",
+          "wordCount": null,
+          "title": "Pangolin 1.23 Just Made High Availability Clustering Self-Service for Home Labs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=315826",
+          "author": "Brandon Lee",
+          "description": "Proxmox has the ability to run a two node configuration for a cluster. And for many home labbers this is a great setup since you don’t have to use as…\nThe post I Wouldn’t Run a 2-Node Proxmox Cluster Without a Third Vote appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/09/i-wouldnt-run-a-2-node-proxmox-cluster-without-a-third-vote/",
+          "publishedOn": "2026-09-20T13:18:39.000Z",
+          "wordCount": null,
+          "title": "I Wouldn’t Run a 2-Node Proxmox Cluster Without a Third Vote",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=315803",
+          "author": "Brandon Lee",
+          "description": "With all the recent announcements that we are seeing with Proxmox as of late, it has made me stop and think about what the future holds for the platform. The…\nThe post TrueNAS Is Only the Beginning: 5 Proxmox Storage Predictions for 2027 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/09/truenas-is-only-the-beginning-5-proxmox-storage-predictions-for-2027/",
+          "publishedOn": "2026-09-19T13:08:21.000Z",
+          "wordCount": null,
+          "title": "TrueNAS Is Only the Beginning: 5 Proxmox Storage Predictions for 2027",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=315781",
+          "author": "Brandon Lee",
+          "description": "Well, as you all know, I love project based learning. I think it produces some of the best results of any type of learning you can do. When you have…\nThe post 7 New Home Lab Projects to Try This Weekend: September 18, 2026 appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/09/7-new-home-lab-projects-to-try-this-weekend-september-18-2026/",
+          "publishedOn": "2026-09-18T13:00:30.000Z",
+          "wordCount": null,
+          "title": "7 New Home Lab Projects to Try This Weekend: September 18, 2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=315729",
+          "author": "Brandon Lee",
+          "description": "Installing Proxmox VE Server on a new host or mini PC is the easy part in most cases. This process is usually a non event as you just have the…\nThe post 7 Proxmox Checks I Make Before I Trust a New Host appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/09/7-proxmox-checks-i-make-before-i-trust-a-new-host/",
+          "publishedOn": "2026-09-17T12:55:35.000Z",
+          "wordCount": null,
+          "title": "7 Proxmox Checks I Make Before I Trust a New Host",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.virtualizationhowto.com/?p=315750",
+          "author": "Brandon Lee",
+          "description": "It really feels like Proxmox is on fire lately with announcements and momentum behind the solution. We just came off the heels of Proxmox announcing they were bringing on 24×7…\nThe post TrueNAS Just Fixed One of Proxmox’s Biggest Storage Headaches appeared first on Virtualization Howto.",
+          "link": "https://www.virtualizationhowto.com/2026/09/truenas-just-fixed-one-of-proxmoxs-biggest-storage-headaches/",
+          "publishedOn": "2026-09-16T13:40:55.000Z",
+          "wordCount": null,
+          "title": "TrueNAS Just Fixed One of Proxmox’s Biggest Storage Headaches",
+          "imageUrl": null
+        },
         {
           "id": "https://www.virtualizationhowto.com/?p=315701",
           "author": "Brandon Lee",
@@ -1453,76 +1513,6 @@
           "wordCount": null,
           "title": "9 Linux Management Tools Worth Deploying in Your Home Lab This Weekend",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=313096",
-          "author": "Brandon Lee",
-          "description": "The home lab world has changed dramatically over the last few years and it continues to change. Not long ago, most of us were building traditional virtualization stacks, a handful…\nThe post The Biggest Home Lab Trend I’m Watching for 2027 appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/06/the-biggest-home-lab-trend-im-watching-for-2027/",
-          "publishedOn": "2026-06-25T12:23:53.000Z",
-          "wordCount": null,
-          "title": "The Biggest Home Lab Trend I’m Watching for 2027",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=313063",
-          "author": "Brandon Lee",
-          "description": "There is just something so cool about containerized technologies and there are a lot of great options for running them out there, including Docker (as we all know). But another…\nThe post Why Quadlets Finally Made Podman Click for Me in the Home Lab appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/06/why-quadlets-finally-made-podman-click-for-me-in-the-home-lab/",
-          "publishedOn": "2026-06-24T13:28:01.000Z",
-          "wordCount": null,
-          "title": "Why Quadlets Finally Made Podman Click for Me in the Home Lab",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=313038",
-          "author": "Brandon Lee",
-          "description": "I wanted to post an update after using Flatcar for some months now and what has changed in terms of workflows and actual benefits or negatives from moving to Immutable…\nThe post What Actually Changed After I Moved My Home Lab to Immutable Linux appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/06/what-actually-changed-after-i-moved-my-home-lab-to-immutable-linux/",
-          "publishedOn": "2026-06-23T12:14:16.000Z",
-          "wordCount": null,
-          "title": "What Actually Changed After I Moved My Home Lab to Immutable Linux",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=312990",
-          "author": "Brandon Lee",
-          "description": "Docker Compose is still one of my favorite ways to run applications in the home lab. It is simple, it makes sense, it is human-readable, and it is quick to…\nThe post Sencho Might Be the Docker Compose Management Tool Home Labs Have Been Waiting For appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/06/sencho-might-be-the-docker-compose-management-tool-home-labs-have-been-waiting-for/",
-          "publishedOn": "2026-06-22T12:43:15.000Z",
-          "wordCount": null,
-          "title": "Sencho Might Be the Docker Compose Management Tool Home Labs Have Been Waiting For",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=312944",
-          "author": "Brandon Lee",
-          "description": "DNS is one of my favorite services that I like to manage and play around with in the home lab and it is arguably one of the most critical. When…\nThe post 5 DNS Servers Every Home Lab Should Know About (2026 Guide) appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/06/5-dns-servers-every-home-lab-should-know-about-2026-guide/",
-          "publishedOn": "2026-06-20T12:09:19.000Z",
-          "wordCount": null,
-          "title": "5 DNS Servers Every Home Lab Should Know About (2026 Guide)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=312909",
-          "author": "Brandon Lee",
-          "description": "I have been talking a lot lately about how I centralize the configuration of my Linux servers in git and other content around infrastructure as code and making sure you…\nThe post 10 Linux Tweaks I Make on Every New Home Lab Server appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/06/10-linux-tweaks-i-make-on-every-new-home-lab-server/",
-          "publishedOn": "2026-06-19T11:20:04.000Z",
-          "wordCount": null,
-          "title": "10 Linux Tweaks I Make on Every New Home Lab Server",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.virtualizationhowto.com/?p=312887",
-          "author": "Brandon Lee",
-          "description": "Not long ago, i was troubleshooting an issue in the home lab related to an app that was straightforward. One of my services had suddenly stopped and become unavailable. The…\nThe post Most Home Lab Outages Start With These Hidden Dependencies appeared first on Virtualization Howto.",
-          "link": "https://www.virtualizationhowto.com/2026/06/most-home-lab-outages-start-with-these-hidden-dependencies/",
-          "publishedOn": "2026-06-18T11:53:27.000Z",
-          "wordCount": null,
-          "title": "Most Home Lab Outages Start With These Hidden Dependencies",
-          "imageUrl": null
         }
       ]
     },
@@ -1531,6 +1521,66 @@
       "feedUrl": "https://collabnix.com/feed/",
       "siteUrl": "https://collabnix.com",
       "articles": [
+        {
+          "id": "https://collabnix.com/understanding-retrieval-augmented-generation-rag-in-ai-a-deep-dive/",
+          "author": "Collabnix Team",
+          "description": "Explore the capabilities of Retrieval-Augmented Generation (RAG) in AI and its operational foundation, combining retrieval systems and generative models to enhance NLP applications' relevance and accuracy.",
+          "link": "https://collabnix.com/understanding-retrieval-augmented-generation-rag-in-ai-a-deep-dive/",
+          "publishedOn": "2026-09-23T04:57:45.000Z",
+          "wordCount": null,
+          "title": "Understanding Retrieval-Augmented Generation (RAG) in AI: A Deep Dive",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/how-to-build-a-full-stack-app-with-claude-code-a-step-by-step-tutorial/",
+          "author": "Collabnix Team",
+          "description": "Discover how Claude Code simplifies full-stack app development by managing your frontend and backend seamlessly. Learn to build, Dockerize, and deploy web applications efficiently.",
+          "link": "https://collabnix.com/how-to-build-a-full-stack-app-with-claude-code-a-step-by-step-tutorial/",
+          "publishedOn": "2026-09-22T05:13:23.000Z",
+          "wordCount": null,
+          "title": "How to Build a Full-Stack App with Claude Code: A Step-by-Step Tutorial",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=75711",
+          "author": "Collabnix Team",
+          "description": "AI slid into just about every layer of enterprise IT, largely unnoticed, from the productivity tools employees use day-to-day to the infrastructure that sits behind them. That embedding cuts both ways. The beef that security teams and researchers at CrowdStrike have with one another is that the technology those workers now use to identify threats […]",
+          "link": "https://collabnix.com/what-is-ai-security-in-network-and-endpoint-defense/",
+          "publishedOn": "2026-09-21T08:04:15.000Z",
+          "wordCount": null,
+          "title": "What Is AI Security in Network and Endpoint Defense",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/running-gpu-workloads-on-kubernetes-with-nvidia-a-comprehensive-guide/",
+          "author": "Collabnix Team",
+          "description": "Learn how to enable and manage NVIDIA GPU workloads on Kubernetes, enhancing your cloud-native capabilities.",
+          "link": "https://collabnix.com/running-gpu-workloads-on-kubernetes-with-nvidia-a-comprehensive-guide/",
+          "publishedOn": "2026-09-21T05:12:26.000Z",
+          "wordCount": null,
+          "title": "Running GPU Workloads on Kubernetes with NVIDIA: A Comprehensive Guide",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/?p=75695",
+          "author": "Collabnix Team",
+          "description": "Claude can return the kind of answer that is worth keeping: a full architecture suggestion, an explanation of how data moves through a service, or a careful plan for changing several files. The useful part may be spread across twenty paragraphs, though, and reading all of them while jumping between an editor, a terminal, and […]",
+          "link": "https://collabnix.com/listen-to-long-claude-responses-without-losing-the-technical-thread/",
+          "publishedOn": "2026-09-19T14:25:31.000Z",
+          "wordCount": null,
+          "title": "Listen to Long Claude Responses Without Losing the Technical Thread",
+          "imageUrl": null
+        },
+        {
+          "id": "https://collabnix.com/how-to-deploy-openclaw-agents-to-production-best-practices/",
+          "author": "Collabnix Team",
+          "description": "Explore best practices for deploying OpenClaw AI agents to production including Docker setup, Kubernetes integration, and ensuring high availability and scalability.",
+          "link": "https://collabnix.com/how-to-deploy-openclaw-agents-to-production-best-practices/",
+          "publishedOn": "2026-09-17T05:04:37.000Z",
+          "wordCount": null,
+          "title": "How to Deploy OpenClaw Agents to Production: Best Practices",
+          "imageUrl": null
+        },
         {
           "id": "https://collabnix.com/comparing-open-source-llms-in-2026-llama-3-mistral-and-gemma/",
           "author": "Collabnix Team",
@@ -2860,166 +2910,6 @@
           "wordCount": null,
           "title": "What Brand Ambassadors Do and Why They Matter",
           "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/how-to-run-gpu-workloads-on-kubernetes-with-nvidia-a-step-by-step-guide/",
-          "author": "Collabnix Team",
-          "description": "Learn how to leverage NVIDIA GPUs to run high-performance workloads on Kubernetes clusters.",
-          "link": "https://collabnix.com/how-to-run-gpu-workloads-on-kubernetes-with-nvidia-a-step-by-step-guide/",
-          "publishedOn": "2026-06-26T04:49:17.000Z",
-          "wordCount": null,
-          "title": "How to Run GPU Workloads on Kubernetes with NVIDIA: A Step-by-Step Guide",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/openclaw-security-best-practices-guardrails-and-safe-agent-design-3/",
-          "author": "Collabnix Team",
-          "description": "Explore robust security strategies for OpenClaw, including guardrails for safe AI agent design and best practices for secure development environments.",
-          "link": "https://collabnix.com/openclaw-security-best-practices-guardrails-and-safe-agent-design-3/",
-          "publishedOn": "2026-06-25T04:41:47.000Z",
-          "wordCount": null,
-          "title": "OpenClaw Security Best Practices: Guardrails and Safe Agent Design",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/openclaw-security-best-practices-guardrails-and-safe-agent-design-2/",
-          "author": "Collabnix Team",
-          "description": "Explore robust security strategies for OpenClaw, including guardrails for safe AI agent design and best practices for secure development environments.",
-          "link": "https://collabnix.com/openclaw-security-best-practices-guardrails-and-safe-agent-design-2/",
-          "publishedOn": "2026-06-25T04:41:25.000Z",
-          "wordCount": null,
-          "title": "OpenClaw Security Best Practices: Guardrails and Safe Agent Design",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/building-a-rag-powered-agent-with-openclaw-step-by-step-tutorial-3/",
-          "author": "Collabnix Team",
-          "description": "Learn how to use OpenClaw to build a RAG-powered AI agent that intelligently retrieves and generates context-rich responses.",
-          "link": "https://collabnix.com/building-a-rag-powered-agent-with-openclaw-step-by-step-tutorial-3/",
-          "publishedOn": "2026-06-24T04:46:48.000Z",
-          "wordCount": null,
-          "title": "Building a RAG-Powered Agent with OpenClaw: Step-by-Step Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/building-a-rag-powered-agent-with-openclaw-step-by-step-tutorial-2/",
-          "author": "Collabnix Team",
-          "description": "Learn how to use OpenClaw to build a RAG-powered AI agent that intelligently retrieves and generates context-rich responses.",
-          "link": "https://collabnix.com/building-a-rag-powered-agent-with-openclaw-step-by-step-tutorial-2/",
-          "publishedOn": "2026-06-24T04:46:28.000Z",
-          "wordCount": null,
-          "title": "Building a RAG-Powered Agent with OpenClaw: Step-by-Step Tutorial",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/the-ultimate-open-source-llm-showdown-llama-3-vs-mistral-vs-gemma/",
-          "author": "Collabnix Team",
-          "description": "Compare the best open-source LLMs in 2025: Llama 3, Mistral, and Gemma. Dive into their architectures, use cases, and how to deploy them effectively.",
-          "link": "https://collabnix.com/the-ultimate-open-source-llm-showdown-llama-3-vs-mistral-vs-gemma/",
-          "publishedOn": "2026-06-22T05:39:58.000Z",
-          "wordCount": null,
-          "title": "The Ultimate Open Source LLM Showdown: Llama 3 vs Mistral vs Gemma",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/deploying-nvidia-nim-containers-on-dgx-spark-with-minikube-a-complete-guide-for-ai-researchers/",
-          "author": "Collabnix Team",
-          "description": "Minikube is a popular choice for local Kubernetes development, and multiple NVIDIA forum users have documented their setups for running NVIDIA NIM containers on DGX Spark with Minikube. This guide distills those experiences into a practical step-by-step tutorial that also shows how to deploy SLM/DSLM workloads for research and production use. Why Minikube on DGX […]",
-          "link": "https://collabnix.com/deploying-nvidia-nim-containers-on-dgx-spark-with-minikube-a-complete-guide-for-ai-researchers/",
-          "publishedOn": "2026-06-21T05:36:33.000Z",
-          "wordCount": null,
-          "title": "Deploying NVIDIA NIM Containers on DGX Spark with Minikube: A Complete Guide for AI Researchers",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/how-to-connect-two-nvidia-dgx-spark-nodes-as-kubernetes-gpu-workers-for-distributed-ai-inference/",
-          "author": "Collabnix Team",
-          "description": "A hot topic in the NVIDIA DGX Spark community is how to connect two Spark nodes for distributed GPU workloads. This guide shows you how to set up two DGX Spark systems as GPU worker nodes using Kubernetes, so your inference and training jobs can span both machines. Architecture Overview Node 1 (Spark A) acts […]",
-          "link": "https://collabnix.com/how-to-connect-two-nvidia-dgx-spark-nodes-as-kubernetes-gpu-workers-for-distributed-ai-inference/",
-          "publishedOn": "2026-06-21T05:35:41.000Z",
-          "wordCount": null,
-          "title": "How to Connect Two NVIDIA DGX Spark Nodes as Kubernetes GPU Workers for Distributed AI Inference",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/running-vllm-on-nvidia-dgx-spark-with-docker-zero-compilation-guide-for-cuda-13/",
-          "author": "Collabnix Team",
-          "description": "Users on the NVIDIA Developer Forums regularly report that getting pre-built vLLM Docker images running on DGX Spark was tricky in the early days due to CUDA 13 compatibility issues. This guide shows you exactly how to run the official NVIDIA vLLM Docker images on DGX Spark with zero compilation required. Why vLLM on DGX […]",
-          "link": "https://collabnix.com/running-vllm-on-nvidia-dgx-spark-with-docker-zero-compilation-guide-for-cuda-13/",
-          "publishedOn": "2026-06-21T05:34:51.000Z",
-          "wordCount": null,
-          "title": "Running vLLM on NVIDIA DGX Spark with Docker: Zero-Compilation Guide for CUDA 13",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/setting-up-a-k3s-kubernetes-cluster-on-nvidia-dgx-spark-with-full-gpu-support/",
-          "author": "Collabnix Team",
-          "description": "A frequently shared topic on the NVIDIA DGX Spark forum is how to set up a proper local Kubernetes cluster with GPU passthrough. This guide walks you through setting up K3s on your DGX Spark GB10 so you can serve LLMs like Qwen3 or Llama using vLLM. Prerequisites NVIDIA DGX Spark with DGX OS (Ubuntu-based) […]",
-          "link": "https://collabnix.com/setting-up-a-k3s-kubernetes-cluster-on-nvidia-dgx-spark-with-full-gpu-support/",
-          "publishedOn": "2026-06-21T05:34:07.000Z",
-          "wordCount": null,
-          "title": "Setting Up a K3s Kubernetes Cluster on NVIDIA DGX Spark with Full GPU Support",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/docker-compose-vs-kubernetes-on-nvidia-dgx-spark-which-setup-should-you-choose-for-nim-microservices/",
-          "author": "Collabnix Team",
-          "description": "One of the most common questions on the NVIDIA Developer Forums is: Should you use Docker Compose or Kubernetes to run NIM microservices on your DGX Spark? This guide cuts through the confusion and gives you practical steps for both setups so you can decide which fits your workload. Why This Decision Matters The NVIDIA […]",
-          "link": "https://collabnix.com/docker-compose-vs-kubernetes-on-nvidia-dgx-spark-which-setup-should-you-choose-for-nim-microservices/",
-          "publishedOn": "2026-06-21T05:32:29.000Z",
-          "wordCount": null,
-          "title": "Docker Compose vs Kubernetes on NVIDIA DGX Spark: Which Setup Should You Choose for NIM Microservices?",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/debugging-at-lightning-speed-harnessing-the-power-of-claude-code/",
-          "author": "Collabnix Team",
-          "description": "Harness the full potential of Claude Code to identify and fix bugs faster than ever before. Learn how to set up, utilize advanced features, and seamlessly integrate this AI tool into your development workflow.",
-          "link": "https://collabnix.com/debugging-at-lightning-speed-harnessing-the-power-of-claude-code/",
-          "publishedOn": "2026-06-21T05:24:58.000Z",
-          "wordCount": null,
-          "title": "Debugging at Lightning Speed: Harnessing the Power of Claude Code",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/decoding-rag-understanding-retrieval-augmented-generation-2/",
-          "author": "Collabnix Team",
-          "description": "Explore how Retrieval-Augmented Generation (RAG) integrates information retrieval and language generation for contextually enriched AI applications.",
-          "link": "https://collabnix.com/decoding-rag-understanding-retrieval-augmented-generation-2/",
-          "publishedOn": "2026-06-20T04:49:13.000Z",
-          "wordCount": null,
-          "title": "Decoding RAG: Understanding Retrieval-Augmented Generation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/decoding-rag-understanding-retrieval-augmented-generation/",
-          "author": "Collabnix Team",
-          "description": "Explore how Retrieval-Augmented Generation (RAG) integrates information retrieval and language generation for contextually enriched AI applications.",
-          "link": "https://collabnix.com/decoding-rag-understanding-retrieval-augmented-generation/",
-          "publishedOn": "2026-06-20T04:48:50.000Z",
-          "wordCount": null,
-          "title": "Decoding RAG: Understanding Retrieval-Augmented Generation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/?p=74647",
-          "author": "Ajeet Raina",
-          "description": "AI coding agents are incredible and terrifying in equal measure. When a developer asks Claude Code, OpenAI Codex, or Gemini CLI to fix a bug or add a feature, they often don’t think twice about what else the agent can access. The answer: everything. Your SSH keys, your AWS credentials, your entire home directory, even […]",
-          "link": "https://collabnix.com/running-ai-coding-agents-safely-a-hands-on-guide-to-docker-sandboxes-sbx/",
-          "publishedOn": "2026-06-20T03:13:36.000Z",
-          "wordCount": null,
-          "title": "Running AI Coding Agents Safely: A Hands-On Guide to Docker Sandboxes (sbx)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://collabnix.com/how-to-set-up-a-local-kubernetes-cluster-with-kind-quick-start-guide/",
-          "author": "Collabnix Team",
-          "description": "Learn how to set up a local Kubernetes cluster with Kind, offering a quick, efficient way to run Kubernetes using Docker containers.",
-          "link": "https://collabnix.com/how-to-set-up-a-local-kubernetes-cluster-with-kind-quick-start-guide/",
-          "publishedOn": "2026-06-19T05:33:36.000Z",
-          "wordCount": null,
-          "title": "How to Set Up a Local Kubernetes Cluster with Kind: Quick Start Guide",
-          "imageUrl": null
         }
       ]
     },
@@ -3125,36 +3015,6 @@
           "publishedOn": "2026-06-28T13:12:00.000Z",
           "wordCount": null,
           "title": "vibe coding上瘾，真上瘾",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.skyue.com/26062116.html",
-          "author": "拾月",
-          "description": "Typecho Newsletter插件继Typecho发布和中文日期处理两款Obsidian插件之后，我的第三个vibe coding项目落地了——一款Typecho Newsletter插件...",
-          "link": "https://www.skyue.com/26062116.html",
-          "publishedOn": "2026-06-21T08:41:00.000Z",
-          "wordCount": null,
-          "title": "端午节第三弹：Typecho Newsletter插件；及Claude Code + DeepSeek的使用体验",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.skyue.com/26062020.html",
-          "author": "拾月",
-          "description": "我每天在Obsidian中新建一篇标题为YYYY-MM-DD的笔记记日记，任何笔记中提及日期我都主动关联相应的笔记，但提及日期往往使用自然语言，我现在的处理方式如下图所示：笔记中大量日期引用",
-          "link": "https://www.skyue.com/26062020.html",
-          "publishedOn": "2026-06-20T12:48:00.000Z",
-          "wordCount": null,
-          "title": "Natural Language Dates - Chinese：终于能在Obsidian中处理中文日期了",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.skyue.com/26062014.html",
-          "author": "拾月",
-          "description": "又vibe coding了。这次开发了一款Obsidian插件，实现一键发送笔记到Typecho博客。插件已经上架Obsidian插件市场。插件市场下载：Typecho Publisher - ...",
-          "link": "https://www.skyue.com/26062014.html",
-          "publishedOn": "2026-06-20T06:51:00.000Z",
-          "wordCount": null,
-          "title": "Obsidian笔记如何一键发布到Typecho？试试我开发的这款插件",
           "imageUrl": null
         }
       ]
@@ -3328,6 +3188,26 @@
       "siteUrl": "https://dusays.com/",
       "articles": [
         {
+          "id": "https://dusays.com/posts/888/",
+          "author": null,
+          "description": "<blockquote>\n<p>这两周杜老师做技术选型时接连被两件事扎到：MinIO 在 5 月悄悄砍掉了社区版的 Web Console，11 万行代码删除；Mattermost v11 给免费版加了”消息历史最多 1 万条”的限制——旧消息还躺在数据库里，但 UI 看不见了。摆在一起看，<strong>“屠龙的少年长出了龙鳞”</strong> 这事好像不再是个比喻。写篇文章，把这两年”开源变收费”的剧本翻出来聊聊。</p>\n</blockquote>",
+          "link": "https://dusays.com/posts/888/",
+          "publishedOn": "2026-09-16T16:00:00.000Z",
+          "wordCount": null,
+          "title": "开源的终点是收费：MinIO 砍掉 WebUI，Mattermost 限制聊天数量",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dusays.com/posts/887/",
+          "author": null,
+          "description": "<blockquote>\n<p>每天有大量重复工作占用我们的时间:批量重命名文件、爬取数据、发送邮件、操作 Excel、自动部署……学会用 Python 把这些重复任务自动化,<strong>每天节省 2-3 小时不是梦</strong>。本文通过 12 个真实案例,带你入门 Python 自动化。</p>\n</blockquote>",
+          "link": "https://dusays.com/posts/887/",
+          "publishedOn": "2026-09-10T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Python 脚本自动化实战:让重复工作一键完成",
+          "imageUrl": null
+        },
+        {
           "id": "https://dusays.com/archives/887/",
           "author": null,
           "description": "<blockquote>\n<p>每天有大量重复工作占用我们的时间:批量重命名文件、爬取数据、发送邮件、操作 Excel、自动部署……学会用 Python 把这些重复任务自动化,<strong>每天节省 2-3 小时不是梦</strong>。本文通过 12 个真实案例,带你入门 Python 自动化。</p>\n</blockquote>",
@@ -3335,6 +3215,16 @@
           "publishedOn": "2026-09-10T16:00:00.000Z",
           "wordCount": null,
           "title": "Python 脚本自动化实战:让重复工作一键完成",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dusays.com/posts/886/",
+          "author": null,
+          "description": "<blockquote>\n<p>据 Akamai 报告,2026 年 Web 应用攻击同比增长 40%,其中<strong>注入攻击和身份认证失效</strong>占比最高。无论你是开发者还是运维,<strong>了解 Web 应用常见漏洞都是必修课</strong>。本文基于 OWASP Top 10(2021 版),通过真实案例 + 代码讲解,带你建立完整的 Web 安全防护意识。</p>\n</blockquote>",
+          "link": "https://dusays.com/posts/886/",
+          "publishedOn": "2026-09-04T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Web 应用常见漏洞与防御:OWASP Top 10 实战讲解",
           "imageUrl": null
         },
         {
@@ -3348,6 +3238,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://dusays.com/posts/885/",
+          "author": null,
+          "description": "<blockquote>\n<p>早上起床,窗帘自动拉开、咖啡机开始煮咖啡;下班回家,空调提前打开、灯光自动亮起;晚上睡觉,所有电器自动关闭、安防系统启动。这不是科幻电影,这是 <strong>Home Assistant</strong> 能给你的真实生活。本文手把手教你搭建一套稳定、强大的智能家居系统。</p>\n</blockquote>",
+          "link": "https://dusays.com/posts/885/",
+          "publishedOn": "2026-08-29T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Home Assistant 智能家居搭建:从零打造自动化生活",
+          "imageUrl": null
+        },
+        {
           "id": "https://dusays.com/archives/885/",
           "author": null,
           "description": "<blockquote>\n<p>早上起床,窗帘自动拉开、咖啡机开始煮咖啡;下班回家,空调提前打开、灯光自动亮起;晚上睡觉,所有电器自动关闭、安防系统启动。这不是科幻电影,这是 <strong>Home Assistant</strong> 能给你的真实生活。本文手把手教你搭建一套稳定、强大的智能家居系统。</p>\n</blockquote>",
@@ -3355,6 +3255,16 @@
           "publishedOn": "2026-08-29T16:00:00.000Z",
           "wordCount": null,
           "title": "Home Assistant 智能家居搭建:从零打造自动化生活",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dusays.com/posts/884/",
+          "author": null,
+          "description": "<blockquote>\n<p>每天我们都在和 TCP/IP 打交道:刷网页、看视频、聊微信。但<strong>当 HTTP 请求到达服务器时,数据是怎么一层层”剥洋葱”传递的?</strong> 本文从最基础的概念讲起,带你穿透协议栈,理解每一次网络通信背后的原理。</p>\n</blockquote>",
+          "link": "https://dusays.com/posts/884/",
+          "publishedOn": "2026-08-23T16:00:00.000Z",
+          "wordCount": null,
+          "title": "从零理解 TCP/IP 协议栈:网络世界的通用语言",
           "imageUrl": null
         },
         {
@@ -3368,6 +3278,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://dusays.com/posts/883/",
+          "author": null,
+          "description": "<blockquote>\n<p>运维岗位竞争激烈,如何从众多候选人中脱颖而出?本文基于我多年招聘运维工程师的经验,从<strong>简历优化、技术准备、面试技巧、谈薪策略</strong>四个维度,系统讲解如何拿到心仪的 Offer。同时附上 50 道高频面试题,帮你全面备战。</p>\n</blockquote>",
+          "link": "https://dusays.com/posts/883/",
+          "publishedOn": "2026-08-17T16:00:00.000Z",
+          "wordCount": null,
+          "title": "运维工程师面试全攻略:从简历到 Offer 的完整指南",
+          "imageUrl": null
+        },
+        {
           "id": "https://dusays.com/archives/883/",
           "author": null,
           "description": "<blockquote>\n<p>运维岗位竞争激烈,如何从众多候选人中脱颖而出?本文基于我多年招聘运维工程师的经验,从<strong>简历优化、技术准备、面试技巧、谈薪策略</strong>四个维度,系统讲解如何拿到心仪的 Offer。同时附上 50 道高频面试题,帮你全面备战。</p>\n</blockquote>",
@@ -3375,6 +3295,16 @@
           "publishedOn": "2026-08-17T16:00:00.000Z",
           "wordCount": null,
           "title": "运维工程师面试全攻略:从简历到 Offer 的完整指南",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dusays.com/posts/882/",
+          "author": null,
+          "description": "<blockquote>\n<p>自学能力的强弱,基本决定了一个程序员能走多远。在这个知识付费的时代,其实互联网上有大量<strong>优质、免费</strong>的学习资源。本文整理了 15 个我亲身使用、强烈推荐的学习平台,涵盖编程、数据、AI、设计等多个方向。无论你是初学者还是想进阶,都能找到适合的资源。</p>\n</blockquote>",
+          "link": "https://dusays.com/posts/882/",
+          "publishedOn": "2026-08-11T16:00:00.000Z",
+          "wordCount": null,
+          "title": "免费学习平台精选:这 15 个网站让你省下几万培训费",
           "imageUrl": null
         },
         {
@@ -3388,6 +3318,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://dusays.com/posts/881/",
+          "author": null,
+          "description": "<blockquote>\n<p>工欲善其事,必先利其器。这句话在程序员身上体现得淋漓尽致:选对工具,一天能干完别人三天的活。本文整理了 30 个我日常使用、亲测好用的开发者工具,涵盖代码编辑、终端增强、API 调试、效率提升等方方面面。无论你是前端、后端还是运维,都能从中找到适合自己的工具。</p>\n</blockquote>",
+          "link": "https://dusays.com/posts/881/",
+          "publishedOn": "2026-08-05T16:00:00.000Z",
+          "wordCount": null,
+          "title": "开发者必备工具集:这 30 个工具让我的效率提升了 300%",
+          "imageUrl": null
+        },
+        {
           "id": "https://dusays.com/archives/881/",
           "author": null,
           "description": "<blockquote>\n<p>工欲善其事,必先利其器。这句话在程序员身上体现得淋漓尽致:选对工具,一天能干完别人三天的活。本文整理了 30 个我日常使用、亲测好用的开发者工具,涵盖代码编辑、终端增强、API 调试、效率提升等方方面面。无论你是前端、后端还是运维,都能从中找到适合自己的工具。</p>\n</blockquote>",
@@ -3395,6 +3335,16 @@
           "publishedOn": "2026-08-05T16:00:00.000Z",
           "wordCount": null,
           "title": "开发者必备工具集:这 30 个工具让我的效率提升了 300%",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dusays.com/posts/880/",
+          "author": null,
+          "description": "<blockquote>\n<p>朋友的电商网站用 WordPress 搭建,但打开首页要 5 秒以上,跳出率高得吓人。经过两轮优化后,加载时间压到了 1.2 秒,转化率提升了 35%。本文把这套完整的优化方案分享给你,从服务器配置、WordPress 设置到前端优化,逐步击破性能瓶颈。</p>\n</blockquote>",
+          "link": "https://dusays.com/posts/880/",
+          "publishedOn": "2026-07-30T16:00:00.000Z",
+          "wordCount": null,
+          "title": "WordPress 性能优化实战:从 5 秒加载到 1 秒的蜕变",
           "imageUrl": null
         },
         {
@@ -3408,6 +3358,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://dusays.com/posts/879/",
+          "author": null,
+          "description": "<blockquote>\n<p>想拥有一个属于自己的个人博客,但又嫌 WordPress 臃肿、Typecho 功能太少?Hugo 是你的最佳选择:用 Markdown 写文章,一键生成纯静态 HTML,部署到 GitHub Pages 完全免费。本文从环境准备到上线运营,手把手教你搭建一个高性能、可定制的个人博客。</p>\n</blockquote>",
+          "link": "https://dusays.com/posts/879/",
+          "publishedOn": "2026-07-24T16:00:00.000Z",
+          "wordCount": null,
+          "title": "Hugo 静态博客从零部署:5 分钟搭建自己的个人网站",
+          "imageUrl": null
+        },
+        {
           "id": "https://dusays.com/archives/879/",
           "author": null,
           "description": "<blockquote>\n<p>想拥有一个属于自己的个人博客,但又嫌 WordPress 臃肿、Typecho 功能太少?Hugo 是你的最佳选择:用 Markdown 写文章,一键生成纯静态 HTML,部署到 GitHub Pages 完全免费。本文从环境准备到上线运营,手把手教你搭建一个高性能、可定制的个人博客。</p>\n</blockquote>",
@@ -3415,6 +3375,16 @@
           "publishedOn": "2026-07-24T16:00:00.000Z",
           "wordCount": null,
           "title": "Hugo 静态博客从零部署:5 分钟搭建自己的个人网站",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dusays.com/posts/878/",
+          "author": null,
+          "description": "<blockquote>\n<p>我方图床服务出现突发异常故障，导致部分用户出现图片上传失败、已上传图片无法正常访问、页面空白等问题，对大家的正常使用造成极大困扰，我们对此深表歉意。</p>\n</blockquote>",
+          "link": "https://dusays.com/posts/878/",
+          "publishedOn": "2026-07-18T16:00:00.000Z",
+          "wordCount": null,
+          "title": "图床服务故障修复公告",
           "imageUrl": null
         },
         {
@@ -3428,6 +3398,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://dusays.com/posts/877/",
+          "author": null,
+          "description": "<blockquote>\n<p>杜老师以前周末经常过得很”散”，一晃就是一天。后来杜老师摸索出 3 种周末过法，今天跟大家分享一下。</p>\n</blockquote>",
+          "link": "https://dusays.com/posts/877/",
+          "publishedOn": "2026-07-12T16:00:00.000Z",
+          "wordCount": null,
+          "title": "周末的 3 种过法",
+          "imageUrl": null
+        },
+        {
           "id": "https://dusays.com/archives/877/",
           "author": null,
           "description": "<blockquote>\n<p>杜老师以前周末经常过得很”散”，一晃就是一天。后来杜老师摸索出 3 种周末过法，今天跟大家分享一下。</p>\n</blockquote>",
@@ -3435,6 +3415,16 @@
           "publishedOn": "2026-07-12T16:00:00.000Z",
           "wordCount": null,
           "title": "周末的 3 种过法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://dusays.com/posts/876/",
+          "author": null,
+          "description": "<blockquote>\n<p>杜老师居家办公一年多，最大的感受是”分心比想象中容易得多”。今天杜老师就把自己用了一年多、一直稳定在用的 5 个减少分心的动作分享给大家。</p>\n</blockquote>",
+          "link": "https://dusays.com/posts/876/",
+          "publishedOn": "2026-07-06T16:00:00.000Z",
+          "wordCount": null,
+          "title": "居家办公 5 个减少分心的动作",
           "imageUrl": null
         },
         {
@@ -3448,6 +3438,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://dusays.com/posts/875/",
+          "author": null,
+          "description": "<blockquote>\n<p>杜老师家里有一只橘白相间的猫，平时最爱跳上书桌”监工”。前几年给猫拍的照片都是糊的，后来摸索出 3 个小技巧，今天跟大家分享一下。</p>\n</blockquote>",
+          "link": "https://dusays.com/posts/875/",
+          "publishedOn": "2026-06-30T16:00:00.000Z",
+          "wordCount": null,
+          "title": "给猫拍照的 3 个小技巧",
+          "imageUrl": null
+        },
+        {
           "id": "https://dusays.com/archives/875/",
           "author": null,
           "description": "<blockquote>\n<p>杜老师家里有一只橘白相间的猫，平时最爱跳上书桌”监工”。前几年给猫拍的照片都是糊的，后来摸索出 3 个小技巧，今天跟大家分享一下。</p>\n</blockquote>",
@@ -3455,26 +3455,6 @@
           "publishedOn": "2026-06-30T16:00:00.000Z",
           "wordCount": null,
           "title": "给猫拍照的 3 个小技巧",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dusays.com/archives/874/",
-          "author": null,
-          "description": "<blockquote>\n<p>杜老师每天通勤时间不短，前几年路上都是听音乐，最近一年开始听播客。今天杜老师就聊聊自己的 2 个选择思路，给同样通勤路上需要消磨时间的您一个参考。</p>\n</blockquote>",
-          "link": "https://dusays.com/archives/874/",
-          "publishedOn": "2026-06-24T16:00:00.000Z",
-          "wordCount": null,
-          "title": "通勤路上听播客 vs 听音乐的 2 个选择",
-          "imageUrl": null
-        },
-        {
-          "id": "https://dusays.com/archives/873/",
-          "author": null,
-          "description": "<blockquote>\n<p>杜老师参加培训时，经常碰到投影仪连不上的情况。早期杜老师是干瞪眼，现在能 30 秒内搞定。今天杜老师就把自己的 3 个排查步骤分享给大家。</p>\n</blockquote>",
-          "link": "https://dusays.com/archives/873/",
-          "publishedOn": "2026-06-18T16:00:00.000Z",
-          "wordCount": null,
-          "title": "会议室投影仪连不上的 3 个排查",
           "imageUrl": null
         }
       ]
@@ -3531,6 +3511,26 @@
       "feedUrl": "https://blog.xiaoz.org/feed",
       "siteUrl": "https://blog.xiaoz.org",
       "articles": [
+        {
+          "id": "https://blog.xiaoz.org/?p=23498",
+          "author": "xiaoz",
+          "description": "接上一篇《我做了个全球 AI 简报：不刷 X，也能跟上最新 AI 动态》，半个多月来xiaoz一直在对这个网站进行持续迭代，今天用这篇文章给各位老板汇报下最新的变化。网站名称和域名变更原网站名称 “AI Pulse” -> 变更为 “AI情报局”原网站域名https://ai.xphub.de",
+          "link": "https://blog.xiaoz.org/archives/23498",
+          "publishedOn": "2026-09-20T06:43:24.000Z",
+          "wordCount": null,
+          "title": "全球 AI 简报启用新域名RSS.bz，同时新增AI日报和Codex重置信号",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaoz.org/?p=23482",
+          "author": "xiaoz",
+          "description": "xiaoz在开发新项目的时候，经常需要给网站生成简单logo和网站图标，网上找的图标参差不齐且不一定符合项目情况，于是自己做了SVG图标生成器，在结合AI大模型的情况下，你不需要懂任何设计，只需要一句自然语言描述即可生成适配的SVG图标，如果你也有类似需求，可以试试我这个SVG工具箱：SVG Bla",
+          "link": "https://blog.xiaoz.org/archives/23482",
+          "publishedOn": "2026-09-16T02:23:24.000Z",
+          "wordCount": null,
+          "title": "我做了一个免费SVG工具箱：一句话就能生成SVG图标",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.xiaoz.org/?p=23473",
           "author": "xiaoz",
@@ -3660,26 +3660,6 @@
           "wordCount": null,
           "title": "时隔两天，开源笔记软件ZNote又双叒叕更新了，前来汇报",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=23140",
-          "author": "xiaoz",
-          "description": "xiaoz先后用过不少笔记软件，市面上叫得上号的基本都用过，比如：印象笔记、有道笔记、为知笔记、Obsidian、Joplin、Notion、思源笔记、UpNote、TriliumNext...，有的不好看，有的太臃肿，有的同步困难，有的太过复杂，总之没找到一款完全合适的，于是就诞生了自己开发一款笔",
-          "link": "https://blog.xiaoz.org/archives/23140",
-          "publishedOn": "2026-06-26T07:16:51.000Z",
-          "wordCount": null,
-          "title": "小而美的ZNote笔记软件 —— 支持Docker私有部署和WEB访问",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.xiaoz.org/?p=23118",
-          "author": "xiaoz",
-          "description": "xiaoz博客在2019年的时候开始使用自行开发的主题Msimple，这个主题已经使用超过7年，是时候换上新的UI了。最近在AI辅助下将Msimple重写，功能和Msimple几乎保持一致，但UI更加细致，新主题命名为Ztheme。该主题适合个人博客使用，已经在Github开源，有需要的朋友可以安装",
-          "link": "https://blog.xiaoz.org/archives/23118",
-          "publishedOn": "2026-06-22T03:29:09.000Z",
-          "wordCount": null,
-          "title": "xiaoz博客主题重写完成：Ztheme 已开源，附使用说明",
-          "imageUrl": null
         }
       ]
     },
@@ -3694,6 +3674,26 @@
       "feedUrl": "https://www.txisfine.cn/atom.xml",
       "siteUrl": "https://www.txisfine.cn/",
       "articles": [
+        {
+          "id": "https://www.txisfine.cn/archives/3dc1c9c5.html",
+          "author": null,
+          "description": "昨天，努比亚发布了豆包手机「努比亚 NaviX Ultra」。这也是首款搭载豆包手机助手消费者版本的手机。 我一直对 AI Agent 手机很感兴趣，所以第一时间拿到了一台进行测试。 第五代骁龙 8 至尊版、16GB+512GB，在这两年手机存储、内存等硬件成本不断上涨的背景下，最终定价 6499 元，国补后 5999 元。 横向来看，目前同级配置的手机大多集中在 4000～6000 元区间。单纯...",
+          "link": "https://www.txisfine.cn/archives/3dc1c9c5.html",
+          "publishedOn": "2026-09-17T14:52:52.000Z",
+          "wordCount": null,
+          "title": "豆包手机小测：都包了，还是翻车了？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.txisfine.cn/archives/9f07f0f6.html",
+          "author": null,
+          "description": "我们知道 ICANN 计划于 2026 年 10 月 11 日正式启用新的 DNS 根区密钥签名密钥 KSK2024，以完成对 KSK2017 的轮换。如果你在管理启用 DNSSEC 功能的递归服务器，你可能需要关注一下实际生效的根信任锚里是否已经存在 KSK2024（Key Tag 38696）。 DNSSEC 与 KSK 密钥 关于 DNSSEC，不得不先区分两个概念： KSK（Key Sig...",
+          "link": "https://www.txisfine.cn/archives/9f07f0f6.html",
+          "publishedOn": "2026-09-16T14:37:30.000Z",
+          "wordCount": null,
+          "title": "别慌！没事的 — KSK-2024 DNSSEC 根密钥轮换",
+          "imageUrl": null
+        },
         {
           "id": "https://www.txisfine.cn/archives/4ecfa762.html",
           "author": null,
