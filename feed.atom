@@ -2,10 +2,289 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yyg.js.cool/yygrss/index.html</id>
     <title>云野阁-rss阅读器</title>
-    <updated>2026-10-03T23:57:43.207Z</updated>
+    <updated>2026-10-10T01:03:50.725Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://yyg.js.cool/yygrss/index.html"/>
     <link rel="self" href="https://yyg.js.cool/yygrss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[6 Home Lab Projects to Try This Weekend: October 9, 2026]]></title>
+        <id>https://www.virtualizationhowto.com/?p=316392</id>
+        <link href="https://www.virtualizationhowto.com/2026/10/6-home-lab-projects-to-try-this-weekend-october-9-2026/"/>
+        <updated>2026-10-09T12:49:44.000Z</updated>
+        <summary type="html"><![CDATA[Man I am super excited about things tried in the home lab network this week. Lots of cool projects that took me into some uncharted territory for myself and trying…
+The post 6 Home Lab Projects to Try This Weekend: October 9, 2026 appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mastering Claude Code: Top 10 Tips and Tricks for Developers]]></title>
+        <id>https://collabnix.com/mastering-claude-code-top-10-tips-and-tricks-for-developers/</id>
+        <link href="https://collabnix.com/mastering-claude-code-top-10-tips-and-tricks-for-developers/"/>
+        <updated>2026-10-09T06:25:22.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to harness Claude Code, Anthropic's powerful AI coding assistant, with our comprehensive guide. We explore installation, interface integration, and practical tips to enhance your coding workflow.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Gave an AI Agent Its Own VLAN in My Home Lab. Here’s Why]]></title>
+        <id>https://www.virtualizationhowto.com/?p=316367</id>
+        <link href="https://www.virtualizationhowto.com/2026/10/i-gave-an-ai-agent-its-own-vlan-in-my-home-lab-heres-why/"/>
+        <updated>2026-10-08T12:54:03.000Z</updated>
+        <summary type="html"><![CDATA[If you are like me, AI agents are starting to get much more interesting to me than just running another chatbot in the home lab. We are well past that…
+The post I Gave an AI Agent Its Own VLAN in My Home Lab. Here’s Why appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我做了一个免费在线文本工具箱：不用注册，20 余款工具打开即用]]></title>
+        <id>https://blog.xiaoz.org/?p=23538</id>
+        <link href="https://blog.xiaoz.org/archives/23538"/>
+        <updated>2026-10-08T06:55:16.000Z</updated>
+        <summary type="html"><![CDATA[国庆闲来无事，xiaoz花了几天时间做了一个免费在线文本工具TxtDock：https://txtdock.com/ ，一来自己用得上，二来希望能帮到别人，这个文本工具无需注册，大部分工具均在浏览器本地处理，以确保隐私安全，少部分工具使用了AI辅助（已特殊标注说明）。TxtDock官网：https:]]></summary>
+        <author>
+            <name>xiaoz</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparing AI Coding Assistants: GitHub Copilot vs Claude Code vs Cursor vs Windsurf]]></title>
+        <id>https://collabnix.com/comparing-ai-coding-assistants-github-copilot-vs-claude-code-vs-cursor-vs-windsurf/</id>
+        <link href="https://collabnix.com/comparing-ai-coding-assistants-github-copilot-vs-claude-code-vs-cursor-vs-windsurf/"/>
+        <updated>2026-10-08T06:23:59.000Z</updated>
+        <summary type="html"><![CDATA[Explore the features, installation, and unique offerings of AI coding assistants GitHub Copilot, Claude Code, Cursor, and Windsurf in enhancing software development productivity.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 云服务器实践：安全部署文件存储、下载与代码托管]]></title>
+        <id>https://soulteary.com/2026/10/07/ubuntu-cloud-server-practice-secure-file-storage-downloads-and-code-hosting.html</id>
+        <link href="https://soulteary.com/2026/10/07/ubuntu-cloud-server-practice-secure-file-storage-downloads-and-code-hosting.html"/>
+        <updated>2026-10-07T15:29:00.000Z</updated>
+        <summary type="html"><![CDATA[记录在 Ubuntu 26.04 云服务器上使用 Docker Compose 安全部署 OtterIO、Gitea 和 Traefik，搭建自主管理的图片存储、文件下载、S3 对象存储与代码托管服务。本文从运维账号、SSH、云防火墙、UFW、数据盘挂载和非 root 容器配置开始，介绍固定镜像摘要、文件方式加载凭据、HTTPS 与 DNS-01 证书、存储桶及最小权限账号、Gitea 初始化、CDN 缓存、资源监控、restic 异地加密备份、恢复演练和版本升级，并给出上线前的安全与功能检查清单。]]></summary>
+        <author>
+            <name>苏洋(soulteary)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Tried This Home Lab App Store and It Made Podman Much Easier]]></title>
+        <id>https://www.virtualizationhowto.com/?p=316337</id>
+        <link href="https://www.virtualizationhowto.com/2026/10/i-tried-this-home-lab-app-store-and-it-made-podman-much-easier/"/>
+        <updated>2026-10-07T12:16:31.000Z</updated>
+        <summary type="html"><![CDATA[I have been flirting around with Podman in my home lab and have been testing it more than in the past as of recently. You may have seen my recent…
+The post I Tried This Home Lab App Store and It Made Podman Much Easier appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building a Customer Service Bot with OpenClaw: A Comprehensive Guide]]></title>
+        <id>https://collabnix.com/building-a-customer-service-bot-with-openclaw-a-comprehensive-guide/</id>
+        <link href="https://collabnix.com/building-a-customer-service-bot-with-openclaw-a-comprehensive-guide/"/>
+        <updated>2026-10-07T06:15:34.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build a sophisticated customer service bot using the innovative OpenClaw AI framework, focusing on setup, design, and integration.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[厦门出差记（二）：从南普陀走到白城沙滩]]></title>
+        <id>https://bluehe.cn/archives/xiamen-business-trip-2-5-8</id>
+        <link href="https://bluehe.cn/archives/xiamen-business-trip-2-5-8"/>
+        <updated>2026-10-06T17:15:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年8月29日早，计划前往南普陀后山，越早去越好，害怕天气热，在酒店吃完早餐就骑着共享电动车前往集美学村地铁口，坐地铁1号线到中山公园站，出站步行公交站换乘 87 路，到南普陀下车。
+
+网上说的高架跨海“海上地铁”，车厢里面已经很多人了，没法拍好全貌...]]></summary>
+        <author>
+            <name>云心怀鹤</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recursion is DEAD and HTML killed it]]></title>
+        <id>https://daverupert.com/2026/10/html-recursion/</id>
+        <link href="https://daverupert.com/2026/10/html-recursion/"/>
+        <updated>2026-10-06T15:36:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s a new web platform feature flighting in Chromium called Declarative Partial Updates. This proposal adds a new <?marker> element which enables out-of-order streaming of content. Rather than the traditional way of building the HTML you need on the server, or sending JSON down to a JavaScript framework, you can staple HTML onto the initial response and use the <template for=""> syntax to inject that content into the <?marker name=""> placeholder.
+A simple example of this would be:
+<!-- NOTE:
+FYI, throughout this post I'm using the closing `?>` 
+syntax for `<?marker>` becuase the HTML highlighter 
+likes that better. Either syntax works.
+-->
+<main id="main">
+  <?marker name="post-abc123" ?>
+</main>
+
+<!-- ...bunch of html goes here... -->
+
+<template for="post-abc123">
+	<div class="post">…]]></summary>
+        <author>
+            <name>daverupert.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Tried Warpgate to Secure Access to My Home Lab. Here’s What I Found]]></title>
+        <id>https://www.virtualizationhowto.com/?p=316289</id>
+        <link href="https://www.virtualizationhowto.com/2026/10/i-tried-warpgate-to-secure-access-to-my-home-lab-heres-what-i-found/"/>
+        <updated>2026-10-06T12:23:28.000Z</updated>
+        <summary type="html"><![CDATA[If you have been looking at setting up a Bastion host or secure jump box for accessing your home lab services, there are always challenges with this and things to…
+The post I Tried Warpgate to Secure Access to My Home Lab. Here’s What I Found appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why AI Agents Need Sandboxes: The 6 Core Benefits of MicroVM Isolation]]></title>
+        <id>https://collabnix.com/?p=75802</id>
+        <link href="https://collabnix.com/why-ai-agents-need-sandboxes-the-6-core-benefits-of-microvm-isolation/"/>
+        <updated>2026-10-06T12:07:25.000Z</updated>
+        <summary type="html"><![CDATA[As autonomous AI agents move into production workflows across software engineering teams, organizations face a critical operational challenge: how to give intelligent agents the freedom to build, test, and execute code without risking the security of developer laptops or corporate networks. As documented in Docker’s research on agentic AI, 60% of organizations now have AI […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Multi-Agent System: Architecture and Code Tutorial]]></title>
+        <id>https://collabnix.com/how-to-build-a-multi-agent-system-architecture-and-code-tutorial/</id>
+        <link href="https://collabnix.com/how-to-build-a-multi-agent-system-architecture-and-code-tutorial/"/>
+        <updated>2026-10-06T06:38:14.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to build a multi-agent system with a deep dive into architecture and coding, focusing on agent behaviors, communication, and practical applications.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 26.04 安装 Docker：阿里云、腾讯云镜像源与基础安全配置]]></title>
+        <id>https://soulteary.com/2026/10/06/install-docker-on-ubuntu-26-04-with-aliyun-and-tencent-cloud-mirrors-and-basic-security.html</id>
+        <link href="https://soulteary.com/2026/10/06/install-docker-on-ubuntu-26-04-with-aliyun-and-tencent-cloud-mirrors-and-basic-security.html"/>
+        <updated>2026-10-05T21:46:00.000Z</updated>
+        <summary type="html"><![CDATA[记录在 Ubuntu 26.04 云服务器上安装 Docker Engine、Buildx 和 Compose 的完整过程：区分安装脚本、APT 软件包源与容器镜像源，分别配置阿里云和腾讯云 Docker CE 镜像站，检查发行版代号、架构、公钥、仓库元数据与服务状态，并补充官方脚本及支持 TencentCloud 参数的维护版脚本。安装完成后，通过日志轮转、Docker 权限控制、端口绑定、防火墙与镜像拉取策略完成基础安全配置，同时整理常见故障排查、后续升级和存储调整注意事项。]]></summary>
+        <author>
+            <name>苏洋(soulteary)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Proxmox Restore Portal Helps You Find the File You Actually Need]]></title>
+        <id>https://www.virtualizationhowto.com/?p=316267</id>
+        <link href="https://www.virtualizationhowto.com/2026/10/this-proxmox-restore-portal-helps-you-find-the-file-you-actually-need/"/>
+        <updated>2026-10-05T12:42:58.000Z</updated>
+        <summary type="html"><![CDATA[There are really two kinds of restores when it comes to your backups. You can restore an entire VM when needed which is the scenario that we tend to think…
+The post This Proxmox Restore Portal Helps You Find the File You Actually Need appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[接力 MinIO：OtterIO 十月初维护记录]]></title>
+        <id>https://soulteary.com/2026/10/05/continuing-minio-otterio-early-october-maintenance-notes.html</id>
+        <link href="https://soulteary.com/2026/10/05/continuing-minio-otterio-early-october-maintenance-notes.html"/>
+        <updated>2026-10-05T06:42:00.000Z</updated>
+        <summary type="html"><![CDATA[时隔一个季度，继续维护基于 MinIO 最后一个 Apache 2.0 版本代码线的 S3 兼容对象存储 OtterIO：修复 SigV4 未签名操作请求头问题，强化分布式存储接口的路径与元数据校验，要求容器显式配置凭据，并补充 Windows 启动、流式响应并发、源码构建和发布产物验证。本文同时记录从六月版升级到十月版的注意事项，以及用随机对象、大小和 SHA256 校验完成迁移回归的过程。]]></summary>
+        <author>
+            <name>苏洋(soulteary)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[厦门出差记（一）：抵达与初印象]]></title>
+        <id>https://bluehe.cn/archives/xiamen-business-trip-1</id>
+        <link href="https://bluehe.cn/archives/xiamen-business-trip-1"/>
+        <updated>2026-10-05T03:48:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年8月23日早六点，我们从城区前往吴圩机场，41公里37分钟抵达，前一天值机的时候已经晚了，但是看到南方航空有免费的升舱劵，就使用了，说实话优先登机不用人挤人舒服。
+
+
+天气是真的好，一览无余，下面的山脉都看得清清楚楚，飞机也提前抵达。
+
+高崎机场...]]></summary>
+        <author>
+            <name>云心怀鹤</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Running Google Antigravity Safely with Docker Sandboxes]]></title>
+        <id>https://collabnix.com/?p=75794</id>
+        <link href="https://collabnix.com/running-google-antigravity-safely-with-docker-sandboxes/"/>
+        <updated>2026-10-05T01:33:09.000Z</updated>
+        <summary type="html"><![CDATA[Coding agents are most useful when you let them work without stopping to ask for approval at every step. But on your laptop, that same freedom means the agent can read your SSH keys, touch any folder, and call any host on the internet. The new antigravity-kit solves this by moving the agent into a […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker at WeAreDevelopers 2026: Cloud Sandboxes, Open Kits and CNCF]]></title>
+        <id>https://collabnix.com/?p=75791</id>
+        <link href="https://collabnix.com/docker-at-wearedevelopers-2026-cloud-sandboxes-open-kits-and-cncf/"/>
+        <updated>2026-10-05T01:20:14.000Z</updated>
+        <summary type="html"><![CDATA[Docker used the first WeAreDevelopers World Congress North America to launch Cloud Sandboxes, publish an open Sandbox Kit specification, and announce that the spec is going to the CNCF. The event ran from September 23 to 25, 2026 at the San Jose McEnery Convention Center. Docker was the co-host and presenting partner, and more than […]]]></summary>
+        <author>
+            <name>Ajeet Raina</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[论坛 SEO 实战：从零散帖子到权重跃升的 5 个动作]]></title>
+        <id>https://dusays.com/posts/891/</id>
+        <link href="https://dusays.com/posts/891/"/>
+        <updated>2026-10-04T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>小伙伴最近在做论坛 SEO，来找我聊过一次。论坛这种产品不同于博客——博客可以靠一篇文章把一个关键词顶到首页，论坛必须靠<strong>主题集群</strong>才能形成权重。这次就把思路整理出来，给同样处境的朋友当参考。</p>
+</blockquote>]]></summary>
+        <author>
+            <name>杜老师说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claude Code: What It Is and How It’s Different]]></title>
+        <id>https://collabnix.com/?p=75785</id>
+        <link href="https://collabnix.com/claude-code-what-it-is-and-how-its-different/"/>
+        <updated>2026-10-04T15:37:23.000Z</updated>
+        <summary type="html"><![CDATA[Claude Code is an AI assistant that does work on your computer, not just talks about it. You describe a task in plain English, and it reads your files, makes changes, and runs the steps for you. Most people hear “Code” in the name and assume it is only for developers. That is a missed […]]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 Mobile Device Management Challenges That Security Teams Can’t Ignore]]></title>
+        <id>https://collabnix.com/?p=75782</id>
+        <link href="https://collabnix.com/7-mobile-device-management-challenges-that-security-teams-cant-ignore/"/>
+        <updated>2026-10-04T14:37:26.000Z</updated>
+        <summary type="html"><![CDATA[A phone can be encrypted, fully patched, and compliant with every policy IT has set. An attacker might still be able to get in. All they need is the employee’s password or session token, phished through a fake login page sent by text. The device stays compliant the whole time. That’s the problem with how […]]]></summary>
+        <author>
+            <name>Tanvir Kour</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7 ZFS Things I Wish I’d Known Before Using It on Proxmox]]></title>
+        <id>https://www.virtualizationhowto.com/?p=316243</id>
+        <link href="https://www.virtualizationhowto.com/2026/10/7-zfs-things-i-wish-id-known-before-using-it-on-proxmox/"/>
+        <updated>2026-10-04T12:28:04.000Z</updated>
+        <summary type="html"><![CDATA[If there is one thing about Proxmox storage to note, it is that it fully embraces ZFS storage. ZFS is a native storage type in Proxmox and it has a…
+The post 7 ZFS Things I Wish I’d Known Before Using It on Proxmox appeared first on Virtualization Howto.]]></summary>
+        <author>
+            <name>Brandon Lee</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mac版Feedglot正式上架Mac App Store]]></title>
+        <id>https://www.skyue.com/26100414.html</id>
+        <link href="https://www.skyue.com/26100414.html"/>
+        <updated>2026-10-04T06:34:00.000Z</updated>
+        <summary type="html"><![CDATA[继iOS版之后，Mac版Feedglot也于10月1日正式审核通过了，欢迎大家下载使用。Mac下载地址： Mac App StoreiOS下载地址：iOS App Store]]></summary>
+        <author>
+            <name>拾月</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Agents vs Chatbots: Understanding Key Differences]]></title>
+        <id>https://collabnix.com/ai-agents-vs-chatbots-understanding-key-differences/</id>
+        <link href="https://collabnix.com/ai-agents-vs-chatbots-understanding-key-differences/"/>
+        <updated>2026-10-04T06:07:58.000Z</updated>
+        <summary type="html"><![CDATA[Explore the key distinctions between AI agents and chatbots, understanding their underlying technologies and implications for user engagement and business applications.]]></summary>
+        <author>
+            <name>Collabnix Team</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Just Gave WSL Its Own Container Engine. Do You Still Need Docker Desktop?]]></title>
         <id>https://www.virtualizationhowto.com/?p=316207</id>
@@ -2975,194 +3254,6 @@ The post This Free Backup Tool Just Added Docker Volume Backups appeared first o
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-5.6系列模型的社区反馈、基准表现和使用建议]]></title>
-        <id>https://blognas.hwb0307.com/other/7085</id>
-        <link href="https://blognas.hwb0307.com/other/7085"/>
-        <updated>2026-07-12T11:42:26.000Z</updated>
-        <summary type="html"><![CDATA[Bensz
-GPT-5.6系列模型的社区反馈、基准表现和使用建议
-本博客由科研AI Agent实验室BenszResearch强力驱动！如何更快地访问本站？有需要可加电报群获得更多帮助。本博客用什么VPS？创作不易，请支持苯苯！推荐购买本博客的VIP喔，10元/年即可畅享所有VIP专属内容！ 概览 这次升级最实用的变化，不是多了一个“最强模型”，而是终于有了三档可选：Sol 攻坚、Terra 干日常活、Luna 跑可验证的批量任务。 Sol 在终端、代理式编码、网页浏览和电脑操作上确有亮点；但代码基准之间的排序并不一致，暂时还不能简单喊“全面领先”。 Terra 的 API 单价只有 Sol 一半，几项代理测试却咬得很紧。对多数开发者，它可能比旗舰更值得先上手。 105 万 token 是能塞进去的容量，不等于每个细节都能稳定找回；单次输入跨过 27.2 万 token，还会踩到价格台阶。 首发三日的结论很朴素：别急着全切 Sol Ultra。按任务难度 […]
-Bensz]]></summary>
-        <author>
-            <name>Bensz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[搬家]]></title>
-        <id>https://www.skyue.com/26071218.html</id>
-        <link href="https://www.skyue.com/26071218.html"/>
-        <updated>2026-07-12T10:36:00.000Z</updated>
-        <summary type="html"><![CDATA[在《装修日记（4）》中预告过7月搬家，本周五正式搬入未名府新家，周末收拾了两天。从上周末开始，就在紫樾府陆陆续续打包行李，在这里住了一年，东西还真不少。找蓝犀牛搬家，约了最大的厢货。]]></summary>
-        <author>
-            <name>拾月</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is OpenClaw? The Open Source AI Agent Framework Explained]]></title>
-        <id>https://collabnix.com/what-is-openclaw-the-open-source-ai-agent-framework-explained/</id>
-        <link href="https://collabnix.com/what-is-openclaw-the-open-source-ai-agent-framework-explained/"/>
-        <updated>2026-07-12T04:06:40.000Z</updated>
-        <summary type="html"><![CDATA[Explore OpenClaw, an open-source AI agent framework, and understand the broader context of AI agent development through comparisons with leading frameworks.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[记一次网络安全通报处理以及后续整改]]></title>
-        <id>https://www.txisfine.cn/archives/1dbed3d0.html</id>
-        <link href="https://www.txisfine.cn/archives/1dbed3d0.html"/>
-        <updated>2026-07-11T22:00:55.000Z</updated>
-        <summary type="html"><![CDATA[缘由 我接到中国电信的通报，说我的网站存在安全问题，需要立即处理。我第一反应是网站可能被攻击或者被植入了异常内容。随后我向运营商索要了更详细的信息。 通过运营商反馈的问题域名。让我有些疑惑。这个域名和网站内容并没有解析、部署在电信的服务器上，而是使用腾讯云的 EdgeOne 和 COS 托管的静态内容。讲道理应该是腾讯云找我处理，但是现在反而是运营商先联系了我。 不过，既然已经发现问题，最重要的还...]]></summary>
-        <author>
-            <name>弹霄博科</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Started with GLM-5.2 on Ollama: A Complete Tutorial]]></title>
-        <id>https://collabnix.com/?p=75234</id>
-        <link href="https://collabnix.com/getting-started-with-glm-5-2-on-ollama-a-complete-tutorial/"/>
-        <updated>2026-07-11T15:28:55.000Z</updated>
-        <summary type="html"><![CDATA[GLM-5.2 has become one of the most searched models on the Ollama library, and for good reason. Built by Z.ai, it’s positioned as their flagship model for what they call “long-horizon tasks”: large, multi-step engineering work that unfolds over hours rather than minutes. In this tutorial, we’ll walk through what makes GLM-5.2 different, and how […]]]></summary>
-        <author>
-            <name>Ajeet Raina</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Connected AI to My Proxmox Cluster Using MCP and It Was Better Than I Expected]]></title>
-        <id>https://www.virtualizationhowto.com/?p=313583</id>
-        <link href="https://www.virtualizationhowto.com/2026/07/i-connected-ai-to-my-proxmox-cluster-using-mcp-and-it-was-better-than-i-expected/"/>
-        <updated>2026-07-11T12:25:24.000Z</updated>
-        <summary type="html"><![CDATA[AI is showing up literally everywhere and massively changing how things are carried out and being done. I am looking at ways that AI can benefit my home lab and…
-The post I Connected AI to My Proxmox Cluster Using MCP and It Was Better Than I Expected appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lovable.dev Deep Dive: An Honest Review of the AI-Powered Development Platform]]></title>
-        <id>https://collabnix.com/lovable-dev-deep-dive-an-honest-review-of-the-ai-powered-development-platform/</id>
-        <link href="https://collabnix.com/lovable-dev-deep-dive-an-honest-review-of-the-ai-powered-development-platform/"/>
-        <updated>2026-07-11T03:51:05.000Z</updated>
-        <summary type="html"><![CDATA[Explore Lovable.dev, an AI-powered platform revolutionizing full-stack web app development. Understand its features, technologies, and how it simplifies the creation process.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Open Source Infrastructure Projects I’m Watching Closely Right Now]]></title>
-        <id>https://www.virtualizationhowto.com/?p=313560</id>
-        <link href="https://www.virtualizationhowto.com/2026/07/7-open-source-infrastructure-projects-im-watching-closely-right-now/"/>
-        <updated>2026-07-10T12:34:43.000Z</updated>
-        <summary type="html"><![CDATA[One of the exciting things that I love about running a home lab is discovering new community projects before they become mainstream. Every so often there are projects that appear…
-The post 7 Open Source Infrastructure Projects I’m Watching Closely Right Now appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RAG vs Fine-Tuning: Decision-Making for Your AI Application]]></title>
-        <id>https://collabnix.com/rag-vs-fine-tuning-decision-making-for-your-ai-application/</id>
-        <link href="https://collabnix.com/rag-vs-fine-tuning-decision-making-for-your-ai-application/"/>
-        <updated>2026-07-10T04:31:32.000Z</updated>
-        <summary type="html"><![CDATA[Explore the choice between fine-tuning and RAG for AI applications, focusing on customer support systems. Learn about their setups, advantages, and best-use scenarios.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全球多币种账户 + 海外实体借记卡，Starryblu开户教程与注意事项]]></title>
-        <id>https://blog.xiaoz.org/?p=23207</id>
-        <link href="https://blog.xiaoz.org/archives/23207"/>
-        <updated>2026-07-10T03:36:43.000Z</updated>
-        <summary type="html"><![CDATA[Starryblu是WoTransfer Pte. Ltd.旗下的一款全球支付App，与熊猫速汇同属一个产品生态——不同的是，熊猫速汇专注国际汇款，而Starryblu更侧重全球账户管理与多币种支付。通过一个账户，用户可以管理多种货币、完成换汇与跨境转账，并支持申请虚拟卡或实体借记卡，满足海外消费、]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The NixOS Tweaks I Wish I’d Started Using Sooner in my Home Lab]]></title>
-        <id>https://www.virtualizationhowto.com/?p=313538</id>
-        <link href="https://www.virtualizationhowto.com/2026/07/the-nixos-tweaks-i-wish-id-started-using-sooner-in-my-home-lab/"/>
-        <updated>2026-07-09T11:52:28.000Z</updated>
-        <summary type="html"><![CDATA[I have been moving heavily into immutable server operating systems especially for hosting my containerized home lab resources. Flatcar has been my OS of choice lately for container hosts. But…
-The post The NixOS Tweaks I Wish I’d Started Using Sooner in my Home Lab appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenClaw Architecture Deep Dive: How It Works Under the Hood]]></title>
-        <id>https://collabnix.com/openclaw-architecture-deep-dive-how-it-works-under-the-hood-2/</id>
-        <link href="https://collabnix.com/openclaw-architecture-deep-dive-how-it-works-under-the-hood-2/"/>
-        <updated>2026-07-09T04:28:47.000Z</updated>
-        <summary type="html"><![CDATA[Explore the architecture of OpenClaw, a new open-source AI agent framework, and its foundational concepts in AI development.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JP动作电影无字幕？Caption-Trans + AI 大模型帮你实现字幕自由]]></title>
-        <id>https://blog.xiaoz.org/?p=23187</id>
-        <link href="https://blog.xiaoz.org/archives/23187"/>
-        <updated>2026-07-09T01:55:39.000Z</updated>
-        <summary type="html"><![CDATA[不知道大家有有没有遇到这样一个问题，就是在看海外动作电影的时候没有字幕，效果大打折扣，不过最近xiaoz发现一款宝藏开源软件Caption-Trans，它可以使用 AI 大模型翻译视频字幕，特别为日语优化（作者介绍），至于具体场景，你就自己想象吧。两年前市面上已有类似工具，不过多数需要付费订阅。Ca]]></summary>
-        <author>
-            <name>xiaoz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker Is Not Just a Container Company Anymore]]></title>
-        <id>https://collabnix.com/?p=75462</id>
-        <link href="https://collabnix.com/docker-is-not-just-a-container-company-anymore/"/>
-        <updated>2026-07-08T17:18:18.000Z</updated>
-        <summary type="html"><![CDATA[The thing being contained changed. So did the container. I’ve been in the Docker community since 2015. I’ve written more docker run tutorials than I can count, and I still get people in the Collabnix Slack asking me which base image to use for their Spring Boot app. That question is still valid. But it […]]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why I Stopped Treating Docker Containers Like Tiny Virtual Machines]]></title>
-        <id>https://www.virtualizationhowto.com/?p=313514</id>
-        <link href="https://www.virtualizationhowto.com/2026/07/why-i-stopped-treating-docker-containers-like-tiny-virtual-machines/"/>
-        <updated>2026-07-08T12:10:57.000Z</updated>
-        <summary type="html"><![CDATA[I think everyone goes through this shift as they transition their home labs from virtual machines over to containers. You tend to approach containers exactly the same way as you…
-The post Why I Stopped Treating Docker Containers Like Tiny Virtual Machines appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How AI Agents Like Claude Code Leverage Model Context Protocol (MCP)]]></title>
-        <id>https://collabnix.com/how-ai-agents-like-claude-code-leverage-model-context-protocol-mcp/</id>
-        <link href="https://collabnix.com/how-ai-agents-like-claude-code-leverage-model-context-protocol-mcp/"/>
-        <updated>2026-07-08T03:53:31.000Z</updated>
-        <summary type="html"><![CDATA[Explore how Model Context Protocol (MCP) empowers AI coding tools like Claude Code to enhance productivity and accuracy by providing context-aware code understanding and edits.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Home Lab Projects That Taught Me the Most]]></title>
-        <id>https://www.virtualizationhowto.com/?p=313482</id>
-        <link href="https://www.virtualizationhowto.com/2026/07/the-home-lab-projects-that-taught-me-the-most/"/>
-        <updated>2026-07-07T12:02:14.000Z</updated>
-        <summary type="html"><![CDATA[There are some home lab projects that teach you a few things, and are great to incorporate. However, there are some projects that looking back on my journey, really taught…
-The post The Home Lab Projects That Taught Me the Most appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhancing AI Agent Security: Implementing Guardrails Against Prompt Injection]]></title>
-        <id>https://collabnix.com/enhancing-ai-agent-security-implementing-guardrails-against-prompt-injection-2/</id>
-        <link href="https://collabnix.com/enhancing-ai-agent-security-implementing-guardrails-against-prompt-injection-2/"/>
-        <updated>2026-07-07T04:31:24.000Z</updated>
-        <summary type="html"><![CDATA[Explore how to enhance AI agent security with guardrails against prompt injection attacks, ensuring robust and secure AI deployments.]]></summary>
-        <author>
-            <name>Collabnix Team</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ampere Skylark 微架构评测]]></title>
         <id>https://jia.je/hardware/2026/07/07/ampere-skylark/</id>
         <link href="https://jia.je/hardware/2026/07/07/ampere-skylark/"/>
@@ -3190,41 +3281,6 @@ The post The Home Lab Projects That Taught Me the Most appeared first on Virtual
  可见 Skylark 的 BTB 对分支紧密放置的情况支持不是很好，在 1024 个分支之内的 CPI 达到了 3.5，这一点在较早的处理器上比较常见，比如 Neoverse N1 的 BTB，不过稍微新一些的处理器，随着设计的改进，类似的情况比较少见了。之后到 8192 个分支，CPI 达到了 5。…]]></summary>
         <author>
             <name>杰哥的{教学，运维，编程，调板子}小笔记</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[居家办公 5 个减少分心的动作]]></title>
-        <id>https://dusays.com/posts/876/</id>
-        <link href="https://dusays.com/posts/876/"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>杜老师居家办公一年多，最大的感受是”分心比想象中容易得多”。今天杜老师就把自己用了一年多、一直稳定在用的 5 个减少分心的动作分享给大家。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[居家办公 5 个减少分心的动作]]></title>
-        <id>https://dusays.com/archives/876/</id>
-        <link href="https://dusays.com/archives/876/"/>
-        <updated>2026-07-06T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<blockquote>
-<p>杜老师居家办公一年多，最大的感受是”分心比想象中容易得多”。今天杜老师就把自己用了一年多、一直稳定在用的 5 个减少分心的动作分享给大家。</p>
-</blockquote>]]></summary>
-        <author>
-            <name>杜老师说</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Tried This New Proxmox Inventory and Auditing Tool and I Was Impressed]]></title>
-        <id>https://www.virtualizationhowto.com/?p=313418</id>
-        <link href="https://www.virtualizationhowto.com/2026/07/i-tried-this-new-proxmox-inventory-and-auditing-tool-and-i-was-impressed/"/>
-        <updated>2026-07-06T12:22:40.000Z</updated>
-        <summary type="html"><![CDATA[I see so many tools listed and presented that are said to solve a problem in the Proxmox realm. I have tried many different tools over the past couple of…
-The post I Tried This New Proxmox Inventory and Auditing Tool and I Was Impressed appeared first on Virtualization Howto.]]></summary>
-        <author>
-            <name>Brandon Lee</name>
         </author>
     </entry>
     <entry>
